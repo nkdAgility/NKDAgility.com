@@ -1,13 +1,31 @@
 ---
-title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
 short_title: The Importance of Competence in Organizations
 description: Explores how fostering competence, continuous learning, and well-being in organisations leads to happier teams, better products, and sustainable growth.
 date: 2024-10-15T06:45:00Z
-weight: 680
 ResourceId: I9avUDYFw-E
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 680
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+- Continuous Improvement
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:30Z
+  short_title: 2025-07-07T17:47:48Z
+title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
+videoId: I9avUDYFw-E
+source: internal
+url: /resources/videos/:slug
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+layout: video
 aliases:
 - /resources/I9avUDYFw-E
 - /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-- Continuous Improvement
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: I9avUDYFw-E
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
 duration: 112
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:57:30Z
-  short_title: 2025-07-07T17:47:48Z
+isShort: false
 
 ---
 [Competence]({{< ref "/tags/competence" >}}) is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of [continuous learning]({{< ref "/tags/continuous-learning" >}}), [experimentation]({{< ref "/tags/experimentation" >}}), and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.

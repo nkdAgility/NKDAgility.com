@@ -1,25 +1,12 @@
 ---
-title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 short_title: Rethinking Continuous Delivery in Complexity
 description: Explores why fixed best practices don't suit complex continuous delivery, highlighting adaptive approaches like audience-based delivery, testing in production, and ongoing improvement.
 date: 2025-01-23T06:30:03Z
-weight: 255
 ResourceId: 5J8RLcOAE3E
-ResourceImport: true
 ResourceType: videos
-slug: rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments
-aliases:
-- /resources/5J8RLcOAE3E
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
-aliasesArchive:
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 255
 concepts: []
 categories:
 - Engineering Excellence
@@ -36,22 +23,34 @@ tags:
 - Product Delivery
 - Customer Focus
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 5J8RLcOAE3E
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
-duration: 891
-isShort: false
-resourceTypes:
-- video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:55Z
   short_title: 2025-07-07T17:46:56Z
+title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
+videoId: 5J8RLcOAE3E
+source: youtube
+url: /resources/videos/:slug
+slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+layout: video
+aliases:
+- /resources/5J8RLcOAE3E
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+aliasesArchive:
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
+preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
+duration: 891
+resourceTypes:
+- video
+isShort: false
 
 ---
 I often find myself in discussions about the best practices for enabling [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.

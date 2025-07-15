@@ -1,25 +1,12 @@
 ---
-title: Is Your Project Ecosystem Truly Agile?
 short_title: Is Your Project Ecosystem Truly Agile?
 description: Explains why true agility requires end-to-end automation and short feedback loops, not just Agile teams, to maximise value and efficiency for stakeholders in project delivery.
 date: 2024-07-31T06:45:01Z
-weight: 305
 ResourceId: cGOa0rg_L-8
-ResourceImport: true
 ResourceType: videos
-slug: is-your-project-ecosystem-truly-agile
-aliases:
-- /resources/cGOa0rg_L-8
-- /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
-- /resources/videos/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
-aliasesArchive:
-- /resources/videos/is-your-project-ecosystem-truly-agile
-- /resources/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
-- is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 305
 concepts:
 - Practice
 categories:
@@ -42,22 +29,35 @@ tags:
 - Agile Planning
 - Continuous Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: cGOa0rg_L-8
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
-duration: 46
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:25Z
   short_title: 2025-07-07T17:48:51Z
+title: Is Your Project Ecosystem Truly Agile?
+videoId: cGOa0rg_L-8
+source: internal
+url: /resources/videos/:slug
+slug: is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+layout: video
+aliases:
+- /resources/cGOa0rg_L-8
+- /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+- /resources/videos/is-your-project-ecosystem-truly-agile
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+aliasesArchive:
+- /resources/videos/is-your-project-ecosystem-truly-agile
+- /resources/is-your-project-ecosystem-truly-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+- is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
+duration: 46
+resourceTypes:
+- video
+isShort: true
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

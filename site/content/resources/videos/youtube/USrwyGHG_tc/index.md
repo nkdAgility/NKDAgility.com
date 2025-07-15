@@ -1,21 +1,12 @@
 ---
-title: Is a Scrum Master an Agile micromanager?
 short_title: Is a Scrum Master an Agile Micromanager?
 description: Explains why a Scrum Master should facilitate and empower agile teams, not micromanage, highlighting the importance of trust, autonomy, and effective team dynamics.
 date: 2023-04-24T07:00:18Z
+ResourceId: USrwyGHG_tc
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 590
-slug: is-a-scrum-master-an-agile-micromanager
-aliases:
-- /resources/USrwyGHG_tc
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-aliasesArchive:
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-- /resources/is-a-scrum-master-an-agile-micromanager-2
-- /resources/is-a-scrum-master-an-agile-micro-manager
-- /resources/videos/is-a-scrum-master-an-agile-micro-manager-
-- /resources/is-a-scrum-master-an-agile-micro-manager-
-- /resources/videos/is-a-scrum-master-an-agile-micro-manager
-- is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
 concepts: []
 categories:
 - Technical Leadership
@@ -36,26 +27,37 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Team Motivation
-ResourceId: USrwyGHG_tc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: USrwyGHG_tc
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
-duration: 45
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:13:05Z
   short_title: 2025-07-07T17:55:47Z
+title: Is a Scrum Master an Agile micromanager?
+videoId: USrwyGHG_tc
+source: internal
+url: /resources/videos/:slug
+slug: is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
+layout: video
+aliases:
+- /resources/USrwyGHG_tc
+- /resources/videos/is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/videos/is-a-scrum-master-an-agile-micro-manager
+aliasesArchive:
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/is-a-scrum-master-an-agile-micromanager-2
+- /resources/is-a-scrum-master-an-agile-micro-manager
+- /resources/videos/is-a-scrum-master-an-agile-micro-manager-
+- /resources/is-a-scrum-master-an-agile-micro-manager-
+- /resources/videos/is-a-scrum-master-an-agile-micro-manager
+- is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
+preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
+duration: 45
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

@@ -1,13 +1,31 @@
 ---
-title: 'Unlocking Team Potential: How Measurement Influences Engagement and Collaboration'
 short_title: How Measurement Shapes Team Engagement
 description: Explores how performance metrics shape team engagement and collaboration, highlighting the impact of measurement on behaviour, motivation, and organisational culture.
 date: 2024-09-11T13:45:58Z
-weight: 1000
 ResourceId: hu80qqzaDx0
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Motivation
+- Team Performance
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:58:32Z
+  short_title: 2025-07-07T17:48:15Z
+title: 'Unlocking Team Potential: How Measurement Influences Engagement and Collaboration'
+videoId: hu80qqzaDx0
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
+layout: video
 aliases:
 - /resources/hu80qqzaDx0
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 - /resources/introduction-to-evidence-based-management-excerpt-1
 - unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Motivation
-- Team Performance
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: hu80qqzaDx0
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:58:32Z
-  short_title: 2025-07-07T17:48:15Z
+isShort: true
 
 ---
 In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and [organisational culture]({{< ref "/tags/organisational-culture" >}}). 

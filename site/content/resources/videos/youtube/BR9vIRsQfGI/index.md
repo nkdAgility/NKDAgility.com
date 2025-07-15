@@ -1,13 +1,29 @@
 ---
-title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
 short_title: Negotiation Skills for Product Owners
 description: Learn key negotiation skills for product owners, including empathy, active listening, and strategic questioning, inspired by *Never Split the Difference* by Chris Voss.
 date: 2023-12-13T11:00:08Z
-weight: 1000
 ResourceId: BR9vIRsQfGI
-ResourceImport: true
 ResourceType: videos
-slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:59Z
+  short_title: 2025-07-07T17:50:48Z
+title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
+videoId: BR9vIRsQfGI
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
+layout: video
 aliases:
 - /resources/BR9vIRsQfGI
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
@@ -20,27 +36,11 @@ aliasesArchive:
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 - mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BR9vIRsQfGI
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:59Z
-  short_title: 2025-07-07T17:50:48Z
+isShort: true
 
 ---
 Negotiation is a skill that often gets overlooked in the realm of product ownership, yet it is absolutely crucial. As I reflect on my journey, I can’t stress enough how vital it is to master this art, whether you’re negotiating with stakeholders, team members, or even your children about bedtime. 

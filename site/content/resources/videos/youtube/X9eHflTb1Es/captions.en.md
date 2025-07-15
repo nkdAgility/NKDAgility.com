@@ -1,0 +1,15 @@
+One of the big stories around Azure DevOps is around governance, security, compliance, and scalability. And it's one of those things that actually for me is one of the massive value propositions of Azure DevOps that a lot of those things you just get out of the box, right? And that's a really powerful story.
+
+So it's a little bit anecdotal but I teach the applying professional scrum for software developers, and it's a program, a training class where we actually set up and use DevOps tooling within the context of the class and the people participating in the class actually work on a product that's very dissolial, right? And they have to make changes and they have to do stuff and ship product within a short space of time, think 45 minutes, they have to make changes and ship product.
+
+And there's two flavors of that class. There's the net flavor of the class which effectively uses Azure DevOps as the back end and then there's the open source flavor which you can use whatever tools you want but the preset up tooling, it takes the trainer hours and hours to set up and validate the environments that they need in order to facilitate the open source class because all of the tools don't actually talk to each other, right? They aren't actually integrated.
+
+And while in lots of contexts, open source is a great solution to your problem, sometimes it's the worst solution to your problem. Azure DevOps is totally integrated, all the way from your automated builds, updating your work items so you know which work items are in which build output. These kind of things are invaluable when it comes to traceability.
+
+Inside of Azure DevOps, you can turn on it. It has logging out of the box, but you could turn on additional audit logging and it will tell you exactly who's done what action within the context of Azure DevOps. So somebody's changing your process, adding fields, removing fields, you'll be able to see who did all of that. So that governance, security, compliance and scalability.
+
+Again, the Windows team used this with 15,000 people in one project in Azure DevOps. The Azure DevOps team themselves are, I think they were 900 people at one point and the developer division at Microsoft is about 5,000 people. So these tools have been designed to work at scale.
+
+While the most git repos in the world are in GitHub, the largest git repos in the world are in Azure DevOps, as it's the only thing that really supports that type of scale and because it integrates fully with Entra ID because it was designed that way, that security, compliance and scalability is just there out of the box, right? So you can use all of the things you would expect to be able to use within that context.
+
+So if you need scalability, security and compliance built in, let me help you build that in with Azure DevOps and apply governance within the context of your DevOps strategy.

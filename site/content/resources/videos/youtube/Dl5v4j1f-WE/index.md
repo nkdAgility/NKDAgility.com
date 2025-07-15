@@ -1,13 +1,30 @@
 ---
-title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
 short_title: 'Professional Scrum Trainer: Values & Legacy'
 description: 'Shares the top three values guiding a Professional Scrum Trainer: integrity, honesty, and approachability, with a focus on transparency, truth, and helpful support.'
 date: 2023-04-19T07:00:06Z
-weight: 1000
 ResourceId: Dl5v4j1f-WE
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Scrum
+tags:
+- Personal
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:11Z
+  short_title: 2025-07-07T17:55:52Z
+title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
+videoId: Dl5v4j1f-WE
+source: internal
+url: /resources/videos/:slug
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+layout: video
 aliases:
 - /resources/Dl5v4j1f-WE
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
@@ -21,28 +38,11 @@ aliasesArchive:
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-concepts: []
-categories:
-- Scrum
-tags:
-- Personal
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Dl5v4j1f-WE
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:11Z
-  short_title: 2025-07-07T17:55:52Z
+isShort: false
 
 ---
 ## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?

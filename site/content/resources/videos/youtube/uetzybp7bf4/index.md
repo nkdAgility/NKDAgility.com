@@ -1,13 +1,32 @@
 ---
-title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 short_title: Empowering Teams with Financial Insights
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
 date: 2024-12-12T06:30:00Z
-weight: 505
 ResourceId: uetzybp7bf4
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 505
+concepts: []
+categories:
+- Product Management
+- Leadership
+- Product Development
+tags:
+- Value Delivery
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:45Z
+  short_title: 2025-07-07T17:47:11Z
+title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
+videoId: uetzybp7bf4
+source: youtube
+url: /resources/videos/:slug
 slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+layout: video
 aliases:
 - /resources/uetzybp7bf4
 - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
@@ -17,30 +36,11 @@ aliasesArchive:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
 - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-concepts: []
-categories:
-- Product Management
-- Leadership
-- Product Development
-tags:
-- Value Delivery
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: uetzybp7bf4
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:56:45Z
-  short_title: 2025-07-07T17:47:11Z
+isShort: false
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

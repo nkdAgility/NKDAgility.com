@@ -1,13 +1,34 @@
 ---
-title: 'The Power of Community: Becoming an Awesome Agile Coach'
 short_title: The Power of Community for Agile Coaches
 description: Explores how Agile coaches grow by engaging with diverse communities, embracing feedback, and challenging assumptions to deliver greater value to teams and customers.
 date: 2023-11-16T11:00:37Z
-weight: 665
 ResourceId: hij5_aP_YN4
-ResourceImport: true
 ResourceType: videos
-slug: the-power-of-community-becoming-an-awesome-agile-coach
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Mentoring
+- Coaching
+- Agile Philosophy
+- Competence
+- Social Technologies
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:48Z
+  short_title: 2025-07-07T17:51:42Z
+title: 'The Power of Community: Becoming an Awesome Agile Coach'
+videoId: hij5_aP_YN4
+source: internal
+url: /resources/videos/:slug
+slug: the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
+layout: video
 aliases:
 - /resources/hij5_aP_YN4
 - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
@@ -19,32 +40,11 @@ aliasesArchive:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Mentoring
-- Coaching
-- Agile Philosophy
-- Competence
-- Social Technologies
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: hij5_aP_YN4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:48Z
-  short_title: 2025-07-07T17:51:42Z
+isShort: true
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your [coaching]({{< ref "/tags/coaching" >}}) game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

@@ -1,23 +1,12 @@
 ---
-title: How to Achieve Predictability in Business through Agile Principles
 short_title: Achieving Business Predictability with Agile
 description: Learn how Agile principles help businesses improve predictability by addressing challenges, optimising systems, aligning goals, and adapting to change for consistent results.
 date: 2024-10-08T10:33:32Z
-weight: 590
 ResourceId: G1BQG2tsbYg
-ResourceImport: true
 ResourceType: videos
-slug: how-to-achieve-predictability-in-business-through-agile-principles
-aliases:
-- /resources/G1BQG2tsbYg
-- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-aliasesArchive:
-- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-- /resources/outcome-increased-business-predictability
-- how-to-achieve-predictability-in-business-through-agile-principles
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 590
 concepts:
 - Principle
 categories:
@@ -37,22 +26,33 @@ tags:
 - Agile Philosophy
 - Enterprise Agility
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: G1BQG2tsbYg
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
-duration: 1259
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:36Z
   short_title: 2025-07-07T17:47:52Z
+title: How to Achieve Predictability in Business through Agile Principles
+videoId: G1BQG2tsbYg
+source: internal
+url: /resources/videos/:slug
+slug: how-to-achieve-predictability-in-business-through-agile-principles
+layout: video
+aliases:
+- /resources/G1BQG2tsbYg
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
+aliasesArchive:
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
+- /resources/outcome-increased-business-predictability
+- how-to-achieve-predictability-in-business-through-agile-principles
+preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
+duration: 1259
+resourceTypes:
+- video
+isShort: false
 
 ---
 **Predictability** is a key factor for businesses striving to meet their goals consistently. It helps reduce uncertainty, allowing organizations to focus on achieving desired outcomes. However, achieving predictability is not easy. This blog post explores the challenges to predictability in business, the role of agile, and practical steps you can take to enhance predictability in your organization.

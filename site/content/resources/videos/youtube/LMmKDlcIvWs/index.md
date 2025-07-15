@@ -1,22 +1,12 @@
 ---
-title: What is Kanban?
 short_title: What is Kanban?
 description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
 date: 2024-02-12T07:00:11Z
-weight: 1000
 ResourceId: LMmKDlcIvWs
-ResourceImport: true
 ResourceType: videos
-slug: what-is-kanban
-aliases:
-- /resources/LMmKDlcIvWs
-- /resources/videos/what-is-kanban
-aliasesArchive:
-- /resources/videos/what-is-kanban
-- /resources/what-is-kanban
-- /resources/videos/what-is-kanban-
-- /resources/what-is-kanban-
-- what-is-kanban
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Framework
 categories:
@@ -26,22 +16,32 @@ tags:
 - Operational Practices
 - Lean Principles
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: LMmKDlcIvWs
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
-duration: 553
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:53Z
   short_title: 2025-07-07T17:49:50Z
+title: What is Kanban?
+videoId: LMmKDlcIvWs
+source: internal
+url: /resources/videos/:slug
+slug: what-is-kanban
+layout: video
+aliases:
+- /resources/LMmKDlcIvWs
+- /resources/videos/what-is-kanban
+aliasesArchive:
+- /resources/videos/what-is-kanban
+- /resources/what-is-kanban
+- /resources/videos/what-is-kanban-
+- /resources/what-is-kanban-
+- what-is-kanban
+preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
+duration: 553
+resourceTypes:
+- video
+isShort: false
 
 ---
 ### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

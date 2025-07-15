@@ -1,13 +1,29 @@
 ---
-title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
 short_title: From Control to Empowerment in Agile Leadership
 description: Explores the shift from traditional management to agile leadership, highlighting empowerment, adaptability, and collaboration as key to navigating complex modern challenges.
 date: 2023-08-09T13:43:27Z
-weight: 790
 ResourceId: Jkw4sMe6h-w
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:20Z
+  short_title: 2025-07-07T17:53:39Z
+title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
+videoId: Jkw4sMe6h-w
+source: youtube
+url: /resources/videos/:slug
 slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+layout: video
 aliases:
 - /resources/Jkw4sMe6h-w
 - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
@@ -19,27 +35,11 @@ aliasesArchive:
 - how-is-agile-leadership-different-to-traditional-management
 - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 - from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Jkw4sMe6h-w
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:20Z
-  short_title: 2025-07-07T17:53:39Z
+isShort: false
 
 ---
 When I reflect on the evolution of management styles, I often find myself drawn to the stark contrast between traditional management and agile [leadership]({{< ref "/categories/leadership" >}}). This distinction is not merely academic; it’s deeply rooted in the context in which we operate. Context is king, and understanding it is crucial for navigating the complexities of today’s challenges.

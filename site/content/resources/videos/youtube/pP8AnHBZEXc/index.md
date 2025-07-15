@@ -1,21 +1,12 @@
 ---
-title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
 short_title: Professional Scrum Foundations & PSM I Guide
 description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
 date: 2020-05-28T05:34:33Z
-weight: 1000
 ResourceId: pP8AnHBZEXc
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-aliases:
-- /resources/pP8AnHBZEXc
-aliasesArchive:
-- /resources/videos/th-may-office-hours-ask-me-anything
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
-- /resources/27th-may-2020-office-hours-ask-me-anything
-- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-- unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Scrum
@@ -23,22 +14,33 @@ categories:
 tags:
 - Software Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: pP8AnHBZEXc
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
-duration: 1906
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:15:42Z
   short_title: 2025-07-07T17:58:05Z
+title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
+videoId: pP8AnHBZEXc
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+layout: video
+aliases:
+- /resources/pP8AnHBZEXc
+- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+- /resources/videos/27th-may-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/th-may-office-hours-ask-me-anything
+- /resources/videos/27th-may-2020-office-hours-ask-me-anything
+- /resources/27th-may-2020-office-hours-ask-me-anything
+- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+- unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
+duration: 1906
+resourceTypes:
+- video
+isShort: false
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 

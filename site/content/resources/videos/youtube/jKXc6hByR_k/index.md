@@ -1,13 +1,29 @@
 ---
-title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 short_title: Maximising ROI in Software Development
 description: Learn how quality, technical expertise, and regular reviews in software development can maximise ROI and ensure your organisation delivers lasting business value.
 date: 2024-12-13T06:30:00Z
-weight: 325
 ResourceId: jKXc6hByR_k
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 325
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:43Z
+  short_title: 2025-07-07T17:47:10Z
+title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
+videoId: jKXc6hByR_k
+source: youtube
+url: /resources/videos/:slug
 slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+layout: video
 aliases:
 - /resources/jKXc6hByR_k
 - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
@@ -18,27 +34,11 @@ aliasesArchive:
 - /resources/your-partner-in-on-time,-on-budget-delivery
 - /resources/videos/your-partner-in-on-time-on-budget-delivery
 - maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: jKXc6hByR_k
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:56:43Z
-  short_title: 2025-07-07T17:47:10Z
+isShort: false
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.

@@ -1,13 +1,30 @@
 ---
-title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
 short_title: Lessons in Agile Consulting Readiness
 description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
 date: 2023-04-04T07:00:16Z
-weight: 1000
 ResourceId: sKYVNHcf1jg
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Personal
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:23Z
+  short_title: 2025-07-07T17:56:05Z
+title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
+videoId: sKYVNHcf1jg
+source: youtube
+url: /resources/videos/:slug
 slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+layout: video
 aliases:
 - /resources/sKYVNHcf1jg
 - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
@@ -19,28 +36,11 @@ aliasesArchive:
 - what-was-your-worst-day-as-an-agile-consultant
 - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 - navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Personal
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: sKYVNHcf1jg
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:23Z
-  short_title: 2025-07-07T17:56:05Z
+isShort: false
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

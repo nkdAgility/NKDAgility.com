@@ -1,22 +1,12 @@
 ---
-title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
 short_title: Harnessing Evidence-Based Management
 description: Learn how evidence-based management uses data and purposeful metrics to inform decisions, shape behaviours, and drive continuous improvement in organisations.
 date: 2024-08-14T07:12:45Z
-weight: 1000
 ResourceId: Nf6XCdhSUMw
-ResourceImport: true
 ResourceType: videos
-slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-aliases:
-- /resources/Nf6XCdhSUMw
-- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/introduction-to-evidence-based-management
-aliasesArchive:
-- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
-- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Management
@@ -29,22 +19,32 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Nf6XCdhSUMw
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
-duration: 414
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:09Z
   short_title: 2025-07-07T17:48:34Z
+title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
+videoId: Nf6XCdhSUMw
+source: youtube
+url: /resources/videos/:slug
+slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+layout: video
+aliases:
+- /resources/Nf6XCdhSUMw
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+aliasesArchive:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+- /resources/introduction-to-evidence-based-management
+- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
+duration: 414
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.

@@ -1,24 +1,12 @@
 ---
-title: 'Stop Starting and Start Finishing: The Key to Team Success'
 short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
 date: 2024-01-31T14:26:11Z
-weight: 440
 ResourceId: 8aIUldVDtGw
-ResourceImport: true
 ResourceType: videos
-slug: stop-starting-and-start-finishing-the-key-to-team-success
-aliases:
-- /resources/8aIUldVDtGw
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing
-aliasesArchive:
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing!
-- /resources/stop-starting-and-start-finishing!
-- /resources/videos/stop-starting-and-start-finishing
-- stop-starting-and-start-finishing-the-key-to-team-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 440
 concepts:
 - Principle
 categories:
@@ -39,22 +27,34 @@ tags:
 - Software Development
 - Product Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 8aIUldVDtGw
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
-duration: 496
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z
+title: 'Stop Starting and Start Finishing: The Key to Team Success'
+videoId: 8aIUldVDtGw
+source: internal
+url: /resources/videos/:slug
+slug: stop-starting-and-start-finishing-the-key-to-team-success
+layout: video
+aliases:
+- /resources/8aIUldVDtGw
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing
+aliasesArchive:
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing!
+- /resources/stop-starting-and-start-finishing!
+- /resources/videos/stop-starting-and-start-finishing
+- stop-starting-and-start-finishing-the-key-to-team-success
+preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
+duration: 496
+resourceTypes:
+- video
+isShort: false
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

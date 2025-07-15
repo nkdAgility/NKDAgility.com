@@ -1,13 +1,30 @@
 ---
-title: 'Cultivating a Culture of Engineering Excellence: The Essential Role of Technical Leadership'
 short_title: Engineering Excellence Through Technical Leadership
 description: Explores how technical leadership shapes a culture of engineering excellence through clear standards, continuous learning, collaboration, and ongoing improvement in organisations.
 date: 2024-11-26T17:53:11Z
-weight: 205
 ResourceId: CXOrndz5lN4
-ResourceImport: true
 ResourceType: videos
-slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 205
+concepts: []
+categories:
+- Technical Leadership
+tags:
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:03Z
+  short_title: 2025-07-07T17:47:24Z
+title: 'Cultivating a Culture of Engineering Excellence: The Essential Role of Technical Leadership'
+videoId: CXOrndz5lN4
+source: youtube
+url: /resources/videos/:slug
+slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
+layout: video
 aliases:
 - /resources/CXOrndz5lN4
 - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
@@ -18,28 +35,11 @@ aliasesArchive:
 - /resources/videos/building-a-culture-of-engineering-excellence
 - /resources/building-a-culture-of-engineering-excellence
 - cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
-concepts: []
-categories:
-- Technical Leadership
-tags:
-- Competence
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: CXOrndz5lN4
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:57:03Z
-  short_title: 2025-07-07T17:47:24Z
+isShort: true
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one truth has become abundantly clear: we must cultivate a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}). This isn’t just a lofty ideal; it’s a necessity for any organisation that aspires to thrive in today’s fast-paced technological landscape. 

@@ -1,13 +1,31 @@
 ---
-title: How does a Scrum team estimate what can be delivered in a Sprint?
 short_title: How Scrum Teams Estimate Sprint Deliverables
 description: Scrum teams estimate Sprint deliverables by assessing the size and complexity of backlog items, focusing on shared understanding rather than predicting exact timeframes.
 date: 2023-06-01T07:00:31Z
-weight: 790
 ResourceId: pyk0CfSobzM
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:58Z
+  short_title: 2025-07-07T17:54:55Z
+title: How does a Scrum team estimate what can be delivered in a Sprint?
+videoId: pyk0CfSobzM
+source: internal
+url: /resources/videos/:slug
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+layout: video
 aliases:
 - /resources/pyk0CfSobzM
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
@@ -17,29 +35,11 @@ aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: pyk0CfSobzM
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:58Z
-  short_title: 2025-07-07T17:54:55Z
+isShort: false
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in [Scrum]({{< ref "/categories/scrum" >}}) Teams

@@ -1,0 +1,857 @@
+1
+00:00:00,320 --> 00:00:08,639
+building a road map to get you from your
+
+2
+00:00:05,520 --> 00:00:12,400
+legacy engineering practices or legacy
+
+3
+00:00:08,639 --> 00:00:15,280
+products to modern well-built
+
+4
+00:00:12,400 --> 00:00:18,800
+products, modern engineering practices
+
+5
+00:00:15,280 --> 00:00:20,800
+is is a it's I guess it's a little bit
+
+6
+00:00:18,800 --> 00:00:22,960
+of
+
+7
+00:00:20,800 --> 00:00:25,920
+it's going to be a very high level road
+
+8
+00:00:22,960 --> 00:00:30,160
+map.
+
+9
+00:00:25,920 --> 00:00:32,640
+It's difficult to put structure
+
+10
+00:00:30,160 --> 00:00:36,719
+around the idea
+
+11
+00:00:32,640 --> 00:00:38,800
+of building
+
+12
+00:00:36,719 --> 00:00:41,440
+a a culture of engineering excellence.
+
+13
+00:00:38,800 --> 00:00:46,000
+Changing changing culture, changing
+
+14
+00:00:41,440 --> 00:00:50,160
+systems is more of an art than a
+
+15
+00:00:46,000 --> 00:00:51,680
+science. You bring science to the story,
+
+16
+00:00:50,160 --> 00:00:56,480
+right? Because you're you're going to
+
+17
+00:00:51,680 --> 00:01:00,239
+have data and telemetry. You're going to
+
+18
+00:00:56,480 --> 00:01:02,559
+bring things like things like OKRs,
+
+19
+00:01:00,239 --> 00:01:04,159
+right, which have here's what we're
+
+20
+00:01:02,559 --> 00:01:06,479
+trying to achieve, the objective, but
+
+21
+00:01:04,159 --> 00:01:11,040
+also here's the key results. Here are
+
+22
+00:01:06,479 --> 00:01:12,880
+the things that you're um that you're
+
+23
+00:01:11,040 --> 00:01:16,320
+going to
+
+24
+00:01:12,880 --> 00:01:18,720
+meet, right? Measure and meet to be able
+
+25
+00:01:16,320 --> 00:01:21,119
+to say whether you've been successful in
+
+26
+00:01:18,720 --> 00:01:23,600
+that thing. And we want to be bringing
+
+27
+00:01:21,119 --> 00:01:26,479
+that hypothesis
+
+28
+00:01:23,600 --> 00:01:28,560
+driven story to all of the things that
+
+29
+00:01:26,479 --> 00:01:30,880
+we do within the context of our of our
+
+30
+00:01:28,560 --> 00:01:33,439
+of our road map. So it's ultimately a a
+
+31
+00:01:30,880 --> 00:01:36,720
+transition from legacy to modern is a
+
+32
+00:01:33,439 --> 00:01:38,240
+road map of of hypo hypothesis. I think
+
+33
+00:01:36,720 --> 00:01:39,759
+that's the plural of hypothesis
+
+34
+00:01:38,240 --> 00:01:42,320
+hypothesis.
+
+35
+00:01:39,759 --> 00:01:45,040
+Um we we've we've done it before with
+
+36
+00:01:42,320 --> 00:01:47,680
+organizations. Um I'm working with an
+
+37
+00:01:45,040 --> 00:01:49,680
+organization just now to to to start
+
+38
+00:01:47,680 --> 00:01:52,079
+moving them. their own team foundation
+
+39
+00:01:49,680 --> 00:01:55,119
+version control TFVC
+
+40
+00:01:52,079 --> 00:01:57,200
+um moving them to git um modernizing
+
+41
+00:01:55,119 --> 00:01:58,799
+their tooling building out the DevOps
+
+42
+00:01:57,200 --> 00:02:00,799
+pipelines
+
+43
+00:01:58,799 --> 00:02:02,640
+and it's not something that you can just
+
+44
+00:02:00,799 --> 00:02:03,840
+plan up front and say it's going to work
+
+45
+00:02:02,640 --> 00:02:05,680
+because you don't know what you're going
+
+46
+00:02:03,840 --> 00:02:07,759
+to run into along the way there's too
+
+47
+00:02:05,680 --> 00:02:10,560
+many unknowns
+
+48
+00:02:07,759 --> 00:02:15,840
+um and it's unknown unknowns is is is
+
+49
+00:02:10,560 --> 00:02:18,080
+very very big so we want to
+
+50
+00:02:15,840 --> 00:02:20,879
+take one thing at a
+
+51
+00:02:18,080 --> 00:02:23,440
+And what I tend to recommend, it seems
+
+52
+00:02:20,879 --> 00:02:27,440
+like a little bit of an oxymoron, but um
+
+53
+00:02:23,440 --> 00:02:30,160
+take your biggest, riskiest, nastiest,
+
+54
+00:02:27,440 --> 00:02:32,720
+most difficult product, and that's your
+
+55
+00:02:30,160 --> 00:02:36,160
+pilot, right? You want you want to move
+
+56
+00:02:32,720 --> 00:02:37,360
+them from um TFVC into Git. You're going
+
+57
+00:02:36,160 --> 00:02:39,360
+to have to fix a bunch of stuff to do
+
+58
+00:02:37,360 --> 00:02:41,440
+that. You want to build out your your
+
+59
+00:02:39,360 --> 00:02:44,959
+automating pipelines. You're probably
+
+60
+00:02:41,440 --> 00:02:46,720
+going to have to um move things around.
+
+61
+00:02:44,959 --> 00:02:48,319
+let's call it move things around in
+
+62
+00:02:46,720 --> 00:02:51,040
+order to get your automation pipelines
+
+63
+00:02:48,319 --> 00:02:52,879
+working. And then um you're probably
+
+64
+00:02:51,040 --> 00:02:55,680
+going to want to look at bringing in
+
+65
+00:02:52,879 --> 00:02:58,080
+like what other stuff are outside of our
+
+66
+00:02:55,680 --> 00:03:00,480
+scope of our our scope of automation our
+
+67
+00:02:58,080 --> 00:03:03,680
+our current view of our automated
+
+68
+00:03:00,480 --> 00:03:06,080
+pipelines that we need to get to
+
+69
+00:03:03,680 --> 00:03:10,560
+production. Right? That that's that's
+
+70
+00:03:06,080 --> 00:03:13,840
+the story. One of one of the key
+
+71
+00:03:10,560 --> 00:03:16,159
+things that I always run with with a
+
+72
+00:03:13,840 --> 00:03:20,080
+with a customer
+
+73
+00:03:16,159 --> 00:03:23,440
+is I I get everybody together who is
+
+74
+00:03:20,080 --> 00:03:25,120
+involved in impro approving
+
+75
+00:03:23,440 --> 00:03:27,200
+that your product gets deployed to
+
+76
+00:03:25,120 --> 00:03:29,200
+production, right? Who are all the
+
+77
+00:03:27,200 --> 00:03:31,680
+people that need to be involved in that
+
+78
+00:03:29,200 --> 00:03:34,159
+story from from product developers all
+
+79
+00:03:31,680 --> 00:03:36,400
+the way up to somebody in management who
+
+80
+00:03:34,159 --> 00:03:38,080
+ticks an approval box or approves
+
+81
+00:03:36,400 --> 00:03:42,879
+something or whatever, right? All of
+
+82
+00:03:38,080 --> 00:03:45,920
+those people and ask them to write down
+
+83
+00:03:42,879 --> 00:03:48,560
+everything that needs to be true
+
+84
+00:03:45,920 --> 00:03:50,159
+in order for them
+
+85
+00:03:48,560 --> 00:03:52,319
+to be happy to ship that thing to
+
+86
+00:03:50,159 --> 00:03:55,680
+production, right? Everything that needs
+
+87
+00:03:52,319 --> 00:03:57,120
+to be true. So that could be a
+
+88
+00:03:55,680 --> 00:03:58,560
+particular measure. It could be some
+
+89
+00:03:57,120 --> 00:04:02,080
+piece of data. It could be something
+
+90
+00:03:58,560 --> 00:04:04,239
+they look for. Um it could be something
+
+91
+00:04:02,080 --> 00:04:07,360
+that has to be done. We just need to yes
+
+92
+00:04:04,239 --> 00:04:10,000
+this is done. True. Take right. We get
+
+93
+00:04:07,360 --> 00:04:13,040
+all of those things together. Those are
+
+94
+00:04:10,000 --> 00:04:17,519
+all the things that need to be in your
+
+95
+00:04:13,040 --> 00:04:21,040
+development process. And ultimately as
+
+96
+00:04:17,519 --> 00:04:24,960
+many of those things as humanly and
+
+97
+00:04:21,040 --> 00:04:27,040
+inhumanly possible need to be automated.
+
+98
+00:04:24,960 --> 00:04:30,080
+You want to automate everything. You you
+
+99
+00:04:27,040 --> 00:04:33,840
+shouldn't have you should not
+
+100
+00:04:30,080 --> 00:04:37,040
+you should not have any manual tasks
+
+101
+00:04:33,840 --> 00:04:38,800
+between developer committing a line of
+
+102
+00:04:37,040 --> 00:04:41,199
+code to your repository and it getting
+
+103
+00:04:38,800 --> 00:04:43,120
+into production.
+
+104
+00:04:41,199 --> 00:04:44,560
+And that's manual tasks i.e. people
+
+105
+00:04:43,120 --> 00:04:47,919
+following scripts or doing all those
+
+106
+00:04:44,560 --> 00:04:51,919
+things. It should be
+
+107
+00:04:47,919 --> 00:04:54,560
+topic automated build validated test
+
+108
+00:04:51,919 --> 00:04:56,720
+approvable request as automatedly as
+
+109
+00:04:54,560 --> 00:04:59,759
+possible as short as possible provable
+
+110
+00:04:56,720 --> 00:05:02,560
+request trunkbased development then kick
+
+111
+00:04:59,759 --> 00:05:05,759
+off your automation to deploy to some
+
+112
+00:05:02,560 --> 00:05:09,039
+subset of real users right I'm usually
+
+113
+00:05:05,759 --> 00:05:11,600
+pretty clear on when we're deploying to
+
+114
+00:05:09,039 --> 00:05:13,360
+production a new version of our products
+
+115
+00:05:11,600 --> 00:05:15,520
+production we're probably not talking
+
+116
+00:05:13,360 --> 00:05:18,800
+about deploying those new things to
+
+117
+00:05:15,520 --> 00:05:22,000
+everybody at once. You don't want to do
+
+118
+00:05:18,800 --> 00:05:26,160
+what Cloud Strike did, Crowdstrike did,
+
+119
+00:05:22,000 --> 00:05:29,440
+and take out half the world's internet,
+
+120
+00:05:26,160 --> 00:05:33,520
+right? That's not a good place to be.
+
+121
+00:05:29,440 --> 00:05:38,240
+You want to do like uh uh uh uh Windows
+
+122
+00:05:33,520 --> 00:05:41,759
+or Teams or Azure DevOps or um Google do
+
+123
+00:05:38,240 --> 00:05:44,720
+and you do a a a phased audience-based
+
+124
+00:05:41,759 --> 00:05:47,280
+roll out. I usually call it ring based
+
+125
+00:05:44,720 --> 00:05:50,880
+development but audience-based uh roll
+
+126
+00:05:47,280 --> 00:05:53,600
+out. So you have a that that part of
+
+127
+00:05:50,880 --> 00:05:58,800
+your transition road map
+
+128
+00:05:53,600 --> 00:06:02,400
+from legacy to modern is figuring out
+
+129
+00:05:58,800 --> 00:06:04,880
+what what does our
+
+130
+00:06:02,400 --> 00:06:07,280
+new in our new model what does our
+
+131
+00:06:04,880 --> 00:06:09,840
+branching structure look like? What does
+
+132
+00:06:07,280 --> 00:06:11,919
+our automated deployments look like?
+
+133
+00:06:09,840 --> 00:06:14,319
+Where do they go? Who sees them? who
+
+134
+00:06:11,919 --> 00:06:18,160
+interacts with them? How do we get as
+
+135
+00:06:14,319 --> 00:06:20,880
+quickly as possible to some subset of
+
+136
+00:06:18,160 --> 00:06:23,120
+real users? Not everyone, some subset of
+
+137
+00:06:20,880 --> 00:06:25,440
+real users. Uh a good example, although
+
+138
+00:06:23,120 --> 00:06:28,240
+it's still a really big sample set, is
+
+139
+00:06:25,440 --> 00:06:30,800
+when Microsoft ship Windows. Uh they
+
+140
+00:06:28,240 --> 00:06:33,600
+ship Windows daily to everybody inside
+
+141
+00:06:30,800 --> 00:06:36,400
+of Microsoft that takes the internal
+
+142
+00:06:33,600 --> 00:06:38,639
+build, which is not everybody. That's
+
+143
+00:06:36,400 --> 00:06:42,080
+going to be thousands of people, right?
+
+144
+00:06:38,639 --> 00:06:44,479
+Um, and then weekly they ship to a bunch
+
+145
+00:06:42,080 --> 00:06:48,400
+of people in the insiders group, which
+
+146
+00:06:44,479 --> 00:06:51,600
+is up to 17 million people
+
+147
+00:06:48,400 --> 00:06:54,880
+before they roll out to 900 million
+
+148
+00:06:51,600 --> 00:06:56,720
+people, right? Everybody using Windows,
+
+149
+00:06:54,880 --> 00:06:58,560
+900 million machines. They roll out to
+
+150
+00:06:56,720 --> 00:07:00,160
+17 million machines, not 900 million
+
+151
+00:06:58,560 --> 00:07:04,800
+machines.
+
+152
+00:07:00,160 --> 00:07:07,520
+And that phased roll out allows you to
+
+153
+00:07:04,800 --> 00:07:10,080
+understand, get telemetry, shorten that
+
+154
+00:07:07,520 --> 00:07:12,479
+feedback loop when you know you have a
+
+155
+00:07:10,080 --> 00:07:13,759
+long tail for your customers taking
+
+156
+00:07:12,479 --> 00:07:16,319
+taking parts of your product. This is
+
+157
+00:07:13,759 --> 00:07:19,039
+your short tail. That's your long tail.
+
+158
+00:07:16,319 --> 00:07:20,800
+And
+
+159
+00:07:19,039 --> 00:07:23,759
+understanding
+
+160
+00:07:20,800 --> 00:07:25,919
+how to do that, planning around figuring
+
+161
+00:07:23,759 --> 00:07:29,280
+that out is that's your transition road
+
+162
+00:07:25,919 --> 00:07:31,440
+map, right? that that's how we get the
+
+163
+00:07:29,280 --> 00:07:33,199
+information to be able to understand
+
+164
+00:07:31,440 --> 00:07:34,400
+what it is we need to do within the
+
+165
+00:07:33,199 --> 00:07:37,280
+context of your product or at least
+
+166
+00:07:34,400 --> 00:07:38,560
+what's the first step we're going to do
+
+167
+00:07:37,280 --> 00:07:41,199
+within the context of your product. And
+
+168
+00:07:38,560 --> 00:07:43,280
+if you're on TFVC, it's getting onto
+
+169
+00:07:41,199 --> 00:07:44,960
+Git. If you're already on Git and you
+
+170
+00:07:43,280 --> 00:07:47,759
+don't have automated builds, it's
+
+171
+00:07:44,960 --> 00:07:50,000
+automated builds, right? If you have
+
+172
+00:07:47,759 --> 00:07:51,680
+automated builds and you're in Git, it's
+
+173
+00:07:50,000 --> 00:07:54,240
+automated deployment if you don't have
+
+174
+00:07:51,680 --> 00:07:55,680
+that. If you don't include testing in
+
+175
+00:07:54,240 --> 00:07:57,360
+that matrix, that's the next step.
+
+176
+00:07:55,680 --> 00:08:02,240
+Bringing in the automated testing. So
+
+177
+00:07:57,360 --> 00:08:04,160
+there's a clear road map of what's the
+
+178
+00:08:02,240 --> 00:08:06,639
+first thing to tackle, what's the second
+
+179
+00:08:04,160 --> 00:08:09,120
+thing to tackle and keep going down that
+
+180
+00:08:06,639 --> 00:08:12,560
+line. And as you're going down that
+
+181
+00:08:09,120 --> 00:08:14,479
+line, you're building a story of both
+
+182
+00:08:12,560 --> 00:08:17,360
+engineering excellence and technical
+
+183
+00:08:14,479 --> 00:08:20,000
+leadership within your organization. And
+
+184
+00:08:17,360 --> 00:08:23,440
+you need to do that in a way that that
+
+185
+00:08:20,000 --> 00:08:25,759
+scales across your organization. So that
+
+186
+00:08:23,440 --> 00:08:27,919
+means
+
+187
+00:08:25,759 --> 00:08:30,080
+when you when you build engineering
+
+188
+00:08:27,919 --> 00:08:32,320
+excellence within your organization,
+
+189
+00:08:30,080 --> 00:08:35,839
+it's it's an it's an ethos. It's a
+
+190
+00:08:32,320 --> 00:08:37,919
+philosophy of how we do things within
+
+191
+00:08:35,839 --> 00:08:40,399
+the context of our organization. And
+
+192
+00:08:37,919 --> 00:08:42,800
+it's all about adapting to change,
+
+193
+00:08:40,399 --> 00:08:45,680
+adapting to surprise, adapting to the
+
+194
+00:08:42,800 --> 00:08:50,800
+things that happen as we go in a way
+
+195
+00:08:45,680 --> 00:08:53,440
+that's that's professional and um um
+
+196
+00:08:50,800 --> 00:08:55,760
+provides the outcomes that the business
+
+197
+00:08:53,440 --> 00:09:00,240
+your your your end customer is looking
+
+198
+00:08:55,760 --> 00:09:04,080
+for. So if if if you want a stepbystep
+
+199
+00:09:00,240 --> 00:09:05,279
+path out of legacy pain, you're you you
+
+200
+00:09:04,080 --> 00:09:07,680
+don't have a paddle there. There's
+
+201
+00:09:05,279 --> 00:09:13,360
+there's no real way to do that. But what
+
+202
+00:09:07,680 --> 00:09:17,839
+we can provide you is the compass to
+
+203
+00:09:13,360 --> 00:09:21,600
+help you um orienteer your way through
+
+204
+00:09:17,839 --> 00:09:23,120
+your legacy pain. Right? What's
+
+205
+00:09:21,600 --> 00:09:24,800
+every step of the what's the next step
+
+206
+00:09:23,120 --> 00:09:26,560
+of the journey? We do the next step of
+
+207
+00:09:24,800 --> 00:09:28,399
+the journey. We look at the compass and
+
+208
+00:09:26,560 --> 00:09:29,680
+the map and we figure out what's the
+
+209
+00:09:28,399 --> 00:09:31,360
+next direction we're going to take.
+
+210
+00:09:29,680 --> 00:09:36,160
+What's the next thing we're going to do?
+
+211
+00:09:31,360 --> 00:09:40,000
+And that continuous l iterative uh uh
+
+212
+00:09:36,160 --> 00:09:44,560
+path is what's going to support you long
+
+213
+00:09:40,000 --> 00:09:46,720
+term um and map right your migration
+
+214
+00:09:44,560 --> 00:09:46,720
+journey.
+
+

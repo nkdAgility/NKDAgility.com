@@ -1,13 +1,31 @@
 ---
-title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Courses'
 short_title: Spaced Learning vs Traditional Agile Training
 description: Explores how spaced learning in Agile and Scrum boosts retention, real-world application, and collaboration compared to traditional intensive courses.
 date: 2023-07-13T07:45:48Z
-weight: 1000
 ResourceId: L9KsDJ2Rebo
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:42Z
+  short_title: 2025-07-07T17:53:58Z
+title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Courses'
+videoId: L9KsDJ2Rebo
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+layout: video
 aliases:
 - /resources/L9KsDJ2Rebo
 - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
 - unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: L9KsDJ2Rebo
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:42Z
-  short_title: 2025-07-07T17:53:58Z
+isShort: false
 
 ---
 When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.

@@ -1,13 +1,30 @@
 ---
-title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
 short_title: Immersive Learning for Experienced Agile Pros
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
-weight: 1000
 ResourceId: VjPslpF3fTc
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:30Z
+  short_title: 2025-07-07T17:53:47Z
+title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
+videoId: VjPslpF3fTc
+source: internal
+url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+layout: video
 aliases:
 - /resources/VjPslpF3fTc
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
@@ -18,28 +35,11 @@ aliasesArchive:
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: VjPslpF3fTc
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:30Z
-  short_title: 2025-07-07T17:53:47Z
+isShort: false
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

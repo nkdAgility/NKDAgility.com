@@ -1,13 +1,29 @@
 ---
-title: 5 critical Skills to master as an Agile Consultant?  Part 1
 short_title: 5 Critical Skills for Agile Consultants Part 1
 description: Explores essential skills for Agile consultants, focusing on understanding client context, embracing uncertainty, learning from setbacks, and continuous adaptation.
 date: 2023-08-07T07:00:10Z
-weight: 1000
 ResourceId: Ye016yOxvcs
-ResourceImport: true
 ResourceType: videos
-slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:23Z
+  short_title: 2025-07-07T17:53:42Z
+title: 5 critical Skills to master as an Agile Consultant?  Part 1
+videoId: Ye016yOxvcs
+source: internal
+url: /resources/videos/:slug
+slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
+layout: video
 aliases:
 - /resources/Ye016yOxvcs
 - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
@@ -22,27 +38,11 @@ aliasesArchive:
 - /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
 - 5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Ye016yOxvcs
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
 duration: 51
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:23Z
-  short_title: 2025-07-07T17:53:42Z
+isShort: true
 
 ---
 ## The Journey to Understanding

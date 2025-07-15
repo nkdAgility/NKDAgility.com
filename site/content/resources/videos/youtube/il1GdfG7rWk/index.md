@@ -1,23 +1,12 @@
 ---
-title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
 short_title: Mastering Product Backlog Management
 description: Learn the core skills and best practices for effective product backlog management, including risk, value, sizing, learning, and refinement to maximise product delivery.
 date: 2023-12-18T07:00:15Z
-weight: 1000
 ResourceId: il1GdfG7rWk
-ResourceImport: true
 ResourceType: videos
-slug: mastering-product-backlog-management-essential-skills-for-product-owners
-aliases:
-- /resources/il1GdfG7rWk
-- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
-aliasesArchive:
-- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
-- mastering-product-backlog-management-essential-skills-for-product-owners
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -36,22 +25,33 @@ tags:
 - Agile Planning Tools
 - Software Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: il1GdfG7rWk
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
-duration: 387
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:52Z
   short_title: 2025-07-07T17:50:40Z
+title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
+videoId: il1GdfG7rWk
+source: internal
+url: /resources/videos/:slug
+slug: mastering-product-backlog-management-essential-skills-for-product-owners
+layout: video
+aliases:
+- /resources/il1GdfG7rWk
+- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+- /resources/mastering-product-backlog-management-essential-skills-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+- mastering-product-backlog-management-essential-skills-for-product-owners
+preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
+duration: 387
+resourceTypes:
+- video
+isShort: false
 
 ---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), one of the most crucial responsibilities you'll face is managing your [product backlog]({{< ref "/tags/product-backlog" >}}). It’s the backbone of successful [product delivery]({{< ref "/tags/product-delivery" >}}). The product backlog is more than a to-do list—it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.

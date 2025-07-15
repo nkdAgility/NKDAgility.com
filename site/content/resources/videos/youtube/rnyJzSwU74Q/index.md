@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
 short_title: Empirical Models for Agile Project Success
 description: Explains how empirical Agile models improve project outcomes by increasing visibility, enabling change, reducing risk, and delivering value incrementally throughout development.
 date: 2022-10-12T17:08:59Z
-weight: 1000
 ResourceId: rnyJzSwU74Q
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
-aliases:
-- /resources/rnyJzSwU74Q
-- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
-- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
-aliasesArchive:
-- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
-- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
-- unlocking-agile-success-how-empirical-models-transform-project-outcomes
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -32,22 +21,33 @@ tags:
 - Agile Transformation
 - Agile Frameworks
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rnyJzSwU74Q
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
-duration: 866
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:42Z
   short_title: 2025-07-07T17:57:19Z
+title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
+videoId: rnyJzSwU74Q
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
+layout: video
+aliases:
+- /resources/rnyJzSwU74Q
+- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+aliasesArchive:
+- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+- unlocking-agile-success-how-empirical-models-transform-project-outcomes
+preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
+duration: 866
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile, the statistics speak volumes. According to the Standish Group's Chaos Report, small projects with fewer than 50 participants are 30% more likely to succeed when employing Agile practices. Even more striking, larger projects with over 50 people see a staggering 200% increase in their chances of success. This data underscores the transformative power of Agile methodologies, and today, I want to delve into the key differences that make this possible.

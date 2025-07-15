@@ -1,13 +1,30 @@
 ---
-title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
 short_title: Stop Shipping Bad Code and Tackle Technical Debt
 description: Learn how to prevent bad code, distinguish technical debt from incompetence, and apply practical strategies like code reviews, testing, and prioritisation for healthier software.
 date: 2024-11-26T13:55:20Z
-weight: 640
 ResourceId: FquWl26Uc8Y
-ResourceImport: true
 ResourceType: videos
-slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:04Z
+  short_title: 2025-07-07T17:47:26Z
+title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
+videoId: FquWl26Uc8Y
+source: youtube
+url: /resources/videos/:slug
+slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
+layout: video
 aliases:
 - /resources/FquWl26Uc8Y
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
@@ -19,28 +36,11 @@ aliasesArchive:
 - /resources/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/videos/bad-code-isnt-technical-debt-its-incompetence
 - confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
-concepts:
-- Practice
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: FquWl26Uc8Y
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:57:04Z
-  short_title: 2025-07-07T17:47:26Z
+isShort: true
 
 ---
 I've been in the trenches of [software development]({{< ref "/tags/software-development" >}}) long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just [technical debt]({{< ref "/tags/technical-debt" >}}); that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.

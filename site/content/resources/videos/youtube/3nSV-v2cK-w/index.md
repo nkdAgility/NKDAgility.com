@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking the True Power of Agile: Embracing Change and Collaboration for Team Success'
 short_title: Unlocking the True Power of Agile
 description: Explores how Agile success relies on team collaboration, embracing change, continuous improvement, and focusing on delivering real value to customers over rigid processes.
 date: 2023-07-13T07:38:00Z
-weight: 1000
 ResourceId: 3nSV-v2cK-w
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
-aliases:
-- /resources/3nSV-v2cK-w
-- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
-- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be
-aliasesArchive:
-- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
-- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
-- /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
-- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be
-- unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Principle
 categories:
@@ -33,22 +22,33 @@ tags:
 - Agile Leadership
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 3nSV-v2cK-w
-source: youtube
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
-duration: 255
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:10:50Z
   short_title: 2025-07-07T17:54:00Z
+title: 'Unlocking the True Power of Agile: Embracing Change and Collaboration for Team Success'
+videoId: 3nSV-v2cK-w
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+layout: video
+aliases:
+- /resources/3nSV-v2cK-w
+- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be
+aliasesArchive:
+- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+- /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be
+- unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
+duration: 255
+resourceTypes:
+- video
+isShort: false
 
 ---
 As I reflect on my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the frameworks, but at the heart of it all lies a simple truth: Agile is about people. It’s about fostering an environment where teams can thrive, innovate, and deliver value consistently.

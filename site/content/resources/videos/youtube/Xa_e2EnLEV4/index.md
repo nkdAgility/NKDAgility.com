@@ -1,18 +1,35 @@
 ---
-title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 short_title: '3 Best Ways to Wreck Kanban: Ignoring Problems'
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 date: 2024-03-04T07:00:13Z
-weight: 1000
 ResourceId: Xa_e2EnLEV4
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags:
+- Operational Practices
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:30Z
+  short_title: 2025-07-07T17:49:32Z
+title: 3 best ways to wreck Kanban. Sweep problems under the rug.
+videoId: Xa_e2EnLEV4
+source: internal
+url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+layout: video
 aliases:
 - /resources/Xa_e2EnLEV4
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
@@ -24,29 +41,11 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
 - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
-concepts:
-- Practice
-categories:
-- Uncategorized
-tags:
-- Operational Practices
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Xa_e2EnLEV4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:30Z
-  short_title: 2025-07-07T17:49:32Z
+isShort: false
 
 ---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

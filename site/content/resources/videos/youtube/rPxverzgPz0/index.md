@@ -1,13 +1,33 @@
 ---
-title: Would you recommend the APS course to a newbie scrum team, and Why?
 short_title: 'APS Course for New Scrum Teams: Benefits & Impact'
 description: Explains why the Agile Practitioner Series course is ideal for new Scrum teams, focusing on practical Scrum skills, organisational change, and team empowerment.
 date: 2023-03-23T07:00:15Z
-weight: 790
 ResourceId: rPxverzgPz0
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Transformation
+- Organisational Agility
+- Agile Frameworks
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:33Z
+  short_title: 2025-07-07T17:56:18Z
+title: Would you recommend the APS course to a newbie scrum team, and Why?
+videoId: rPxverzgPz0
+source: internal
+url: /resources/videos/:slug
 slug: would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+layout: video
 aliases:
 - /resources/rPxverzgPz0
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
@@ -20,31 +40,11 @@ aliasesArchive:
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rPxverzgPz0
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
 duration: 304
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:33Z
-  short_title: 2025-07-07T17:56:18Z
+isShort: false
 
 ---
 **Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**

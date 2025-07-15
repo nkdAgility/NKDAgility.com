@@ -1,31 +1,13 @@
 ---
-title: What Does a Poor Product Backlog Look Like?
 short_title: What Does a Poor Product Backlog Look Like?
 description: Learn how to recognise a poor product backlog in Agile and Scrum, including signs like lack of order, unclear priorities, and confusion among team members and stakeholders.
 date: 2023-06-19T13:01:31Z
-weight: 1000
 ResourceId: JqVrh-g-0f8
-ResourceImport: true
 ResourceType: videos
-slug: what-does-a-poor-product-backlog-look-like
-aliases:
-- /resources/JqVrh-g-0f8
-- /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: JqVrh-g-0f8
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
-duration: 42
-isShort: true
-aliasesArchive:
-- /resources/videos/what-does-a-poor-product-backlog-look-like
-- /resources/what-does-a-poor-product-backlog-look-like
-- /resources/videos/what-does-a-poor-product-backlog-look-like-
-- /resources/what-does-a-poor-product-backlog-look-like-
-- what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+weight: 1000
+ResourceContentOrigin: AI
 concepts:
 - Artifact
 categories:
@@ -36,11 +18,29 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:29Z
   short_title: 2025-07-07T17:54:32Z
+title: What Does a Poor Product Backlog Look Like?
+videoId: JqVrh-g-0f8
+source: internal
+url: /resources/videos/:slug
+slug: what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+layout: video
+aliases:
+- /resources/JqVrh-g-0f8
+- /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+aliasesArchive:
+- /resources/videos/what-does-a-poor-product-backlog-look-like
+- /resources/what-does-a-poor-product-backlog-look-like
+- /resources/videos/what-does-a-poor-product-backlog-look-like-
+- /resources/what-does-a-poor-product-backlog-look-like-
+- what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
+duration: 42
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## The Order of Product Backlogs

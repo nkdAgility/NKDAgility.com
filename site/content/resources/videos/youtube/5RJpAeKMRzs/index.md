@@ -1,23 +1,12 @@
 ---
-title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
 short_title: Seven Deadly Sins of Agile and Solutions
 description: Identifies seven common Agile pitfalls—quick fixes, backlog overload, resource focus, lack of accountability, blame, imitation, and pride—and offers practical solutions for true agility.
 date: 2024-04-14T12:17:16Z
-weight: 530
 ResourceId: 5RJpAeKMRzs
-ResourceImport: true
 ResourceType: videos
-slug: avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
-aliases:
-- /resources/5RJpAeKMRzs
-- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
-- /resources/videos/the-7-deadly-sins-of-agile
-aliasesArchive:
-- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
-- /resources/videos/the-7-deadly-sins-of-agile!
-- /resources/the-7-deadly-sins-of-agile!
-- /resources/videos/the-7-deadly-sins-of-agile
-- avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 530
 concepts: []
 categories:
 - Scrum
@@ -31,22 +20,33 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 5RJpAeKMRzs
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
-duration: 2299
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:17Z
   short_title: 2025-07-07T17:49:20Z
+title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
+videoId: 5RJpAeKMRzs
+source: youtube
+url: /resources/videos/:slug
+slug: avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+layout: video
+aliases:
+- /resources/5RJpAeKMRzs
+- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+- /resources/videos/the-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+- /resources/videos/the-7-deadly-sins-of-agile!
+- /resources/the-7-deadly-sins-of-agile!
+- /resources/videos/the-7-deadly-sins-of-agile
+- avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
+duration: 2299
+resourceTypes:
+- video
+isShort: false
 
 ---
 Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your [Agile transformation]({{< ref "/tags/agile-transformation" >}}) and prevent you from achieving true agility.

@@ -1,31 +1,13 @@
 ---
-title: How does a Scrum team create a sprint goal?
 short_title: How Scrum Teams Create Effective Sprint Goals
 description: Explains how Scrum teams create effective sprint goals by aligning product strategy, tactical needs, and backlog priorities to deliver stakeholder value each sprint.
 date: 2023-06-01T11:00:15Z
-weight: 790
 ResourceId: GJSBFyoHk8E
-ResourceImport: true
 ResourceType: videos
-slug: how-does-a-scrum-team-create-a-sprint-goal
-aliases:
-- /resources/GJSBFyoHk8E
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: GJSBFyoHk8E
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
-duration: 53
-isShort: true
-aliasesArchive:
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
-- how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+weight: 790
+ResourceContentOrigin: AI
 concepts:
 - Method
 categories:
@@ -39,11 +21,29 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:57Z
   short_title: 2025-07-07T17:54:54Z
+title: How does a Scrum team create a sprint goal?
+videoId: GJSBFyoHk8E
+source: internal
+url: /resources/videos/:slug
+slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+layout: video
+aliases:
+- /resources/GJSBFyoHk8E
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
+- /resources/how-does-a-scrum-team-create-a-sprint-goal-
+- how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
+duration: 53
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## The Art of Sprint Goal Creation

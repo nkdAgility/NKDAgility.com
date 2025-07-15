@@ -1,43 +1,45 @@
 ---
-title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
 short_title: Rethinking Story Points, Team Size & Architecture
 description: Explores the limitations of story points, optimal team sizes, and the benefits of emergent architecture for improving agile practices and team performance.
 date: 2020-05-13T05:03:57Z
-weight: 1000
 ResourceId: jCqRHt8LLgw
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:44Z
+  short_title: 2025-07-07T17:58:06Z
+title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
+videoId: jCqRHt8LLgw
+source: youtube
+url: /resources/videos/:slug
 slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+layout: video
 aliases:
 - /resources/jCqRHt8LLgw
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: jCqRHt8LLgw
-url: /resources/videos/:slug
-layout: video
+- /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+- /resources/videos/12th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/12th-may-2020-office-hours-ask-me-anything
 - /resources/12th-may-2020-office-hours-ask-me-anything
 - /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 - rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
 preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:15:44Z
-  short_title: 2025-07-07T17:58:06Z
+isShort: false
 
 ---
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.

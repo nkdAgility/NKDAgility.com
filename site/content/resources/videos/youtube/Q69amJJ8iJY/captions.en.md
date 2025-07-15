@@ -1,0 +1,19 @@
+Huge mistake that organizations make when they're trying to move towards having a DevOps strategy, having engineering excellence, having that better suite of modern engineering practices within their organization is they outsource it to a vendor.
+
+That is probably the least likely way to result in a positive outcome for your business because you're giving the engineers in your business a bunch of new stuff that they don't understand very well, that they perhaps don't understand at all. Black boxes that this vendor's created, and you're probably going to end up with a lot of vendor lock-in. And you're going to need that vendor to come back and redo things on a regular cadence, and it's going to be very expensive, and you're probably going to find that there's going to be a long time between those things, right? It's why you end up on old versions of your product in the first place.
+
+So instead of a vendor, you need somebody, somebodies, who are going to come in and help you change that mindset within your organization, start moving people towards engineering excellence. Helping your people rebuild their workflows in a way that makes sense in a modern engineering context. Have them help your people fix their problems.
+
+That's something that I do with most organizations that I work with. I'm coming in and I'm helping their people do it. I often don't even have credentials in their system, right? I'm not making changes for them. I'm helping them make changes. I'm encouraging them to refactor the things that they're working on. I'm encouraging them to break it down. We're talking about the theory and philosophies on why would you want to move in this direction, and then I'm helping them implement those things as they start hitting problems in the actual technology.
+
+Just working with a customer at the moment that's on TFVC and we need to move them to git. They have SDN and TFVC and they need to go to a modern source control system, a distributed source control.
+
+They're on, they have stuff on .NET 3, yeah, .NET 3.5. They have stuff on old versions of everything. And how do you tackle that upgrade? How do you even get started? How do you make that progression towards the smallest piece you can bite off and figure out how to do that first? What are the implications of making certain changes?
+
+There's a massive implication of moving from a server-based source control system like TFVC or Subversion and then adapting over to a distributed source control system like git, which has a lot of implications of branching strategy. It has implications of what you put in your source code. It has implications of how do you manage your product towards production. It has loads of implications down the line that are part of modernizing your engineering practices.
+
+And that requires partnership, not a vendor. A vendor is going to do the stuff for you. And your people aren't going to learn anything. You need a partner who can teach, mentor, coach, and engineering transformational experience within your organization.
+
+That's something that we can help you with. My background is software engineering, not coaching and training, software engineering. I'm a Microsoft MVP in DevOps and GitHub. I have engineering experience in building out DevOps pipelines. I was a DevOps consultant for many years and helping teams get better at building out these modern engineering practices and the implications of these modern engineering practices for their existing practices and building a strategy to get between them is where I bring my expertise.
+
+And let's get you to engineering excellence on your terms, at your pace, with expert guidance.

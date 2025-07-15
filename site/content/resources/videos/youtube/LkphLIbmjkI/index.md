@@ -1,13 +1,30 @@
 ---
-title: Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?
 short_title: Why Scrum Teams Need Agile Consultants
 description: Explains why Scrum teams benefit more from Agile consultants than professional coaches, focusing on the need for technical guidance, mentoring, and practical expertise.
 date: 2023-06-26T07:00:07Z
-weight: 305
 ResourceId: LkphLIbmjkI
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 305
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:17Z
+  short_title: 2025-07-07T17:54:21Z
+title: Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?
+videoId: LkphLIbmjkI
+source: internal
+url: /resources/videos/:slug
 slug: why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+layout: video
 aliases:
 - /resources/LkphLIbmjkI
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
@@ -17,28 +34,11 @@ aliasesArchive:
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 - why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: LkphLIbmjkI
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
 duration: 340
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:17Z
-  short_title: 2025-07-07T17:54:21Z
+isShort: false
 
 ---
 ## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})

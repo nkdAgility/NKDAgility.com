@@ -1,13 +1,31 @@
 ---
-title: How does Naked Agility select associate Scrum Trainers?
 short_title: Naked Agility Associate Scrum Trainer Selection
 description: Naked Agility selects associate Scrum Trainers based on real-world agile experience, co-training, and proven ability to teach, coach, and solve complex team challenges.
 date: 2023-01-04T14:35:57Z
-weight: 505
 ResourceId: uJaBPyixNlc
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 505
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:37Z
+  short_title: 2025-07-07T17:57:14Z
+title: How does Naked Agility select associate Scrum Trainers?
+videoId: uJaBPyixNlc
+source: internal
+url: /resources/videos/:slug
 slug: how-does-naked-agility-select-associate-scrum-trainers
+layout: video
 aliases:
 - /resources/uJaBPyixNlc
 - /resources/videos/how-does-naked-agility-select-associate-scrum-trainers
@@ -20,29 +38,11 @@ aliasesArchive:
 - /resources/how-does-naked-agility-select-scrum-trainers-
 - /resources/videos/how-does-naked-agility-select-scrum-trainers
 - how-does-naked-agility-select-associate-scrum-trainers
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
-- Competence
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: uJaBPyixNlc
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
 duration: 270
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:37Z
-  short_title: 2025-07-07T17:57:14Z
+isShort: false
 
 ---
 How does Naked Agility select associate [Scrum]({{< ref "/categories/scrum" >}}) Trainers?

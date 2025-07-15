@@ -1,22 +1,12 @@
 ---
-title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
 short_title: Aligning Organisations for Agile Product Management
 description: Learn how to align teams, stakeholders, and processes for effective agile product management by fostering shared goals, clear communication, and evidence-based practices.
 date: 2024-05-06T13:29:40Z
-weight: 590
 ResourceId: ZcMcVL7mNGU
-ResourceImport: true
 ResourceType: videos
-slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
-aliases:
-- /resources/ZcMcVL7mNGU
-- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
-- /resources/videos/product-management-mentor-program-final
-aliasesArchive:
-- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
-- /resources/videos/product-management-mentor-program-final
-- /resources/product-management-mentor-program-final
-- bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 590
 concepts: []
 categories:
 - Product Development
@@ -32,22 +22,32 @@ tags:
 - Software Development
 - Customer Focus
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ZcMcVL7mNGU
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
-duration: 256
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:13Z
   short_title: 2025-07-07T17:49:18Z
+title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
+videoId: ZcMcVL7mNGU
+source: youtube
+url: /resources/videos/:slug
+slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+layout: video
+aliases:
+- /resources/ZcMcVL7mNGU
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+- /resources/videos/product-management-mentor-program-final
+aliasesArchive:
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+- /resources/videos/product-management-mentor-program-final
+- /resources/product-management-mentor-program-final
+- bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
+duration: 256
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often encountered a significant gap in how organisations approach [product management]({{< ref "/categories/product-management" >}}). This gap becomes glaringly obvious when companies attempt to transition from traditional [project management]({{< ref "/tags/project-management" >}}) methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.

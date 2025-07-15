@@ -1,24 +1,12 @@
 ---
-title: How to Discover Unrealized Value in Your Product
 short_title: Discovering Unrealized Value in Products
 description: Learn how to identify and measure unrealised value in your product using Evidence-Based Management, key metrics, and actionable steps to improve customer satisfaction and growth.
 date: 2024-01-24T11:00:29Z
-weight: 1000
 ResourceId: cbLd-wstv3o
-ResourceImport: true
 ResourceType: videos
-slug: how-to-discover-unrealized-value-in-your-product
-aliases:
-- /resources/cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-aliasesArchive:
-- /resources/videos/how-to-discover-unrealized-value-in-your-product
-- /resources/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -40,22 +28,34 @@ tags:
 - Customer Satisfaction
 - Working Software
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: cbLd-wstv3o
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
-duration: 53
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:16Z
   short_title: 2025-07-07T17:50:10Z
+title: How to Discover Unrealized Value in Your Product
+videoId: cbLd-wstv3o
+source: internal
+url: /resources/videos/:slug
+slug: how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+layout: video
+aliases:
+- /resources/cbLd-wstv3o
+- /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+aliasesArchive:
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
+- /resources/how-to-discover-unrealized-value-in-your-product
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
+duration: 53
+resourceTypes:
+- video
+isShort: true
 
 ---
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.

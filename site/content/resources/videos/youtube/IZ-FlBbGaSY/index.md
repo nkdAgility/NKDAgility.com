@@ -1,22 +1,12 @@
 ---
-title: Building a culture of Quality
 short_title: Building a Culture of Quality
 description: Explores how fostering a culture of quality and engineering excellence across teams leads to better, safer products, highlighting the impact of leadership and shared values.
 date: 2024-11-22T07:00:08Z
-weight: 150
 ResourceId: IZ-FlBbGaSY
-ResourceImport: true
 ResourceType: videos
-slug: building-a-culture-of-quality
-aliases:
-- /resources/IZ-FlBbGaSY
-- /resources/videos/building-a-culture-of-quality
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-aliasesArchive:
-- /resources/videos/building-a-culture-of-quality
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- building-a-culture-of-quality
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 150
 concepts:
 - Ethos
 categories:
@@ -31,22 +21,32 @@ tags:
 - Working Software
 - Azure Pipelines
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: IZ-FlBbGaSY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
-duration: 451
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:08Z
   short_title: 2025-07-07T17:47:30Z
+title: Building a culture of Quality
+videoId: IZ-FlBbGaSY
+source: internal
+url: /resources/videos/:slug
+slug: building-a-culture-of-quality
+layout: video
+aliases:
+- /resources/IZ-FlBbGaSY
+- /resources/videos/building-a-culture-of-quality
+- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+aliasesArchive:
+- /resources/videos/building-a-culture-of-quality
+- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+- building-a-culture-of-quality
+preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
+duration: 451
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

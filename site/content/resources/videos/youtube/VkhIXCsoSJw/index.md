@@ -1,22 +1,12 @@
 ---
-title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 short_title: Embracing Automation in Software Development
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
 date: 2025-01-14T06:45:00Z
-weight: 315
 ResourceId: VkhIXCsoSJw
-ResourceImport: true
 ResourceType: videos
-slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-aliases:
-- /resources/VkhIXCsoSJw
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-aliasesArchive:
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
-- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 315
 concepts: []
 categories:
 - Engineering Excellence
@@ -39,22 +29,32 @@ tags:
 - Flow Efficiency
 - Value Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: VkhIXCsoSJw
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
-duration: 529
-isShort: false
-resourceTypes:
-- video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:59Z
   short_title: 2025-07-07T17:47:00Z
+title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
+videoId: VkhIXCsoSJw
+source: youtube
+url: /resources/videos/:slug
+slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+layout: video
+aliases:
+- /resources/VkhIXCsoSJw
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+aliasesArchive:
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
+- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
+duration: 529
+resourceTypes:
+- video
+isShort: false
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

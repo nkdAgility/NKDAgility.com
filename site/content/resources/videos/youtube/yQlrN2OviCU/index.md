@@ -1,24 +1,12 @@
 ---
-title: The Power of Peer Feedback in Immersive Learning
 short_title: Peer Feedback in Immersive Scrum Learning
 description: Explores how peer feedback in immersive Scrum and Agile training enhances learning, fosters real-world application, and supports continuous improvement for participants.
 date: 2024-02-07T07:00:27Z
-weight: 1000
 ResourceId: yQlrN2OviCU
-ResourceImport: true
 ResourceType: videos
-slug: the-power-of-peer-feedback-in-immersive-learning
-aliases:
-- /resources/yQlrN2OviCU
-- /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
-- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
-aliasesArchive:
-- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
-- /resources/the-power-of-peer-feedback-in-immersive-learning
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
-- the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Practice
 categories:
@@ -30,22 +18,34 @@ tags:
 - Coaching
 - Team Performance
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: yQlrN2OviCU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
-duration: 47
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:56Z
   short_title: 2025-07-07T17:49:53Z
+title: The Power of Peer Feedback in Immersive Learning
+videoId: yQlrN2OviCU
+source: internal
+url: /resources/videos/:slug
+slug: the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+layout: video
+aliases:
+- /resources/yQlrN2OviCU
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+aliasesArchive:
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+- /resources/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
+duration: 47
+resourceTypes:
+- video
+isShort: true
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}) and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

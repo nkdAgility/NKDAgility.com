@@ -1,13 +1,33 @@
 ---
-title: The Power of Continuous Learning for Product Owners
 short_title: Continuous Learning for Product Owners
 description: Explains why continuous learning is essential for product owners, highlighting key tools, practical advice, and strategies to stay effective and ahead in a changing industry.
 date: 2023-12-19T07:00:11Z
-weight: 680
 ResourceId: XKmWMXagVgQ
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 680
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Continuous Learning
+- Competence
+- Product Owner
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:48Z
+  short_title: 2025-07-07T17:50:37Z
+title: The Power of Continuous Learning for Product Owners
+videoId: XKmWMXagVgQ
+source: internal
+url: /resources/videos/:slug
 slug: the-power-of-continuous-learning-for-product-owners
+layout: video
 aliases:
 - /resources/XKmWMXagVgQ
 - /resources/videos/the-power-of-continuous-learning-for-product-owners
@@ -18,31 +38,11 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 - the-power-of-continuous-learning-for-product-owners
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Continuous Learning
-- Competence
-- Product Owner
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: XKmWMXagVgQ
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:48Z
-  short_title: 2025-07-07T17:50:37Z
+isShort: false
 
 ---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **[continuous learning]({{< ref "/tags/continuous-learning" >}})**.

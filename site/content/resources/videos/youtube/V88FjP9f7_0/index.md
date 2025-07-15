@@ -1,24 +1,12 @@
 ---
-title: 'Quotes: Less is More. True or False?'
 short_title: 'Less Is More in Agile: Boosting Value'
 description: Explores how applying 'less is more' in Agile boosts productivity and quality by focusing on high-value tasks, reducing waste, and streamlining team workflows.
 date: 2023-10-14T07:00:13Z
-weight: 1000
 ResourceId: V88FjP9f7_0
-ResourceImport: true
 ResourceType: videos
-slug: quotes-less-is-more-true-or-false
-aliases:
-- /resources/V88FjP9f7_0
-- /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
-- /resources/videos/quotes-less-is-more.-true-or-false
-aliasesArchive:
-- /resources/videos/quotes-less-is-more-true-or-false
-- /resources/quotes-less-is-more-true-or-false
-- /resources/videos/quotes-less-is-more-true-or-false-
-- /resources/quotes-less-is-more-true-or-false-
-- quotes-less-is-more-true-or-false-V88FjP9f7_0
-- /resources/videos/quotes-less-is-more.-true-or-false
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Principle
 categories:
@@ -34,22 +22,33 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: V88FjP9f7_0
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
-duration: 37
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:45Z
   short_title: 2025-07-07T17:52:25Z
+title: 'Quotes: Less is More. True or False?'
+videoId: V88FjP9f7_0
+source: internal
+url: /resources/videos/:slug
+slug: quotes-less-is-more-true-or-false-V88FjP9f7_0
+layout: video
+aliases:
+- /resources/V88FjP9f7_0
+- /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
+aliasesArchive:
+- /resources/videos/quotes-less-is-more-true-or-false
+- /resources/quotes-less-is-more-true-or-false
+- /resources/videos/quotes-less-is-more-true-or-false-
+- /resources/quotes-less-is-more-true-or-false-
+- quotes-less-is-more-true-or-false-V88FjP9f7_0
+- /resources/videos/quotes-less-is-more.-true-or-false
+preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
+duration: 37
+resourceTypes:
+- video
+isShort: true
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

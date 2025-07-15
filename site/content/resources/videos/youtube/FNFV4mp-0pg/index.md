@@ -1,29 +1,13 @@
 ---
-title: Is a scrum master an agile micromanager?
 short_title: Is a Scrum Master an Agile Micromanager?
 description: A Scrum Master empowers teams by facilitating, mentoring, and supporting—not micromanaging—fostering trust, collaboration, and continuous improvement in Agile environments.
 date: 2023-04-25T07:00:06Z
-weight: 610
 ResourceId: FNFV4mp-0pg
-ResourceImport: true
 ResourceType: videos
-slug: is-a-scrum-master-an-agile-micromanager
-aliases:
-- /resources/FNFV4mp-0pg
-- /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: FNFV4mp-0pg
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg
-duration: 41
-isShort: true
-aliasesArchive:
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-- /resources/is-a-scrum-master-an-agile-micromanager
-- is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+weight: 610
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Scrum
@@ -46,11 +30,27 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:13:03Z
   short_title: 2025-07-07T17:55:46Z
+title: Is a scrum master an agile micromanager?
+videoId: FNFV4mp-0pg
+source: internal
+url: /resources/videos/:slug
+slug: is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+layout: video
+aliases:
+- /resources/FNFV4mp-0pg
+- /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+aliasesArchive:
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/is-a-scrum-master-an-agile-micromanager
+- is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg
+duration: 41
+resourceTypes:
+- video
+isShort: true
 
 ---
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**

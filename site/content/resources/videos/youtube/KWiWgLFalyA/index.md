@@ -1,18 +1,37 @@
 ---
-title: "Mastering the Art of Scaling Product Development: Why Adding More Developers Isn't the Answer"
 short_title: Scaling Product Development Effectively
 description: Explores why scaling product development requires system improvements, not just more developers. Covers alignment, technical debt, and feedback loops for sustainable growth.
 date: 2025-02-18T07:08:05Z
-weight: 500
 ResourceId: KWiWgLFalyA
-ResourceImport: true
 ResourceType: videos
-slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn't-the-answer
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 500
+concepts:
+- Strategy
+categories:
+- Product Development
+- Product Management
+tags:
+- Scaling
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:36Z
+  short_title: 2025-07-07T17:46:24Z
+title: "Mastering the Art of Scaling Product Development: Why Adding More Developers Isn't the Answer"
+videoId: KWiWgLFalyA
+source: internal
+url: /resources/videos/:slug
+slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+layout: video
 aliases:
 - /resources/KWiWgLFalyA
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
 aliasesArchive:
 - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
@@ -24,31 +43,11 @@ aliasesArchive:
 - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
 - mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
-concepts:
-- Strategy
-categories:
-- Product Development
-- Product Management
-tags:
-- Scaling
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KWiWgLFalyA
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
 duration: 103
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:36Z
-  short_title: 2025-07-07T17:46:24Z
+isShort: false
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

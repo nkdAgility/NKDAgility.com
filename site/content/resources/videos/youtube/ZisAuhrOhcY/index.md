@@ -1,28 +1,12 @@
 ---
-title: My journey with Kanban and why I actively recommend it to clients.
 short_title: Kanban for Workflow, Predictability & Transparency
 description: Explains how adopting Kanban improves workflow, predictability, and transparency for any team or industry, offering practical insights and benefits over traditional approaches.
 date: 2024-02-23T07:00:12Z
-weight: 1000
 ResourceId: ZisAuhrOhcY
-ResourceImport: true
 ResourceType: videos
-slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-aliases:
-- /resources/ZisAuhrOhcY
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
-aliasesArchive:
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Method
 categories:
@@ -33,22 +17,37 @@ tags:
 - Transparency
 - Flow Efficiency
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ZisAuhrOhcY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
-duration: 321
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:37Z
   short_title: 2025-07-07T17:49:37Z
+title: My journey with Kanban and why I actively recommend it to clients.
+videoId: ZisAuhrOhcY
+source: internal
+url: /resources/videos/:slug
+slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+layout: video
+aliases:
+- /resources/ZisAuhrOhcY
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+aliasesArchive:
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
+preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
+duration: 321
+resourceTypes:
+- video
+isShort: false
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability

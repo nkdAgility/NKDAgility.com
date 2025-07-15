@@ -1,26 +1,12 @@
 ---
-title: How to Measure Your Organization's Ability to Improve Value Through Innovation
 short_title: Measuring and Improving Innovation Capability
 description: Learn how to assess and improve your organisation’s innovation capability using evidence-based management and key metrics like technical debt, innovation rate, and complexity.
 date: 2024-01-25T11:00:18Z
-weight: 355
 ResourceId: Puz2wSg7UmE
-ResourceImport: true
 ResourceType: videos
-slug: how-to-measure-your-organization's-ability-to-improve-value-through-innovation
-aliases:
-- /resources/Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
-aliasesArchive:
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 355
 concepts:
 - Capability
 categories:
@@ -36,22 +22,35 @@ tags:
 - Business Agility
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Puz2wSg7UmE
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
-duration: 54
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:13Z
   short_title: 2025-07-07T17:50:06Z
+title: How to Measure Your Organization's Ability to Improve Value Through Innovation
+videoId: Puz2wSg7UmE
+source: internal
+url: /resources/videos/:slug
+slug: how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+layout: video
+aliases:
+- /resources/Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+aliasesArchive:
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
+duration: 54
+resourceTypes:
+- video
+isShort: true
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

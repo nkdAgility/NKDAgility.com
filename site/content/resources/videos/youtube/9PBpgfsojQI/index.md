@@ -1,17 +1,34 @@
 ---
-title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 short_title: How to Succeed in a Tough 2023
 description: 'Guidance for 2023: Succeed by clarifying strategy, boosting product development, investing in people, and using agile methods to gain competitive advantage and improve performance.'
 date: 2023-02-13T22:00:04Z
-weight: 540
 ResourceId: 9PBpgfsojQI
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 540
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:06Z
+  short_title: 2025-07-07T17:56:47Z
+title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
+videoId: 9PBpgfsojQI
+source: internal
+url: /resources/videos/:slug
 slug: 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+layout: video
 aliases:
 - /resources/9PBpgfsojQI
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
-- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
 aliasesArchive:
 - /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
@@ -20,29 +37,11 @@ aliasesArchive:
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 9PBpgfsojQI
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:06Z
-  short_title: 2025-07-07T17:56:47Z
+isShort: false
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

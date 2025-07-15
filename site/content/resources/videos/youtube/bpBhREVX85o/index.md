@@ -1,13 +1,29 @@
 ---
-title: How does scrum help leadership teams pick the most valuable work to focus on?
 short_title: How Scrum Supports Leadership Decision-Making
 description: Scrum highlights issues and provides feedback for leadership teams but does not select valuable work; leaders must set priorities and use scrum to validate decisions.
 date: 2023-02-10T07:15:02Z
-weight: 665
 ResourceId: bpBhREVX85o
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:09Z
+  short_title: 2025-07-07T17:56:50Z
+title: How does scrum help leadership teams pick the most valuable work to focus on?
+videoId: bpBhREVX85o
+source: internal
+url: /resources/videos/:slug
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+layout: video
 aliases:
 - /resources/bpBhREVX85o
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
@@ -17,27 +33,11 @@ aliasesArchive:
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: bpBhREVX85o
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:09Z
-  short_title: 2025-07-07T17:56:50Z
+isShort: false
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

@@ -1,13 +1,32 @@
 ---
-title: What are the hierarchies of competence vs control?  Why does this matter?
 short_title: Hierarchies of Competence vs Control Explained
 description: Explains the differences between competence-based and control-based hierarchies, their impact on decision-making, and why competence-driven models suit today’s fast-changing markets.
 date: 2023-04-13T14:25:06Z
-weight: 1000
 ResourceId: AaCM_pmZb4k
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+- Sociotechnical Systems
+- Organisational Agility
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:15Z
+  short_title: 2025-07-07T17:55:56Z
+title: What are the hierarchies of competence vs control?  Why does this matter?
+videoId: AaCM_pmZb4k
+source: internal
+url: /resources/videos/:slug
 slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+layout: video
 aliases:
 - /resources/AaCM_pmZb4k
 - /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
@@ -20,30 +39,11 @@ aliasesArchive:
 - /resources/what-are-hierarchies-of-competence-vs-control-
 - /resources/videos/what-are-hierarchies-of-competence-vs-control
 - what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-- Sociotechnical Systems
-- Organisational Agility
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: AaCM_pmZb4k
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:15Z
-  short_title: 2025-07-07T17:55:56Z
+isShort: false
 
 ---
 ## Hierarchies of [Competence]({{< ref "/tags/competence" >}}) Vs Control: Insights & Relevance

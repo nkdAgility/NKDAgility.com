@@ -1,20 +1,12 @@
 ---
-title: Code Reviews for Quality Assurance
 short_title: Code Reviews for Quality Assurance
 description: Explores modern code review practices, emphasising automation, pre-reviewed code, and shift-left strategies to improve software quality, speed, and team collaboration.
 date: 2024-11-27T06:00:25Z
-weight: 255
 ResourceId: r2G-NrSIj2k
-ResourceImport: true
 ResourceType: videos
-slug: code-reviews-for-quality-assurance
-aliases:
-- /resources/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
-aliasesArchive:
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
-- code-reviews-for-quality-assurance
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 255
 concepts:
 - Tool
 categories:
@@ -24,22 +16,30 @@ tags:
 - Software Development
 - Shift Left Strategy
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: r2G-NrSIj2k
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
-duration: 116
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:02Z
   short_title: 2025-07-07T17:47:23Z
+title: Code Reviews for Quality Assurance
+videoId: r2G-NrSIj2k
+source: internal
+url: /resources/videos/:slug
+slug: code-reviews-for-quality-assurance
+layout: video
+aliases:
+- /resources/r2G-NrSIj2k
+- /resources/videos/code-reviews-for-quality-assurance
+aliasesArchive:
+- /resources/videos/code-reviews-for-quality-assurance
+- /resources/code-reviews-for-quality-assurance
+- code-reviews-for-quality-assurance
+preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
+duration: 116
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

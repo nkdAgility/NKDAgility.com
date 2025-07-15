@@ -1,24 +1,12 @@
 ---
-title: 'Detecting Agile BS: Lessons from the Department of Defense'
 short_title: 'Detecting Agile BS: Lessons from DoD'
 description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
 date: 2024-08-02T06:45:02Z
-weight: 360
 ResourceId: kVt5KP9dg8Q
-ResourceImport: true
 ResourceType: videos
-slug: detecting-agile-bs-lessons-from-the-department-of-defense
-aliases:
-- /resources/kVt5KP9dg8Q
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
-aliasesArchive:
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
-- detecting-agile-bs-lessons-from-the-department-of-defense
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 360
 concepts:
 - Practice
 categories:
@@ -34,22 +22,34 @@ tags:
 - Software Development
 - Agile Strategy
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: kVt5KP9dg8Q
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
-duration: 346
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:19Z
   short_title: 2025-07-07T17:48:45Z
+title: 'Detecting Agile BS: Lessons from the Department of Defense'
+videoId: kVt5KP9dg8Q
+source: internal
+url: /resources/videos/:slug
+slug: detecting-agile-bs-lessons-from-the-department-of-defense
+layout: video
+aliases:
+- /resources/kVt5KP9dg8Q
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+- detecting-agile-bs-lessons-from-the-department-of-defense
+preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
+duration: 346
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.

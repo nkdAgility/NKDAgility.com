@@ -1,23 +1,12 @@
 ---
-title: 'Maximise Your Scrum Process: Leveraging Azure DevOps for Agile Success'
 short_title: Maximise Scrum with Azure DevOps for Agile Teams
 description: Learn how to customise Azure DevOps to support Scrum teams, manage backlogs, plan sprints, and improve agile workflows with practical setup and process tips.
 date: 2024-04-03T17:21:43Z
-weight: 640
 ResourceId: 5IBKxYLA494
-ResourceImport: true
 ResourceType: videos
-slug: maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
-aliases:
-- /resources/5IBKxYLA494
-- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
-- /resources/videos/scrum-with-azure-devops
-aliasesArchive:
-- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
-- /resources/videos/scrum-with-azure-devops!
-- /resources/scrum-with-azure-devops!
-- /resources/videos/scrum-with-azure-devops
-- maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
 concepts:
 - Tool
 categories:
@@ -40,22 +29,33 @@ tags:
 - Working Software
 - Agile Transformation
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 5IBKxYLA494
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
-duration: 2504
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:20Z
   short_title: 2025-07-07T17:49:23Z
+title: 'Maximise Your Scrum Process: Leveraging Azure DevOps for Agile Success'
+videoId: 5IBKxYLA494
+source: youtube
+url: /resources/videos/:slug
+slug: maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+layout: video
+aliases:
+- /resources/5IBKxYLA494
+- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+- /resources/videos/scrum-with-azure-devops
+aliasesArchive:
+- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+- /resources/videos/scrum-with-azure-devops!
+- /resources/scrum-with-azure-devops!
+- /resources/videos/scrum-with-azure-devops
+- maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
+duration: 2504
+resourceTypes:
+- video
+isShort: false
 
 ---
 As your [DevOps]({{< ref "/categories/devops" >}}) was built for agile teams by agile teams, there are numerous ways to leverage it to support your agile practices. Today, I want to share how to use [Azure DevOps]({{< ref "/tags/azure-devops" >}}) to enhance your [Scrum]({{< ref "/categories/scrum" >}}) process, drawing insights from Scrum.org and the teams at Microsoft who developed it. My focus will be on integrating the Scrum framework with value-focused, hypothesis-driven, flow-based practices.

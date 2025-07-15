@@ -1,13 +1,33 @@
 ---
-title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 short_title: Cultivating Patience in Agile Teams
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 date: 2023-12-08T11:00:09Z
-weight: 1000
 ResourceId: 4p5xeJZXvcE
-ResourceImport: true
 ResourceType: videos
-slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Team Motivation
+- Organisational Culture
+- Team Collaboration
+- Team Performance
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:07Z
+  short_title: 2025-07-07T17:51:11Z
+title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
+videoId: 4p5xeJZXvcE
+source: youtube
+url: /resources/videos/:slug
+slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+layout: video
 aliases:
 - /resources/4p5xeJZXvcE
 - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
@@ -18,31 +38,11 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience
 - cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
-concepts: []
-categories:
-- Product Development
-tags:
-- Team Motivation
-- Organisational Culture
-- Team Collaboration
-- Team Performance
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 4p5xeJZXvcE
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
-layout: video
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:07Z
-  short_title: 2025-07-07T17:51:11Z
+isShort: true
 
 ---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.

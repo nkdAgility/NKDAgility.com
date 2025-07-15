@@ -1,24 +1,12 @@
 ---
-title: Unlocking the Power of Immersive Learning for Product Management
 short_title: Immersive Learning in Product Management
 description: Explores how immersive learning in product management blends practical assignments, evidence-based metrics, and reflection to drive real organisational change and improvement.
 date: 2024-08-12T10:03:43Z
-weight: 750
 ResourceId: KAqCTOIB4hk
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-the-power-of-immersive-learning-for-product-management
-aliases:
-- /resources/KAqCTOIB4hk
-- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
-aliasesArchive:
-- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
-- /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
-- unlocking-the-power-of-immersive-learning-for-product-management
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 750
 concepts:
 - Capability
 categories:
@@ -31,22 +19,34 @@ tags:
 - Evidence Based Leadership
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KAqCTOIB4hk
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
-duration: 574
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:38Z
+title: Unlocking the Power of Immersive Learning for Product Management
+videoId: KAqCTOIB4hk
+source: internal
+url: /resources/videos/:slug
+slug: unlocking-the-power-of-immersive-learning-for-product-management
+layout: video
+aliases:
+- /resources/KAqCTOIB4hk
+- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+- /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
+- unlocking-the-power-of-immersive-learning-for-product-management
+preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
+duration: 574
+resourceTypes:
+- video
+isShort: false
 
 ---
 In today's fast-paced business environment, [continuous learning]({{< ref "/tags/continuous-learning" >}}) is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.

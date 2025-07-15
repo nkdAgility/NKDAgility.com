@@ -1,13 +1,33 @@
 ---
-title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 short_title: 'Charity in Agile: Elevating Teams and Organizations'
 description: Explores how practising charity—helping others without expecting rewards—strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
 date: 2023-12-06T07:00:08Z
-weight: 840
 ResourceId: BCWiKTm8hjg
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Organisational Culture
+- Agile Leadership
+- Employee Engagement
+- Team Performance
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:14Z
+  short_title: 2025-07-07T17:51:16Z
+title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
+videoId: BCWiKTm8hjg
+source: internal
+url: /resources/videos/:slug
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+layout: video
 aliases:
 - /resources/BCWiKTm8hjg
 - /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
@@ -18,31 +38,11 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/7-virtues-of-agile-charity
 - the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Organisational Culture
-- Agile Leadership
-- Employee Engagement
-- Team Performance
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BCWiKTm8hjg
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:14Z
-  short_title: 2025-07-07T17:51:16Z
+isShort: false
 
 ---
 One of the key virtues in Agile is **charity**—the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.

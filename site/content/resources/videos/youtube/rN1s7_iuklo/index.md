@@ -1,25 +1,12 @@
 ---
-title: Empowering Teams to Maximize Value and Return on Investment
 short_title: Empowering Teams to Maximize Value and ROI
 description: Explores how empowering Agile teams to adapt their processes boosts flexibility, continuous improvement, collaboration, and maximises value and return on investment.
 date: 2024-07-24T06:45:04Z
-weight: 340
 ResourceId: rN1s7_iuklo
-ResourceImport: true
 ResourceType: videos
-slug: empowering-teams-to-maximize-value-and-return-on-investment
-aliases:
-- /resources/rN1s7_iuklo
-- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
-- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
-aliasesArchive:
-- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
-- empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 340
 concepts:
 - Principle
 categories:
@@ -42,22 +29,35 @@ tags:
 - Organisational Culture
 - Agile Frameworks
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rN1s7_iuklo
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
-duration: 56
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:30Z
   short_title: 2025-07-07T17:48:55Z
+title: Empowering Teams to Maximize Value and Return on Investment
+videoId: rN1s7_iuklo
+source: internal
+url: /resources/videos/:slug
+slug: empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+layout: video
+aliases:
+- /resources/rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+aliasesArchive:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+- empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
+duration: 56
+resourceTypes:
+- video
+isShort: true
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

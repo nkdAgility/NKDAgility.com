@@ -1,13 +1,31 @@
 ---
-title: What is the most interesting outcome you have achieved as an agile consultant?
 short_title: Agile Consulting Outcomes and Success Stories
 description: Real-world examples of agile consulting outcomes, highlighting both challenges and successes in agile transformation, DevOps adoption, and holistic Scrum training.
 date: 2023-03-20T07:00:20Z
-weight: 590
 ResourceId: zoAhqsEqShs
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 590
+concepts: []
+categories:
+- Leadership
+- Product Development
+tags:
+- Agile Transformation
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:37Z
+  short_title: 2025-07-07T17:56:21Z
+title: What is the most interesting outcome you have achieved as an agile consultant?
+videoId: zoAhqsEqShs
+source: internal
+url: /resources/videos/:slug
 slug: what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+layout: video
 aliases:
 - /resources/zoAhqsEqShs
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
@@ -17,29 +35,11 @@ aliasesArchive:
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-concepts: []
-categories:
-- Leadership
-- Product Development
-tags:
-- Agile Transformation
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: zoAhqsEqShs
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:37Z
-  short_title: 2025-07-07T17:56:21Z
+isShort: false
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

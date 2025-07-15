@@ -1,13 +1,34 @@
 ---
-title: 7 Harbingers of the Agile Apocalypse - Plague
 short_title: Agile Coaching Incompetence and Its Impact
 description: Explores the widespread issue of incompetent Agile coaches and Scrum Masters, its impact on teams and organisations, and practical steps to restore true Agile values.
 date: 2023-10-20T07:00:23Z
-weight: 640
 ResourceId: UeisJt8U2_0
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
+concepts:
+- Ethos
+categories:
+- Scrum
+tags:
+- Pragmatic Thinking
+- Competence
+- Agile Transformation
+- Agile Philosophy
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:34Z
+  short_title: 2025-07-07T17:52:15Z
+title: 7 Harbingers of the Agile Apocalypse - Plague
+videoId: UeisJt8U2_0
+source: internal
+url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-plague
+layout: video
 aliases:
 - /resources/UeisJt8U2_0
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-plague
@@ -20,32 +41,11 @@ aliasesArchive:
 - /resources/plague!-7-harbingers-agile-apocalypse
 - /resources/videos/plague-7-harbingers-agile-apocalypse
 - 7-harbingers-of-the-agile-apocalypse-plague
-concepts:
-- Ethos
-categories:
-- Scrum
-tags:
-- Pragmatic Thinking
-- Competence
-- Agile Transformation
-- Agile Philosophy
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: UeisJt8U2_0
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
 duration: 422
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:34Z
-  short_title: 2025-07-07T17:52:15Z
+isShort: false
 
 ---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧

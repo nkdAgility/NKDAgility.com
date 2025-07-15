@@ -1,13 +1,32 @@
 ---
-title: '7 deadly sins of Agile: Pride'
 short_title: '7 Deadly Sins of Agile: Pride'
 description: Explores how unchecked pride can harm Agile teams, stressing data-driven decisions, learning from failure, and balancing confidence with humility for real customer value.
 date: 2023-10-13T07:00:05Z
-weight: 1000
 ResourceId: BDFrmCV_c68
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Customer Focus
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:48Z
+  short_title: 2025-07-07T17:52:26Z
+title: '7 deadly sins of Agile: Pride'
+videoId: BDFrmCV_c68
+source: internal
+url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-pride
+layout: video
 aliases:
 - /resources/BDFrmCV_c68
 - /resources/videos/7-deadly-sins-of-agile-pride
@@ -20,30 +39,11 @@ aliasesArchive:
 - /resources/pride!-7-deadly-sins-of-agile
 - /resources/videos/pride-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-pride
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-- Pragmatic Thinking
-- Customer Focus
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BDFrmCV_c68
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:48Z
-  short_title: 2025-07-07T17:52:26Z
+isShort: false
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

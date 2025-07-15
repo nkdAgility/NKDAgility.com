@@ -1,13 +1,30 @@
 ---
-title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Training and Team Dynamics'
 short_title: Agile Training with Minecraft Case Study
 description: Discover how using a Minecraft-based case study enhances Agile training by boosting engagement, illustrating complexity, and improving team collaboration in real-world scenarios.
 date: 2023-08-29T07:00:14Z
-weight: 1000
 ResourceId: dTE8-Z1ZgA4
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:48Z
+  short_title: 2025-07-07T17:53:19Z
+title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Training and Team Dynamics'
+videoId: dTE8-Z1ZgA4
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
+layout: video
 aliases:
 - /resources/dTE8-Z1ZgA4
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
@@ -18,28 +35,11 @@ aliasesArchive:
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
-concepts: []
-categories:
-- Product Development
-tags:
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: dTE8-Z1ZgA4
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:09:48Z
-  short_title: 2025-07-07T17:53:19Z
+isShort: true
 
 ---
 When it comes to Agile training, I’ve had the privilege of working with some truly exceptional trainers, but Simon stands out as one of the best in the field. His dedication to delivering high-quality training in Agile [Product Strategy]({{< ref "/tags/product-strategy" >}}) (APS) is evident in everything he does. One of his standout contributions is the Minecraft case study he developed for the Enterprise Product Strategy (EPS) programme. 

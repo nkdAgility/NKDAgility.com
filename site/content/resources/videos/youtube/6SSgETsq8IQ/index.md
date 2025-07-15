@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking Success: How the Professional Scrum Product Owner Course Transforms Your Agile Journey'
 short_title: Professional Scrum Product Owner Course Guide
 description: Learn how the Professional Scrum Product Owner course builds agile skills, practical product management, and ongoing support for effective product ownership and team success.
 date: 2022-08-23T17:22:20Z
-weight: 1000
 ResourceId: 6SSgETsq8IQ
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
-aliases:
-- /resources/6SSgETsq8IQ
-- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
-- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
-aliasesArchive:
-- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
-- /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
-- /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
-- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
-- unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Management
@@ -28,22 +17,33 @@ tags:
 - Product Owner
 - Professional Scrum
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 6SSgETsq8IQ
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
-duration: 137
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:46Z
   short_title: 2025-07-07T17:57:22Z
+title: 'Unlocking Success: How the Professional Scrum Product Owner Course Transforms Your Agile Journey'
+videoId: 6SSgETsq8IQ
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+layout: video
+aliases:
+- /resources/6SSgETsq8IQ
+- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
+aliasesArchive:
+- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+- /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
+- /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
+- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
+- unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
+duration: 137
+resourceTypes:
+- video
+isShort: false
 
 ---
 As I reflect on my journey as a Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}), I can't help but emphasise the profound impact this role has on both [product development]({{< ref "/categories/product-development" >}}) and team dynamics. The [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Product Owner course is not just another training session; it’s an immersive experience that equips individuals with the skills and mindset necessary to thrive in today’s fast-paced, agile environments.

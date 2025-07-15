@@ -1,19 +1,31 @@
 ---
-title: 'Unlocking Project Management Potential: A Deep Dive into TFS Preview for Agile Teams'
 description: Explore how TFS Preview helps Agile teams manage projects with cloud-based source control, work tracking, Kanban boards, WIP limits, and early access to new features.
 date: 2013-08-17T07:27:19Z
-weight: 1000
 ResourceId: XCwb2-h8pZg
 ResourceType: videos
-ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+categories:
+- Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:24Z
+concepts: []
+title: 'Unlocking Project Management Potential: A Deep Dive into TFS Preview for Agile Teams'
 videoId: XCwb2-h8pZg
+source: youtube
 url: /resources/videos/:slug
 slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 layout: video
 aliases:
 - /resources/XCwb2-h8pZg
+- /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
+- /resources/videos/kanban-with-team-foundation-service
 aliasesArchive:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
@@ -21,19 +33,9 @@ aliasesArchive:
 - unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
-isShort: false
-tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
-Watermarks:
-  description: 2025-05-12T14:23:24Z
-concepts: []
+isShort: false
 
 ---
 Welcome to my blog! I’m Martin Hinshelwood, a Visual Studio ALM MVP, Visual Studio ALM Ranger, and a professional Scrum trainer. Today, I want to share my insights on TFS Preview, Microsoft’s cloud-based offering that’s making waves in the world of application lifecycle management. If you’re looking to enhance your project management capabilities, you’ll want to pay attention to what TFS Preview has to offer.

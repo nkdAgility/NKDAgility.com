@@ -1,13 +1,30 @@
 ---
-title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and Value'
 short_title: Transforming Technical Debt for Innovation
 description: Explores how addressing technical debt boosts innovation, team morale, and value delivery by enabling agile development, better products, and proactive organisational growth.
 date: 2024-11-20T16:53:31Z
-weight: 640
 ResourceId: 1M2_AVqoRbs
-ResourceImport: true
 ResourceType: videos
-slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:13Z
+  short_title: 2025-07-07T17:47:33Z
+title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and Value'
+videoId: 1M2_AVqoRbs
+source: youtube
+url: /resources/videos/:slug
+slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+layout: video
 aliases:
 - /resources/1M2_AVqoRbs
 - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
@@ -18,28 +35,11 @@ aliasesArchive:
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
 - transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 1M2_AVqoRbs
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
-layout: video
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:57:13Z
-  short_title: 2025-07-07T17:47:33Z
+isShort: true
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

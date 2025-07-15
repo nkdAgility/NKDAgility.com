@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking Continuous Improvement: How Metrics and Visual Tools Transform Your Workflow'
 short_title: Continuous Improvement with Metrics & Visual Tools
 description: Learn how using key metrics and visual tools like Kanban boards drives continuous workflow improvement, transparency, and informed decision-making in teams.
 date: 2024-08-15T07:04:39Z
-weight: 280
 ResourceId: sIhG2i7frpE
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-aliases:
-- /resources/sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-- /resources/videos/improving-workflow-with-kanban
-aliasesArchive:
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-- /resources/videos/improving-workflow-with-kanban
-- /resources/improving-workflow-with-kanban
-- unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 280
 concepts:
 - Principle
 categories:
@@ -32,22 +21,33 @@ tags:
 - Pragmatic Thinking
 - Transparency
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: sIhG2i7frpE
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
-duration: 50
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:08Z
   short_title: 2025-07-07T17:48:34Z
+title: 'Unlocking Continuous Improvement: How Metrics and Visual Tools Transform Your Workflow'
+videoId: sIhG2i7frpE
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+layout: video
+aliases:
+- /resources/sIhG2i7frpE
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+- /resources/videos/improving-workflow-with-kanban
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+- /resources/videos/improving-workflow-with-kanban
+- /resources/improving-workflow-with-kanban
+- unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
+duration: 50
+resourceTypes:
+- video
+isShort: true
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.

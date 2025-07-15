@@ -1,23 +1,12 @@
 ---
-title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
 short_title: Mastering Prioritisation for Product Owners
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 date: 2023-11-27T11:00:56Z
-weight: 1000
 ResourceId: xLUsgKWzkUM
-ResourceImport: true
 ResourceType: videos
-slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
-aliases:
-- /resources/xLUsgKWzkUM
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
-- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
-aliasesArchive:
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
-- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
-- /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
-- mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -28,22 +17,33 @@ tags:
 - Value Delivery
 - Product Backlog
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: xLUsgKWzkUM
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
-duration: 36
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:07:29Z
   short_title: 2025-07-07T17:51:28Z
+title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
+videoId: xLUsgKWzkUM
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+layout: video
+aliases:
+- /resources/xLUsgKWzkUM
+- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
+- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+aliasesArchive:
+- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
+- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
+- mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
+duration: 36
+resourceTypes:
+- video
+isShort: true
 
 ---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

@@ -1,25 +1,12 @@
 ---
-title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 short_title: Overcoming Agile Banditry for Product Owners
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
 date: 2024-01-10T07:00:11Z
-weight: 1000
 ResourceId: EoInrPvjBHo
-ResourceImport: true
 ResourceType: videos
-slug: how-to-overcome-agile-banditry-a-product-owner-s-journey
-aliases:
-- /resources/EoInrPvjBHo
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
-aliasesArchive:
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
-- how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Principle
 categories:
@@ -38,22 +25,34 @@ tags:
 - Self Organisation
 - Agile Product Management
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: EoInrPvjBHo
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
-duration: 197
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:30Z
   short_title: 2025-07-07T17:50:20Z
+title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
+videoId: EoInrPvjBHo
+source: internal
+url: /resources/videos/:slug
+slug: how-to-overcome-agile-banditry-a-product-owners-journey
+layout: video
+aliases:
+- /resources/EoInrPvjBHo
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+aliasesArchive:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
+- how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
+preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
+duration: 197
+resourceTypes:
+- video
+isShort: false
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.

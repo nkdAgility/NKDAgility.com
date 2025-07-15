@@ -1,23 +1,12 @@
 ---
-title: 'Agile is Not New: A Journey Back to the Basics'
 short_title: 'Agile’s Roots: Returning to Core Principles'
 description: Explores Agile’s historical roots, the loss of human connection in business, the impact of competence gaps, and why a return to core Agile principles is needed today.
 date: 2024-10-10T15:48:56Z
-weight: 355
 ResourceId: XhPHa1RXrWo
-ResourceImport: true
 ResourceType: videos
-slug: agile-is-not-new-a-journey-back-to-the-basics
-aliases:
-- /resources/XhPHa1RXrWo
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-aliasesArchive:
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/the-intention-of-agile-and-scrum
-- agile-is-not-new-a-journey-back-to-the-basics
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 355
 concepts:
 - Ethos
 categories:
@@ -31,22 +20,33 @@ tags:
 - Business Agility
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: XhPHa1RXrWo
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
-duration: 659
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:35Z
   short_title: 2025-07-07T17:47:51Z
+title: 'Agile is Not New: A Journey Back to the Basics'
+videoId: XhPHa1RXrWo
+source: internal
+url: /resources/videos/:slug
+slug: agile-is-not-new-a-journey-back-to-the-basics
+layout: video
+aliases:
+- /resources/XhPHa1RXrWo
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+aliasesArchive:
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+- /resources/the-intention-of-agile-and-scrum
+- agile-is-not-new-a-journey-back-to-the-basics
+preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
+duration: 659
+resourceTypes:
+- video
+isShort: false
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

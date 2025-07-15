@@ -1,13 +1,29 @@
 ---
-title: How can companies derive greater benefits from training by investing in a private training course?
 short_title: Benefits of Private Agile & DevOps Training
 description: Private training courses offer companies a safe, tailored environment for open discussion, deeper learning, and team-specific insights in Agile, Scrum, and DevOps practices.
 date: 2023-05-05T07:00:01Z
-weight: 680
 ResourceId: a2sXBMPHl2Y
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 680
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:41Z
+  short_title: 2025-07-07T17:55:26Z
+title: How can companies derive greater benefits from training by investing in a private training course?
+videoId: a2sXBMPHl2Y
+source: internal
+url: /resources/videos/:slug
 slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+layout: video
 aliases:
 - /resources/a2sXBMPHl2Y
 - /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
@@ -20,27 +36,11 @@ aliasesArchive:
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 - how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: a2sXBMPHl2Y
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:41Z
-  short_title: 2025-07-07T17:55:26Z
+isShort: false
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

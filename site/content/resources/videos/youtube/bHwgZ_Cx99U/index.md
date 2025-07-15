@@ -1,26 +1,12 @@
 ---
-title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
 short_title: Why More Teams Don’t Speed Up Delivery
 description: Adding more teams doesn’t guarantee faster delivery; effective scaling requires reducing dependencies, aligning goals, and minimising coordination overhead for real results.
 date: 2025-02-21T07:59:43Z
-weight: 415
 ResourceId: bHwgZ_Cx99U
-ResourceImport: true
 ResourceType: videos
-slug: why-more-teams-won't-speed-up-delivery-the-truth-about-scaling-effectively
-aliases:
-- /resources/bHwgZ_Cx99U
-- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/scaling-teams-without-losing-speed-or-quality
-- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
-aliasesArchive:
-- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/scaling-teams-without-losing-speed-or-quality
-- why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 415
 concepts: []
 categories:
 - Product Development
@@ -30,22 +16,35 @@ tags:
 - Team Collaboration
 - Value Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: bHwgZ_Cx99U
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
-duration: 76
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:49:32Z
   short_title: 2025-07-07T17:46:17Z
+title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
+videoId: bHwgZ_Cx99U
+source: youtube
+url: /resources/videos/:slug
+slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+layout: video
+aliases:
+- /resources/bHwgZ_Cx99U
+- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+- /resources/videos/scaling-teams-without-losing-speed-or-quality
+aliasesArchive:
+- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+- /resources/videos/scaling-teams-without-losing-speed-or-quality
+- why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
+preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
+duration: 76
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

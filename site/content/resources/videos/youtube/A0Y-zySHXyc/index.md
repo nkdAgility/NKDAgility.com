@@ -1,13 +1,31 @@
 ---
-title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
 short_title: Barriers to Accepting Product Owner Authority
 description: Explores key barriers preventing developers from accepting Product Owners’ authority, including accountability gaps, stakeholder interference, and trust issues.
 date: 2023-10-03T07:00:08Z
-weight: 790
 ResourceId: A0Y-zySHXyc
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts:
+- Accountability
+categories:
+- Scrum
+- Product Management
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:03Z
+  short_title: 2025-07-07T17:52:37Z
+title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
+videoId: A0Y-zySHXyc
+source: internal
+url: /resources/videos/:slug
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+layout: video
 aliases:
 - /resources/A0Y-zySHXyc
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-concepts:
-- Accountability
-categories:
-- Scrum
-- Product Management
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: A0Y-zySHXyc
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:09:03Z
-  short_title: 2025-07-07T17:52:37Z
+isShort: false
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

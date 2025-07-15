@@ -1,13 +1,33 @@
 ---
-title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
 short_title: 'Hiring an Agile Coach: Building Credibility'
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
 date: 2023-11-20T11:00:30Z
-weight: 640
 ResourceId: S1hBTkbZVFM
-ResourceImport: true
 ResourceType: videos
-slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Transformation
+- Coaching
+- Agile Leadership
+- Organisational Agility
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:43Z
+  short_title: 2025-07-07T17:51:39Z
+title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
+videoId: S1hBTkbZVFM
+source: internal
+url: /resources/videos/:slug
+slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+layout: video
 aliases:
 - /resources/S1hBTkbZVFM
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
@@ -19,31 +39,11 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agile Transformation
-- Coaching
-- Agile Leadership
-- Organisational Agility
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: S1hBTkbZVFM
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:43Z
-  short_title: 2025-07-07T17:51:39Z
+isShort: true
 
 ---
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and [leadership]({{< ref "/categories/leadership" >}})**. Let's dive into why this is so essential and how you can make the best hiring decision.

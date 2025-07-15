@@ -1,13 +1,31 @@
 ---
-title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 short_title: Evaluating and Adjusting Direction in Agile Teams
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
 date: 2024-01-20T07:00:00Z
-weight: 840
 ResourceId: 17qTGonSsbM
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:25Z
+  short_title: 2025-07-07T17:50:16Z
+title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
+videoId: 17qTGonSsbM
+source: internal
+url: /resources/videos/:slug
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
+layout: video
 aliases:
 - /resources/17qTGonSsbM
 - /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
@@ -19,29 +37,11 @@ aliasesArchive:
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
 - the-importance-of-evaluating-direction-are-you-heading-the-right-way
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 17qTGonSsbM
-source: internal
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-layout: video
-Watermarks:
-  description: 2025-05-07T13:06:25Z
-  short_title: 2025-07-07T17:50:16Z
+isShort: false
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

@@ -1,24 +1,12 @@
 ---
-title: How Do You Know the Value Currently Delivered in Your Organization?
 short_title: Measuring Value Delivered with Evidence-Based Management
 description: Learn how Evidence-Based Management helps organisations measure delivered value using key metrics like customer satisfaction, employee engagement, and product usage data.
 date: 2024-01-23T11:00:05Z
-weight: 1000
 ResourceId: 5qtS7DYGi5Q
-ResourceImport: true
 ResourceType: videos
-slug: how-do-you-know-the-value-currently-delivered-in-your-organization
-aliases:
-- /resources/5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-aliasesArchive:
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Principle
 categories:
@@ -38,22 +26,34 @@ tags:
 - Customer Satisfaction
 - Value Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 5qtS7DYGi5Q
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
-duration: 37
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:06:19Z
   short_title: 2025-07-07T17:50:11Z
+title: How Do You Know the Value Currently Delivered in Your Organization?
+videoId: 5qtS7DYGi5Q
+source: internal
+url: /resources/videos/:slug
+slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+layout: video
+aliases:
+- /resources/5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+aliasesArchive:
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
+duration: 37
+resourceTypes:
+- video
+isShort: true
 
 ---
 In today's fast-paced world, organizations must understand their value to make informed decisions and drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.

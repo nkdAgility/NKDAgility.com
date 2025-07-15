@@ -1,26 +1,12 @@
 ---
-title: 'Unlocking Agile’s Core: Questioning to Create Value'
 short_title: 'Unlocking Agile: Questioning to Create Value'
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 date: 2024-01-23T07:00:07Z
-weight: 750
 ResourceId: M4ap4uNzptg
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-agile-s-core-questioning-to-create-value
-aliases:
-- /resources/M4ap4uNzptg
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations
-- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
-aliasesArchive:
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/agile-is-failing-organizations!
-- /resources/videos/agile-is-failing-organizations
-- unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 750
 concepts:
 - Principle
 categories:
@@ -43,22 +29,35 @@ tags:
 - Market Adaptability
 - Business Agility
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: M4ap4uNzptg
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
-duration: 241
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:21Z
   short_title: 2025-07-07T17:50:12Z
+title: 'Unlocking Agile’s Core: Questioning to Create Value'
+videoId: M4ap4uNzptg
+source: internal
+url: /resources/videos/:slug
+slug: unlocking-agiles-core-questioning-to-create-value
+layout: video
+aliases:
+- /resources/M4ap4uNzptg
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations
+aliasesArchive:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations!
+- /resources/agile-is-failing-organizations!
+- /resources/videos/agile-is-failing-organizations
+- unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
+preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
+duration: 241
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
