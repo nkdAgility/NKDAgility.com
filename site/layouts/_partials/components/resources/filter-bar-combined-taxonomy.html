@@ -102,16 +102,21 @@
     const conceptsColumn = document.querySelector(".col-4:nth-child(1) .taxonomy-column");
     const categoriesColumn = document.querySelector(".col-4:nth-child(2) .taxonomy-column");
     const tagsContainer = document.getElementById("tagsContainer");
+    const searchBox = document.getElementById("tagSearch");
 
-    if (conceptsColumn && categoriesColumn && tagsContainer) {
+    if (conceptsColumn && categoriesColumn && tagsContainer && searchBox) {
       const conceptsHeight = conceptsColumn.scrollHeight;
       const categoriesHeight = categoriesColumn.scrollHeight;
       const maxHeight = Math.max(conceptsHeight, categoriesHeight);
 
-      // Set a reasonable max height, but allow it to grow with the other columns
+      // Get the search box height including margins
+      const searchBoxHeight = searchBox.offsetHeight + 16; // 16px for mb-2 margin
+
+      // Set a reasonable max height, but subtract the search box height
       if (maxHeight > 100) {
         // Only apply if there's meaningful content
-        tagsContainer.style.maxHeight = maxHeight + "px";
+        const adjustedHeight = Math.max(150, maxHeight - searchBoxHeight); // Ensure minimum 150px
+        tagsContainer.style.maxHeight = adjustedHeight + "px";
       }
     }
   }
