@@ -35,7 +35,7 @@
     <ul class="pagination d-flex justify-content-center">
       {{ if $paginator.HasPrev }}
         <li class="page-item">
-          <a class="page-link" href="{{ $paginator.Prev.URL }}#learnMore">Previous</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ $paginator.Prev.URL }}#learnMore">Previous</a>
         </li>
       {{ end }}
 
@@ -46,11 +46,11 @@
       {{/* Always show first page if we're not close to it */}}
       {{ if gt $currentPage (add $showRange 2) }}
         <li class="page-item">
-          <a class="page-link" href="{{ (index $paginator.Pagers 0).URL }}#filters">1</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ (index $paginator.Pagers 0).URL }}#filters">1</a>
         </li>
         {{ if gt $currentPage (add $showRange 3) }}
           <li class="page-item disabled">
-            <span class="page-link">...</span>
+            <span class="page-link text-body-secondary bg-body border-secondary">...</span>
           </li>
         {{ end }}
       {{ end }}
@@ -60,7 +60,7 @@
         {{ $pageNum := .PageNumber }}
         {{ if and (ge $pageNum (sub $currentPage $showRange)) (le $pageNum (add $currentPage $showRange)) }}
           <li class="page-item {{ if eq . $paginator }}active{{ end }}">
-            <a class="page-link" href="{{ .URL }}#filters">{{ .PageNumber }}</a>
+            <a class="page-link {{ if eq . $paginator }}bg-primary border-primary text-white{{ else }}text-body bg-body border-secondary{{ end }}" href="{{ .URL }}#filters">{{ .PageNumber }}</a>
           </li>
         {{ end }}
       {{ end }}
@@ -69,17 +69,17 @@
       {{ if lt $currentPage (sub $totalPages (add $showRange 1)) }}
         {{ if lt $currentPage (sub $totalPages (add $showRange 2)) }}
           <li class="page-item disabled">
-            <span class="page-link">...</span>
+            <span class="page-link text-body-secondary bg-body border-secondary">...</span>
           </li>
         {{ end }}
         <li class="page-item">
-          <a class="page-link" href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}#learnMore">{{ $totalPages }}</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}#learnMore">{{ $totalPages }}</a>
         </li>
       {{ end }}
 
       {{ if $paginator.HasNext }}
         <li class="page-item">
-          <a class="page-link" href="{{ $paginator.Next.URL }}#filters">Next</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ $paginator.Next.URL }}#filters">Next</a>
         </li>
       {{ end }}
     </ul>
