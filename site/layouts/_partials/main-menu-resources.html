@@ -18,7 +18,7 @@
                 {{- range $sortedPages }}
                   {{- $count :=  len .Pages }}
                   {{- if gt $count 0 }}
-                    <div class="col-md-6">
+                    <div class="col-12 col-md-4">
                       <div class="resource-list-item h-100">
                         <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.short_title | default .Title }} - {{ .Description }}">
                           <div class="d-flex align-items-center mb-1">

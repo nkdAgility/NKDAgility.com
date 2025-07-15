@@ -9,24 +9,15 @@
           <div class="col-md-2">
             <h5>{{- $company.Title }}</h5>
             <p>{{- $company.Description }}</p>
+            <a href="{{- $company.Permalink }}" class="btn btn-outline-primary btn-sm">Overview</a>
           </div>
           <div class="col-md-10">
             <div class="m-1">
               <h5>Company Pages</h5>
               <div class="row g-2 mb-4">
-                <div class="col-md-6">
-                  <div class="company-list-item h-100">
-                    <a href="{{- $company.Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- $company.Title }} - {{ $company.Description }}">
-                      <div class="d-flex align-items-center mb-1">
-                        <span class="fw-semibold">Overview</span>
-                      </div>
-                      <div class="company-description text-muted small">{{ $company.Description }}</div>
-                    </a>
-                  </div>
-                </div>
                 {{- range $company.Pages }}
                   {{- if not .Draft }}
-                    <div class="col-md-6">
+                    <div class="col-12 col-md-4">
                       <div class="company-list-item h-100">
                         <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Title }} - {{ .Description }}">
                           <div class="d-flex align-items-center mb-1">
@@ -48,7 +39,7 @@
               <div class="row g-2 mb-4">
                 {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Principle") }}
                 {{- range $filtered }}
-                  <div class="col-md-6">
+                  <div class="col-12 col-md-4">
                     <div class="people-list-item h-100">
                       <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
                         <div class="d-flex align-items-center mb-1">
@@ -70,7 +61,7 @@
                 {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Consultant" "Trainer") }}
                 {{- range $filtered }}
                   {{- if and (not (index .Params "people-abilities" | intersect (slice "Associate" "Principle") | len)) (not .Draft) }}
-                    <div class="col-md-6">
+                    <div class="col-12 col-md-4">
                       <div class="people-list-item h-100">
                         <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
                           <div class="d-flex align-items-center mb-1">
@@ -92,7 +83,7 @@
               <div class="row g-2 mb-4">
                 {{- range (where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Business")) }}
                   {{- if not .Draft }}
-                    <div class="col-md-6">
+                    <div class="col-12 col-md-4">
                       <div class="people-list-item h-100">
                         <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
                           <div class="d-flex align-items-center mb-1">
@@ -115,7 +106,7 @@
                 {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Associate" ) }}
                 {{- range $filtered }}
                   {{- if not .Draft }}
-                    <div class="col-md-6">
+                    <div class="col-12 col-md-4">
                       <div class="people-list-item h-100">
                         <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
                           <div class="d-flex align-items-center mb-1">
