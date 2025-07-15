@@ -9,9 +9,7 @@
   <div class="d-inline-flex gap-2">
     <span class="text-white">Views:</span>
     {{- partial "components/resources/filter-bar-resource-type.html" . }}
-    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "concepts") }}
-    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "categories") }}
-    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "tags") }}
+    {{- partial "components/resources/filter-bar-combined-taxonomy.html" . }}
 
   </div>
 
