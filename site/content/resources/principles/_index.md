@@ -5,6 +5,7 @@ description: Our principles are the foundation of our work. They guide our decis
 draft: false
 layout: "section" # Hugo will use section.html to render the list of pages
 resourceType: principals
+resourceIsSection: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/
 headline:

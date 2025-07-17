@@ -50,9 +50,6 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:55Z
   short_title: 2025-07-07T16:40:37Z
-cascade:
-  _build:
-    list: false
 ---
 
 ## The Evidence-Based Management Guide
