@@ -80,6 +80,8 @@ Working on fewer things at a time, eliminating multi-tasking, helps organization
 
 EBM-PM builds upon Scrum.org’s empirically-based continuous improvement approach called Evidence-Based Management (EBM). EBM-PM uses a continuous feedback loop to help an organization realize its goals more effectively.
 
+![EBM-PM Continuous Feedback Loop](images/investing-for-Business-Agility-Apr2020.png)
+
 ## Why Budgeting Should Be Separated from Investing
 
 Many organizations combine budgeting with making investment decisions; they first see how many ideas, and how much they will cost, to determine how much they should spend on those ideas. The main problem with this approach is that at the time budget decisions need to be made, the costs and benefits of “ideas” is largely conjecture, and more planning effort does not improve the quality of the estimates. Organizations spend a lot of time and effort without producing very much benefit.
