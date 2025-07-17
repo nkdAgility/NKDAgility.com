@@ -2,7 +2,7 @@
 title: "The Evidence-Based Management Guide 2020: Improving Value Delivery under Conditions of Uncertainty"
 short_title: Evidence-Based Management Guide 2020
 description: Evidence-Based Management (EBM) guides organisations to improve value delivery under uncertainty by using empirical goals, measurement, and continuous experimentation.
-date: 2024-09-17
+date: 2020-01-01
 weight: 360
 ResourceId: Rv0ZjvwYVy5
 ResourceImport: false
