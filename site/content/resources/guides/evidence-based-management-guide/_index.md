@@ -8,7 +8,7 @@ ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
 slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
-authors:
+author:
   - Scrum.org
 aliases:
   - /learn/agile-delivery-kit/guides/evidence-based-management-guide

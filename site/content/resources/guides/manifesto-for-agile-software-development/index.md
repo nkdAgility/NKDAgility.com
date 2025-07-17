@@ -4,7 +4,7 @@ short_title: Manifesto for Agile Software Development
 description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
 date: 2024-09-17
 weight: 505
-authors:
+author:
   - Kent Beck
   - Mike Beedle
   - Arie van Bennekum

@@ -156,23 +156,6 @@ The ScrumMaster ensures that the Team has the meeting. The Team is responsible f
 
 The Daily Scrum is not a status meeting. It is not for anyone but the people transforming the Product Backlog items into an increment (the Team). The Team has committed to a Sprint Goal, and to these Product Backlog items. The Daily Scrum is an inspection of the progress toward that Sprint Goal (the three questions). Follow-on meetings usually occur to make adaptations to the upcoming work in the Sprint. The intent is to optimize the probability that the Team will meet its Goal. This is a key inspect and adapt meeting in the Scrum empirical process.
 
----
-
-title: Scrum Guide (February 2010)
-authors:
-
-- Ken Schwaber
-- Jeff Sutherland
-  date: February 2010
-
----
-
-![Cover Image Placeholder - Scrum February 2010](image-placeholder-cover)
-
-...\[Previous Content Redacted for Brevity]...
-
----
-
 ## Scrum Artifacts
 
 Scrum Artifacts include the Product Backlog, the Release Burndown, the Sprint Backlog, and the Sprint Burndown.

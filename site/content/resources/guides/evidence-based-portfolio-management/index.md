@@ -2,12 +2,12 @@
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
 short_title: Evidence-Based Portfolio Management
 description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
-date: 2025-07-16
+date: 2020-03-01
 weight: 1000
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
-authors:
+author:
   - Scrum.org
 slug: evidence-based-portfolio-management
 aliases:

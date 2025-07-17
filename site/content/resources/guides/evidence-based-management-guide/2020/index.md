@@ -19,7 +19,7 @@ aliases:
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-authors:
+author:
   - Scrum.org
 card:
   button:

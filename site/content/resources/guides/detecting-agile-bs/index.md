@@ -8,7 +8,7 @@ ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
 slug: detecting-agile-bs
-authors:
+author:
   - US DOD Defence Innovation Board
 aliases:
   - /Guides/Detecting-Agile-BS.html

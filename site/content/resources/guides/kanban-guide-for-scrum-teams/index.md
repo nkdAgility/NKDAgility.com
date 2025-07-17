@@ -7,7 +7,7 @@ weight: 840
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
-authors:
+author:
   - Steve Porter
   - Yuval Yeret
   - Daniel Vacanti

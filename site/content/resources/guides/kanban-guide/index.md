@@ -8,7 +8,7 @@ ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
 slug: kanban-guide
-authors:
+author:
   - John Coleman
   - Daniel Vacanti
 aliases:
