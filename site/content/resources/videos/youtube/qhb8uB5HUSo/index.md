@@ -3,7 +3,7 @@ title: 10  How NKD Agility Helps You Stay Ahead Without Losing Your Mind
 description: Cut through tech chaos—NKD Agility helps CTOs lead with clarity, confidence, and culture. Stop chasing change. Get the right guide. Watch now!
 date: 2025-07-18T06:00:00Z
 ResourceId: qhb8uB5HUSo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qhb8uB5HUSo
@@ -13,22 +13,22 @@ slug: 10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qhb8uB5HUSo
 aliases:
-- /resources/qhb8uB5HUSo
-- /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - /resources/qhb8uB5HUSo
+  - /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
 aliasesArchive:
-- /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
-- 10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - 10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
 preview: https://i9.ytimg.com/vi/qhb8uB5HUSo/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAPQaUb5Z0N0mb6KpKB_KbJsAytHQ
 duration: 75
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧭 You Don’t Have to Chase Change—You Just Need the Right Guide
+
+🧭 You Don’t Have to Chase Change—You Just Need the Right Guide
 🎥 Episode 10 of 10 — Finale Now Live
 
 As a CTO, you're surrounded by noise:
@@ -55,5 +55,5 @@ You don’t need to chase change.
 
 👇 Watch the finale now. Let’s build what’s next—on your terms. Visit https://nkdagility.com
 
-#CTO #TechLeadership #FutureProofCTO #EngineeringExcellence #StrategicAgility #NKDAgility #MartinHinshelwood #LeadWithClarity #TeamCulture #AdaptAndThrive 
- [Watch on Youtube](https://www.youtube.com/watch?v=qhb8uB5HUSo)
+#CTO #TechLeadership #FutureProofCTO #EngineeringExcellence #StrategicAgility #NKDAgility #MartinHinshelwood #LeadWithClarity #TeamCulture #AdaptAndThrive
+[Watch on Youtube](https://www.youtube.com/watch?v=qhb8uB5HUSo)

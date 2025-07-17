@@ -3,7 +3,7 @@ title: 6  Building Quality In—Not Inspecting It Later
 description: Stop testing quality in at the end—build it in from the start! Shift left with TDD, automation, and Azure DevOps for faster, better software.
 date: 2025-08-18T06:00:00Z
 ResourceId: Ny4mMLZX4UE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ny4mMLZX4UE
@@ -13,22 +13,22 @@ slug: 6-building-quality-innot-inspecting-it-later
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Ny4mMLZX4UE
 aliases:
-- /resources/Ny4mMLZX4UE
-- /resources/videos/6-building-quality-innot-inspecting-it-later
+  - /resources/Ny4mMLZX4UE
+  - /resources/videos/6-building-quality-innot-inspecting-it-later
 aliasesArchive:
-- /resources/videos/6-building-quality-innot-inspecting-it-later
-- 6-building-quality-innot-inspecting-it-later
+  - /resources/videos/6-building-quality-innot-inspecting-it-later
+  - 6-building-quality-innot-inspecting-it-later
 preview: https://i9.ytimg.com/vi/Ny4mMLZX4UE/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCWsJzPr_lUtXaQb9o83cYJ2ydRkw
 duration: 605
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧪 Don’t Test Quality In—Build It In From the Start
+
+🧪 Don’t Test Quality In—Build It In From the Start
 🎥 Episode 6 of 10 — From Legacy to Engineering Excellence with Azure DevOps
 
 Too many teams are still testing quality in—not building it in.
@@ -55,5 +55,5 @@ At NKD Agility, we help teams shift quality left using:
 If you want to stop testing quality in at the end—and start building it in at the core… Visit https://nkdagility.com
 
 👇 Watch now. Follow the full 10-part series to transform your engineering workflow.
-#AzureDevOps #EngineeringExcellence #BuildQualityIn #TestAutomation #ShiftLeft #DevOps #SoftwareTesting #NKDAgility #MartinHinshelwood #AgileEngineering #ContinuousDelivery 
- [Watch on Youtube](https://www.youtube.com/watch?v=Ny4mMLZX4UE)
+#AzureDevOps #EngineeringExcellence #BuildQualityIn #TestAutomation #ShiftLeft #DevOps #SoftwareTesting #NKDAgility #MartinHinshelwood #AgileEngineering #ContinuousDelivery
+[Watch on Youtube](https://www.youtube.com/watch?v=Ny4mMLZX4UE)

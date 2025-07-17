@@ -3,7 +3,7 @@ title: 7  How DevOps + Agile Enable Sustainable Adaptability
 description: Discover how DevOps + Agile build true adaptability—resilient teams, fast feedback, and systems ready for any change. Watch Episode 7 now!
 date: 2025-06-27T06:00:23Z
 ResourceId: RGSGuURMqA0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RGSGuURMqA0
@@ -13,22 +13,22 @@ slug: 7-how-devops-agile-enable-sustainable-adaptability
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=RGSGuURMqA0
 aliases:
-- /resources/RGSGuURMqA0
-- /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
+  - /resources/RGSGuURMqA0
+  - /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
 aliasesArchive:
-- /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
-- 7-how-devops-agile-enable-sustainable-adaptability
+  - /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
+  - 7-how-devops-agile-enable-sustainable-adaptability
 preview: https://i.ytimg.com/vi/RGSGuURMqA0/maxresdefault.jpg
 duration: 77
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🔄 DevOps + Agile: The Real Enablers of Adaptability
+
+🔄 DevOps + Agile: The Real Enablers of Adaptability
 🎥 Episode 7 of 10 — Just Released
 
 📍You don’t have to chase trends—if you’ve built adaptability into your core.
@@ -57,5 +57,5 @@ Because true adaptability isn’t about tools—it’s about people, practices, 
 
 👇 Tap to watch now. Follow the full 10-part series. Visit https://nkdagility.com
 
-#CTO #DevOps #Agile #SustainableAgility #TechLeadership #EngineeringExcellence #NKDAgility #MartinHinshelwood #FutureProofTeams #AdaptabilityAtScale 
- [Watch on Youtube](https://www.youtube.com/watch?v=RGSGuURMqA0)
+#CTO #DevOps #Agile #SustainableAgility #TechLeadership #EngineeringExcellence #NKDAgility #MartinHinshelwood #FutureProofTeams #AdaptabilityAtScale
+[Watch on Youtube](https://www.youtube.com/watch?v=RGSGuURMqA0)

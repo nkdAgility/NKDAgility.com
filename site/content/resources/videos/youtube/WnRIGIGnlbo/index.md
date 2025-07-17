@@ -3,7 +3,7 @@ title: 3  How to Evaluate New Tech Without Wasting Time or Budget
 description: Stop chasing tech hype! Learn how to evaluate new tools with ROI, strategy, and team fit—so you lead with clarity, not FOMO. Watch now!
 date: 2025-05-30T06:00:31Z
 ResourceId: WnRIGIGnlbo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WnRIGIGnlbo
@@ -13,22 +13,22 @@ slug: 3-how-to-evaluate-new-tech-without-wasting-time-or-budget
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WnRIGIGnlbo
 aliases:
-- /resources/WnRIGIGnlbo
-- /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - /resources/WnRIGIGnlbo
+  - /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
 aliasesArchive:
-- /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
-- 3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - 3-how-to-evaluate-new-tech-without-wasting-time-or-budget
 preview: https://i.ytimg.com/vi/WnRIGIGnlbo/maxresdefault.jpg
 duration: 72
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- ✋ Not Every Shiny Object Deserves Your Attention (or Budget)
+
+✋ Not Every Shiny Object Deserves Your Attention (or Budget)
 🎥 Episode 3 of 10 — Just Dropped
 
 🚨 The inbox lights up.
@@ -58,5 +58,5 @@ It’s about knowing why you say yes—or no—and building trust through clarit
 
 👇 Tap to watch now. Follow for the full 10-part series. Visit https://www.nkdagility.com
 
-#CTO #EmergingTech #EngineeringExcellence #TechLeadership #SmartDecisions #DevOps #NKDAgility #MartinHinshelwood #InnovationStrategy #NoMoreFOMO 
- [Watch on Youtube](https://www.youtube.com/watch?v=WnRIGIGnlbo)
+#CTO #EmergingTech #EngineeringExcellence #TechLeadership #SmartDecisions #DevOps #NKDAgility #MartinHinshelwood #InnovationStrategy #NoMoreFOMO
+[Watch on Youtube](https://www.youtube.com/watch?v=WnRIGIGnlbo)
