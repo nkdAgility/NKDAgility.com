@@ -19,9 +19,8 @@ aliases:
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-recommendedContent:
-videos:
-creator: Martin Hinshelwood
+authors:
+  - Scrum.org
 card:
   button:
     content: Learn More

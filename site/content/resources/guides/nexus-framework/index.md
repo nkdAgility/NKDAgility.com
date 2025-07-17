@@ -1,59 +1,61 @@
 ---
 title: Nexus Guide
-short_title: 'Nexus Guide: Scaling Scrum with Multiple Teams'
+short_title: "Nexus Guide: Scaling Scrum with Multiple Teams"
 description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
 date: 2024-09-17
 weight: 750
+author:
+  - Ken Schwaber
 ResourceId: iC8MlA3TE7S
 ResourceImport: false
 ResourceType: guides
 slug: nexus-guide
 aliases:
-- guides/Nexus-Framework/
-- guides/Nexus-Framework.html
-- /learn/agile-delivery-kit/guides/nexus-framework
-- /resources/iC8MlA3TE7S
+  - guides/Nexus-Framework/
+  - guides/Nexus-Framework.html
+  - /learn/agile-delivery-kit/guides/nexus-framework
+  - /resources/iC8MlA3TE7S
 aliasesArchive:
-- guides/Nexus-Framework/
-- guides/Nexus-Framework.html
-- /learn/agile-delivery-kit/guides/nexus-framework
+  - guides/Nexus-Framework/
+  - guides/Nexus-Framework.html
+  - /learn/agile-delivery-kit/guides/nexus-framework
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Increment
-- Professional Scrum
-- Agile Frameworks
-- Scaling
-- Software Development
-- Product Delivery
-- Product Backlog
-- Empirical Process Control
-- Social Technologies
-- Transparency
-- Value Delivery
-- Large Scale Agility
-- Working Software
-- Scrum Team
-- Agile Transformation
+  - Increment
+  - Professional Scrum
+  - Agile Frameworks
+  - Scaling
+  - Software Development
+  - Product Delivery
+  - Product Backlog
+  - Empirical Process Control
+  - Social Technologies
+  - Transparency
+  - Value Delivery
+  - Large Scale Agility
+  - Working Software
+  - Scrum Team
+  - Agile Transformation
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 references:
-- title: The 2020 Scrum Guide
-  url: https://scrumguides.org/scrum-guide.html
-- title: The Nexus Guide
-  url: https://www.scrum.org/resources/online-nexus-guide
+  - title: The 2020 Scrum Guide
+    url: https://scrumguides.org/scrum-guide.html
+  - title: The Nexus Guide
+    url: https://www.scrum.org/resources/online-nexus-guide
 recommendedContent:
-- collection: practices
-  path: _practices/definition-of-done-dod.md
-- collection: practices
-  path: _practices/definition-of-ready-dor.md
+  - collection: practices
+    path: _practices/definition-of-done-dod.md
+  - collection: practices
+    path: _practices/definition-of-ready-dor.md
 videos:
-- title: Overview of The Scrum Framework with Martin Hinshelwood
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Overview of The Scrum Framework with Martin Hinshelwood
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
 card:
   button:
@@ -63,8 +65,8 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:25Z
   short_title: 2025-07-07T16:40:33Z
-
 ---
+
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus
 
 January 2021

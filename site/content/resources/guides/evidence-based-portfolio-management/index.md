@@ -7,6 +7,8 @@ weight: 1000
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
+authors:
+  - Scrum.org
 slug: evidence-based-portfolio-management
 aliases:
   - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
