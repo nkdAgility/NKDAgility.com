@@ -7,6 +7,7 @@ aliases:
   - /blog/
 layout: bloglist
 resourceType: blog
+resourceIsSection: true
 sitemap:
   filename: sitemap.xml
   priority: 0.8

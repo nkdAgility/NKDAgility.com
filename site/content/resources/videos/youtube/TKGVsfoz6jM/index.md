@@ -1,9 +1,9 @@
 ---
 title: 5  From FOMO to Focus  Making Peace with Not Knowing It All
-description: 'Overwhelmed by tech FOMO? Discover how CTOs can shift from chasing trends to leading with clarity. Watch Episode 5: From FOMO to Focus!'
+description: "Overwhelmed by tech FOMO? Discover how CTOs can shift from chasing trends to leading with clarity. Watch Episode 5: From FOMO to Focus!"
 date: 2025-06-13T06:00:24Z
 ResourceId: TKGVsfoz6jM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TKGVsfoz6jM
@@ -13,22 +13,22 @@ slug: 5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TKGVsfoz6jM
 aliases:
-- /resources/TKGVsfoz6jM
-- /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - /resources/TKGVsfoz6jM
+  - /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
 aliasesArchive:
-- /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
-- 5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - 5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
 preview: https://i.ytimg.com/vi/TKGVsfoz6jM/maxresdefault.jpg
 duration: 77
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧠 From FOMO to Focus: Making Peace with Not Knowing It All
+
+🧠 From FOMO to Focus: Making Peace with Not Knowing It All
 🎥 Episode 5 of 10 — Now Playing
 
 “You don’t need to know everything—you need to know what matters.”
@@ -60,5 +60,5 @@ It’s about leading with clarity and intent.
 
 👇 Tap to watch now. Follow the full 10-part series. Visit https://www.nkdagility.com
 
-#CTO #FOMOtoFocus #TechLeadership #EngineeringExcellence #DevOpsStrategy #NKDAgility #MartinHinshelwood #ClarityOverChaos #StrategicTechDecisions #FutureProofCTO 
- [Watch on Youtube](https://www.youtube.com/watch?v=TKGVsfoz6jM)
+#CTO #FOMOtoFocus #TechLeadership #EngineeringExcellence #DevOpsStrategy #NKDAgility #MartinHinshelwood #ClarityOverChaos #StrategicTechDecisions #FutureProofCTO
+[Watch on Youtube](https://www.youtube.com/watch?v=TKGVsfoz6jM)

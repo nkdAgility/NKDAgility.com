@@ -3,7 +3,7 @@ title: 1  Legacy Systems Are Holding You Back
 description: Legacy systems slow innovation and frustrate teams. Discover how to break free and achieve engineering excellence with Azure DevOps. Watch now!
 date: 2025-07-14T06:00:00Z
 ResourceId: aN0ODVdECUw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: aN0ODVdECUw
@@ -13,22 +13,22 @@ slug: 1-legacy-systems-are-holding-you-back
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=aN0ODVdECUw
 aliases:
-- /resources/aN0ODVdECUw
-- /resources/videos/1-legacy-systems-are-holding-you-back
+  - /resources/aN0ODVdECUw
+  - /resources/videos/1-legacy-systems-are-holding-you-back
 aliasesArchive:
-- /resources/videos/1-legacy-systems-are-holding-you-back
-- 1-legacy-systems-are-holding-you-back
+  - /resources/videos/1-legacy-systems-are-holding-you-back
+  - 1-legacy-systems-are-holding-you-back
 preview: https://i.ytimg.com/vi/aN0ODVdECUw/maxresdefault.jpg
 duration: 264
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🛑 Legacy Systems Are Holding You Back
+
+🛑 Legacy Systems Are Holding You Back
 🎥 Episode 1 of 10 — From Legacy to Engineering Excellence with Azure DevOps
 
 Your legacy systems aren’t just old—they’re a bottleneck to innovation.
@@ -50,5 +50,5 @@ Because engineering excellence starts when you stop working around your systems 
 
 👇 Watch now. Follow the full 10-part series to learn how Azure DevOps and NKD Agility can help you modernize the right way.
 
-#LegacySystems #AzureDevOps #EngineeringExcellence #DevOpsTransformation #TechLeadership #NKDAgility #MartinHinshelwood #SoftwareArchitecture #InnovationStrategy #ModernEngineering 
- [Watch on Youtube](https://www.youtube.com/watch?v=aN0ODVdECUw)
+#LegacySystems #AzureDevOps #EngineeringExcellence #DevOpsTransformation #TechLeadership #NKDAgility #MartinHinshelwood #SoftwareArchitecture #InnovationStrategy #ModernEngineering
+[Watch on Youtube](https://www.youtube.com/watch?v=aN0ODVdECUw)

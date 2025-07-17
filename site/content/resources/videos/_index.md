@@ -5,6 +5,7 @@ short_title: "Videos"
 url: "/resources/videos/"
 layout: "section" # Hugo will use section.html to render the list of pages
 resourceType: videos
+resourceIsSection: true
 trustpilot: false
 headline:
   cards: []

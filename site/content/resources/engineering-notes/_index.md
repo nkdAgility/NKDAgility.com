@@ -5,6 +5,7 @@ short_title: "Engineering Notes"
 url: "/resources/engineering-notes/"
 layout: bloglist
 resourceType: engineering-notes
+resourceIsSection: true
 sitemap:
   filename: sitemap.xml
   priority: 0.8

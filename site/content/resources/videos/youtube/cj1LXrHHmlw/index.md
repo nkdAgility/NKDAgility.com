@@ -3,7 +3,7 @@ title: 4  Avoiding the Trap of the ‘Cool Stack’
 description: Don’t fall for the ‘cool stack’ trap—choose tech that fits your team, goals, and context. Innovation is about the right moves, not the trendiest tools.
 date: 2025-06-06T06:00:27Z
 ResourceId: cj1LXrHHmlw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cj1LXrHHmlw
@@ -13,22 +13,22 @@ slug: 4-avoiding-the-trap-of-the-cool-stack
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=cj1LXrHHmlw
 aliases:
-- /resources/cj1LXrHHmlw
-- /resources/videos/4-avoiding-the-trap-of-the-cool-stack
+  - /resources/cj1LXrHHmlw
+  - /resources/videos/4-avoiding-the-trap-of-the-cool-stack
 aliasesArchive:
-- /resources/videos/4-avoiding-the-trap-of-the-cool-stack
-- 4-avoiding-the-trap-of-the-cool-stack
+  - /resources/videos/4-avoiding-the-trap-of-the-cool-stack
+  - 4-avoiding-the-trap-of-the-cool-stack
 preview: https://i.ytimg.com/vi/cj1LXrHHmlw/maxresdefault.jpg
 duration: 72
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧱 Avoiding the Trap of the ‘Cool Stack’
+
+🧱 Avoiding the Trap of the ‘Cool Stack’
 🎥 Episode 4 of 10 — Now Playing
 
 “The hottest stack won’t help… if it’s wrong for your team.”
@@ -51,5 +51,5 @@ Sometimes doubling down on what’s already working.
 
 👇 Watch now. Follow for the full 10-part series. Visit https://www.nkdagility.com
 
-#CTO #TechStrategy #EngineeringExcellence #DevOpsLeadership #CoolStackTrap #Modernization #NKDAgility #MartinHinshelwood #ContextOverTrends #FutureReadyTech 
- [Watch on Youtube](https://www.youtube.com/watch?v=cj1LXrHHmlw)
+#CTO #TechStrategy #EngineeringExcellence #DevOpsLeadership #CoolStackTrap #Modernization #NKDAgility #MartinHinshelwood #ContextOverTrends #FutureReadyTech
+[Watch on Youtube](https://www.youtube.com/watch?v=cj1LXrHHmlw)

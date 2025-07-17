@@ -1,9 +1,9 @@
 ---
 title: 1  Why CTOs Feel Like They’re Always Behind
-description: 'CTOs: Drowning in tech trends and decision fatigue? Discover why you’re not alone—and how to lead with clarity, not overwhelm. Watch now!'
+description: "CTOs: Drowning in tech trends and decision fatigue? Discover why you’re not alone—and how to lead with clarity, not overwhelm. Watch now!"
 date: 2025-05-16T06:00:22Z
 ResourceId: JahDQ6odH0w
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JahDQ6odH0w
@@ -13,22 +13,22 @@ slug: 1-why-ctos-feel-like-theyre-always-behind
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=JahDQ6odH0w
 aliases:
-- /resources/JahDQ6odH0w
-- /resources/videos/1-why-ctos-feel-like-theyre-always-behind
+  - /resources/JahDQ6odH0w
+  - /resources/videos/1-why-ctos-feel-like-theyre-always-behind
 aliasesArchive:
-- /resources/videos/1-why-ctos-feel-like-theyre-always-behind
-- 1-why-ctos-feel-like-theyre-always-behind
+  - /resources/videos/1-why-ctos-feel-like-theyre-always-behind
+  - 1-why-ctos-feel-like-theyre-always-behind
 preview: https://i.ytimg.com/vi/JahDQ6odH0w/maxresdefault.jpg
 duration: 83
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧠 Why CTOs Feel Like They’re Always Behind
+
+🧠 Why CTOs Feel Like They’re Always Behind
 🎥 Episode 1 of 10 — Just Released
 
 📍AI microservices.
@@ -48,7 +48,7 @@ You shouldn’t try to test every trend.
 And you definitely can’t carry the weight of every decision on your own.
 
 🎯 That’s where NKD Agility comes in.
-In this 2-minute episode: 
+In this 2-minute episode:
 🧭 We unpack the emotional and strategic toll of tech overload
 🤝 Show how we partner with CTOs to bring clarity, confidence, and a custom-fit decision strategy
 🚀 Reveal how you can go from reactive to industry-pacing
@@ -57,5 +57,5 @@ This isn’t trend-chasing.
 It’s leadership-building.
 
 👇 Watch now. Follow for the full 10-part series. Visit https://www.nkdagility.com
-#CTO #TechLeadership #EngineeringExcellence #DigitalOverload #TechFOMO #DevOps #NKDAgility #MartinHinshelwood #ModernCTO #DecisionFatigueNoMore 
- [Watch on Youtube](https://www.youtube.com/watch?v=JahDQ6odH0w)
+#CTO #TechLeadership #EngineeringExcellence #DigitalOverload #TechFOMO #DevOps #NKDAgility #MartinHinshelwood #ModernCTO #DecisionFatigueNoMore
+[Watch on Youtube](https://www.youtube.com/watch?v=JahDQ6odH0w)

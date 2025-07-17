@@ -4,6 +4,8 @@ short_title: 'OKR Guide: Shared Focus, Measurable Outcomes'
 description: Comprehensive guide to using OKRs for shared focus, measurable outcomes, and strategic learning, including roles, events, best practices, and common pitfalls.
 date: 2025-06-26
 weight: 610
+author: 
+ - Martin Hinshelwood
 ResourceId: KcistbuSUsg
 ResourceImport: false
 ResourceType: guides
@@ -39,6 +41,7 @@ tags:
 - Project Management
 
 ---
+
 # OKR Guide
 
 A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning

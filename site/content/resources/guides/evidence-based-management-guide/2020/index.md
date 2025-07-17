@@ -1,71 +1,62 @@
 ---
-title: 'The Evidence-Based Management Guide 2020: Improving Value Delivery under Conditions of Uncertainty'
+title: "The Evidence-Based Management Guide 2020: Improving Value Delivery under Conditions of Uncertainty"
 short_title: Evidence-Based Management Guide 2020
 description: Evidence-Based Management (EBM) guides organisations to improve value delivery under uncertainty by using empirical goals, measurement, and continuous experimentation.
-date: 2024-09-17
+date: 2020-01-01
 weight: 360
 ResourceId: Rv0ZjvwYVy5
 ResourceImport: false
 ResourceType: guides
-slug: the-evidence-based-management-guide-2020-improving-value-delivery-under-conditions-of-uncertainty
+slug: 2020.1
 aliases:
-- /resources/Rv0ZjvwYVy5
+  - /resources/Rv0ZjvwYVy5
+  - /resources/guides/the-evidence-based-management-guide-2020-improving-value-delivery-under-conditions-of-uncertainty/
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
+  - practices/evidence-based-management-guide-2020
+  - practices/evidence-based-management-guide-2020.html
+  - guides/evidence-based-management-guide-2020
+  - guides/evidence-based-management-guide-2020.html
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-aliesses:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
-- practices/evidence-based-management-guide-2020
-- practices/evidence-based-management-guide-2020.html
-- guides/evidence-based-management-guide-2020
-- guides/evidence-based-management-guide-2020.html
-references:
-- title: The Evidence-Based Management Guide | Scrum.org
-  url: https://scrum.org/resources/evidence-based-management-guide
-- title: 'Evidence-based Management: Gathering the metrics'
-  url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-- title: Metrics that matter with evidence-based management
-  url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
-- title: 'Evidence-based Management: Gathering the metrics'
-  url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-- title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
-  url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
-recommendedContent: 
-videos: 
-creator: Martin Hinshelwood
+author:
+  - Scrum.org
 card:
   button:
     content: Learn More
   content: Discover more about "The Evidence-Based Management Guide and how it can help you in your Agile journey!
-  title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+  title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
 Watermarks:
   description: 2025-05-07T12:58:05Z
   short_title: 2025-07-07T16:40:39Z
 concepts:
-- Model
+  - Model
 categories:
-- Product Development
-- Product Management
-- Engineering Excellence
+  - Product Development
+  - Product Management
+  - Engineering Excellence
 tags:
-- Customer Focus
-- Evidence Based Management
-- Continuous Improvement
-- Current Value
-- Decision Making
-- Evidence Based Leadership
-- Experimentation
-- Metrics and Learning
-- Value Delivery
-- Empirical Process Control
-- Hypothesis Driven Development
-- Software Development
-- Operational Practices
-- Business Agility
-- Organisational Agility
-
+  - Customer Focus
+  - Evidence Based Management
+  - Continuous Improvement
+  - Current Value
+  - Decision Making
+  - Evidence Based Leadership
+  - Experimentation
+  - Metrics and Learning
+  - Value Delivery
+  - Empirical Process Control
+  - Hypothesis Driven Development
+  - Software Development
+  - Operational Practices
+  - Business Agility
+  - Organisational Agility
+build:
+  list: false
+  render: true
 ---
-### 2020
+
+### Version: 2020
 
 Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward [strategic goals]({{< ref "/tags/strategic-goals" >}}). Using intentional [experimentation]({{< ref "/tags/experimentation" >}}) and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information
 By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve.

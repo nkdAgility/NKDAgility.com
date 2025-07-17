@@ -12,7 +12,8 @@
     <section class="container container-heading">{{- partial "components/resources/filter-bar.html" . }}</section>
   </section>
   <section class="container my-2">
-    {{ $resources := where .Site.RegularPages "Type" "resources" }}
+    {{ $resources := where .Site.Pages "Type" "resources" }}
+    {{ $resources = where $resources "Params.ResourceIsSection" "ne" "true" }}
     {{ if ne $ResourceTypeFilter "signals" }}
       {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
     {{ end }}

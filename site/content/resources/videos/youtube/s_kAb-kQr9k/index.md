@@ -3,7 +3,7 @@ title: 9  Staying Technologically Competitive Without Burning Out
 description: Stay ahead in tech without burning out. Discover how CTOs can lead with clarity, not chaos—build resilience, not exhaustion. Watch now!
 date: 2025-07-11T06:00:53Z
 ResourceId: s_kAb-kQr9k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: s_kAb-kQr9k
@@ -13,22 +13,22 @@ slug: 9-staying-technologically-competitive-without-burning-out
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=s_kAb-kQr9k
 aliases:
-- /resources/s_kAb-kQr9k
-- /resources/videos/9-staying-technologically-competitive-without-burning-out
+  - /resources/s_kAb-kQr9k
+  - /resources/videos/9-staying-technologically-competitive-without-burning-out
 aliasesArchive:
-- /resources/videos/9-staying-technologically-competitive-without-burning-out
-- 9-staying-technologically-competitive-without-burning-out
+  - /resources/videos/9-staying-technologically-competitive-without-burning-out
+  - 9-staying-technologically-competitive-without-burning-out
 preview: https://i.ytimg.com/vi/s_kAb-kQr9k/maxresdefault.jpg
 duration: 66
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🔥 You Can’t Lead Innovation If You’re Burned Out
+
+🔥 You Can’t Lead Innovation If You’re Burned Out
 🎥 Episode 9 of 10 — Now Playing
 
 📍Pulled into a hundred decisions a day.
@@ -55,5 +55,5 @@ Resilient strategy does.
 
 👇 Tap to watch now. Follow the full 10-part series. Visit https://nkdagility.com
 
-#CTO #TechLeadership #AvoidBurnout #SustainableStrategy #EngineeringExcellence #NKDAgility #MartinHinshelwood #FutureReadyCTO #DoWhatMatters #LeadWithClarity 
- [Watch on Youtube](https://www.youtube.com/watch?v=s_kAb-kQr9k)
+#CTO #TechLeadership #AvoidBurnout #SustainableStrategy #EngineeringExcellence #NKDAgility #MartinHinshelwood #FutureReadyCTO #DoWhatMatters #LeadWithClarity
+[Watch on Youtube](https://www.youtube.com/watch?v=s_kAb-kQr9k)

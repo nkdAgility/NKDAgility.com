@@ -3,7 +3,7 @@ title: 9  Culture Shift  From Legacy Mindset to Modern Practice
 description: Ditch legacy mindsets for modern engineering! Learn how cultural shifts drive excellence—refactor, adapt, and evolve with Azure DevOps. Watch now!
 date: 2025-09-08T06:00:00Z
 ResourceId: vc1_x8KxSa0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vc1_x8KxSa0
@@ -13,22 +13,22 @@ slug: 9-culture-shift-from-legacy-mindset-to-modern-practice
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vc1_x8KxSa0
 aliases:
-- /resources/vc1_x8KxSa0
-- /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
+  - /resources/vc1_x8KxSa0
+  - /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
 aliasesArchive:
-- /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
-- 9-culture-shift-from-legacy-mindset-to-modern-practice
+  - /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
+  - 9-culture-shift-from-legacy-mindset-to-modern-practice
 preview: https://i9.ytimg.com/vi/vc1_x8KxSa0/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAZ5bxP5lppMgpy3CqWGZTcmuZwYw
 duration: 380
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🧠 Engineering Excellence Isn’t Just Technical—It’s Cultural
+
+🧠 Engineering Excellence Isn’t Just Technical—It’s Cultural
 🎥 Episode 9 of 10 — From Legacy to Engineering Excellence with Azure DevOps
 
 🚨 Still chasing a Big Bang rewrite?
@@ -54,5 +54,5 @@ But it’s far less risky than your 6th failed rewrite attempt.
 🛠️ Want your people as ready as your platform? Visit https://nkdagility.com
 
 👇 Watch now. Follow the full 10-part series to make change stick—culturally and technically.
-#EngineeringExcellence #LegacyMindset #ModernDevOps #AgileCulture #RefactorNotRewrite #ContinuousImprovement #AzureDevOps #NKDAgility #MartinHinshelwood #TechLeadership 
- [Watch on Youtube](https://www.youtube.com/watch?v=vc1_x8KxSa0)
+#EngineeringExcellence #LegacyMindset #ModernDevOps #AgileCulture #RefactorNotRewrite #ContinuousImprovement #AzureDevOps #NKDAgility #MartinHinshelwood #TechLeadership
+[Watch on Youtube](https://www.youtube.com/watch?v=vc1_x8KxSa0)

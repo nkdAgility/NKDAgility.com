@@ -3,7 +3,7 @@ title: 4  The Transition Roadmap  From Legacy to Modern
 description: Escape legacy pain! Discover a step-by-step roadmap to modern engineering with Azure DevOps—no grand plans, just real progress. Watch now!
 date: 2025-08-04T07:00:00Z
 ResourceId: YQ61AQW739A
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YQ61AQW739A
@@ -13,22 +13,22 @@ slug: 4-the-transition-roadmap-from-legacy-to-modern
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=YQ61AQW739A
 aliases:
-- /resources/YQ61AQW739A
-- /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
+  - /resources/YQ61AQW739A
+  - /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
 aliasesArchive:
-- /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
-- 4-the-transition-roadmap-from-legacy-to-modern
+  - /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
+  - 4-the-transition-roadmap-from-legacy-to-modern
 preview: https://i9.ytimg.com/vi/YQ61AQW739A/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLDgxpLWoJLJYOlFORIUC4e7TbJfNg
 duration: 586
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🗺️ From Legacy Pain to Engineering Excellence—One Step at a Time
+
+🗺️ From Legacy Pain to Engineering Excellence—One Step at a Time
 🎥 Episode 4 of 10 — From Legacy to Engineering Excellence with Azure DevOps
 
 Modernizing isn’t a checklist.
@@ -58,5 +58,5 @@ We help you uncover the real blockers—technical, cultural, or invisible fricti
 📌 Want a step-by-step path out of legacy pain?
 
 👇 Watch now. Follow the full 10-part series to start mapping your migration with Azure DevOps and NKD Agility.
-#LegacyModernization #AzureDevOps #EngineeringExcellence #DevOpsTransformation #TechLeadership #NKDAgility #MartinHinshelwood #ModernSoftwareEngineering #MigrationRoadmap 
- [Watch on Youtube](https://www.youtube.com/watch?v=YQ61AQW739A)
+#LegacyModernization #AzureDevOps #EngineeringExcellence #DevOpsTransformation #TechLeadership #NKDAgility #MartinHinshelwood #ModernSoftwareEngineering #MigrationRoadmap
+[Watch on Youtube](https://www.youtube.com/watch?v=YQ61AQW739A)

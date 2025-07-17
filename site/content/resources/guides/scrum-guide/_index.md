@@ -2,6 +2,9 @@
 title: The Scrum Guide
 short_title: The Scrum Guide
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
+author:
+  - Ken Schwaber
+  - Jeff Sutherland
 date: 2024-09-17
 weight: 690
 ResourceId: 59gcHh1fYtC
@@ -9,75 +12,75 @@ ResourceImport: false
 ResourceType: guides
 slug: the-scrum-guide
 aliases:
-- /guides/Scrum-Guide/
-- /guides/Scrum-Guide.html
-- /learn/agile-delivery-kit/guides/scrum-guide
-- /resources/guides/_guides/scrum-guide.md
-- /resources/59gcHh1fYtC
-- /the-2020-scrum-guide/
+  - /guides/Scrum-Guide/
+  - /guides/Scrum-Guide.html
+  - /learn/agile-delivery-kit/guides/scrum-guide
+  - /resources/guides/_guides/scrum-guide.md
+  - /resources/59gcHh1fYtC
+  - /the-2020-scrum-guide/
 aliasesArchive:
-- /guides/Scrum-Guide/
-- /guides/Scrum-Guide.html
-- /learn/agile-delivery-kit/guides/scrum-guide
-- /resources/guides/_guides/scrum-guide.md
-- /the-2020-scrum-guide/
+  - /guides/Scrum-Guide/
+  - /guides/Scrum-Guide.html
+  - /learn/agile-delivery-kit/guides/scrum-guide
+  - /resources/guides/_guides/scrum-guide.md
+  - /the-2020-scrum-guide/
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Increment
-- Professional Scrum
-- Product Developer
-- Transparency
-- Agile Frameworks
-- Scrum Team
-- Empirical Process Control
-- Agile Product Management
-- Software Development
-- Value Delivery
-- Scrum Master
-- Scrum Values
-- Agile Planning
-- Product Delivery
-- Team Performance
+  - Increment
+  - Professional Scrum
+  - Product Developer
+  - Transparency
+  - Agile Frameworks
+  - Scrum Team
+  - Empirical Process Control
+  - Agile Product Management
+  - Software Development
+  - Value Delivery
+  - Scrum Master
+  - Scrum Values
+  - Agile Planning
+  - Product Delivery
+  - Team Performance
 ResourceContentOrigin: Human
 resourceTypes: guide
-layout: guide
+layout: versioned
 downloads:
-- title: Scrum Guide 2020
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2020.pdf
-- title: Scrum Guide 2017
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2017.pdf
-- title: Scrum Guide 2016
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2016.pdf
-- title: Scrum Guide 2013
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2013-07.pdf
-- title: Scrum Guide 2011 v2
-  type: pdf
-  url: /assets/attachments/2011-07-Scrum_Guide.pdf
-- title: Scrum Guide 2011
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2011-07.pdf
-- title: Scrum Guide 2010
-  type: pdf
-  url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
+  - title: Scrum Guide 2020
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2020.pdf
+  - title: Scrum Guide 2017
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2017.pdf
+  - title: Scrum Guide 2016
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2016.pdf
+  - title: Scrum Guide 2013
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2013-07.pdf
+  - title: Scrum Guide 2011 v2
+    type: pdf
+    url: /assets/attachments/2011-07-Scrum_Guide.pdf
+  - title: Scrum Guide 2011
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2011-07.pdf
+  - title: Scrum Guide 2010
+    type: pdf
+    url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
 references:
-- title: The 2020 Scrum Guide
-  url: https://scrumguides.org/scrum-guide.html
+  - title: The 2020 Scrum Guide
+    url: https://scrumguides.org/scrum-guide.html
 recommendedContent:
-- collection: practices
-  path: _practices/definition-of-done-dod.md
-- collection: practices
-  path: _practices/definition-of-ready-dor.md
+  - collection: practices
+    path: _practices/definition-of-done-dod.md
+  - collection: practices
+    path: _practices/definition-of-ready-dor.md
 videos:
-- title: Overview of The Scrum Framework with Martin Hinshelwood
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Overview of The Scrum Framework with Martin Hinshelwood
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
 card:
   button:
@@ -87,8 +90,8 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
-
 ---
+
 The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
 {: .lead}
 
@@ -370,3 +373,25 @@ The Definition of Done creates transparency by providing everyone with a shared 
 If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriately for the product.
 
 Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+
+## End Note
+
+Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
+
+## Acknowledgements
+
+### People
+
+Of the thousands of people who have contributed to Scrum, we should single out those who were instrumental at the start: Jeff Sutherland worked with Jeff McKenna and John Scumniotales, and Ken Schwaber worked with Mike Smith and Chris Martin, and all of them worked together. Many others contributed in the ensuing years and without their help Scrum would not be refined as it is today.
+
+### Scrum Guide History
+
+Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA Conference in 1995. It essentially documented the learning that Ken and Jeff gained over the previous few years and made public the first formal definition of Scrum.
+
+The Scrum Guide documents Scrum as developed, evolved, and sustained for 30-plus years by Jeff Sutherland and Ken Schwaber. Other sources provide patterns, processes, and insights that complement the Scrum framework. These may increase productivity, value, creativity, and satisfaction with the results.
+
+The complete history of Scrum is described elsewhere. To honor the first places where it was tried and proven, we recognize Individual Inc., Newspage, Fidelity Investments, and IDX (now GE Medical).
+
+---
+
+© 2020 Ken Schwaber and Jeff Sutherland This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at https://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at https://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.

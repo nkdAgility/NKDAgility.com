@@ -3,7 +3,7 @@ title: 8  DevOps Governance  Secure, Compliant, and Scalable
 description: Unlock secure, compliant, and scalable DevOps! Discover how Azure DevOps governance boosts agility—no trade-offs, just engineering excellence.
 date: 2025-09-01T06:00:00Z
 ResourceId: X9eHflTb1Es
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: X9eHflTb1Es
@@ -13,22 +13,22 @@ slug: 8-devops-governance-secure-compliant-and-scalable
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=X9eHflTb1Es
 aliases:
-- /resources/X9eHflTb1Es
-- /resources/videos/8-devops-governance-secure-compliant-and-scalable
+  - /resources/X9eHflTb1Es
+  - /resources/videos/8-devops-governance-secure-compliant-and-scalable
 aliasesArchive:
-- /resources/videos/8-devops-governance-secure-compliant-and-scalable
-- 8-devops-governance-secure-compliant-and-scalable
+  - /resources/videos/8-devops-governance-secure-compliant-and-scalable
+  - 8-devops-governance-secure-compliant-and-scalable
 preview: https://i9.ytimg.com/vi/X9eHflTb1Es/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBA5BlXmnA6HN8yMMEBDx9K_CkqKQ
 duration: 228
 resourceTypes:
-- video
+  - video
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
- 🔐 Governance Doesn’t Kill Agility—It Protects It
+
+🔐 Governance Doesn’t Kill Agility—It Protects It
 🎥 Episode 8 of 10 — From Legacy to Engineering Excellence with Azure DevOps
 
 Security.
@@ -56,5 +56,5 @@ But with Azure DevOps, they’re actually built-in enablers of engineering excel
 
 👇 Watch now. Follow the full 10-part series to build DevOps governance that works.
 
-#AzureDevOps #DevOpsGovernance #EngineeringExcellence #SecureDelivery #AuditReady #ComplianceByDesign #NKDAgility #MartinHinshelwood #DevOpsAtScale #SecurityInDevOps 
- [Watch on Youtube](https://www.youtube.com/watch?v=X9eHflTb1Es)
+#AzureDevOps #DevOpsGovernance #EngineeringExcellence #SecureDelivery #AuditReady #ComplianceByDesign #NKDAgility #MartinHinshelwood #DevOpsAtScale #SecurityInDevOps
+[Watch on Youtube](https://www.youtube.com/watch?v=X9eHflTb1Es)
