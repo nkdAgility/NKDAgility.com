@@ -1,0 +1,47 @@
+<section class="container-fluid resources-headline-sharebar">
+  <section class="container">
+    {{- partial "components/resources/share-bar.html" . }}
+  </section>
+</section>
+<section class="container my-5">
+  <div><h2 id="overview">Overview</h2></div>
+  <div class="p-2 my-4">
+    {{- .Content }}
+  </div>
+</section>
+<section class="container my-5 p-2">
+  {{- partial "components/resources/comments.html" . }}
+</section>
+{{- $taxonomyName := .Title }}
+{{- $taxonomyShortName := .Title }}
+{{- $pages := where .Pages.ByWeight "Draft" "!=" true }}
+
+{{- $pagesWithData := slice }}
+{{- range $page := $pages }}
+  {{- with .Resources.GetMatch "data.index.classifications.json" }}
+    {{- $data := . | transform.Unmarshal }}
+    {{- $dataItem := index $data $taxonomyName }}
+    {{- if $dataItem }}
+      <!-- Ensure the taxonomy exists in the data -->
+      {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" ($dataItem.final_score | default 0)) }}
+    {{- else }}
+      {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" 0) }}
+    {{- end }}
+  {{- else }}
+    {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" 0) }}
+    <!-- Default when no data file -->
+  {{- end }}
+{{- end }}
+{{- $sortedPagesWithData := sort $pagesWithData "score" "desc" }}
+{{- $sortedPages := slice }}
+{{- range $sortedPagesWithData }}
+  {{- $sortedPages = $sortedPages | append .page.Page }}
+{{- end }}
+<section class="container-fluid resources-headline-sharebar">
+  <section class="container">{{- partial "components/resources/filter-bar.html" . }}</section>
+</section>
+<section class="container my-2">
+  <div class="container">
+    {{- partial "components/resources/resource-list-paged.html" (dict "context" . "resources" $sortedPages "isPreOrdered" true) }}
+  </div>
+</section>

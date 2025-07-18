@@ -8,7 +8,9 @@ resourceType: signals
 resourceIsSection: true
 trustpilot: false
 headline:
-  cards: []
+  title: "a·gen·tic a·gil·i·ty: sig·nals"
+  content: |
+    Bite-sized, timely social updates highlighting emerging trends, insights, and shifts in Agile, DevOps, Azure, and AI. Quick reads designed to keep you informed and ready to adapt.
 ---
 
 Overview of all Signals.

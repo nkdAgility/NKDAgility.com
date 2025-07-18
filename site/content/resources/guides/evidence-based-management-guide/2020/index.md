@@ -51,9 +51,6 @@ tags:
   - Operational Practices
   - Business Agility
   - Organisational Agility
-build:
-  list: false
-  render: true
 ---
 
 ### Version: 2020
