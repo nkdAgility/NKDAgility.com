@@ -19,7 +19,7 @@
         <div class="card-body d-flex flex-column position-relative">
           <div class="text-muted mb-2">
             <small>
-              <span aria-label="Category">{{ partial "components/resources/functions/get-first-classification.html" . }}</span>
+              <span aria-label="Category" itemprop="articleSection">{{ partial "components/resources/functions/get-first-classification.html" . }}</span>
               <span aria-hidden="true"> • </span>
               <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished" aria-label="Published on {{ .Date.Format "January 2, 2006" }}">
                 {{ .Date.Format "Jan 2, 2006" }}
@@ -58,6 +58,12 @@
           {{ range . }}
             <meta itemprop="keywords" content="{{ . }}" />
           {{ end }}
+        {{ end }}
+        {{ with .Params.preview_image }}
+          <meta itemprop="image" content="{{ . | absURL }}" />
+        {{ end }}
+        {{ with .Params.featured_image }}
+          <meta itemprop="image" content="{{ . | absURL }}" />
         {{ end }}
       </article>
     </div>
@@ -131,6 +137,11 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
+  "name": "{{ $page.Title | default "Resource Articles" }}",
+  "description": "{{ $page.Description | default "A curated list of articles and resources" }}",
+  "url": "{{ $page.Permalink }}",
+  "numberOfItems": {{ len $paginator.Pages }},
+  "itemListOrder": "https://schema.org/ItemListOrderDescending",
   "itemListElement": [
     {{ range $index, $page := $paginator.Pages }}
     {
@@ -139,11 +150,27 @@
       "item": {
         "@type": "Article",
         "name": {{ $page.Title | jsonify }},
+        "headline": {{ ($page.Params.short_title | default $page.Title) | jsonify }},
+        "description": {{ ($page.Description | default $page.Summary | truncate 150) | jsonify }},
         "url": {{ $page.Permalink | jsonify }},
-        "datePublished": {{ $page.Date.Format "2006-01-02" | jsonify }}
+        "datePublished": {{ $page.Date.Format "2006-01-02" | jsonify }}{{ with $page.Params.lastmod }},
+        "dateModified": {{ . | jsonify }}{{ end }}{{ with $page.Params.author }},
+        "author": {{ if (reflect.IsSlice .) }}{{ . | jsonify }}{{ else }}"{{ . }}"{{ end }}{{ end }}{{ with $page.Params.preview_image }},
+        "image": {{ (. | absURL) | jsonify }}{{ else }}{{ with $page.Params.featured_image }},
+        "image": {{ (. | absURL) | jsonify }}{{ end }}{{ end }}{{ $classification := partial "components/resources/functions/get-first-classification.html" $page }}{{ with $classification }},
+        "articleSection": {{ . | jsonify }}{{ end }}{{ with $page.Params.tags }},
+        "keywords": {{ delimit . ", " | jsonify }}{{ end }}
       }
     }{{ if ne $index (sub (len $paginator.Pages) 1) }},{{ end }}
     {{ end }}
-  ]
+  ]{{ if gt $paginator.TotalPages 1 }},
+  "mainEntity": {
+    "@type": "CollectionPage",
+    "name": "{{ $page.Title | default "Resource Articles" }}",
+    "numberOfItems": {{ $paginator.TotalNumberOfElements }},
+    "pageStart": {{ $paginator.PageNumber }},
+    "pageEnd": {{ $paginator.PageNumber }},
+    "totalPages": {{ $paginator.TotalPages }}
+  }{{ end }}
 }
 </script>
