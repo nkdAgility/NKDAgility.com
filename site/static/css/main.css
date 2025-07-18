@@ -1273,6 +1273,12 @@ html {
   border-radius: 0;
 }
 
+.section-bg-light-accent-alt {
+  background-color: var(--light-accent-color-alt-light);
+  color: var(--text-color);
+  padding: 2rem 3rem;
+}
+
 /* Ensure headings are visible on colored backgrounds */
 .section-bg-primary h1,
 .section-bg-primary h2,
@@ -1287,6 +1293,15 @@ html {
 .section-bg-secondary h5,
 .section-bg-secondary h6 {
   color: white;
+}
+
+.section-bg-light-accent-alt h1,
+.section-bg-light-accent-alt h2,
+.section-bg-light-accent-alt h3,
+.section-bg-light-accent-alt h4,
+.section-bg-light-accent-alt h5,
+.section-bg-light-accent-alt h6 {
+  color: var(--text-color);
 }
 
 /* Quote Section Styles */

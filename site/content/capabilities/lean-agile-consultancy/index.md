@@ -127,7 +127,7 @@ sections:
           - title: A true culture of delivery, learning, and continuous improvement
             icon: fa-square-check
   - type: none
-    backgroundColor: primary-light
+    backgroundColor: light-accent-alt
     title: Whats Included in Our Consulting Programs
     content: |
       - Business Agility Assessments (team-level & enterprise-wide)
@@ -137,6 +137,49 @@ sections:
       - Org design, role clarity, and decision flow mapping
       - Agile metrics dashboards and OKR integration
       - Leadership workshops and capability uplift
+  - title: World-Class Transformation Expertise
+    content: Access to the industry's most experienced agile, lean, and DevOps transformation professionals.
+    type: counters
+    counters:
+      - counter: "350"
+        counterAfter: "+"
+        content: "**Professional Scrum Trainers**"
+      - counter: "60"
+        counterAfter: "+"
+        content: "**Professional Kanban Trainers**"
+      - counter: "60"
+        counterAfter: "+"
+        content: "**DevOps Specialists**"
+      - counter: "25"
+        counterAfter: "+"
+        content: "**Countries with active consultants**"
+  - title: Why NKD Agility?
+    type: list
+    listType: list
+    list:
+      - title: Systems Thinkers & Engineers
+        icon: fa-brain
+        content: |
+          We go beyond the agile theory. We embed agile thinking into how your business runs.
+      - title: Outcome-Driven, Not Framework-Obsessed
+        icon: fa-flask
+        content: |
+          We tailor our approach to your context—no cookie-cutter playbooks.
+      - title: Evidence-Based, Flow-Focused
+        icon: fa-chart-scatter
+        content: |
+          We connect the dots between mission, metrics, and execution—so everyone knows why their work matters.
+      - title: Partners, Not Preachers
+        icon: fa-handshake-simple
+        content: |
+          We don’t "install Agile." We work alongside your teams to enable agility from within.
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: "We've helped teams like yours. Lets talk."
+      button:
+        text: "Schedule a call"
+        url: "/book"
 ---
 
 Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
