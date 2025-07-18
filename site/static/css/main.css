@@ -137,9 +137,22 @@ h6 {
   color: whitesmoke;
 }
 
+/* 
 .nkda-heading-primary {
   color: var(--primary-color-heading);
   font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
+} */
+
+.nkda-heading-primary {
+  color: var(--primary-color-heading);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
+  line-height: 1.2;
+  word-break: break-word;
 }
 
 .nkda-heading-primary-content {

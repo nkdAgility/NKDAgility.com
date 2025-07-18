@@ -1,6 +1,6 @@
 {{- define "headline" }}
   <section class="container-fluid resources-headline py-md-4">
-    <section class="container my-2 container-heading">
+    <section class="container my-2">
       {{- partial "components/pages/header.html" . }}
     </section>
   </section>
@@ -9,7 +9,7 @@
 {{- define "main" }}
   {{ $ResourceTypeFilter := .Params.ResourceType }}
   <section class="container-fluid resources-headline-sharebar">
-    <section class="container container-heading">{{- partial "components/resources/filter-bar.html" . }}</section>
+    <section class="container">{{- partial "components/resources/filter-bar.html" . }}</section>
   </section>
   <section class="container my-2">
     {{ $resources := where .Site.Pages "Type" "resources" }}
