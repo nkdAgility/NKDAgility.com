@@ -38,7 +38,7 @@ tags:
   - Common Goals
 ResourceContentOrigin: Human
 resourceTypes: guide
-layout: guide
+layout: versioned
 recommendedContent:
 videos:
 creator: Martin Hinshelwood
