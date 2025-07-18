@@ -30,7 +30,7 @@
           {{- end }}
         </div>
       </div>
-      {{ if and (eq .Type "resources") (ne .Kind "section") }}
+      {{ if and (eq .Type "resources") (not (or (eq .Params.resourceIsSection true) (eq .Params.resourceIsSection "true"))) }}
         <div class="mt-auto">{{- partial "components/resources/craft.html" . }}</div>
       {{ else if ne .Type "resources" }}
         {{- partial "components/pages/header-buttons.html" . }}
