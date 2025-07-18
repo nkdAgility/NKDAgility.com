@@ -1523,6 +1523,30 @@ html {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
+
+/* OutcomeHero on dark backgrounds - override theme colors */
+.section-bg-primary .outcome-hero-cta-text,
+.section-bg-secondary .outcome-hero-cta-text,
+.section-bg-primary .outcome-hero-cta-text strong,
+.section-bg-secondary .outcome-hero-cta-text strong {
+  color: white !important;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+.section-bg-primary .outcome-hero-button,
+.section-bg-secondary .outcome-hero-button {
+  background-color: transparent !important;
+  color: white !important;
+  border-color: white !important;
+}
+
+.section-bg-primary .outcome-hero-button:hover,
+.section-bg-secondary .outcome-hero-button:hover {
+  background-color: white !important;
+  color: var(--primary-color-background) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
 /* End SectionCTA Section Styles */
 
 /* TextNlist Section Styles */

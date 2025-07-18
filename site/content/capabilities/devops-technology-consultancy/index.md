@@ -188,13 +188,14 @@ sections:
         icon: fa-shield-halved
         content: |
           Our consulting ensures you’re ready for growth and compliance from day one.
-  - type: sectioncta
+  - type: outcomehero
     backgroundColor: primary
     cta:
-      content: "Ready to Upgrade Your DevOps Stack? Lets talk."
+      content: "Ready to Upgrade Your DevOps Stack? **Let's Talk**"
       button:
-        text: "Schedule a call"
+        text: "Connect With Us"
         url: "/book"
+    boxes: []
 ---
 
 Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
