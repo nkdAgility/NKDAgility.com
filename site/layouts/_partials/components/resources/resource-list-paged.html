@@ -1,6 +1,13 @@
 {{ $resources := .resources }}
 {{ $page := .context }}
-{{ $paginator := $page.Paginate ($resources.ByDate.Reverse) 60 }}
+{{ $IsPreOrdered := .isPreOrdered | default false }}
+{{ $jsonData := .jsonData }}
+{{ $isTerm := eq .Kind "term" }}
+{{ $isSection := eq .Kind "section" }}
+{{ if not $IsPreOrdered }}
+  {{ $resources = $resources.ByDate.Reverse }}
+{{ end }}
+{{ $paginator := $page.Paginate $resources 60 }}
 {{ $now := now }}
 <section class="row g-4" aria-label="Resource articles">
   {{ range $paginator.Pages }}
@@ -37,11 +44,19 @@
             {{ $truncatedDescription }}
           </p>
           <footer class="d-flex justify-content-between align-items-end mt-auto">
-            <div class="resource-icon d-flex align-items-center gap-1" aria-label="Resource type: {{ $resourceType | title }}">
-              {{- partial "components/resources/resource-icon.html" . }}
-              <span class="visually-hidden">{{ $resourceType | title }}</span>
-              <small class="text-muted">{{ $resourceType | title }}</small>
-            </div>
+            {{ if eq .Kind "term" }}
+              <div class="resource-icon d-flex align-items-center gap-1" aria-label="Classification Type: {{ .Type | title }}">
+                <i class="fa-regular fa-tag"></i>
+                <span class="visually-hidden">{{ .Type | title }}</span>
+                <small class="text-muted">{{ .Type | title }} ({{ len .Pages }})</small>
+              </div>
+            {{ else }}
+              <div class="resource-icon d-flex align-items-center gap-1" aria-label="Resource type: {{ $resourceType | title }}">
+                {{- partial "components/resources/resource-icon.html" . }}
+                <span class="visually-hidden">{{ $resourceType | title }}</span>
+                <small class="text-muted">{{ $resourceType | title }}</small>
+              </div>
+            {{ end }}
             {{ if .IsSection }}
               <i class="fa-regular fa-layer-group" aria-label="Multiple versions available" title="Multiple versions available"></i>
             {{ end }}
