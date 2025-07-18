@@ -1,7 +1,8 @@
 ---
-title: DevOps Technology Consultancy
+Title: DevOps Technology Consulting that delivers
+Description: We help your teams embed DevOps into culture and practice, removing friction, enabling flow, and driving delivery. Flow-focused, engineering-led, outcome-driven.
 short_title: DevOps Technology
-date: 2023-08-12
+date: 2025-07-18
 creator: Martin Hinshelwood
 weight: 20
 sitemap:
