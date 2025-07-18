@@ -26,19 +26,19 @@
               </time>
             </small>
           </div>
-          <header>
+          <header title="{{.Title}}">
             <h3 class="card-title h5 mb-2 fw-semibold" itemprop="headline">
               <a href="{{ .Permalink }}" 
-                 class="text-decoration-none text-reset stretched-link" 
+                 class="text-decoration-none text-reset" 
                  aria-describedby="desc-{{ .File.UniqueID }}"
                  itemprop="url">
-                {{ .Title }}
+                {{ .Params.short_title | default .Title }}
               </a>
             </h3>
           </header>
           <p class="card-text flex-grow-1" 
              id="desc-{{ .File.UniqueID }}" 
-             itemprop="description">
+             itemprop="description" title="{{ .Description | default .Summary }}">
             {{ $truncatedDescription }}
           </p>
           <footer class="d-flex justify-content-between align-items-end mt-auto">

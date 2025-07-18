@@ -8,6 +8,10 @@ resourceType: newsletters
 resourceIsSection: true
 aliases:
   - /newsletters/
+headline:
+  title: "a·gen·tic a·gil·i·ty: news·let·ters"
+  content: |
+    Stay updated with our latest insights and developments in Agentic Agility through our newsletters, featuring expert articles, case studies, and more.
 ---
 
 Agentic Agility

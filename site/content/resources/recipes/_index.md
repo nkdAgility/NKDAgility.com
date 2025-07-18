@@ -7,7 +7,9 @@ trustpilot: false
 resourceType: recipes
 resourceIsSection: true
 headline:
-  cards: []
+  title: "a·gen·tic a·gil·i·ty: re·ci·pes"
+  content: |
+    Explore our collection of recipes designed to help you implement Engineering Excellence & Technical Leadership practices effectively, providing step-by-step guidance and practical tips for success.
 ---
 
 Overview of all Resources.

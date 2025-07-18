@@ -16,17 +16,14 @@
     </div>
     <div class="col-12 col-xl-8 d-flex flex-column">
       <div class="flex-grow-1">
-        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
-        <h2 class="mb-4 nkda-heading-secondary">{{- .Params.short_title | markdownify }}</h2>
+        <h1 class="mb-4 nkda-heading-primary" title="{{- .Title }}">{{- .Params.headline.Title | default .Title }}</h1>
         <div class="text-white">
-          {{- if .Params.headline }}
+          {{- if .Params.headline.content }}
             <p class="mb-4">{{- .Params.headline.content | markdownify }}</p>
+          {{ else if .Params.subtitle }}
+            <p class="mb-4 ">{{- .Params.subtitle | markdownify }}</p>
           {{ else }}
-            {{- if .Params.subtitle }}
-              <p class="mb-4 ">{{- .Params.subtitle | markdownify }}</p>
-            {{ else }}
-              <p class="mb-4">{{- .Description | markdownify }}</p>
-            {{- end }}
+            <p class="mb-4">{{- .Description | markdownify }}</p>
           {{- end }}
         </div>
       </div>
