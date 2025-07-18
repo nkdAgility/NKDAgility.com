@@ -1,6 +1,7 @@
 ---
 title: Business Agility Consultancy
-date: 2023-08-12
+description: NKD Agility helps enterprises build true business agility - faster decisions, aligned teams, and real outcomes across the UK, EU, and North America.
+date: 2025-07-17
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -11,7 +12,7 @@ menus:
 weight: 30
 id: "49856"
 type: capabilities
-slug: lean-agile-consultancy
+slug: business-agility-consulting
 aliases:
   - /capabilities/lean-agile-consultancy/
   - /agile-consulting-coaching
@@ -20,7 +21,7 @@ card:
   button:
     content: Transform Your Organization
   title: Business Agility Consulting
-  content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
+  content: A practical consulting service that helps organisations move fast, align teams, and deliver real value with evidence-based business agility.
 headline:
   cards: []
   title: Business Agility Consulting
