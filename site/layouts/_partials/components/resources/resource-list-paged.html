@@ -42,6 +42,12 @@
               <span class="visually-hidden">{{ $resourceType | title }}</span>
               <small class="text-muted">{{ $resourceType | title }}</small>
             </div>
+            {{ if .IsSection }}
+              <i class="fa-regular fa-layer-group" aria-label="Multiple versions available" title="Multiple versions available"></i>
+            {{ end }}
+            {{ if .Params.forked_from }}
+              <i class="fa-regular fa-code-fork" aria-label="Fork of another Guide" title="Fork of another Guide"></i>
+            {{ end }}
             <span class="visually-hidden">Read more about {{ .Title }}</span>
           </footer>
         </div>
