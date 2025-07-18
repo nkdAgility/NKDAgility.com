@@ -21,6 +21,122 @@ card:
     content: Transform Your Organization
   title: Business Agility Consulting
   content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
+headline:
+  cards: []
+  title: Business Agility Consulting
+  content: |
+    Unlock Faster Decisions. Smarter Products. Aligned Teams.
+sections:
+  - type: outcomehero
+    cta:
+      content: "We have helped leaders like you. **Let's Talk**"
+      button:
+        text: "Connect With Us"
+        url: "/book"
+    boxes: []
+  - type: none
+    title: Why Business Agility Stalls in most Orgs
+    content: |
+      Most agile transformations focus on tools, jargon, and role changes.
+      But they ignore the real constraints:
+
+      -	Misaligned strategy and delivery
+      -	Dysfunctional team structures
+      -	A lack of measurable outcomes
+
+      You don’t need more frameworks.
+
+      You need **a partner who understands product, technology, and systems thinking.
+      That’s us**.
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "Thanks to Martin's guidance and support we successfully upgraded Azure DevOps from and unstable database, moved our dev teams to the latest Visual Studio, and implemented the finest build process ever known!
+
+      I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
+      - **Paul Martin | IT Director**
+  - type: boxesrow
+    title: What you get with NKD Agility
+    boxes:
+      - box:
+        title: Common Problems
+        items:
+          - title: Agile teams delivering unimportant work
+          - title: Miscommunication between execs and devs
+          - title: Teams constantly “doing agile” but not improving
+          - title: Sluggish release cycles and bloated backlogs
+          - title: No clear way to measure progress
+      - box:
+        title: Our Solutions
+        items:
+          - title: We help you align delivery with strategic outcomes using evidence-based management
+          - title: We bridge business and tech through shared metrics, goals, and feedback loops
+          - title: We coach toward outcome-driven agility, not just ceremonies and labels
+          - title: We implement flow-based systems that reduce WIP and accelerate value delivery
+          - title: "We introduce metrics that matter: Time to Learn, Time to Value, Value per Effort"
+  - title: Built for Organizations That Need to Move - Now
+    content: |
+      With NKD Agility you get:
+    type: list
+    listType: list
+    list:
+      - title: Speed to Decision
+        icon: fa-rocket-launch
+        content: |
+          No more analysis paralysis. We install decision-making frameworks that reduce cycle time and increase responsiveness.
+      - title: Flow Over Friction
+        icon: fa-chart-sine
+        content: |
+          We help you shift from project-based chaos to product-based flow—so value reaches customers faster.
+      - title: Strategic Clarity
+        icon: fa-compass
+        content: |
+          We connect the dots between mission, metrics, and execution—so everyone knows why their work matters.
+      - title: Enterprise-wide Alignment
+        icon: fa-objects-align-left
+        content: |
+          Business, Product, and Technology finally pull in the same direction. We make agility everyone’s business.
+  - type: none
+    backgroundColor: primary
+    title: From Frustration to Forward Momentum
+    content: |
+      There is a big difference in how you feel before and after working with us.
+  - type: symmetry
+    title: What you get with NKD Agility
+    boxes:
+      - box:
+        title: Before
+        items:
+          - title: Frustrated by misalignment and inertia
+            icon: fa-face-persevering
+          - title: Anxious about slow decisions and poor delivery
+            icon: fa-face-diagonal-mouth
+          - title: Overwhelmed by agile jargon and consultant-speak
+            icon: fa-face-nose-steam
+          - title: Tired of transformation theatre
+            icon: fa-face-tired
+      - box:
+        title: After
+        items:
+          - title: Aligned strategy, empowered teams, and visible impact
+            icon: fa-square-check
+          - title: Clear priorities, faster feedback loops, better outcomes
+            icon: fa-square-check
+          - title: Practical coaching, simple language, real-world results
+            icon: fa-square-check
+          - title: A true culture of delivery, learning, and continuous improvement
+            icon: fa-square-check
+  - type: none
+    backgroundColor: primary-light
+    title: Whats Included in Our Consulting Programs
+    content: |
+      - Business Agility Assessments (team-level & enterprise-wide)
+      - Evidence-Based Management setup
+      - Flow and throughput coaching (Kanban, Product Management, Lean UX)
+      - Product Operating Model design
+      - Org design, role clarity, and decision flow mapping
+      - Agile metrics dashboards and OKR integration
+      - Leadership workshops and capability uplift
 ---
 
 Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
