@@ -183,32 +183,89 @@ sections:
         url: "/book"
 ---
 
-Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
+🌍 Business Agility Consulting
+Unlock Faster Decisions. Smarter Products. Aligned Teams.
 
-We conduct health-checks to assess the current State of Agility within your organisation. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the evolution that follows as everyone works towards achieving the outcomes.
+Agile is everywhere—but impact isn’t.
+Your teams are busy, but delivery is slow.
+You’ve invested in frameworks, but still wrestle with silos, delays, and misaligned priorities.
+We help you build true Business Agility—so you can move fast, adapt with confidence, and deliver what matters.
+[⚡ Book An Obligation-Free Discovery Call]
 
-## Our Agile Consultancy Approach
+🚨 Why Business Agility Stalls in Most Organizations
+Most agile transformations focus on tools, jargon, and role changes.
+But they ignore the real constraints:
+• Misaligned strategy and delivery
+• Dysfunctional team structures
+• A lack of measurable outcomes
+You don’t need more frameworks.
+You need a partner who understands product, technology, and systems thinking.
+That’s us.
 
-We use our knowledge and experience in evolutionary change, using the agile mindset and lean thinking, to help organisations achieve their outcomes. We work with leadership to identify the outcomes that they want to accomplish and train teams in the agile mindset and lean thinking. For any of the outcomes, we will work with you using [evidence-based management](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) techniques to define how we will measure success.
+✅ What You Get With NKD Agility
+🔍 Common Problem 💡 Our Business Agility Solution
+Agile teams delivering unimportant work We help you align delivery with strategic outcomes using evidence-based management
+Miscommunication between execs and devs We bridge business and tech through shared metrics, goals, and feedback loops
+Teams constantly “doing agile” but not improving We coach toward outcome-driven agility, not just ceremonies and labels
+Sluggish release cycles and bloated backlogs We implement flow-based systems that reduce WIP and accelerate value delivery
+No clear way to measure progress We introduce metrics that matter: Time to Learn, Time to Value, Value per Effort
 
-Using an evidence-based mindset, along with this definition of success, we will examine the maturity and health of the organisation. This can have many different elements and almost always include Innovation Rate, On-Product Index, Usage Index, Installed Version Index as these key measures are known to be lacking in most organisations.
+🎯 Built for Organizations That Need to Move—Now
+With NKD Agility, you get:
+🚀 Speed to Decision
+No more analysis paralysis. We install decision-making frameworks that reduce cycle time and increase responsiveness.
+📈 Flow Over Friction
+We help you shift from project-based chaos to product-based flow—so value reaches customers faster.
+🧭 Strategic Clarity
+We connect the dots between mission, metrics, and execution—so everyone knows why their work matters.
+💬 Enterprise-wide Alignment
+Business, Product, and Technology finally pull in the same direction. We make agility everyone’s business.
 
-We analyse all of the data to understand the current state and create and adapt any recommendations tailored to the organisation. These recommended changes may include processes, practices, tools, as well as organisational dynamics and culture. We propose short, quick, incremental changes in the journey to achieving successful outcomes. Using an iterative approach allows us the flexibility to measure success continually and change direction if needed.
+🧠 From Frustration to Forward Momentum
+What you feel before NKD Agility What you feel after NKD Agility
+😤 Frustrated by misalignment and inertia ✅ Aligned strategy, empowered teams, and visible impact
+😰 Anxious about slow decisions and poor delivery ✅ Clear priorities, faster feedback loops, better outcomes
+🤯 Overwhelmed by agile jargon and consultant-speak ✅ Practical coaching, simple language, real-world results
+😒 Tired of transformation theatre ✅ A true culture of delivery, learning, and continuous improvement
 
-Our aproaches use the latest agile and lean practices to help your improve.
+🧰 What’s Included in Our Consulting Programs
+• 🔹 Business Agility Assessments (team-level & enterprise-wide)
+• 🔹 Evidence-Based Management setup
+• 🔹 Flow and throughput coaching (Kanban, Product Management, Lean UX)
+• 🔹 Product Operating Model design
+• 🔹 Org design, role clarity, and decision flow mapping
+• 🔹 Agile metrics dashboards and OKR integration
+• 🔹 Leadership workshops and capability uplift
 
-#### [Agile Evolution](https://nkdagility.com/agile-consultancy/)
+🧑‍💼 Who We Work With
+Our Business Agility Consulting is designed for:
+• ✅ CTOs and CIOs trying to improve speed, strategy, and outcomes
+• ✅ Product, Delivery, and Transformation Leads
+• ✅ Organizations shifting from project-centric to product-centric operating models
+• ✅ Enterprises where Agile is happening—but not delivering
 
-[Evolving your organisation](https://nkdagility.com/agile-consultancy/) requires profund change to help you deeply understand your customers, radically improve your organisational health, and rapidly adapt to changing market demands.
+🧠 Why NKD Agility?
+• 🧠 System Thinkers + Engineers
+We go beyond the agile theory. We embed agile thinking into how your business runs.
+• 🧪 Outcome-Driven, Not Framework-Obsessed
+We tailor our approach to your context—no cookie-cutter playbooks.
+• 📊 Evidence-Based, Flow-Focused
+We don’t guess. We measure. And we help you optimize what truly matters.
+• 🤝 Partners, Not Preachers
+We don’t "install Agile." We work alongside your teams to enable agility from within.
 
-#### Agile Consulting
+💬 What Clients Say
+“Insert favourite client quotation here”
+— Transformation Director, Global FinTech
 
-Our coaches use [evidence-based hypothesis-driven ideation](https://nkdagility.com/agile-consulting-coaching) and discovery techniques within an empirical process to help your organisation validate its efforts in delivering the highest possible return on investment.
+🎯 What Success Looks Like
+✅ Cross-functional teams aligned to product outcomes
+✅ Reduced time to decision and time to market
+✅ Enterprise-wide understanding of flow and value
+✅ Agile metrics that guide real conversations
+✅ A CTO who’s no longer stuck translating strategy into delivery
 
-#### Coach the Coaches
-
-Expertly trained [Scrum Masters](https://nkdagility.com/training/audiences/scrum-masters/) and coaches are critical to your company’s business agility. To support this, we can also provide coaching for coaches working to sustain high-performance teams and enable organisational change.
-
-#### [Agile Coaching](https://nkdagility.com/agile-consultancy/)
-
-Our [Agile and Leadership coaches](https://nkdagility.com/agile-consulting-coaching) help leaders and teams create clear organisational strategies with goals for success. We have access to over 350+ Professional Scrum trainers, 60+ Professional Kanban trainers, and 60+ DevOps experts.
+🚀 Ready to Build Real Business Agility?
+This isn’t a training gig or a framework install.
+It’s a guided partnership to make your business adaptive, resilient, and fast.
+[⚡ Book An Obligation-Free Business Agility Discovery Call]
