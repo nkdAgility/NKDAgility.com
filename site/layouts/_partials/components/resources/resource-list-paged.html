@@ -26,19 +26,14 @@
               </time>
             </small>
           </div>
-          <header title="{{.Title}}">
+          <header title="{{ .Title }}">
             <h3 class="card-title h5 mb-2 fw-semibold" itemprop="headline">
-              <a href="{{ .Permalink }}" 
-                 class="text-decoration-none text-reset" 
-                 aria-describedby="desc-{{ .File.UniqueID }}"
-                 itemprop="url">
+              <a href="{{ .Permalink }}" class="text-decoration-none text-reset" aria-describedby="desc-{{ .File.UniqueID }}" itemprop="url">
                 {{ .Params.short_title | default .Title }}
               </a>
             </h3>
           </header>
-          <p class="card-text flex-grow-1" 
-             id="desc-{{ .File.UniqueID }}" 
-             itemprop="description" title="{{ .Description | default .Summary }}">
+          <p class="card-text flex-grow-1" id="desc-{{ .File.UniqueID }}" itemprop="description" title="{{ .Description | default .Summary }}">
             {{ $truncatedDescription }}
           </p>
           <footer class="d-flex justify-content-between align-items-end mt-auto">
@@ -53,31 +48,28 @@
         {{ with .Params.author }}
           {{ if (reflect.IsSlice .) }}
             {{ range . }}
-              <meta itemprop="author" content="{{ . }}">
+              <meta itemprop="author" content="{{ . }}" />
             {{ end }}
           {{ else }}
-            <meta itemprop="author" content="{{ . }}">
+            <meta itemprop="author" content="{{ . }}" />
           {{ end }}
         {{ end }}
         {{ with .Params.tags }}
           {{ range . }}
-            <meta itemprop="keywords" content="{{ . }}">
+            <meta itemprop="keywords" content="{{ . }}" />
           {{ end }}
         {{ end }}
       </article>
     </div>
   {{ end }}
 </section>
-</div>
 
 <section class="py-3" aria-label="Pagination">
   <nav aria-label="Resource pagination navigation" role="navigation">
     <ul class="pagination d-flex justify-content-center">
       {{ if $paginator.HasPrev }}
         <li class="page-item">
-          <a class="page-link text-body bg-body border-secondary" 
-             href="{{ $paginator.Prev.URL }}#learnMore"
-             aria-label="Go to previous page">
+          <a class="page-link text-body bg-body border-secondary" href="{{ $paginator.Prev.URL }}#learnMore" aria-label="Go to previous page">
             <span aria-hidden="true">Previous</span>
           </a>
         </li>
@@ -90,9 +82,7 @@
       {{/* Always show first page if we're not close to it */}}
       {{ if gt $currentPage (add $showRange 2) }}
         <li class="page-item">
-          <a class="page-link text-body bg-body border-secondary" 
-             href="{{ (index $paginator.Pagers 0).URL }}#filters"
-             aria-label="Go to page 1">1</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ (index $paginator.Pagers 0).URL }}#filters" aria-label="Go to page 1">1</a>
         </li>
         {{ if gt $currentPage (add $showRange 3) }}
           <li class="page-item disabled">
@@ -106,10 +96,7 @@
         {{ $pageNum := .PageNumber }}
         {{ if and (ge $pageNum (sub $currentPage $showRange)) (le $pageNum (add $currentPage $showRange)) }}
           <li class="page-item {{ if eq . $paginator }}active{{ end }}">
-            <a class="page-link {{ if eq . $paginator }}bg-primary border-primary text-white{{ else }}text-body bg-body border-secondary{{ end }}" 
-               href="{{ .URL }}#filters"
-               aria-label="{{ if eq . $paginator }}Current page, {{ end }}Go to page {{ .PageNumber }}"
-               {{ if eq . $paginator }}aria-current="page"{{ end }}>
+            <a class="page-link {{ if eq . $paginator }}bg-primary border-primary text-white{{ else }}text-body bg-body border-secondary{{ end }}" href="{{ .URL }}#filters" aria-label="{{ if eq . $paginator }}Current page,{{ end }}Go to page {{ .PageNumber }}" {{ if eq . $paginator }}aria-current="page"{{ end }}>
               {{ .PageNumber }}
             </a>
           </li>
@@ -124,17 +111,13 @@
           </li>
         {{ end }}
         <li class="page-item">
-          <a class="page-link text-body bg-body border-secondary" 
-             href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}#learnMore"
-             aria-label="Go to page {{ $totalPages }}">{{ $totalPages }}</a>
+          <a class="page-link text-body bg-body border-secondary" href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}#learnMore" aria-label="Go to page {{ $totalPages }}">{{ $totalPages }}</a>
         </li>
       {{ end }}
 
       {{ if $paginator.HasNext }}
         <li class="page-item">
-          <a class="page-link text-body bg-body border-secondary" 
-             href="{{ $paginator.Next.URL }}#filters"
-             aria-label="Go to next page">
+          <a class="page-link text-body bg-body border-secondary" href="{{ $paginator.Next.URL }}#filters" aria-label="Go to next page">
             <span aria-hidden="true">Next</span>
           </a>
         </li>
