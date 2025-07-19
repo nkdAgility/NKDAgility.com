@@ -36,7 +36,7 @@
                 <div>
                   <div class="d-flex align-items-center gap-2 mb-1">
                     <h3 class="list-item-title mb-0">
-                      <a href="/capabilities/training-courses/{{ $context.source }}/{{ $termSlug }}/" class="text-decoration-none" style="color: inherit;">
+                      <a href="{{ .Page.Permalink }}" class="text-decoration-none" style="color: inherit;">
                         {{ .Page.Title }}
                       </a>
                     </h3>
@@ -62,7 +62,7 @@
                   {{- if .Page.Description }}
                     <p class="mb-0 text-muted small">
                       {{ .Page.Description }}
-                      <a href="/capabilities/training-courses/{{ $context.source }}/{{ $termSlug }}/" class="text-decoration-none ms-1">find out more</a>
+                      <a href="{{ .Page.Permalink }}" class="text-decoration-none ms-1">find out more</a>
                     </p>
                   {{- end }}
                 </div>
