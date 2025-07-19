@@ -1,7 +1,27 @@
+{{/* Taxonomies List Section Template - Displays taxonomy terms with matching pages
+
+  This template renders a taxonomy-based list where each term shows:
+  - An icon (Font Awesome class)
+  - The taxonomy term title as a link
+  - Badges showing count of pages by type
+  - Optional description with "find out more" link
+
+  Parameters:
+  - site: Hugo site object
+  - context: Section configuration object with:
+  - source: Name of the taxonomy to display (e.g., "delivery-audiences")
+  - types: Array of content types to filter by
+  - listType: Layout style - "default" or "boxed" (optional, defaults to "default")
+*/}}
+
 {{- $site := .site }}
 {{- $context := .context }}
+
+{{- $listType := $context.listType | default "default" }}
+
+
 <!-- Simple taxonomy listing -->
-<div class="list-section list-section-default">
+<div class="list-section list-section-{{ $listType }}">
   {{- range $taxonomyName, $terms := .site.Taxonomies }}
     {{- if eq $taxonomyName $context.source }}
       {{- range $terms.ByCount }}

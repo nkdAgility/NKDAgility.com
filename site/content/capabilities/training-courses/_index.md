@@ -151,6 +151,12 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
+  - title: Find Courses by Accountability
+    listType: "boxed"
+    type: taxonomies-list
+    source: delivery-audiences
+    types:
+      - course
   - type: list
     listType: list
     title: What Success Looks Like
@@ -193,11 +199,6 @@ sections:
         text: "Book a Call"
         url: "/book"
     boxes: []
-  - title: Find Courses by Accountability
-    type: taxonomies-boxes
-    source: delivery-audiences
-    types:
-      - course
 categories: []
 tags:
   - Agile Transformation
