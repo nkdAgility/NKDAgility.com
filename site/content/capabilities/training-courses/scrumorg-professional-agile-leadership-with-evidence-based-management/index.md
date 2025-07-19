@@ -66,7 +66,7 @@ categories:
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PALEBM-400x.png
 brandColour:
-shortTitle: Evidence-Based Management
+short_title: Evidence-Based Management
 card:
   button:
     content: ""

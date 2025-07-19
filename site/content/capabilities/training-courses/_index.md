@@ -33,23 +33,198 @@ card:
   title: Training Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
 headline:
-  title: Professional Training Programs
-  content: Interactive, activity-based training in Agile, Scrum, Kanban, DevOps, & complimentary practices  for all learning levels, roles, and needs.
-  subtitle: Training that Fits your Needs
-  cards:
-    - link: /capabilities/training-courses/scrum-training-courses/
-      image: Scrumorg-PST_licensed-1000.png
-      title: Scrum Training Courses
-      content: Interactive, activity-based training in Professional Scrum and complementary practices for various learning levels, roles and needs. NKDAgility offers professional Scrum training, and professional Scrum training courses that Scrum.org accredits.
-    - link: /capabilities/training-courses/kanban-training-courses/
-      image: PK-PKT@2x.png
-      title: Kanban Training Courses
-      content: Training courses and workshops to help you implement a Kanban strategy and maximise the flow of value to your end users. Visualise your work in process, and process, and continuously adapt to a process that best suits your needs. ProKanban.org accredits our Kanban training.
-    - link: /capabilities/training-courses/azure-devops-training-courses/
-      image: nkdagility-devops.png
-      title: Azure DevOps Training Courses
-      content: NKDAgility has proven expertise in working with Visual Studio & Azure DevOps.
+  cards: []
+  title: Training Programs
+  subtitle: Real-World Agile. Engineering-Driven. Outcome-Focused.
+  images:
+    - /images/PK-PKT@2x.png
+    - /images/Scrumorg-PST_licensed-1000.png
+    - /images/MVP_BlueOnly.png
+  content: |
+    Agile training shouldn't feel like theory camp.
+
+    You want training that **builds confidence, deepens capability, and results in meaningful improvement**, not just certifications.
 sections:
+  - type: outcomehero
+    cta:
+      content: "NKD Agility delivers hands-on, engineering-aware, transformation-ready training. **Led by mentors, not lecturers.**"
+      button:
+        text: "Book a Discovery Call"
+        url: "/book"
+    boxes: []
+  - type: none
+    title: Why Most Agile Training Fails to Stick
+    content: |
+      Most Agile training programs:
+
+      - Are overloaded with theory, light on application
+      - Ignore engineering realities and DevOps workflows
+      - Focus on certification, not capability
+      - Leave learners inspired—but unsupported
+
+      **Our training is different.**
+
+      We teach for **real environments**, with a blend of **training, coaching, and mentoring** that turns knowledge into action.
+  - type: boxesrow
+    title: What NKD Agility Training Delivers
+    boxes:
+      - box:
+        title: Typical Training Pitfall
+        items:
+          - title: Passive slide-deck lectures
+          - title: One-size-fits-all content
+          - title: Certification without impact
+          - title: Disconnect between Agile & DevOps
+          - title: Forgotten within a week
+      - box:
+        title: NKD Agility Approach
+        items:
+          - title: Interactive sessions grounded in real-world challenges
+          - title: Customized examples relevant to your domain and teams
+          - title: Training that supports actual delivery improvement
+          - title: Unified engineering + agility thinking in every class
+          - title: Follow-on coaching and mentoring available for lasting change
+  - title: Our Training Programs
+    content: |
+      Each course is certified and enhanced with NKD Agility’s proven transformation frameworks.
+    type: taxonomies-light
+    source: course-vendors
+    types:
+      - course
+  - title: Migration Excellence by the Numbers
+    backgroundColor: light-accent-alt
+    content: Proven results from hundreds of successful Azure DevOps migrations worldwide
+    type: counters
+    counters:
+      - counter: "2"
+        counterAfter: "B+"
+        content: "**Work Item Revisions Migrated**"
+      - counter: "2.5"
+        counterAfter: "TB"
+        content: "**Largest Collection Migrated**"
+      - counter: "500"
+        counterAfter: "+"
+        content: "**Successful Migrations Completed**"
+      - counter: "17"
+        counterAfter: "yrs"
+        content: "**Microsoft MVP Experience**"
+  - type: list
+    listType: list
+    title: Built for CTOs Who Want Strategic Advantage
+    content: "This service isn’t just about migration—it’s about enabling you to:"
+    list:
+      - title: "Do your real job:"
+        icon: fa-brain
+        content: |
+          Craft a compelling roadmap. Build strategic partnerships. Lead innovation.
+
+          We’ll handle the infrastructure shift so you can focus on impact.
+      - title: "Deliver business outcomes:"
+        icon: fa-chart-line
+        content: |
+          Our migrations don’t disrupt delivery. They increase it.
+
+          We build CI/CD pipelines that shorten cycle times and improve reliability.
+      - title: "Build technical leadership from within:"
+        icon: fa-rocket
+        content: |
+          Stop outsourcing transformation.
+
+          Start leading it, with coaching and capability uplift tailored to your org.
+  - type: symmetry
+    title: From Overwhelm to Control
+    boxes:
+      - box:
+        title: Before
+        items:
+          - title: Overwhelmed by legacy tech, resistance, and delivery delays
+            icon: fa-face-persevering
+          - title: Frustrated by technical debt and reactive firefighting
+            icon: fa-face-frown
+          - title: Tired of vendor dependence and team skill gaps
+            icon: fa-face-tired
+          - title: Anxious about security and compliance
+            icon: fa-face-anxious
+      - box:
+        title: After
+        items:
+          - title: Confident in a modern, streamlined, scalable DevOps environment
+            icon: fa-square-check
+          - title: In control of engineering strategy, roadmap, and delivery
+            icon: fa-timeline
+          - title: Empowered with internal capability and resilient architecture
+            icon: fa-users-gear
+          - title: Reassured by proactive, embedded governance and security-first DevOps
+            icon: fa-shield-halved
+  - type: list
+    listType: list
+    title: DevOps Migration Services Include
+    list:
+      - title: Migration from TFS, TFVC, or Classic Pipelines to Git & YAML
+        icon: fa-code-branch
+      - title: Architecture design (cloud-native, hybrid, or on-premise)
+        icon: fa-diagram-project
+      - title: CI/CD pipeline automation
+        icon: fa-arrows-rotate
+      - title: Security, governance, and compliance frameworks
+        icon: fa-lock
+      - title: Embedded coaching and DevOps capability uplift
+        icon: fa-chalkboard-user
+      - title: Post-migration audit and optimisation
+        icon: fa-magnifying-glass-chart
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "Thanks to Martin's guidance and support we successfully upgraded Azure DevOps from and unstable database, moved our dev teams to the latest Visual Studio, and implemented the finest build process ever known!
+
+      I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
+      - **Paul Martin | IT Director**
+  - type: list
+    title: Who We Work With
+    listType: list
+    list:
+      - title: CTOs, VPs of Engineering & Heads of DevOps
+        icon: fa-user-tie
+      - title: Enterprise teams modernising from legacy environments
+        icon: fa-building
+      - title: Organisations building engineering-led cultures
+        icon: fa-screwdriver-wrench
+  - type: none
+    backgroundColor: light-accent-alt
+    title: What Success Looks Like
+    content: |
+      - Git adoption across your dev teams
+      - High-trust CI/CD pipelines that deploy with confidence
+      - Engineers who understand and own their workflows
+      - A CTO recognised for strategic leadership, not firefighting
+  - type: list
+    title: Why NKD Agility?
+    listType: list
+    list:
+      - title: Microsoft MVP-Level Expertise
+        icon: fa-award
+        content: |
+          Martin Hinshelwood leads our engagements with rare hands-on expertise in Azure DevOps and engineering transformation.
+      - title: Engineering-First Approach
+        icon: fa-gear
+        content: |
+          We don’t just migrate tools—we build cultures of engineering excellence.
+      - title: Seamless, Zero-Disruption Transitions
+        icon: fa-bolt
+        content: |
+          Your teams stay productive. Your pipelines improve, fast.
+      - title: Capability That Lasts
+        icon: fa-graduation-cap
+        content: |
+          Our embedded coaching builds real, long-term capability in your organisation.
+  - type: outcomehero
+    backgroundColor: primary
+    cta:
+      content: "Legacy systems don’t need to hold you back. **Let’s talk.**"
+      button:
+        text: "Book a Migration Call"
+        url: "/book"
+    boxes: []
   - title: Our Proven Track Record​
     content: |
       Our training courses have been designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
@@ -107,11 +282,6 @@ sections:
   - title: Courses by Context
     type: taxonomies
     source: course-topics
-    types:
-      - course
-  - title: Courses by Vendor
-    type: taxonomies
-    source: course-vendors
     types:
       - course
   - title:
