@@ -34,7 +34,6 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
-  - Self-paced
 delivery-audiences:
   - Managers
   - Scrum Masters

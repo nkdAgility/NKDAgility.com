@@ -32,7 +32,6 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
-  - Self-paced
 delivery-audiences:
   - Product Owners
   - Product Managers
