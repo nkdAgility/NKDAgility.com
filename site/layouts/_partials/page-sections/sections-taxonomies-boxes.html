@@ -1,0 +1,56 @@
+{{- $site := .site }}
+{{- $context := .context }}
+<!-- Simple taxonomy listing -->
+<div class="list-section list-section-default">
+  {{- range $taxonomyName, $terms := .site.Taxonomies }}
+    {{- if eq $taxonomyName $context.source }}
+      {{- range $terms.ByCount }}
+        {{- $matchingPages := where .Pages "Type" "in" $context.types }}
+        {{- if and (gt (len .Pages) 0) (gt (len $matchingPages) 0) }}
+          {{- $termSlug := .Page.Title | urlize }}
+          {{- $matchingCount := len $matchingPages }}
+          <div class="list-item">
+            <div class="list-item-header">
+              <div class="d-flex align-items-start">
+                <i class="fas fa-chalkboard-user list-item-icon me-3" aria-hidden="true"></i>
+                <div>
+                  <div class="d-flex align-items-center gap-2 mb-1">
+                    <h3 class="list-item-title mb-0">
+                      <a href="/capabilities/training-courses/{{ $context.source }}/{{ $termSlug }}/" class="text-decoration-none" style="color: inherit;">
+                        {{ .Page.Title }}
+                      </a>
+                    </h3>
+                    <div class="d-flex flex-wrap gap-1">
+                      {{- $pagesByType := dict }}
+                      {{- range $matchingPages }}
+                        {{- $typeKey := .Type }}
+                        {{- $typePages := index $pagesByType $typeKey | default slice }}
+                        {{- $typePages = $typePages | append . }}
+                        {{- $pagesByType = merge $pagesByType (dict $typeKey $typePages) }}
+                      {{- end }}
+                      {{- range $type, $pages := $pagesByType }}
+                        {{- $displayType := $type }}
+                        {{- if eq $type "courses" }}
+                          {{- $displayType = "courses" }}
+                        {{- else }}
+                          {{- $displayType = $type }}
+                        {{- end }}
+                        <span class="badge bg-secondary">{{ len $pages }} {{ $displayType }}</span>
+                      {{- end }}
+                    </div>
+                  </div>
+                  {{- if .Page.Description }}
+                    <p class="mb-0 text-muted small">
+                      {{ .Page.Description }}
+                      <a href="/capabilities/training-courses/{{ $context.source }}/{{ $termSlug }}/" class="text-decoration-none ms-1">find out more</a>
+                    </p>
+                  {{- end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+</div>

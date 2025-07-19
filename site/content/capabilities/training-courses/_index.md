@@ -65,6 +65,11 @@ sections:
       **Our training is different.**
 
       We teach for **real environments**, with a blend of **training, coaching, and mentoring** that turns knowledge into action.
+  - title: Learning Experiences
+    type: taxonomies-list
+    source: course-learning-experiences
+    types:
+      - course
   - type: boxesrow
     title: What NKD Agility Training Delivers
     boxes:
@@ -84,150 +89,57 @@ sections:
           - title: Training that supports actual delivery improvement
           - title: Unified engineering + agility thinking in every class
           - title: Follow-on coaching and mentoring available for lasting change
+  - type: quote
+    title: Whats our learners say
+    backgroundColor: primary
+    quote: |
+      "Martin delivered Agile training at all levels for our EMEA consulting business which really helping in getting a baseline understanding of Agile ingrained and customer delivery standardised. I would highly recommend martin for Agile training/coaching for any business."
+      - **Bryan Lloyd, Technology Transformation Director, New Signature**
   - title: Our Training Programs
     content: |
       Each course is certified and enhanced with NKD Agility’s proven transformation frameworks.
-    type: taxonomies-light
+    type: taxonomies-list
     source: course-topics
     types:
       - course
-  - title: Migration Excellence by the Numbers
-    backgroundColor: light-accent-alt
-    content: Proven results from hundreds of successful Azure DevOps migrations worldwide
-    type: counters
-    counters:
-      - counter: "2"
-        counterAfter: "B+"
-        content: "**Work Item Revisions Migrated**"
-      - counter: "2.5"
-        counterAfter: "TB"
-        content: "**Largest Collection Migrated**"
-      - counter: "500"
-        counterAfter: "+"
-        content: "**Successful Migrations Completed**"
-      - counter: "17"
-        counterAfter: "yrs"
-        content: "**Microsoft MVP Experience**"
-  - type: list
-    listType: list
-    title: Built for CTOs Who Want Strategic Advantage
-    content: "This service isn’t just about migration—it’s about enabling you to:"
-    list:
-      - title: "Do your real job:"
-        icon: fa-brain
-        content: |
-          Craft a compelling roadmap. Build strategic partnerships. Lead innovation.
-
-          We’ll handle the infrastructure shift so you can focus on impact.
-      - title: "Deliver business outcomes:"
-        icon: fa-chart-line
-        content: |
-          Our migrations don’t disrupt delivery. They increase it.
-
-          We build CI/CD pipelines that shorten cycle times and improve reliability.
-      - title: "Build technical leadership from within:"
-        icon: fa-rocket
-        content: |
-          Stop outsourcing transformation.
-
-          Start leading it, with coaching and capability uplift tailored to your org.
+  - type: none
+    title: Training That Doesn’t End When the Class Does
+    content: |
+      Every program includes:
+      - Hands-on exercises based on real-world challenges
+      - Access to certified trainers with engineering backgrounds
+      - Opportunities to extend into mentorship or advisory support
+      - Integration with DevOps, product development, and business agility goals
+      - A community of practice and continued learning options
   - type: symmetry
     title: From Overwhelm to Control
     boxes:
       - box:
-        title: Before
+        title: From Uncertainty to Confidence
         items:
-          - title: Overwhelmed by legacy tech, resistance, and delivery delays
+          - title: Overwhelmed by complexity
             icon: fa-face-persevering
-          - title: Frustrated by technical debt and reactive firefighting
+          - title: Unsure how to apply Agile in real settings
             icon: fa-face-frown
-          - title: Tired of vendor dependence and team skill gaps
+          - title: Tired of fluffy training with no ROI
             icon: fa-face-tired
-          - title: Anxious about security and compliance
+          - title: Not taken seriously as a Scrum Master or Product Owner
             icon: fa-face-anxious
       - box:
-        title: After
+        title: What you feel after training
         items:
-          - title: Confident in a modern, streamlined, scalable DevOps environment
+          - title: Equipped with models, tools, and a clear path forward
             icon: fa-square-check
-          - title: In control of engineering strategy, roadmap, and delivery
-            icon: fa-timeline
-          - title: Empowered with internal capability and resilient architecture
-            icon: fa-users-gear
-          - title: Reassured by proactive, embedded governance and security-first DevOps
-            icon: fa-shield-halved
-  - type: list
-    listType: list
-    title: DevOps Migration Services Include
-    list:
-      - title: Migration from TFS, TFVC, or Classic Pipelines to Git & YAML
-        icon: fa-code-branch
-      - title: Architecture design (cloud-native, hybrid, or on-premise)
-        icon: fa-diagram-project
-      - title: CI/CD pipeline automation
-        icon: fa-arrows-rotate
-      - title: Security, governance, and compliance frameworks
-        icon: fa-lock
-      - title: Embedded coaching and DevOps capability uplift
-        icon: fa-chalkboard-user
-      - title: Post-migration audit and optimisation
-        icon: fa-magnifying-glass-chart
-  - type: quote
-    backgroundColor: primary
-    quote: |
-      "Thanks to Martin's guidance and support we successfully upgraded Azure DevOps from and unstable database, moved our dev teams to the latest Visual Studio, and implemented the finest build process ever known!
-
-      I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
-      - **Paul Martin | IT Director**
-  - type: list
-    title: Who We Work With
-    listType: list
-    list:
-      - title: CTOs, VPs of Engineering & Heads of DevOps
-        icon: fa-user-tie
-      - title: Enterprise teams modernising from legacy environments
-        icon: fa-building
-      - title: Organisations building engineering-led cultures
-        icon: fa-screwdriver-wrench
-  - type: none
-    backgroundColor: light-accent-alt
-    title: What Success Looks Like
-    content: |
-      - Git adoption across your dev teams
-      - High-trust CI/CD pipelines that deploy with confidence
-      - Engineers who understand and own their workflows
-      - A CTO recognised for strategic leadership, not firefighting
-  - type: list
-    title: Why NKD Agility?
-    listType: list
-    list:
-      - title: Microsoft MVP-Level Expertise
-        icon: fa-award
-        content: |
-          Martin Hinshelwood leads our engagements with rare hands-on expertise in Azure DevOps and engineering transformation.
-      - title: Engineering-First Approach
-        icon: fa-gear
-        content: |
-          We don’t just migrate tools—we build cultures of engineering excellence.
-      - title: Seamless, Zero-Disruption Transitions
-        icon: fa-bolt
-        content: |
-          Your teams stay productive. Your pipelines improve, fast.
-      - title: Capability That Lasts
-        icon: fa-graduation-cap
-        content: |
-          Our embedded coaching builds real, long-term capability in your organisation.
-  - type: outcomehero
-    backgroundColor: primary
-    cta:
-      content: "Legacy systems don’t need to hold you back. **Let’s talk.**"
-      button:
-        text: "Book a Migration Call"
-        url: "/book"
-    boxes: []
+          - title: Confident in using Scrum, EBM, and DevOps together
+            icon: fa-square-check
+          - title: Energized by real-world application and meaningful change
+            icon: fa-square-check
+          - title: Respected as a knowledgeable, capable Agile leader
+            icon: fa-square-check
   - title: Our Proven Track Record​
+    backgroundColor: light-accent-alt
     content: |
-      Our training courses have been designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
+      We focus on delivering real, measurable outcomes for our clients. Our training programs have empowered:
     type: counters
     counters:
       - counterAfter: +
@@ -239,59 +151,53 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
-  - title: Our training approach
-    contentClass: two-column-text
-    hideOnMobile: true
-    content: |
-      Our trainers are all accredited from Scrum.org, ProKanban.org, or Accentient and have the expertise backing it through long experience in delivering valuable outcomes to customers through an immersive learning philosophy.
-
-      The trainer will facilitate a team-based collaborative learning experience that is designed by some of the best minds in Agility & DevOps to plant the seeds of an agile mindset and tackle some of the hard questions. 
-
-      The courseware is designed to elicit conversations between participants on the hard truths of moving from traditional management practices to empirical management practices. Special attention is paid to the known and common misunderstandings of agility as well as the ideas that are usually swept away under the pressures of “how we do things here”.
-
-      To learn and adapt together it is important that all relevant levels of the organisation participate in the same training, as the realisations are profound. All organisations are different in terms of which ways of working are effective for them. Our training will help your people explore those options in an environment within which it is safe to fail.
-    type: none
-  - title: Learning Experiences
-    type: taxonomies-light
-    source: course-learning-experiences
-    types:
-      - course
-  - title: Corporate Training – Private, In-House Courses
-    content: Our private corporate training courses provide a customised and bespoke experience that is tailored for your organisation to maximise value.
-    type: cards
-    hideOnMobile: true
-    source: inline
-    cards:
-      - title: Customized Learning Experience
-        content: Our training is crafted to meet your organization's particular requirements, guaranteeing a more impactful learning journey.
-      - title: Enhanced Participant Engagement
-        content: With content relevant to your team, engagement and active participation are significantly heightened.
-      - title: Confidential Learning Environment
-        content: We provide a secure setting for discussing sensitive topics and crucial business information, ensuring privacy and discretion.
-      - title: Flexible Delivery Options
-        content: We offer unmatched flexibility, including a range of training modalities, certified courses, and tailored solutions to meet your specific needs.
-      - title: Optimized Efficiency
-        content: The personalized nature of our training enhances retention, leading to a more profound and lasting organizational impact.
-      - title: Higher ROI
-        content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
+  - type: list
+    listType: list
+    title: What Success Looks Like
+    list:
+      - title: Teams applying what they’ve learned immediately
+        icon: fa-square-check
+      - title: Measurable improvement in flow, delivery, and morale
+        icon: fa-square-check
+      - title: Engineers who respect the Agile system, because it works
+        icon: fa-square-check
+      - title: Leaders who know how to guide change, not just talk about it
+        icon: fa-square-check
+      - title: Stakeholders who see business agility in action
+        icon: fa-square-check
+  - type: list
+    listType: list
+    title: Why NKD Agility?
+    list:
+      - title: Trainers with Engineering Credibility
+        icon: fa-brain
+        content: |
+          Led by Martin Hinshelwood and certified Scrum.org, ProKanban, Agile Kata, & OKR mentors trainers with real DevOps and product delivery experience.
+      - title: More Than Training, It’s Enablement
+        icon: fa-compass
+        content: |
+          We integrate training with your business context to drive adoption.
+      - title: Evidence-Based, Outcome-Focused
+        icon: fa-chart-bar
+        content: |
+          We measure success by what your teams do after the class, not during it.
+      - title: Coaching + Mentoring Pathways Available
+        icon: fa-handshake-simple
+        content: |
+          We offer a full journey from first workshop to full transformation.
+  - type: outcomehero
+    backgroundColor: primary
+    cta:
+      content: "Ready to Train for Impact?. **Let’s talk.**"
+      button:
+        text: "Book a Call"
+        url: "/book"
+    boxes: []
   - title: Find Courses by Accountability
-    type: taxonomies-light
+    type: taxonomies-boxes
     source: delivery-audiences
     types:
       - course
-  - title: Courses by Context
-    type: taxonomies-light
-    source: course-topics
-    types:
-      - course
-  - title:
-    content:
-    type: videos
-    related:
-      - resources/videos/youtube/qrEqX_5FWM8
-      - resources/videos/youtube/jXk1_Iiam_M
-      - resources/videos/youtube/qEaiA_m8Vyg
-      - resources/videos/youtube/VOUmfpB-d88
 categories: []
 tags:
   - Agile Transformation
