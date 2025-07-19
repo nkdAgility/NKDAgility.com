@@ -34,11 +34,6 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
-  - title: XXXX
-    listType: "boxed"
-    type: pages-list
-    types:
-      - course
   - title: Our Mentor Programs
     type: types
     source: mentor-program
