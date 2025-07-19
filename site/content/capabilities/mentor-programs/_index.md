@@ -3,7 +3,7 @@ title: Mentor Programs
 date: 2024-06-12
 weight: 2
 type: capabilities
-layout: training-courses
+layout: list-single
 url: /capabilities/mentor-programs/
 sitemap:
   filename: sitemap.xml
@@ -34,6 +34,11 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
+  - title: XXXX
+    listType: "boxed"
+    type: pages-list
+    types:
+      - course
   - title: Our Mentor Programs
     type: types
     source: mentor-program
