@@ -3,7 +3,7 @@ title: Mentor Programs
 date: 2024-06-12
 weight: 2
 type: capabilities
-layout: training-courses
+layout: list-single
 url: /capabilities/mentor-programs/
 sitemap:
   filename: sitemap.xml

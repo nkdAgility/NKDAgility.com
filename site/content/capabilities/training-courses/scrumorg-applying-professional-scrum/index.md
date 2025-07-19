@@ -1,6 +1,6 @@
 ---
 title: Applying Professional Scrum (APS) Course with Certification
-description: Transform your Scrum skills with our immersive Minecraft course! Learn Agile principles, enhance teamwork, and earn your Professional Scrum Master I certification.
+description: Transform your Scrum skills with our immersive Minecraft course! Learn Agile principles, enhance teamwork, and earn PSM I certification.
 ResourceId: _w2xgO2i3C9
 ResourceImport: true
 ResourceType: course
@@ -13,56 +13,56 @@ type: course
 slug: applying-professional-scrum-aps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
-- url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
+  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
 aliases:
-- /training-courses/professional-scrum-foundations
-- /training-courses/professional-scrum-foundations-psf-training
-- /training-courses/applying-professional-scrum-aps-training
-- /training-courses/applying-professional-scrum-training-with-certification
-- /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-- /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
-- /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
-- /resources/_w2xgO2i3C9
+  - /training-courses/professional-scrum-foundations
+  - /training-courses/professional-scrum-foundations-psf-training
+  - /training-courses/applying-professional-scrum-aps-training
+  - /training-courses/applying-professional-scrum-training-with-certification
+  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+  - /resources/_w2xgO2i3C9
 aliasesArchive:
-- /training-courses/professional-scrum-foundations
-- /training-courses/professional-scrum-foundations-psf-training
-- /training-courses/applying-professional-scrum-aps-training
-- /training-courses/applying-professional-scrum-training-with-certification
-- /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-- /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
-- /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+  - /training-courses/professional-scrum-foundations
+  - /training-courses/professional-scrum-foundations-psf-training
+  - /training-courses/applying-professional-scrum-aps-training
+  - /training-courses/applying-professional-scrum-training-with-certification
+  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Immersive
-- Traditional
-- Self-paced
+  - Immersive
+  - Traditional
+  - Self-paced
 delivery-audiences:
-- Teams
+  - Teams
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Continuous Learning
-- Market Adaptability
-- Organisational Agility
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Collaboration
-- Team Performance
-- Scrum Master
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Continuous Learning
+  - Market Adaptability
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Collaboration
+  - Team Performance
+  - Scrum Master
 categories:
-- Scrum
+  - Scrum
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: '#c75129'
+brandColour: "#c75129"
 card:
   button:
     content: ""
@@ -130,15 +130,13 @@ audience:
 
     The course is designed for a wide range of industries and is domain-agnostic, providing essential knowledge for continuing education in various Scrum roles, while staying focused on NKD Agility's core values of competence, engineering excellence, and directness.
 trainers:
-- /company/people/martin-hinshelwood/
+  - /company/people/martin-hinshelwood/
 roadmap:
   next:
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
-  - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events: 
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
+    - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 events:
-
 ---
 
 Welcome to the \[wpv-post-link\] course. This transformative learning journey is designed specifically for Team Members, Scrum Masters, Product Owners, and Managers keen to grasp and infuse Scrum values and principles into their work through practical case studies leveraging the engaging medium of Minecraft.

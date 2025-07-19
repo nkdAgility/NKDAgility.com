@@ -27,40 +27,55 @@
 {{- $section := .context }}
 
 
-<div class="outcome-boxes-section">
+<div class="section-boxesrow">
   {{- if $section.boxes }}
     <div class="row g-4">
       {{- range $index, $box := $section.boxes }}
+        {{- $boxColumn := 4 }}
+        {{- if eq (len $section.boxes) 2 }}
+          {{- $boxColumn = 6 }}
+          {{/* Two boxes, each takes half the width */}}
+        {{- else if eq (len $section.boxes) 1 }}
+          {{- $boxColumn = 12 }}
+          {{/* One box, full width */}}
+        {{- end }}
+
+        {{/* Determine box class based on index */}}
         {{- $boxClass := "" }}
         {{- if eq $index 0 }}
-          {{- $boxClass = "outcome-boxes-box-primary" }}
+          {{- $boxClass = "section-boxesrow-box-primary" }}
         {{- else if eq $index 1 }}
-          {{- $boxClass = "outcome-boxes-box-accent" }}
+          {{- $boxClass = "section-boxesrow-box-accent" }}
         {{- else if eq $index 2 }}
-          {{- $boxClass = "outcome-boxes-box-light" }}
+          {{- $boxClass = "section-boxesrow-box-light" }}
         {{- else }}
           {{/* Cycle through box styles for more than 3 boxes */}}
           {{- $cycleIndex := mod $index 3 }}
           {{- if eq $cycleIndex 0 }}
-            {{- $boxClass = "outcome-boxes-box-primary" }}
+            {{- $boxClass = "section-boxesrow-box-primary" }}
           {{- else if eq $cycleIndex 1 }}
-            {{- $boxClass = "outcome-boxes-box-accent" }}
+            {{- $boxClass = "section-boxesrow-box-accent" }}
           {{- else }}
-            {{- $boxClass = "outcome-boxes-box-light" }}
+            {{- $boxClass = "section-boxesrow-box-light" }}
           {{- end }}
         {{- end }}
-        <div class="col-md-4">
-          <div class="outcome-boxes-box {{ $boxClass }} p-4 h-100">
+        <div class="col-12 col-md-{{- $boxColumn }}">
+          <div class="section-boxesrow-box {{ $boxClass }} p-4 h-100">
+            {{- if $box.title }}
+              <div class="section-boxesrow-title mb-3">
+                <h4 class="mb-0">{{ $box.title | markdownify }}</h4>
+              </div>
+            {{- end }}
             {{- if $box.content }}
-              <div class="outcome-boxes-content mb-3">
+              <div class="section-boxesrow-content mb-3">
                 <p class="mb-0">{{ $box.content | markdownify }}</p>
               </div>
             {{- end }}
 
             {{- if $box.items }}
-              <ul class="outcome-boxes-list">
+              <ul class="section-boxesrow-list">
                 {{- range $box.items }}
-                  <li class="outcome-boxes-item">{{ .title }}</li>
+                  <li class="section-boxesrow-item">{{ .title }}</li>
                 {{- end }}
               </ul>
             {{- end }}

@@ -13,8 +13,8 @@
 
 
     <!-- Determine base font size using clamp, adjust for column count -->
-    {{- $headingFontSize := printf "clamp(1.4rem, %v.5vw, 4rem)" $colSize }}
-    {{- $subFontSize := printf "clamp(1.0rem, %v.5vw, 2rem)" $colSize }}
+    {{- $headingFontSize := printf "clamp(1.4rem, %v.5vw, 2.5rem)" $colSize }}
+    {{- $subFontSize := printf "clamp(1.0rem, %v.5vw, 1.5rem)" $colSize }}
 
     {{- range $index, $counter := .context.counters }}
       {{- $combined := printf "%v%v" $counter.counter $counter.counterAfter }}

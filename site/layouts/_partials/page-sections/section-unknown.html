@@ -8,6 +8,7 @@
 */}}
 
 {{- $section := .section }}
+{{- $sectionTypes := .sectionTypes }}
 
 
 <div class="alert alert-warning" role="alert">
@@ -19,7 +20,9 @@
     <hr />
     <p class="mb-0">
       <strong>Available section types:</strong><br />
-      <code>content</code>, <code>features</code>, <code>courses</code>, <code>taxonomies</code>, <code>phases</code>, <code>options</code>, <code>types</code>, <code>otherpages</code>, <code>trustpilot</code>, <code>videos</code>, <code>cards</code>, <code>counters</code>, <code>outcomehero</code>, <code>list</code>, <code>quote</code>, <code>none</code>
+      {{- range $key, $type := $sectionTypes }}
+        <code>{{ $key }}</code>{{- if ne $key (sub (len $sectionTypes) 1) }},{{ end }}
+      {{- end }} <code>none</code>
     </p>
   {{- end }}
 </div>

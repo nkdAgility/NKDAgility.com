@@ -5,18 +5,18 @@
 {{- end }}
 
 {{- define "main" }}
-  <div class="outcomes-main">
+  <div class="capabilities-main">
     {{- partial "page-sections/sections.html" . }}
   </div>
 {{- end }}
 
 {{- define "siteSectionCallback" }}
-  <section class="container my-5 container-content-wide">
-    <h2 title="Outcomes - What you get?">What else do you get?</h2>
+  <section class="container my-5">
+    <h2 title="Capabilities - What we do?">What else do we do?</h2>
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{- partial "cards-section.html" (dict "context" . "SectionName" "outcomes") }}
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
   </section>
 {{- end }}
 {{- define "template" }}
-  outcomes/single.html
+  capabilities/page.html
 {{- end }}

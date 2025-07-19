@@ -5,7 +5,7 @@ ResourceId: jUM-1XnARoT
 ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
-shortTitle: Professional Scrum Product Owner
+short_title: Professional Scrum Product Owner
 weight: 750
 date: 2019-11-07
 creator: Martin Hinshelwood
@@ -13,54 +13,53 @@ type: course
 slug: professional-scrum-product-owner-pspo-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-product-owner-pspo
-- /training-courses/professional-scrum-product-owner-pspo-training
-- /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
-- /resources/jUM-1XnARoT
+  - /training-courses/professional-scrum-product-owner-pspo
+  - /training-courses/professional-scrum-product-owner-pspo-training
+  - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+  - /resources/jUM-1XnARoT
 aliasesArchive:
-- /training-courses/professional-scrum-product-owner-pspo
-- /training-courses/professional-scrum-product-owner-pspo-training
-- /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+  - /training-courses/professional-scrum-product-owner-pspo
+  - /training-courses/professional-scrum-product-owner-pspo-training
+  - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Immersive
-- Traditional
-- Self-paced
+  - Immersive
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Entrepreneurs
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Entrepreneurs
 tags:
-- Product Owner
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Continuous Learning
-- Empirical Process Control
-- Market Adaptability
-- Organisational Agility
-- Pragmatic Thinking
-- Product Backlog
-- Product Delivery
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Value Delivery
+  - Product Owner
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Strategy
+  - Agile Transformation
+  - Business Agility
+  - Continuous Learning
+  - Empirical Process Control
+  - Market Adaptability
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Product Backlog
+  - Product Delivery
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Value Delivery
 categories:
-- Product Management
-- Scrum
+  - Product Management
+  - Scrum
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
   title: Professional Scrum Product Owner
@@ -103,7 +102,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: '#749335'
+brandColour: "#749335"
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -113,29 +112,27 @@ prerequisites: |
 audience:
   overview: The Professional Scrum Product Owner course is suitable for professionals across various industries looking to refine their Product Ownership skills, including Product Owners, Scrum Masters, managers, and those seeking a deeper understanding of Agile Product Management.
   personas:
-  - capabilities/training-courses/audiences/product-owners.md
+    - capabilities/training-courses/audiences/product-owners.md
 trainers:
-- /company/people/martin-hinshelwood/
-roadmap: 
+  - /company/people/martin-hinshelwood/
+roadmap:
 events:
-- start_date: 2025-11-07
-  location: Virtual
-  registration_link: '#'
-  sessions:
-  - start_datetime: 2025-11-07T09:00:00
-    end_datetime: 2025-11-07T17:00:00
-    timezone: Europe/London
-    syllabus_ids:
-    - 1
-    - 2
-    - 3
-  - start_datetime: 2025-11-08T09:00:00
-    end_datetime: 2025-11-08T17:00:00
-    timezone: Europe/London
-    syllabus_ids:
-    - 4
-    - 5
-    - 6
-
+  - start_date: 2025-11-07
+    location: Virtual
+    registration_link: "#"
+    sessions:
+      - start_datetime: 2025-11-07T09:00:00
+        end_datetime: 2025-11-07T17:00:00
+        timezone: Europe/London
+        syllabus_ids:
+          - 1
+          - 2
+          - 3
+      - start_datetime: 2025-11-08T09:00:00
+        end_datetime: 2025-11-08T17:00:00
+        timezone: Europe/London
+        syllabus_ids:
+          - 4
+          - 5
+          - 6
 ---
-
