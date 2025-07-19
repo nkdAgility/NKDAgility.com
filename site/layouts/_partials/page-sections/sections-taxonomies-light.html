@@ -1,86 +1,96 @@
 {{- $site := .site }}
 {{- $context := .context }}
 <!-- Courses specific rendering -->
-<div class="row">
+<div class="container-fluid">
+  <!-- Collect and group courses by vendor -->
+  {{- $coursesByVendor := dict }}
   {{- range $taxonomyName, $terms := .site.Taxonomies }}
     {{- if eq $taxonomyName $context.source }}
-      {{- $filteredTerms := slice }}
       {{- range $terms.ByCount }}
         {{- $matchingPages := where .Pages "Type" "in" $context.types }}
         {{- if and (gt (len .Pages) 0) (gt (len $matchingPages) 0) }}
-          {{- $filteredTerms = $filteredTerms | append . }}
-        {{- end }}
-      {{- end }}
-      {{- $sortedTerms := first 6 (sort $filteredTerms "Page.Weight" "desc") }}
-      {{- $count := len $sortedTerms }}
-      {{- $colClass := "col-lg-4" }}
-      {{- if eq (mod $count 3) 0 }}
-        {{- $colClass = "col-lg-4" }}
-        <!-- 3 per row -->
-      {{- else if eq (mod $count 2) 0 }}
-        {{- $colClass = "col-lg-6" }}
-        <!-- 2 per row -->
-      {{- end }}
-      {{- range $sortedTerms }}
-        <div class="{{- $colClass }} col-sm-12 col-md-12 p-2 d-flex">
           {{- $pagesToDisplay := .Pages.ByWeight }}
           {{- if $context.types }}
             {{- $pagesToDisplay = where .Pages.ByWeight "Type" "in" $context.types }}
           {{- end }}
-          <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
-            <div class="card-body p-4 px-20">
-              <span class="badge text-bg-secondary"><i class="fa-regular fa-tag"></i> {{ title .Page.Type }}</span>
-              <h3 class="ttl-nkdagility h5 text-start" title="{{- .Page.Title }}">
-                {{- if .Page.Params.card }}
-                  {{- .Page.Params.card.title }}
-                {{- else }}
-                  {{- .Page.Title }}
-                {{- end }}
-              </h3>
-              <div class="card-text text-muted">
-                {{- if .Page.Params.card }}
-                  {{- .Page.Params.card.content | markdownify }}
-                {{- else }}
-                  {{- .Page.Content | markdownify }}
-                {{- end }}
-              </div>
-            </div>
-            <ul class="list-group list-group-flush">
-              {{- range $item := first 5 $pagesToDisplay }}
-                <li class="list-group-item d-flex align-items-center">
-                  {{- if $item.Params.previewIcon }}
-                    {{- $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.previewIcon) }}
-                    {{- if $courseIcon }}
-                      {{- $resized := $courseIcon.Fit "25x25 webp" }}
-                      <img class="shadowfilter me-2" loading="lazy" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
-                    {{- end }}
-                  {{- end }}
-                  {{- if $item.Params.offering.courseIcon }}
-                    {{- $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.offering.courseIcon) }}
-                    {{- if $courseIcon }}
-                      {{- $resized := $courseIcon.Fit "25x25 webp" }}
-                      <img class="shadowfilter me-2" loading="lazy" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
-                    {{- end }}
-                  {{- end }}
-                  <a href="{{- $item.Permalink }}" class="text-decoration-none  text-nowrap text-truncate" title="{{- $item.Title }}">
-                    {{- if $item.Params.short_title }}
-                      {{- $item.Params.short_title }}
-                    {{- else }}
-                      {{- $item.Title }}
-                    {{- end }}
-                  </a>
-                </li>
+          {{- range $item := $pagesToDisplay }}
+            {{- $courseVendors := index $item.Params "course-vendors" }}
+            {{- $vendor := "Other" }}
+            {{- if $courseVendors }}
+              {{- $vendor = index $courseVendors 0 }}
+            {{- end }}
+            {{- $vendorCourses := index $coursesByVendor $vendor | default slice }}
+            {{- $courseData := dict "item" $item "category" .Page.Title }}
+            {{- $vendorCourses = $vendorCourses | append $courseData }}
+            {{- $coursesByVendor = merge $coursesByVendor (dict $vendor $vendorCourses) }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+
+  <!-- Display courses grouped by vendor (sorted by course count, descending) -->
+  {{- $sortedVendors := slice }}
+  {{- range $vendor, $courses := $coursesByVendor }}
+    {{- $vendorData := dict "vendor" $vendor "courses" $courses "count" (len $courses) }}
+    {{- $sortedVendors = $sortedVendors | append $vendorData }}
+  {{- end }}
+  {{- $sortedVendors = sort $sortedVendors "count" "desc" }}
+
+  {{- range $vendorData := $sortedVendors }}
+    {{- $vendor := $vendorData.vendor }}
+    {{- $courses := $vendorData.courses }}
+    {{- $sortedCourses := sort $courses "item.Weight" "asc" }}
+    <div class="mb-4">
+      <!-- Vendor Header -->
+      <div class="row py-3 mb-3 rounded align-items-center" style="background-color: var(--primary-color-background); color: var(--primary-color-text);">
+        <div class="col-md-8 col-12">
+          <h5 class="mb-0 fw-bold" style="color: var(--primary-color-text);">{{ $vendor }}</h5>
+        </div>
+        <div class="col-md-4 col-12 text-md-end">
+          <small style="color: rgba(255, 255, 255, 0.8);">{{ len $courses }} course{{ if ne (len $courses) 1 }}s{{ end }}</small>
+        </div>
+      </div>
+
+      <!-- Course Rows for this vendor (first 3 only) -->
+      {{- range $courseData := first 3 $sortedCourses }}
+        <div class="row border-bottom py-2 align-items-center">
+          <div class="col-md-7 col-12 mb-1 mb-md-0">
+            <a href="{{- $courseData.item.Permalink }}" class="text-decoration-none fw-semibold" title="{{- $courseData.item.Title }}">
+              {{- if $courseData.item.Params.short_title }}
+                {{- $courseData.item.Params.short_title }}
+              {{- else }}
+                {{- $courseData.item.Title }}
               {{- end }}
-            </ul>
-            {{- if .Page.RelPermalink }}
-              <div class="card-footer border-transparent p-3 text-end border-0">
-                {{- $itemString := delimit $context.types "," }}
-                <a href="{{- .Page.RelPermalink }}?types={{- $itemString | urlquery }}" class="btn btn-nkdagility p-2" title="More information on {{- .Page.Title }}">See all <i class="fa-solid fa-arrow-right"></i></a>
-              </div>
+            </a>
+          </div>
+          <div class="col-md-5 col-12">
+            {{- $deliveryAudiences := index $courseData.item.Params "delivery-audiences" }}
+            {{- if $deliveryAudiences }}
+              {{- range $index, $audience := first 2 $deliveryAudiences }}
+                <span class="badge bg-light text-dark me-1 mb-1 small">{{ $audience }}</span>
+              {{- end }}
+              {{- if gt (len $deliveryAudiences) 2 }}
+                <span class="text-muted small">+{{ sub (len $deliveryAudiences) 2 }} more</span>
+              {{- end }}
+            {{- else }}
+              <span class="text-muted small">Not specified</span>
             {{- end }}
           </div>
         </div>
       {{- end }}
-    {{- end }}
+
+
+      <!-- More button if there are more than 3 courses -->
+      {{- if gt (len $courses) 3 }}
+        <div class="row mt-3">
+          <div class="col-12 text-end">
+            {{- $vendorSlug := $vendor | urlize }}
+            <a href="/capabilities/training-courses/course-vendors/{{ $vendorSlug }}/" class="btn btn-outline-primary btn-sm"> View all {{ len $courses }} {{ $vendor }} courses <i class="fa-solid fa-arrow-right ms-1"></i> </a>
+          </div>
+        </div>
+      {{- end }}
+    </div>
   {{- end }}
 </div>
