@@ -14,7 +14,7 @@
             {{- $pagesToDisplay = where .Pages.ByWeight "Type" "in" $context.types }}
           {{- end }}
           {{- range $item := $pagesToDisplay }}
-            {{- $courseVendors := index $item.Params "course-vendors" }}
+            {{- $courseVendors := index $item.Params $context.source }}
             {{- $vendor := "Other" }}
             {{- if $courseVendors }}
               {{- $vendor = index $courseVendors 0 }}

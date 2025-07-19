@@ -88,7 +88,7 @@ sections:
     content: |
       Each course is certified and enhanced with NKD Agility’s proven transformation frameworks.
     type: taxonomies-light
-    source: course-vendors
+    source: course-topics
     types:
       - course
   - title: Migration Excellence by the Numbers
@@ -252,7 +252,7 @@ sections:
       To learn and adapt together it is important that all relevant levels of the organisation participate in the same training, as the realisations are profound. All organisations are different in terms of which ways of working are effective for them. Our training will help your people explore those options in an environment within which it is safe to fail.
     type: none
   - title: Learning Experiences
-    type: taxonomies
+    type: taxonomies-light
     source: course-learning-experiences
     types:
       - course
@@ -275,12 +275,12 @@ sections:
       - title: Higher ROI
         content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
   - title: Find Courses by Accountability
-    type: taxonomies
+    type: taxonomies-light
     source: delivery-audiences
     types:
       - course
   - title: Courses by Context
-    type: taxonomies
+    type: taxonomies-light
     source: course-topics
     types:
       - course
