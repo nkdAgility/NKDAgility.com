@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: capabilities
 ResourceContentOrigin: human
 date: 2024-06-12
-weight: 750
+weight: 600
 type: capabilities
 layout: list-single
 url: /capabilities/training-courses/

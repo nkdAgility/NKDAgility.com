@@ -9,7 +9,7 @@ sitemap:
 menus:
   footer:
     parent: Consulting Services
-weight: 30
+weight: 100
 id: "49856"
 type: capabilities
 slug: business-agility-consulting

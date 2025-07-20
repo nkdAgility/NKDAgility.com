@@ -1,10 +1,10 @@
 ---
-title: Azure DevOps Migration Services
-description: Migrate to Azure DevOps, seamlessly, securely, and strategically. Modernise legacy tooling and pipelines with zero disruption and full team enablement.
-short_title: DevOps Migration
-date: 2025-07-19
+title: Azure DevOps/TFS to Github Migration Services
+description: Seamlessly migrate from Azure DevOps, TFS, or other systems to GitHub. Modernise your software delivery.
+short_title: Github Migration Services
+date: 2025-07-20
 creator: Martin Hinshelwood
-weight: 400
+weight: 300
 sitemap:
   filename: sitemap.xml
   priority: 1.0
@@ -12,19 +12,19 @@ menus:
   footer:
     parent: Consulting Services
 type: capabilities
-slug: azure-devops-migration-services
+slug: github-migration-services
 aliases:
   - /capabilities/azure-devops-migration-tools-consulting/
   - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
 card:
   button:
-    content: Start Your DevOps Migration Journey
-  title: Azure DevOps Migration Services
+    content: Start Your Github Migration Journey
+  title: Github Migration Services
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
 headline:
   cards: []
-  title: Azure DevOps Migration
+  title: Azure DevOps to Github Migration
   subtitle: Seamless Migration. Engineering Excellence. Strategic Impact.
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernise.

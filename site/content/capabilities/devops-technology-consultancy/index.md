@@ -4,7 +4,7 @@ Description: We help your teams embed DevOps into culture and practice, removing
 short_title: DevOps Technology
 date: 2025-07-18
 creator: Martin Hinshelwood
-weight: 20
+weight: 200
 sitemap:
   filename: sitemap.xml
   priority: 0.8

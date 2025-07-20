@@ -2,7 +2,7 @@
 title: NKD Insights™
 date: 2024-06-12
 creator: Martin Hinshelwood
-id: "51452"
+weight: 700
 type: capabilities
 slug: nkd-insights
 sitemap:

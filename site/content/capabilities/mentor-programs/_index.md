@@ -2,7 +2,7 @@
 title: Mentor Programs
 description: Mentor Programs for Agile teams and leaders. Real products, real pressure, real results—beyond training, into lasting delivery impact.
 date: 2024-06-12
-weight: 2
+weight: 500
 type: capabilities
 layout: list-single
 url: /capabilities/mentor-programs/
