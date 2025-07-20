@@ -1,5 +1,6 @@
 ---
 title: Mentor Programs
+description: Mentor Programs for Agile teams and leaders. Real products, real pressure, real results—beyond training, into lasting delivery impact.
 date: 2024-06-12
 weight: 2
 type: capabilities
@@ -21,7 +22,7 @@ headline:
     You don’t need more frameworks, more certifications, or another backlog refinement template.
     You need **product teams that think clearly, collaborate deeply, and deliver outcomes that matter**.
 
-    That’s why we offer two mentorship programs—built for two distinct but critical growth journeys.
+    That’s why we offer two mentorship programs, built for two distinct but critical growth journeys.
   cards: []
 sections:
   - type: outcomehero
