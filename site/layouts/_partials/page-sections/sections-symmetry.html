@@ -1,0 +1,132 @@
+{{/* OutcomeBoxes Section - Displays boxes with lists of items
+
+  Expected section structure in frontmatter:
+  - type: "outcomeboxes"
+  title: "Section Title"
+  boxes:
+  - box:
+  content: "Optional text content for the box"
+  items:
+  - title: "First item"
+  icon: fa-check
+  - title: "Second item"
+  icon: fa-check
+  - title: "Third item"
+  icon: fa-check
+  - box:
+  content: "Another box with different content"
+  items:
+  - title: "Different item"
+  icon: fa-check
+  - title: "Another item"
+  icon: fa-check
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+
+<div class="section-symmetry">
+  {{- if $section.boxes }}
+    {{- $maxItems := 0 }}
+    {{/* Find the maximum number of items across all boxes */}}
+    {{- range $section.boxes }}
+      {{- if .items }}
+        {{- $itemCount := len .items }}
+        {{- if gt $itemCount $maxItems }}
+          {{- $maxItems = $itemCount }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+
+    <div class="table-responsive">
+      <table class="table section-symmetry-table">
+        {{/* Create header row with box titles */}}
+        <thead>
+          <tr>
+            {{- range $index, $box := $section.boxes }}
+              {{- $headerClass := "" }}
+              {{- if eq $index 0 }}
+                {{- $headerClass = "section-symmetry-header-primary" }}
+              {{- else if eq $index 1 }}
+                {{- $headerClass = "section-symmetry-header-accent" }}
+              {{- else if eq $index 2 }}
+                {{- $headerClass = "section-symmetry-header-light" }}
+              {{- else }}
+                {{/* Cycle through header styles for more than 3 boxes */}}
+                {{- $cycleIndex := mod $index 3 }}
+                {{- if eq $cycleIndex 0 }}
+                  {{- $headerClass = "section-symmetry-header-primary" }}
+                {{- else if eq $cycleIndex 1 }}
+                  {{- $headerClass = "section-symmetry-header-accent" }}
+                {{- else }}
+                  {{- $headerClass = "section-symmetry-header-light" }}
+                {{- end }}
+              {{- end }}
+              <th class="section-symmetry-header {{ $headerClass }}">
+                {{- if $box.title }}
+                  <h4 class="mb-0">{{ $box.title | markdownify }}</h4>
+                {{- end }}
+                {{- if $box.content }}
+                  <div class="section-symmetry-header-content mt-2">
+                    <p class="mb-0 small">{{ $box.content | markdownify }}</p>
+                  </div>
+                {{- end }}
+              </th>
+            {{- end }}
+          </tr>
+        </thead>
+        <tbody>
+          {{/* Create rows for each item index */}}
+          {{- range $itemIndex := seq 0 (sub $maxItems 1) }}
+            <tr>
+              {{- range $boxIndex, $box := $section.boxes }}
+                {{- $cellClass := "" }}
+                {{- if eq $boxIndex 0 }}
+                  {{- $cellClass = "section-symmetry-cell-primary" }}
+                {{- else if eq $boxIndex 1 }}
+                  {{- $cellClass = "section-symmetry-cell-accent" }}
+                {{- else if eq $boxIndex 2 }}
+                  {{- $cellClass = "section-symmetry-cell-light" }}
+                {{- else }}
+                  {{/* Cycle through cell styles for more than 3 boxes */}}
+                  {{- $cycleIndex := mod $boxIndex 3 }}
+                  {{- if eq $cycleIndex 0 }}
+                    {{- $cellClass = "section-symmetry-cell-primary" }}
+                  {{- else if eq $cycleIndex 1 }}
+                    {{- $cellClass = "section-symmetry-cell-accent" }}
+                  {{- else }}
+                    {{- $cellClass = "section-symmetry-cell-light" }}
+                  {{- end }}
+                {{- end }}
+                <td class="section-symmetry-cell {{ $cellClass }}">
+                  {{- if $box.items }}
+                    {{- if lt $itemIndex (len $box.items) }}
+                      {{- $item := index $box.items $itemIndex }}
+                      {{- if $item.icon }}
+                        <i class="fas {{ $item.icon }} me-2"></i>
+                      {{- end }}
+                      {{ $item.title }}
+                    {{- else }}
+                      {{/* Empty cell if this box has fewer items */}}
+                      &nbsp;
+                    {{- end }}
+                  {{- else }}
+                    &nbsp;
+                  {{- end }}
+                </td>
+              {{- end }}
+            </tr>
+          {{- end }}
+        </tbody>
+      </table>
+    </div>
+  {{- end }}
+</div>

@@ -6,126 +6,203 @@ ResourceImport: false
 ResourceType: capabilities
 ResourceContentOrigin: human
 date: 2024-06-12
-weight: 750
+weight: 600
 type: capabilities
-layout: training-courses
+layout: list-single
 url: /capabilities/training-courses/
 sitemap:
   filename: sitemap.xml
   priority: 0.8
 aliases:
-- /capabilities/private-corporate-training/
-- /capabilities/training-courses/course-schedule/
-- /training-courses/course-schedule/
-- /training-courses/
-- /resources/TSbCL5T_4G9
+  - /capabilities/private-corporate-training/
+  - /capabilities/training-courses/course-schedule/
+  - /training-courses/course-schedule/
+  - /training-courses/
+  - /resources/TSbCL5T_4G9
 aliasesArchive:
-- /capabilities/private-corporate-training/
-- /capabilities/training-courses/course-schedule/
-- /training-courses/course-schedule/
-- /training-courses/
+  - /capabilities/private-corporate-training/
+  - /capabilities/training-courses/course-schedule/
+  - /training-courses/course-schedule/
+  - /training-courses/
 outputs:
-- html
-- json
+  - html
+  - json
 card:
   button:
     content: Training Courses
   title: Training Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
 headline:
-  title: Professional Training Programs
-  content: Interactive, activity-based training in Agile, Scrum, Kanban, DevOps, & complimentary practices  for all learning levels, roles, and needs.
-  subtitle: Training that Fits your Needs
-  cards:
-  - link: /capabilities/training-courses/scrum-training-courses/
-    image: Scrumorg-PST_licensed-1000.png
-    title: Scrum Training Courses
-    content: Interactive, activity-based training in Professional Scrum and complementary practices for various learning levels, roles and needs. NKDAgility offers professional Scrum training, and professional Scrum training courses that Scrum.org accredits.
-  - link: /capabilities/training-courses/kanban-training-courses/
-    image: PK-PKT@2x.png
-    title: Kanban Training Courses
-    content: Training courses and workshops to help you implement a Kanban strategy and maximise the flow of value to your end users. Visualise your work in process, and process, and continuously adapt to a process that best suits your needs. ProKanban.org accredits our Kanban training.
-  - link: /capabilities/training-courses/azure-devops-training-courses/
-    image: nkdagility-devops.png
-    title: Azure DevOps Training Courses
-    content: NKDAgility has proven expertise in working with Visual Studio & Azure DevOps.
+  cards: []
+  title: Training Programs
+  subtitle: Real-World Agile. Engineering-Driven. Outcome-Focused.
+  images:
+    - /images/PK-PKT@2x.png
+    - /images/Scrumorg-PST_licensed-1000.png
+    - /images/MVP_BlueOnly.png
+  content: |
+    Agile training shouldn't feel like theory camp.
+
+    You want training that **builds confidence, deepens capability, and results in meaningful improvement**, not just certifications.
 sections:
-- title: Our Proven Track Record​
-  content: |
-    Our training courses have been designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
-  type: counters
-  counters:
-  - counterAfter: +
-    content: Students
-    counter: 2600
-  - counterAfter: +
-    content: Classes
-    counter: 176
-  - counterAfter: +
-    content: Countries
-    counter: 34
-- title: Our training approach
-  contentClass: two-column-text
-  hideOnMobile: true
-  content: |
-    Our trainers are all accredited from Scrum.org, ProKanban.org, or Accentient and have the expertise backing it through long experience in delivering valuable outcomes to customers through an immersive learning philosophy.
+  - type: outcomehero
+    cta:
+      content: "NKD Agility delivers hands-on, engineering-aware, transformation-ready training. **Led by mentors, not lecturers.**"
+      button:
+        text: "Book a Discovery Call"
+        url: "/book"
+    boxes: []
+  - type: none
+    title: Why Most Agile Training Fails to Stick
+    content: |
+      Most Agile training programs:
 
-    The trainer will facilitate a team-based collaborative learning experience that is designed by some of the best minds in Agility & DevOps to plant the seeds of an agile mindset and tackle some of the hard questions. 
+      - Are overloaded with theory, light on application
+      - Ignore engineering realities and DevOps workflows
+      - Focus on certification, not capability
+      - Leave learners inspired—but unsupported
 
-    The courseware is designed to elicit conversations between participants on the hard truths of moving from traditional management practices to empirical management practices. Special attention is paid to the known and common misunderstandings of agility as well as the ideas that are usually swept away under the pressures of “how we do things here”.
+      **Our training is different.**
 
-    To learn and adapt together it is important that all relevant levels of the organisation participate in the same training, as the realisations are profound. All organisations are different in terms of which ways of working are effective for them. Our training will help your people explore those options in an environment within which it is safe to fail.
-  type: none
-- title: Learning Experiences
-  type: taxonomies
-  source: course-learning-experiences
-  types:
-  - course
-- title: Corporate Training – Private, In-House Courses
-  content: Our private corporate training courses provide a customised and bespoke experience that is tailored for your organisation to maximise value.
-  type: cards
-  hideOnMobile: true
-  source: inline
-  cards:
-  - title: Customized Learning Experience
-    content: Our training is crafted to meet your organization's particular requirements, guaranteeing a more impactful learning journey.
-  - title: Enhanced Participant Engagement
-    content: With content relevant to your team, engagement and active participation are significantly heightened.
-  - title: Confidential Learning Environment
-    content: We provide a secure setting for discussing sensitive topics and crucial business information, ensuring privacy and discretion.
-  - title: Flexible Delivery Options
-    content: We offer unmatched flexibility, including a range of training modalities, certified courses, and tailored solutions to meet your specific needs.
-  - title: Optimized Efficiency
-    content: The personalized nature of our training enhances retention, leading to a more profound and lasting organizational impact.
-  - title: Higher ROI
-    content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
-- title: Find Courses by Accountability
-  type: taxonomies
-  source: delivery-audiences
-  types:
-  - course
-- title: Courses by Context
-  type: taxonomies
-  source: course-topics
-  types:
-  - course
-- title: Courses by Vendor
-  type: taxonomies
-  source: course-vendors
-  types:
-  - course
-- title: 
-  content: 
-  type: videos
-  related:
-  - resources/videos/youtube/qrEqX_5FWM8
-  - resources/videos/youtube/jXk1_Iiam_M
-  - resources/videos/youtube/qEaiA_m8Vyg
-  - resources/videos/youtube/VOUmfpB-d88
+      We teach for **real environments**, with a blend of **training, coaching, and mentoring** that turns knowledge into action.
+  - title: Learning Experiences
+    type: taxonomies-list
+    source: course-learning-experiences
+    types:
+      - course
+  - type: boxesrow
+    title: What NKD Agility Training Delivers
+    boxes:
+      - box:
+        title: Typical Training Pitfall
+        items:
+          - title: Passive slide-deck lectures
+          - title: One-size-fits-all content
+          - title: Certification without impact
+          - title: Disconnect between Agile & DevOps
+          - title: Forgotten within a week
+      - box:
+        title: NKD Agility Approach
+        items:
+          - title: Interactive sessions grounded in real-world challenges
+          - title: Customized examples relevant to your domain and teams
+          - title: Training that supports actual delivery improvement
+          - title: Unified engineering + agility thinking in every class
+          - title: Follow-on coaching and mentoring available for lasting change
+  - type: quote
+    title: Whats our learners say
+    backgroundColor: primary
+    quote: |
+      "Martin delivered Agile training at all levels for our EMEA consulting business which really helping in getting a baseline understanding of Agile ingrained and customer delivery standardised. I would highly recommend martin for Agile training/coaching for any business."
+      - **Bryan Lloyd, Technology Transformation Director, New Signature**
+  - title: Our Training Programs
+    content: |
+      Each course is certified and enhanced with NKD Agility’s proven transformation frameworks.
+    type: taxonomies-list
+    source: course-topics
+    types:
+      - course
+  - type: none
+    title: Training That Doesn’t End When the Class Does
+    content: |
+      Every program includes:
+      - Hands-on exercises based on real-world challenges
+      - Access to certified trainers with engineering backgrounds
+      - Opportunities to extend into mentorship or advisory support
+      - Integration with DevOps, product development, and business agility goals
+      - A community of practice and continued learning options
+  - type: symmetry
+    title: From Overwhelm to Control
+    boxes:
+      - box:
+        title: From Uncertainty to Confidence
+        items:
+          - title: Overwhelmed by complexity
+            icon: fa-face-persevering
+          - title: Unsure how to apply Agile in real settings
+            icon: fa-face-frown
+          - title: Tired of fluffy training with no ROI
+            icon: fa-face-tired
+          - title: Not taken seriously as a Scrum Master or Product Owner
+            icon: fa-face-anxious
+      - box:
+        title: What you feel after training
+        items:
+          - title: Equipped with models, tools, and a clear path forward
+            icon: fa-square-check
+          - title: Confident in using Scrum, EBM, and DevOps together
+            icon: fa-square-check
+          - title: Energized by real-world application and meaningful change
+            icon: fa-square-check
+          - title: Respected as a knowledgeable, capable Agile leader
+            icon: fa-square-check
+  - title: Our Proven Track Record​
+    backgroundColor: light-accent-alt
+    content: |
+      We focus on delivering real, measurable outcomes for our clients. Our training programs have empowered:
+    type: counters
+    counters:
+      - counterAfter: +
+        content: Students
+        counter: 2600
+      - counterAfter: +
+        content: Classes
+        counter: 176
+      - counterAfter: +
+        content: Countries
+        counter: 34
+  - title: Find Courses by Accountability
+    listType: "boxed"
+    type: taxonomies-list
+    source: delivery-audiences
+    types:
+      - course
+  - type: list
+    listType: list
+    title: What Success Looks Like
+    list:
+      - title: Teams applying what they’ve learned immediately
+        icon: fa-square-check
+      - title: Measurable improvement in flow, delivery, and morale
+        icon: fa-square-check
+      - title: Engineers who respect the Agile system, because it works
+        icon: fa-square-check
+      - title: Leaders who know how to guide change, not just talk about it
+        icon: fa-square-check
+      - title: Stakeholders who see business agility in action
+        icon: fa-square-check
+  - type: list
+    listType: list
+    title: Why NKD Agility?
+    list:
+      - title: Trainers with Engineering Credibility
+        icon: fa-brain
+        content: |
+          Led by Martin Hinshelwood and certified Scrum.org, ProKanban, Agile Kata, & OKR mentors trainers with real DevOps and product delivery experience.
+      - title: More Than Training, It’s Enablement
+        icon: fa-compass
+        content: |
+          We integrate training with your business context to drive adoption.
+      - title: Evidence-Based, Outcome-Focused
+        icon: fa-chart-bar
+        content: |
+          We measure success by what your teams do after the class, not during it.
+      - title: Coaching + Mentoring Pathways Available
+        icon: fa-handshake-simple
+        content: |
+          We offer a full journey from first workshop to full transformation.
+  - type: outcomehero
+    backgroundColor: primary
+    cta:
+      content: "Ready to Train for Impact?. **Let’s talk.**"
+      button:
+        text: "Book a Call"
+        url: "/book"
+    boxes: []
 categories: []
 tags:
-- Agile Transformation
-- Software Development
-
+  - Agile Transformation
+  - Software Development
 ---
+
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

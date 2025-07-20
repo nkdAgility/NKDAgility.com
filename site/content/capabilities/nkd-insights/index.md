@@ -1,8 +1,9 @@
 ---
 title: NKD Insights™
+description: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights.
 date: 2024-06-12
 creator: Martin Hinshelwood
-id: "51452"
+weight: 700
 type: capabilities
 slug: nkd-insights
 sitemap:

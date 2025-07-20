@@ -9,7 +9,7 @@ ResourceImport: false
 ResourceType: newsletters
 slug: break-organisational-silos-and-stop-tolerating-bad-branching-models
 aliases:
-- /resources/AORP41zLNTi
+  - /resources/AORP41zLNTi
 author: MrHinsh
 ResourceContentOrigin: human
 resourceTypes: newsletter
@@ -18,29 +18,29 @@ Watermarks:
   description: 2025-05-07T12:48:55Z
   short_title: 2025-07-07T16:43:14Z
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Technical Leadership
-- Leadership
-- Engineering Excellence
+  - Technical Leadership
+  - Leadership
+  - Engineering Excellence
 tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Technical Mastery
-- Technical Excellence
-- Engineering Practices
-- Market Adaptability
-- Organisational Agility
-- Continuous Delivery
-- Enterprise Agility
-- Social Technologies
-- Sociotechnical Systems
-- Team Performance
-- Value Delivery
-
+  - Software Development
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Technical Mastery
+  - Technical Excellence
+  - Engineering Practices
+  - Market Adaptability
+  - Organisational Agility
+  - Continuous Delivery
+  - Enterprise Agility
+  - Social Technologies
+  - Sociotechnical Systems
+  - Team Performance
+  - Value Delivery
 ---
+
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.
 
 This issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.
@@ -96,7 +96,7 @@ Technical leadership is **not optional decoration**. It is the deliberate shapin
 
 If you hold the title of CTO or development manager, you are accountable for systemic delivery health — not just delivery reports.
 
-Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/lean-agile-consultancy" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.
+Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/business-agility-consulting" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.
 
 I look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.
 

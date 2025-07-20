@@ -31,6 +31,8 @@
     {{- $backgroundClass = "section-bg-primary" }}
   {{- else if eq $section.backgroundColor "secondary" }}
     {{- $backgroundClass = "section-bg-secondary" }}
+  {{- else if eq $section.backgroundColor "light-accent-alt" }}
+    {{- $backgroundClass = "section-bg-light-accent-alt" }}
   {{- end }}
 {{- end }}
 
