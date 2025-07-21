@@ -9,24 +9,31 @@
 <section class="container">
   <div class="row">
     <div class="col-3">
-      <div class=" my-5">
+      <div class="card shadow-sm my-5 small">
         {{- $currentSection := .Parent }}
-        <h3>{{ $currentSection.Title }}</h3>
-        <nav class="nav nav-pills flex-column">
-          {{- if $currentSection }}
-            {{- range $currentSection.Pages.ByWeight }}
-              {{- if not .Draft }}
-                {{- if ne .Permalink $page.Permalink }}
-                  <a class="nav-link" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
-                {{- else }}
-                  <a class="nav-link active" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
+        <div class="card-header">
+          <h5 class="card-title mb-0">{{ $currentSection.Title }}</h5>
+        </div>
+        <div class="card-body">
+          <nav class="nav nav-pills flex-column mb-3">
+            {{- if $currentSection }}
+              {{- range $currentSection.Pages.ByWeight }}
+                {{- if not .Draft }}
+                  {{- if ne .Permalink $page.Permalink }}
+                    <a class="nav-link" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
+                  {{- else }}
+                    <a class="nav-link active" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
+                  {{- end }}
                 {{- end }}
               {{- end }}
             {{- end }}
+          </nav>
+          {{- if $currentSection.Description }}
+            <hr />
+            <h6 class="card-subtitle mb-2 text-muted small">More information</h6>
+            <p class="card-text small">{{ $currentSection.Description }}</p>
           {{- end }}
-        </nav>
-        <h4>More information</h4>
-        <p>{{- $currentSection.Description }}</p>
+        </div>
       </div>
     </div>
     <div class="col-9">
