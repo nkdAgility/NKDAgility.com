@@ -8,6 +8,7 @@ sitemap:
   priority: 0.8
 type: outcomes
 slug: clarity-in-technology-roadmaps
+weight: 500
 card:
   button:
     content: Clarify Your Roadmap

@@ -8,6 +8,7 @@ sitemap:
   priority: 0.8
 type: outcomes
 slug: reduced-risk-increased-stability
+weight: 500
 card:
   button:
     content: Build Stable Systems

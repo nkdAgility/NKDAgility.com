@@ -8,6 +8,7 @@ sitemap:
   priority: 0.8
 type: outcomes
 slug: technical-leadership
+weight: 200
 card:
   button:
     content: Develop Leaders
