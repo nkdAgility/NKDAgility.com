@@ -28,7 +28,7 @@ sections:
       content: "Ready to De-Risk Your Technology? **Schedule a comprehensive risk and stability assessment.**"
       button:
         text: "Book Now"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Are you tired of crossing your fingers during every release?
@@ -151,5 +151,5 @@ sections:
       content: "NKD Agility: Fast, Safe, and Scalable by Design"
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

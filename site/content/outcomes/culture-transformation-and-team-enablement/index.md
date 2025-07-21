@@ -31,7 +31,7 @@ sections:
       content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
       button:
         text: "Book a Discovery Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Tools don't transform teams - people and systems do.
@@ -161,5 +161,5 @@ sections:
       content: "Empowering Teams to Deliver. Together."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

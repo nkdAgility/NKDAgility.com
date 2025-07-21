@@ -27,7 +27,7 @@ sections:
       content: "We've helped leaders like you. **Let's Talk.**"
       button:
         text: "Get Started Now"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Are you a CTO burried under tech debt with no clear way forward?
@@ -157,5 +157,5 @@ sections:
       content: "We've helped teams like yours. Lets talk."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

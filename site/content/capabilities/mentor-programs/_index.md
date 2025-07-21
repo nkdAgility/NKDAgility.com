@@ -30,7 +30,7 @@ headlines:
       content: "NKD Agility delivers **product teams that think clearly, collaborate deeply, and deliver outcomes that matter.**"
       button:
         text: "Book a Mentorship Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 sections:
   - title:
@@ -168,7 +168,7 @@ sections:
       content: "Ready to Train for Impact?. **Let’s talk.**"
       button:
         text: "Book a Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
   - title:
     content:

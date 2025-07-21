@@ -33,7 +33,7 @@ headlines:
       content: "Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**"
       button:
         text: "Book a migration Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 sections:
   - type: none
@@ -98,6 +98,6 @@ sections:
       content: "Book a Free Migration Strategy Session with Martin Hinshelwood **Let’s talk.**"
       button:
         text: "Book a Migration Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 ---

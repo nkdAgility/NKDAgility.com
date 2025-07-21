@@ -26,7 +26,7 @@ sections:
       content: "**Your migration shouldn't feel like a gamble.** Let us de-risk, accelerate, and empower your transformation."
       button:
         text: "Ready to Modernize?"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Struggling to unlock strategic outcomes?
@@ -150,5 +150,5 @@ sections:
       content: "Engineering Excellence. DevOps Mastery. Agile Evolution."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

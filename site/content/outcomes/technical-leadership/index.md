@@ -29,7 +29,7 @@ sections:
       content: "Let’s change that. **You deserve to be heard.**"
       button:
         text: "Connect now"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Are you a CTO stuck in the weeds instead of setting the vision?
@@ -156,5 +156,5 @@ sections:
       content: Empowering the Tech Leaders Who Shape the Future
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

@@ -28,7 +28,7 @@ sections:
       content: "Time to Unite Your Org? **Let’s change the way your organization delivers—together.**"
       button:
         text: "Get Started"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still battling internal turf wars?
@@ -152,5 +152,5 @@ sections:
       content: "One Vision. One Team. One Flow."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

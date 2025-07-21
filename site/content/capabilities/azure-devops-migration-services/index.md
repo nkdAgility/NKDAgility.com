@@ -36,7 +36,7 @@ headlines:
       content: "Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**"
       button:
         text: "Book a Strategy Call"
-        url: "/book"
+        url: "/company/book-online"
 sections:
   - type: none
     title: Why Most DevOps Migrations Fail
@@ -204,6 +204,6 @@ sections:
       content: "Legacy systems don’t need to hold you back. **Let’s talk.**"
       button:
         text: "Book a Migration Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 ---

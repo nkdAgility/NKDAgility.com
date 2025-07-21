@@ -28,7 +28,7 @@ sections:
       content: "Ready to Get Strategic? **Let’s build the roadmap that guides your next stage of growth.**"
       button:
         text: "Get Started"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           No more reactivity.
@@ -153,5 +153,5 @@ sections:
       content: Roadmaps that Align. Architecture that Scales.
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

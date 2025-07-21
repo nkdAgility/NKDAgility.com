@@ -33,7 +33,7 @@ headlines:
       content: "We have helped leaders like you. **Let's Talk**"
       button:
         text: "Connect With Us"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 sections:
   - type: none
@@ -181,7 +181,7 @@ sections:
       content: "We've helped teams like yours. Lets talk."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---
 
 🌍 Business Agility Consulting

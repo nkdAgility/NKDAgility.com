@@ -28,7 +28,7 @@ sections:
       content: "Ready to Lead With Authority?  **Let’s help you tell the right story—to the right people.**"
       button:
         text: "Book an Executive Buy-In Strategy Session"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still hitting a wall in the boardroom?
@@ -152,5 +152,5 @@ sections:
       content: "From Ideas to Influence, We’ve Got Your Back"
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

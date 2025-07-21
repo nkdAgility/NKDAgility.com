@@ -35,7 +35,7 @@ headlines:
       content: "Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**"
       button:
         text: "Connect With Us"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 sections:
   - type: none
@@ -196,7 +196,7 @@ sections:
       content: "Ready to Upgrade Your DevOps Stack? **Let's Talk**"
       button:
         text: "Connect With Us"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 ---
 

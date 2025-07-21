@@ -32,7 +32,7 @@ sections:
       content: "Build the Teams You Always Wished You Had"
       button:
         text: Ready to Build Confident, Capable Teams?
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still relying on your top 10% to carry the 90%?
@@ -158,5 +158,5 @@ sections:
       content: "Grow the Teams that Build the Future"
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

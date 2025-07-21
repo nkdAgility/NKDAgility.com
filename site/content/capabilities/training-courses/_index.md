@@ -50,7 +50,7 @@ headlines:
       content: "NKD Agility delivers hands-on, engineering-aware, transformation-ready training. **Led by mentors, not lecturers.**"
       button:
         text: "Book a Discovery Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 sections:
   - type: none
@@ -198,7 +198,7 @@ sections:
       content: "Ready to Train for Impact?. **Let’s talk.**"
       button:
         text: "Book a Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 categories: []
 tags:
