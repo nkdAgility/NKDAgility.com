@@ -11,6 +11,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
 type: outcomes
+weight: 500
 slug: upskilled-engineering-teams
 card:
   button:

@@ -7,6 +7,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
 type: outcomes
+weight: 500
 slug: culture-transformation-and-team-enablement
 card:
   button:

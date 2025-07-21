@@ -8,6 +8,7 @@ sitemap:
   priority: 0.8
 type: outcomes
 slug: cross-functional-alignment
+weight: 500
 card:
   button:
     content: Align Your Teams
