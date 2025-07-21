@@ -1746,11 +1746,20 @@ html {
 /* Sidebar Navigation - Current Item Styling */
 .sidebar-current-item {
   color: var(--bs-body-color) !important;
-  border-left-color: var(--bs-secondary) !important;
+  border-left: 2px solid var(--bs-secondary) !important;
 }
 
 /* Dark mode only - Orange styling for current sidebar item */
-[data-bs-theme="dark"] .sidebar-current-item {
-  color: var(--bs-warning) !important;
-  border-left-color: var(--bs-warning) !important;
+[data-theme="dark"] .sidebar-current-item {
+  color: var(--accent-color) !important;
+  border-left-color: var(--accent-color) !important;
+}
+
+/* Sidebar border for the card */
+.sidebar-border {
+  border-right: 1px solid rgba(0, 0, 0, 0.125) !important;
+}
+
+[data-theme="dark"] .sidebar-border {
+  border-right: 1px solid rgba(255, 255, 255, 0.125) !important;
 }
