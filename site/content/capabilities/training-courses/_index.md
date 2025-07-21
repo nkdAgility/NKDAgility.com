@@ -32,19 +32,19 @@ card:
     content: Training Courses
   title: Training Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
-headline:
-  cards: []
-  title: Training Programs
-  subtitle: Real-World Agile. Engineering-Driven. Outcome-Focused.
-  images:
-    - /images/PK-PKT@2x.png
-    - /images/Scrumorg-PST_licensed-1000.png
-    - /images/MVP_BlueOnly.png
-  content: |
-    Agile training shouldn't feel like theory camp.
+headlines:
+  - type: headline
+    headline:
+      title: Training Programs
+      subtitle: Real-World Agile. Engineering-Driven. Outcome-Focused.
+      images:
+        - /images/PK-PKT@2x.png
+        - /images/Scrumorg-PST_licensed-1000.png
+        - /images/MVP_BlueOnly.png
+      content: |
+        Agile training shouldn't feel like theory camp.
 
-    You want training that **builds confidence, deepens capability, and results in meaningful improvement**, not just certifications.
-sections:
+        You want training that **builds confidence, deepens capability, and results in meaningful improvement**, not just certifications.
   - type: outcomehero
     cta:
       content: "NKD Agility delivers hands-on, engineering-aware, transformation-ready training. **Led by mentors, not lecturers.**"
@@ -52,6 +52,7 @@ sections:
         text: "Book a Discovery Call"
         url: "/book"
     boxes: []
+sections:
   - type: none
     title: Why Most Agile Training Fails to Stick
     content: |

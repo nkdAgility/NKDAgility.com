@@ -22,22 +22,22 @@ card:
   title: Azure DevOps Migration Services
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
-headline:
-  cards: []
-  title: Azure DevOps Migration
-  subtitle: Seamless Migration. Engineering Excellence. Strategic Impact.
-  content: |
-    You’ve got legacy systems, scattered pipelines, and a mandate to modernise.
+headlines:
+  - type: headline
+    headline:
+      title: Azure DevOps Migration
+      subtitle: Seamless Migration. Engineering Excellence. Strategic Impact.
+      content: |
+        You’ve got legacy systems, scattered pipelines, and a mandate to modernise.
 
-    We help you migrate to Azure DevOps—seamlessly, securely, and strategically—so you can lead with confidence, scale with speed, and finally deliver the outcomes your business expects.
-sections:
+        We help you migrate to Azure DevOps—seamlessly, securely, and strategically—so you can lead with confidence, scale with speed, and finally deliver the outcomes your business expects.
   - type: outcomehero
     cta:
       content: "Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**"
       button:
         text: "Book a Strategy Call"
         url: "/book"
-    boxes: []
+sections:
   - type: none
     title: Why Most DevOps Migrations Fail
     content: |
