@@ -1742,3 +1742,15 @@ html {
   height: 1em;
   vertical-align: -0.125em;
 }
+
+/* Sidebar Navigation - Current Item Styling */
+.sidebar-current-item {
+  color: var(--bs-body-color) !important;
+  border-left-color: var(--bs-secondary) !important;
+}
+
+/* Dark mode only - Orange styling for current sidebar item */
+[data-bs-theme="dark"] .sidebar-current-item {
+  color: var(--bs-warning) !important;
+  border-left-color: var(--bs-warning) !important;
+}
