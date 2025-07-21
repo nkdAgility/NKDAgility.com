@@ -19,7 +19,7 @@
       <div class="card shadow-sm my-5 small">
         {{- $currentSection := .Parent }}
         <div class="card-header">
-          <h5 class="card-title mb-0">{{ $currentSection.Title }}</h5>
+          <h5 class="card-title mb-0">{{ $currentSection.Params.title_alt | default $currentSection.Title }}</h5>
         </div>
         <div class="card-body">
           <nav class="nav nav-pills flex-column mb-3">
