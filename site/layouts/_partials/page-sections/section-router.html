@@ -8,7 +8,6 @@
   - page: Current page object
   - section: Section configuration object
 */}}
-
 {{- $site := .site }}
 {{- $page := .page }}
 {{- $section := .section }}
@@ -18,6 +17,7 @@
   "features"    "page-sections/sections-features.html"
   "courses"     "page-sections/sections-courses.html"
   "taxonomies"  "page-sections/sections-taxonomies.html"
+  "taxonomies-list" "page-sections/sections-taxonomies-list.html"
   "phases"      "page-sections/sections-phases.html"
   "options"     "page-sections/sections-consulting-options.html"
   "types"       "page-sections/sections-types.html"
@@ -27,14 +27,18 @@
   "cards"       "page-sections/sections-cards.html"
   "counters"    "page-sections/sections-counters.html"
   "outcomehero" "page-sections/sections-outcomehero.html"
-  "outcomeboxes" "page-sections/sections-outcomeboxes.html"
+  "outcomeboxes" "page-sections/sections-boxesrow.html"
+  "boxesrow" "page-sections/sections-boxesrow.html"
   "casestudy"   "page-sections/sections-casestudy.html"
   "sectioncta"  "page-sections/sections-sectioncta.html"
   "textNlist"   "page-sections/sections-textnlist.html"
   "list"        "page-sections/sections-list.html"
   "quote"       "page-sections/sections-quote.html"
+  "symmetry"    "page-sections/sections-symmetry.html"
 }}
-
+{{- if eq hugo.Environment "development" }}
+  [{{ $section.type }}]
+{{- end }}
 {{/* Handle special case section types */}}
 {{- $sectionType := $section.type | default "content" }}
 {{- if eq $sectionType "none" }}
@@ -51,9 +55,11 @@
   {{- else if in (slice "courses" "videos" "cards" "counters") $sectionType }}
     {{- $context = dict "site" $site "context" $section }}
   {{- end }}
-
   {{- partial $template $context }}
 {{- else }}
   {{/* Default fallback for unknown section types */}}
-  {{- partial "page-sections/section-unknown.html" (dict "section" $section) }}
+  {{- partial "page-sections/section-unknown.html" (dict "section" $section "sectionTypes" $sectionTypes) }}
+{{- end }}
+{{- if eq hugo.Environment "development" }}
+  [/{{ $section.type }}]
 {{- end }}

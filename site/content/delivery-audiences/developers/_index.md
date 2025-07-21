@@ -1,5 +1,6 @@
 ---
 title: Developers
+description: Developers are
 weight: 3
 card:
   title: Developers
