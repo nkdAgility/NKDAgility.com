@@ -21,15 +21,15 @@ card:
     content: Optimize Your DevOps Strategy
   title: DevOps Technology Consulting
   content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
-headline:
-  cards: []
-  title: DevOps Technology Consultancy
-  subtitle: Design the Systems. Build the Pipelines. Empower the Teams.
-  content: |
-    You’ve got too many tools, too many silos, and a delivery pipeline that’s more duct tape than design.
+headlines:
+  - type: headline
+    headline:
+      title: DevOps Technology Consultancy
+      subtitle: Design the Systems. Build the Pipelines. Empower the Teams.
+      content: |
+        You’ve got too many tools, too many silos, and a delivery pipeline that’s more duct tape than design.
 
-    You don’t need another vendor pitching a silver bullet—you need a trusted partner who can help you build DevOps systems that scale, secure, and perform.
-sections:
+        You don’t need another vendor pitching a silver bullet—you need a trusted partner who can help you build DevOps systems that scale, secure, and perform.
   - type: outcomehero
     cta:
       content: "Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**"
@@ -37,6 +37,7 @@ sections:
         text: "Connect With Us"
         url: "/book"
     boxes: []
+sections:
   - type: none
     title: Why DevOps Initiatives Fail in the Real World
     content: |

@@ -1,6 +1,10 @@
 {{- define "headline" }}
   <section class="container my-2 container-content-wide">
-    {{- partial "headline.html" . }}
+    {{- if .Params.headlines }}
+      {{- partial "page-sections/headlines.html" . }}
+    {{- else }}
+      {{- partial "headline.html" . }}
+    {{- end }}
   </section>
 {{- end }}
 

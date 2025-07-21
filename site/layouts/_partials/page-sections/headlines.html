@@ -1,0 +1,14 @@
+{{/* Sections Template - Renders dynamic page sections based on frontmatter configuration
+
+  This template processes an array of sections defined in page frontmatter and renders
+  each section with appropriate partial templates based on the section type.
+*/}}
+
+{{- $site := .Site }}
+{{- $page := . }}
+
+{{- if .Params.headlines }}
+  {{- range $index, $section := .Params.headlines }}
+    {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}
+  {{- end }}
+{{- end }}
