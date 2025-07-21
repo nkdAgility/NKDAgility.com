@@ -37,7 +37,6 @@ headlines:
       button:
         text: "Book a Strategy Call"
         url: "/company/book-online"
-sections:
   - type: none
     title: Why Most DevOps Migrations Fail
     content: |
@@ -53,6 +52,7 @@ sections:
       **We do it differently.**
 
       We elevate your engineering culture while building scalable, secure, maintainable pipelines your team actually understands and owns.
+sections:
   - type: boxesrow
     title: What DevOps Migration Solves
     boxes:

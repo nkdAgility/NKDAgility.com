@@ -37,7 +37,6 @@ headlines:
         text: "Connect With Us"
         url: "/company/book-online"
     boxes: []
-sections:
   - type: none
     title: Why DevOps Initiatives Fail in the Real World
     content: |
@@ -53,6 +52,7 @@ sections:
 
       Then we architect, automate, and enable.
 
+sections:
   - type: quote
     backgroundColor: primary
     quote: |

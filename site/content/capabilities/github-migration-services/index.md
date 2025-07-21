@@ -35,7 +35,6 @@ headlines:
         text: "Book a migration Call"
         url: "/company/book-online"
     boxes: []
-sections:
   - type: none
     title: Why Migrate from TFS to GitHub?
     content: |
@@ -49,6 +48,7 @@ sections:
       - Integration with AI-powered developer tools like Copilot
 
       But most importantly: **GitHub lets your teams move faster, safer, and smarter.**
+sections:
   - type: list
     title: Why NKD Agility?
     listType: list

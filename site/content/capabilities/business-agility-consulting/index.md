@@ -35,7 +35,6 @@ headlines:
         text: "Connect With Us"
         url: "/company/book-online"
     boxes: []
-sections:
   - type: none
     title: Why Business Agility Stalls in most Orgs
     content: |
@@ -50,6 +49,7 @@ sections:
 
       You need **a partner who understands product, technology, and systems thinking.
       That’s us**.
+sections:
   - type: quote
     backgroundColor: primary
     quote: |
