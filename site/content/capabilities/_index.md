@@ -1,5 +1,6 @@
 ---
 title: What We Do?
+title_alt: What else do we do?
 description: Explore expert consulting, coaching, and mentoring in Agile, DevOps, Scrum, and Kanban. Boost performance, streamline delivery, and drive real outcomes with NKD Agility.
 url: /capabilities/
 card:
