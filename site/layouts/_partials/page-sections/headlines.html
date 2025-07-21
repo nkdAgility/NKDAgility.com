@@ -6,9 +6,35 @@
 
 {{- $site := .Site }}
 {{- $page := . }}
-
-{{- if .Params.headlines }}
-  {{- range $index, $section := .Params.headlines }}
-    {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}
-  {{- end }}
-{{- end }}
+<section class="container">
+  <div class="row">
+    <div class="col-3">
+      <div class=" my-5">
+        {{- $currentSection := .Parent }}
+        <h3>{{ $currentSection.Title }}</h3>
+        <nav class="nav nav-pills flex-column">
+          {{- if $currentSection }}
+            {{- range $currentSection.Pages.ByWeight }}
+              {{- if not .Draft }}
+                {{- if ne .Permalink $page.Permalink }}
+                  <a class="nav-link" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
+                {{- else }}
+                  <a class="nav-link active" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Params.short_title | default .Title }}</a>
+                {{- end }}
+              {{- end }}
+            {{- end }}
+          {{- end }}
+        </nav>
+        <h4>More information</h4>
+        <p>{{- $currentSection.Description }}</p>
+      </div>
+    </div>
+    <div class="col-9">
+      {{- if .Params.headlines }}
+        {{- range $index, $section := .Params.headlines }}
+          {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}
+        {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</section>
