@@ -8,7 +8,7 @@
 {{- $page := . }}
 <section class="container">
   <div class="row">
-    <div class="col-3">
+    <div class="col-12 col-lg-3 d-none d-lg-block">
       <div class="card shadow-sm my-5 small">
         {{- $currentSection := .Parent }}
         <div class="card-header">
@@ -36,7 +36,7 @@
         </div>
       </div>
     </div>
-    <div class="col-9">
+    <div class="col-12 col-lg-9">
       {{- if .Params.headlines }}
         {{- range $index, $section := .Params.headlines }}
           {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}

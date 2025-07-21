@@ -20,30 +20,26 @@
     </h2>
 
     {{- if $section.headline.images }}
-      {{- $colClass := "col-xl-4" }}
+      {{- $colClass := "col-sm-4" }}
       {{- $count := len $section.headline.images }}
       {{- if eq (mod $count 3) 0 }}
-        {{- $colClass = "col-xl-4" }}
+        {{- $colClass = "col-sm-4" }}
         <!-- 3 per row -->
       {{- else if eq (mod $count 2) 0 }}
-        {{- $colClass = "col-xl-6" }}
+        {{- $colClass = "col-sm-6" }}
         <!-- 2 per row -->
       {{- end }}
       <div class="mb-4">
         <div class="row">
           {{- range $section.headline.images }}
-            <div class="{{- $colClass }} p-2 d-flex justify-content-center">
+            <div class="col-12 {{ $colClass }} p-2 d-flex justify-content-center">
               {{- if strings.HasPrefix . "/images/" }}
-                <a href="{{- . | safeURL }}" data-toggle="lightbox">
-                  <img src="{{- . | safeURL }}" loading="lazy" style="max-height: 150px;" />
-                </a>
+                <img src="{{- . | safeURL }}" loading="lazy" class="img-fluid" style="max-height: 80px; object-fit: contain;" alt="Image" />
               {{- else }}
                 {{- $image := $page.Resources.GetMatch . }}
                 {{- if $image }}
-                  {{- $resized := $image.Fit "25x25 jpg" }}
-                  <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox">
-                    <img src="{{- $resized.RelPermalink | safeURL }}" loading="lazy" width="80%" style="max-height: 150px;" />
-                  </a>
+                  {{- $resized := $image.Resize "200x80" }}
+                  <img src="{{- $resized.RelPermalink | safeURL }}" class="img-fluid" loading="lazy" style="max-height: 80px; object-fit: contain;" alt="{{- $image.Title | default "Image" }}" />
                 {{- else }}
                   failed to get image
                   {{- . }}
