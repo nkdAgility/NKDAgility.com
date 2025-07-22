@@ -14,6 +14,7 @@ card:
     content: Develop Leaders
   title: Technical Leadership
   content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
+icon: fa-users-cog
 sections:
   - type: headline
     headline:

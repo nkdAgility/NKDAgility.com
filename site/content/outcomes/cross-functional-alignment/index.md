@@ -14,6 +14,7 @@ card:
     content: Align Your Teams
   title: Cross Functional Alignment
   content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
+icon: fa-project-diagram
 sections:
   - type: headline
     headline:

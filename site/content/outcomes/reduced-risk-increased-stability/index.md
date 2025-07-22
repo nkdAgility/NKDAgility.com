@@ -14,6 +14,7 @@ card:
     content: Build Stable Systems
   title: Reduced Risk Increased Stability
   content: Transform uncertain deployments into predictable releases through disciplined engineering practices that proactively address potential failures.
+icon: fa-shield-alt
 sections:
   - type: headline
     headline:

@@ -14,6 +14,7 @@ card:
     content: Clarify Your Roadmap
   title: Clarity in Technology Roadmaps
   content: Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.
+icon: fa-map-signs
 sections:
   - type: headline
     headline:

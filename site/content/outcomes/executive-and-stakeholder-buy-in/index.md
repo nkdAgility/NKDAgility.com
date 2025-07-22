@@ -14,6 +14,7 @@ card:
     content: Secure Leadership Support
   title: Executive and Stakeholder Buy-In
   content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
+icon: fa-handshake
 sections:
   - type: headline
     headline:

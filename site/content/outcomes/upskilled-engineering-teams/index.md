@@ -18,6 +18,7 @@ card:
     content: Upskilled Engineering Teams
   title: Upskilled Engineering Teams
   content: Enable capable engineers to grow into confident, effective contributors through structured practice.
+icon: fa-graduation-cap
 sections:
   - type: headline
     headline:

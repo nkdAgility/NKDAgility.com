@@ -15,6 +15,7 @@ card:
     content: Achieve Excellence
   title: Engineering Excellence
   content: Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.
+icon: fa-gear-code
 sections:
   - type: headline
     headline:

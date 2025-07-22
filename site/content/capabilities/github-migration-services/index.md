@@ -19,6 +19,7 @@ card:
   title: Github Migration Services
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
+icon: fa-cloud-arrow-up
 headlines:
   - type: headline
     headline:

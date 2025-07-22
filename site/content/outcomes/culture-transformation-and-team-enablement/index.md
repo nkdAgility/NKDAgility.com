@@ -14,6 +14,7 @@ card:
     content: Transform Your Culture
   title: Culture Transformation and Team Enablement
   content: Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.
+icon: fa-people-arrows
 sections:
   - type: headline
     headline:

@@ -13,6 +13,7 @@ card:
     content: Start DevOps Journey
   title: Seamless DevOps Migration
   content: odernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.
+icon: fa-cloud-upload-alt
 sections:
   - type: headline
     headline:

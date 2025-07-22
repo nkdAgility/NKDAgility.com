@@ -14,6 +14,7 @@ card:
     content: Accelerate Delivery Now
   title: Faster More Predictable Software Delivery
   content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
+icon: fa-tachometer-alt
 sections:
   - type: headline
     headline:
