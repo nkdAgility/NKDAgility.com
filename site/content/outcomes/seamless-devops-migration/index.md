@@ -13,11 +13,17 @@ card:
     content: Start DevOps Journey
   title: Seamless DevOps Migration
   content: odernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.
-headline:
-  cards: []
-  title: Seamless DevOps Migration
-  content: "**Your legacy systems are holding you back.** You know it. Your team knows it. But migrating to modern DevOps feels like open-heart surgery on a moving train."
 sections:
+  - type: headline
+    headline:
+      title: Seamless DevOps Migration
+      subtitle: Your legacy systems are holding you back.
+      content: |
+        You know it. 
+
+        Your team knows it. 
+
+        But migrating to modern DevOps feels like open-heart surgery on a moving train.
   - content: |
       **Migrate Without Mayhem. Scale Without Stalls.**  Carefully managed downtime and data integrity throughout migration, ensuring a stable and secure transition to modern infrastructure.
     type: content

@@ -14,12 +14,13 @@ card:
     content: Clarify Your Roadmap
   title: Clarity in Technology Roadmaps
   content: Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.
-headline:
-  cards: []
-  title: Clarity in Technology Roadmaps
-  content: |
-    **Lead with Vision. Execute with Confidence.** Without a clear tech strategy, even the best teams drift. Priorities shift. Investments scatter. Architecture grows fragile.
 sections:
+  - type: headline
+    headline:
+      title: Clarity in Technology Roadmaps
+      subtitle: Lead with Vision. Execute with Confidence.
+      content: |
+        Without a clear tech strategy, even the best teams drift. Priorities shift. Investments scatter. Architecture grows fragile.
   - content: |
       **NKD Agility helps you chart a confident path forward.** We turn vague initiatives into focused, future-proof roadmaps that guide execution—and earn executive trust.
     type: content

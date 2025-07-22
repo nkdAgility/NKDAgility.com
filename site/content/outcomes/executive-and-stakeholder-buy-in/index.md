@@ -14,12 +14,19 @@ card:
     content: Secure Leadership Support
   title: Executive and Stakeholder Buy-In
   content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
-headline:
-  cards: []
-  title: Executive & Stakeholder Buy-In
-  content: |
-    **Speak Their Language. Win Their Support.** You’ve got the vision. The roadmap. The technical chops. But without buy-in from the boardroom, nothing moves.
 sections:
+  - type: headline
+    headline:
+      title: Executive & Stakeholder Buy-In
+      subtitle: Speak Their Language. Win Their Support.
+      content: |
+        You’ve got the vision. 
+
+        The roadmap. 
+
+        The technical chops. 
+
+        But without buy-in from the boardroom, nothing moves.
   - content: |
       **NKD Agility helps technical leaders win trust, funding, and influence.** We give you the tools, metrics, and language to communicate value—and the confidence to lead with authority.
     type: content

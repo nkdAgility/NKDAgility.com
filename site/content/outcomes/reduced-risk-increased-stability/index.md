@@ -14,12 +14,13 @@ card:
     content: Build Stable Systems
   title: Reduced Risk Increased Stability
   content: Transform uncertain deployments into predictable releases through disciplined engineering practices that proactively address potential failures.
-headline:
-  cards: []
-  title: Reduced Risk and Increased Stability
-  content: |
-    **Ship with Confidence. Sleep at Night.** When deployments break, customers leave. When security fails, reputations crumble. When systems go down, your leadership is questioned.
 sections:
+  - type: headline
+    headline:
+      title: Reduced Risk and Increased Stability
+      subtitle: Ship with Confidence. Sleep at Night.
+      content: |
+        When deployments break, customers leave. When security fails, reputations crumble. When systems go down, your leadership is questioned.
   - content: |
       **NKD Agility helps reduce operational risk and strengthen system resilience.** Through secure pipelines and compliance-oriented governance, we enable fast and safe movement.
     type: content
