@@ -14,12 +14,14 @@ card:
     content: Align Your Teams
   title: Cross Functional Alignment
   content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
-headline:
-  cards: []
-  title: Cross-Functional Alignment
-  content: |
-    **Unite Product, Tech & Business Around Shared Outcomes.** You don’t have a tech problem. You have a _coordination_ problem. Product ships what sales promised. Engineering scrambles to deliver. Leadership wonders why timelines are slipping.
+icon: fa-project-diagram
 sections:
+  - type: headline
+    headline:
+      title: Cross-Functional Alignment
+      subtitle: Unite Product, Tech & Business Around Shared Outcomes.
+      content: |
+        You don’t have a tech problem. You have a _coordination_ problem. Product ships what sales promised. Engineering scrambles to deliver. Leadership wonders why timelines are slipping.
   - content: |
       **NKD Agility creates true alignment—across every function.** We help you turn fractured priorities and siloed teams into one unified engine of delivery.
     type: content
@@ -28,7 +30,7 @@ sections:
       content: "Time to Unite Your Org? **Let’s change the way your organization delivers—together.**"
       button:
         text: "Get Started"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still battling internal turf wars?
@@ -152,5 +154,5 @@ sections:
       content: "One Vision. One Team. One Flow."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

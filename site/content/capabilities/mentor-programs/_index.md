@@ -15,23 +15,25 @@ card:
     content: Mentor Programs
   title: Mentor Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
-headline:
-  title: NKD Agility Mentorship Programs
-  subtitle: Real Products. Real Pressure. Real Mentorship.
-  content: |
-    You don’t need more frameworks, more certifications, or another backlog refinement template.
-    You need **product teams that think clearly, collaborate deeply, and deliver outcomes that matter**.
+icon: fa-people-arrows
+headlines:
+  - type: headline
+    headline:
+      title: NKD Agility Mentorship Programs
+      subtitle: Real Products. Real Pressure. Real Mentorship.
+      content: |
+        You don’t need more frameworks, more certifications, or another backlog refinement template.
+        You need **product teams that think clearly, collaborate deeply, and deliver outcomes that matter**.
 
-    That’s why we offer two mentorship programs, built for two distinct but critical growth journeys.
-  cards: []
-sections:
+        That’s why we offer two mentorship programs, built for two distinct but critical growth journeys.
   - type: outcomehero
     cta:
       content: "NKD Agility delivers **product teams that think clearly, collaborate deeply, and deliver outcomes that matter.**"
       button:
         text: "Book a Mentorship Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
+sections:
   - title:
     type: types
     source: mentor-program
@@ -167,7 +169,7 @@ sections:
       content: "Ready to Train for Impact?. **Let’s talk.**"
       button:
         text: "Book a Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
   - title:
     content:

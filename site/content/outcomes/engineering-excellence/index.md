@@ -4,6 +4,7 @@ description: "Build high-quality software systems through advanced engineering p
 date: 2025-05-30T09:00:00Z
 trustpilot: false
 creator: Martin Hinshelwood
+weight: 100
 sitemap:
   filename: sitemap.xml
   priority: 0.8
@@ -14,11 +15,14 @@ card:
     content: Achieve Excellence
   title: Engineering Excellence
   content: Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.
-headline:
-  cards: []
-  title: From Tech Debt to World-Class Delivery
-  content: "**Most CTOs aren’t struggling with ideas.** They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production."
+icon: fa-gear-code
 sections:
+  - type: headline
+    headline:
+      title: From Tech Debt to World-Class Delivery
+      subtitle: Most CTOs aren’t struggling with ideas.
+      content: |
+        They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production.
   - content: |
       **We help software organisations evolve their engineering culture by embedding modern practices, enabling flow, and removing systemic delivery friction.** The goal isn’t just better software, it’s a better way of building and sustaining it.
     type: content
@@ -27,7 +31,7 @@ sections:
       content: "We've helped leaders like you. **Let's Talk.**"
       button:
         text: "Get Started Now"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Are you a CTO burried under tech debt with no clear way forward?
@@ -157,5 +161,5 @@ sections:
       content: "We've helped teams like yours. Lets talk."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

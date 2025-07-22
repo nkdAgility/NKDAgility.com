@@ -14,13 +14,16 @@ card:
     content: Develop Leaders
   title: Technical Leadership
   content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
-headline:
-  cards: []
-  title: Technical Leadership for Strategic Impact
-  content: |
-    **Strategic Clarity. Effective Alignment. Measurable Outcomes.** You weren’t hired just to keep the servers running. You were hired to shape the future.
-    But without clear strategy, alignment, and authority—most technical leaders are stuck in reaction mode.
+icon: fa-users-cog
 sections:
+  - type: headline
+    headline:
+      title: Technical Leadership for Strategic Impact
+      subtitle: Strategic Clarity. Effective Alignment. Measurable Outcomes.
+      content: |
+        You weren’t hired just to keep the servers running. You were hired to shape the future.
+
+        But without clear strategy, alignment, and authority, most technical leaders are stuck in reaction mode.
   - content: |
       **NKD Agility equips CTOs with the frameworks and insights** to shift from tactical execution to strategic advisory, enabling measurable improvements in boardroom credibility and alignment.
     type: content
@@ -29,7 +32,7 @@ sections:
       content: "Let’s change that. **You deserve to be heard.**"
       button:
         text: "Connect now"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Are you a CTO stuck in the weeds instead of setting the vision?
@@ -156,5 +159,5 @@ sections:
       content: Empowering the Tech Leaders Who Shape the Future
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

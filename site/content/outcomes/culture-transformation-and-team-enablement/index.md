@@ -14,14 +14,16 @@ card:
     content: Transform Your Culture
   title: Culture Transformation and Team Enablement
   content: Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.
-headline:
-  cards: []
-  title: Transform Your Culture
-  subtitle:
-  content: |
-    **Build Teams That Own, Adapt, and Thrive**. You’ve bought the tools. You’ve implemented the frameworks.
-    But without cultural alignment, delivery still stalls - and teams stay disengaged.
+icon: fa-people-arrows
 sections:
+  - type: headline
+    headline:
+      title: Transform Your Culture
+      subtitle: Build Teams That Own, Adapt, and Thrive
+      content: |
+        You’ve bought the tools. You’ve implemented the frameworks.
+
+        But without cultural alignment, delivery still stalls - and teams stay disengaged.
   - content: |
       **NKD Agility doesn’t just install practices. We enable transformation.** We help teams shift mindset, build modern habits, and create a culture where innovation flows and ownership thrives.
 
@@ -31,7 +33,7 @@ sections:
       content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
       button:
         text: "Book a Discovery Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Tools don't transform teams - people and systems do.
@@ -161,5 +163,5 @@ sections:
       content: "Empowering Teams to Deliver. Together."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

@@ -6,10 +6,14 @@
 
 {{- $site := .Site }}
 {{- $page := . }}
+{{- $offsetForSidebar := false }}
+{{- if .Params.headlines }}
+  {{- $offsetForSidebar = true }}
+{{- end }}
 
 {{- if .Params.sections }}
   {{- range $index, $section := .Params.sections }}
-    {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}
+    {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index "offsetForSidebar" $offsetForSidebar) }}
   {{- end }}
 {{- else }}
   {{/* Fallback: render page content directly if no sections defined */}}

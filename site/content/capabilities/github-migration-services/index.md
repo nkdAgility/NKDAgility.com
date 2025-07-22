@@ -19,21 +19,22 @@ card:
   title: Github Migration Services
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
-headline:
-  cards: []
-  title: Azure DevOps (TFS) to Github Migration
-  subtitle: Unlock Modern Software Delivery. Ditch Legacy TFS. Move with Confidence.
-  content: |
-    Your teams are still shipping from Team Foundation Server. You know it’s slowing you down. But the migration to GitHub feels risky, code history, permissions, workflows, integrations… it’s a lot.
+icon: fa-cloud-arrow-up
+headlines:
+  - type: headline
+    headline:
+      title: Azure DevOps (TFS) to Github Migration
+      subtitle: Unlock Modern Software Delivery. Ditch Legacy TFS. Move with Confidence.
+      content: |
+        Your teams are still shipping from Team Foundation Server. You know it’s slowing you down. But the migration to GitHub feels risky, code history, permissions, workflows, integrations… it’s a lot.
 
-    **That’s where NKD Agility comes in.** We help engineering organizations migrate from TFS (or Azure DevOps Server) to GitHub with **clarity, control, and zero guesswork**, so you can future-proof your development pipeline without disrupting delivery.
-sections:
+        **That’s where NKD Agility comes in.** We help engineering organizations migrate from TFS (or Azure DevOps Server) to GitHub with **clarity, control, and zero guesswork**, so you can future-proof your development pipeline without disrupting delivery.
   - type: outcomehero
     cta:
       content: "Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**"
       button:
         text: "Book a migration Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
   - type: none
     title: Why Migrate from TFS to GitHub?
@@ -48,6 +49,7 @@ sections:
       - Integration with AI-powered developer tools like Copilot
 
       But most importantly: **GitHub lets your teams move faster, safer, and smarter.**
+sections:
   - type: list
     title: Why NKD Agility?
     listType: list
@@ -97,6 +99,6 @@ sections:
       content: "Book a Free Migration Strategy Session with Martin Hinshelwood **Let’s talk.**"
       button:
         text: "Book a Migration Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
 ---

@@ -14,11 +14,13 @@ card:
     content: Accelerate Delivery Now
   title: Faster More Predictable Software Delivery
   content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
-headline:
-  cards: []
-  title: Faster More Predictable Software Delivery
-  content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
+icon: fa-tachometer-alt
 sections:
+  - type: headline
+    headline:
+      title: Faster More Predictable Software Delivery
+      content: |
+        Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
   - content: |
       **NKD Agility transforms chaotic delivery into a disciplined flow.** With modern Agile + DevOps integration, we help you release faster, with fewer bugs and more confidence.
     type: content
@@ -27,7 +29,7 @@ sections:
       content: "Ready to Release at the Speed of Strategy? **Let’s fix that.**"
       button:
         text: "Book a Free Delivery Optimization Call"
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still stuck in delivery hell?
@@ -152,5 +154,5 @@ sections:
       content: "Because Your Code Should Ship with Confidence"
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

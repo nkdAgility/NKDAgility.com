@@ -18,12 +18,14 @@ card:
     content: Upskilled Engineering Teams
   title: Upskilled Engineering Teams
   content: Enable capable engineers to grow into confident, effective contributors through structured practice.
-headline:
-  cards: []
-  title: "Upskilled Engineering Teams"
-  content: |
-    **Build the Teams You Always Wished You Had**. Tools don’t build great software - _teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition.
+icon: fa-graduation-cap
 sections:
+  - type: headline
+    headline:
+      title: Upskilled Engineering Teams
+      subtitle: Build the Teams You Always Wished You Had
+      content: |
+        Tools don’t build great software - _teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition.
   - content: |
       **NKD Agility transforms capable developers into modern engineers.** With hands-on coaching, real-world DevOps, and Agile Engineering training, we future-proof your team - without losing momentum.
     type: content
@@ -32,7 +34,7 @@ sections:
       content: "Build the Teams You Always Wished You Had"
       button:
         text: Ready to Build Confident, Capable Teams?
-        url: "/book"
+        url: "/company/book-online"
     boxes:
       - content: |
           Still relying on your top 10% to carry the 90%?
@@ -158,5 +160,5 @@ sections:
       content: "Grow the Teams that Build the Future"
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---

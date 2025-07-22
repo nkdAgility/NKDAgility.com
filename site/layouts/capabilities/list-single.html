@@ -1,7 +1,14 @@
 {{- define "headline" }}
-  <section class="container my-2 container-content-wide">
-    {{- partial "headline.html" . }}
-  </section>
+  {{- if .Params.headlines }}
+    <div class="capabilities-main">
+      {{- partial "page-sections/headlines.html" . }}
+    </div>
+  {{- else }}
+    <section class="container my-2 container-content-wide">
+      {{- partial "headline.html" . }}
+    </section>
+  {{- end }}
+
 {{- end }}
 
 {{- define "main" }}

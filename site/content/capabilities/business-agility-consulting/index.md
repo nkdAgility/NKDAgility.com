@@ -22,18 +22,19 @@ card:
     content: Transform Your Organization
   title: Business Agility Consulting
   content: A practical consulting service that helps organisations move fast, align teams, and deliver real value with evidence-based business agility.
-headline:
-  cards: []
-  title: Business Agility Consulting
-  content: |
-    Unlock Faster Decisions. Smarter Products. Aligned Teams.
-sections:
+icon: fa-rocket-launch
+headlines:
+  - type: headline
+    headline:
+      title: Business Agility Consulting
+      content: |
+        Unlock Faster Decisions. Smarter Products. Aligned Teams.
   - type: outcomehero
     cta:
       content: "We have helped leaders like you. **Let's Talk**"
       button:
         text: "Connect With Us"
-        url: "/book"
+        url: "/company/book-online"
     boxes: []
   - type: none
     title: Why Business Agility Stalls in most Orgs
@@ -49,6 +50,7 @@ sections:
 
       You need **a partner who understands product, technology, and systems thinking.
       That’s us**.
+sections:
   - type: quote
     backgroundColor: primary
     quote: |
@@ -180,7 +182,7 @@ sections:
       content: "We've helped teams like yours. Lets talk."
       button:
         text: "Schedule a call"
-        url: "/book"
+        url: "/company/book-online"
 ---
 
 🌍 Business Agility Consulting

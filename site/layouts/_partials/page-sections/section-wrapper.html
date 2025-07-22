@@ -11,6 +11,7 @@
 {{- $page := .page }}
 {{- $section := .section }}
 {{- $index := .index }}
+{{- $offsetForSidebar := .offsetForSidebar | default false }}
 
 {{/* Build CSS classes for the section */}}
 {{- $sectionClasses := "container my-1" }}
@@ -41,13 +42,22 @@
   <section class="container-fluid {{ $backgroundClass }}">
     <section class="{{ $sectionClasses }}" data-section-type="{{ $section.type }}" data-section-index="{{ $index }}">
       <div class="section">
-        {{/* Render section header if title or content exists */}}
-        {{- if or $section.title $section.content }}
-          {{- partial "page-sections/section-header.html" (dict "section" $section) }}
+        {{- if $offsetForSidebar }}
+          <div class="row">
+            <div id="wrapper-sidebar" class="col-12 col-lg-3 d-none d-lg-block">
+              </div>
+            <div id="wrapper-content" class="col-12 col-lg-9">
         {{- end }}
-
-        {{/* Route to appropriate section type template */}}
-        {{- partial "page-sections/section-router.html" (dict "site" $site "page" $page "section" $section) }}
+              {{/* Render section header if title or content exists */}}
+              {{- if or $section.title $section.content }}
+                {{- partial "page-sections/section-header.html" (dict "section" $section) }}
+              {{- end }}
+              {{/* Route to appropriate section type template */}}
+              {{- partial "page-sections/section-router.html" (dict "site" $site "page" $page "section" $section) }}
+        {{- if $offsetForSidebar }}
+            </div>
+          </div>
+        {{- end }}
       </div>
     </section>
   </section>
