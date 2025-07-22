@@ -23,7 +23,7 @@ card:
   title: Business Agility Consulting
   content: A practical consulting service that helps organisations move fast, align teams, and deliver real value with evidence-based business agility.
 icon: fa-rocket-launch
-headlines:
+sections:
   - type: headline
     headline:
       title: Business Agility Consulting
@@ -50,7 +50,6 @@ headlines:
 
       You need **a partner who understands product, technology, and systems thinking.
       That’s us**.
-sections:
   - type: quote
     backgroundColor: primary
     quote: |

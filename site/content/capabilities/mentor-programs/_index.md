@@ -16,7 +16,7 @@ card:
   title: Mentor Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
 icon: fa-people-arrows
-headlines:
+sections:
   - type: headline
     headline:
       title: NKD Agility Mentorship Programs
@@ -33,7 +33,6 @@ headlines:
         text: "Book a Mentorship Call"
         url: "/company/book-online"
     boxes: []
-sections:
   - title:
     type: types
     source: mentor-program
