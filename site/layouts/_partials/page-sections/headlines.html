@@ -22,6 +22,8 @@
           </div>
           <div class="card-body px-0">
             <nav class="nav flex-column mb-3">
+              <a class="nav-link text-muted py-1 px-0 small" href="{{ $currentSection.Permalink }}" title="{{ $currentSection.Title }}" style="border-left: 2px solid transparent;">Overview</a>
+              <hr />
               {{- if $currentSection }}
                 {{- range $currentSection.Pages.ByWeight }}
                   {{- if not .Draft }}
