@@ -67,16 +67,10 @@ sections:
     boxes:
       - box:
         ref: /outcomes/engineering-excellence
-        title: Engineering Excellence
-        content: Embed CI/CD, IaC, and quality automation for world‑class software.
       - box:
         ref: /outcomes/faster-more-predictable-software-delivery
-        title: Faster, Predictable Delivery
-        content: Shorten lead time and ship with confidence, sprint after sprint.
       - box:
         ref: /outcomes/reduced-risk-increased-stability
-        title: Reduced Risk, Increased Stability
-        content: Strengthen security and resilience without slowing innovation.
 
   # 4 ───────── STRATEGIC LEADERSHIP & ALIGNMENT
   - type: boxesrow
@@ -84,16 +78,10 @@ sections:
     boxes:
       - box:
         ref: "/outcomes/clarity-in-technology-roadmaps"
-        title: Clarity in Technology Roadmaps
-        content: Align architecture and investment to business goals.
       - box:
         ref: "/outcomes/technical-leadership"
-        title: Technical Leadership
-        content: Equip CTOs and tech leaders to influence, guide, and innovate.
       - box:
         ref: "/outcomes/executive-and-stakeholder-buy-in"
-        title: Executive & Stakeholder Buy‑In
-        content: Win trust, funding, and momentum for transformation.
 
   # 5 ───────── DEVOPS MODERNISATION
   - type: boxesrow
@@ -101,8 +89,6 @@ sections:
     boxes:
       - box:
         ref: "/outcomes/seamless-devops-migration"
-        title: Seamless DevOps Migration
-        content: Modernise legacy platforms with zero‑drama migration and faster flow.
 
   # 6 ───────── CALL TO ACTION
   - type: sectioncta

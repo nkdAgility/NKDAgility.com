@@ -6,26 +6,88 @@ url: /capabilities/
 card:
   title: What We Do?
   content: Explore our tailored services and capabilities in Consulting, Coaching, and Mentoring. Specializing in Agile, DevOps, Scrum, and Kanban, we’re here to help you tackle challenges and drive success. Enhance your team’s performance and efficiency with our expert solutions!
-headline:
-  title: What We Do?
-  subtitle: No Sales. Only Experts.
-  images:
-    - /images/MVP_BlueOnly.png
-    - /images/PK-PKT@2x.png
-    - /images/Scrumorg-PST_licensed-1000.png
-  content: |
-    **Tailored services and capabilities in Consulting, Coaching, and Mentoring**
-
-    Our team consists of world-renowned consultants, each a leading authority in their respective domains of DevOps, Scrum, Agile, Lean, and Kanban. With a track record of transformative success, they are uniquely equipped to empower your organization with cutting-edge methodologies and drive unparalleled growth.
-
-  cards:
-    - image:
-      title: Technical Leadership
-      content: NKD Agility provides hands-on guidance to empower teams with the skills and best practices needed to deliver high-quality, scalable solutions that align with business goals.
-    - image:
-      title: Engineering Excellence
-      content: We embed quality into every phase of development, ensuring that testing, architecture, and engineering decisions drive excellence and maintainability from the outset.
-    - image:
-      title: Business Focus
-      content: By aligning technical leadership with strategic business objectives, we help teams streamline processes, ensuring software development supports long-term growth and organizational success.
+sections:
+  - type: headline
+    headline:
+      title: Capabilities That Drive Real Change
+      subtitle: Strategic Expertise. Engineering Precision. Organisational Impact.
+      content: |
+        From executive agility to DevOps migrations, NKD Agility delivers outcomes—not buzzwords.  
+        Our capabilities are built to solve the real problems slowing your teams down,  
+        with services that evolve how your organisation works, delivers, and leads.
+  - type: boxesrow
+    title: Engineering Excellence & Technical Leadership
+    content: |
+      From architecture to automation, these services help engineering teams modernise delivery pipelines, reduce risk, and embed scalable technical practices.
+    boxes:
+      - ref: /capabilities/devops-technology-consultancy/
+      - ref: /capabilities/github-migration-services/
+      - ref: /capabilities/azure-devops-migration-services/
+  - type: boxesrow
+    title: Business Focus
+    content: |
+      Align strategy, product, and delivery with evidence-based consulting that turns agility from a buzzword into real business outcomes.
+    boxes:
+      - ref: /capabilities/business-agility-consulting/
+  - type: boxesrow
+    title: Programs & Training
+    content: |
+      Go beyond certification. Our mentor programs and private training drive lasting behavioural change and measurable capability uplift.
+    boxes:
+      - ref: /capabilities/mentor-programs/
+      - ref: /capabilities/training-courses/
+  - type: boxesrow
+    title: Tools
+    content: |
+      Support your teams with tools designed to diagnose, measure, and improve team effectiveness across your organisation.
+    boxes:
+      - ref: /capabilities/nkd-insights/
+  - type: list
+    title: Who We Help
+    listType: boxed
+    list:
+      - title: CTOs and VPs of Engineering
+        icon: fa-user-tie
+        content: Empowered to drive technical and cultural transformation
+      - title: Product Leaders and Agile Coaches
+        icon: fa-lightbulb
+        content: Equipped to lead with clarity, data, and strategic alignment
+      - title: Enterprise Delivery Teams
+        icon: fa-users
+        content: Enabled to own the system, the tooling, and the outcomes
+      - title: Organisations Modernising Legacy Systems
+        icon: fa-server
+        content: Supported through seamless migrations and DevOps uplift
+  - type: symmetry
+    title: From Struggle to Strategic Advantage
+    boxes:
+      - box:
+        title: Before
+        items:
+          - title: Siloed teams and disconnected delivery
+            icon: fa-face-persevering
+          - title: Tool chaos and engineering friction
+            icon: fa-face-frown
+          - title: Tactical training with no follow-through
+            icon: fa-face-tired
+          - title: No visibility into what’s working
+            icon: fa-face-anxious
+      - box:
+        title: After
+        items:
+          - title: Product-aligned teams delivering real outcomes
+            icon: fa-square-check
+          - title: Streamlined, secure, and scalable delivery systems
+            icon: fa-square-check
+          - title: Continuous improvement enabled by mentorship
+            icon: fa-square-check
+          - title: Teams and leaders making decisions with confidence
+            icon: fa-square-check
+  - type: outcomehero
+    backgroundColor: primary
+    cta:
+      content: "Ready to transform how you work, lead, and deliver? **Let’s talk.**"
+      button:
+        text: "Book a Discovery Call"
+        url: "/company/book-online"
 ---
