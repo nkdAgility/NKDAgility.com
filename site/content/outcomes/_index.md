@@ -22,11 +22,28 @@ sections:
         Every engagement is designed to create lasting change: more aligned teams, higher quality delivery, faster flow, and executive-level credibility.  
 
         Explore the results we help our clients achieve — and see what’s possible in your organisation.
-  - type: content
-    title: "Start With Results, Not Methods"
-    content: |
-      We focus on measurable outcomes: engaged teams, resilient systems, aligned strategy, and confident delivery. Browse the themes below to see where we can help first.
+  - type: textNlist
+    title: Start With Results, Not Methods
+    sideContent: |
+      We’re here to make your teams faster, your systems more reliable, and your strategy deliverable.
 
+      That’s why we start with outcomes — and only apply methods that move the needle.
+
+      From coaching CTOs to transforming legacy delivery pipelines, everything we do is aligned to _evidence of progress_.
+
+    list:
+      - icon: fa-arrow-trend-up
+        content: |
+          From frameworks to flow
+      - icon: fa-arrows-left-right-to-line
+        content: |
+          From busyness to predictability
+      - icon: fa-users-between-lines
+        content: |
+          From friction to alignment
+      - icon: fa-handshake-angle
+        content: |
+          From resistance to belief
   # 2 ───────── CULTURE & TEAM ENABLEMENT
   - type: boxesrow
     title: "Culture & Team Enablement"
