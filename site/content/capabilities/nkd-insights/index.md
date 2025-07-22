@@ -17,7 +17,7 @@ card:
   title: NKD Insights™
   content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
 icon: fa-lightbulb
-headlines:
+sections:
   - type: headline
     headline:
       subtitle: Improve your team’s effectiveness continuously!
@@ -45,7 +45,6 @@ headlines:
         content: |
           NKD Insights delivers quick, actionable, evidence-based feedback across over 20 key areas, categorized by impact. For each area, we offer feedback in three categories: broad strategies to guide your team, facilitation guides to explore deeper solutions, and actionable ‘quick tips’ designed to inspire immediate improvement with 15% Solutions. Enhance your team’s performance effectively and efficiently.
     source: inline
-sections:
   - title: NKD Insights™ for your organisation!
     content: |
       **Build High-Performing Teams Within Your Organization**

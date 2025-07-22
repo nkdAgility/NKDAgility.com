@@ -20,7 +20,7 @@ card:
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
 icon: fa-cloud-arrow-up
-headlines:
+sections:
   - type: headline
     headline:
       title: Azure DevOps (TFS) to Github Migration
@@ -49,7 +49,6 @@ headlines:
       - Integration with AI-powered developer tools like Copilot
 
       But most importantly: **GitHub lets your teams move faster, safer, and smarter.**
-sections:
   - type: list
     title: Why NKD Agility?
     listType: list

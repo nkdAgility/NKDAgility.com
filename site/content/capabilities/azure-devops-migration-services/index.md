@@ -23,7 +23,7 @@ card:
   content: |
     You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
 icon: fa-cloud-arrow-up
-headlines:
+sections:
   - type: headline
     headline:
       title: Azure DevOps Migration
@@ -53,7 +53,6 @@ headlines:
       **We do it differently.**
 
       We elevate your engineering culture while building scalable, secure, maintainable pipelines your team actually understands and owns.
-sections:
   - type: boxesrow
     title: What DevOps Migration Solves
     boxes:

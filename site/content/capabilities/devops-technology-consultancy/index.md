@@ -22,7 +22,7 @@ card:
   title: DevOps Technology Consulting
   content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
 icon: fa-diagram-project
-headlines:
+sections:
   - type: headline
     headline:
       title: DevOps Technology Consultancy
@@ -52,8 +52,6 @@ headlines:
       **We don’t start with tools. We start with outcomes.**
 
       Then we architect, automate, and enable.
-
-sections:
   - type: quote
     backgroundColor: primary
     quote: |
