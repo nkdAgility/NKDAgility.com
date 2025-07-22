@@ -1023,6 +1023,68 @@ html {
   color: var(--bs-success);
 }
 
+/* Link styling for different box types */
+.section-boxesrow-link {
+  margin-top: auto !important;
+}
+
+.section-boxesrow-box-primary .section-boxesrow-link .btn {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: white;
+}
+
+.section-boxesrow-box-primary .section-boxesrow-link .btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section-boxesrow-box-accent .section-boxesrow-link .btn {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: white;
+}
+
+.section-boxesrow-box-accent .section-boxesrow-link .btn:hover {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.section-boxesrow-box-light .section-boxesrow-link .btn {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: white;
+}
+
+.section-boxesrow-box-light .section-boxesrow-link .btn:hover {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Dark theme link adjustments */
+[data-theme="dark"] .section-boxesrow-box-accent .section-boxesrow-link .btn,
+[data-theme="dark"] .section-boxesrow-box-light .section-boxesrow-link .btn {
+  background-color: var(--light-accent-color);
+  border-color: var(--light-accent-color);
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .section-boxesrow-box-accent .section-boxesrow-link .btn:hover,
+[data-theme="dark"] .section-boxesrow-box-light .section-boxesrow-link .btn:hover {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  color: white;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .section-boxesrow-box {

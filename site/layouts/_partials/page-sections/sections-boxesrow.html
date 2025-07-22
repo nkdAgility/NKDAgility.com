@@ -39,7 +39,6 @@
           {{- $boxColumn = 12 }}
           {{/* One box, full width */}}
         {{- end }}
-
         {{/* Determine box class based on index */}}
         {{- $boxClass := "" }}
         {{- if eq $index 0 }}
@@ -59,25 +58,39 @@
             {{- $boxClass = "section-boxesrow-box-light" }}
           {{- end }}
         {{- end }}
-        <div class="col-12 col-md-{{- $boxColumn }}">
-          <div class="section-boxesrow-box {{ $boxClass }} p-4 h-100">
-            {{- if $box.title }}
-              <div class="section-boxesrow-title mb-3">
-                <h4 class="mb-0">{{ $box.title | markdownify }}</h4>
-              </div>
-            {{- end }}
-            {{- if $box.content }}
-              <div class="section-boxesrow-content mb-3">
-                <p class="mb-0">{{ $box.content | markdownify }}</p>
-              </div>
-            {{- end }}
+        {{- $refPage := "" }}
+        {{- if $box.ref }}
+          {{- $refPage = $site.GetPage $box.ref }}
+        {{- end }}
 
-            {{- if $box.items }}
-              <ul class="section-boxesrow-list">
-                {{- range $box.items }}
-                  <li class="section-boxesrow-item">{{ .title }}</li>
-                {{- end }}
-              </ul>
+
+        <div class="col-12 col-md-{{- $boxColumn }}">
+          <div class="section-boxesrow-box {{ $boxClass }} p-4 h-100 d-flex flex-column">
+            <div class="flex-grow-1">
+              {{- if or $box.title (and $refPage $refPage.Title) }}
+                <div class="section-boxesrow-title mb-3">
+                  <h4 class="mb-0">{{ if and $refPage $refPage.Title }}{{ $refPage.Title | markdownify }}{{ else }}{{ $box.title | markdownify }}{{ end }}</h4>
+                </div>
+              {{- end }}
+              {{- if or $box.content (and $refPage $refPage.Description) }}
+                <div class="section-boxesrow-content mb-3">
+                  <p class="mb-0">{{ if and $refPage $refPage.Description }}{{ $refPage.Description | markdownify }}{{ else }}{{ $box.content | markdownify }}{{ end }}</p>
+                </div>
+              {{- end }}
+
+              {{- if $box.items }}
+                <ul class="section-boxesrow-list">
+                  {{- range $box.items }}
+                    <li class="section-boxesrow-item">{{ .title }}</li>
+                  {{- end }}
+                </ul>
+              {{- end }}
+            </div>
+
+            {{- if and $refPage $refPage.Permalink }}
+              <div class="section-boxesrow-link mt-3 text-end">
+                <a href="{{ $refPage.Permalink }}" class="btn btn-sm btn-outline-primary">Find out more <i class="fas fa-arrow-right ms-1"></i></a>
+              </div>
             {{- end }}
           </div>
         </div>
