@@ -1,35 +1,39 @@
-{{/* Accepts dict with keys: Page, resourceType */}}
 {{ $page := .Page }}
-{{ $resourceType := .resourceType | default "blog" }}
-{{- $relatedData := partial "functions/get-related.html" .Page }}
-{{ if and $relatedData (gt (len $relatedData) 0) }}
-  {{ $relatedBlogs := where $relatedData "EntryType" $resourceType }}
-  {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
-    <h3>Related {{ $resourceType | title }} {{ if and $relatedData (gt (len $relatedData) 0) }}<i class="fa-regular fa-group-arrows-rotate"></i>{{ end }}</h3>
-    <ul>
-      {{ range first 5 $relatedBlogs }}
-        {{ $relatedPage := site.GetPage .Reference }}
-        {{ if $relatedPage }}
-          <li><a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a></li>
-        {{ else }}
-          <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
-        {{ end }}
-      {{ end }}
-    </ul>
+{{ $tenYearsAgo := now.AddDate -15 0 0 }}
+
+
+<div id="components-resources-related" class="mb-5">
+  {{ if $page.Date.After $tenYearsAgo }}
+    {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
+    {{- $relatedResources := where $relatedResources "Type" "ne" "guides" }}
+    {{- $relatedResources := first 6 $relatedResources }}
+
+    {{ if gt (len $relatedResources) 0 }}
+      <div class="pt-5">
+        <h5>What to read next?</h5>
+        <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
+
+        {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources "includeMeta" false) }}
+      </div>
+    {{ end }}
+    {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
+    {{- $relatedCourses := first 3 $relatedCourses }}
+    {{ if gt (len $relatedCourses) 0 }}
+      <div class="pt-5">
+        <h5>Programs that align</h5>
+        <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
+        {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses "includeMeta" false) }}
+      </div>
+    {{ end }}
   {{ else }}
-    <p>No related {{ $resourceType }} found. X</p>
+    <div class="pt-5">
+      <h5>What to read next?</h5>
+      <p>This post is over a decade old, and we haven’t retrofitted related content. Head over to <a href="/resources/">our resources page</a> to explore newer thinking across Agile, DevOps, and technical leadership.</p>
+    </div>
+
+    <div class="pt-5">
+      <h5>Programs that align</h5>
+      <p>If you're here for more than nostalgia, visit <a href="/capabilities/">our capabilities page</a> to see how our current programs connect practice to performance—without legacy baggage.</p>
+    </div>
   {{ end }}
-{{ else }}
-  {{ $related := $page.Site.RegularPages.Related $page }}
-  {{ $blogs := where $related ".Params.resourceType" $resourceType | first 5 }}
-  {{ with $blogs }}
-    <h3>Related {{ $resourceType | title }}</h3>
-    <ul>
-      {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-      {{ end }}
-    </ul>
-  {{ else }}
-    <p>No related {{ $resourceType | title }} found.</p>
-  {{ end }}
-{{ end }}
+</div>

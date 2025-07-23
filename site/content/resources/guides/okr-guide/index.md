@@ -1,45 +1,43 @@
 ---
 title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
-short_title: 'OKR Guide: Shared Focus, Measurable Outcomes'
+short_title: "OKR Guide: Shared Focus, Measurable Outcomes"
 description: Comprehensive guide to using OKRs for shared focus, measurable outcomes, and strategic learning, including roles, events, best practices, and common pitfalls.
 date: 2025-06-26
 weight: 610
-author: 
- - Martin Hinshelwood
+author:
+  - Martin Hinshelwood
 ResourceId: KcistbuSUsg
 ResourceImport: false
 ResourceType: guides
 slug: okr-guide
 aliases:
-- /resources/KcistbuSUsg
-author: Martin Hinshelwood
+  - /resources/KcistbuSUsg
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-30T00:28:38Z
   short_title: 2025-07-07T16:40:29Z
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Product Management
-- Leadership
+  - Product Development
+  - Product Management
+  - Leadership
 tags:
-- Objective Key Results
-- Common Goals
-- Strategic Goals
-- Metrics and Learning
-- Sociotechnical Systems
-- Team Collaboration
-- Operational Practices
-- Organisational Agility
-- Social Technologies
-- Agile Strategy
-- Pragmatic Thinking
-- Organisational Change
-- Continuous Improvement
-- Organisational Culture
-- Project Management
-
+  - Objective Key Results
+  - Common Goals
+  - Strategic Goals
+  - Metrics and Learning
+  - Sociotechnical Systems
+  - Team Collaboration
+  - Operational Practices
+  - Organisational Agility
+  - Social Technologies
+  - Agile Strategy
+  - Pragmatic Thinking
+  - Organisational Change
+  - Continuous Improvement
+  - Organisational Culture
+  - Project Management
 ---
 
 # OKR Guide

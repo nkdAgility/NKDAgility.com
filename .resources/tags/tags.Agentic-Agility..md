@@ -36,7 +36,7 @@ sitemap:
   priority: 0.7
 icon: fa-person-running
 concepts:
-- Capability
+- Ethos
 categories:
 - Technical Leadership
 - Leadership
@@ -73,11 +73,15 @@ Without agency, Agile collapses into hollow ceremony. With it, both people and s
 
 ## Two Expressions of Agentic Agility
 
+{{< table "table table-striped table-bordered" >}}
+
 | Human Agency                   | AI Agency                                     |
 | :----------------------------- | :-------------------------------------------- |
 | Judgement and social contract  | Predefined logic and monitored feedback loops |
 | Learns by transforming beliefs | Learns by refining models                     |
 | Driven by intent and values    | Driven by objectives and thresholds           |
+
+{{< /table >}}
 
 ### Human Agentic Agility
 

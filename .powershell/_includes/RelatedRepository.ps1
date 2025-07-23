@@ -128,7 +128,7 @@ function Get-RelatedFromHugoMarkdown {
         throw "Embedding path does not exist: $EmbeddingPath. Please ensure the embedding files are generated first."
     }
 
-   
+    $regenerate = $false
 
     # 1. Check if local file already exists and is current
     if (Test-Path $localFilePath) {
@@ -146,8 +146,18 @@ function Get-RelatedFromHugoMarkdown {
                     
                     # If local file is newer than embedding, return it
                     if ($localFileTime -gt $embeddingTime) {
-                        Write-DebugLog "  | -- Using existing local related file for $($HugoMarkdown.ReferencePath)"
-                        return $existingData
+                        $thirtyDaysAgo = (Get-Date).AddDays(-30)
+                        if ($localFileTime -gt $thirtyDaysAgo) {
+                            Write-DebugLog "  | -- Using existing local related file for $($HugoMarkdown.ReferencePath)"
+                            return $existingData
+                        }
+                        else {
+                            $regenerate = $true
+                            Write-DebugLog "  | -- Local related file is older than 30 days, will regenerate for $($HugoMarkdown.ReferencePath)"
+                        }
+                    }
+                    else {
+                        $regenerate = $true
                     }
                 }
             }
@@ -177,7 +187,9 @@ function Get-RelatedFromHugoMarkdown {
                 if (Test-Path $localFilePath) {
                     Write-DebugLog "  | -- Downloaded related file from blob storage for $($HugoMarkdown.ReferencePath)"
                     $downloadedData = Get-Content $localFilePath | ConvertFrom-Json
-                    return $downloadedData
+                    if (-not $regenerate) {
+                        return $downloadedData
+                    }
                 }
             }
         }
@@ -271,11 +283,11 @@ function Get-RelatedFromHugoMarkdown {
         if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
             if (Get-IsDebug) {
                 Write-InformationLog "  | -- $progress $percent % complete (Building related cache for $($HugoMarkdown.ReferencePath))"
-                else {
-                    Write-Progress -Activity "Building related cache for $($HugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $JobId
-                }
-                $lastPercent = [math]::Floor($percent / 10) * 10
             }
+            else {
+                Write-Progress -Activity "Building related cache for $($HugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $JobId
+            }
+            $lastPercent = [math]::Floor($percent / 10) * 10
         }       
         
         # Skip self

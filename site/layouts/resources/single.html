@@ -116,11 +116,7 @@
   </section>
 
   <section class="container my-5 p-2  container-content-wide">
-    {{- partial "components/resources/related.html" (dict "Page" . "resourceType" "blog") }}
-  </section>
-
-  <section class="container my-5 p-2  container-content-wide">
-    {{- partial "related-videos.html" . }}
+    {{- partial "components/resources/related.html" (dict "Page" .) }}
   </section>
 {{- end }}
 
