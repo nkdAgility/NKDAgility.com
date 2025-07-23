@@ -2483,5 +2483,24 @@
     "reasoning": "The content thoroughly explores business resilience and continuity through principles like observability, system decoupling, routine deployments, team empowerment, and recovery. It references related frameworks (DevOps, SRE, EBM) and some outcome-based metrics (MTTR, Deployment Frequency, Customer Satisfaction), but it does not mention or discuss OKRs, their foundational principles, or practical implementation. The underlying intent, audience, and examples are aligned to engineering and organizational leaders focused on operational resilience, not on structured goal-setting via OKRs. Any overlap is superficial and incidental—a few concepts like metrics and continuous improvement touch on ideas relevant to OKRs but remain outside the explicit OKR framework. No penalties are applied as content is current and not contradictory.",
     "reasoning_summary": "This content focuses on business resilience, DevOps, and SRE practices, not OKRs. There are indirect references to measurable outcomes and metrics but no explicit or substantive discussion of Objective Key Results. The alignment with the OKR framework is superficial and incidental.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "VThLnxVapgJ",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:43",
+    "ai_confidence": 77.5,
+    "ai_mentions": 2.3,
+    "ai_alignment": 8.2,
+    "ai_depth": 8.7,
+    "ai_intent": 7.9,
+    "ai_audience": 7.8,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content delves deeply into systemic observability, decentralised decision-making, DevOps craft, continuous delivery, and team empowerment—highly aligning with Agentic Engineering principles. It underscores features such as telemetry and autonomy, SRE, EBM, and the philosophical underpinnings (agency, resilience, rapid feedback) that define the category. However, it does not explicitly reference 'Agentic Engineering' nor directly tackle AI/human agency or ethical AI integration. Primary focus is resilience rather than the full philosophical breadth of agency, so direct mention and intent scores are moderate. The audience and signal closely fit, as the discussion targets practitioners and strategists designing modern, empowered engineering systems.",
+    "reasoning_summary": "This content strongly aligns with 'Agentic Engineering' by emphasizing team empowerment, decentralization, observability, and DevOps-driven resilience. While it thoroughly covers system agency and adaptive practices, it lacks explicit references to agentic philosophy and AI-specific agency. Focus and audience are well-suited for the category.",
+    "level": "Secondary"
   }
 }

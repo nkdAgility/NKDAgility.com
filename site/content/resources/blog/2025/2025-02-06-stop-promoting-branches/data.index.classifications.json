@@ -2324,5 +2324,24 @@
     "reasoning": "The content thoroughly analyzes branching models and deployment strategies, particularly critiquing branch promotion and advocating for GitHub Flow and Release Flow. However, there are no explicit references to OKRs, nor does the discussion connect branching strategy to outcome-based measurement, strategic alignment, or the principles articulated by John Doerr. While delivering value is mentioned, it is framed in the context of flow and deployment—not structured goal/metric frameworks like OKRs. The few tangential overlaps (e.g., mentions of agility or value delivery) do not address OKRs’ core concepts, frameworks, or practices.",
     "reasoning_summary": "The content focuses entirely on source code branching strategies and deployment flows, with no substantive reference to Objective Key Results frameworks or principles. There is no evidence of OKR theory, practice, or terminology.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "x7ra7pQCDX5",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:23",
+    "ai_confidence": 65.47,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.5,
+    "ai_intent": 6.7,
+    "ai_audience": 7.3,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "Direct Mentions (-1): The term 'Agentic Engineering' or its direct equivalents are not mentioned. Depth (-1): The discussion, while practical and supportive of agency, mostly stays tactical regarding branch mechanics and does not deeply explore broader philosophical facets.",
+    "final_score": 65.0,
+    "reasoning": "This content strongly critiques outdated software delivery practices and emphasizes modern, flow-based branching models like GitHub Flow and Release Flow. It argues for eliminating friction, empowering developers, and enabling continuous value delivery—concepts closely related to agentic engineering's tenets of agency and fast feedback. Topics such as continuous integration, deployment, observability, and minimizing process overhead align with maximizing developer autonomy. However, the content is practical rather than conceptual: it mainly discusses tactics and models, not the explicit philosophical frame of agentic engineering or ethical AI collaboration. No explicit mention of 'agency' or 'Agentic Engineering' occurs. The audience is technical practitioners, matching the target group. The practical focus is relevant but lacks explicit reference to agentic engineering as a movement or philosophy, justifying penalties.",
+    "reasoning_summary": "The content advocates for delivery models that enhance developer autonomy and flow, aligning with key Agentic Engineering principles. It lacks explicit references and deep conceptual discussion but is practically relevant, making it a good—though not definitive—fit for the category.",
+    "level": "Secondary"
   }
 }

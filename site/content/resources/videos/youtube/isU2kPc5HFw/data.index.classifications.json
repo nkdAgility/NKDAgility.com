@@ -1970,5 +1970,24 @@
     "reasoning": "The content provides a detailed personal narrative on Azure DevOps evolution, tool migration, consulting, and process optimization. There are no explicit mentions or discussions of Objectives, Key Results, OKRs, or any related concepts, practices, or frameworks as defined by John Doerr. The focus is entirely on DevOps tooling, migration strategies, and technical consulting, with no theoretical or practical exploration of outcome-based measurement, strategic alignment, or OKR-specific principles. Audience alignment and signal are slightly higher due to a general overlap with agile/continuous improvement audiences, but this is incidental rather than explicit.",
     "reasoning_summary": "This content shares personal lessons on Azure DevOps migration and consulting, but it does not mention or discuss Objective Key Results (OKRs) or related frameworks. The fit with the OKR category is extremely low given the strict definition.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "isU2kPc5HFw",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:46",
+    "ai_confidence": 46.237,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.8,
+    "ai_intent": 4.6,
+    "ai_audience": 5.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "mentions (-0.5, no mention of 'agentic engineering' or its philosophical basis); alignment (-0.5, focus is on tooling and migration strategy, not engineering-for-agency); depth (-0.5, lacks engagement with agentic engineering themes); others unpenalized.",
+    "final_score": 46.0,
+    "reasoning": "The content is a detailed personal journey with Azure DevOps covering tools, migrations, and optimization. While it touches on empowering teams and streamlining workflows, it orients almost exclusively around technical implementation and consulting. There is virtually no mention or consideration of the foundational ideas of Agentic Engineering—such as developer/AI agency, systemic observability, or ethical autonomy. The intent is practical guidance for DevOps practitioners rather than designing for maximized agency. The audience does overlap with Agentic Engineering (engineers/consultants in DevOps), but the signal-to-noise ratio is lowered by the heavy focus on migration anecdotes and tool-specific advice, not philosophical or systemic engineering practices. Penalties applied to mentions, alignment, and depth compensate for lack of direct linkage or depth. Final confidence reflects these factors proportionately.",
+    "reasoning_summary": "Although this content offers thorough, practical insights into Azure DevOps migrations and tooling, it lacks meaningful engagement with the principles of Agentic Engineering and doesn't address the deliberate design of engineering practices to maximize human or AI agency.",
+    "level": "Tertiary"
   }
 }

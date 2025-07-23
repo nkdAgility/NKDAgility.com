@@ -3323,5 +3323,24 @@
     "reasoning": "The content centers on organizational models and governance in Azure DevOps, advocating for a single-project structure to optimize flow, visibility, and collaboration among human teams. While it discusses team structures, boundaries, and reporting, it does not address human-AI partnerships, distributed cognition with AI, or scenarios where humans and AI collaborate as team members. There are no examples or discussions of human-AI collective problem-solving, mutual augmentation, or emergent intelligence resulting from human-AI interaction. Any references to cognitive load or collaboration are solely about human teams or platform features, not about AI agents as active contributors. Thus, direct mention and conceptual alignment with 'Collective Intelligence' as defined—focused on human-AI synergy—are extremely limited.",
     "reasoning_summary": "This content is focused on human team collaboration and Azure DevOps project governance, with no exploration of human-AI partnerships, mutual cognition, or collective intelligence as defined by human-AI synergy. It does not fit the 'Collective Intelligence' category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "k-kqjqSgdGx",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:16:44",
+    "ai_confidence": 61.54,
+    "ai_mentions": 1.4,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.8,
+    "ai_intent": 7.0,
+    "ai_audience": 7.7,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "Direct mentions of Agentic Engineering or its terminology are minimal—none explicit, and only some alignment by implication (e.g., 'agency,' 'autonomy,' 'flow'). Conceptual alignment is moderate to strong: the text champions decentralised decision-making, observability (flow, traces, reporting), value delivery, and practices that improve developer agency within Azure DevOps setups. It extends beyond pure tooling discussion by emphasizing strategic design, organisational dynamics, and intentionally constructed visibility. However, major Agentic Engineering themes—such as collaboration with AI, ethical autonomy, or feedback-driven adaptation in the engineering sense—are weak or missing. The primary focus is the structure, governance, and flow optimisations in Azure DevOps, with an audience of practitioners and leaders designing their delivery structures. Depth is moderate, with practical guidance and justification for structuring DevOps projects, but less on underlying philosophical or broad systemic engineering principles. Overall, this is strong DevOps/system design content with partial overlap to Agentic Engineering's purpose as defined, but only implicitly fits the category.",
+    "reasoning_summary": "This content strongly focuses on flow, autonomy, visibility, and governance in Azure DevOps setups, aligning moderately with Agentic Engineering principles by advocating intentional design for developer agency. However, it lacks explicit discussion of AI collaboration, ethical autonomy, or systemic agentic practices.",
+    "level": "Secondary"
   }
 }

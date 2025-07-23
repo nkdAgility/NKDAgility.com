@@ -3323,5 +3323,24 @@
     "reasoning": "The content focuses exclusively on workflow management in Azure DevOps, specifically the handling of 'blocked' work items. There are no direct mentions of collective intelligence, human-AI collaboration, or emergent socio-technical outcomes. The advice is aimed at improving team visibility and action upon workflow impediments, but it frames everything in human team dynamics and usage of DevOps tooling—AI or collaborative human-AI agency are not present. The intent is practical for practitioners, and the audience is technical (DevOps teams), but it is entirely unrelated to the category’s core: human-AI partnership and emergent cognitive outcomes. Thus, all six dimensions receive low, non-zero scores for mild conceptual overlap with team collaboration practice. No penalties are applied as the content is not outdated nor contrarian.",
     "reasoning_summary": "This content discusses human workflow optimization in Azure DevOps but does not address human-AI collaboration or collective intelligence concepts. Its focus is on improving human team practices, not on emergent cognitive outcomes from human-AI partnerships, thus bearing little relevance to the category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "H8CRQrD64JY",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:36",
+    "ai_confidence": 33.05,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.7,
+    "ai_depth": 2.8,
+    "ai_intent": 4.3,
+    "ai_audience": 6.6,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content critiques the use of a 'Blocked' column in Azure DevOps, advocating for practices that maintain workflow visibility and promote action. While this aligns somewhat with improving engineering processes, it does not mention agentic engineering, developer agency, or systemic observability directly. The focus is more on board hygiene and workflow management than on the deliberate maximisation of human or AI agency. Its relevance to Agentic Engineering is peripheral; the audience is technical and process-focused, fitting a partial match but not the category's core intent.",
+    "reasoning_summary": "This content addresses workflow patterns and visibility in Azure DevOps, offering practical advice for managing blocked work. While partially aligned with process improvement, it doesn't engage core Agentic Engineering themes like agency, autonomy, or ethical AI integration.",
+    "level": "Ignored"
   }
 }

@@ -2396,5 +2396,24 @@
     "reasoning": "The content focuses on delivery and value realization in Agile, DevOps, and Scrum contexts, emphasizing frequent releases, feedback loops, and transparency. However, it does not explicitly reference OKRs, their framework, key concepts (Objectives, Key Results), or John Doerr’s foundational principles. The theme is outcome-focused but lacks any substantive or direct discussion about OKRs, their implementation, strategic alignment, measurement via Key Results, or anti-patterns. No dimension is strongly satisfied for OKRs specifically—the audience overlaps with Agile practitioners, but the main topic is unrelated to OKRs as a system, resulting in low confidence.",
     "reasoning_summary": "While well-aligned with Agile and DevOps delivery principles, this content does not reference or discuss Objective Key Results or the OKR framework. Its themes are broader, focusing on delivery, value, and feedback—not OKRs. Thus, it does not fit this category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "UfdnQrxv5iF",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:28",
+    "ai_confidence": 62.3,
+    "ai_mentions": 1.0,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.3,
+    "ai_intent": 6.8,
+    "ai_audience": 7.5,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the philosophical framing of agency per se is not explicit. However, core principles—such as frequent delivery, empowerment to adapt requirements, rapid feedback, and continuous value delivery—align with agentic engineering values. The article explores systemic observability, feedback loops, and decentralized product validation, but it concentrates much more on the mechanics of delivery and value realisation than on engineering practices that explicitly maximize both human and AI agency, decision autonomy, or ethical collaboration with intelligent systems. There are strong overlaps with DevOps and Agile but relatively little that frames these as agentic engineering at a conceptual or intent level, with little explicit audience targeting toward engineers of agentic systems, and signal remains focused. No penalties apply.",
+    "reasoning_summary": "The content focuses on frequent delivery, feedback loops, and adaptation—core to DevOps and Agile, and conceptually adjacent to Agentic Engineering. While agency and autonomy are implied through empowerment and rapid value validation, explicit discussion of agentic engineering practices or AI integration is limited.",
+    "level": "Secondary"
   }
 }

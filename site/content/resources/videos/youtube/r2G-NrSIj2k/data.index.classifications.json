@@ -1937,5 +1937,24 @@
     "reasoning": "The content never mentions Objective Key Results, OKRs, or related vocabulary. Its focus is exclusively on code review practices, shift-left strategies, automation, and software quality. There are no explicit or implicit connections to OKR frameworks, outcome-based measurement, John Doerr’s principles, or objective/key result thinking. No topics regarding strategic alignment, measurable outcomes, or the implementation of OKRs within Agile or DevOps are addressed. The intended audience is engineering and DevOps practitioners, but the guidance relates to code workflow improvements and not to goal-setting systems like OKRs. Less than 5% of the content could, by an extreme stretch, connect to outcome-driven improvement, but this is incidental and unfocused. No deductions are needed since the tone and temporal relevance are neutral.",
     "reasoning_summary": "This content is not relevant to Objective Key Results. It focuses entirely on code review, automation, and development workflow, without any reference or alignment to OKR theory, practice, or outcomes.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:31",
+    "ai_confidence": 54.97,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.1,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "There are no direct mentions of 'Agentic Engineering' or its core language, but the content conceptually aligns with practices like developer agency, feedback-driven adaptation, and DevOps-infused craft. It emphasizes automating quality checks, empowering developers, and leveraging modern pipelines, which support human agency and decentralized practices. However, it stops short of explicit discussion on ethical AI, autonomy frameworks, or the philosophical underpinnings of agency, keeping depth moderate. The audience fit (practitioners and engineering leaders) and the focus on continuous improvement and value delivery also align, but the discussion centers on tooling and process improvement more than systemic observability or decision-making autonomy. The overall confidence is moderate, reflecting solid partial alignment without deep engagement with agentic principles.",
+    "reasoning_summary": "This content on modern code reviews aligns moderately with Agentic Engineering by promoting developer autonomy, automation, and continuous value delivery. However, it lacks direct discussion of agency, system observability, or ethical AI, so the fit is partial rather than comprehensive.",
+    "level": "Tertiary"
   }
 }

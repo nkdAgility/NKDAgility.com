@@ -3170,5 +3170,24 @@
     "reasoning": "The content is an in-depth discussion of technical debt and process improvement in team culture, workflow, and incremental refactoring, but it makes no mention of OKRs, their terminology, or their framework. The primary focus is on engineering best practices, visibility, and systems thinking—not outcome-driven goal-setting or measurable progress through Objectives and Key Results. There is no alignment with John Doerr's foundational principles, nor any reference to OKR-specific concepts like strategic intent, measurable results, or regular review cycles. The target audience overlaps somewhat (engineering leads, CTOs), but the content's substance is off-topic for the OKR category.",
     "reasoning_summary": "This content addresses reducing technical debt, team workflow, and process improvement but does not reference OKRs, their framework, or philosophy. The discussion remains unrelated to structured, outcome-driven measurement, resulting in very low alignment with the category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "p3Agu-9sZnA",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:09",
+    "ai_confidence": 61.4,
+    "ai_mentions": 0.7,
+    "ai_alignment": 6.9,
+    "ai_depth": 7.1,
+    "ai_intent": 7.2,
+    "ai_audience": 7.6,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content centers on systemic improvement of software engineering practices, emphasizing empowering teams to change their workflows, make decisions collaboratively, and continuously improve. There is a strong focus on visibility, continuous improvement, autonomy in making technical decisions, and treating technical debt as a system of work issue rather than purely technical. These align with Agency, DevOps ethos, and continuous value delivery. However, the term 'Agentic Engineering' or its key philosophical constructs (ethical AI, explicit agency maximization frameworks, or direct mention of AI collaboration) are not directly referenced. The content does not address AI, nor does it explicitly discuss decentralisation of both human and AI agency. Its approach is practical and closely aligned with the category’s intentions, but lacks the explicit naming and holistic exploration (e.g., ethical AI integration). The target audience (engineering leads, CTOs, teams) also closely matches. Overall, the content is substantially relevant to Agentic Engineering but falls short of exhaustive or direct coverage.",
+    "reasoning_summary": "The content aligns well with Agentic Engineering by focusing on empowering teams, decision-making, and continuous improvement within software development. However, it doesn’t mention agentic concepts or AI directly, resulting in strong—but not perfect—category fit.",
+    "level": "Secondary"
   }
 }

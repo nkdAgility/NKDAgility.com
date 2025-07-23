@@ -1988,5 +1988,24 @@
     "reasoning": "The content focuses on DevOps, agile transformation, site reliability, and high-performing software teams using modern engineering models. However, it does not explicitly discuss human-AI teaming or the emergence of collective intelligence as defined here. While collaboration and distributed engineering models are present, the focus is on human teams and operational excellence rather than human-AI partnerships or socio-technical collective intelligence. The only slightly relevant area is the emphasis on collaboration and evolution of team practices, but AI agents or their integration as team members are not explored. Alignment, depth, intent, and direct mention scores are low. One penalty point is applied for referencing potentially outdated (2018) practices.",
     "reasoning_summary": "The content discusses agile, DevOps, and team evolution for software delivery, focusing on human collaboration and operational improvements. It lacks any substantial coverage of human-AI partnership, so its alignment to Collective Intelligence is minimal.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:48",
+    "ai_confidence": 61.42,
+    "ai_mentions": 1.3,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.2,
+    "ai_intent": 7.0,
+    "ai_audience": 8.7,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions score reduced by 0.7 as there are no direct references to 'Agentic Engineering' explicitly. Depth score reduced by 1.0 due to partial reliance on historical context (2018) and lack of explicit discussion of agency maximisation, especially for AI; some concepts are implicit rather than discussed in depth.",
+    "final_score": 61.0,
+    "reasoning": "The content strongly covers many core aspects of Agentic Engineering, including DevOps culture, fast feedback loops, decentralised responsibility, and continuous delivery—featuring Microsoft's Azure DevOps practices as an example. While the text does not use 'Agentic Engineering' terminology, it describes the deliberate design of engineering practices to maximize developer agency, quality, and rapid adaptation, matching the philosophy of the category. However, AI agency and ethical integration are not addressed, and the material focuses on 2018 practices with some historical framing, for which depth and mentions are penalised. The audience (Agile/DevOps/engineering teams) is well targeted, and the content is focused with minimal off-topic material.",
+    "reasoning_summary": "This content fits Agentic Engineering by illustrating how DevOps practices and decentralized responsibility empower engineers and enable adaptive, feedback-driven change. It aligns with the category's intent, though it lacks explicit mention and does not directly address AI agency or the latest evolutions.",
+    "level": "Secondary"
   }
 }

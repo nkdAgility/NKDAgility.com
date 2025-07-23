@@ -3323,5 +3323,24 @@
     "reasoning": "The content focuses on Microsoft's transition from monolithic OS updates to staged, ring-based deployments using real-time user telemetry. While this highlights organizational learning and rapid feedback, it frames humans and telemetry/data analytics, not explicit human-AI partnerships or agents collaborating as team members. It doesn't discuss emergent cognitive capabilities, human-AI shared decision-making, or explicitly reference any AI involvement in the process. Instead, it is centered on DevOps best practices, deployment safety, and user feedback loops, which are essential for agile development but not unique to Collective Intelligence as defined here. The scoring reflects minimal direct mention, weak alignment to human-AI collaboration themes, and moderate audience and signal relevance due to the general interest in modern deployment practices.",
     "reasoning_summary": "This content details staged Windows OS deployment and user feedback loops, focusing on DevOps and release management best practices. It does not discuss human-AI teaming or emergent collective intelligence capabilities, so alignment with the 'Collective Intelligence' category is limited.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "6FqFYeSHQBg",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:20",
+    "ai_confidence": 66.75,
+    "ai_mentions": 1.1,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.4,
+    "ai_intent": 7.2,
+    "ai_audience": 8.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content carefully describes the evolution from traditional, risky mass Windows OS releases to an incremental, feedback-driven deployment model. Concepts like real-time telemetry for decision-making, ring-based deployment, and staged rollouts strongly align with Agentic Engineering principles: systemic observability, developer feedback loops, and adaptive, autonomy-supporting engineering. However, the term 'agentic' is never explicitly mentioned, and there is little discussion of maximizing human and AI agency as a conscious design philosophy. The main focus is the practical transformation of Windows delivery practices—not the explicit deliberate design for agency. Thus, the piece is highly relevant, but not fully immersed in the category's deeper conceptual framing.",
+    "reasoning_summary": "This content strongly aligns with Agentic Engineering by illustrating feedback-driven deployments, systemic observability, and adaptive change in large-scale OS delivery. While it doesn’t name the category or fully explore agency as intent, its focus on empowered engineering practices and continuous value makes it a strong but not perfect fit.",
+    "level": "Secondary"
   }
 }

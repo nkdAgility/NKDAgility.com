@@ -2496,5 +2496,24 @@
     "reasoning": "The content is a passionate argument for developer agency in DevOps. While it emphasizes the importance of human agency and feedback loops, it never addresses human-AI collaboration, distributed cognition with AI, or any role for AI agents as active team members. The discussion is strictly about giving humans more control within DevOps processes. There is no mention of collective intelligence per the category definition, nor are there references to human-AI decision-making, emergent capabilities, or collaborative frameworks involving AI. It targets technical leadership and practitioner audiences in DevOps—compatible with the category’s audience—but is focused entirely on human (developer) empowerment and process ownership.",
     "reasoning_summary": "This content sharply promotes human agency and feedback in DevOps, but does not mention or discuss AI as an active collaborator, nor any aspects of human-AI collective intelligence. The topic and examples are solely about empowering humans within socio-technical systems, not about collective intelligence as defined.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:09",
+    "ai_confidence": 91.36,
+    "ai_mentions": 9.8,
+    "ai_alignment": 9.5,
+    "ai_depth": 9.6,
+    "ai_intent": 9.2,
+    "ai_audience": 8.9,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 91.0,
+    "reasoning": "The content strongly and repeatedly emphasizes the importance of developer agency within DevOps, directly aligning with the core definitions of Agentic Engineering. Phrases like 'DevOps is agency,' 'operational agency,' and 'developers must have real control' echo the focus on autonomous engineering practices. The text delves deeply into systemic observability (feedback from production, telemetry), DevOps-infused craft (tooling is not enough; actual agency is the goal), and feedback-driven adaptation (learning from live signals). Its purpose is to advocate for greater autonomy and decision-making power for engineers, using rich, practical examples. The tone is instructional and motivational, targeting technical leaders and practitioners. Audience fit is very strong, slightly reduced only by small references that could be applicable to broader roles. The signal is tight, with every section reinforcing core Agentic Engineering themes. No outdated practices or overt criticism of agentic philosophy were present, and penalties were not triggered.",
+    "reasoning_summary": "This content is highly relevant to Agentic Engineering, centering on developer agency, operational control, and feedback-driven adaptation in DevOps. It exemplifies the category’s principles with detailed arguments that advocate for decentralizing decision-making and empowering engineers.",
+    "level": "Primary"
   }
 }

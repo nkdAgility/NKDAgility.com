@@ -1990,5 +1990,24 @@
     "reasoning": "There are zero explicit mentions of OKRs or any related terminology—neither 'Objective Key Results', 'OKR', nor John Doerr is referenced. The content focuses on Agile and empirical models, discussing concepts like visibility, incremental delivery, risk reduction, and adaptability, which can conceptually align in a broad sense with some OKR principles (transparency, continuous improvement), but these are attributes of Agile more generally, not OKRs specifically. There is no discussion of objectives, key results, outcome-based measurement, or OKR strategic fit. The depth is shallow regarding OKRs (effectively none). The intent is to teach Agile empirical approaches, not OKRs. The core audience (Agile practitioners, Scrum/DevOps professionals) might overlap with OKR stakeholders, but the topic is not tailored to the OKR system or implementation. A moderate proportion of the content is relevant to metrics, outcomes, and measurement, but since these are not linked to OKRs, the signal for this category is low.",
     "reasoning_summary": "This content centers on empirical Agile methods, with no direct mention or substantial exploration of OKRs. While some conceptual overlap with outcome measurement exists, the discussion is not about the OKR framework or implementation, making its fit for this category very limited.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:26",
+    "ai_confidence": 56.48,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.9,
+    "ai_depth": 7.6,
+    "ai_intent": 7.1,
+    "ai_audience": 8.6,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content explores empirical Agile models and compares them to traditional methods, emphasizing continuous value delivery, feedback, risk reduction, and stakeholder involvement—key concepts related to agency. However, it does not explicitly mention 'Agentic Engineering,' nor does it deeply engage with the philosophical or ethical autonomy aspects or AI collaboration. The focus remains on maximizing project success through Agile, which aligns partially with agentic principles such as human agency and decentralization within engineering, but lacks explicit discourse on maximizing both human and AI agency, observability, or ethical AI integration.",
+    "reasoning_summary": "This content aligns with Agentic Engineering through its emphasis on developer agency, incremental value delivery, visibility, and adaptation in Agile practices, but falls short of deep philosophical exploration and lacks direct mention of the category or discussion of AI autonomy or ethics.",
+    "level": "Tertiary"
   }
 }

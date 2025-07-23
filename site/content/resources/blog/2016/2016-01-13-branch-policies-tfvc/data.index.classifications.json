@@ -1946,5 +1946,24 @@
     "reasoning": "The content is a practical, tool-focused article on managing TFVC branch policies. No mention or discussion exists of collective intelligence, human-AI collaboration, or even AI involvement of any sort. The focus is purely on process automation, policy implementation, and developer enablement within source control contexts. There are no themes or examples on human-AI partnership, distributed cognition, or shared decision-making, and no references to AI agents. The audience is technical but primarily interested in VCS operations, not collective problem-solving with AI.",
     "reasoning_summary": "This content strictly explains source control policy management, without references or alignment to collective intelligence or human-AI collaboration. It is out of scope for the specified category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:47",
+    "ai_confidence": 34.175,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.6,
+    "ai_intent": 3.9,
+    "ai_audience": 9.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content centers on configuring and managing branch policies in TFVC, focusing on practical implementation details (regular expressions, check-in policies, code reviews, work item linkage). There is minimal direct or explicit reference to Agentic Engineering concepts: autonomy is somewhat implied through policy-driven guardrails and user customization, but philosophical aspects of engineering for human/AI agency, feedback loops, and ethical autonomy are not discussed. The main intent is instructive, targeting developer practitioners, aligning with the technical audience. However, there is limited depth regarding the deliberate maximization of agency or systemic adaptation, and little discussion of decision frameworks, transparency, or continuous value delivery as agentic principles. The content is focused and relatively noise-free, but ultimately fits only tangentially with the Agentic Engineering definition.",
+    "reasoning_summary": "While the content describes policy automation that could support developer agency, it lacks explicit focus on Agentic Engineering themes like maximizing human/AI autonomy, adaptive systems, or ethical integration. Its primary purpose is TFVC branch policy guidance, limiting category relevance.",
+    "level": "Ignored"
   }
 }

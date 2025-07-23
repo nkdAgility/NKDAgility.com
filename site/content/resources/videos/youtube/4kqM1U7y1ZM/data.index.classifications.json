@@ -1968,5 +1968,24 @@
     "reasoning": "There are no direct references to OKRs in the title, description, or main content, nor is there terminology or theoretical grounding that clearly aligns with OKR principles as defined by John Doerr. The primary focus is on Scrum team transformation—continuous delivery, feedback loops, empowerment, and clarifying value—without invoking OKRs as a framework or focusing on their distinctive strategic or outcome-based measurement practices. While topics like 'clarifying value' and 'aligning with organisational goals' suggest an adjacent interest in business alignment, these are not developed according to OKR theory. The depth, intent, and conceptual alignment with OKRs remain low. The audience largely overlaps given the Agile and DevOps focus, and the signal-to-noise ratio is reasonably high, but these factors are insufficient for meaningful classification as 'Objective Key Results.'",
     "reasoning_summary": "The content focuses on empowering Scrum teams and improving delivery but does not mention or meaningfully align with OKR frameworks or principles. Connections to OKRs are indirect and superficial, lacking the necessary focus or depth for this category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "4kqM1U7y1ZM",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:00",
+    "ai_confidence": 67.6,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.0,
+    "ai_intent": 7.2,
+    "ai_audience": 8.0,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content directly names neither 'Agentic Engineering' nor its exact terminology, leading to a low direct mentions score. Conceptually, it substantially aligns with key aspects: it emphasizes empowering teams (developer agency), continuous delivery (DevOps-infused craft), feedback loops (systemic observability), and decentralization. The discussion of embedding a culture of delivery, enabling autonomy, and facilitating feedback-driven improvement reflects the category's intention. However, explicit exploration of AI as agentic collaborator or in-depth ethical autonomy discussions are largely absent, narrowing the depth slightly. The target audience (Scrum/Agile teams, coaches, leaders) fits the category, and the focus remains clear and relevant with minimal tangents, supporting high signal and audience scores. No penalties are applied, as the advice is current and aligns with the positive framing of agency.",
+    "reasoning_summary": "This content aligns strongly with Agentic Engineering principles through its focus on team empowerment, continuous delivery, and feedback-driven adaptation. It targets the right audience and maintains thematic relevance but lacks explicit discussion of AI agency or ethical autonomy, moderating its overall confidence score.",
+    "level": "Secondary"
   }
 }

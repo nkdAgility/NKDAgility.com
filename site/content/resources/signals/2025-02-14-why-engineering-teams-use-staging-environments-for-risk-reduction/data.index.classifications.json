@@ -3323,5 +3323,24 @@
     "reasoning": "The content focuses on the costs of staging environments and advocates for alternatives like feature flags and progressive rollouts. It is relevant to DevOps and software engineering teams, but contains no explicit or implicit discussion of human-AI collaboration, human-AI teaming, collective intelligence practices, or emergent team capabilities involving AI. The audience (engineering teams) could align with collective intelligence in some contexts, but the content omits any mention of AI involvement. All alternative practices discussed are purely human-driven and there is no exploration of human-AI partnership, distributed cognition with AI, or socio-technical systems that connect people and AI. Mentions, alignment, depth, and intent are thus all low relative to the definition provided, with no penalty deductions needed.",
     "reasoning_summary": "This content is tangential to Collective Intelligence, discussing risk reduction and deployment strategies without involving human-AI collaboration or the emergent capabilities central to the category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "r8qUPpdsgnM",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:58",
+    "ai_confidence": 61.15,
+    "ai_mentions": 1.4,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.6,
+    "ai_intent": 6.3,
+    "ai_audience": 8.1,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content discusses reducing risk in software development by moving beyond traditional staging environments toward practices like feature flags, progressive rollouts, and real-time observability. These are conceptually aligned with Agentic Engineering’s focus on feedback-driven adaptation, systemic observability, and practices that empower engineering teams. However, it never directly mentions Agentic Engineering, developer agency, or the philosophical aspects of maximising human/AI agency. The discussion, while primarily practical, doesn't deeply engage with decentralised decision-making or ethical AI, staying focused on empirical engineering methods and DevOps-centric risk management. The intended audience is engineers and DevOps practitioners, consistent with the category. Signal is high, with minimal digression, but depth and conceptual framing are solid rather than exceptional, justifying a moderate confidence.",
+    "reasoning_summary": "This article supports agentic practices by advocating for feedback-driven, adaptive deployment techniques like feature flags and observability, reducing redundant environments. While well-aligned with Agentic Engineering’s principles, it treats them pragmatically rather than philosophically, leading to a moderate confidence fit.",
+    "level": "Secondary"
   }
 }

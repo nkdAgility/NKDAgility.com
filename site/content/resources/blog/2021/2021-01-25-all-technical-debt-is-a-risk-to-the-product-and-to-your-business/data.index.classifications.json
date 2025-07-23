@@ -1957,5 +1957,24 @@
     "reasoning": "The content focuses entirely on technical debt as a business and delivery risk, with reference to Scrum, transparency, automation, and metrics, but there are zero mentions of Objective Key Results (OKRs), their theoretical underpinnings, practical implementation, or supporting concepts. The intent is to raise awareness of quality and delivery risks related to technical debt, not to discuss structured goal-setting or alignment frameworks such as OKRs. The audience overlaps partially (executive and technical practice in product delivery), but there is no meaningful connection to OKRs—no mention of outcomes, measurable key results, or OKR practices as defined by Doerr. The discussion on metrics remains generic and unspecific to OKRs or their four superpowers. Therefore, confidence in this being OKR-related is extremely low.",
     "reasoning_summary": "This content exclusively discusses technical debt and delivery risk, without mentioning or conceptually aligning with OKRs. No evidence ties the discussion to the Objective Key Results framework or its practices, making it a poor fit for this category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "ZSqNF7v9vSR",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:10",
+    "ai_confidence": 39.04,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.0,
+    "ai_depth": 3.9,
+    "ai_intent": 3.8,
+    "ai_audience": 4.7,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "There are no direct mentions of 'Agentic Engineering' or its core terminology. The content focuses on technical debt's risks and the business impact of software quality, referencing concepts like feedback loops, transparency, automation, and continuous delivery. Although some themes (such as empowering teams, improving feedback, and automation) overlap partially with Agentic Engineering (e.g., promoting developer agency and feedback-driven adaptation), the main thrust is risk management and the cost of technical debt, not the philosophical or intentional maximisation of human and AI agency. Systemic observability, autonomy, and ethical AI integration are not addressed. The audience is a mix of technical and business leaders, aligning only partially. The discussion is thorough about technical debt but does not deeply engage with agentic practices or frameworks.",
+    "reasoning_summary": "While the content briefly touches on practices like automation and feedback cycles—components of Agentic Engineering—it largely frames these within the context of technical debt risk, rather than agency or intentional agentic design. Direct alignment with Agentic Engineering is limited.",
+    "level": "Ignored"
   }
 }

@@ -3304,5 +3304,43 @@
     "reasoning": "The content emphasizes building quality in from the start, referencing practices like TDD, automation, CI/CD, and shortening feedback loops. These concepts align with Lean's focus on eliminating waste (e.g., rework, delays) and enhancing value streams, but 'Lean Thinking' and its specific principles or tools (e.g., Muda, Kaizen, 5S, Value Stream Mapping) are never explicitly named. The depth is moderate—the message is focused but practical, with actionable suggestions for engineering strategy in a DevOps context. Audience is well-targeted (technical teams, engineers, software delivery professionals), and the intent supports efficient workflow, relevant to Lean's ethos, though framed in an Agile/DevOps context. Because direct Lean terminology or frameworks are missing, and while alignment is notable, the content rests more on adjacent Agile/DevOps practices than Lean Thinking itself. No outdated content or penalties were detected.",
     "reasoning_summary": "The content closely aligns with Lean Thinking principles—especially waste reduction and process optimization—but emphasizes Agile and DevOps methods. While it demonstrates Lean concepts (like building in quality and shortening feedback loops), it doesn’t explicitly reference Lean frameworks or vocabulary.",
     "level": "Tertiary"
+  },
+  "Working Agreements": {
+    "resourceId": "Ny4mMLZX4UE",
+    "category": "Working Agreements",
+    "calculated_at": "2025-07-23T12:05:08",
+    "ai_confidence": 13.625,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.9,
+    "ai_intent": 1.2,
+    "ai_audience": 3.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content does not mention working agreements directly or explore topics like team norms, principles for collaboration, or communication protocols. Its main focus is on technical practices (TDD, automation, DevOps) for embedding quality in software delivery. While it is aimed at Agile/DevOps teams and does indirectly relate to building a culture of quality, there is no substantive discussion of agreements or shared team principles as defined for this category.",
+    "reasoning_summary": "This content focuses on engineering quality practices in Agile/DevOps, not on working agreements or team norms. It lacks direct references or detailed discussion of collaborative principles, so its alignment with the 'Working Agreements' category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "Ny4mMLZX4UE",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:08",
+    "ai_confidence": 67.2,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.2,
+    "ai_intent": 7.4,
+    "ai_audience": 7.3,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content centers on building quality in via TDD, automation, and rapid feedback with Azure DevOps—strongly aligning to agentic principles such as developer agency, feedback-driven adaptation, and DevOps-infused craft. There is emphasis on shortening feedback loops and empowering developers, key to Agentic Engineering. However, explicit reference to ethical AI, system-level decentralization, or philosophical deliberation about agency is limited, and Agentic Engineering terminology is not directly cited. The focus is practical with some conceptual alignment, but lacks the deepest exploration or breadth of philosophical agency discourse.",
+    "reasoning_summary": "The content aligns well with Agentic Engineering via its focus on building in quality, developer empowerment, and rapid feedback loops, echoing agentic principles. While practical and DevOps-driven, it doesn't deeply explore agency philosophy or ethical AI, limiting full category fit.",
+    "level": "Secondary"
   }
 }

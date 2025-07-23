@@ -1900,5 +1900,24 @@
     "reasoning": "The content does not reference OKRs directly or indirectly. It focuses exclusively on technical debt, code quality, and developer accountability. There are no mentions of strategic alignment, outcome measurement, OKR practices, or frameworks such as 'Measure What Matters.' Even the scoring/prioritization of technical debt is not positioned in OKR terms. The content is practical advice aimed at software developers and does not address the OKR audience or principles.",
     "reasoning_summary": "This content is entirely centered on technical debt and code quality in software development, with no reference to Objective Key Results or their related frameworks, principles, or strategic alignment. It does not fit the OKR category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "FquWl26Uc8Y",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:25",
+    "ai_confidence": 36.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.6,
+    "ai_intent": 3.5,
+    "ai_audience": 5.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "Direct mentions of 'Agentic Engineering' or related terminology are absent—the content never discusses agency, decentralisation, observability, or AI collaboration. The narrative revolves around technical debt, code quality, and practical team habits such as code reviews, automated testing, and refactoring. While these are essential engineering themes, the discussion doesn't frame them as mechanisms for maximizing human or AI agency, nor does it connect them to philosophical or systemic concepts indicated in Agentic Engineering. The focus remains at a practical, team- and developer-level, without exploring systemic autonomy, feedback-driven adaptation, or decision-making frameworks. The audience (developers and teams) partly matches, but the thematic focus is on responsibility and craft, not agentic design, so signal-to-noise is moderate.",
+    "reasoning_summary": "The content focuses on technical debt, code quality, and practical engineering habits. While it's relevant for developers, it does not address agentic practices, decentralisation, or human/AI agency, so alignment with Agentic Engineering is minimal.",
+    "level": "Ignored"
   }
 }
