@@ -50,7 +50,7 @@ function Get-HugoMarkdown {
             $frontMatter = ConvertFrom-Yaml -Yaml $frontMatterContent -Ordered
         }
         catch {
-            Write-Host "Error: Failed to convert YAML. Stopping execution." -ForegroundColor Red
+            Write-WarningLog "Error: Failed to convert YAML. $Path Stopping execution."
             throw
         }
     }

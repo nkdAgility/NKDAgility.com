@@ -121,8 +121,12 @@ function Get-EmbeddingFromHugoMarkdown {
         return Get-Content $localFilePath | ConvertFrom-Json
     }
 
-    # 3. Generate embedding and upload
     $contentText = $HugoMarkdown.BodyContent
+    # 3. Generate embedding and upload
+    If (-not $contentText) {
+        $contentText = Get-Content -Raw $HugoMarkdown.FilePath
+    }
+    
     $contentHash = Get-ContentHash $contentText
     $tokens = Get-TokenCountFromServer -Content $contentText
     if ($tokens -gt 8192) {
@@ -147,6 +151,12 @@ function Get-EmbeddingFromHugoMarkdown {
         $entryType = $HugoMarkdown.FrontMatter.ClassificationType
         $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
     }
+    If ($HugoMarkdown.FrontMatter.type -eq "course" -OR $HugoMarkdown.FrontMatter.type -eq "mentor-program") {
+        $entryKind = "program"
+        $entryType = $HugoMarkdown.FrontMatter.type
+        $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+    }
+
     if ($entryType -eq "unknown") {
         Write-WarningLog "Unknown entry type for $($HugoMarkdown.ReferencePath)"
     }
