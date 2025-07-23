@@ -3,10 +3,6 @@
 # Helpers
 . ./.powershell/_includes/IncludesForAll.ps1
 
-
-$ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Debug'
-
 ###### TEST CODE BELOW HERE ######
 # Parameters
 
