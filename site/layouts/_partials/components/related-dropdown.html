@@ -1,5 +1,5 @@
 {{ $page := .Page }}
-{{ $resourceTypes := (slice "blog" "videos" "signals" "guides", "courses") }}
+{{ $resourceTypes := (slice "blog" "videos" "signals" "guides" "courses") }}
 {{- $relatedData := partial "functions/get-related.html" .Page }}
 <div class="dropdown">
   <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false" title="Related Content"><span class="d-none d-xl-inline">Related</span>{{ partial "components/site-icon.html" (dict "icon" "fa-link") }}</button>

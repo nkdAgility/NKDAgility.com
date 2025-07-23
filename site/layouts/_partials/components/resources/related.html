@@ -1,3 +1,6 @@
 {{ $page := .Page }}
-{{ $resourceTypes := (slice "blog" "videos" "signals" "guides", "courses") }}
-{{- $relatedData := partial "functions/get-related.html" .Page }}
+{{ $resourceTypes := (slice "blog" "videos" "signals" "guides" "courses") }}
+{{- $relatedPages := partial "functions/get-related-as-pages.html" .Page }}
+<h3>What to read next?</h3>
+<p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
+{{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedPages) }}

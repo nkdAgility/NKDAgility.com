@@ -1,0 +1,28 @@
+{{ $page := . }}
+{{- $relatedData := partial "functions/get-related.html" $page }}
+{{ $relatedResources := where $relatedData "EntryKind" "resource" }}
+
+{{/* Create a slice to store page objects with similarity scores */}}
+{{ $relatedPages := slice }}
+
+{{/* Iterate through related resources and get the corresponding pages */}}
+{{ range $relatedResources }}
+  {{ $relatedPage := site.GetPage .Reference }}
+  {{ if $relatedPage }}
+    {{/* Create a map with page and similarity for sorting */}}
+    {{ $pageWithSimilarity := dict "Page" $relatedPage "Similarity" .Similarity }}
+    {{ $relatedPages = $relatedPages | append $pageWithSimilarity }}
+  {{ end }}
+{{ end }}
+
+{{/* Sort by Similarity in descending order (highest first) */}}
+{{ $sortedRelatedPages := sort $relatedPages "Similarity" "desc" }}
+
+{{/* Extract just the page objects */}}
+{{ $finalPages := slice }}
+{{ range $sortedRelatedPages }}
+  {{ $finalPages = $finalPages | append .Page }}
+{{ end }}
+
+{{/* Return only the pages */}}
+{{ return $finalPages }}
