@@ -1,19 +1,20 @@
 {{ $page := .Page }}
 <div id="components-resources-related" class="mb-5">
-  <div class="pt-5">
-    <h3>What to read next?</h3>
-    <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
-    {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
-    {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources) }}
-  </div>
-  <div class="pt-5">
-    {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
-    <h3>Courses that align</h3>
-    <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
-    {{ if gt (len $relatedCourses) 0 }}
+  {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
+  {{ if gt (len $relatedResources) 0 }}
+    <div class="pt-5">
+      <h5>What to read next?</h5>
+      <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
+
+      {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources) }}
+    </div>
+  {{ end }}
+  {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
+  {{ if gt (len $relatedResources) 0 }}
+    <div class="pt-5">
+      <h5>Courses that align</h5>
+      <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
       {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses) }}
-    {{ else }}
-      <p>No related courses found.</p>
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 </div>
