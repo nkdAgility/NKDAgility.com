@@ -1,6 +1,8 @@
-{{ $page := . }}
+{{ $page := .Page }}
+{{ $EntryKind := .EntryKind | default "resource" }}
+
 {{- $relatedData := partial "functions/get-related.html" $page }}
-{{ $relatedResources := where $relatedData "EntryKind" "resource" }}
+{{ $relatedResources := where $relatedData "EntryKind" $EntryKind }}
 
 {{/* Create a slice to store page objects with similarity scores */}}
 {{ $relatedPages := slice }}
