@@ -1,24 +1,39 @@
 {{ $page := .Page }}
-<div id="components-resources-related" class="mb-5">
-  {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
-  {{- $relatedResources := where $relatedResources "Type" "ne" "guides" }}
-  {{- $relatedResources := first 6 $relatedResources }}
+{{ $tenYearsAgo := now.AddDate -15 0 0 }}
 
-  {{ if gt (len $relatedResources) 0 }}
+
+<div id="components-resources-related" class="mb-5">
+  {{ if $page.Date.After $tenYearsAgo }}
+    {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
+    {{- $relatedResources := where $relatedResources "Type" "ne" "guides" }}
+    {{- $relatedResources := first 6 $relatedResources }}
+
+    {{ if gt (len $relatedResources) 0 }}
+      <div class="pt-5">
+        <h5>What to read next?</h5>
+        <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
+
+        {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources "includeMeta" false) }}
+      </div>
+    {{ end }}
+    {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
+    {{- $relatedCourses := first 3 $relatedCourses }}
+    {{ if gt (len $relatedCourses) 0 }}
+      <div class="pt-5">
+        <h5>Programs that align</h5>
+        <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
+        {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses "includeMeta" false) }}
+      </div>
+    {{ end }}
+  {{ else }}
     <div class="pt-5">
       <h5>What to read next?</h5>
-      <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
-
-      {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources "includeMeta" false) }}
+      <p>This post is over a decade old, and we haven’t retrofitted related content. Head over to <a href="/resources/">our resources page</a> to explore newer thinking across Agile, DevOps, and technical leadership.</p>
     </div>
-  {{ end }}
-  {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
-  {{- $relatedCourses := first 3 $relatedCourses }}
-  {{ if gt (len $relatedCourses) 0 }}
+
     <div class="pt-5">
-      <h5>Courses that align</h5>
-      <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
-      {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses "includeMeta" false) }}
+      <h5>Programs that align</h5>
+      <p>If you're here for more than nostalgia, visit <a href="/capabilities/">our capabilities page</a> to see how our current programs connect practice to performance—without legacy baggage.</p>
     </div>
   {{ end }}
 </div>

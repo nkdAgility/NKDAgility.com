@@ -1,36 +1,38 @@
 {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
 {{ $jsonData := $jsonFile | unmarshal }}
-<div id="components-resources-tag-cloud" class="mb-5">
-  <h5 class="small">Smart Classifications</h5>
-  <p class="small">Each classification [Concepts, Categories, & Tags] was <a href="/resources/engineering-notes/how-i-used-generative-ai-to-transform-site-tagging-and-categories/">assigned using AI-powered semantic analysis</a> and scored across relevance, depth, and alignment. Final decisions? Still human. Always traceable. Hover to see how it applies.</p>
-  <div class="d-flex flex-wrap align-items-center gap-2 p-1" id="tag-container">
-    {{ with .Params.tags }}
-      {{ $visible := first 5 . }}
-      {{ $hidden := after 5 . }}
+{{ if gt (len .Params.tags) 0 }}
+  <div id="components-resources-tag-cloud" class="mb-5">
+    <h5 class="small">Smart Classifications</h5>
+    <p class="small">Each classification [Concepts, Categories, & Tags] was <a href="/resources/engineering-notes/how-i-used-generative-ai-to-transform-site-tagging-and-categories/">assigned using AI-powered semantic analysis</a> and scored across relevance, depth, and alignment. Final decisions? Still human. Always traceable. Hover to see how it applies.</p>
+    <div class="d-flex flex-wrap align-items-center gap-2 p-1" id="tag-container">
+      {{ with .Params.tags }}
+        {{ $visible := first 5 . }}
+        {{ $hidden := after 5 . }}
 
-      {{ range $visible }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}
-      {{ end }}
-      {{ if gt (len $hidden) 0 }}
-        {{ $count := len $hidden }}
-        <a id="expand-tags-btn" class="btn btn-sm btn-outline-secondary me-0 px-1 py-0" title="There are {{ $count }} more tags" href="#" onclick="document.querySelectorAll('.tag-hidden').forEach(e => e.classList.remove('tag-hidden')); this.classList.add('d-none'); return false;"> … {{ $count }} more </a>
-      {{ end }}
+        {{ range $visible }}
+          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}
+        {{ end }}
+        {{ if gt (len $hidden) 0 }}
+          {{ $count := len $hidden }}
+          <a id="expand-tags-btn" class="btn btn-sm btn-outline-secondary me-0 px-1 py-0" title="There are {{ $count }} more tags" href="#" onclick="document.querySelectorAll('.tag-hidden').forEach(e => e.classList.remove('tag-hidden')); this.classList.add('d-none'); return false;"> … {{ $count }} more </a>
+        {{ end }}
 
-      {{ range $hidden }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 tag-hidden px-1 py-0" ) }}
-      {{ end }}
+        {{ range $hidden }}
+          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 tag-hidden px-1 py-0" ) }}
+        {{ end }}
 
-    {{ end }}
+      {{ end }}
+    </div>
+    <style>
+      .tag-hidden {
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        display: none;
+      }
+      .tag-hidden.show {
+        display: inline-block;
+        opacity: 1;
+      }
+    </style>
   </div>
-  <style>
-    .tag-hidden {
-      opacity: 0;
-      transition: opacity 0.3s ease;
-      display: none;
-    }
-    .tag-hidden.show {
-      display: inline-block;
-      opacity: 1;
-    }
-  </style>
-</div>
+{{ end }}
