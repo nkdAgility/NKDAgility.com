@@ -27,7 +27,7 @@ Instructions: |-
   - General engineering discussions that don't address the maximisation of human and AI agency
 headline:
   cards: []
-  title: "Agentic Engineering: Maximising Human and AI Agency in Software Development"
+  title: 'Agentic Engineering: Maximising Human and AI Agency in Software Development'
   subtitle: Deliberate design and practice of software development that maximises agency of both humans and intelligent systems through engineering excellence and ethical autonomy.
   content: Agentic Engineering encompasses the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous through systematic observability, craft mastery, and adaptive workflows.
   updated: 2025-07-22T15:58:00Z
@@ -38,16 +38,16 @@ icon: fa-gears
 concepts: []
 categories: []
 tags: []
----
 
-**Agentic Engineering** is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous.
+---
+**𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴** is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous.
 
 It's characterised by:
 
-- **Developer Agency**: Engineers have both the autonomy and competence to shape their systems of work, decide how work gets done, and influence what gets built.
-- **Systemic Observability**: Leveraging telemetry, experimentation, and inspection to drive adaptive change within teams and products.
-- **DevOps-Infused Craft**: Automation, quality, and infrastructure are treated as core competencies, not side concerns.
-- **Ethical AI Integration**: AI is a collaborator, not a black box. It augments decision-making while maintaining transparency and accountability.
-- **Feedback-Driven Adaptation**: Workflows are empirically evolved based on outcomes, not compliance to process.
+* **Developer Agency**: Engineers have both the autonomy and competence to shape their systems of work, decide how work gets done, and influence what gets built.
+* **Systemic Observability**: Leveraging telemetry, experimentation, and inspection to drive adaptive change within teams and products.
+* **DevOps-Infused Craft**: Automation, quality, and infrastructure are treated as core competencies, not side concerns.
+* **Ethical AI Integration**: AI is a collaborator, not a black box. It augments decision-making while maintaining transparency and accountability.
+* **Feedback-Driven Adaptation**: Workflows are empirically evolved based on outcomes, not compliance to process.
 
 Agentic Engineering is not a job title, role, or method. It's a **philosophy of engineering** in which the ability to act with clarity, intent, and impact is engineered into the way we build, learn, and evolve.
