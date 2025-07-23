@@ -1,6 +1,9 @@
 {{ $page := .Page }}
 <div id="components-resources-related" class="mb-5">
   {{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
+  {{- $relatedResources := where $relatedResources "Type" "ne" "guides" }}
+  {{- $relatedResources := first 6 $relatedResources }}
+
   {{ if gt (len $relatedResources) 0 }}
     <div class="pt-5">
       <h5>What to read next?</h5>
@@ -10,7 +13,8 @@
     </div>
   {{ end }}
   {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
-  {{ if gt (len $relatedResources) 0 }}
+  {{- $relatedCourses := first 3 $relatedCourses }}
+  {{ if gt (len $relatedCourses) 0 }}
     <div class="pt-5">
       <h5>Courses that align</h5>
       <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
