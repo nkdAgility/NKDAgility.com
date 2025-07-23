@@ -3156,5 +3156,24 @@
     "reasoning": "The content is entirely about Scrum Master competency and team leadership, with no reference to AI, human-AI partnerships, or collective intelligence involving both. It strictly discusses shortcomings among humans, not socio-technical collaboration or distributed cognition between humans and AI. The target audience is practitioners in Agile/Scrum, which generally overlaps, but the content is irrelevant to collective intelligence as defined. Penalties are applied for lack of category relevance, conceptual misalignment, and absence of any AI context.",
     "reasoning_summary": "This content exclusively addresses human capability issues among Scrum Masters, offering no discussion of human-AI collaboration, collective intelligence, or related socio-technical factors, and is not aligned with the intended category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "nTipEJck6ez",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:32",
+    "ai_confidence": 8.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 2.3,
+    "ai_audience": 1.4,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.8,
+    "ai_penalty_details": "Penalty of 0.5 points applied for Mentions (content is overtly critical, not constructive nor aligned to agentic framing), 0.5 for Alignment (focus entirely on lack of knowledge, not on agency or engineering), 0.4 for Depth (remains superficial and negative), 0.2 for Signal (tone is dismissive and undermines category ethos), 0.2 for Audience (more generic anti-pattern criticism than agentic audience engagement)",
+    "final_score": 8.0,
+    "reasoning": "There are zero direct mentions of Agentic Engineering or its core concepts (no discussion of autonomy, feedback, engineering practices, DevOps, ethical AI, decision frameworks, or decentralization). The content is a critique of Scrum Masters' competency and training, not of engineering practice design or agency. Main ideas focus on gaps in Scrum knowledge and failures in standards; there are no themes or insights about maximizing human or AI agency, system observability, or agentic practices. The discussion remains at the surface—criticizing personnel rather than exploring ways to engineer for agency or autonomy. The intent is to highlight failings and drive for better Scrum standards, not to promote agentic engineering principles or help an audience focused on them. The target audience seems to be general agile professionals and managers, not those specifically interested in agentic engineering. Much of the content is focused on criticism, data points, and calls for improvement, not on deliberate engineering design. Penalties were applied for tone contradicting agentic framing and complete misalignment with core topics, resulting in a very low final confidence score.",
+    "reasoning_summary": "The content centers on criticism of Scrum Masters' competency and does not address Agentic Engineering concepts like agency, autonomy, or the deliberate design of engineering practices. It lacks direct mention or meaningful alignment, resulting in a very low confidence of fit for this category.",
+    "level": "Ignored"
   }
 }

@@ -1979,5 +1979,24 @@
     "reasoning": "There are no direct mentions of OKRs, nor reference to John Doerr's framework or terminology; 'outcomes,' 'goals,' and 'value' are used in a general agile product sense, not in the structured OKR context. The content is focused on avoiding micromanagement and emphasizing vision, empowerment, and outcome orientation for Product Owners in agile, but without explicit or implicit connection to OKRs' theory, superpowers, process, or strategic alignment as outlined in Measure What Matters. The main purpose is to guide Product Owners toward team empowerment, not to educate on or implement OKRs. Audience overlap exists (product leaders, agile practitioners), but signal-to-noise is diluted by the exclusive focus on agile anti-patterns, not outcome-based frameworks.",
     "reasoning_summary": "This content centers on agile leadership and anti-patterns without referencing OKRs or their framework. While it discusses outcomes and vision, it does so in a general sense, not through the structured lens of Objective Key Results, resulting in low overall category confidence.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "EoInrPvjBHo",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:08",
+    "ai_confidence": 62.35,
+    "ai_mentions": 1.6,
+    "ai_alignment": 7.5,
+    "ai_depth": 6.9,
+    "ai_intent": 7.0,
+    "ai_audience": 7.3,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content directly addresses themes of autonomy, empowerment, vision, value, and relinquishing micromanagement—central to developer agency within Agentic Engineering. The advice to shift from control to enabling self-organizing teams strongly aligns with maximizing human agency. Depth is good, focusing on principles and practical changes, but discussion on systemic observability, DevOps, or explicit agentic design is limited. The content targets Agile practitioners and product leads, matching the audience. No penalties applied since it's current and not satirical.",
+    "reasoning_summary": "This content closely matches Agentic Engineering's focus on agency, empowerment, and outcome-driven practice, especially by discouraging micromanagement and supporting team autonomy. While lacking details on engineering or AI integration, its strong alignment with human agency makes it a relevant fit.",
+    "level": "Secondary"
   }
 }

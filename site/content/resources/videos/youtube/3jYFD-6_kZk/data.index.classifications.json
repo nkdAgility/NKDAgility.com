@@ -1930,5 +1930,24 @@
     "reasoning": "The content is a comprehensive technical guide about migrating from legacy TFS systems to Azure DevOps, focusing on migration steps, identity alignment, database cleanup, and backup procedures. It never references Objective Key Results (OKRs), John Doerr, strategic alignment, or goal-setting frameworks. There are no explicit or implicit mentions of measurement or outcome-driven frameworks, nor does the content discuss OKR concepts such as objectives, key results, alignment, or any of the 'four superpowers.' Its subject matter, intent, audience, and depth are all misaligned with the Objective Key Results category.",
     "reasoning_summary": "The content is focused entirely on technical considerations for Azure DevOps data migration, with no references to OKRs or related concepts. It does not fit the Objective Key Results category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "3jYFD-6_kZk",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:54",
+    "ai_confidence": 18.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 5.0,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.4,
+    "ai_penalty_details": "mentions (-0.3, content never explicitly refers to Agentic Engineering, only DevOps/engineering best practices); alignment (-0.5, focus is on migration tactics, with only tangential relevance to agency or agentic principles); depth (-0.4, lacks substantive discussion of agency maximization or agentic systems); intent (-0.2, intent is procedural guidance, not philosophical or agentic discussion)",
+    "final_score": 18.0,
+    "reasoning": "The content is predominantly a practical, step-by-step guide to Azure DevOps data migration from TFS, focused on technical processes: data clean-up, order of operations, identity alignment, and backup procedures. While it supports engineering rigor, it does not engage with the philosophy or practices that deliberately maximize human or AI agency, decentralize decision-making, or foster feedback-driven adaptation. No explicit or conceptual discussion of systemic observability, decision autonomy, or DevOps-augmented ethical agency is present. The audience overlaps partially (engineers/DevOps professionals), but the focus is technical execution rather than empowering agency. Minor penalty reductions were taken in multiple categories to reflect these tangential fits.",
+    "reasoning_summary": "This content centers on Azure DevOps migration best practices, lacking any substantive discussion of Agentic Engineering principles like maximizing agency, decentralization, or feedback-driven adaptation. It is relevant for practitioners but does not address the agentic or philosophical dimension required for this category.",
+    "level": "Ignored"
   }
 }

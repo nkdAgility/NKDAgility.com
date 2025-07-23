@@ -1987,5 +1987,24 @@
     "reasoning": "The Scrum Guide does not mention Objective Key Results (OKRs) at all, nor does it reference John Doerr, 'Measure What Matters,' or the OKR framework. It focuses on Scrum's theory, empirical process, events, accountabilities, and artifacts. While there are abstract references to goals, transparency, inspection, and adaptation, these are in the context of Scrum-specific constructs (Product Goal, Sprint Goal) and not OKRs. There is no conceptual alignment or meaningful exploration of OKRs. The target audience (Scrum practitioners, agile teams, leaders) could intersect with OKR users, but none of the principles, structure, or language of OKRs appears here.",
     "reasoning_summary": "The Scrum Guide provides a thorough explanation of Scrum but does not address Objective Key Results, their principles, or implementation. There is little to no alignment between the content and the OKR category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "59gcHh1fYtC",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:28",
+    "ai_confidence": 49.15,
+    "ai_mentions": 0.5,
+    "ai_alignment": 5.9,
+    "ai_depth": 7.6,
+    "ai_intent": 5.5,
+    "ai_audience": 7.1,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The Scrum Guide does not directly mention Agentic Engineering, nor does it discuss agency of AI or deliberate design for maximising both human and machine agency. However, it strongly addresses related concepts such as team autonomy, self-management, incremental value delivery, and empirical feedback cycles. The depth of discussion on engineering practices that promote human agency (e.g., self-management, transparency, adaptation) is significant, with clear guidance for practitioners, but without addressing ethical AI integration, observability tooling, or hybrid human-AI agency. The intent focuses on process and human-centred autonomy rather than the broader or philosophical context that Agentic Engineering covers. The audience—technical practitioners and Scrum users—overlaps with Agentic Engineering, and signal is high, with few tangents. Overall, the fit is partial: Scrum is agentic for people, but not positioned explicitly as Agentic Engineering as defined in the category (especially regarding AI or systemic design for multi-agent collaboration).",
+    "reasoning_summary": "While The Scrum Guide explores themes of autonomy, empirical adaptation, and continuous value delivery—aligning in part with Agentic Engineering—it lacks discussion of AI agency, ethical AI integration, or explicit agentic engineering philosophy, resulting in partial but not direct category alignment.",
+    "level": "Tertiary"
   }
 }

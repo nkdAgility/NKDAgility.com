@@ -1987,5 +1987,24 @@
     "reasoning": "The content focuses extensively on quality, accountability, DevOps, and professional Scrum practices. It describes how Scrum teams work together, but exclusively in human terms—there is no mention or implied concept of AI agents collaborating, human-AI teams, or emergent collective intelligence as defined. Topics like distributed cognition, human-AI partnership, or leveraging complementary strengths between humans and AI are wholly absent. The audience (Scrum teams, developers, leaders) is similar to the category but the content is not about human-AI collaboration. No penalties were warranted, as content is current and earnest—but there is no relevant signal for this category.",
     "reasoning_summary": "This content is about human Scrum teams practicing quality and accountability. It does not involve or discuss human-AI collaboration, AI agents, or collective intelligence in the specified sense, so alignment and confidence are appropriately very low.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "vCeqzJIgF1F",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:10",
+    "ai_confidence": 54.59,
+    "ai_mentions": 1.0,
+    "ai_alignment": 5.9,
+    "ai_depth": 4.8,
+    "ai_intent": 7.1,
+    "ai_audience": 8.1,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.4,
+    "ai_penalty_details": "mentions (-0.5) for no direct reference to agentic concepts or terminology; alignment (-0.4) and depth (-0.5) due to focus on conventional Scrum professionalism, with only partial conceptual overlap to the agency maximisation focus of Agentic Engineering.",
+    "final_score": 55.0,
+    "reasoning": "The content focuses on SCRUM team professionalism, accountability, automation, and quality—elements foundational to high-agency engineering teams. While themes like developer accountability, automation, and empiricism overlap with Agentic Engineering (e.g., empowering teams and fostering improvement), the discussion is conventionally rooted in Scrum concepts, not in the broader or explicit framing of maximising human and AI agency. There's scant reference to decentralised decision-making, ethical AI, or feedback-driven adaptation beyond empirical Scrum processes. The lack of explicit terminology or direct mention of Agentic Engineering concepts reduces the confidence. The audience and signal remain high, as the guidance is relevant for practitioners interested in agency within their teams, but the category fit remains partial and not fully intentional.",
+    "reasoning_summary": "This content emphasizes developer accountability, automation, and empirical improvement within Scrum, partially aligning with Agentic Engineering themes. However, it lacks explicit focus on the maximisation of human and AI agency, making the fit moderate rather than strong.",
+    "level": "Tertiary"
   }
 }

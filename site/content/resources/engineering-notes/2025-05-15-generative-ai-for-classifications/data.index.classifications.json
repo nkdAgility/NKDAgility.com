@@ -3177,5 +3177,24 @@
     "reasoning": "The content provides a detailed walkthrough of how generative AI and automation were used to overhaul tagging and categorization on a personal blog. There are in-depth discussions about classification, content organization, automation oversight, and multi-layered taxonomies (concepts, categories, tags), but there are no direct or indirect references to OKRs, their principles, theory, or practices. The system's scoring approach, mentioned as multi-factor with penalties, superficially resembles OKR-style measurement but is explicitly and exclusively focused on content classification—not outcome-driven strategic alignment or value realization. The content's main purpose is technical process improvement in content management, not structured objective setting, measurable key results, or iterative goal alignment. There is no discussion of John Doerr's OKR framework, nor are topics such as focus, alignment through transparency, outcome-based measurement, or OKR integration into Agile, Scrum, or DevOps explored.",
     "reasoning_summary": "This content is about leveraging AI to automate tagging and categorization in a blog, focusing on technical improvements to content management. It does not address OKRs, outcome-driven goal setting, or strategic alignment, so it falls entirely outside the intended OKR category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "oRStCAqLAY4",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:20",
+    "ai_confidence": 80.1,
+    "ai_mentions": 6.8,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.1,
+    "ai_intent": 7.6,
+    "ai_audience": 7.8,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 80.0,
+    "reasoning": "The content describes the deliberate blending of generative AI with human oversight in a technical automation system, emphasizing agency division, transparency, and continuous adaptation. It directly discusses developer agency (regaining workflow control), ethical AI integration (AI as tactical agent, human remains accountable), automation practices, auditability, and feedback loops via a multi-layered tag/categorization system. The discussion is nuanced, explaining both technical and philosophical aspects of agency, validation, and adaptation. The audience is technical, matching the likely target of agentic engineering discourse, and the content is highly focused on the interplay of tools, human decision-making, and responsible AI use. However, direct references to 'Agentic Engineering' as a term are absent, and while all mechanisms align conceptually, the material is framed as a practical case study rather than as a treatise on agentic engineering at large.",
+    "reasoning_summary": "This content aligns closely with Agentic Engineering, describing a deliberate, feedback-driven system where AI augments but does not displace human agency. It details observability, validation, and adaptive practices, making it very relevant despite not naming the category directly.",
+    "level": "Secondary"
   }
 }

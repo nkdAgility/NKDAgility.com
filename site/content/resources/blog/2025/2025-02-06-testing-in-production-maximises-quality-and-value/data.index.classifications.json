@@ -2363,5 +2363,24 @@
     "reasoning": "The content focuses on testing in production, audience-based deployment, and progressive release strategies. It discusses related DevOps and agile practices but does not make explicit or substantive reference to OKRs, their strategic application, key results, or outcome-driven frameworks per John Doerr’s definition. Depth and alignment with Objective Key Results are weak, and there are only passing conceptual overlaps regarding outcome measurement and team alignment, without any explicit OKR framework mention, examples, or practice discussion.",
     "reasoning_summary": "This content centers on deployment and feedback strategies in DevOps, with little to no connection to the OKR framework or its principles. There are no explicit mentions or meaningful discussions of Objectives, Key Results, or related outcome-driven practices.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "_ncZFfeCrnS",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:34",
+    "ai_confidence": 76.55,
+    "ai_mentions": 3.5,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.7,
+    "ai_intent": 8.2,
+    "ai_audience": 7.9,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "While the content does not use the phrase 'Agentic Engineering', it is conceptually well aligned with the category. The discussion focuses on maximizing developer and team agency (e.g., team autonomy, continuous delivery via audience-based deployment, progressive rollouts), systemic observability (relying on real-world telemetry, feedback loops), DevOps-infused craft (automation, feature flags), and practices that empower teams to control and adapt workflows. Depth is strong, with historical examples (Microsoft, Azure DevOps, Windows Insider) and actionable strategies. The intent is educational for practitioners and strategists seeking to evolve engineering culture, and the signal is focused, with minimal filler or tangents. While ethical AI integration is only lightly touched on and there is little explicit discussion of AI agency, the bulk of the piece is a practical guide to decentralised, feedback-driven, agentic software practices. All scores varied for calibration and reflect stronger conceptual fit than direct category mention.",
+    "reasoning_summary": "This content aligns strongly with Agentic Engineering by emphasizing developer autonomy, systemic observability, continuous delivery, and feedback-driven adaptation. It offers practical guidance for decentralizing decisions and empowering technical teams, though it lacks explicit category naming and deeper ethical AI discussion.",
+    "level": "Secondary"
   }
 }

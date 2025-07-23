@@ -1981,5 +1981,24 @@
     "reasoning": "The content is centered around a Sprint Review workshop, outlining the session's delivery, technology use, participant feedback, and retrospective process. There is no explicit mention of OKRs, nor is there discussion of OKR theory, principles, or practice. Goals and outcomes are referenced in the context of workshop delivery and technical success, but these do not align structurally or philosophically with the OKR framework. The audience appears to be Scrum practitioners or workshop participants, not specifically those focused on OKR implementation. There is minimal to zero relevance to Objective Key Results beyond a vague mention of 'Product Vision \\ Goal,' which does not adhere to OKR definitions. Scoring is very low across all dimensions reflecting lack of fit, with no penalties needed.",
     "reasoning_summary": "This workshop content focuses exclusively on Sprint Reviews, retrospective insights, and technical delivery. It does not address Objective Key Results or OKR principles, theory, or applications. Therefore, its relevance to the 'Objective Key Results' category is minimal.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "1-W64WdSbF4",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:42",
+    "ai_confidence": 23.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.4,
+    "ai_audience": 3.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.2,
+    "ai_penalty_details": "Mentions (-0.2): no direct or explicit use of 'Agentic Engineering'; Alignment (-0.2): only tangential relationship to agentic concepts; Depth (-0.4): discussion is focused on event delivery/process not deliberate agency; Intent (-0.2): moderately practice-focused, workshop delivery vs. agentic methods; no outdated references or contradictory tone.",
+    "final_score": 23.0,
+    "reasoning": "The content is a recap of a workshop for introducing Sprint Reviews. Its focus is on event delivery, participant feedback, technical issues, and lessons from a livestream. There are minor conceptual intersections (empirical approach, feedback loops), but discussion about agency, systemic observability, DevOps ethos, or deliberate engineering for human/AI autonomy is absent. The intention is practical/event-based, not agentic by design. Audience overlap is marginal as workshop attendees may include relevant practitioners, but the theme is too operational/process-centered and doesn’t address the deliberate design of engineering practices for agency. Surface-level nods to improvement/retrospective do not provide depth related to Agentic Engineering. Penalties applied for lack of direct mention, low conceptual/depth fit, and off-center audience/intent alignment.",
+    "reasoning_summary": "This content centers on operational workshop logistics and process improvements for Sprint Reviews, not the deliberate design of engineering practices for human or AI agency. Any alignment is incidental, with minimal conceptual overlap and no direct reference to Agentic Engineering.",
+    "level": "Ignored"
   }
 }

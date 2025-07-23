@@ -2006,5 +2006,24 @@
     "reasoning": "The content does not directly mention Objective Key Results (OKRs) nor does it reference their principles, structure, or John Doerr’s framework. Instead, it centers on the transformative benefits of frequent code deployments — such as code quality, maintainability, and iterative learning — within a DevOps/engineering context. While there is thematic overlap in discussing iterative learning and outcome orientation, the piece does not define objectives, key results, or explicitly connect its practices to the OKR framework. Strategic intent, alignment, and tracking as defined in the OKR system are absent here; no language or examples refer to OKRs, measurement as outcomes, or strategic cascades. The intended audience is practitioners interested in DevOps and continuous delivery, not strategic leaders focused on OKRs. Signal-to-noise is low for OKR relevance, as the discourse is entirely about deployment cadence and technical practice with no reference to OKRs.",
     "reasoning_summary": "This content focuses on the impact of frequent code deployments in improving code quality and user feedback, with no mention or substantive alignment to Objective Key Results. Its themes, purpose, and audience remain unrelated to the OKR framework.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "D1wz-J1jklQ",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:46",
+    "ai_confidence": 72.45,
+    "ai_mentions": 1.2,
+    "ai_alignment": 8.3,
+    "ai_depth": 7.7,
+    "ai_intent": 8.0,
+    "ai_audience": 7.5,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content thoroughly discusses modern engineering practices—specifically, how frequent deployments foster faster feedback, technical debt control, and iterative value delivery. Concepts such as small batch sizes, continuous improvement, observability, and hypothesis-driven engineering strongly align with Agentic Engineering's focus on developer agency, feedback-driven adaptation, and systemic observability. The discussion addresses software engineers and technical practitioners, fitting Agentic Engineering’s target audience. However, there is only an implicit—not explicit—mention of Agentic Engineering; the terminology and certain ethical/AI aspects are not foregrounded, modestly lowering depth and direct mentions. Minor portions focus on general best practices, causing a slight dip in signal score. Overall, the content embodies the spirit and substance of Agentic Engineering, even if it does not use the term itself.",
+    "reasoning_summary": "This content exemplifies Agentic Engineering by emphasizing fast feedback, developer autonomy, observability, and continuous value delivery through frequent deployments. Despite lacking explicit use of the term, its main themes and target audience align closely with the category’s philosophical core.",
+    "level": "Secondary"
   }
 }

@@ -2001,5 +2001,24 @@
     "reasoning": "Direct mentions of OKRs or 'Objective Key Results' are absent, scoring very low on mentions. The content focuses on Evidence-Based Management (EBM) and custom metrics, and while strategic alignment and vision are discussed, it is always in the generic sense of organizational vision or high-level goals, not as Objectives/Key Results per John Doerr's framework. There is no explicit tie to OKR theory, structure (objectives vs. key results), or John Doerr's 'four superpowers.' The content thoroughly explores EBM but does not move into OKR territory in depth, though the audience (agile leaders, strategists) somewhat overlaps. Intent and signal are also weak for this category; the primary purpose is not OKR education or discussion.",
     "reasoning_summary": "The content centers on Evidence-Based Management, not OKRs. While goal alignment and metrics are discussed, there is no meaningful reference to OKR principles, structure, or foundational theories. Alignment and depth for 'Objective Key Results' are minimal, leading to low confidence for this category.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "XuePm2RAZa0",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:39",
+    "ai_confidence": 38.374,
+    "ai_mentions": 1.8,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.0,
+    "ai_intent": 4.2,
+    "ai_audience": 5.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content centers on Scrum.org’s PAL-EBM training, emphasizing evidence-based management, the customization of metrics, and leadership in aligning teams with organizational vision. These elements tangentially relate to agentic concepts, like empowering teams and fostering autonomy. However, there is a lack of direct discussion on the deliberate design of engineering practices that maximize agency for humans or intelligent systems. Key concepts like systemic observability, DevOps philosophy, or ethical integration of AI are not explicitly addressed. The discussion focuses more on leadership mindset, alignment, and measurement, not on agentic engineering or the decentralization of decision-making via engineering practices. Audience fit is reasonable (technical leads/managers), and the content is focused, but the direct fit with Agentic Engineering as defined is modest.",
+    "reasoning_summary": "This content lightly intersects with Agentic Engineering, primarily through its advocacy for team alignment and evidence-based practices. However, it lacks direct discussion of engineering practices or systemic agency-maximization, resulting in only a modest categorical fit.",
+    "level": "Ignored"
   }
 }

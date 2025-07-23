@@ -2507,5 +2507,24 @@
     "reasoning": "The content thoroughly explores the Definition of Done (DoD) in Scrum and its evolution at both team and organizational level, highlighting its role in ensuring quality, compliance, and business value. It makes references to alignment with strategic goals, business value delivery, and objective, measurable quality standards. However, there are no direct or sustained mentions of Objective Key Results (OKRs); the discussion or vocabulary does not reference OKR frameworks, their superpowers, or John Doerr’s foundational principles. The nearest proximity is the mention of aligning team practices with organizational objectives and measuring whether outcomes meet objectives, but this is positioned fully within the context of DoD rather than as a discussion of OKRs. There is conceptual overlap in the theme of measurable outcomes and evidence of progress, but none of the required OKR-specific framing, intent, or implementation detail.",
     "reasoning_summary": "This content is focused on the Definition of Done in Scrum, not Objective Key Results. While themes of alignment and outcome measurement are present, there is no discussion of OKRs, their principles, or implementation. Fit for the OKR category is minimal.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "5wIEg7lD_Xd",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:23",
+    "ai_confidence": 64.73,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.5,
+    "ai_intent": 6.1,
+    "ai_audience": 7.4,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the terminology is not explicitly referenced. However, the content exhibits moderate conceptual alignment: it discusses the evolution of practices (agency) in engineering circles, team autonomy, and integrating observability (telemetry) and experimentation for adaptive change, as well as emphasising automation and quality baked into the Definition of Done. Depth is strong via concrete examples (evolving DoD, interconnected team/org responsibilities, automation, and telemetry); however, it primarily frames these within Scrum/DoD rather than broad agentic contexts. The intent is primarily practical guidance for evolving DoD with some articulation of increased agency and decentralisation. The target audience (technical, Scrum practitioners/org leaders) closely matches the category’s focus. Signal is high due to clear, relevant focus, though some repetitive Scrum-specific detail limits full alignment to the broader philosophical scope of Agentic Engineering.",
+    "reasoning_summary": "The content strongly aligns with several core Agentic Engineering themes—autonomy, feedback, observability, and continuous improvement—through the evolving Definition of Done. However, it frames these within Scrum practices rather than explicitly positioning them as part of agentic engineering philosophy.",
+    "level": "Secondary"
   }
 }

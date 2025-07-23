@@ -2051,5 +2051,24 @@
     "reasoning": "The content focuses on feature flags in enabling continuous delivery—highlighting incremental release, feedback loops, and practical team processes (e.g., Azure DevOps). There are no direct mentions of OKRs, nor discussion of objectives or key results as a system. The closest alignment is in outcome-driven measurement (user feedback, telemetry), but terms, philosophy, and frameworks of OKRs are absent. Intent and audience are centered on practitioners and technical leads interested in DevOps or agile software delivery rather than strategic goal alignment or outcome measurement via OKRs. Overall, there is no substantive exploration or even a surface reference to Objective Key Results.",
     "reasoning_summary": "This content covers feature flags and continuous delivery with a technical implementation focus but does not reference or align with Objective Key Results. Discussion is unrelated to OKRs as a goal-setting or outcome-measurement system.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "YVrGU0oZmc0",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:02",
+    "ai_confidence": 57.17,
+    "ai_mentions": 1.0,
+    "ai_alignment": 6.4,
+    "ai_depth": 7.1,
+    "ai_intent": 7.6,
+    "ai_audience": 8.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content centers on feature flags as a method for safe, feedback-driven, incremental delivery, showcasing practices such as user telemetry, adaptive releases, and developer engagement. While concepts like continuous monitoring, user collaboration, and feedback-driven adaptation align with Agentic Engineering principles (e.g., decentralizing decision-making, enabling adaptation based on evidence), there is no explicit mention or direct framing of maximizing human/AI agency. The discussion provides fair depth on telemetry, user feedback, and dev-team learning cycles but focuses more on a practical delivery method than on engineering philosophy or ethical agency. Overall, the piece is relevant and aligned, especially with systemic observability and continuous value delivery topics, but lacks explicit reference to the agentic paradigm.",
+    "reasoning_summary": "This content describes feature flags as enablers of incremental delivery, continuous adaptation, and user feedback loops. While deeply aligned with observability and adaptive engineering, it doesn't directly discuss agentic principles or the maximization of human/AI agency at a philosophical level. Relevant, but not central to the category.",
+    "level": "Tertiary"
   }
 }

@@ -1973,5 +1973,24 @@
     "reasoning": "The content centers on modern source control, DevOps practices, and team collaboration focused solely on human teams and technical tools. It discusses best (and 'good') practices for software delivery, automation, testing, and tooling like VSTS, but there is no meaningful exploration of human-AI collaboration, distributed cognition between humans and AI agents, or emergence of collective intelligence as defined. Audience and relevance for practitioners are moderate, but almost all examples, advice, and scenarios explicitly exclude AI agency or partnership. The only applicable overlap is generic references to 'team collaboration', which is not in the human-AI sense, offering a faint conceptual connection but not in substance. Therefore, the scores are low for direct mentions, conceptual alignment, depth, and overall intent.",
     "reasoning_summary": "The content focuses on human team collaboration, modern source control, and DevOps best practices without addressing human-AI collaboration or collective intelligence as defined in the category. It does not fit the category beyond very tangential and generic references to collaboration.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:27",
+    "ai_confidence": 56.68,
+    "ai_mentions": 2.1,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.2,
+    "ai_intent": 7.6,
+    "ai_audience": 7.9,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content does not explicitly mention 'Agentic Engineering.' However, there is substantial conceptual overlap: the focus on developer autonomy, role of DevOps, automation, feedback cycles, and integration of telemetry align with agentic principles. Systemic observability is referenced, as are feedback-driven workflows and team empowerment. The depth covers tooling as enabler of best practice, though it's centered on adoption and practicalities rather than a philosophical treatment of agency. Ethical AI integration and decentralized decision frameworks are lacking. The main audience (software practitioners, DevOps teams, technical coaches) aligns well. Some tangential references to tools/platforms (e.g., VSTS) but the value of agency and empowerment remains a through-line; the signal-to-noise ratio is strong. There are no outdated or contradictory elements justifying penalty.",
+    "reasoning_summary": "This content aligns well with Agentic Engineering by advocating developer autonomy, feedback-driven practices, and the holistic integration of DevOps and automation. While lacking direct mentions and deep philosophical framing, its emphasis on empowerment, observability, and adaptive workflows signals moderate-to-high relevance.",
+    "level": "Tertiary"
   }
 }

@@ -3323,5 +3323,24 @@
     "reasoning": "Direct mentions of troubleshooting or synonymous concepts are almost entirely absent in the content, which focuses deeply on OKR frameworks, roles, principles, and best practices for outcome-oriented alignment in organisations. The conceptual alignment with troubleshooting is very weak: while the content does describe cycles of review, retrospectives, and blockers in check-ins (which touch on the identification and addressing of issues), this is always in the context of goal setting, not technical problem-solving. The discussion depth is substantial but directed toward planning, alignment, and collaborative improvement, not diagnosing or resolving software/hardware/system failures. The main intent, audience, and content focus are strategy and organisational effectiveness, so the match with troubleshooting’s purpose and audience is very marginal. No penalties are applied as the material is current and not critical or satirical.",
     "reasoning_summary": "This content is a comprehensive guide to OKRs, focusing on alignment, organisational outcomes, and best practices, with only minor indirect references to problem identification in a goal-setting context. It is not aligned with technical troubleshooting.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "KcistbuSUsg",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:09",
+    "ai_confidence": 28.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.6,
+    "ai_intent": 2.7,
+    "ai_audience": 7.1,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content is a comprehensive OKR guide with a strong focus on outcome alignment, feedback loops, decentralised decision-making, and adaptive learning—traits conceptually adjacent to Agentic Engineering. However, it does not explicitly discuss or develop the core principles of maximising human and AI agency, DevOps culture, or agentic systems design. There are modest overlaps on topics like decentralisation, fast feedback, and adaptive practices, but the explicit focus is on social and organisational OKR discipline, not engineering practice or technical system autonomy. No direct mentions of Agentic Engineering or discussion of human/AI agency in system design were found. The audience is organizational and practitioner, with high relevance for technical leaders but not tailored to the specific Agentic Engineering community.",
+    "reasoning_summary": "This OKR guide centers on organizational alignment, measurable contribution, and adaptive learning—concepts somewhat related to Agentic Engineering—but it doesn't address agency maximization or technical systems design. Its alignment with Agentic Engineering is incidental rather than deliberate or in-depth.",
+    "level": "Ignored"
   }
 }

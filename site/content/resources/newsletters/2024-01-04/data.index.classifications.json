@@ -1965,5 +1965,24 @@
     "reasoning": "The content is a promotional newsletter for Scrum and Agile training, focusing on skills, roles, courses, and discounts. Nowhere does it mention OKRs, Objective Key Results, or their concepts. While the audience (Agile practitioners, leaders) could overlap with those interested in OKRs, the material is entirely absent of any discussion, definition, or implementation related to OKRs, their measurement philosophy, or alignment practices. No direct or indirect alignment with John Doerr's OKR framework is present. Continuous improvement is referenced generically and only as a facet of community learning—not as an outcome-driven process. The signal-to-noise ratio for OKR relevance is effectively zero; no meaningful exploration of outcome measurement or strategic alignment via OKRs is included.",
     "reasoning_summary": "This content is centered on promoting Scrum and Agile training courses and makes no reference—explicit or implied—to Objective Key Results or the OKR framework. It does not address the core concepts, practices, or strategic intent underlying OKRs in any way.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "Knb7n17SqYe",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:05:45",
+    "ai_confidence": 17.15,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 5.5,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is a marketing newsletter for Scrum/Agile training, with no direct references to Agentic Engineering or core conceptual framing. While it mentions themes like 'autonomy' and 'continuous improvement,' these are generic in Agile and not linked to the philosophical or systemic focus of Agentic Engineering (e.g., engineering practices that deliberately maximize agency, systemic observability, ethical AI integration). The primary focus is promoting commercial training, not exploring engineering practices or agency. Audience overlap exists (technical and practitioner), but the discussion lacks depth, direct topical fit, or mention of Agentic Engineering concepts.",
+    "reasoning_summary": "This is a sales promotion for Scrum training, not a discussion of Agentic Engineering. It doesn't explore or reference agency, engineering practices, or systemic principles central to the category, so confidence in classification is low.",
+    "level": "Ignored"
   }
 }

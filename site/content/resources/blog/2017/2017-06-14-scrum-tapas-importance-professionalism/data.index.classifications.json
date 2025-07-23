@@ -1930,5 +1930,24 @@
     "reasoning": "The content centers on professionalism within Scrum teams and the importance of engineering excellence, as well as addressing pitfalls of amateur practices. Nowhere does it reference, discuss, or even imply human-AI collaboration, complementary strengths of humans and AI, or team cognition involving AI agents. The discussion is purely about human teams, professionalism, and Scrum, with no connection to decision-making or socio-technical systems involving AI. It does reference team collaboration in a broad sense but excludes any mention of AI. Content is also slightly outdated (2017), thus a penalty is applied to each dimension for timeliness and misalignment. Given no substantive alignment and strong exclusion as per the strict instructions, the confidence that this content fits under 'Collective Intelligence' is very low.",
     "reasoning_summary": "The content focuses solely on professionalism in human Scrum teams, without any mention of AI or human-AI collaboration. There is no alignment with the definition of 'Collective Intelligence'; all dimensions are minimal and penalized for outdatedness.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "sdlfWR5wHx7",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:38",
+    "ai_confidence": 29.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.6,
+    "ai_intent": 4.2,
+    "ai_audience": 7.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "1 point deducted from intent due to outdated references (2017 date) and lack of any direct framing in terms of agency or agentic engineering.",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on the importance of professionalism and engineering excellence in Scrum teams, arguing against amateurism. While it valorizes engineering best practices, it doesn't explicitly address, reference, or strongly align with the concepts of agency, decentralised decision-making, or AI/human autonomy foundational to Agentic Engineering. Its main thrust is toward professional conduct and adherence to engineering rules, rather than the deliberate design of environments increasing agency. The audience (developers, Scrum practitioners) generally fits, but both the conceptual and depth dimensions score low due to a lack of specificity about agency and agentic frameworks. Additionally, references are somewhat outdated, justifying a penalty on intent.",
+    "reasoning_summary": "This content urges professionalism and engineering excellence for Scrum teams, but does not explore agentic concepts or agency, focusing instead on general best practices. Its relevance to Agentic Engineering is minimal and mostly indirect.",
+    "level": "Ignored"
   }
 }

@@ -2367,5 +2367,24 @@
     "reasoning": "The content focuses comprehensively on the distinction between 'Done' and 'Delivered' in Scrum, emphasizing delivery as the true measure of progress. There is strong discussion of practical mechanisms (e.g., CI/CD, feedback loops) and a clear link to outcome-based measurement. However, OKRs are not mentioned or explicitly discussed, and ideas such as Objectives, Key Results, stretch goals, or John Doerr's foundational principles/theories do not appear. Although outcome orientation and measurement are thematically parallel to OKRs, the content never roots itself in the OKR framework or lexicon and does not reference OKR structure, roles, or anti-patterns.",
     "reasoning_summary": "This content is focused on delivery metrics and value realization in Scrum, aligning with outcome-based measurement but not with OKRs specifically. There are no direct or structural references to Objectives, Key Results, or the OKR framework.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "jBIyK6NW3ZB",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:00",
+    "ai_confidence": 63.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.7,
+    "ai_intent": 7.9,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 63.0,
+    "reasoning": "There are no direct mentions of 'Agentic Engineering' or its phrasing, resulting in a low mentions score. However, the content strongly aligns conceptually: it champions autonomous delivery, developer empowerment (especially via removing silos and full-cycle automation), rapid feedback, and modern DevOps practices. It emphasizes continuous delivery as the definition of progress, infuses ethical engineering (minimizing manual risk, maximizing user impact), and repeatedly advocates for software teams' agency over their workflow and delivery pipelines. Discussion depth is solid but leans more toward specific Scrum and DevOps delivery mechanics rather than sustained meta-level treatment of agency as a philosophical construct. The primary intent matches promoting agentic practices in engineering, and the content clearly targets practitioners and technical leaders. The majority of details maintain focus on delivery, agency, and value outcomes, with little off-topic material.",
+    "reasoning_summary": "While the content lacks direct mention of Agentic Engineering, it embodies the concept by advocating developer agency, delivery-focused workflows, automation, and rapid feedback loops. Its alignment and thorough exploration of agentic themes within modern Scrum and DevOps contexts result in substantial category relevance.",
+    "level": "Secondary"
   }
 }

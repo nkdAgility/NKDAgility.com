@@ -1963,5 +1963,24 @@
     "reasoning": "The content does not explicitly mention Objective Key Results (OKRs) or any specific OKR-related terminology (mentions: 0.0). While it discusses the importance of goals, metrics, focusing on outcomes over outputs, and iterative inspection, these concepts are presented in a general Agile context, not connected specifically to OKRs (alignment: 2.4, depth: 2.2). The intent focuses on reducing judgment and fostering team growth, not on the design, implementation, or strategic role of OKRs (intent: 3.0). The audience partially overlaps with that of OKR discussions (practitioners, agile teams; audience: 6.5), and about half the content is relevant to outcome-based approaches (signal: 5.8). No explicit anti-patterns or outdated references are present, so no penalties are applied. Overall, the content only tangentially aligns with OKR principles but never references OKRs directly or in depth.",
     "reasoning_summary": "This content explores outcome-oriented metrics and team dynamics within Agile but never addresses OKRs or their specific framework. Its focus is on psychological safety and improvement in Agile teams, with no explicit reference or direct applicability to Objective Key Results.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:11",
+    "ai_confidence": 47.08,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.4,
+    "ai_intent": 5.9,
+    "ai_audience": 6.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content centers on psychological safety and growth in Agile, critiquing harmful practices like judgment via metrics. Its focus on fostering autonomy, open dialogue, and iterating on metrics touches some Agentic Engineering elements (developer agency, feedback-driven adaptation), particularly in the encouragement of adaptability and team empowerment. However, it does not explicitly reference Agentic Engineering, DevOps-infused craft, AI autonomy, or systemic observability. Its main purpose is to address team culture and metrics misuse, not engineering practice design. Thus, while the audience and some concepts slightly overlap, the depth and alignment with Agentic Engineering are moderate and largely incidental.",
+    "reasoning_summary": "This piece highlights psychological safety, team autonomy, and metric adaptation in Agile, which partially overlaps with Agentic Engineering concepts on agency and feedback. However, it doesn't directly discuss engineering practice design or address core Agentic Engineering themes, making alignment moderate at best.",
+    "level": "Tertiary"
   }
 }

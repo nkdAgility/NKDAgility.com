@@ -2002,5 +2002,24 @@
     "reasoning": "The content provides guidance for identifying authentic agile practices in DoD software development projects. There is no explicit mention or substantive discussion of Objective Key Results (OKRs), John Doerr, or the core OKR framework. While there is surface-level reference to 'strategic goals' and outcome-focused questions, these do not meaningfully align with OKR principles, foundations, or implementation. Audience overlap exists (program executives, leadership) but the conceptual connection to OKRs is very weak and incidental. The signal-to-noise is moderate as the content stays on topic regarding agile authenticity, but nothing points directly to OKR systems or practices.",
     "reasoning_summary": "This content focuses on detecting genuine agile practices in DoD software development, not on Objective Key Results. While there’s vague conceptual overlap with outcome orientation and strategic goals, it doesn’t reference or explore OKRs. The fit with the OKR category is minimal and mostly incidental.",
     "level": "Ignored"
+  },
+  "Agentic Engineering": {
+    "resourceId": "Tt8SPr3xJER",
+    "category": "Agentic Engineering",
+    "calculated_at": "2025-07-23T12:06:02",
+    "ai_confidence": 53.86,
+    "ai_mentions": 0.4,
+    "ai_alignment": 6.8,
+    "ai_depth": 5.7,
+    "ai_intent": 5.2,
+    "ai_audience": 8.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "mentions (-0.6, no explicit reference to 'Agentic Engineering'); depth (-0.4, discussion limited to agile evaluation not agentic philosophical depth); intent (-0.7, purpose is to identify genuine agile, not to promote/maximise agency); alignment (-0.5, content overlaps with agency/autonomy but focuses on agile authenticity);",
+    "final_score": 54.0,
+    "reasoning": "The document focuses on distinguishing genuine agile practices from superficial implementations in DoD settings, emphasizing real user feedback, automation, and cross-functional collaboration. While it overlaps with Agentic Engineering concepts such as continuous value delivery, DevOps culture, and developer autonomy, it does not mention or frame these practices in the context of maximising human or AI agency. The intent is evaluative, targeting identification of agile authenticity rather than engineering for agency. Penalties were applied for missing explicit references, limited philosophical depth, and intent not directly tied to Agentic Engineering's definition.",
+    "reasoning_summary": "While the content demonstrates themes like developer autonomy, DevOps culture, and continuous adaptation, its primary focus is on identifying authentic agile—not the explicit design for maximising agency. Strong topical alignment but limited direct relevance to Agentic Engineering.",
+    "level": "Tertiary"
   }
 }
