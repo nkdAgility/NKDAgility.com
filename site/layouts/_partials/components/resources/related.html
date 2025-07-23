@@ -1,35 +1,3 @@
-{{/* Accepts dict with keys: Page, resourceType */}}
 {{ $page := .Page }}
-{{ $resourceType := .resourceType | default "blog" }}
+{{ $resourceTypes := (slice "blog" "videos" "signals" "guides", "courses") }}
 {{- $relatedData := partial "functions/get-related.html" .Page }}
-{{ if and $relatedData (gt (len $relatedData) 0) }}
-  {{ $relatedBlogs := where $relatedData "EntryType" $resourceType }}
-  {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
-    <h3>Related {{ $resourceType | title }} {{ if and $relatedData (gt (len $relatedData) 0) }}<i class="fa-regular fa-group-arrows-rotate"></i>{{ end }}</h3>
-    <ul>
-      {{ range first 5 $relatedBlogs }}
-        {{ $relatedPage := site.GetPage .Reference }}
-        {{ if $relatedPage }}
-          <li><a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a></li>
-        {{ else }}
-          <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
-        {{ end }}
-      {{ end }}
-    </ul>
-  {{ else }}
-    <p>No related {{ $resourceType }} found. X</p>
-  {{ end }}
-{{ else }}
-  {{ $related := $page.Site.RegularPages.Related $page }}
-  {{ $blogs := where $related ".Params.resourceType" $resourceType | first 5 }}
-  {{ with $blogs }}
-    <h3>Related {{ $resourceType | title }}</h3>
-    <ul>
-      {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-      {{ end }}
-    </ul>
-  {{ else }}
-    <p>No related {{ $resourceType | title }} found.</p>
-  {{ end }}
-{{ end }}
