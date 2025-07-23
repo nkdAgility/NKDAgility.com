@@ -1,7 +1,7 @@
 {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
 {{ $jsonData := $jsonFile | unmarshal }}
 {{ with .Params.tags }}
-  {{ if gt (len .Params.tags) 0 }}
+  {{ if gt (len .) 0 }}
     <div id="components-resources-tag-cloud" class="mb-5">
       <h5 class="small">Smart Classifications</h5>
       <p class="small">Each classification [Concepts, Categories, & Tags] was <a href="/resources/engineering-notes/how-i-used-generative-ai-to-transform-site-tagging-and-categories/">assigned using AI-powered semantic analysis</a> and scored across relevance, depth, and alignment. Final decisions? Still human. Always traceable. Hover to see how it applies.</p>
