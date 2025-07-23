@@ -9,7 +9,7 @@
       <h5>What to read next?</h5>
       <p>Generated via dense vector embeddings and cosine similarity, not clickbait heuristics. These are the closest semantic matches to this post; AI-approved, relevance-assured. <a href="/resources/engineering-notes/leveraging-ai-embeddings-for-related-content-classification/">Learn how it works</a>.</p>
 
-      {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources) }}
+      {{- partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedResources "includeMeta" false) }}
     </div>
   {{ end }}
   {{- $relatedCourses := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "program") }}
@@ -18,7 +18,7 @@
     <div class="pt-5">
       <h5>Courses that align</h5>
       <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
-      {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses) }}
+      {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses "includeMeta" false) }}
     </div>
   {{ end }}
 </div>

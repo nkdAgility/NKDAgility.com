@@ -1,6 +1,7 @@
 {{ $resources := .resources }}
 {{ $page := .context }}
 {{ $now := now }}
+{{ $includeMeta := .includeMeta | default true }}
 <section class="row g-4" aria-label="Resource articles">
   {{ range $resources }}
     {{ $isFuture := (.Date.After $now) }}
@@ -32,7 +33,7 @@
               </a>
             </h3>
           </header>
-          <p class="card-text flex-grow-1" id="desc-{{ .Params.ResourceId }}" itemprop="description" title="{{ .Description | default .Summary }}">
+          <p class="card-text flex-grow-1" id="desc-{{ .Params.ResourceId }}" itemprop="description" {{ if $includeMeta }}title="{{ .Description | default .Summary }}"{{ end }}>
             {{ $truncatedDescription }}
           </p>
           <footer class="d-flex justify-content-between align-items-end mt-auto">
@@ -58,25 +59,27 @@
             <span class="visually-hidden">Read more about {{ .Title }}</span>
           </footer>
         </div>
-        {{ with .Params.author }}
-          {{ if (reflect.IsSlice .) }}
-            {{ range . }}
+        {{ if $includeMeta }}
+          {{ with .Params.author }}
+            {{ if (reflect.IsSlice .) }}
+              {{ range . }}
+                <meta itemprop="author" content="{{ . }}" />
+              {{ end }}
+            {{ else }}
               <meta itemprop="author" content="{{ . }}" />
             {{ end }}
-          {{ else }}
-            <meta itemprop="author" content="{{ . }}" />
           {{ end }}
-        {{ end }}
-        {{ with .Params.tags }}
-          {{ range . }}
-            <meta itemprop="keywords" content="{{ . }}" />
+          {{ with .Params.tags }}
+            {{ range . }}
+              <meta itemprop="keywords" content="{{ . }}" />
+            {{ end }}
           {{ end }}
-        {{ end }}
-        {{ with .Params.preview_image }}
-          <meta itemprop="image" content="{{ . | absURL }}" />
-        {{ end }}
-        {{ with .Params.featured_image }}
-          <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ with .Params.preview_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
+          {{ with .Params.featured_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
         {{ end }}
       </article>
     </div>
