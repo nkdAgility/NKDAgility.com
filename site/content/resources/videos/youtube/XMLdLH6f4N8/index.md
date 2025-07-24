@@ -1,12 +1,26 @@
 ---
+title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolutionise Your Team's Dynamics"
 short_title: Transforming Chaos into Collaboration
 description: Explores how adopting a shared framework and structured communication can turn team chaos into collaboration, boosting trust, engagement, and continuous improvement.
 date: 2017-07-28T11:55:30Z
-ResourceId: XMLdLH6f4N8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: XMLdLH6f4N8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team's-dynamics
+aliases:
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
+- /resources/XMLdLH6f4N8
+aliasesArchive:
+- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
+- /resources/nkdagility-healthgrades-interview-katherine-maddox
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+- transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -14,29 +28,14 @@ tags:
 - Social Technologies
 - Organisational Culture
 - Organisational Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:16:30Z
   short_title: 2025-07-07T17:58:46Z
-title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolutionise Your Team's Dynamics"
 videoId: XMLdLH6f4N8
-source: youtube
 url: /resources/videos/:slug
-slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-layout: video
-aliases:
-- /resources/XMLdLH6f4N8
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-aliasesArchive:
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 resourceTypes:

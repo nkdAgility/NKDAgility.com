@@ -5,25 +5,19 @@ description: Learn key practices for adopting modern source control and DevOps, 
 date: 2017-11-10
 weight: 230
 ResourceId: bkiQSbbO78R
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: getting-started-with-a-modern-source-control-system-and-devops
 aliases:
 - /resources/bkiQSbbO78R
-ResourceContentOrigin: Human
-ResourceImportId: 11456
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
+layout: blog
 concepts:
 - Tool
 categories:
@@ -36,6 +30,10 @@ tags:
 - Engineering Practices
 - Modern Source Control
 - Pragmatic Thinking
+ResourceImportId: 11456
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: excellence-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:25Z

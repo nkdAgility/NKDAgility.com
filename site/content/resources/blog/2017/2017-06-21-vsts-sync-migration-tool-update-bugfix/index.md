@@ -5,29 +5,27 @@ description: VSTS Sync Migration Tool adds new features and bug fixes for bulk w
 date: 2017-06-21
 weight: 1000
 ResourceId: QO9MQIxxcoy
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: vsts-sync-migration-tool-update-and-bugfix
 aliases:
 - /resources/QO9MQIxxcoy
-ResourceContentOrigin: Human
-ResourceImportId: 11944
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
+layout: blog
 concepts:
 - Tool
 categories:
 - Uncategorized
 tags: []
+ResourceImportId: 11944
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:35Z

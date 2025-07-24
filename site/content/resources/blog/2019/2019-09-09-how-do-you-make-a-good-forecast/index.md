@@ -5,24 +5,19 @@ description: Explains how to create reliable forecasts in agile projects by usin
 date: 2019-09-09
 weight: 540
 ResourceId: fm9Rt6R7JZz
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: how-do-you-make-a-good-forecast
 aliases:
 - /resources/fm9Rt6R7JZz
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39852
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -34,6 +29,9 @@ tags:
 - Throughput
 - Forecasting
 - Metrics and Learning
+ResourceImportId: 39852
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: 993957510-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:12Z

@@ -5,28 +5,26 @@ description: Explains how Scrum and Continuous Delivery work together, highlight
 date: 2017-06-28
 weight: 1000
 ResourceId: LoRDIqNuwD-
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: scrum-tapas-scrum-and-continuous-delivery
 aliases:
 - /resources/LoRDIqNuwD-
-ResourceContentOrigin: Human
-ResourceImportId: 11946
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceImportId: 11946
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:33Z

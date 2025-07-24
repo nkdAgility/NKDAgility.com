@@ -4,6 +4,21 @@ short_title: Hiring a Professional Product Owner
 description: Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.
 date: 2021-05-17
 weight: 750
+contributors:
+- name: Fredrik Wendt
+  external: https://www.scrum.org/fredrik-wendt
+- name: Ralph Jocham
+  external: https://www.scrum.org/ralph-jocham
+- name: Andy Hiles
+  external: https://www.scrum.org/andy-hiles
+- name: Maarten Dalmijn
+  external: https://www.linkedin.com/in/maarten-dalmijn/
+- name: Jim Sammons
+  external: https://www.scrum.org/jim-sammons
+- name: Victoria Pent
+  external: https://www.linkedin.com/in/victoria-pent-627a6b61/
+- name: James Powis
+  external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 ResourceId: Stln5As7Fof
 ResourceImport: false
 ResourceType: blog
@@ -37,21 +52,6 @@ tags:
 ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Fredrik Wendt
-  external: https://www.scrum.org/fredrik-wendt
-- name: Ralph Jocham
-  external: https://www.scrum.org/ralph-jocham
-- name: Andy Hiles
-  external: https://www.scrum.org/andy-hiles
-- name: Maarten Dalmijn
-  external: https://www.linkedin.com/in/maarten-dalmijn/
-- name: Jim Sammons
-  external: https://www.scrum.org/jim-sammons
-- name: Victoria Pent
-  external: https://www.linkedin.com/in/victoria-pent-627a6b61/
-- name: James Powis
-  external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 resourceTypes: blog
 preview: image-3-3.png
 Watermarks:

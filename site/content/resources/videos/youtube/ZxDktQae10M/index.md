@@ -1,13 +1,25 @@
 ---
+title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 short_title: VSTS Sync Migration Tools for TFS to VSTS
 description: Learn how to use VSTS sync migration tools for flexible, selective TFS to VSTS migrations, including setup, configuration, field mapping, and community support.
 date: 2017-12-30T18:57:40Z
-ResourceId: ZxDktQae10M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: ZxDktQae10M
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+aliases:
+- /resources/ZxDktQae10M
+aliasesArchive:
+- /resources/videos/-vsts-sync-migration-tools-overview
+- /resources/videos/2018-vsts-sync-migration-tools-overview
+- /resources/2018-vsts-sync-migration-tools-overview
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+source: youtube
+layout: video
 concepts:
 - Tool
 categories:
@@ -21,22 +33,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:23Z
   short_title: 2025-07-07T17:58:39Z
-title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 videoId: ZxDktQae10M
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-layout: video
-aliases:
-- /resources/ZxDktQae10M
-- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-aliasesArchive:
-- /resources/videos/-vsts-sync-migration-tools-overview
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
-- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 resourceTypes:

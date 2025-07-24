@@ -5,24 +5,19 @@ description: Explores the Ghana Police Service’s shift to a modern, profession
 date: 2017-09-04
 weight: 480
 ResourceId: yv8bhGf1MfF
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: professional-organisational-change-at-the-ghana-police-service
 aliases:
 - /resources/yv8bhGf1MfF
-ResourceContentOrigin: Human
-ResourceImportId: 12011
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-ghana-police-service
 - /professional-organisational-change-at-the-ghana-police-service
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service
+layout: blog
 concepts:
 - Framework
 categories:
@@ -39,6 +34,9 @@ tags:
 - Digital Transformation
 - Organisational Culture
 - Organisational Physics
+ResourceImportId: 12011
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:28Z

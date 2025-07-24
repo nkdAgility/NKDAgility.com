@@ -5,24 +5,19 @@ description: Learn how Kanban practices can be integrated into Professional Scru
 date: 2018-02-26
 weight: 580
 ResourceId: CucU7DN-fJ7
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: introducing-kanban-for-professional-scrum-teams
 aliases:
 - /resources/CucU7DN-fJ7
-ResourceContentOrigin: Hybrid
-ResourceImportId: 38334
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/introducing-kanban-professional-scrum-teams
 - /introducing-kanban-professional-scrum-teams
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
+layout: blog
 concepts:
 - Method
 categories:
@@ -31,6 +26,9 @@ tags:
 - Software Development
 - Agile Frameworks
 - Operational Practices
+ResourceImportId: 38334
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 Watermarks:
   description: 2025-05-07T13:16:18Z

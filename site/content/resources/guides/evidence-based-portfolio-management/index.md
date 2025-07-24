@@ -4,6 +4,8 @@ short_title: Evidence-Based Portfolio Management
 description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
 date: 2020-03-01
 weight: 1000
+author:
+- Scrum.org
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
@@ -20,8 +22,6 @@ categories:
 - Uncategorized
 tags:
 - Business Agility
-author:
-- Scrum.org
 resourceTypes: guide
 creator: Martin Hinshelwood
 card:

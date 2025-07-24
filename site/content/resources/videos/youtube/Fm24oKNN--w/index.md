@@ -1,13 +1,24 @@
 ---
+title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
 short_title: Real-World Scrum Training at Great Calm
 description: Explores how practical, real-world Scrum training at Great Calm improved team collaboration, alignment, and continuous improvement across the organisation.
 date: 2017-07-27T18:16:30Z
-ResourceId: Fm24oKNN--w
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
+ResourceId: Fm24oKNN--w
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+aliases:
+- /resources/Fm24oKNN--w
+aliasesArchive:
+- /resources/videos/nkdagility-healthgrades-interview-cjsingh
+- /resources/nkdagility-healthgrades-interview-cjsingh
+- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+- transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+source: youtube
+layout: video
 concepts: []
 categories:
 - Technical Leadership
@@ -28,21 +39,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:32Z
   short_title: 2025-07-07T17:58:47Z
-title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
 videoId: Fm24oKNN--w
-source: youtube
 url: /resources/videos/:slug
-slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
-layout: video
-aliases:
-- /resources/Fm24oKNN--w
-- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
-- /resources/videos/nkdagility-healthgrades-interview-cjsingh
-aliasesArchive:
-- /resources/videos/nkdagility-healthgrades-interview-cjsingh
-- /resources/nkdagility-healthgrades-interview-cjsingh
-- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
-- transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 resourceTypes:

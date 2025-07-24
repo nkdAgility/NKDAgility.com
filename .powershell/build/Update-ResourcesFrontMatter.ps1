@@ -357,6 +357,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'categories'
     $list += 'tags'
     $list += 'platform_signals'
+    $list += 'card'
     $missingFromOrder += Update-FieldPositions -data $hugoMarkdown.FrontMatter -orderedkeys $list
     $missingFromOrder = $missingFromOrder | Sort-Object -Unique
 
@@ -386,7 +387,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 #Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed." 
 Write-DebugLog "-------Missing Fields---------------------------------"
-Write-DebugLog $missingFromOrder
+Write-DebugLog ($missingFromOrder -join ', ')
 Write-DebugLog "-------------------------------------------------"
 
 # Save the yearly aggregated content files per ResourceType

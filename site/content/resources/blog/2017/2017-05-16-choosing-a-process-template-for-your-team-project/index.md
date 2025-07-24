@@ -5,22 +5,17 @@ description: Guidance on selecting the best process template for team projects i
 date: 2017-05-16
 weight: 590
 ResourceId: dGSGEOYRJAo
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: choosing-a-process-template-for-your-team-project
 aliases:
 - /resources/dGSGEOYRJAo
-ResourceContentOrigin: Human
-ResourceImportId: 10356
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/choosing-a-process-template-for-your-team-project
 - /choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
+layout: blog
 concepts:
 - Framework
 categories:
@@ -30,6 +25,9 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
+ResourceImportId: 10356
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: IC749984-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:38Z
