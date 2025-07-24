@@ -37,6 +37,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
+    Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'title' -addAfter ''
     #=================description=================
 
     # if ( -not $hugoMarkdown.FrontMatter.abstract -or $hugoMarkdown.FrontMatter.abstract -match "no specific details provided") {

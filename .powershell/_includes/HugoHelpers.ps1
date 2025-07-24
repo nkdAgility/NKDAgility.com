@@ -87,8 +87,8 @@ function Update-FieldPosition {
         [System.Collections.Specialized.OrderedDictionary]$data,
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
-        [string]$addAfter = $null,
-        [string]$addBefore = $null
+        $addAfter = $null,
+        $addBefore = $null
     )
 
     if (-not $data.Contains($fieldName)) {
@@ -102,6 +102,13 @@ function Update-FieldPosition {
     $updatedDict = [ordered]@{}
     $inserted = $false
 
+    # Handle empty string for $addAfter - position at beginning
+    if ($addAfter -eq "") {
+        $updatedDict[$fieldName] = $value
+        $inserted = $true
+        Write-Debug "$fieldName repositioned at beginning"
+    }
+
     foreach ($key in $data.Keys) {
         if ($addBefore -and $key -eq $addBefore -and -not $inserted) {
             $updatedDict[$fieldName] = $value
@@ -111,7 +118,7 @@ function Update-FieldPosition {
 
         $updatedDict[$key] = $data[$key]
 
-        if ($addAfter -and $key -eq $addAfter -and -not $inserted) {
+        if ($addAfter -and $addAfter -ne "" -and $key -eq $addAfter -and -not $inserted) {
             $updatedDict[$fieldName] = $value
             $inserted = $true
             Write-Debug "$fieldName repositioned after $addAfter"
@@ -139,8 +146,8 @@ function Update-Field {
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
         [object]$fieldValue,
-        [string]$addAfter = $null,
-        [string]$addBefore = $null,
+        $addAfter = $null,
+        $addBefore = $null,
         [switch]$Overwrite
     )
 
@@ -192,8 +199,8 @@ function Update-HashtableList {
         [Parameter(Mandatory = $true)]
         [AllowEmptyCollection()]
         [hashtable[]]$values, # Accepts only an array of hashtables
-        [string]$addAfter = $null,
-        [string]$addBefore = $null,
+        $addAfter = $null,
+        $addBefore = $null,
         [switch]$Overwrite
     )
 
@@ -282,8 +289,8 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [AllowEmptyCollection()]
         [string[]]$values,
-        [string]$addAfter = $null,
-        [string]$addBefore = $null,
+        $addAfter = $null,
+        $addBefore = $null,
         [switch]$Overwrite
     )
 
