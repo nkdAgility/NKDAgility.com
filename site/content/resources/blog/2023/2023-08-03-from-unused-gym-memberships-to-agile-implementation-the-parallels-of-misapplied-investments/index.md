@@ -5,10 +5,9 @@ description: Explores how superficial adoption of agile in software development 
 date: 2023-08-03
 weight: 355
 ResourceId: mzVDd2JFtHO
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -19,17 +18,16 @@ aliasesArchive:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+layout: blog
 concepts: []
 categories:
 - Product Development
 tags:
 - Software Development
 - Agile Philosophy
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49507
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 Watermarks:

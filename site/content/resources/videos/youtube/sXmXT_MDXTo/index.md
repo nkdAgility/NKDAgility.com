@@ -1,33 +1,15 @@
 ---
+title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
 short_title: 'DevOps: Tailored Strategies for Performance'
 description: Learn how tailored DevOps strategies help organisations assess current practices, streamline processes, ensure compliance, and boost software quality and delivery frequency.
 date: 2024-08-16T07:18:10Z
-ResourceId: sXmXT_MDXTo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 300
-concepts: []
-categories:
-- DevOps
-- Engineering Excellence
-tags:
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
+ResourceId: sXmXT_MDXTo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:06Z
-  short_title: 2025-07-07T17:48:32Z
-title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
-videoId: sXmXT_MDXTo
-source: internal
-url: /resources/videos/:slug
-slug: devops-elevating-your-organizations-performance-through-bespoke-solutions
-layout: video
+ResourceImportSource: Youtube
+slug: devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliases:
 - /resources/sXmXT_MDXTo
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
@@ -39,6 +21,24 @@ aliasesArchive:
 - /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 - devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/devops-elevating-your-organization-s-performance-through-bespoke-solutions
+source: internal
+layout: video
+concepts: []
+categories:
+- DevOps
+- Engineering Excellence
+tags:
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:06Z
+  short_title: 2025-07-07T17:48:32Z
+videoId: sXmXT_MDXTo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
 duration: 584
 resourceTypes:

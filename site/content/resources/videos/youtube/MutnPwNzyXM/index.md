@@ -1,32 +1,15 @@
 ---
+title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 short_title: Rethinking the Statement of Work
 description: Explores why focusing solely on contracts can miss client needs, and how flexible, value-driven consulting builds stronger relationships and delivers lasting results.
 date: 2023-06-22T07:00:15Z
-ResourceId: MutnPwNzyXM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Customer Focus
-- Pragmatic Thinking
-- Personal
+ResourceId: MutnPwNzyXM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:22Z
-  short_title: 2025-07-07T17:54:26Z
-title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
-videoId: MutnPwNzyXM
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-layout: video
 aliases:
 - /resources/MutnPwNzyXM
 - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
@@ -36,6 +19,23 @@ aliasesArchive:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Customer Focus
+- Pragmatic Thinking
+- Personal
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:22Z
+  short_title: 2025-07-07T17:54:26Z
+videoId: MutnPwNzyXM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 resourceTypes:

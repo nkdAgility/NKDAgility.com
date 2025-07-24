@@ -1,12 +1,27 @@
 ---
+title: Mastering Evidence-Based Management for Agile Success
 short_title: Evidence-Based Management in Agile
 description: Learn how Evidence-Based Management uses data to guide Agile teams, improve decision-making, track value, and boost innovation, customer satisfaction, and time to market.
 date: 2024-10-02T13:17:24Z
-ResourceId: S0h_7ayLpsE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 360
+ResourceId: S0h_7ayLpsE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-evidence-based-management-for-agile-success
+aliases:
+- /resources/S0h_7ayLpsE
+- /resources/videos/mastering-evidence-based-management-for-agile-success
+- /resources/videos/evidence-based-management-gathering-and-analyzing-data
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-for-agile-success
+- /resources/mastering-evidence-based-management-for-agile-success
+- /resources/videos/evidence-based-management-gathering-and-analyzing-data
+- /resources/evidence-based-management-gathering-and-analyzing-data
+- mastering-evidence-based-management-for-agile-success
+source: internal
+layout: video
 concepts:
 - Tenet
 categories:
@@ -29,29 +44,14 @@ tags:
 - Value Delivery
 - Current Value
 - Unrealised Value
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:39Z
   short_title: 2025-07-07T17:47:53Z
-title: Mastering Evidence-Based Management for Agile Success
 videoId: S0h_7ayLpsE
-source: internal
 url: /resources/videos/:slug
-slug: mastering-evidence-based-management-for-agile-success
-layout: video
-aliases:
-- /resources/S0h_7ayLpsE
-- /resources/videos/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-aliasesArchive:
-- /resources/videos/mastering-evidence-based-management-for-agile-success
-- /resources/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-- /resources/evidence-based-management-gathering-and-analyzing-data
-- mastering-evidence-based-management-for-agile-success
 preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
 duration: 1714
 resourceTypes:

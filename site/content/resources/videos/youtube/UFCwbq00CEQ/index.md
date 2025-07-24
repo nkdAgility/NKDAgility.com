@@ -1,12 +1,27 @@
 ---
+title: 'Ditch the Agile Bandit Mentality: How to Prioritise Value Over Estimates for Team Success'
 short_title: Prioritising Value Over Estimates in Agile
 description: Explores why focusing on value delivery and psychological safety leads to better Agile team outcomes than fixating on estimates, output metrics, or blame culture.
 date: 2024-01-05T11:00:32Z
-ResourceId: UFCwbq00CEQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: UFCwbq00CEQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+aliases:
+- /resources/UFCwbq00CEQ
+- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
+- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+aliasesArchive:
+- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -26,29 +41,14 @@ tags:
 - Agile Leadership
 - Business Agility
 - Team Collaboration
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:36Z
   short_title: 2025-07-07T17:50:25Z
-title: 'Ditch the Agile Bandit Mentality: How to Prioritise Value Over Estimates for Team Success'
 videoId: UFCwbq00CEQ
-source: youtube
 url: /resources/videos/:slug
-slug: ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
-layout: video
-aliases:
-- /resources/UFCwbq00CEQ
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
-aliasesArchive:
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
-- ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 resourceTypes:

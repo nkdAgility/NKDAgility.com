@@ -1,12 +1,26 @@
 ---
+title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 short_title: Mastering Product Development Costs
 description: Learn how to track, manage, and optimise product development costs by empowering teams with financial awareness, key metrics, and continuous improvement for better outcomes.
 date: 2024-12-20T07:00:00Z
-ResourceId: UgFVn4Sp1rw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+ResourceId: UgFVn4Sp1rw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-product-development-costs-empower-your-team-for-financial-success
+aliases:
+- /resources/UgFVn4Sp1rw
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+aliasesArchive:
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+- /resources/measuring-and-monitoring-costs-for-continuous-improvement
+- mastering-product-development-costs-empower-your-team-for-financial-success
+source: youtube
+layout: video
 concepts:
 - Strategy
 categories:
@@ -17,28 +31,14 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:36Z
   short_title: 2025-07-07T17:47:05Z
-title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 videoId: UgFVn4Sp1rw
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-product-development-costs-empower-your-team-for-financial-success
-layout: video
-aliases:
-- /resources/UgFVn4Sp1rw
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-aliasesArchive:
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-- /resources/measuring-and-monitoring-costs-for-continuous-improvement
-- mastering-product-development-costs-empower-your-team-for-financial-success
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 resourceTypes:

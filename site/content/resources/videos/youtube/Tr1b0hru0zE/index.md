@@ -1,12 +1,26 @@
 ---
+title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over'
 short_title: DevOps for Modernising Legacy Systems
 description: Unlock legacy system agility—discover how DevOps transforms slow, brittle tech into fast, scalable, and change-ready platforms without starting from scratch.
 date: 2025-06-02T06:00:00Z
-ResourceId: Tr1b0hru0zE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 190
+ResourceId: Tr1b0hru0zE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: ai
+ResourceImportSource: Youtube
+slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+aliases:
+- /resources/Tr1b0hru0zE
+- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
+aliasesArchive:
+- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
+- 9-the-role-of-devops-in-legacy-system-modernization
+- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+- devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+source: youtube
+layout: video
 concepts:
 - Practice
 categories:
@@ -24,30 +38,16 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T20:13:52Z
-  short_title: 2025-07-07T16:43:47Z
-title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over'
 videoId: Tr1b0hru0zE
-source: youtube
 url: /resources/videos/:slug
-slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
-layout: video
-aliases:
-- /resources/Tr1b0hru0zE
-- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
-- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
-aliasesArchive:
-- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
-- 9-the-role-of-devops-in-legacy-system-modernization
-- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
-- devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 preview: https://i9.ytimg.com/vi/Tr1b0hru0zE/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLAVn8ga5Jcn-LD4KMP6U1PeYvlUiQ
 duration: 85
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T20:13:52Z
+  short_title: 2025-07-07T16:43:47Z
 
 ---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence—but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.

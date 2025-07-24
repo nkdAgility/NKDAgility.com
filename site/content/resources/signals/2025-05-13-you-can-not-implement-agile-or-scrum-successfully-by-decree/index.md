@@ -7,26 +7,12 @@ weight: 345
 ResourceId: es3rfygczrI
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: you-can-not-implement-agile-or-scrum-successfully-by-decree
 aliases:
 - /resources/es3rfygczrI
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328079267450298371
-  post_id: "7328079267450298371"
-  post_date: 2025-05-13T14:30:47Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:47Z
-  short_title: 2025-07-07T16:44:15Z
+layout: signal
 concepts:
 - Ethos
 categories:
@@ -49,6 +35,20 @@ tags:
 - Transparency
 - Organisational Agility
 - Change Management
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328079267450298371
+  post_id: "7328079267450298371"
+  post_date: 2025-05-13T14:30:47Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:47Z
+  short_title: 2025-07-07T16:44:15Z
 
 ---
 You can't implement Agile or Scrum successfully by decree.

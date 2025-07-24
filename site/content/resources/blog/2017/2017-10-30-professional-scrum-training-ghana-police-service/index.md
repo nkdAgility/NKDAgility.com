@@ -5,24 +5,19 @@ description: Professional Scrum training introduced Ghana Police officers to Agi
 date: 2017-10-30
 weight: 480
 ResourceId: ozXMaDX0lvp
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: professional-scrum-training-for-the-ghana-police-service
 aliases:
 - /resources/ozXMaDX0lvp
-ResourceContentOrigin: Human
-ResourceImportId: 12095
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/professional-scrum-training-ghana-police-service
 - /professional-scrum-training-ghana-police-service
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
+layout: blog
 concepts:
 - Framework
 categories:
@@ -34,6 +29,9 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Transformation
+ResourceImportId: 12095
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: clip_image006_thumb-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:27Z

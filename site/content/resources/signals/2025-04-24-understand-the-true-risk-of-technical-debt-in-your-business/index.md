@@ -7,12 +7,17 @@ weight: 240
 ResourceId: SLaqpu5BHH8
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: understand-the-true-risk-of-technical-debt-in-your-business
 aliases:
 - /resources/SLaqpu5BHH8
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Technical Debt
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7321193906157637635
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:15Z
   short_title: 2025-07-07T16:44:41Z
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Technical Debt
 
 ---
 If your business truly understood the risk of technical debt, you wouldn’t accept any of it.

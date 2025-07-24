@@ -1,12 +1,26 @@
 ---
+title: 'NKD Agility: Your partner in developing engineering excellence'
 short_title: Engineering Excellence with NKD Agility
 description: Learn how NKD Agility supports organisations in building engineering excellence through modern practices like performance engineering, testing in production, and leadership.
 date: 2024-11-23T07:00:12Z
-ResourceId: DSIXtHZTirA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 205
+ResourceId: DSIXtHZTirA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: nkd-agility-your-partner-in-developing-engineering-excellence
+aliases:
+- /resources/DSIXtHZTirA
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/performance-engineering-for-optimal-user-experience
+aliasesArchive:
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/performance-engineering-for-optimal-user-experience
+- /resources/performance-engineering-for-optimal-user-experience
+- nkd-agility-your-partner-in-developing-engineering-excellence
+source: internal
+layout: video
 concepts: []
 categories:
 - Engineering Excellence
@@ -17,28 +31,14 @@ tags:
 - Shift Left Strategy
 - Technical Mastery
 - Technical Excellence
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:06Z
   short_title: 2025-07-07T17:47:28Z
-title: 'NKD Agility: Your partner in developing engineering excellence'
 videoId: DSIXtHZTirA
-source: internal
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-developing-engineering-excellence
-layout: video
-aliases:
-- /resources/DSIXtHZTirA
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/performance-engineering-for-optimal-user-experience
-aliasesArchive:
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/performance-engineering-for-optimal-user-experience
-- /resources/performance-engineering-for-optimal-user-experience
-- nkd-agility-your-partner-in-developing-engineering-excellence
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 resourceTypes:

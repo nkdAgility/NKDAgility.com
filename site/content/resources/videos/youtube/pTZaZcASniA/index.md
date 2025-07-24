@@ -1,29 +1,15 @@
 ---
+title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Success'
 short_title: Legacy System Modernisation Strategies
 description: Explore practical strategies for overcoming legacy system challenges, addressing technical debt, compliance, integration, and guiding effective modernisation decisions.
 date: 2025-04-07T06:00:36Z
-ResourceId: pTZaZcASniA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: pTZaZcASniA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:15Z
-  short_title: 2025-07-07T16:45:01Z
-title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Success'
-videoId: pTZaZcASniA
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
-layout: video
 aliases:
 - /resources/pTZaZcASniA
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
@@ -38,11 +24,25 @@ aliasesArchive:
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 - navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+videoId: pTZaZcASniA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
 duration: 91
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T12:49:15Z
+  short_title: 2025-07-07T16:45:01Z
 
 ---
 Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of [technical debt]({{< ref "/tags/technical-debt" >}}) and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.

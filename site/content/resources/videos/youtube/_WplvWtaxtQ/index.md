@@ -1,12 +1,27 @@
 ---
+title: Why Every Scrum Master Needs an Immersive Training Experience
 short_title: Immersive Training for Scrum Masters
 description: Immersive training helps experienced Scrum Masters deepen practical skills, boost team effectiveness, and develop leadership through hands-on, real-world learning.
 date: 2023-11-21T07:00:21Z
-ResourceId: _WplvWtaxtQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
+ResourceId: _WplvWtaxtQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-every-scrum-master-needs-an-immersive-training-experience
+aliases:
+- /resources/_WplvWtaxtQ
+- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+aliasesArchive:
+- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- why-every-scrum-master-needs-an-immersive-training-experience
+source: internal
+layout: video
 concepts: []
 categories:
 - Technical Leadership
@@ -19,29 +34,14 @@ tags:
 - Professional Scrum
 - Team Performance
 - Agile Frameworks
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:41Z
   short_title: 2025-07-07T17:51:38Z
-title: Why Every Scrum Master Needs an Immersive Training Experience
 videoId: _WplvWtaxtQ
-source: internal
 url: /resources/videos/:slug
-slug: why-every-scrum-master-needs-an-immersive-training-experience
-layout: video
-aliases:
-- /resources/_WplvWtaxtQ
-- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
-- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
-aliasesArchive:
-- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
-- /resources/why-every-scrum-master-needs-an-immersive-training-experience
-- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
-- /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
-- why-every-scrum-master-needs-an-immersive-training-experience
 preview: https://i.ytimg.com/vi/_WplvWtaxtQ/maxresdefault.jpg
 duration: 130
 resourceTypes:

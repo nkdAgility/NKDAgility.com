@@ -7,15 +7,16 @@ weight: 705
 ResourceId: nTipEJck6ez
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: Hybrid
 slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
 aliases:
 - /resources/nTipEJck6ez
-layout: signal
-ResourceContentOrigin: Hybrid
-resourceTypes:
-- signal
 source: internal
-url: /resources/signals/:slug
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags: []
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
@@ -41,13 +42,12 @@ platform_signals:
     reactions: 86
     comments: 91
     reposts: 0
+resourceTypes:
+- signal
+url: /resources/signals/:slug
 Watermarks:
   description: 2025-05-07T13:02:52Z
   short_title: 2025-07-07T17:49:13Z
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 🚨 The majority of Scrum Masters are not fit for their position! 🚨

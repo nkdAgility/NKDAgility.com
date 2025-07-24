@@ -1,13 +1,25 @@
 ---
+title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
 short_title: Navigating Agile Learning in Uncertain Times
 description: Explores adapting agile learning to remote environments, emphasising flexibility, flow, gamification, and community support during uncertain times.
 date: 2020-04-01T16:26:05Z
-ResourceId: xaLNCbr9o3Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: xaLNCbr9o3Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+aliases:
+- /resources/xaLNCbr9o3Y
+aliasesArchive:
+- /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+- navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,22 +30,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:15:55Z
   short_title: 2025-07-07T17:58:15Z
-title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
 videoId: xaLNCbr9o3Y
-source: youtube
 url: /resources/videos/:slug
-slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
-layout: video
-aliases:
-- /resources/xaLNCbr9o3Y
-- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
-- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-aliasesArchive:
-- /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
-- navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 resourceTypes:

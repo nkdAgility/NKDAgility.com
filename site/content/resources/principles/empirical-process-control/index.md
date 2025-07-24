@@ -7,12 +7,14 @@ weight: 1000
 ResourceId: VBf7KL90jRm
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: empirical-process-control
 aliases:
 - /learn/agile-delivery-kit/first-principals/empirical-process-control/
 - /resources/VBf7KL90jRm
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/empirical-process-control/
+layout: principles
 concepts:
 - Principle
 categories:
@@ -20,11 +22,9 @@ categories:
 tags:
 - Empirical Process Control
 - Software Development
-ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
-layout: principles
 draft: true
 card:
   button:

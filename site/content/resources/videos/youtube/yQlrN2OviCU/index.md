@@ -1,35 +1,15 @@
 ---
+title: The Power of Peer Feedback in Immersive Learning
 short_title: Peer Feedback in Immersive Scrum Learning
 description: Explores how peer feedback in immersive Scrum and Agile training enhances learning, fosters real-world application, and supports continuous improvement for participants.
 date: 2024-02-07T07:00:27Z
-ResourceId: yQlrN2OviCU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Practice
-categories:
-- Product Development
-tags:
-- Continuous Learning
-- Pragmatic Thinking
-- Team Collaboration
-- Coaching
-- Team Performance
+ResourceId: yQlrN2OviCU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:56Z
-  short_title: 2025-07-07T17:49:53Z
-title: The Power of Peer Feedback in Immersive Learning
-videoId: yQlrN2OviCU
-source: internal
-url: /resources/videos/:slug
-slug: the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
-layout: video
+ResourceImportSource: Youtube
+slug: the-power-of-peer-feedback-in-immersive-learning
 aliases:
 - /resources/yQlrN2OviCU
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
@@ -41,6 +21,26 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+source: internal
+layout: video
+concepts:
+- Practice
+categories:
+- Product Development
+tags:
+- Continuous Learning
+- Pragmatic Thinking
+- Team Collaboration
+- Coaching
+- Team Performance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:56Z
+  short_title: 2025-07-07T17:49:53Z
+videoId: yQlrN2OviCU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47
 resourceTypes:

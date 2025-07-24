@@ -1,13 +1,25 @@
 ---
+title: Why is Lego a shit idea for a scrum trainer - Part 3
 short_title: Lego vs Minecraft for Realistic Scrum Training
 description: Explores why Lego may oversimplify Scrum training, contrasting it with Minecraft’s ability to reflect real-world complexity and collaboration in agile learning environments.
 date: 2023-10-05T07:00:04Z
-ResourceId: AJ8-c0l7oRQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: AJ8-c0l7oRQ
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+aliases:
+- /resources/AJ8-c0l7oRQ
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+aliasesArchive:
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,20 +30,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:09:01Z
   short_title: 2025-07-07T17:52:36Z
-title: Why is Lego a shit idea for a scrum trainer - Part 3
 videoId: AJ8-c0l7oRQ
-source: internal
 url: /resources/videos/:slug
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
-layout: video
-aliases:
-- /resources/AJ8-c0l7oRQ
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
-aliasesArchive:
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43
 resourceTypes:

@@ -1,12 +1,28 @@
 ---
+title: 'Stop Starting and Start Finishing: The Key to Team Success'
 short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
 date: 2024-01-31T14:26:11Z
-ResourceId: 8aIUldVDtGw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 440
+ResourceId: 8aIUldVDtGw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: stop-starting-and-start-finishing-the-key-to-team-success
+aliases:
+- /resources/8aIUldVDtGw
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing
+aliasesArchive:
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing!
+- /resources/stop-starting-and-start-finishing!
+- /resources/videos/stop-starting-and-start-finishing
+- stop-starting-and-start-finishing-the-key-to-team-success
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -26,30 +42,14 @@ tags:
 - Agile Product Management
 - Software Development
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z
-title: 'Stop Starting and Start Finishing: The Key to Team Success'
 videoId: 8aIUldVDtGw
-source: internal
 url: /resources/videos/:slug
-slug: stop-starting-and-start-finishing-the-key-to-team-success
-layout: video
-aliases:
-- /resources/8aIUldVDtGw
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing
-aliasesArchive:
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing!
-- /resources/stop-starting-and-start-finishing!
-- /resources/videos/stop-starting-and-start-finishing
-- stop-starting-and-start-finishing-the-key-to-team-success
 preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 resourceTypes:

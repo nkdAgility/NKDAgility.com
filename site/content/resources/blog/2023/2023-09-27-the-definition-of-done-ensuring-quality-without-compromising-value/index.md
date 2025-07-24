@@ -5,10 +5,9 @@ description: Explains how to maintain clear, measurable quality standards with t
 date: 2023-09-27
 weight: 610
 ResourceId: DcwDyX1ZGUP
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
@@ -23,6 +22,7 @@ aliasesArchive:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -35,11 +35,9 @@ tags:
 - Working Software
 - Professional Scrum
 - Transparency
-ResourceContentOrigin: Hybrid
 ResourceImportId: 50083
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 Watermarks:

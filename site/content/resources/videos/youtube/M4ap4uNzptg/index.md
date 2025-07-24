@@ -1,12 +1,29 @@
 ---
+title: 'Unlocking Agile’s Core: Questioning to Create Value'
 short_title: 'Unlocking Agile: Questioning to Create Value'
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 date: 2024-01-23T07:00:07Z
-ResourceId: M4ap4uNzptg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+ResourceId: M4ap4uNzptg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-agile-s-core-questioning-to-create-value
+aliases:
+- /resources/M4ap4uNzptg
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations
+aliasesArchive:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations!
+- /resources/agile-is-failing-organizations!
+- /resources/videos/agile-is-failing-organizations
+- unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -28,31 +45,14 @@ tags:
 - Software Development
 - Market Adaptability
 - Business Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:21Z
   short_title: 2025-07-07T17:50:12Z
-title: 'Unlocking Agile’s Core: Questioning to Create Value'
 videoId: M4ap4uNzptg
-source: internal
 url: /resources/videos/:slug
-slug: unlocking-agiles-core-questioning-to-create-value
-layout: video
-aliases:
-- /resources/M4ap4uNzptg
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations
-aliasesArchive:
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/agile-is-failing-organizations!
-- /resources/videos/agile-is-failing-organizations
-- unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 resourceTypes:

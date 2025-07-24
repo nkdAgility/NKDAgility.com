@@ -1,36 +1,15 @@
 ---
+title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 short_title: Understanding Product Discovery and Its Value
 description: Explains Product Discovery in product development, its role in setting strategy, uncovering opportunities, and aligning teams to build valuable, user-focused products.
 date: 2024-08-26T07:44:38Z
-ResourceId: Qzw3FSl6hy4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Strategy
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Discovery
-- Agile Product Management
-- Product Owner
-- Pragmatic Thinking
-- Product Strategy
+ResourceId: Qzw3FSl6hy4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:58:45Z
-  short_title: 2025-07-07T17:48:24Z
-title: 'Understanding Product Discovery: Why It Matters More Than Ever'
-videoId: Qzw3FSl6hy4
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: understanding-product-discovery-why-it-matters-more-than-ever
-layout: video
 aliases:
 - /resources/Qzw3FSl6hy4
 - /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
@@ -42,6 +21,27 @@ aliasesArchive:
 - /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 - /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-weve-always-developed-products
 - understanding-product-discovery-why-it-matters-more-than-ever
+source: internal
+layout: video
+concepts:
+- Strategy
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Discovery
+- Agile Product Management
+- Product Owner
+- Pragmatic Thinking
+- Product Strategy
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:58:45Z
+  short_title: 2025-07-07T17:48:24Z
+videoId: Qzw3FSl6hy4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
 duration: 711
 resourceTypes:

@@ -5,10 +5,9 @@ description: Defines the Product Goal as a clear, measurable objective in the Pr
 date: 2020-11-23
 weight: 1000
 ResourceId: sVDzuTFDLSJ
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -34,10 +34,8 @@ tags:
 - Product Delivery
 - Customer Focus
 - Product Backlog
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45086
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 Watermarks:

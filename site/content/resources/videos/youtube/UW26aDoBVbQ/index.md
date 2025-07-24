@@ -1,12 +1,27 @@
 ---
+title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Product Delivery'
 short_title: Product Ownership in Lean Product Delivery
 description: Explores how effective product ownership and lean delivery drive alignment, collaboration, adaptability, and continuous improvement in modern product development teams.
 date: 2023-09-28T09:01:38Z
-ResourceId: UW26aDoBVbQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: UW26aDoBVbQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+aliases:
+- /resources/UW26aDoBVbQ
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+aliasesArchive:
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
+- unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -18,29 +33,14 @@ tags:
 - Value Delivery
 - Lean Principles
 - Lean Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:13Z
   short_title: 2025-07-07T17:52:48Z
-title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Product Delivery'
 videoId: UW26aDoBVbQ
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
-layout: video
-aliases:
-- /resources/UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-aliasesArchive:
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
-- unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 resourceTypes:

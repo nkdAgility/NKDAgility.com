@@ -5,28 +5,26 @@ description: Agile in Africa 2016 brought together experts in Accra, Ghana to pr
 date: 2016-01-27
 weight: 1000
 ResourceId: YQ8HMmx0-kz
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: agile-in-africa-2016
 aliases:
 - /resources/YQ8HMmx0-kz
-ResourceContentOrigin: Human
-ResourceImportId: 11450
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/agile-africa-2016
 - /agile-africa-2016
 - /agile-in-africa-2016
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceImportId: 11450
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: clip_image001-1-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:50Z

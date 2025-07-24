@@ -5,18 +5,12 @@ description: Learn how to sync Windows special folders like Documents and Deskto
 date: 2016-02-10
 weight: 1000
 ResourceId: mKq16PgA7Ks
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: mapping-your-windows-special-folders-to-onedrive-for-business-ultimate-backup
 aliases:
 - /resources/mKq16PgA7Ks
-ResourceContentOrigin: Human
-ResourceImportId: 11430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup
@@ -24,11 +18,15 @@ aliasesArchive:
 - /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Windows
+ResourceImportId: 11430
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:48Z

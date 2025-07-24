@@ -1,12 +1,26 @@
 ---
+title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 short_title: Maximising Deployment Frequency for Faster Delivery
 description: Explores how increasing deployment frequency, stable environments, and fast feedback loops improve software delivery, reduce time to market, and align with business goals.
 date: 2025-01-22T14:16:54Z
-ResourceId: 1-jUmFcyiI8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 230
+ResourceId: 1-jUmFcyiI8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+aliases:
+- /resources/1-jUmFcyiI8
+- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
+aliasesArchive:
+- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
+- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
+- maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+source: youtube
+layout: video
 concepts: []
 categories:
 - Engineering Excellence
@@ -28,28 +42,14 @@ tags:
 - Continuous Delivery
 - Pragmatic Thinking
 - Working Software
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:56Z
   short_title: 2025-07-07T17:46:57Z
-title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 videoId: 1-jUmFcyiI8
-source: youtube
 url: /resources/videos/:slug
-slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-layout: video
-aliases:
-- /resources/1-jUmFcyiI8
-- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
-aliasesArchive:
-- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
-- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
-- maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 resourceTypes:

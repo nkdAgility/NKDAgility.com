@@ -5,10 +5,9 @@ description: Explores how rigid hierarchies in product backlogs can hinder agili
 date: 2023-08-17
 weight: 750
 ResourceId: PmLDnMEBzBQ
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliases:
 - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
@@ -23,6 +22,7 @@ aliasesArchive:
 - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -39,11 +39,9 @@ tags:
 - Product Owner
 - Agile Philosophy
 - Sensemaking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49515
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

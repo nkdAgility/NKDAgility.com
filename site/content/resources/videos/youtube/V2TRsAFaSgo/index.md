@@ -1,30 +1,15 @@
 ---
+title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
 short_title: Breaking Free from Vendor Lock-In
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
 date: 2025-05-19T06:00:00Z
-ResourceId: V2TRsAFaSgo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 435
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+ResourceId: V2TRsAFaSgo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T20:44:16Z
-  short_title: 2025-07-07T16:44:07Z
-title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
-videoId: V2TRsAFaSgo
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
-layout: video
 aliases:
 - /resources/V2TRsAFaSgo
 - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
@@ -35,11 +20,26 @@ aliasesArchive:
 - /resources/videos/7-breaking-vendor-lock-in.-how-to-regain-control-over-your-tech-stack
 - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 - breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+videoId: V2TRsAFaSgo
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/V2TRsAFaSgo/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB05ovsBHZnXeNh_vVF3uBe0tQCCA
 duration: 110
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T20:44:16Z
+  short_title: 2025-07-07T16:44:07Z
 
 ---
 Are legacy contracts keeping you stuck with the wrong vendors? If so, you’re certainly not alone. Vendor lock-in is a persistent, often invisible, barrier for organisations striving to modernise their systems of work. I see it time and again: outdated contracts, proprietary platforms, and deeply embedded dependencies that make it nearly impossible to shift direction. Instead of focusing on what’s best for your business, you end up maintaining someone else’s business model—at your own expense.

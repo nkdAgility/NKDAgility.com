@@ -1,39 +1,37 @@
 ---
+title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
 short_title: 'Beyond the Agile Illusion: True Agility'
 description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
 date: 2020-07-21T18:00:53Z
-ResourceId: Sa7uw3CX_yE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: Sa7uw3CX_yE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+aliases:
+- /resources/Sa7uw3CX_yE
+aliasesArchive:
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+- beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+source: youtube
+layout: video
 concepts:
 - Ethos
 categories:
 - Product Development
 tags: []
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:27Z
   short_title: 2025-07-07T17:57:52Z
-title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
 videoId: Sa7uw3CX_yE
-source: youtube
 url: /resources/videos/:slug
-slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
-layout: video
-aliases:
-- /resources/Sa7uw3CX_yE
-- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-aliasesArchive:
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
-- beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 resourceTypes:

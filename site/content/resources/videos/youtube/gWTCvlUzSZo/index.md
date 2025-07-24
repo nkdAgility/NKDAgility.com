@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
 short_title: Why Scrum Masters Need Quality Cameras
 description: Explains how a quality camera helps Scrum Masters boost team engagement, read body language, and foster better communication in remote meetings through clear visuals.
 date: 2023-09-21T07:00:14Z
-ResourceId: gWTCvlUzSZo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Collaboration
+ResourceId: gWTCvlUzSZo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:23Z
-  short_title: 2025-07-07T17:52:58Z
-title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
-videoId: gWTCvlUzSZo
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliases:
 - /resources/gWTCvlUzSZo
 - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-3
 - /resources/5-tools-that-scrum-masters-love-part-3
 - unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Collaboration
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:23Z
+  short_title: 2025-07-07T17:52:58Z
+videoId: gWTCvlUzSZo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 resourceTypes:

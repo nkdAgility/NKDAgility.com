@@ -1,31 +1,15 @@
 ---
+title: What is a product goal?
 short_title: What is a Product Goal?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-30T11:00:40Z
-ResourceId: qXsjLuss22Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-- Agile Product Management
+ResourceId: qXsjLuss22Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:02Z
-  short_title: 2025-07-07T17:54:58Z
-title: What is a product goal?
-videoId: qXsjLuss22Y
-source: internal
-url: /resources/videos/:slug
-slug: what-is-a-product-goal-qXsjLuss22Y
-layout: video
+ResourceImportSource: Youtube
+slug: what-is-a-product-goal
 aliases:
 - /resources/qXsjLuss22Y
 - /resources/videos/what-is-a-product-goal-qXsjLuss22Y
@@ -35,6 +19,22 @@ aliasesArchive:
 - /resources/what-is-a-product-goal-
 - /resources/videos/what-is-a-product-goal
 - what-is-a-product-goal-qXsjLuss22Y
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+- Agile Product Management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:02Z
+  short_title: 2025-07-07T17:54:58Z
+videoId: qXsjLuss22Y
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 resourceTypes:

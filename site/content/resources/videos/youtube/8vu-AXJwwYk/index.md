@@ -1,29 +1,15 @@
 ---
+title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
 short_title: Unlocking Organisational Potential
 description: Explores how skilled consultants drive rapid, impactful organisational change by identifying core issues, bridging leadership gaps, and fostering agile transformation.
 date: 2023-01-24T07:30:02Z
-ResourceId: 8vu-AXJwwYk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: 8vu-AXJwwYk
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:27Z
-  short_title: 2025-07-07T17:57:04Z
-title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
-videoId: 8vu-AXJwwYk
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
-layout: video
 aliases:
 - /resources/8vu-AXJwwYk
 - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
 - unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:27Z
+  short_title: 2025-07-07T17:57:04Z
+videoId: 8vu-AXJwwYk
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 resourceTypes:

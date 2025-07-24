@@ -1,29 +1,15 @@
 ---
+title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 short_title: Maximising ROI in Software Development
 description: Learn how quality, technical expertise, and regular reviews in software development can maximise ROI and ensure your organisation delivers lasting business value.
 date: 2024-12-13T06:30:00Z
-ResourceId: jKXc6hByR_k
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 325
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: jKXc6hByR_k
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:43Z
-  short_title: 2025-07-07T17:47:10Z
-title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
-videoId: jKXc6hByR_k
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
-layout: video
 aliases:
 - /resources/jKXc6hByR_k
 - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/your-partner-in-on-time,-on-budget-delivery
 - /resources/videos/your-partner-in-on-time-on-budget-delivery
 - maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:43Z
+  short_title: 2025-07-07T17:47:10Z
+videoId: jKXc6hByR_k
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 resourceTypes:

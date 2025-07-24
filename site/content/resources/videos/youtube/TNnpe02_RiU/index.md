@@ -1,29 +1,15 @@
 ---
+title: What is Your Peeve in DevOps
 short_title: What is Your Peeve in DevOps
 description: Explores common DevOps frustrations, debunks the myth that continuous delivery is unattainable, and highlights the importance of empowering developers in agile teams.
 date: 2023-04-27T09:30:06Z
-ResourceId: TNnpe02_RiU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 515
-concepts: []
-categories:
-- DevOps
-tags: []
+ResourceId: TNnpe02_RiU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:57Z
-  short_title: 2025-07-07T17:55:41Z
-title: What is Your Peeve in DevOps
-videoId: TNnpe02_RiU
-source: internal
-url: /resources/videos/:slug
-slug: what-is-your-peeve-in-devops-TNnpe02_RiU
-layout: video
+ResourceImportSource: Youtube
+slug: what-is-your-peeve-in-devops
 aliases:
 - /resources/TNnpe02_RiU
 - /resources/videos/what-is-your-peeve-in-devops-TNnpe02_RiU
@@ -35,6 +21,20 @@ aliasesArchive:
 - /resources/pet-peeve-in-devops
 - /resources/videos/pet-peeve-in-devops
 - what-is-your-peeve-in-devops-TNnpe02_RiU
+source: internal
+layout: video
+concepts: []
+categories:
+- DevOps
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:57Z
+  short_title: 2025-07-07T17:55:41Z
+videoId: TNnpe02_RiU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
 duration: 31
 resourceTypes:

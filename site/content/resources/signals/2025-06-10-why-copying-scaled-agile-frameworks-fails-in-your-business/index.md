@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: why-copying-scaled-agile-frameworks-fails-in-your-business
 aliases:
 - /resources/yN1RnvfpRRI
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7338226091821608960
-  post_id: "7338226091821608960"
-  post_date: 2025-06-10T14:30:38Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:38Z
-  short_title: 2025-07-07T16:43:34Z
+layout: signal
 concepts:
 - Strategy
 categories:
@@ -47,6 +33,20 @@ tags:
 - Enterprise Agility
 - Evidence Based Leadership
 - Value Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7338226091821608960
+  post_id: "7338226091821608960"
+  post_date: 2025-06-10T14:30:38Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:38Z
+  short_title: 2025-07-07T16:43:34Z
 
 ---
 Most scaled agile frameworks sell the illusion that someone else’s success can be photocopied into your business. It can’t.

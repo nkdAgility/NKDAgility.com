@@ -1,13 +1,24 @@
 ---
+title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
 short_title: Azure DevOps Migration Tools Guide
 description: Learn how to use Azure DevOps Migration Tools for efficient, large-scale migrations, including setup, configuration, best practices, and community support for troubleshooting.
 date: 2019-10-17T19:16:03Z
-ResourceId: RCJsST0xBCE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: RCJsST0xBCE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+aliases:
+- /resources/RCJsST0xBCE
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+source: youtube
+layout: video
 concepts:
 - Tool
 categories:
@@ -23,21 +34,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:04Z
   short_title: 2025-07-07T17:58:23Z
-title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
 videoId: RCJsST0xBCE
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-layout: video
-aliases:
-- /resources/RCJsST0xBCE
-- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-aliasesArchive:
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 resourceTypes:

@@ -1,29 +1,15 @@
 ---
+title: The Power of Immersive Learning in Scrum Training
 short_title: Immersive Learning Benefits in Scrum Training
 description: Explores how immersive learning in Scrum training reduces cognitive load, boosts engagement, and improves retention through shorter, interactive, hands-on sessions.
 date: 2024-02-02T07:00:16Z
-ResourceId: bXb00GxJiCY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: bXb00GxJiCY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:02Z
-  short_title: 2025-07-07T17:49:59Z
-title: The Power of Immersive Learning in Scrum Training
-videoId: bXb00GxJiCY
-source: internal
-url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
-layout: video
+ResourceImportSource: Youtube
+slug: the-power-of-immersive-learning-in-scrum-training
 aliases:
 - /resources/bXb00GxJiCY
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
@@ -35,6 +21,20 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 - the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:02Z
+  short_title: 2025-07-07T17:49:59Z
+videoId: bXb00GxJiCY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bXb00GxJiCY/maxresdefault.jpg
 duration: 41
 resourceTypes:

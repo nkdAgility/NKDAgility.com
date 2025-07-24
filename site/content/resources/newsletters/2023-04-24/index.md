@@ -4,9 +4,11 @@ short_title: May 2023 NKDAgility Professional Scrum Giveaway
 description: Explore how to future-proof your career with Agile and Scrum, plus details on a giveaway for Professional Scrum training to help you advance your skills in 2023.
 date: 2023-04-24
 weight: 480
+author: MrHinsh
 ResourceId: 6h1D_YPjPuU
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum
 aliases:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
@@ -15,14 +17,12 @@ aliases:
 aliasesArchive:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+layout: newsletter
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
-author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:13:08Z
   short_title: 2025-07-07T17:55:49Z

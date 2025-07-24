@@ -7,21 +7,21 @@ weight: 1000
 ResourceId: g4M_sdh5Fg2
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: emergant-work
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-work/
 - /resources/g4M_sdh5Fg2
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-work/
+layout: principles
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
-layout: principles
 draft: true
 card:
   button:

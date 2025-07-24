@@ -1,32 +1,15 @@
 ---
+title: 'Unlocking User Insights: The Key to Meaningful Software Development'
 short_title: Unlocking User Insights in Software Development
 description: Explores how deeper user understanding, data-driven decisions, and stakeholder collaboration lead to more effective, user-centred software development and strategic planning.
 date: 2024-08-09T05:39:57Z
-ResourceId: YGyx4i3-4ss
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Strategy
-categories:
-- Product Development
-tags:
-- Customer Focus
-- Product Discovery
+ResourceId: YGyx4i3-4ss
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:15Z
-  short_title: 2025-07-07T17:48:40Z
-title: 'Unlocking User Insights: The Key to Meaningful Software Development'
-videoId: YGyx4i3-4ss
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-user-insights-the-key-to-meaningful-software-development
 aliases:
 - /resources/YGyx4i3-4ss
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
@@ -37,6 +20,23 @@ aliasesArchive:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
 - unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
+source: youtube
+layout: video
+concepts:
+- Strategy
+categories:
+- Product Development
+tags:
+- Customer Focus
+- Product Discovery
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:15Z
+  short_title: 2025-07-07T17:48:40Z
+videoId: YGyx4i3-4ss
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 resourceTypes:

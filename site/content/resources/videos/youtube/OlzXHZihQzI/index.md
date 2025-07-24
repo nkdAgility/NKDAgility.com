@@ -1,36 +1,15 @@
 ---
+title: Unlocking the Power of Immersive Learning in Agile
 short_title: Immersive Learning for Agile Transformation
 description: Explores how immersive, hands-on learning helps teams internalise Agile principles, shift mindsets, and drive lasting Agile transformation through real-world experience.
 date: 2024-02-03T07:00:12Z
-ResourceId: OlzXHZihQzI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Product Development
-tags:
-- Continuous Learning
-- Organisational Agility
-- Software Development
-- Agile Transformation
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Values and Principles
+ResourceId: OlzXHZihQzI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:01Z
-  short_title: 2025-07-07T17:49:58Z
-title: Unlocking the Power of Immersive Learning in Agile
-videoId: OlzXHZihQzI
-source: internal
-url: /resources/videos/:slug
-slug: unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-the-power-of-immersive-learning-in-agile
 aliases:
 - /resources/OlzXHZihQzI
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
@@ -42,6 +21,27 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Continuous Learning
+- Organisational Agility
+- Software Development
+- Agile Transformation
+- Agile Philosophy
+- Pragmatic Thinking
+- Agile Values and Principles
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:01Z
+  short_title: 2025-07-07T17:49:58Z
+videoId: OlzXHZihQzI
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
 duration: 45
 resourceTypes:

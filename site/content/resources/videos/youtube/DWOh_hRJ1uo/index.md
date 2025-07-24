@@ -1,30 +1,15 @@
 ---
+title: What is your best advice for becoming a Scrum Master outside software engineering?
 short_title: Becoming a Scrum Master Beyond Software
 description: Practical guidance on becoming a Scrum Master outside software, covering certification, skill development, validated learning, and applying Scrum principles in any field.
 date: 2023-03-08T07:00:04Z
-ResourceId: DWOh_hRJ1uo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Scrum
-tags:
-- Scrum Master
+ResourceId: DWOh_hRJ1uo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:46Z
-  short_title: 2025-07-07T17:56:30Z
-title: What is your best advice for becoming a Scrum Master outside software engineering?
-videoId: DWOh_hRJ1uo
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
-layout: video
 aliases:
 - /resources/DWOh_hRJ1uo
 - /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
@@ -37,6 +22,21 @@ aliasesArchive:
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 - /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
 - what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
+source: internal
+layout: video
+concepts: []
+categories:
+- Scrum
+tags:
+- Scrum Master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:46Z
+  short_title: 2025-07-07T17:56:30Z
+videoId: DWOh_hRJ1uo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg
 duration: 202
 resourceTypes:

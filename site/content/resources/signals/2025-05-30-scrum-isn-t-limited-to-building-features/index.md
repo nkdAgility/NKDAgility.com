@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: scrum-isn-t-limited-to-building-features
 aliases:
 - /resources/-FDdQXKH7zt
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7334239840894423040
-  post_id: "7334239840894423040"
-  post_date: 2025-05-30T14:30:41Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:47Z
-  short_title: 2025-07-07T16:43:52Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -47,6 +33,20 @@ tags:
 - Decision Making
 - Business Agility
 - Metrics and Learning
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7334239840894423040
+  post_id: "7334239840894423040"
+  post_date: 2025-05-30T14:30:41Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:47Z
+  short_title: 2025-07-07T16:43:52Z
 
 ---
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.

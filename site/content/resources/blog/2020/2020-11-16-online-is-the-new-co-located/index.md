@@ -5,10 +5,9 @@ description: Explores how advances in technology have redefined co-location, emp
 date: 2020-11-16
 weight: 1000
 ResourceId: QnZVgaG90q_
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: online-is-the-new-co-located
 aliases:
 - /blog/online-is-the-new-co-located
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/online-is-the-new-co-located
 - /online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
+layout: blog
 concepts: []
 categories:
 - Uncategorized
@@ -26,10 +26,8 @@ tags:
 - Transparency
 - Team Collaboration
 - Remote Working
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44487
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-21-3-3.png
 Watermarks:

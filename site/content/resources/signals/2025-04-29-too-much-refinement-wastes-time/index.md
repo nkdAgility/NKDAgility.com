@@ -7,26 +7,12 @@ weight: 345
 ResourceId: 2GV6voRFhjH
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: too-much-refinement-wastes-time
 aliases:
 - /resources/2GV6voRFhjH
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7323005822538600449
-  post_id: "7323005822538600449"
-  post_date: 2025-04-29T14:30:43Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:09Z
-  short_title: 2025-07-07T16:44:36Z
+layout: signal
 concepts:
 - Method
 categories:
@@ -41,6 +27,20 @@ tags:
 - Pragmatic Thinking
 - Definition of Ready
 - Agile Product Management
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7323005822538600449
+  post_id: "7323005822538600449"
+  post_date: 2025-04-29T14:30:43Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:09Z
+  short_title: 2025-07-07T16:44:36Z
 
 ---
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.

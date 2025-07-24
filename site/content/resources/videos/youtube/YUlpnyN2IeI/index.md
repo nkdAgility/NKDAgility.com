@@ -1,37 +1,15 @@
 ---
+title: Best Scrum advice you ever received?
 short_title: 'Best Scrum Advice: Be Flexible, Not Dogmatic'
 description: Emphasises the importance of flexibility and pragmatism in Scrum, encouraging teams to adapt frameworks to their context rather than rigidly following prescribed rules.
 date: 2023-06-05T07:00:20Z
-ResourceId: YUlpnyN2IeI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Planning
-- Agile Philosophy
-- Organisational Agility
-- Agile Frameworks
-- Agile Transformation
+ResourceId: YUlpnyN2IeI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:53Z
-  short_title: 2025-07-07T17:54:51Z
-title: Best Scrum advice you ever received?
-videoId: YUlpnyN2IeI
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: best-scrum-advice-you-ever-received
-layout: video
 aliases:
 - /resources/YUlpnyN2IeI
 - /resources/videos/best-scrum-advice-you-ever-received
@@ -44,6 +22,28 @@ aliasesArchive:
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
 - best-scrum-advice-you-ever-received
+source: internal
+layout: video
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Agile Planning
+- Agile Philosophy
+- Organisational Agility
+- Agile Frameworks
+- Agile Transformation
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:53Z
+  short_title: 2025-07-07T17:54:51Z
+videoId: YUlpnyN2IeI
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 resourceTypes:

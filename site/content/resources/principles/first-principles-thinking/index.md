@@ -7,21 +7,21 @@ weight: 1000
 ResourceId: q6gClR4HS5c
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: first-principles-thinking
 aliases:
 - /principles/first-principles-thinking/
 - /resources/q6gClR4HS5c
 aliasesArchive:
 - /principles/first-principles-thinking/
+layout: principle
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: principle
-layout: principle
 card:
   button:
     content: Start Optimizing Now

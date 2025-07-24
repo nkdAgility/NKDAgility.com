@@ -1,12 +1,28 @@
 ---
+title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 short_title: Kaizen and Continuous Improvement in Scrum
 description: Explains how Kaizen’s continuous improvement principles enhance Scrum and Agile teams, with practical tips for retrospectives, workflow optimisation, and team culture.
 date: 2024-08-25T22:00:34Z
-ResourceId: pVPzgsemxEY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 430
+ResourceId: pVPzgsemxEY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+aliases:
+- /resources/pVPzgsemxEY
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+aliasesArchive:
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+- /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
+source: internal
+layout: video
 concepts:
 - Practice
 categories:
@@ -23,30 +39,14 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Organisational Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:00:54Z
   short_title: 2025-07-07T17:48:25Z
-title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 videoId: pVPzgsemxEY
-source: internal
 url: /resources/videos/:slug
-slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
-layout: video
-aliases:
-- /resources/pVPzgsemxEY
-- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
-- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-aliasesArchive:
-- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-- /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-- the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 resourceTypes:

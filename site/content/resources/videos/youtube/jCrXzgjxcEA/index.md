@@ -1,33 +1,15 @@
 ---
+title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
 short_title: Azure DevOps Caman Boards for Hybrid Teams
 description: Learn how to use Azure DevOps to set up and customise Caman boards for clear workflow visualisation, shared rules, and effective work management in hybrid teams.
 date: 2024-03-29T16:42:17Z
-ResourceId: jCrXzgjxcEA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags:
-- Azure DevOps
-- Operational Practices
-- Software Development
+ResourceId: jCrXzgjxcEA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:22Z
-  short_title: 2025-07-07T17:49:25Z
-title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
-videoId: jCrXzgjxcEA
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
-layout: video
 aliases:
 - /resources/jCrXzgjxcEA
 - /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/kanban-with-azure-devops
 - /resources/kanban-with-azure-devops
 - mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+source: youtube
+layout: video
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Azure DevOps
+- Operational Practices
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:22Z
+  short_title: 2025-07-07T17:49:25Z
+videoId: jCrXzgjxcEA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 resourceTypes:

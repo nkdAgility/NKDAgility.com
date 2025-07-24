@@ -5,25 +5,19 @@ description: Explains how involving everyone in Professional Scrum training fost
 date: 2018-01-16
 weight: 430
 ResourceId: Cr7wjIJ8Uvb
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: professional-scrum-is-for-everyone-in-your-organisation
 aliases:
 - /resources/Cr7wjIJ8Uvb
-ResourceContentOrigin: Hybrid
-ResourceImportId: 38287
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/professional-scrum-everyone-organisation
 - /professional-scrum-everyone-organisation
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
+layout: blog
 concepts:
 - Framework
 categories:
@@ -45,6 +39,10 @@ tags:
 - Empirical Process Control
 - Change Management
 - Organisational Change
+ResourceImportId: 38287
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:21Z

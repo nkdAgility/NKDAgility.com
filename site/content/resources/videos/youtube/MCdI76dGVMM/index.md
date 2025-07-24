@@ -1,31 +1,15 @@
 ---
+title: Hardest part of becoming a professional Scrum Master?
 short_title: Hardest Part of Becoming a Professional Scrum Master
 description: Explores why embracing true professionalism is the hardest part of becoming a Scrum Master, highlighting the importance of deep understanding, mastery, and continuous learning.
 date: 2023-08-02T07:00:12Z
-ResourceId: MCdI76dGVMM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-- Scrum Master
+ResourceId: MCdI76dGVMM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:29Z
-  short_title: 2025-07-07T17:53:46Z
-title: Hardest part of becoming a professional Scrum Master?
-videoId: MCdI76dGVMM
-source: internal
-url: /resources/videos/:slug
-slug: hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
-layout: video
+ResourceImportSource: Youtube
+slug: hardest-part-of-becoming-a-professional-scrum-master
 aliases:
 - /resources/MCdI76dGVMM
 - /resources/videos/hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
@@ -39,6 +23,22 @@ aliasesArchive:
 - /resources/hardest-part-of-becoming-a-professional-scrummaster-
 - /resources/videos/hardest-part-of-becoming-a-professional-scrummaster
 - hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+- Scrum Master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:29Z
+  short_title: 2025-07-07T17:53:46Z
+videoId: MCdI76dGVMM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
 duration: 32
 resourceTypes:

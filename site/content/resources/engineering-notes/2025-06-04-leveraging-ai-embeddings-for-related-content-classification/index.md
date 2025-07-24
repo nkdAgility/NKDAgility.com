@@ -7,13 +7,10 @@ weight: 565
 ResourceId: OUeioY0BIV-
 ResourceImport: false
 ResourceType: engineering-notes
+ResourceContentOrigin: human
 slug: leveraging-ai-embeddings-for-related-content-classification
 aliases:
 - /resources/OUeioY0BIV-
-ResourceContentOrigin: human
-Watermarks:
-  description: 2025-05-28T11:53:29Z
-  short_title: 2025-07-07T16:43:44Z
 concepts:
 - Tool
 categories:
@@ -22,6 +19,9 @@ tags:
 - Technical Mastery
 - Artificial Intelligence
 - Miscellaneous
+Watermarks:
+  description: 2025-05-28T11:53:29Z
+  short_title: 2025-07-07T16:43:44Z
 
 ---
 Mid-last year, I transitioned my website to Hugo and since then have been exploring AI-driven content classification. A common feature I have always appreciated is the "related content" recommendation, suggesting to readers what's next or what else might be of interest. Although Hugo’s built-in related content functionality is perfectly serviceable, relying on parameters like tags, keywords, and headings, I believed there was room for something more sophisticated.

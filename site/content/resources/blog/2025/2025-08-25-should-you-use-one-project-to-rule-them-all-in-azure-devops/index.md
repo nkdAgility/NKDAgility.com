@@ -7,13 +7,10 @@ weight: 80
 ResourceId: k-kqjqSgdGx
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: should-you-use-one-project-to-rule-them-all-in-azure-devops
 aliases:
 - /resources/k-kqjqSgdGx
-ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-06-06T12:34:49Z
-  short_title: 2025-07-07T16:43:07Z
 concepts:
 - Tool
 categories:
@@ -36,6 +33,9 @@ tags:
 - Agile Strategy
 - Organisational Agility
 - Team Performance
+Watermarks:
+  description: 2025-06-06T12:34:49Z
+  short_title: 2025-07-07T16:43:07Z
 
 ---
 **Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**

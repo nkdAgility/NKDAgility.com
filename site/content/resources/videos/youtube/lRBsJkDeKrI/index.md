@@ -1,12 +1,28 @@
 ---
+title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and Trust—And How to Raise the Bar
 short_title: 'Definition of Done: Boosting Quality and Trust'
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 date: 2025-07-09T06:45:00Z
-ResourceId: lRBsJkDeKrI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 165
+ResourceId: lRBsJkDeKrI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: ai
+ResourceImportSource: Youtube
+slug: why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
+aliases:
+- /resources/lRBsJkDeKrI
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
+- /resources/videos/10-what-does-good-done-look-like
+aliasesArchive:
+- /resources/videos/10-what-does-good-done-look-like
+- 10-what-does-good-done-look-like-lRBsJkDeKrI
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
+- why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
+source: youtube
+layout: video
 concepts:
 - Artifact
 categories:
@@ -31,32 +47,16 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T19:08:27Z
-  short_title: 2025-07-07T16:43:17Z
-title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and Trust—And How to Raise the Bar
 videoId: lRBsJkDeKrI
-source: youtube
 url: /resources/videos/:slug
-slug: why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
-layout: video
-aliases:
-- /resources/lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
-- /resources/videos/10-what-does-good-done-look-like
-aliasesArchive:
-- /resources/videos/10-what-does-good-done-look-like
-- 10-what-does-good-done-look-like-lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
-- why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
 preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
 duration: 55
 resourceTypes:
 - video
 isShort: true
+Watermarks:
+  description: 2025-05-07T19:08:27Z
+  short_title: 2025-07-07T16:43:17Z
 
 ---
 Can Your Product Pass the Done Test?

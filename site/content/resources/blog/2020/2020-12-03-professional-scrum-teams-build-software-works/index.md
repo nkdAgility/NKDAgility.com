@@ -5,10 +5,9 @@ description: Professional Scrum Teams prioritise software quality, accountabilit
 date: 2020-12-03
 weight: 175
 ResourceId: vCeqzJIgF1F
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: professional-scrum-teams-build-software-that-works
 aliases:
 - /blog/professional-scrum-teams-build-software-works
@@ -23,6 +22,7 @@ aliasesArchive:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -45,10 +45,8 @@ tags:
 - Agile Product Management
 - Technical Debt
 - Competence
-ResourceContentOrigin: Hybrid
 ResourceImportId: 22774
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 Watermarks:

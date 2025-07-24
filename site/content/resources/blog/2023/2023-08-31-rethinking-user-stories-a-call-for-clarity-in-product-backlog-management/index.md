@@ -5,10 +5,9 @@ description: Explores why replacing "User Stories" with "Product Backlog Items" 
 date: 2023-08-31
 weight: 1000
 ResourceId: E2aOGiRDnuG
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: rethinking-'user-stories'-a-call-for-clarity-in-product-backlog-management
 aliases:
 - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
@@ -23,6 +22,7 @@ aliasesArchive:
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -34,11 +34,9 @@ tags:
 - Software Development
 - Product Delivery
 - Transparency
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49726
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 Watermarks:

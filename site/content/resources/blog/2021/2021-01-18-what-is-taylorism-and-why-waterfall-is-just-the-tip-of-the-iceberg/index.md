@@ -5,10 +5,9 @@ description: Explores how Taylorism shaped modern management, leading to rigid h
 date: 2021-01-18
 weight: 1000
 ResourceId: wYwQygBrmgx
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
 - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
@@ -27,6 +26,7 @@ aliasesArchive:
 - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -39,11 +39,9 @@ tags:
 - Complexity Thinking
 - Organisational Psychology
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45392
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 Watermarks:

@@ -7,19 +7,16 @@ weight: 180
 ResourceId: UfdnQrxv5iF
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: without-delivery-there-is-no-value
 aliases:
 - /resources/UfdnQrxv5iF
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /without-delivery-no-value
 - /blog/without-delivery-no-value
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -42,13 +39,16 @@ tags:
 - Time to Market
 - Pragmatic Thinking
 - Increment
-preview: 2025-02-10-without-delivery-no-value.jpg
-marketing: []
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
   post_date: 2025-06-17T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-02-10-without-delivery-no-value.jpg
+marketing: []
 Watermarks:
   description: 2025-05-07T12:49:40Z
   short_title: 2025-07-07T17:46:37Z

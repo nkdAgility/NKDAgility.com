@@ -1,12 +1,32 @@
 ---
+title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
 short_title: Scrum Reveals Organisational Problems
 description: Explains how Scrum exposes hidden organisational problems through transparency and feedback, enabling teams to identify issues, improve processes, and drive real change.
 date: 2023-09-27T07:00:29Z
-ResourceId: Ys0dWfKVSeA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+ResourceId: Ys0dWfKVSeA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: scrum-doesn't-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+aliases:
+- /resources/Ys0dWfKVSeA
+- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- /resources/videos/scrum-the-mirror-to-organizational-challenges
+- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
+aliasesArchive:
+- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- /resources/videos/scrum-the-mirror-to-organizational-challenges-
+- scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- /resources/videos/scrum-the-mirror-to-organizational-challenges
+- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
+source: internal
+layout: video
 concepts:
 - Framework
 categories:
@@ -22,33 +42,14 @@ tags:
 - Team Collaboration
 - Agile Transformation
 - Empirical Process Control
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:17Z
   short_title: 2025-07-07T17:52:52Z
-title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
 videoId: Ys0dWfKVSeA
-source: internal
 url: /resources/videos/:slug
-slug: scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-layout: video
-aliases:
-- /resources/Ys0dWfKVSeA
-- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- /resources/videos/scrum-the-mirror-to-organizational-challenges
-aliasesArchive:
-- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
-- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
-- /resources/videos/scrum-the-mirror-to-organizational-challenges-
-- scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- /resources/videos/scrum-the-mirror-to-organizational-challenges
-- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
 preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
 duration: 584
 resourceTypes:

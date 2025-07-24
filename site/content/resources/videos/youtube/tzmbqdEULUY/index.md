@@ -1,29 +1,15 @@
 ---
+title: 'Mastering Data Migration: How to Minimise Downtime and Keep Your Engineers Productive'
 short_title: Mastering Data Migration & Minimising Downtime
 description: Learn practical strategies to minimise downtime and maintain engineer productivity during data migration, including planning, dry runs, and effective use of Git for collaboration.
 date: 2024-11-05T06:00:34Z
-ResourceId: tzmbqdEULUY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: tzmbqdEULUY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:24Z
-  short_title: 2025-07-07T17:47:42Z
-title: 'Mastering Data Migration: How to Minimise Downtime and Keep Your Engineers Productive'
-videoId: tzmbqdEULUY
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
-layout: video
 aliases:
 - /resources/tzmbqdEULUY
 - /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
@@ -33,6 +19,20 @@ aliasesArchive:
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
 - mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:24Z
+  short_title: 2025-07-07T17:47:42Z
+videoId: tzmbqdEULUY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 resourceTypes:

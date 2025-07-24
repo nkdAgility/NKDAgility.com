@@ -1,12 +1,30 @@
 ---
+title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
 short_title: Empowering Leadership for Agile Culture Change
 description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 date: 2025-02-07T06:00:27Z
-ResourceId: XyprV8F_es4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 400
+ResourceId: XyprV8F_es4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: empowering-leadership-driving-cultural-change-for-agile-success
+aliases:
+- /resources/XyprV8F_es4
+- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
+- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
+aliasesArchive:
+- /resources/videos/-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
+- /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
+- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
+- empowering-leadership-driving-cultural-change-for-agile-success
+source: youtube
+layout: video
 concepts: []
 categories:
 - Leadership
@@ -22,32 +40,14 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:46Z
   short_title: 2025-07-07T17:46:44Z
-title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
 videoId: XyprV8F_es4
-source: youtube
 url: /resources/videos/:slug
-slug: empowering-leadership-driving-cultural-change-for-agile-success
-layout: video
-aliases:
-- /resources/XyprV8F_es4
-- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
-- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-aliasesArchive:
-- /resources/videos/-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-- /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
-- empowering-leadership-driving-cultural-change-for-agile-success
 preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
 duration: 398
 resourceTypes:

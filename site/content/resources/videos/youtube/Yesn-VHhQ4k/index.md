@@ -1,12 +1,26 @@
 ---
+title: Why does Agile focus on values and principles rather than a prescribed set of steps?
 short_title: Why Agile Focuses on Values and Principles
 description: Agile emphasises values and principles to guide teams through complex, uncertain work, enabling adaptation and improvement where fixed steps cannot guarantee success.
 date: 2023-01-23T07:00:14Z
-ResourceId: Yesn-VHhQ4k
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 540
+ResourceId: Yesn-VHhQ4k
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+aliases:
+- /resources/Yesn-VHhQ4k
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+aliasesArchive:
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
+- why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -17,28 +31,14 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:28Z
   short_title: 2025-07-07T17:57:05Z
-title: Why does Agile focus on values and principles rather than a prescribed set of steps?
 videoId: Yesn-VHhQ4k
-source: internal
 url: /resources/videos/:slug
-slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-layout: video
-aliases:
-- /resources/Yesn-VHhQ4k
-- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-aliasesArchive:
-- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
-- why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg
 duration: 386
 resourceTypes:

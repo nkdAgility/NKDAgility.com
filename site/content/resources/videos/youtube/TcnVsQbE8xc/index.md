@@ -1,13 +1,26 @@
 ---
+title: Reasons to do a PSM II Course in 60 seconds
 short_title: Reasons to Do a PSM II Course in 60 Seconds
 description: Discover how the PSM II course deepens Scrum Master skills, boosts team performance, supports product owners, and advances agile careers with practical, real-world benefits.
 date: 2023-07-12T14:00:30Z
-ResourceId: TcnVsQbE8xc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: TcnVsQbE8xc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+aliases:
+- /resources/TcnVsQbE8xc
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
+- reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+source: internal
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -19,21 +32,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:10:52Z
   short_title: 2025-07-07T17:54:02Z
-title: Reasons to do a PSM II Course in 60 seconds
 videoId: TcnVsQbE8xc
-source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
-layout: video
-aliases:
-- /resources/TcnVsQbE8xc
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
-aliasesArchive:
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 resourceTypes:

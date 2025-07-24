@@ -7,12 +7,21 @@ weight: 130
 ResourceId: lLNjkL_zGQa
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: there-no-such-thing-as-good-technical-debt
 aliases:
 - /resources/lLNjkL_zGQa
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Technical Debt
+- Software Development
+- Technical Mastery
+- Engineering Practices
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7319381907710873600
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:21Z
   short_title: 2025-07-07T16:44:47Z
-concepts: []
-categories:
-- Engineering Excellence
-- Technical Leadership
-tags:
-- Technical Debt
-- Software Development
-- Technical Mastery
-- Engineering Practices
 
 ---
 Let’s put this to rest: there’s no such thing as "good" technical debt.

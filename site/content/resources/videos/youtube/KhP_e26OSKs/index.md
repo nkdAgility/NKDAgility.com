@@ -1,35 +1,15 @@
 ---
+title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 short_title: Engaging Stakeholders in Sprint Reviews
 description: Learn practical strategies to boost stakeholder attendance and engagement in Sprint reviews, encouraging valuable feedback and stronger collaboration for product improvement.
 date: 2023-12-15T11:00:17Z
-ResourceId: KhP_e26OSKs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Sprint Review
-- Product Owner
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Product Management
-- Software Development
+ResourceId: KhP_e26OSKs
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:53Z
-  short_title: 2025-07-07T17:50:42Z
-title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
-videoId: KhP_e26OSKs
-source: youtube
-url: /resources/videos/:slug
-slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
-layout: video
+ResourceImportSource: Youtube
+slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 aliases:
 - /resources/KhP_e26OSKs
 - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Sprint Review
+- Product Owner
+- Team Collaboration
+- Pragmatic Thinking
+- Agile Product Management
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:53Z
+  short_title: 2025-07-07T17:50:42Z
+videoId: KhP_e26OSKs
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 resourceTypes:

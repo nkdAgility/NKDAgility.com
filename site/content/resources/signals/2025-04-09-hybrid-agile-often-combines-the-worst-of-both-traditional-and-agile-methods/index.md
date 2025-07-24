@@ -7,12 +7,19 @@ weight: 540
 ResourceId: mqG4p-beYqb
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods
 aliases:
 - /resources/mqG4p-beYqb
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Hybrid Agile
+- Agile Values and Principles
+- Agile Philosophy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7315757896577802240
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:36Z
   short_title: 2025-07-07T16:44:58Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Hybrid Agile
-- Agile Values and Principles
-- Agile Philosophy
 
 ---
 I still hear leaders talk about "hybrid Agile" like it’s the best of both worlds. Let’s be real—it’s usually the worst of both.

@@ -5,18 +5,12 @@ description: Details 2016 Professional Scrum Master and Developer courses in Osl
 date: 2016-01-06
 weight: 480
 ResourceId: gS7et381AGm
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: professional-scrum-courses-for-2016-in-oslo-norway
 aliases:
 - /resources/gS7et381AGm
-ResourceContentOrigin: Human
-ResourceImportId: 11426
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/professional-scrum-courses-2016-oslo-norway
 - /professional-scrum-courses-2016-oslo-norway
@@ -25,11 +19,15 @@ aliasesArchive:
 - /professional-scrum-courses-for-2016-in-oslo--norway
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
+layout: blog
 concepts: []
 categories:
 - Scrum
 tags:
 - Software Development
+ResourceImportId: 11426
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: clip_image001-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:52Z

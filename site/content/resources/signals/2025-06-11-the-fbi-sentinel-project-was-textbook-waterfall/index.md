@@ -11,8 +11,21 @@ ResourceContentOrigin: human
 slug: the-fbi-sentinel-project-was-textbook-waterfall
 aliases:
 - /resources/iXdW5l5qVvR
-layout: signal
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Pragmatic Thinking
+- Agile Frameworks
+- Organisational Agility
+- Working Software
+- Organisational Change
+- Product Delivery
+- Social Technologies
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7338588506539061249
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:37Z
   short_title: 2025-07-07T16:43:32Z
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Organisational Agility
-- Working Software
-- Organisational Change
-- Product Delivery
-- Social Technologies
 
 ---
 The FBI's Sentinel project was textbook waterfall. Big budget. Big bang. Zero value delivered after four years and hundreds of millions spent.

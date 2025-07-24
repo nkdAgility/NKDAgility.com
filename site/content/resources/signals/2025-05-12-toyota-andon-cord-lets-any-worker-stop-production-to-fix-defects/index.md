@@ -7,26 +7,12 @@ weight: 225
 ResourceId: BIT0P3MRDj9
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects
 aliases:
 - /resources/BIT0P3MRDj9
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7327716895598460928
-  post_id: "7327716895598460928"
-  post_date: 2025-05-12T14:30:50Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:49Z
-  short_title: 2025-07-07T16:44:16Z
+layout: signal
 concepts:
 - Ethos
 categories:
@@ -49,6 +35,20 @@ tags:
 - Psychological Safety
 - Lean Principles
 - Professional Scrum
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7327716895598460928
+  post_id: "7327716895598460928"
+  post_date: 2025-05-12T14:30:50Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:49Z
+  short_title: 2025-07-07T16:44:16Z
 
 ---
 In manufacturing, Toyota introduced the "andon" cord—a simple chain any worker could pull to stop the entire line if they saw a defect.

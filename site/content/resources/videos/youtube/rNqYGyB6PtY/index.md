@@ -1,29 +1,15 @@
 ---
+title: What Should a Product Owner Do with an Incompetent Team?
 short_title: Product Owner Actions for Incompetent Teams
 description: Guidance for product owners on handling underperforming teams, distinguishing incompetence from knowledge gaps, and knowing when to support, train, or let them go.
 date: 2023-10-26T14:30:26Z
-ResourceId: rNqYGyB6PtY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: rNqYGyB6PtY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:18Z
-  short_title: 2025-07-07T17:52:04Z
-title: What Should a Product Owner Do with an Incompetent Team?
-videoId: rNqYGyB6PtY
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-should-a-product-owner-do-with-an-incompetent-team
-layout: video
 aliases:
 - /resources/rNqYGyB6PtY
 - /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
@@ -35,6 +21,20 @@ aliasesArchive:
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
 - what-should-a-product-owner-do-with-an-incompetent-team
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:18Z
+  short_title: 2025-07-07T17:52:04Z
+videoId: rNqYGyB6PtY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg
 duration: 386
 resourceTypes:

@@ -7,11 +7,10 @@ weight: 570
 ResourceId: ffJaR9AaTl7
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: human-and-ai-agency-in-adaptive-systems-strategy-before-optimisation
 aliases:
 - /resources/ffJaR9AaTl7
-ResourceContentOrigin: hybrid
-mermaid: true
 aliasesArchive:
 - /human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
 - /blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
@@ -26,9 +25,11 @@ tags:
 - Sensemaking
 - Strategic Goals
 - Complexity Thinking
+- Agentic Engineering
 - Systems Thinking
 - Pragmatic Thinking
 - Decision Making
+mermaid: true
 Watermarks:
   description: 2025-05-07T12:48:59Z
   short_title: 2025-07-07T16:43:20Z

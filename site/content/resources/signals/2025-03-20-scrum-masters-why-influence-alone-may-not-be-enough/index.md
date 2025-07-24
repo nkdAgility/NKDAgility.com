@@ -7,12 +7,25 @@ weight: 475
 ResourceId: 7-5f5u_oMbc
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-masters-why-influence-alone-may-not-be-enough
 aliases:
 - /resources/7-5f5u_oMbc
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Accountability
+categories:
+- Scrum
+- Leadership
+tags:
+- Software Development
+- Professional Scrum
+- Pragmatic Thinking
+- Organisational Culture
+- Agile Frameworks
+- Agile Transformation
+- Scrum Master
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7308525238990917634
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:00Z
   short_title: 2025-07-07T16:45:19Z
-concepts:
-- Accountability
-categories:
-- Scrum
-- Leadership
-tags:
-- Software Development
-- Professional Scrum
-- Pragmatic Thinking
-- Organisational Culture
-- Agile Frameworks
-- Agile Transformation
-- Scrum Master
 
 ---
 The idea that Scrum Masters should lead only through influence sounds noble—but in many organisations, it’s also naive.

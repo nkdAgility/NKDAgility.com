@@ -1,34 +1,15 @@
 ---
+title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
 short_title: Probabilistic Forecasting in Agile Estimation
 description: Explores how probabilistic forecasting improves software project planning by replacing traditional estimation with data-driven confidence levels for agile delivery.
 date: 2024-12-05T06:30:00Z
-ResourceId: mZvRMHFUarM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Product Development
-tags:
-- Estimation
-- Forecasting
-- Pragmatic Thinking
-- Software Development
-- Decision Theory
+ResourceId: mZvRMHFUarM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:53Z
-  short_title: 2025-07-07T17:47:17Z
-title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
-videoId: mZvRMHFUarM
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
-layout: video
 aliases:
 - /resources/mZvRMHFUarM
 - /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
 - rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Estimation
+- Forecasting
+- Pragmatic Thinking
+- Software Development
+- Decision Theory
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:53Z
+  short_title: 2025-07-07T17:47:17Z
+videoId: mZvRMHFUarM
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 resourceTypes:

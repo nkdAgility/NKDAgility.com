@@ -1,12 +1,26 @@
 ---
+title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
 short_title: Acceptance Criteria vs Definition of Done
 description: Stop confusing acceptance criteria with definition of done—learn the crucial difference to boost quality, speed, and trust in your agile delivery.
 date: 2025-07-02T06:45:00Z
-ResourceId: 6SEsBq0qvr0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 220
+ResourceId: 6SEsBq0qvr0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: ai
+ResourceImportSource: Youtube
+slug: acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+aliases:
+- /resources/6SEsBq0qvr0
+- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+- /resources/videos/9-definition-of-done-vs-acceptance-criteria
+aliasesArchive:
+- /resources/videos/9-definition-of-done-vs-acceptance-criteria
+- 9-definition-of-done-vs-acceptance-criteria
+- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+- acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+source: youtube
+layout: video
 concepts:
 - Artifact
 categories:
@@ -25,30 +39,16 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T19:18:41Z
-  short_title: 2025-07-07T16:43:19Z
-title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
 videoId: 6SEsBq0qvr0
-source: youtube
 url: /resources/videos/:slug
-slug: acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
-layout: video
-aliases:
-- /resources/6SEsBq0qvr0
-- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
-- /resources/videos/9-definition-of-done-vs-acceptance-criteria
-aliasesArchive:
-- /resources/videos/9-definition-of-done-vs-acceptance-criteria
-- 9-definition-of-done-vs-acceptance-criteria
-- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
-- acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
 preview: https://i9.ytimg.com/vi/6SEsBq0qvr0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDOXnTpAy0-cbxLma7o8SDsZP662A
 duration: 70
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T19:18:41Z
+  short_title: 2025-07-07T16:43:19Z
 
 ---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.

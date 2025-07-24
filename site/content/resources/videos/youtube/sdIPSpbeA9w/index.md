@@ -1,12 +1,26 @@
 ---
+title: Why Embracing Automation is Essential for Reducing Human Error in Software Development
 short_title: Embracing Automation to Reduce Human Error
 description: Explores how automation in software development reduces human error, improves reliability, and streamlines workflows, using real-world examples and practical insights.
 date: 2024-12-18T06:45:00Z
-ResourceId: sdIPSpbeA9w
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 565
+ResourceId: sdIPSpbeA9w
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+aliases:
+- /resources/sdIPSpbeA9w
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+- /resources/videos/the-cost-saving-power-of-automation
+aliasesArchive:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+- /resources/videos/the-cost-saving-power-of-automation
+- /resources/the-cost-saving-power-of-automation
+- why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+source: youtube
+layout: video
 concepts: []
 categories:
 - Engineering Excellence
@@ -19,28 +33,14 @@ tags:
 - Test Automation
 - Engineering Practices
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:39Z
   short_title: 2025-07-07T17:47:07Z
-title: Why Embracing Automation is Essential for Reducing Human Error in Software Development
 videoId: sdIPSpbeA9w
-source: youtube
 url: /resources/videos/:slug
-slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
-layout: video
-aliases:
-- /resources/sdIPSpbeA9w
-- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
-- /resources/videos/the-cost-saving-power-of-automation
-aliasesArchive:
-- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
-- /resources/videos/the-cost-saving-power-of-automation
-- /resources/the-cost-saving-power-of-automation
-- why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
 duration: 613
 resourceTypes:

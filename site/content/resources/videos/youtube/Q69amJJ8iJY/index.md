@@ -1,62 +1,82 @@
 ---
-title: 10  Why NKD Agility is Your Partner for This Journey
-description: Don’t buy DevOps—build it. NKD Agility partners with you to modernize, empower teams, and achieve engineering excellence—on your terms.
+title: Why Outsourcing DevOps Fails—and How Real Engineering Excellence Starts With Your Team
+short_title: Why NKD Agility Is Your DevOps Partner
+description: Avoid DevOps vendor lock-in—discover how true engineering excellence starts with partnership, not outsourcing. Ready to transform your team?
 date: 2025-09-15T06:30:00Z
+weight: 195
 ResourceId: Q69amJJ8iJY
-ResourceType: videos
 ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: ai
 ResourceImportSource: Youtube
-videoId: Q69amJJ8iJY
-source: youtube
-url: /resources/videos/:slug
-slug: 10-why-nkd-agility-is-your-partner-for-this-journey
-layout: video
-canonicalUrl: https://www.youtube.com/watch?v=Q69amJJ8iJY
+slug: why-outsourcing-devops-fails-and-how-real-engineering-excellence-starts-with-your-team
 aliases:
-  - /resources/Q69amJJ8iJY
-  - /resources/videos/10-why-nkd-agility-is-your-partner-for-this-journey
+- /resources/Q69amJJ8iJY
+- /resources/videos/10-why-nkd-agility-is-your-partner-for-this-journey
 aliasesArchive:
-  - /resources/videos/10-why-nkd-agility-is-your-partner-for-this-journey
-  - 10-why-nkd-agility-is-your-partner-for-this-journey
+- /resources/videos/10-why-nkd-agility-is-your-partner-for-this-journey
+- 10-why-nkd-agility-is-your-partner-for-this-journey
+source: youtube
+layout: video
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
+tags:
+- Software Development
+- Pragmatic Thinking
+- Value Delivery
+- Azure DevOps
+videoId: Q69amJJ8iJY
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Q69amJJ8iJY/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAqAjCqErZza-TnE1FY9R9dVLBveA
 duration: 285
 resourceTypes:
-  - video
+- video
 isShort: false
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+Watermarks:
+  description: 2025-07-24T14:48:13Z
+  short_title: 2025-07-24T14:48:16Z
+
 ---
+One of the most common—and frankly, most damaging—mistakes I see organizations make when they set out to “do DevOps” or pursue engineering excellence is this: they outsource the whole thing to a vendor. It’s a pattern I’ve seen repeated across industries and continents, and it almost always leads to the same set of problems.
 
-🤝 You Don’t Need a Vendor. You Need a DevOps Partner.
-🎥 Episode 10 of 10 — From Legacy to Engineering Excellence with Azure DevOps
+Let’s be clear: outsourcing your DevOps transformation is the least likely way to achieve a positive, sustainable outcome for your business. Why? Because you’re not just buying a set of tools or a shiny new pipeline. You’re buying a black box—one that your own engineers don’t understand, can’t maintain, and will inevitably become dependent on. This is the very definition of vendor lock-in, and it’s a trap that’s both expensive and difficult to escape.
 
-📉 Too many organizations try to “buy” their way to DevOps by outsourcing everything to a vendor.
-Here’s why that fails:
-🔒 Black-box systems your engineers don’t understand
-🔁 Ongoing vendor dependency
-💸 Expensive upgrades and lock-in
-📆 And delays that leave you stuck on outdated tech
+Here’s what typically happens:
 
-Real transformation doesn’t come from the outside in.
-It comes from the inside out.
+- The vendor builds something bespoke, tailored to their own way of working.
+- Your engineers inherit a system they don’t understand.
+- Every time you need a change, you’re back at the vendor’s door—paying for every tweak, every upgrade, every fix.
+- Over time, you fall behind. You’re stuck on old versions, unable to move forward without another costly engagement.
 
-At NKD Agility, we don’t “do DevOps” to you.
-We work with your people—side-by-side—to help them:
-✅ Rebuild their workflows
-✅ Modernize incrementally
-✅ Learn the why behind the tools
-✅ Solve real problems in real time
+This is exactly how organizations end up with legacy systems that are impossible to modernize. It’s how you get stuck on .NET 3.5, or find yourself still using TFVC or Subversion when the rest of the world has moved on to distributed source control like Git.
 
-We don’t just coach. We’ve engineered this journey.
-🧠 Microsoft MVP in DevOps & GitHub
-🔧 Decades of real-world engineering experience
-📈 Proven migration strategies—from TFVC & SVN to Git, from legacy stacks to modern pipelines
+So, what’s the alternative? Partnership, not outsourcing.
 
-📌 Want expert guidance, not hand-holding? Visit https://nkdagility.com
+You need someone who will come in and work alongside your people—not to do the work for them, but to help them do it themselves. This is the approach I take with every organization I work with. I’m not there to rack up billable hours making changes in your system. In fact, I often don’t even have credentials to your environment. My job is to help your engineers:
 
-Let’s get you to engineering excellence—on your terms, at your pace, with real support.
+- Rebuild their workflows for a modern engineering context
+- Refactor and break down legacy systems into manageable pieces
+- Understand the theory and philosophy behind modern practices
+- Tackle real-world problems as they arise, together
 
-👇 Watch the finale. Then let’s talk.
-#EngineeringExcellence #DevOpsTransformation #AzureDevOps #PartnerNotVendor #ModernEngineering #TechnicalLeadership #NKDAgility #MartinHinshelwood #GitMigration #AgileTransformation
-[Watch on Youtube](https://www.youtube.com/watch?v=Q69amJJ8iJY)
+Let me give you a concrete example. I’m currently working with a customer who’s still on TFVC and SDN, with codebases scattered across .NET 3 and 3.5. The challenge isn’t just technical—it’s about mindset, workflow, and incremental progress. How do you even begin to upgrade? Where do you start? What’s the smallest, safest piece you can bite off and deliver value?
+
+Moving from a server-based source control system like TFVC to a distributed system like Git isn’t just a migration. It’s a fundamental shift in how you manage code, branching, releases, and even what you put in your repository. Every decision has downstream implications for your product, your process, and your people.
+
+This is why you need a partner who can:
+
+- Teach: Explain not just the “how” but the “why” behind each change
+- Mentor: Guide your teams through the inevitable bumps in the road
+- Coach: Help your people build confidence and competence
+- Transform: Enable your organization to own its engineering excellence
+
+My background is in software engineering, not just coaching and training. I’m a Microsoft MVP in DevOps and GitHub, and I’ve spent years as a DevOps consultant, building pipelines, modernizing practices, and—most importantly—helping teams build the capability to do it themselves.
+
+If you want to achieve true engineering excellence, you need to do it on your terms, at your pace, with expert guidance—not by handing the keys to a vendor. Let’s work together to build the skills, the mindset, and the practices that will set your organization up for long-term success.
+
+Ready to move beyond vendor lock-in and start your journey to engineering excellence? Let’s talk.

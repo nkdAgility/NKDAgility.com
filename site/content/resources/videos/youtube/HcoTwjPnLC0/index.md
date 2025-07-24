@@ -1,29 +1,15 @@
 ---
+title: Is a Product Owner an Agile Project Manager?
 short_title: Product Owner vs Agile Project Manager Roles
 description: Explains the key differences between a Product Owner and an Agile Project Manager, highlighting their distinct roles, objectives, and focus within Agile teams.
 date: 2023-05-25T07:00:06Z
-ResourceId: HcoTwjPnLC0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: HcoTwjPnLC0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:12Z
-  short_title: 2025-07-07T17:55:04Z
-title: Is a Product Owner an Agile Project Manager?
-videoId: HcoTwjPnLC0
-source: internal
-url: /resources/videos/:slug
-slug: is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
-layout: video
+ResourceImportSource: Youtube
+slug: is-a-product-owner-an-agile-project-manager
 aliases:
 - /resources/HcoTwjPnLC0
 - /resources/videos/is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/videos/is-a-product-owner-an-agile-project-manager-
 - /resources/is-a-product-owner-an-agile-project-manager-
 - is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:12Z
+  short_title: 2025-07-07T17:55:04Z
+videoId: HcoTwjPnLC0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
 duration: 48
 resourceTypes:

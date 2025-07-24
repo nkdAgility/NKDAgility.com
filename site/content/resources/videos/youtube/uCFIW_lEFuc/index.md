@@ -1,12 +1,29 @@
 ---
+title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
 short_title: 6 Signs of Sloth in Agile Teams
 description: Learn to spot six key signs of sloth in Agile teams, including missed deliveries, ignored feedback, rigid processes, and lack of adaptation, to improve true agility.
 date: 2023-10-20T16:01:48Z
-ResourceId: uCFIW_lEFuc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+ResourceId: uCFIW_lEFuc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+aliases:
+- /resources/uCFIW_lEFuc
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth!-7-deadly-sins-of-agile-
+- /resources/sloth!-7-deadly-sins-of-agile-
+- /resources/videos/sloth-7-deadly-sins-of-agile-
+- conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -25,31 +42,14 @@ tags:
 - Organisational Culture
 - Product Validation
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:32Z
   short_title: 2025-07-07T17:52:14Z
-title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
 videoId: uCFIW_lEFuc
-source: youtube
 url: /resources/videos/:slug
-slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
-layout: video
-aliases:
-- /resources/uCFIW_lEFuc
-- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
-- /resources/videos/sloth-7-deadly-sins-of-agile
-aliasesArchive:
-- /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
-- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
-- /resources/videos/sloth!-7-deadly-sins-of-agile-
-- /resources/sloth!-7-deadly-sins-of-agile-
-- /resources/videos/sloth-7-deadly-sins-of-agile-
-- conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
-- /resources/videos/sloth-7-deadly-sins-of-agile
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 resourceTypes:

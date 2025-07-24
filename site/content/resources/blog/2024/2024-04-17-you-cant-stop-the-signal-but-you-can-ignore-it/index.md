@@ -5,10 +5,9 @@ description: Explores why teams ignore clear signals from Agile and Scrum, highl
 date: 2024-04-17
 weight: 330
 ResourceId: KHNSdDjr5K_
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: you-can't-stop-the-signal-but-you-can-ignore-it
 aliases:
 - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
@@ -25,6 +24,7 @@ aliasesArchive:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -43,11 +43,9 @@ tags:
 - Empirical Process Control
 - Software Development
 - Sociotechnical Systems
-ResourceContentOrigin: Hybrid
 ResourceImportId: 51389
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 Watermarks:

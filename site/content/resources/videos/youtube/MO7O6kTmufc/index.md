@@ -1,35 +1,15 @@
 ---
+title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
 short_title: Evidence-Based Management for Project Success
 description: Learn how evidence-based management uses clear outcomes and targeted metrics to improve project success, enabling informed decisions and continuous improvement.
 date: 2024-09-12T13:46:15Z
-ResourceId: MO7O6kTmufc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Evidence Based Leadership
-- Decision Making
-- Evidence Based Management
-- Pragmatic Thinking
-- Metrics and Learning
+ResourceId: MO7O6kTmufc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:58:30Z
-  short_title: 2025-07-07T17:48:14Z
-title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
-videoId: MO7O6kTmufc
-source: youtube
-url: /resources/videos/:slug
-slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
-layout: video
+ResourceImportSource: Youtube
+slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 aliases:
 - /resources/MO7O6kTmufc
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
 - /resources/introduction-to-evidence-based-management-excerpt-2
 - mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Evidence Based Leadership
+- Decision Making
+- Evidence Based Management
+- Pragmatic Thinking
+- Metrics and Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:58:30Z
+  short_title: 2025-07-07T17:48:14Z
+videoId: MO7O6kTmufc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 resourceTypes:

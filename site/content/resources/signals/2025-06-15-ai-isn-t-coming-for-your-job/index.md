@@ -11,8 +11,13 @@ ResourceContentOrigin: human
 slug: ai-isn-t-coming-for-your-job
 aliases:
 - /resources/9nMNRf64yp5
-layout: signal
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7340038002871619584
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:32Z
   short_title: 2025-07-07T16:43:28Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Miscellaneous
 
 ---
 AI isn’t coming for your job. It’s coming for the work that never deserved a human to begin with.

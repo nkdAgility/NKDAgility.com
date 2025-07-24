@@ -1,35 +1,19 @@
 ---
+title: How do you know if you've got a great Sprint Goal?
 short_title: How to Know You Have a Great Sprint Goal
 description: Learn how to identify a great sprint goal by recognising signs of team excitement, curiosity, and engagement, ensuring your Agile sprints inspire motivation and collaboration.
 date: 2023-06-02T11:00:12Z
-ResourceId: AY35ys1uQOY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Software Development
-- Agile Product Management
+ResourceId: AY35ys1uQOY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:54Z
-  short_title: 2025-07-07T17:54:52Z
-title: How do you know if you've got a great Sprint Goal?
-videoId: AY35ys1uQOY
-source: internal
-url: /resources/videos/:slug
-slug: how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
-layout: video
+ResourceImportSource: Youtube
+slug: how-do-you-know-if-you've-got-a-great-sprint-goal
 aliases:
 - /resources/AY35ys1uQOY
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
 aliasesArchive:
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
@@ -37,6 +21,23 @@ aliasesArchive:
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
 - /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Agile Product Management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:54Z
+  short_title: 2025-07-07T17:54:52Z
+videoId: AY35ys1uQOY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
 duration: 43
 resourceTypes:

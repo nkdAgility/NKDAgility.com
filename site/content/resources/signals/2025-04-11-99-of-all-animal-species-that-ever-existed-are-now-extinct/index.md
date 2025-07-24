@@ -7,12 +7,17 @@ weight: 730
 ResourceId: qMzA_cuW2QF
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: 99-of-all-animal-species-that-ever-existed-are-now-extinct
 aliases:
 - /resources/qMzA_cuW2QF
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Philosophy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7316482663165353984
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:34Z
   short_title: 2025-07-07T16:44:56Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agile Philosophy
 
 ---
 99% of all animal species that have ever existed are extinct.

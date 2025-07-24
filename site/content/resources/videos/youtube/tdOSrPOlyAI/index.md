@@ -1,33 +1,15 @@
 ---
+title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
 short_title: Naked Agility for Engineering Excellence
 description: Explores how adopting naked agility boosts engineering excellence, quality, and leadership by addressing technical debt, shifting left, and fostering a culture of improvement.
 date: 2024-11-30T06:00:00Z
-ResourceId: tdOSrPOlyAI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 175
-concepts: []
-categories:
-- Engineering Excellence
-- Technical Leadership
-- Product Development
-tags:
-- Software Development
-- Technical Mastery
+ResourceId: tdOSrPOlyAI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:58Z
-  short_title: 2025-07-07T17:47:20Z
-title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
-videoId: tdOSrPOlyAI
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
-layout: video
 aliases:
 - /resources/tdOSrPOlyAI
 - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
 - transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+source: youtube
+layout: video
+concepts: []
+categories:
+- Engineering Excellence
+- Technical Leadership
+- Product Development
+tags:
+- Software Development
+- Technical Mastery
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:58Z
+  short_title: 2025-07-07T17:47:20Z
+videoId: tdOSrPOlyAI
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 resourceTypes:

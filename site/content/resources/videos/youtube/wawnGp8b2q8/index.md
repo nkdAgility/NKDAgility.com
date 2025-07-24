@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
 short_title: Poly Immersive Learning for Growth
 description: Explores how poly immersive learning enhances professional growth through real-world feedback, reflection, collaboration, and practical application for lasting impact.
 date: 2023-07-13T12:20:07Z
-ResourceId: wawnGp8b2q8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
+ResourceId: wawnGp8b2q8
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:38Z
-  short_title: 2025-07-07T17:53:55Z
-title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
-videoId: wawnGp8b2q8
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
-layout: video
 aliases:
 - /resources/wawnGp8b2q8
 - /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
 - unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:38Z
+  short_title: 2025-07-07T17:53:55Z
+videoId: wawnGp8b2q8
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 resourceTypes:

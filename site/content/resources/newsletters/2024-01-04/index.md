@@ -4,9 +4,11 @@ short_title: Master Scrum in 2024 with NKDAgility – 20% Off
 description: Advance your Agile skills in 2024 with expert-led Scrum training, hands-on practice, and a 20% discount. Suitable for Product Owners, Scrum Masters, and Agile leaders.
 date: 2024-01-04
 weight: 690
+author: MrHinsh
 ResourceId: Knb7n17SqYe
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: unlock-your-potential-in-2024-master-scrum-with-nkdagility-exclusive-20-discount
 aliases:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
@@ -15,17 +17,15 @@ aliases:
 aliasesArchive:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+layout: newsletter
 concepts: []
 categories:
 - Scrum
 tags:
 - Professional Scrum
 - Software Development
-ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
-author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:06:41Z
   short_title: 2025-07-07T17:50:30Z

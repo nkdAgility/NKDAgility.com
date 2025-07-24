@@ -1,33 +1,15 @@
 ---
+title: Why Azure DevOps is the Ultimate Game Changer for Scrum Masters and Agile Teams
 short_title: Azure DevOps for Scrum Masters and Agile Teams
 description: Explains how Azure DevOps streamlines agile workflows for Scrum Masters and teams, offering simplicity, integrated tools, real-time insights, and improved collaboration.
 date: 2023-09-28T07:00:22Z
-ResourceId: Zegnsk2Nl0Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- Product Development
-tags:
-- Software Development
-- Scrum Master
-- Collaboration Tools
+ResourceId: Zegnsk2Nl0Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:15Z
-  short_title: 2025-07-07T17:52:49Z
-title: Why Azure DevOps is the Ultimate Game Changer for Scrum Masters and Agile Teams
-videoId: Zegnsk2Nl0Y
-source: youtube
-url: /resources/videos/:slug
-slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
-layout: video
+ResourceImportSource: Youtube
+slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 aliases:
 - /resources/Zegnsk2Nl0Y
 - /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
@@ -38,6 +20,24 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-5
 - /resources/5-tools-that-scrum-masters-love-part-5
 - why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
+source: youtube
+layout: video
+concepts:
+- Tool
+categories:
+- Product Development
+tags:
+- Software Development
+- Scrum Master
+- Collaboration Tools
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:15Z
+  short_title: 2025-07-07T17:52:49Z
+videoId: Zegnsk2Nl0Y
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 resourceTypes:

@@ -1,12 +1,28 @@
 ---
+title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 short_title: 'Say-Do Metrics: Risks and Outcome Focus in Agile'
 description: Explains the risks of using say-do metrics in Agile, highlighting how they encourage vanity metrics, harm psychological safety, and shift focus from outcomes to outputs.
 date: 2024-01-05T07:00:28Z
-ResourceId: oKZ9bbESCok
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
+ResourceId: oKZ9bbESCok
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
+aliases:
+- /resources/oKZ9bbESCok
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+aliasesArchive:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+- say-do-metrics-avoiding-agile-banditry-in-your-organization
+source: internal
+layout: video
 concepts:
 - Strategy
 categories:
@@ -25,30 +41,14 @@ tags:
 - Evidence Based Management
 - Team Performance
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:37Z
   short_title: 2025-07-07T17:50:26Z
-title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 videoId: oKZ9bbESCok
-source: internal
 url: /resources/videos/:slug
-slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
-layout: video
-aliases:
-- /resources/oKZ9bbESCok
-- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
-aliasesArchive:
-- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
-- say-do-metrics-avoiding-agile-banditry-in-your-organization
 preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 resourceTypes:

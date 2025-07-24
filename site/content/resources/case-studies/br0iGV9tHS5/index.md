@@ -7,13 +7,10 @@ weight: 395
 ResourceId: br0iGV9tHS5
 ResourceImport: false
 ResourceType: case-studies
+ResourceContentOrigin: human
 slug: enabled-organisational-change-in-the-ghana-police-service
 aliases:
 - /resources/br0iGV9tHS5
-ResourceContentOrigin: human
-Watermarks:
-  description: 2025-06-17T09:44:06Z
-  short_title: 2025-07-07T16:43:35Z
 concepts:
 - Framework
 categories:
@@ -36,6 +33,9 @@ tags:
 - Enterprise Agility
 - Sociotechnical Systems
 - Operational Practices
+Watermarks:
+  description: 2025-06-17T09:44:06Z
+  short_title: 2025-07-07T16:43:35Z
 
 ---
 ## Client Context

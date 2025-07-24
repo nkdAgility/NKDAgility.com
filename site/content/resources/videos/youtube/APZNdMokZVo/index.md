@@ -1,12 +1,27 @@
 ---
+title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
 short_title: Definition of Done in Agile for Quality Delivery
 description: Explains why a clear Definition of Done is vital in Agile and Scrum for quality delivery, transparency, and risk mitigation, with tips for team alignment and improvement.
 date: 2023-11-13T06:56:47Z
-ResourceId: APZNdMokZVo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+ResourceId: APZNdMokZVo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
+aliases:
+- /resources/APZNdMokZVo
+- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
+- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
+aliasesArchive:
+- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
+- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
+- /resources/what-is-a-definition-of-done-why-is-it-so-important-
+- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
+- unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
+source: youtube
+layout: video
 concepts:
 - Artifact
 categories:
@@ -22,29 +37,14 @@ tags:
 - Professional Scrum
 - Transparency
 - Agile Frameworks
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:56Z
   short_title: 2025-07-07T17:51:49Z
-title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
 videoId: APZNdMokZVo
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
-layout: video
-aliases:
-- /resources/APZNdMokZVo
-- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
-aliasesArchive:
-- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
-- /resources/what-is-a-definition-of-done-why-is-it-so-important-
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
-- unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 resourceTypes:

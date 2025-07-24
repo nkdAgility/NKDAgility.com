@@ -1,29 +1,15 @@
 ---
+title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 short_title: Transforming Organisational Culture for Engineering Excellence
 description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
 date: 2024-12-21T06:00:00Z
-ResourceId: KhKFVRcdbGo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 305
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: KhKFVRcdbGo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:35Z
-  short_title: 2025-07-07T17:47:04Z
-title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
-videoId: KhKFVRcdbGo
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
-layout: video
 aliases:
 - /resources/KhKFVRcdbGo
 - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
@@ -33,6 +19,20 @@ aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:35Z
+  short_title: 2025-07-07T17:47:04Z
+videoId: KhKFVRcdbGo
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 resourceTypes:

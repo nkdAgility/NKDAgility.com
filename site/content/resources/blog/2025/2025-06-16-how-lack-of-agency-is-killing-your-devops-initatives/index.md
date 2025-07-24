@@ -7,10 +7,10 @@ weight: 285
 ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: how-lack-of-agency-is-killing-your-devops-initiatives
 aliases:
 - /resources/AgIU1SK-3pE
-ResourceContentOrigin: hybrid
 aliasesArchive:
 - /how-lack-of-agency-is-killing-your-devops-initiatives
 - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
@@ -24,6 +24,7 @@ tags:
 - Agentic Agility
 - Technical Mastery
 - Social Technologies
+- Agentic Engineering
 - Pragmatic Thinking
 - Software Development
 - Operational Practices

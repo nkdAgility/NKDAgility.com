@@ -5,18 +5,12 @@ description: Explains why Sprints are valuable even with continuous delivery, hi
 date: 2017-05-17
 weight: 390
 ResourceId: nIIA3IUtX_z
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: i-do-continuous-deliver-why-should-i-sprint
 aliases:
 - /resources/nIIA3IUtX_z
-ResourceContentOrigin: Human
-ResourceImportId: 11885
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/continuous-deliver-sprint
 - /continuous-deliver-sprint
@@ -25,6 +19,7 @@ aliasesArchive:
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
+layout: blog
 concepts:
 - Framework
 categories:
@@ -44,6 +39,9 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Value Delivery
+ResourceImportId: 11885
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:37Z

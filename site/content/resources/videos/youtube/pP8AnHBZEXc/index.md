@@ -1,41 +1,39 @@
 ---
+title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
 short_title: Professional Scrum Foundations & PSM I Guide
 description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
 date: 2020-05-28T05:34:33Z
-ResourceId: pP8AnHBZEXc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
+ResourceId: pP8AnHBZEXc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:42Z
-  short_title: 2025-07-07T17:58:05Z
-title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
-videoId: pP8AnHBZEXc
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-layout: video
 aliases:
 - /resources/pP8AnHBZEXc
-- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/27th-may-2020-office-hours-ask-me-anything
 - /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+source: youtube
+layout: video
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:42Z
+  short_title: 2025-07-07T17:58:05Z
+videoId: pP8AnHBZEXc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 resourceTypes:

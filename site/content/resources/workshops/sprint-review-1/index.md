@@ -7,6 +7,7 @@ weight: 640
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 slug: sprint-review-1
 aliases:
 - /workshops/Sprint-Review-1.html
@@ -17,6 +18,7 @@ aliasesArchive:
 - /workshops/Sprint-Review-1.html
 - /learn/agile-delivery-kit/workshops/Sprint-Review-1
 - /learn/agile-delivery-kit/workshops/sprint-review-1/
+layout: workshop
 concepts:
 - Method
 categories:
@@ -39,8 +41,6 @@ tags:
 - Value Delivery
 - Agile Transformation
 resourceTypes: workshop
-layout: workshop
-ResourceContentOrigin: Human
 creator: Martin Hinshelwood
 references: 
 recommendedContent:

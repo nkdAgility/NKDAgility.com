@@ -7,26 +7,12 @@ weight: 380
 ResourceId: 3R0CYmaHd63
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: not-all-surprises-in-product-development-are-true-unknowns
 aliases:
 - /resources/3R0CYmaHd63
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7322643488703995904
-  post_id: "7322643488703995904"
-  post_date: 2025-04-28T14:30:55Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:10Z
-  short_title: 2025-07-07T16:44:37Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -42,6 +28,20 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Agile Product Management
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7322643488703995904
+  post_id: "7322643488703995904"
+  post_date: 2025-04-28T14:30:55Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:10Z
+  short_title: 2025-07-07T16:44:37Z
 
 ---
 Not all surprises in product development are true unknowns. Many are just the result of bad backlog management.

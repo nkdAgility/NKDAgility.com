@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: evolving-engineering-practices-to-improve-sprint-workflow-in-scrum
 aliases:
 - /resources/jLgGAlKQ7-O
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333877465657872386
-  post_id: "7333877465657872386"
-  post_date: 2025-05-29T14:30:45Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:48Z
-  short_title: 2025-07-07T16:43:53Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -41,6 +27,20 @@ tags:
 - Operational Practices
 - Team Performance
 - Technical Debt
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333877465657872386
+  post_id: "7333877465657872386"
+  post_date: 2025-05-29T14:30:45Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:48Z
+  short_title: 2025-07-07T16:43:53Z
 
 ---
 Want to flow work across Sprints without compromising Scrum? Then your engineering practices must evolve. The difference between “Unfinished Backlog Items” and “Undone Work” is critical.

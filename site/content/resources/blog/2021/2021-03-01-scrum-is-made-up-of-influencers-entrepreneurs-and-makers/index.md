@@ -5,10 +5,9 @@ description: Explains how Scrum teams rely on three key roles—Influencers, Ent
 date: 2021-03-01
 weight: 665
 ResourceId: DdQ1nKvk-hv
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
 - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
@@ -27,16 +26,15 @@ aliasesArchive:
 - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+layout: blog
 concepts: []
 categories:
 - Leadership
 - Product Development
 tags: []
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45946
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-4-5-5.png
 Watermarks:

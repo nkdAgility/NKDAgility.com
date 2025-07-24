@@ -1,34 +1,15 @@
 ---
+title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
 short_title: Key Strategies for Product Owner Success
 description: Learn how product owners can boost team success by connecting work to value, making evidence-based decisions, and improving time to market through agile practices.
 date: 2023-09-20T07:00:00Z
-ResourceId: a6aw7xmS2oc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Management
-- Product Development
-tags:
-- Customer Focus
-- Agile Product Management
-- Product Owner
-- Value Delivery
+ResourceId: a6aw7xmS2oc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:26Z
-  short_title: 2025-07-07T17:53:00Z
-title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
-videoId: a6aw7xmS2oc
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
-layout: video
 aliases:
 - /resources/a6aw7xmS2oc
 - /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Management
+- Product Development
+tags:
+- Customer Focus
+- Agile Product Management
+- Product Owner
+- Value Delivery
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:26Z
+  short_title: 2025-07-07T17:53:00Z
+videoId: a6aw7xmS2oc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 resourceTypes:

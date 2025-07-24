@@ -1,30 +1,15 @@
 ---
+title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
 short_title: Patience and Inclusivity in Agile Transformation
 description: Explores the importance of patience in agile adoption, highlighting inclusive decision-making, stakeholder engagement, and thoughtful organisational change for lasting impact.
 date: 2023-12-04T08:39:06Z
-ResourceId: vftc6m70a0w
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 800
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags: []
+ResourceId: vftc6m70a0w
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:19Z
-  short_title: 2025-07-07T17:51:21Z
-title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
-videoId: vftc6m70a0w
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
-layout: video
 aliases:
 - /resources/vftc6m70a0w
 - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
@@ -34,6 +19,21 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
 - embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+source: youtube
+layout: video
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:19Z
+  short_title: 2025-07-07T17:51:21Z
+videoId: vftc6m70a0w
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 resourceTypes:

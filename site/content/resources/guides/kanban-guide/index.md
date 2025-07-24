@@ -4,43 +4,43 @@ short_title: Kanban Guide
 description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
 date: 2025-05-01
 weight: 840
+author:
+- John Coleman
+- Daniel Vacanti
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
-slug: kanban-guide
-author:
-  - John Coleman
-  - Daniel Vacanti
-aliases:
-  - /learn/agile-delivery-kit/guides/kanban-guide
-  - /resources/uD_5MdHKu1Q
-aliasesArchive:
-  - /learn/agile-delivery-kit/guides/kanban-guide
-concepts:
-  - Method
-categories:
-  - Kanban
-  - Lean
-tags:
-  - Definition of Workflow
-  - Service Level Expectation
-  - Agile Frameworks
-  - Flow Efficiency
-  - Operational Practices
-  - Software Development
-  - Value Delivery
-  - Throughput
-  - Lean Principles
-  - Lean Thinking
 ResourceContentOrigin: Human
-resourceTypes: guide
+slug: kanban-guide
+aliases:
+- /learn/agile-delivery-kit/guides/kanban-guide
+- /resources/uD_5MdHKu1Q
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/kanban-guide
 layout: guide
+concepts:
+- Method
+categories:
+- Kanban
+- Lean
+tags:
+- Definition of Workflow
+- Service Level Expectation
+- Agile Frameworks
+- Flow Efficiency
+- Operational Practices
+- Software Development
+- Value Delivery
+- Throughput
+- Lean Principles
+- Lean Thinking
+resourceTypes: guide
 references:
-  - title: The Kanban Guide
-    url: https://kanbanguides.org/english/
+- title: The Kanban Guide
+  url: https://kanbanguides.org/english/
 recommendedContent:
-  - collection: practices
-    path: _practices/service-level-expectation-sle.md
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
 card:
   button:
@@ -50,8 +50,8 @@ card:
 Watermarks:
   description: 2025-05-16T10:06:25Z
   short_title: 2025-07-07T16:40:30Z
----
 
+---
 This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.
 
 This guide has conventions for some terms. They are not meant to replace any other existing definitions but to clarify how they are intended to be applied here.

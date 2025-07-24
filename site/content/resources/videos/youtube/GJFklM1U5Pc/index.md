@@ -1,12 +1,28 @@
 ---
+title: 'The Competence Crisis in Scrum Master Roles: A Call for Excellence'
 short_title: Scrum Master Competence Crisis Explained
 description: Many Scrum Masters lack essential skills and experience, leading to poor agile outcomes. True competence requires deep knowledge, practical experience, and ongoing learning.
 date: 2024-10-16T07:00:09Z
-ResourceId: GJFklM1U5Pc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 280
+ResourceId: GJFklM1U5Pc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+aliases:
+- /resources/GJFklM1U5Pc
+- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+aliasesArchive:
+- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+- /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+- /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+source: internal
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -19,30 +35,14 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:29Z
   short_title: 2025-07-07T17:47:47Z
-title: 'The Competence Crisis in Scrum Master Roles: A Call for Excellence'
 videoId: GJFklM1U5Pc
-source: internal
 url: /resources/videos/:slug
-slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-layout: video
-aliases:
-- /resources/GJFklM1U5Pc
-- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-aliasesArchive:
-- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-- /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-- the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg
 duration: 1313
 resourceTypes:

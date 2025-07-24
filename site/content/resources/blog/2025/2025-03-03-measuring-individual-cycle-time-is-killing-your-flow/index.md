@@ -4,9 +4,13 @@ short_title: Why Individual Cycle Time Hurts Kanban Flow
 description: Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.
 date: 2025-03-03T09:00:00
 weight: 245
+contributors:
+- name: Nigel Thurlow
+  external: https://www.linkedin.com/in/nigelthurlow/
 ResourceId: KHEPBWiFDKJ
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliases:
 - /resources/KHEPBWiFDKJ
@@ -17,6 +21,7 @@ aliasesArchive:
 - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+layout: blog
 concepts:
 - Principle
 categories:
@@ -39,14 +44,6 @@ tags:
 - Value Stream Management
 - Continuous Improvement
 - Market Adaptability
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
-layout: blog
-resourceTypes: blog
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
@@ -56,6 +53,9 @@ platform_signals:
   post_url: https://www.prokanban.org/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
   post_date: 2025-05-22T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:20Z
   short_title: 2025-07-07T16:45:40Z

@@ -1,17 +1,17 @@
 ---
 title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
 short_title: 'Fragile by Design: The Cost of Fake Resilience'
+subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
 description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
 date: 2025-05-12T09:00:00Z
 weight: 165
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: fragile-by-design-the-cost-of-pretending-to-be-resilient
 aliases:
 - /resources/LGGuvRq4g7p
-ResourceContentOrigin: hybrid
-subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
 aliasesArchive:
 - /fragile-by-design--the-cost-of-pretending-to-be-resilient
 - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient

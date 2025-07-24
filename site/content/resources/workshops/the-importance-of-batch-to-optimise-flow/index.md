@@ -7,6 +7,7 @@ weight: 580
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 slug: the-importance-of-batch-to-optimise-flow
 aliases:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
@@ -17,6 +18,7 @@ aliasesArchive:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
+layout: workshop
 concepts:
 - Method
 categories:
@@ -26,9 +28,7 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-ResourceContentOrigin: Human
 resourceTypes: workshop
-layout: workshop
 creator: Martin Hinshelwood
 card:
   button:

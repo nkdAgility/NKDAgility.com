@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
 short_title: Unlocking Product Value with User Feedback
 description: Real user feedback is essential in product development to validate assumptions, guide improvements, and ensure your product delivers real value to its target audience.
 date: 2025-02-07T07:52:12Z
-ResourceId: rbEQRJrs4NY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Customer Focus
+ResourceId: rbEQRJrs4NY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:45Z
-  short_title: 2025-07-07T17:46:43Z
-title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
-videoId: rbEQRJrs4NY
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
-layout: video
 aliases:
 - /resources/rbEQRJrs4NY
 - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/from-assumption-to-real-value-user-test
 - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
 - unlocking-product-value-why-real-user-feedback-is-your-best-asset
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Customer Focus
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:45Z
+  short_title: 2025-07-07T17:46:43Z
+videoId: rbEQRJrs4NY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
 resourceTypes:

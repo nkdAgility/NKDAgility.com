@@ -1,12 +1,27 @@
 ---
+title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
 short_title: Boosting Team Morale with Mentorship Programs
 description: Explores how long-term mentorship programmes boost team morale, engagement, and performance by fostering intrinsic motivation, collaboration, and continuous learning.
 date: 2024-09-02T07:00:19Z
-ResourceId: TCs2IxB118c
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 530
+ResourceId: TCs2IxB118c
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: boosting-team-morale-and-engagement-through-effective-mentorship-programs
+aliases:
+- /resources/TCs2IxB118c
+- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
+aliasesArchive:
+- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
+- /resources/the-power-of-engaged-teams-through-mentorship-programs
+- boosting-team-morale-and-engagement-through-effective-mentorship-programs
+source: internal
+layout: video
 concepts: []
 categories:
 - Leadership
@@ -19,29 +34,14 @@ tags:
 - Team Performance
 - Personal
 - Organisational Culture
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:41Z
   short_title: 2025-07-07T17:48:21Z
-title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
 videoId: TCs2IxB118c
-source: internal
 url: /resources/videos/:slug
-slug: boosting-team-morale-and-engagement-through-effective-mentorship-programs
-layout: video
-aliases:
-- /resources/TCs2IxB118c
-- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
-- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
-aliasesArchive:
-- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
-- /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
-- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
-- /resources/the-power-of-engaged-teams-through-mentorship-programs
-- boosting-team-morale-and-engagement-through-effective-mentorship-programs
 preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
 duration: 540
 resourceTypes:

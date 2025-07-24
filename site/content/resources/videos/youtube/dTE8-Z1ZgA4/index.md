@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Training and Team Dynamics'
 short_title: Agile Training with Minecraft Case Study
 description: Discover how using a Minecraft-based case study enhances Agile training by boosting engagement, illustrating complexity, and improving team collaboration in real-world scenarios.
 date: 2023-08-29T07:00:14Z
-ResourceId: dTE8-Z1ZgA4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Pragmatic Thinking
+ResourceId: dTE8-Z1ZgA4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:48Z
-  short_title: 2025-07-07T17:53:19Z
-title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Training and Team Dynamics'
-videoId: dTE8-Z1ZgA4
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 aliases:
 - /resources/dTE8-Z1ZgA4
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:48Z
+  short_title: 2025-07-07T17:53:19Z
+videoId: dTE8-Z1ZgA4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 resourceTypes:

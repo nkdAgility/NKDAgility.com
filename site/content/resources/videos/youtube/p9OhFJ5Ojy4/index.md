@@ -1,12 +1,25 @@
 ---
+title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 short_title: Agile Evolution for Thriving in Rapid Change
 description: Explores why continuous organisational evolution, not fixed transformations, is essential for adapting to rapid change, fostering agility, and enabling sustainable growth.
 date: 2020-07-22T10:08:06Z
-ResourceId: p9OhFJ5Ojy4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: p9OhFJ5Ojy4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+aliases:
+- /resources/p9OhFJ5Ojy4
+aliasesArchive:
+- /resources/videos/agile-in-nigeria-the-inevitability-of-change
+- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+- embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+source: youtube
+layout: video
 concepts:
 - Ethos
 categories:
@@ -17,29 +30,14 @@ tags:
 - Pragmatic Thinking
 - Business Agility
 - Change Management
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:26Z
   short_title: 2025-07-07T17:57:51Z
-title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 videoId: p9OhFJ5Ojy4
-source: youtube
 url: /resources/videos/:slug
-slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-layout: video
-aliases:
-- /resources/p9OhFJ5Ojy4
-- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
-aliasesArchive:
-- /resources/videos/agile-in-nigeria-the-inevitability-of-change
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
-- /resources/agile-in-nigeria-2020-the-inevitability-of-change
-- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-- embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 resourceTypes:

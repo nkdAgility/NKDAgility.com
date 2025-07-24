@@ -7,12 +7,19 @@ weight: 375
 ResourceId: PWgzGL20QAo
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: resilience-is-not-a-department
 aliases:
 - /resources/PWgzGL20QAo
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Capability
+categories:
+- Product Development
+tags:
+- Software Development
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7329528712498999296
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-23T23:53:47Z
   short_title: 2025-07-07T16:44:08Z
-concepts:
-- Capability
-categories:
-- Product Development
-tags:
-- Software Development
-- Miscellaneous
 
 ---
 Resilience is not a department. It's not a project. It's not an afterthought.

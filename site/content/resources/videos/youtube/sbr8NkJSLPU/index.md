@@ -1,34 +1,15 @@
 ---
+title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
 short_title: Defining and Visualising Kanban Workflows
 description: Learn how to define and visualise workflows in Kanban to boost team clarity, alignment, and efficiency, with practical steps for stable processes and effective task management.
 date: 2024-02-27T07:00:31Z
-ResourceId: sbr8NkJSLPU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Practice
-categories:
-- Kanban
-tags:
-- Definition of Workflow
-- Operational Practices
-- Software Development
-- Agile Frameworks
+ResourceId: sbr8NkJSLPU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:34Z
-  short_title: 2025-07-07T17:49:35Z
-title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
-videoId: sbr8NkJSLPU
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-layout: video
 aliases:
 - /resources/sbr8NkJSLPU
 - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+source: youtube
+layout: video
+concepts:
+- Practice
+categories:
+- Kanban
+tags:
+- Definition of Workflow
+- Operational Practices
+- Software Development
+- Agile Frameworks
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:34Z
+  short_title: 2025-07-07T17:49:35Z
+videoId: sbr8NkJSLPU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 resourceTypes:

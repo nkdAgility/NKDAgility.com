@@ -1,12 +1,27 @@
 ---
+title: The Importance of Patience and Trust in Building Agile Organizations
 short_title: Patience and Trust in Agile Organizations
 description: Explores how patience and trust foster effective Agile teams, support learning from failure, prevent blame culture, and enable innovation through empiricism and collaboration.
 date: 2023-12-08T07:00:06Z
-ResourceId: 9VHasQBlQc8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: 9VHasQBlQc8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-importance-of-patience-and-trust-in-building-agile-organizations
+aliases:
+- /resources/9VHasQBlQc8
+- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/videos/7-virtues-of-agile-patience
+aliasesArchive:
+- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/videos/7-virtues-of-agile-patience
+- /resources/7-virtues-of-agile-patience
+- the-importance-of-patience-and-trust-in-building-agile-organizations
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -22,29 +37,14 @@ tags:
 - Agile Strategy
 - Business Agility
 - Psychological Safety
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:09Z
   short_title: 2025-07-07T17:51:12Z
-title: The Importance of Patience and Trust in Building Agile Organizations
 videoId: 9VHasQBlQc8
-source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-patience-and-trust-in-building-agile-organizations
-layout: video
-aliases:
-- /resources/9VHasQBlQc8
-- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
-- /resources/videos/7-virtues-of-agile-patience
-aliasesArchive:
-- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
-- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
-- /resources/videos/7-virtues-of-agile-patience
-- /resources/7-virtues-of-agile-patience
-- the-importance-of-patience-and-trust-in-building-agile-organizations
 preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
 duration: 156
 resourceTypes:

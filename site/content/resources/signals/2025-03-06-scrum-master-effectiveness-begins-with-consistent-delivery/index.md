@@ -7,12 +7,21 @@ weight: 440
 ResourceId: KWm8S39saqg
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-master-effectiveness-begins-with-consistent-delivery
 aliases:
 - /resources/KWm8S39saqg
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Scrum Master
+- Software Development
+- Product Delivery
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7303451920952623106
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:30Z
   short_title: 2025-07-07T16:45:35Z
-concepts: []
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
-tags:
-- Scrum Master
-- Software Development
-- Product Delivery
 
 ---
 Scrum Masters love to talk about effectiveness, but here’s a reality check—effectiveness starts with delivery.

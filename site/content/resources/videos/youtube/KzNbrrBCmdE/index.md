@@ -1,29 +1,15 @@
 ---
+title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility for Project Success'
 short_title: 'Mastering the Agile Balance: Flexibility vs Structure'
 description: Explores how agile teams can balance flexibility and structure, manage data integrity, and adapt processes to achieve project goals and improve decision-making.
 date: 2024-09-19T11:05:27Z
-ResourceId: KzNbrrBCmdE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: KzNbrrBCmdE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:41Z
-  short_title: 2025-07-07T17:47:55Z
-title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility for Project Success'
-videoId: KzNbrrBCmdE
-source: youtube
-url: /resources/videos/:slug
-slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
-layout: video
+ResourceImportSource: Youtube
+slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 aliases:
 - /resources/KzNbrrBCmdE
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:41Z
+  short_title: 2025-07-07T17:47:55Z
+videoId: KzNbrrBCmdE
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 resourceTypes:

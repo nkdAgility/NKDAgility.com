@@ -1,33 +1,15 @@
 ---
+title: Does 'starting with why' - Simon Sinek - really matter?
 short_title: Does 'Starting with Why' Matter in Agile?
 description: Explores how defining purpose and starting with 'why' boosts motivation, engagement, and success in Agile teams, drawing on insights from Simon Sinek and Dan Pink.
 date: 2023-10-19T08:22:23Z
-ResourceId: sAKCLQ38GzA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Strategy
-categories:
-- Product Development
-tags:
-- Team Motivation
-- Agile Philosophy
-- Organisational Agility
+ResourceId: sAKCLQ38GzA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:39Z
-  short_title: 2025-07-07T17:52:19Z
-title: Does 'starting with why' - Simon Sinek - really matter?
-videoId: sAKCLQ38GzA
-source: internal
-url: /resources/videos/:slug
-slug: does-starting-with-why-simon-sinek-really-matter
-layout: video
+ResourceImportSource: Youtube
+slug: does-'starting-with-why'-simon-sinek-really-matter
 aliases:
 - /resources/sAKCLQ38GzA
 - /resources/videos/does-starting-with-why-simon-sinek-really-matter
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
 - does-starting-with-why-simon-sinek-really-matter
+source: internal
+layout: video
+concepts:
+- Strategy
+categories:
+- Product Development
+tags:
+- Team Motivation
+- Agile Philosophy
+- Organisational Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:39Z
+  short_title: 2025-07-07T17:52:19Z
+videoId: sAKCLQ38GzA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 resourceTypes:

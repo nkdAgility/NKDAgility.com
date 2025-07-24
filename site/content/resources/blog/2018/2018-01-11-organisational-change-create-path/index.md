@@ -5,24 +5,19 @@ description: Learn how to achieve organisational agility by tailoring change to 
 date: 2018-01-11
 weight: 290
 ResourceId: RdwxVidD26i
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: create-your-own-path-to-organisational-agility
 aliases:
 - /resources/RdwxVidD26i
-ResourceContentOrigin: Hybrid
-ResourceImportId: 11214
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/organisational-change-create-path
 - /organisational-change-create-path
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
+layout: blog
 concepts:
 - Strategy
 categories:
@@ -45,6 +40,9 @@ tags:
 - Change Management
 - Pragmatic Thinking
 - Organisational Culture
+ResourceImportId: 11214
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:22Z

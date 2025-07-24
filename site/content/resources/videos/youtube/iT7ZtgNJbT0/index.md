@@ -1,30 +1,15 @@
 ---
+title: What was your best day as an Agile consultant?
 short_title: Best Day as an Agile Consultant
 description: A personal story highlighting how Agile consulting and Scrum workshops sparked lasting transformation for a development team, with impact felt years after the engagement.
 date: 2023-03-27T07:00:30Z
-ResourceId: iT7ZtgNJbT0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Personal
+ResourceId: iT7ZtgNJbT0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:31Z
-  short_title: 2025-07-07T17:56:15Z
-title: What was your best day as an Agile consultant?
-videoId: iT7ZtgNJbT0
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-was-your-best-day-as-an-agile-consultant
-layout: video
 aliases:
 - /resources/iT7ZtgNJbT0
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
 - /resources/what-was-your-best-day-as-an-agile-consultant-
 - what-was-your-best-day-as-an-agile-consultant
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Personal
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:31Z
+  short_title: 2025-07-07T17:56:15Z
+videoId: iT7ZtgNJbT0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 resourceTypes:

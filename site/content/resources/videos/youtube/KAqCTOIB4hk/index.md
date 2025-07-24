@@ -1,36 +1,15 @@
 ---
+title: Unlocking the Power of Immersive Learning for Product Management
 short_title: Immersive Learning in Product Management
 description: Explores how immersive learning in product management blends practical assignments, evidence-based metrics, and reflection to drive real organisational change and improvement.
 date: 2024-08-12T10:03:43Z
-ResourceId: KAqCTOIB4hk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
-concepts:
-- Capability
-categories:
-- Product Management
-- Product Development
-tags:
-- Continuous Improvement
-- Metrics and Learning
-- Continuous Learning
-- Evidence Based Leadership
-- Pragmatic Thinking
+ResourceId: KAqCTOIB4hk
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:12Z
-  short_title: 2025-07-07T17:48:38Z
-title: Unlocking the Power of Immersive Learning for Product Management
-videoId: KAqCTOIB4hk
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-the-power-of-immersive-learning-for-product-management
-layout: video
 aliases:
 - /resources/KAqCTOIB4hk
 - /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
@@ -42,6 +21,27 @@ aliasesArchive:
 - /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
 - unlocking-the-power-of-immersive-learning-for-product-management
+source: internal
+layout: video
+concepts:
+- Capability
+categories:
+- Product Management
+- Product Development
+tags:
+- Continuous Improvement
+- Metrics and Learning
+- Continuous Learning
+- Evidence Based Leadership
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:12Z
+  short_title: 2025-07-07T17:48:38Z
+videoId: KAqCTOIB4hk
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
 duration: 574
 resourceTypes:

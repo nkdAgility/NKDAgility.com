@@ -1,12 +1,26 @@
 ---
+title: What is the hardest part of working with a brand-new scrum team?
 short_title: Hardest Part of Working With New Scrum Teams
 description: The biggest challenge with new scrum teams is overcoming misconceptions about scrum and shifting focus from process mechanics to core agile principles and empirical learning.
 date: 2023-02-03T07:00:00Z
-ResourceId: -xMY9Heanjk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
+ResourceId: -xMY9Heanjk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+aliases:
+- /resources/-xMY9Heanjk
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+aliasesArchive:
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -24,28 +38,14 @@ tags:
 - Scrum Master
 - Scrum Team
 - Coaching
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:15Z
   short_title: 2025-07-07T17:56:54Z
-title: What is the hardest part of working with a brand-new scrum team?
 videoId: -xMY9Heanjk
-source: internal
 url: /resources/videos/:slug
-slug: what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-layout: video
-aliases:
-- /resources/-xMY9Heanjk
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-aliasesArchive:
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
-- what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
 duration: 263
 resourceTypes:

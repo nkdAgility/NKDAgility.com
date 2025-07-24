@@ -1,13 +1,26 @@
 ---
+title: Why Validate Your Advanced Product Ownership Skills with a PSPO-A
 short_title: Validate Advanced Product Ownership with PSPO-A
 description: Learn why validating advanced product ownership skills with a PSPO-A demonstrates expertise, leadership, and the ability to drive product success in Agile environments.
 date: 2023-06-08T11:00:05Z
-ResourceId: 8F3SK4sPj3M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: 8F3SK4sPj3M
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+aliases:
+- /resources/8F3SK4sPj3M
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
+aliasesArchive:
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -19,21 +32,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:46Z
   short_title: 2025-07-07T17:54:45Z
-title: Why Validate Your Advanced Product Ownership Skills with a PSPO-A
 videoId: 8F3SK4sPj3M
-source: internal
 url: /resources/videos/:slug
-slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
-layout: video
-aliases:
-- /resources/8F3SK4sPj3M
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
-aliasesArchive:
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
-- why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 preview: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg
 duration: 43
 resourceTypes:
