@@ -7,26 +7,12 @@ weight: 335
 ResourceId: Rx4LP6ywHVh
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-masters-and-product-owners-are-held-accountable-for-results
 aliases:
 - /resources/Rx4LP6ywHVh
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307438077285654528
-  post_id: "7307438077285654528"
-  post_date: 2025-03-17T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:07Z
-  short_title: 2025-07-07T16:45:23Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -44,6 +30,20 @@ tags:
 - Agentic Agility
 - Social Technologies
 - Product Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307438077285654528
+  post_id: "7307438077285654528"
+  post_date: 2025-03-17T16:30:03Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:07Z
+  short_title: 2025-07-07T16:45:23Z
 
 ---
 Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction—how can you be accountable for something you have no control over?

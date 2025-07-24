@@ -1,36 +1,15 @@
 ---
+title: How long does it take to transition from project management to Kanban?
 short_title: Transitioning from Project Management to Kanban
 description: Learn how to move from traditional project management to Kanban, including steps, benefits, and tips for a smooth, gradual transition to Agile workflows and continuous improvement.
 date: 2024-02-16T07:00:10Z
-ResourceId: IU_1dJw7xk4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Method
-categories:
-- Kanban
-- Product Development
-tags:
-- Operational Practices
-- Agile Frameworks
-- Software Development
-- Metrics and Learning
-- Pragmatic Thinking
+ResourceId: IU_1dJw7xk4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:44Z
-  short_title: 2025-07-07T17:49:44Z
-title: How long does it take to transition from project management to Kanban?
-videoId: IU_1dJw7xk4
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: how-long-does-it-take-to-transition-from-project-management-to-kanban
-layout: video
 aliases:
 - /resources/IU_1dJw7xk4
 - /resources/videos/how-long-does-it-take-to-transition-from-project-management-to-kanban
@@ -42,6 +21,27 @@ aliasesArchive:
 - /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban
 - how-long-does-it-take-to-transition-from-project-management-to-kanban
+source: internal
+layout: video
+concepts:
+- Method
+categories:
+- Kanban
+- Product Development
+tags:
+- Operational Practices
+- Agile Frameworks
+- Software Development
+- Metrics and Learning
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:44Z
+  short_title: 2025-07-07T17:49:44Z
+videoId: IU_1dJw7xk4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 resourceTypes:

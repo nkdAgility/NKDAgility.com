@@ -1,39 +1,37 @@
 ---
+title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
 short_title: Agile Training & Continuous Forecasting Strategies
 description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
 date: 2020-05-21T05:26:17Z
-ResourceId: HjyUeuf1IEw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: HjyUeuf1IEw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:43Z
-  short_title: 2025-07-07T17:58:06Z
-title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
-videoId: HjyUeuf1IEw
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-layout: video
 aliases:
 - /resources/HjyUeuf1IEw
-- /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
 - /resources/20th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 - unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:43Z
+  short_title: 2025-07-07T17:58:06Z
+videoId: HjyUeuf1IEw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 resourceTypes:

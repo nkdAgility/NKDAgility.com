@@ -1,33 +1,15 @@
 ---
+title: What is the most common Aha moment people have in a scrum course?
 short_title: Most Common Aha Moment in Scrum Courses
 description: Most people in scrum courses realise the true value of empiricism and purpose behind scrum’s events and artefacts, shifting from rote process to meaningful, high-performance teamwork.
 date: 2023-03-03T07:15:03Z
-ResourceId: klBiNFvxuy0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts:
-- Principle
-categories:
-- Scrum
-- Product Development
-tags:
-- Professional Scrum
-- Agile Frameworks
+ResourceId: klBiNFvxuy0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:50Z
-  short_title: 2025-07-07T17:56:33Z
-title: What is the most common Aha moment people have in a scrum course?
-videoId: klBiNFvxuy0
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-layout: video
 aliases:
 - /resources/klBiNFvxuy0
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+source: internal
+layout: video
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+tags:
+- Professional Scrum
+- Agile Frameworks
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:50Z
+  short_title: 2025-07-07T17:56:33Z
+videoId: klBiNFvxuy0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
 duration: 301
 resourceTypes:

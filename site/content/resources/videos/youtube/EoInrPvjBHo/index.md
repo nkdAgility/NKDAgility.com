@@ -1,12 +1,28 @@
 ---
+title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 short_title: Overcoming Agile Banditry for Product Owners
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
 date: 2024-01-10T07:00:11Z
-ResourceId: EoInrPvjBHo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: EoInrPvjBHo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: how-to-overcome-agile-banditry-a-product-owner-s-journey
+aliases:
+- /resources/EoInrPvjBHo
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+aliasesArchive:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
+- how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -24,30 +40,14 @@ tags:
 - Product Delivery
 - Self Organisation
 - Agile Product Management
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:30Z
   short_title: 2025-07-07T17:50:20Z
-title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 videoId: EoInrPvjBHo
-source: internal
 url: /resources/videos/:slug
-slug: how-to-overcome-agile-banditry-a-product-owners-journey
-layout: video
-aliases:
-- /resources/EoInrPvjBHo
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-aliasesArchive:
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
-- how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 resourceTypes:

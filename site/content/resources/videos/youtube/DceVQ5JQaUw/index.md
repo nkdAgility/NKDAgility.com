@@ -1,32 +1,15 @@
 ---
+title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
 short_title: Embracing Difficult Conversations in Agile
 description: Explores how open, challenging conversations with agile consultants drive organisational change, foster learning, and support continuous improvement and accountability.
 date: 2023-05-01T07:00:05Z
-ResourceId: DceVQ5JQaUw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Change Management
-- Organisational Culture
+ResourceId: DceVQ5JQaUw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:51Z
-  short_title: 2025-07-07T17:55:36Z
-title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
-videoId: DceVQ5JQaUw
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-layout: video
 aliases:
 - /resources/DceVQ5JQaUw
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
@@ -37,6 +20,23 @@ aliasesArchive:
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 - unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+source: youtube
+layout: video
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Change Management
+- Organisational Culture
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:51Z
+  short_title: 2025-07-07T17:55:36Z
+videoId: DceVQ5JQaUw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 resourceTypes:

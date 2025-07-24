@@ -1,12 +1,27 @@
 ---
+title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
 short_title: Pitfalls of Routine Agile Questions
 description: Explores how routine Agile questions can hinder team progress, stressing the importance of focusing on value delivery, goal alignment, and managing task bottlenecks.
 date: 2024-01-03T07:00:13Z
-ResourceId: JzAbvkFxVzs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+ResourceId: JzAbvkFxVzs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+aliases:
+- /resources/JzAbvkFxVzs
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+- /resources/5-ghosts-of-agile-past-dogma
+- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -18,29 +33,14 @@ tags:
 - Agile Transformation
 - Agile Product Management
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:42Z
   short_title: 2025-07-07T17:50:30Z
-title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
 videoId: JzAbvkFxVzs
-source: internal
 url: /resources/videos/:slug
-slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-layout: video
-aliases:
-- /resources/JzAbvkFxVzs
-- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-aliasesArchive:
-- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/5-ghosts-of-agile-past-dogma
-- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 resourceTypes:

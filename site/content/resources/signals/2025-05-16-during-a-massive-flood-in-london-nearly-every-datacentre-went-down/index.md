@@ -7,12 +7,19 @@ weight: 335
 ResourceId: 8SSU0fALhd8
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: during-a-massive-flood-in-london-nearly-every-datacentre-went-down
 aliases:
 - /resources/8SSU0fALhd8
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+- Operational Practices
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7329166367629144068
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-23T23:53:48Z
   short_title: 2025-07-07T16:44:09Z
-concepts:
-- Practice
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
-- Operational Practices
 
 ---
 During a massive flood in London, nearly every datacentre went down.

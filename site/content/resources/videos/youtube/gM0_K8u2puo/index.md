@@ -1,29 +1,15 @@
 ---
+title: 'Mastering Market Leadership: The Power of Frequent Product Releases'
 short_title: Frequent Product Releases for Market Leadership
 description: Learn how frequent product releases help businesses lead markets, adapt quickly to change, boost user engagement, and deliver continuous value in a fast-paced digital world.
 date: 2025-02-06T11:02:31Z
-ResourceId: gM0_K8u2puo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: gM0_K8u2puo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:48Z
-  short_title: 2025-07-07T17:46:46Z
-title: 'Mastering Market Leadership: The Power of Frequent Product Releases'
-videoId: gM0_K8u2puo
-source: internal
-url: /resources/videos/:slug
-slug: mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
-layout: video
+ResourceImportSource: Youtube
+slug: mastering-market-leadership-the-power-of-frequent-product-releases
 aliases:
 - /resources/gM0_K8u2puo
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
@@ -39,6 +25,20 @@ aliasesArchive:
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
 - /resources/videos/be-a-market-leader-not-a-follower
 - mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:48Z
+  short_title: 2025-07-07T17:46:46Z
+videoId: gM0_K8u2puo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg
 duration: 34
 resourceTypes:

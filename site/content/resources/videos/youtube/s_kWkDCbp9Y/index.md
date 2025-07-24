@@ -1,30 +1,15 @@
 ---
+title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
 short_title: Effective Agile Coaching Through Team Context
 description: Effective Agile coaching relies on understanding your team's unique context and domain, enabling tailored guidance, empathy, and practical solutions for real-world challenges.
 date: 2023-11-17T11:00:55Z
-ResourceId: s_kWkDCbp9Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
+ResourceId: s_kWkDCbp9Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:45Z
-  short_title: 2025-07-07T17:51:41Z
-title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
-videoId: s_kWkDCbp9Y
-source: internal
-url: /resources/videos/:slug
-slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-layout: video
+ResourceImportSource: Youtube
+slug: the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
 aliases:
 - /resources/s_kWkDCbp9Y
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:45Z
+  short_title: 2025-07-07T17:51:41Z
+videoId: s_kWkDCbp9Y
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
 duration: 69
 resourceTypes:

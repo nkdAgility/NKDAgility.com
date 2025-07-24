@@ -1,12 +1,29 @@
 ---
+title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
 short_title: Traditional vs. Evidence-Based Management
 description: Explains how traditional management relies on authority and intuition, while evidence-based management uses data, analysis, and meaningful metrics for better decisions.
 date: 2024-09-12T07:00:02Z
-ResourceId: 3CgKmunwiSQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: 3CgKmunwiSQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: understanding-the-difference-traditional-management-vs-evidence-based-management
+aliases:
+- /resources/3CgKmunwiSQ
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
+aliasesArchive:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/traditional-management-vs-evidence-based-management
+- understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -15,30 +32,14 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:31Z
   short_title: 2025-07-07T17:48:14Z
-title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
 videoId: 3CgKmunwiSQ
-source: internal
 url: /resources/videos/:slug
-slug: understanding-the-difference-traditional-management-vs-evidence-based-management
-layout: video
-aliases:
-- /resources/3CgKmunwiSQ
-- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-aliasesArchive:
-- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-- /resources/traditional-management-vs-evidence-based-management
-- understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
 preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg
 duration: 395
 resourceTypes:

@@ -1,12 +1,29 @@
 ---
+title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
 short_title: 'Scrum Master: Expanding Organisational Impact'
 description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
 date: 2023-04-27T07:00:00Z
-ResourceId: 1TaIjFL-0o8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+ResourceId: 1TaIjFL-0o8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success
+aliases:
+- /resources/1TaIjFL-0o8
+- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
+aliasesArchive:
+- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+- unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
+source: youtube
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -17,30 +34,14 @@ tags:
 - Scrum Team
 - Agile Frameworks
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:59Z
   short_title: 2025-07-07T17:55:43Z
-title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
 videoId: 1TaIjFL-0o8
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-layout: video
-aliases:
-- /resources/1TaIjFL-0o8
-- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
-aliasesArchive:
-- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
-- unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 resourceTypes:

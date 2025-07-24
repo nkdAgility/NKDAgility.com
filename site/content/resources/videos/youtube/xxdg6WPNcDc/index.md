@@ -1,12 +1,28 @@
 ---
+title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
 short_title: Hidden Costs of Weak Delivery & Definition of Done
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
 date: 2025-05-21T06:00:00Z
-ResourceId: xxdg6WPNcDc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 130
+ResourceId: xxdg6WPNcDc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: ai
+ResourceImportSource: Youtube
+slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
+aliases:
+- /resources/xxdg6WPNcDc
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
+- /resources/videos/3-the-cost-of-weak-definitions-of-done
+aliasesArchive:
+- /resources/videos/3-the-cost-of-weak-definitions-of-done
+- 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
+- stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
+source: youtube
+layout: video
 concepts:
 - Artifact
 categories:
@@ -31,32 +47,16 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T20:36:57Z
-  short_title: 2025-07-07T16:44:05Z
-title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
 videoId: xxdg6WPNcDc
-source: youtube
 url: /resources/videos/:slug
-slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
-layout: video
-aliases:
-- /resources/xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
-- /resources/videos/3-the-cost-of-weak-definitions-of-done
-aliasesArchive:
-- /resources/videos/3-the-cost-of-weak-definitions-of-done
-- 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
-- stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
 preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
 duration: 60
 resourceTypes:
 - video
 isShort: true
+Watermarks:
+  description: 2025-05-07T20:36:57Z
+  short_title: 2025-07-07T16:44:05Z
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

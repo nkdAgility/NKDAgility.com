@@ -1,12 +1,26 @@
 ---
+title: 'Unlocking Success: How Lean Product Development Transforms Decision-Making and Value Creation'
 short_title: Lean Product Development for Better Decisions
 description: Explores how lean product development improves decision-making, reduces risk, and increases value by focusing on customer needs and efficient product ownership practices.
 date: 2023-09-28T08:29:48Z
-ResourceId: IFX3SRUlunc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: IFX3SRUlunc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+aliases:
+- /resources/IFX3SRUlunc
+- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+aliasesArchive:
+- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+- /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+- unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -17,28 +31,14 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:14Z
   short_title: 2025-07-07T17:52:49Z
-title: 'Unlocking Success: How Lean Product Development Transforms Decision-Making and Value Creation'
 videoId: IFX3SRUlunc
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
-layout: video
-aliases:
-- /resources/IFX3SRUlunc
-- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
-aliasesArchive:
-- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
-- /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
-- unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg
 duration: 115
 resourceTypes:

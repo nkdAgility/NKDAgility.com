@@ -7,26 +7,12 @@ weight: 365
 ResourceId: ZqDRLw5mPc-
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: the-true-role-of-a-scrum-master-beyond-facilitation
 aliases:
 - /resources/ZqDRLw5mPc-
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7310337177316478976
-  post_id: "7310337177316478976"
-  post_date: 2025-03-25T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:54Z
-  short_title: 2025-07-07T16:45:13Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -47,6 +33,20 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Coaching
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7310337177316478976
+  post_id: "7310337177316478976"
+  post_date: 2025-03-25T16:30:02Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:54Z
+  short_title: 2025-07-07T16:45:13Z
 
 ---
 If you think a Scrum Master is just a facilitator, you’re missing the point.

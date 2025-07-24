@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: stop-treating-the-end-of-the-sprint-like-a-finish-line
 aliases:
 - /resources/3N_y67L5LD9
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7336414222320300032
-  post_id: "7336414222320300032"
-  post_date: 2025-06-05T14:30:54Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:43Z
-  short_title: 2025-07-07T16:43:42Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -43,6 +29,20 @@ tags:
 - Agile Planning
 - Continuous Learning
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7336414222320300032
+  post_id: "7336414222320300032"
+  post_date: 2025-06-05T14:30:54Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:43Z
+  short_title: 2025-07-07T16:43:42Z
 
 ---
 Stop treating the end of the Sprint like a finish line. It’s not. It’s a checkpoint for planning, inspection, and adaptation. The Increment gives us a view of what’s Done. The Sprint Goal gives us focus. That’s it.

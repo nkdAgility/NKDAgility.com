@@ -5,24 +5,19 @@ description: The Definition of Done can evolve to improve quality but should not
 date: 2019-10-14
 weight: 360
 ResourceId: LdmZbBlwgM-
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
 - /resources/LdmZbBlwgM-
-ResourceContentOrigin: Hybrid
-ResourceImportId: 40168
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -42,6 +37,9 @@ tags:
 - Empirical Process Control
 - Team Performance
 - Product Delivery
+ResourceImportId: 40168
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: 20190906_152025-2-2.gif
 Watermarks:
   description: 2025-05-07T13:16:06Z

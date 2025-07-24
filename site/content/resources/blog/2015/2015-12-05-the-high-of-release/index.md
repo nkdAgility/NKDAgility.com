@@ -5,22 +5,17 @@ description: Overview of Microsoft’s new web-based Release Management tools fo
 date: 2015-12-05
 weight: 480
 ResourceId: akntzjbRQe2
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: the-high-of-release
 aliases:
 - /resources/akntzjbRQe2
-ResourceContentOrigin: Human
-ResourceImportId: 11398
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/the-high-of-release
 - /the-high-of-release
 - /resources/blog/the-high-of-release
+layout: blog
 concepts:
 - Tool
 categories:
@@ -28,6 +23,9 @@ categories:
 tags:
 - Release Management
 - Software Development
+ResourceImportId: 11398
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: 2016-01-04_15-52-31-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:55Z

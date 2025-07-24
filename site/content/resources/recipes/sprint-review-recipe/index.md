@@ -7,12 +7,14 @@ weight: 750
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 slug: sprint-review-recipe
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 - /resources/K4kkSAG3R7m
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+layout: recipe
 concepts:
 - Method
 categories:
@@ -34,9 +36,7 @@ tags:
 - Agile Frameworks
 - Forecasting
 - Team Performance
-ResourceContentOrigin: Human
 resourceTypes: recipe
-layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 creator: Martin Hinshelwood
 recommendedContent:

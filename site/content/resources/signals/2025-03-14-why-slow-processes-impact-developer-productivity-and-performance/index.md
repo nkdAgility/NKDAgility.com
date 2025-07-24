@@ -7,12 +7,22 @@ weight: 235
 ResourceId: CkgnD5GYbI8
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: why-slow-processes-impact-developer-productivity-and-performance
 aliases:
 - /resources/CkgnD5GYbI8
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Technical Leadership
+- Engineering Excellence
+tags:
+- Team Performance
+- Operational Practices
+- Sociotechnical Systems
+- Software Development
+- Continuous Improvement
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7306350908538277888
@@ -27,16 +37,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:10Z
   short_title: 2025-07-07T16:45:27Z
-concepts: []
-categories:
-- Technical Leadership
-- Engineering Excellence
-tags:
-- Team Performance
-- Operational Practices
-- Sociotechnical Systems
-- Software Development
-- Continuous Improvement
 
 ---
 I once heard a leader say, “This developer is too slow.” No, the process was slow.

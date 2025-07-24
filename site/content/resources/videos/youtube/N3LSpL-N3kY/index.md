@@ -1,13 +1,25 @@
 ---
+title: 2-day PSPO Versus 8-week PSPO
 short_title: 2-day vs 8-week PSPO Course Comparison
 description: Compares 2-day and 8-week Product Owner courses, highlighting differences in learning pace, depth, practical application, and how each suits different learning styles.
 date: 2023-06-07T07:00:14Z
-ResourceId: N3LSpL-N3kY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: N3LSpL-N3kY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: 2-day-pspo-versus-8-week-pspo
+aliases:
+- /resources/N3LSpL-N3kY
+- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+aliasesArchive:
+- /resources/videos/-day-pspo-versus-week-pspo
+- /resources/videos/2-day-pspo-versus-8-week-pspo
+- /resources/2-day-pspo-versus-8-week-pspo
+- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,20 +30,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:48Z
   short_title: 2025-07-07T17:54:47Z
-title: 2-day PSPO Versus 8-week PSPO
 videoId: N3LSpL-N3kY
-source: internal
 url: /resources/videos/:slug
-slug: 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
-layout: video
-aliases:
-- /resources/N3LSpL-N3kY
-- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
-aliasesArchive:
-- /resources/videos/-day-pspo-versus-week-pspo
-- /resources/videos/2-day-pspo-versus-8-week-pspo
-- /resources/2-day-pspo-versus-8-week-pspo
-- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 resourceTypes:

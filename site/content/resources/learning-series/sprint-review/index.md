@@ -7,12 +7,16 @@ weight: 1000
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series
+ResourceContentOrigin: Human
 slug: the-sprint-review
 aliases:
 - /resources/9omxdDJCVDL
-ResourceContentOrigin: Human
-resourceTypes: learning-series
 layout: resources/learning-series
+concepts: []
+categories:
+- Uncategorized
+tags: []
+resourceTypes: learning-series
 draft: true
 preview: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 resources:
@@ -41,10 +45,6 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:17Z
   short_title: 2025-07-07T17:48:01Z
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 Comming soon

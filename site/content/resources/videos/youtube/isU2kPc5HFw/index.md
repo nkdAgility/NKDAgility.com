@@ -1,34 +1,15 @@
 ---
+title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 short_title: 'Azure DevOps Migration: Lessons & Insights'
 description: Personal experiences and lessons on using Azure DevOps, covering its evolution, migration strategies, custom tools, and practical advice for optimising DevOps workflows.
 date: 2024-07-31T09:21:03Z
-ResourceId: isU2kPc5HFw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts:
-- Tool
-categories:
-- DevOps
-tags:
-- Azure DevOps
-- Software Development
-- Pragmatic Thinking
-- Personal
+ResourceId: isU2kPc5HFw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:24Z
-  short_title: 2025-07-07T17:48:50Z
-title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
-videoId: isU2kPc5HFw
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-layout: video
 aliases:
 - /resources/isU2kPc5HFw
 - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
@@ -39,6 +20,25 @@ aliasesArchive:
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/talk-us-through-your-experience-with-azure-devops
 - the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+source: internal
+layout: video
+concepts:
+- Tool
+categories:
+- DevOps
+tags:
+- Azure DevOps
+- Software Development
+- Pragmatic Thinking
+- Personal
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:24Z
+  short_title: 2025-07-07T17:48:50Z
+videoId: isU2kPc5HFw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 resourceTypes:

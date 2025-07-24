@@ -1,30 +1,15 @@
 ---
+title: Most Common Thing You Hear in a PSM 1 Course?
 short_title: Most Common Phrase in PSM 1 Courses
 description: Explores the common challenge in PSM 1 courses of balancing real-world pressures with maintaining honesty, transparency, and moral integrity in Agile and Scrum practices.
 date: 2023-06-28T11:00:24Z
-ResourceId: h5TG3MbP0QY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: h5TG3MbP0QY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:11Z
-  short_title: 2025-07-07T17:54:17Z
-title: Most Common Thing You Hear in a PSM 1 Course?
-videoId: h5TG3MbP0QY
-source: internal
-url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
-layout: video
+ResourceImportSource: Youtube
+slug: most-common-thing-you-hear-in-a-psm-1-course
 aliases:
 - /resources/h5TG3MbP0QY
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
 - most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+source: internal
+layout: video
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:11Z
+  short_title: 2025-07-07T17:54:17Z
+videoId: h5TG3MbP0QY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 resourceTypes:

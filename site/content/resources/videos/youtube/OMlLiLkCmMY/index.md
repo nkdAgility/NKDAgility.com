@@ -1,35 +1,15 @@
 ---
+title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 short_title: Engaging Teams for Organisational Change
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
 date: 2023-12-04T11:00:23Z
-ResourceId: OMlLiLkCmMY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Motivation
-- Organisational Change
-- Change Management
-- Employee Engagement
-- Agile Leadership
-- Organisational Culture
+ResourceId: OMlLiLkCmMY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:18Z
-  short_title: 2025-07-07T17:51:20Z
-title: 'Engaging Your Team: The Secret to Successful Organisational Change'
-videoId: OMlLiLkCmMY
-source: youtube
-url: /resources/videos/:slug
-slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
-layout: video
+ResourceImportSource: Youtube
+slug: engaging-your-team-the-secret-to-successful-organisational-change
 aliases:
 - /resources/OMlLiLkCmMY
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
 - engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Motivation
+- Organisational Change
+- Change Management
+- Employee Engagement
+- Agile Leadership
+- Organisational Culture
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:18Z
+  short_title: 2025-07-07T17:51:20Z
+videoId: OMlLiLkCmMY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 resourceTypes:

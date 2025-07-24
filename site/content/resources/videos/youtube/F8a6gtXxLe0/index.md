@@ -1,40 +1,39 @@
 ---
+title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
 short_title: How Scrum Mindset Shift Improves Developers
 description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
 date: 2017-07-27T19:14:11Z
-ResourceId: F8a6gtXxLe0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags: []
+ResourceId: F8a6gtXxLe0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:16:31Z
-  short_title: 2025-07-07T17:58:46Z
-title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
-videoId: F8a6gtXxLe0
-source: youtube
-url: /resources/videos/:slug
-slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-layout: video
+ResourceImportSource: Youtube
+slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developer's-mindset
 aliases:
+- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 - /resources/F8a6gtXxLe0
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:16:31Z
+  short_title: 2025-07-07T17:58:46Z
+videoId: F8a6gtXxLe0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 resourceTypes:

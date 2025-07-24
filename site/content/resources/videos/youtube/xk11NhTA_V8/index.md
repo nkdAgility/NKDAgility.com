@@ -1,29 +1,15 @@
 ---
+title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
 short_title: Combating Judgment in Agile Teams
 description: Explores how judgment in Agile teams—via metrics like velocity and bug counts—can harm collaboration, and offers strategies to foster growth and psychological safety.
 date: 2023-11-01T11:30:27Z
-ResourceId: xk11NhTA_V8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: xk11NhTA_V8
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:10Z
-  short_title: 2025-07-07T17:51:58Z
-title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
-videoId: xk11NhTA_V8
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
-layout: video
 aliases:
 - /resources/xk11NhTA_V8
 - /resources/videos/navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/judgement-7-harbingers-agile-apocalypse-but-shorter
 - navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:10Z
+  short_title: 2025-07-07T17:51:58Z
+videoId: xk11NhTA_V8
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 resourceTypes:

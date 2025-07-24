@@ -1,30 +1,15 @@
 ---
+title: What does your dream agile consulting week look like?
 short_title: Dream Agile Consulting Week with APS
 description: Discover how the Applied Professional Scrum (APS) approach helps teams identify and remove ineffective practices, strengthen core Scrum principles, and drive agile transformation.
 date: 2023-04-11T07:00:00Z
-ResourceId: aathsp3IMfg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Scrum Master
+ResourceId: aathsp3IMfg
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-07-07T17:55:57Z
-  short_title: 2025-07-07T17:55:58Z
-title: What does your dream agile consulting week look like?
-videoId: aathsp3IMfg
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-does-your-dream-agile-consulting-week-look-like
-layout: video
 aliases:
 - /resources/aathsp3IMfg
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
@@ -34,6 +19,21 @@ aliasesArchive:
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
 - what-does-your-dream-agile-consulting-week-look-like
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Scrum Master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-07-07T17:55:57Z
+  short_title: 2025-07-07T17:55:58Z
+videoId: aathsp3IMfg
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 resourceTypes:

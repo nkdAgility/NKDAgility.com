@@ -7,26 +7,12 @@ weight: 325
 ResourceId: JwMLCNODuls
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: fear-is-the-real-enemy-of-agility
 aliases:
 - /resources/JwMLCNODuls
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7325904921298366464
-  post_id: "7325904921298366464"
-  post_date: 2025-05-07T14:30:42Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:57Z
-  short_title: 2025-07-07T16:44:25Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -49,6 +35,20 @@ tags:
 - Personal
 - Agile Strategy
 - Scrum Values
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7325904921298366464
+  post_id: "7325904921298366464"
+  post_date: 2025-05-07T14:30:42Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:57Z
+  short_title: 2025-07-07T16:44:25Z
 
 ---
 Fear is the real enemy of agility.

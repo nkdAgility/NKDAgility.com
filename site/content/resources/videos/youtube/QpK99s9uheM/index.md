@@ -1,32 +1,15 @@
 ---
+title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
 short_title: From Control to Collaboration in Agile PM
 description: Explores how project managers can shift from control to collaboration, adopt agile mindsets, embrace uncertainty, and foster team empowerment for project success.
 date: 2023-05-24T07:00:23Z
-ResourceId: QpK99s9uheM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Values and Principles
+ResourceId: QpK99s9uheM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:14Z
-  short_title: 2025-07-07T17:55:06Z
-title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
-videoId: QpK99s9uheM
-source: youtube
-url: /resources/videos/:slug
-slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
-layout: video
+ResourceImportSource: Youtube
+slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 aliases:
 - /resources/QpK99s9uheM
 - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
@@ -38,6 +21,23 @@ aliasesArchive:
 - /resources/is-a-scrum-master-an-agile-project-manager-
 - /resources/videos/is-a-scrum-master-an-agile-project-manager
 - from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Pragmatic Thinking
+- Agile Values and Principles
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:14Z
+  short_title: 2025-07-07T17:55:06Z
+videoId: QpK99s9uheM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 resourceTypes:

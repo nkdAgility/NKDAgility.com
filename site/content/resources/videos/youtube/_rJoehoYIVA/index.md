@@ -1,33 +1,15 @@
 ---
+title: 'Mastering Azure DevOps Migration: Navigating Challenges, Solutions, and Best Practices'
 short_title: 'Azure DevOps Migration: Challenges & Best Practices'
 description: Learn about Azure DevOps migration, including common scenarios, challenges, solutions, and best practices for planning, testing, and ensuring a smooth transition.
 date: 2024-07-31T09:25:17Z
-ResourceId: _rJoehoYIVA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts:
-- Tool
-categories:
-- DevOps
-tags:
-- Azure DevOps
-- Software Development
-- Pragmatic Thinking
+ResourceId: _rJoehoYIVA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:23Z
-  short_title: 2025-07-07T17:48:49Z
-title: 'Mastering Azure DevOps Migration: Navigating Challenges, Solutions, and Best Practices'
-videoId: _rJoehoYIVA
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
-layout: video
 aliases:
 - /resources/_rJoehoYIVA
 - /resources/videos/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
@@ -38,6 +20,24 @@ aliasesArchive:
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+source: internal
+layout: video
+concepts:
+- Tool
+categories:
+- DevOps
+tags:
+- Azure DevOps
+- Software Development
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:23Z
+  short_title: 2025-07-07T17:48:49Z
+videoId: _rJoehoYIVA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_rJoehoYIVA/maxresdefault.jpg
 duration: 293
 resourceTypes:

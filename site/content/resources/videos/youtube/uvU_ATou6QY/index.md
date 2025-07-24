@@ -1,36 +1,20 @@
 ---
+title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
 short_title: Signs You're Failing as a Product Owner
 description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
 date: 2023-09-22T07:00:32Z
-ResourceId: uvU_ATou6QY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Owner
-- Agile Product Management
+ResourceId: uvU_ATou6QY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:21Z
-  short_title: 2025-07-07T17:52:56Z
-title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
-videoId: uvU_ATou6QY
-source: youtube
-url: /resources/videos/:slug
-slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-layout: video
+ResourceImportSource: Youtube
+slug: signs-you're-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
+- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
@@ -38,6 +22,23 @@ aliasesArchive:
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
 - signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Owner
+- Agile Product Management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:21Z
+  short_title: 2025-07-07T17:52:56Z
+videoId: uvU_ATou6QY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 resourceTypes:

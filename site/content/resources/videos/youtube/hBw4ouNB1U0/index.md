@@ -1,34 +1,15 @@
 ---
+title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
 short_title: Continuous Improvement with Metrics & Visuals
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
 date: 2024-08-19T06:45:02Z
-ResourceId: hBw4ouNB1U0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 305
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Operational Practices
-- Metrics and Learning
-- Continuous Learning
+ResourceId: hBw4ouNB1U0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:04Z
-  short_title: 2025-07-07T17:48:30Z
-title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
-videoId: hBw4ouNB1U0
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliases:
 - /resources/hBw4ouNB1U0
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
@@ -39,6 +20,25 @@ aliasesArchive:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Operational Practices
+- Metrics and Learning
+- Continuous Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:04Z
+  short_title: 2025-07-07T17:48:30Z
+videoId: hBw4ouNB1U0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 resourceTypes:

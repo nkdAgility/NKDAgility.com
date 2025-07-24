@@ -7,40 +7,40 @@ weight: 345
 ResourceId: RevK05qtZD7
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: the-missing-lever-in-agile-transformations
 aliases:
-  - /resources/RevK05qtZD7
-ResourceContentOrigin: hybrid
+- /resources/RevK05qtZD7
 aliasesArchive:
-  - /the-missing-lever-in-agile-transformations
-  - /blog/the-missing-lever-in-agile-transformations
+- /the-missing-lever-in-agile-transformations
+- /blog/the-missing-lever-in-agile-transformations
 concepts:
-  - Ethos
+- Ethos
 categories:
-  - Product Development
-  - Technical Leadership
-  - Leadership
+- Product Development
+- Technical Leadership
+- Leadership
 tags:
-  - Agentic Agility
-  - Agile Strategy
-  - Organisational Change
-  - Social Technologies
-  - Organisational Agility
-  - Team Motivation
-  - Change Management
-  - Agile Transformation
-  - Agile Philosophy
-  - Business Agility
-  - Organisational Culture
-  - Strategic Goals
-  - Enterprise Agility
-  - Pragmatic Thinking
-  - Evidence Based Management
+- Agentic Agility
+- Agile Strategy
+- Organisational Change
+- Social Technologies
+- Organisational Agility
+- Team Motivation
+- Change Management
+- Agile Transformation
+- Agile Philosophy
+- Business Agility
+- Organisational Culture
+- Strategic Goals
+- Agentic Engineering
+- Enterprise Agility
+- Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:04Z
   short_title: 2025-07-07T16:43:46Z
----
 
+---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
 You can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.

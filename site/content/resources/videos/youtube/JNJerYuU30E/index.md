@@ -1,33 +1,15 @@
 ---
+title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
 short_title: 'Jernimo Palacios: Mentorship in Agile Community'
 description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
 date: 2023-05-04T07:00:07Z
-ResourceId: JNJerYuU30E
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Mentoring
-- Personal
-- Coaching
-- Continuous Learning
+ResourceId: JNJerYuU30E
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:44Z
-  short_title: 2025-07-07T17:55:28Z
-title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
-videoId: JNJerYuU30E
-source: youtube
-url: /resources/videos/:slug
-slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
-layout: video
+ResourceImportSource: Youtube
+slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 aliases:
 - /resources/JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
@@ -40,6 +22,24 @@ aliasesArchive:
 - most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 - celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Mentoring
+- Personal
+- Coaching
+- Continuous Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:44Z
+  short_title: 2025-07-07T17:55:28Z
+videoId: JNJerYuU30E
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 resourceTypes:

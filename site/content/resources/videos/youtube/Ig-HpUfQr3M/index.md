@@ -1,12 +1,26 @@
 ---
+title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 short_title: Maximising Product Value with Hypothesis-Driven Engineering
 description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, measuring outcomes, and learning from failure to guide investment decisions.
 date: 2024-12-11T06:30:00Z
-ResourceId: Ig-HpUfQr3M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 390
+ResourceId: Ig-HpUfQr3M
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
+aliases:
+- /resources/Ig-HpUfQr3M
+- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
+- /resources/videos/monitoring-and-measuring-for-success
+aliasesArchive:
+- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
+- /resources/videos/monitoring-and-measuring-for-success
+- /resources/monitoring-and-measuring-for-success
+- maximising-product-value-the-power-of-hypothesis-driven-engineering
+source: youtube
+layout: video
 concepts:
 - Method
 categories:
@@ -24,28 +38,14 @@ tags:
 - Product Discovery
 - Product Validation
 - Metrics and Learning
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:46Z
   short_title: 2025-07-07T17:47:12Z
-title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 videoId: Ig-HpUfQr3M
-source: youtube
 url: /resources/videos/:slug
-slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
-layout: video
-aliases:
-- /resources/Ig-HpUfQr3M
-- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
-- /resources/videos/monitoring-and-measuring-for-success
-aliasesArchive:
-- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
-- /resources/videos/monitoring-and-measuring-for-success
-- /resources/monitoring-and-measuring-for-success
-- maximising-product-value-the-power-of-hypothesis-driven-engineering
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
 duration: 501
 resourceTypes:

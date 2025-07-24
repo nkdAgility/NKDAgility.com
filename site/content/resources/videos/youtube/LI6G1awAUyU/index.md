@@ -1,33 +1,15 @@
 ---
+title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
 short_title: Overcoming DevOps Challenges for Agile Delivery
 description: Explores common DevOps challenges to rapid delivery, highlighting automation, feedback loops, mindset shifts, and compliance for achieving agile, efficient software delivery.
 date: 2023-04-21T07:00:06Z
-ResourceId: LI6G1awAUyU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- DevOps
-- Product Development
-tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
+ResourceId: LI6G1awAUyU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:09Z
-  short_title: 2025-07-07T17:55:50Z
-title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
-videoId: LI6G1awAUyU
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
-layout: video
 aliases:
 - /resources/LI6G1awAUyU
 - /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
@@ -39,6 +21,24 @@ aliasesArchive:
 - what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 - /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 - unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
+source: youtube
+layout: video
+concepts: []
+categories:
+- DevOps
+- Product Development
+tags:
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:09Z
+  short_title: 2025-07-07T17:55:50Z
+videoId: LI6G1awAUyU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 resourceTypes:

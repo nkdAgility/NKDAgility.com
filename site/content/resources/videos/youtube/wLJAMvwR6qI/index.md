@@ -1,32 +1,15 @@
 ---
+title: 'Mastering Assumptions: Unlocking Success in Product Development Through Hypothesis-Driven Strategies'
 short_title: Mastering Assumptions in Product Development
 description: Learn how to identify, prioritise, and test assumptions in product development using hypothesis-driven methods, experimentation, and critical analysis for better decision-making.
 date: 2024-08-20T07:06:21Z
-ResourceId: wLJAMvwR6qI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Hypothesis Driven Development
-- Experimentation
+ResourceId: wLJAMvwR6qI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:03Z
-  short_title: 2025-07-07T17:48:29Z
-title: 'Mastering Assumptions: Unlocking Success in Product Development Through Hypothesis-Driven Strategies'
-videoId: wLJAMvwR6qI
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
-layout: video
 aliases:
 - /resources/wLJAMvwR6qI
 - /resources/videos/mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
@@ -36,6 +19,23 @@ aliasesArchive:
 - /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Hypothesis Driven Development
+- Experimentation
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:03Z
+  short_title: 2025-07-07T17:48:29Z
+videoId: wLJAMvwR6qI
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 resourceTypes:

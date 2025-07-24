@@ -7,26 +7,12 @@ weight: 205
 ResourceId: T-sHn-OUIvR
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: why-organisations-believe-their-software-is-too-complex-for-cd
 aliases:
 - /resources/T-sHn-OUIvR
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299742737925300224
-  post_id: "7299742737925300224"
-  post_date: 2025-02-24T10:51:31Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:45Z
-  short_title: 2025-07-07T17:46:08Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -43,6 +29,20 @@ tags:
 - Operational Practices
 - Engineering Practices
 - Technical Excellence
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299742737925300224
+  post_id: "7299742737925300224"
+  post_date: 2025-02-24T10:51:31Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:45Z
+  short_title: 2025-07-07T17:46:08Z
 
 ---
 Every organisation claims their software is too complex for continuous delivery. It’s not. Complexity is an excuse, not a blocker.

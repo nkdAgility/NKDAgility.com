@@ -7,12 +7,25 @@ weight: 500
 ResourceId: qpdjJhtaABE
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: david-thought-he-already-knew-scrum
 aliases:
 - /resources/qpdjJhtaABE
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Professional Scrum
+- Competence
+- Agile Frameworks
+- Pragmatic Thinking
+- Empirical Process Control
+- Agile Values and Principles
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7332790235598094336
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-29T18:10:47Z
   short_title: 2025-07-07T16:43:57Z
-concepts:
-- Principle
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Professional Scrum
-- Competence
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Agile Values and Principles
 
 ---
 David thought he already knew Scrum. Four hours into the class, he realised he didn’t.

@@ -1,12 +1,28 @@
 ---
+title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 short_title: "Detecting Fake Agile: DoD's Six Key Questions"
 description: Learn how to spot fake Agile practices using six key questions from the US Department of Defense, and discover steps to assess and improve true Agile maturity in organisations.
 date: 2024-06-28T06:45:01Z
-ResourceId: O6rYL3EDUxM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 390
+ResourceId: O6rYL3EDUxM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
+aliases:
+- /resources/O6rYL3EDUxM
+- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
+- detecting-agile-bs-lessons-from-the-us-department-of-defense
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -26,30 +42,14 @@ tags:
 - Operational Practices
 - Agile Planning
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:45Z
   short_title: 2025-07-07T17:49:07Z
-title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 videoId: O6rYL3EDUxM
-source: internal
 url: /resources/videos/:slug
-slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
-layout: video
-aliases:
-- /resources/O6rYL3EDUxM
-- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
-aliasesArchive:
-- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
-- detecting-agile-bs-lessons-from-the-us-department-of-defense
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
 duration: 426
 resourceTypes:

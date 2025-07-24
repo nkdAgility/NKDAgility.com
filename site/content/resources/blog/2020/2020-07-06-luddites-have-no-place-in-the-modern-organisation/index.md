@@ -5,10 +5,9 @@ description: Explores how resistance to change and outdated mindsets hinder orga
 date: 2020-07-06
 weight: 665
 ResourceId: dyxqF7lrHmn
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
 - /resources/dyxqF7lrHmn
@@ -16,6 +15,7 @@ aliasesArchive:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
+layout: blog
 concepts: []
 categories:
 - Leadership
@@ -23,10 +23,8 @@ tags:
 - Organisational Change
 - Organisational Agility
 - Organisational Culture
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44507
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-3-3-3.png
 Watermarks:

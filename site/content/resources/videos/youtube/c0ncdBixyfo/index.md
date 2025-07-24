@@ -1,12 +1,26 @@
 ---
+title: What is the one thing that no Agile team can survive?
 short_title: Culture of Contempt in Agile Teams
 description: Explores how a culture of contempt undermines Agile teams, its causes, impact on morale and productivity, and practical steps leaders can take to build a positive, inclusive culture.
 date: 2023-10-17T11:00:23Z
-ResourceId: c0ncdBixyfo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: c0ncdBixyfo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: what-is-the-one-thing-that-no-agile-team-can-survive
+aliases:
+- /resources/c0ncdBixyfo
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
+- what-is-the-one-thing-that-no-agile-team-can-survive
+source: internal
+layout: video
 concepts: []
 categories:
 - Leadership
@@ -17,28 +31,14 @@ tags:
 - Personal
 - Sociotechnical Systems
 - Team Motivation
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:41Z
   short_title: 2025-07-07T17:52:21Z
-title: What is the one thing that no Agile team can survive?
 videoId: c0ncdBixyfo
-source: internal
 url: /resources/videos/:slug
-slug: what-is-the-one-thing-that-no-agile-team-can-survive
-layout: video
-aliases:
-- /resources/c0ncdBixyfo
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
-aliasesArchive:
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
-- what-is-the-one-thing-that-no-agile-team-can-survive
 preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 resourceTypes:

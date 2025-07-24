@@ -7,26 +7,12 @@ weight: 535
 ResourceId: P1tjFbyeVyU
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-is-built-on-empiricism-transparency-inspection-and-adaptation
 aliases:
 - /resources/P1tjFbyeVyU
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299828040820289536
-  post_id: "7299828040820289536"
-  post_date: 2025-02-24T16:30:29Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:44Z
-  short_title: 2025-07-07T17:46:07Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -43,6 +29,20 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Value Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299828040820289536
+  post_id: "7299828040820289536"
+  post_date: 2025-02-24T16:30:29Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:44Z
+  short_title: 2025-07-07T17:46:07Z
 
 ---
 Scrum is built on empiricism—transparency, inspection, and adaptation. But what happens when there’s nothing to inspect?

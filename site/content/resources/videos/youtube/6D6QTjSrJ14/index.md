@@ -1,30 +1,15 @@
 ---
+title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
 short_title: 'Immersive Learning: Response and Future Trends'
 description: Immersive learning is transforming professional development with ongoing, interactive sessions that boost engagement, retention, real-world application, and tailored growth.
 date: 2023-08-28T07:00:05Z
-ResourceId: 6D6QTjSrJ14
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Continuous Learning
+ResourceId: 6D6QTjSrJ14
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:49Z
-  short_title: 2025-07-07T17:53:20Z
-title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
-videoId: 6D6QTjSrJ14
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-layout: video
 aliases:
 - /resources/6D6QTjSrJ14
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
@@ -37,6 +22,21 @@ aliasesArchive:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Continuous Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:49Z
+  short_title: 2025-07-07T17:53:20Z
+videoId: 6D6QTjSrJ14
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
 duration: 222
 resourceTypes:

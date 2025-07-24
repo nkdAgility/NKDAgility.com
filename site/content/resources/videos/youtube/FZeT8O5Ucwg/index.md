@@ -1,13 +1,25 @@
 ---
+title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 short_title: Spotting Genuine Agile Practices
 description: Learn how to identify authentic agile practices, spot common myths, and understand cultural barriers that hinder true agility in modern software development teams.
 date: 2020-03-18T13:56:05Z
-ResourceId: FZeT8O5Ucwg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: FZeT8O5Ucwg
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+aliases:
+- /resources/FZeT8O5Ucwg
+aliasesArchive:
+- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
+- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+- unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+source: youtube
+layout: video
 concepts:
 - Ethos
 categories:
@@ -25,22 +37,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:02Z
   short_title: 2025-07-07T17:58:21Z
-title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 videoId: FZeT8O5Ucwg
-source: youtube
 url: /resources/videos/:slug
-slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-layout: video
-aliases:
-- /resources/FZeT8O5Ucwg
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
-aliasesArchive:
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
-- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 resourceTypes:

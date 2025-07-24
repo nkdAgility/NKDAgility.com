@@ -5,10 +5,9 @@ description: Failing to deliver a usable product each agile iteration leads to l
 date: 2023-07-27
 weight: 305
 ResourceId: G1N1dQ6DNEV
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -39,11 +39,9 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Transparency
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49502
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

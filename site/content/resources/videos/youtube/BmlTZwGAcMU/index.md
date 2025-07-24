@@ -1,34 +1,15 @@
 ---
+title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
 short_title: 'Immersive Learning in Scrum: Theory & Practice'
 description: Explores how combining theory and hands-on experience in Scrum training leads to deeper understanding, critical thinking, and continuous improvement for Agile teams.
 date: 2024-02-08T07:00:06Z
-ResourceId: BmlTZwGAcMU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Scrum Master
-- Software Development
-- Competence
-- Pragmatic Thinking
+ResourceId: BmlTZwGAcMU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:55Z
-  short_title: 2025-07-07T17:49:52Z
-title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
-videoId: BmlTZwGAcMU
-source: internal
-url: /resources/videos/:slug
-slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
-layout: video
+ResourceImportSource: Youtube
+slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 aliases:
 - /resources/BmlTZwGAcMU
 - /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
@@ -40,6 +21,25 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
+source: internal
+layout: video
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Scrum Master
+- Software Development
+- Competence
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:55Z
+  short_title: 2025-07-07T17:49:52Z
+videoId: BmlTZwGAcMU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BmlTZwGAcMU/maxresdefault.jpg
 duration: 35
 resourceTypes:

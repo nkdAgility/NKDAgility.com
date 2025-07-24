@@ -1,13 +1,24 @@
 ---
+title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
 short_title: Health, Perspective, and Innovation in Tech
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
 date: 2017-07-28T12:40:03Z
-ResourceId: DWL0PLkFazs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: DWL0PLkFazs
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+aliases:
+- /resources/DWL0PLkFazs
+aliasesArchive:
+- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
+- /resources/why-did-healthgrades-choose-martin-hinshelwood
+- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+- unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,21 +29,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:29Z
   short_title: 2025-07-07T17:58:44Z
-title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
 videoId: DWL0PLkFazs
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-layout: video
-aliases:
-- /resources/DWL0PLkFazs
-- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
-aliasesArchive:
-- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-- unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 resourceTypes:

@@ -7,13 +7,10 @@ weight: 100
 ResourceId: IO5EHjiHhTf
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: are-we-still-pretending-coding-was-the-bottleneck
 aliases:
 - /resources/IO5EHjiHhTf
-ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-06-06T15:13:01Z
-  short_title: 2025-07-07T16:43:06Z
 concepts:
 - Principle
 categories:
@@ -24,6 +21,7 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Value Delivery
+- Agentic Engineering
 - Operational Practices
 - Sociotechnical Systems
 - Organisational Agility
@@ -35,7 +33,9 @@ tags:
 - Technical Excellence
 - Systems Thinking
 - Continuous Improvement
-- Engineering Practices
+Watermarks:
+  description: 2025-06-06T15:13:01Z
+  short_title: 2025-07-07T16:43:06Z
 
 ---
 AI has changed a lot of things in software development. But if you're shocked that it can write code, you’ve probably misunderstood where the real constraints are.

@@ -3,7 +3,7 @@ title: Why Most Transformations Fail Without Honest Conversations
 short_title: Why Transformations Fail Without Honesty
 description: Most transformations fail without open, honest conversations that address real issues, making transparency and tough dialogue essential for true organisational agility.
 date: 2025-06-19T15:30:37+01:00
-weight: 1000
+weight: 540
 ResourceId: No4y9TWFkAF
 ResourceImport: false
 ResourceType: signals
@@ -11,8 +11,26 @@ ResourceContentOrigin: human
 slug: why-most-transformations-fail-without-honest-conversations
 aliases:
 - /resources/No4y9TWFkAF
-layout: signal
 source: LinkedIn
+layout: signal
+concepts:
+- Ethos
+categories:
+- Scrum
+tags:
+- Agile Philosophy
+- Personal
+- Team Collaboration
+- Transparency
+- Organisational Psychology
+- Organisational Culture
+- Business Agility
+- Organisational Agility
+- Professional Scrum
+- Social Technologies
+- Agile Transformation
+- Team Motivation
+- Organisational Change
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7341487576299548672
@@ -27,10 +45,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-23T12:13:04Z
   short_title: 2025-07-07T16:43:24Z
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 Most transformation efforts fail because the hard conversations never happen.

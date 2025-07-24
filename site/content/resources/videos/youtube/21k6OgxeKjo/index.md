@@ -1,12 +1,27 @@
 ---
+title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners'
 short_title: Spotting Project Management Mindsets in Product Owners
 description: Explains how project management mindsets in Product Owners can harm Agile teams, and offers practical strategies to promote value-driven, collaborative team environments.
 date: 2024-01-10T11:00:01Z
-ResourceId: 21k6OgxeKjo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: 21k6OgxeKjo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+aliases:
+- /resources/21k6OgxeKjo
+- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
+- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+aliasesArchive:
+- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
+- the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -18,29 +33,14 @@ tags:
 - Software Development
 - Team Performance
 - Customer Focus
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:29Z
   short_title: 2025-07-07T17:50:19Z
-title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners'
 videoId: 21k6OgxeKjo
-source: youtube
 url: /resources/videos/:slug
-slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
-layout: video
-aliases:
-- /resources/21k6OgxeKjo
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
-aliasesArchive:
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
-- the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 resourceTypes:

@@ -1,29 +1,15 @@
 ---
+title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
 short_title: Scaling Teams for Innovation, Not Bureaucracy
 description: Explores how organisations can scale teams to boost innovation while avoiding bureaucracy, focusing on empowerment, streamlined processes, and agile communication.
 date: 2025-02-27T11:00:09Z
-ResourceId: 3X2Oka9IrKw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: 3X2Oka9IrKw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:22Z
-  short_title: 2025-07-07T16:45:45Z
-title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
-videoId: 3X2Oka9IrKw
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
-layout: video
 aliases:
 - /resources/3X2Oka9IrKw
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
@@ -37,11 +23,25 @@ aliasesArchive:
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 - scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+videoId: 3X2Oka9IrKw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
 duration: 73
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T12:49:22Z
+  short_title: 2025-07-07T16:45:45Z
 
 ---
 When I think about [scaling]({{< ref "/tags/scaling" >}}) teams, I often hear the sentiment that more teams should equate to more innovation. It seems logical, doesn’t it? However, in my experience, the reality is often quite different. Instead of fostering creativity and agility, scaling can lead to a quagmire of processes, endless meetings, and frustrating bottlenecks. Before you know it, you’re drowning in bureaucracy, and the very essence of innovation is stifled.

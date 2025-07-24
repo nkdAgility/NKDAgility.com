@@ -11,8 +11,19 @@ ResourceContentOrigin: human
 slug: in-scrum-we-don-t-do-ux-separately
 aliases:
 - /resources/H1avNshoB3O
-layout: signal
 source: LinkedIn
+layout: signal
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Professional Scrum
+- Product Delivery
+- Team Collaboration
+- Agile Frameworks
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7338950873156345857
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:35Z
   short_title: 2025-07-07T16:43:30Z
-concepts:
-- Method
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Professional Scrum
-- Product Delivery
-- Team Collaboration
-- Agile Frameworks
 
 ---
 In Scrum, we don’t do UX separately. We don’t have a “UX Sprint.” UX is part of the product. That means UX work is either:

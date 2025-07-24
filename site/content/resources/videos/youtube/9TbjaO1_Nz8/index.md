@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Startup Success: Why Every Entrepreneur Needs to Master Product Management Value'
 short_title: Startup Success Through Product Management Value
 description: Explains why mastering product management and focusing on customer value is crucial for startup success, with practical tips for entrepreneurs on vision, strategy, and growth.
 date: 2023-05-16T14:00:07Z
-ResourceId: 9TbjaO1_Nz8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags: []
+ResourceId: 9TbjaO1_Nz8
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:26Z
-  short_title: 2025-07-07T17:55:14Z
-title: 'Unlocking Startup Success: Why Every Entrepreneur Needs to Master Product Management Value'
-videoId: 9TbjaO1_Nz8
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
-layout: video
 aliases:
 - /resources/9TbjaO1_Nz8
 - /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why
 - unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:26Z
+  short_title: 2025-07-07T17:55:14Z
+videoId: 9TbjaO1_Nz8
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 resourceTypes:

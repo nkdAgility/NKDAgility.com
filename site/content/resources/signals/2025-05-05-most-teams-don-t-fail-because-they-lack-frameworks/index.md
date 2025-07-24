@@ -7,26 +7,12 @@ weight: 340
 ResourceId: sX2UVhPk6cL
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: most-teams-don-t-fail-because-they-lack-frameworks
 aliases:
 - /resources/sX2UVhPk6cL
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7325180153402114049
-  post_id: "7325180153402114049"
-  post_date: 2025-05-05T14:30:43Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:00Z
-  short_title: 2025-07-07T16:44:28Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -49,6 +35,20 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Organisational Change
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7325180153402114049
+  post_id: "7325180153402114049"
+  post_date: 2025-05-05T14:30:43Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:00Z
+  short_title: 2025-07-07T16:44:28Z
 
 ---
 Most teams don’t fail because they lack frameworks.  

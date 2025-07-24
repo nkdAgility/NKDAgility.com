@@ -1,30 +1,15 @@
 ---
+title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%'
 short_title: Continuous Learning for Top 10% Success
 description: Explains how continuous learning helps you stay relevant, seize new opportunities, and grow personally and professionally through reading, community, and experimentation.
 date: 2023-12-19T11:00:00Z
-ResourceId: -T1e8hjLt24
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
+ResourceId: -T1e8hjLt24
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:47Z
-  short_title: 2025-07-07T17:50:36Z
-title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%'
-videoId: -T1e8hjLt24
-source: youtube
-url: /resources/videos/:slug
-slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
-layout: video
+ResourceImportSource: Youtube
+slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 aliases:
 - /resources/-T1e8hjLt24
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:47Z
+  short_title: 2025-07-07T17:50:36Z
+videoId: -T1e8hjLt24
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 resourceTypes:

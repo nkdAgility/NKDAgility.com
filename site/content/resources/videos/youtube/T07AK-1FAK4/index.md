@@ -1,30 +1,15 @@
 ---
+title: 'Beware the Fake Agilists: How to Protect Your Team from the Agile Apocalypse'
 short_title: 'Beware the Fake Agilists: Protect Your Team'
 description: Learn how to identify and prevent the harm caused by unqualified Agile leaders, protect team trust, and ensure genuine Agile practices drive software development success.
 date: 2023-11-07T07:36:21Z
-ResourceId: T07AK-1FAK4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Competence
+ResourceId: T07AK-1FAK4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:04Z
-  short_title: 2025-07-07T17:51:55Z
-title: 'Beware the Fake Agilists: How to Protect Your Team from the Agile Apocalypse'
-videoId: T07AK-1FAK4
-source: youtube
-url: /resources/videos/:slug
-slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
-layout: video
+ResourceImportSource: Youtube
+slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 aliases:
 - /resources/T07AK-1FAK4
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/7-signs-of-the-agile-apocalypse-the-antichrist
 - beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Competence
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:04Z
+  short_title: 2025-07-07T17:51:55Z
+videoId: T07AK-1FAK4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 resourceTypes:

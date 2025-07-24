@@ -1,12 +1,28 @@
 ---
+title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
 short_title: 'Mastering Kanban: Core Principles Guide'
 description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
 date: 2024-07-01T07:00:24Z
-ResourceId: nfTAYRLAaYI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: nfTAYRLAaYI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-kanban-a-simple-guide-to-its-core-principles
+aliases:
+- /resources/nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+aliasesArchive:
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+- /resources/kanban-principles
+- mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -19,30 +35,14 @@ tags:
 - Operational Practices
 - Definition of Workflow
 - Transparency
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:44Z
   short_title: 2025-07-07T17:49:06Z
-title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
 videoId: nfTAYRLAaYI
-source: internal
 url: /resources/videos/:slug
-slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
-layout: video
-aliases:
-- /resources/nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-aliasesArchive:
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-- /resources/kanban-principles
-- mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
 preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
 duration: 49
 resourceTypes:

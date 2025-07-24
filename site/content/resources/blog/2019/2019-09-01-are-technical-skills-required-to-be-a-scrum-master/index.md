@@ -5,24 +5,19 @@ description: Technical skills are not required to be a Scrum Master, but underst
 date: 2019-09-01
 weight: 275
 ResourceId: foi9MYyc1vq
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
 - /resources/foi9MYyc1vq
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39894
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/are-technical-skills-required-to-be-a-scrum-master
 - /are-technical-skills-required-to-be-a-scrum-master
 - /are-technical-skills-required-to-be-a-scrum-master-
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/blog/are-technical-skills-required-to-be-a-scrum-master
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -35,6 +30,9 @@ tags:
 - Software Development
 - Agile Frameworks
 - Competence
+ResourceImportId: 39894
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: 1029723898-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:13Z

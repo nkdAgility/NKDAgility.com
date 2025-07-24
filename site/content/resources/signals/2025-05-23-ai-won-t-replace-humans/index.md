@@ -7,12 +7,17 @@ weight: 835
 ResourceId: ZSKQQVwpp3M
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: ai-won-t-replace-humans
 aliases:
 - /resources/ZSKQQVwpp3M
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7331703103953465345
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-29T18:10:54Z
   short_title: 2025-07-07T16:44:02Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Miscellaneous
 
 ---
 AI won’t replace humans. It will replace the work that should never have needed a human.

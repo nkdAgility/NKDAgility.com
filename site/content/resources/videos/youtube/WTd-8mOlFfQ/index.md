@@ -1,30 +1,15 @@
 ---
+title: 'Part 2: Common Mistakes that Scrum Masters Make'
 short_title: Common Mistakes Scrum Masters Make
 description: Explains why Scrum Masters should avoid taking on administrative tasks, highlighting the importance of focusing on team effectiveness rather than acting as a team secretary.
 date: 2023-07-07T14:00:33Z
-ResourceId: WTd-8mOlFfQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Scrum
-tags:
-- Scrum Master
+ResourceId: WTd-8mOlFfQ
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:57Z
-  short_title: 2025-07-07T17:54:06Z
-title: 'Part 2: Common Mistakes that Scrum Masters Make'
-videoId: WTd-8mOlFfQ
-source: internal
-url: /resources/videos/:slug
-slug: part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
-layout: video
+ResourceImportSource: Youtube
+slug: part-2-common-mistakes-that-scrum-masters-make
 aliases:
 - /resources/WTd-8mOlFfQ
 - /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
@@ -40,6 +25,21 @@ aliasesArchive:
 - /resources/common-mistakes-that-scrum-masters-make-part-2-
 - part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
 - /resources/videos/common-mistakes-that-scrum-masters-make-part-2
+source: internal
+layout: video
+concepts: []
+categories:
+- Scrum
+tags:
+- Scrum Master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:57Z
+  short_title: 2025-07-07T17:54:06Z
+videoId: WTd-8mOlFfQ
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
 resourceTypes:

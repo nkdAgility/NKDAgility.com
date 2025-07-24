@@ -7,21 +7,21 @@ weight: 1000
 ResourceId: 31Zki4xCtFO
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: innovation
 aliases:
 - /principles/innovation/
 - /resources/31Zki4xCtFO
 aliasesArchive:
 - /principles/innovation/
+layout: principle
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: principle
-layout: principle
 card:
   button:
     content: Start Optimizing Now

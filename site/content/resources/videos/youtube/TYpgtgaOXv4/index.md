@@ -1,12 +1,29 @@
 ---
+title: The Importance of Product Backlog Management in Today's Agile Landscape
 short_title: Product Backlog Management in Agile
 description: Explains why effective product backlog management is vital in Agile, highlights common pitfalls, and offers practical tips to improve team focus, transparency, and value delivery.
 date: 2023-12-01T07:00:11Z
-ResourceId: TYpgtgaOXv4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: TYpgtgaOXv4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-importance-of-product-backlog-management-in-today's-agile-landscape
+aliases:
+- /resources/TYpgtgaOXv4
+- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+- /resources/videos/the-importance-of-product-backlog-management-in-today-s-agile-landscape
+aliasesArchive:
+- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
+- the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/the-importance-of-product-backlog-management-in-today-s-agile-landscape
+source: internal
+layout: video
 concepts:
 - Artifact
 categories:
@@ -19,30 +36,14 @@ tags:
 - Agile Planning Tools
 - Operational Practices
 - Customer Focus
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:21Z
   short_title: 2025-07-07T17:51:21Z
-title: The Importance of Product Backlog Management in Today's Agile Landscape
 videoId: TYpgtgaOXv4
-source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-product-backlog-management-in-todays-agile-landscape
-layout: video
-aliases:
-- /resources/TYpgtgaOXv4
-- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-aliasesArchive:
-- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
-- the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/the-importance-of-product-backlog-management-in-today-s-agile-landscape
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
 duration: 75
 resourceTypes:

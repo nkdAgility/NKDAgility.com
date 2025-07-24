@@ -5,27 +5,25 @@ description: Explores the contrast between unprofessional "kalabule" practices a
 date: 2016-10-27
 weight: 330
 ResourceId: yUp0v2lyPX6
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
 - /resources/yUp0v2lyPX6
-ResourceContentOrigin: Human
-ResourceImportId: 11642
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Scrum Values
+ResourceImportId: 11642
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: clip_image001-2-2.png
 Watermarks:
   description: 2025-05-07T13:16:40Z

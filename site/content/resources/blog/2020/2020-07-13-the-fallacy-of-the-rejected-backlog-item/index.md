@@ -5,20 +5,17 @@ description: Explains why rejecting individual backlog items at Sprint Review is
 date: 2020-07-13
 weight: 360
 ResourceId: Ewu5coIz9qm
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-fallacy-of-the-rejected-backlog-item
 aliases:
-- /blog/the-fallacy-of-the-rejected-backlog-item
-- /the-fallacy-of-the-rejected-backlog-item
 - /resources/Ewu5coIz9qm
-- /resources/blog/the-fallacy-of-the-rejected-backlog-item
 aliasesArchive:
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
+layout: blog
 concepts:
 - Accountability
 categories:
@@ -41,10 +38,8 @@ tags:
 - Product Delivery
 - Product Owner
 - Value Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 9876
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 Watermarks:

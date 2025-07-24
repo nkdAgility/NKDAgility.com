@@ -1,13 +1,24 @@
 ---
+title: 10th April 2020 - Office Hours \ Ask me Anything
 short_title: 10th April 2020 Office Hours AMA
 description: Live Q&A session with Martin, covering DevOps, Scrum, Agility, and Azure DevOps. Submit questions publicly or privately and watch the discussion on YouTube.
 date: 2020-04-10T18:41:06Z
-ResourceId: 5UG3FF0n0C8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: 5UG3FF0n0C8
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: 10th-april-2020-office-hours-ask-me-anything
+aliases:
+- /resources/5UG3FF0n0C8
+aliasesArchive:
+- /resources/videos/th-april-office-hours-ask-me-anything
+- /resources/videos/10th-april-2020-office-hours-ask-me-anything
+- /resources/10th-april-2020-office-hours-ask-me-anything
+- 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,21 +29,9 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:15:49Z
   short_title: 2025-07-07T17:58:10Z
-title: 10th April 2020 - Office Hours \ Ask me Anything
 videoId: 5UG3FF0n0C8
-source: youtube
 url: /resources/videos/:slug
-slug: 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
-layout: video
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
-aliases:
-- /resources/5UG3FF0n0C8
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
-aliasesArchive:
-- /resources/videos/th-april-office-hours-ask-me-anything
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything
-- /resources/10th-april-2020-office-hours-ask-me-anything
-- 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 preview: https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg
 duration: 41
 resourceTypes:

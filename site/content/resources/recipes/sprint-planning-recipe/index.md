@@ -7,12 +7,14 @@ weight: 790
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 slug: sprint-planning-recipe
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 - /resources/D1dSEM9ni3C
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+layout: recipe
 concepts:
 - Method
 categories:
@@ -28,9 +30,7 @@ tags:
 - Agile Frameworks
 - Agile Planning Tools
 - Team Performance
-ResourceContentOrigin: Human
 resourceTypes: recipe
-layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 recommendedContent:

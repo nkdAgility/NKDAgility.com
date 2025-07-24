@@ -7,12 +7,14 @@ weight: 1000
 ResourceId: HzW0lKldLP9
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: value-based-prioritization
 aliases:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 - /resources/HzW0lKldLP9
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+layout: principles
 concepts: []
 categories:
 - Product Management
@@ -20,11 +22,9 @@ categories:
 tags:
 - Product Backlog
 - Value Delivery
-ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
-layout: principles
 draft: true
 card:
   button:

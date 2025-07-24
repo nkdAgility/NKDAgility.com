@@ -5,10 +5,9 @@ description: Explains how to gather key metrics for evidence-based management in
 date: 2020-12-30
 weight: 360
 ResourceId: mK5twHwVcIg
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: evidence-based-management-gathering-the-metrics
 aliases:
 - /blog/evidence-based-management-gathering-metrics
@@ -23,6 +22,7 @@ aliasesArchive:
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
+layout: blog
 concepts:
 - Model
 categories:
@@ -45,11 +45,9 @@ tags:
 - Current Value
 - Time to Market
 - Agile Frameworks
-ResourceContentOrigin: Hybrid
 ResourceImportId: 10528
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-evidence-based-management-1-1.jpg
 Watermarks:

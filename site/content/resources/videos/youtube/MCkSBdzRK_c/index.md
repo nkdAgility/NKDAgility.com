@@ -1,12 +1,27 @@
 ---
+title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
 short_title: Evidence-Based Management for Business Value
 description: Explains how evidence-based management uses data-driven decisions and tailored metrics to boost business value, leadership effectiveness, and organisational innovation.
 date: 2024-01-25T07:00:13Z
-ResourceId: MCkSBdzRK_c
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: MCkSBdzRK_c
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+aliases:
+- /resources/MCkSBdzRK_c
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
+aliasesArchive:
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
+- unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Management
@@ -18,29 +33,14 @@ tags:
 - Decision Making
 - Metrics and Learning
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:14Z
   short_title: 2025-07-07T17:50:07Z
-title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
 videoId: MCkSBdzRK_c
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-layout: video
-aliases:
-- /resources/MCkSBdzRK_c
-- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
-aliasesArchive:
-- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
-- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
-- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
-- unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 resourceTypes:

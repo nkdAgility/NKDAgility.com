@@ -1,35 +1,19 @@
 ---
+title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 short_title: 'Scaling Scrum: Pragmatic or Defeatist?'
 description: Examines whether the belief that Scrum can't scale is practical or defeatist, highlighting Nexus as a proven approach for scaling Scrum to deliver greater value.
 date: 2023-10-09T14:30:08Z
-ResourceId: Oj0ybFF12Rw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Scrum
-tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
+ResourceId: Oj0ybFF12Rw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:55Z
-  short_title: 2025-07-07T17:52:33Z
-title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
-videoId: Oj0ybFF12Rw
-source: internal
-url: /resources/videos/:slug
-slug: quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
-layout: video
+ResourceImportSource: Youtube
+slug: quotes-don't-scale-scrum-pragmatic-or-defeatist
 aliases:
 - /resources/Oj0ybFF12Rw
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
+- /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
 aliasesArchive:
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
@@ -37,6 +21,23 @@ aliasesArchive:
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
 - /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
+source: internal
+layout: video
+concepts: []
+categories:
+- Scrum
+tags:
+- Software Development
+- Agile Frameworks
+- Professional Scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:55Z
+  short_title: 2025-07-07T17:52:33Z
+videoId: Oj0ybFF12Rw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 resourceTypes:

@@ -7,6 +7,7 @@ weight: 505
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 slug: daily-scrum-recipe
 aliases:
 - /recipes/Daily-Scrum-Recipe.html
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /recipes/Daily-Scrum-Recipe.html
 - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+layout: recipe
 concepts:
 - Practice
 categories:
@@ -35,9 +37,7 @@ tags:
 - Product Delivery
 - Transparency
 - Product Developer
-ResourceContentOrigin: Human
 resourceTypes: recipe
-layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
 recommendedContent:

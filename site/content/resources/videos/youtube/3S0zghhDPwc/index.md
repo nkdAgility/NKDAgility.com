@@ -1,12 +1,27 @@
 ---
+title: 'The Overlooked Virtue of Agility: Diligence'
 short_title: 'The Overlooked Virtue of Agility: Diligence'
 description: Explores why diligence—consistent attention to quality and standards—is vital in Agile teams, how it’s often overlooked, and practical steps to foster it for lasting success.
 date: 2023-12-07T07:00:02Z
-ResourceId: 3S0zghhDPwc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+ResourceId: 3S0zghhDPwc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-overlooked-virtue-of-agility-diligence
+aliases:
+- /resources/3S0zghhDPwc
+- /resources/videos/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/7-virtues-of-agile-diligence
+aliasesArchive:
+- /resources/videos/the-overlooked-virtue-of-agility-diligence
+- /resources/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/7-virtues-of-agile-diligence
+- /resources/7-virtues-of-agile-diligence
+- the-overlooked-virtue-of-agility-diligence
+source: internal
+layout: video
 concepts:
 - Practice
 categories:
@@ -19,29 +34,14 @@ tags:
 - Competence
 - Agile Values and Principles
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:11Z
   short_title: 2025-07-07T17:51:14Z
-title: 'The Overlooked Virtue of Agility: Diligence'
 videoId: 3S0zghhDPwc
-source: internal
 url: /resources/videos/:slug
-slug: the-overlooked-virtue-of-agility-diligence
-layout: video
-aliases:
-- /resources/3S0zghhDPwc
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-aliasesArchive:
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/7-virtues-of-agile-diligence
-- the-overlooked-virtue-of-agility-diligence
 preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
 duration: 119
 resourceTypes:

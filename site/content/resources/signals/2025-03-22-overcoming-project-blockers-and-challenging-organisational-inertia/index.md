@@ -7,26 +7,12 @@ weight: 420
 ResourceId: aXo_GayoCuE
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: overcoming-project-blockers-and-challenging-organisational-inertia
 aliases:
 - /resources/aXo_GayoCuE
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7309250013287645184
-  post_id: "7309250013287645184"
-  post_date: 2025-03-22T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:57Z
-  short_title: 2025-07-07T16:45:16Z
+layout: signal
 concepts: []
 categories:
 - Scrum
@@ -47,6 +33,20 @@ tags:
 - Social Technologies
 - Sociotechnical Systems
 - Employee Engagement
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7309250013287645184
+  post_id: "7309250013287645184"
+  post_date: 2025-03-22T16:30:03Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:57Z
+  short_title: 2025-07-07T16:45:16Z
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove a blocker, someone tells you it’s “not your call.” Every time you challenge a dysfunction, you’re met with, “We’ve always done it this way.”

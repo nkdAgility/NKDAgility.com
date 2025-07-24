@@ -1,12 +1,28 @@
 ---
+title: 'Debunking the Top 5 Myths About Scrum: Unlocking Agile Success in Your Organisation'
 short_title: Top 5 Scrum Myths Debunked for Agile Success
 description: Explores and corrects common misconceptions about Scrum, clarifying its true principles, events, planning, and governance to help teams adopt Agile practices effectively.
 date: 2024-05-06T14:12:53Z
-ResourceId: 4YixczaREUw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: 4YixczaREUw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
+aliases:
+- /resources/4YixczaREUw
+- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
+- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
+aliasesArchive:
+- /resources/videos/debunking-the-top-myths-about-scrum-unlocking-agile-success-in-your-organisation
+- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
+- /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+- /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
+- debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -23,10 +39,6 @@ tags:
 - Transparency
 - Agile Transformation
 - Pragmatic Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/scrum-does-not-work
@@ -34,26 +46,14 @@ platform_signals:
 - platform: Youtube
   post_url: https://www.youtube.com/watch?v=4YixczaREUw
   post_date: 2024-05-06
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:10Z
   short_title: 2025-07-07T17:49:17Z
-title: 'Debunking the Top 5 Myths About Scrum: Unlocking Agile Success in Your Organisation'
 videoId: 4YixczaREUw
-source: youtube
 url: /resources/videos/:slug
-slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
-layout: video
-aliases:
-- /resources/4YixczaREUw
-- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
-- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
-aliasesArchive:
-- /resources/videos/debunking-the-top-myths-about-scrum-unlocking-agile-success-in-your-organisation
-- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
-- /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
-- /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
-- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
-- debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 resourceTypes:

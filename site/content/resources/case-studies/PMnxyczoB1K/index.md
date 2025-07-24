@@ -7,6 +7,7 @@ weight: 65
 ResourceId: PMnxyczoB1K
 ResourceImport: false
 ResourceType: case-studies
+ResourceContentOrigin: human
 slug: streamline-build-and-release-across-90-teams-and-13-countries
 aliases:
 - /resources/PMnxyczoB1K
@@ -35,7 +36,6 @@ tags:
 - Technical Excellence
 - One Engineering System
 - Agentic Agility
-ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:57Z
   short_title: 2025-07-07T16:43:48Z

@@ -7,12 +7,23 @@ weight: 310
 ResourceId: pgCUc2qV2_q
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: not-all-delays-are-the-same
 aliases:
 - /resources/pgCUc2qV2_q
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Practice
+categories:
+- Kanban
+tags:
+- Operational Practices
+- Team Performance
+- Miscellaneous
+- Pragmatic Thinking
+- Metrics and Learning
+- Value Stream Management
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7296566434187431936
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:57Z
   short_title: 2025-07-07T17:46:29Z
-concepts:
-- Practice
-categories:
-- Kanban
-tags:
-- Operational Practices
-- Team Performance
-- Miscellaneous
-- Pragmatic Thinking
-- Metrics and Learning
-- Value Stream Management
 
 ---
 Not all delays are the same.

@@ -5,22 +5,17 @@ description: The US Department of Defence now requires agile, iterative software
 date: 2018-05-01
 weight: 360
 ResourceId: dnmT3QDhGxx
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
 - /resources/dnmT3QDhGxx
-ResourceContentOrigin: Hybrid
-ResourceImportId: 10204
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -42,11 +37,14 @@ tags:
 - Continuous Improvement
 - Agile Frameworks
 - Agile Planning
-preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
   post_type: crosspost
+ResourceImportId: 10204
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 Watermarks:
   description: 2025-05-07T13:16:17Z
   short_title: 2025-07-07T17:58:34Z

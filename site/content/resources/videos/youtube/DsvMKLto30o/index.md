@@ -1,12 +1,29 @@
 ---
+title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 short_title: Embrace Simplicity for Continuous Delivery
 description: Explains how simplifying complex software and committing to change enables continuous delivery, highlighting the need for cultural shift, resilience, and ongoing improvement.
 date: 2025-02-27T07:00:10Z
-ResourceId: DsvMKLto30o
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 255
+ResourceId: DsvMKLto30o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+aliases:
+- /resources/DsvMKLto30o
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+aliasesArchive:
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/performance-engineering-for-optimal-user-experience
+- /resources/performance-engineering-for-optimal-user-experience
+- nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+- embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+source: internal
+layout: video
 concepts: []
 categories:
 - Engineering Excellence
@@ -20,36 +37,19 @@ tags:
 - Frequent Releases
 - Operational Practices
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:24Z
-  short_title: 2025-07-07T16:45:46Z
-title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 videoId: DsvMKLto30o
-source: internal
 url: /resources/videos/:slug
-slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-layout: video
-aliases:
-- /resources/DsvMKLto30o
-- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
-aliasesArchive:
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/performance-engineering-for-optimal-user-experience
-- /resources/performance-engineering-for-optimal-user-experience
-- nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
-- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-- embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T12:49:24Z
+  short_title: 2025-07-07T16:45:46Z
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

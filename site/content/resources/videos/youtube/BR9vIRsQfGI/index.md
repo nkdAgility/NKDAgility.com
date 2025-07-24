@@ -1,29 +1,15 @@
 ---
+title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
 short_title: Negotiation Skills for Product Owners
 description: Learn key negotiation skills for product owners, including empathy, active listening, and strategic questioning, inspired by *Never Split the Difference* by Chris Voss.
 date: 2023-12-13T11:00:08Z
-ResourceId: BR9vIRsQfGI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: BR9vIRsQfGI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:59Z
-  short_title: 2025-07-07T17:50:48Z
-title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
-videoId: BR9vIRsQfGI
-source: youtube
-url: /resources/videos/:slug
-slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
-layout: video
+ResourceImportSource: Youtube
+slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 aliases:
 - /resources/BR9vIRsQfGI
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
@@ -36,6 +22,20 @@ aliasesArchive:
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 - mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:59Z
+  short_title: 2025-07-07T17:50:48Z
+videoId: BR9vIRsQfGI
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 resourceTypes:

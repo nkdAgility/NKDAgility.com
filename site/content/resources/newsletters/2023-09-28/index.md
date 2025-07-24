@@ -4,9 +4,11 @@ short_title: Product Ownership & Lean Product Development Webcast
 description: Explore expert insights on product ownership and lean product development, featuring real-world examples, practical strategies, and an interactive Q&A session.
 date: 2023-09-28
 weight: 1000
+author: MrHinsh
 ResourceId: GdoDhtTM-Rn
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: exclusive-webcast-with-joanna-płaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development
 aliases:
 - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
@@ -15,16 +17,14 @@ aliases:
 aliasesArchive:
 - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
 - /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+layout: newsletter
 concepts: []
 categories:
 - Product Development
 - Product Management
 tags: []
-ResourceContentOrigin: Human
 preview: NKDAgility-Webinar.jpg
-author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:09:16Z
   short_title: 2025-07-07T17:52:50Z

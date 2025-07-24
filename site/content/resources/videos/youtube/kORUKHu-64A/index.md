@@ -1,33 +1,20 @@
 ---
+title: Scrum is like communism, it doesn't work. Myth 5.
 short_title: 'Scrum and Governance: Debunking the Myth'
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
-ResourceId: kORUKHu-64A
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: kORUKHu-64A
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:20Z
-  short_title: 2025-07-07T17:52:05Z
-title: Scrum is like communism, it doesn't work. Myth 5.
-videoId: kORUKHu-64A
-source: internal
-url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesnt-work-myth-5
-layout: video
+ResourceImportSource: Youtube
+slug: scrum-is-like-communism-it-doesn't-work-myth-5
 aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
@@ -39,6 +26,20 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:20Z
+  short_title: 2025-07-07T17:52:05Z
+videoId: kORUKHu-64A
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 resourceTypes:

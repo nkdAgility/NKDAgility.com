@@ -1,12 +1,26 @@
 ---
+title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 short_title: How Happy Teams Create Exceptional Products
 description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher-quality, more impactful products in agile organisations.
 date: 2024-05-10T06:45:01Z
-ResourceId: yCyjGBNaRqI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: yCyjGBNaRqI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+aliases:
+- /resources/yCyjGBNaRqI
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+aliasesArchive:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+- /resources/nkd-agility-mission-and-purpose
+- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+source: youtube
+layout: video
 concepts: []
 categories:
 - Leadership
@@ -21,28 +35,14 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:53Z
   short_title: 2025-07-07T17:49:13Z
-title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 videoId: yCyjGBNaRqI
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-layout: video
-aliases:
-- /resources/yCyjGBNaRqI
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
-aliasesArchive:
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
-- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 resourceTypes:

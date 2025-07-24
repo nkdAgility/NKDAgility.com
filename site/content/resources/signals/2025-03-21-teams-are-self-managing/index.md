@@ -7,26 +7,12 @@ weight: 395
 ResourceId: 8EauPhROdZq
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: teams-are-self-managing
 aliases:
 - /resources/8EauPhROdZq
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7308887634099986433
-  post_id: "7308887634099986433"
-  post_date: 2025-03-21T16:30:04Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:59Z
-  short_title: 2025-07-07T16:45:17Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -46,6 +32,20 @@ tags:
 - Social Technologies
 - Operational Practices
 - Scrum Team
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7308887634099986433
+  post_id: "7308887634099986433"
+  post_date: 2025-03-21T16:30:04Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:59Z
+  short_title: 2025-07-07T16:45:17Z
 
 ---
 “Teams are self-managing. We don’t need a Scrum Master telling us what to do.”

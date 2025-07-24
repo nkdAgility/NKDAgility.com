@@ -1,12 +1,26 @@
 ---
+title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 short_title: Rethinking Budgeting to Maximise Value
 description: Explores the limitations of traditional budgeting and explains how flexible, value-driven approaches like Beyond Budgeting can improve agility, innovation, and resource use.
 date: 2024-12-09T06:30:00Z
-ResourceId: kXhJrisYofU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: kXhJrisYofU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+aliases:
+- /resources/kXhJrisYofU
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
+aliasesArchive:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
+- /resources/agile-budgeting-for-predictable-costs
+- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -20,28 +34,14 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Agile Strategy
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:51Z
   short_title: 2025-07-07T17:47:15Z
-title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 videoId: kXhJrisYofU
-source: youtube
 url: /resources/videos/:slug
-slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
-layout: video
-aliases:
-- /resources/kXhJrisYofU
-- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
-- /resources/videos/agile-budgeting-for-predictable-costs
-aliasesArchive:
-- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
-- /resources/videos/agile-budgeting-for-predictable-costs
-- /resources/agile-budgeting-for-predictable-costs
-- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 resourceTypes:

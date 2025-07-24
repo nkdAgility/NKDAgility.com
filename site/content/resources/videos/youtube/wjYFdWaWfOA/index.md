@@ -1,35 +1,15 @@
 ---
+title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
 short_title: The Essential Role of a Scrum Master in Agile
 description: Explains how a Scrum Master empowers Agile teams by bridging business, technical, and organisational needs to boost effectiveness, collaboration, and delivery outcomes.
 date: 2023-05-22T14:00:41Z
-ResourceId: wjYFdWaWfOA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
-concepts: []
-categories:
-- Scrum
-- Technical Leadership
-- Product Development
-tags:
-- Scrum Master
-- Scrum Team
-- Software Development
-- Team Performance
+ResourceId: wjYFdWaWfOA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:18Z
-  short_title: 2025-07-07T17:55:08Z
-title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
-videoId: wjYFdWaWfOA
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
-layout: video
 aliases:
 - /resources/wjYFdWaWfOA
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
@@ -41,6 +21,26 @@ aliasesArchive:
 - what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
 - unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
+source: youtube
+layout: video
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+- Product Development
+tags:
+- Scrum Master
+- Scrum Team
+- Software Development
+- Team Performance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:18Z
+  short_title: 2025-07-07T17:55:08Z
+videoId: wjYFdWaWfOA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 resourceTypes:

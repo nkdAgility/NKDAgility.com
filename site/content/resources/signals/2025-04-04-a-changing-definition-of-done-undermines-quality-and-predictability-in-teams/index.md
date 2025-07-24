@@ -7,12 +7,25 @@ weight: 255
 ResourceId: lPs2C5FQ5cR
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: a-changing-definition-of-done-undermines-quality-and-predictability-in-teams
 aliases:
 - /resources/lPs2C5FQ5cR
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+- Product Development
+- Scrum
+tags:
+- Team Performance
+- Professional Scrum
+- Definition of Done
+- Operational Practices
+- Software Development
+- Continuous Improvement
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7313945955295244288
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:43Z
   short_title: 2025-07-07T16:45:04Z
-concepts:
-- Practice
-categories:
-- Engineering Excellence
-- Product Development
-- Scrum
-tags:
-- Team Performance
-- Professional Scrum
-- Definition of Done
-- Operational Practices
-- Software Development
-- Continuous Improvement
 
 ---
 Imagine trying to run a factory job where the definition of a “finished product” changes every week. Forecasting production? Impossible. Measuring quality? Good luck.

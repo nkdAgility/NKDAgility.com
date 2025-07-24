@@ -7,26 +7,12 @@ weight: 310
 ResourceId: HvZvnbC68go
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: building-the-wrong-thing-is-worse-than-fixing-a-bug
 aliases:
 - /resources/HvZvnbC68go
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7317569956584259585
-  post_id: "7317569956584259585"
-  post_date: 2025-04-14T14:30:31Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:30Z
-  short_title: 2025-07-07T16:44:52Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -45,6 +31,20 @@ tags:
 - Software Development
 - Operational Practices
 - Agile Philosophy
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7317569956584259585
+  post_id: "7317569956584259585"
+  post_date: 2025-04-14T14:30:31Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:30Z
+  short_title: 2025-07-07T16:44:52Z
 
 ---
 Do you know what’s worse than fixing a bug? Building the wrong thing in the first place.

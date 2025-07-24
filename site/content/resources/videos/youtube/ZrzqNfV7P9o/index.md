@@ -1,29 +1,15 @@
 ---
+title: Learn Scrum with Minecraft Education Edition
 short_title: Learn Scrum with Minecraft Education Edition
 description: Experience Scrum hands-on by collaborating in Minecraft Education Edition, simulating real-world product development complexity for all skill levels in a secure environment.
 date: 2023-01-10T07:48:02Z
-ResourceId: ZrzqNfV7P9o
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: ZrzqNfV7P9o
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:34Z
-  short_title: 2025-07-07T17:57:10Z
-title: Learn Scrum with Minecraft Education Edition
-videoId: ZrzqNfV7P9o
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: learn-scrum-with-minecraft-education-edition
-layout: video
 aliases:
 - /resources/ZrzqNfV7P9o
 - /resources/videos/learn-scrum-with-minecraft-education-edition
@@ -36,6 +22,20 @@ aliasesArchive:
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
 - learn-scrum-with-minecraft-education-edition
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:34Z
+  short_title: 2025-07-07T17:57:10Z
+videoId: ZrzqNfV7P9o
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
 duration: 261
 resourceTypes:

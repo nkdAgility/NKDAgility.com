@@ -7,26 +7,12 @@ weight: 295
 ResourceId: 6FqFYeSHQBg
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: deploying-windows-os-directly-to-production-then-vs-now
 aliases:
 - /resources/6FqFYeSHQBg
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299103145975042048
-  post_id: "7299103145975042048"
-  post_date: 2025-02-22T16:30:00Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:48Z
-  short_title: 2025-07-07T17:46:15Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -49,6 +35,20 @@ tags:
 - Continuous Improvement
 - Organisational Agility
 - Continuous Learning
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299103145975042048
+  post_id: "7299103145975042048"
+  post_date: 2025-02-22T16:30:00Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:48Z
+  short_title: 2025-07-07T17:46:15Z
 
 ---
 The idea of deploying an operating system like Windows directly to production would have been unthinkable a decade ago. But that’s exactly what Microsoft does now.

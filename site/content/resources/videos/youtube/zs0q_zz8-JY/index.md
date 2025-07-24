@@ -1,12 +1,27 @@
 ---
+title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success'
 short_title: Scrum Master as Servant Leader Explained
 description: Explains why the Scrum Master is a servant leader, not an authority figure, and how this approach empowers teams, encourages autonomy, and dispels common misconceptions.
 date: 2023-06-21T11:00:52Z
-ResourceId: zs0q_zz8-JY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+ResourceId: zs0q_zz8-JY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+aliases:
+- /resources/zs0q_zz8-JY
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+- /resources/videos/biggest-misconception-about-a-scrum-master
+aliasesArchive:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+- /resources/videos/biggest-misconception-about-a-scrum-master
+- /resources/biggest-misconception-about-a-scrum-master
+- unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
+source: youtube
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -20,29 +35,14 @@ tags:
 - Agile Frameworks
 - Coaching
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:23Z
   short_title: 2025-07-07T17:54:27Z
-title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success'
 videoId: zs0q_zz8-JY
-source: youtube
 url: /resources/videos/:slug
-slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
-layout: video
-aliases:
-- /resources/zs0q_zz8-JY
-- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
-- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
-- /resources/videos/biggest-misconception-about-a-scrum-master
-aliasesArchive:
-- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
-- /resources/videos/biggest-misconception-about-a-scrum-master
-- /resources/biggest-misconception-about-a-scrum-master
-- unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 resourceTypes:

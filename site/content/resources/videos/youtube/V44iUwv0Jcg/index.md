@@ -1,35 +1,15 @@
 ---
+title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
 short_title: Kaizen for Continuous Improvement Success
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
 date: 2024-08-14T07:04:17Z
-ResourceId: V44iUwv0Jcg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 380
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Lean Principles
-- Continuous Learning
-- Operational Practices
-- Lean Thinking
+ResourceId: V44iUwv0Jcg
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:10Z
-  short_title: 2025-07-07T17:48:35Z
-title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
-videoId: V44iUwv0Jcg
-source: youtube
-url: /resources/videos/:slug
-slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
-layout: video
+ResourceImportSource: Youtube
+slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliases:
 - /resources/V44iUwv0Jcg
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
 - embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Lean Principles
+- Continuous Learning
+- Operational Practices
+- Lean Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:10Z
+  short_title: 2025-07-07T17:48:35Z
+videoId: V44iUwv0Jcg
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 resourceTypes:

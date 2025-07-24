@@ -1,12 +1,26 @@
 ---
+title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
 short_title: Competence in Scrum Masters Drives Team Success
 description: Scrum Masters with deep knowledge and competence enable teams to deliver better products, drive business outcomes, and foster real improvement in software development.
 date: 2024-10-21T05:32:11Z
-ResourceId: r9aCEFpUHWU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 250
+ResourceId: r9aCEFpUHWU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+aliases:
+- /resources/r9aCEFpUHWU
+- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+aliasesArchive:
+- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+source: youtube
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -20,28 +34,14 @@ tags:
 - Scrum Team
 - Team Performance
 - Professional Scrum
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:28Z
   short_title: 2025-07-07T17:47:46Z
-title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
 videoId: r9aCEFpUHWU
-source: youtube
 url: /resources/videos/:slug
-slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-layout: video
-aliases:
-- /resources/r9aCEFpUHWU
-- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-aliasesArchive:
-- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 resourceTypes:

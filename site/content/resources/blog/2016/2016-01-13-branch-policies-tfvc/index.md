@@ -5,24 +5,19 @@ description: Explains how to apply and manage branch policies in TFVC using regu
 date: 2016-01-13
 weight: 660
 ResourceId: _26VFOA-vCe
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: branch-policies-for-tfvc
 aliases:
 - /resources/_26VFOA-vCe
-ResourceContentOrigin: Human
-ResourceImportId: 11424
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/branch-policies-tfvc
 - /branch-policies-tfvc
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
+layout: blog
 concepts:
 - Tool
 categories:
@@ -31,6 +26,9 @@ tags:
 - Software Development
 - Azure Repos
 - Modern Source Control
+ResourceImportId: 11424
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: image-2-2-2.png
 Watermarks:
   description: 2025-05-07T13:16:51Z

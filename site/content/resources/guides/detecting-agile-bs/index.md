@@ -4,32 +4,32 @@ short_title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 date: 2024-09-17
 weight: 360
+author:
+- US DOD Defence Innovation Board
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
-slug: detecting-agile-bs
-author:
-  - US DOD Defence Innovation Board
-aliases:
-  - /Guides/Detecting-Agile-BS.html
-  - /learn/agile-delivery-kit/guides/detecting-agile-bs
-  - /resources/Tt8SPr3xJER
-aliasesArchive:
-  - /Guides/Detecting-Agile-BS.html
-  - /learn/agile-delivery-kit/guides/detecting-agile-bs
-concepts:
-  - Tool
-categories:
-  - Product Development
-  - Engineering Excellence
-tags:
-  - Customer Focus
-  - Software Development
-  - Operational Practices
-  - Product Delivery
 ResourceContentOrigin: Human
-resourceTypes: guide
+slug: detecting-agile-bs
+aliases:
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
+- /resources/Tt8SPr3xJER
+aliasesArchive:
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
 layout: guide
+concepts:
+- Tool
+categories:
+- Product Development
+- Engineering Excellence
+tags:
+- Customer Focus
+- Software Development
+- Operational Practices
+- Product Delivery
+resourceTypes: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 creator: Martin Hinshelwood
 card:
@@ -40,8 +40,8 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:02Z
   short_title: 2025-07-07T16:40:40Z
----
 
+---
 # DIB Guide: Detecting Agile BS
 
 **Version 0.4**

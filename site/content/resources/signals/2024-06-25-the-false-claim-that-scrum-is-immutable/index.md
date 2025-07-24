@@ -7,23 +7,20 @@ weight: 700
 ResourceId: 0iq-XTDNbfx
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: Hybrid
 slug: the-false-claim-that-scrum-is-immutable
 aliases:
 - /resources/nTipEJck6ez
 - /resources/0iq-XTDNbfx
 aliasesArchive:
 - /resources/nTipEJck6ez
+source: internal
+layout: signal
 concepts:
 - Framework
 categories:
 - Scrum
 tags: []
-layout: signal
-ResourceContentOrigin: Hybrid
-resourceTypes:
-- signal
-source: internal
-url: /resources/signals/:slug
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
@@ -47,6 +44,9 @@ platform_signals:
     reactions: 14
     comments: 21
     reposts: 0
+resourceTypes:
+- signal
+url: /resources/signals/:slug
 Watermarks:
   description: 2025-05-07T13:02:48Z
   short_title: 2025-07-07T17:49:10Z

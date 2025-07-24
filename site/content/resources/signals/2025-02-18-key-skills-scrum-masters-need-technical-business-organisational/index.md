@@ -7,12 +7,24 @@ weight: 455
 ResourceId: KVrBKTQ-Yc-
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: key-skills-scrum-masters-need-technical-business-organisational
 aliases:
 - /resources/KVrBKTQ-Yc-
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Leadership
+- Product Development
+- Scrum
+tags:
+- Competence
+- Scrum Master
+- Organisational Agility
+- Agile Leadership
+- Pragmatic Thinking
+- Agile Transformation
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7297653718320046080
@@ -27,18 +39,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:52Z
   short_title: 2025-07-07T17:46:23Z
-concepts: []
-categories:
-- Leadership
-- Product Development
-- Scrum
-tags:
-- Competence
-- Scrum Master
-- Organisational Agility
-- Agile Leadership
-- Pragmatic Thinking
-- Agile Transformation
 
 ---
 Scrum Masters must master three domains: technical, business, and organisational.

@@ -1,31 +1,15 @@
 ---
+title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
 short_title: The Importance of Competence in Organizations
 description: Explores how fostering competence, continuous learning, and well-being in organisations leads to happier teams, better products, and sustainable growth.
 date: 2024-10-15T06:45:00Z
-ResourceId: I9avUDYFw-E
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 680
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-- Continuous Improvement
+ResourceId: I9avUDYFw-E
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:30Z
-  short_title: 2025-07-07T17:47:48Z
-title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
-videoId: I9avUDYFw-E
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
-layout: video
 aliases:
 - /resources/I9avUDYFw-E
 - /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
@@ -36,6 +20,22 @@ aliasesArchive:
 - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+- Continuous Improvement
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:30Z
+  short_title: 2025-07-07T17:47:48Z
+videoId: I9avUDYFw-E
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
 duration: 112
 resourceTypes:

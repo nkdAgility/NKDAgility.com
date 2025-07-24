@@ -1,33 +1,20 @@
 ---
+title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 short_title: Choosing Scrum.Org vs Scrum Alliance
 description: Explains choosing Scrum.Org over Scrum Alliance, focusing on values, certification costs, flexibility, community support, and alignment with agile and scrum principles.
 date: 2023-02-24T07:00:14Z
-ResourceId: jhpy9Hy8uEw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Scrum
-tags: []
+ResourceId: jhpy9Hy8uEw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:57Z
-  short_title: 2025-07-07T17:56:39Z
-title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
-videoId: jhpy9Hy8uEw
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-layout: video
 aliases:
 - /resources/jhpy9Hy8uEw
 - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance
+- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
 aliasesArchive:
 - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
@@ -36,6 +23,20 @@ aliasesArchive:
 - /resources/videos/choosing-scrum-org-over-scrum-alliance
 - why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
+source: internal
+layout: video
+concepts: []
+categories:
+- Scrum
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:57Z
+  short_title: 2025-07-07T17:56:39Z
+videoId: jhpy9Hy8uEw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 resourceTypes:

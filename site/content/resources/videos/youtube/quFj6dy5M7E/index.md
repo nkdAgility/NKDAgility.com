@@ -1,34 +1,15 @@
 ---
+title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
 short_title: High-Performance Delivery Through Competence
 description: Explores how competence, collaboration, and agile philosophies drive high-performance software delivery, focusing on business value, continuous improvement, and team empowerment.
 date: 2024-12-03T06:30:00Z
-ResourceId: quFj6dy5M7E
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 305
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Competence
-- Pragmatic Thinking
-- Product Delivery
-- Value Delivery
+ResourceId: quFj6dy5M7E
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:55Z
-  short_title: 2025-07-07T17:47:19Z
-title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
-videoId: quFj6dy5M7E
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-layout: video
 aliases:
 - /resources/quFj6dy5M7E
 - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
 - building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Competence
+- Pragmatic Thinking
+- Product Delivery
+- Value Delivery
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:55Z
+  short_title: 2025-07-07T17:47:19Z
+videoId: quFj6dy5M7E
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 resourceTypes:

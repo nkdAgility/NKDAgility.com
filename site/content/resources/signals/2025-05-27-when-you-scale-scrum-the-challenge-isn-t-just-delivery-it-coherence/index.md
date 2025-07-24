@@ -7,26 +7,12 @@ weight: 415
 ResourceId: eGzb1hJRtoc
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: when-you-scale-scrum-the-challenge-isn-t-just-delivery-it-coherence
 aliases:
 - /resources/eGzb1hJRtoc
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333152642082193409
-  post_id: "7333152642082193409"
-  post_date: 2025-05-27T14:30:33Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-29T18:10:45Z
-  short_title: 2025-07-07T16:43:56Z
+layout: signal
 concepts:
 - Framework
 categories:
@@ -43,6 +29,20 @@ tags:
 - Self Organisation
 - Professional Scrum
 - Agile Product Management
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333152642082193409
+  post_id: "7333152642082193409"
+  post_date: 2025-05-27T14:30:33Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-29T18:10:45Z
+  short_title: 2025-07-07T16:43:56Z
 
 ---
 When you scale Scrum, the challenge isn’t just delivery—it’s coherence. UX is a great example. Left unchecked, each team reinvents the wheel, creates inconsistent interactions, and loses alignment.

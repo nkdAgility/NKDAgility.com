@@ -5,10 +5,9 @@ description: Explains how a well-ordered, refined Product Backlog guides Agile t
 date: 2023-08-10
 weight: 690
 ResourceId: hWDjTSSBUJh
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: navigating-the-future-with-a-fine-tuned-product-backlog
 aliases:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -37,11 +37,9 @@ tags:
 - Value Delivery
 - Agile Planning Tools
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49510
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 Watermarks:

@@ -5,26 +5,24 @@ description: Explains the UK Government Cloud First policy, its mandate for publ
 date: 2017-05-10
 weight: 1000
 ResourceId: 6VDaSknKBPu
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: government-cloud-first-policy
 aliases:
 - /resources/6VDaSknKBPu
-ResourceContentOrigin: Human
-ResourceImportId: 11882
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/government-cloud-first-policy
 - /government-cloud-first-policy
 - /resources/blog/government-cloud-first-policy
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceImportId: 11882
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: government-cloud-640x400-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:39Z

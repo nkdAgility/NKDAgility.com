@@ -1,12 +1,28 @@
 ---
+title: Does Your Team Truly Understand Your Product Vision and Goals?
 short_title: Team Understanding of Product Vision & Goals
 description: Ensuring every team member understands and connects their daily work to the product vision and strategic goals is key to true Agile alignment, collaboration, and value delivery.
 date: 2024-07-12T06:45:00Z
-ResourceId: CPYTApf0Ibs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
+ResourceId: CPYTApf0Ibs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: does-your-team-truly-understand-your-product-vision-and-goals
+aliases:
+- /resources/CPYTApf0Ibs
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+aliasesArchive:
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
+- /resources/does-your-team-truly-understand-your-product-vision-and-goals
+- "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+- does-your-team-truly-understand-your-product-vision-and-goals
+source: internal
+layout: video
 concepts:
 - Strategy
 categories:
@@ -29,30 +45,14 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Agile Philosophy
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:37Z
   short_title: 2025-07-07T17:49:01Z
-title: Does Your Team Truly Understand Your Product Vision and Goals?
 videoId: CPYTApf0Ibs
-source: internal
 url: /resources/videos/:slug
-slug: does-your-team-truly-understand-your-product-vision-and-goals
-layout: video
-aliases:
-- /resources/CPYTApf0Ibs
-- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
-- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
-aliasesArchive:
-- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
-- /resources/does-your-team-truly-understand-your-product-vision-and-goals
-- "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
-- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
-- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
-- does-your-team-truly-understand-your-product-vision-and-goals
 preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
 duration: 411
 resourceTypes:

@@ -7,19 +7,19 @@ weight: 1000
 ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: emergant-practices
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
 - /resources/_MbvqRG_XNM
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
+layout: principles
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 resourceTypes: principles
-layout: principles
 creator: Martin Hinshelwood
 draft: true
 card:

@@ -4,54 +4,54 @@ short_title: Kanban Guide for Scrum Teams
 description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
 date: 2024-09-17
 weight: 840
+author:
+- Steve Porter
+- Yuval Yeret
+- Daniel Vacanti
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
-author:
-  - Steve Porter
-  - Yuval Yeret
-  - Daniel Vacanti
+ResourceContentOrigin: Human
 slug: kanban-guide-for-scrum-teams
 aliases:
-  - /guides/Kanban-Guide-for-Scrum-Teams.html
-  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-  - /resources/Z3HzXH_nmmz
+- /guides/Kanban-Guide-for-Scrum-Teams.html
+- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+- /resources/Z3HzXH_nmmz
 aliasesArchive:
-  - /guides/Kanban-Guide-for-Scrum-Teams.html
-  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-concepts:
-  - Framework
-categories:
-  - Product Development
-tags:
-  - Definition of Workflow
-  - Service Level Expectation
-  - Software Development
-  - Flow Efficiency
-  - Operational Practices
-  - Metrics and Learning
-  - Transparency
-  - Value Delivery
-  - Agile Frameworks
-  - Empirical Process Control
-  - Throughput
-  - Cycle Time
-  - Scrum Team
-  - Pragmatic Thinking
-  - Team Performance
-ResourceContentOrigin: Human
-resourceTypes: guide
+- /guides/Kanban-Guide-for-Scrum-Teams.html
+- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 layout: guide
+concepts:
+- Framework
+categories:
+- Product Development
+tags:
+- Definition of Workflow
+- Service Level Expectation
+- Software Development
+- Flow Efficiency
+- Operational Practices
+- Metrics and Learning
+- Transparency
+- Value Delivery
+- Agile Frameworks
+- Empirical Process Control
+- Throughput
+- Cycle Time
+- Scrum Team
+- Pragmatic Thinking
+- Team Performance
+resourceTypes: guide
 references:
-  - title: The Kanban Guide for Scrum Teams on Scrum.org
-    url: https://scrum.org/resources/kanban-guide-scrum-teams
-  - title: Work can flow across the Sprint boundary
-    url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
-  - title: No Estimates and is it advisable for a Scrum Team to adopt it?
-    url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+- title: The Kanban Guide for Scrum Teams on Scrum.org
+  url: https://scrum.org/resources/kanban-guide-scrum-teams
+- title: Work can flow across the Sprint boundary
+  url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+- title: No Estimates and is it advisable for a Scrum Team to adopt it?
+  url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
 recommendedContent:
-  - collection: practices
-    path: _practices/service-level-expectation-sle.md
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
 card:
   button:
@@ -61,8 +61,8 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:08Z
   short_title: 2025-07-07T16:40:34Z
----
 
+---
 The flow-based perspective of [Kanban]({{< ref "/categories/kanban" >}}) can enhance and complement the [Scrum]({{< ref "/categories/scrum" >}}) framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional [product development]({{< ref "/categories/product-development" >}}) practitioners can benefit from the application of Kanban together with Scrum.
 {: .lead}
 

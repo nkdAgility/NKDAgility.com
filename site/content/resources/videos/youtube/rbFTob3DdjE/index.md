@@ -1,32 +1,15 @@
 ---
+title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
 short_title: Digital Whiteboards for Agile Team Collaboration
 description: Explores how digital whiteboards boost agile team collaboration, engagement, and organisation, offering practical tips for effective use in remote and hybrid work settings.
 date: 2023-09-19T07:00:21Z
-ResourceId: rbFTob3DdjE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- Product Development
-tags:
-- Team Collaboration
-- Remote Working
+ResourceId: rbFTob3DdjE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:27Z
-  short_title: 2025-07-07T17:53:01Z
-title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
-videoId: rbFTob3DdjE
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 aliases:
 - /resources/rbFTob3DdjE
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
@@ -37,6 +20,23 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-2
 - /resources/5-tools-that-scrum-masters-love-part-2
 - unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+source: youtube
+layout: video
+concepts:
+- Tool
+categories:
+- Product Development
+tags:
+- Team Collaboration
+- Remote Working
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:27Z
+  short_title: 2025-07-07T17:53:01Z
+videoId: rbFTob3DdjE
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 resourceTypes:

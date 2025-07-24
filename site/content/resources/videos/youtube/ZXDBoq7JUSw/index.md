@@ -1,13 +1,26 @@
 ---
+title: 3 reasons why you should level up your knowledge and skills?
 short_title: 3 Reasons to Level Up Your Knowledge and Skills
 description: Discover how continuous learning, embracing trial and error, and caring deeply about your craft drive professional growth, resilience, and lasting industry success.
 date: 2023-08-03T07:00:11Z
-ResourceId: ZXDBoq7JUSw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: ZXDBoq7JUSw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills
+aliases:
+- /resources/ZXDBoq7JUSw
+- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
+aliasesArchive:
+- /resources/videos/-reasons-why-you-should-level-up-your-knowledge-and-skills
+- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
+- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
+- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
+- 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -19,21 +32,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:10:26Z
   short_title: 2025-07-07T17:53:44Z
-title: 3 reasons why you should level up your knowledge and skills?
 videoId: ZXDBoq7JUSw
-source: internal
 url: /resources/videos/:slug
-slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
-layout: video
-aliases:
-- /resources/ZXDBoq7JUSw
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
-aliasesArchive:
-- /resources/videos/-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
 preview: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg
 duration: 37
 resourceTypes:

@@ -1,12 +1,26 @@
 ---
+title: How much of an impact can a strong, skilled product owner have?
 short_title: Impact of a Skilled Product Owner
 description: A skilled product owner drives teams to build valuable solutions, anticipate customer needs, and deliver features that create real business impact—not just more features.
 date: 2023-01-30T07:30:06Z
-ResourceId: S3Xq6gCp7Hw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+ResourceId: S3Xq6gCp7Hw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+aliases:
+- /resources/S3Xq6gCp7Hw
+- /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+aliasesArchive:
+- /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+- /resources/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+- /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
+- /resources/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
+- how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Management
@@ -19,28 +33,14 @@ tags:
 - Scrum Team
 - Product Discovery
 - Agile Product Management
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:23Z
   short_title: 2025-07-07T17:56:59Z
-title: How much of an impact can a strong, skilled product owner have?
 videoId: S3Xq6gCp7Hw
-source: internal
 url: /resources/videos/:slug
-slug: how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-layout: video
-aliases:
-- /resources/S3Xq6gCp7Hw
-- /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-aliasesArchive:
-- /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-- /resources/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-- /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
-- /resources/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
-- how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg
 duration: 353
 resourceTypes:

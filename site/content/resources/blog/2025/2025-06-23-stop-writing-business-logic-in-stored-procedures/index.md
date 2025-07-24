@@ -7,10 +7,10 @@ weight: 240
 ResourceId: utAzlIGxj7O
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: stop-writing-business-logic-in-stored-procedures
 aliases:
 - /resources/utAzlIGxj7O
-ResourceContentOrigin: hybrid
 aliasesArchive:
 - /stop-writing-business-logic-in-stored-procedures
 - /blog/stop-writing-business-logic-in-stored-procedures

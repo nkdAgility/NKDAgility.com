@@ -1,34 +1,15 @@
 ---
+title: What is the most valuable thing you have learned through training people?
 short_title: Universal Challenges in Agile and Scrum Training
 description: Training people worldwide reveals that organisations face similar challenges when adopting agile and scrum, highlighting the universal nature of change and shared solutions.
 date: 2023-02-07T07:00:06Z
-ResourceId: 8uPjXXt5lo4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Personal
+ResourceId: 8uPjXXt5lo4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:13Z
-  short_title: 2025-07-07T17:56:52Z
-title: What is the most valuable thing you have learned through training people?
-videoId: 8uPjXXt5lo4
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-is-the-most-valuable-thing-you-have-learned-through-training-people
-layout: video
 aliases:
 - /resources/8uPjXXt5lo4
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - what-is-the-most-valuable-thing-you-have-learned-through-training-people
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
+- Personal
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:13Z
+  short_title: 2025-07-07T17:56:52Z
+videoId: 8uPjXXt5lo4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 resourceTypes:

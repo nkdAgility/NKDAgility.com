@@ -1,30 +1,15 @@
 ---
+title: 'Embracing Asynchronous Communication: Transform Your Collaboration and Boost Productivity'
 short_title: Embracing Asynchronous Communication
 description: Discover how asynchronous communication improves team collaboration, flexibility, and productivity by enabling thoughtful, documented interactions without time constraints.
 date: 2023-09-26T07:00:02Z
-ResourceId: 79M9edUp_5c
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Asynchronous Development
+ResourceId: 79M9edUp_5c
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:19Z
-  short_title: 2025-07-07T17:52:54Z
-title: 'Embracing Asynchronous Communication: Transform Your Collaboration and Boost Productivity'
-videoId: 79M9edUp_5c
-source: youtube
-url: /resources/videos/:slug
-slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
-layout: video
+ResourceImportSource: Youtube
+slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 aliases:
 - /resources/79M9edUp_5c
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4
 - embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Asynchronous Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:19Z
+  short_title: 2025-07-07T17:52:54Z
+videoId: 79M9edUp_5c
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 resourceTypes:

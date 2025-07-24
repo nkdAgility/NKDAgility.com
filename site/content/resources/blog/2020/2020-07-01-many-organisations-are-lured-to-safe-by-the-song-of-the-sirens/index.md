@@ -5,10 +5,9 @@ description: Explores how organisations adopt SAFe for agility but risk rigid bu
 date: 2020-07-01
 weight: 1000
 ResourceId: kmQceaX7e-O
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
 - /resources/kmQceaX7e-O
@@ -16,16 +15,15 @@ aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+layout: blog
 concepts:
 - Ethos
 categories:
 - Uncategorized
 tags:
 - Agnostic Agile
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44502
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 Watermarks:

@@ -5,10 +5,9 @@ description: Compares Agile’s risk mitigation through incremental, usable prod
 date: 2023-07-13
 weight: 415
 ResourceId: vkqr5T9YVsf
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliases:
 - /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
@@ -23,6 +22,7 @@ aliasesArchive:
 - /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
+layout: blog
 concepts: []
 categories:
 - Product Development
@@ -34,11 +34,9 @@ tags:
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49495
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

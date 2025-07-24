@@ -7,12 +7,18 @@ weight: 650
 ResourceId: gcu0w2Xq7sm
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: a-bloated-backlog-is-not-a-sign-of-good-product-management
 aliases:
 - /resources/gcu0w2Xq7sm
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Product Backlog
+- Agile Product Management
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7316120303766523904
@@ -27,12 +33,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:35Z
   short_title: 2025-07-07T16:44:57Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Product Backlog
-- Agile Product Management
 
 ---
 A bloated backlog is not a sign of good product management. It’s a sign of indecision.

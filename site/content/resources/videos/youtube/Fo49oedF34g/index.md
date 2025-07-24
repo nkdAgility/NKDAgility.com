@@ -1,39 +1,40 @@
 ---
+title: Czym różni się zwinne przywództwo od tradycyjnego zarządzania
 short_title: Różnice między zwinnym a tradycyjnym zarządzaniem
 description: Explains the key differences between agile leadership and traditional management, focusing on team collaboration, adaptability, and continuous improvement in organisations.
 date: 2023-08-09T14:59:44Z
-ResourceId: Fo49oedF34g
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: Fo49oedF34g
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.4
-Watermarks:
-  description: 2025-05-07T13:10:19Z
-  short_title: 2025-07-07T17:53:38Z
-title: Czym różni się zwinne przywództwo od tradycyjnego zarządzania
-videoId: Fo49oedF34g
-source: youtube
-url: /resources/videos/:slug
-slug: czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
-layout: video
-canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
+ResourceImportSource: Youtube
+slug: czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 aliases:
 - /resources/Fo49oedF34g
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
+- /resources/videos/czym-r-ni-si-zwinne-przyw-dztwo-od-tradycyjnego-zarz-dzania
 aliasesArchive:
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-r-ni-si-zwinne-przyw-dztwo-od-tradycyjnego-zarz-dzania
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+Watermarks:
+  description: 2025-05-07T13:10:19Z
+  short_title: 2025-07-07T17:53:38Z
+videoId: Fo49oedF34g
+url: /resources/videos/:slug
+canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 resourceTypes:

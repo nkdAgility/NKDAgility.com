@@ -1,34 +1,15 @@
 ---
+title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
 short_title: Pragmatism Over Dogma in Agile Teams
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 date: 2023-12-28T08:40:54Z
-ResourceId: _5daB0lJpdc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Transformation
-- Agile Values and Principles
-- Software Development
-- Agile Philosophy
-- Organisational Agility
+ResourceId: _5daB0lJpdc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:46Z
-  short_title: 2025-07-07T17:50:35Z
-title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
-videoId: _5daB0lJpdc
-source: internal
-url: /resources/videos/:slug
-slug: introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-layout: video
+ResourceImportSource: Youtube
+slug: introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliases:
 - /resources/_5daB0lJpdc
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
@@ -40,6 +21,25 @@ aliasesArchive:
 - /resources/5-ghosts-of-agile-past-certification
 - introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Transformation
+- Agile Values and Principles
+- Software Development
+- Agile Philosophy
+- Organisational Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:46Z
+  short_title: 2025-07-07T17:50:35Z
+videoId: _5daB0lJpdc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 resourceTypes:

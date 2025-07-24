@@ -1,29 +1,15 @@
 ---
+title: What is a product vision, and why does it matter?
 short_title: What Is a Product Vision and Why It Matters
 description: A product vision defines the shared direction and purpose for a team, aligning efforts and ensuring everyone understands the goals and their role in achieving them.
 date: 2023-05-17T14:00:17Z
-ResourceId: Xs-gf093GbI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags: []
+ResourceId: Xs-gf093GbI
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:23Z
-  short_title: 2025-07-07T17:55:12Z
-title: What is a product vision, and why does it matter?
-videoId: Xs-gf093GbI
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-is-a-product-vision-and-why-does-it-matter
-layout: video
 aliases:
 - /resources/Xs-gf093GbI
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter
@@ -33,6 +19,20 @@ aliasesArchive:
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter-
 - /resources/what-is-a-product-vision-and-why-does-it-matter-
 - what-is-a-product-vision-and-why-does-it-matter
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:23Z
+  short_title: 2025-07-07T17:55:12Z
+videoId: Xs-gf093GbI
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Xs-gf093GbI/maxresdefault.jpg
 duration: 141
 resourceTypes:

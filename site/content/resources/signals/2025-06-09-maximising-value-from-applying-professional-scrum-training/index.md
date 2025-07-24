@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: maximising-value-from-applying-professional-scrum-training
 aliases:
 - /resources/Db-LocFYG0R
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7337863687812116481
-  post_id: "7337863687812116481"
-  post_date: 2025-06-09T14:30:34Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:39Z
-  short_title: 2025-07-07T16:43:36Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -48,6 +34,20 @@ tags:
 - Personal
 - Pragmatic Thinking
 - Self Organisation
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7337863687812116481
+  post_id: "7337863687812116481"
+  post_date: 2025-06-09T14:30:34Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:39Z
+  short_title: 2025-07-07T16:43:36Z
 
 ---
 The best outcome of a Applying Professional Scrum class isn’t just better understanding of Scrum. It’s a backlog of change.

@@ -5,27 +5,25 @@ description: Open-source tools for migrating work items, test plans, teams, and 
 date: 2016-10-26
 weight: 840
 ResourceId: UjyqYjINUfp
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: vsts-sync-migration-tools
 aliases:
 - /resources/UjyqYjINUfp
-ResourceContentOrigin: Human
-ResourceImportId: 11634
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
+layout: blog
 concepts:
 - Tool
 categories:
 - Uncategorized
 tags: []
+ResourceImportId: 11634
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: image_thumb-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:41Z

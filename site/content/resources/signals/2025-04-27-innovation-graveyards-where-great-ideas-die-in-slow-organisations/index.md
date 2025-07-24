@@ -7,12 +7,20 @@ weight: 750
 ResourceId: S-OSZ8uEFdf
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: innovation-graveyards-where-great-ideas-die-in-slow-organisations
 aliases:
 - /resources/S-OSZ8uEFdf
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Entrepreneurship
+- Unrealised Value
+- Miscellaneous
+- Business Agility
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7322280996026920960
@@ -27,14 +35,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:11Z
   short_title: 2025-07-07T16:44:38Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Entrepreneurship
-- Unrealised Value
-- Miscellaneous
-- Business Agility
 
 ---
 Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.

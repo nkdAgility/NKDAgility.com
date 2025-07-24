@@ -7,12 +7,25 @@ weight: 400
 ResourceId: CBIAsEX7a86
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: agile-without-a-usable-working-product-is-just-expensive-theatre
 aliases:
 - /resources/CBIAsEX7a86
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+tags:
+- Working Software
+- Pragmatic Thinking
+- Value Delivery
+- Increment
+- Agile Product Management
+- Operational Practices
+- Product Delivery
+- Agile Values and Principles
+- Agile Philosophy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7319744264169533440
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:20Z
   short_title: 2025-07-07T16:44:46Z
-concepts: []
-categories:
-- Product Development
-tags:
-- Working Software
-- Pragmatic Thinking
-- Value Delivery
-- Increment
-- Agile Product Management
-- Operational Practices
-- Product Delivery
-- Agile Values and Principles
-- Agile Philosophy
 
 ---
 Agile without a usable working product is just expensive theatre.

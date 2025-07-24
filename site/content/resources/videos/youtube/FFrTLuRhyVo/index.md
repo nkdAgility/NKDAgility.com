@@ -1,31 +1,15 @@
 ---
+title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery'
 short_title: Transforming Technical Debt for Innovation
 description: Explores how managing technical debt enables faster delivery, higher product quality, and greater innovation, highlighting strategies for continuous improvement and value.
 date: 2024-11-21T17:01:52Z
-ResourceId: FFrTLuRhyVo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 280
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Software Development
+ResourceId: FFrTLuRhyVo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:09Z
-  short_title: 2025-07-07T17:47:31Z
-title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery'
-videoId: FFrTLuRhyVo
-source: youtube
-url: /resources/videos/:slug
-slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
-layout: video
+ResourceImportSource: Youtube
+slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 aliases:
 - /resources/FFrTLuRhyVo
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
@@ -37,6 +21,22 @@ aliasesArchive:
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
 - transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
+source: youtube
+layout: video
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:09Z
+  short_title: 2025-07-07T17:47:31Z
+videoId: FFrTLuRhyVo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 resourceTypes:

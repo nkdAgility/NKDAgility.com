@@ -1,36 +1,15 @@
 ---
+title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
 short_title: Empowering Agile Teams by Teaching the Why
 description: Explores how teaching the reasons behind Agile practices boosts team engagement, collaboration, and continuous improvement, helping teams adapt and thrive with Scrum.
 date: 2023-04-27T07:00:31Z
-ResourceId: xuNNZnCNVWs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Coaching
-- Software Development
-- Scrum Master
-- Agile Transformation
-- Social Technologies
-- Agile Frameworks
-- Organisational Agility
+ResourceId: xuNNZnCNVWs
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:58Z
-  short_title: 2025-07-07T17:55:42Z
-title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
-videoId: xuNNZnCNVWs
-source: youtube
-url: /resources/videos/:slug
-slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
-layout: video
+ResourceImportSource: Youtube
+slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why
 aliases:
 - /resources/xuNNZnCNVWs
 - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
@@ -44,6 +23,27 @@ aliasesArchive:
 - 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
 - empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Coaching
+- Software Development
+- Scrum Master
+- Agile Transformation
+- Social Technologies
+- Agile Frameworks
+- Organisational Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:58Z
+  short_title: 2025-07-07T17:55:42Z
+videoId: xuNNZnCNVWs
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 resourceTypes:
