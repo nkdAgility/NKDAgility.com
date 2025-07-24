@@ -81,59 +81,47 @@ function Remove-Field {
     }
 }
 
-function Update-FieldPosition {
+
+function Update-FieldPositions {
     param (
         [Parameter(Mandatory = $true)]
         [System.Collections.Specialized.OrderedDictionary]$data,
         [Parameter(Mandatory = $true)]
-        [string]$fieldName,
-        $addAfter = $null,
-        $addBefore = $null
+        [array]$orderedkeys
     )
 
-    if (-not $data.Contains($fieldName)) {
-        Write-Debug "Field '$fieldName' not found. No repositioning performed."
-        return
+    # Create a new ordered dictionary to hold the reordered fields
+    $reorderedDict = [ordered]@{}
+    $missingFields = @()
+
+    # First, add fields in the specified order if they exist in the data
+    foreach ($orderedkey in $orderedkeys) {
+        if ($data.Contains($orderedkey)) {
+            $reorderedDict[$orderedkey] = $data[$orderedkey]
+            Write-Debug "Added field '$orderedkey' to reordered dictionary"
+        }
+        else {
+            Write-Debug "Field '$orderedkey' not found in data"
+        }
     }
 
-    $value = $data[$fieldName]
-    $data.Remove($fieldName)
-
-    $updatedDict = [ordered]@{}
-    $inserted = $false
-
-    # Handle empty string for $addAfter - position at beginning
-    if ($addAfter -eq "") {
-        $updatedDict[$fieldName] = $value
-        $inserted = $true
-        Write-Debug "$fieldName repositioned at beginning"
-    }
-
+    # Then, add any remaining fields that weren't in the specified list
     foreach ($key in $data.Keys) {
-        if ($addBefore -and $key -eq $addBefore -and -not $inserted) {
-            $updatedDict[$fieldName] = $value
-            $inserted = $true
-            Write-Debug "$fieldName repositioned before $addBefore"
-        }
-
-        $updatedDict[$key] = $data[$key]
-
-        if ($addAfter -and $addAfter -ne "" -and $key -eq $addAfter -and -not $inserted) {
-            $updatedDict[$fieldName] = $value
-            $inserted = $true
-            Write-Debug "$fieldName repositioned after $addAfter"
+        if (-not $reorderedDict.Contains($key)) {
+            $reorderedDict[$key] = $data[$key]
+            $missingFields += $key
+            Write-Debug "Added remaining field '$key' to end of dictionary (missing from fields list)"
         }
     }
 
-    if (-not $inserted) {
-        $updatedDict[$fieldName] = $value
-        Write-Debug "$fieldName repositioned at end"
+    # Clear the original data and repopulate with reordered fields
+    $data.Clear()
+    foreach ($key in $reorderedDict.Keys) {
+        $data[$key] = $reorderedDict[$key]
     }
-    $data.Clear();   
 
-    foreach ($key in $updatedDict.Keys) {
-        $data[$key] = $updatedDict[$key]
-    }
+    # Return the list of fields that were in data but not in the fields list
+    return $missingFields
 }
 
 
@@ -146,8 +134,6 @@ function Update-Field {
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
         [object]$fieldValue,
-        $addAfter = $null,
-        $addBefore = $null,
         [switch]$Overwrite
     )
 
@@ -184,9 +170,6 @@ function Update-Field {
         $current[$finalKey] = $fieldValue
         Write-Debug "$fieldName added"
     }
-
-    # Ensure correct positioning of the top-level key
-    Update-FieldPosition -data $frontMatter -fieldName $parts[0] -addAfter $addAfter -addBefore $addBefore
 }
 
 
@@ -341,8 +324,6 @@ function Update-StringList {
     if ($frontMatter[$fieldName] -isnot [array]) {
         $frontMatter[$fieldName] = @($frontMatter[$fieldName])
     }
-
-    Update-FieldPosition -data $frontMatter -fieldName $fieldName -addAfter $addAfter -addBefore $addBefore
 
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
