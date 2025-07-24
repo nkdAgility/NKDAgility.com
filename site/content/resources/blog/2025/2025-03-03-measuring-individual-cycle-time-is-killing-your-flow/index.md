@@ -4,6 +4,9 @@ short_title: Why Individual Cycle Time Hurts Kanban Flow
 description: Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.
 date: 2025-03-03T09:00:00
 weight: 245
+contributors:
+- name: Nigel Thurlow
+  external: https://www.linkedin.com/in/nigelthurlow/
 ResourceId: KHEPBWiFDKJ
 ResourceImport: false
 ResourceType: blog
@@ -52,9 +55,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
 resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:20Z

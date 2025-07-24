@@ -4,6 +4,7 @@ short_title: Agile Practices and Transparency at Microsoft
 description: Simon Reindl and Martin Hinshelwood discuss the role of precise language and transparency in Agile practices at Microsoft, highlighting why clarity in communication matters.
 date: 2024-04-25
 weight: 1000
+author: MrHinsh
 ResourceId: U_pzYjx6qk6
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:05:14Z

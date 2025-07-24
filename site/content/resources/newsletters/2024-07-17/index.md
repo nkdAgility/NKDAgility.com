@@ -4,6 +4,7 @@ short_title: Professional Product Validation Workshop
 description: Learn practical skills in product validation, customer discovery, and team collaboration to create customer-focused products, guided by an expert Scrum.org trainer.
 date: 2024-07-17
 weight: 840
+author: MrHinsh
 ResourceId: w5rxdL8YHNa
 ResourceImport: false
 ResourceType: newsletters
@@ -28,7 +29,6 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Delivery
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:02:35Z

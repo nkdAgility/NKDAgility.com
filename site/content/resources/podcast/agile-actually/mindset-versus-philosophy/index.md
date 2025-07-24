@@ -4,6 +4,7 @@ short_title: Mindset vs Philosophy in Agile Language
 description: Explores how precise language and context shape transparency and understanding in Agile, highlighting why word choice matters for effective communication and collaboration.
 date: 2024-02-22
 weight: 1000
+author: MrHinsh
 ResourceId: G2XUaCtiq8w
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:05:39Z

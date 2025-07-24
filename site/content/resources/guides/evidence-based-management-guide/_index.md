@@ -4,6 +4,8 @@ short_title: Evidence-Based Management Guide
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
 date: 2024-05-01
 weight: 390
+author:
+- Scrum.org
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
@@ -36,8 +38,6 @@ tags:
 - Software Development
 - Enterprise Agility
 - Common Goals
-author:
-- Scrum.org
 resourceTypes: guide
 recommendedContent: 
 videos: 

@@ -4,6 +4,7 @@ short_title: 'Working Remotely from Cancun: Time Zone Update'
 description: Working remotely from Cancun until 23 Jan 2025; available as usual, but now on EST. Meeting times may shift due to time zone change. Contact details remain unchanged.
 date: 2024-12-10
 weight: 1000
+author: MrHinsh
 ResourceId: I3QFLrCOXnN
 ResourceImport: false
 ResourceType: newsletters
@@ -17,7 +18,6 @@ categories:
 - Uncategorized
 tags: []
 preview: class-marketing-Q32021.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:56:49Z

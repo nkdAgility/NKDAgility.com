@@ -4,6 +4,9 @@ short_title: The Scrum Guide
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
 date: 2024-09-17
 weight: 690
+author:
+- Ken Schwaber
+- Jeff Sutherland
 ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides
@@ -44,9 +47,6 @@ tags:
 - Agile Planning
 - Product Delivery
 - Team Performance
-author:
-- Ken Schwaber
-- Jeff Sutherland
 resourceTypes: guide
 downloads:
 - title: Scrum Guide 2020

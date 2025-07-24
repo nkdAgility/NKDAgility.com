@@ -4,6 +4,10 @@ short_title: Kanban Guide for Scrum Teams
 description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
 date: 2024-09-17
 weight: 840
+author:
+- Steve Porter
+- Yuval Yeret
+- Daniel Vacanti
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
@@ -37,10 +41,6 @@ tags:
 - Scrum Team
 - Pragmatic Thinking
 - Team Performance
-author:
-- Steve Porter
-- Yuval Yeret
-- Daniel Vacanti
 resourceTypes: guide
 references:
 - title: The Kanban Guide for Scrum Teams on Scrum.org

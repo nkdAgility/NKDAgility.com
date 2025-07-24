@@ -4,6 +4,8 @@ short_title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 date: 2024-09-17
 weight: 360
+author:
+- US DOD Defence Innovation Board
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
@@ -27,8 +29,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-author:
-- US DOD Defence Innovation Board
 resourceTypes: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 creator: Martin Hinshelwood

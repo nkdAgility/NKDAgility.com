@@ -4,6 +4,13 @@ short_title: Testing in Production for Quality and Value
 description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
 date: 2025-02-13T09:00:00
 weight: 145
+contributors:
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+- name: Dave Westgarth
+  external: https://www.linkedin.com/in/dave-westgarth/
+- name: Vladimir Khvostov
+  external: https://www.linkedin.com/in/vladimirkhvostov/
 ResourceId: _ncZFfeCrnS
 ResourceImport: false
 ResourceType: blog
@@ -39,13 +46,6 @@ tags:
 - Frequent Releases
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
-- name: Dave Westgarth
-  external: https://www.linkedin.com/in/dave-westgarth/
-- name: Vladimir Khvostov
-  external: https://www.linkedin.com/in/vladimirkhvostov/
 resourceTypes: blog
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []

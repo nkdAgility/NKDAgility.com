@@ -4,6 +4,7 @@ short_title: Enterprise Agility
 description: This podcast discusses how precise language and transparency support effective communication and decision-making in agile teams, with insights from experienced agile coaches.
 date: 2024-01-25
 weight: 1000
+author: MrHinsh
 ResourceId: SOXXjw2lnAK
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:06:15Z

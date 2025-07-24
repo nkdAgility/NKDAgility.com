@@ -4,6 +4,7 @@ short_title: Agile Kata, Facilitation, Backlog & EBM
 description: Explore upcoming Agile and Scrum training covering Agile Kata, facilitation, backlog management, and evidence-based management to boost team performance and leadership skills.
 date: 2024-02-13
 weight: 665
+author: MrHinsh
 ResourceId: hz-iCoxHxxa
 ResourceImport: false
 ResourceType: newsletters
@@ -23,7 +24,6 @@ categories:
 tags:
 - Software Development
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:05:48Z

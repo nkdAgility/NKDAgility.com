@@ -4,6 +4,7 @@ short_title: Power & Politics in Agile Transformations
 description: Explores how clear, precise language and transparency help build political capital and support effective agile transformations within organisations.
 date: 2024-06-04
 weight: 1000
+author: MrHinsh
 ResourceId: 2RYiDJ9l8wh
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:02:50Z

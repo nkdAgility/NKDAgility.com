@@ -4,6 +4,7 @@ short_title: Words Matter in Agile Communication
 description: Explore how precise language and transparency impact communication and effectiveness in agile teams, with insights from experienced agile coaches and consultants.
 date: 2023-06-29
 weight: 1000
+author: MrHinsh
 ResourceId: Z1FuzHOIZD5
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:11:10Z

@@ -4,6 +4,7 @@ short_title: Effective Scrum Product Backlog Management
 description: Learn essential Scrum Product Backlog management skills, including stakeholder engagement and data-driven decision-making, to boost team effectiveness and project success.
 date: 2023-10-09
 weight: 790
+author: MrHinsh
 ResourceId: 2G_gVI5phMC
 ResourceImport: false
 ResourceType: newsletters
@@ -29,7 +30,6 @@ tags:
 - Professional Scrum
 - Product Owner
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:08:59Z

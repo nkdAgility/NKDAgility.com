@@ -4,6 +4,7 @@ short_title: Agile Leadership and Transformation Webcast
 description: Learn practical Agile leadership and transformation strategies from Dr. Joanna Płaskonka and Martin Hinshelwood, including expert insights, Q&A, and actionable guidance.
 date: 2023-10-01
 weight: 665
+author: MrHinsh
 ResourceId: 9YRzr3RR2Da
 ResourceImport: false
 ResourceType: newsletters
@@ -24,7 +25,6 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Organisational Agility
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:09:07Z

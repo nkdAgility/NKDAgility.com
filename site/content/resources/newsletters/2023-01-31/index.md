@@ -4,6 +4,7 @@ short_title: Impact of a Skilled Product Owner
 description: Explores how a skilled product owner drives value, aligns teams with strategy, and boosts product success during economic uncertainty and organisational change.
 date: 2023-01-31
 weight: 750
+author: MrHinsh
 ResourceId: Kofi3sgOhDX
 ResourceImport: false
 ResourceType: newsletters
@@ -23,7 +24,6 @@ categories:
 - Product Development
 tags: []
 preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:20Z

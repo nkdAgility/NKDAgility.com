@@ -4,6 +4,7 @@ short_title: Leadership vs. Control in Scrum Teams
 description: Explores how Scrum Masters and Product Owners balance leadership, authority, and team autonomy to ensure accountability, effective self-management, and organisational alignment.
 date: 2025-03-17T09:00:00
 weight: 405
+contributors: 
 ResourceId: UH6M7ujV-kB
 ResourceImport: false
 ResourceType: blog
@@ -39,7 +40,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-contributors: 
 resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:19Z

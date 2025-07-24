@@ -4,6 +4,7 @@ short_title: Applying Professional Scrum Effectively
 description: Learn how to effectively apply Professional Scrum, overcome common implementation challenges, and improve team performance with practical agile insights and training.
 date: 2023-04-06
 weight: 665
+author: MrHinsh
 ResourceId: WAc9JUyPY5M
 ResourceImport: false
 ResourceType: newsletters
@@ -27,7 +28,6 @@ tags:
 - Pragmatic Thinking
 - Empirical Process Control
 - Professional Scrum
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:13:21Z

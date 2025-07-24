@@ -4,6 +4,7 @@ short_title: Agile 2023 Scotland Experience with Lyssa Adkins
 description: Join agile experts in Edinburgh for keynotes, workshops, networking, and coaching. Explore new agile ideas, games, and training for teams, Scrum Masters, and leaders.
 date: 2023-07-15
 weight: 1000
+author: MrHinsh
 ResourceId: x0sJSqJhVRG
 ResourceImport: false
 ResourceType: newsletters
@@ -22,7 +23,6 @@ categories:
 - Uncategorized
 tags: []
 preview: nkdagility-agile-2023-Scotland-Experiance.png
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:10:37Z

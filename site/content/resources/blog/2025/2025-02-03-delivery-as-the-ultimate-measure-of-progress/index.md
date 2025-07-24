@@ -4,6 +4,9 @@ short_title: Delivery Is the Only Measure in Scrum
 description: Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.
 date: 2025-02-03T09:00:00
 weight: 175
+contributors:
+- name: Ana Kotevska
+  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
 ResourceId: jBIyK6NW3ZB
 ResourceImport: false
 ResourceType: blog
@@ -46,9 +49,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Ana Kotevska
-  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
 resourceTypes: blog
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 Watermarks:

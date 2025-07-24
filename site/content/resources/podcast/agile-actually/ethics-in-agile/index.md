@@ -4,6 +4,7 @@ short_title: Ethics in Agile
 description: Explores the role of precise language and transparency in Agile, highlighting why word choice and context are crucial for ethical communication in Agile teams.
 date: 2023-10-26
 weight: 1000
+author: MrHinsh
 ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:08:21Z

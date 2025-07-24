@@ -4,6 +4,7 @@ short_title: Futureproof Skills and Certifications Guide
 description: Learn which skills, capabilities, and certifications make you stand out to employers, boost your agility, and stay competitive in today’s fast-changing job market.
 date: 2022-11-28
 weight: 1000
+author: MrHinsh
 ResourceId: Kn3i3yGquon
 ResourceImport: false
 ResourceType: newsletters
@@ -22,7 +23,6 @@ categories:
 - Uncategorized
 tags: []
 preview: naked-agility-technically-agile-1280×720-December2022.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:40Z

@@ -4,6 +4,9 @@ short_title: No Such Thing as a Junior Scrum Master
 description: Argues that the Scrum Master role requires proven mastery and real-world experience, not entry-level skills or certifications, and should be earned within the team, not assigned.
 date: 2025-02-17T09:00:00
 weight: 135
+contributors:
+- name: Dave ("Dungeon" Dave) Smith
+  external: https://www.linkedin.com/in/dungeon-dave-smith/
 ResourceId: f2RQh2UCwqB
 ResourceImport: false
 ResourceType: blog
@@ -43,9 +46,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-Contributors:
-- name: Dave ("Dungeon" Dave) Smith
-  external: https://www.linkedin.com/in/dungeon-dave-smith/
 resourceTypes: blog
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []

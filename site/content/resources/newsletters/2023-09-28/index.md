@@ -4,6 +4,7 @@ short_title: Product Ownership & Lean Product Development Webcast
 description: Explore expert insights on product ownership and lean product development, featuring real-world examples, practical strategies, and an interactive Q&A session.
 date: 2023-09-28
 weight: 1000
+author: MrHinsh
 ResourceId: GdoDhtTM-Rn
 ResourceImport: false
 ResourceType: newsletters
@@ -23,7 +24,6 @@ categories:
 - Product Management
 tags: []
 preview: NKDAgility-Webinar.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:09:16Z

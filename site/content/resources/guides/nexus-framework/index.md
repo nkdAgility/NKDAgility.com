@@ -4,6 +4,8 @@ short_title: 'Nexus Guide: Scaling Scrum with Multiple Teams'
 description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
 date: 2024-09-17
 weight: 750
+author:
+- Ken Schwaber
 ResourceId: iC8MlA3TE7S
 ResourceImport: false
 ResourceType: guides
@@ -40,8 +42,6 @@ tags:
 - Working Software
 - Scrum Team
 - Agile Transformation
-author:
-- Ken Schwaber
 resourceTypes: guide
 references:
 - title: The 2020 Scrum Guide

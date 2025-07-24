@@ -4,6 +4,7 @@ short_title: Decoding Ethics in Agile
 description: Explore how language, transparency, and precision shape ethical practices in Agile, with insights from experienced Agile coaches and consultants Martin and Simon.
 date: 2023-10-26
 weight: 1000
+author: MrHinsh
 ResourceId: SfjZtlimOCu
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:08:22Z

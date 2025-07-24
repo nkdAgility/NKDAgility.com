@@ -4,6 +4,9 @@ short_title: Stop Promoting Branches in Deployment
 description: Explains why promoting code through multiple branches slows delivery, increases risk, and suggests GitHub Flow or Release Flow as simpler, safer alternatives for deployment.
 date: 2025-02-06T09:00:00
 weight: 160
+contributors:
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
 ResourceId: x7ra7pQCDX5
 ResourceImport: false
 ResourceType: blog
@@ -39,9 +42,6 @@ tags:
 - Engineering Practices
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
 resourceTypes: blog
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []

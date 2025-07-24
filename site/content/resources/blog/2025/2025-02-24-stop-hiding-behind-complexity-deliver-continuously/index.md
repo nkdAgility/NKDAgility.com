@@ -4,6 +4,11 @@ short_title: Continuous Delivery for Complex Software
 description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
 date: 2025-02-24T09:00:00
 weight: 155
+contributors:
+- name: John McFadyen
+  external: https://www.linkedin.com/in/johnmcfadyen/
+- name: Rich Visotcky
+  external: https://www.linkedin.com/in/richvisotcky/
 ResourceId: 7hEAycZIn8w
 ResourceImport: false
 ResourceType: blog
@@ -46,11 +51,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: John McFadyen
-  external: https://www.linkedin.com/in/johnmcfadyen/
-- name: Rich Visotcky
-  external: https://www.linkedin.com/in/richvisotcky/
 resourceTypes: blog
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 Watermarks:

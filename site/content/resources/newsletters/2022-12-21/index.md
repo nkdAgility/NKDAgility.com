@@ -4,6 +4,7 @@ short_title: Seasons Greetings & Scrum Training Updates
 description: Get updates on new trainers, expanded Scrum training classes, community growth, and upcoming professional development opportunities for Scrum Masters, teams, and managers.
 date: 2022-12-21
 weight: 1000
+author: MrHinsh
 ResourceId: Tx-0zZJ1biI
 ResourceImport: false
 ResourceType: newsletters
@@ -22,7 +23,6 @@ categories:
 - Scrum
 tags: []
 preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:39Z

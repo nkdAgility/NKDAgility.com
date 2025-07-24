@@ -4,6 +4,9 @@ short_title: Kanban Guide
 description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
 date: 2025-05-01
 weight: 840
+author:
+- John Coleman
+- Daniel Vacanti
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
@@ -31,9 +34,6 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-author:
-- John Coleman
-- Daniel Vacanti
 resourceTypes: guide
 references:
 - title: The Kanban Guide

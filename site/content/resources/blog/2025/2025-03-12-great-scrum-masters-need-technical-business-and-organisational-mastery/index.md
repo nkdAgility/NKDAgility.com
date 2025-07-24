@@ -4,6 +4,9 @@ short_title: 'Scrum Mastery: Technical, Business, Organisational'
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 date: 2025-03-24T09:00:00
 weight: 175
+contributors:
+- name: Henrik Berglund
+  external: https://www.linkedin.com/in/henrikber/
 ResourceId: dQjKsWR5qfn
 ResourceImport: false
 ResourceType: blog
@@ -41,9 +44,6 @@ tags:
 - Market Adaptability
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Henrik Berglund
-  external: https://www.linkedin.com/in/henrikber/
 resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:18Z

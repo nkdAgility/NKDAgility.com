@@ -4,6 +4,24 @@ short_title: Manifesto for Agile Software Development
 description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
 date: 2024-09-17
 weight: 505
+author:
+- Kent Beck
+- Mike Beedle
+- Arie van Bennekum
+- Alistair Cockburn
+- Ward Cunningham
+- Martin Fowler
+- James Grenning
+- Jim Highsmith
+- Andrew Hunt
+- Ron Jeffries
+- Jon Kern
+- Brian Marick
+- Robert C. Martin
+- Steve Mellor
+- Ken Schwaber
+- Jeff Sutherland
+- Dave Thomas
 ResourceId: poyC7fUGitC
 ResourceImport: false
 ResourceType: guides
@@ -32,24 +50,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Product Delivery
-author:
-- Kent Beck
-- Mike Beedle
-- Arie van Bennekum
-- Alistair Cockburn
-- Ward Cunningham
-- Martin Fowler
-- James Grenning
-- Jim Highsmith
-- Andrew Hunt
-- Ron Jeffries
-- Jon Kern
-- Brian Marick
-- Robert C. Martin
-- Steve Mellor
-- Ken Schwaber
-- Jeff Sutherland
-- Dave Thomas
 resourceTypes: guide
 references:
 - title: Manifesto for Agile Software Development

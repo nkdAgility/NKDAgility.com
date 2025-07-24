@@ -4,6 +4,7 @@ short_title: 'Scrum Training: Buy 1, Get 1 Free Offer'
 description: Buy one Scrum training course and get a second free for a friend or colleague. Offer includes Agile, Scrum Master, and Product Owner classes. Limited time only.
 date: 2024-01-11
 weight: 875
+author: MrHinsh
 ResourceId: ZHJtz2t0uTU
 ResourceImport: false
 ResourceType: newsletters
@@ -22,7 +23,6 @@ categories:
 - Uncategorized
 tags: []
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:06:28Z

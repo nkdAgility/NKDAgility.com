@@ -4,6 +4,15 @@ short_title: The Scrum Master’s Accountability for Delivery
 description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
 date: 2025-01-30
 weight: 220
+contributors:
+- name: Ryan Ripley
+  external: https://www.linkedin.com/in/ryanripley
+- name: Elle Anderson
+  external: http://www.linkedin.com/in/anderelle
+- name: Sathpal Singh
+  external: https://www.linkedin.com/in/sathpal/
+- name: Ralph Jocham
+  external: https://www.linkedin.com/in/ralphjocham/
 ResourceId: yMnia2DLI6q
 ResourceImport: false
 ResourceType: blog
@@ -45,15 +54,6 @@ platform_signals:
   post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Ryan Ripley
-  external: https://www.linkedin.com/in/ryanripley
-- name: Elle Anderson
-  external: http://www.linkedin.com/in/anderelle
-- name: Sathpal Singh
-  external: https://www.linkedin.com/in/sathpal/
-- name: Ralph Jocham
-  external: https://www.linkedin.com/in/ralphjocham/
 resourceTypes: blog
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 Watermarks:

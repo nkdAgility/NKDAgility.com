@@ -4,6 +4,7 @@ short_title: Are Office Spaces Dead? Remote Work Impact
 description: Explores how remote work is changing office life, training, coaching, and consulting, with insights from experienced agile coaches and professional Scrum trainers.
 date: 2023-06-01
 weight: 1000
+author: MrHinsh
 ResourceId: HRq1a_8gAJF
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:11:59Z

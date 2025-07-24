@@ -4,6 +4,7 @@ short_title: The Magic of Immersive Agile Learning
 description: Immersion programmes extend learning beyond the classroom, combining real-world practice, retrospectives, and expert guidance for deeper, more effective skill development.
 date: 2023-03-01
 weight: 840
+author: MrHinsh
 ResourceId: Y8ySIcajwoP
 ResourceImport: false
 ResourceType: newsletters
@@ -24,7 +25,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 preview: naked-agility-technically-agile-1280×720-March2023.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:13:53Z

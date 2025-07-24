@@ -4,6 +4,7 @@ short_title: 2024 Learning Journeys and Extending Learning
 description: Discover immersive, outcome-focused Scrum and Agile training with flexible learning journeys, real-world assignments, and reflective sessions for continuous improvement.
 date: 2023-12-05
 weight: 580
+author: MrHinsh
 ResourceId: -wdSJlbQQbK
 ResourceImport: false
 ResourceType: newsletters
@@ -23,7 +24,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 preview: naked-agility-technically-agile-1280×720-December2023.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:07:17Z

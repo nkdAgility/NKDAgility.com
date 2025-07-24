@@ -4,6 +4,9 @@ short_title: Blocked Columns Obscure Kanban Workflow
 description: Using Blocked columns on Kanban boards hides workflow issues, causes task stagnation, and reduces transparency. Use tags to indicate blockages and maintain clarity.
 date: 2024-02-13
 weight: 1000
+contributors:
+- name: Will Seele
+  external: https://www.linkedin.com/in/wjseele/
 ResourceId: 7JJaRr4g-KA
 ResourceImport: false
 ResourceType: blog
@@ -32,9 +35,6 @@ tags:
 ResourceImportId: 51208
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-- name: Will Seele
-  external: https://www.linkedin.com/in/wjseele/
 resourceTypes: blog
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 Watermarks:

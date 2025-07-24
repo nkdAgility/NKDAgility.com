@@ -4,6 +4,7 @@ short_title: NKD Agility Next Generation Agile Training
 description: NKD Agility offers immersive, multi-week agile training to build practical skills in Scrum, leadership, and continuous improvement for modern workplace success.
 date: 2023-06-29
 weight: 480
+author: MrHinsh
 ResourceId: A1Gq5rHDvzC
 ResourceImport: false
 ResourceType: newsletters
@@ -25,7 +26,6 @@ tags:
 - Continuous Learning
 - Competence
 - Organisational Agility
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:11:09Z

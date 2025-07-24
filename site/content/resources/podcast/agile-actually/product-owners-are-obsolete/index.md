@@ -4,6 +4,7 @@ short_title: Are Product Owners Replacing Product Managers?
 description: Explores whether product owners make product managers obsolete in Agile and Scrum, comparing their roles and discussing key differences in product development.
 date: 2023-04-27
 weight: 1000
+author: MrHinsh
 ResourceId: dKyRYit_4xO
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:13:00Z

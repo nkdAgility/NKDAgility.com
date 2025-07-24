@@ -4,6 +4,7 @@ short_title: Training Schedule 2021 Q4 & 2022 Q1
 description: Overview of live virtual training methods, free workshop recordings, schedule updates, and new coaching and retraining programmes for Q4 2021 and Q1 2022.
 date: 2021-08-30
 weight: 850
+author: MrHinsh
 ResourceId: 7oAVt27r_UY
 ResourceImport: false
 ResourceType: newsletters
@@ -22,7 +23,6 @@ categories:
 - Uncategorized
 tags: []
 preview: class-marketing-Q32021.jpg
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:52Z

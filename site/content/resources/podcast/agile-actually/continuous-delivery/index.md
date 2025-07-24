@@ -4,6 +4,7 @@ short_title: Continuous Delivery
 description: This podcast discusses the role of precise language and transparency in Agile, highlighting how word choice impacts communication, delivery, and team effectiveness.
 date: 2023-11-23
 weight: 1000
+author: MrHinsh
 ResourceId: pGqagcI_q5y
 ResourceImport: false
 ResourceType: podcast
@@ -16,7 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-author: MrHinsh
 resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:07:37Z

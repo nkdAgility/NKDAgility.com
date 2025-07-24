@@ -4,6 +4,7 @@ short_title: Professional Product Discovery & Validation
 description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
 date: 2024-08-29
 weight: 1000
+author: MrHinsh
 ResourceId: bvPDNFJju4h
 ResourceImport: false
 ResourceType: newsletters
@@ -25,7 +26,6 @@ tags:
 - Customer Focus
 - Product Validation
 - Product Discovery
-author: MrHinsh
 resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
