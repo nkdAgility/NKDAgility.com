@@ -1,13 +1,26 @@
 ---
+title: Worst Contribution from a Product Owner that You Know Of
 short_title: Worst Product Owner Contribution Example
 description: A real-world example of a product owner undermining their Scrum team during a sprint review, highlighting the importance of support, accountability, and collaboration.
 date: 2023-06-06T11:00:34Z
-ResourceId: ekUL1oIMeAc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: ekUL1oIMeAc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: worst-contribution-from-a-product-owner-that-you-know-of
+aliases:
+- /resources/ekUL1oIMeAc
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+aliasesArchive:
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
+- worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -21,21 +34,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:50Z
   short_title: 2025-07-07T17:54:48Z
-title: Worst Contribution from a Product Owner that You Know Of
 videoId: ekUL1oIMeAc
-source: internal
 url: /resources/videos/:slug
-slug: worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
-layout: video
-aliases:
-- /resources/ekUL1oIMeAc
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
-aliasesArchive:
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
-- worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 resourceTypes:

@@ -1,33 +1,15 @@
 ---
+title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
 short_title: Scaling Agile Across Multiple Teams
 description: Learn effective strategies for scaling agile across multiple teams, managing dependencies, avoiding common pitfalls, and maintaining agility as your organisation grows.
 date: 2025-02-26T06:00:08Z
-ResourceId: 8lUeIYEGg7k
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts:
-- Framework
-categories:
-- Product Development
-tags:
-- Scaling
-- Large Scale Agility
-- Pragmatic Thinking
+ResourceId: 8lUeIYEGg7k
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:25Z
-  short_title: 2025-07-07T16:45:48Z
-title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
-videoId: 8lUeIYEGg7k
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
-layout: video
 aliases:
 - /resources/8lUeIYEGg7k
 - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
@@ -42,11 +24,29 @@ aliasesArchive:
 - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 - mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+source: internal
+layout: video
+concepts:
+- Framework
+categories:
+- Product Development
+tags:
+- Scaling
+- Large Scale Agility
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+videoId: 8lUeIYEGg7k
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8lUeIYEGg7k/maxresdefault.jpg
 duration: 75
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T12:49:25Z
+  short_title: 2025-07-07T16:45:48Z
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

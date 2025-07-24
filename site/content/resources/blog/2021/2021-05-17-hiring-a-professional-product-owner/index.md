@@ -5,10 +5,9 @@ description: Explains the key accountabilities, skills, and behaviours required 
 date: 2021-05-17
 weight: 750
 ResourceId: Stln5As7Fof
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: hiring-a-professional-product-owner
 aliases:
 - /blog/hiring-a-professional-product-owner
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/hiring-a-professional-product-owner
 - /hiring-a-professional-product-owner
 - /resources/blog/hiring-a-professional-product-owner
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -34,7 +34,6 @@ tags:
 - Product Delivery
 - Value Delivery
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood
@@ -53,7 +52,6 @@ contributors:
   external: https://www.linkedin.com/in/victoria-pent-627a6b61/
 - name: James Powis
   external: https://www.linkedin.com/in/james-powis-agile-product-owner/
-layout: blog
 resourceTypes: blog
 preview: image-3-3.png
 Watermarks:

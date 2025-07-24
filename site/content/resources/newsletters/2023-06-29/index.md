@@ -5,8 +5,9 @@ description: NKD Agility offers immersive, multi-week agile training to build pr
 date: 2023-06-29
 weight: 480
 ResourceId: A1Gq5rHDvzC
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: july-2023-nkdagility-introducing-nkd-agility's-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+layout: newsletter
 concepts: []
 categories:
 - Scrum
@@ -23,10 +25,8 @@ tags:
 - Continuous Learning
 - Competence
 - Organisational Agility
-ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:11:09Z
   short_title: 2025-07-07T17:54:16Z

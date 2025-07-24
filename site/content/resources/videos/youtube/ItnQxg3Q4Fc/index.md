@@ -1,12 +1,29 @@
 ---
+title: Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?
 short_title: Senior Leadership Engagement in Agile Success
 description: Active senior leadership engagement is essential for successful Agile transformation, enabling systemic change, faster adaptation, and organisation-wide alignment.
 date: 2023-06-23T07:00:11Z
-ResourceId: ItnQxg3Q4Fc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 455
+ResourceId: ItnQxg3Q4Fc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+aliases:
+- /resources/ItnQxg3Q4Fc
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+aliasesArchive:
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+- why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+source: internal
+layout: video
 concepts: []
 categories:
 - Leadership
@@ -21,31 +38,14 @@ tags:
 - Change Management
 - Agile Strategy
 - Business Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:20Z
   short_title: 2025-07-07T17:54:23Z
-title: Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?
 videoId: ItnQxg3Q4Fc
-source: internal
 url: /resources/videos/:slug
-slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-layout: video
-aliases:
-- /resources/ItnQxg3Q4Fc
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-aliasesArchive:
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-- why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
 duration: 285
 resourceTypes:

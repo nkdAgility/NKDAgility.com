@@ -5,8 +5,9 @@ description: Overview of live virtual training methods, free workshop recordings
 date: 2021-08-30
 weight: 850
 ResourceId: 7oAVt27r_UY
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: training-schedule-2021-q4-2022-q1
 aliases:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
@@ -15,15 +16,14 @@ aliases:
 aliasesArchive:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+layout: newsletter
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 preview: class-marketing-Q32021.jpg
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:52Z
   short_title: 2025-07-07T17:57:28Z

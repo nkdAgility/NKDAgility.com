@@ -7,26 +7,12 @@ weight: 445
 ResourceId: xKiwFed7LSB
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: empowering-product-owners-as-strategic-leaders-in-scrum-teams
 aliases:
 - /resources/xKiwFed7LSB
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7310699692584042497
-  post_id: "7310699692584042497"
-  post_date: 2025-03-26T16:30:33Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:52Z
-  short_title: 2025-07-07T16:45:11Z
+layout: signal
 concepts:
 - Strategy
 categories:
@@ -45,6 +31,20 @@ tags:
 - Agile Leadership
 - Agile Frameworks
 - Agile Strategy
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7310699692584042497
+  post_id: "7310699692584042497"
+  post_date: 2025-03-26T16:30:33Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:52Z
+  short_title: 2025-07-07T16:45:11Z
 
 ---
 The Product Owner is not a backlog manager.

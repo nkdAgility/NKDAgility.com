@@ -1,34 +1,15 @@
 ---
+title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 short_title: Navigating Software Unpredictability with Agile
 description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
 date: 2024-12-02T06:00:00Z
-ResourceId: h3J11t10A0g
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 220
-concepts:
-- Principle
-categories:
-- Product Development
-- Engineering Excellence
-- Technical Leadership
-tags:
-- Software Development
-- Pragmatic Thinking
+ResourceId: h3J11t10A0g
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:57Z
-  short_title: 2025-07-07T17:47:20Z
-title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
-videoId: h3J11t10A0g
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-layout: video
 aliases:
 - /resources/h3J11t10A0g
 - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
@@ -38,6 +19,25 @@ aliasesArchive:
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
 - navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Software Development
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:57Z
+  short_title: 2025-07-07T17:47:20Z
+videoId: h3J11t10A0g
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 resourceTypes:

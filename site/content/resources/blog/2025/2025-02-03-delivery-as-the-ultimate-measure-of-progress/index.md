@@ -7,22 +7,16 @@ weight: 175
 ResourceId: jBIyK6NW3ZB
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: delivery-is-the-only-measure-of-progress-in-scrum
 aliases:
 - /resources/jBIyK6NW3ZB
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Ana Kotevska
-  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /delivery-is-the-only-measure-of-progress
 - /blog/delivery-is-the-only-measure-of-progress
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+layout: blog
 concepts:
 - Principle
 categories:
@@ -45,12 +39,18 @@ tags:
 - Frequent Releases
 - Agile Product Management
 - Technical Excellence
-preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/delivery-only-measure-progress-scrum
   post_date: 2025-06-10T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Ana Kotevska
+  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
+resourceTypes: blog
+preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 Watermarks:
   description: 2025-05-07T12:49:51Z
   short_title: 2025-07-07T17:46:52Z

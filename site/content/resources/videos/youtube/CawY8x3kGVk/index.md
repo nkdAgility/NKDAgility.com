@@ -1,37 +1,20 @@
 ---
+title: Scrum is like communism, it doesn't work. Myth 3.
 short_title: Scrum and the Myth of Micromanagement
 description: Explores the myth that Scrum leads to micromanagement, clarifying that true Scrum empowers teams with autonomy, collaboration, and trust, not top-down control.
 date: 2023-10-25T07:00:09Z
-ResourceId: CawY8x3kGVk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Pragmatic Thinking
-- Team Performance
-- Software Development
+ResourceId: CawY8x3kGVk
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:24Z
-  short_title: 2025-07-07T17:52:09Z
-title: Scrum is like communism, it doesn't work. Myth 3.
-videoId: CawY8x3kGVk
-source: internal
-url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesnt-work-myth-3
-layout: video
+ResourceImportSource: Youtube
+slug: scrum-is-like-communism-it-doesn't-work-myth-3
 aliases:
 - /resources/CawY8x3kGVk
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
@@ -43,6 +26,24 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
 - scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Pragmatic Thinking
+- Team Performance
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:24Z
+  short_title: 2025-07-07T17:52:09Z
+videoId: CawY8x3kGVk
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
 duration: 234
 resourceTypes:

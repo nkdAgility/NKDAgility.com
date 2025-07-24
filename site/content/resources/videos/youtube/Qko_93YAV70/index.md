@@ -1,31 +1,15 @@
 ---
+title: 'Unlocking the Power of Caman: Why It’s the Perfect Companion to Scrum for Process Optimisation'
 short_title: Caman and Scrum for Process Optimisation
 description: Explains how Caman complements Scrum by providing transparency and insights to optimise workflows, identify bottlenecks, and improve processes across any industry.
 date: 2024-08-13T07:04:49Z
-ResourceId: Qko_93YAV70
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags:
-- Operational Practices
+ResourceId: Qko_93YAV70
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:12Z
-  short_title: 2025-07-07T17:48:37Z
-title: 'Unlocking the Power of Caman: Why It’s the Perfect Companion to Scrum for Process Optimisation'
-videoId: Qko_93YAV70
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 aliases:
 - /resources/Qko_93YAV70
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
@@ -37,6 +21,22 @@ aliasesArchive:
 - /resources/kanban-vs-scrum
 - unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
 - /resources/videos/unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
+source: youtube
+layout: video
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Operational Practices
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:12Z
+  short_title: 2025-07-07T17:48:37Z
+videoId: Qko_93YAV70
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 resourceTypes:

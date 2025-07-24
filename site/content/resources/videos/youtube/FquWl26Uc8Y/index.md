@@ -1,30 +1,15 @@
 ---
+title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
 short_title: Stop Shipping Bad Code and Tackle Technical Debt
 description: Learn how to prevent bad code, distinguish technical debt from incompetence, and apply practical strategies like code reviews, testing, and prioritisation for healthier software.
 date: 2024-11-26T13:55:20Z
-ResourceId: FquWl26Uc8Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts:
-- Practice
-categories:
-- Uncategorized
-tags: []
+ResourceId: FquWl26Uc8Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:04Z
-  short_title: 2025-07-07T17:47:26Z
-title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
-videoId: FquWl26Uc8Y
-source: youtube
-url: /resources/videos/:slug
-slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
-layout: video
+ResourceImportSource: Youtube
+slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 aliases:
 - /resources/FquWl26Uc8Y
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/videos/bad-code-isnt-technical-debt-its-incompetence
 - confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
+source: youtube
+layout: video
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:04Z
+  short_title: 2025-07-07T17:47:26Z
+videoId: FquWl26Uc8Y
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 resourceTypes:

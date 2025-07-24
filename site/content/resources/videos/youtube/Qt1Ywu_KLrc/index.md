@@ -1,33 +1,15 @@
 ---
+title: 'Mastering Azure DevOps Migration: A Step-by-Step Guide for Seamless Project Transfers'
 short_title: Azure DevOps Migration Step-by-Step Guide
 description: Learn how to migrate Azure DevOps projects step by step, including tool setup, configuration, handling common issues, and ensuring a smooth transfer of work items.
 date: 2023-11-16T12:47:09Z
-ResourceId: Qt1Ywu_KLrc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags:
-- Azure DevOps
-- Install and Configuration
-- Software Development
+ResourceId: Qt1Ywu_KLrc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:46Z
-  short_title: 2025-07-07T17:51:42Z
-title: 'Mastering Azure DevOps Migration: A Step-by-Step Guide for Seamless Project Transfers'
-videoId: Qt1Ywu_KLrc
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
-layout: video
 aliases:
 - /resources/Qt1Ywu_KLrc
 - /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 - mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
+source: youtube
+layout: video
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Azure DevOps
+- Install and Configuration
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:46Z
+  short_title: 2025-07-07T17:51:42Z
+videoId: Qt1Ywu_KLrc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 resourceTypes:

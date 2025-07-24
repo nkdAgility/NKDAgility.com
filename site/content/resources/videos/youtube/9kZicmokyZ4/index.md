@@ -1,12 +1,28 @@
 ---
+title: The Importance of Evidence-Based Management in Agile Environments
 short_title: Evidence-Based Management in Agile Teams
 description: Explains how evidence-based management helps Agile teams use data and key metrics to measure progress, make informed decisions, and drive continuous improvement.
 date: 2024-01-22T11:00:07Z
-ResourceId: 9kZicmokyZ4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+ResourceId: 9kZicmokyZ4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-importance-of-evidence-based-management-in-agile-environments
+aliases:
+- /resources/9kZicmokyZ4
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+aliasesArchive:
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+- the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
+source: internal
+layout: video
 concepts:
 - Model
 categories:
@@ -28,30 +44,14 @@ tags:
 - Agile Strategy
 - Current Value
 - Organisational Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:22Z
   short_title: 2025-07-07T17:50:13Z
-title: The Importance of Evidence-Based Management in Agile Environments
 videoId: 9kZicmokyZ4
-source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
-layout: video
-aliases:
-- /resources/9kZicmokyZ4
-- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
-- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
-aliasesArchive:
-- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
-- /resources/the-importance-of-evidence-based-management-in-agile-environments
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
-- the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
 preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
 duration: 29
 resourceTypes:

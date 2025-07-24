@@ -7,20 +7,20 @@ weight: 1000
 ResourceId: i2XYfDpX46l
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 slug: agile-alchemy
 aliases:
 - /resources/i2XYfDpX46l
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: podcast
 layout: podcast
-Watermarks:
-  description: 2025-05-07T13:06:50Z
-  short_title: 2025-07-07T17:50:39Z
 concepts: []
 categories:
 - Uncategorized
 tags: []
+author: MrHinsh
+resourceTypes: podcast
+Watermarks:
+  description: 2025-05-07T13:06:50Z
+  short_title: 2025-07-07T17:50:39Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

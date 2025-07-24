@@ -1,12 +1,27 @@
 ---
+title: 5 tools that Scrum Masters love. Part 1
 short_title: '5 Tools Scrum Masters Love: Liberating Structures'
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
-ResourceId: Ce5pFwG5IAY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
+ResourceId: Ce5pFwG5IAY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: 5-tools-that-scrum-masters-love-part-1
+aliases:
+- /resources/Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+aliasesArchive:
+- /resources/videos/-tools-that-scrum-masters-love-part-
+- /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/5-tools-that-scrum-masters-love-part-1
+- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+source: internal
+layout: video
 concepts:
 - Tool
 categories:
@@ -17,28 +32,14 @@ tags:
 - Scrum Team
 - Social Technologies
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:31Z
   short_title: 2025-07-07T17:53:04Z
-title: 5 tools that Scrum Masters love. Part 1
 videoId: Ce5pFwG5IAY
-source: internal
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-layout: video
-aliases:
-- /resources/Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-aliasesArchive:
-- /resources/videos/-tools-that-scrum-masters-love-part-
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/5-tools-that-scrum-masters-love-part-1
-- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
 duration: 43
 resourceTypes:

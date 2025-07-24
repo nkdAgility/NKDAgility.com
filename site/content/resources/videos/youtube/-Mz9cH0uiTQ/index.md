@@ -1,30 +1,15 @@
 ---
+title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Beyond Initial Requests'
 short_title: Uncovering True Client Needs in Agile Consulting
 description: Explores how agile consultants identify clients' real needs, avoid common pitfalls, and deliver lasting value by looking beyond initial requests and surface-level solutions.
 date: 2023-03-01T07:00:00Z
-ResourceId: -Mz9cH0uiTQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Product Development
-tags:
-- Pragmatic Thinking
+ResourceId: -Mz9cH0uiTQ
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:52Z
-  short_title: 2025-07-07T17:56:35Z
-title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Beyond Initial Requests'
-videoId: -Mz9cH0uiTQ
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
-layout: video
 aliases:
 - /resources/-Mz9cH0uiTQ
 - /resources/videos/navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around
 - navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:52Z
+  short_title: 2025-07-07T17:56:35Z
+videoId: -Mz9cH0uiTQ
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 resourceTypes:

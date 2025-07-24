@@ -1,31 +1,15 @@
 ---
+title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
 short_title: From Engineer to Scrum Trainer in DevOps
 description: Explores how hands-on software engineering and DevOps experience informs practical, relatable Scrum training, emphasising real-world lessons and continuous improvement.
 date: 2023-01-20T07:00:08Z
-ResourceId: N0Ci9PQQRLc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-- Pragmatic Thinking
+ResourceId: N0Ci9PQQRLc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:29Z
-  short_title: 2025-07-07T17:57:06Z
-title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
-videoId: N0Ci9PQQRLc
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-layout: video
 aliases:
 - /resources/N0Ci9PQQRLc
 - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
@@ -36,6 +20,22 @@ aliasesArchive:
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 - from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:29Z
+  short_title: 2025-07-07T17:57:06Z
+videoId: N0Ci9PQQRLc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 resourceTypes:

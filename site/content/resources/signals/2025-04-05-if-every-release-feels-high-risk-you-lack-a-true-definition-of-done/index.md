@@ -7,26 +7,12 @@ weight: 260
 ResourceId: iEdzblomyOb
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: if-every-release-feels-high-risk-you-lack-a-true-definition-of-done
 aliases:
 - /resources/iEdzblomyOb
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7314308335866957824
-  post_id: "7314308335866957824"
-  post_date: 2025-04-05T14:30:00Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:42Z
-  short_title: 2025-07-07T16:45:03Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -41,6 +27,20 @@ tags:
 - Professional Scrum
 - Operational Practices
 - Definition of Done
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7314308335866957824
+  post_id: "7314308335866957824"
+  post_date: 2025-04-05T14:30:00Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:42Z
+  short_title: 2025-07-07T16:45:03Z
 
 ---
 If every release feels like a high-risk operation, you don’t have a Definition of Done—you have a definition of “we hope this works.”

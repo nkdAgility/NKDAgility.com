@@ -1,12 +1,26 @@
 ---
+title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
 short_title: Frequent Deployments Improve Code Quality
 description: Explores how frequent code deployments improve code quality, reduce technical debt, enable faster feedback, and support iterative, user-focused software development.
 date: 2025-01-13T06:45:00Z
-ResourceId: D1wz-J1jklQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 315
+ResourceId: D1wz-J1jklQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
+aliases:
+- /resources/D1wz-J1jklQ
+- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
+- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+aliasesArchive:
+- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
+- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+- unlocking-code-quality-the-transformative-power-of-frequent-deployments
+source: youtube
+layout: video
 concepts:
 - Practice
 categories:
@@ -29,28 +43,14 @@ tags:
 - Pragmatic Thinking
 - Customer Focus
 - Engineering Practices
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:50:00Z
   short_title: 2025-07-07T17:47:00Z
-title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
 videoId: D1wz-J1jklQ
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
-layout: video
-aliases:
-- /resources/D1wz-J1jklQ
-- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
-- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-aliasesArchive:
-- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
-- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-- unlocking-code-quality-the-transformative-power-of-frequent-deployments
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 resourceTypes:

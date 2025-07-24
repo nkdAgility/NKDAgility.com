@@ -1,12 +1,28 @@
 ---
+title: Understanding the True Role of a Scrum Master
 short_title: Understanding the True Role of a Scrum Master
 description: Explains the true responsibilities of a Scrum Master, how to maximise team effectiveness, teach Scrum principles, and address organisational challenges for better outcomes.
 date: 2023-11-28T07:00:15Z
-ResourceId: U0h7N5xpAfY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
+ResourceId: U0h7N5xpAfY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: understanding-the-true-role-of-a-scrum-master
+aliases:
+- /resources/U0h7N5xpAfY
+- /resources/videos/understanding-the-true-role-of-a-scrum-master
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
+aliasesArchive:
+- /resources/videos/understanding-the-true-role-of-a-scrum-master
+- /resources/understanding-the-true-role-of-a-scrum-master
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+- /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
+- understanding-the-true-role-of-a-scrum-master
+source: internal
+layout: video
 concepts:
 - Framework
 categories:
@@ -22,30 +38,14 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Team Performance
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:28Z
   short_title: 2025-07-07T17:51:28Z
-title: Understanding the True Role of a Scrum Master
 videoId: U0h7N5xpAfY
-source: internal
 url: /resources/videos/:slug
-slug: understanding-the-true-role-of-a-scrum-master
-layout: video
-aliases:
-- /resources/U0h7N5xpAfY
-- /resources/videos/understanding-the-true-role-of-a-scrum-master
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
-aliasesArchive:
-- /resources/videos/understanding-the-true-role-of-a-scrum-master
-- /resources/understanding-the-true-role-of-a-scrum-master
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
-- /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
-- understanding-the-true-role-of-a-scrum-master
 preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg
 duration: 233
 resourceTypes:

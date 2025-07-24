@@ -5,10 +5,9 @@ description: Explores how to maintain a lean, transparent product backlog that b
 date: 2023-08-24
 weight: 1000
 ResourceId: wXQXA_aHLS1
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
 - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
@@ -23,6 +22,7 @@ aliasesArchive:
 - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -36,11 +36,9 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 - Product Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49523
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

@@ -7,22 +7,16 @@ weight: 175
 ResourceId: dQjKsWR5qfn
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
 aliases:
 - /resources/dQjKsWR5qfn
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Henrik Berglund
-  external: https://www.linkedin.com/in/henrikber/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /great-scrum-masters-need-technical-business-and-organisational-mastery
 - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
 - /great-scrum-masters-need-technical--business--and-organisational-mastery
 - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+layout: blog
 concepts:
 - Framework
 categories:
@@ -45,6 +39,12 @@ tags:
 - Value Delivery
 - Operational Practices
 - Market Adaptability
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Henrik Berglund
+  external: https://www.linkedin.com/in/henrikber/
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:18Z
   short_title: 2025-07-07T16:45:15Z

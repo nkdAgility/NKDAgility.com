@@ -7,6 +7,7 @@ weight: 220
 ResourceId: yMnia2DLI6q
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-scrum-master-is-accountable-for-delivery
 aliases:
 - /resources/yMnia2DLI6q
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
+layout: blog
 concepts:
 - Accountability
 categories:
@@ -36,7 +38,11 @@ tags:
 - Working Software
 - Increment
 - Agile Leadership
-ResourceContentOrigin: Hybrid
+platform_signals:
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
+  post_date: 2025-06-03T09:00:00Z
+  post_type: crosspost
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -48,14 +54,8 @@ contributors:
   external: https://www.linkedin.com/in/sathpal/
 - name: Ralph Jocham
   external: https://www.linkedin.com/in/ralphjocham/
-layout: blog
 resourceTypes: blog
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
-platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
-  post_date: 2025-06-03T09:00:00Z
-  post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:52Z
   short_title: 2025-07-07T17:46:52Z

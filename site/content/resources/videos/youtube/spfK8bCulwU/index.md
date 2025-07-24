@@ -1,31 +1,15 @@
 ---
+title: 'Mastering the Art of Product Ownership: Balancing Innovation, Customer Needs, and Team Dynamics'
 short_title: 'Mastering Product Ownership: Balance & Innovation'
 description: Explores how product owners balance innovation, customer needs, and team collaboration, with insights on hypothesis-driven engineering and effective Scrum practices.
 date: 2023-05-08T07:00:15Z
-ResourceId: spfK8bCulwU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Agile Product Management
+ResourceId: spfK8bCulwU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:39Z
-  short_title: 2025-07-07T17:55:24Z
-title: 'Mastering the Art of Product Ownership: Balancing Innovation, Customer Needs, and Team Dynamics'
-videoId: spfK8bCulwU
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-the-art-of-product-ownership-balancing-innovation-customer-needs-and-team-dynamics
-layout: video
 aliases:
 - /resources/spfK8bCulwU
 - /resources/videos/mastering-the-art-of-product-ownership-balancing-innovation-customer-needs-and-team-dynamics
@@ -37,6 +21,22 @@ aliasesArchive:
 - why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs
 - /resources/videos/mastering-the-art-of-product-ownership-balancing-innovation-customer-needs-and-team-dynamics
 - mastering-the-art-of-product-ownership-balancing-innovation-customer-needs-and-team-dynamics
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Agile Product Management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:39Z
+  short_title: 2025-07-07T17:55:24Z
+videoId: spfK8bCulwU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 resourceTypes:

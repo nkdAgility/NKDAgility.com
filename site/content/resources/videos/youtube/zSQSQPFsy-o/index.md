@@ -1,12 +1,26 @@
 ---
+title: Why is Scrum so easy to understand but incredibly hard to master?
 short_title: Why Scrum Is Hard to Master
 description: Explores why Scrum is challenging to master, highlighting cultural barriers, the importance of transparency, and the gap between understanding and effective practice.
 date: 2023-02-28T07:00:18Z
-ResourceId: zSQSQPFsy-o
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+ResourceId: zSQSQPFsy-o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+aliases:
+- /resources/zSQSQPFsy-o
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+aliasesArchive:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+source: internal
+layout: video
 concepts:
 - Ethos
 categories:
@@ -17,28 +31,14 @@ tags:
 - Software Development
 - Transparency
 - Agile Transformation
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:55Z
   short_title: 2025-07-07T17:56:37Z
-title: Why is Scrum so easy to understand but incredibly hard to master?
 videoId: zSQSQPFsy-o
-source: internal
 url: /resources/videos/:slug
-slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-layout: video
-aliases:
-- /resources/zSQSQPFsy-o
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-aliasesArchive:
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 resourceTypes:

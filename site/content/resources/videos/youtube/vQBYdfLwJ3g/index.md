@@ -1,34 +1,15 @@
 ---
+title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 short_title: 'Product Owner Role: Bridging Theory & Practice'
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
 date: 2023-06-09T07:00:27Z
-ResourceId: vQBYdfLwJ3g
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Agile Product Management
-- Organisational Agility
-- Pragmatic Thinking
-- Product Owner
+ResourceId: vQBYdfLwJ3g
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:45Z
-  short_title: 2025-07-07T17:54:44Z
-title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
-videoId: vQBYdfLwJ3g
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-layout: video
 aliases:
 - /resources/vQBYdfLwJ3g
 - /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
@@ -39,6 +20,25 @@ aliasesArchive:
 - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
 - unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Agile Product Management
+- Organisational Agility
+- Pragmatic Thinking
+- Product Owner
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:45Z
+  short_title: 2025-07-07T17:54:44Z
+videoId: vQBYdfLwJ3g
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 resourceTypes:

@@ -1,13 +1,24 @@
 ---
+title: How Much of An Impact can Scrum Have in a DevOps Environment?
 short_title: Scrum’s Impact in DevOps Environments
 description: Explores how integrating Scrum with DevOps boosts software delivery by improving collaboration, automation, speed, and product quality in modern development teams.
 date: 2023-06-15T14:45:02Z
-ResourceId: LiKE3zHuOuY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 350
+ResourceId: LiKE3zHuOuY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+aliases:
+- /resources/LiKE3zHuOuY
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+aliasesArchive:
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -19,19 +30,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:36Z
   short_title: 2025-07-07T17:54:37Z
-title: How Much of An Impact can Scrum Have in a DevOps Environment?
 videoId: LiKE3zHuOuY
-source: internal
 url: /resources/videos/:slug
-slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
-layout: video
-aliases:
-- /resources/LiKE3zHuOuY
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
-aliasesArchive:
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
 duration: 29
 resourceTypes:

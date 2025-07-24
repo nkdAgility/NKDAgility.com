@@ -7,7 +7,7 @@ weight: 360
 ResourceId: Rv0ZjvwYVy5
 ResourceImport: false
 ResourceType: guides
-slug: 2020.1
+slug: "2020.1"
 aliases:
   - /resources/Rv0ZjvwYVy5
   - /resources/guides/the-evidence-based-management-guide-2020-improving-value-delivery-under-conditions-of-uncertainty/

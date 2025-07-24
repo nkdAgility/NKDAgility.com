@@ -7,12 +7,17 @@ weight: 470
 ResourceId: lm-SKQuLcVd
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: realistic-expectations-when-hiring-junior-scrum-masters
 aliases:
 - /resources/lm-SKQuLcVd
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Leadership
+tags: []
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7302002253777760257
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:37Z
   short_title: 2025-07-07T16:45:41Z
-concepts: []
-categories:
-- Scrum
-- Leadership
-tags: []
 
 ---
 Hiring a junior Scrum Master at half the salary and expecting full performance is like hiring a junior chef and expecting a Michelin star!

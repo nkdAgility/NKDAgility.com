@@ -7,26 +7,12 @@ weight: 280
 ResourceId: 567GkDxvlbX
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master
 aliases:
 - /resources/567GkDxvlbX
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7297291278071853056
-  post_id: "7297291278071853056"
-  post_date: 2025-02-17T16:30:17Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:53Z
-  short_title: 2025-07-07T17:46:25Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -47,6 +33,20 @@ tags:
 - Coaching
 - Operational Practices
 - Team Motivation
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7297291278071853056
+  post_id: "7297291278071853056"
+  post_date: 2025-02-17T16:30:17Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:53Z
+  short_title: 2025-07-07T17:46:25Z
 
 ---
 The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.

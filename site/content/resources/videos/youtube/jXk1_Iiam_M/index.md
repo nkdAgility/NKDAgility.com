@@ -1,12 +1,28 @@
 ---
+title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organization'
 short_title: Immersive Learning for Scrum Mastery
 description: Explains how immersive learning helps Scrum Masters apply knowledge through real-world practice, feedback, and collaboration, leading to lasting skills and team improvement.
 date: 2023-11-22T07:00:18Z
-ResourceId: jXk1_Iiam_M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+ResourceId: jXk1_Iiam_M
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+aliases:
+- /resources/jXk1_Iiam_M
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
+- the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+source: internal
+layout: video
 concepts:
 - Method
 categories:
@@ -19,30 +35,14 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:39Z
   short_title: 2025-07-07T17:51:36Z
-title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organization'
 videoId: jXk1_Iiam_M
-source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-layout: video
-aliases:
-- /resources/jXk1_Iiam_M
-- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
-aliasesArchive:
-- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-- /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
-- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
-- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
-- the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 resourceTypes:

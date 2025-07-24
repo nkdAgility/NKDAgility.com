@@ -1,31 +1,15 @@
 ---
+title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 short_title: Evaluating and Adjusting Direction in Agile Teams
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
 date: 2024-01-20T07:00:00Z
-ResourceId: 17qTGonSsbM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
+ResourceId: 17qTGonSsbM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:25Z
-  short_title: 2025-07-07T17:50:16Z
-title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
-videoId: 17qTGonSsbM
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
-layout: video
 aliases:
 - /resources/17qTGonSsbM
 - /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
@@ -37,6 +21,22 @@ aliasesArchive:
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
 - the-importance-of-evaluating-direction-are-you-heading-the-right-way
+source: internal
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:25Z
+  short_title: 2025-07-07T17:50:16Z
+videoId: 17qTGonSsbM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 resourceTypes:

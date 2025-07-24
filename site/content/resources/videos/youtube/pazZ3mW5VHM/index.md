@@ -1,36 +1,36 @@
 ---
+title: 'Most influential people in Agile: Simon Reindl'
 short_title: 'Most Influential in Agile: Simon Reindl'
 description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
 date: 2023-07-06T14:33:51Z
-ResourceId: pazZ3mW5VHM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Accountability
-categories:
-- Uncategorized
-tags: []
+ResourceId: pazZ3mW5VHM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:59Z
-  short_title: 2025-07-07T17:54:08Z
-title: 'Most influential people in Agile: Simon Reindl'
-videoId: pazZ3mW5VHM
-source: internal
-url: /resources/videos/:slug
-slug: most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
-layout: video
+ResourceImportSource: Youtube
+slug: most-influential-people-in-agile-simon-reindl
 aliases:
 - /resources/pazZ3mW5VHM
 - /resources/videos/most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
 aliasesArchive:
 - /resources/videos/most-influential-people-in-agile-simon-reindl
 - most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
+source: internal
+layout: video
+concepts:
+- Accountability
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:59Z
+  short_title: 2025-07-07T17:54:08Z
+videoId: pazZ3mW5VHM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
 resourceTypes:

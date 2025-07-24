@@ -1,35 +1,15 @@
 ---
+title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
 short_title: 'Hiring an Agile Coach: Key Qualities to Seek'
 description: Learn what qualities to seek in an Agile coach, including technical expertise, business acumen, and the ability to engage both technical teams and leadership for effective transformation.
 date: 2023-11-21T11:00:08Z
-ResourceId: 9z9BgSi2zeA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
-concepts: []
-categories:
-- Technical Leadership
-- Product Development
-tags:
-- Agile Leadership
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Business Agility
+ResourceId: 9z9BgSi2zeA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:40Z
-  short_title: 2025-07-07T17:51:37Z
-title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
-videoId: 9z9BgSi2zeA
-source: internal
-url: /resources/videos/:slug
-slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA
-layout: video
+ResourceImportSource: Youtube
+slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 aliases:
 - /resources/9z9BgSi2zeA
 - /resources/videos/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA
@@ -41,6 +21,26 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA
+source: internal
+layout: video
+concepts: []
+categories:
+- Technical Leadership
+- Product Development
+tags:
+- Agile Leadership
+- Software Development
+- Agile Transformation
+- Organisational Agility
+- Business Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:40Z
+  short_title: 2025-07-07T17:51:37Z
+videoId: 9z9BgSi2zeA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9z9BgSi2zeA/maxresdefault.jpg
 duration: 47
 resourceTypes:

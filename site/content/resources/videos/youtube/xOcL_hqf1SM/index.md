@@ -1,33 +1,15 @@
 ---
+title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
 short_title: Essential Knowledge for Agile Coaches
 description: Discover the essential knowledge areas for Agile coaches, including frameworks, principles, technical skills, and practical steps to support and guide Agile teams effectively.
 date: 2023-11-15T11:01:00Z
-ResourceId: xOcL_hqf1SM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts:
-- Principle
-categories:
-- Uncategorized
-tags:
-- Agile Frameworks
-- Software Development
-- Agile Transformation
+ResourceId: xOcL_hqf1SM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:50Z
-  short_title: 2025-07-07T17:51:44Z
-title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
-videoId: xOcL_hqf1SM
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: unlocking-agile-success-the-essential-knowledge-every-coach-needs
-layout: video
 aliases:
 - /resources/xOcL_hqf1SM
 - /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - unlocking-agile-success-the-essential-knowledge-every-coach-needs
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Uncategorized
+tags:
+- Agile Frameworks
+- Software Development
+- Agile Transformation
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:50Z
+  short_title: 2025-07-07T17:51:44Z
+videoId: xOcL_hqf1SM
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 resourceTypes:

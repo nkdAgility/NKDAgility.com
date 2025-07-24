@@ -1,12 +1,27 @@
 ---
+title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
 short_title: How to Become a Confident Scrum Master
 description: Learn how practical training, real-world application, and community support help you build confidence and skills to succeed as a Scrum Master in Agile environments.
 date: 2023-07-13T07:41:01Z
-ResourceId: cb6JpfomYRU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+ResourceId: cb6JpfomYRU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
+aliases:
+- /resources/cb6JpfomYRU
+- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+aliasesArchive:
+- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+- transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
+source: youtube
+layout: video
 concepts: []
 categories:
 - Scrum
@@ -21,29 +36,14 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:49Z
   short_title: 2025-07-07T17:53:59Z
-title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
 videoId: cb6JpfomYRU
-source: youtube
 url: /resources/videos/:slug
-slug: transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-layout: video
-aliases:
-- /resources/cb6JpfomYRU
-- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
-aliasesArchive:
-- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
-- /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
-- transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 resourceTypes:

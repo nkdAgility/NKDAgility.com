@@ -7,20 +7,14 @@ weight: 160
 ResourceId: x7ra7pQCDX5
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: stop-promoting-branches
 aliases:
 - /resources/x7ra7pQCDX5
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
+layout: blog
 concepts:
 - Principle
 categories:
@@ -43,6 +37,12 @@ tags:
 - Release Management
 - Flow Efficiency
 - Engineering Practices
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+resourceTypes: blog
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 Watermarks:

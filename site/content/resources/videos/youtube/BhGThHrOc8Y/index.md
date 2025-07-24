@@ -1,34 +1,20 @@
 ---
+title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
 short_title: 'DevOps Is More Than Tools: Embracing Its Value'
 description: Explains why DevOps is a mindset focused on collaboration and continuous improvement, not just tools, and highlights its true value in modern software development practices.
 date: 2023-06-07T07:00:02Z
-ResourceId: BhGThHrOc8Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
-concepts: []
-categories:
-- DevOps
-tags:
-- Software Development
+ResourceId: BhGThHrOc8Y
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:49Z
-  short_title: 2025-07-07T17:54:48Z
-title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
-videoId: BhGThHrOc8Y
-source: youtube
-url: /resources/videos/:slug
-slug: devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-layout: video
+ResourceImportSource: Youtube
+slug: devops-demystified-why-it's-more-than-just-tools-and-how-to-embrace-its-true-value
 aliases:
 - /resources/BhGThHrOc8Y
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
+- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -37,6 +23,21 @@ aliasesArchive:
 - devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
 - /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
+source: youtube
+layout: video
+concepts: []
+categories:
+- DevOps
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:49Z
+  short_title: 2025-07-07T17:54:48Z
+videoId: BhGThHrOc8Y
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 resourceTypes:

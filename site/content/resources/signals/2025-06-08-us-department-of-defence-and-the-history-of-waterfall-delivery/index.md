@@ -11,8 +11,21 @@ ResourceContentOrigin: human
 slug: us-department-of-defence-and-the-history-of-waterfall-delivery
 aliases:
 - /resources/mlGmtc4ZqJM
-layout: signal
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+- Organisational Agility
+- Software Development
+- Enterprise Agility
+- Organisational Change
+- Business Agility
+- Agile Strategy
+- Agile Transformation
+- Product Delivery
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7337501265146355712
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:40Z
   short_title: 2025-07-07T16:43:39Z
-concepts: []
-categories:
-- Product Development
-tags:
-- Pragmatic Thinking
-- Organisational Agility
-- Software Development
-- Enterprise Agility
-- Organisational Change
-- Business Agility
-- Agile Strategy
-- Agile Transformation
-- Product Delivery
 
 ---
 For years, the US Department of Defence was the poster child for waterfall delivery. Locked gates, stage-based approvals, and delivery dates that existed more on paper than in production.

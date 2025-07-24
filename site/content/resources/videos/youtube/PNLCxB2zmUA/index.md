@@ -1,30 +1,15 @@
 ---
+title: 'Embracing Change: How Architectural Adaptation Fuels Software Development Success'
 short_title: Architectural Adaptation in Software Development
 description: Explores how adapting software architecture to changing demands drives long-term success, highlighting incremental change, team investment, and a culture of adaptability.
 date: 2025-02-06T17:06:47Z
-ResourceId: PNLCxB2zmUA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Strategy
-categories:
-- Uncategorized
-tags: []
+ResourceId: PNLCxB2zmUA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:47Z
-  short_title: 2025-07-07T17:46:45Z
-title: 'Embracing Change: How Architectural Adaptation Fuels Software Development Success'
-videoId: PNLCxB2zmUA
-source: internal
-url: /resources/videos/:slug
-slug: embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
-layout: video
+ResourceImportSource: Youtube
+slug: embracing-change-how-architectural-adaptation-fuels-software-development-success
 aliases:
 - /resources/PNLCxB2zmUA
 - /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
@@ -41,6 +26,21 @@ aliasesArchive:
 - /resources/the-necessity-of-architectural-adaptation
 - /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success
 - embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
+source: internal
+layout: video
+concepts:
+- Strategy
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:47Z
+  short_title: 2025-07-07T17:46:45Z
+videoId: PNLCxB2zmUA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PNLCxB2zmUA/maxresdefault.jpg
 duration: 48
 resourceTypes:

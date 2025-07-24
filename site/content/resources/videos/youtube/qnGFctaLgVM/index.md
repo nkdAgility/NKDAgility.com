@@ -1,13 +1,25 @@
 ---
+title: Why do you trust Russell to deliver the PSPO course for NKD Agility?
 short_title: Why Trust Russell to Teach PSPO at NKD Agility
 description: Discover how Russell’s extensive product development experience and practical teaching approach make his PSPO course ideal for mastering Product Ownership at NKD Agility.
 date: 2023-08-24T07:00:31Z
-ResourceId: qnGFctaLgVM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: qnGFctaLgVM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+aliases:
+- /resources/qnGFctaLgVM
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
+aliasesArchive:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
+- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
+source: internal
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -19,20 +31,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:09:53Z
   short_title: 2025-07-07T17:53:23Z
-title: Why do you trust Russell to deliver the PSPO course for NKD Agility?
 videoId: qnGFctaLgVM
-source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
-layout: video
-aliases:
-- /resources/qnGFctaLgVM
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
-aliasesArchive:
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg
 duration: 48
 resourceTypes:

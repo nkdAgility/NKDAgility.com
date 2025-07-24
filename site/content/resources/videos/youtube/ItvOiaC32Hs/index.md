@@ -1,34 +1,15 @@
 ---
+title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
 short_title: Aligning Agile Teams to Reduce Chaos
 description: Explores common causes of chaos in Agile teams and offers practical strategies to improve alignment, communication, and collaboration for better team performance.
 date: 2023-11-09T10:45:01Z
-ResourceId: ItvOiaC32Hs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-- Team Collaboration
-- Agile Strategy
-- Organisational Agility
-- Team Performance
+ResourceId: ItvOiaC32Hs
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:58Z
-  short_title: 2025-07-07T17:51:50Z
-title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
-videoId: ItvOiaC32Hs
-source: youtube
-url: /resources/videos/:slug
-slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
-layout: video
+ResourceImportSource: Youtube
+slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 aliases:
 - /resources/ItvOiaC32Hs
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
@@ -39,6 +20,25 @@ aliasesArchive:
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
 - taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+- Team Collaboration
+- Agile Strategy
+- Organisational Agility
+- Team Performance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:58Z
+  short_title: 2025-07-07T17:51:50Z
+videoId: ItvOiaC32Hs
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 resourceTypes:

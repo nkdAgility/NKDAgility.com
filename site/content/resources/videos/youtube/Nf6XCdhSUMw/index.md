@@ -1,12 +1,26 @@
 ---
+title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
 short_title: Harnessing Evidence-Based Management
 description: Learn how evidence-based management uses data and purposeful metrics to inform decisions, shape behaviours, and drive continuous improvement in organisations.
 date: 2024-08-14T07:12:45Z
-ResourceId: Nf6XCdhSUMw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: Nf6XCdhSUMw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+aliases:
+- /resources/Nf6XCdhSUMw
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+aliasesArchive:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+- /resources/introduction-to-evidence-based-management
+- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Management
@@ -18,28 +32,14 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Operational Practices
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:09Z
   short_title: 2025-07-07T17:48:34Z
-title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
 videoId: Nf6XCdhSUMw
-source: youtube
 url: /resources/videos/:slug
-slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-layout: video
-aliases:
-- /resources/Nf6XCdhSUMw
-- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/introduction-to-evidence-based-management
-aliasesArchive:
-- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
-- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 resourceTypes:

@@ -1,34 +1,15 @@
 ---
+title: 'Why Agile Success Lies in Principles, Not Tools: A Shift in Focus'
 short_title: 'Agile Success: Principles Over Tools'
 description: Agile success depends on core principles like adaptability and collaboration, not just tools or frameworks. Focusing on principles leads to better decisions and lasting results.
 date: 2023-05-03T07:00:33Z
-ResourceId: y2TObrUi3m0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Agile Values and Principles
-- Agile Philosophy
-- Agnostic Agile
-- Software Development
+ResourceId: y2TObrUi3m0
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:47Z
-  short_title: 2025-07-07T17:55:32Z
-title: 'Why Agile Success Lies in Principles, Not Tools: A Shift in Focus'
-videoId: y2TObrUi3m0
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-layout: video
 aliases:
 - /resources/y2TObrUi3m0
 - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
@@ -40,6 +21,25 @@ aliasesArchive:
 - what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
 - why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Agile Values and Principles
+- Agile Philosophy
+- Agnostic Agile
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:47Z
+  short_title: 2025-07-07T17:55:32Z
+videoId: y2TObrUi3m0
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 resourceTypes:

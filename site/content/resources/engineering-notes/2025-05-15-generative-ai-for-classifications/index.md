@@ -7,13 +7,10 @@ weight: 400
 ResourceId: oRStCAqLAY4
 ResourceImport: false
 ResourceType: engineering-notes
+ResourceContentOrigin: human
 slug: how-i-used-generative-ai-to-transform-site-tagging-and-categories
 aliases:
 - /resources/oRStCAqLAY4
-ResourceContentOrigin: human
-Watermarks:
-  description: 2025-05-07T13:48:01Z
-  short_title: 2025-07-07T16:44:11Z
 concepts:
 - Tool
 categories:
@@ -25,6 +22,10 @@ tags:
 - Technical Mastery
 - Transparency
 - Pragmatic Thinking
+- Agentic Engineering
+Watermarks:
+  description: 2025-05-07T13:48:01Z
+  short_title: 2025-07-07T16:44:11Z
 
 ---
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.

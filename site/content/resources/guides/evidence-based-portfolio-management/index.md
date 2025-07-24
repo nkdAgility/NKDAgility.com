@@ -7,24 +7,22 @@ weight: 1000
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
-author:
-  - Scrum.org
+ResourceContentOrigin: Human
 slug: evidence-based-portfolio-management
 aliases:
-  - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-  - /resources/KD08D48Weks
-  - /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
+- /resources/KD08D48Weks
 aliasesArchive:
-  - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-  - /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
+- /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
+- /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
+layout: guide
 concepts: []
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - Business Agility
-ResourceContentOrigin: Human
+- Business Agility
+author:
+- Scrum.org
 resourceTypes: guide
-layout: guide
 creator: Martin Hinshelwood
 card:
   button:
@@ -34,8 +32,8 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:06Z
   short_title: 2025-07-07T16:40:35Z
----
 
+---
 ## INVESTING FOR BUSINESS AGILITY
 
 **USING EVIDENCE-BASED PORTFOLIO MANAGEMENT TO ACHIEVE BETTER BUSINESS OUTCOMES**

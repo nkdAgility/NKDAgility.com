@@ -1,12 +1,27 @@
 ---
+title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
 short_title: Transforming Organizational Effectiveness with DevOps
 description: Explores how DevOps transformation, refactoring, and ownership reduce technical debt, streamline development, and boost efficiency, team satisfaction, and business value.
 date: 2024-08-21T07:00:19Z
-ResourceId: KXvd_oyLe3Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 175
+ResourceId: KXvd_oyLe3Q
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+aliases:
+- /resources/KXvd_oyLe3Q
+- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+aliasesArchive:
+- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+source: internal
+layout: video
 concepts: []
 categories:
 - DevOps
@@ -22,29 +37,14 @@ tags:
 - Competence
 - Value Delivery
 - Engineering Practices
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:01:45Z
   short_title: 2025-07-07T17:48:27Z
-title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
 videoId: KXvd_oyLe3Q
-source: internal
 url: /resources/videos/:slug
-slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-layout: video
-aliases:
-- /resources/KXvd_oyLe3Q
-- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-aliasesArchive:
-- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-- the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
 duration: 832
 resourceTypes:

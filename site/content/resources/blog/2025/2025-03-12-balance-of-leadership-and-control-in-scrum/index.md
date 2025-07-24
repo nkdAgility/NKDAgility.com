@@ -7,18 +7,14 @@ weight: 405
 ResourceId: UH6M7ujV-kB
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: balance-of-leadership-and-control-in-scrum
 aliases:
 - /resources/UH6M7ujV-kB
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors: 
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /balance-of-leadership-and-control-in-scrum
 - /blog/balance-of-leadership-and-control-in-scrum
+layout: blog
 concepts:
 - Accountability
 categories:
@@ -41,6 +37,10 @@ platform_signals:
   post_url: https://www.scrum.org/resources/blog/balance-leadership-and-control-scrum
   post_date: 2025-07-15T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+contributors: 
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:19Z
   short_title: 2025-07-07T16:45:23Z

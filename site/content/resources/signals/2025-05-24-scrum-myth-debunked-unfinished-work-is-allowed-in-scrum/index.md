@@ -7,12 +7,23 @@ weight: 445
 ResourceId: uhQlOorRmkA
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-myth-debunked-unfinished-work-is-allowed-in-scrum
 aliases:
 - /resources/uhQlOorRmkA
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Agile Frameworks
+- Professional Scrum
+- Increment
+- Product Delivery
+- Pragmatic Thinking
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7332065411456245762
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-29T18:10:52Z
   short_title: 2025-07-07T16:44:01Z
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Increment
-- Product Delivery
-- Pragmatic Thinking
 
 ---
 For years I repeated a myth without questioning it: “You can’t have unfinished work in Scrum.” But the truth is, that’s not what the Scrum Guide says at all.

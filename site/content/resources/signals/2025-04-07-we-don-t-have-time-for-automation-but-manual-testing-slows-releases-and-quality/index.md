@@ -7,12 +7,25 @@ weight: 310
 ResourceId: f6S9lWfTQaQ
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality
 aliases:
 - /resources/f6S9lWfTQaQ
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+tags:
+- Software Development
+- Automated Testing
+- Test Automation
+- Technical Mastery
+- Product Delivery
+- Team Performance
+- Operational Practices
+- Frequent Releases
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7315033113225515008
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:39Z
   short_title: 2025-07-07T16:45:00Z
-concepts:
-- Practice
-categories:
-- Engineering Excellence
-tags:
-- Software Development
-- Automated Testing
-- Test Automation
-- Technical Mastery
-- Product Delivery
-- Team Performance
-- Operational Practices
-- Frequent Releases
 
 ---
 Every time I hear, “We don’t have time for automation,” I know exactly what’s coming next.

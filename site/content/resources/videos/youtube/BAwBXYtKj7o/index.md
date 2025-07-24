@@ -1,12 +1,26 @@
 ---
+title: Technical Debt Management for Long-Term Quality
 short_title: Technical Debt Management for Long-Term Quality
 description: Explains how managing and repaying technical debt improves software quality, delivery speed, and long-term value by addressing both known and unknown code issues.
 date: 2024-11-21T07:00:11Z
-ResourceId: BAwBXYtKj7o
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 205
+ResourceId: BAwBXYtKj7o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: technical-debt-management-for-long-term-quality
+aliases:
+- /resources/BAwBXYtKj7o
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+aliasesArchive:
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+- /resources/the-power-of-automated-testing
+- technical-debt-management-for-long-term-quality
+source: internal
+layout: video
 concepts: []
 categories:
 - Engineering Excellence
@@ -21,28 +35,14 @@ tags:
 - Engineering Practices
 - Working Software
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:11Z
   short_title: 2025-07-07T17:47:32Z
-title: Technical Debt Management for Long-Term Quality
 videoId: BAwBXYtKj7o
-source: internal
 url: /resources/videos/:slug
-slug: technical-debt-management-for-long-term-quality
-layout: video
-aliases:
-- /resources/BAwBXYtKj7o
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/videos/the-power-of-automated-testing
-aliasesArchive:
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
-- technical-debt-management-for-long-term-quality
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 resourceTypes:

@@ -1,13 +1,24 @@
 ---
+title: 30th March 2020 - Office Hours \ Ask Me Anything
 short_title: 30th March 2020 Office Hours AMA
 description: Open Q&A session with Martin, covering DevOps, Agile, Scrum, and Azure DevOps. Submit questions publicly or privately and get expert answers from an industry professional.
 date: 2020-04-10T18:32:34Z
-ResourceId: GwrubbUKBSE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: GwrubbUKBSE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: 30th-march-2020-office-hours-ask-me-anything
+aliases:
+- /resources/GwrubbUKBSE
+aliasesArchive:
+- /resources/videos/th-march-office-hours-ask-me-anything
+- /resources/videos/30th-march-2020-office-hours-ask-me-anything
+- /resources/30th-march-2020-office-hours-ask-me-anything
+- 30th-march-2020-office-hours-ask-me-anything
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,21 +29,9 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:15:52Z
   short_title: 2025-07-07T17:58:12Z
-title: 30th March 2020 - Office Hours \ Ask Me Anything
 videoId: GwrubbUKBSE
-source: youtube
 url: /resources/videos/:slug
-slug: 30th-march-2020-office-hours-ask-me-anything
-layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
-aliases:
-- /resources/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
-aliasesArchive:
-- /resources/videos/th-march-office-hours-ask-me-anything
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
-- /resources/30th-march-2020-office-hours-ask-me-anything
-- 30th-march-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 resourceTypes:

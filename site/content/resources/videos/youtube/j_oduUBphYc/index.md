@@ -1,31 +1,15 @@
 ---
+title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
 short_title: Modernising Legacy Systems Securely
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
 date: 2025-05-12T06:00:00Z
-ResourceId: j_oduUBphYc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
-concepts:
-- Capability
-categories:
-- Uncategorized
-tags:
-- Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+ResourceId: j_oduUBphYc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: ai
-Watermarks:
-  description: 2025-05-07T20:59:00Z
-  short_title: 2025-07-07T16:44:18Z
-title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
-videoId: j_oduUBphYc
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
-layout: video
 aliases:
 - /resources/j_oduUBphYc
 - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
@@ -35,11 +19,27 @@ aliasesArchive:
 - 6-security-compliance-in-legacy-system-modernization
 - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 - modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
+source: youtube
+layout: video
+concepts:
+- Capability
+categories:
+- Uncategorized
+tags:
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+videoId: j_oduUBphYc
+url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/j_oduUBphYc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLC9GdU6Uu93vQ2nm8zM-COxVCvE6Q
 duration: 94
 resourceTypes:
 - video
 isShort: false
+Watermarks:
+  description: 2025-05-07T20:59:00Z
+  short_title: 2025-07-07T16:44:18Z
 
 ---
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.

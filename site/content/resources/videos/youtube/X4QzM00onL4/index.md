@@ -1,35 +1,15 @@
 ---
+title: 'Taming the Chaos: How to Align Your Agile Team for Success'
 short_title: Aligning Agile Teams for Success
 description: Learn how to reduce chaos in Agile teams by improving alignment, setting clear goals, fostering open communication, and using visual tools for better collaboration and efficiency.
 date: 2023-11-03T05:11:45Z
-ResourceId: X4QzM00onL4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts:
-- Strategy
-categories:
-- Product Development
-tags:
-- Common Goals
-- Team Motivation
-- Software Development
-- Agile Strategy
-- Organisational Agility
+ResourceId: X4QzM00onL4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:08Z
-  short_title: 2025-07-07T17:51:56Z
-title: 'Taming the Chaos: How to Align Your Agile Team for Success'
-videoId: X4QzM00onL4
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: taming-the-chaos-how-to-align-your-agile-team-for-success
-layout: video
 aliases:
 - /resources/X4QzM00onL4
 - /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
 - taming-the-chaos-how-to-align-your-agile-team-for-success
+source: youtube
+layout: video
+concepts:
+- Strategy
+categories:
+- Product Development
+tags:
+- Common Goals
+- Team Motivation
+- Software Development
+- Agile Strategy
+- Organisational Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:08Z
+  short_title: 2025-07-07T17:51:56Z
+videoId: X4QzM00onL4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 resourceTypes:

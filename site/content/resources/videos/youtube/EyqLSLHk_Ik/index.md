@@ -1,12 +1,26 @@
 ---
+title: 'Empowering Teams for Success: The Key to Thriving Product Development'
 short_title: Empowering Teams for Successful Product Development
 description: Explores how empowering and engaging diverse software teams boosts motivation, collaboration, and product quality through trust, feedback, skills development, and shared goals.
 date: 2024-05-07T11:02:49Z
-ResourceId: EyqLSLHk_Ik
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 220
+ResourceId: EyqLSLHk_Ik
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: empowering-teams-for-success-the-key-to-thriving-product-development
+aliases:
+- /resources/EyqLSLHk_Ik
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
+- /resources/videos/product-development-mentoring-program
+aliasesArchive:
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
+- /resources/videos/product-development-mentoring-program
+- /resources/product-development-mentoring-program
+- empowering-teams-for-success-the-key-to-thriving-product-development
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -23,28 +37,14 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:09Z
   short_title: 2025-07-07T17:49:16Z
-title: 'Empowering Teams for Success: The Key to Thriving Product Development'
 videoId: EyqLSLHk_Ik
-source: youtube
 url: /resources/videos/:slug
-slug: empowering-teams-for-success-the-key-to-thriving-product-development
-layout: video
-aliases:
-- /resources/EyqLSLHk_Ik
-- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
-- /resources/videos/product-development-mentoring-program
-aliasesArchive:
-- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
-- /resources/videos/product-development-mentoring-program
-- /resources/product-development-mentoring-program
-- empowering-teams-for-success-the-key-to-thriving-product-development
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 resourceTypes:

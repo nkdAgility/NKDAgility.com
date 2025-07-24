@@ -1,12 +1,28 @@
 ---
+title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
 short_title: Understanding Kanban for Transparency & Improvement
 description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency and efficiency.
 date: 2024-06-24T06:48:02Z
-ResourceId: BFDB04_JIhg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: BFDB04_JIhg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+aliases:
+- /resources/BFDB04_JIhg
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
+aliasesArchive:
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
+- /resources/introduction-to-kanban
+- understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
+source: internal
+layout: video
 concepts:
 - Tool
 categories:
@@ -21,30 +37,14 @@ tags:
 - Flow Efficiency
 - Definition of Workflow
 - Pragmatic Thinking
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:49Z
   short_title: 2025-07-07T17:49:11Z
-title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
 videoId: BFDB04_JIhg
-source: internal
 url: /resources/videos/:slug
-slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
-layout: video
-aliases:
-- /resources/BFDB04_JIhg
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/videos/introduction-to-kanban
-aliasesArchive:
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/videos/introduction-to-kanban
-- /resources/introduction-to-kanban
-- understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
 duration: 37
 resourceTypes:

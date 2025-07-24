@@ -7,22 +7,22 @@ weight: 690
 ResourceId: eyXbQF80i4R
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: self-organization
 aliases:
 - /learn/agile-delivery-kit/first-principals/self-organization/
 - /resources/eyXbQF80i4R
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/self-organization/
+layout: principles
 concepts:
 - Principle
 categories:
 - Scrum
 tags: []
-ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
-layout: principles
 draft: true
 card:
   button:

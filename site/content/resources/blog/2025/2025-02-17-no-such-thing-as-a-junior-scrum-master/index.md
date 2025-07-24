@@ -7,22 +7,16 @@ weight: 135
 ResourceId: f2RQh2UCwqB
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: there-is-no-such-thing-as-a-junior-scrum-master
 aliases:
 - /resources/f2RQh2UCwqB
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-Contributors:
-- name: Dave ("Dungeon" Dave) Smith
-  external: https://www.linkedin.com/in/dungeon-dave-smith/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /no-such-thing-as-a-junior-scrum-master
 - /blog/no-such-thing-as-a-junior-scrum-master
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
+layout: blog
 concepts:
 - Accountability
 categories:
@@ -42,13 +36,19 @@ tags:
 - Technical Excellence
 - Team Collaboration
 - Product Delivery
-preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
-marketing: []
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/there-no-such-thing-junior-scrum-master
   post_date: 2025-06-24T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+Contributors:
+- name: Dave ("Dungeon" Dave) Smith
+  external: https://www.linkedin.com/in/dungeon-dave-smith/
+resourceTypes: blog
+preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+marketing: []
 Watermarks:
   description: 2025-05-07T12:49:37Z
   short_title: 2025-07-07T17:46:27Z

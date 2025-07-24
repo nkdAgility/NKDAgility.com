@@ -5,10 +5,9 @@ description: Explores why true organisational agility means building custom proc
 date: 2023-09-07
 weight: 1000
 ResourceId: Jz5uZMzPiRx
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -23,6 +22,7 @@ aliasesArchive:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+layout: blog
 concepts: []
 categories:
 - Uncategorized
@@ -33,11 +33,9 @@ tags:
 - Market Adaptability
 - Organisational Change
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49732
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 Watermarks:

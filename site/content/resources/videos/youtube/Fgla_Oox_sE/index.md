@@ -1,31 +1,15 @@
 ---
+title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
 short_title: 'Product Ownership: Marketing Your Vision'
 description: Explores how Product Owners can use marketing skills to communicate vision, boost team and stakeholder engagement, and align feedback for successful product delivery.
 date: 2023-12-15T07:00:05Z
-ResourceId: Fgla_Oox_sE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Owner
+ResourceId: Fgla_Oox_sE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:54Z
-  short_title: 2025-07-07T17:50:43Z
-title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
-videoId: Fgla_Oox_sE
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
-layout: video
 aliases:
 - /resources/Fgla_Oox_sE
 - /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
@@ -36,6 +20,22 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 - mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Owner
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:54Z
+  short_title: 2025-07-07T17:50:43Z
+videoId: Fgla_Oox_sE
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 resourceTypes:

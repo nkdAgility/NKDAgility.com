@@ -1,5 +1,5 @@
 ---
-title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
+title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 short_title: Evidence-Based Management Guide
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
 date: 2024-05-01
@@ -7,40 +7,40 @@ weight: 390
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
-slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
-author:
-  - Scrum.org
-aliases:
-  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
-  - /resources/ltc7lzhy14U
-aliasesArchive:
-  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
-concepts:
-  - Principle
-categories:
-  - Product Development
-  - Product Management
-tags:
-  - Customer Focus
-  - Strategic Goals
-  - Decision Making
-  - Evidence Based Leadership
-  - Evidence Based Management
-  - Metrics and Learning
-  - Value Delivery
-  - Agile Product Management
-  - Agile Strategy
-  - Business Agility
-  - Organisational Agility
-  - Product Strategy
-  - Software Development
-  - Enterprise Agility
-  - Common Goals
 ResourceContentOrigin: Human
-resourceTypes: guide
+slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
+aliases:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+- /resources/ltc7lzhy14U
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
 layout: versioned
-recommendedContent:
-videos:
+concepts:
+- Principle
+categories:
+- Product Development
+- Product Management
+tags:
+- Customer Focus
+- Strategic Goals
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Agile Strategy
+- Business Agility
+- Organisational Agility
+- Product Strategy
+- Software Development
+- Enterprise Agility
+- Common Goals
+author:
+- Scrum.org
+resourceTypes: guide
+recommendedContent: 
+videos: 
 creator: Martin Hinshelwood
 card:
   button:
@@ -57,8 +57,8 @@ cascade:
   build:
     list: false
     render: true
----
 
+---
 ## The Evidence-Based Management Guide
 
 **Improving Value Delivery under Conditions of Uncertainty**

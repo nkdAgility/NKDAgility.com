@@ -1,12 +1,27 @@
 ---
+title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
 date: 2024-05-08T06:45:02Z
-ResourceId: VOUmfpB-d88
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+ResourceId: VOUmfpB-d88
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: transforming-training-the-power-of-immersive-learning-in-scrum
+aliases:
+- /resources/VOUmfpB-d88
+- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/videos/nkd-agility-training-approach
+aliasesArchive:
+- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/videos/nkd-agility-training-approach
+- /resources/nkd-agility-training-approach
+- transforming-training-the-power-of-immersive-learning-in-scrum
+source: internal
+layout: video
 concepts:
 - Method
 categories:
@@ -22,29 +37,14 @@ tags:
 - Continuous Improvement
 - Team Collaboration
 - Competence
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:55Z
   short_title: 2025-07-07T17:49:15Z
-title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 videoId: VOUmfpB-d88
-source: internal
 url: /resources/videos/:slug
-slug: transforming-training-the-power-of-immersive-learning-in-scrum
-layout: video
-aliases:
-- /resources/VOUmfpB-d88
-- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
-aliasesArchive:
-- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
-- /resources/nkd-agility-training-approach
-- transforming-training-the-power-of-immersive-learning-in-scrum
 preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
 duration: 430
 resourceTypes:

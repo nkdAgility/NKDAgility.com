@@ -1,30 +1,15 @@
 ---
+title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 short_title: Business Agility Monthly Discussion Sessions
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 date: 2022-07-27T18:45:14Z
-ResourceId: bvCU_N6iY_4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Business Agility
+ResourceId: bvCU_N6iY_4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:49Z
-  short_title: 2025-07-07T17:57:25Z
-title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
-videoId: bvCU_N6iY_4
-source: youtube
-url: /resources/videos/:slug
-slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
-layout: video
+ResourceImportSource: Youtube
+slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliases:
 - /resources/bvCU_N6iY_4
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
@@ -36,6 +21,21 @@ aliasesArchive:
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 - unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Business Agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:49Z
+  short_title: 2025-07-07T17:57:25Z
+videoId: bvCU_N6iY_4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 resourceTypes:

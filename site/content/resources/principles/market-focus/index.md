@@ -7,21 +7,21 @@ weight: 1000
 ResourceId: T6DrE9pN0ds
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: market-focus
 aliases:
 - /learn/agile-delivery-kit/first-principals/market-focus/
 - /resources/T6DrE9pN0ds
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/market-focus/
+layout: principles
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
-layout: principles
 draft: true
 card:
   button:

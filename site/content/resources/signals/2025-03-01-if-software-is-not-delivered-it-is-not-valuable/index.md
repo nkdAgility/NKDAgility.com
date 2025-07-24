@@ -7,26 +7,12 @@ weight: 320
 ResourceId: KMId0yk2uL1
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: if-software-is-not-delivered-it-is-not-valuable
 aliases:
 - /resources/KMId0yk2uL1
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7301639871339597825
-  post_id: "7301639871339597825"
-  post_date: 2025-03-01T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:38Z
-  short_title: 2025-07-07T16:45:42Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -44,6 +30,20 @@ tags:
 - Release Management
 - Agile Philosophy
 - Pragmatic Thinking
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7301639871339597825
+  post_id: "7301639871339597825"
+  post_date: 2025-03-01T16:30:03Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:38Z
+  short_title: 2025-07-07T16:45:42Z
 
 ---
 If software is not delivered, it is not valuable.

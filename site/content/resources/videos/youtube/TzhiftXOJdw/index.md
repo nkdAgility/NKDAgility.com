@@ -1,12 +1,27 @@
 ---
+title: What more needs to happen before traditional organisations consider Agile?
 short_title: What Traditional Organisations Need for Agile
 description: Explores what traditional organisations must change—beyond adopting Agile tools—to achieve true agility, cultural transformation, and sustained competitive advantage.
 date: 2023-07-06T07:08:30Z
-ResourceId: TzhiftXOJdw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
+ResourceId: TzhiftXOJdw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
+aliases:
+- /resources/TzhiftXOJdw
+- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+aliasesArchive:
+- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+- what-more-needs-to-happen-before-traditional-organisations-consider-agile
+source: internal
+layout: video
 concepts:
 - Ethos
 categories:
@@ -25,29 +40,14 @@ tags:
 - Sociotechnical Systems
 - Business Agility
 - Beta Codex
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:01Z
   short_title: 2025-07-07T17:54:09Z
-title: What more needs to happen before traditional organisations consider Agile?
 videoId: TzhiftXOJdw
-source: internal
 url: /resources/videos/:slug
-slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
-layout: video
-aliases:
-- /resources/TzhiftXOJdw
-- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-aliasesArchive:
-- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- what-more-needs-to-happen-before-traditional-organisations-consider-agile
 preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
 duration: 240
 resourceTypes:

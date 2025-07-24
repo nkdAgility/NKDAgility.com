@@ -1,35 +1,15 @@
 ---
+title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Improvement and Transparency'
 short_title: Candan Strategies for Workflow Transparency
 description: Learn how Candan strategies use flow metrics and transparency to reveal workflow issues, drive continuous improvement, and support data-driven decision-making in teams.
 date: 2024-03-08T07:00:31Z
-ResourceId: pw_8gbaWZC4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Metrics and Learning
-- Continuous Improvement
-- Operational Practices
-- Transparency
-- Pragmatic Thinking
+ResourceId: pw_8gbaWZC4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:25Z
-  short_title: 2025-07-07T17:49:28Z
-title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Improvement and Transparency'
-videoId: pw_8gbaWZC4
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
-layout: video
 aliases:
 - /resources/pw_8gbaWZC4
 - /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/how-top-teams-use-pull-systems!
 - /resources/videos/how-top-teams-use-pull-systems
 - illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
+source: youtube
+layout: video
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Metrics and Learning
+- Continuous Improvement
+- Operational Practices
+- Transparency
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:25Z
+  short_title: 2025-07-07T17:49:28Z
+videoId: pw_8gbaWZC4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 resourceTypes:

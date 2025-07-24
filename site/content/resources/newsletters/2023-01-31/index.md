@@ -5,8 +5,9 @@ description: Explores how a skilled product owner drives value, aligns teams wit
 date: 2023-01-31
 weight: 750
 ResourceId: Kofi3sgOhDX
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
@@ -15,16 +16,15 @@ aliases:
 aliasesArchive:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+layout: newsletter
 concepts: []
 categories:
 - Product Management
 - Product Development
 tags: []
-ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:20Z
   short_title: 2025-07-07T17:56:58Z

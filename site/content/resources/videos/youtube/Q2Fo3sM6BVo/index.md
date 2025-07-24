@@ -1,12 +1,27 @@
 ---
+title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 short_title: Scrum Values, Roles, Artifacts, and Events
 description: Explains Scrum’s core values, roles, artifacts, and events, highlighting how they support teamwork, transparency, and adaptability in managing complex projects.
 date: 2022-10-18T16:13:02Z
-ResourceId: Q2Fo3sM6BVo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+ResourceId: Q2Fo3sM6BVo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+aliases:
+- /resources/Q2Fo3sM6BVo
+- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+- /resources/videos/the-scrum-framework
+aliasesArchive:
+- /resources/videos/the-scrum-framework
+- /resources/videos/the-scrum-framework!
+- /resources/the-scrum-framework!
+- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+- unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+source: youtube
+layout: video
 concepts:
 - Framework
 categories:
@@ -19,29 +34,14 @@ tags:
 - Agile Product Management
 - Team Performance
 - Agile Planning
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:41Z
   short_title: 2025-07-07T17:57:19Z
-title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 videoId: Q2Fo3sM6BVo
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-layout: video
-aliases:
-- /resources/Q2Fo3sM6BVo
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- /resources/videos/the-scrum-framework
-aliasesArchive:
-- /resources/videos/the-scrum-framework
-- /resources/videos/the-scrum-framework!
-- /resources/the-scrum-framework!
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 resourceTypes:

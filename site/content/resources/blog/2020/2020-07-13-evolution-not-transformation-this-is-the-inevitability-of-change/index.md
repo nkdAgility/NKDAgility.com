@@ -5,24 +5,19 @@ description: Change in organisations is a continuous, evolutionary process drive
 date: 2020-07-13
 weight: 450
 ResourceId: WvUOpSMqawD
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
-- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation--this-is-the-inevitability-of-change
-- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/WvUOpSMqawD
-- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 aliasesArchive:
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -45,10 +40,8 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44511
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-15-5-4.png
 Watermarks:

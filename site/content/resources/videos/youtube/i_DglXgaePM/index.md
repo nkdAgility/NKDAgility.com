@@ -1,13 +1,25 @@
 ---
+title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
 short_title: Balancing Engineering Excellence and Agile
 description: Explores how to balance engineering excellence and effective Agile processes, highlighting the need for technical skills, continuous improvement, and outcome-focused metrics.
 date: 2020-03-25T21:07:01Z
-ResourceId: i_DglXgaePM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: i_DglXgaePM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+aliases:
+- /resources/i_DglXgaePM
+aliasesArchive:
+- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
+- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+- mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+source: youtube
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -19,22 +31,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:16:00Z
   short_title: 2025-07-07T17:58:19Z
-title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
 videoId: i_DglXgaePM
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-layout: video
-aliases:
-- /resources/i_DglXgaePM
-- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
-aliasesArchive:
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-- /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-- mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 resourceTypes:

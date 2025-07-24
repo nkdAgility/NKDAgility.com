@@ -7,20 +7,20 @@ weight: 1000
 ResourceId: U_pzYjx6qk6
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 slug: agile-at-microsoft
 aliases:
 - /resources/U_pzYjx6qk6
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: podcast
 layout: podcast
-Watermarks:
-  description: 2025-05-07T13:05:14Z
-  short_title: 2025-07-07T17:49:19Z
 concepts: []
 categories:
 - Uncategorized
 tags: []
+author: MrHinsh
+resourceTypes: podcast
+Watermarks:
+  description: 2025-05-07T13:05:14Z
+  short_title: 2025-07-07T17:49:19Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

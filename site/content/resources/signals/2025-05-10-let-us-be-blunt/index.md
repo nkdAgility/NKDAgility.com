@@ -7,26 +7,12 @@ weight: 340
 ResourceId: 0A8ONYVbWlL
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: let-us-be-blunt
 aliases:
 - /resources/0A8ONYVbWlL
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326992004440072194
-  post_id: "7326992004440072194"
-  post_date: 2025-05-10T14:30:22Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:52Z
-  short_title: 2025-07-07T16:44:21Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -49,6 +35,20 @@ tags:
 - Value Delivery
 - Social Technologies
 - Agile Strategy
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326992004440072194
+  post_id: "7326992004440072194"
+  post_date: 2025-05-10T14:30:22Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:52Z
+  short_title: 2025-07-07T16:44:21Z
 
 ---
 Let’s be blunt:

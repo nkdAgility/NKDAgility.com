@@ -5,10 +5,9 @@ description: Examines how rigid, hierarchical Alpha organisations struggle and w
 date: 2023-07-06
 weight: 1000
 ResourceId: jW4sFDdDkvn
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: a-titanic-misfit-the-alpha-organization's-wasteful-endeavor-in-red-markets
 aliases:
 - /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
@@ -25,16 +24,15 @@ aliasesArchive:
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organization-s-wasteful-endeavor-in-red-markets
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Beta Codex
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49490
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

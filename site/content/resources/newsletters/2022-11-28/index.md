@@ -5,8 +5,9 @@ description: Learn which skills, capabilities, and certifications make you stand
 date: 2022-11-28
 weight: 1000
 ResourceId: Kn3i3yGquon
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: futureproof-yourself-with-skills-capabilities-and-certifications-that-companies-care-about
 aliases:
 - /newsletters/newsletter-2022/
@@ -15,15 +16,14 @@ aliases:
 aliasesArchive:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
+layout: newsletter
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-December2022.jpg
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:40Z
   short_title: 2025-07-07T17:57:17Z

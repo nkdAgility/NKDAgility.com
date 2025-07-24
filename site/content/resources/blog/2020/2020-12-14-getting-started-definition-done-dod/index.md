@@ -5,10 +5,9 @@ description: Explains how to create, apply, and improve a Definition of Done (Do
 date: 2020-12-14
 weight: 315
 ResourceId: z18IcQhlD7I
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: getting-started-with-a-definition-of-done-dod
 aliases:
 - /blog/getting-started-definition-done-dod
@@ -25,6 +24,7 @@ aliasesArchive:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 - /resources/blog/getting-started-with-a-definition-of-done-dod
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -47,11 +47,9 @@ tags:
 - Team Performance
 - Agile Planning
 - Transparency
-ResourceContentOrigin: Hybrid
 ResourceImportId: 38238
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 Watermarks:

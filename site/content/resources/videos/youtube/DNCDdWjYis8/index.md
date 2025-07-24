@@ -1,12 +1,28 @@
 ---
+title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 short_title: Redefining the Scrum Master Role
 description: Explains how effective Scrum Masters empower teams through facilitation, support, and coaching, moving away from authority and micromanagement to foster self-organisation.
 date: 2023-04-28T07:00:08Z
-ResourceId: DNCDdWjYis8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+ResourceId: DNCDdWjYis8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator
+aliases:
+- /resources/DNCDdWjYis8
+- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
+- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
+- /resources/videos/worst-trait-in-unskilled-scrum-masters-
+- /resources/worst-trait-in-unskilled-scrum-masters-
+- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
+- redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -26,30 +42,14 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:54Z
   short_title: 2025-07-07T17:55:40Z
-title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 videoId: DNCDdWjYis8
-source: youtube
 url: /resources/videos/:slug
-slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
-layout: video
-aliases:
-- /resources/DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
-aliasesArchive:
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
-- redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg
 duration: 51
 resourceTypes:

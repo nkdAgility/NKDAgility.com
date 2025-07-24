@@ -1,12 +1,30 @@
 ---
+title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 short_title: 'Azure DevOps: From 2-Year Releases to 880K Deploys'
 description: Explores how Azure DevOps shifted from slow, two-year releases to rapid, continuous delivery, highlighting the benefits of fast feedback, agility, and frequent deployments.
 date: 2025-02-06T10:20:34Z
-ResourceId: _gyzx59-AJk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 230
+ResourceId: _gyzx59-AJk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments
+aliases:
+- /resources/_gyzx59-AJk
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+aliasesArchive:
+- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+source: youtube
+layout: video
 concepts:
 - Principle
 categories:
@@ -29,32 +47,14 @@ tags:
 - Product Delivery
 - Value Delivery
 - Enterprise Agility
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:49Z
   short_title: 2025-07-07T17:46:47Z
-title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 videoId: _gyzx59-AJk
-source: youtube
 url: /resources/videos/:slug
-slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-layout: video
-aliases:
-- /resources/_gyzx59-AJk
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-aliasesArchive:
-- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
 duration: 358
 resourceTypes:

@@ -1,30 +1,15 @@
 ---
+title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
 short_title: Immersive Learning for Experienced Agile Pros
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
-ResourceId: VjPslpF3fTc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
+ResourceId: VjPslpF3fTc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:30Z
-  short_title: 2025-07-07T17:53:47Z
-title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
-videoId: VjPslpF3fTc
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-layout: video
 aliases:
 - /resources/VjPslpF3fTc
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
@@ -35,6 +20,21 @@ aliasesArchive:
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:30Z
+  short_title: 2025-07-07T17:53:47Z
+videoId: VjPslpF3fTc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 resourceTypes:

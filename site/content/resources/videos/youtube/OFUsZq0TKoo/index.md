@@ -1,33 +1,15 @@
 ---
+title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
 short_title: Transform Your Product Development with Structured Learning
 description: Learn how structured learning in product development boosts user value, reduces waste, fosters collaboration, and encourages creativity through evidence-based practices.
 date: 2024-08-27T07:07:18Z
-ResourceId: OFUsZq0TKoo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Pragmatic Thinking
-- Product Discovery
-- Value Delivery
+ResourceId: OFUsZq0TKoo
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:58:43Z
-  short_title: 2025-07-07T17:48:23Z
-title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
-videoId: OFUsZq0TKoo
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
-layout: video
 aliases:
 - /resources/OFUsZq0TKoo
 - /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
@@ -37,6 +19,24 @@ aliasesArchive:
 - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 - /resources/what-you-will-be-able-to-do-after-the-ppdv-course
 - transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
+source: youtube
+layout: video
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Pragmatic Thinking
+- Product Discovery
+- Value Delivery
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:58:43Z
+  short_title: 2025-07-07T17:48:23Z
+videoId: OFUsZq0TKoo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 resourceTypes:

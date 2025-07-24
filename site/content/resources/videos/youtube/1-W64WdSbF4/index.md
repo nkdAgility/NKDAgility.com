@@ -1,12 +1,30 @@
 ---
+title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective]'
 short_title: Introduction to Sprint Reviews Workshop
 description: Covers key concepts of Sprint Reviews, interactive workshop delivery using Teams and Mural, technical challenges faced, participant feedback, and retrospective insights.
 date: 2021-09-18T13:32:34Z
-ResourceId: 1-W64WdSbF4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 240
+ResourceId: 1-W64WdSbF4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+aliases:
+- /resources/1-W64WdSbF4
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+aliasesArchive:
+- /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
+- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+- free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+source: internal
+layout: video
 concepts:
 - Accountability
 categories:
@@ -23,32 +41,14 @@ tags:
 - Agile Planning Tools
 - Collaboration Tools
 - Release Management
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:51Z
   short_title: 2025-07-07T17:57:27Z
-title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective]'
 videoId: 1-W64WdSbF4
-source: internal
 url: /resources/videos/:slug
-slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-layout: video
-aliases:
-- /resources/1-W64WdSbF4
-- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
-aliasesArchive:
-- /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
-- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
-- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
-- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
-- free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
 duration: 5769
 resourceTypes:

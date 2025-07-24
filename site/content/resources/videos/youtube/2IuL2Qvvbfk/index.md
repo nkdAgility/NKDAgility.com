@@ -1,12 +1,26 @@
 ---
+title: Biggest contribution from a Product Owner that you know of
 short_title: Product Owner Impact on Agile at Microsoft
 description: Explores how visionary Product Owners at Microsoft drove Agile transformation, shortened feedback cycles, and reshaped product development culture and industry standards.
 date: 2023-06-13T11:32:18Z
-ResourceId: 2IuL2Qvvbfk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
+ResourceId: 2IuL2Qvvbfk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: biggest-contribution-from-a-product-owner-that-you-know-of
+aliases:
+- /resources/2IuL2Qvvbfk
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+aliasesArchive:
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
+- biggest-contribution-from-a-product-owner-that-you-know-of
+source: internal
+layout: video
 concepts:
 - Ethos
 categories:
@@ -24,28 +38,14 @@ tags:
 - Product Owner
 - Organisational Culture
 - Sociotechnical Systems
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:41Z
   short_title: 2025-07-07T17:54:42Z
-title: Biggest contribution from a Product Owner that you know of
 videoId: 2IuL2Qvvbfk
-source: internal
 url: /resources/videos/:slug
-slug: biggest-contribution-from-a-product-owner-that-you-know-of
-layout: video
-aliases:
-- /resources/2IuL2Qvvbfk
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
-aliasesArchive:
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
-- biggest-contribution-from-a-product-owner-that-you-know-of
 preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
 duration: 452
 resourceTypes:

@@ -1,35 +1,15 @@
 ---
+title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
 short_title: Focus on System Change, Not Agile Transformation
 description: Explains why lasting organisational change comes from adjusting systems—rules, processes, and structures—rather than trying to directly transform culture.
 date: 2024-01-21T07:00:06Z
-ResourceId: Ca_0rw9AUlg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Organisational Change
-- Systems Thinking
-- Organisational Physics
-- Organisational Agility
-- Sociotechnical Systems
-- Agile Philosophy
+ResourceId: Ca_0rw9AUlg
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:24Z
-  short_title: 2025-07-07T17:50:15Z
-title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
-videoId: Ca_0rw9AUlg
-source: internal
-url: /resources/videos/:slug
-slug: theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-layout: video
+ResourceImportSource: Youtube
+slug: there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliases:
 - /resources/Ca_0rw9AUlg
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
@@ -42,6 +22,26 @@ aliasesArchive:
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
 - theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Organisational Change
+- Systems Thinking
+- Organisational Physics
+- Organisational Agility
+- Sociotechnical Systems
+- Agile Philosophy
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:24Z
+  short_title: 2025-07-07T17:50:15Z
+videoId: Ca_0rw9AUlg
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
 duration: 195
 resourceTypes:

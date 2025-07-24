@@ -7,12 +7,22 @@ weight: 470
 ResourceId: pAMm25X5CuE
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: git-flow-should-have-died-years-ago
 aliases:
 - /resources/pAMm25X5CuE
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- DevOps
+- Engineering Excellence
+tags:
+- Frequent Releases
+- Software Development
+- Deployment Frequency
+- Continuous Delivery
+- Modern Source Control
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7294392103877394432
@@ -27,16 +37,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:57:02Z
   short_title: 2025-07-07T17:46:39Z
-concepts: []
-categories:
-- DevOps
-- Engineering Excellence
-tags:
-- Frequent Releases
-- Software Development
-- Deployment Frequency
-- Continuous Delivery
-- Modern Source Control
 
 ---
 Git Flow should have died years ago.

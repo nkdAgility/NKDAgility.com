@@ -11,8 +11,19 @@ ResourceContentOrigin: human
 slug: too-many-organisations-hide-behind-excuses
 aliases:
 - /resources/RJFPfh1L3bJ
-layout: signal
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+tags:
+- Value Delivery
+- Product Delivery
+- Pragmatic Thinking
+- Agile Philosophy
+- Market Adaptability
+- Organisational Agility
+- Agile Values and Principles
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7337138877612150785
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:41Z
   short_title: 2025-07-07T16:43:40Z
-concepts: []
-categories:
-- Product Development
-tags:
-- Value Delivery
-- Product Delivery
-- Pragmatic Thinking
-- Agile Philosophy
-- Market Adaptability
-- Organisational Agility
-- Agile Values and Principles
 
 ---
 Too many organisations hide behind excuses:

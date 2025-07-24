@@ -1,12 +1,30 @@
 ---
+title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 short_title: Top 3 Considerations for Scrum Master Coaching
 description: 'Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority.'
 date: 2023-09-18T07:00:32Z
-ResourceId: v1sMbKpQndU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 565
+ResourceId: v1sMbKpQndU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+aliases:
+- /resources/v1sMbKpQndU
+- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+aliasesArchive:
+- /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -24,32 +42,14 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:29Z
   short_title: 2025-07-07T17:53:03Z
-title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 videoId: v1sMbKpQndU
-source: internal
 url: /resources/videos/:slug
-slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-layout: video
-aliases:
-- /resources/v1sMbKpQndU
-- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-aliasesArchive:
-- /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 resourceTypes:

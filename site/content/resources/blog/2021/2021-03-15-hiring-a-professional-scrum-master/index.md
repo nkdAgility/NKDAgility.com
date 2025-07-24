@@ -5,10 +5,9 @@ description: Covers key responsibilities, skills, and requirements for hiring a 
 date: 2021-03-15
 weight: 590
 ResourceId: 1EEAZ-ldcTz
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: hiring-a-professional-scrum-master
 aliases:
 - /blog/hiring-a-professional-scrum-master
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/hiring-a-professional-scrum-master
 - /hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -31,10 +31,8 @@ tags:
 - Software Development
 - Agile Frameworks
 - Team Performance
-ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: Wide-screen-scrum-master-3-3.jpg
 Watermarks:

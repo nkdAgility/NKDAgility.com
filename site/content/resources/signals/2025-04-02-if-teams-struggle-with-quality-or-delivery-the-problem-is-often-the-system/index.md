@@ -7,12 +7,22 @@ weight: 190
 ResourceId: cXJnv3y4sb7
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system
 aliases:
 - /resources/cXJnv3y4sb7
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+- Leadership
+- Technical Leadership
+tags:
+- Operational Practices
+- Software Development
+- Organisational Culture
+- Definition of Done
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7313221193375887360
@@ -27,16 +37,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:45Z
   short_title: 2025-07-07T16:45:05Z
-concepts: []
-categories:
-- Engineering Excellence
-- Leadership
-- Technical Leadership
-tags:
-- Operational Practices
-- Software Development
-- Organisational Culture
-- Definition of Done
 
 ---
 If teams are struggling with quality, technical debt, or inconsistent delivery, the issue isn’t just the team—it’s the system they’re operating in.

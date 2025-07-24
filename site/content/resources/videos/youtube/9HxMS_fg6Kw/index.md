@@ -1,29 +1,15 @@
 ---
+title: What are some big red flags when hiring an agile consultant?
 short_title: Red Flags When Hiring an Agile Consultant
 description: Key warning signs when hiring an agile consultant include lack of community involvement, weak core agile knowledge, and consultancies prioritising volume over expertise.
 date: 2023-01-25T07:30:02Z
-ResourceId: 9HxMS_fg6Kw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: 9HxMS_fg6Kw
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:26Z
-  short_title: 2025-07-07T17:57:03Z
-title: What are some big red flags when hiring an agile consultant?
-videoId: 9HxMS_fg6Kw
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-are-some-big-red-flags-when-hiring-an-agile-consultant
-layout: video
 aliases:
 - /resources/9HxMS_fg6Kw
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
@@ -33,6 +19,20 @@ aliasesArchive:
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - what-are-some-big-red-flags-when-hiring-an-agile-consultant
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:26Z
+  short_title: 2025-07-07T17:57:03Z
+videoId: 9HxMS_fg6Kw
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
 duration: 402
 resourceTypes:

@@ -5,8 +5,9 @@ description: Learn practical skills in product validation, customer discovery, a
 date: 2024-07-17
 weight: 840
 ResourceId: w5rxdL8YHNa
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+layout: newsletter
 concepts: []
 categories:
 - Product Management
@@ -26,10 +28,8 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Delivery
-ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:02:35Z
   short_title: 2025-07-07T17:49:00Z

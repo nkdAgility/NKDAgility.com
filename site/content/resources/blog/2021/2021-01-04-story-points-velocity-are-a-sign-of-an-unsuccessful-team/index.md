@@ -5,10 +5,9 @@ description: Explains why relying on story points and velocity signals team imma
 date: 2021-01-04
 weight: 380
 ResourceId: ICuFIMyhnwj
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
 - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -23,6 +22,7 @@ aliasesArchive:
 - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -33,11 +33,9 @@ tags:
 - Empirical Process Control
 - Professional Scrum
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44532
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-9-14-14.png
 Watermarks:

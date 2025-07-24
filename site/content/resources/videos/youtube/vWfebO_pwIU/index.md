@@ -1,30 +1,15 @@
 ---
+title: 'Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth'
 short_title: Why Scrum Masters Stall at PSM1
 description: Many Scrum Masters stop at PSM1 due to lack of passion. Ongoing learning, genuine interest, and active engagement are key to advancing and excelling in the Scrum Master role.
 date: 2023-04-07T07:00:20Z
-ResourceId: vWfebO_pwIU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Scrum Master
+ResourceId: vWfebO_pwIU
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:19Z
-  short_title: 2025-07-07T17:56:00Z
-title: 'Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth'
-videoId: vWfebO_pwIU
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
-layout: video
 aliases:
 - /resources/vWfebO_pwIU
 - /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
@@ -36,6 +21,21 @@ aliasesArchive:
 - why-most-scrum-masters-only-have-psmi
 - /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 - why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Scrum Master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:19Z
+  short_title: 2025-07-07T17:56:00Z
+videoId: vWfebO_pwIU
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 resourceTypes:

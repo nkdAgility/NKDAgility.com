@@ -1,31 +1,15 @@
 ---
+title: How will the immersive learning experience help coach people on the job?
 short_title: Immersive Learning for On-the-Job Agile Coaching
 description: Immersive learning enables on-the-job coaching by combining real-world assignments, collaborative feedback, and practical application for deeper, sustained Agile skill development.
 date: 2023-08-08T07:00:22Z
-ResourceId: pU57BrP94-8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Product Development
-tags:
-- Continuous Learning
-- Pragmatic Thinking
+ResourceId: pU57BrP94-8
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:22Z
-  short_title: 2025-07-07T17:53:41Z
-title: How will the immersive learning experience help coach people on the job?
-videoId: pU57BrP94-8
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-layout: video
 aliases:
 - /resources/pU57BrP94-8
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
@@ -34,6 +18,22 @@ aliasesArchive:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+source: internal
+layout: video
+concepts: []
+categories:
+- Product Development
+tags:
+- Continuous Learning
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:22Z
+  short_title: 2025-07-07T17:53:41Z
+videoId: pU57BrP94-8
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 resourceTypes:

@@ -1,12 +1,26 @@
 ---
+title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
 short_title: Fund Your Product Like a Venture Capitalist
 description: Learn how to fund product development by thinking like a venture capitalist—run small experiments, validate ideas, manage risk, and balance data with creative vision.
 date: 2024-12-10T06:30:00Z
-ResourceId: vbY6LUq81uY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
+ResourceId: vbY6LUq81uY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+aliases:
+- /resources/vbY6LUq81uY
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+aliasesArchive:
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+- /resources/maximizing-value-with-minimum-viable-products-mvps
+- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+source: youtube
+layout: video
 concepts: []
 categories:
 - Product Development
@@ -17,28 +31,14 @@ tags:
 - Pragmatic Thinking
 - Lean Startup
 - Hypothesis Driven Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:48Z
   short_title: 2025-07-07T17:47:13Z
-title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
 videoId: vbY6LUq81uY
-source: youtube
 url: /resources/videos/:slug
-slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-layout: video
-aliases:
-- /resources/vbY6LUq81uY
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-aliasesArchive:
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
-- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 resourceTypes:

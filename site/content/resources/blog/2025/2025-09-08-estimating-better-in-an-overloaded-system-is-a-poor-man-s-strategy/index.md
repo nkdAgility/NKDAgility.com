@@ -7,13 +7,10 @@ weight: 235
 ResourceId: 9asj2UApmVM
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy
 aliases:
 - /resources/9asj2UApmVM
-ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-06-18T18:22:38Z
-  short_title: 2025-07-07T16:43:05Z
 concepts:
 - Practice
 categories:
@@ -36,6 +33,9 @@ tags:
 - Project Management
 - Lean Thinking
 - Product Delivery
+Watermarks:
+  description: 2025-06-18T18:22:38Z
+  short_title: 2025-07-07T16:43:05Z
 
 ---
 Just a regular reminder that predictability and the accuracy of any estimate deteriorate rapidly as you increase the amount of Work in Progress (WIP) in the system. And yet, most teams still try to compensate for unpredictability by estimating better, rather than addressing the actual problem: the system is overloaded and cannot flow.

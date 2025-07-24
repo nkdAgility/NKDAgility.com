@@ -7,12 +7,21 @@ weight: 540
 ResourceId: GcanwqIp5ok
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: no-successful-company-thrives-by-copying-others-ways-of-working
 aliases:
 - /resources/GcanwqIp5ok
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Leadership
+tags:
+- Agile Philosophy
+- Agile Strategy
+- Organisational Agility
+- Agnostic Agile
+- Organisational Change
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7321918600317976577
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:13Z
   short_title: 2025-07-07T16:44:39Z
-concepts: []
-categories:
-- Leadership
-tags:
-- Agile Philosophy
-- Agile Strategy
-- Organisational Agility
-- Agnostic Agile
-- Organisational Change
 
 ---
 No successful company got where they are by copy-pasting someone else’s way of working.

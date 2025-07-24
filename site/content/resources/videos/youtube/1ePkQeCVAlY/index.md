@@ -1,32 +1,15 @@
 ---
+title: What is the difference between resource efficiency and flow efficiency?
 short_title: Resource Efficiency vs Flow Efficiency in Agile
 description: Explains how resource efficiency focuses on maximising individual output, while flow efficiency optimises the entire workflow for better value delivery in Agile processes.
 date: 2023-03-09T07:00:02Z
-ResourceId: 1ePkQeCVAlY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Lean
-tags:
-- Flow Efficiency
-- Operational Practices
-- Pragmatic Thinking
+ResourceId: 1ePkQeCVAlY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:45Z
-  short_title: 2025-07-07T17:56:28Z
-title: What is the difference between resource efficiency and flow efficiency?
-videoId: 1ePkQeCVAlY
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: what-is-the-difference-between-resource-efficiency-and-flow-efficiency
-layout: video
 aliases:
 - /resources/1ePkQeCVAlY
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
@@ -36,6 +19,23 @@ aliasesArchive:
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 - what-is-the-difference-between-resource-efficiency-and-flow-efficiency
+source: internal
+layout: video
+concepts: []
+categories:
+- Lean
+tags:
+- Flow Efficiency
+- Operational Practices
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:45Z
+  short_title: 2025-07-07T17:56:28Z
+videoId: 1ePkQeCVAlY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1ePkQeCVAlY/maxresdefault.jpg
 duration: 263
 resourceTypes:

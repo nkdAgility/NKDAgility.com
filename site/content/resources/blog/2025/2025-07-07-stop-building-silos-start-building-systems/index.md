@@ -7,6 +7,7 @@ weight: 50
 ResourceId: zLhc3UKUWOj
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: stop-building-silos-start-building-systems
 aliases:
 - /resources/zLhc3UKUWOj
@@ -37,7 +38,6 @@ tags:
 - Engineering Practices
 - Value Delivery
 - Azure Pipelines
-ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:58Z
   short_title: 2025-07-07T16:43:18Z

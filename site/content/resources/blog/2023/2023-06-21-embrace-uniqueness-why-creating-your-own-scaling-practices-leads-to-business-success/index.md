@@ -5,10 +5,9 @@ description: Explores why businesses should develop custom scaling practices tai
 date: 2023-06-21
 weight: 1000
 ResourceId: rMAdB_yEwWb
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
@@ -23,16 +22,15 @@ aliasesArchive:
 - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Organisational Agility
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49480
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 Watermarks:

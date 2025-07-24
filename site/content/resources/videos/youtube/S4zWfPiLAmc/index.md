@@ -1,39 +1,20 @@
 ---
+title: 3 best ways to wreck Kanban. Use vanity metrics.
 short_title: 3 Best Ways to Wreck Kanban with Vanity Metrics
 description: Learn how to avoid common Kanban mistakes by focusing on actionable metrics like WIP, cycle time, and throughput instead of vanity metrics for better workflow efficiency.
 date: 2024-02-29T07:00:09Z
-ResourceId: S4zWfPiLAmc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts:
-- Practice
-categories:
-- Kanban
-- Product Development
-tags:
-- Software Development
-- Throughput
-- Operational Practices
-- Metrics and Learning
+ResourceId: S4zWfPiLAmc
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:32Z
-  short_title: 2025-07-07T17:49:34Z
-title: 3 best ways to wreck Kanban. Use vanity metrics.
-videoId: S4zWfPiLAmc
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics
-layout: video
 aliases:
 - /resources/S4zWfPiLAmc
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -45,6 +26,26 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
 - 3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
+source: internal
+layout: video
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
+tags:
+- Software Development
+- Throughput
+- Operational Practices
+- Metrics and Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:32Z
+  short_title: 2025-07-07T17:49:34Z
+videoId: S4zWfPiLAmc
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg
 duration: 226
 resourceTypes:

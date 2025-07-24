@@ -5,8 +5,9 @@ description: Learn practical skills in product discovery, validation, and custom
 date: 2024-08-29
 weight: 1000
 ResourceId: bvPDNFJju4h
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+layout: newsletter
 concepts: []
 categories:
 - Product Development
@@ -23,10 +25,8 @@ tags:
 - Customer Focus
 - Product Validation
 - Product Discovery
-ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
   short_title: 2025-07-07T17:48:22Z

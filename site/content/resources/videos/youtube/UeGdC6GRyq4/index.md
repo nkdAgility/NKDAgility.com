@@ -1,29 +1,15 @@
 ---
+title: Under employed - 30% upfront, balance when you are employed
 short_title: 'Underemployed Training: 30% Upfront, Pay Balance After Employment'
 description: 'Explains a pay-later training programme for the underemployed: pay 30% upfront, with the balance due only after securing suitable employment and career advancement.'
 date: 2023-06-14T07:00:18Z
-ResourceId: UeGdC6GRyq4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: UeGdC6GRyq4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:39Z
-  short_title: 2025-07-07T17:54:40Z
-title: Under employed - 30% upfront, balance when you are employed
-videoId: UeGdC6GRyq4
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: under-employed-30-upfront-balance-when-you-are-employed
-layout: video
 aliases:
 - /resources/UeGdC6GRyq4
 - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
@@ -37,6 +23,20 @@ aliasesArchive:
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - under-employed-30-upfront-balance-when-you-are-employed
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:39Z
+  short_title: 2025-07-07T17:54:40Z
+videoId: UeGdC6GRyq4
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 resourceTypes:

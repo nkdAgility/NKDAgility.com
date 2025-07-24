@@ -5,8 +5,9 @@ description: Buy one Scrum training course and get a second free for a friend or
 date: 2024-01-11
 weight: 875
 ResourceId: ZHJtz2t0uTU
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: change-is-easier-with-a-friend-buy-1-get-1-free
 aliases:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
@@ -15,15 +16,14 @@ aliases:
 aliasesArchive:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+layout: newsletter
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
 author: MrHinsh
 resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:06:28Z
   short_title: 2025-07-07T17:50:18Z

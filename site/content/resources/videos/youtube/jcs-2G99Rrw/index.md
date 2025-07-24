@@ -1,12 +1,26 @@
 ---
+title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
 short_title: 'Azure DevOps: Avoiding Common Agile Pitfalls'
 description: Learn how to avoid common mistakes in Azure DevOps, improve agile workflows, maintain traceability, and simplify processes for better team productivity and project success.
 date: 2024-04-09T08:00:20Z
-ResourceId: jcs-2G99Rrw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+ResourceId: jcs-2G99Rrw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+aliases:
+- /resources/jcs-2G99Rrw
+- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+- /resources/videos/top-4-rookie-mistakes-in-azure-devops
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+- /resources/videos/top-4-rookie-mistakes-in-azure-devops
+- /resources/top-4-rookie-mistakes-in-azure-devops
+- mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+source: youtube
+layout: video
 concepts:
 - Tool
 categories:
@@ -17,28 +31,14 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Operational Practices
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:18Z
   short_title: 2025-07-07T17:49:22Z
-title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
 videoId: jcs-2G99Rrw
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-layout: video
-aliases:
-- /resources/jcs-2G99Rrw
-- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-aliasesArchive:
-- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-- /resources/top-4-rookie-mistakes-in-azure-devops
-- mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 resourceTypes:

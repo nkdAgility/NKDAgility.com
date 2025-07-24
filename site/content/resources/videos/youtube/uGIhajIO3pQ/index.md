@@ -1,29 +1,15 @@
 ---
+title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
 short_title: 'Agile Scotland 2023: Event Highlights & Impact'
 description: Explore how Agile 2023 in Scotland brings together tech professionals to share insights, foster collaboration, and highlight Agile’s impact on the local tech community.
 date: 2023-06-28T07:00:21Z
-ResourceId: uGIhajIO3pQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: uGIhajIO3pQ
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:13Z
-  short_title: 2025-07-07T17:54:18Z
-title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
-videoId: uGIhajIO3pQ
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-layout: video
 aliases:
 - /resources/uGIhajIO3pQ
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+source: internal
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:13Z
+  short_title: 2025-07-07T17:54:18Z
+videoId: uGIhajIO3pQ
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
 resourceTypes:

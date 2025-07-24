@@ -1,31 +1,15 @@
 ---
+title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 short_title: Immersive Learning in Agile and Scrum Training
 description: Explains how immersive learning combines Agile and Scrum theory with hands-on practice, real-world scenarios, and expert guidance to boost skills, confidence, and teamwork.
 date: 2024-02-09T07:00:06Z
-ResourceId: GfB3nB_PMyY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Method
-categories:
-- Uncategorized
-tags:
-- Competence
+ResourceId: GfB3nB_PMyY
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:54Z
-  short_title: 2025-07-07T17:49:51Z
-title: 'The Power of Immersive Learning: Bridging Theory and Experience'
-videoId: GfB3nB_PMyY
-source: internal
-url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
-layout: video
+ResourceImportSource: Youtube
+slug: the-power-of-immersive-learning-bridging-theory-and-experience
 aliases:
 - /resources/GfB3nB_PMyY
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
@@ -37,6 +21,22 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
+source: internal
+layout: video
+concepts:
+- Method
+categories:
+- Uncategorized
+tags:
+- Competence
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:54Z
+  short_title: 2025-07-07T17:49:51Z
+videoId: GfB3nB_PMyY
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
 resourceTypes:

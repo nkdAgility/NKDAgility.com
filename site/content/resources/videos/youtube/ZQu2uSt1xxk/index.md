@@ -1,36 +1,20 @@
 ---
+title: Overview of Applying Professional Kanban course.
 short_title: Applying Professional Kanban Course Overview
 description: Learn how to implement Kanban in any workflow, use key metrics and visualisations, and drive continuous improvement for better project management and value delivery.
 date: 2024-02-21T07:00:11Z
-ResourceId: ZQu2uSt1xxk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tenet
-categories:
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
+ResourceId: ZQu2uSt1xxk
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:40Z
-  short_title: 2025-07-07T17:49:40Z
-title: Overview of Applying Professional Kanban course.
-videoId: ZQu2uSt1xxk
-source: internal
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: overview-of-applying-professional-kanban-course
-layout: video
 aliases:
 - /resources/ZQu2uSt1xxk
 - /resources/videos/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
+- /resources/videos/overview-of-applying-professional-kanban-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
@@ -40,6 +24,23 @@ aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course
 - overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course.
+source: internal
+layout: video
+concepts:
+- Tenet
+categories:
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:40Z
+  short_title: 2025-07-07T17:49:40Z
+videoId: ZQu2uSt1xxk
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 resourceTypes:

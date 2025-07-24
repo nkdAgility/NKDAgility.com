@@ -5,10 +5,9 @@ description: Explores how practical use of Scrum fosters adaptability and resili
 date: 2024-03-21
 weight: 330
 ResourceId: mkdhLrKu8sh
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
 - /blog/pragmatism-crushes-dogma-in-the-wild
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
+layout: blog
 concepts:
 - Framework
 categories:
@@ -39,11 +39,9 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
-ResourceContentOrigin: Hybrid
 ResourceImportId: 51362
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 Watermarks:

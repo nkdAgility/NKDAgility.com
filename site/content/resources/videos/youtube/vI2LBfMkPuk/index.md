@@ -1,34 +1,15 @@
 ---
+title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
 short_title: Transforming Scrum Learning with Minecraft
 description: Discover how hands-on Scrum training using Minecraft helps learners experience project chaos, apply agile principles, and gain practical insights into effective teamwork.
 date: 2023-01-09T12:36:53Z
-ResourceId: vI2LBfMkPuk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
+ResourceId: vI2LBfMkPuk
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:35Z
-  short_title: 2025-07-07T17:57:12Z
-title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
-videoId: vI2LBfMkPuk
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
-layout: video
 aliases:
 - /resources/vI2LBfMkPuk
 - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
@@ -39,6 +20,25 @@ aliasesArchive:
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 - embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+source: youtube
+layout: video
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:35Z
+  short_title: 2025-07-07T17:57:12Z
+videoId: vI2LBfMkPuk
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 resourceTypes:

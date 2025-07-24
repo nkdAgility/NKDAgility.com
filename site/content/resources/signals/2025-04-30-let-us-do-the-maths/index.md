@@ -7,26 +7,12 @@ weight: 265
 ResourceId: XYMN44lJp1n
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: let-us-do-the-maths
 aliases:
 - /resources/XYMN44lJp1n
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7323368250635976704
-  post_id: "7323368250635976704"
-  post_date: 2025-04-30T14:30:52Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:07Z
-  short_title: 2025-07-07T16:44:35Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -47,6 +33,20 @@ tags:
 - Team Performance
 - Organisational Agility
 - Release Management
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7323368250635976704
+  post_id: "7323368250635976704"
+  post_date: 2025-04-30T14:30:52Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:07Z
+  short_title: 2025-07-07T16:44:35Z
 
 ---
 Let’s do the maths.

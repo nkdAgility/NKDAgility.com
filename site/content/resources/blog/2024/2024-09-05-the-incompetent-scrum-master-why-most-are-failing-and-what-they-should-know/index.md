@@ -5,10 +5,9 @@ description: Many Scrum Masters lack core Scrum knowledge and technical skills, 
 date: 2024-09-05
 weight: 190
 ResourceId: VTjU5Wl2XWU
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: why-most-scrum-masters-are-failing-and-what-they-should-know
 aliases:
 - /resources/VTjU5Wl2XWU
@@ -21,6 +20,7 @@ aliasesArchive:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know/
+layout: blog
 concepts:
 - Method
 categories:
@@ -38,11 +38,9 @@ tags:
 - Operational Practices
 - Professional Scrum
 - Team Performance
-ResourceContentOrigin: Hybrid
 ResourceImportId: 51730
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 sameAs:
 - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/

@@ -5,10 +5,9 @@ description: Using Blocked columns on Kanban boards hides workflow issues, cause
 date: 2024-02-13
 weight: 1000
 ResourceId: 7JJaRr4g-KA
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+layout: blog
 concepts:
 - Tool
 categories:
@@ -29,14 +29,12 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
-ResourceContentOrigin: Hybrid
 ResourceImportId: 51208
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
 - name: Will Seele
   external: https://www.linkedin.com/in/wjseele/
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 Watermarks:

@@ -1,12 +1,28 @@
 ---
+title: Who Should Lead the Sprint Review? Unpacking the Role of the Product Owner in Agile Success
 short_title: Product Owner’s Role in Leading Sprint Reviews
 description: Explains why the Product Owner should lead Sprint Reviews in Agile, detailing their role in maximising value, gathering feedback, and updating the product backlog.
 date: 2023-09-06T07:00:15Z
-ResourceId: n6Suj-swl88
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+ResourceId: n6Suj-swl88
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+aliases:
+- /resources/n6Suj-swl88
+- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+- /resources/videos/who-should-lead-the-sprint-review
+aliasesArchive:
+- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+- /resources/videos/who-should-lead-the-sprint-review-
+- /resources/who-should-lead-the-sprint-review-why-how
+- /resources/who-should-lead-the-sprint-review-
+- /resources/videos/who-should-lead-the-sprint-review
+- who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+source: youtube
+layout: video
 concepts:
 - Method
 categories:
@@ -26,30 +42,14 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:39Z
   short_title: 2025-07-07T17:53:12Z
-title: Who Should Lead the Sprint Review? Unpacking the Role of the Product Owner in Agile Success
 videoId: n6Suj-swl88
-source: youtube
 url: /resources/videos/:slug
-slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
-layout: video
-aliases:
-- /resources/n6Suj-swl88
-- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
-- /resources/videos/who-should-lead-the-sprint-review
-aliasesArchive:
-- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
-- /resources/videos/who-should-lead-the-sprint-review-
-- /resources/who-should-lead-the-sprint-review-why-how
-- /resources/who-should-lead-the-sprint-review-
-- /resources/videos/who-should-lead-the-sprint-review
-- who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 resourceTypes:

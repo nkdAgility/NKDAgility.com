@@ -1,30 +1,15 @@
 ---
+title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
 short_title: Immersive Learning and DevOps in Training
 description: Explores how immersive learning and DevOps practices improve training effectiveness, boost knowledge retention, and deliver real value for individuals and organisations.
 date: 2023-03-16T07:00:16Z
-ResourceId: TabMnJpXFVA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 765
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
+ResourceId: TabMnJpXFVA
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:39Z
-  short_title: 2025-07-07T17:56:23Z
-title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
-videoId: TabMnJpXFVA
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
-layout: video
 aliases:
 - /resources/TabMnJpXFVA
 - /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
@@ -36,6 +21,21 @@ aliasesArchive:
 - why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 - transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:39Z
+  short_title: 2025-07-07T17:56:23Z
+videoId: TabMnJpXFVA
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 resourceTypes:

@@ -5,10 +5,9 @@ description: Explains how adopting test-first practices in software development 
 date: 2020-12-07
 weight: 255
 ResourceId: yqHaiUlMNTP
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+layout: blog
 concepts:
 - Method
 categories:
@@ -40,18 +40,16 @@ tags:
 - Shift Left Strategy
 - Competence
 - Product Delivery
-ResourceContentOrigin: Hybrid
-ResourceImportId: 9469
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
   post_date: 2021-01-10T09:00:00Z
   post_type: crosspost
+ResourceImportId: 9469
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:17Z
   short_title: 2025-07-07T17:57:45Z

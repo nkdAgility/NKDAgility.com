@@ -7,26 +7,12 @@ weight: 385
 ResourceId: dqFTsIhZF_A
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: how-top-scrum-masters-are-selected-by-their-teams
 aliases:
 - /resources/dqFTsIhZF_A
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7298015983284211713
-  post_id: "7298015983284211713"
-  post_date: 2025-02-19T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:51Z
-  short_title: 2025-07-07T17:46:20Z
+layout: signal
 concepts: []
 categories:
 - Scrum
@@ -44,6 +30,20 @@ tags:
 - Team Collaboration
 - Professional Scrum
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7298015983284211713
+  post_id: "7298015983284211713"
+  post_date: 2025-02-19T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:51Z
+  short_title: 2025-07-07T17:46:20Z
 
 ---
 The best Scrum Masters don’t apply for the role—they are chosen by their peers.

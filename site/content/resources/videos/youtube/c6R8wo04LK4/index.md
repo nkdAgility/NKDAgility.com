@@ -1,13 +1,24 @@
 ---
+title: Hardest Part of Adopting Scrum?
 short_title: Hardest Part of Adopting Scrum
 description: Overcoming the belief in quick fixes is the hardest part of Scrum adoption; true success requires mindset change, continuous learning, and organisational adaptability.
 date: 2023-06-17T11:00:32Z
-ResourceId: c6R8wo04LK4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+ResourceId: c6R8wo04LK4
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: hardest-part-of-adopting-scrum
+aliases:
+- /resources/c6R8wo04LK4
+- /resources/videos/hardest-part-of-adopting-scrum-c6R8wo04LK4
+aliasesArchive:
+- /resources/videos/hardest-part-of-adopting-scrum
+- /resources/hardest-part-of-adopting-scrum
+- hardest-part-of-adopting-scrum-c6R8wo04LK4
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,19 +29,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:31Z
   short_title: 2025-07-07T17:54:34Z
-title: Hardest Part of Adopting Scrum?
 videoId: c6R8wo04LK4
-source: internal
 url: /resources/videos/:slug
-slug: hardest-part-of-adopting-scrum-c6R8wo04LK4
-layout: video
-aliases:
-- /resources/c6R8wo04LK4
-- /resources/videos/hardest-part-of-adopting-scrum-c6R8wo04LK4
-aliasesArchive:
-- /resources/videos/hardest-part-of-adopting-scrum
-- /resources/hardest-part-of-adopting-scrum
-- hardest-part-of-adopting-scrum-c6R8wo04LK4
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
 resourceTypes:

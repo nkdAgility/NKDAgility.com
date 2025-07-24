@@ -1,29 +1,15 @@
 ---
+title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 short_title: How AI Is Revolutionising Our Work
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
 date: 2023-07-05T14:49:20Z
-ResourceId: fcOSewXez3I
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
+ResourceId: fcOSewXez3I
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:03Z
-  short_title: 2025-07-07T17:54:11Z
-title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
-videoId: fcOSewXez3I
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
-layout: video
 aliases:
 - /resources/fcOSewXez3I
 - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
@@ -34,6 +20,20 @@ aliasesArchive:
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
 - how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:03Z
+  short_title: 2025-07-07T17:54:11Z
+videoId: fcOSewXez3I
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 resourceTypes:

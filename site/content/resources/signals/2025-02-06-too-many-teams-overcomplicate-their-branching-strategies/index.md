@@ -7,26 +7,12 @@ weight: 305
 ResourceId: qwciWeifRRf
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: too-many-teams-overcomplicate-their-branching-strategies
 aliases:
 - /resources/qwciWeifRRf
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7293201258541191168
-  post_id: "7293201258541191168"
-  post_date: 2025-02-06T09:38:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:57:07Z
-  short_title: 2025-07-07T17:46:48Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -43,6 +29,20 @@ tags:
 - Value Delivery
 - Technical Mastery
 - Product Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7293201258541191168
+  post_id: "7293201258541191168"
+  post_date: 2025-02-06T09:38:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:57:07Z
+  short_title: 2025-07-07T17:46:48Z
 
 ---
 Too many teams overcomplicate their branching strategies. The best engineering teams focus on flow, not friction.

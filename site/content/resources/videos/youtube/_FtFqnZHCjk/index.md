@@ -1,12 +1,27 @@
 ---
+title: The Evolution of Product Management in the Agile Era
 short_title: The Evolution of Product Management in Agile
 description: Explores how Agile transformed product management by enabling shorter release cycles, faster feedback, continuous delivery, and a stronger focus on built-in quality.
 date: 2024-07-18T06:45:01Z
-ResourceId: _FtFqnZHCjk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
+ResourceId: _FtFqnZHCjk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: the-evolution-of-product-management-in-the-agile-era
+aliases:
+- /resources/_FtFqnZHCjk
+- /resources/videos/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
+aliasesArchive:
+- /resources/videos/the-evolution-of-product-management-in-the-agile-era
+- /resources/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
+- /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
+- the-evolution-of-product-management-in-the-agile-era
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -25,29 +40,14 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Value Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:33Z
   short_title: 2025-07-07T17:48:58Z
-title: The Evolution of Product Management in the Agile Era
 videoId: _FtFqnZHCjk
-source: internal
 url: /resources/videos/:slug
-slug: the-evolution-of-product-management-in-the-agile-era
-layout: video
-aliases:
-- /resources/_FtFqnZHCjk
-- /resources/videos/the-evolution-of-product-management-in-the-agile-era
-- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
-aliasesArchive:
-- /resources/videos/the-evolution-of-product-management-in-the-agile-era
-- /resources/the-evolution-of-product-management-in-the-agile-era
-- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
-- /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
-- the-evolution-of-product-management-in-the-agile-era
 preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg
 duration: 656
 resourceTypes:

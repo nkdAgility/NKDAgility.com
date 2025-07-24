@@ -7,10 +7,10 @@ weight: 150
 ResourceId: EtzHUfsWjsD
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: resilience-is-part-of-the-product-not-an-afterthought
 aliases:
 - /resources/EtzHUfsWjsD
-ResourceContentOrigin: hybrid
 aliasesArchive:
 - /resilience-is-part-of-the-product--not-an-afterthought
 - /blog/resilience-is-part-of-the-product--not-an-afterthought

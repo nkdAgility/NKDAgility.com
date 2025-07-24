@@ -7,12 +7,21 @@ weight: 725
 ResourceId: X-J3sV7w7mU
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: you-don-t-own-your-market
 aliases:
 - /resources/X-J3sV7w7mU
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Miscellaneous
+- Business Agility
+- Value Delivery
+- Agile Philosophy
+- Product Strategy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7319019512433958912
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:22Z
   short_title: 2025-07-07T16:44:48Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Miscellaneous
-- Business Agility
-- Value Delivery
-- Agile Philosophy
-- Product Strategy
 
 ---
 You don’t own your market. Your customers do. Ignore them, move too slowly, and they’ll move on.

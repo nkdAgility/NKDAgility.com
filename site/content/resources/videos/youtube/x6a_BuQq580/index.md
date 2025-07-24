@@ -1,30 +1,15 @@
 ---
+title: 'Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers'
 short_title: Mastering Cloud Migration & Data Transfer Risks
 description: Learn how to address concerns about incomplete data transfers during cloud migration, with practical steps for planning, risk mitigation, and using Microsoft tools.
 date: 2024-11-07T05:45:02Z
-ResourceId: x6a_BuQq580
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
+ResourceId: x6a_BuQq580
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:21Z
-  short_title: 2025-07-07T17:47:40Z
-title: 'Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers'
-videoId: x6a_BuQq580
-source: youtube
-url: /resources/videos/:slug
+ResourceImportSource: Youtube
 slug: mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
-layout: video
 aliases:
 - /resources/x6a_BuQq580
 - /resources/videos/mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
@@ -34,6 +19,21 @@ aliasesArchive:
 - /resources/videos/devops-migration-incomplete-migrations
 - /resources/devops-migration-incomplete-migrations
 - mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:21Z
+  short_title: 2025-07-07T17:47:40Z
+videoId: x6a_BuQq580
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 resourceTypes:

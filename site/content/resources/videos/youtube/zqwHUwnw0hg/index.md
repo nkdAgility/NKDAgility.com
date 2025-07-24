@@ -1,12 +1,26 @@
 ---
+title: What will you learn on the professional scrum master course?
 short_title: What You Learn on the Professional Scrum Master Course
 description: Gain practical skills and deep understanding of the scrum master role, scrum theory, empiricism, team dynamics, and delivering value in agile product development.
 date: 2023-01-19T07:00:14Z
-ResourceId: zqwHUwnw0hg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+ResourceId: zqwHUwnw0hg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: what-will-you-learn-on-the-professional-scrum-master-course
+aliases:
+- /resources/zqwHUwnw0hg
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
+aliasesArchive:
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
+- /resources/what-will-you-learn-on-the-professional-scrum-master-course
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
+- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
+- what-will-you-learn-on-the-professional-scrum-master-course
+source: internal
+layout: video
 concepts:
 - Principle
 categories:
@@ -19,28 +33,14 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:30Z
   short_title: 2025-07-07T17:57:07Z
-title: What will you learn on the professional scrum master course?
 videoId: zqwHUwnw0hg
-source: internal
 url: /resources/videos/:slug
-slug: what-will-you-learn-on-the-professional-scrum-master-course
-layout: video
-aliases:
-- /resources/zqwHUwnw0hg
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
-aliasesArchive:
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
-- what-will-you-learn-on-the-professional-scrum-master-course
 preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 resourceTypes:

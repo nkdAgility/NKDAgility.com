@@ -7,12 +7,18 @@ weight: 765
 ResourceId: hXwfpdteI-Q
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: most-organisations-waste-their-smartest-people
 aliases:
 - /resources/hXwfpdteI-Q
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Miscellaneous
+- Organisational Culture
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7316845161584418816
@@ -27,12 +33,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:32Z
   short_title: 2025-07-07T16:44:55Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Miscellaneous
-- Organisational Culture
 
 ---
 Most organisations waste their smartest people. Not because they lack skill—but because their environment makes thinking a liability.

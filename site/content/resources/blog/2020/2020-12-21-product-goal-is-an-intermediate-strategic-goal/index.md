@@ -5,10 +5,9 @@ description: Explains how product goals serve as intermediate strategic goals, g
 date: 2020-12-21
 weight: 750
 ResourceId: PjYSLMnBHhI
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
 - /blog/product-goal-is-an-intermediate-strategic-goal
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
+layout: blog
 concepts:
 - Strategy
 categories:
@@ -41,11 +41,9 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Common Goals
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45309
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-hypothesis-driven-1-1.jpg
 Watermarks:

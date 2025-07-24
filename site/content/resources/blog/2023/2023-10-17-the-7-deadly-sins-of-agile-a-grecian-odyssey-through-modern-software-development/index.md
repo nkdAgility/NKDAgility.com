@@ -5,10 +5,9 @@ description: Explores how the seven deadly sins from Greek philosophy mirror com
 date: 2023-10-17
 weight: 840
 ResourceId: DgJV3wMMjWr
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
 - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
@@ -23,17 +22,16 @@ aliasesArchive:
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+layout: blog
 concepts:
 - Ethos
 categories:
 - Uncategorized
 tags:
 - Software Development
-ResourceContentOrigin: Hybrid
 ResourceImportId: 50309
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 Watermarks:

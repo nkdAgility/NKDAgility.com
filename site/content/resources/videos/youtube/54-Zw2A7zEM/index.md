@@ -1,13 +1,26 @@
 ---
+title: Scrum Master versus seasoned Agile Coach?
 short_title: Scrum Master vs Seasoned Agile Coach
 description: Compares the roles of Scrum Master and seasoned Agile Coach, highlighting differences in experience, responsibilities, and impact on organisational Agile adoption.
 date: 2023-06-27T11:00:03Z
-ResourceId: 54-Zw2A7zEM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+ResourceId: 54-Zw2A7zEM
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: scrum-master-versus-seasoned-agile-coach
+aliases:
+- /resources/54-Zw2A7zEM
+- /resources/videos/scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
+aliasesArchive:
+- /resources/videos/scrum-master-versus-seasoned-agile-coach
+- /resources/scrum-master-versus-seasoned-agile-coach
+- /resources/videos/scrum-master-versus-seasoned-agile-coach-
+- /resources/scrum-master-versus-seasoned-agile-coach-
+- scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
+source: internal
+layout: video
 concepts: []
 categories:
 - Uncategorized
@@ -18,21 +31,8 @@ sitemap:
 Watermarks:
   description: 2025-05-07T13:11:14Z
   short_title: 2025-07-07T17:54:19Z
-title: Scrum Master versus seasoned Agile Coach?
 videoId: 54-Zw2A7zEM
-source: internal
 url: /resources/videos/:slug
-slug: scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
-layout: video
-aliases:
-- /resources/54-Zw2A7zEM
-- /resources/videos/scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
-aliasesArchive:
-- /resources/videos/scrum-master-versus-seasoned-agile-coach
-- /resources/scrum-master-versus-seasoned-agile-coach
-- /resources/videos/scrum-master-versus-seasoned-agile-coach-
-- /resources/scrum-master-versus-seasoned-agile-coach-
-- scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 preview: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg
 duration: 55
 resourceTypes:

@@ -1,34 +1,20 @@
 ---
+title: "Transform Your Team's Skills: The Power of Immersive Learning in the Workplace"
 short_title: Immersive Learning for Workplace Skill Growth
 description: Discover how immersive learning boosts workplace skills by connecting theory to real tasks, encouraging feedback, and supporting growth through coaching and collaboration.
 date: 2023-07-31T07:00:12Z
-ResourceId: IcmNR--u-kg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
+ResourceId: IcmNR--u-kg
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:30Z
-  short_title: 2025-07-07T17:53:48Z
-title: "Transform Your Team's Skills: The Power of Immersive Learning in the Workplace"
-videoId: IcmNR--u-kg
-source: youtube
-url: /resources/videos/:slug
-slug: transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
-layout: video
+ResourceImportSource: Youtube
+slug: transform-your-team's-skills-the-power-of-immersive-learning-in-the-workplace
 aliases:
 - /resources/IcmNR--u-kg
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+- /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
 aliasesArchive:
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
@@ -36,6 +22,21 @@ aliasesArchive:
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
 - transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
+source: youtube
+layout: video
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:30Z
+  short_title: 2025-07-07T17:53:48Z
+videoId: IcmNR--u-kg
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 resourceTypes:

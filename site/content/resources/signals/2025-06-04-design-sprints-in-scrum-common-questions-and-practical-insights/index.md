@@ -11,8 +11,20 @@ ResourceContentOrigin: human
 slug: design-sprints-in-scrum-common-questions-and-practical-insights
 aliases:
 - /resources/8mcd8y-jiFX
-layout: signal
 source: LinkedIn
+layout: signal
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Frameworks
+- Operational Practices
+- Agile Planning
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7336051878457204736
@@ -27,18 +39,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:44Z
   short_title: 2025-07-07T16:43:43Z
-concepts:
-- Principle
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Agile Frameworks
-- Operational Practices
-- Agile Planning
 
 ---
 I’m still surprised how often I get asked about “Design Sprints” in Scrum. Let’s be clear—there are no special Sprints. No Sprint 0. No release Sprint. No hardening Sprint. And definitely no Design Sprint.

@@ -7,24 +7,14 @@ weight: 145
 ResourceId: _ncZFfeCrnS
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: testing-in-production-maximises-quality-and-value
 aliases:
 - /resources/_ncZFfeCrnS
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
-- name: Dave Westgarth
-  external: https://www.linkedin.com/in/dave-westgarth/
-- name: Vladimir Khvostov
-  external: https://www.linkedin.com/in/vladimirkhvostov/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
+layout: blog
 concepts:
 - Tool
 categories:
@@ -47,6 +37,16 @@ tags:
 - Value Delivery
 - Deployment Strategies
 - Frequent Releases
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+- name: Dave Westgarth
+  external: https://www.linkedin.com/in/dave-westgarth/
+- name: Vladimir Khvostov
+  external: https://www.linkedin.com/in/vladimirkhvostov/
+resourceTypes: blog
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 Watermarks:

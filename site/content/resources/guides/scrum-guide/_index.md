@@ -2,85 +2,85 @@
 title: The Scrum Guide
 short_title: The Scrum Guide
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
-author:
-  - Ken Schwaber
-  - Jeff Sutherland
 date: 2024-09-17
 weight: 690
 ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 slug: the-scrum-guide
 aliases:
-  - /guides/Scrum-Guide/
-  - /guides/Scrum-Guide.html
-  - /learn/agile-delivery-kit/guides/scrum-guide
-  - /resources/guides/_guides/scrum-guide.md
-  - /resources/59gcHh1fYtC
-  - /the-2020-scrum-guide/
+- /guides/Scrum-Guide/
+- /guides/Scrum-Guide.html
+- /learn/agile-delivery-kit/guides/scrum-guide
+- /resources/guides/_guides/scrum-guide.md
+- /resources/59gcHh1fYtC
+- /the-2020-scrum-guide/
 aliasesArchive:
-  - /guides/Scrum-Guide/
-  - /guides/Scrum-Guide.html
-  - /learn/agile-delivery-kit/guides/scrum-guide
-  - /resources/guides/_guides/scrum-guide.md
-  - /the-2020-scrum-guide/
-concepts:
-  - Framework
-categories:
-  - Scrum
-  - Product Development
-tags:
-  - Increment
-  - Professional Scrum
-  - Product Developer
-  - Transparency
-  - Agile Frameworks
-  - Scrum Team
-  - Empirical Process Control
-  - Agile Product Management
-  - Software Development
-  - Value Delivery
-  - Scrum Master
-  - Scrum Values
-  - Agile Planning
-  - Product Delivery
-  - Team Performance
-ResourceContentOrigin: Human
-resourceTypes: guide
+- /guides/Scrum-Guide/
+- /guides/Scrum-Guide.html
+- /learn/agile-delivery-kit/guides/scrum-guide
+- /resources/guides/_guides/scrum-guide.md
+- /the-2020-scrum-guide/
 layout: versioned
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
+tags:
+- Increment
+- Professional Scrum
+- Product Developer
+- Transparency
+- Agile Frameworks
+- Scrum Team
+- Empirical Process Control
+- Agile Product Management
+- Software Development
+- Value Delivery
+- Scrum Master
+- Scrum Values
+- Agile Planning
+- Product Delivery
+- Team Performance
+author:
+- Ken Schwaber
+- Jeff Sutherland
+resourceTypes: guide
 downloads:
-  - title: Scrum Guide 2020
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2020.pdf
-  - title: Scrum Guide 2017
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2017.pdf
-  - title: Scrum Guide 2016
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2016.pdf
-  - title: Scrum Guide 2013
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2013-07.pdf
-  - title: Scrum Guide 2011 v2
-    type: pdf
-    url: /assets/attachments/2011-07-Scrum_Guide.pdf
-  - title: Scrum Guide 2011
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2011-07.pdf
-  - title: Scrum Guide 2010
-    type: pdf
-    url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
+- title: Scrum Guide 2020
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2020.pdf
+- title: Scrum Guide 2017
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2017.pdf
+- title: Scrum Guide 2016
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2016.pdf
+- title: Scrum Guide 2013
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2013-07.pdf
+- title: Scrum Guide 2011 v2
+  type: pdf
+  url: /assets/attachments/2011-07-Scrum_Guide.pdf
+- title: Scrum Guide 2011
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2011-07.pdf
+- title: Scrum Guide 2010
+  type: pdf
+  url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
 references:
-  - title: The 2020 Scrum Guide
-    url: https://scrumguides.org/scrum-guide.html
+- title: The 2020 Scrum Guide
+  url: https://scrumguides.org/scrum-guide.html
 recommendedContent:
-  - collection: practices
-    path: _practices/definition-of-done-dod.md
-  - collection: practices
-    path: _practices/definition-of-ready-dor.md
+- collection: practices
+  path: _practices/definition-of-done-dod.md
+- collection: practices
+  path: _practices/definition-of-ready-dor.md
 videos:
-  - title: Overview of The Scrum Framework with Martin Hinshelwood
-    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+- title: Overview of The Scrum Framework with Martin Hinshelwood
+  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
 card:
   button:
@@ -97,8 +97,8 @@ cascade:
   build:
     list: false
     render: true
----
 
+---
 The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
 {: .lead}
 

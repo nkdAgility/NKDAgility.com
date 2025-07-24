@@ -5,10 +5,9 @@ description: Explains how the Sprint Goal guides Scrum teams by providing a clea
 date: 2020-11-27
 weight: 790
 ResourceId: 99LDtXqmRu5
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+layout: blog
 concepts:
 - Method
 categories:
@@ -30,10 +30,8 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Product Management
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45088
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 Watermarks:

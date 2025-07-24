@@ -7,20 +7,20 @@ weight: 1000
 ResourceId: pGqagcI_q5y
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: podcast
 layout: podcast
-Watermarks:
-  description: 2025-05-07T13:07:37Z
-  short_title: 2025-07-07T17:51:34Z
 concepts: []
 categories:
 - Uncategorized
 tags: []
+author: MrHinsh
+resourceTypes: podcast
+Watermarks:
+  description: 2025-05-07T13:07:37Z
+  short_title: 2025-07-07T17:51:34Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

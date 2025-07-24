@@ -1,12 +1,27 @@
 ---
+title: 'Special Sprints: Agile Banditry or Risk Management?'
 short_title: Special Sprints Undermine Agile Delivery
 description: Explores why special sprints like Sprint Zero or hardening sprints undermine Agile by delaying work, increasing risk, and reducing continuous delivery of usable products.
 date: 2024-01-04T11:09:15Z
-ResourceId: rEqytRyOHGI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
+ResourceId: rEqytRyOHGI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: special-sprints-agile-banditry-or-risk-management
+aliases:
+- /resources/rEqytRyOHGI
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
+- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+aliasesArchive:
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
+- /resources/special-sprints-agile-banditry-or-risk-management
+- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+- /resources/5-kinds-of-agile-bandits-special-sprints
+- special-sprints-agile-banditry-or-risk-management
+source: internal
+layout: video
 concepts:
 - Ethos
 categories:
@@ -26,29 +41,14 @@ tags:
 - Agile Strategy
 - Team Performance
 - Product Delivery
-ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:40Z
   short_title: 2025-07-07T17:50:29Z
-title: 'Special Sprints: Agile Banditry or Risk Management?'
 videoId: rEqytRyOHGI
-source: internal
 url: /resources/videos/:slug
-slug: special-sprints-agile-banditry-or-risk-management
-layout: video
-aliases:
-- /resources/rEqytRyOHGI
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-aliasesArchive:
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/5-kinds-of-agile-bandits-special-sprints
-- special-sprints-agile-banditry-or-risk-management
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 resourceTypes:

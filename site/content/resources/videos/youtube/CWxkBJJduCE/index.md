@@ -1,35 +1,15 @@
 ---
+title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
 short_title: TDD and Pair Programming in Software Architecture
 description: Explores how test-driven development and pair programming improve software architecture, code quality, team skills, and long-term productivity by reducing complexity and errors.
 date: 2024-11-19T16:55:41Z
-ResourceId: CWxkBJJduCE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 300
-concepts:
-- Practice
-categories:
-- Engineering Excellence
-tags:
-- Engineering Practices
-- Software Development
-- Technical Mastery
-- Test Driven Development
-- Technical Excellence
+ResourceId: CWxkBJJduCE
+ResourceImport: true
+ResourceType: videos
 ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:18Z
-  short_title: 2025-07-07T17:47:35Z
-title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
-videoId: CWxkBJJduCE
-source: youtube
-url: /resources/videos/:slug
-slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
-layout: video
+ResourceImportSource: Youtube
+slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliases:
 - /resources/CWxkBJJduCE
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
@@ -40,6 +20,26 @@ aliasesArchive:
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development
 - transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+source: youtube
+layout: video
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+tags:
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Test Driven Development
+- Technical Excellence
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:18Z
+  short_title: 2025-07-07T17:47:35Z
+videoId: CWxkBJJduCE
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 resourceTypes:

@@ -5,10 +5,9 @@ description: Explains how the Sprint Goal serves as an immediate tactical object
 date: 2021-01-11
 weight: 750
 ResourceId: sLRE2HdkUCS
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: sprint-goal-is-an-immediate-tactical-goal
 aliases:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
+layout: blog
 concepts: []
 categories:
 - Product Management
@@ -35,11 +35,9 @@ tags:
 - Agile Frameworks
 - Value Delivery
 - Product Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45310
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-agility-hypothesis-driven-2-2.jpg
 Watermarks:
