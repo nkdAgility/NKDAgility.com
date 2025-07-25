@@ -73,14 +73,16 @@ The page section system uses a router-based approach where:
 
 ## Documentation Status
 
-### ✅ Fully Documented (19 sections)
+### ✅ Fully Documented (23 sections)
 
 - [audiences](audiences-section-usage.md)
+- [boxesrow](boxesrow-section-usage.md)
 - [cards](cards-section-usage.md)
 - [casestudy](casestudy-section-usage.md)
 - [counters](counters-section-usage.md)
 - [courses](courses-section-usage.md)
 - [features](features-section-usage.md)
+- [headline](headline-section-usage.md)
 - [list](list-section-usage.md)
 - [options](options-section-usage.md)
 - [otherpages](otherpages-section-usage.md)
@@ -89,8 +91,10 @@ The page section system uses a router-based approach where:
 - [phases](phases-section-usage.md)
 - [quote](quote-section-usage.md)
 - [sectioncta](sectioncta-section-usage.md)
+- [symmetry](symmetry-section-usage.md)
 - [taxonomies](taxonomies-section-usage.md)
 - [taxonomies-card](taxonomies-card-section-usage.md)
+- [taxonomies-list](taxonomies-list-section-usage.md)
 - [textnlist](textnlist-section-usage.md)
 - [trustpilot](trustpilot-section-usage.md)
 - [types](types-section-usage.md)
