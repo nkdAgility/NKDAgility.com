@@ -38,6 +38,7 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "blog" } | Select-Object -First 5
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Signals" } | Select-Object -First 5
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Guides" } | Select-Object -First 5
+    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "course" } | Select-Object -First 5
     $relatedWrapper.related = $filteredRelated  | Sort-Object Similarity -Descending
     if ($relatedWrapper.related.Count -gt 0) {
         $relatedLocalCache = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
