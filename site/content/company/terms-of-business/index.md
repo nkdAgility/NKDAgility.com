@@ -54,7 +54,7 @@ You’re not buying hours. You’re retaining strategic capacity—continuous ac
 
 ### Engagement Levels
 
-Select your model, and then choose an engagement level based on your needs. Each level represents a percentage of our capacity, with indicative hours per week and typical involvement.
+Engagement levels are available across all models, allowing you to select the level of involvement that best suits your needs. Each level represents a percentage of our capacity, with indicative hours per week and typical involvement.
 
 {{< table "table table-striped table-bordered" >}}
 | **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
@@ -66,6 +66,8 @@ Select your model, and then choose an engagement level based on your needs. Each
 | **Strategic** | 75% | \~20–24 hrs | Transformation ownership, cross-team leadership, org-level impact |
 | **Full-time** | 100% | \~32 hrs | Not offered; equivalent to full-time role |
 {{< /table >}}
+
+> **Note**: The engagement level determines the percentage of our capacity allocated to your organisation, while the model defines the type of collaboration.
 
 The hours in the table are indicative and may vary based on the specific needs of the engagement. We focus on delivering value, not just filling time.
 

@@ -78,15 +78,21 @@ Some typical value propositions include:
 
 We will give you an indication of when we can start the engagement and how long it will take to complete. We will work with you to ensure that we can meet your deadlines and deliver the value that you expect.
 
-## Methodology and Options
+## Methodology and Models
 
-Our engagement is centred on enabling organisations to achieve engineering excellence and technical leadership. We provide deep expertise in Lean-Agile practices, modern software engineering, and DevOps to accelerate your teams' effectiveness. With deep technical knowledge of the Microsoft stack, Azure, AI, Azure DevOps, and Visual Studio, we ensure your teams can fully leverage modern tools and practices to drive high-performance software delivery.
+Our engagement is centred on enabling organisations to achieve engineering excellence and technical leadership. We offer three models to tailor our approach to your needs:
 
-Our approach includes hands-on consulting, immersive coaching, expert mentoring, and structured training, tailored to your specific needs.
+- **Advisory**: Strategic guidance and mentorship to shape direction and outcomes.
+- **Embedded**: Hands-on collaboration with delivery teams to improve practices and accelerate outcomes.
+- **Fractional Exec**: Executive-level involvement to drive transformation and align leadership with organisational goals.
+
+> **Engagement Levels**: Each model can be tailored with an engagement level that reflects the percentage of our capacity allocated to your organisation.
 
 Depending on the level of assistance and engagement required, we propose three options:
 
 ### Option 1: Basic Package (1 week)
+
+This option is ideal for organisations seeking **Advisory** or **Embedded** support to address specific challenges or bottlenecks.
 
 This strategic partnership is designed for organisations aiming to embed technical excellence, engineering discipline, and modern Agile practices at scale, with success measured by increased deployment frequency, reduced lead times, enhanced team autonomy, and improved software quality.
 
