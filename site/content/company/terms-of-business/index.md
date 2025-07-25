@@ -44,15 +44,27 @@ We work on a **timeboxed retainer** basis. You retain a percentage of our workin
 
 You’re not buying hours. You’re retaining strategic capacity—continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
 
+### Model Overview
+
+| **Model**           | **Description**                                                                                                                                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Advisory**        | Strategic support focused on direction, quality, and outcome shaping. Involves regular reviews, co-planning, and mentorship without deep operational involvement. Ideal when internal teams need guidance, not hands-on delivery.        |
+| **Embedded**        | Direct integration with delivery teams. Provides hands-on support, close collaboration, and technical or organisational coaching. Suitable for shaping delivery systems, improving practices, and accelerating outcomes.                 |
+| **Fractional Exec** | Executive-level involvement driving transformation across teams or domains. Includes ownership of change initiatives, leadership alignment, and outcomes at the organisational level. Acts as a temporary member of the leadership team. |
+
+### Engagement Levels
+
+Select your model, and then choose an engagement level based on your needs. Each level represents a percentage of our capacity, with indicative hours per week and typical involvement.
+
 {{< table "table table-striped table-bordered" >}}
 | **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
-| ------------------------ | ----- | ---------------- | --------------------------------------------------------- |
-| **Occasional** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
-| **Advisory** | 25% | \~7 hrs | Regular reviews, pairing, shaping delivery and direction |
-| **Embedded** | 50% | \~14-16 hrs | Deep collaboration, hands-on support, stakeholder contact |
-| **Fractional Exec** | 75% | \~20-24 hr | Transformation ownership, org-level impact |
-| **Full-time** | 100% | \~32 hrs | Not offered; full-time role equivalent |
-
+| -------------------- | ----- | ---------------- | ----------------------------------------------------------------- |
+| **Light** | 2.5% | \~0.5 hr | Very light touch, async-only, ad hoc input |
+| **Supportive** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
+| **Regular** | 25% | \~6–8 hrs | Regular reviews, pairing, shaping delivery and direction |
+| **Deep** | 50% | \~14–16 hrs | Deep collaboration, hands-on support, stakeholder engagement |
+| **Strategic** | 75% | \~20–24 hrs | Transformation ownership, cross-team leadership, org-level impact |
+| **Full-time** | 100% | \~32 hrs | Not offered; equivalent to full-time role |
 {{< /table >}}
 
 The hours in the table are indicative and may vary based on the specific needs of the engagement. We focus on delivering value, not just filling time.
@@ -149,11 +161,12 @@ Fees are all-inclusive for remote work.
 
 {{< table "table table-striped table-bordered" >}}
 | **Level** | **%** | **Weekly** | **Monthly** | **Quarterly** |
-| ------------------- | ------------- | ------------- | ------------- | ------------- |
-| **Occasional** | 5% | £567 | £1,192 | £2,470 |
-| **Advisory** | 25% | £6,800 | £14,300 | £29,500 |
-| **Embedded** | 50% | £13,600 | £28,600 | £59,000 |
-| **Fractional Exec** | 75% | _On request_ | _On request_ | _On request_ |
+| ------------------- | ----- | ------------- | ------------- | ------------- |
+| **Light** | 2.5% | £284 | £597 | £1,235 |
+| **Supportive** | 5% | £567 | £1,192 | £2,470 |
+| **Regular** | 25% | £6,800 | £14,300 | £29,500 |
+| **Deep** | 50% | £13,600 | £28,600 | £59,000 |
+| **Strategic** | 75% | _On request_ | _On request_ | _On request_ |
 | **Full-time** | 100% | _Not offered_ | _Not offered_ | _Not offered_ |
 {{< /table >}}
 
