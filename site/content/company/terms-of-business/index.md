@@ -11,6 +11,7 @@ menus:
       weight: 20
 aliases:
   - /terms/
+layout: informational
 headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
@@ -41,6 +42,8 @@ We work on a **timeboxed retainer** basis. You retain a percentage of our workin
 - **You control the pace** and can reschedule within the agreed timeframe.
 - **We collaborate continuously**, providing as much or as little direction as needed.
 - If you’re not satisfied with our work, **we’ll refund you—no questions asked**.
+
+> **Our Ethos**: At NKDAgility, we believe in delivering measurable outcomes through transparency, flexibility, and collaboration. Our goal is to empower your teams to achieve sustainable improvements while aligning with your strategic objectives.
 
 You’re not buying hours. You’re retaining strategic capacity—continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
 
