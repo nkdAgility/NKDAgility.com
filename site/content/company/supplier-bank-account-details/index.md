@@ -9,6 +9,7 @@ aliases:
 resources:
   - src: "./pdfs/account_details_proof_aud-20240625.pdf"
     name: "account_details_proof_aud-20240625.pdf"
+layout: informational
 headline:
   cards: []
   title: Supplier & Bank Account Details

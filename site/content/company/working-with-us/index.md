@@ -78,59 +78,82 @@ Some typical value propositions include:
 
 We will give you an indication of when we can start the engagement and how long it will take to complete. We will work with you to ensure that we can meet your deadlines and deliver the value that you expect.
 
-## Methodology and Options
+## Methodology and Models
 
-Our engagement is centred on enabling organisations to achieve engineering excellence and technical leadership. We provide deep expertise in Lean-Agile practices, modern software engineering, and DevOps to accelerate your teams' effectiveness. With deep technical knowledge of the Microsoft stack, Azure, AI, Azure DevOps, and Visual Studio, we ensure your teams can fully leverage modern tools and practices to drive high-performance software delivery.
+Our engagement is centred on enabling organisations to achieve engineering excellence and technical leadership. We offer three models to tailor our approach to your needs:
 
-Our approach includes hands-on consulting, immersive coaching, expert mentoring, and structured training, tailored to your specific needs.
+- **Advisory**: Strategic guidance and mentorship to shape direction and outcomes.
+- **Embedded**: Hands-on collaboration with delivery teams to improve practices and accelerate outcomes.
+- **Fractional Exec**: Executive-level involvement to drive transformation and align leadership with organisational goals.
 
-Depending on the level of assistance and engagement required, we propose three options:
+> **Our Ethos**: At NKDAgility, we believe in delivering measurable outcomes through transparency, flexibility, and collaboration. Our goal is to empower your teams to achieve sustainable improvements while aligning with your strategic objectives.
 
-### Option 1: Basic Package (1 week)
+### Value to the Customer
 
-This strategic partnership is designed for organisations aiming to embed technical excellence, engineering discipline, and modern Agile practices at scale, with success measured by increased deployment frequency, reduced lead times, enhanced team autonomy, and improved software quality.
+Our engagements are designed to deliver measurable outcomes while empowering your teams and aligning with your strategic goals. Some typical value propositions include:
 
-During this 5-day period, we will provide:
+#### Empowerment
 
-- **Targeted consulting and technical assistance** – addressing specific challenges such as Agile transformations, DevOps pipeline optimisation, or software architecture reviews.
-- **Training and knowledge transfer** – interactive sessions covering Agile, Scrum, Kanban, DevOps, Modern Engineering, and Microsoft tools such as Azure DevOps, Visual Studio, and AI-driven development.
-- **Tactical coaching and mentoring** – ensuring teams can immediately apply insights in their context.
+- Equip teams with the knowledge and skills to independently adopt best practices in Scrum, Kanban, and DevOps.
+- Establish a culture of continuous learning and improvement through regular training, workshops, and feedback loops.
 
-Ideal for organisations needing rapid intervention to address technical or process bottlenecks.
+#### Strategic Alignment
 
-### Option 2: Extended Package (1 month)
+- Provide clear, actionable insights through well-organized and visualized data to align tactical activities with long-term goals.
+- Enable the organisation to adapt quickly to changing market conditions and customer needs through flexible, responsive practices.
 
-A structured engagement focused on improving team capability and delivery effectiveness. This package balances hands-on consulting with targeted coaching and structured training.
+#### Continuous Improvement
 
-During the 30-day period, we will provide:
+- Streamline engineering tools into a single, transparent collection for easier oversight and improved efficiency.
+- Enhance technical capabilities and practices to deliver high-quality products and services that meet customer needs.
 
-- Everything from option 1
-- **Four in-depth training or workshop sessions on Lean, Agile, DevOps, Modern Engineering, and Microsoft tools (Azure, AI, Azure DevOps, and Visual Studio)**.
-- **Team and leadership coaching** – working directly with teams and leaders to embed best practices.
-- **Hands-on mentoring** – supporting engineers, Scrum Masters, Product Owners, and technical leads.
+### Engagement Levels
 
-Perfect for teams seeking to improve technical and Agile capability while establishing sustainable best practices.
+Engagement levels are available across all models, allowing you to select the level of involvement that best suits your needs. Each level represents a percentage of our capacity, with indicative hours per week and typical involvement.
 
-### Option 3: Strategic Partnership (90-day rolling engagement)
+{{< table "table table-striped table-bordered" >}}
+| **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
+| -------------------- | ----- | ---------------- | ----------------------------------------------------------------- |
+| **Light** | 2.5% | \~0.5 hr | Very light touch, async-only, ad hoc input |
+| **Supportive** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
+| **Regular** | 25% | \~6–8 hrs | Regular reviews, pairing, shaping delivery and direction |
+| **Deep** | 50% | \~14–16 hrs | Deep collaboration, hands-on support, stakeholder engagement |
+| **Strategic** | 75% | \~20–24 hrs | Transformation ownership, cross-team leadership, org-level impact |
+| **Full-time** | 100% | \~32 hrs | Not offered; equivalent to full-time role |
+{{< /table >}}
 
-This strategic partnership is designed for organisations aiming to embed technical excellence, engineering discipline, and modern Agile practices at scale.
+> [!NOTE]
+> The engagement level determines the percentage of our capacity allocated to your organisation, while the model defines the type of collaboration.
 
-This package includes:
+The hours in the table are indicative and may vary based on the specific needs of the engagement. We focus on delivering value, not just filling time.
 
-- Everything from Option 1 & 2
-- **Continuous coaching and mentoring** – ensuring teams and leaders sustain and evolve their practices.
-- **Unlimited targeted workshops on Agile, Lean, DevOps, Modern Engineering, AI-driven development, and Microsoft tools.**
-- **Technical strategy collaboration** – aligning engineering capability with business objectives.
-- **Embedded expert support** – actively guiding teams through change and helping them achieve high performance.
+### Service Scope & Change Flexibility
 
-Ideal for organisations looking to transform their technical leadership and engineering culture for long-term success.
+We don’t fix scope up front. We work within the constraints of the retainer and adapt continuously based on evolving needs.
 
-### Option Xtras: Strategic Partnership+
+- **No change orders.** We don’t treat new discoveries or emerging needs as exceptions.
+- **Responsive to context.** You can pivot, refocus, or pause direction as long as it fits within the retainer capacity.
+- **Collaborative planning.** We’ll inspect and adapt together to ensure we’re always working on what matters most.
 
-Enhance your experience with additional services offered at a reduced cost:
+You get flexibility without micromanagement. We get clarity without red tape.
 
-- **Mentor Programs** - We provide both Product Development and Product Management mentor programs from 8 to 41 weeks.
-- **Training Programs** – accredited training programs from Scrum.org, ProKanban.org, Agile Kata, and Lean Agile Procurement
+Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems—your ways of working—not just deliver tasks.
+
+- **No fixed deliverables.** We co-create outcomes within the agreed timebox.
+- **Refund guarantee.** If you’re not satisfied, we refund you.
+- **First-day risk reversal.** If you cancel after day one of a virtual or longer in-person engagement, only T\&E will be due.
+- **Full transparency.** We openly share progress, findings, and risks. You do the same.
+
+### Shared Responsibilities
+
+We succeed together. This means active, open collaboration between your team and ours.
+
+- **You provide access to the right people** – so we can explore context, align on goals, and inspect progress.
+- **We expect regular feedback and conversation** – to keep work aligned and adaptive.
+- **You commit to decisions and follow-through** – outcomes depend on timely action and focus.
+- **We share risks, insights, and discoveries** – transparently and frequently.
+
+When both sides are engaged, we make meaningful change happen.
 
 ## Payment Terms
 
@@ -143,3 +166,45 @@ Enhance your experience with additional services offered at a reduced cost:
 ## Acceptance
 
 Your signature on the proposal indicates acceptance of the proposal and the terms and conditions it contains. Alternatively, your initial payment per the terms above will also represent acceptance of this proposal.
+
+## Engagement Options
+
+We offer three engagement options tailored to your needs, combining the flexibility of our models with the depth of our engagement levels:
+
+#### **Option 1: Weekly Engagement**
+
+- Ideal for short-term, focused support or advisory needs.
+- Best suited for organisations requiring light or supportive engagement levels.
+- Provides flexibility to address immediate challenges or opportunities.
+
+#### **Option 2: Monthly Partnership**
+
+- Designed for ongoing collaboration and regular involvement.
+- Suitable for organisations seeking regular or deep engagement levels.
+- Enables consistent progress and alignment with strategic goals.
+
+#### **Option 3: Quarterly Transformation**
+
+- Focused on driving significant organisational change and transformation.
+- Best for organisations requiring strategic engagement levels.
+- Provides the capacity and commitment needed for impactful outcomes.
+
+Each option is built on our ethos of delivering measurable outcomes through transparency, flexibility, and collaboration. Choose the option that aligns with your goals and priorities.
+
+### Optional Extras
+
+In addition to our core engagement options, we offer the following optional extras to enhance your experience and outcomes:
+
+#### **Mentoring**
+
+- One-on-one or team mentoring sessions to deepen understanding and application of Agile, Scrum, Kanban, and DevOps practices.
+- Tailored guidance to address specific challenges or skill gaps.
+- Available as an add-on to any engagement option.
+
+#### **Training**
+
+- Comprehensive training sessions designed to upskill your teams in Agile, Scrum, Kanban, DevOps, and technical excellence.
+- Customised content to align with your organisational goals and challenges.
+- Discounts available for quarterly retainers.
+
+These extras are designed to provide additional value and support, ensuring that your teams are fully equipped to achieve their goals.

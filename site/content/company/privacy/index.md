@@ -5,6 +5,7 @@ draft: false
 description: "Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools."
 aliases:
   - /privacy/
+layout: informational
 headline:
   cards: []
   title: naked Agility Ltd. Privacy Policy

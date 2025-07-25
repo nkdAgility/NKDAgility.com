@@ -14,17 +14,19 @@
 }}
 
 {{ if eq .Type "alert" }}
-  <div class="alert alert-{{ index $alertTypes .AlertType | default "secondary" }}" role="alert">
+  <div class="alert alert-{{ index $alertTypes .AlertType | default "secondary" }} subtle-alert" role="alert">
     {{ with .AlertTitle }}
-      <h4 class="alert-heading">
-        {{ index $alertEmoji .AlertType }}{{ if index $alertEmoji .AlertType }}{{ end }}{{ . }}
-      </h4>
+      <h5 class="alert-heading subtle-heading">
+        {{ index $alertEmoji .AlertType }}
+        {{ . }}
+      </h5>
     {{ else }}
-      <h4 class="alert-heading">
-        {{ index $alertEmoji .AlertType }}{{ if index $alertEmoji .AlertType }}{{ end }}{{ .AlertType | title }}
-      </h4>
+      <h5 class="alert-heading subtle-heading">
+        {{ index $alertEmoji .AlertType }}
+        {{ .AlertType | title }}
+      </h5>
     {{ end }}
-    {{ .Text | safeHTML }}
+    <p class="subtle-text">{{ .Text | safeHTML }}</p>
   </div>
 {{ else }}
   <blockquote class="blockquote">
