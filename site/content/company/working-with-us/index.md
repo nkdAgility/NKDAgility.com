@@ -122,7 +122,8 @@ Engagement levels are available across all models, allowing you to select the le
 | **Full-time** | 100% | \~32 hrs | Not offered; equivalent to full-time role |
 {{< /table >}}
 
-> **Note**: The engagement level determines the percentage of our capacity allocated to your organisation, while the model defines the type of collaboration.
+> [!NOTE]
+> The engagement level determines the percentage of our capacity allocated to your organisation, while the model defines the type of collaboration.
 
 The hours in the table are indicative and may vary based on the specific needs of the engagement. We focus on delivering value, not just filling time.
 
