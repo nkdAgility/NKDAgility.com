@@ -8,11 +8,10 @@
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
-    <script src="https://app.termly.io/resource-blocker/8bfd9df8-10f3-48d6-8543-802e916c4a5c?autoBlock=on"></script>
-    <!-- Place this as the very first thing in your <head>, before any CSS -->
-    <script src="{{- "js/appearance-switcher-preset.js" | relURL }}"></script>
-    <!-- Google Tag Manager -->
     {{- if ne hugo.Environment "development" }}
+      <!-- termly.io-->
+      <script src="https://app.termly.io/resource-blocker/8bfd9df8-10f3-48d6-8543-802e916c4a5c?autoBlock=on"></script>
+      <!-- Google Tag Manager -->
       <script>
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
@@ -27,15 +26,20 @@
       </script>
     {{- end }}
     <!-- End Google Tag Manager -->
+    <!-- Place this as the very first thing in your <head>, before any CSS -->
+    <script src="{{- "js/appearance-switcher-preset.js" | relURL }}"></script>
+
     {{- partial "infrastructure/head.html" . }}
   </head>
   <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#">
-    {{- partial "components/site-icon-globals.html" . }}
-    <!-- Google Tag Manager (noscript) -->
     {{- if ne hugo.Environment "development" }}
+      <!-- Google Tag Manager (noscript) -->
       <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRVT65" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
     {{- end }}
-    <!-- End Google Tag Manager (noscript) -->
+
+    {{- partial "components/site-icon-globals.html" . }}
+
     {{- partial "infrastructure/header.html" . }}
 
     {{- block "breadcrumbs" . }}
