@@ -19,7 +19,8 @@ delivery_audiences:
   - OKR Champions
   - Team Leaders
 code: OMP
-course_proficiencies: [beginner]
+course_proficiencies:
+  - beginner
 sections:
   - type: none
     title: OKR Practitioner
@@ -56,7 +57,7 @@ sections:
     content: |
       - **2 hours** of content
       - **5 chapters**, **35+ lessons**, **5 mini-quizzes**
-      - Designed and taught by **Alex Ballarin**, an OKR & Agile coach with 20+ years of experience
+      - Designed and taught by **Martin Hinshelwood**, an OKR & Agile coach with 20+ years of experience
   - type: none
     title: What's Included
     content: |
@@ -69,3 +70,57 @@ sections:
     content: |
       By the end of this course, you'll be confident in applying OKRs to improve alignment, increase focus, and support measurable progress in any team or organisation.
 ---
+
+# OKR Practitioner
+
+**Course Code:** OMP
+
+## Overview
+
+A practical course designed to help individuals and teams confidently apply the OKR framework in real-world settings. Gain clarity on how OKRs work, how to use them to drive meaningful progress, and how to integrate them into your team’s everyday routines.
+
+## Target Audience
+
+- Employees seeking clarity and focus
+- Emerging OKR Champions supporting adoption
+- Leaders at strategic, tactical, or operational levels
+
+## Learning Outcomes
+
+- Understand the core principles behind OKRs
+- Craft strong Objectives and measurable Key Results
+- Integrate OKRs into day-to-day work
+- Identify and avoid common OKR pitfalls
+
+## Course Topics
+
+- OKR principles and foundations
+- Writing effective Objectives and Key Results
+- Integrating OKRs into team routines
+- Common challenges and solutions
+
+## Delivery Format
+
+- Live online sessions complemented by self-paced learning
+- 2 hours of content
+- 5 chapters, 35+ lessons, 5 mini-quizzes
+
+## Proficiency Level
+
+Beginner
+
+## Course Length
+
+Approx. 2 hours
+
+## Trainer/Designer
+
+Alex Ballarin (OKR & Agile coach with 20+ years of experience)
+
+## Vendor
+
+OKRMentors
+
+## Certification
+
+OKRMentors OKR Practitioner Certification
