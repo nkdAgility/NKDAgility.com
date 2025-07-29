@@ -12,36 +12,36 @@ type: course
 slug: managing-projects-using-visual-studio-and-scrum-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- /training-courses/managing-projects-using-visual-studio-and-scrum
-- /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
-- /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
-- /resources/QjDoUAyMmas
+  - /training-courses/managing-projects-using-visual-studio-and-scrum
+  - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
+  - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
+  - /resources/QjDoUAyMmas
 aliasesArchive:
-- /training-courses/managing-projects-using-visual-studio-and-scrum
-- /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
-- /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
+  - /training-courses/managing-projects-using-visual-studio-and-scrum
+  - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
+  - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
 course-topics:
-- Azure DevOps Training Courses
-course-vendors:
-- Accentient
+  - Azure DevOps Training Courses
+course_vendors:
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Managers
-- Teams
+  - Product Managers
+  - Teams
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Product Delivery
-- Professional Scrum
-- Software Development
-- Team Collaboration
-- Working Software
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Product Delivery
+  - Professional Scrum
+  - Software Development
+  - Team Collaboration
+  - Working Software
 categories: []
-preview: 
+preview:
 previewIcon: A-MPVS.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -49,7 +49,7 @@ card:
   content: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
 code: MPVS
 level: intermediate
-introduction: 
+introduction:
 overview: Product Owners, Scrum Masters, developers, testers, architects, business analysts, team leaders, and managers who want to improve the way their software is delivered should attend this class. Both technical and non‐technical people will benefit from the discussions. Having some project management and software development experience, either as a team member or as a project manager, is preferred. Experience with Agile software development, Scrum and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](https://scrumguides.com).
 outcomes: |
   1. The Scrum Framework
@@ -62,14 +62,12 @@ outcomes: |
   8. Agile Software Testing
   9. Agile Software Development
   10. Reporting
-assessment: 
+assessment:
 objectives: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
 prerequisites: Have read the Scrum Guide and worked on a team in Azure DevOps.
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
-

@@ -10,35 +10,35 @@ weight: 1000
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-stakeholders-training
-url: 
+url:
 aliases:
-- /training-courses/scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
-- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
-- /resources/33qyqKjBf3T
+  - /training-courses/scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+  - /resources/33qyqKjBf3T
 aliasesArchive:
-- /training-courses/scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
-- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+  - /training-courses/scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
 course-topics:
-- Scrum Training Courses
-course-vendors:
-- Accentient
+  - Scrum Training Courses
+course_vendors:
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Managers
+  - Product Managers
 tags:
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Software Development
+  - Agile Frameworks
+  - Agile Product Management
+  - Agile Transformation
+  - Professional Scrum
+  - Software Development
 categories:
-- Scrum
-preview: 
+  - Scrum
+preview:
 previewIcon: A-S4S.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -69,14 +69,14 @@ outcomes: |2+
   7. New Ways of Measuring Success
   8. Roadmap
 
-assessment: 
-objectives: 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+assessment:
+objectives:
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.

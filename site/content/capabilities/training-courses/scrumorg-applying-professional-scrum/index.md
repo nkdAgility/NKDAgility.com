@@ -35,7 +35,7 @@ aliasesArchive:
   - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
 course-topics:
   - Scrum Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Immersive

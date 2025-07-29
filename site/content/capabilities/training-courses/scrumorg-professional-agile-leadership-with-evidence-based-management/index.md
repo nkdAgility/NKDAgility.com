@@ -29,7 +29,7 @@ aliasesArchive:
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 course-topics:
   - Scrum Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Traditional

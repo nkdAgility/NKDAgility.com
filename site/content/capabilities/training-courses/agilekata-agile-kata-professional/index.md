@@ -10,33 +10,33 @@ weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: agile-kata-professional
-url: 
+url:
 aliases:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
-- /resources/p62cJsAjQNw
+  - /training-courses/agile-workshops/agile-kata-professional/
+  - /akp/
+  - /resources/p62cJsAjQNw
 aliasesArchive:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
+  - /training-courses/agile-workshops/agile-kata-professional/
+  - /akp/
 course-topics:
-- Agile Training Courses
-course-vendors:
-- Agile Kata
+  - Agile Training Courses
+course_vendors:
+  - Agile Kata
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Teams
+  - Teams
 tags:
-- Agile Frameworks
-- Agile Transformation
-- Operational Practices
-- Organisational Agility
-- Organisational Change
-- Software Development
+  - Agile Frameworks
+  - Agile Transformation
+  - Operational Practices
+  - Organisational Agility
+  - Organisational Change
+  - Software Development
 categories: []
 preview: NKDAgility-Courses-AKP-16x9-1.jpg
 previewIcon: AgileKataProLevel1.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -44,7 +44,7 @@ card:
   content: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
 code: AKP1
 level: intermediate
-introduction: 
+introduction:
 overview: |2+
 
   - Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.
@@ -52,8 +52,8 @@ overview: |2+
   - Agile Leaders interested to improve business agility and agile culture.
   - Business leaders interested in learning about a pattern to increase business agility
 
-outcomes: 
-assessment: 
+outcomes:
+assessment:
 objectives: |2+
 
   - Understanding and practicing the Agile Kata pattern.
@@ -65,14 +65,14 @@ objectives: |2+
   - Understand the role of an Agile Coach in the Agile Kata.
   - Define a first step to increase business agility in your organization using the Agile Kata.
 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 The current track record of agile transformations is not very promising. 75% of all agile transformations fail to achieve their goals and therefore missing out on the huge positive impact it has on employee engagement, customer satisfaction, operational performance and time-to-market (McKinsey 2022). Is it because companies see Agile as a business process update and not as a cultural shift?
 
 Is Business Agility a huge buzzword in your organization, which is difficult to break down into digestible pieces? Or, are your existing agile teams looking for new ways of triggering organizational change or looking for a new way of working? The list of challenges can be long.

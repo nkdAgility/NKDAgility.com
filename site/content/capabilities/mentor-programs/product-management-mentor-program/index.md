@@ -9,7 +9,7 @@ slug: product-management-mentor-program
 aliases:
   - /capabilities/product-management-mentor-program/
   - /NKD-PMMP/
-course-vendors:
+course_vendors:
   - NKDAgility
 course-learning-experiences:
   - Immersive

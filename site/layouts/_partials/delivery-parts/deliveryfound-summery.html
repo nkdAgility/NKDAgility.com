@@ -6,8 +6,7 @@
       <div class="card h-100">
         <div class="card-header" {{- if .Params.brandColour }}style="color: white;background-color: {{- .Params.brandColour }}"{{- end }}>
           {{- .Params.code }} |
-          {{- $courseVendors := index .Params "course-vendors" }}
-          {{- range $index, $vendor := $courseVendors }}
+          {{- range $index, $vendor := .Params.course_vendors }}
             {{- if gt $index 0 }},{{- end }}{{- $vendor }}
           {{- end }}
           |

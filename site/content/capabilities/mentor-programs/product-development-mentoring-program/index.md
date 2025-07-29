@@ -10,7 +10,7 @@ aliases:
   - /capabilities/product-development-mentoing-program/
   - /capabilities/product-development-mentoring-program/
   - /NKD-PDMP/
-course-vendors:
+course_vendors:
   - NKDAgility
 course-learning-experiences:
   - Immersive

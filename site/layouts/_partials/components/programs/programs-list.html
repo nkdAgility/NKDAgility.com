@@ -19,9 +19,9 @@
         <div class="card-body d-flex flex-column position-relative">
           <div class="mb-2 card-top-bits">
             <small>
-              {{ with index .Params "course-vendors" }}
+              {{ with index .Params.course_vendors }}
                 {{ $vendorName := index . 0 }}
-                {{ $vendorTerm := partial "functions/get-taxonomy-page" (dict "taxonomyName" "course-vendors" "termName" $vendorName "site" site) }}
+                {{ $vendorTerm := partial "functions/get-taxonomy-page" (dict "taxonomyName" "course_vendors" "termName" $vendorName "site" site) }}
                 {{ if $vendorTerm }}
                   <a href="{{ $vendorTerm.Permalink }}" class="text-decoration-none"> <span aria-label="Program Vendors" itemprop="provider">{{ $vendorTerm.Params.short_title | default $vendorTerm.Title }}</span> </a>
                 {{ else }}
@@ -112,7 +112,7 @@
           {{ if .Params.course_length }}
             <meta itemprop="totalTime" content="PT{{ .Params.course_length }}H" />
           {{ end }}
-          {{ with index .Params "course-vendors" }}
+          {{ with .Params.course_vendors }}
             {{ range . }}
               <meta itemprop="provider" content="{{ . }}" />
             {{ end }}

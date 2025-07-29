@@ -13,47 +13,47 @@ type: course
 slug: professional-scrum-product-owner-advanced-pspo-a-online-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-product-owner-advanced
-- /training-courses/professional-scrum-product-owner-advanced-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
-- /resources/-JfGj8NOcre
+  - /training-courses/professional-scrum-product-owner-advanced
+  - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /resources/-JfGj8NOcre
 aliasesArchive:
-- /training-courses/professional-scrum-product-owner-advanced
-- /training-courses/professional-scrum-product-owner-advanced-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /training-courses/professional-scrum-product-owner-advanced
+  - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
 course-topics:
-- Scrum Training Courses
-course-vendors:
-- Scrum.org
+  - Scrum Training Courses
+course_vendors:
+  - Scrum.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Entrepreneurs
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Entrepreneurs
 tags:
-- Product Owner
-- Agile Product Management
-- Pragmatic Thinking
-- Product Discovery
-- Software Development
-- Value Delivery
-- Product Strategy
+  - Product Owner
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Product Discovery
+  - Software Development
+  - Value Delivery
+  - Product Strategy
 categories:
-- Product Management
-- Scrum
+  - Product Management
+  - Scrum
 preview: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
 previewIcon: PSPOA-400x.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
   title: Advanced Professional Scrum Product Owner (PSPO-A) Course with Certification
-  content: 'Mastering the Product Owner Stances: Professional Scrum Product Owner™ - Advanced (PSPO-A) is a hands-on, activity-based course that focuses on helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders.'
+  content: "Mastering the Product Owner Stances: Professional Scrum Product Owner™ - Advanced (PSPO-A) is a hands-on, activity-based course that focuses on helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders."
 code: PSPO-A
 level: advanced
 introduction: |
@@ -98,7 +98,7 @@ outcomes: |2+
   - Agile governance, budgeting and contracting in relation to Scrum
   - Scaling the Product Owner role
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Experienced Product Owners will learn different stances a Product Owner takes in order to navigate everyday challenges
@@ -106,14 +106,14 @@ objectives: |2+
   - Students will leave with a clear understanding of Agile Product Management as they continue on their Product Owner journey
   - Learn about the various types of stakeholders that Product Owners represent and how to best work with them.
 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 Professional Scrum Product Owner™ - Advanced (PSPO-A) training experience uses a unique blend of self-paced learning, live classroom hands-on activity-based exercises, and community-based aftercare helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders. The course goes beyond the topics explored in the [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) class deepening the attendee's understanding of the role by exploring the many stances of a professional Product Owner. Students should have at least one year of Product Owner experience and practical knowledge of Scrum in order to participate in and benefit from these exercises. Having previously taken the PSPO class is recommended but not required.
 
 - Session 1: The Stances of the Product Owner & The Customer Representative

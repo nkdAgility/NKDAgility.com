@@ -12,41 +12,41 @@ type: course
 slug: continuous-delivery-using-azure-devops-services-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- /training-courses/continuous-delivery-using-azure-devops-services
-- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
-- /resources/Et_C1UNbGdO
+  - /training-courses/continuous-delivery-using-azure-devops-services
+  - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+  - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+  - /resources/Et_C1UNbGdO
 aliasesArchive:
-- /training-courses/continuous-delivery-using-azure-devops-services
-- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+  - /training-courses/continuous-delivery-using-azure-devops-services
+  - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+  - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 course-topics:
-- Azure DevOps Training Courses
-course-vendors:
-- Accentient
+  - Azure DevOps Training Courses
+course_vendors:
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Developers
+  - Developers
 tags:
-- Azure DevOps
-- Continuous Learning
-- Engineering Practices
-- Frequent Releases
-- Market Adaptability
-- Operational Practices
-- Product Delivery
-- Software Development
-- Team Collaboration
-- Technical Excellence
-- Technical Mastery
-- Value Delivery
-- Working Software
+  - Azure DevOps
+  - Continuous Learning
+  - Engineering Practices
+  - Frequent Releases
+  - Market Adaptability
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Team Collaboration
+  - Technical Excellence
+  - Technical Mastery
+  - Value Delivery
+  - Working Software
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 preview: pipelines-icon-80.png
 previewIcon: A-CDADS.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -54,7 +54,7 @@ card:
   content: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
 code: cdads
 level: intermediate
-introduction: 
+introduction:
 overview: This course is intended for experienced software development professionals who want to learn about DevOps in order to achieve Continuous Integration, Continuous Delivery, Continuous Feedback, and Continuous Learning in a technical value stream as supported by Azure DevOps Services, Visual Studio, and Azure in order to continually deliver working software at scale. Students will also install and evaluate several extensions from the Azure DevOps Marketplace. Those who use the on-premises version of Azure DevOps Server (Team Foundation Server/TFS) will also benefit from this course. Attendees should be familiar with Visual Studio, Scrum, and have basic experience with Azure DevOps Services, Visual Studio Team Services or Team Foundation Server.
 outcomes: |2+
 
@@ -66,14 +66,12 @@ outcomes: |2+
   6. Empowering the Product Owner
   7. Learning and Improving Continuously
 
-assessment: 
-objectives: 'This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>'
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+assessment:
+objectives: "This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>"
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
-

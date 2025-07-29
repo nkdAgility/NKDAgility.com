@@ -10,41 +10,41 @@ weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-product-owners-training
-url: 
+url:
 aliases:
-- /training-courses/scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
-- /capabilities/training-courses/accentient/scrum-for-product-owners-training
-- /resources/qVBmvY9STVE
+  - /training-courses/scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+  - /resources/qVBmvY9STVE
 aliasesArchive:
-- /training-courses/scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
-- /capabilities/training-courses/accentient/scrum-for-product-owners-training
+  - /training-courses/scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
 course-topics:
-- Scrum Training Courses
-course-vendors:
-- Accentient
+  - Scrum Training Courses
+course_vendors:
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Entrepreneurs
-- Product Managers
+  - Entrepreneurs
+  - Product Managers
 tags:
-- Agile Frameworks
-- Agile Product Management
-- Backlog Refinement
-- Product Backlog
-- Product Owner
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
+  - Agile Frameworks
+  - Agile Product Management
+  - Backlog Refinement
+  - Product Backlog
+  - Product Owner
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Performance
 categories:
-- Scrum
-- Product Management
-preview: 
+  - Scrum
+  - Product Management
+preview:
 previewIcon: A-S4PO.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -75,14 +75,14 @@ outcomes: |2+
   5. Getting “Done”
   6. Improving as a team
 
-assessment: 
-objectives: 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+assessment:
+objectives:
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.

@@ -12,49 +12,49 @@ type: course
 slug: applying-flow-metrics-for-scrum
 url: /training-courses/kanban-training-courses/:slug/
 aliases:
-- /training-courses/applying-flow-metrics-for-scrum/
-- /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
-- /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-- /resources/Ej_UgfRAGhZ
+  - /training-courses/applying-flow-metrics-for-scrum/
+  - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
+  - /resources/Ej_UgfRAGhZ
 aliasesArchive:
-- /training-courses/applying-flow-metrics-for-scrum/
-- /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
-- /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
+  - /training-courses/applying-flow-metrics-for-scrum/
+  - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
 course-topics:
-- Kanban Training Courses
-course-vendors:
-- ProKanban.org
+  - Kanban Training Courses
+course_vendors:
+  - ProKanban.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 tags:
-- Flow Efficiency
-- Metrics and Learning
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Cycle Time
-- Empirical Process Control
-- Forecasting
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
-- Throughput
-- Value Delivery
-- Product Backlog
-- Scrum Master
+  - Flow Efficiency
+  - Metrics and Learning
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Cycle Time
+  - Empirical Process Control
+  - Forecasting
+  - Operational Practices
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Performance
+  - Throughput
+  - Value Delivery
+  - Product Backlog
+  - Scrum Master
 categories:
-- Scrum
+  - Scrum
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
-brandColour: 
+brandColour:
 course-topic: Professional Kanban
 card:
   button:
@@ -63,7 +63,7 @@ card:
   content: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
 code: AFMS
 level: intermediate
-introduction: 
+introduction:
 overview: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
 outcomes: |2-
 
@@ -73,7 +73,7 @@ outcomes: |2-
   4. **Getting Started with Flow Metrics**: A step-by-step guide on initiating Flow Metrics in your Scrum team. This includes practical advice on what data is crucial, effective methods for data collection, and techniques for mining and interpreting this data to enhance Scrum practices.
 
    This focused approach ensures that participants not only grasp the theoretical aspects of Flow Metrics but also gain hands-on experience in applying these concepts effectively within their Scrum teams.
-assessment: 
+assessment:
 objectives: |-
   Upon completing the course, participants will possess the following capabilities: 
   1. **Precise Sprint Planning**: Proficiently leverage metrics to enhance the accuracy of Sprint Planning. Participants will acquire the skills to use data-driven insights to determine realistic Sprint goals and commitments, optimizing the team's workflow and delivery efficiency.
@@ -84,13 +84,13 @@ objectives: |-
 
    By mastering these objectives, participants will be well-prepared to apply flow metrics effectively within their Scrum teams, leading to more efficient planning, enhanced daily Scrum activities, improved progress tracking, measurable team enhancements, and streamlined Product Backlog Item refinement processes.
 prerequisites: There are no specific prerequisites for this course, making it accessible to participants at various levels of Scrum experience. However, a basic understanding of Scrum principles and Agile practices would be beneficial to fully grasp the content.
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 In the "Applying Flow Metrics for Scrum" course, participants embark on an immersive learning journey, uniquely designed to integrate flow metrics into their Scrum practices. This course delves deeply into the vital flow metrics such as Work in Progress (WIP), Cycle Time, Work Item Age, and Throughput, unraveling their significance and application in the Scrum framework. Over several weeks, the course unfolds in an interactive, engaging format, blending theoretical understanding with practical, real-world application. Each session is tailored to not just impart knowledge but also to enable participants to directly apply these insights into their ongoing Scrum projects, ensuring immediate applicability and relevance.
 
 The course is structured to facilitate a reflective and collaborative learning environment. After each interactive session, participants engage in reflective practices to assess the integration of these metrics in their Scrum activities, fostering a deeper understanding and continuous improvement in their approach. This unique format enhances the learning experience, allowing participants to gradually assimilate and apply complex concepts within their professional context. By the end of the course, learners are not just equipped with the knowledge of flow metrics but are also proficient in applying these metrics to optimize their Scrum events, improve team efficiency, and drive better project outcomes, making this course an invaluable asset for Scrum practitioners aiming to elevate their Agile practices.

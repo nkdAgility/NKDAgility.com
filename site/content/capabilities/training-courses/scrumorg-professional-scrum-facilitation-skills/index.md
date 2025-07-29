@@ -21,7 +21,7 @@ aliasesArchive:
   - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
 course-topics:
   - Scrum Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Traditional

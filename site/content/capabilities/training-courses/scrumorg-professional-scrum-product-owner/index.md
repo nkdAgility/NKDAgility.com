@@ -27,7 +27,7 @@ aliasesArchive:
   - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
 course-topics:
   - Scrum Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Immersive

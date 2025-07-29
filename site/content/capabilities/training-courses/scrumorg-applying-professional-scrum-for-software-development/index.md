@@ -39,7 +39,7 @@ aliasesArchive:
   - /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 course-topics:
   - Scrum Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Immersive

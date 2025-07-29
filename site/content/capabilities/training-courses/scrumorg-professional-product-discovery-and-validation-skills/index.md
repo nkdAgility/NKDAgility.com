@@ -24,7 +24,7 @@ aliasesArchive:
 course-topics:
   - Scrum Training Courses
   - Product Training Courses
-course-vendors:
+course_vendors:
   - Scrumorg
 course-learning-experiences:
   - Traditional
