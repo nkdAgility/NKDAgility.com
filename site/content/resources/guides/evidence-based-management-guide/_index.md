@@ -1,43 +1,44 @@
 ---
-title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
 short_title: Evidence-Based Management Guide
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
 date: 2024-05-01
 weight: 390
 author:
-- Scrum.org
+  - Scrum.org
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
 aliases:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
-- /resources/ltc7lzhy14U
+  - /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
+  - /resources/ltc7lzhy14U
 aliasesArchive:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 layout: versioned
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Strategic Goals
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Metrics and Learning
-- Value Delivery
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Organisational Agility
-- Product Strategy
-- Software Development
-- Enterprise Agility
-- Common Goals
+  - Customer Focus
+  - Strategic Goals
+  - Decision Making
+  - Evidence Based Leadership
+  - Evidence Based Management
+  - Metrics and Learning
+  - Value Delivery
+  - Agile Product Management
+  - Agile Strategy
+  - Business Agility
+  - Organisational Agility
+  - Product Strategy
+  - Software Development
+  - Enterprise Agility
+  - Common Goals
 card:
   button:
     content: Learn More
@@ -47,8 +48,8 @@ Watermarks:
   description: 2025-05-07T12:57:55Z
   short_title: 2025-07-07T16:40:37Z
 resourceTypes: guide
-recommendedContent: 
-videos: 
+recommendedContent:
+videos:
 creator: Martin Hinshelwood
 build:
   list: true
@@ -57,8 +58,8 @@ cascade:
   build:
     list: false
     render: true
-
 ---
+
 ## The Evidence-Based Management Guide
 
 **Improving Value Delivery under Conditions of Uncertainty**
@@ -140,7 +141,6 @@ The Experiment Loop (shown in Figure 1) helps organizations move from their Curr
 - **Running your experiments**. Make the change you think will help you to improve, and gather data to support or refute your hypothesis.
 - **Inspecting your results**. Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.
 - **Adapting your goals or your approach based on what you learned**. Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization's capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example:
-
   - Was the Immediate Tactical Goal the right goal?
   - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted?
   - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time?
