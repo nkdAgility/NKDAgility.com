@@ -25,6 +25,7 @@ course_vendors:
   - Scrumorg
 course_learning_experiences:
   - Traditional
+  - Immersive
 delivery_audiences:
   - Product Owners
   - Product Managers
@@ -50,7 +51,7 @@ card:
   title: Professional Scrum Facilitation Skills (PSFS) with Certification
   content: Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
 code: PSFS
-level: advanced
+level: intermediate
 introduction:
 overview: |+
   This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 
