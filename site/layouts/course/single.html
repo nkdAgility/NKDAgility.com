@@ -52,6 +52,11 @@
 {{- end }}
 
 {{- define "main" }}
+  {{- if .Params.sections}}
+    <div class="courses-main">
+      {{- partial "page-sections/sections.html" . }}
+    </div>
+  {{ end}}
   {{- if .Page.Params.introduction }}
     <section class="container my-4 container-content-wide">
       {{- .Page.Params.introduction | markdownify }}
