@@ -34,7 +34,7 @@ course_vendors:
   - Scrum.org
 course_learning_experiences:
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Managers
   - Scrum Masters
   - Lean Agile Practitioners

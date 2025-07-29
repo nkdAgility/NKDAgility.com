@@ -139,7 +139,7 @@ course_code: "PSM" # Unique course identifier (e.g., "APS", "PAL-E") Load from `
 course_length: 16 # Total course duration in hours
 course_sessions: 8 # Number of sessions (typically course_length / 2)
 description: "Course description and learning objectives..."
-delivery-audiences: # Target audience list
+delivery_audiences: # Target audience list
   - "Scrum Masters"
   - "Product Owners"
 course_learning_experiences:

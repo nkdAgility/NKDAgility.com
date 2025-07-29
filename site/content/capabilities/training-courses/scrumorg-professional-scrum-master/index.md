@@ -34,11 +34,11 @@ course_vendors:
 course_learning_experiences:
   - Immersive
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Managers
   - Scrum Masters
   - Lean Agile Practitioners
-delivery-audiences_weight: 100
+delivery_audiences_weight: 100
 tags:
   - Scrum Master
   - Agile Frameworks

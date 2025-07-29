@@ -11,26 +11,26 @@ ResourceImportOriginalSource: Wordpress
 ResourceType: blog
 slug: hiring-a-professional-scrum-master
 aliases:
-- /blog/hiring-a-professional-scrum-master
-- /hiring-a-professional-scrum-master
-- /resources/1EEAZ-ldcTz
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/hiring-a-professional-scrum-master
+  - /hiring-a-professional-scrum-master
+  - /resources/1EEAZ-ldcTz
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesArchive:
-- /blog/hiring-a-professional-scrum-master
-- /hiring-a-professional-scrum-master
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/hiring-a-professional-scrum-master
+  - /hiring-a-professional-scrum-master
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
-- Leadership
+  - Scrum
+  - Technical Leadership
+  - Leadership
 tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Agile Frameworks
-- Team Performance
+  - Scrum Master
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Agile Frameworks
+  - Team Performance
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
@@ -40,8 +40,8 @@ preview: Wide-screen-scrum-master-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:14:58Z
   short_title: 2025-07-07T17:57:32Z
-
 ---
+
 One of my customers is hiring for the [Scrum]({{< ref "/categories/scrum" >}}) Master Role and asked if I had a handy-dandy [Scrum Master]({{< ref "/tags/scrum-master" >}}) Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.
 
 <figure>
@@ -62,7 +62,7 @@ While there is no need for a Scrum Master to be technical, they do need to under
 
 ## A Scrum Master Job Spec
 
-The [Scrum Master]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) and the organization. The [Scrum Master]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) is accountable for the [Scrum Team]({{< ref "/delivery-audiences/teams" >}})’s effectiveness. They do this by enabling the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) to improve its practices, within the Scrum framework. [Scrum Masters]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) are true leaders who serve the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) and the larger organization.
+The [Scrum Master]({{< ref "/delivery_audiences/lean-agile-practitioners" >}}) is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the [Scrum Team]({{< ref "/delivery_audiences/teams" >}}) and the organization. The [Scrum Master]({{< ref "/delivery_audiences/lean-agile-practitioners" >}}) is accountable for the [Scrum Team]({{< ref "/delivery_audiences/teams" >}})’s effectiveness. They do this by enabling the [Scrum Team]({{< ref "/delivery_audiences/teams" >}}) to improve its practices, within the Scrum framework. [Scrum Masters]({{< ref "/delivery_audiences/lean-agile-practitioners" >}}) are true leaders who serve the [Scrum Team]({{< ref "/delivery_audiences/teams" >}}) and the larger organization.
 
 ### Role Summary
 
@@ -76,9 +76,9 @@ This Scrum Master position is a [leadership]({{< ref "/categories/leadership" >}
 
 - Coaching the team members in self-management and cross-functionality;
 
-- Helping the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) focus on creating high-value Increments that meet the [Definition of Done]({{< ref "/tags/definition-of-done" >}});
+- Helping the [Scrum Team]({{< ref "/delivery_audiences/teams" >}}) focus on creating high-value Increments that meet the [Definition of Done]({{< ref "/tags/definition-of-done" >}});
 
-- Causing the removal of impediments to the [Scrum Team]({{< ref "/delivery-audiences/teams" >}})’s progress;
+- Causing the removal of impediments to the [Scrum Team]({{< ref "/delivery_audiences/teams" >}})’s progress;
 
 - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 

@@ -31,7 +31,7 @@ course_vendors:
 course_learning_experiences:
   - Immersive
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Product Owners
   - Product Managers
   - Scrum Masters

@@ -28,7 +28,7 @@ course_vendors:
   - Accentient
 course_learning_experiences:
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Product managers
 tags:
   - Agile Planning

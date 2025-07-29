@@ -101,7 +101,7 @@ sections:
         content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
   - title: Find Courses by Accountability
     type: taxonomies
-    source: delivery-audiences
+    source: delivery_audiences
     types:
       - course
   - title: Courses by Context

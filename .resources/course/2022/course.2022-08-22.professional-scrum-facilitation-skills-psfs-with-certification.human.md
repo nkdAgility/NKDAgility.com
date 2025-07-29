@@ -25,7 +25,7 @@ course_vendors:
   - Scrum.org
 course_learning_experiences:
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Product Owners
   - Product Managers
   - Teams

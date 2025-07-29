@@ -32,7 +32,7 @@ course_vendors:
   - ProKanban.org
 course_learning_experiences:
   - Traditional
-delivery-audiences:
+delivery_audiences:
   - Teams
   - Product Owners
   - Lean Agile Practitioners

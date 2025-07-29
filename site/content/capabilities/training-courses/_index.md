@@ -155,7 +155,7 @@ sections:
   - title: Find Courses by Accountability
     listType: "boxed"
     type: taxonomies-list
-    source: delivery-audiences
+    source: delivery_audiences
     types:
       - course
   - type: list

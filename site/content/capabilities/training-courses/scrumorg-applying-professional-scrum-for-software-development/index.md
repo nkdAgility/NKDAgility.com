@@ -43,7 +43,7 @@ course_vendors:
   - Scrumorg
 course_learning_experiences:
   - Immersive
-delivery-audiences:
+delivery_audiences:
   - Teams
   - Developers
 tags:

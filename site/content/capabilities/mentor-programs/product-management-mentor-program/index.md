@@ -13,7 +13,7 @@ course_vendors:
   - NKDAgility
 course_learning_experiences:
   - Immersive
-delivery-audiences:
+delivery_audiences:
   - Product Managers
   - Lean Agile Practitioners
 code: "NKD-PMMP"

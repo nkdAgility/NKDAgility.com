@@ -79,7 +79,7 @@ taxonomies:
   course_vendor: course_vendors
   course_learning_experience: course_learning_experiences
   customer-industry: customer-industries
-  delivery-audience: delivery-audiences
+  delivery_audience: delivery_audiences
   people-ability: people-abilities
 
 # cascade:
@@ -94,7 +94,7 @@ permalinks:
     tags: "/resources/:slug/"
     concepts: "/resources/:slug/"
     marketing: "/marketing/:slug/"
-    delivery-audiences: "/capabilities/audiences"
+    delivery_audiences: "/capabilities/audiences"
     course_topics: "/capabilities/training-courses/course-topics"
     course_vendors: "/capabilities/training-courses/course-vendors"
     course_learning_experiences: "/capabilities/training-courses/course-learning-experiences"
@@ -105,7 +105,7 @@ permalinks:
     tags: "/resources/:slug/"
     concepts: "/resources/:slug/"
     marketing: "/:slug/"
-    delivery-audiences: "/capabilities/audiences/:slug/"
+    delivery_audience: "/capabilities/audiences/:slug/"
     course_topics: "/capabilities/training-courses/:slug/"
     course_vendors: "/capabilities/training-courses/:slug/"
     course_learning_experiences: "/capabilities/training-courses/:slug/"

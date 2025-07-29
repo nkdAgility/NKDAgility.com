@@ -9,7 +9,7 @@ sections:
   - type: "taxonomies-list"
     title: "Training Audiences"
     content: "Explore our training programs by target audience"
-    source: "delivery-audiences"
+    source: "delivery_audiences"
     types:
       - "training-courses"
       - "capabilities"
@@ -32,7 +32,7 @@ sections:
 ### Required
 
 - `type`: Must be "taxonomies-list"
-- `source`: The taxonomy name to display (e.g., "delivery-audiences", "tags", "categories")
+- `source`: The taxonomy name to display (e.g., "delivery_audiences", "tags", "categories")
 - `types`: Array of content types to filter by
 
 ### Optional
@@ -49,7 +49,7 @@ Standard vertical list layout with icons and badges:
 
 ```yaml
 - type: "taxonomies-list"
-  source: "delivery-audiences"
+  source: "delivery_audiences"
   types: ["training-courses"]
   listType: "default"
 ```
@@ -60,7 +60,7 @@ Enhanced layout with bordered boxes:
 
 ```yaml
 - type: "taxonomies-list"
-  source: "delivery-audiences"
+  source: "delivery_audiences"
   types: ["training-courses"]
   listType: "boxed"
 ```
@@ -82,7 +82,7 @@ The section automatically:
 - type: "taxonomies-list"
   title: "Who We Train"
   content: "Our training programs are designed for specific roles and responsibilities"
-  source: "delivery-audiences"
+  source: "delivery_audiences"
   types:
     - "training-courses"
     - "capabilities"

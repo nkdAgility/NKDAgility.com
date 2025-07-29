@@ -18,7 +18,7 @@
   {{- end }}
   {{- $breadcrumbs = $breadcrumbs | append . }}
   {{- $built = true }}
-{{- else if eq .Type "delivery-audiences" }}
+{{- else if eq .Type "delivery_audiences" }}
   <!-- Manually construct the parent hierarchy for taxonomies -->
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}

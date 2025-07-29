@@ -14,7 +14,7 @@ course_vendors:
   - NKDAgility
 course_learning_experiences:
   - Immersive
-delivery-audiences:
+delivery_audiences:
   - Developers
   - Lean Agile Practitioners
   - Teams

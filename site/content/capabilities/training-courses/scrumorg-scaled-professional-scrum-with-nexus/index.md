@@ -34,7 +34,7 @@ course_vendors:
   - Scrum.org
 course_learning_experiences:
   - Immersive
-delivery-audiences:
+delivery_audiences:
   - Product Owners
   - Product Managers
   - Scrum Masters

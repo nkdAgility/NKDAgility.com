@@ -41,7 +41,7 @@ course_learning_experiences:
   - Immersive
   - Traditional
   - Self-paced
-delivery-audiences:
+delivery_audiences:
   - Teams
 tags:
   - Agile Frameworks

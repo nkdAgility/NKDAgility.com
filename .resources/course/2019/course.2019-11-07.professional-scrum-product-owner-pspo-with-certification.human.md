@@ -33,7 +33,7 @@ course_learning_experiences:
   - Immersive
   - Traditional
   - Self-paced
-delivery-audiences:
+delivery_audiences:
   - Product Owners
   - Product Managers
   - Scrum Masters
