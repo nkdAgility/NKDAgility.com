@@ -24,7 +24,7 @@ course-topics:
   - Scrum Training Courses
 course_vendors:
   - Accentient
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Product Managers

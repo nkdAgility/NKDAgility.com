@@ -26,7 +26,7 @@ course-topics:
   - Product Training Courses
 course_vendors:
   - Scrumorg
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Product Owners

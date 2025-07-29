@@ -78,7 +78,7 @@ sections:
     type: none
   - title: Learning Experiences
     type: taxonomies
-    source: course-learning-experiences
+    source: course_learning_experiences
     types:
       - course
   - title: Corporate Training – Private, In-House Courses

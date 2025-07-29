@@ -29,7 +29,7 @@ course-topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg
-course-learning-experiences:
+course_learning_experiences:
   - Immersive
   - Traditional
 delivery-audiences:

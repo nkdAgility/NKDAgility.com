@@ -68,7 +68,7 @@ sections:
       We teach for **real environments**, with a blend of **training, coaching, and mentoring** that turns knowledge into action.
   - title: Learning Experiences
     type: taxonomies-list
-    source: course-learning-experiences
+    source: course_learning_experiences
     types:
       - course
   - type: boxesrow

@@ -21,7 +21,7 @@
     <div class="row">
       {{- range $taxonomyName, $page := .Pages }}
         <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-          {{- if eq .Type "course-learning-experiences" }}
+          {{- if eq .Type "course_learning_experiences" }}
             {{- if $page.Params.card }}
               {{- partial "card.html" (dict "class" "sectioncards" "title" $page.Params.card.title "content" $page.Params.card.content "buttonContent" $page.Params.card.button.content "permalink" $page.Permalink ) }}
             {{- else }}
@@ -45,5 +45,5 @@
   </section>
 {{- end }}
 {{- define "template" }}
-  course-learning-experiences/list.html
+  course_learning_experiences/list.html
 {{- end }}

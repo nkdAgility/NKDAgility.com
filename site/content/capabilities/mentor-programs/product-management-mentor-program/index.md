@@ -11,7 +11,7 @@ aliases:
   - /NKD-PMMP/
 course_vendors:
   - NKDAgility
-course-learning-experiences:
+course_learning_experiences:
   - Immersive
 delivery-audiences:
   - Product Managers

@@ -22,7 +22,7 @@ course-topics:
   - Kanban Training Courses
 course_vendors:
   - ProKanban.org
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Teams

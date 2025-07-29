@@ -26,7 +26,7 @@ course-topics:
   - Azure DevOps Training Courses
 course_vendors:
   - Accentient
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - QA

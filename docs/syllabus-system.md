@@ -288,7 +288,7 @@ course_sessions: 8
 delivery-audiences:
   - Scrum Masters
   - Lean Agile Practitioners
-course-learning-experiences:
+course_learning_experiences:
   - Immersive
 ---
 ```

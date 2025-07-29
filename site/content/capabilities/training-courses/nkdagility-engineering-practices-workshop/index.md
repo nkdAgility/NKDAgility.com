@@ -20,7 +20,7 @@ course-topics:
   - Engineering Training Courses
 course_vendors:
   - NKDAgility
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Teams

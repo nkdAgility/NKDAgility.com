@@ -27,7 +27,7 @@ course-topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Product Owners

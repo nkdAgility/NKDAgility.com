@@ -12,7 +12,7 @@ aliases:
   - /NKD-PDMP/
 course_vendors:
   - NKDAgility
-course-learning-experiences:
+course_learning_experiences:
   - Immersive
 delivery-audiences:
   - Developers

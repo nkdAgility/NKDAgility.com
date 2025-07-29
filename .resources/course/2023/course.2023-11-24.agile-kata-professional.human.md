@@ -22,7 +22,7 @@ course-topics:
   - Agile Training Courses
 course_vendors:
   - Agile Kata
-course-learning-experiences:
+course_learning_experiences:
   - Traditional
 delivery-audiences:
   - Teams
