@@ -10,36 +10,36 @@ weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-executives-training
-url:
+url: 
 aliases:
-  - /training-courses/scrum-for-executives
-  - /training-courses/scrum-for-executives-training/
-  - /capabilities/training-courses/accentient/scrum-for-executives
-  - /resources/AHschsDjL2E
+- /training-courses/scrum-for-executives
+- /training-courses/scrum-for-executives-training/
+- /capabilities/training-courses/accentient/scrum-for-executives
+- /resources/AHschsDjL2E
 aliasesArchive:
-  - /training-courses/scrum-for-executives
-  - /training-courses/scrum-for-executives-training/
-  - /capabilities/training-courses/accentient/scrum-for-executives
+- /training-courses/scrum-for-executives
+- /training-courses/scrum-for-executives-training/
+- /capabilities/training-courses/accentient/scrum-for-executives
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Accentient
+- Accentient
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Entrepreneurs
-  - Executives
+- Entrepreneurs
+- Executives
 tags:
-  - Agile Frameworks
-  - Agile Transformation
-  - Organisational Agility
-  - Professional Scrum
-  - Software Development
+- Agile Frameworks
+- Agile Transformation
+- Organisational Agility
+- Professional Scrum
+- Software Development
 categories:
-  - Scrum
-preview:
+- Scrum
+preview: 
 previewIcon: A-S4E.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -48,7 +48,8 @@ card:
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
 code: S4E
-course_proficiencies: [beginner]
+course_proficiencies:
+- beginner
 introduction: |2
 
   ### Course Outline
@@ -74,14 +75,92 @@ outcomes: |2+
   7. The Scrum Principles
   8. Where Scrum Fits and Where It Doesn’t
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Scrum for Executives Training
+
+**Course Code:** S4E
+
 ---
 
-This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.
+## Overview
+
+This instructor-led course provides executives, managers, and organizational leaders with a practical understanding of Scrum, its value, and the executive’s role in successful adoption.
+
+---
+
+## Target Audience
+
+- Executives
+- Managers
+- Entrepreneurs
+- Organizational leaders considering or undergoing Agile transformation
+
+---
+
+## Learning Outcomes
+
+1. Understand the purpose and benefits of Scrum.
+2. Summarize the Scrum framework from an executive perspective.
+3. Identify key facts and misconceptions about Scrum.
+4. Evaluate Agile metrics relevant to enterprise environments.
+5. Analyze real-world Scrum case studies.
+6. Recognize common myths and misconceptions about Scrum adoption.
+7. Distinguish Scrum principles and complementary practices.
+8. Assess where Scrum is appropriate within the organization.
+
+---
+
+## Course Topics
+
+- Why Scrum?
+- Scrum: An Executive Summary
+- Top 10 Things You Should Know About Scrum
+- Agile Metrics for the Enterprise
+- Scrum Case Studies
+- Myths and Misconceptions
+- The Scrum Principles
+- Where Scrum Fits and Where It Doesn’t
+
+---
+
+## Delivery Format
+
+- Instructor-led
+- Traditional classroom
+- Team-based activities and discussions
+
+---
+
+## Proficiency Level
+
+- Beginner
+
+---
+
+## Course Length
+
+- 1 day
+
+---
+
+## Trainer/Designer
+
+- Richard Hundhausen (Accentient)
+- Charles Bradley (ScrumCrazy)
+
+---
+
+## Vendor
+
+- Accentient
+
+---

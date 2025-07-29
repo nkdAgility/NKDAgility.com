@@ -10,41 +10,41 @@ weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-product-owners-training
-url:
+url: 
 aliases:
-  - /training-courses/scrum-for-product-owners
-  - /training-courses/scrum-for-product-owners-training/
-  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
-  - /resources/qVBmvY9STVE
+- /training-courses/scrum-for-product-owners
+- /training-courses/scrum-for-product-owners-training/
+- /capabilities/training-courses/accentient/scrum-for-product-owners-training
+- /resources/qVBmvY9STVE
 aliasesArchive:
-  - /training-courses/scrum-for-product-owners
-  - /training-courses/scrum-for-product-owners-training/
-  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+- /training-courses/scrum-for-product-owners
+- /training-courses/scrum-for-product-owners-training/
+- /capabilities/training-courses/accentient/scrum-for-product-owners-training
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Accentient
+- Accentient
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Entrepreneurs
-  - Product Managers
+- Entrepreneurs
+- Product Managers
 tags:
-  - Agile Frameworks
-  - Agile Product Management
-  - Backlog Refinement
-  - Product Backlog
-  - Product Owner
-  - Professional Scrum
-  - Scrum Team
-  - Software Development
-  - Team Performance
+- Agile Frameworks
+- Agile Product Management
+- Backlog Refinement
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Performance
 categories:
-  - Scrum
-  - Product Management
-preview:
+- Scrum
+- Product Management
+preview: 
 previewIcon: A-S4PO.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -53,7 +53,8 @@ card:
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
 code: S4PO
-course_proficiencies: [beginner]
+course_proficiencies:
+- beginner
 introduction: |2
 
   ### Course Outline
@@ -75,14 +76,105 @@ outcomes: |2+
   5. Getting “Done”
   6. Improving as a team
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Scrum for Product Owners Training
+
+**Course Code:** S4PO
+
 ---
 
-This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
+## Overview
+
+Enhance your effectiveness as a Product Owner in this interactive, instructor-led course. Learn key responsibilities, practices, and techniques to drive value within a Scrum Team through presentations, discussions, and hands-on activities.
+
+---
+
+## Target Audience
+
+- Product Owners (existing or aspiring)
+- Product Managers
+- Entrepreneurs
+- Business Analysts (BAs)
+- Subject Matter Experts (SMEs)
+- Stakeholders who interact with Product Owners
+
+---
+
+## Learning Outcomes
+
+1. Understand the Scrum Framework, including roles, events, and artifacts
+2. Identify and address common myths and misconceptions about Scrum
+3. Apply effective Product Backlog refinement techniques
+4. Practice advanced backlog refinement, including estimation and planning
+5. Define and achieve “Done” in Scrum, including managing technical debt
+6. Improve team collaboration and performance within the Scrum Team
+
+---
+
+## Course Topics
+
+- The Scrum Framework
+  - The Scrum Guide
+  - Roles, events, and artifacts
+  - Professional Scrum
+- Myths and Misconceptions
+  - Requirements and documentation
+  - Analysis and planning
+  - Culture and successful organizations
+- Product Backlog Refinement (Parts 1 & 2)
+  - User stories and acceptance criteria
+  - Reducing waste in requirements
+  - Definition of “Ready”
+  - Agile estimation (wall/affinity estimation, planning poker)
+  - Tracking and handling technical debt
+- Getting “Done”
+  - Definition of “Done”
+  - Expectations and limits of the Product Owner
+  - Managing undone work
+- Improving as a Team
+  - Working as a Scrum Team
+  - Common dysfunctions
+  - Collaborating with the Development Team
+  - Becoming a high-performance team
+
+---
+
+## Delivery Format
+
+- Instructor-led
+- Traditional (presentations, discussions, team-based activities)
+
+---
+
+## Proficiency Level
+
+- Beginner
+
+---
+
+## Course Length
+
+- 1 day
+
+---
+
+## Trainer/Designer
+
+- Richard Hundhausen (Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework)
+
+---
+
+## Vendor
+
+- Accentient
+
+---

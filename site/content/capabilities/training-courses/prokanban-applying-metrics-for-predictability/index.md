@@ -12,47 +12,48 @@ type: course
 slug: applying-metrics-for-predictability
 url: /training-courses/kanban-training-courses/:slug/
 aliases:
-  - /training-courses/applying-metrics-for-predictability/
-  - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
-  - /resources/dnZMM8p0lC4
+- /training-courses/applying-metrics-for-predictability/
+- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+- /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+- /resources/dnZMM8p0lC4
 aliasesArchive:
-  - /training-courses/applying-metrics-for-predictability/
-  - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+- /training-courses/applying-metrics-for-predictability/
+- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+- /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
 course_topics:
-  - Kanban Training Courses
+- Kanban Training Courses
 course_vendors:
-  - ProKanbanorg
+- ProKanbanorg
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Teams
-  - Product Owners
-  - Lean Agile Practitioners
+- Teams
+- Product Owners
+- Lean Agile Practitioners
 tags:
-  - Metrics and Learning
-  - Agile Planning
-  - Decision Making
-  - Flow Efficiency
-  - Forecasting
-  - Operational Practices
-  - Pragmatic Thinking
-  - Throughput
-  - Estimation
+- Metrics and Learning
+- Agile Planning
+- Decision Making
+- Flow Efficiency
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Throughput
+- Estimation
 categories:
-  - Product Development
+- Product Development
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
   title: Applying Metrics for Predictability
   content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
 code: AMP
-course_proficiencies: [intermediate]
-introduction:
+course_proficiencies:
+- intermediate
+introduction: 
 overview: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
 outcomes: |2+
 
@@ -64,7 +65,7 @@ outcomes: |2+
   6. Applying Techniques to Your Projects
   7. Validated Learning and Assessment
 
-assessment:
+assessment: 
 objectives: |+
   After completing the course, participants will achieve the following: 
   1. Gain a comprehensive understanding of agile metrics and their role in predictability.
@@ -76,15 +77,86 @@ objectives: |+
   7. Validate your knowledge through an online assessment, receiving guidance on areas for improvement.
 
 prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Applying Metrics for Predictability
+
+**Course Code:** AMP
+
 ---
 
-In today's dynamic business landscape, the ability to provide accurate project timelines, minimize risk, and make data-driven decisions is crucial. Our immersive 8-week course, "Applying Metrics for Predictability," empowers you to master agile metrics and forecasting, transforming your approach to project management. Unlike traditional 2-day workshops, our extended format allows for deeper understanding and practical application.
+## Overview
 
-Over eight weeks, you'll delve into the world of flow metrics, exploring concepts such as Work in Progress (WIP), Cycle Time, and Throughput. You'll gain hands-on experience in utilizing flow analytics, including Cumulative Flow Diagrams (CFDs), Scatterplots, and Histograms, to enhance predictability. Through Monte Carlo Simulation and statistical sampling, you'll learn to answer complex questions like "When will it be done?" while quantifying and managing risk effectively.
+Master agile metrics and forecasting in this immersive 8-week course to enhance project predictability, risk management, and data-driven decision-making.
 
-By the end of this course, you'll have the expertise needed to provide accurate forecasts, optimize your processes, and make informed decisions, ultimately boosting your project's success. Whether you're an executive, manager, or team member, our immersive learning experience will equip you with valuable skills for today's competitive environment.
+---
+
+## Target Audience
+
+- Executives
+- Managers
+- Team Members
+- Product Owners
+- Lean Agile Practitioners
+- Professionals involved in Agile or Lean project management
+
+---
+
+## Learning Outcomes
+
+1. Understand agile metrics and their role in predictability.
+2. Master flow metrics: Work in Progress (WIP), Cycle Time, and Throughput.
+3. Utilize flow analytics: Cumulative Flow Diagrams (CFDs), Scatterplots, and Histograms.
+4. Employ Monte Carlo Simulation for accurate project forecasting.
+5. Quantify and manage risks associated with project outcomes.
+6. Apply techniques to real-world projects for immediate impact.
+7. Validate knowledge through online assessment and receive guidance for improvement.
+
+---
+
+## Course Topics
+
+- Agile Metrics for Predictability
+- Flow Metrics: WIP, Cycle Time, Throughput
+- Flow Analytics: CFDs, Scatterplots, Histograms
+- Forecasting with Monte Carlo Simulation
+- Quantifying and Managing Risk
+- Application of Metrics to Projects
+- Validated Learning and Assessment
+
+---
+
+## Delivery Format
+
+- Traditional (8-week immersive course)
+
+---
+
+## Proficiency Level
+
+- Intermediate
+
+---
+
+## Course Length
+
+- 8 weeks
+
+---
+
+## Trainer/Designer
+
+- Martin Hinshelwood
+
+---
+
+## Vendor
+
+- ProKanban.org
+
+---

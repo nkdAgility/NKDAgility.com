@@ -13,69 +13,70 @@ type: course
 slug: professional-scrum-master-psm-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/professional-scrum-master
-  - /training-courses/professional-scrum-master-psm-training
-  - /training-courses/professional-scrum-master-training-with-certification
-  - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
-  - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
-  - /resources/NphdCz-Fh4k
+- /training-courses/professional-scrum-master
+- /training-courses/professional-scrum-master-psm-training
+- /training-courses/professional-scrum-master-training-with-certification
+- /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+- /resources/NphdCz-Fh4k
 aliasesArchive:
-  - /training-courses/professional-scrum-master
-  - /training-courses/professional-scrum-master-psm-training
-  - /training-courses/professional-scrum-master-training-with-certification
-  - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
-  - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+- /training-courses/professional-scrum-master
+- /training-courses/professional-scrum-master-psm-training
+- /training-courses/professional-scrum-master-training-with-certification
+- /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Scrumorg
+- Scrumorg
 course_learning_experiences:
-  - Immersive
-  - Traditional
+- Immersive
+- Traditional
 delivery_audiences:
-  - Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
+- Managers
+- Scrum Masters
+- Lean Agile Practitioners
 delivery_audiences_weight: 100
 tags:
-  - Scrum Master
-  - Agile Frameworks
-  - Agile Leadership
-  - Agile Planning
-  - Agile Product Management
-  - Agile Transformation
-  - Coaching
-  - Complexity Thinking
-  - Continuous Learning
-  - Definition of Done
-  - Empirical Process Control
-  - Operational Practices
-  - Organisational Agility
-  - Pragmatic Thinking
-  - Product Backlog
-  - Product Delivery
-  - Professional Scrum
-  - Scrum Team
-  - Self Organisation
-  - Sensemaking
+- Scrum Master
+- Agile Frameworks
+- Agile Leadership
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Coaching
+- Complexity Thinking
+- Continuous Learning
+- Definition of Done
+- Empirical Process Control
+- Operational Practices
+- Organisational Agility
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Self Organisation
+- Sensemaking
 categories:
-  - Scrum
-  - Technical Leadership
+- Scrum
+- Technical Leadership
 preview: NKDAgility-Courses-PSM-16x9.svg
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
 code: PSM
-course_proficiencies: [intermediate]
+course_proficiencies:
+- intermediate
 carousel:
-  - link: images/NKDAgility-Courses-PSM-16x9.svg
-    type: image
-  - link: resources/videos/youtube/vWfebO_pwIU
-    type: video
-  - link: resources/videos/youtube/xo4jMxupIM0
-    type: video
+- link: images/NKDAgility-Courses-PSM-16x9.svg
+  type: image
+- link: resources/videos/youtube/vWfebO_pwIU
+  type: video
+- link: resources/videos/youtube/xo4jMxupIM0
+  type: video
 introduction: |
   **Learn Professional Scrum and Elevate Your Role as a Scrum Master with NKD Agility**
 
@@ -121,7 +122,7 @@ objectives: |
   - Effectively start using Scrum
   - Increase the effectiveness of Scrum underway
 previewIcon: Scrumorg-Course-PSM 400x.png
-brandColour: "#3a7c9a"
+brandColour: '#3a7c9a'
 prerequisites: |
   Attendees make the most of the class if they: 
   - Have studied the [Scrum Guide](http://www.scrumguides.org/) (**required**)
@@ -132,70 +133,138 @@ prerequisites: |
 audience:
   overview: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
 trainers:
-  - /company/people/martin-hinshelwood/
+- /company/people/martin-hinshelwood/
 roadmap:
   next:
-    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
+  - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
   previous:
-    - /capabilities/training-courses/scrum-training-courses/professional-scrum-foundations/
+  - /capabilities/training-courses/scrum-training-courses/professional-scrum-foundations/
 events:
-  - start_date: 2025-02-23
-    location: Virtual
-    registration_link: ""
-    sessions:
-      - start_datetime: 2025-01-23T09:00:00
-        end_datetime: 2025-10-23T17:00:00
-        timezone: America/Los_Angeles
-        syllabus_ids:
-          - 1
-          - 2
-          - 3
-          - 4
-      - start_datetime: 2025-01-24T09:00:00
-        end_datetime: 2025-01-02T17:00:00
-        timezone: America/Los_Angeles
-        syllabus_ids:
-          - 5
-          - 6
-          - 7
+- start_date: 2025-02-23
+  location: Virtual
+  registration_link: ""
+  sessions:
+  - start_datetime: 2025-01-23T09:00:00
+    end_datetime: 2025-10-23T17:00:00
+    timezone: America/Los_Angeles
+    syllabus_ids:
+    - 1
+    - 2
+    - 3
+    - 4
+  - start_datetime: 2025-01-24T09:00:00
+    end_datetime: 2025-01-02T17:00:00
+    timezone: America/Los_Angeles
+    syllabus_ids:
+    - 5
+    - 6
+    - 7
+
+---
+# Professional Scrum Master (PSM) Course with Certification
+
+**Course Code:** PSM
+
 ---
 
-Welcome to the Professional Scrum Master (PSM) course. This transformative learning journey is designed specifically for Agile Leaders, Product Owners, and Managers eager to understand and incorporate Scrum values and principles into their leadership repertoire.
+## Overview
 
-The Scrum landscape is continuously evolving, and command over Scrum methodologies is no longer a luxury but a necessity for modern business leaders. Scrum practices enable organizations to be more adaptable, responsive, and effective in changing market dynamics.
+Gain a comprehensive understanding of Scrum principles and the Scrum Master role through immersive, activity-based learning. This course prepares participants to lead teams and drive organisational agility using the Scrum framework.
 
-Learning Objectives:
+---
 
-This course aims to help participants:
+## Target Audience
 
-1. Develop an understanding of the Scrum events and their purpose in the Scrum framework
-2. Learn how to facilitate Scrum events for optimal productivity and value delivery.
-3. Understand how to effectively manage and prioritize the Product Backlog to align with business objectives.
-4. Gain insights into the role of stakeholders in Scrum and how to engage them effectively.
-5. Learn strategies to handle impediments and foster a culture of continuous improvement within the team.
-6. Understand how to measure and track progress in a Scrum context using appropriate metrics and tools.
-7. Develop skills to coach the team and organization in adopting Scrum and Agile practices.
-8. Learn to navigate conflicts and challenges that may arise in a Scrum environment.
-9. Understand how to promote a culture of transparency, inspection, and adaptation within the team and organization.
-10. Gain knowledge on scaling Scrum for large and distributed teams
-11. Learn how to foster a culture of innovation and learning within the team
-12. Understand the importance of a sustainable pace for the team and how to promote it
-13. Develop strategies to build trust and collaboration within the team and with stakeholders.
+- Scrum Masters
+- Managers
+- Lean Agile Practitioners
+- Scrum Team Members
+- Anyone involved in software development using Scrum
 
-Course Features:
+---
 
-- Expert Facilitation: The course is facilitated by experienced Scrum practitioners who bring in their real-world experience and provide insights into practical applications of Scrum methodologies.
-- Immersive Learning: This course uses a combination of lectures, case studies, group discussions, and interactive exercises to create a dynamic learning environment.
-- Certification: Upon completing the course and passing the assessment, participants will receive the Professional Scrum Master (PSM I) certificate from Scrum.org.
+## Learning Outcomes
 
-This course is more than just an introduction to Scrum; it's a comprehensive exploration of Scrum's potential to transform your leadership style, team, and entire organization. Training for those wishing to leverage the power of Scrum is essential to enhance their effectiveness and adaptability in an increasingly complex business environment.
+1. Help Scrum Teams deliver value to their organisation.
+2. Understand the theory and principles behind Scrum and empiricism.
+3. Explain how each part of the Scrum framework ties back to principles and theory.
+4. Recognise uncertainty and complexity in product delivery.
+5. Articulate the meaning and importance of Scrum values.
+6. Define “Done” and its importance to transparency.
+7. Use the Product Backlog for agile planning.
+8. Appreciate the importance of self-managing teams and the Scrum Master’s role.
+9. Clarify the leadership role of the Scrum Master.
+10. Demonstrate skills, traits, and behaviour shifts required for Scrum Masters.
+11. Facilitate Scrum events for productivity and value delivery.
+12. Engage stakeholders effectively in Scrum.
+13. Handle impediments and foster continuous improvement.
+14. Measure and track progress using Scrum metrics and tools.
+15. Coach teams and organisations in adopting Scrum and Agile practices.
+16. Navigate conflicts and challenges in a Scrum environment.
+17. Promote transparency, inspection, and adaptation.
+18. Scale Scrum for large and distributed teams.
+19. Foster a culture of innovation, learning, and sustainable pace.
+20. Build trust and collaboration within teams and with stakeholders.
 
-Join the Professional Scrum Master course and equip yourself with the knowledge, skills, and mindset needed to lead in the Scrum world.
+---
 
-### What You Will Learn
+## Course Topics
 
-Over the 2 days, students will see why PSM is the cutting-edge course for effective Scrum Masters and for anyone coaching a software development team toward increased efficiency and effectiveness. The course includes advanced thinking for servant-leadership and behavioural shifts. Throughout the course, students are challenged to think in terms of the Scrum principles to better understand what to do when returning to the workplace. The PSM course is much more than just a set of slides and an instructor. In this course, students work on real-life cases with other classmates together as a team. This course is made up of discussions and hands-on exercises based upon real-life cases.
+- Scrum Framework and Events
+- Scrum Master Accountabilities
+- Servant-Leadership and Behavioural Shifts
+- Product Backlog Management
+- Stakeholder Engagement
+- Handling Impediments
+- Continuous Improvement
+- Scrum Metrics and Tools
+- Coaching Agile Teams
+- Conflict Resolution in Scrum
+- Scaling Scrum
+- Fostering Innovation and Learning
+- Sustainable Pace and Team Wellbeing
+- Building Trust and Collaboration
 
-{{< events-schedule-single >}}
+---
 
-{{< syllabus-single >}}
+## Delivery Format
+
+- Immersive, activity-based learning
+- Instructor-led sessions
+- Group discussions and case studies
+- Hands-on exercises
+- Available in both multi-week immersive and condensed multi-day formats
+
+---
+
+## Proficiency Level
+
+- Intermediate
+
+---
+
+## Course Length
+
+- 2 days
+
+---
+
+## Trainer/Designer
+
+- Martin Hinshelwood
+
+---
+
+## Vendor
+
+- Scrum.org
+
+---
+
+## Certification
+
+- Includes one free attempt at the Professional Scrum Master I (PSM I) certification exam from Scrum.org
+- Eligible for 14 PMI PDUs (Professional Development Units)
+- Discount available for Professional Scrum Master II (PSM II) assessment
+
+---

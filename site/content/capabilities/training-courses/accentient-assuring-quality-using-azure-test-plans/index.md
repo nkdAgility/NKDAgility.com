@@ -12,40 +12,41 @@ type: course
 slug: assuring-quality-using-azure-test-plans-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-  - /training-courses/assuring-quality-using-azure-test-plans
-  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-  - /AD-QA/
-  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
-  - /resources/m932F_fIGB5
+- /training-courses/assuring-quality-using-azure-test-plans
+- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+- /AD-QA/
+- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+- /resources/m932F_fIGB5
 aliasesArchive:
-  - /training-courses/assuring-quality-using-azure-test-plans
-  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-  - /AD-QA/
-  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+- /training-courses/assuring-quality-using-azure-test-plans
+- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+- /AD-QA/
+- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
 course_topics:
-  - Azure DevOps Training Courses
+- Azure DevOps Training Courses
 course_vendors:
-  - Accentient
+- Accentient
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - QA
+- QA
 tags:
-  - Azure DevOps
-  - Software Development
-  - Technical Excellence
+- Azure DevOps
+- Software Development
+- Technical Excellence
 categories:
-  - Engineering Excellence
-preview:
+- Engineering Excellence
+preview: 
 previewIcon: A-AQATP.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
   title: Assuring Quality Using Azure Test Plans Training
   content: Azure DevOps provides a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software.
 code: AD-QA
-course_proficiencies: [intermediate]
+course_proficiencies:
+- intermediate
 introduction: |2-
 
   ### Course content
@@ -59,14 +60,79 @@ outcomes: |2+
   2. Test Planning
   3. Running Tests
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
-Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Test Plans enable a team to plan, track, and assess quality throughout the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Test Plans to effectively assure quality in web and desktop applications. To maximize learning, students will work in teams, in a common team project, on a common case study.
+---
+# Assuring Quality Using Azure Test Plans Training
+
+**Course Code:** AD-QA
+
+## Overview
+
+Master Azure Test Plans in this one-day course, empowering your agile team to ensure quality in web and desktop applications through hands-on collaboration.
+
+## Target Audience
+
+- QA professionals
+- Software developers
+- Scrum Masters
+- Managers
+- Coaches
+- Stakeholders involved in software quality assurance
+
+## Learning Outcomes
+
+1. Apply effective test case management using Azure Test Plans.
+2. Develop and execute comprehensive test plans and test suites.
+3. Run, track, and report on tests for web and desktop applications.
+
+## Course Topics
+
+- Test Case Management
+  - Defining and maintaining quality
+  - Acceptance criteria and acceptance testing
+  - Azure DevOps Services and Boards overview
+  - Configuring a team project for testing
+  - Planning and running tests during a sprint
+  - Charts, reports, and notifications
+  - Extending Azure Test Plans
+- Test Planning
+  - Creating test plans and test suites
+  - Using configurations, parameters, and shared steps
+  - Importing and exporting test artifacts
+- Running Tests
+  - Azure Test Runner
+  - Testing web and desktop applications
+  - Data-driven testing
+  - Test & Feedback extension
+  - Capturing screenshots and video
+  - Bug reporting and test run charting
+  - Exploratory and regression testing
+
+## Delivery Format
+
+- Traditional, instructor-led
+- Hands-on team exercises
+
+## Proficiency Level
+
+- Intermediate
+
+## Course Length
+
+- 1 day
+
+## Trainer/Designer
+
+- Richard Hundhausen (Microsoft Development Technologies MVP, Professional Scrum Trainer)
+
+## Vendor
+
+- Accentient

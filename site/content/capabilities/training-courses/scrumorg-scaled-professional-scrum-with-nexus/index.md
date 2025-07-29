@@ -12,44 +12,44 @@ type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/scrum-at-scale-workshop
-  - /training-courses/scaling-professional-scrum
-  - /training-courses/scaled-professional-scrum-sps
-  - /training-courses/scaled-professional-scrum-sps-with-nexus
-  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
-  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
-  - /resources/-U-z8x8yTw9
+- /training-courses/scrum-at-scale-workshop
+- /training-courses/scaling-professional-scrum
+- /training-courses/scaled-professional-scrum-sps
+- /training-courses/scaled-professional-scrum-sps-with-nexus
+- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /resources/-U-z8x8yTw9
 aliasesArchive:
-  - /training-courses/scrum-at-scale-workshop
-  - /training-courses/scaling-professional-scrum
-  - /training-courses/scaled-professional-scrum-sps
-  - /training-courses/scaled-professional-scrum-sps-with-nexus
-  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
-  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /training-courses/scrum-at-scale-workshop
+- /training-courses/scaling-professional-scrum
+- /training-courses/scaled-professional-scrum-sps
+- /training-courses/scaled-professional-scrum-sps-with-nexus
+- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Scrumorg
+- Scrumorg
 course_learning_experiences:
-  - Immersive
+- Immersive
 delivery_audiences:
-  - Product Owners
-  - Product Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
-  - Teams
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Teams
 tags:
-  - Agile Frameworks
-  - Large Scale Agility
-  - Professional Scrum
-  - Software Development
+- Agile Frameworks
+- Large Scale Agility
+- Professional Scrum
+- Software Development
 categories:
-  - Scrum
+- Scrum
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -58,7 +58,8 @@ card:
 code: SPS
 course_length: 16
 course_sessions: 8
-course_proficiencies: [advanced]
+course_proficiencies:
+- advanced
 introduction: |2-
 
   ### What Scaled Professional Scrum Students Say
@@ -82,7 +83,7 @@ outcomes: |2+
   - Dealing with common challenges
   - Practices to help teams efficiently build an integrated software product
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Learn how to Scale Scrum using the Nexus framework
@@ -99,24 +100,100 @@ prerequisites: |+
   - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
   - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
 
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Scaled Professional Scrum with Nexus (SPS) with Certification
+
+**Course Code:** SPS
+
 ---
 
-The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. Even after achieving success with Scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand, or scale, to a group of Scrum Teams working together on the same product. When doing so, they often encounter common challenges with cross-team dependencies, self-management, transparency and accountability.
+## Overview
 
-When introducing heavy-weight scaling methodologies, teams often find that the added overhead slows down the teams and distracts from the essence and benefits of Scrum. Instead, the Nexus Framework minimally extended the Scrum Framework to include ways that help solve the dependency and collaboration challenges of cross-team work. Since Nexus enhances the foundational elements of Scrum, it reinforces the benefits of Scrum while also being familiar to those that have used Scrum.
+A hands-on, activity-based course designed to equip professionals with practical skills for scaling Scrum using the Nexus Framework, addressing cross-team challenges, and preparing for the Scaled Professional Scrum (SPS) certification.
 
-The Scaled Professional Scrum™ (SPS) with Nexus course, builds on the Nexus framework by introducing complementary practices and techniques proven to help teams scale. The course also includes a free attempt at the globally recognised Scaled Professional Scrum (SPS) certification exam.
+---
 
-Our training is delivered as an interactive, activity-based course over half-day sessions using Microsoft Teams, and Mural. Students work together in a Nexus to organise and simulate a scaled product development project. This case study-based class presents common challenges in scaling and more than fifty practices for overcoming them are revealed. Students will develop an understanding of how to launch, structure, organise, and manage a large Agile project using Scrum. They will leave the class with a toolbox of techniques for identifying and overcoming common scaling challenges. Between sessions, we provide additional reading, writing, and watching activities to maximise the learning opportunities and complement the classroom experience.
+## Target Audience
 
-- Session 1: Scaling Scrum & Organising Teams
-- Session 2: Team Selection & Organising Work
-- Session 3: Nexus in Action
-- Session 4: Managing the Nexus
+- Product Owners  
+- Product Managers  
+- Scrum Masters  
+- Lean Agile Practitioners  
+- Scrum Teams  
+- Development Leads and Managers  
+- Anyone involved in managing or participating in scaled Scrum product development
 
-After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catchups, and constant engagement. To maximise validated learning, all students are given a password to take the SPS assessment, and if they take it within 14 days and are unsuccessful, they will be granted a second attempt. As part of our validated learning experience, we provide a 30-minute learning review, a 1h coaching session, and access to future courses at a 30% discount on future classes.
+---
+
+## Learning Outcomes
+
+- Understand that scaled Scrum is still Scrum  
+- Gain an introduction to the Nexus Framework  
+- Learn new roles, artifacts, and events in Nexus  
+- Organize teams and work for large-scale development  
+- Manage the Nexus and Nexus+  
+- Address common challenges in scaling Scrum  
+- Apply practices to efficiently build integrated software products  
+- Experience organizing several teams working on the same product  
+- Optimize team productivity  
+- Identify, minimize, and remove dependencies
+
+---
+
+## Course Topics
+
+- Scaling Scrum and organizing teams  
+- Team selection and organizing work  
+- Nexus in action  
+- Managing the Nexus  
+- Overcoming cross-team dependencies and collaboration challenges  
+- Practices for launching, structuring, and managing large Agile projects
+
+---
+
+## Delivery Format
+
+- Interactive, activity-based workshop  
+- Delivered over 8 half-day sessions (total 16 hours)  
+- Online via Microsoft Teams and Mural  
+- Includes case studies, simulations, and collaborative exercises  
+- Additional reading, writing, and watching activities between sessions
+
+---
+
+## Proficiency Level
+
+- Advanced
+
+---
+
+## Course Length
+
+- 16 hours (8 sessions)
+
+---
+
+## Trainer/Designer
+
+- Martin Hinshelwood
+
+---
+
+## Vendor
+
+- Scrum.org
+
+---
+
+## Certification
+
+- Includes one free attempt at the Scaled Professional Scrum (SPS) certification exam  
+- Second attempt provided if the first is taken within 14 days and unsuccessful
+
+---

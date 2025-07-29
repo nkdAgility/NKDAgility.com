@@ -13,53 +13,54 @@ type: course
 slug: professional-scrum-master-and-product-owner-psmp-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
-  - /resources/1pf0w710Q5Z
+- /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
+- /resources/1pf0w710Q5Z
 aliasesArchive:
-  - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
+- /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Scrumorg
+- Scrumorg
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Product Owners
-  - Product Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
 tags:
-  - Professional Scrum
-  - Agile Frameworks
-  - Agile Planning
-  - Agile Product Management
-  - Agile Transformation
-  - Organisational Agility
-  - Product Backlog
-  - Product Delivery
-  - Product Owner
-  - Scrum Team
-  - Software Development
-  - Team Performance
-  - Value Delivery
-  - Scrum Master
-  - Team Collaboration
+- Professional Scrum
+- Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Organisational Agility
+- Product Backlog
+- Product Delivery
+- Product Owner
+- Scrum Team
+- Software Development
+- Team Performance
+- Value Delivery
+- Scrum Master
+- Team Collaboration
 categories:
-  - Scrum
-  - Product Management
-preview:
+- Scrum
+- Product Management
+preview: 
 previewIcon: Scrumorg-Course-PSMPO-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
   title: Professional Scrum Master and Product Owner (PSMPO) with Certification
   content: Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master (PSM) and Professional Scrum Product Owner (PSPO) courses.
 code: PSMPO
-course_proficiencies: [intermediate]
-introduction:
+course_proficiencies:
+- intermediate
+introduction: 
 overview: The Professional Scrum Master and Product Owner course is designed for Scrum Masters and Product Owners to learn together. This is especially important as they collectively provide leadership that Scrum Teams need to satisfy stakeholders,  including customers and users through the early and continuous delivery of value. When bringing this course into your organization, take care to include participants that will be working on teams together. We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
 outcomes: |2+
 
@@ -74,7 +75,7 @@ outcomes: |2+
   - People and Teams
   - The Scrum Master
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Grow an Agile mindset and build awareness of why values and principles are key to success
@@ -89,11 +90,11 @@ objectives: |2+
   - Gain appreciation for the art of working with self-managing teams and building a sustaining capability for solving complex problems
 
 prerequisites: We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 offering:
   offeringType: training-course
   prerequisites: We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
@@ -149,12 +150,90 @@ offering:
     colour: ""
   code: PSMPO
   courseIcon: Scrumorg-Course-PSMPO-400x.png
+
+---
+# Professional Scrum Master and Product Owner (PSMPO) with Certification
+
+**Course Code:** PSMPO
+
 ---
 
-Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master™ (PSM) and Professional Scrum Product Owner™ (PSPO) courses. Merging PSM and PSPO together enables side-by-side learning in a way that is not possible when Scrum Masters and Product Owners are trained separately. These learners greatly benefit from having a shared understanding for one another and by blending the content, students avoid duplicate foundational content and have more space to focus on learning together. This course includes free attempts at both the Professional Scrum Master I (PSM I) and Professional Scrum Product Owner I (PSPO I) globally recognized certification exams.
+## Overview
 
-#### Exclusively for In-House Private Training
+Enhance your Scrum team's synergy with this 3-day course, merging Scrum Master and Product Owner training for effective collaboration and shared understanding. Participants gain practical skills and prepare for globally recognized Scrum.org certifications.
 
-This course is only available for private training events sponsored by organizations ready to provide first-class training for employees. It is not offered in an open public setting. This course is explicitly designed to grow the proficiency of an organization's Scrum Masters and Product Owners as they learn together and discover what it takes to effectively work together with the entire Scrum Team and stakeholders. Find a [Professional Scrum Trainer](https://www.scrum.org/find-trainers) to partner with and discover the best way to gain advantage through Professional Scrum within your organization.
+---
 
-View the different [Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) covered within this class and others.
+## Target Audience
+
+- Scrum Masters
+- Product Owners
+- Product Managers
+- Lean Agile Practitioners
+
+---
+
+## Learning Outcomes
+
+- Grow an Agile mindset and understand the importance of values and principles.
+- Comprehend the Scrum framework and how empiricism enables rapid value delivery.
+- Understand how Scrum Master and Product Owner accountabilities jointly serve the team, customers, and organization.
+- Apply techniques for customer focus and incremental value delivery.
+- Build alignment and execute strategy through product vision and product goal.
+- Learn methods for understanding, delivering, and measuring value.
+- Manage the product backlog to achieve the product goal.
+- Gain clarity on release planning, transparency, and stakeholder expectation management.
+- Distinguish between "done" and "undone" work.
+- Develop skills for working with self-managing teams and solving complex problems.
+
+---
+
+## Course Topics
+
+- The Product Owner
+- Agile Product Management
+- Value-Driven Development
+- Product Backlog Management
+- Theory and First Principles
+- Scrum Framework
+- Release Management
+- Done and Undone
+- People and Teams
+- The Scrum Master
+
+---
+
+## Delivery Format
+
+Interactive, activity-based course delivered over half-day sessions using Microsoft Teams and Mural. Includes additional reading, writing, and video activities between sessions. Post-course support includes community access, office hours, and coaching.
+
+---
+
+## Proficiency Level
+
+Intermediate
+
+---
+
+## Course Length
+
+3 days
+
+---
+
+## Trainer/Designer
+
+Martin Hinshelwood
+
+---
+
+## Vendor
+
+Scrum.org
+
+---
+
+## Certification
+
+Participants receive passwords to take both the Professional Scrum Master I (PSM I) and Professional Scrum Product Owner I (PSPO I) assessments. A second attempt is granted if the first is unsuccessful within 14 days. Students are also eligible for a 40% discount on PSM II and PSPO II assessments.  
+**PMI PDU Credits:** 21 PDUs for course attendance (see [Scrum.org support](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course) for claiming instructions).

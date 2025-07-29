@@ -10,41 +10,42 @@ weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: agile-kata-professional
-url:
+url: 
 aliases:
-  - /training-courses/agile-workshops/agile-kata-professional/
-  - /akp/
-  - /resources/p62cJsAjQNw
+- /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
+- /resources/p62cJsAjQNw
 aliasesArchive:
-  - /training-courses/agile-workshops/agile-kata-professional/
-  - /akp/
+- /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
 course_topics:
-  - Agile Training Courses
+- Agile Training Courses
 course_vendors:
-  - Agile Kata
+- Agile Kata
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Teams
+- Teams
 tags:
-  - Agile Frameworks
-  - Agile Transformation
-  - Operational Practices
-  - Organisational Agility
-  - Organisational Change
-  - Software Development
+- Agile Frameworks
+- Agile Transformation
+- Operational Practices
+- Organisational Agility
+- Organisational Change
+- Software Development
 categories: []
 preview: NKDAgility-Courses-AKP-16x9-1.jpg
 previewIcon: AgileKataProLevel1.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
   title: Agile Kata Professional
   content: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
 code: AKP1
-course_proficiencies: [intermediate]
-introduction:
+course_proficiencies:
+- intermediate
+introduction: 
 overview: |2+
 
   - Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.
@@ -52,8 +53,8 @@ overview: |2+
   - Agile Leaders interested to improve business agility and agile culture.
   - Business leaders interested in learning about a pattern to increase business agility
 
-outcomes:
-assessment:
+outcomes: 
+assessment: 
 objectives: |2+
 
   - Understanding and practicing the Agile Kata pattern.
@@ -65,24 +66,62 @@ objectives: |2+
   - Understand the role of an Agile Coach in the Agile Kata.
   - Define a first step to increase business agility in your organization using the Agile Kata.
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Agile Kata Professional
+
+**Course Code:** AKP1
+
+## Overview
+A one-day, instructor-led course empowering teams to enhance processes and drive cultural change using the Agile Kata pattern, combining scientific thinking with agile values for lasting organizational impact.
+
+## Target Audience
+- Entire Agile teams (Scrum, Kanban, etc.) seeking improved or alternative ways of working
+- Agile coaches, Scrum Masters, Project Managers, and change agents introducing Agile Kata
+- Agile leaders aiming to improve business agility and agile culture
+- Business leaders interested in increasing business agility
+
+## Learning Outcomes
+- Understand and practice the Agile Kata pattern
+- Apply techniques that inject agility into the Agile Kata
+- Recognize the Agile Kata as a tool for agile transformations
+- Use the Agile Kata in common agile transformation scenarios
+- Identify benefits of the Agile Kata for existing Agile/Scrum teams
+- Perform the Agile Kata for product and process improvements using a case study
+- Understand the role of an Agile Coach in the Agile Kata
+- Define a first step to increase business agility in your organization using the Agile Kata
+
+## Course Topics
+- Agile Kata pattern fundamentals
+- Techniques for enhancing agility
+- Agile transformation scenarios
+- Team and organizational process improvement
+- Role of Agile Coach in Agile Kata
+- Case study application
+
+## Delivery Format
+- Instructor-led
+- Activity-based learning (pairs or small teams)
+- Available in-person (1 day) or live online (modularized)
+
+## Proficiency Level
+Intermediate
+
+## Course Length
+1 day
+
+## Trainer/Designer
+Martin Hinshelwood
+
+## Vendor
+Agile Kata
+
 ---
 
-The current track record of agile transformations is not very promising. 75% of all agile transformations fail to achieve their goals and therefore missing out on the huge positive impact it has on employee engagement, customer satisfaction, operational performance and time-to-market (McKinsey 2022). Is it because companies see Agile as a business process update and not as a cultural shift?
-
-Is Business Agility a huge buzzword in your organization, which is difficult to break down into digestible pieces? Or, are your existing agile teams looking for new ways of triggering organizational change or looking for a new way of working? The list of challenges can be long.
-
-On a team-level, the Agile Kata can infuse new energy and ideas to existing agile teams that are looking to improve their existing agile process. Some teams, that are looking for alternatives to Scrum or Kanban, can use the Agile Kata also as their team process.
-
-The Agile Kata is versatile and can provide answers to these common questions and challenges. It combines a proven practice, which has been applied for decades in lean manufacturing, with a clear alignment to agile values and principles. See how scientific thinking and practical hands-on application work well together in this 1-day course. Walk away with an understanding that the Agile Kata is not an off-the-shelf process product, but a pattern that helps you create your own process, specific to your organizational needs and goals.
-
-In this one day class, students are challenged to explore the Agile Kata pattern so they can better understand what to do when applying the Agile Kata to support their teams and organizations.
-
-The course, uses a combination of instructor-led and activity-based learning where students work together in pairs or small teams. The certified Agile Kata trainer bring their own experiences and stories to the class and use their skills and knowledge to deliver the material using their own unique delivery style. The result is an engaging, enjoyable learning experience where students gain a deep understanding of the Agile Kata pattern and how it can be applied by an entire agile team or organization.
-
-Students leave this course with an appreciation for the use of the Agile Kata and a starting point for their own professional journey using the Agile Kata. When offered in-person, this course is generally delivered in one full day. When offered as a live instructor-led online course,, it may be broken up into more, shorter segments.
+*Certification is not mentioned.*

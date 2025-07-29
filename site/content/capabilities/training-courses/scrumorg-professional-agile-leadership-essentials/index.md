@@ -13,46 +13,46 @@ type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/professional-agile-leadership
-  - /training-courses/professional-agile-leadership-essentials-training
-  - /training-courses/professional-agile-leadership-essentials-training-with-certification
-  - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
-  - /resources/CujSf0EnB7d
+- /training-courses/professional-agile-leadership
+- /training-courses/professional-agile-leadership-essentials-training
+- /training-courses/professional-agile-leadership-essentials-training-with-certification
+- /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+- /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
+- /resources/CujSf0EnB7d
 aliasesArchive:
-  - /training-courses/professional-agile-leadership
-  - /training-courses/professional-agile-leadership-essentials-training
-  - /training-courses/professional-agile-leadership-essentials-training-with-certification
-  - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
+- /training-courses/professional-agile-leadership
+- /training-courses/professional-agile-leadership-essentials-training
+- /training-courses/professional-agile-leadership-essentials-training-with-certification
+- /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+- /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Scrumorg
+- Scrumorg
 course_learning_experiences:
-  - Immersive
-  - Traditional
+- Immersive
+- Traditional
 delivery_audiences:
-  - Product Owners
-  - Lean Agile Practitioners
-  - Managers
-  - Entrepreneurs
+- Product Owners
+- Lean Agile Practitioners
+- Managers
+- Entrepreneurs
 tags:
-  - Agile Frameworks
-  - Agile Leadership
-  - Agile Strategy
-  - Agile Transformation
-  - Business Agility
-  - Organisational Agility
-  - Organisational Change
-  - Value Delivery
-  - Social Technologies
+- Agile Frameworks
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Organisational Agility
+- Organisational Change
+- Value Delivery
+- Social Technologies
 categories:
-  - Leadership
-  - Technical Leadership
+- Leadership
+- Technical Leadership
 preview: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PALE-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -61,7 +61,8 @@ card:
 
     Professional Agile Leadership (PAL) Essentials is a 14h workshop, delivered over four half-days that provides a foundation of the role that leaders play in creating the conditions for a successful agile transformation.
 code: PAL-e
-course_proficiencies: [intermediate]
+course_proficiencies:
+- intermediate
 introduction: |2
 
   ### Expected Outcomes After Attending the Workshop
@@ -87,7 +88,7 @@ outcomes: |2+
   - Professionalism - The "How"
   - Scaling
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Development of a common language
@@ -95,32 +96,96 @@ objectives: |2+
   - Professional introduction and establishment of Agile techniques
   - Role management plays in the Agile change of an organization
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
+---
+# Professional Agile Leadership Essentials (PAL-e) with Certification
+
+**Course Code:** PAL-e
+
 ---
 
-Professional Agile Leadership (PAL-e) Essentials is a modular workshop, adaptable up to 2-days in length based on the needs of your organization. The workshop provides a foundation for the role that leaders play in creating the conditions for a successful agile transformation. Leaders and managers are critical enablers in helping their organizations be successful, yet the role of leaders and managers in an agile organization can be quite different from what they are used to. This workshop uses a combination of instruction and team-based exercises to help participants learn how to form and support agile teams to achieve better results, and how to lead the cultural and behavioural changes that organizations must make to reap the benefits of an agile product delivery approach.
+## Overview
 
-This course can be delivered in various formats to support a better learning experience:
+Professional Agile Leadership Essentials (PAL-e) is a workshop designed for leaders and managers responsible for introducing and establishing Agile methods in their organizations. The course provides foundational knowledge and practical skills to drive successful agile transformation and support agile teams.
 
-- **As an immersive experience consisting of 7 weekly 4-hour sessions** – This format allows students to practice assignments in the intervening weeks and bring actionable and specific questions from their experiences to the debrief as part of the following session.
-- **As a flipped learning experience consisting of 4 consecutive 4-hour sessions** – These sessions are delivered consecutively within the same week and include additional self-paced reading and exercises.
-- **As** the traditional two **full-day class.**
+---
 
-The program also includes two complementary attempts at the globally recognized Professional Agile Leadership  I certification exam (PAL I).
+## Target Audience
 
-Becoming an agile organization is a profound transformation that requires senior leaders, middle managers, and agile team members to change how they organize their work, manage it, and measure the results of the work. Agile teams cannot do this independently; they need the entire organisation's help. The changes for all involved are profound, but so are the results when everyone’s goals and ways of working are aligned.
+- Product Owners
+- Lean Agile Practitioners
+- Managers
+- Entrepreneurs
+- Leaders responsible for Agile transformation
 
-To succeed in a changing world, organizations need to become more agile, more responsive to customer needs and market changes. This workshop will equip leaders and managers to help their organizations change by providing participants with:
+---
 
-- An understanding of how agility can help you improve your organization’s performance
-- An understanding of how you, as a manager or leader, can help your organization achieve the benefits of agility
-- An understanding of how culture and values influence your organization’s ability to reap the benefits of agility
-- Practical skills for helping to guide and coach agile teams, and to help them remove impediments
-- An understanding of how to measure the benefits and impacts of agility in your organization
+## Learning Outcomes
 
-[View](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) the different Focus Areas covered within this class and others.
+- Understand the theory and principles of Agile leadership
+- Improve value delivery within the organization
+- Distinguish between value ("What"), culture ("Who"), and professionalism ("How") in Agile contexts
+- Recognize the role of leadership in Agile change and transformation
+- Develop a common language for Agile adoption
+- Identify and address core problems in product development
+- Guide and coach Agile teams to remove impediments
+- Measure and quantify the benefits and impacts of agility
+- Understand how culture and values influence organizational agility
+- Learn approaches to scaling Agile practices
+
+---
+
+## Course Topics
+
+- Agile Frameworks and Leadership
+- Value Delivery
+- Organizational Culture and Change
+- Professionalism in Agile Teams
+- Scaling Agile
+- Social Technologies in Agile Organizations
+
+---
+
+## Delivery Format
+
+- Immersive: 7 weekly 4-hour sessions (with practice and debrief)
+- Flipped Learning: 4 consecutive 4-hour sessions (with self-paced reading and exercises)
+- Traditional: 2 full-day class
+
+---
+
+## Proficiency Level
+
+- Intermediate
+
+---
+
+## Course Length
+
+- 14 hours (delivered over four half-days, or as per selected format)
+
+---
+
+## Trainer/Designer
+
+- Martin Hinshelwood
+
+---
+
+## Vendor
+
+- Scrum.org
+
+---
+
+## Certification
+
+- Includes two attempts at the Professional Agile Leadership I (PAL I) certification exam
+
+---

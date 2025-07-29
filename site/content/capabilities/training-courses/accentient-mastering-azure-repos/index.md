@@ -10,44 +10,45 @@ weight: 600
 creator: Martin Hinshelwood
 type: course
 slug: mastering-azure-repos-training
-url:
+url: 
 aliases:
-  - /training-courses/mastering-azure-repos
-  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-  - /capabilities/training-courses/accentient/mastering-azure-repos-training
-  - /resources/d4jyFSYdS2v
+- /training-courses/mastering-azure-repos
+- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+- /capabilities/training-courses/accentient/mastering-azure-repos-training
+- /resources/d4jyFSYdS2v
 aliasesArchive:
-  - /training-courses/mastering-azure-repos
-  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-  - /capabilities/training-courses/accentient/mastering-azure-repos-training
+- /training-courses/mastering-azure-repos
+- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+- /capabilities/training-courses/accentient/mastering-azure-repos-training
 course_topics:
-  - Azure DevOps Training Courses
+- Azure DevOps Training Courses
 course_vendors:
-  - Accentient
+- Accentient
 course_learning_experiences:
-  - Traditional
+- Traditional
 delivery_audiences:
-  - Developers
+- Developers
 tags:
-  - Azure DevOps
-  - Azure Repos
-  - Install and Configuration
-  - Modern Source Control
-  - Software Development
-  - Technical Excellence
-  - Technical Mastery
+- Azure DevOps
+- Azure Repos
+- Install and Configuration
+- Modern Source Control
+- Software Development
+- Technical Excellence
+- Technical Mastery
 categories:
-  - Engineering Excellence
-preview:
+- Engineering Excellence
+preview: 
 previewIcon: A-MARS.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
   title: Mastering Azure Repos Training
   content: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
 code: MARS
-course_proficiencies: [intermediate]
+course_proficiencies:
+- intermediate
 introduction: |2-
 
   ### Course content
@@ -63,14 +64,60 @@ outcomes: |2+
   4. Working with Azure Repos
   5. Mastering Azure Repos
 
-assessment:
-objectives:
+assessment: 
+objectives: 
 prerequisites: None
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
-Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
+---
+# Mastering Azure Repos Training
+
+**Course Code:** MARS
+
+## Overview
+
+This course provides software developers with practical skills to configure and use Azure Repos for Git version control, enhancing collaboration and code quality within Azure DevOps Services.
+
+## Target Audience
+
+- Software developers using or considering Azure Repos for Git version control
+
+## Learning Outcomes
+
+1. Understand and configure Azure Repos
+2. Apply core Git concepts and workflows
+3. Integrate Git with Visual Studio and Visual Studio Code
+4. Collaborate using Azure Repos features (branching, pull requests, code reviews)
+5. Master advanced Azure Repos capabilities (Git hooks, GitHub integration, workflows)
+
+## Course Topics
+
+- Introduction to Azure Repos
+- Git Concepts and Workflows
+- Visual Studio and Visual Studio Code Integration
+- Working with Azure Repos (branching, merging, pull requests, code reviews)
+- Advanced Azure Repos (Git hooks, extensions, GitHub integration, workflows, VFS)
+
+## Delivery Format
+
+- Traditional (instructor-led, team-based hands-on exercises)
+
+## Proficiency Level
+
+- Intermediate
+
+## Course Length
+
+- 1 day
+
+## Trainer/Designer
+
+- Richard Hundhausen (Microsoft Development Technologies MVP, Professional Scrum Trainer)
+
+## Vendor
+
+- Accentient

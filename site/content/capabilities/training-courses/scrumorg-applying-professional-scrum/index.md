@@ -13,63 +13,64 @@ type: course
 slug: applying-professional-scrum-aps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
-  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
+- url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
 aliases:
-  - /training-courses/professional-scrum-foundations
-  - /training-courses/professional-scrum-foundations-psf-training
-  - /training-courses/applying-professional-scrum-aps-training
-  - /training-courses/applying-professional-scrum-training-with-certification
-  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
-  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
-  - /resources/_w2xgO2i3C9
+- /training-courses/professional-scrum-foundations
+- /training-courses/professional-scrum-foundations-psf-training
+- /training-courses/applying-professional-scrum-aps-training
+- /training-courses/applying-professional-scrum-training-with-certification
+- /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+- /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+- /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+- /resources/_w2xgO2i3C9
 aliasesArchive:
-  - /training-courses/professional-scrum-foundations
-  - /training-courses/professional-scrum-foundations-psf-training
-  - /training-courses/applying-professional-scrum-aps-training
-  - /training-courses/applying-professional-scrum-training-with-certification
-  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
-  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+- /training-courses/professional-scrum-foundations
+- /training-courses/professional-scrum-foundations-psf-training
+- /training-courses/applying-professional-scrum-aps-training
+- /training-courses/applying-professional-scrum-training-with-certification
+- /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+- /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+- /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
 course_topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course_vendors:
-  - Scrumorg
+- Scrumorg
 course_learning_experiences:
-  - Immersive
-  - Traditional
-  - Self-paced
+- Immersive
+- Traditional
+- Self-paced
 delivery_audiences:
-  - Teams
+- Teams
 tags:
-  - Agile Frameworks
-  - Agile Planning
-  - Agile Product Management
-  - Agile Transformation
-  - Continuous Learning
-  - Market Adaptability
-  - Organisational Agility
-  - Pragmatic Thinking
-  - Professional Scrum
-  - Scrum Team
-  - Software Development
-  - Team Collaboration
-  - Team Performance
-  - Scrum Master
+- Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Continuous Learning
+- Market Adaptability
+- Organisational Agility
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
+- Scrum Master
 categories:
-  - Scrum
+- Scrum
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: "#c75129"
+brandColour: '#c75129'
 card:
   button:
     content: ""
   title: Applying Professional Scrum (APS) Course with Certification
   content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
 code: APS
-course_proficiencies: [beginner]
+course_proficiencies:
+- beginner
 introduction: |-
   Applying Professional Scrum™ (APS) is a hands-on, activity-based course where students experience how Professional Scrum and the Scrum framework enhance their ability to deliver value compared to traditional methods. Scrum offers a superior way of working by emphasizing experimentation, incremental delivery of customer value, frequent feedback loops, and fostering strong team dynamics.
 
@@ -130,44 +131,99 @@ audience:
 
     The course is designed for a wide range of industries and is domain-agnostic, providing essential knowledge for continuing education in various Scrum roles, while staying focused on NKD Agility's core values of competence, engineering excellence, and directness.
 trainers:
-  - /company/people/martin-hinshelwood/
+- /company/people/martin-hinshelwood/
 roadmap:
   next:
-    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
-    - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
-    - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events:
+  - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
+  - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
+  - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
+events: 
+
+---
+# Applying Professional Scrum (APS) Course with Certification
+
+**Course Code:** APS
+
 ---
 
-Welcome to the \[wpv-post-link\] course. This transformative learning journey is designed specifically for Team Members, Scrum Masters, Product Owners, and Managers keen to grasp and infuse Scrum values and principles into their work through practical case studies leveraging the engaging medium of Minecraft.
+## Overview
 
-The product landscape keeps evolving, and a comprehensive understanding of Scrum is beneficial and crucial for contemporary teams. Agile practices empower organisations to be more flexible, responsive, and efficient amidst fluctuating market dynamics.
+A hands-on, activity-based course where participants experience how Professional Scrum and the Scrum framework enhance value delivery compared to traditional methods. The course uses immersive exercises—including Minecraft simulations—to foster Agile principles, teamwork, and practical Scrum application, culminating in the opportunity to earn the Professional Scrum Master I (PSM I) certification.
 
-#### Learning Objectives
+---
 
-This course aims to help participants:
+## Target Audience
 
-- **Discover the Concept of Agility**: Explore the essence of agility and how Scrum stands apart from traditional plan-driven work models, using Minecraft as an engaging and illustrative medium.
-- **Cultivate an Agile Mindset**: Develop an Agile mindset by emphasizing professionalism, experimentation, and outcomes through creative building and problem-solving scenarios within Minecraft.
-- **Grasp the Essentials of Scrum**: Learn or refresh your knowledge of the fundamentals of Scrum and understand how to apply them accurately through in-game Scrum simulations in Minecraft.
-- **Experience Scrum in Action**: Gain insights into what it feels like to utilize Scrum by participating in Minecraft-based collaborative projects, and evaluate if Scrum is the appropriate approach for your team.
-- **Excel as a Scrum Team Member**: Learn how to become an exceptional member of a Scrum Team or facilitate a high-performing Scrum Team through teamwork, communication, and planning challenges in Minecraft.
-- **Identify and Evade Common Pitfalls**: Conclude the class with the ability to recognize common Scrum pitfalls and learn strategies to circumvent them, illustrated through Minecraft scenarios.
-- **Employ Proven Practices**: Engage in a set of tried-and-tested practices within the Minecraft environment during the class that can be transferred to enhance your real-life application of Scrum.
-- **Take Away Practical Tools**: Depart the course equipped with practical tools and strategies to assist in identifying the initial steps in applying Professional Scrum with your team.
+- Professionals currently working in a Scrum environment who need a refresher
+- New team members joining a Scrum team
+- Individuals not directly using Scrum but needing insight into Scrum practices for effective collaboration
+- Professionals assessing whether Scrum is suitable for them or their organization
+- Teams adopting Scrum in upcoming projects
+- Anyone interested in foundational Scrum knowledge for further role-based training
 
-Course Features:
+---
 
-- **Expert Facilitation**: The course is led by seasoned Agile practitioners who bring their real-world experience and provide insights into practical applications of Agile methodologies.
-- **Immersive Learning**: This course employs a blend of lectures, case studies, group discussions, and interactive exercises in Minecraft to establish a dynamic learning environment.
-- **Certification**: Upon completing the course and completing the assessment, participants will receive the Professional Scrum Master I certificate from Scrum.org.
+## Learning Outcomes
 
-This course is not merely an introduction to Scrum; it's a comprehensive exploration of Scrum’s capacity to revolutionise your delivery style, team, and entire organisation through empirical practices. It's vital training for those wishing to harness the potency of Scrum to augment their effectiveness and adaptability in an increasingly complex business environment.
+- Understand agility as a new way of working and how Scrum differs from traditional models
+- Develop an Agile mindset focused on professionalism, experimentation, and outcomes
+- Learn or refresh the fundamentals of Scrum and how to apply them correctly
+- Experience Scrum in action and assess its suitability for your team
+- Learn how to be an effective Scrum Team member or support a Scrum Team
+- Identify common Scrum pitfalls and strategies to avoid them
+- Apply proven Scrum practices during the course that can be transferred to real-world scenarios
+- Acquire practical tools to begin applying Professional Scrum with your team
 
-Join the \[wpv-post-link\] with Minecraft course and arm yourself with the knowledge, skills, and mindset needed to lead in the Agile world.
+---
 
-#### Why do we use Minecraft?
+## Course Topics
 
-To create a level playing field while maintaining a complex environment for teams to experience Sprints in the context of Scrum, we use Minecraft for Education. Minecraft allows team members to practice Scrum in the complex and chaotic environment of Minecraft to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
+- Agility and Agile Mindset
+- Scrum Framework and Roles
+- Planning and Forecasting with Scrum
+- Scrum Events and Artifacts
+- Team Collaboration and Performance
+- Identifying and Avoiding Common Pitfalls
+- Applying Scrum in Complex Environments (e.g., Minecraft simulations)
 
-The course also includes two free attempts at the globally recognized Professional Scrum Master I certification exam (PSM I)
+---
+
+## Delivery Format
+
+- Immersive, activity-based learning
+- Group discussions and team-based exercises
+- Interactive simulations (including Minecraft Education Edition)
+- Traditional and self-paced options available
+
+---
+
+## Proficiency Level
+
+- Beginner
+
+---
+
+## Course Length
+
+- 2 days
+
+---
+
+## Trainer/Designer
+
+- Martin Hinshelwood
+
+---
+
+## Vendor
+
+- Scrum.org
+
+---
+
+## Certification
+
+- Includes two free attempts at the Professional Scrum Master I (PSM I) certification exam from Scrum.org
+- Eligible for 14 PMI PDUs (for two-day attendance)
+
+---
