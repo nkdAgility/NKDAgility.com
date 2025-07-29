@@ -31,7 +31,7 @@
 
     {{- partial "infrastructure/head.html" . }}
   </head>
-  <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#">
+  <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#" data-nkda-renderGTM=" {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}true{{ else }}false{{- end }}">
     {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}
       <!-- Google Tag Manager (noscript) -->
       <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRVT65" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
