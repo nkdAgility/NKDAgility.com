@@ -43,6 +43,9 @@ tags:
 - Social Technologies
 - Agile Product Management
 - Agile Transformation
+Watermarks:
+  description: 2025-05-07T18:57:16Z
+  short_title: 2025-07-07T16:43:15Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,9 +56,6 @@ duration: 66
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T18:57:16Z
-  short_title: 2025-07-07T16:43:15Z
 
 ---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing—properly, consistently, and in a way that actually moves the needle for the business.

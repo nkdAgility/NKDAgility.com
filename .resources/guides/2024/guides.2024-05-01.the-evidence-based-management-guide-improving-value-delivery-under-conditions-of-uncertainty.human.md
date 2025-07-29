@@ -43,13 +43,13 @@ card:
     content: Learn More
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
+Watermarks:
+  description: 2025-05-07T12:57:55Z
+  short_title: 2025-07-07T16:40:37Z
 resourceTypes: guide
 recommendedContent: 
 videos: 
 creator: Martin Hinshelwood
-Watermarks:
-  description: 2025-05-07T12:57:55Z
-  short_title: 2025-07-07T16:40:37Z
 build:
   list: true
   render: true

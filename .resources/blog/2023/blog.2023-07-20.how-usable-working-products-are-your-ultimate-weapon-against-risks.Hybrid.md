@@ -37,14 +37,14 @@ tags:
 - Frequent Releases
 - Agile Transformation
 - Market Adaptability
+Watermarks:
+  description: 2025-05-07T13:10:36Z
+  short_title: 2025-07-07T17:53:53Z
 ResourceImportId: 49501
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-1.jpg
-Watermarks:
-  description: 2025-05-07T13:10:36Z
-  short_title: 2025-07-07T17:53:53Z
 
 ---
 It baffles me how some agile teams, who claim to be the pioneers of modernity, are living in archaic times where usable working products are as rare as unicorns! Just a heads-up, my dear agile practitioners: the linchpin of Agile is a Usable Working Product. Yes, you read it right!

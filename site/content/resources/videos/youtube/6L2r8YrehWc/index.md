@@ -35,12 +35,12 @@ tags:
 - Software Development
 - Agile Leadership
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:30Z
   short_title: 2025-07-07T17:53:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 6L2r8YrehWc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg

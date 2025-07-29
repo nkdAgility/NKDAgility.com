@@ -41,10 +41,10 @@ card:
     content: Learn More
   content: Discover more about "The Evidence-Based Management Guide and how it can help you in your Agile journey!
   title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-resourceTypes: guide
 Watermarks:
   description: 2025-05-07T12:58:05Z
   short_title: 2025-07-07T16:40:39Z
+resourceTypes: guide
 
 ---
 ### Version: 2020

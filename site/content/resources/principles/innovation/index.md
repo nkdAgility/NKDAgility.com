@@ -24,12 +24,12 @@ card:
     content: Start Optimizing Now
   title: Innovation
   content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
-creator: Martin Hinshelwood
-draft: true
-resourceTypes: principle
 Watermarks:
   description: 2025-05-07T12:57:46Z
   short_title: 2025-07-07T17:48:05Z
+creator: Martin Hinshelwood
+draft: true
+resourceTypes: principle
 
 ---
 Coming soon!

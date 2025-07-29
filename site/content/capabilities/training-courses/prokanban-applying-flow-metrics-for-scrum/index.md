@@ -43,6 +43,9 @@ card:
     content: ""
   title: Applying Flow Metrics for Scrum
   content: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
+Watermarks:
+  description: 2025-07-29T15:00:55Z
+  short_title: 2025-07-29T15:00:56Z
 creator: Martin Hinshelwood
 type: course
 url: /training-courses/kanban-training-courses/:slug/
@@ -89,9 +92,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:00:55Z
-  short_title: 2025-07-29T15:00:56Z
 
 ---
 # Applying Flow Metrics for Scrum

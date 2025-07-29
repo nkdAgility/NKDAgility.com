@@ -22,11 +22,11 @@ concepts: []
 categories:
 - Scrum
 tags: []
-preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:39Z
   short_title: 2025-07-07T17:57:17Z
+preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
+resourceTypes: newsletter
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

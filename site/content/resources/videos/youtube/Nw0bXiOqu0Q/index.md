@@ -36,12 +36,12 @@ tags:
 - Software Development
 - Market Adaptability
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:10Z
   short_title: 2025-07-07T17:56:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Nw0bXiOqu0Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg

@@ -17,11 +17,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: class-marketing-Q32021.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:56:49Z
   short_title: 2025-07-07T17:47:14Z
+preview: class-marketing-Q32021.jpg
+resourceTypes: newsletter
 
 ---
 Dear Valued Clients,

@@ -34,12 +34,12 @@ tags:
 - Organisational Agility
 - Sociotechnical Systems
 - Agile Philosophy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:24Z
   short_title: 2025-07-07T17:50:15Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Ca_0rw9AUlg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg

@@ -44,12 +44,12 @@ tags:
 - Continuous Improvement
 - Azure DevOps
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:57Z
   short_title: 2025-07-07T17:46:58Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: YVrGU0oZmc0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g

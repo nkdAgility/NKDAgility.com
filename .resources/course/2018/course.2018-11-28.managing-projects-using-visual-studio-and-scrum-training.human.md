@@ -32,6 +32,9 @@ card:
     content: ""
   title: Managing Projects Using Visual Studio and Scrum Training
   content: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
+Watermarks:
+  description: 2025-07-29T15:01:45Z
+  short_title: 2025-07-29T15:01:46Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
@@ -71,9 +74,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:45Z
-  short_title: 2025-07-29T15:01:46Z
 
 ---
 # Managing Projects Using Visual Studio and Scrum Training

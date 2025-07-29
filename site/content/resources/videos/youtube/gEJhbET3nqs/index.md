@@ -32,12 +32,12 @@ tags:
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:30Z
   short_title: 2025-07-07T17:57:54Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg

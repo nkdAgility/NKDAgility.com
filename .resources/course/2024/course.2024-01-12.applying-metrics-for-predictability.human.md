@@ -35,6 +35,9 @@ card:
     content: ""
   title: Applying Metrics for Predictability
   content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
+Watermarks:
+  description: 2025-07-29T15:00:57Z
+  short_title: 2025-07-29T15:00:59Z
 creator: Martin Hinshelwood
 type: course
 url: /training-courses/kanban-training-courses/:slug/
@@ -83,9 +86,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:00:57Z
-  short_title: 2025-07-29T15:00:59Z
 
 ---
 # Applying Metrics for Predictability

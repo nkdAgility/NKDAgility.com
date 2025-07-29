@@ -26,6 +26,9 @@ categories:
 tags:
 - Decision Making
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-07-24T15:15:30Z
+  short_title: 2025-07-24T15:15:31Z
 videoId: WnRIGIGnlbo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WnRIGIGnlbo/maxresdefault.jpg
@@ -36,9 +39,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:15:30Z
-  short_title: 2025-07-24T15:15:31Z
 
 ---
 Not every shiny object deserves your attention or your budget. Yet, if you’re anything like me, you know the feeling when the next big thing is lighting up your inbox. The industry chatter is relentless. Your team is eager to experiment. A competitor just shipped something with it, and suddenly, you’re left holding the bag—wondering if you’re risking irrelevance by not jumping in.

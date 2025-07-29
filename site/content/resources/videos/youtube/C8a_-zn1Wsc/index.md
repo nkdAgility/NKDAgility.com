@@ -37,12 +37,12 @@ tags:
 - Coaching
 - Continuous Improvement
 - Agile Philosophy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:59Z
   short_title: 2025-07-07T17:49:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: C8a_-zn1Wsc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg

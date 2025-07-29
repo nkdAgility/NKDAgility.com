@@ -30,12 +30,12 @@ tags:
 - Scrum Master
 - Software Development
 - Competence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:48Z
   short_title: 2025-07-07T17:57:24Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg

@@ -37,6 +37,8 @@ card:
   content: |2
 
     Professional Agile Leadership (PAL) Essentials is a 14h workshop, delivered over four half-days that provides a foundation of the role that leaders play in creating the conditions for a successful agile transformation.
+Watermarks:
+  description: 2025-07-29T15:01:51Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -97,8 +99,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:51Z
 
 ---
 # Professional Agile Leadership Essentials (PAL-e) with Certification

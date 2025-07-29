@@ -42,6 +42,8 @@ card:
     content: ""
   title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
   content: Step into the dynamic world of Scrum with our 'Professional Scrum Product Backlog Mastery' course. Unlock the secrets of effective backlog management, stakeholder engagement, and data-driven decision-making. Whether you're a seasoned Scrum Master or an aspiring Product Owner, this course promises to elevate your skills, offering a blend of theory and real-world application. Dive in, and let's turn your Scrum visions into actionable strategies.
+Watermarks:
+  description: 2025-07-29T15:01:04Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -94,8 +96,6 @@ audience:
 trainers: 
 roadmap: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:04Z
 
 ---
 # Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification

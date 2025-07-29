@@ -41,13 +41,13 @@ tags:
 - Release Management
 - Technical Debt
 - Agile Transformation
+Watermarks:
+  description: 2025-05-07T13:15:21Z
+  short_title: 2025-07-07T17:57:47Z
 ResourceImportId: 9714
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
-Watermarks:
-  description: 2025-05-07T13:15:21Z
-  short_title: 2025-07-07T17:57:47Z
 
 ---
 Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.

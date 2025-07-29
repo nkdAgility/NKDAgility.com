@@ -34,14 +34,14 @@ tags:
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T13:10:51Z
+  short_title: 2025-07-07T17:54:01Z
 ResourceImportId: 49495
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-1.jpg
-Watermarks:
-  description: 2025-05-07T13:10:51Z
-  short_title: 2025-07-07T17:54:01Z
 
 ---
 As the [software development]({{< ref "/tags/software-development" >}}) landscape evolves, evaluating the time-tested traditional [project management]({{< ref "/tags/project-management" >}}) strategies alongside the burgeoning agile methodologies is essential. The central tenet I would like to explore today is comparing using usable working products as a risk mitigation strategy in Agile with the elaborate documentation characteristic of traditional project management.

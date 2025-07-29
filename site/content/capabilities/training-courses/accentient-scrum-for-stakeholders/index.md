@@ -32,6 +32,9 @@ card:
     content: ""
   title: Scrum for Stakeholders Training
   content: ""
+Watermarks:
+  description: 2025-07-29T15:01:30Z
+  short_title: 2025-07-29T15:01:31Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -80,9 +83,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:30Z
-  short_title: 2025-07-29T15:01:31Z
 
 ---
 # Scrum for Stakeholders Training

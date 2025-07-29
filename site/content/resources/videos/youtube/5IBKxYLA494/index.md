@@ -43,12 +43,12 @@ tags:
 - Team Collaboration
 - Working Software
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:20Z
   short_title: 2025-07-07T17:49:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg

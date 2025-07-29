@@ -26,10 +26,10 @@ tags:
 - Continuous Learning
 - Competence
 - Organisational Agility
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:11:09Z
   short_title: 2025-07-07T17:54:16Z
+resourceTypes: newsletter
 
 ---
 Dear NKD Agilists!

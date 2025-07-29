@@ -34,6 +34,9 @@ card:
     content: ""
   title: Mastering Azure Repos Training
   content: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
+Watermarks:
+  description: 2025-07-29T15:01:22Z
+  short_title: 2025-07-29T15:01:23Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -74,9 +77,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:22Z
-  short_title: 2025-07-29T15:01:23Z
 
 ---
 # Mastering Azure Repos Training

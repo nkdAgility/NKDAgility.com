@@ -37,6 +37,9 @@ card:
     content: ""
   title: Continuous Delivery Using Azure DevOps Services Training
   content: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
+Watermarks:
+  description: 2025-07-29T15:01:47Z
+  short_title: 2025-07-29T15:01:48Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
@@ -74,9 +77,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:47Z
-  short_title: 2025-07-29T15:01:48Z
 
 ---
 # Continuous Delivery Using Azure DevOps Services Training

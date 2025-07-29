@@ -25,10 +25,10 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Organisational Agility
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:09:07Z
   short_title: 2025-07-07T17:52:43Z
+resourceTypes: newsletter
 
 ---
 **🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

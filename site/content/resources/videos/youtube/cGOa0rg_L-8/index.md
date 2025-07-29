@@ -45,12 +45,12 @@ tags:
 - Release Management
 - Agile Planning
 - Continuous Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:25Z
   short_title: 2025-07-07T17:48:51Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: cGOa0rg_L-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg

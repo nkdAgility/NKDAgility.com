@@ -27,6 +27,9 @@ card:
     content: Enhance Your Teams Skills
   title: Product Development Mentoring
   content: Our NKDAgility’s Product Development Mentor Program now integrates DevOps, platform engineering, and agile methodologies to foster engineering excellence in a modern, holistic approach.
+Watermarks:
+  description: 2025-07-29T15:02:02Z
+  short_title: 2025-07-29T15:02:03Z
 creator: Martin Hinshelwood
 type: mentor-program
 course_vendors:
@@ -167,9 +170,6 @@ sections:
   - resources/videos/youtube/ZcMcVL7mNGU
   - resources/videos/youtube/EyqLSLHk_Ik
   source: data
-Watermarks:
-  description: 2025-07-29T15:02:02Z
-  short_title: 2025-07-29T15:02:03Z
 
 ---
 # Product Development Mentoring Program

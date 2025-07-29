@@ -40,6 +40,9 @@ card:
     content: ""
   title: Practicing Kanban Using Azure Boards
   content: All software development teams aim to enhance flow and throughput. This one-day course combines Kanban principles with Azure Boards, showing agile teams how to configure and effectively use the platform for Kanban practices. Participants will collaborate in teams on a shared project and case study to maximize learning.
+Watermarks:
+  description: 2025-07-29T15:01:34Z
+  short_title: 2025-07-29T15:01:35Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
@@ -139,9 +142,6 @@ events:
     - 2
     - 3
     - 4
-Watermarks:
-  description: 2025-07-29T15:01:34Z
-  short_title: 2025-07-29T15:01:35Z
 
 ---
 # Practicing Kanban Using Azure Boards

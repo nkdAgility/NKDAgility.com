@@ -17,10 +17,10 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:13:26Z
   short_title: 2025-07-07T17:56:07Z
+resourceTypes: podcast
 
 ---
 In this month's edition of [#agileactually](https://www.youtube.com/hashtag/agileactually), Simon Reindl and Martin Hinshelwood explore the latest trend in [#agile](https://www.youtube.com/hashtag/agile) for a life coach to present themselves as an [#agilecoach](https://www.youtube.com/hashtag/agilecoach) to organizations.

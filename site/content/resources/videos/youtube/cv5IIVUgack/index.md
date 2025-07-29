@@ -27,12 +27,12 @@ categories:
 tags:
 - Continuous Learning
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:21Z
   short_title: 2025-07-07T17:54:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: cv5IIVUgack
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg

@@ -39,6 +39,8 @@ card:
     content: ""
   title: Professional Scrum Master and Product Owner (PSMPO) with Certification
   content: Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master (PSM) and Professional Scrum Product Owner (PSPO) courses.
+Watermarks:
+  description: 2025-07-29T15:01:10Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -149,8 +151,6 @@ offering:
     colour: ""
   code: PSMPO
   courseIcon: Scrumorg-Course-PSMPO-400x.png
-Watermarks:
-  description: 2025-07-29T15:01:10Z
 
 ---
 # Professional Scrum Master and Product Owner (PSMPO) with Certification

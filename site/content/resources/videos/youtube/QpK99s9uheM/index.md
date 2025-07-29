@@ -30,12 +30,12 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:14Z
   short_title: 2025-07-07T17:55:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg

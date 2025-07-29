@@ -36,12 +36,12 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:36Z
   short_title: 2025-07-07T17:53:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: LpiLOBG7WgI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg

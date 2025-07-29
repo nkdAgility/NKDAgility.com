@@ -53,12 +53,12 @@ platform_signals:
   post_url: https://www.prokanban.org/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
   post_date: 2025-05-22T09:00:00Z
   post_type: crosspost
-AudioNative: true
-creator: Martin Hinshelwood
-resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:20Z
   short_title: 2025-07-07T16:45:40Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!

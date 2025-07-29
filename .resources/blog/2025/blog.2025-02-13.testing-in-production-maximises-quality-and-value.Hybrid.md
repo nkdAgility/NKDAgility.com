@@ -44,14 +44,14 @@ tags:
 - Value Delivery
 - Deployment Strategies
 - Frequent Releases
+Watermarks:
+  description: 2025-05-07T12:49:38Z
+  short_title: 2025-07-07T17:46:34Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
-Watermarks:
-  description: 2025-05-07T12:49:38Z
-  short_title: 2025-07-07T17:46:34Z
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

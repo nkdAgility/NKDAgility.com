@@ -43,12 +43,12 @@ tags:
 - Operational Practices
 - Product Delivery
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:27Z
   short_title: 2025-07-07T17:47:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: EMJyUOy2gP4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg

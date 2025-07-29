@@ -34,12 +34,12 @@ tags:
 - Product Owner
 - Pragmatic Thinking
 - Product Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:45Z
   short_title: 2025-07-07T17:48:24Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Qzw3FSl6hy4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg

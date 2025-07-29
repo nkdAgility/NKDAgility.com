@@ -23,6 +23,9 @@ concepts:
 categories:
 - Leadership
 tags: []
+Watermarks:
+  description: 2025-07-24T15:16:16Z
+  short_title: 2025-07-24T15:16:16Z
 videoId: JahDQ6odH0w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JahDQ6odH0w/maxresdefault.jpg
@@ -33,9 +36,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:16:16Z
-  short_title: 2025-07-24T15:16:16Z
 
 ---
 AI, microservices, new frameworks every month. If you’re a CTO or technical leader right now, it probably feels like you’re drowning in decisions. I see it everywhere I go—every time you turn around, there’s a new tool, a new practice, a new expectation. And everyone’s looking at you to make the right call. Not just technically, but strategically. The pressure is relentless.

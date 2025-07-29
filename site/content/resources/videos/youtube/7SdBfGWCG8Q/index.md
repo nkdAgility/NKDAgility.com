@@ -32,12 +32,12 @@ tags:
 - Scrum Team
 - Coaching
 - Social Technologies
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:58Z
   short_title: 2025-07-07T17:49:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 7SdBfGWCG8Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg

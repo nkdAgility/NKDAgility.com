@@ -33,12 +33,12 @@ tags:
 - Team Collaboration
 - Coaching
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:56Z
   short_title: 2025-07-07T17:49:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: yQlrN2OviCU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg

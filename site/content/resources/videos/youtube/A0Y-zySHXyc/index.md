@@ -28,12 +28,12 @@ categories:
 - Scrum
 - Product Management
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:03Z
   short_title: 2025-07-07T17:52:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: A0Y-zySHXyc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg

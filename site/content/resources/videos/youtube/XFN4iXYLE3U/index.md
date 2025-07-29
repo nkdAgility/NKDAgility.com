@@ -38,12 +38,12 @@ tags:
 - Flow Efficiency
 - Lean Principles
 - Lean Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:31Z
   short_title: 2025-07-07T17:48:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: XFN4iXYLE3U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg

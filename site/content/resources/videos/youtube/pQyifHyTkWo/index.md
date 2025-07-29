@@ -31,6 +31,9 @@ categories:
 - Uncategorized
 tags:
 - Software Development
+Watermarks:
+  description: 2025-05-07T12:49:13Z
+  short_title: 2025-07-07T16:44:45Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,9 +44,6 @@ duration: 120
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:13Z
-  short_title: 2025-07-07T16:44:45Z
 
 ---
 As I sit down to reflect on the evolution of software architecture, I can’t help but think about the many conversations I’ve had with CTOs and engineering leads grappling with the challenges of monolithic systems. If you’re in this position, you might be feeling the weight of a system that’s slowing you down, becoming increasingly difficult to maintain, or simply failing to provide the flexibility your business needs. The thought of transitioning to microservices may have crossed your mind, and I can assure you, that’s a step in the right direction.

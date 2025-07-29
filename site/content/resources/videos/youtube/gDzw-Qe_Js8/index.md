@@ -40,6 +40,9 @@ tags:
 - Continuous Improvement
 - Empirical Process Control
 - Team Performance
+Watermarks:
+  description: 2025-07-24T15:11:44Z
+  short_title: 2025-07-24T15:11:46Z
 videoId: gDzw-Qe_Js8
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gDzw-Qe_Js8/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCaDw4_qASDFmlS-dZFdb3kyoO16w
@@ -50,9 +53,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:11:44Z
-  short_title: 2025-07-24T15:11:46Z
 
 ---
 Engineering Excellence: Why Perfection Is the Wrong Goal

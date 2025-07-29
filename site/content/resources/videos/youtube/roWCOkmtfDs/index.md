@@ -42,12 +42,12 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:40Z
   short_title: 2025-07-07T17:48:20Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: roWCOkmtfDs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg

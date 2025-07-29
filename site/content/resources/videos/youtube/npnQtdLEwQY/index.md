@@ -31,12 +31,12 @@ tags:
 - Software Development
 - Technical Mastery
 - Engineering Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:38Z
   short_title: 2025-07-07T17:47:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: npnQtdLEwQY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A

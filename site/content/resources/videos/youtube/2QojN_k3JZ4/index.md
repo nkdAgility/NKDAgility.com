@@ -29,12 +29,12 @@ tags:
 - Definition of Done
 - Software Development
 - Working Software
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:10Z
   short_title: 2025-07-07T17:51:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg

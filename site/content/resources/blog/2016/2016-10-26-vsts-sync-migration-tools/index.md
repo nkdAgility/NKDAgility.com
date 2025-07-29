@@ -21,13 +21,13 @@ concepts:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:16:41Z
+  short_title: 2025-07-07T17:58:57Z
 ResourceImportId: 11634
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image_thumb-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:41Z
-  short_title: 2025-07-07T17:58:57Z
 
 ---
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.

@@ -43,12 +43,12 @@ tags:
 - Pragmatic Thinking
 - Customer Focus
 - Engineering Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:50:00Z
   short_title: 2025-07-07T17:47:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: D1wz-J1jklQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg

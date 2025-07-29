@@ -38,6 +38,9 @@ tags:
 - Business Agility
 - Organisational Change
 - Engineering Practices
+Watermarks:
+  description: 2025-07-24T14:48:31Z
+  short_title: 2025-07-24T14:48:31Z
 videoId: vc1_x8KxSa0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vc1_x8KxSa0/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAZ5bxP5lppMgpy3CqWGZTcmuZwYw
@@ -48,9 +51,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T14:48:31Z
-  short_title: 2025-07-24T14:48:31Z
 
 ---
 Moving from Legacy Mindset to Engineering Excellence: Why Big Bang Rewrites Fail and Sustainable Change Wins

@@ -41,6 +41,9 @@ card:
     content: Learn More
   content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
   title: Sprint Review Recipe
+Watermarks:
+  description: 2025-05-07T12:57:45Z
+  short_title: 2025-07-07T17:48:02Z
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 creator: Martin Hinshelwood
@@ -62,9 +65,6 @@ videos:
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
-Watermarks:
-  description: 2025-05-07T12:57:45Z
-  short_title: 2025-07-07T17:48:02Z
 
 ---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the purpose is to inspect the [increment]({{< ref "/tags/increment" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref "/tags/product-backlog" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.

@@ -37,12 +37,12 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Beta Codex
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:14Z
   short_title: 2025-07-07T17:56:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 8nQ0VJ1CdqU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg

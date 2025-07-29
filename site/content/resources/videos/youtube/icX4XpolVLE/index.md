@@ -38,12 +38,12 @@ tags:
 - Continuous Improvement
 - Continuous Learning
 - Technical Excellence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:19Z
   short_title: 2025-07-07T17:49:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg

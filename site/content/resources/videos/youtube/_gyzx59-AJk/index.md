@@ -47,12 +47,12 @@ tags:
 - Product Delivery
 - Value Delivery
 - Enterprise Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:49Z
   short_title: 2025-07-07T17:46:47Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: _gyzx59-AJk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg

@@ -36,12 +36,12 @@ tags:
 - Agile Planning Tools
 - Operational Practices
 - Customer Focus
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:21Z
   short_title: 2025-07-07T17:51:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: TYpgtgaOXv4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg

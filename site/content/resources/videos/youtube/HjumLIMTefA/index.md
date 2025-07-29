@@ -36,12 +36,12 @@ tags:
 - Change Management
 - Competence
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:00Z
   short_title: 2025-07-07T17:49:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: HjumLIMTefA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg

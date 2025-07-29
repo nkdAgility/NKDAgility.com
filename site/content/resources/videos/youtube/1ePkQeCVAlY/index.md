@@ -28,12 +28,12 @@ tags:
 - Flow Efficiency
 - Operational Practices
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:45Z
   short_title: 2025-07-07T17:56:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 1ePkQeCVAlY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1ePkQeCVAlY/maxresdefault.jpg

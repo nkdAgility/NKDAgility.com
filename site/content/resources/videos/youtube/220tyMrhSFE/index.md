@@ -31,12 +31,12 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Definition of Workflow
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:05Z
   short_title: 2025-07-07T17:48:31Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg

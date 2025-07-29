@@ -42,12 +42,12 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:29Z
   short_title: 2025-07-07T17:53:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: v1sMbKpQndU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg

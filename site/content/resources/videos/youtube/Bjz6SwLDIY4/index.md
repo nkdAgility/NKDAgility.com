@@ -29,12 +29,12 @@ tags:
 - Business Agility
 - Organisational Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:26Z
   short_title: 2025-07-07T17:50:17Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Bjz6SwLDIY4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg

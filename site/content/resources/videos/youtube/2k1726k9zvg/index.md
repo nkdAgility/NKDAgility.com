@@ -30,12 +30,12 @@ tags:
 - Software Development
 - Scrum Master
 - Professional Scrum
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:27Z
   short_title: 2025-07-07T17:56:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg

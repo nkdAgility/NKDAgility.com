@@ -34,12 +34,12 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:13Z
   short_title: 2025-07-07T17:55:54Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: vI_qQ7-1z2E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg

@@ -31,12 +31,12 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:06Z
   short_title: 2025-07-07T17:48:32Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: sXmXT_MDXTo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg

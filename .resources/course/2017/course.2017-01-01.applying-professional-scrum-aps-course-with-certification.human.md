@@ -42,6 +42,8 @@ card:
     content: ""
   title: Applying Professional Scrum (APS) Course with Certification
   content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
+Watermarks:
+  description: 2025-07-29T15:01:55Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -130,8 +132,6 @@ roadmap:
   - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
   - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:55Z
 
 ---
 # Applying Professional Scrum (APS) Course with Certification

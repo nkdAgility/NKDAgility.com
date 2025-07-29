@@ -29,12 +29,12 @@ tags:
 - Pragmatic Thinking
 - Product Discovery
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:43Z
   short_title: 2025-07-07T17:48:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: OFUsZq0TKoo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg

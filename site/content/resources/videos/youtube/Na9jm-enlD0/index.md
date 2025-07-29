@@ -30,12 +30,12 @@ categories:
 tags:
 - Entrepreneurship
 - Decision Theory
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:20Z
   short_title: 2025-07-07T17:52:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Na9jm-enlD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg

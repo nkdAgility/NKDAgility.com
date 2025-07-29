@@ -31,12 +31,12 @@ categories:
 - Product Management
 tags:
 - Product Owner
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:55Z
   short_title: 2025-07-07T17:50:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg

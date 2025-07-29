@@ -42,12 +42,12 @@ tags:
 - Sociotechnical Systems
 - Technical Debt
 - Technical Excellence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:41Z
   short_title: 2025-07-07T17:58:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg

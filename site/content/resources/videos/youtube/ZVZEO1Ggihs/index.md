@@ -35,6 +35,9 @@ tags:
 - Organisational Agility
 - Organisational Culture
 - Sociotechnical Systems
+Watermarks:
+  description: 2025-05-07T12:49:27Z
+  short_title: 2025-07-07T17:46:09Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,9 +48,6 @@ duration: 77
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:27Z
-  short_title: 2025-07-07T17:46:09Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't merely a technical challenge; it’s fundamentally a [leadership]({{< ref "/categories/leadership" >}}) challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.

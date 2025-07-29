@@ -44,6 +44,9 @@ tags:
 - Organisational Agility
 - Working Software
 - Increment
+Watermarks:
+  description: 2025-05-07T20:36:57Z
+  short_title: 2025-07-07T16:44:05Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,9 +57,6 @@ duration: 60
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-07T20:36:57Z
-  short_title: 2025-07-07T16:44:05Z
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

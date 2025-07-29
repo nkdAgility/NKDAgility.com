@@ -43,12 +43,12 @@ tags:
 - Software Development
 - Value Delivery
 - Working Software
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:15Z
   short_title: 2025-07-07T17:54:20Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg

@@ -23,14 +23,14 @@ concepts: []
 categories:
 - Leadership
 tags: []
+Watermarks:
+  description: 2025-05-07T13:15:00Z
+  short_title: 2025-07-07T17:57:34Z
 ResourceImportId: 45806
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-2-2.png
-Watermarks:
-  description: 2025-05-07T13:15:00Z
-  short_title: 2025-07-07T17:57:34Z
 
 ---
 [Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.

@@ -28,12 +28,12 @@ categories:
 tags:
 - Agile Frameworks
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:20Z
   short_title: 2025-07-07T17:55:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: o-wVeh3CIVI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg

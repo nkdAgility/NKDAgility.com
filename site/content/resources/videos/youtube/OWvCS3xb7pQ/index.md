@@ -32,12 +32,12 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Organisational Change
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:41Z
   short_title: 2025-07-07T17:53:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg

@@ -27,12 +27,12 @@ categories:
 tags:
 - Software Development
 - Shift Left Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:02Z
   short_title: 2025-07-07T17:47:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: r2G-NrSIj2k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg

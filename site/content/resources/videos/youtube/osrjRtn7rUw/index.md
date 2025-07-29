@@ -28,6 +28,9 @@ tags:
 - Evidence Based Leadership
 - Product Strategy
 - Agile Strategy
+Watermarks:
+  description: 2025-07-24T15:13:09Z
+  short_title: 2025-07-24T15:13:10Z
 videoId: osrjRtn7rUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/osrjRtn7rUw/maxresdefault.jpg
@@ -38,9 +41,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:13:09Z
-  short_title: 2025-07-24T15:13:10Z
 
 ---
 I’ve lost count of the number of times I’ve sat in a boardroom and heard, “Our competitor is moving to Kubernetes—why aren’t we?” The pressure is palpable. Executives want to know why we’re not following the herd. Vendors are relentless, armed with glossy case studies and promises of transformation. It’s all too easy to start doubting your own roadmap when every headline screams about the latest trend.

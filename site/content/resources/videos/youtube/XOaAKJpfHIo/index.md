@@ -30,12 +30,12 @@ tags:
 - Value Delivery
 - Product Delivery
 - Customer Focus
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:02Z
   short_title: 2025-07-07T17:56:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: XOaAKJpfHIo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg

@@ -36,12 +36,12 @@ tags:
 - Pragmatic Thinking
 - Backlog Refinement
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:22Z
   short_title: 2025-07-07T17:51:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg

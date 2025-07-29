@@ -32,6 +32,9 @@ card:
     content: ""
   title: Assuring Quality Using Azure Test Plans Training
   content: Azure DevOps provides a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software.
+Watermarks:
+  description: 2025-07-29T15:01:19Z
+  short_title: 2025-07-29T15:01:21Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
@@ -70,9 +73,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:19Z
-  short_title: 2025-07-29T15:01:21Z
 
 ---
 # Assuring Quality Using Azure Test Plans Training

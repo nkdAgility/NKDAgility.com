@@ -36,6 +36,9 @@ tags:
 - Product Delivery
 - Change Management
 - Organisational Agility
+Watermarks:
+  description: 2025-05-07T19:54:52Z
+  short_title: 2025-07-07T16:43:38Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,9 +49,6 @@ duration: 75
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T19:54:52Z
-  short_title: 2025-07-07T16:43:38Z
 
 ---
 Legacy Systems: Why Modernisation Should Be a Strategy, Not a Gamble

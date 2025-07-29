@@ -30,12 +30,12 @@ categories:
 - DevOps
 tags:
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:49Z
   short_title: 2025-07-07T17:54:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg

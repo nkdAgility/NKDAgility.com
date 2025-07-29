@@ -33,10 +33,10 @@ tags:
 - Transparency
 - Working Software
 - Increment
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:48:53Z
   short_title: 2025-07-07T16:43:12Z
+creator: Martin Hinshelwood
 
 ---
 Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.

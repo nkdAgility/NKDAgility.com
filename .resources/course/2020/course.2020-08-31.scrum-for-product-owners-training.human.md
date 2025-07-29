@@ -39,6 +39,9 @@ card:
   content: |2
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
+Watermarks:
+  description: 2025-07-29T15:01:27Z
+  short_title: 2025-07-29T15:01:28Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -86,9 +89,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:27Z
-  short_title: 2025-07-29T15:01:28Z
 
 ---
 # Scrum for Product Owners Training

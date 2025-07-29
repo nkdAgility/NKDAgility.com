@@ -42,12 +42,12 @@ tags:
 - Change Management
 - Competence
 - Mentoring
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:33Z
   short_title: 2025-07-07T17:51:31Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 1VzbtRspOsM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg

@@ -17,10 +17,10 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-resourceTypes: podcast
 Watermarks:
   description: 2025-05-07T13:05:14Z
   short_title: 2025-07-07T17:49:19Z
+resourceTypes: podcast
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

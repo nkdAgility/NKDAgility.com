@@ -34,12 +34,12 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Scrum Master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:57Z
   short_title: 2025-07-07T17:53:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 8gAWNn2RQgU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg

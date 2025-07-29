@@ -46,12 +46,12 @@ platform_signals:
 - platform: Youtube
   post_url: https://www.youtube.com/watch?v=4YixczaREUw
   post_date: 2024-05-06
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:10Z
   short_title: 2025-07-07T17:49:17Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg

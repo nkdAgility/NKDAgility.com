@@ -37,12 +37,12 @@ tags:
 - Competence
 - Value Delivery
 - Engineering Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:01:45Z
   short_title: 2025-07-07T17:48:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: KXvd_oyLe3Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg

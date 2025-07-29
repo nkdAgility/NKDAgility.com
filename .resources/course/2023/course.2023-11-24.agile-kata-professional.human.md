@@ -31,6 +31,9 @@ card:
     content: ""
   title: Agile Kata Professional
   content: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
+Watermarks:
+  description: 2025-07-29T15:01:02Z
+  short_title: 2025-07-29T15:01:02Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -75,9 +78,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:02Z
-  short_title: 2025-07-29T15:01:02Z
 
 ---
 # Agile Kata Professional

@@ -26,12 +26,12 @@ categories:
 - Uncategorized
 tags:
 - Remote Working
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:19Z
   short_title: 2025-07-07T17:56:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Y7Cd1aocMKM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg

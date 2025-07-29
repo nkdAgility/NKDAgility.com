@@ -22,10 +22,10 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:13:08Z
   short_title: 2025-07-07T17:55:49Z
+resourceTypes: newsletter
 
 ---
 The world is spinning faster than ever, with more players than ever.

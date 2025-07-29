@@ -43,12 +43,12 @@ tags:
 - Agile Strategy
 - Common Goals
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:17Z
   short_title: 2025-07-07T17:48:42Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: KvZbBwzxSu4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg

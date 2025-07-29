@@ -25,13 +25,13 @@ card:
     content: Learn More
   content: Discover more about Self-Organization and how it can help you in your Agile journey!
   title: Self-Organization
+Watermarks:
+  description: 2025-05-07T12:57:51Z
+  short_title: 2025-07-07T17:48:07Z
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
 draft: true
-Watermarks:
-  description: 2025-05-07T12:57:51Z
-  short_title: 2025-07-07T17:48:07Z
 
 ---
 Self-Organization: [Scrum]({{< ref "/categories/scrum" >}}) teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the [Scrum Master]({{< ref "/tags/scrum-master" >}}) helps to facilitate and guide the process

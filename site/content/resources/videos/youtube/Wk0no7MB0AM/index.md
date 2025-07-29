@@ -29,12 +29,12 @@ categories:
 tags:
 - Scrum Master
 - Scrum Team
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:14Z
   short_title: 2025-07-07T17:52:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg

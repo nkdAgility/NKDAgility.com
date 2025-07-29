@@ -34,12 +34,12 @@ tags:
 - Agile Planning
 - Business Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:35Z
   short_title: 2025-07-07T17:47:51Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: XhPHa1RXrWo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg

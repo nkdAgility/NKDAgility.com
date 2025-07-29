@@ -34,12 +34,12 @@ card:
     content: Learn More
   content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
   title: Detecting Agile BS
-resourceTypes: guide
-image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:58:02Z
   short_title: 2025-07-07T16:40:40Z
+resourceTypes: guide
+image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
+creator: Martin Hinshelwood
 
 ---
 # DIB Guide: Detecting Agile BS

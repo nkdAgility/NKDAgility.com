@@ -29,6 +29,9 @@ tags:
 - Technical Mastery
 - Product Delivery
 - Operational Practices
+Watermarks:
+  description: 2025-07-24T14:48:58Z
+  short_title: 2025-07-24T14:48:59Z
 videoId: X9eHflTb1Es
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/X9eHflTb1Es/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBA5BlXmnA6HN8yMMEBDx9K_CkqKQ
@@ -39,9 +42,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T14:48:58Z
-  short_title: 2025-07-24T14:48:59Z
 
 ---
 One of the most overlooked, yet powerful, stories in the world of Azure DevOps is its approach to governance, security, compliance, and scalability. I see this time and again—organisations get so caught up in the bells and whistles of tooling that they forget the real value often lies in the things you get out of the box. With Azure DevOps, these critical capabilities aren’t afterthoughts or bolt-ons; they’re baked right in from the start. And that, in my experience, is a game-changer.

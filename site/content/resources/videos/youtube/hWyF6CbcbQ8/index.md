@@ -25,12 +25,12 @@ concepts: []
 categories:
 - DevOps
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:25Z
   short_title: 2025-07-07T17:47:43Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg

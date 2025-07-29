@@ -22,13 +22,13 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:15:57Z
+  short_title: 2025-07-07T17:58:16Z
 ResourceImportId: 44209
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2020-03-27_21-36-13-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:15:57Z
-  short_title: 2025-07-07T17:58:16Z
 
 ---
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.

@@ -35,12 +35,12 @@ tags:
 - Engineering Practices
 - Pragmatic Thinking
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:58Z
   short_title: 2025-07-07T17:46:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: tKEl0YVeWv4
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw

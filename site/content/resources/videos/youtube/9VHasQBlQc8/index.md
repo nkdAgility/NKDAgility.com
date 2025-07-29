@@ -37,12 +37,12 @@ tags:
 - Agile Strategy
 - Business Agility
 - Psychological Safety
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:09Z
   short_title: 2025-07-07T17:51:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 9VHasQBlQc8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg

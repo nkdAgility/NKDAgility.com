@@ -40,13 +40,13 @@ tags:
 - Change Management
 - Pragmatic Thinking
 - Organisational Culture
+Watermarks:
+  description: 2025-05-07T13:16:22Z
+  short_title: 2025-07-07T17:58:38Z
 ResourceImportId: 11214
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
-Watermarks:
-  description: 2025-05-07T13:16:22Z
-  short_title: 2025-07-07T17:58:38Z
 
 ---
 Other scaled [agile frameworks]({{< ref "/tags/agile-frameworks" >}}) employ a cookie-cutter approach to [organisational agility]({{< ref "/tags/organisational-agility" >}}). While I accept that they may have worked somewhere once, the likelihood that the same approach will work in your organisation is small. They were created to get a unique company from their existing state to their personal vision of where they wanted to be. To increase the likelihood of success you need a framework that guides you to change your organisation in an incremental and custom fashion towards your own vision. Cookie-cutter approaches will not work for you.

@@ -36,12 +36,12 @@ tags:
 - Operational Practices
 - Organisational Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:42Z
   short_title: 2025-07-07T17:46:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: yvIanYh3bcQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yvIanYh3bcQ/maxresdefault.jpg

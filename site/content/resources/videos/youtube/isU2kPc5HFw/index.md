@@ -31,12 +31,12 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Personal
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:24Z
   short_title: 2025-07-07T17:48:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: isU2kPc5HFw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg

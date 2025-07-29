@@ -34,6 +34,9 @@ card:
   content: |2
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
+Watermarks:
+  description: 2025-07-29T15:01:25Z
+  short_title: 2025-07-29T15:01:26Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -85,9 +88,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:25Z
-  short_title: 2025-07-29T15:01:26Z
 
 ---
 # Scrum for Executives Training

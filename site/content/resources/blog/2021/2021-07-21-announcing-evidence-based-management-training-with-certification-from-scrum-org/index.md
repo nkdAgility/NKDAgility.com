@@ -36,13 +36,13 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
+Watermarks:
+  description: 2025-05-07T13:14:55Z
+  short_title: 2025-07-07T17:57:29Z
 ResourceImportId: 46257
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
-Watermarks:
-  description: 2025-05-07T13:14:55Z
-  short_title: 2025-07-07T17:57:29Z
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.

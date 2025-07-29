@@ -26,6 +26,9 @@ categories:
 tags:
 - Pragmatic Thinking
 - Software Development
+Watermarks:
+  description: 2025-07-24T15:15:56Z
+  short_title: 2025-07-24T15:15:57Z
 videoId: 8zfmAp6Ljwk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8zfmAp6Ljwk/maxresdefault.jpg
@@ -36,9 +39,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:15:56Z
-  short_title: 2025-07-24T15:15:57Z
 
 ---
 Chasing every new tool isn’t strategy—it’s survival mode. And yet, I see this pattern time and again with CTOs and technology leaders: one eye glued to the roadmap, the other darting between LinkedIn, vendor pitches, and the latest conference decks, all in a desperate attempt not to miss the next big thing. It’s exhausting, and frankly, it’s not leadership. It’s firefighting.

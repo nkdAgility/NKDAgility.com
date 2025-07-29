@@ -37,12 +37,12 @@ tags:
 - Flow Efficiency
 - Definition of Workflow
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:49Z
   short_title: 2025-07-07T17:49:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: BFDB04_JIhg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg

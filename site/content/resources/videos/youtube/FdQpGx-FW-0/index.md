@@ -39,12 +39,12 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Beta Codex
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:33Z
   short_title: 2025-07-07T17:52:15Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: FdQpGx-FW-0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg

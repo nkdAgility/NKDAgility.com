@@ -26,12 +26,12 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:22Z
   short_title: 2025-07-07T17:53:41Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: pU57BrP94-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg

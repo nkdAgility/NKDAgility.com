@@ -35,6 +35,9 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Change Management
+Watermarks:
+  description: 2025-07-24T15:14:18Z
+  short_title: 2025-07-24T15:14:18Z
 videoId: RGSGuURMqA0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RGSGuURMqA0/maxresdefault.jpg
@@ -45,9 +48,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:14:18Z
-  short_title: 2025-07-24T15:14:18Z
 
 ---
 You don’t have to chase every new trend if you’ve built agility into your core. I see so many organisations scrambling to keep up with the latest frameworks, tools, or buzzwords—believing that if they just adopt the next big thing, they’ll finally be “agile.” But here’s the truth: when your systems are genuinely adaptable and your teams know how to respond to change, you’re not playing catch-up. You’re ready. You’re leading.

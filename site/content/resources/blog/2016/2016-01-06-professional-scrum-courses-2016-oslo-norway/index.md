@@ -25,13 +25,13 @@ categories:
 - Scrum
 tags:
 - Software Development
+Watermarks:
+  description: 2025-05-07T13:16:52Z
+  short_title: 2025-07-07T17:59:04Z
 ResourceImportId: 11426
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: clip_image001-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:16:52Z
-  short_title: 2025-07-07T17:59:04Z
 
 ---
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.

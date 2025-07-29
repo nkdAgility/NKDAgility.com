@@ -30,11 +30,11 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
-resourceTypes: workshop
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:58:00Z
   short_title: 2025-07-07T17:48:12Z
+resourceTypes: workshop
+creator: Martin Hinshelwood
 
 ---
 # What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)

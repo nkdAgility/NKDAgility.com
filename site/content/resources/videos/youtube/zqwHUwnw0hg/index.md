@@ -33,12 +33,12 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:30Z
   short_title: 2025-07-07T17:57:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: zqwHUwnw0hg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg

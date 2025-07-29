@@ -33,12 +33,12 @@ tags:
 - Test Automation
 - Engineering Practices
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:39Z
   short_title: 2025-07-07T17:47:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: sdIPSpbeA9w
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw

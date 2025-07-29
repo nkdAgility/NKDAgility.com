@@ -27,12 +27,12 @@ categories:
 tags:
 - Install and Configuration
 - Azure DevOps
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:16:23Z
   short_title: 2025-07-07T17:58:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg

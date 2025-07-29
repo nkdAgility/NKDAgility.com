@@ -34,12 +34,12 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:43Z
   short_title: 2025-07-07T17:53:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Juonckoiyx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg

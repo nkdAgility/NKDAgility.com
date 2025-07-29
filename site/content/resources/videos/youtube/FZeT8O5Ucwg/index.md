@@ -31,12 +31,12 @@ tags:
 - Agile Philosophy
 - Agile Product Management
 - Agile Values and Principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:16:02Z
   short_title: 2025-07-07T17:58:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg

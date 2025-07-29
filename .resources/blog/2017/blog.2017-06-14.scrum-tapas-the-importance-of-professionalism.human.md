@@ -22,13 +22,13 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:16:36Z
+  short_title: 2025-07-07T17:58:51Z
 ResourceImportId: 11942
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:36Z
-  short_title: 2025-07-07T17:58:51Z
 
 ---
 I believe that to create great software you need to have Professional Teams and not just amateur Teams. However most software teams are amateurs that don't follow the rules, don’t subscribe to [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), and don't follow the values and principals

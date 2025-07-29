@@ -32,12 +32,12 @@ tags:
 - Scaling
 - Agile Frameworks
 - Portfolio Management
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:38Z
   short_title: 2025-07-07T17:49:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: kOj-O99mUZE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg

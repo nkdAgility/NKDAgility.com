@@ -35,12 +35,12 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:29Z
   short_title: 2025-07-07T17:47:47Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: GJFklM1U5Pc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg

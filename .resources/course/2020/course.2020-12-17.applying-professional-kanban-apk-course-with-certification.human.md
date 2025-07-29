@@ -38,6 +38,9 @@ card:
     content: ""
   title: Applying Professional Kanban (APK) Course with Certification
   content: "Revolutionize Your Team's Performance with Kanban: Join our Immersion Training Course for a deep, practical dive into Kanban principles, designed to seamlessly integrate into your work life and foster continuous improvement and real-world application. Transform the way you deliver value today!"
+Watermarks:
+  description: 2025-07-29T15:01:13Z
+  short_title: 2025-07-29T15:01:15Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/kanban-training-courses/:slug/
@@ -106,9 +109,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:13Z
-  short_title: 2025-07-29T15:01:15Z
 
 ---
 # Applying Professional Kanban (APK) Course with Certification

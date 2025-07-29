@@ -34,12 +34,12 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Agile Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:51Z
   short_title: 2025-07-07T17:47:15Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: kXhJrisYofU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g

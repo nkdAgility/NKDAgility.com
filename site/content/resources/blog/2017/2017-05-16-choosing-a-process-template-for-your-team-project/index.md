@@ -25,13 +25,13 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
+Watermarks:
+  description: 2025-05-07T13:16:38Z
+  short_title: 2025-07-07T17:58:53Z
 ResourceImportId: 10356
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: IC749984-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:38Z
-  short_title: 2025-07-07T17:58:53Z
 
 ---
 Over the years I have had many discussions about Agile vs [Scrum]({{< ref "/categories/scrum" >}}) process templates with both TFS and VSTS and migrated many Team Projects from Agile or CMMI templates to the Scrum Template.

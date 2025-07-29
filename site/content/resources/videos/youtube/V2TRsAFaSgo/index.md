@@ -27,6 +27,9 @@ categories:
 - Uncategorized
 tags:
 - Software Development
+Watermarks:
+  description: 2025-05-07T20:44:16Z
+  short_title: 2025-07-07T16:44:07Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,9 +40,6 @@ duration: 110
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T20:44:16Z
-  short_title: 2025-07-07T16:44:07Z
 
 ---
 Are legacy contracts keeping you stuck with the wrong vendors? If so, you’re certainly not alone. Vendor lock-in is a persistent, often invisible, barrier for organisations striving to modernise their systems of work. I see it time and again: outdated contracts, proprietary platforms, and deeply embedded dependencies that make it nearly impossible to shift direction. Instead of focusing on what’s best for your business, you end up maintaining someone else’s business model—at your own expense.

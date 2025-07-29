@@ -32,6 +32,9 @@ card:
     content: ""
   title: Scaled Professional Scrum with Nexus (SPS) with Certification
   content: Scaled Professional Scrum (SPS) with Nexus is a course that is designed as an experiential workshop where students learn how to scale Scrum using the Nexus Framework.
+Watermarks:
+  description: 2025-07-29T15:01:58Z
+  short_title: 2025-07-29T15:01:59Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -100,9 +103,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:58Z
-  short_title: 2025-07-29T15:01:59Z
 
 ---
 # Scaled Professional Scrum with Nexus (SPS) with Certification

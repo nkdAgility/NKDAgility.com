@@ -35,6 +35,9 @@ tags:
 - Product Delivery
 - Digital Transformation
 - Market Adaptability
+Watermarks:
+  description: 2025-05-07T20:13:52Z
+  short_title: 2025-07-07T16:43:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,9 +48,6 @@ duration: 85
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T20:13:52Z
-  short_title: 2025-07-07T16:43:47Z
 
 ---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence—but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.

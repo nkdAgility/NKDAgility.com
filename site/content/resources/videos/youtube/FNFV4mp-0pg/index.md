@@ -38,12 +38,12 @@ tags:
 - Team Motivation
 - Mentoring
 - Self Organisation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:03Z
   short_title: 2025-07-07T17:55:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: FNFV4mp-0pg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg

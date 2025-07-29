@@ -24,6 +24,9 @@ categories:
 - Technical Leadership
 tags:
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-07-24T15:15:14Z
+  short_title: 2025-07-24T15:15:15Z
 videoId: cj1LXrHHmlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cj1LXrHHmlw/maxresdefault.jpg
@@ -34,9 +37,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:15:14Z
-  short_title: 2025-07-24T15:15:15Z
 
 ---
 Everywhere I look these days—conferences, job boards, blog posts—there’s a relentless drumbeat for the “hottest stack.” It’s as if the only way to be relevant is to chase whatever shiny new tool or architecture is trending this week. I see teams boasting about their bleeding-edge setups, and I get it. The temptation to follow suit is strong. No one wants to be left behind, or worse, seen as old-fashioned.

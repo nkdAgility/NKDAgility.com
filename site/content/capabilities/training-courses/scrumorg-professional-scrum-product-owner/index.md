@@ -41,6 +41,8 @@ tags:
 card:
   title: Professional Scrum Product Owner
   content: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.
+Watermarks:
+  description: 2025-07-29T15:01:37Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -130,8 +132,6 @@ events:
     - 4
     - 5
     - 6
-Watermarks:
-  description: 2025-07-29T15:01:37Z
 
 ---
 # Professional Scrum Product Owner (PSPO) Course Datasheet

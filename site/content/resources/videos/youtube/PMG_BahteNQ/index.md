@@ -39,6 +39,9 @@ tags:
 - Value Delivery
 - Deployment Frequency
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-07-24T15:10:12Z
+  short_title: 2025-07-24T15:10:13Z
 videoId: PMG_BahteNQ
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/PMG_BahteNQ/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLD5O0xRPKD1Q_f_XzwjoVm1JLiSIQ
@@ -49,9 +52,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:10:12Z
-  short_title: 2025-07-24T15:10:13Z
 
 ---
 If you’re still deploying manually, you’re not just behind the curve—you’re actively putting your business at risk. I’ve seen this play out time and again, and the consequences can be catastrophic. Let me be clear: manual deployments are not a sign of professionalism or diligence. They’re a sign that your engineering practices are stuck in the past, and the risks you’re taking are simply unacceptable.

@@ -41,6 +41,8 @@ tags:
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
+Watermarks:
+  description: 2025-07-29T15:01:53Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -149,8 +151,6 @@ events:
     - 5
     - 6
     - 7
-Watermarks:
-  description: 2025-07-29T15:01:53Z
 
 ---
 # Professional Scrum Master (PSM) Course with Certification

@@ -35,10 +35,10 @@ tags:
 - Sociotechnical Systems
 - Team Performance
 - Value Delivery
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:48:55Z
   short_title: 2025-07-07T16:43:14Z
+resourceTypes: newsletter
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.

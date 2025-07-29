@@ -35,12 +35,12 @@ tags:
 - Lean Principles
 - Pragmatic Thinking
 - Transparency
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:08Z
   short_title: 2025-07-07T17:48:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg

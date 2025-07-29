@@ -23,11 +23,11 @@ categories:
 - Uncategorized
 tags:
 - Software Development
-preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:05:48Z
   short_title: 2025-07-07T17:49:49Z
+preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
+resourceTypes: newsletter
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from [Scrum]({{< ref "/categories/scrum" >}}).org as well as the new Agile Kata class and we have them all.

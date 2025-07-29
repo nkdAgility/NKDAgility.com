@@ -33,12 +33,12 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Scrum Team
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:53Z
   short_title: 2025-07-07T17:58:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg

@@ -37,12 +37,12 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:35Z
   short_title: 2025-07-07T17:50:24Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: EfogGslFkBQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg

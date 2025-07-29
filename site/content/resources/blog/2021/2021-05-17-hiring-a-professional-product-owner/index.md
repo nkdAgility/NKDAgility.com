@@ -49,14 +49,14 @@ tags:
 - Product Delivery
 - Value Delivery
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T13:14:56Z
+  short_title: 2025-07-07T17:57:30Z
 ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-3-3.png
-Watermarks:
-  description: 2025-05-07T13:14:56Z
-  short_title: 2025-07-07T17:57:30Z
 
 ---
 One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.

@@ -32,13 +32,13 @@ tags:
 - Pragmatic Thinking
 - Windows
 - System Configuration
+Watermarks:
+  description: 2025-05-07T13:16:54Z
+  short_title: 2025-07-07T17:59:05Z
 ResourceImportId: 11411
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: clip_image004-4-4.png
-Watermarks:
-  description: 2025-05-07T13:16:54Z
-  short_title: 2025-07-07T17:59:05Z
 
 ---
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…

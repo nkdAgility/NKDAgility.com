@@ -15,6 +15,9 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-07-29T15:00:49Z
+  short_title: 2025-07-29T15:00:50Z
 creator: Martin Hinshelwood
 type: course
 url: /training-courses/okr-training-courses/:slug/
@@ -79,9 +82,6 @@ sections:
   title: Outcome
   content: |
     By the end of this course, you'll be confident in applying OKRs to improve alignment, increase focus, and support measurable progress in any team or organisation.
-Watermarks:
-  description: 2025-07-29T15:00:49Z
-  short_title: 2025-07-29T15:00:50Z
 
 ---
 # OKR Practitioner

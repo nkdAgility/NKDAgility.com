@@ -26,12 +26,12 @@ categories:
 - Uncategorized
 tags:
 - Personal
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:19Z
   short_title: 2025-07-07T17:54:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: F0jOj6ql330
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg

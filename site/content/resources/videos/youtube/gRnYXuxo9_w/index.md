@@ -36,12 +36,12 @@ tags:
 - Social Technologies
 - Team Collaboration
 - Team Motivation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:53Z
   short_title: 2025-07-07T17:55:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg

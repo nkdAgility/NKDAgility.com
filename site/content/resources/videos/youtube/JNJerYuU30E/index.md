@@ -32,12 +32,12 @@ tags:
 - Personal
 - Coaching
 - Continuous Learning
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:44Z
   short_title: 2025-07-07T17:55:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg

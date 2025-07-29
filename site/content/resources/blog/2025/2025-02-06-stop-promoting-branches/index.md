@@ -40,14 +40,14 @@ tags:
 - Release Management
 - Flow Efficiency
 - Engineering Practices
+Watermarks:
+  description: 2025-05-07T12:49:50Z
+  short_title: 2025-07-07T17:46:49Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
-Watermarks:
-  description: 2025-05-07T12:49:50Z
-  short_title: 2025-07-07T17:46:49Z
 
 ---
 The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why [GitHub]({{< ref "/tags/github" >}}) Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.

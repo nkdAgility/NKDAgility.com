@@ -29,10 +29,10 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Delivery
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:02:35Z
   short_title: 2025-07-07T17:49:00Z
+resourceTypes: newsletter
 
 ---
 **Dear Innovators and Product Enthusiasts,**

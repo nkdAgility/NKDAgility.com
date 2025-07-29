@@ -26,13 +26,13 @@ tags:
 - Software Development
 - Azure Repos
 - Modern Source Control
+Watermarks:
+  description: 2025-05-07T13:16:51Z
+  short_title: 2025-07-07T17:59:03Z
 ResourceImportId: 11424
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-2-2-2.png
-Watermarks:
-  description: 2025-05-07T13:16:51Z
-  short_title: 2025-07-07T17:59:03Z
 
 ---
 I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.

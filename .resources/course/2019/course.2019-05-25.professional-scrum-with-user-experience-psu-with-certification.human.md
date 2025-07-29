@@ -38,6 +38,9 @@ card:
     content: ""
   title: Professional Scrum with User Experience (PSU) with Certification
   content: Professional Scrum with User Experience (PSU) is a 14h hands-on course, delivered over 4 half-days, where students who already have a fundamental understanding of Scrum and some experience using it will learn how to integrate modern UX practices into the way they are working in Scrum and how to work most effectively within Scrum Teams.
+Watermarks:
+  description: 2025-07-29T15:01:38Z
+  short_title: 2025-07-29T15:01:41Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -112,9 +115,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:38Z
-  short_title: 2025-07-29T15:01:41Z
 
 ---
 # Professional Scrum with User Experience (PSU) with Certification

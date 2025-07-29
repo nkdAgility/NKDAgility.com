@@ -26,12 +26,12 @@ categories:
 - Product Development
 - Scrum
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:16:31Z
   short_title: 2025-07-07T17:58:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg

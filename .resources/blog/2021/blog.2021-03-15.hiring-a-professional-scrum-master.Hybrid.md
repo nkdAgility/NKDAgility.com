@@ -31,13 +31,13 @@ tags:
 - Software Development
 - Agile Frameworks
 - Team Performance
+Watermarks:
+  description: 2025-05-07T13:14:58Z
+  short_title: 2025-07-07T17:57:32Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: Wide-screen-scrum-master-3-3.jpg
-Watermarks:
-  description: 2025-05-07T13:14:58Z
-  short_title: 2025-07-07T17:57:32Z
 
 ---
 One of my customers is hiring for the [Scrum]({{< ref "/categories/scrum" >}}) Master Role and asked if I had a handy-dandy [Scrum Master]({{< ref "/tags/scrum-master" >}}) Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.

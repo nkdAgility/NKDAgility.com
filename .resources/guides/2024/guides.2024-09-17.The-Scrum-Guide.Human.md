@@ -52,6 +52,9 @@ card:
     content: Learn More
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
+Watermarks:
+  description: 2025-05-07T12:58:15Z
+  short_title: 2025-07-07T16:40:32Z
 resourceTypes: guide
 downloads:
 - title: Scrum Guide 2020
@@ -87,9 +90,6 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
-Watermarks:
-  description: 2025-05-07T12:58:15Z
-  short_title: 2025-07-07T16:40:32Z
 build:
   list: true
   render: true

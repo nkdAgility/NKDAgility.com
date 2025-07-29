@@ -29,11 +29,11 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Product Owner
-preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:08:59Z
   short_title: 2025-07-07T17:52:34Z
+preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
+resourceTypes: newsletter
 
 ---
 Dive deep into the world of **[Scrum]({{< ref "/categories/scrum" >}})'s [Product Backlog]({{< ref "/tags/product-backlog" >}}) Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainers. 🚀

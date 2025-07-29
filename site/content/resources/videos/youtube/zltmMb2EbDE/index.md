@@ -36,12 +36,12 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:45Z
   short_title: 2025-07-07T17:49:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: zltmMb2EbDE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg

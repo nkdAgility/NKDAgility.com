@@ -31,12 +31,12 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:36Z
   short_title: 2025-07-07T17:47:05Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: UgFVn4Sp1rw
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w

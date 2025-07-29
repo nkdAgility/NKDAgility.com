@@ -22,11 +22,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: naked-agility-technically-agile-1280×720-December2022.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:40Z
   short_title: 2025-07-07T17:57:17Z
+preview: naked-agility-technically-agile-1280×720-December2022.jpg
+resourceTypes: newsletter
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

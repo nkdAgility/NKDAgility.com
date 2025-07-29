@@ -29,10 +29,10 @@ tags:
 - Systems Thinking
 - Pragmatic Thinking
 - Decision Making
-mermaid: true
 Watermarks:
   description: 2025-05-07T12:48:59Z
   short_title: 2025-07-07T16:43:20Z
+mermaid: true
 
 ---
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.

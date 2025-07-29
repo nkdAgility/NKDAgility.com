@@ -25,12 +25,12 @@ categories:
 - DevOps
 tags:
 - Social Technologies
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:39Z
   short_title: 2025-07-07T17:58:02Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg

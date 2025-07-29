@@ -27,12 +27,12 @@ categories:
 - Leadership
 tags:
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:36Z
   short_title: 2025-07-07T17:57:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: rX258aqTf_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg

@@ -26,6 +26,9 @@ categories:
 tags:
 - Software Development
 - Digital Transformation
+Watermarks:
+  description: 2025-07-24T15:12:25Z
+  short_title: 2025-07-24T15:12:26Z
 videoId: aN0ODVdECUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aN0ODVdECUw/maxresdefault.jpg
@@ -36,9 +39,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:12:25Z
-  short_title: 2025-07-24T15:12:26Z
 
 ---
 If there’s one thing I see time and again in organisations striving for agility, it’s the silent anchor of legacy systems. These are the old, creaking platforms and applications that, while once the backbone of the business, now act as a brake on innovation. I’ve worked with countless teams who are desperate to move forward, to deliver new features, to delight their customers—only to find themselves tripping over the same old obstacles, time and again.

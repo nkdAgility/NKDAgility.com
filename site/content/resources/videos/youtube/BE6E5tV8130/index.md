@@ -32,12 +32,12 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:33Z
   short_title: 2025-07-07T17:57:09Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: BE6E5tV8130
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg

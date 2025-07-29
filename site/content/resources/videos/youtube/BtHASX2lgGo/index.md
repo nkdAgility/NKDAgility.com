@@ -30,12 +30,12 @@ tags:
 - Pragmatic Thinking
 - Agile Planning
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:32Z
   short_title: 2025-07-07T17:50:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg

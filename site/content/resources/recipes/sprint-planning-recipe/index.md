@@ -35,6 +35,9 @@ card:
     content: Learn More
   content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
   title: Sprint Planning Recipe
+Watermarks:
+  description: 2025-05-07T12:57:48Z
+  short_title: 2025-07-07T17:47:58Z
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
@@ -54,9 +57,6 @@ videos:
   embed: https://www.youtube.com/embed/uQ786VBz3Jw
 - title: How does a scrum team plan and prioritize work effectively?
   embed: https://www.youtube.com/embed/sPmUuSy7G3I
-Watermarks:
-  description: 2025-05-07T12:57:48Z
-  short_title: 2025-07-07T17:47:58Z
 
 ---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in, the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.

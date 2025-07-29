@@ -36,6 +36,9 @@ categories:
 tags:
 - Scaling
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T12:49:36Z
+  short_title: 2025-07-07T17:46:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,9 +49,6 @@ duration: 103
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:36Z
-  short_title: 2025-07-07T17:46:24Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

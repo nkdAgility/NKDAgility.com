@@ -38,10 +38,10 @@ tags:
 - Product Delivery
 - Systems Thinking
 - Team Performance
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z
+creator: Martin Hinshelwood
 
 ---
 Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.

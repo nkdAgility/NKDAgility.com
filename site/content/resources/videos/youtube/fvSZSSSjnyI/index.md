@@ -40,6 +40,9 @@ tags:
 - Cycle Time
 - Technical Mastery
 - Continuous Improvement
+Watermarks:
+  description: 2025-07-24T14:49:14Z
+  short_title: 2025-07-24T14:49:15Z
 videoId: fvSZSSSjnyI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/fvSZSSSjnyI/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBv1On-uLT1olHCP2GKp4FGmFtQxw
@@ -50,9 +53,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T14:49:14Z
-  short_title: 2025-07-24T14:49:15Z
 
 ---
 If you’re building products at any scale—whether you’re a small startup or a sprawling enterprise—one thing has become abundantly clear to me over the years: you simply cannot make good decisions without evidence. I’ve seen too many teams, and too many organisations, fall into the trap of “gut feel” decision-making. It’s seductive, but it’s also a fast track to mediocrity. Evidence-based management isn’t just a buzzword; it’s the foundation for real, sustainable improvement.

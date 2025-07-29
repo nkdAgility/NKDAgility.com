@@ -35,12 +35,12 @@ tags:
 - Agile Frameworks
 - Coaching
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:23Z
   short_title: 2025-07-07T17:54:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg

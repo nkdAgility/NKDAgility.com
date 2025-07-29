@@ -35,12 +35,12 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:53Z
   short_title: 2025-07-07T17:49:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg

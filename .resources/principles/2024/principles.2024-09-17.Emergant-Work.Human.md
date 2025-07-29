@@ -24,13 +24,13 @@ card:
     content: Learn More
   content: Discover more about Emergant Work and how it can help you in your Agile journey!
   title: Emergant Work
+Watermarks:
+  description: 2025-05-07T12:57:56Z
+  short_title: 2025-07-07T17:48:09Z
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles
 draft: true
-Watermarks:
-  description: 2025-05-07T12:57:56Z
-  short_title: 2025-07-07T17:48:09Z
 
 ---
 Update the work based on user feedback on timelines shorter than one month

@@ -23,11 +23,11 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-preview: naked-agility-technically-agile-1280×720-December2023.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:07:17Z
   short_title: 2025-07-07T17:51:19Z
+preview: naked-agility-technically-agile-1280×720-December2023.jpg
+resourceTypes: newsletter
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:

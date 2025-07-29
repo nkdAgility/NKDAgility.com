@@ -33,6 +33,9 @@ tags:
 - Organisational Agility
 - Team Collaboration
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T12:49:32Z
+  short_title: 2025-07-07T17:46:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,9 +46,6 @@ duration: 76
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:32Z
-  short_title: 2025-07-07T17:46:17Z
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

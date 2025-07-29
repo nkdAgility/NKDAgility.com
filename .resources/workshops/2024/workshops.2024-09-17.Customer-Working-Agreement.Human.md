@@ -30,12 +30,12 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
-resourceTypes: workshop
-creator: Martin Hinshelwood
-draft: true
 Watermarks:
   description: 2025-05-07T12:58:01Z
   short_title: 2025-07-07T17:48:11Z
+resourceTypes: workshop
+creator: Martin Hinshelwood
+draft: true
 
 ---
 ## Customer Working Agreement

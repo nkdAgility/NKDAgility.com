@@ -26,12 +26,12 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:07Z
   short_title: 2025-07-07T17:53:29Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 7VBtGTlkAdM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg

@@ -28,10 +28,10 @@ tags:
 - Pragmatic Thinking
 - Empirical Process Control
 - Professional Scrum
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:13:21Z
   short_title: 2025-07-07T17:56:02Z
+resourceTypes: newsletter
 
 ---
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.

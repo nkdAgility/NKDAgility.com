@@ -22,11 +22,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:38Z
   short_title: 2025-07-07T17:57:15Z
+preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
+resourceTypes: newsletter
 
 ---
 Welcome to this month's edition of NKDAgility.

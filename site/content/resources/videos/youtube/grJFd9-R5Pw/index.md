@@ -36,12 +36,12 @@ tags:
 - Agile Transformation
 - Agile Planning
 - Scrum Master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:32Z
   short_title: 2025-07-07T17:57:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: grJFd9-R5Pw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg

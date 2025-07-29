@@ -27,12 +27,12 @@ categories:
 - Product Development
 tags:
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:58Z
   short_title: 2025-07-07T17:54:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: pyk0CfSobzM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg

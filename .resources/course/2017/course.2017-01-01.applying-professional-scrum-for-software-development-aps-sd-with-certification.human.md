@@ -48,6 +48,8 @@ card:
     content: ""
   title: Applying Professional Scrum for Software Development (APS-SD) with Certification
   content: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
+Watermarks:
+  description: 2025-07-29T15:01:56Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -110,8 +112,6 @@ audience:
 trainers: 
 roadmap: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:56Z
 
 ---
 # Applying Professional Scrum for Software Development (APS-SD) with Certification

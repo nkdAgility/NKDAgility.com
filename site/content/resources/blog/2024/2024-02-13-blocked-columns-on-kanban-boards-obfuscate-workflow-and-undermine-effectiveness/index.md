@@ -32,14 +32,14 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
+Watermarks:
+  description: 2025-05-07T13:05:52Z
+  short_title: 2025-07-07T17:49:48Z
 ResourceImportId: 51208
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
-Watermarks:
-  description: 2025-05-07T13:05:52Z
-  short_title: 2025-07-07T17:49:48Z
 
 ---
 The Boards in Azure [DevOps]({{< ref "/categories/devops" >}}) are a powerful tool that your teams can leverage to enable transparent visualization of the current state of [value delivery]({{< ref "/tags/value-delivery" >}}).

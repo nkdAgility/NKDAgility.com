@@ -40,14 +40,14 @@ tags:
 - Team Performance
 - Agile Product Management
 - Organisational Agility
+Watermarks:
+  description: 2025-05-24T23:43:41Z
+  short_title: 2025-07-07T17:58:36Z
 ResourceImportId: 38300
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-cross-sprint-boundary-2-1.png
-Watermarks:
-  description: 2025-05-24T23:43:41Z
-  short_title: 2025-07-07T17:58:36Z
 
 ---
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.

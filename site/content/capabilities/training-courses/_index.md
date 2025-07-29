@@ -31,6 +31,9 @@ card:
     content: Training Courses
   title: Training Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
+Watermarks:
+  description: 2025-07-29T15:00:53Z
+  short_title: 2025-07-29T15:00:53Z
 type: capabilities
 url: /capabilities/training-courses/
 sitemap:
@@ -214,9 +217,6 @@ sections:
       text: Book a Call
       url: /company/book-online
   boxes: []
-Watermarks:
-  description: 2025-07-29T15:00:53Z
-  short_title: 2025-07-29T15:00:53Z
 
 ---
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

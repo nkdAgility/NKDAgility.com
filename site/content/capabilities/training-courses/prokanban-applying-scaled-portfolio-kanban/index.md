@@ -31,6 +31,9 @@ card:
     content: ""
   title: Applying Scaled Portfolio Kanban
   content: Discover the transformative 'Applying Scaled Portfolio Kanban' course, equipping you with the tools to positively influence your organization. From setting up transparent systems to managing portfolios effectively, gain actionable skills for real-world impact.
+Watermarks:
+  description: 2025-07-29T15:01:00Z
+  short_title: 2025-07-29T15:01:00Z
 creator: Martin Hinshelwood
 type: course
 url: 
@@ -80,9 +83,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:00Z
-  short_title: 2025-07-29T15:01:00Z
 
 ---
 # Applying Scaled Portfolio Kanban

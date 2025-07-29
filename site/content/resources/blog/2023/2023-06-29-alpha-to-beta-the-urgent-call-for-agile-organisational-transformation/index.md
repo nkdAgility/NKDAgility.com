@@ -42,14 +42,14 @@ tags:
 - Beta Codex
 - Agile Philosophy
 - Agile Strategy
+Watermarks:
+  description: 2025-05-07T13:11:07Z
+  short_title: 2025-07-07T17:54:14Z
 ResourceImportId: 49485
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 1686217267121-1-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:11:07Z
-  short_title: 2025-07-07T17:54:14Z
 
 ---
 As we progress deeper into the dynamic landscape of the 21st century, our long-established organisations, born of the Industrial Age and infused with a DNA of strict command and control, stand on shaky ground. These organisations strut with command-and-control bravado, erecting clear hierarchies in their stable inert markets where bureaucracy reigns supreme. However, they are feeling the tremors of a rapidly evolving, technologically charged dynamic markets and are plagued by sluggish responses and missed opportunities, which are their Achilles heel in these new fast-paced markets. Not since the 1970s has the classic hierarchical model, rooted in the stagnant waters of stable markets, been a viable proposition for companies seeking to thrive in an era of unprecedented change and unpredictability. Clearly, we cannot continue to coat deep-seated hierarchical practices with a thin veneer of modern innovation and expect sustainable transformation.

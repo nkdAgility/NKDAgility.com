@@ -38,12 +38,12 @@ tags:
 - Agile Planning
 - Team Performance
 - Customer Focus
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:47Z
   short_title: 2025-07-07T17:53:18Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 7UZsdsD23rs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg

@@ -41,12 +41,12 @@ tags:
 - Operational Practices
 - Technical Excellence
 - Competence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:46Z
   short_title: 2025-07-07T17:49:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: JTYCRehkN5U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg

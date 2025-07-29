@@ -41,13 +41,13 @@ platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
   post_type: crosspost
+Watermarks:
+  description: 2025-05-07T13:16:17Z
+  short_title: 2025-07-07T17:58:34Z
 ResourceImportId: 10204
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
-Watermarks:
-  description: 2025-05-07T13:16:17Z
-  short_title: 2025-07-07T17:58:34Z
 
 ---
 Did you know that the DOD has made it illegal to do waterfall? Well, kind of... For the first time in many years, the Department of Defence (DOD) in the United States had made a major update to its procurement rules. They can no longer be held accountable for holding up our industry, and being culpable for its inability to move towards agility. The last vestiges of the old ways are gone.

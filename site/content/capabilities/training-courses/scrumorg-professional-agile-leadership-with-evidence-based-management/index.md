@@ -53,6 +53,8 @@ card:
     content: ""
   title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM)
   content: Scrum.org created the Evidence-Based Management™ (EBM) framework which is an Agile approach to help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.
+Watermarks:
+  description: 2025-07-29T15:01:09Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -110,8 +112,6 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-Watermarks:
-  description: 2025-07-29T15:01:09Z
 
 ---
 # Professional Agile Leadership – Evidence-Based Management (PAL-EBM)

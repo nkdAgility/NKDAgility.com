@@ -24,11 +24,11 @@ categories:
 tags:
 - Professional Scrum
 - Software Development
-preview: naked-agility-technically-agile-1280×720-January2024.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:06:41Z
   short_title: 2025-07-07T17:50:30Z
+preview: naked-agility-technically-agile-1280×720-January2024.jpg
+resourceTypes: newsletter
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning [scrum]({{< ref "/categories/scrum" >}}) training courses. It's not just about learning; it's about transforming and leading in an agile world.

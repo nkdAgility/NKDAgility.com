@@ -37,12 +37,12 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:52Z
   short_title: 2025-07-07T17:55:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg

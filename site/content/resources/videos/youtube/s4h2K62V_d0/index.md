@@ -30,12 +30,12 @@ tags:
 - Working Software
 - Engineering Practices
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:15Z
   short_title: 2025-07-07T17:47:35Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg

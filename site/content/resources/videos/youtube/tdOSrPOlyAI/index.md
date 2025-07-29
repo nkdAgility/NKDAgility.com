@@ -29,12 +29,12 @@ categories:
 tags:
 - Software Development
 - Technical Mastery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:58Z
   short_title: 2025-07-07T17:47:20Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: tdOSrPOlyAI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA

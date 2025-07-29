@@ -30,12 +30,12 @@ tags:
 - Agile Leadership
 - Employee Engagement
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:14Z
   short_title: 2025-07-07T17:51:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: BCWiKTm8hjg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg

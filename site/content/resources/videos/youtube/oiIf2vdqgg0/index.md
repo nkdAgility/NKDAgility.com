@@ -26,12 +26,12 @@ categories:
 - Product Development
 tags:
 - Product Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:06Z
   short_title: 2025-07-07T17:54:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: oiIf2vdqgg0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg

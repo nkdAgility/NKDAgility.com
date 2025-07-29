@@ -41,6 +41,9 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
+Watermarks:
+  description: 2025-05-07T12:49:31Z
+  short_title: 2025-07-07T17:46:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,9 +54,6 @@ duration: 618
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:31Z
-  short_title: 2025-07-07T17:46:12Z
 
 ---
 In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior [Scrum]({{< ref "/categories/scrum" >}}) Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 

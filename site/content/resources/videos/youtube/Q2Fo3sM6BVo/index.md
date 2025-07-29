@@ -34,12 +34,12 @@ tags:
 - Agile Product Management
 - Team Performance
 - Agile Planning
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:41Z
   short_title: 2025-07-07T17:57:19Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
