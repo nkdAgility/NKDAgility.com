@@ -37,7 +37,7 @@
                   <div class="d-flex align-items-center gap-2 mb-1">
                     <h3 class="list-item-title mb-0">
                       <a href="{{ .Page.Permalink }}" class="text-decoration-none" style="color: inherit;">
-                        {{ .Page.Title }}
+                        {{ .Page.Params.short_title | default .Page.Title }}
                       </a>
                     </h3>
                     <div class="d-flex flex-wrap gap-1">

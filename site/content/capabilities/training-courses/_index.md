@@ -112,6 +112,13 @@ sections:
       - Opportunities to extend into mentorship or advisory support
       - Integration with DevOps, product development, and business agility goals
       - A community of practice and continued learning options
+  - title: Our Partners for Certified Training Programs
+    content: |
+      We partner with the very best in the industry to deliver certified training programs that are recognized globally. Our courses are designed to meet the highest standards of quality and effectiveness.
+    type: taxonomies-list
+    source: course_vendors
+    types:
+      - course
   - type: symmetry
     title: From Overwhelm to Control
     boxes:

@@ -1,6 +1,6 @@
 ---
 title: Developers
-description: Developers are
+description: Developers includes everyone that contributes to developing products.
 weight: 3
 card:
   title: Developers
