@@ -48,7 +48,7 @@ card:
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
 code: S4E
-level: beginner
+course_proficiencies: [beginner]
 introduction: |2
 
   ### Course Outline

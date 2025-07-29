@@ -60,7 +60,7 @@ card:
   title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
   content: Step into the dynamic world of Scrum with our 'Professional Scrum Product Backlog Mastery' course. Unlock the secrets of effective backlog management, stakeholder engagement, and data-driven decision-making. Whether you're a seasoned Scrum Master or an aspiring Product Owner, this course promises to elevate your skills, offering a blend of theory and real-world application. Dive in, and let's turn your Scrum visions into actionable strategies.
 code: PSPBMS
-level: intermediate
+course_proficiencies: [intermediate]
 introduction: |2-
 
   ### **Why is the Product Backlog so important?**

@@ -78,7 +78,7 @@ card:
 code: APS-SD
 course_length: 24
 course_sessions: 12
-level: intermediate
+course_proficiencies: [intermediate]
 introduction: |2-
 
   ### What Applying Professional Scrum for Software Development Students Say

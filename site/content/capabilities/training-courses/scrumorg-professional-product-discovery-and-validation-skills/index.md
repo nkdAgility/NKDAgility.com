@@ -53,7 +53,7 @@ card:
   title: Professional Product Discovery and Validation Skills (PPDV)
   content: This one-day course on product discovery and validation equips participants with essential hands-on skills to enhance value creation in product development. It covers key techniques for both new product development and improving existing products, focusing on experimentation, evidence collection, and risk control. Through an ongoing case study, students will learn practical methods to apply in their workplace, helping Product Owners, Managers, and teams drive customer outcomes, improve ROI, and adopt an iterative, user-centric approach to product development.
 code: PPDV
-level: beginner
+course_proficiencies: [beginner]
 introduction:
 overview:
 outcomes: |2+

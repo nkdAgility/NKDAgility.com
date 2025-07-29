@@ -45,7 +45,7 @@ card:
   title: Assuring Quality Using Azure Test Plans Training
   content: Azure DevOps provides a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software.
 code: AD-QA
-level: intermediate
+course_proficiencies: [intermediate]
 introduction: |2-
 
   ### Course content

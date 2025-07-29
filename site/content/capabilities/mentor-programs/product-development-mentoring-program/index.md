@@ -19,7 +19,7 @@ delivery_audiences:
   - Lean Agile Practitioners
   - Teams
 code: "NKD-PDMP"
-level: Intermediate
+course_proficiencies: [Intermediate]
 card:
   button:
     content: Enhance Your Teams Skills

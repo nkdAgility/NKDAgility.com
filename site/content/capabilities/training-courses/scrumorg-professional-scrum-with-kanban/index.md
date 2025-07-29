@@ -54,7 +54,7 @@ card:
   title: Professional Scrum with Kanban (PSK) with Certification
   content: Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum practitioners how to apply Kanban practices to their work. Through theory, case studies, and hands-on exercises, participants will understand the importance of transparency and flow as it pertains to the Scrum framework."
 code: PSK
-level: advanced
+course_proficiencies: [advanced]
 introduction: |2-
 
   ### What Professional Scrum with Kanban Students Say

@@ -45,7 +45,7 @@ card:
   title: Scrum for Stakeholders Training
   content: ""
 code: S4S
-level: beginner
+course_proficiencies: [beginner]
 introduction: |2
 
   ### Course Outline

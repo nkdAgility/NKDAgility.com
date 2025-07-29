@@ -69,7 +69,7 @@ card:
   title: Applying Professional Scrum (APS) Course with Certification
   content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
 code: APS
-level: beginner
+course_proficiencies: [beginner]
 introduction: |-
   Applying Professional Scrum™ (APS) is a hands-on, activity-based course where students experience how Professional Scrum and the Scrum framework enhance their ability to deliver value compared to traditional methods. Scrum offers a superior way of working by emphasizing experimentation, incremental delivery of customer value, frequent feedback loops, and fostering strong team dynamics.
 

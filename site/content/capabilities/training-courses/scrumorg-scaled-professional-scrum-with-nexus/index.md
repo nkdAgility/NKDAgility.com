@@ -58,7 +58,7 @@ card:
 code: SPS
 course_length: 16
 course_sessions: 8
-level: advanced
+course_proficiencies: [advanced]
 introduction: |2-
 
   ### What Scaled Professional Scrum Students Say

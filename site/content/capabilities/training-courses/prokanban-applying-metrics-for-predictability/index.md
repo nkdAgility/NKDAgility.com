@@ -51,7 +51,7 @@ card:
   title: Applying Metrics for Predictability
   content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
 code: AMP
-level: intermediate
+course_proficiencies: [intermediate]
 introduction:
 overview: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
 outcomes: |2+

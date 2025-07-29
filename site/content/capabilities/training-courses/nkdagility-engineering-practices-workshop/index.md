@@ -37,7 +37,7 @@ card:
   title: Engineering Practices Workshop
   content: ""
 code: NKD-ENG
-level: Unknown
+course_proficiencies: [Unknown]
 introduction:
 overview:
 outcomes:

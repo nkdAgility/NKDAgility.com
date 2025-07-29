@@ -1,7 +1,7 @@
 {{- $breadcrumbs := slice }}
 {{- $built := false }}
 <!-- Custom breadcrumb for taxonomy terms like 'course-topic' -->
-{{- if or (eq .Type "course") (eq .Type "course_topics") (eq .Type "course_vendors") (eq .Type "course_learning_experiences") }}
+{{- if or (eq .Type "course") (eq .Type "course_topics") (eq .Type "course_vendors") (eq .Type "course_learning_experiences") (eq .Type "course_proficiencies") (eq .Type "delivery_audiences") }}
   <!-- Manually construct the parent hierarchy for taxonomies -->
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}

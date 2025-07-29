@@ -43,7 +43,7 @@ card:
   title: Agile Kata Professional
   content: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
 code: AKP1
-level: intermediate
+course_proficiencies: [intermediate]
 introduction:
 overview: |2+
 

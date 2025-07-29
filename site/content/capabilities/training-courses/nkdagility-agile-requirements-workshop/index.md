@@ -39,7 +39,7 @@ card:
   title: Agile Requirements Workshop
   content: ""
 code: NKD-AR
-level: intermediate
+course_proficiencies: [intermediate]
 introduction: |2
 
   In this course we work against your backlog, and your backlog items.

@@ -65,7 +65,7 @@ card:
   title: Professional Scrum Product Owner
   content: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.
 code: PSPO
-level: intermediate
+course_proficiencies: [intermediate]
 assessment:
   icon: Scrumorg-Assessment-PSPO-I.png
   content: |

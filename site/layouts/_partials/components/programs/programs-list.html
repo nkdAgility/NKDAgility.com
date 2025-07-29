@@ -33,12 +33,14 @@
                 <span aria-label="Program Code" itemprop="courseCode">{{ .Params.code }}</span>
                 <span aria-hidden="true"> • </span>
               {{ end }}
-              {{ if .Params.course_length }}
-                <span aria-label="Duration" itemprop="timeRequired" content="PT{{ .Params.course_length }}H">{{ .Params.course_length }}h</span>
-                <span aria-hidden="true"> • </span>
-              {{ end }}
-              {{ if .Params.level }}
-                <span aria-label="Level" itemprop="educationalLevel">{{ .Params.level | title }}</span>
+              {{ with index .Params.course_proficiencies }}
+                {{ $courseProficiencies := index . 0 }}
+                {{ $courseProficienciesTerm := partial "functions/get-taxonomy-page" (dict "taxonomyName" "course_proficiencies" "termName" $courseProficiencies "site" site) }}
+                {{ if $courseProficienciesTerm }}
+                  <a href="{{ $courseProficienciesTerm.Permalink }}" class="text-decoration-none"> <span aria-label="Level" itemprop="educationalLevel">{{ $courseProficienciesTerm.Params.short_title | default $courseProficienciesTerm.Title }}</span> </a>
+                {{ else }}
+                  <span aria-label="Level" itemprop="educationalLevel">{{ $courseProficiencies | title }}</span>
+                {{ end }}
               {{ end }}
             </small>
           </div>

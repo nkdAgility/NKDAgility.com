@@ -53,7 +53,7 @@ card:
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
 code: S4PO
-level: beginner
+course_proficiencies: [beginner]
 introduction: |2
 
   ### Course Outline

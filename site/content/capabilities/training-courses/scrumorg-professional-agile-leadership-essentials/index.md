@@ -61,7 +61,7 @@ card:
 
     Professional Agile Leadership (PAL) Essentials is a 14h workshop, delivered over four half-days that provides a foundation of the role that leaders play in creating the conditions for a successful agile transformation.
 code: PAL-e
-level: intermediate
+course_proficiencies: [intermediate]
 introduction: |2
 
   ### Expected Outcomes After Attending the Workshop

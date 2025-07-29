@@ -63,7 +63,7 @@ card:
 code: PSU
 course_length: 16
 course_sessions: 8
-level: advanced
+course_proficiencies: [advanced]
 introduction: |-
   What Professional Scrum with UX Students Say: 
   <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apsu&amp;theme=light" data-mce-fragment="1"></iframe>

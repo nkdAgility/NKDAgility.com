@@ -63,7 +63,7 @@ card:
   title: Applying Flow Metrics for Scrum
   content: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
 code: AFMS
-level: intermediate
+course_proficiencies: [intermediate]
 introduction:
 overview: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
 outcomes: |2-

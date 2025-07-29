@@ -53,7 +53,7 @@ card:
   title: Practicing Kanban Using Azure Boards
   content: All software development teams aim to enhance flow and throughput. This one-day course combines Kanban principles with Azure Boards, showing agile teams how to configure and effectively use the platform for Kanban practices. Participants will collaborate in teams on a shared project and case study to maximize learning.
 code: PKAB
-level: intermediate
+course_proficiencies: [intermediate]
 introduction:
 overview:
 outcomes:

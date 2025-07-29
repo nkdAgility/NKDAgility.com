@@ -48,7 +48,7 @@ card:
   title: Managing Projects Using Visual Studio and Scrum Training
   content: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
 code: MPVS
-level: intermediate
+course_proficiencies: [intermediate]
 introduction:
 overview: Product Owners, Scrum Masters, developers, testers, architects, business analysts, team leaders, and managers who want to improve the way their software is delivered should attend this class. Both technical and non‐technical people will benefit from the discussions. Having some project management and software development experience, either as a team member or as a project manager, is preferred. Experience with Agile software development, Scrum and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](https://scrumguides.com).
 outcomes: |
