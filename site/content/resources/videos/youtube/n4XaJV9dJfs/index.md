@@ -34,12 +34,12 @@ tags:
 - Empirical Process Control
 - Agile Transformation
 - Transparency
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:51Z
   short_title: 2025-07-07T17:51:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg

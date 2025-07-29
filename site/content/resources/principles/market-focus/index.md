@@ -19,10 +19,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-draft: true
 card:
   button:
     content: Learn More
@@ -31,6 +27,10 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:49Z
   short_title: 2025-07-07T17:48:06Z
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 
 ---
 Update the work based on user feedback on timelines shorter than one month

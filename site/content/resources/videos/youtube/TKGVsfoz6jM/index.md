@@ -24,6 +24,9 @@ categories:
 - Leadership
 - Technical Leadership
 tags: []
+Watermarks:
+  description: 2025-07-24T15:14:49Z
+  short_title: 2025-07-24T15:14:50Z
 videoId: TKGVsfoz6jM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TKGVsfoz6jM/maxresdefault.jpg
@@ -34,9 +37,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:14:49Z
-  short_title: 2025-07-24T15:14:50Z
 
 ---
 You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly—every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.

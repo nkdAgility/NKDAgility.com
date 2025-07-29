@@ -5,10 +5,9 @@ description: Explains how the Sprint Goal guides Scrum teams by providing a clea
 date: 2020-11-27
 weight: 790
 ResourceId: 99LDtXqmRu5
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+layout: blog
 concepts:
 - Method
 categories:
@@ -30,15 +30,13 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Product Management
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45088
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:20Z
   short_title: 2025-07-07T17:57:46Z
+ResourceImportId: 45088
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.

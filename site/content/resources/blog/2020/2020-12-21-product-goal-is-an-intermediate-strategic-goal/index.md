@@ -41,14 +41,14 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Common Goals
+Watermarks:
+  description: 2025-05-07T13:15:10Z
+  short_title: 2025-07-07T17:57:41Z
 ResourceImportId: 45309
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: naked-agility-hypothesis-driven-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:15:10Z
-  short_title: 2025-07-07T17:57:41Z
 
 ---
 The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.

@@ -25,13 +25,13 @@ categories:
 tags:
 - Windows
 - Install and Configuration
+Watermarks:
+  description: 2025-05-07T13:16:49Z
+  short_title: 2025-07-07T17:59:01Z
 ResourceImportId: 11440
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: clip_image001-1-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:49Z
-  short_title: 2025-07-07T17:59:01Z
 
 ---
 I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing [Windows]({{< ref "/tags/windows" >}}) 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.

@@ -7,12 +7,23 @@ weight: 430
 ResourceId: Lj-8s76yXLP
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: would-you-hire-a-junior-ciso-a-junior-financial-director
 aliases:
 - /resources/Lj-8s76yXLP
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+- Leadership
+tags:
+- Competence
+- Software Development
+- Scrum Master
+- Pragmatic Thinking
+- Agile Leadership
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7297194597825363968
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:54Z
   short_title: 2025-07-07T17:46:26Z
-concepts: []
-categories:
-- Scrum
-- Technical Leadership
-- Leadership
-tags:
-- Competence
-- Software Development
-- Scrum Master
-- Pragmatic Thinking
-- Agile Leadership
 
 ---
 Would you hire a Junior CISO? A Junior Financial Director?

@@ -5,10 +5,9 @@ description: Explores why true organisational agility means building custom proc
 date: 2023-09-07
 weight: 1000
 ResourceId: Jz5uZMzPiRx
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -23,6 +22,7 @@ aliasesArchive:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+layout: blog
 concepts: []
 categories:
 - Uncategorized
@@ -33,16 +33,14 @@ tags:
 - Market Adaptability
 - Organisational Change
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49732
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-technically-survivalisoptional-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:38Z
   short_title: 2025-07-07T17:53:10Z
+ResourceImportId: 49732
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---
 As I sit here, sipping my morning cup of tea, I ponder the current state of [organisational agility]({{< ref "/tags/organisational-agility" >}}). I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then [DevOps]({{< ref "/categories/devops" >}}). But, as I've often found, the reality is far from the promise.

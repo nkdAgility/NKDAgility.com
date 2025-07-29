@@ -7,12 +7,21 @@ weight: 190
 ResourceId: un1ZqM8aYng
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: the-hidden-costs-of-supporting-multiple-versions-in-production
 aliases:
 - /resources/un1ZqM8aYng
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Software Development
+- Technical Mastery
+- Miscellaneous
+- Technical Debt
+- Modern Source Control
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7293304944034541569
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:57:06Z
   short_title: 2025-07-07T17:46:46Z
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Software Development
-- Technical Mastery
-- Miscellaneous
-- Technical Debt
-- Modern Source Control
 
 ---
 Supporting multiple versions in production is a hidden tax on engineering teams.

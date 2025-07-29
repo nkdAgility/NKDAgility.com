@@ -38,12 +38,12 @@ tags:
 - Product Discovery
 - Product Validation
 - Metrics and Learning
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:46Z
   short_title: 2025-07-07T17:47:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Ig-HpUfQr3M
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w

@@ -23,13 +23,13 @@ concepts:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:16:35Z
+  short_title: 2025-07-07T17:58:50Z
 ResourceImportId: 11944
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:35Z
-  short_title: 2025-07-07T17:58:50Z
 
 ---
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.

@@ -9,7 +9,7 @@
   Parameters:
   - site: Hugo site object
   - context: Section configuration object with:
-  - source: Name of the taxonomy to display (e.g., "delivery-audiences")
+  - source: Name of the taxonomy to display (e.g., "delivery_audiences")
   - types: Array of content types to filter by
   - listType: Layout style - "default" or "boxed" (optional, defaults to "default")
 */}}
@@ -37,7 +37,7 @@
                   <div class="d-flex align-items-center gap-2 mb-1">
                     <h3 class="list-item-title mb-0">
                       <a href="{{ .Page.Permalink }}" class="text-decoration-none" style="color: inherit;">
-                        {{ .Page.Title }}
+                        {{ .Page.Params.short_title | default .Page.Title }}
                       </a>
                     </h3>
                     <div class="d-flex flex-wrap gap-1">

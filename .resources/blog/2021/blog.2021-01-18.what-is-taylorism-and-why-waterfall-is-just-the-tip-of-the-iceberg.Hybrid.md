@@ -5,10 +5,9 @@ description: Explores how Taylorism shaped modern management, leading to rigid h
 date: 2021-01-18
 weight: 1000
 ResourceId: wYwQygBrmgx
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
 - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
@@ -27,6 +26,7 @@ aliasesArchive:
 - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -39,16 +39,14 @@ tags:
 - Complexity Thinking
 - Organisational Psychology
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45392
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 Watermarks:
   description: 2025-05-07T13:15:04Z
   short_title: 2025-07-07T17:57:37Z
+ResourceImportId: 45392
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---
 For many people the traditional [project management]({{< ref "/tags/project-management" >}}) methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.

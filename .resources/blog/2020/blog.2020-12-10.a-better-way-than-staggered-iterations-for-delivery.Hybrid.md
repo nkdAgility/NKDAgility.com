@@ -5,10 +5,9 @@ description: Explains why staggered iterations harm software delivery, increasin
 date: 2020-12-10
 weight: 155
 ResourceId: DOMFzBBMzfq
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+layout: blog
 concepts:
 - Practice
 categories:
@@ -41,13 +41,6 @@ tags:
 - Technical Excellence
 - Product Developer
 - Agile Frameworks
-ResourceContentOrigin: Hybrid
-ResourceImportId: 9915
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: staggered-iterations-for-delivery1-2-2.png
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/better-way-staggered-iterations-delivery
@@ -56,6 +49,11 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T13:15:16Z
   short_title: 2025-07-07T17:57:44Z
+ResourceImportId: 9915
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: staggered-iterations-for-delivery1-2-2.png
 
 ---
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.

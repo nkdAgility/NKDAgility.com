@@ -33,12 +33,12 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:00Z
   short_title: 2025-07-07T17:52:35Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: dT1_zHfzto0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg

@@ -4,27 +4,24 @@ short_title: Continuous Delivery for Complex Software
 description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
 date: 2025-02-24T09:00:00
 weight: 155
-ResourceId: 7hEAycZIn8w
-ResourceImport: false
-ResourceType: blog
-slug: stop-hiding-behind-complexity-and-start-delivering-continuously
-aliases:
-- /resources/7hEAycZIn8w
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
 contributors:
 - name: John McFadyen
   external: https://www.linkedin.com/in/johnmcfadyen/
 - name: Rich Visotcky
   external: https://www.linkedin.com/in/richvisotcky/
-layout: blog
-resourceTypes: blog
+ResourceId: 7hEAycZIn8w
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+slug: stop-hiding-behind-complexity-and-start-delivering-continuously
+aliases:
+- /resources/7hEAycZIn8w
 aliasesArchive:
 - /stop-hiding-behind-complexity-deliver-continuously
 - /blog/stop-hiding-behind-complexity-deliver-continuously
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+layout: blog
 concepts:
 - Practice
 categories:
@@ -47,7 +44,6 @@ tags:
 - Azure DevOps
 - Business Agility
 - Release Management
-preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/stop-hiding-behind-complexity-and-start-delivering-continuously
@@ -56,6 +52,10 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:49:30Z
   short_title: 2025-07-07T17:46:10Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 
 ---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
@@ -134,7 +134,7 @@ These metrics represent stages in the flow of work from ideation to outcome. The
 
 By monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.
 
-It's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref "/resources/guides/evidence-based-management-guide-2020" >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:
+It's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref "/resources/guides/evidence-based-management-guide" >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:
 
 1. **[Current Value]({{< ref "/tags/current-value" >}}) (CV):** Measures the value delivered to customers or stakeholders today, reflecting satisfaction and success based on the current product.
 2. **Unrealized Value (UV):** Identifies potential future value by highlighting gaps between what customers have and what they need or desire.

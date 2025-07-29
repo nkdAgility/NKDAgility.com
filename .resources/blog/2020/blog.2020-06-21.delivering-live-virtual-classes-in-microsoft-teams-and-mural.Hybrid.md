@@ -5,10 +5,9 @@ description: Guidance on running live virtual Scrum classes using Microsoft Team
 date: 2020-06-21
 weight: 750
 ResourceId: fyJ8PxhOEZz
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
 - /resources/fyJ8PxhOEZz
@@ -16,6 +15,7 @@ aliasesArchive:
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+layout: blog
 concepts:
 - Tool
 categories:
@@ -31,15 +31,13 @@ tags:
 - Scrum Team
 - Social Technologies
 - Team Performance
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44432
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: class-colage-2-8-8.jpg
 Watermarks:
   description: 2025-05-07T13:15:36Z
   short_title: 2025-07-07T17:57:59Z
+ResourceImportId: 44432
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: class-colage-2-8-8.jpg
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

@@ -26,12 +26,12 @@ categories:
 - Product Development
 - Product Management
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:53Z
   short_title: 2025-07-07T17:54:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: faoWuCkKC0U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg

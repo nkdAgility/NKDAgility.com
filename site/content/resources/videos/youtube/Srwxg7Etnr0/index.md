@@ -34,12 +34,12 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Common Goals
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:56Z
   short_title: 2025-07-07T17:54:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Srwxg7Etnr0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg

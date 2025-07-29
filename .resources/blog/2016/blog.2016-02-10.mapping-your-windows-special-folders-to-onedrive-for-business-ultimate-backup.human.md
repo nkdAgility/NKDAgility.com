@@ -5,18 +5,12 @@ description: Learn how to sync Windows special folders like Documents and Deskto
 date: 2016-02-10
 weight: 1000
 ResourceId: mKq16PgA7Ks
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: mapping-your-windows-special-folders-to-onedrive-for-business-ultimate-backup
 aliases:
 - /resources/mKq16PgA7Ks
-ResourceContentOrigin: Human
-ResourceImportId: 11430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup
@@ -24,15 +18,19 @@ aliasesArchive:
 - /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Windows
-preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:48Z
   short_title: 2025-07-07T17:59:00Z
+ResourceImportId: 11430
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image001-1-1.png
 
 ---
 Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.

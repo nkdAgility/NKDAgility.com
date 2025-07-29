@@ -4,25 +4,22 @@ short_title: No Such Thing as a Junior Scrum Master
 description: Argues that the Scrum Master role requires proven mastery and real-world experience, not entry-level skills or certifications, and should be earned within the team, not assigned.
 date: 2025-02-17T09:00:00
 weight: 135
+contributors:
+- name: Dave ("Dungeon" Dave) Smith
+  external: https://www.linkedin.com/in/dungeon-dave-smith/
 ResourceId: f2RQh2UCwqB
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: there-is-no-such-thing-as-a-junior-scrum-master
 aliases:
 - /resources/f2RQh2UCwqB
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-Contributors:
-- name: Dave ("Dungeon" Dave) Smith
-  external: https://www.linkedin.com/in/dungeon-dave-smith/
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /no-such-thing-as-a-junior-scrum-master
 - /blog/no-such-thing-as-a-junior-scrum-master
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
+layout: blog
 concepts:
 - Accountability
 categories:
@@ -42,8 +39,6 @@ tags:
 - Technical Excellence
 - Team Collaboration
 - Product Delivery
-preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
-marketing: []
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/there-no-such-thing-junior-scrum-master
@@ -52,6 +47,11 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:49:37Z
   short_title: 2025-07-07T17:46:27Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+marketing: []
 
 ---
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a [Scrum]({{< ref "/categories/scrum" >}}) Master. The idea of a “junior” [Scrum Master]({{< ref "/tags/scrum-master" >}}) is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the [Scrum Team]({{< ref "/tags/scrum-team" >}}) as a practitioner who has already demonstrated [technical mastery]({{< ref "/tags/technical-mastery" >}}), business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**

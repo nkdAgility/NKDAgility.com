@@ -5,34 +5,32 @@ description: Explores whether Scrum Teams should adopt No Estimates, comparing e
 date: 2019-08-22
 weight: 440
 ResourceId: Lv1CLfk5cPM
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
 - /resources/Lv1CLfk5cPM
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39684
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+layout: blog
 concepts: []
 categories:
 - Product Development
 - Scrum
 tags:
 - Software Development
-preview: iStock-847664136-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:14Z
   short_title: 2025-07-07T17:58:31Z
+ResourceImportId: 39684
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: iStock-847664136-1-1.jpg
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

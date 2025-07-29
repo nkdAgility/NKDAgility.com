@@ -39,6 +39,9 @@ tags:
 - Automated Testing
 - Value Delivery
 - Technical Excellence
+Watermarks:
+  description: 2025-05-07T20:21:40Z
+  short_title: 2025-07-07T16:43:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,9 +52,6 @@ duration: 53
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-07T20:21:40Z
-  short_title: 2025-07-07T16:43:55Z
 
 ---
 If it’s not in the pipeline, it’s not in your process. I’ve seen this time and again—organisations with the best intentions, armed with standards, checklists, and policies, but still falling short when it comes to real, consistent quality. Why? Because if you rely on people to remember, to manually tick the boxes, you’re building your process on hope rather than certainty.

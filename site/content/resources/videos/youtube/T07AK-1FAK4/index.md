@@ -27,12 +27,12 @@ categories:
 - Product Development
 tags:
 - Competence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:04Z
   short_title: 2025-07-07T17:51:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg

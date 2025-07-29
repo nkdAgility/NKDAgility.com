@@ -4,9 +4,11 @@ short_title: Professional Product Discovery & Validation
 description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
 date: 2024-08-29
 weight: 1000
+author: MrHinsh
 ResourceId: bvPDNFJju4h
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
@@ -15,6 +17,7 @@ aliases:
 aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+layout: newsletter
 concepts: []
 categories:
 - Product Development
@@ -23,13 +26,10 @@ tags:
 - Customer Focus
 - Product Validation
 - Product Discovery
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
   short_title: 2025-07-07T17:48:22Z
+resourceTypes: newsletter
 
 ---
 **Dear Innovators and Product Enthusiasts,**

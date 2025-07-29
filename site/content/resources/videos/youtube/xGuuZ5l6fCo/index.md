@@ -44,12 +44,12 @@ tags:
 - Business Agility
 - Product Validation
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:32Z
   short_title: 2025-07-07T17:48:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: xGuuZ5l6fCo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg

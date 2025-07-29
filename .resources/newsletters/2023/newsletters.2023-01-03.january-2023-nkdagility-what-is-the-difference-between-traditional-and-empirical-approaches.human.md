@@ -4,9 +4,11 @@ short_title: Traditional vs Empirical Approaches in Agility
 description: Explains the key differences between traditional and empirical approaches in project management, highlighting when to use each for effective agility in complex environments.
 date: 2023-01-03
 weight: 1000
+author: MrHinsh
 ResourceId: -D7_0lz9GU6
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: january-2023-nkdagility-what-is-the-difference-between-traditional-and-empirical-approaches
 aliases:
 - /newsletters/january-2023/
@@ -15,18 +17,16 @@ aliases:
 aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
+layout: newsletter
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
-preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:38Z
   short_title: 2025-07-07T17:57:15Z
+preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
+resourceTypes: newsletter
 
 ---
 Welcome to this month's edition of NKDAgility.

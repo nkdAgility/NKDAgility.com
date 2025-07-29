@@ -29,12 +29,12 @@ tags:
 - Azure DevOps
 - Operational Practices
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:22Z
   short_title: 2025-07-07T17:49:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg

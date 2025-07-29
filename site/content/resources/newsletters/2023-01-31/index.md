@@ -23,11 +23,11 @@ categories:
 - Product Management
 - Product Development
 tags: []
-preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:14:20Z
   short_title: 2025-07-07T17:56:58Z
+preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
+resourceTypes: newsletter
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

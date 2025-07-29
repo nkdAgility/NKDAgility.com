@@ -5,10 +5,9 @@ description: Explores how superficial adoption of agile in software development 
 date: 2023-08-03
 weight: 355
 ResourceId: mzVDd2JFtHO
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -19,22 +18,21 @@ aliasesArchive:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+layout: blog
 concepts: []
 categories:
 - Product Development
 tags:
 - Software Development
 - Agile Philosophy
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49507
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:27Z
   short_title: 2025-07-07T17:53:45Z
+ResourceImportId: 49507
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---
 In [software development]({{< ref "/tags/software-development" >}}), an increasingly prevalent phenomenon is the adoption of agile methodologies, akin to individuals embarking on fitness journeys through gym memberships. However, a striking parallel between the two realms can be drawn – the misuse and under-utilization of the tools at disposal. The essence of this analogy reflects a more fundamental notion: the gap between intention and implementation.

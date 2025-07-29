@@ -34,14 +34,6 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-resourceTypes: guide
-references:
-- title: The Kanban Guide
-  url: https://kanbanguides.org/english/
-recommendedContent:
-- collection: practices
-  path: _practices/service-level-expectation-sle.md
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -50,6 +42,14 @@ card:
 Watermarks:
   description: 2025-05-16T10:06:25Z
   short_title: 2025-07-07T16:40:30Z
+resourceTypes: guide
+references:
+- title: The Kanban Guide
+  url: https://kanbanguides.org/english/
+recommendedContent:
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
+creator: Martin Hinshelwood
 
 ---
 This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.

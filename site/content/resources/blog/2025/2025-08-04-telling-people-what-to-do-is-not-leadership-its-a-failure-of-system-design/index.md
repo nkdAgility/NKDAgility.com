@@ -43,10 +43,10 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-19T07:28:14Z
   short_title: 2025-07-07T16:43:11Z
+creator: Martin Hinshelwood
 
 ---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.

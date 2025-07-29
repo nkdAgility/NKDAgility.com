@@ -47,14 +47,14 @@ tags:
 - Team Performance
 - Agile Planning
 - Transparency
+Watermarks:
+  description: 2025-05-07T13:15:15Z
+  short_title: 2025-07-07T17:57:43Z
 ResourceImportId: 38238
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
-Watermarks:
-  description: 2025-05-07T13:15:15Z
-  short_title: 2025-07-07T17:57:43Z
 
 ---
 In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).

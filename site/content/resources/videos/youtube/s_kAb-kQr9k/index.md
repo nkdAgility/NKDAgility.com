@@ -26,6 +26,9 @@ categories:
 tags:
 - Agile Leadership
 - Miscellaneous
+Watermarks:
+  description: 2025-07-24T15:12:54Z
+  short_title: 2025-07-24T15:12:55Z
 videoId: s_kAb-kQr9k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s_kAb-kQr9k/maxresdefault.jpg
@@ -36,9 +39,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:12:54Z
-  short_title: 2025-07-24T15:12:55Z
 
 ---
 If there’s one thing I see time and again in my work with technology leaders, it’s this: you can’t lead innovation if you’re overwhelmed and burned out. Yet, that’s precisely where so many CTOs and tech leaders find themselves. The expectation is relentless—be across every trend, make a hundred decisions a day, modernise the architecture, support the teams, deliver faster, and somehow still get a decent night’s sleep. It’s no wonder so many are running on empty.

@@ -34,12 +34,12 @@ tags:
 - Competence
 - Agile Values and Principles
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:11Z
   short_title: 2025-07-07T17:51:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 3S0zghhDPwc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg

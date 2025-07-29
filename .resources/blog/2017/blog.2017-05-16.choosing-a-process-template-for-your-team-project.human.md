@@ -5,22 +5,17 @@ description: Guidance on selecting the best process template for team projects i
 date: 2017-05-16
 weight: 590
 ResourceId: dGSGEOYRJAo
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: choosing-a-process-template-for-your-team-project
 aliases:
 - /resources/dGSGEOYRJAo
-ResourceContentOrigin: Human
-ResourceImportId: 10356
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/choosing-a-process-template-for-your-team-project
 - /choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
+layout: blog
 concepts:
 - Framework
 categories:
@@ -30,10 +25,13 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
-preview: IC749984-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:38Z
   short_title: 2025-07-07T17:58:53Z
+ResourceImportId: 10356
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: IC749984-1-1.png
 
 ---
 Over the years I have had many discussions about Agile vs [Scrum]({{< ref "/categories/scrum" >}}) process templates with both TFS and VSTS and migrated many Team Projects from Agile or CMMI templates to the Scrum Template.

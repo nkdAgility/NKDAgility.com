@@ -40,12 +40,12 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:33Z
   short_title: 2025-07-07T17:48:58Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: _FtFqnZHCjk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg

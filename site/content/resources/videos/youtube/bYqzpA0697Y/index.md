@@ -31,6 +31,9 @@ categories:
 - Product Development
 tags:
 - Scaling
+Watermarks:
+  description: 2025-05-07T12:49:21Z
+  short_title: 2025-07-07T16:45:44Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,9 +44,6 @@ duration: 87
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:21Z
-  short_title: 2025-07-07T16:45:44Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) is a challenge that many organisations face, and I can tell you from experience that it’s never as simple as just adding more people to the mix. At Naked Agility, we’ve learned that true scaling involves creating systems that allow teams to expand seamlessly without sacrificing speed or quality. 

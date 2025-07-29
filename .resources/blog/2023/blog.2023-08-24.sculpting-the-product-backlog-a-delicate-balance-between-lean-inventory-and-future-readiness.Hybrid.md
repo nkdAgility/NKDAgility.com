@@ -5,10 +5,9 @@ description: Explores how to maintain a lean, transparent product backlog that b
 date: 2023-08-24
 weight: 1000
 ResourceId: wXQXA_aHLS1
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
 - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
@@ -23,6 +22,7 @@ aliasesArchive:
 - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -36,16 +36,14 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 - Product Delivery
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49523
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:54Z
   short_title: 2025-07-07T17:53:24Z
+ResourceImportId: 49523
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-1.jpg
 
 ---
 In the realm of [product development]({{< ref "/categories/product-development" >}}), crafting an efficient [Product Backlog]({{< ref "/tags/product-backlog" >}}) is an endeavour akin to sculpting a masterpiece. Just as sculptors chisel away the excess marble to reveal the form within, product managers must carefully mould their backlog, ensuring it's a [lean]({{< ref "/categories/lean" >}}) inventory that reflects the unrealized value of the product. The Product Backlog must encapsulate our current aspirations for the product while being transparent and understandable to all stakeholders. It’s a living artefact that dynamically evolves with the product. However, we must also resist the temptation to create an overwhelming catalogue that loses its sharpness and becomes a weight dangling around the team's neck.

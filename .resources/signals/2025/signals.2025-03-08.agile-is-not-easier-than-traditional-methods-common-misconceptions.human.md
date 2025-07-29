@@ -7,12 +7,23 @@ weight: 335
 ResourceId: ZGwpGOoHHBQ
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: agile-is-not-easier-than-traditional-methods-common-misconceptions
 aliases:
 - /resources/ZGwpGOoHHBQ
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+- Agile Philosophy
+- Product Delivery
+- Organisational Agility
+- Social Technologies
+- Pragmatic Thinking
+- Value Delivery
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7304176577867665411
@@ -27,17 +38,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:21Z
   short_title: 2025-07-07T16:45:33Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-- Agile Philosophy
-- Product Delivery
-- Organisational Agility
-- Social Technologies
-- Pragmatic Thinking
-- Value Delivery
 
 ---
 One of the biggest misconceptions about Agile is that it’s “easier” than traditional approaches. The reality? It’s much harder.

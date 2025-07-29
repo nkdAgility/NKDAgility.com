@@ -30,12 +30,12 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:12Z
   short_title: 2025-07-07T17:51:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg

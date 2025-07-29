@@ -7,12 +7,22 @@ weight: 190
 ResourceId: 4kBTeJ1TmsW
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: technical-debt-cripples-business-agility-and-slows-engineers-down
 aliases:
 - /resources/4kBTeJ1TmsW
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Technical Debt
+- Software Development
+- Business Agility
+- Operational Practices
+- Market Adaptability
+- Technical Mastery
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7325542533416038401
@@ -27,16 +37,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:54:59Z
   short_title: 2025-07-07T16:44:27Z
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Technical Debt
-- Software Development
-- Business Agility
-- Operational Practices
-- Market Adaptability
-- Technical Mastery
 
 ---
 Technical debt doesn’t just slow engineers down—it cripples business agility.

@@ -20,13 +20,13 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:16:39Z
+  short_title: 2025-07-07T17:58:54Z
 ResourceImportId: 11882
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: government-cloud-640x400-1-1.png
-Watermarks:
-  description: 2025-05-07T13:16:39Z
-  short_title: 2025-07-07T17:58:54Z
 
 ---
 Why is it that while there is a Government Cloud First policy there are so much fear of cloud in the public sector? I have been working with a number of government and local council agencies in the UK and I found that they are still trying to decide if cloud is a good idea.

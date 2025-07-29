@@ -37,12 +37,12 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:45Z
   short_title: 2025-07-07T17:52:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: V88FjP9f7_0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg

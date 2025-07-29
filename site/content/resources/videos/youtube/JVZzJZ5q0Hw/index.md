@@ -32,12 +32,12 @@ tags:
 - Software Development
 - Agile Frameworks
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:11Z
   short_title: 2025-07-07T17:55:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: JVZzJZ5q0Hw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg

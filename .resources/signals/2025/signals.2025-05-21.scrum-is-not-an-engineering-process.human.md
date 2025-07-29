@@ -7,26 +7,12 @@ weight: 550
 ResourceId: 2meGTZZAPdw
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-is-not-an-engineering-process
 aliases:
 - /resources/2meGTZZAPdw
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7330978339752394754
-  post_id: "7330978339752394754"
-  post_date: 2025-05-21T14:30:39Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-29T18:10:56Z
-  short_title: 2025-07-07T16:44:03Z
+layout: signal
 concepts:
 - Framework
 categories:
@@ -45,6 +31,20 @@ tags:
 - Sociotechnical Systems
 - Self Organisation
 - Professional Scrum
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7330978339752394754
+  post_id: "7330978339752394754"
+  post_date: 2025-05-21T14:30:39Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-29T18:10:56Z
+  short_title: 2025-07-07T16:44:03Z
 
 ---
 Scrum is not an engineering process. It's a social technology that invites everyone in the organisation into the conversation.

@@ -32,12 +32,12 @@ tags:
 - Lean Startup
 - Product Discovery
 - Product Validation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:14Z
   short_title: 2025-07-07T17:48:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: j-mPdGP7BiU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg

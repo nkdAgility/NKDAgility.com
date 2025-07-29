@@ -31,12 +31,12 @@ tags:
 - Organisational Agility
 - Agile Philosophy
 - Agile Values and Principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:05Z
   short_title: 2025-07-07T17:56:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: QgPlMxGNIzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg

@@ -29,12 +29,12 @@ tags:
 - Pragmatic Thinking
 - One Engineering System
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:12Z
   short_title: 2025-07-07T17:55:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: N58DvsSx4U8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg

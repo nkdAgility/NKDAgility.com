@@ -29,9 +29,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-resourceTypes: guide
-image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -40,6 +37,9 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:02Z
   short_title: 2025-07-07T16:40:40Z
+resourceTypes: guide
+image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
+creator: Martin Hinshelwood
 
 ---
 # DIB Guide: Detecting Agile BS

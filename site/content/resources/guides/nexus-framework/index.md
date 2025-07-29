@@ -42,6 +42,14 @@ tags:
 - Working Software
 - Scrum Team
 - Agile Transformation
+card:
+  button:
+    content: Learn More
+  content: Discover more about Nexus Guide and how it can help you in your Agile journey!
+  title: Nexus Guide
+Watermarks:
+  description: 2025-05-07T12:58:25Z
+  short_title: 2025-07-07T16:40:33Z
 resourceTypes: guide
 references:
 - title: The 2020 Scrum Guide
@@ -57,14 +65,6 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Nexus Guide and how it can help you in your Agile journey!
-  title: Nexus Guide
-Watermarks:
-  description: 2025-05-07T12:58:25Z
-  short_title: 2025-07-07T16:40:33Z
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

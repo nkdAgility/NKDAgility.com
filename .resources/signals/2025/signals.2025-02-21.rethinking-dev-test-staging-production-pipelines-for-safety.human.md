@@ -7,26 +7,12 @@ weight: 210
 ResourceId: 3oUXWDsN6Qa
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: rethinking-dev-test-staging-production-pipelines-for-safety
 aliases:
 - /resources/3oUXWDsN6Qa
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7298740880612446209
-  post_id: "7298740880612446209"
-  post_date: 2025-02-21T16:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:49Z
-  short_title: 2025-07-07T17:46:16Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -48,6 +34,21 @@ tags:
 - Product Validation
 - Metrics and Learning
 - Engineering Practices
+- Agentic Engineering
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7298740880612446209
+  post_id: "7298740880612446209"
+  post_date: 2025-02-21T16:30:30Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:49Z
+  short_title: 2025-07-07T17:46:16Z
 
 ---
 For years, we convinced ourselves that Dev-Test-Staging-Production pipelines kept us safe. If we just had one more layer of validation and one more environment to test in, we'd catch the problems before they hit production.

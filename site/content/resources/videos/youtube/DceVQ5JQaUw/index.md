@@ -29,12 +29,12 @@ categories:
 tags:
 - Change Management
 - Organisational Culture
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:51Z
   short_title: 2025-07-07T17:55:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg

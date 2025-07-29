@@ -25,12 +25,12 @@ concepts: []
 categories:
 - Product Development
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:23Z
   short_title: 2025-07-07T17:55:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Xs-gf093GbI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Xs-gf093GbI/maxresdefault.jpg

@@ -34,6 +34,9 @@ tags:
 - Technical Mastery
 - Operational Practices
 - Engineering Practices
+Watermarks:
+  description: 2025-05-07T20:29:03Z
+  short_title: 2025-07-07T16:43:59Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,9 +47,6 @@ duration: 142
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T20:29:03Z
-  short_title: 2025-07-07T16:43:59Z
 
 ---
 Technical debt. It’s one of those insidious things that creeps up on you—quietly, almost politely—until one day you realise you’re spending more time firefighting than actually delivering anything new. At that point, it’s not just slowing you down; it’s actively standing in your way, blocking progress, and sapping morale.

@@ -5,18 +5,12 @@ description: Summary of 2017 conferences, talks, and training on Agile, DevOps, 
 date: 2017-11-28
 weight: 480
 ResourceId: J0HjcdNvqGW
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
 - /resources/J0HjcdNvqGW
-ResourceContentOrigin: Human
-ResourceImportId: 12146
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 - /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
@@ -25,14 +19,18 @@ aliasesArchive:
 - /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: -1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:24Z
   short_title: 2025-07-07T17:58:40Z
+ResourceImportId: 12146
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: -1-1.jpg
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

@@ -32,12 +32,12 @@ tags:
 - Software Development
 - Agile Strategy
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:08Z
   short_title: 2025-07-07T17:51:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: X4QzM00onL4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg

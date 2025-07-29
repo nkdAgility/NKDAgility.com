@@ -7,26 +7,12 @@ weight: 235
 ResourceId: sJJYz51QG0O
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: executives-want-predictability
 aliases:
 - /resources/sJJYz51QG0O
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7312496427987841049
-  post_id: "7312496427987841049"
-  post_date: 2025-03-31T14:30:08Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:47Z
-  short_title: 2025-07-07T16:45:07Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -46,6 +32,20 @@ tags:
 - Professional Scrum
 - Pragmatic Thinking
 - Value Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7312496427987841049
+  post_id: "7312496427987841049"
+  post_date: 2025-03-31T14:30:08Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:47Z
+  short_title: 2025-07-07T16:45:07Z
 
 ---
 Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.

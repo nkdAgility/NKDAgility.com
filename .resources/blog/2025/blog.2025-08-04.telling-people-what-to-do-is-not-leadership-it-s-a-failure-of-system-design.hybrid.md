@@ -4,9 +4,17 @@ short_title: Leadership Is System Design, Not Command
 description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
 date: 2025-08-04T09:00:00Z
 weight: 30
+contributors:
+- name: Brett Maytom
+  external: https://www.linkedin.com/in/scrum-trainer/
+- name: Alex Brown
+  external: https://www.linkedin.com/in/alexbrown/
+- name: Alessandro Recca
+  external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
 ResourceId: W_KrTupmowf
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
 aliases:
 - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
@@ -20,6 +28,7 @@ categories:
 - Engineering Excellence
 - Leadership
 tags:
+- Agentic Engineering
 - Lean Principles
 - Operational Practices
 - Self Organisation
@@ -34,19 +43,10 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- Continuous Improvement
-ResourceContentOrigin: hybrid
-creator: Martin Hinshelwood
-contributors:
-- name: Brett Maytom
-  external: https://www.linkedin.com/in/scrum-trainer/
-- name: Alex Brown
-  external: https://www.linkedin.com/in/alexbrown/
-- name: Alessandro Recca
-  external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
 Watermarks:
   description: 2025-05-19T07:28:14Z
   short_title: 2025-07-07T16:43:11Z
+creator: Martin Hinshelwood
 
 ---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.

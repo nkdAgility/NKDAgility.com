@@ -32,12 +32,12 @@ tags:
 - Scrum Team
 - Social Technologies
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:31Z
   short_title: 2025-07-07T17:53:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Ce5pFwG5IAY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg

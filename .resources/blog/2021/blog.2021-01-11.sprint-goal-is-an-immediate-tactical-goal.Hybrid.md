@@ -5,10 +5,9 @@ description: Explains how the Sprint Goal serves as an immediate tactical object
 date: 2021-01-11
 weight: 750
 ResourceId: sLRE2HdkUCS
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: sprint-goal-is-an-immediate-tactical-goal
 aliases:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
+layout: blog
 concepts: []
 categories:
 - Product Management
@@ -35,16 +35,14 @@ tags:
 - Agile Frameworks
 - Value Delivery
 - Product Delivery
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45310
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-hypothesis-driven-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:05Z
   short_title: 2025-07-07T17:57:38Z
+ResourceImportId: 45310
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---
 In the [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) we talk about the [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) and I likened that to the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) in the [2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide). If we also think of each Sprint as a tactical move towards fulfilling that [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) then the [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) becomes an Intermediate Tactical Goal that moves us towards our current Intermediate Strategic Goal.

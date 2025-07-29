@@ -30,12 +30,12 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Decision Theory
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:53Z
   short_title: 2025-07-07T17:47:17Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: mZvRMHFUarM
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w

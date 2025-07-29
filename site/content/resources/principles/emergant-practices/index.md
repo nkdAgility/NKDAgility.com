@@ -19,9 +19,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-resourceTypes: principles
-creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
@@ -30,6 +27,9 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:23Z
   short_title: 2025-07-07T17:48:02Z
+resourceTypes: principles
+creator: Martin Hinshelwood
+draft: true
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

@@ -5,32 +5,30 @@ description: Explores the origins of Taylorism in modern management, its impact 
 date: 2020-04-01
 weight: 1000
 ResourceId: IDMjGi5C8lS
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
 - /resources/IDMjGi5C8lS
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44208
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: 2020-03-27_21-31-11-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:56Z
   short_title: 2025-07-07T17:58:15Z
+ResourceImportId: 44208
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---
 ​

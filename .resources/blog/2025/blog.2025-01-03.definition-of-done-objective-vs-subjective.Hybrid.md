@@ -7,6 +7,7 @@ weight: 180
 ResourceId: -Z5GGUOjc-d
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: definition-of-done-objective-vs-subjective
 aliases:
 - /resources/-Z5GGUOjc-d
@@ -19,6 +20,7 @@ aliasesArchive:
 - /blog/definition-of-done-objective-vs-subjective
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -41,12 +43,6 @@ tags:
 - Technical Excellence
 - Team Performance
 - Working Software
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
@@ -55,6 +51,10 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:50:03Z
   short_title: 2025-07-07T17:47:03Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---
 In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.

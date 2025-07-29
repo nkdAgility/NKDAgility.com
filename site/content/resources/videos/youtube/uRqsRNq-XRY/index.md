@@ -29,12 +29,12 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:59Z
   short_title: 2025-07-07T17:51:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg

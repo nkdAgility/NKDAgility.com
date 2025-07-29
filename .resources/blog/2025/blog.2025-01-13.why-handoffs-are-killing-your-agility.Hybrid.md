@@ -7,6 +7,7 @@ weight: 230
 ResourceId: pDvDdIEi9sj
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: why-handoffs-are-killing-your-agility
 aliases:
 - /resources/pDvDdIEi9sj
@@ -15,6 +16,7 @@ aliases:
 aliasesArchive:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
+layout: blog
 concepts:
 - Strategy
 categories:
@@ -37,12 +39,6 @@ tags:
 - Lean Principles
 - Value Delivery
 - Agile Frameworks
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/why-handoffs-are-killing-your-agility
@@ -51,6 +47,10 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:50:01Z
   short_title: 2025-07-07T17:47:02Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.

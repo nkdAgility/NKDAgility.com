@@ -1,16 +1,14 @@
 ---
 title: Scrum for Stakeholders Training
-description: Join this interactive class to discover what Scrum is, its benefits, and how it transforms your work. Engage in discussions and team activities for real insights!
-ResourceId: 33qyqKjBf3T
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Scrum Fundamentals for Stakeholders
+description: Introduces stakeholders to Scrum fundamentals, roles, and events, focusing on effective engagement, benefits over traditional methods, and practical participation skills.
 date: 2020-08-31
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: 33qyqKjBf3T
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: scrum-for-stakeholders-training
-url: 
 aliases:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
@@ -20,32 +18,43 @@ aliasesArchive:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
 - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
-course-topics:
-- Scrum Training Courses
-course-vendors:
-- Accentient
-course-learning-experiences:
-- Traditional
-delivery-audiences:
-- Product Managers
+concepts:
+- Practice
+categories:
+- Product Development
+- Scrum
 tags:
+- Project Management
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation
 - Professional Scrum
 - Software Development
-categories:
-- Scrum
-preview: 
-previewIcon: A-S4S.png
-brandColour: 
 card:
   button:
     content: ""
   title: Scrum for Stakeholders Training
   content: ""
+Watermarks:
+  description: 2025-07-29T15:01:30Z
+  short_title: 2025-07-29T15:01:31Z
+creator: Martin Hinshelwood
+type: course
+url: 
+course_topics:
+- Scrum Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Product Managers
+preview: 
+previewIcon: A-S4S.png
+brandColour: 
 code: S4S
-level: beginner
+course_proficiencies:
+- beginner
 introduction: |2
 
   ### Course Outline
@@ -79,4 +88,86 @@ syllabus:
 events: 
 
 ---
-This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.
+# Scrum for Stakeholders Training
+
+**Course Code:** S4S
+
+---
+
+## Overview
+
+This instructor-led course introduces stakeholders to Scrum, its benefits, and how it transforms stakeholder engagement in product development. Participants will learn through presentations, discussions, and team-based activities.
+
+---
+
+## Target Audience
+
+- Product Managers
+- Users, Customers, and Sponsors
+- Managers and Project Managers
+- Business Analysts and Subject Matter Experts
+- Operations/Support and Help Desk Staff
+- Auditors and other interested stakeholders
+
+---
+
+## Learning Outcomes
+
+1. Understand what Scrum is and its core values.
+2. Recognize the benefits of Scrum over traditional approaches.
+3. Identify and address common myths and misconceptions about Scrum.
+4. Learn effective ways to interact with Scrum Teams.
+5. Understand the purpose and management of the Product Backlog.
+6. Participate effectively in Scrum events.
+7. Explore new ways of measuring success in agile environments.
+8. Develop a roadmap for implementing Scrum and continuous improvement.
+
+---
+
+## Course Topics
+
+- Scrum Overview and Values
+- Scrum Framework: Roles, Events, Artifacts
+- Agile vs. Waterfall Approaches
+- Economic Advantages of Scrum
+- Myths and Misconceptions about Scrum
+- Interacting with Product Owner, Development Team, and Scrum Master
+- Product Backlog Management and Stakeholder Feedback
+- Participating in Scrum Events (Sprint Planning, Backlog Refinement, Sprint Review)
+- Measuring Success: Metrics and Evidence
+- Roadmap for Change and Continuous Learning
+
+---
+
+## Delivery Format
+
+- Instructor-led
+- Traditional classroom or virtual sessions
+- Presentations, discussions, and team-based activities
+
+---
+
+## Proficiency Level
+
+- Beginner
+
+---
+
+## Course Length
+
+- 1 day
+
+---
+
+## Trainer/Designer
+
+- Richard Hundhausen (Accentient)
+- Charles Bradley (ScrumCrazy)
+
+---
+
+## Vendor
+
+- Accentient
+
+---

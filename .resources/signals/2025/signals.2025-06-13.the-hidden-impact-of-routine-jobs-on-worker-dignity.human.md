@@ -11,8 +11,13 @@ ResourceContentOrigin: human
 slug: the-hidden-impact-of-routine-jobs-on-worker-dignity
 aliases:
 - /resources/Gp4e7gPmb-Q
-layout: signal
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7339313256668311555
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-17T17:50:34Z
   short_title: 2025-07-07T16:43:29Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Miscellaneous
 
 ---
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.

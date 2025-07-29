@@ -31,12 +31,12 @@ tags:
 - Software Development
 - Transparency
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:55Z
   short_title: 2025-07-07T17:56:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: zSQSQPFsy-o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg

@@ -23,10 +23,10 @@ tags:
 - Technical Excellence
 - Technical Mastery
 - Pragmatic Thinking
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:49:02Z
   short_title: 2025-07-07T16:43:31Z
+resourceTypes: newsletter
 
 ---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.

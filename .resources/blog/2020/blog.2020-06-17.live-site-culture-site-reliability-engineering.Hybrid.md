@@ -5,10 +5,9 @@ description: Explores how agile teams use DevOps and Site Reliability Engineerin
 date: 2020-06-17
 weight: 360
 ResourceId: c_gS0nlQD9E
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: live-site-culture-site-reliability-engineering
 aliases:
 - /resources/c_gS0nlQD9E
@@ -18,6 +17,7 @@ aliasesArchive:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
+layout: blog
 concepts: []
 categories:
 - DevOps
@@ -27,15 +27,13 @@ tags:
 - Frequent Releases
 - Deployment Frequency
 - Software Development
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44414
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: 2020-06-17_13-06-30-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:38Z
   short_title: 2025-07-07T17:58:01Z
+ResourceImportId: 44414
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2020-06-17_13-06-30-1-1.jpg
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.

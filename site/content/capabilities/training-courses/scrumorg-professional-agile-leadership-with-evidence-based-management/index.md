@@ -1,16 +1,14 @@
 ---
 title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM)
-description: Enhance your leadership skills with the PAL-EBM course, blending self-paced learning and live activities to drive business agility and customer value.
-ResourceId: enw9s_l3PeE
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Evidence-Based Management
+description: Learn to apply Evidence-Based Management for agile leadership, focusing on empiricism, customer value, key metrics, and data-driven decision-making to achieve business goals.
 date: 2021-07-21
 weight: 350
-creator: Martin Hinshelwood
-type: course
-slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification
-url: /capabilities/training-courses/scrum-training-courses/:slug/
+ResourceId: enw9s_l3PeE
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
+slug: professional-agile-leadership-evidence-based-management-pal-ebm
 aliases:
   - /ebm
   - /pal-ebm
@@ -20,6 +18,7 @@ aliases:
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
   - /resources/enw9s_l3PeE
   - /capabilities/evidence-based-leadership/
+  - /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 aliasesArchive:
   - /ebm
   - /pal-ebm
@@ -27,19 +26,17 @@ aliasesArchive:
   - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
   - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-course-topics:
-  - Scrum Training Courses
-course-vendors:
-  - Scrum.org
-course-learning-experiences:
-  - Traditional
-delivery-audiences:
-  - Product Owners
-  - Product Managers
-  - Managers
-  - Entrepreneurs
+  - /capabilities/evidence-based-leadership/
+concepts:
+  - Principle
+categories:
+  - Product Development
+  - Leadership
+  - Product Management
 tags:
+  - Customer Focus
   - Metrics and Learning
+  - Project Management
   - Ability to Innovate
   - Agile Frameworks
   - Agile Leadership
@@ -52,28 +49,33 @@ tags:
   - Decision Making
   - Empirical Process Control
   - Evidence Based Leadership
-  - Experimentation
-  - Market Adaptability
-  - Operational Practices
-  - Organisational Agility
-  - Organisational Culture
-  - Pragmatic Thinking
-  - Software Development
-categories:
-  - Leadership
-  - Product Management
-  - Technical Leadership
-preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
-previewIcon: Scrumorg-Course-PALEBM-400x.png
-brandColour:
-short_title: Evidence-Based Management
 card:
   button:
     content: ""
   title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM)
   content: Scrum.org created the Evidence-Based Management™ (EBM) framework which is an Agile approach to help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.
+Watermarks:
+  description: 2025-07-29T15:01:09Z
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/scrum-training-courses/:slug/
+course_topics:
+  - Scrum Training Courses
+course_vendors:
+  - Scrumorg
+course_learning_experiences:
+  - Traditional
+delivery_audiences:
+  - Product Owners
+  - Product Managers
+  - Managers
+  - Entrepreneurs
+preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
+previewIcon: Scrumorg-Course-PALEBM-400x.png
+brandColour:
 code: PAL-EBM
-level: advanced
+course_proficiencies:
+  - advanced
 introduction:
 overview: |-
   PAL-EBM is for professionals in leadership roles (including executives, managers, Scrum Masters, Product Owners, coaches, and consultants) who: 
@@ -113,11 +115,89 @@ syllabus:
 events:
 ---
 
-[Professional Agile Leadership with Evidence-Based Management (PAL-EBM)](https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. With markets and customer needs constantly changing, organizations need information and evidence that helps them adapt quickly to new challenges and opportunities so that they can deliver greater value and achieve true business agility.The course goes beyond the topics explored in the [Professional Agile Leadership Essentials](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-pal-e-training-experience-with-certification-helping-leaders-understand-their-role-in-enabling-agile-transformation/)  & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants’ understanding by introducing the four key-value areas and a number of suggested key-value metrics that can help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the PAL class is recommended but not required.
+# Professional Agile Leadership – Evidence-Based Management (PAL-EBM)
 
-- Session 1: **Introductions & Goals, Evidence, and Empiricism** (115 minutes)
-- Session 2: **Goals: Understanding Why** (100 minutes)
-- Session 3: **Evidence: Focusing on Value** (100 minutes)
-- Session 4: **Empiricism: Inspect and Adapt with EBM & Getting Started** (130 minutes)
+**Course Code:** PAL-EBM
 
-Each session includes STARTUP activities before and WRAPUP activities to be completed after each session. Before, during, and after the class, students can interact with other students and thought leaders in our Lean-Agile Community.The course also includes a free attempt at the globally recognised Professional Agile Leadership - Evidence-Based Management (PAL-EBM) certification exam.
+---
+
+## Overview
+
+Enhance your leadership skills by learning to apply the Evidence-Based Management (EBM) framework to drive business agility, improve customer value, and achieve strategic goals through empiricism and intentional experimentation.
+
+---
+
+## Target Audience
+
+- Product Owners
+- Product Managers
+- Managers
+- Entrepreneurs
+- Executives
+- Scrum Masters
+- Agile Coaches
+- Consultants
+
+---
+
+## Learning Outcomes
+
+- Apply empiricism to set and achieve strategic goals, managing complexity through experimentation and adaptation.
+- Create a culture of self-management and autonomy using clear goals, appropriate measures, and trust.
+- Shift focus from traditional team performance metrics to customer-centric outcomes.
+- Use the four Key Value Areas (Unrealized Value, Current Value, Time-to-Market, Ability to Innovate) for evidence-based decision-making.
+- Understand how goals and measures influence behaviors, culture, and values.
+- Enable organizations to embrace empiricism as a leadership approach.
+- Correlate market leadership and sustainability with curiosity, adaptation, and empiricism.
+- Focus measurements on improving market value and operational capabilities using EBM.
+
+---
+
+## Course Topics
+
+- Evidence-Based Management (EBM) Framework
+- Empiricism and Agile Leadership
+- Setting and Measuring Strategic Goals
+- Key Value Areas (KVAs)
+- Customer-Centric Metrics
+- Organizational Agility and Continuous Improvement
+- Enabling Self-Management and Autonomy
+- Evidence-Based Decision-Making
+
+---
+
+## Delivery Format
+
+- Self-paced learning
+- Live, activity-based classroom sessions
+- Community-based aftercare
+
+---
+
+## Proficiency Level
+
+Advanced
+
+---
+
+## Course Length
+
+1 day
+
+---
+
+## Trainer/Designer
+
+Martin Hinshelwood
+
+---
+
+## Vendor
+
+Scrum.org
+
+---
+
+## Certification
+
+Includes a free attempt at the Professional Agile Leadership – Evidence-Based Management (PAL-EBM) certification exam.

@@ -5,10 +5,9 @@ description: Summarises key changes in the 2020 Scrum Guide, including simplifie
 date: 2020-11-18
 weight: 790
 ResourceId: 7CqdvOa9t4c
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 aliases:
 - /blog/update-scrum-guide-25th-anniversary-scrum-framework
@@ -23,6 +22,7 @@ aliasesArchive:
 - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
+layout: blog
 concepts:
 - Framework
 categories:
@@ -35,15 +35,13 @@ tags:
 - Software Development
 - Increment
 - Product Backlog
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45077
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-Agility-Scrum-Framework-3-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:23Z
   short_title: 2025-07-07T17:57:49Z
+ResourceImportId: 45077
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---
 It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.

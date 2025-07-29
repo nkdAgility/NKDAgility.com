@@ -42,12 +42,12 @@ platform_signals:
     reactions: 86
     comments: 91
     reposts: 0
-resourceTypes:
-- signal
-url: /resources/signals/:slug
 Watermarks:
   description: 2025-05-07T13:02:52Z
   short_title: 2025-07-07T17:49:13Z
+resourceTypes:
+- signal
+url: /resources/signals/:slug
 
 ---
 🚨 The majority of Scrum Masters are not fit for their position! 🚨

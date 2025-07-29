@@ -7,12 +7,17 @@ weight: 725
 ResourceId: CkFbsX0M3i-
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: every-delay-in-decision-making-taxes-your-organisation-future
 aliases:
 - /resources/CkFbsX0M3i-
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Leadership
+tags:
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7320469109115129856
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:17Z
   short_title: 2025-07-07T16:44:43Z
-concepts: []
-categories:
-- Leadership
-tags:
-- Miscellaneous
 
 ---
 Every delay in decision-making is a tax on your organisation’s future.

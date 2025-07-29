@@ -32,12 +32,12 @@ tags:
 - Software Development
 - Agile Philosophy
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:46Z
   short_title: 2025-07-07T17:50:35Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: _5daB0lJpdc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg

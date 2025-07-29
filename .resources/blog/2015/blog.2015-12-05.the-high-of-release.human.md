@@ -5,22 +5,17 @@ description: Overview of Microsoft’s new web-based Release Management tools fo
 date: 2015-12-05
 weight: 480
 ResourceId: akntzjbRQe2
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: the-high-of-release
 aliases:
 - /resources/akntzjbRQe2
-ResourceContentOrigin: Human
-ResourceImportId: 11398
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/the-high-of-release
 - /the-high-of-release
 - /resources/blog/the-high-of-release
+layout: blog
 concepts:
 - Tool
 categories:
@@ -28,10 +23,13 @@ categories:
 tags:
 - Release Management
 - Software Development
-preview: 2016-01-04_15-52-31-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:55Z
   short_title: 2025-07-07T17:59:06Z
+ResourceImportId: 11398
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2016-01-04_15-52-31-1-1.png
 
 ---
 Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new [Release Management]({{< ref "/tags/release-management" >}}) tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on [DevOps]({{< ref "/categories/devops" >}}) and the focus of my session was on both Build and Release.

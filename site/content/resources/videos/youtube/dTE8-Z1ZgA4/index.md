@@ -27,12 +27,12 @@ categories:
 - Product Development
 tags:
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:48Z
   short_title: 2025-07-07T17:53:19Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: dTE8-Z1ZgA4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg

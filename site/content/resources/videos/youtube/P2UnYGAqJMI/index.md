@@ -35,12 +35,12 @@ tags:
 - Agile Frameworks
 - Agile Values and Principles
 - Continuous Improvement
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:31Z
   short_title: 2025-07-07T17:50:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: P2UnYGAqJMI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg

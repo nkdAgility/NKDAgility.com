@@ -5,10 +5,9 @@ description: Explores the shift from traditional management to leadership focuse
 date: 2021-02-04
 weight: 640
 ResourceId: -Oo9b3G-8Zw
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
@@ -19,20 +18,19 @@ aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
+layout: blog
 concepts: []
 categories:
 - Leadership
 tags: []
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45806
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: image-2-2.png
 Watermarks:
   description: 2025-05-07T13:15:00Z
   short_title: 2025-07-07T17:57:34Z
+ResourceImportId: 45806
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-2-2.png
 
 ---
 [Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.

@@ -33,12 +33,12 @@ tags:
 - Software Development
 - Organisational Agility
 - Organisational Culture
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:09Z
   short_title: 2025-07-07T17:51:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg

@@ -35,12 +35,12 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:39Z
   short_title: 2025-07-07T17:51:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: jXk1_Iiam_M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg

@@ -23,12 +23,12 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.4
 Watermarks:
   description: 2025-05-07T13:15:49Z
   short_title: 2025-07-07T17:58:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 videoId: 5UG3FF0n0C8
 url: /resources/videos/:slug
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8

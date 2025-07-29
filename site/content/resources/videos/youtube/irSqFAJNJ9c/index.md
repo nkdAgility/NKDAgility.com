@@ -28,12 +28,12 @@ tags:
 - Software Development
 - Scrum Team
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:24Z
   short_title: 2025-07-07T17:57:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: irSqFAJNJ9c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg

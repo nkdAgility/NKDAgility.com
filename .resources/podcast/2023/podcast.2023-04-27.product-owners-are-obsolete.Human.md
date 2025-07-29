@@ -4,23 +4,23 @@ short_title: Are Product Owners Replacing Product Managers?
 description: Explores whether product owners make product managers obsolete in Agile and Scrum, comparing their roles and discussing key differences in product development.
 date: 2023-04-27
 weight: 1000
+author: MrHinsh
 ResourceId: dKyRYit_4xO
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 slug: product-owners-are-obsolete
 aliases:
 - /resources/dKyRYit_4xO
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: podcast
 layout: podcast
-Watermarks:
-  description: 2025-05-07T13:13:00Z
-  short_title: 2025-07-07T17:55:43Z
 concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:13:00Z
+  short_title: 2025-07-07T17:55:43Z
+resourceTypes: podcast
 
 ---
 In this month's episode of Agile Actually, we picked up some whispers on the [#agile](https://www.youtube.com/hashtag/agile) winds about [#productmanagement](https://www.youtube.com/hashtag/productmanagement) being obsolete. The idea that if you have a strong [#productowner](https://www.youtube.com/hashtag/productowner) in [#scrum](https://www.youtube.com/hashtag/scrum), there is no need for a [#productmanager](https://www.youtube.com/hashtag/productmanager) at all.

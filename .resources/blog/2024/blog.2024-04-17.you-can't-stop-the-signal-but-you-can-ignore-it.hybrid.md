@@ -5,10 +5,9 @@ description: Explores why teams ignore clear signals from Agile and Scrum, highl
 date: 2024-04-17
 weight: 330
 ResourceId: KHNSdDjr5K_
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: you-can't-stop-the-signal-but-you-can-ignore-it
 aliases:
 - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
@@ -25,6 +24,7 @@ aliasesArchive:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -43,16 +43,14 @@ tags:
 - Empirical Process Control
 - Software Development
 - Sociotechnical Systems
-ResourceContentOrigin: Hybrid
-ResourceImportId: 51389
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:05:16Z
   short_title: 2025-07-07T17:49:20Z
+ResourceImportId: 51389
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and [Scrum]({{< ref "/categories/scrum" >}}) (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

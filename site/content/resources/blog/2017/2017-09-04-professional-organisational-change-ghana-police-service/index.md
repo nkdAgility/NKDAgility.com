@@ -34,13 +34,13 @@ tags:
 - Digital Transformation
 - Organisational Culture
 - Organisational Physics
+Watermarks:
+  description: 2025-05-07T13:16:28Z
+  short_title: 2025-07-07T17:58:42Z
 ResourceImportId: 12011
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
-Watermarks:
-  description: 2025-05-07T13:16:28Z
-  short_title: 2025-07-07T17:58:42Z
 
 ---
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.

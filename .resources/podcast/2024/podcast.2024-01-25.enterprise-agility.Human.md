@@ -4,23 +4,23 @@ short_title: Enterprise Agility
 description: This podcast discusses how precise language and transparency support effective communication and decision-making in agile teams, with insights from experienced agile coaches.
 date: 2024-01-25
 weight: 1000
+author: MrHinsh
 ResourceId: SOXXjw2lnAK
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 slug: enterprise-agility
 aliases:
 - /resources/SOXXjw2lnAK
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: podcast
 layout: podcast
-Watermarks:
-  description: 2025-05-07T13:06:15Z
-  short_title: 2025-07-07T17:50:08Z
 concepts: []
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:06:15Z
+  short_title: 2025-07-07T17:50:08Z
+resourceTypes: podcast
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

@@ -22,11 +22,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:06:28Z
   short_title: 2025-07-07T17:50:18Z
+preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
+resourceTypes: newsletter
 
 ---
 **Kickstart 2024 with Our Unmissable [Scrum]({{< ref "/categories/scrum" >}}) Training Offer: Buy 1, Get 1 FREE!**

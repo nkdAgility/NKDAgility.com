@@ -33,10 +33,10 @@ tags:
 - Social Technologies
 - Metrics and Learning
 - Enterprise Agility
-mermaid: true
 Watermarks:
   description: 2025-06-03T15:33:08Z
   short_title: 2025-07-07T16:43:08Z
+mermaid: true
 
 ---
 OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.

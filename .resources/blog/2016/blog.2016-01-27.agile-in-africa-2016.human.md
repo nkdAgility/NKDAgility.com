@@ -5,32 +5,30 @@ description: Agile in Africa 2016 brought together experts in Accra, Ghana to pr
 date: 2016-01-27
 weight: 1000
 ResourceId: YQ8HMmx0-kz
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: agile-in-africa-2016
 aliases:
 - /resources/YQ8HMmx0-kz
-ResourceContentOrigin: Human
-ResourceImportId: 11450
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/agile-africa-2016
 - /agile-africa-2016
 - /agile-in-africa-2016
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: clip_image001-1-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:50Z
   short_title: 2025-07-07T17:59:02Z
+ResourceImportId: 11450
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image001-1-2-2.jpg
 
 ---
 When someone comes to you with an opportunity in the developing world you better have a good reason to say no. For the last few years Nana Abana had been trying to achieve the impossible, conduct a high profile Agile event in West Africa. It's not just the holding of the event that seemed impossible, but getting together a group of people that can really bring agility to Africa. Up until now many of the endeavours  into agility in west africa have been pushed by sharlotons that are intent only in profiting from Africa and not improving development practices. Making money and not helping people. It is posible to do both, but you will need to invest up front to get there.

@@ -31,12 +31,12 @@ tags:
 - Pragmatic Thinking
 - Lean Startup
 - Hypothesis Driven Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:48Z
   short_title: 2025-07-07T17:47:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: vbY6LUq81uY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg

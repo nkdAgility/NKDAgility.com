@@ -5,24 +5,19 @@ description: Change in organisations is a continuous, evolutionary process drive
 date: 2020-07-13
 weight: 450
 ResourceId: WvUOpSMqawD
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
-- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation--this-is-the-inevitability-of-change
-- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/WvUOpSMqawD
-- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 aliasesArchive:
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -45,15 +40,13 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44511
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: image-15-5-4.png
 Watermarks:
   description: 2025-05-07T13:15:28Z
   short_title: 2025-07-07T17:57:53Z
+ResourceImportId: 44511
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-15-5-4.png
 
 ---
 There is no such thing as an [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), [Digital Transformation]({{< ref "/tags/digital-transformation" >}}), [DevOps]({{< ref "/categories/devops" >}}) Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).

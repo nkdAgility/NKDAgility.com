@@ -29,12 +29,12 @@ categories:
 - Uncategorized
 tags:
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg

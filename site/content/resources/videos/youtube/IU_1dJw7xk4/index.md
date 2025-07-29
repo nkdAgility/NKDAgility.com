@@ -34,12 +34,12 @@ tags:
 - Software Development
 - Metrics and Learning
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:44Z
   short_title: 2025-07-07T17:49:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: IU_1dJw7xk4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg

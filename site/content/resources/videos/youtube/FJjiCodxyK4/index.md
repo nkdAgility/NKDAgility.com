@@ -25,12 +25,12 @@ concepts: []
 categories:
 - Leadership
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:42Z
   short_title: 2025-07-07T17:56:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: FJjiCodxyK4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg

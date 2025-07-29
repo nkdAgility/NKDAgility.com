@@ -5,10 +5,9 @@ description: Highlights the importance of professionalism in agile teams, warnin
 date: 2021-04-19
 weight: 355
 ResourceId: mqbD3iIhRg4
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliases:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
@@ -19,22 +18,21 @@ aliasesArchive:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+layout: blog
 concepts:
 - Ethos
 categories:
 - Scrum
 tags:
 - Software Development
-ResourceContentOrigin: Hybrid
-ResourceImportId: 46108
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:14:57Z
   short_title: 2025-07-07T17:57:31Z
+ResourceImportId: 46108
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---
 In [Scrum]({{< ref "/categories/scrum" >}}) Events across the world, I hear repeated the phrase "that's how agile works" when describing behaviours that are both unprofessional and the very opposite of an agile mindset. These behaviours will inhibit agility and are a result of a lack of understanding of the underlying principles.

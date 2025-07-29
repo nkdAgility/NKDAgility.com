@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: the-myth-of-knowing-everything-upfront-in-software-development
 aliases:
 - /resources/Zd6dcWwXJc7
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7340400460090036224
-  post_id: "7340400460090036224"
-  post_date: 2025-06-16T14:30:47Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:49:59Z
-  short_title: 2025-07-07T16:43:26Z
+layout: signal
 concepts:
 - Tenet
 categories:
@@ -44,6 +30,20 @@ tags:
 - Social Technologies
 - Product Delivery
 - Continuous Improvement
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7340400460090036224
+  post_id: "7340400460090036224"
+  post_date: 2025-06-16T14:30:47Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:49:59Z
+  short_title: 2025-07-07T16:43:26Z
 
 ---
 One of the biggest fallacies in software is the belief that you can know everything upfront. That’s why some teams try to carve out “Design Sprints” to feel more in control.

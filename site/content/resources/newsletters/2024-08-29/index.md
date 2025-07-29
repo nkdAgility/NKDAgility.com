@@ -26,10 +26,10 @@ tags:
 - Customer Focus
 - Product Validation
 - Product Discovery
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
   short_title: 2025-07-07T17:48:22Z
+resourceTypes: newsletter
 
 ---
 **Dear Innovators and Product Enthusiasts,**

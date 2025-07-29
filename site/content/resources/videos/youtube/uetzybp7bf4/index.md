@@ -28,12 +28,12 @@ categories:
 - Product Development
 tags:
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:45Z
   short_title: 2025-07-07T17:47:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: uetzybp7bf4
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA

@@ -44,6 +44,9 @@ tags:
 - Market Adaptability
 - Organisational Agility
 - Technical Excellence
+Watermarks:
+  description: 2025-05-07T19:08:27Z
+  short_title: 2025-07-07T16:43:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,9 +57,6 @@ duration: 55
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-07T19:08:27Z
-  short_title: 2025-07-07T16:43:17Z
 
 ---
 Can Your Product Pass the Done Test?

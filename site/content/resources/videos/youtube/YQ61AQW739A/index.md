@@ -38,6 +38,9 @@ tags:
 - Value Delivery
 - Continuous Improvement
 - Sociotechnical Systems
+Watermarks:
+  description: 2025-07-24T15:10:36Z
+  short_title: 2025-07-24T15:10:37Z
 videoId: YQ61AQW739A
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YQ61AQW739A/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLDgxpLWoJLJYOlFORIUC4e7TbJfNg
@@ -48,9 +51,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:10:36Z
-  short_title: 2025-07-24T15:10:37Z
 
 ---
 Building a Roadmap from Legacy to Modern Engineering: My Approach

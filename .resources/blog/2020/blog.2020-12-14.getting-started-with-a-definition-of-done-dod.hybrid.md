@@ -5,10 +5,9 @@ description: Explains how to create, apply, and improve a Definition of Done (Do
 date: 2020-12-14
 weight: 315
 ResourceId: z18IcQhlD7I
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: getting-started-with-a-definition-of-done-dod
 aliases:
 - /blog/getting-started-definition-done-dod
@@ -25,6 +24,7 @@ aliasesArchive:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 - /resources/blog/getting-started-with-a-definition-of-done-dod
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -47,16 +47,14 @@ tags:
 - Team Performance
 - Agile Planning
 - Transparency
-ResourceContentOrigin: Hybrid
-ResourceImportId: 38238
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:15Z
   short_title: 2025-07-07T17:57:43Z
+ResourceImportId: 38238
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---
 In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).

@@ -7,26 +7,12 @@ weight: 385
 ResourceId: CB56pgg1LmZ
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective
 aliases:
 - /resources/CB56pgg1LmZ
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7303814187179266049
-  post_id: "7303814187179266049"
-  post_date: 2025-03-07T16:30:00Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:23Z
-  short_title: 2025-07-07T16:45:34Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -41,6 +27,20 @@ tags:
 - Product Delivery
 - Working Software
 - Value Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7303814187179266049
+  post_id: "7303814187179266049"
+  post_date: 2025-03-07T16:30:00Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:23Z
+  short_title: 2025-07-07T16:45:34Z
 
 ---
 Let’s be blunt—if a Scrum Team isn’t delivering, is it effective?

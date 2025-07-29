@@ -285,10 +285,10 @@ description: Transform your leadership with the Professional Scrum Master course
 course_code: PSM
 course_length: 16
 course_sessions: 8
-delivery-audiences:
+delivery_audiences:
   - Scrum Masters
   - Lean Agile Practitioners
-course-learning-experiences:
+course_learning_experiences:
   - Immersive
 ---
 ```

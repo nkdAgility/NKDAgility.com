@@ -28,12 +28,12 @@ categories:
 tags:
 - Software Development
 - Professional Scrum
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:40Z
   short_title: 2025-07-07T17:58:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg

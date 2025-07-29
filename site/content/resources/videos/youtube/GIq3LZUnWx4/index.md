@@ -29,12 +29,12 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Owner
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:28Z
   short_title: 2025-07-07T17:55:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: GIq3LZUnWx4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg

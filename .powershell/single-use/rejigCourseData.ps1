@@ -21,7 +21,7 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
 
         # Desired key order
         $orderedKeys = @('title', 'description', 'date', 'creator', 'id', 'type', 'slug', 'url', 'aliases', 
-            'course-topics', 'course-vendors', 'tags', 'categories', 'preview', 'previewIcon', 'brandColour', 
+            'course_topics', 'course_vendors', 'tags', 'categories', 'preview', 'previewIcon', 'brandColour', 
             'card', 'code', 'level', 'introduction', 'overview', 'outcomes', 'assessment', 'objectives', 'prerequisites', 'audience', 'trainers', 
             'roadmap', 'syllabus', 'events')
 

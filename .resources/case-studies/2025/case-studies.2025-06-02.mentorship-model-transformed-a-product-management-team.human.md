@@ -7,14 +7,10 @@ weight: 115
 ResourceId: L7cngB1uzW9
 ResourceImport: false
 ResourceType: case-studies
+ResourceContentOrigin: human
 slug: mentorship-model-transformed-a-product-management-team
 aliases:
 - /resources/L7cngB1uzW9
-ResourceContentOrigin: human
-draft: false
-Watermarks:
-  description: 2025-06-16T11:50:58Z
-  short_title: 2025-07-07T16:43:48Z
 concepts:
 - Accountability
 categories:
@@ -37,6 +33,10 @@ tags:
 - Team Motivation
 - Organisational Culture
 - Team Performance
+Watermarks:
+  description: 2025-06-16T11:50:58Z
+  short_title: 2025-07-07T16:43:48Z
+draft: false
 
 ---
 ## Client Context

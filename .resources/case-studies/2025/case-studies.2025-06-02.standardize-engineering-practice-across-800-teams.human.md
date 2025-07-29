@@ -7,14 +7,10 @@ weight: 70
 ResourceId: r77XLSf0xcr
 ResourceImport: false
 ResourceType: case-studies
+ResourceContentOrigin: human
 slug: standardize-engineering-practice-across-800-teams
 aliases:
 - /resources/r77XLSf0xcr
-draft: false
-ResourceContentOrigin: human
-Watermarks:
-  description: 2025-06-16T11:50:55Z
-  short_title: 2025-07-07T16:43:50Z
 concepts:
 - Capability
 categories:
@@ -37,6 +33,10 @@ tags:
 - Scaling
 - Project Management
 - Business Agility
+Watermarks:
+  description: 2025-06-16T11:50:55Z
+  short_title: 2025-07-07T16:43:50Z
+draft: false
 
 ---
 ## Client Context

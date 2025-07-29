@@ -30,6 +30,9 @@ tags:
 - Application Lifecycle Management
 - Transparency
 - Product Delivery
+Watermarks:
+  description: 2025-07-24T15:11:04Z
+  short_title: 2025-07-24T15:11:05Z
 videoId: gCuWy69YpIU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gCuWy69YpIU/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLD1OdI4d54mGeR4EMbmP509M9nS4w
@@ -40,9 +43,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:11:04Z
-  short_title: 2025-07-24T15:11:05Z
 
 ---
 Azure DevOps: More Than a Toolset—A Platform for Engineering Excellence

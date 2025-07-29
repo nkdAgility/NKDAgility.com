@@ -5,10 +5,9 @@ description: Examines how rigid, hierarchical Alpha organisations struggle and w
 date: 2023-07-06
 weight: 1000
 ResourceId: jW4sFDdDkvn
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: a-titanic-misfit-the-alpha-organization's-wasteful-endeavor-in-red-markets
 aliases:
 - /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
@@ -25,21 +24,20 @@ aliasesArchive:
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organization-s-wasteful-endeavor-in-red-markets
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Beta Codex
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49490
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:11:02Z
   short_title: 2025-07-07T17:54:10Z
+ResourceImportId: 49490
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-1.jpg
 
 ---
 Under the ruthless canopy of the red market, I find myself staring at the bloated behemoth of an Alpha organisation, huffing and puffing in a vain attempt to keep up with the frenzied pace of the modern world. The Alpha model, once a paragon of order and efficiency in the leisurely blue market era, has now morphed into a lumbering dinosaur, with its hierarchical structures and rigid command and control systems looking out of place in the high-speed, unpredictable red markets.

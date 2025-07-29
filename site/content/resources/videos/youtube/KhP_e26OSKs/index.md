@@ -32,12 +32,12 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:53Z
   short_title: 2025-07-07T17:50:42Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg

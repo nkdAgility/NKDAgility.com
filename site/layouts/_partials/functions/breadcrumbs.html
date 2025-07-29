@@ -1,7 +1,7 @@
 {{- $breadcrumbs := slice }}
 {{- $built := false }}
 <!-- Custom breadcrumb for taxonomy terms like 'course-topic' -->
-{{- if or (eq .Type "course") (eq .Type "course-topics") (eq .Type "course-vendors") (eq .Type "course-learning-experiences") }}
+{{- if or (eq .Type "course") (eq .Type "course_topics") (eq .Type "course_vendors") (eq .Type "course_learning_experiences") (eq .Type "course_proficiencies") (eq .Type "delivery_audiences") }}
   <!-- Manually construct the parent hierarchy for taxonomies -->
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
@@ -9,7 +9,7 @@
   {{- if eq .Type "course" }}
     {{- $urlParts := split .Params.url "/" }}
     {{- $courseTopic := index $urlParts 3 }}
-    {{- $search := (printf "course-topics/%s" $courseTopic) }}
+    {{- $search := (printf "course_topics/%s" $courseTopic) }}
     {{- $termPage := site.GetPage $search }}
     {{- if $termPage }}
       <!-- Add the term page to the breadcrumbs -->
@@ -18,7 +18,7 @@
   {{- end }}
   {{- $breadcrumbs = $breadcrumbs | append . }}
   {{- $built = true }}
-{{- else if eq .Type "delivery-audiences" }}
+{{- else if eq .Type "delivery_audiences" }}
   <!-- Manually construct the parent hierarchy for taxonomies -->
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
   {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}

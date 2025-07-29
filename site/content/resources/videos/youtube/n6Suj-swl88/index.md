@@ -42,12 +42,12 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:39Z
   short_title: 2025-07-07T17:53:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg

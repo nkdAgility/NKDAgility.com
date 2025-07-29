@@ -5,24 +5,19 @@ description: Explains how to resolve TFS build errors caused by missing write pe
 date: 2015-12-16
 weight: 660
 ResourceId: l331AonWBuN
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: access-denied-for-orchestration-plan-on-build
 aliases:
 - /resources/l331AonWBuN
-ResourceContentOrigin: Human
-ResourceImportId: 11411
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/access-denied-orchestration-plan-build
 - /access-denied-orchestration-plan-build
 - /access-denied-for-orchestration-plan-on-build
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/blog/access-denied-orchestration-plan-build
+layout: blog
 concepts:
 - Tool
 categories:
@@ -37,10 +32,13 @@ tags:
 - Pragmatic Thinking
 - Windows
 - System Configuration
-preview: clip_image004-4-4.png
 Watermarks:
   description: 2025-05-07T13:16:54Z
   short_title: 2025-07-07T17:59:05Z
+ResourceImportId: 11411
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image004-4-4.png
 
 ---
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…

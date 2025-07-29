@@ -22,10 +22,6 @@ categories:
 tags:
 - Empirical Process Control
 - Software Development
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-draft: true
 card:
   button:
     content: Learn More
@@ -34,6 +30,10 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:10Z
   short_title: 2025-07-07T17:48:03Z
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 
 ---
 [Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}): [Scrum]({{< ref "/categories/scrum" >}}) is an empirical process that relies on [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation. It means that the [Scrum team]({{< ref "/tags/scrum-team" >}}) and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes.

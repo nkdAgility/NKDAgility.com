@@ -5,10 +5,9 @@ description: Explores how practical use of Scrum fosters adaptability and resili
 date: 2024-03-21
 weight: 330
 ResourceId: mkdhLrKu8sh
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
 - /blog/pragmatism-crushes-dogma-in-the-wild
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
+layout: blog
 concepts:
 - Framework
 categories:
@@ -39,16 +39,14 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
-ResourceContentOrigin: Hybrid
-ResourceImportId: 51362
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:05:24Z
   short_title: 2025-07-07T17:49:27Z
+ResourceImportId: 51362
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of [Scrum]({{< ref "/categories/scrum" >}}). This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

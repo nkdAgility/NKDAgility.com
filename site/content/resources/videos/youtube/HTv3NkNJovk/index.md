@@ -36,12 +36,12 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Organisational Change
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:18Z
   short_title: 2025-07-07T17:56:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: HTv3NkNJovk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg

@@ -1,16 +1,14 @@
 ---
 title: Practicing Kanban Using Azure Boards
-description: Boost your team's flow and throughput with our one-day course on Kanban and Azure Boards, designed by expert Richard Hundhausen. Join us for hands-on learning!
-ResourceId: wHhDvrn-8PH
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Practicing Kanban with Azure Boards
+description: Learn Kanban principles and hands-on Azure Boards setup to visualize workflow, set WIP limits, track flow metrics, and improve team throughput and predictability.
 date: 2020-08-31
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: wHhDvrn-8PH
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: practicing-kanban-using-azure-boards
-url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
 - /PKAB/
 - /training-courses/practicing-kanban-using-azure-boards
@@ -22,18 +20,13 @@ aliasesArchive:
 - /training-courses/practicing-kanban-using-azure-boards
 - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
-course-topics:
-- Azure DevOps Training Courses
-course-vendors:
-- Accentient
-course-learning-experiences:
-- Traditional
-delivery-audiences:
-- Developers
-- Lean Agile Practitioners
-- Product Managers
-- Teams
+concepts:
+- Tool
+categories:
+- Product Development
+- Kanban
 tags:
+- Definition of Workflow
 - Agile Frameworks
 - Azure Boards
 - Azure DevOps
@@ -45,15 +38,31 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Throughput
-categories:
-- Kanban
 card:
   button:
     content: ""
   title: Practicing Kanban Using Azure Boards
   content: All software development teams aim to enhance flow and throughput. This one-day course combines Kanban principles with Azure Boards, showing agile teams how to configure and effectively use the platform for Kanban practices. Participants will collaborate in teams on a shared project and case study to maximize learning.
+Watermarks:
+  description: 2025-07-29T15:01:34Z
+  short_title: 2025-07-29T15:01:35Z
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/azure-devops-training-courses/:slug/
+course_topics:
+- Azure DevOps Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Developers
+- Lean Agile Practitioners
+- Product Managers
+- Teams
 code: PKAB
-level: intermediate
+course_proficiencies:
+- intermediate
 introduction: 
 overview: 
 outcomes: 
@@ -138,8 +147,95 @@ events:
     - 4
 
 ---
-All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
+# Practicing Kanban Using Azure Boards
 
-### Course Designer
+**Course Code:** PKAB
 
-     This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
+---
+
+## Overview
+
+A one-day, hands-on course introducing Kanban principles and demonstrating how to configure and use Azure Boards to improve team flow, throughput, and predictability.
+
+---
+
+## Target Audience
+
+- Software developers
+- Lean Agile practitioners
+- Product managers
+- Teams involved in backlog creation, planning, and execution
+- Managers, Scrum Masters, coaches, and stakeholders interested in improving team flow
+- Scrum teams seeking to complement their practices with Kanban
+
+---
+
+## Learning Outcomes
+
+By the end of this course, participants will be able to:
+
+1. Explain Kanban core practices and how they apply to software development.
+2. Configure Azure Boards to support Kanban workflows.
+3. Visualize and manage workflow using Kanban boards, policies, and classes of service.
+4. Apply Work in Progress (WIP) limits and create pull systems to optimize flow.
+5. Use flow-based metrics and analytics (e.g., cycle time, lead time, cumulative flow diagrams) to improve predictability and throughput.
+6. Identify and address bottlenecks in the development process.
+
+---
+
+## Course Topics
+
+- Introduction to Kanban and its core practices
+- Configuring Azure DevOps projects and managing product backlogs
+- Visualizing workflow with Kanban boards in Azure Boards
+- Defining workflow, policies, and classes of service
+- Limiting Work in Progress (WIP) and creating pull systems
+- Identifying and managing bottlenecks
+- Flow-based metrics and analytics (cycle time, lead time, Little’s Law)
+- Using cumulative flow diagrams, scatterplots, and Monte Carlo simulation
+- Achieving flow and predictability
+
+---
+
+## Delivery Format
+
+- Traditional (instructor-led, hands-on)
+- Online session
+
+---
+
+## Proficiency Level
+
+- Intermediate
+
+---
+
+## Course Length
+
+- 1 day (8 hours)
+
+---
+
+## Trainer/Designer
+
+- Richard Hundhausen
+
+---
+
+## Vendor
+
+- Accentient
+
+---
+
+## Prerequisites
+
+- For more information, read the [Kanban guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams).
+
+---
+
+## Certification
+
+- Not specified
+
+---

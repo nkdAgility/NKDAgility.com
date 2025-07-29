@@ -36,12 +36,12 @@ tags:
 - Pragmatic Thinking
 - Agile Planning
 - Agile Values and Principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:38Z
   short_title: 2025-07-07T17:50:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg

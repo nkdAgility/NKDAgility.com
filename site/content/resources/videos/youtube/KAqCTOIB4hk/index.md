@@ -34,12 +34,12 @@ tags:
 - Continuous Learning
 - Evidence Based Leadership
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: KAqCTOIB4hk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg

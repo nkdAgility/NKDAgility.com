@@ -33,12 +33,12 @@ tags:
 - Scrum Team
 - Product Discovery
 - Agile Product Management
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:23Z
   short_title: 2025-07-07T17:56:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: S3Xq6gCp7Hw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg

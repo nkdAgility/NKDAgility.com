@@ -39,6 +39,9 @@ tags:
 - Engineering Practices
 - Value Delivery
 - Market Adaptability
+Watermarks:
+  description: 2025-05-07T20:06:02Z
+  short_title: 2025-07-07T16:43:45Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,9 +52,6 @@ duration: 57
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-07T20:06:02Z
-  short_title: 2025-07-07T16:43:45Z
 
 ---
 Patching Defects at the End? You’re Already Too Late

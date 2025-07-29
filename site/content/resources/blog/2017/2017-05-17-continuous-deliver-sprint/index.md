@@ -39,13 +39,13 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T13:16:37Z
+  short_title: 2025-07-07T17:58:52Z
 ResourceImportId: 11885
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:16:37Z
-  short_title: 2025-07-07T17:58:52Z
 
 ---
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_

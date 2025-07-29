@@ -5,10 +5,9 @@ description: Explains how product goals serve as intermediate strategic goals, g
 date: 2020-12-21
 weight: 750
 ResourceId: PjYSLMnBHhI
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
 - /blog/product-goal-is-an-intermediate-strategic-goal
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
+layout: blog
 concepts:
 - Strategy
 categories:
@@ -41,16 +41,14 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Common Goals
-ResourceContentOrigin: Hybrid
-ResourceImportId: 45309
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-hypothesis-driven-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:10Z
   short_title: 2025-07-07T17:57:41Z
+ResourceImportId: 45309
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---
 The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.

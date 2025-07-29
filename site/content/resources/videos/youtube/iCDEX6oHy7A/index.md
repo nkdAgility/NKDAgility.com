@@ -27,12 +27,12 @@ categories:
 tags:
 - Agile Transformation
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:54Z
   short_title: 2025-07-07T17:58:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg

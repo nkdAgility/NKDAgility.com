@@ -44,12 +44,12 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Current Value
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:10Z
   short_title: 2025-07-07T17:50:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: xaIDtZcoVXE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg

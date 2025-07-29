@@ -7,12 +7,25 @@ weight: 305
 ResourceId: 6K6oGV9pRbC
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: understanding-blocked-columns-and-stalled-work-in-project-boards
 aliases:
 - /resources/6K6oGV9pRbC
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
+tags:
+- Pragmatic Thinking
+- Software Development
+- Team Performance
+- Lean Thinking
+- Flow Efficiency
+- Operational Practices
+- Miscellaneous
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7302727026837213184
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:34Z
   short_title: 2025-07-07T16:45:37Z
-concepts:
-- Practice
-categories:
-- Kanban
-- Product Development
-tags:
-- Pragmatic Thinking
-- Software Development
-- Team Performance
-- Lean Thinking
-- Flow Efficiency
-- Operational Practices
-- Miscellaneous
 
 ---
 Blocked columns seem harmless—just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.

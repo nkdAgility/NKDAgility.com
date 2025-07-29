@@ -37,12 +37,12 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:19Z
   short_title: 2025-07-07T17:47:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 1AO6FFBlE4Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg

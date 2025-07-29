@@ -34,6 +34,9 @@ tags:
 - Scaling
 - Large Scale Agility
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T12:49:25Z
+  short_title: 2025-07-07T16:45:48Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,9 +47,6 @@ duration: 75
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T12:49:25Z
-  short_title: 2025-07-07T16:45:48Z
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

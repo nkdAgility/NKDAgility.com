@@ -35,13 +35,13 @@ tags:
 - Software Development
 - Increment
 - Product Backlog
+Watermarks:
+  description: 2025-05-07T13:15:23Z
+  short_title: 2025-07-07T17:57:49Z
 ResourceImportId: 45077
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-3-2.jpg
-Watermarks:
-  description: 2025-05-07T13:15:23Z
-  short_title: 2025-07-07T17:57:49Z
 
 ---
 It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.

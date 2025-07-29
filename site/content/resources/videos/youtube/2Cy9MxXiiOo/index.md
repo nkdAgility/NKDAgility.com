@@ -28,12 +28,12 @@ categories:
 tags:
 - Software Development
 - Agile Product Management
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:00Z
   short_title: 2025-07-07T17:54:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2Cy9MxXiiOo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg

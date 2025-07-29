@@ -5,10 +5,9 @@ description: Failing to deliver a usable product each agile iteration leads to l
 date: 2023-07-27
 weight: 305
 ResourceId: G1N1dQ6DNEV
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -39,16 +39,14 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Transparency
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49502
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:34Z
   short_title: 2025-07-07T17:53:51Z
+ResourceImportId: 49502
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-1.jpg
 
 ---
 In light of the importance professional teams place on delivering usable, working products, I find myself compelled to address the woes that befall teams that need to adhere to this crucial tenet. We understand the need for working products; now, let us dissect the perils of straying from this righteous path.

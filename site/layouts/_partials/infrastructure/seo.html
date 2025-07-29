@@ -318,7 +318,7 @@
   }
 </script> {{ define "course-hasCourseInstance" }}
   "hasCourseInstance": [
-  {{- $learningExperiences := (index .Params "course-learning-experiences") -}}
+  {{- $learningExperiences := (index .Params "course_learning_experiences") -}}
   {{- $length := len $learningExperiences -}}
   {{- range $index, $experience := $learningExperiences }}
     { "@type": "CourseInstance", "courseMode": "blended", "location": "Microsoft Teams", "courseSchedule": { "@type": "Schedule",

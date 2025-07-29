@@ -7,10 +7,10 @@ weight: 165
 ResourceId: VThLnxVapgJ
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: how-to-build-for-business-resilience-and-continuity
 aliases:
 - /resources/VThLnxVapgJ
-ResourceContentOrigin: hybrid
 aliasesArchive:
 - /how-to-build-for-business-resilience-and-continuity
 - /blog/how-to-build-for-business-resilience-and-continuity

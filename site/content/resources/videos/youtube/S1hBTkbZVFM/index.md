@@ -31,12 +31,12 @@ tags:
 - Coaching
 - Agile Leadership
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:43Z
   short_title: 2025-07-07T17:51:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: S1hBTkbZVFM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg

@@ -27,12 +27,12 @@ tags:
 - Agile Leadership
 - Social Technologies
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:46Z
   short_title: 2025-07-07T17:58:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg

@@ -30,12 +30,12 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Personal
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:13Z
   short_title: 2025-07-07T17:56:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 8uPjXXt5lo4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg

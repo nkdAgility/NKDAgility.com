@@ -33,12 +33,12 @@ tags:
 - Agile Frameworks
 - Software Development
 - Professional Scrum
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:13Z
   short_title: 2025-07-07T17:53:33Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: QI3oE9IUc6E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg

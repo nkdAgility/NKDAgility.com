@@ -7,26 +7,12 @@ weight: 130
 ResourceId: XRePaJiX1kj
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it
 aliases:
 - /resources/XRePaJiX1kj
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7302364782035161088
-  post_id: "7302364782035161088"
-  post_date: 2025-03-03T16:30:35Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:35Z
-  short_title: 2025-07-07T16:45:38Z
+layout: signal
 concepts:
 - Strategy
 categories:
@@ -45,6 +31,20 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Value Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7302364782035161088
+  post_id: "7302364782035161088"
+  post_date: 2025-03-03T16:30:35Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:35Z
+  short_title: 2025-07-07T16:45:38Z
 
 ---
 Engineering can fix technical debt, but leadership has to invest in it. Without that investment, continuous delivery remains a pipe dream.

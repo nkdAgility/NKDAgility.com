@@ -33,12 +33,12 @@ tags:
 - Software Development
 - Large Scale Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:47Z
   short_title: 2025-07-07T17:57:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: sBBKKlfwlrA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg

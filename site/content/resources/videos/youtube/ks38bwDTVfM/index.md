@@ -39,12 +39,12 @@ tags:
 - Operational Practices
 - Agile Product Management
 - Team Collaboration
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:49Z
   short_title: 2025-07-07T17:51:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: ks38bwDTVfM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg

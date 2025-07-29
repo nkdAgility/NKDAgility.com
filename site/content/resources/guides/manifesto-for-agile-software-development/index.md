@@ -50,12 +50,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Product Delivery
-resourceTypes: guide
-references:
-- title: Manifesto for Agile Software Development
-  url: https://agilemanifesto.org/
-recommendedContent: 
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -64,6 +58,12 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:11Z
   short_title: 2025-07-07T16:40:34Z
+resourceTypes: guide
+references:
+- title: Manifesto for Agile Software Development
+  url: https://agilemanifesto.org/
+recommendedContent: 
+creator: Martin Hinshelwood
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

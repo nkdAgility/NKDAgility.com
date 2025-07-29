@@ -7,26 +7,12 @@ weight: 345
 ResourceId: IrDYI5d-kXv
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-masters-enabling-teams-fostering-agility-removing-blockers
 aliases:
 - /resources/IrDYI5d-kXv
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7303089411485761536
-  post_id: "7303089411485761536"
-  post_date: 2025-03-05T16:30:00Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:31Z
-  short_title: 2025-07-07T16:45:36Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -43,6 +29,20 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7303089411485761536
+  post_id: "7303089411485761536"
+  post_date: 2025-03-05T16:30:00Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:31Z
+  short_title: 2025-07-07T16:45:36Z
 
 ---
 Scrum Masters talk about enabling teams, fostering agility, and removing blockers. But here’s the real question—are you accountable for delivery?

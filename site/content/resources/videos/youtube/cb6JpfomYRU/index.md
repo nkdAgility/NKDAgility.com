@@ -36,12 +36,12 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:49Z
   short_title: 2025-07-07T17:53:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg

@@ -36,6 +36,9 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T19:18:41Z
+  short_title: 2025-07-07T16:43:19Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,9 +49,6 @@ duration: 70
 resourceTypes:
 - video
 isShort: false
-Watermarks:
-  description: 2025-05-07T19:18:41Z
-  short_title: 2025-07-07T16:43:19Z
 
 ---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.

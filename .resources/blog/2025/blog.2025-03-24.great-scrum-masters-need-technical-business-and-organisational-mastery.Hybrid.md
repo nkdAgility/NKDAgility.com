@@ -4,25 +4,22 @@ short_title: 'Scrum Mastery: Technical, Business, Organisational'
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 date: 2025-03-24T09:00:00
 weight: 175
-ResourceId: dQjKsWR5qfn
-ResourceImport: false
-ResourceType: blog
-slug: great-scrum-masters-need-technical-business-and-organisational-mastery
-aliases:
-- /resources/dQjKsWR5qfn
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
 contributors:
 - name: Henrik Berglund
   external: https://www.linkedin.com/in/henrikber/
-layout: blog
-resourceTypes: blog
+ResourceId: dQjKsWR5qfn
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+aliases:
+- /resources/dQjKsWR5qfn
 aliasesArchive:
 - /great-scrum-masters-need-technical-business-and-organisational-mastery
 - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
 - /great-scrum-masters-need-technical--business--and-organisational-mastery
 - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+layout: blog
 concepts:
 - Framework
 categories:
@@ -48,6 +45,9 @@ tags:
 Watermarks:
   description: 2025-05-07T12:49:18Z
   short_title: 2025-07-07T16:45:15Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.

@@ -31,13 +31,13 @@ tags:
 - Scrum Team
 - Social Technologies
 - Team Performance
+Watermarks:
+  description: 2025-05-07T13:15:36Z
+  short_title: 2025-07-07T17:57:59Z
 ResourceImportId: 44432
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: class-colage-2-8-8.jpg
-Watermarks:
-  description: 2025-05-07T13:15:36Z
-  short_title: 2025-07-07T17:57:59Z
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

@@ -7,10 +7,10 @@ weight: 645
 ResourceId: F0yVBj8Tx8H
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: hybrid
 slug: robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 aliases:
 - /resources/F0yVBj8Tx8H
-ResourceContentOrigin: hybrid
 aliasesArchive:
 - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back

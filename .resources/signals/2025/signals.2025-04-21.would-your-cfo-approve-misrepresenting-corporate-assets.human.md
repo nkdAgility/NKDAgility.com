@@ -7,12 +7,17 @@ weight: 340
 ResourceId: u-ACEx3Q01p
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: would-your-cfo-approve-misrepresenting-corporate-assets
 aliases:
 - /resources/u-ACEx3Q01p
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Technical Debt
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7320106683114934273
@@ -27,11 +32,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:19Z
   short_title: 2025-07-07T16:44:44Z
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Technical Debt
 
 ---
 Would your CFO sign off on misrepresenting corporate assets? Of course not. But that’s exactly what happens when technical debt is ignored.

@@ -5,31 +5,29 @@ description: Explores the contrast between unprofessional "kalabule" practices a
 date: 2016-10-27
 weight: 330
 ResourceId: yUp0v2lyPX6
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
 - /resources/yUp0v2lyPX6
-ResourceContentOrigin: Human
-ResourceImportId: 11642
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Scrum Values
-preview: clip_image001-2-2.png
 Watermarks:
   description: 2025-05-07T13:16:40Z
   short_title: 2025-07-07T17:58:55Z
+ResourceImportId: 11642
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image001-2-2.png
 
 ---
 I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.

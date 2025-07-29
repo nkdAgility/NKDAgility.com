@@ -32,12 +32,12 @@ tags:
 - Empirical Process Control
 - Software Development
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:08Z
   short_title: 2025-07-07T17:56:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: o0VJuVhm0pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg

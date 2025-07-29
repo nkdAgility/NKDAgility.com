@@ -25,14 +25,14 @@ categories:
 - Scrum
 tags:
 - Software Development
+Watermarks:
+  description: 2025-05-07T13:14:57Z
+  short_title: 2025-07-07T17:57:31Z
 ResourceImportId: 46108
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
-Watermarks:
-  description: 2025-05-07T13:14:57Z
-  short_title: 2025-07-07T17:57:31Z
 
 ---
 In [Scrum]({{< ref "/categories/scrum" >}}) Events across the world, I hear repeated the phrase "that's how agile works" when describing behaviours that are both unprofessional and the very opposite of an agile mindset. These behaviours will inhibit agility and are a result of a lack of understanding of the underlying principles.

@@ -4,9 +4,11 @@ short_title: Applying Professional Scrum Effectively
 description: Learn how to effectively apply Professional Scrum, overcome common implementation challenges, and improve team performance with practical agile insights and training.
 date: 2023-04-06
 weight: 665
+author: MrHinsh
 ResourceId: WAc9JUyPY5M
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/
@@ -15,6 +17,7 @@ aliases:
 aliasesArchive:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+layout: newsletter
 concepts: []
 categories:
 - Scrum
@@ -25,13 +28,10 @@ tags:
 - Pragmatic Thinking
 - Empirical Process Control
 - Professional Scrum
-ResourceContentOrigin: Human
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:13:21Z
   short_title: 2025-07-07T17:56:02Z
+resourceTypes: newsletter
 
 ---
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.

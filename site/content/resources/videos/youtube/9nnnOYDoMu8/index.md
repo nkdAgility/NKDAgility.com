@@ -45,6 +45,9 @@ tags:
 - Increment
 - Metrics and Learning
 - Deployment Frequency
+Watermarks:
+  description: 2025-05-10T14:13:51Z
+  short_title: 2025-07-07T16:44:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,9 +58,6 @@ duration: 55
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-10T14:13:51Z
-  short_title: 2025-07-07T16:44:26Z
 
 ---
 If it’s not in the hands of users, it’s not done. I’ve said this countless times in workshops, coaching sessions, and retrospectives, and yet it still bears repeating. Writing code isn’t done. Testing code isn’t done. Demoing something in a meeting isn’t done. Done means that the increment is live in production, gathering telemetry, and delivering real evidence against real goals.

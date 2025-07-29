@@ -34,12 +34,12 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Sociotechnical Systems
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:33Z
   short_title: 2025-07-07T17:47:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 4zGsmQFWFpo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg

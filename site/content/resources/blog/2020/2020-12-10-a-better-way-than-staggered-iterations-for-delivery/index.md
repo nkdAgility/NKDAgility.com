@@ -46,14 +46,14 @@ platform_signals:
   post_url: https://www.scrum.org/resources/blog/better-way-staggered-iterations-delivery
   post_date: 2021-01-10T09:00:00Z
   post_type: crosspost
+Watermarks:
+  description: 2025-05-07T13:15:16Z
+  short_title: 2025-07-07T17:57:44Z
 ResourceImportId: 9915
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: staggered-iterations-for-delivery1-2-2.png
-Watermarks:
-  description: 2025-05-07T13:15:16Z
-  short_title: 2025-07-07T17:57:44Z
 
 ---
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.

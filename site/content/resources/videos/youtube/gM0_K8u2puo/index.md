@@ -31,12 +31,12 @@ concepts: []
 categories:
 - Product Development
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:48Z
   short_title: 2025-07-07T17:46:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: gM0_K8u2puo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg

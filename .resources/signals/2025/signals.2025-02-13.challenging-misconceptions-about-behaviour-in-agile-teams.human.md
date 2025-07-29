@@ -7,12 +7,24 @@ weight: 380
 ResourceId: lVebZgXa1DP
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: challenging-misconceptions-about-behaviour-in-agile-teams
 aliases:
 - /resources/lVebZgXa1DP
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Accountability
+categories:
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Agile Philosophy
+- Professional Scrum
+- Organisational Agility
+- Team Collaboration
+- Pragmatic Thinking
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7295841657839583235
@@ -27,18 +39,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:59Z
   short_title: 2025-07-07T17:46:32Z
-concepts:
-- Accountability
-categories:
-- Product Development
-- Scrum
-tags:
-- Software Development
-- Agile Philosophy
-- Professional Scrum
-- Organisational Agility
-- Team Collaboration
-- Pragmatic Thinking
 
 ---
 I keep hearing people justify bad behaviour in Agile teams by saying, “That’s how Agile works.” No. It isn’t.

@@ -4,11 +4,13 @@ short_title: Blocked Columns Obscure Kanban Workflow
 description: Using Blocked columns on Kanban boards hides workflow issues, causes task stagnation, and reduces transparency. Use tags to indicate blockages and maintain clarity.
 date: 2024-02-13
 weight: 1000
+contributors:
+- name: Will Seele
+  external: https://www.linkedin.com/in/wjseele/
 ResourceId: 7JJaRr4g-KA
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
@@ -19,6 +21,7 @@ aliasesArchive:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+layout: blog
 concepts:
 - Tool
 categories:
@@ -29,19 +32,14 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
-ResourceContentOrigin: Hybrid
-ResourceImportId: 51208
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Will Seele
-  external: https://www.linkedin.com/in/wjseele/
-layout: blog
-resourceTypes: blog
-preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 Watermarks:
   description: 2025-05-07T13:05:52Z
   short_title: 2025-07-07T17:49:48Z
+ResourceImportId: 51208
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---
 The Boards in Azure [DevOps]({{< ref "/categories/devops" >}}) are a powerful tool that your teams can leverage to enable transparent visualization of the current state of [value delivery]({{< ref "/tags/value-delivery" >}}).

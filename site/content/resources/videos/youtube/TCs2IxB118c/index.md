@@ -34,12 +34,12 @@ tags:
 - Team Performance
 - Personal
 - Organisational Culture
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:41Z
   short_title: 2025-07-07T17:48:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: TCs2IxB118c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg

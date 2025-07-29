@@ -35,12 +35,12 @@ tags:
 - Product Delivery
 - Software Development
 - Customer Focus
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:13Z
   short_title: 2025-07-07T17:49:18Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg

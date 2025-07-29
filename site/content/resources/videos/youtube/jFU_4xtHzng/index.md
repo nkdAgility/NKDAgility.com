@@ -27,12 +27,12 @@ categories:
 - Product Development
 tags:
 - Continuous Learning
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:44Z
   short_title: 2025-07-07T17:56:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: jFU_4xtHzng
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg

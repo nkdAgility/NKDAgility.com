@@ -36,12 +36,12 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:30Z
   short_title: 2025-07-07T17:52:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: vhBsAXev014
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg

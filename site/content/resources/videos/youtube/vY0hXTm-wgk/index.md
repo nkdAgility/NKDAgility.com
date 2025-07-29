@@ -27,12 +27,12 @@ categories:
 tags:
 - Continuous Learning
 - Coaching
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:45Z
   short_title: 2025-07-07T17:57:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg

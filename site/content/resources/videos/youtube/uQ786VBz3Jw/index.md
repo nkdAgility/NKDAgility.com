@@ -40,12 +40,12 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:09Z
   short_title: 2025-07-07T17:55:01Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg

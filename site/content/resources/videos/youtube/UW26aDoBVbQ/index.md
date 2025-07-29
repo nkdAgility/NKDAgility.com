@@ -33,12 +33,12 @@ tags:
 - Value Delivery
 - Lean Principles
 - Lean Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:13Z
   short_title: 2025-07-07T17:52:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: UW26aDoBVbQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg

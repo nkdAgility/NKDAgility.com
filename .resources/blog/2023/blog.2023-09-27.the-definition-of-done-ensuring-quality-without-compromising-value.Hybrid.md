@@ -5,10 +5,9 @@ description: Explains how to maintain clear, measurable quality standards with t
 date: 2023-09-27
 weight: 610
 ResourceId: DcwDyX1ZGUP
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
@@ -23,6 +22,7 @@ aliasesArchive:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -35,16 +35,14 @@ tags:
 - Working Software
 - Professional Scrum
 - Transparency
-ResourceContentOrigin: Hybrid
-ResourceImportId: 50083
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:18Z
   short_title: 2025-07-07T17:52:53Z
+ResourceImportId: 50083
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---
 The [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.

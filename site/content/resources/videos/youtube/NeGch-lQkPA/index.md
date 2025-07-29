@@ -41,12 +41,12 @@ tags:
 - Agile Planning
 - Value Delivery
 - Agile Frameworks
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:42Z
   short_title: 2025-07-07T17:49:43Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: NeGch-lQkPA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg

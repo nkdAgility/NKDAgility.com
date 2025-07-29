@@ -41,12 +41,12 @@ tags:
 - Agile Leadership
 - Business Agility
 - Team Collaboration
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:36Z
   short_title: 2025-07-07T17:50:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg

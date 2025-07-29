@@ -4,15 +4,20 @@ short_title: Kanban Guide
 description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
 date: 2025-05-01
 weight: 840
+author:
+- John Coleman
+- Daniel Vacanti
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 slug: kanban-guide
 aliases:
 - /learn/agile-delivery-kit/guides/kanban-guide
 - /resources/uD_5MdHKu1Q
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/kanban-guide
+layout: guide
 concepts:
 - Method
 categories:
@@ -29,16 +34,6 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-ResourceContentOrigin: Human
-resourceTypes: guide
-layout: guide
-references:
-- title: The Kanban Guide
-  url: https://kanbanguides.org/english/
-recommendedContent:
-- collection: practices
-  path: _practices/service-level-expectation-sle.md
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -47,6 +42,14 @@ card:
 Watermarks:
   description: 2025-05-16T10:06:25Z
   short_title: 2025-07-07T16:40:30Z
+resourceTypes: guide
+references:
+- title: The Kanban Guide
+  url: https://kanbanguides.org/english/
+recommendedContent:
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
+creator: Martin Hinshelwood
 
 ---
 This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.

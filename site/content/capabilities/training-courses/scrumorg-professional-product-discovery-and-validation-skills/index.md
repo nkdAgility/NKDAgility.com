@@ -1,61 +1,64 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV)
-description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
-ResourceId: -IePwtEoXdo
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
 short_title: Product Discovery and Validation
+description: Gain practical skills in product discovery and validation, including experimentation, hypothesis testing, data analysis, and risk control for effective product development.
 date: 2024-07-11
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: -IePwtEoXdo
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-product-discovery-and-validation-skills-ppdv
-url: /capabilities/training-courses/product-training-courses/:slug/
 aliases:
-  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
-  - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-  - /resources/-IePwtEoXdo
+- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+- /resources/-IePwtEoXdo
 aliasesArchive:
-  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
-  - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-course-topics:
-  - Scrum Training Courses
-  - Product Training Courses
-course-vendors:
-  - Scrum.org
-course-learning-experiences:
-  - Traditional
-delivery-audiences:
-  - Product Owners
-  - Product Managers
-  - Teams
-tags:
-  - Decision Making
-  - Experimentation
-  - Hypothesis Driven Development
-  - Metrics and Learning
-  - Pragmatic Thinking
-  - Product Discovery
-  - Product Validation
-  - Value Delivery
-  - Entrepreneurship
+- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+concepts: []
 categories:
-  - Product Management
-preview: NKDAgility-Courses-PSVS-16x9-1.png
-previewIcon: PPDV-BETA-logo.png
-brandColour:
+- Product Management
+tags:
+- Decision Making
+- Experimentation
+- Hypothesis Driven Development
+- Metrics and Learning
+- Pragmatic Thinking
+- Product Discovery
+- Product Validation
+- Value Delivery
 card:
   button:
     content: ""
   title: Professional Product Discovery and Validation Skills (PPDV)
   content: This one-day course on product discovery and validation equips participants with essential hands-on skills to enhance value creation in product development. It covers key techniques for both new product development and improving existing products, focusing on experimentation, evidence collection, and risk control. Through an ongoing case study, students will learn practical methods to apply in their workplace, helping Product Owners, Managers, and teams drive customer outcomes, improve ROI, and adopt an iterative, user-centric approach to product development.
+Watermarks:
+  description: 2025-07-29T15:00:51Z
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/product-training-courses/:slug/
+course_topics:
+- Scrum Training Courses
+- Product Training Courses
+course_vendors:
+- Scrumorg
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Product Owners
+- Product Managers
+- Teams
+preview: NKDAgility-Courses-PSVS-16x9-1.png
+previewIcon: PPDV-BETA-logo.png
+brandColour: 
 code: PPDV
-level: beginner
-introduction:
-overview:
+course_proficiencies:
+- beginner
+introduction: 
+overview: 
 outcomes: |2+
 
   - Identify what assumptions are being made
@@ -69,7 +72,7 @@ outcomes: |2+
   - Analyze the results of your experiments
   - Use learnings in your decision making process
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Increase user value created by deliberately designing experiments to validate assumptions about user’s needs and wants
@@ -77,10 +80,60 @@ objectives: |2+
   - Improve organizational collaboration and alignment by engaging with key stakeholders using data instead of opinions
   - Unlock creativity by reframing work as problems to solve rather than tasks to execute
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
 ---
+# Professional Product Discovery and Validation Skills (PPDV)
+
+**Course Code:** PPDV
+
+## Overview
+A one-day, hands-on course equipping participants with essential skills in product discovery and validation, focusing on experimentation, evidence collection, and risk control to enhance value creation in product development.
+
+## Target Audience
+- Product Owners
+- Product Managers
+- Teams involved in product development
+
+## Learning Outcomes
+- Identify assumptions being made in product development.
+- Explain which assumptions require validation.
+- Describe principles for prioritizing assumptions to validate first.
+- Gather and use appropriate data to test hypotheses.
+- Explain the importance of desired signal strength in hypothesis validation.
+- Manage experiment costs based on signal quality and confidence level.
+- Customize hypotheses to validate or invalidate assumptions.
+- Apply facilitation techniques to encourage creativity and diverse solutions.
+- Analyze experimental results.
+- Integrate learnings into decision-making processes.
+
+## Course Topics
+- Product Discovery
+- Product Validation
+- Experimentation
+- Hypothesis-Driven Development
+- Metrics and Learning
+- Decision Making
+- Value Delivery
+- Pragmatic Thinking
+- Entrepreneurship
+
+## Delivery Format
+- Traditional (instructor-led)
+
+## Proficiency Level
+- Beginner
+
+## Course Length
+- 1 day
+
+## Trainer/Designer
+- Martin Hinshelwood
+
+## Vendor
+- Scrum.org

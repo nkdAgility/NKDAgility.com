@@ -36,12 +36,12 @@ tags:
 - Product Validation
 - Agile Strategy
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:56Z
   short_title: 2025-07-07T17:50:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Tye_-FY7boo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg

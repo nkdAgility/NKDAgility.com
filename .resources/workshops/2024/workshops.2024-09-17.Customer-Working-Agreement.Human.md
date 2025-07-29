@@ -7,6 +7,7 @@ weight: 840
 ResourceId: hjlKdneL4t8
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 slug: customer-working-agreement
 aliases:
 - workshops/Customer-Working-Agreement.html
@@ -17,17 +18,13 @@ aliasesArchive:
 - workshops/Customer-Working-Agreement.html
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 - /learn/agile-delivery-kit/workshops/customer-working-agreement/
+layout: workshop
 concepts:
 - Method
 categories:
 - Product Development
 - Scrum
 tags: []
-ResourceContentOrigin: Human
-resourceTypes: workshop
-layout: workshop
-creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
@@ -36,6 +33,9 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:01Z
   short_title: 2025-07-07T17:48:11Z
+resourceTypes: workshop
+creator: Martin Hinshelwood
+draft: true
 
 ---
 ## Customer Working Agreement

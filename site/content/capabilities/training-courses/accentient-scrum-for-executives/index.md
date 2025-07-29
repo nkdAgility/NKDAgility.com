@@ -1,16 +1,14 @@
 ---
 title: Scrum for Executives Training
-description: Join this interactive class to discover what Scrum is, why it matters, and your role in its adoption through engaging discussions and team activities.
-ResourceId: AHschsDjL2E
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Scrum for Executives Training
+description: Instructor-led course for executives and managers to understand Scrum, its benefits, executive roles, Agile metrics, case studies, and adoption best practices.
 date: 2020-08-31
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: AHschsDjL2E
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: scrum-for-executives-training
-url: 
 aliases:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
@@ -20,26 +18,18 @@ aliasesArchive:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
 - /capabilities/training-courses/accentient/scrum-for-executives
-course-topics:
-- Scrum Training Courses
-course-vendors:
-- Accentient
-course-learning-experiences:
-- Traditional
-delivery-audiences:
-- Entrepreneurs
-- Executives
+concepts:
+- Framework
+categories:
+- Product Development
+- Scrum
 tags:
 - Agile Frameworks
+- Project Management
 - Agile Transformation
 - Organisational Agility
 - Professional Scrum
 - Software Development
-categories:
-- Scrum
-preview: 
-previewIcon: A-S4E.png
-brandColour: 
 card:
   button:
     content: ""
@@ -47,8 +37,27 @@ card:
   content: |2
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
+Watermarks:
+  description: 2025-07-29T15:01:25Z
+  short_title: 2025-07-29T15:01:26Z
+creator: Martin Hinshelwood
+type: course
+url: 
+course_topics:
+- Scrum Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Entrepreneurs
+- Executives
+preview: 
+previewIcon: A-S4E.png
+brandColour: 
 code: S4E
-level: beginner
+course_proficiencies:
+- beginner
 introduction: |2
 
   ### Course Outline
@@ -84,4 +93,82 @@ syllabus:
 events: 
 
 ---
-This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.
+# Scrum for Executives Training
+
+**Course Code:** S4E
+
+---
+
+## Overview
+
+This instructor-led course provides executives, managers, and organizational leaders with a practical understanding of Scrum, its value, and the executive’s role in successful adoption.
+
+---
+
+## Target Audience
+
+- Executives
+- Managers
+- Entrepreneurs
+- Organizational leaders considering or undergoing Agile transformation
+
+---
+
+## Learning Outcomes
+
+1. Understand the purpose and benefits of Scrum.
+2. Summarize the Scrum framework from an executive perspective.
+3. Identify key facts and misconceptions about Scrum.
+4. Evaluate Agile metrics relevant to enterprise environments.
+5. Analyze real-world Scrum case studies.
+6. Recognize common myths and misconceptions about Scrum adoption.
+7. Distinguish Scrum principles and complementary practices.
+8. Assess where Scrum is appropriate within the organization.
+
+---
+
+## Course Topics
+
+- Why Scrum?
+- Scrum: An Executive Summary
+- Top 10 Things You Should Know About Scrum
+- Agile Metrics for the Enterprise
+- Scrum Case Studies
+- Myths and Misconceptions
+- The Scrum Principles
+- Where Scrum Fits and Where It Doesn’t
+
+---
+
+## Delivery Format
+
+- Instructor-led
+- Traditional classroom
+- Team-based activities and discussions
+
+---
+
+## Proficiency Level
+
+- Beginner
+
+---
+
+## Course Length
+
+- 1 day
+
+---
+
+## Trainer/Designer
+
+- Richard Hundhausen (Accentient)
+- Charles Bradley (ScrumCrazy)
+
+---
+
+## Vendor
+
+- Accentient
+
+---

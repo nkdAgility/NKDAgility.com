@@ -33,10 +33,10 @@ tags:
 - Scaling
 - Project Management
 - Business Agility
-draft: false
 Watermarks:
   description: 2025-06-16T11:50:55Z
   short_title: 2025-07-07T16:43:50Z
+draft: false
 
 ---
 ## Client Context

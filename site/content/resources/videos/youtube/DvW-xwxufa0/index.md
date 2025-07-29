@@ -27,12 +27,12 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:01:29Z
   short_title: 2025-07-07T17:48:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: DvW-xwxufa0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg

@@ -26,6 +26,9 @@ categories:
 tags:
 - Business Agility
 - Agile Leadership
+Watermarks:
+  description: 2025-07-24T15:12:10Z
+  short_title: 2025-07-24T15:12:10Z
 videoId: qhb8uB5HUSo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qhb8uB5HUSo/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAPQaUb5Z0N0mb6KpKB_KbJsAytHQ
@@ -36,9 +39,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:12:10Z
-  short_title: 2025-07-24T15:12:10Z
 
 ---
 You don’t have to chase change. You just need the right guide.

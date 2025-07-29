@@ -36,12 +36,12 @@ tags:
 - Product Delivery
 - Agile Planning
 - Scrum Team
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:01Z
   short_title: 2025-07-07T17:54:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 6cczVAbOMao
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg

@@ -35,12 +35,12 @@ tags:
 - Software Development
 - Market Adaptability
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:40Z
   short_title: 2025-07-07T17:47:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Gym5-p-mNtw
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q

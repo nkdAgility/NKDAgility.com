@@ -5,32 +5,30 @@ description: Explores why most organisations struggle to scale agile practices, 
 date: 2020-03-30
 weight: 1000
 ResourceId: PLxBb5FqtO-
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale
 aliases:
 - /resources/PLxBb5FqtO-
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44209
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: 2020-03-27_21-36-13-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:57Z
   short_title: 2025-07-07T17:58:16Z
+ResourceImportId: 44209
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.

@@ -26,12 +26,12 @@ categories:
 - Product Development
 tags:
 - Scrum Master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-07-07T17:55:57Z
   short_title: 2025-07-07T17:55:58Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: aathsp3IMfg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg

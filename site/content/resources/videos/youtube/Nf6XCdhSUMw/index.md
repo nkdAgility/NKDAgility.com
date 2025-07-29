@@ -32,12 +32,12 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:09Z
   short_title: 2025-07-07T17:48:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg

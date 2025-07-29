@@ -25,9 +25,6 @@ categories:
 - Product Development
 - Scrum
 tags: []
-resourceTypes: workshop
-creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
@@ -36,6 +33,9 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:01Z
   short_title: 2025-07-07T17:48:11Z
+resourceTypes: workshop
+creator: Martin Hinshelwood
+draft: true
 
 ---
 ## Customer Working Agreement

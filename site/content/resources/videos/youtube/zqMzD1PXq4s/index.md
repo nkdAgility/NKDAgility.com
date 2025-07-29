@@ -32,12 +32,12 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Technical Excellence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:41Z
   short_title: 2025-07-07T17:47:09Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: zqMzD1PXq4s
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg

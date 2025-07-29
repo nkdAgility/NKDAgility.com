@@ -38,6 +38,9 @@ tags:
 - Operational Practices
 - Professional Scrum
 - Team Performance
+Watermarks:
+  description: 2025-05-07T12:58:35Z
+  short_title: 2025-07-07T17:48:17Z
 ResourceImportId: 51730
 AudioNative: true
 creator: Martin Hinshelwood
@@ -45,9 +48,6 @@ resourceTypes: blog
 sameAs:
 - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
-Watermarks:
-  description: 2025-05-07T12:58:35Z
-  short_title: 2025-07-07T17:48:17Z
 
 ---
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.

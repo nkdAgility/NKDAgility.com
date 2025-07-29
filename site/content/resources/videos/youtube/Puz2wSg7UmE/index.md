@@ -39,12 +39,12 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:13Z
   short_title: 2025-07-07T17:50:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Puz2wSg7UmE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg

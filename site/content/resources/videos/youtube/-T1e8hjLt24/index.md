@@ -28,12 +28,12 @@ categories:
 - Uncategorized
 tags:
 - Competence
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:47Z
   short_title: 2025-07-07T17:50:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg

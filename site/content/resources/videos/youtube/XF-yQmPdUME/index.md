@@ -43,12 +43,12 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Agile Strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:20Z
   short_title: 2025-07-07T17:48:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: XF-yQmPdUME
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg

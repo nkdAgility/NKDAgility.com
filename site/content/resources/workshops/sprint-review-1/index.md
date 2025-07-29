@@ -40,6 +40,14 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
+card:
+  button:
+    content: Learn More
+  content: Discover more about "Sprint Review
+  title: 'Sprint Review #1'
+Watermarks:
+  description: 2025-05-07T12:57:58Z
+  short_title: 2025-07-07T17:48:11Z
 resourceTypes: workshop
 creator: Martin Hinshelwood
 references: 
@@ -59,14 +67,6 @@ videos:
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
-card:
-  button:
-    content: Learn More
-  content: Discover more about "Sprint Review
-  title: 'Sprint Review #1'
-Watermarks:
-  description: 2025-05-07T12:57:58Z
-  short_title: 2025-07-07T17:48:11Z
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

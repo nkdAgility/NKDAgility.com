@@ -39,12 +39,12 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Organisational Agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:09Z
   short_title: 2025-07-07T17:50:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: m2Z4UV4OQlI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg

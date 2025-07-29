@@ -39,12 +39,12 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:27Z
   short_title: 2025-07-07T17:48:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Psc6nDD7Q9g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg

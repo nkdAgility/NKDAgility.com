@@ -5,10 +5,9 @@ description: Guidance on addressing issues with multiple Product Owners in Scrum
 date: 2019-09-16
 weight: 640
 ResourceId: KIG3LzjF3zK
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: what's-the-best-way-to-work-around-multiple-po
 aliases:
 - /resources/blog/what-s-the-best-way-to-work-around-multiple-po
@@ -20,6 +19,7 @@ aliasesArchive:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 - /resources/blog/what-s-the-best-way-to-work-around-multiple-po
+layout: blog
 concepts: []
 categories:
 - Scrum
@@ -28,15 +28,13 @@ categories:
 tags:
 - Agile Product Management
 - Product Owner
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39853
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: 495173592-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:11Z
   short_title: 2025-07-07T17:58:28Z
+ResourceImportId: 39853
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 495173592-1-1.jpg
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

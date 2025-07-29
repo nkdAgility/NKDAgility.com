@@ -7,26 +7,12 @@ weight: 310
 ResourceId: FqiyqqNxjFS
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: we-hear-self-managing-teams-so-often-it-become-a-cliché
 aliases:
 - /resources/FqiyqqNxjFS
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326629685818179584
-  post_id: "7326629685818179584"
-  post_date: 2025-05-09T14:30:39Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:54Z
-  short_title: 2025-07-07T16:44:22Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -48,6 +34,20 @@ tags:
 - Agile Frameworks
 - Team Motivation
 - Sociotechnical Systems
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326629685818179584
+  post_id: "7326629685818179584"
+  post_date: 2025-05-09T14:30:39Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:54Z
+  short_title: 2025-07-07T16:44:22Z
 
 ---
 We hear “self-managing teams” so often it’s become a cliché.

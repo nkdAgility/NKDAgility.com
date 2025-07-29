@@ -27,12 +27,12 @@ categories:
 - Uncategorized
 tags:
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:17Z
   short_title: 2025-07-07T17:53:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg

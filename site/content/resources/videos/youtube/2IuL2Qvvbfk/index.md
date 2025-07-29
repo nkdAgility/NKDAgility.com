@@ -38,12 +38,12 @@ tags:
 - Product Owner
 - Organisational Culture
 - Sociotechnical Systems
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:41Z
   short_title: 2025-07-07T17:54:42Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2IuL2Qvvbfk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg

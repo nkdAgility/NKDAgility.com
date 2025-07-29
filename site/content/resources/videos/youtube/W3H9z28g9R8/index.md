@@ -32,12 +32,12 @@ tags:
 - Pragmatic Thinking
 - Organisational Culture
 - Beta Codex
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:35Z
   short_title: 2025-07-07T17:52:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: W3H9z28g9R8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg

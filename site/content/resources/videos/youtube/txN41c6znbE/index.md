@@ -41,12 +41,12 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:32Z
   short_title: 2025-07-07T17:47:49Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: txN41c6znbE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg

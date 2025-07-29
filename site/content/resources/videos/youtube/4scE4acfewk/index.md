@@ -32,12 +32,12 @@ tags:
 - Team Performance
 - Agile Product Management
 - Social Technologies
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:04Z
   short_title: 2025-07-07T17:50:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 4scE4acfewk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg

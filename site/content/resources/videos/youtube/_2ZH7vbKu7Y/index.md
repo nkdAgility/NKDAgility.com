@@ -31,12 +31,12 @@ tags:
 - Continuous Improvement
 - Organisational Culture
 - Team Motivation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:17Z
   short_title: 2025-07-07T17:52:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: _2ZH7vbKu7Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg

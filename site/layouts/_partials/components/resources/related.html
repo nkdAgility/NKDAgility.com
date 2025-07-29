@@ -22,7 +22,7 @@
       <div class="pt-5">
         <h5>Programs that align</h5>
         <p>Suggested based on semantic overlap with this post. These aren’t just top sellers—they align with the themes and intent of what you just read.</p>
-        {{ partial "components/resources/resource-list.html" (dict "context" . "resources" $relatedCourses "includeMeta" false) }}
+        {{ partial "components/programs/programs-list.html" (dict "context" . "programs" $relatedCourses "includeMeta" false) }}
       </div>
     {{ end }}
   {{ else }}

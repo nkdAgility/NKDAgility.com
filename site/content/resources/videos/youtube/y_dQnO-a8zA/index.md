@@ -40,6 +40,9 @@ tags:
 - Team Collaboration
 - Sociotechnical Systems
 - Enterprise Agility
+Watermarks:
+  description: 2025-07-24T15:14:34Z
+  short_title: 2025-07-24T15:14:35Z
 videoId: y_dQnO-a8zA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y_dQnO-a8zA/maxresdefault.jpg
@@ -50,9 +53,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:14:34Z
-  short_title: 2025-07-24T15:14:35Z
 
 ---
 Change is the Only Constant: Why Your Engineering Culture Must Evolve

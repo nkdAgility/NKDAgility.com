@@ -5,18 +5,12 @@ description: Martin Hinshelwood answers questions on integrating UX into Scrum t
 date: 2020-03-27
 weight: 1000
 ResourceId: s7bwajkP-HP
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
 aliases:
 - /resources/s7bwajkP-HP
-ResourceContentOrigin: Hybrid
-ResourceImportId: 44210
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
@@ -24,14 +18,18 @@ aliasesArchive:
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: 2020-03-27_21-33-56-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:58Z
   short_title: 2025-07-07T17:58:18Z
+ResourceImportId: 44210
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---
 After my last webcast I received a question from a good friend of mine about how to incorporate UX into a [Scrum]({{< ref "/categories/scrum" >}}) Team. Since I have been teaching the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with UX class I thought I would share the gist of what might be a good place to start.

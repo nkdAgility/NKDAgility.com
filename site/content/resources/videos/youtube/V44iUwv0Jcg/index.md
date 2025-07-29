@@ -32,12 +32,12 @@ tags:
 - Continuous Learning
 - Operational Practices
 - Lean Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:10Z
   short_title: 2025-07-07T17:48:35Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg

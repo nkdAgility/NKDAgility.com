@@ -36,10 +36,10 @@ tags:
 - Frequent Releases
 - Organisational Agility
 - Working Software
-creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-30T15:27:52Z
   short_title: 2025-07-07T16:43:10Z
+creator: Martin Hinshelwood
 
 ---
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.

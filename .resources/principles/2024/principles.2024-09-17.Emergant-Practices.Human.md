@@ -7,21 +7,18 @@ weight: 1000
 ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: emergant-practices
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
 - /resources/_MbvqRG_XNM
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
+layout: principles
 concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceContentOrigin: Human
-resourceTypes: principles
-layout: principles
-creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
@@ -30,6 +27,9 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:23Z
   short_title: 2025-07-07T17:48:02Z
+resourceTypes: principles
+creator: Martin Hinshelwood
+draft: true
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

@@ -32,12 +32,12 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:30Z
   short_title: 2025-07-07T17:48:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: MO7O6kTmufc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg

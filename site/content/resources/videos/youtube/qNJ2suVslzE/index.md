@@ -41,12 +41,12 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Working Software
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:54Z
   short_title: 2025-07-07T17:47:18Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: qNJ2suVslzE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw

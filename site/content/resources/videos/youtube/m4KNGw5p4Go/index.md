@@ -35,12 +35,12 @@ tags:
 - Product Validation
 - Continuous Learning
 - Lean Product Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:13Z
   short_title: 2025-07-07T17:48:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: m4KNGw5p4Go
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg

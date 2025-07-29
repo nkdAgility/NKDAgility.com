@@ -7,19 +7,16 @@ weight: 180
 ResourceId: UfdnQrxv5iF
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: without-delivery-there-is-no-value
 aliases:
 - /resources/UfdnQrxv5iF
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /without-delivery-no-value
 - /blog/without-delivery-no-value
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -42,8 +39,6 @@ tags:
 - Time to Market
 - Pragmatic Thinking
 - Increment
-preview: 2025-02-10-without-delivery-no-value.jpg
-marketing: []
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
@@ -52,6 +47,11 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:49:40Z
   short_title: 2025-07-07T17:46:37Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-02-10-without-delivery-no-value.jpg
+marketing: []
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

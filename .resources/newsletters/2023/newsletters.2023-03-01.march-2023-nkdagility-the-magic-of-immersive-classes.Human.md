@@ -4,9 +4,11 @@ short_title: The Magic of Immersive Agile Learning
 description: Immersion programmes extend learning beyond the classroom, combining real-world practice, retrospectives, and expert guidance for deeper, more effective skill development.
 date: 2023-03-01
 weight: 840
+author: MrHinsh
 ResourceId: Y8ySIcajwoP
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
@@ -15,20 +17,18 @@ aliases:
 aliasesArchive:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+layout: newsletter
 concepts: []
 categories:
 - Scrum
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-ResourceContentOrigin: Human
-preview: naked-agility-technically-agile-1280×720-March2023.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 Watermarks:
   description: 2025-05-07T13:13:53Z
   short_title: 2025-07-07T17:56:36Z
+preview: naked-agility-technically-agile-1280×720-March2023.jpg
+resourceTypes: newsletter
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

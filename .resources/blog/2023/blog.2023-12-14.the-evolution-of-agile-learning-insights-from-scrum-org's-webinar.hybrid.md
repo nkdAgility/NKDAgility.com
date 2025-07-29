@@ -5,10 +5,9 @@ description: Explores the shift from traditional to immersive Agile learning, hi
 date: 2023-12-14
 weight: 840
 ResourceId: Ax5c4JFICyO
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-evolution-of-agile-learning-insights-from-scrum-org's-webinar
 aliases:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -25,22 +24,21 @@ aliasesArchive:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum.org-s-webinar
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
-ResourceImportId: 50979
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 Watermarks:
   description: 2025-05-07T13:06:58Z
   short_title: 2025-07-07T17:50:46Z
+ResourceImportId: 50979
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love ([Scrum]({{< ref "/categories/scrum" >}}).org [Product Owner]({{< ref "/tags/product-owner" >}})) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.

@@ -42,12 +42,12 @@ tags:
 - Systems Thinking
 - Agile Strategy
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:18Z
   short_title: 2025-07-07T17:50:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: QBX7dnUBzo8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg

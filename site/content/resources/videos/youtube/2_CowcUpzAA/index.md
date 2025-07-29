@@ -32,12 +32,12 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:30Z
   short_title: 2025-07-07T17:51:29Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 2_CowcUpzAA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg

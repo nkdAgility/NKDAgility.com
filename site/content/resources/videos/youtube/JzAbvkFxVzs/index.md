@@ -33,12 +33,12 @@ tags:
 - Agile Transformation
 - Agile Product Management
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:42Z
   short_title: 2025-07-07T17:50:30Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: JzAbvkFxVzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg

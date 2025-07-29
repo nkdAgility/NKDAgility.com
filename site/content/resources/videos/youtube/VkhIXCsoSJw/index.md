@@ -42,12 +42,12 @@ tags:
 - Market Adaptability
 - Flow Efficiency
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:59Z
   short_title: 2025-07-07T17:47:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: VkhIXCsoSJw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg

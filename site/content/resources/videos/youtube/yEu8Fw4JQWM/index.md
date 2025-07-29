@@ -33,12 +33,12 @@ tags:
 - Flow Efficiency
 - Throughput
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:37Z
   short_title: 2025-07-07T17:55:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: yEu8Fw4JQWM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg

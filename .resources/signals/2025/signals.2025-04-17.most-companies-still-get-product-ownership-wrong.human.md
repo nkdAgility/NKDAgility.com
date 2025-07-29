@@ -7,12 +7,24 @@ weight: 595
 ResourceId: n7KbcPbUTTe
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: most-companies-still-get-product-ownership-wrong
 aliases:
 - /resources/n7KbcPbUTTe
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Accountability
+categories:
+- Product Management
+- Product Development
+tags:
+- Agile Product Management
+- Product Owner
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Product Strategy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7318657142905851904
@@ -27,18 +39,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:23Z
   short_title: 2025-07-07T16:44:49Z
-concepts:
-- Accountability
-categories:
-- Product Management
-- Product Development
-tags:
-- Agile Product Management
-- Product Owner
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Product Strategy
 
 ---
 Most companies still get Product Ownership wrong. They either treat it as a glorified backlog manager or assume any business analyst can do the job. But a real Product Owner isn’t just an order taker. They are a product strategist, decision-maker, and stakeholder wrangler, responsible for maximising product value.

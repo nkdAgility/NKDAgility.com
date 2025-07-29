@@ -28,12 +28,12 @@ categories:
 tags:
 - Pragmatic Thinking
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:54Z
   short_title: 2025-07-07T17:46:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Tz784ysJX7Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg

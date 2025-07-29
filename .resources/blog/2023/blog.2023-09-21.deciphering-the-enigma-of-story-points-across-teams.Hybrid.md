@@ -5,10 +5,9 @@ description: Explains why Story Points are subjective and unsuitable for compari
 date: 2023-09-21
 weight: 330
 ResourceId: LKp5S7_4Kbw
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
+layout: blog
 concepts: []
 categories:
 - Product Development
@@ -31,16 +31,14 @@ tags:
 - Pragmatic Thinking
 - Throughput
 - Team Performance
-ResourceContentOrigin: Hybrid
-ResourceImportId: 49888
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 Watermarks:
   description: 2025-05-07T13:09:25Z
   short_title: 2025-07-07T17:52:59Z
+ResourceImportId: 49888
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

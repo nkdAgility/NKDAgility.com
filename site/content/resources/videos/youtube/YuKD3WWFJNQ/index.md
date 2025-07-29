@@ -44,12 +44,12 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:28Z
   short_title: 2025-07-07T17:52:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: YuKD3WWFJNQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg

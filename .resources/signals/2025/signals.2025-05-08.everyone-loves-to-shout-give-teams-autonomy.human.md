@@ -7,26 +7,12 @@ weight: 355
 ResourceId: 5nkzevV2xKG
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: everyone-loves-to-shout-give-teams-autonomy
 aliases:
 - /resources/5nkzevV2xKG
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326267302268592129
-  post_id: "7326267302268592129"
-  post_date: 2025-05-08T14:30:40Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:54:56Z
-  short_title: 2025-07-07T16:44:23Z
+layout: signal
 concepts:
 - Strategy
 categories:
@@ -49,6 +35,20 @@ tags:
 - Social Technologies
 - Professional Scrum
 - Team Collaboration
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326267302268592129
+  post_id: "7326267302268592129"
+  post_date: 2025-05-08T14:30:40Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:54:56Z
+  short_title: 2025-07-07T16:44:23Z
 
 ---
 Everyone loves to shout “give teams autonomy.”

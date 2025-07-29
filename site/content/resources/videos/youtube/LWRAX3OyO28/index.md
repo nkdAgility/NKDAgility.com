@@ -38,12 +38,12 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Working Software
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:52Z
   short_title: 2025-07-07T17:47:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: LWRAX3OyO28
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w

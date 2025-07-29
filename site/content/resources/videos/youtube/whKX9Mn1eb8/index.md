@@ -33,12 +33,12 @@ tags:
 - Operational Practices
 - Product Delivery
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:07Z
   short_title: 2025-07-07T17:47:29Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: whKX9Mn1eb8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg

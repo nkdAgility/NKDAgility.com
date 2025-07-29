@@ -30,12 +30,12 @@ categories:
 - Scrum
 tags:
 - Personal
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:11Z
   short_title: 2025-07-07T17:55:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: Dl5v4j1f-WE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg

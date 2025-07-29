@@ -33,12 +33,12 @@ tags:
 - Customer Focus
 - Customer Feedback Loops
 - Market Adaptability
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:01:59Z
   short_title: 2025-07-07T17:48:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: swHtVLD9690
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg

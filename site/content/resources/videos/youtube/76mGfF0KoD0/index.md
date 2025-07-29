@@ -31,12 +31,12 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:22Z
   short_title: 2025-07-07T17:56:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg

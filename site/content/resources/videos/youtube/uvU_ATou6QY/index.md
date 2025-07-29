@@ -31,12 +31,12 @@ categories:
 tags:
 - Product Owner
 - Agile Product Management
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:21Z
   short_title: 2025-07-07T17:52:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg

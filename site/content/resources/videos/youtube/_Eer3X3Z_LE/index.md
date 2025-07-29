@@ -28,12 +28,12 @@ categories:
 tags:
 - Product Backlog
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:22Z
   short_title: 2025-07-07T17:55:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: _Eer3X3Z_LE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg

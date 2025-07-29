@@ -4,25 +4,22 @@ short_title: Delivery Is the Only Measure in Scrum
 description: Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.
 date: 2025-02-03T09:00:00
 weight: 175
-ResourceId: jBIyK6NW3ZB
-ResourceImport: false
-ResourceType: blog
-slug: delivery-is-the-only-measure-of-progress-in-scrum
-aliases:
-- /resources/jBIyK6NW3ZB
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
 contributors:
 - name: Ana Kotevska
   external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
-layout: blog
-resourceTypes: blog
+ResourceId: jBIyK6NW3ZB
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+slug: delivery-is-the-only-measure-of-progress-in-scrum
+aliases:
+- /resources/jBIyK6NW3ZB
 aliasesArchive:
 - /delivery-is-the-only-measure-of-progress
 - /blog/delivery-is-the-only-measure-of-progress
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+layout: blog
 concepts:
 - Principle
 categories:
@@ -45,7 +42,6 @@ tags:
 - Frequent Releases
 - Agile Product Management
 - Technical Excellence
-preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/delivery-only-measure-progress-scrum
@@ -54,6 +50,10 @@ platform_signals:
 Watermarks:
   description: 2025-05-07T12:49:51Z
   short_title: 2025-07-07T17:46:52Z
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---
 As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.

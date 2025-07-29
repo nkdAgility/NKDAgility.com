@@ -32,12 +32,12 @@ categories:
 - Scrum
 tags:
 - Scrum Master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:57Z
   short_title: 2025-07-07T17:54:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: WTd-8mOlFfQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg

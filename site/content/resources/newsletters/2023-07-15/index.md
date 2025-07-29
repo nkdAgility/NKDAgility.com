@@ -22,11 +22,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-preview: nkdagility-agile-2023-Scotland-Experiance.png
-resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:10:37Z
   short_title: 2025-07-07T17:53:54Z
+preview: nkdagility-agile-2023-Scotland-Experiance.png
+resourceTypes: newsletter
 
 ---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

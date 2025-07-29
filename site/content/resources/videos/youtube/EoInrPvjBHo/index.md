@@ -40,12 +40,12 @@ tags:
 - Product Delivery
 - Self Organisation
 - Agile Product Management
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:30Z
   short_title: 2025-07-07T17:50:20Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: EoInrPvjBHo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg

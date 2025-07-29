@@ -31,12 +31,12 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Operational Practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:18Z
   short_title: 2025-07-07T17:49:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg

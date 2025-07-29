@@ -37,12 +37,12 @@ tags:
 - Business Agility
 - Change Management
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:47Z
   short_title: 2025-07-07T17:58:09Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg

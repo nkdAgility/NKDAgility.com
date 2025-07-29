@@ -7,26 +7,12 @@ weight: 160
 ResourceId: -hq1U7x2uea
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: every-delay-increases-the-risk-of-failure
 aliases:
 - /resources/-hq1U7x2uea
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7294671658643017729
-  post_id: "7294671658643017729"
-  post_date: 2025-02-10T11:00:51Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:57:01Z
-  short_title: 2025-07-07T17:46:36Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -49,6 +35,20 @@ tags:
 - Operational Practices
 - Decision Making
 - Continuous Improvement
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7294671658643017729
+  post_id: "7294671658643017729"
+  post_date: 2025-02-10T11:00:51Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:57:01Z
+  short_title: 2025-07-07T17:46:36Z
 
 ---
 Every delay increases the risk of failure.

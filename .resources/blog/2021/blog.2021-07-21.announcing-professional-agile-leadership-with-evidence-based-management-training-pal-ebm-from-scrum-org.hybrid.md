@@ -5,10 +5,9 @@ description: Learn about Scrum.org’s new PAL-EBM training, which helps leaders
 date: 2021-07-21
 weight: 750
 ResourceId: XuePm2RAZa0
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum-org
 aliases:
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -27,6 +26,7 @@ aliasesArchive:
 - /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 - /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
+layout: blog
 concepts: []
 categories:
 - Leadership
@@ -36,15 +36,13 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-ResourceContentOrigin: Hybrid
-ResourceImportId: 46257
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 Watermarks:
   description: 2025-05-07T13:14:55Z
   short_title: 2025-07-07T17:57:29Z
+ResourceImportId: 46257
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.

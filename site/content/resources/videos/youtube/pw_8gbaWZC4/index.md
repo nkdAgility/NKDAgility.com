@@ -32,12 +32,12 @@ tags:
 - Operational Practices
 - Transparency
 - Pragmatic Thinking
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:25Z
   short_title: 2025-07-07T17:49:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg

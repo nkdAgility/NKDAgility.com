@@ -40,6 +40,9 @@ tags:
 - Social Technologies
 - Pragmatic Thinking
 - Engineering Practices
+Watermarks:
+  description: 2025-05-07T20:51:36Z
+  short_title: 2025-07-07T16:44:14Z
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,9 +53,6 @@ duration: 51
 resourceTypes:
 - video
 isShort: true
-Watermarks:
-  description: 2025-05-07T20:51:36Z
-  short_title: 2025-07-07T16:44:14Z
 
 ---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.

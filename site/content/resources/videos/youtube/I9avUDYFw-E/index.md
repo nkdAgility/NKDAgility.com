@@ -28,12 +28,12 @@ categories:
 tags:
 - Competence
 - Continuous Improvement
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:30Z
   short_title: 2025-07-07T17:47:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: I9avUDYFw-E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg

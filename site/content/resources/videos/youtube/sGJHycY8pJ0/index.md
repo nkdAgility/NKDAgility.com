@@ -30,6 +30,9 @@ tags:
 - Value Delivery
 - Lean Principles
 - Project Management
+Watermarks:
+  description: 2025-07-24T15:13:25Z
+  short_title: 2025-07-24T15:13:27Z
 videoId: sGJHycY8pJ0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sGJHycY8pJ0/maxresdefault.jpg
@@ -40,9 +43,6 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-Watermarks:
-  description: 2025-07-24T15:13:25Z
-  short_title: 2025-07-24T15:13:27Z
 
 ---
 The Open Guide to Kanban: A New Chapter in Collaborative Flow

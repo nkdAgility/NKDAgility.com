@@ -7,26 +7,12 @@ weight: 340
 ResourceId: 6Z5I3JPMECs
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: here-the-dirty-secret-behind-many-agile-transformations
 aliases:
 - /resources/6Z5I3JPMECs
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7324092939431813120
-  post_id: "7324092939431813120"
-  post_date: 2025-05-02T14:30:32Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:04Z
-  short_title: 2025-07-07T16:44:31Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -49,6 +35,20 @@ tags:
 - Agile Leadership
 - Agile Values and Principles
 - Organisational Psychology
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7324092939431813120
+  post_id: "7324092939431813120"
+  post_date: 2025-05-02T14:30:32Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:04Z
+  short_title: 2025-07-07T16:44:31Z
 
 ---
 Here’s the dirty secret behind many “agile transformations”:

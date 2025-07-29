@@ -42,12 +42,12 @@ tags:
 - Operational Practices
 - Agile Planning
 - Product Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:45Z
   short_title: 2025-07-07T17:49:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 videoId: O6rYL3EDUxM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
