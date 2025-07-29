@@ -20,9 +20,11 @@ aliasesArchive:
 - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
 - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
 - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
-concepts: []
+concepts:
+- Method
 categories:
 - Scrum
+- Product Development
 tags:
 - Agile Frameworks
 - Agile Planning

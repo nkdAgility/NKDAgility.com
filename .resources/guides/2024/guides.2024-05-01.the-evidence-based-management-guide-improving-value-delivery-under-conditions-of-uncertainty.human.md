@@ -12,10 +12,12 @@ ResourceType: guides
 ResourceContentOrigin: Human
 slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
 aliases:
+- /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 - /resources/ltc7lzhy14U
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
+- /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
 layout: versioned
 concepts:
 - Principle
@@ -140,7 +142,6 @@ The Experiment Loop (shown in Figure 1) helps organizations move from their Curr
 - **Running your experiments**. Make the change you think will help you to improve, and gather data to support or refute your hypothesis.
 - **Inspecting your results**. Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.
 - **Adapting your goals or your approach based on what you learned**. Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization's capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example:
-
   - Was the Immediate Tactical Goal the right goal?
   - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted?
   - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time?

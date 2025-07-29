@@ -17,8 +17,10 @@ aliasesArchive:
 - /training-courses/professional-agile-leadership-essentials-training-with-certification
 - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
 - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
-concepts: []
+concepts:
+- Discipline
 categories:
+- Product Development
 - Leadership
 - Technical Leadership
 tags:

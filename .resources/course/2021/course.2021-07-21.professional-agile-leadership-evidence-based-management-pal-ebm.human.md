@@ -27,13 +27,15 @@ aliasesArchive:
 - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 - /capabilities/evidence-based-leadership/
 concepts:
-- Strategy
+- Principle
 categories:
+- Product Development
 - Leadership
 - Product Management
-- Technical Leadership
 tags:
+- Customer Focus
 - Metrics and Learning
+- Project Management
 - Ability to Innovate
 - Agile Frameworks
 - Agile Leadership
@@ -46,8 +48,6 @@ tags:
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership
-- Experimentation
-- Market Adaptability
 card:
   button:
     content: ""

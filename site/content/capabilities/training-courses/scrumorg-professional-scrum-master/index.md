@@ -18,8 +18,10 @@ aliasesArchive:
 - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
 - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
-concepts: []
+concepts:
+- Framework
 categories:
+- Product Development
 - Scrum
 - Technical Leadership
 tags:
@@ -32,12 +34,12 @@ tags:
 - Coaching
 - Complexity Thinking
 - Continuous Learning
-- Definition of Done
 - Empirical Process Control
 - Operational Practices
 - Organisational Agility
 - Pragmatic Thinking
-- Product Backlog
+- Product Delivery
+- Professional Scrum
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.

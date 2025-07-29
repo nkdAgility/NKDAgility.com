@@ -18,7 +18,8 @@ aliasesArchive:
 - /training-courses/applying-flow-metrics-for-scrum/
 - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
 - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-concepts: []
+concepts:
+- Practice
 categories:
 - Scrum
 - Product Development

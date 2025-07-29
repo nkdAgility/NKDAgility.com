@@ -20,10 +20,13 @@ aliasesArchive:
 - /training-courses/practicing-kanban-using-azure-boards
 - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
-concepts: []
+concepts:
+- Tool
 categories:
+- Product Development
 - Kanban
 tags:
+- Definition of Workflow
 - Agile Frameworks
 - Azure Boards
 - Azure DevOps

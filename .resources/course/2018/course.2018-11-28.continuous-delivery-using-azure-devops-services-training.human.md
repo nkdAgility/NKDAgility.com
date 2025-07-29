@@ -15,9 +15,11 @@ aliasesArchive:
 - /training-courses/continuous-delivery-using-azure-devops-services
 - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
 - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
-concepts: []
+concepts:
+- Tool
 categories:
 - Engineering Excellence
+- Product Development
 tags:
 - Azure DevOps
 - Continuous Learning

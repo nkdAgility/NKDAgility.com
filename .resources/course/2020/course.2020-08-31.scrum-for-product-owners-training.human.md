@@ -18,15 +18,17 @@ aliasesArchive:
 - /training-courses/scrum-for-product-owners
 - /training-courses/scrum-for-product-owners-training/
 - /capabilities/training-courses/accentient/scrum-for-product-owners-training
-concepts: []
+concepts:
+- Practice
 categories:
+- Product Development
 - Scrum
 - Product Management
 tags:
+- Product Backlog
 - Agile Frameworks
 - Agile Product Management
 - Backlog Refinement
-- Product Backlog
 - Product Owner
 - Professional Scrum
 - Scrum Team

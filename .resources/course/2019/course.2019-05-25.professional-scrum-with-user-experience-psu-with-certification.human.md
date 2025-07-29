@@ -17,9 +17,10 @@ aliasesArchive:
 - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
 - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
+- Product Development
 tags:
 - Agile Frameworks
 - Agile Product Management

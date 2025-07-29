@@ -18,8 +18,9 @@ aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
 concepts:
-- Strategy
+- Accountability
 categories:
+- Product Development
 - Product Management
 - Scrum
 tags:
@@ -35,9 +36,9 @@ tags:
 - Market Adaptability
 - Organisational Agility
 - Pragmatic Thinking
-- Product Backlog
 - Product Delivery
 - Professional Scrum
+- Scrum Team
 card:
   title: Professional Scrum Product Owner
   content: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.

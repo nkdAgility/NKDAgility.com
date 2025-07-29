@@ -16,7 +16,8 @@ aliases:
 aliasesArchive:
 - /training-courses/agile-workshops/agile-kata-professional/
 - /akp/
-concepts: []
+concepts:
+- Practice
 categories:
 - Uncategorized
 tags:

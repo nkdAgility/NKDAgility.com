@@ -20,8 +20,10 @@ aliasesArchive:
 - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
 - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
-concepts: []
+concepts:
+- Discipline
 categories:
+- Product Development
 - Product Management
 - Scrum
 tags:

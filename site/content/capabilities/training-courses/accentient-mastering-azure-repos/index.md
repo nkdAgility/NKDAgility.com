@@ -18,7 +18,8 @@ aliasesArchive:
 - /training-courses/mastering-azure-repos
 - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
 - /capabilities/training-courses/accentient/mastering-azure-repos-training
-concepts: []
+concepts:
+- Tool
 categories:
 - Engineering Excellence
 tags:

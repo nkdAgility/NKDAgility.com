@@ -16,7 +16,8 @@ aliases:
 aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
-concepts: []
+concepts:
+- Practice
 categories:
 - Scrum
 tags:

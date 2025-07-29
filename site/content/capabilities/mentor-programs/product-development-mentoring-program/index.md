@@ -3,7 +3,7 @@ title: Product Development Mentoring Program
 short_title: Product Development Mentoring Program
 description: Mentoring program for developers and teams to master Agile, DevOps, Kanban, and evidence-based practices, fostering engineering excellence and leadership skills.
 date: 2024-03-20
-weight: 1000
+weight: 70
 ResourceId: JVKfZqwgHRO
 ResourceImport: false
 ResourceType: mentor-program
@@ -18,10 +18,28 @@ aliasesArchive:
 - /capabilities/product-development-mentoing-program/
 - /capabilities/product-development-mentoring-program/
 - /NKD-PDMP/
-concepts: []
+concepts:
+- Capability
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Product Development
+- Technical Leadership
+tags:
+- Software Development
+- Competence
+- Operational Practices
+- Mentoring
+- Agile Frameworks
+- Continuous Learning
+- Pragmatic Thinking
+- Value Delivery
+- Organisational Agility
+- Product Delivery
+- Social Technologies
+- Market Adaptability
+- Technical Mastery
+- Team Performance
+- Engineering Practices
 card:
   button:
     content: Enhance Your Teams Skills

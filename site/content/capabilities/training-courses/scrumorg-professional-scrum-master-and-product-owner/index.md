@@ -16,8 +16,10 @@ aliases:
 aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
-concepts: []
+concepts:
+- Method
 categories:
+- Product Development
 - Scrum
 - Product Management
 tags:
@@ -27,7 +29,6 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Organisational Agility
-- Product Backlog
 - Product Delivery
 - Product Owner
 - Scrum Team

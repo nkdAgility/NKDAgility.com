@@ -3,7 +3,7 @@ title: Mentor Programs
 short_title: Agile Training for Scrum Masters & Teams
 description: Training courses provide Agile skills for Scrum Masters, Product Owners, and teams, offering immersive and traditional learning tailored to each role’s needs.
 date: 2024-06-12
-weight: 1000
+weight: 635
 ResourceId: KdeR9TbfRD_
 ResourceImport: false
 ResourceType: capabilities

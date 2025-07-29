@@ -20,10 +20,13 @@ aliasesArchive:
 - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
 - /A-MPAB/
 - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
-concepts: []
+concepts:
+- Tool
 categories:
-- Uncategorized
+- Product Development
 tags:
+- Project Management
+- Product Backlog
 - Agile Planning
 - Agile Planning Tools
 - Azure Boards
@@ -31,7 +34,6 @@ tags:
 - Collaboration Tools
 - Operational Practices
 - Pragmatic Thinking
-- Product Backlog
 - Product Delivery
 - Software Development
 card:

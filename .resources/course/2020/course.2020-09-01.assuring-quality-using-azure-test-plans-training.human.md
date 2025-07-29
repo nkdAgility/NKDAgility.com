@@ -20,7 +20,8 @@ aliasesArchive:
 - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
 - /AD-QA/
 - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
-concepts: []
+concepts:
+- Tool
 categories:
 - Engineering Excellence
 tags:

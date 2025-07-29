@@ -17,9 +17,10 @@ aliasesArchive:
 - /training-courses/professional-scrum-with-kanban-training-with-certification
 - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
+- Product Development
 tags:
 - Agile Frameworks
 - Agile Transformation

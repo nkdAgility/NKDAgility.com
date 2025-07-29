@@ -3,7 +3,7 @@ title: OKR Practitioner
 short_title: OKR Practitioner
 description: Learn to apply OKRs effectively, write clear objectives and key results, integrate them into daily work, and avoid common pitfalls in this beginner-friendly course.
 date: 2025-07-01
-weight: 1000
+weight: 810
 ResourceId: JB8YQfj4tUY
 ResourceImport: false
 ResourceType: course
@@ -11,10 +11,13 @@ ResourceContentOrigin: human
 slug: okr-practitioner
 aliases:
 - /resources/JB8YQfj4tUY
-concepts: []
+concepts:
+- Framework
 categories:
 - Uncategorized
-tags: []
+tags:
+- Objective Key Results
+- Common Goals
 Watermarks:
   description: 2025-07-29T15:00:49Z
   short_title: 2025-07-29T15:00:50Z

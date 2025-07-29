@@ -18,11 +18,14 @@ aliasesArchive:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
 - /capabilities/training-courses/accentient/scrum-for-executives
-concepts: []
+concepts:
+- Framework
 categories:
+- Product Development
 - Scrum
 tags:
 - Agile Frameworks
+- Project Management
 - Agile Transformation
 - Organisational Agility
 - Professional Scrum

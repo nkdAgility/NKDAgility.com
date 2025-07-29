@@ -17,12 +17,13 @@ aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 concepts:
-- Strategy
+- Artifact
 categories:
 - Scrum
 - Product Development
 - Product Management
 tags:
+- Product Backlog
 - Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
@@ -30,7 +31,6 @@ tags:
 - Agile Transformation
 - Backlog Refinement
 - Pragmatic Thinking
-- Product Backlog
 - Product Delivery
 - Product Owner
 - Professional Scrum

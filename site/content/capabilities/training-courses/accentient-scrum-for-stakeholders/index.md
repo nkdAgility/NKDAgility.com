@@ -18,10 +18,13 @@ aliasesArchive:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
 - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
-concepts: []
+concepts:
+- Practice
 categories:
+- Product Development
 - Scrum
 tags:
+- Project Management
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation

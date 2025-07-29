@@ -3,7 +3,7 @@ title: Product Management Mentor Program
 short_title: Product Management Mentor Program
 description: Mentoring program for product managers and leaders to master Agile, product management, UX, and evidence-based decision-making, with Scrum.org certification options.
 date: 2024-03-19
-weight: 1000
+weight: 540
 ResourceId: 3xZaUxPTiUZ
 ResourceImport: false
 ResourceType: mentor-program
@@ -16,10 +16,28 @@ aliases:
 aliasesArchive:
 - /capabilities/product-management-mentor-program/
 - /NKD-PMMP/
-concepts: []
+concepts:
+- Capability
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Product Management
+- Leadership
+tags:
+- Agile Product Management
+- Mentoring
+- Competence
+- Agile Strategy
+- Organisational Agility
+- Social Technologies
+- Market Adaptability
+- Agile Product Operating Model
+- Continuous Improvement
+- Decision Making
+- Continuous Learning
+- Business Agility
+- Agile Frameworks
+- Pragmatic Thinking
+- Value Delivery
 card:
   button:
     content: Become a Visionary Leader!

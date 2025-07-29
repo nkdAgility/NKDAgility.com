@@ -23,8 +23,10 @@ aliasesArchive:
 - /training-courses/applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
 - /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 - /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
-concepts: []
+concepts:
+- Practice
 categories:
+- Product Development
 - Scrum
 - Engineering Excellence
 tags:

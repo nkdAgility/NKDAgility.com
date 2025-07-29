@@ -19,10 +19,13 @@ aliasesArchive:
 - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
 - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
 - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
-concepts: []
+concepts:
+- Framework
 categories:
+- Product Development
 - Scrum
 tags:
+- Scaling
 - Agile Frameworks
 - Large Scale Agility
 - Professional Scrum
