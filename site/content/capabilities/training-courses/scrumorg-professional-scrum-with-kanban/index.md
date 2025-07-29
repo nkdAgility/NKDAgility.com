@@ -27,7 +27,7 @@ aliasesArchive:
 course_topics:
   - Scrum Training Courses
 course_vendors:
-  - Scrum.org
+  - Scrumorg
 course_learning_experiences:
   - Traditional
 delivery_audiences:

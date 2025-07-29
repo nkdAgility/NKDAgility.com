@@ -29,7 +29,7 @@ aliasesArchive:
 course_topics:
   - Kanban Training Courses
 course_vendors:
-  - ProKanban.org
+  - ProKanbanorg
 course_learning_experiences:
   - Traditional
 delivery_audiences:
