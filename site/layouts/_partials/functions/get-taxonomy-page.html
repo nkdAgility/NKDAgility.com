@@ -22,8 +22,7 @@
 {{- $termPage := false -}}
 
 {{- /* Debug information */ -}}
-{{- warnf "get-taxonomy-page called with: taxonomyName=%q, termName=%q, site type=%T" $taxonomyName $termName $site -}}
-
+{{/* {{- warnf "get-taxonomy-page called with: taxonomyName=%q, termName=%q, site type=%T" $taxonomyName $termName $site -}} */}}
 {{- if and $taxonomyName $termName $site -}}
   {{- $urlizedTerm := urlize $termName -}}
   {{- $termPath := printf "/%s/%s" $taxonomyName $urlizedTerm -}}
@@ -42,7 +41,7 @@
       {{- warnf "No taxonomy found for: %s" $taxonomyName -}}
     {{- end -}}
   {{- else -}}
-    {{- warnf "Found taxonomy page: %s" $termPath -}}
+    {{/* {{- warnf "Found taxonomy page: %s" $termPath -}} */}}
   {{- end -}}
 {{- else -}}
   {{- warnf "get-taxonomy-page: Missing required parameters - taxonomyName: %q, termName: %q, site: %t" $taxonomyName $termName (ne $site nil) -}}
