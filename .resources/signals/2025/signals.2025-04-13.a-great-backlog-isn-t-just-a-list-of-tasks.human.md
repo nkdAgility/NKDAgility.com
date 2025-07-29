@@ -7,12 +7,21 @@ weight: 670
 ResourceId: y8KN3uMGjey
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: a-great-backlog-isn-t-just-a-list-of-tasks
 aliases:
 - /resources/y8KN3uMGjey
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Strategy
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Backlog
+- Product Strategy
+- Agile Product Management
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7317207510346600448
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:31Z
   short_title: 2025-07-07T16:44:54Z
-concepts:
-- Strategy
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Backlog
-- Product Strategy
-- Agile Product Management
 
 ---
 A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.

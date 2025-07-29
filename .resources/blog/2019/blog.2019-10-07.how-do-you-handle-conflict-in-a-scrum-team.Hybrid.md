@@ -5,24 +5,19 @@ description: Guidance on resolving conflict in Scrum Teams, including facilitati
 date: 2019-10-07
 weight: 610
 ResourceId: xIWBb8Cy_Rv
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
 - /resources/xIWBb8Cy_Rv
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39851
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team-
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
+layout: blog
 concepts:
 - Method
 categories:
@@ -37,6 +32,9 @@ tags:
 - Team Collaboration
 - Scrum Master
 - Pragmatic Thinking
+ResourceImportId: 39851
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: 1061204442-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:07Z

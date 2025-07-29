@@ -19,15 +19,15 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-draft: true
 card:
   button:
     content: Learn More
   content: Discover more about Market Focus and how it can help you in your Agile journey!
   title: Market Focus
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 Watermarks:
   description: 2025-05-07T12:57:49Z
   short_title: 2025-07-07T17:48:06Z

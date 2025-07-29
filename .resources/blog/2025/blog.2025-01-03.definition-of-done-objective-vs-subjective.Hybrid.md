@@ -7,6 +7,7 @@ weight: 180
 ResourceId: -Z5GGUOjc-d
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: definition-of-done-objective-vs-subjective
 aliases:
 - /resources/-Z5GGUOjc-d
@@ -19,6 +20,7 @@ aliasesArchive:
 - /blog/definition-of-done-objective-vs-subjective
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
+layout: blog
 concepts:
 - Artifact
 categories:
@@ -41,17 +43,15 @@ tags:
 - Technical Excellence
 - Team Performance
 - Working Software
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
   post_date: 2025-05-27T09:00:00Z
   post_type: crosspost
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 Watermarks:
   description: 2025-05-07T12:50:03Z
   short_title: 2025-07-07T17:47:03Z

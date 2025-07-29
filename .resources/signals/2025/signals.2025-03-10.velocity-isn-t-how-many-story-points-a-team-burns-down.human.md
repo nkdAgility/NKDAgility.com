@@ -7,26 +7,12 @@ weight: 105
 ResourceId: 14E6bk6Lmo4
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: velocity-isn-t-how-many-story-points-a-team-burns-down
 aliases:
 - /resources/14E6bk6Lmo4
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7304901359516958721
-  post_id: "7304901359516958721"
-  post_date: 2025-03-10T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:18Z
-  short_title: 2025-07-07T16:45:31Z
+layout: signal
 concepts:
 - Practice
 categories:
@@ -49,6 +35,20 @@ tags:
 - Azure DevOps
 - Flow Efficiency
 - Market Adaptability
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7304901359516958721
+  post_id: "7304901359516958721"
+  post_date: 2025-03-10T16:30:02Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:18Z
+  short_title: 2025-07-07T16:45:31Z
 
 ---
 Velocity isn’t how many story points a team burns down. It’s how quickly you can turn an idea into value. That’s why the Azure DevOps team measured it using four key metrics:

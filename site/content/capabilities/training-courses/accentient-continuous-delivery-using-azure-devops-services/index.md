@@ -1,33 +1,23 @@
 ---
 title: Continuous Delivery Using Azure DevOps Services Training
-description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
-ResourceId: Et_C1UNbGdO
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Continuous Delivery with Azure DevOps
+description: Learn DevOps principles and hands-on CI/CD using Azure DevOps Services, Visual Studio, and Azure to improve team collaboration, delivery, and continuous learning.
 date: 2018-11-28
 weight: 350
-creator: Martin Hinshelwood
-type: course
+ResourceId: Et_C1UNbGdO
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: continuous-delivery-using-azure-devops-services-training
-url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- /training-courses/continuous-delivery-using-azure-devops-services
-- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 - /resources/Et_C1UNbGdO
 aliasesArchive:
 - /training-courses/continuous-delivery-using-azure-devops-services
 - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
 - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
-course_topics:
-- Azure DevOps Training Courses
-course_vendors:
-- Accentient
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Developers
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Azure DevOps
 - Continuous Learning
@@ -42,16 +32,25 @@ tags:
 - Technical Mastery
 - Value Delivery
 - Working Software
-categories:
-- Engineering Excellence
-preview: pipelines-icon-80.png
-previewIcon: A-CDADS.png
-brandColour: 
 card:
   button:
     content: ""
   title: Continuous Delivery Using Azure DevOps Services Training
   content: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/azure-devops-training-courses/:slug/
+course_topics:
+- Azure DevOps Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Developers
+preview: pipelines-icon-80.png
+previewIcon: A-CDADS.png
+brandColour: 
 code: cdads
 course_proficiencies:
 - intermediate
@@ -75,6 +74,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:47Z
+  short_title: 2025-07-29T15:01:48Z
 
 ---
 # Continuous Delivery Using Azure DevOps Services Training

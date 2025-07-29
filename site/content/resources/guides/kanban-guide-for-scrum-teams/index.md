@@ -41,6 +41,11 @@ tags:
 - Scrum Team
 - Pragmatic Thinking
 - Team Performance
+card:
+  button:
+    content: Learn More
+  content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
+  title: Kanban Guide for Scrum Teams
 resourceTypes: guide
 references:
 - title: The Kanban Guide for Scrum Teams on Scrum.org
@@ -53,11 +58,6 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
-  title: Kanban Guide for Scrum Teams
 Watermarks:
   description: 2025-05-07T12:58:08Z
   short_title: 2025-07-07T16:40:34Z

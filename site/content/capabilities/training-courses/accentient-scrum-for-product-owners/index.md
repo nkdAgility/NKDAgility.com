@@ -1,16 +1,14 @@
 ---
 title: Scrum for Product Owners Training
-description: Enhance your effectiveness as a Product Owner in this interactive class, featuring presentations, discussions, and hands-on activities to drive value in Scrum.
-ResourceId: qVBmvY9STVE
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Scrum for Product Owners Training
+description: Interactive course for Product Owners covering Scrum roles, backlog refinement, estimation, technical debt, and team collaboration through hands-on activities and discussions.
 date: 2020-08-31
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: qVBmvY9STVE
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: scrum-for-product-owners-training
-url: 
 aliases:
 - /training-courses/scrum-for-product-owners
 - /training-courses/scrum-for-product-owners-training/
@@ -20,15 +18,10 @@ aliasesArchive:
 - /training-courses/scrum-for-product-owners
 - /training-courses/scrum-for-product-owners-training/
 - /capabilities/training-courses/accentient/scrum-for-product-owners-training
-course_topics:
-- Scrum Training Courses
-course_vendors:
-- Accentient
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Entrepreneurs
-- Product Managers
+concepts: []
+categories:
+- Scrum
+- Product Management
 tags:
 - Agile Frameworks
 - Agile Product Management
@@ -39,12 +32,6 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
-categories:
-- Scrum
-- Product Management
-preview: 
-previewIcon: A-S4PO.png
-brandColour: 
 card:
   button:
     content: ""
@@ -52,6 +39,21 @@ card:
   content: |2
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
+creator: Martin Hinshelwood
+type: course
+url: 
+course_topics:
+- Scrum Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Entrepreneurs
+- Product Managers
+preview: 
+previewIcon: A-S4PO.png
+brandColour: 
 code: S4PO
 course_proficiencies:
 - beginner
@@ -84,6 +86,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:27Z
+  short_title: 2025-07-29T15:01:28Z
 
 ---
 # Scrum for Product Owners Training

@@ -7,26 +7,12 @@ weight: 390
 ResourceId: CHfV0DI2Plv
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: hiring-a-scrum-master-is-hard
 aliases:
 - /resources/CHfV0DI2Plv
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7296928820975026176
-  post_id: "7296928820975026176"
-  post_date: 2025-02-16T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:56Z
-  short_title: 2025-07-07T17:46:28Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -42,6 +28,20 @@ tags:
 - Professional Scrum
 - Software Development
 - Social Technologies
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7296928820975026176
+  post_id: "7296928820975026176"
+  post_date: 2025-02-16T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:56Z
+  short_title: 2025-07-07T17:46:28Z
 
 ---
 Hiring a Scrum Master is hard. Not because the role is rare—there are plenty of CVs with “Scrum Master” slapped on them—but because too many organisations still don’t know what they actually need.

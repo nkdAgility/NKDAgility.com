@@ -7,26 +7,12 @@ weight: 510
 ResourceId: uLNzs9NgPZI
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: lack-of-authority-blocks-progress-on-critical-projects
 aliases:
 - /resources/uLNzs9NgPZI
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307075682646327297
-  post_id: "7307075682646327297"
-  post_date: 2025-03-16T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:08Z
-  short_title: 2025-07-07T16:45:25Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -41,6 +27,20 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307075682646327297
+  post_id: "7307075682646327297"
+  post_date: 2025-03-16T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:08Z
+  short_title: 2025-07-07T16:45:25Z
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove an obstacle, you’re told you don’t have the authority to do so.

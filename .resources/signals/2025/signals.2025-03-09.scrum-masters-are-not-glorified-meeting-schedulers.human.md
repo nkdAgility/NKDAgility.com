@@ -7,12 +7,25 @@ weight: 110
 ResourceId: ASC0IjY5nKr
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-masters-are-not-glorified-meeting-schedulers
 aliases:
 - /resources/ASC0IjY5nKr
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Technical Leadership
+- Engineering Excellence
+tags:
+- Software Development
+- Technical Mastery
+- Competence
+- Engineering Practices
+- Product Delivery
+- Operational Practices
+- Pragmatic Thinking
+- Technical Excellence
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7304538965708013569
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:19Z
   short_title: 2025-07-07T16:45:32Z
-concepts: []
-categories:
-- Technical Leadership
-- Engineering Excellence
-tags:
-- Software Development
-- Technical Mastery
-- Competence
-- Engineering Practices
-- Product Delivery
-- Operational Practices
-- Pragmatic Thinking
-- Technical Excellence
 
 ---
 Scrum Masters are not glorified meeting schedulers.

@@ -7,26 +7,12 @@ weight: 220
 ResourceId: cbyRy2IJmM0
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: why-tracking-individual-cycle-time-distorts-team-behaviour
 aliases:
 - /resources/cbyRy2IJmM0
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7305626135789273089
-  post_id: "7305626135789273089"
-  post_date: 2025-03-12T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:15Z
-  short_title: 2025-07-07T16:45:28Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -49,6 +35,20 @@ tags:
 - Continuous Improvement
 - Organisational Agility
 - Product Delivery
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7305626135789273089
+  post_id: "7305626135789273089"
+  post_date: 2025-03-12T16:30:03Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:15Z
+  short_title: 2025-07-07T16:45:28Z
 
 ---
 When you track individual's cycle time, you aren’t just measuring the wrong thing—you’re actively distorting behaviour.

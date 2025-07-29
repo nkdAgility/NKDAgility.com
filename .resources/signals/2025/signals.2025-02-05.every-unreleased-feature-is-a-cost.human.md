@@ -7,26 +7,12 @@ weight: 325
 ResourceId: PNGuJocqSoD
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: every-unreleased-feature-is-a-cost
 aliases:
 - /resources/PNGuJocqSoD
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7292942555711746052
-  post_id: "7292942555711746052"
-  post_date: 2025-02-05T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:57:08Z
-  short_title: 2025-07-07T17:46:50Z
+layout: signal
 concepts:
 - Tenet
 categories:
@@ -46,6 +32,20 @@ tags:
 - Time to Market
 - Release Management
 - Agile Philosophy
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7292942555711746052
+  post_id: "7292942555711746052"
+  post_date: 2025-02-05T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:57:08Z
+  short_title: 2025-07-07T17:46:50Z
 
 ---
 Every unreleased feature is a cost.

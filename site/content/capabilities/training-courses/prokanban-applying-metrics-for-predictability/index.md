@@ -1,16 +1,14 @@
 ---
 title: Applying Metrics for Predictability
-description: Master agile metrics and forecasting in our 8-week course, "Applying Metrics for Predictability," to enhance project success and decision-making.
-ResourceId: dnZMM8p0lC4
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Applying Metrics for Predictability
+description: Learn to use agile metrics, flow analytics, and Monte Carlo simulation to improve project predictability, risk management, and data-driven decisions in real-world projects.
 date: 2024-01-12
 weight: 500
-creator: Martin Hinshelwood
-type: course
+ResourceId: dnZMM8p0lC4
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: applying-metrics-for-predictability
-url: /training-courses/kanban-training-courses/:slug/
 aliases:
 - /training-courses/applying-metrics-for-predictability/
 - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
@@ -20,6 +18,26 @@ aliasesArchive:
 - /training-courses/applying-metrics-for-predictability/
 - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
 - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+concepts: []
+categories:
+- Product Development
+tags:
+- Metrics and Learning
+- Agile Planning
+- Decision Making
+- Flow Efficiency
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Throughput
+card:
+  button:
+    content: ""
+  title: Applying Metrics for Predictability
+  content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
+creator: Martin Hinshelwood
+type: course
+url: /training-courses/kanban-training-courses/:slug/
 course_topics:
 - Kanban Training Courses
 course_vendors:
@@ -30,26 +48,9 @@ delivery_audiences:
 - Teams
 - Product Owners
 - Lean Agile Practitioners
-tags:
-- Metrics and Learning
-- Agile Planning
-- Decision Making
-- Flow Efficiency
-- Forecasting
-- Operational Practices
-- Pragmatic Thinking
-- Throughput
-- Estimation
-categories:
-- Product Development
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Applying Metrics for Predictability
-  content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
 code: AMP
 course_proficiencies:
 - intermediate
@@ -82,6 +83,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:00:57Z
+  short_title: 2025-07-29T15:00:59Z
 
 ---
 # Applying Metrics for Predictability

@@ -7,12 +7,14 @@ weight: 1000
 ResourceId: HzW0lKldLP9
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 slug: value-based-prioritization
 aliases:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 - /resources/HzW0lKldLP9
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+layout: principles
 concepts: []
 categories:
 - Product Management
@@ -20,17 +22,15 @@ categories:
 tags:
 - Product Backlog
 - Value Delivery
-ResourceContentOrigin: Human
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-layout: principles
-draft: true
 card:
   button:
     content: Learn More
   content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
   title: Value-based Prioritization
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 Watermarks:
   description: 2025-05-07T12:57:53Z
   short_title: 2025-07-07T17:48:08Z

@@ -1,17 +1,14 @@
 ---
 title: Professional Scrum Facilitation Skills (PSFS) with Certification
-description: Enhance your facilitation skills with our interactive course, empowering Scrum Teams to solve problems, build consensus, and foster transparency effectively.
-ResourceId: COuQsbI48JU
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
 short_title: Scrum Facilitation Skills
+description: Gain practical facilitation skills to improve Scrum team collaboration, decision making, and event effectiveness, with certification for experienced Agile practitioners.
 date: 2022-08-22
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: COuQsbI48JU
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-scrum-facilitation-skills-psfs-with-certification
-url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
 - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
@@ -19,6 +16,23 @@ aliases:
 aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
+concepts: []
+categories:
+- Scrum
+tags:
+- Agile Frameworks
+- Professional Scrum
+- Scrum Team
+- Team Collaboration
+- Team Performance
+card:
+  button:
+    content: ""
+  title: Professional Scrum Facilitation Skills (PSFS) with Certification
+  content: Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
 - Scrum Training Courses
 course_vendors:
@@ -31,25 +45,9 @@ delivery_audiences:
 - Product Managers
 - Teams
 - Lean Agile Practitioners
-tags:
-- Agile Frameworks
-- Professional Scrum
-- Scrum Team
-- Team Collaboration
-- Team Performance
-- Transparency
-- Social Technologies
-- Scrum Master
-categories:
-- Scrum
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Professional Scrum Facilitation Skills (PSFS) with Certification
-  content: Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
 code: PSFS
 course_proficiencies:
 - intermediate
@@ -79,6 +77,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:05Z
 
 ---
 ```markdown

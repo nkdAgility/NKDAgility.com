@@ -1,17 +1,14 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV)
-description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
-ResourceId: -IePwtEoXdo
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
 short_title: Product Discovery and Validation
+description: Gain practical skills in product discovery and validation, including experimentation, hypothesis testing, data analysis, and risk control for effective product development.
 date: 2024-07-11
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: -IePwtEoXdo
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-product-discovery-and-validation-skills-ppdv
-url: /capabilities/training-courses/product-training-courses/:slug/
 aliases:
 - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
@@ -21,6 +18,26 @@ aliasesArchive:
 - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
 - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+concepts: []
+categories:
+- Product Management
+tags:
+- Decision Making
+- Experimentation
+- Hypothesis Driven Development
+- Metrics and Learning
+- Pragmatic Thinking
+- Product Discovery
+- Product Validation
+- Value Delivery
+card:
+  button:
+    content: ""
+  title: Professional Product Discovery and Validation Skills (PPDV)
+  content: This one-day course on product discovery and validation equips participants with essential hands-on skills to enhance value creation in product development. It covers key techniques for both new product development and improving existing products, focusing on experimentation, evidence collection, and risk control. Through an ongoing case study, students will learn practical methods to apply in their workplace, helping Product Owners, Managers, and teams drive customer outcomes, improve ROI, and adopt an iterative, user-centric approach to product development.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/product-training-courses/:slug/
 course_topics:
 - Scrum Training Courses
 - Product Training Courses
@@ -32,26 +49,9 @@ delivery_audiences:
 - Product Owners
 - Product Managers
 - Teams
-tags:
-- Decision Making
-- Experimentation
-- Hypothesis Driven Development
-- Metrics and Learning
-- Pragmatic Thinking
-- Product Discovery
-- Product Validation
-- Value Delivery
-- Entrepreneurship
-categories:
-- Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png
 previewIcon: PPDV-BETA-logo.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Professional Product Discovery and Validation Skills (PPDV)
-  content: This one-day course on product discovery and validation equips participants with essential hands-on skills to enhance value creation in product development. It covers key techniques for both new product development and improving existing products, focusing on experimentation, evidence collection, and risk control. Through an ongoing case study, students will learn practical methods to apply in their workplace, helping Product Owners, Managers, and teams drive customer outcomes, improve ROI, and adopt an iterative, user-centric approach to product development.
 code: PPDV
 course_proficiencies:
 - beginner
@@ -84,6 +84,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:00:51Z
 
 ---
 # Professional Product Discovery and Validation Skills (PPDV)

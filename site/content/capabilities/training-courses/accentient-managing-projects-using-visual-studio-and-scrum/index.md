@@ -1,34 +1,23 @@
 ---
 title: Managing Projects Using Visual Studio and Scrum Training
-description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
-ResourceId: QjDoUAyMmas
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Managing Projects with Visual Studio & Scrum
+description: Learn to manage software projects using Scrum and Visual Studio, covering backlog management, sprint planning, team collaboration, agile testing, and reporting tools.
 date: 2018-11-28
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: QjDoUAyMmas
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: managing-projects-using-visual-studio-and-scrum-training
-url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- /training-courses/managing-projects-using-visual-studio-and-scrum
-- /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
-- /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
 - /resources/QjDoUAyMmas
 aliasesArchive:
 - /training-courses/managing-projects-using-visual-studio-and-scrum
 - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
 - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
-course_topics:
-- Azure DevOps Training Courses
-course_vendors:
-- Accentient
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Product Managers
-- Teams
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Agile Frameworks
 - Agile Planning
@@ -38,15 +27,26 @@ tags:
 - Software Development
 - Team Collaboration
 - Working Software
-categories: []
-preview: 
-previewIcon: A-MPVS.png
-brandColour: 
 card:
   button:
     content: ""
   title: Managing Projects Using Visual Studio and Scrum Training
   content: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/azure-devops-training-courses/:slug/
+course_topics:
+- Azure DevOps Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Product Managers
+- Teams
+preview: 
+previewIcon: A-MPVS.png
+brandColour: 
 code: MPVS
 course_proficiencies:
 - intermediate
@@ -71,6 +71,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:45Z
+  short_title: 2025-07-29T15:01:46Z
 
 ---
 # Managing Projects Using Visual Studio and Scrum Training

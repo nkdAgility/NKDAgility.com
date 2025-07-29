@@ -7,12 +7,21 @@ weight: 335
 ResourceId: q_OupO_abR_
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: too-many-scrum-masters-believe-they-don-t-need-technical-skills
 aliases:
 - /resources/q_OupO_abR_
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Competence
+- Professional Scrum
+- Software Development
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7309974791539642369
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:55Z
   short_title: 2025-07-07T16:45:14Z
-concepts: []
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
-tags:
-- Competence
-- Professional Scrum
-- Software Development
 
 ---
 Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do—but let’s be real.

@@ -7,12 +7,16 @@ weight: 405
 ResourceId: NpLk02WHeMe
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
 aliases:
 - /resources/NpLk02WHeMe
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags: []
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
@@ -27,10 +31,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-19T13:39:42Z
   short_title: 2025-07-07T16:44:10Z
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 When Heathrow went down, they blamed the power supplier.

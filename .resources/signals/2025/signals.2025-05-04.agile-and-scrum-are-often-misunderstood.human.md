@@ -7,12 +7,24 @@ weight: 510
 ResourceId: Oi_yiyEHZbM
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: agile-and-scrum-are-often-misunderstood
 aliases:
 - /resources/Oi_yiyEHZbM
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Philosophy
+categories:
+- Scrum
+- Product Development
+tags:
+- Pragmatic Thinking
+- Software Development
+- Organisational Agility
+- Social Technologies
+- Agile Philosophy
+- Professional Scrum
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7324817708770877440
@@ -27,18 +39,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:01Z
   short_title: 2025-07-07T16:44:30Z
-concepts:
-- Philosophy
-categories:
-- Scrum
-- Product Development
-tags:
-- Pragmatic Thinking
-- Software Development
-- Organisational Agility
-- Social Technologies
-- Agile Philosophy
-- Professional Scrum
 
 ---
 Agile and Scrum are often misunderstood.

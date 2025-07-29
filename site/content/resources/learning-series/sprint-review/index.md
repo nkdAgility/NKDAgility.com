@@ -16,6 +16,11 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
+card:
+  button:
+    content: Learn More
+  content: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (ncrement), so that we can make decisions about the future desired state (Product Backlog).
+  title: The Sprint Review
 resourceTypes: learning-series
 draft: true
 preview: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
@@ -37,11 +42,6 @@ references:
   embed: https://www.youtube.com/embed/5bgcpPqcGlw
   type: video
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (ncrement), so that we can make decisions about the future desired state (Product Backlog).
-  title: The Sprint Review
 Watermarks:
   description: 2025-05-07T12:58:17Z
   short_title: 2025-07-07T17:48:01Z

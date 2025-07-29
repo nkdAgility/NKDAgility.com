@@ -37,6 +37,11 @@ tags:
 - Product Delivery
 - Transparency
 - Product Developer
+card:
+  button:
+    content: Learn More
+  content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
+  title: Daily Scrum Recipe
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
@@ -57,11 +62,6 @@ references:
   url: https://www.scrum.org/resources/what-is-a-daily-scrum
 - title: Avoid the Bug as Task anti-pattern in Azure DevOps
   url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
-card:
-  button:
-    content: Learn More
-  content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
-  title: Daily Scrum Recipe
 Watermarks:
   description: 2025-05-07T12:57:50Z
   short_title: 2025-07-07T17:47:58Z

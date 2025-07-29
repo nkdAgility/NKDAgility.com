@@ -4,9 +4,14 @@ short_title: Kanban Guide for Scrum Teams
 description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
 date: 2024-09-17
 weight: 840
+author:
+- Steve Porter
+- Yuval Yeret
+- Daniel Vacanti
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 slug: kanban-guide-for-scrum-teams
 aliases:
 - /guides/Kanban-Guide-for-Scrum-Teams.html
@@ -15,6 +20,7 @@ aliases:
 aliasesArchive:
 - /guides/Kanban-Guide-for-Scrum-Teams.html
 - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+layout: guide
 concepts:
 - Framework
 categories:
@@ -35,9 +41,12 @@ tags:
 - Scrum Team
 - Pragmatic Thinking
 - Team Performance
-ResourceContentOrigin: Human
+card:
+  button:
+    content: Learn More
+  content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
+  title: Kanban Guide for Scrum Teams
 resourceTypes: guide
-layout: guide
 references:
 - title: The Kanban Guide for Scrum Teams on Scrum.org
   url: https://scrum.org/resources/kanban-guide-scrum-teams
@@ -49,11 +58,6 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
-  title: Kanban Guide for Scrum Teams
 Watermarks:
   description: 2025-05-07T12:58:08Z
   short_title: 2025-07-07T16:40:34Z

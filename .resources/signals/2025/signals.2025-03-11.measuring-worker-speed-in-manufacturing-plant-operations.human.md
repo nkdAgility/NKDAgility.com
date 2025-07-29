@@ -7,12 +7,19 @@ weight: 705
 ResourceId: QnAOVFfFPpx
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: measuring-worker-speed-in-manufacturing-plant-operations
 aliases:
 - /resources/QnAOVFfFPpx
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Systems Thinking
+- Team Performance
+- Lean Principles
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7305263740285865984
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:17Z
   short_title: 2025-07-07T16:45:29Z
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Systems Thinking
-- Team Performance
-- Lean Principles
 
 ---
 Imagine a manufacturing plant where someone decides to measure how fast one worker moves a part from their station to the next.

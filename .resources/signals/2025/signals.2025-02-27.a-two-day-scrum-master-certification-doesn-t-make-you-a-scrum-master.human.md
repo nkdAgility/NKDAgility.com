@@ -7,12 +7,25 @@ weight: 320
 ResourceId: aYJLiPejAHG
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master
 aliases:
 - /resources/aYJLiPejAHG
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+- Technical Leadership
+- Scrum
+tags:
+- Pragmatic Thinking
+- Competence
+- Software Development
+- Product Delivery
+- Professional Scrum
+- Operational Practices
+- Agile Philosophy
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7300915211945857024
@@ -27,19 +40,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:56:41Z
   short_title: 2025-07-07T16:45:45Z
-concepts: []
-categories:
-- Product Development
-- Technical Leadership
-- Scrum
-tags:
-- Pragmatic Thinking
-- Competence
-- Software Development
-- Product Delivery
-- Professional Scrum
-- Operational Practices
-- Agile Philosophy
 
 ---
 A two-day Scrum Master certification doesn’t make you a Scrum Master.

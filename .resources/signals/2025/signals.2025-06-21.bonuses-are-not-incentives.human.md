@@ -3,7 +3,7 @@ title: Bonuses are not incentives
 short_title: Bonuses Are Not Incentives
 description: Bonuses reflect mistrust, not motivation. True engagement in knowledge work comes from purpose, autonomy, and meaningful challenges—not financial rewards.
 date: 2025-06-21T08:30:44+01:00
-weight: 1000
+weight: 720
 ResourceId: zy7JlL2SIY-
 ResourceImport: false
 ResourceType: signals
@@ -11,8 +11,18 @@ ResourceContentOrigin: human
 slug: bonuses-are-not-incentives
 aliases:
 - /resources/zy7JlL2SIY-
-layout: signal
 source: LinkedIn
+layout: signal
+concepts:
+- Philosophy
+categories:
+- Uncategorized
+tags:
+- Agile Philosophy
+- Employee Engagement
+- Team Motivation
+- Self Organisation
+- Agentic Agility
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7342106687249522688
@@ -27,10 +37,6 @@ platform_signals:
 Watermarks:
   description: 2025-06-23T12:13:02Z
   short_title: 2025-07-07T16:43:24Z
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 Bonuses are not incentives. They’re symptoms of a system that doesn’t trust people to care about their work.

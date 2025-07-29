@@ -7,26 +7,12 @@ weight: 245
 ResourceId: 9EP_gF2nD19
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: best-branching-strategies-for-development-teams-explained
 aliases:
 - /resources/9EP_gF2nD19
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7300190314370093060
-  post_id: "7300190314370093060"
-  post_date: 2025-02-25T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:43Z
-  short_title: 2025-07-07T16:45:50Z
+layout: signal
 concepts: []
 categories:
 - Engineering Excellence
@@ -43,6 +29,20 @@ tags:
 - Product Delivery
 - Release Management
 - Frequent Releases
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7300190314370093060
+  post_id: "7300190314370093060"
+  post_date: 2025-02-25T16:30:02Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:43Z
+  short_title: 2025-07-07T16:45:50Z
 
 ---
 I see it all the time: teams structuring their branching strategy to mirror their environments. A dev branch for Dev, a staging branch for Staging, a release branch for Production.

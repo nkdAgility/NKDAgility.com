@@ -30,6 +30,11 @@ tags:
 - Agile Frameworks
 - Agile Planning Tools
 - Team Performance
+card:
+  button:
+    content: Learn More
+  content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
+  title: Sprint Planning Recipe
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
@@ -49,11 +54,6 @@ videos:
   embed: https://www.youtube.com/embed/uQ786VBz3Jw
 - title: How does a scrum team plan and prioritize work effectively?
   embed: https://www.youtube.com/embed/sPmUuSy7G3I
-card:
-  button:
-    content: Learn More
-  content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
-  title: Sprint Planning Recipe
 Watermarks:
   description: 2025-05-07T12:57:48Z
   short_title: 2025-07-07T17:47:58Z

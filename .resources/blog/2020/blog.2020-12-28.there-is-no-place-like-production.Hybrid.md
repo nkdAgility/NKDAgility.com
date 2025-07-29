@@ -5,10 +5,9 @@ description: Validating product value requires releasing features to real users 
 date: 2020-12-28
 weight: 440
 ResourceId: KUJ7jHOGqP7
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: there-is-no-place-like-production
 aliases:
 - /blog/there-is-no-place-like-production
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/there-is-no-place-like-production
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
+layout: blog
 concepts:
 - Principle
 categories:
@@ -36,11 +36,9 @@ tags:
 - Product Discovery
 - Agile Philosophy
 - Product Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 45324
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 Watermarks:

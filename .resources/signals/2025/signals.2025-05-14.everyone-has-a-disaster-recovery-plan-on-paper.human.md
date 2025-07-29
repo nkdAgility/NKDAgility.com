@@ -7,12 +7,19 @@ weight: 390
 ResourceId: jgAmhaBbUlm
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: everyone-has-a-disaster-recovery-plan-on-paper
 aliases:
 - /resources/jgAmhaBbUlm
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Personal
+- Pragmatic Thinking
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7328441618900918273
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:54:46Z
   short_title: 2025-07-07T16:44:13Z
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Personal
-- Pragmatic Thinking
 
 ---
 Everyone has a disaster recovery plan—on paper.

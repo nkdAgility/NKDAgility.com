@@ -7,26 +7,12 @@ weight: 415
 ResourceId: xETx_jwnIHO
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: everyone-loves-the-idea-of-self-managing-teams
 aliases:
 - /resources/xETx_jwnIHO
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307700073637765120
-  post_id: "7307700073637765120"
-  post_date: 2025-03-18T09:51:08Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:05Z
-  short_title: 2025-07-07T16:45:22Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -49,6 +35,20 @@ tags:
 - Organisational Culture
 - Agentic Agility
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307700073637765120
+  post_id: "7307700073637765120"
+  post_date: 2025-03-18T09:51:08Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:05Z
+  short_title: 2025-07-07T16:45:22Z
 
 ---
 Everyone loves the idea of self-managing teams. Give people autonomy, let them decide how to work, and everything just falls into place, right?

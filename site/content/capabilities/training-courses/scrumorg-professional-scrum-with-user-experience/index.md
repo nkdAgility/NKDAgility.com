@@ -1,22 +1,15 @@
 ---
 title: Professional Scrum with User Experience (PSU) with Certification
-description: Explore the vital role of UX in Scrum with hands-on learning, community support, and a chance to earn the PSU I certification. Join us!
-ResourceId: napm9Qz4WTz
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Professional Scrum with UX Certification
+description: Learn to integrate modern UX practices into Scrum, enhance team collaboration, and manage user-centric work, with certification included for experienced Scrum professionals.
 date: 2019-05-25
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: napm9Qz4WTz
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-scrum-with-user-experience-psu-with-certification
-url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-with-user-experience-psu-training
-- /training-courses/professional-scrum-with-user-experience-training-with-certification
-- /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
 - /resources/napm9Qz4WTz
 aliasesArchive:
 - /training-courses/professional-scrum-with-user-experience-psu-training
@@ -24,19 +17,9 @@ aliasesArchive:
 - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
 - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
-course_topics:
-- Scrum Training Courses
-course_vendors:
-- Scrumorg
-course_learning_experiences:
-- Immersive
-- Traditional
-delivery_audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Teams
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Agile Frameworks
 - Agile Product Management
@@ -50,16 +33,30 @@ tags:
 - Software Development
 - Team Collaboration
 - Value Delivery
-- Scrum Team
-categories: []
-preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
-previewIcon: Scrumorg-Course-PSU-400x.png
-brandColour: 
 card:
   button:
     content: ""
   title: Professional Scrum with User Experience (PSU) with Certification
   content: Professional Scrum with User Experience (PSU) is a 14h hands-on course, delivered over 4 half-days, where students who already have a fundamental understanding of Scrum and some experience using it will learn how to integrate modern UX practices into the way they are working in Scrum and how to work most effectively within Scrum Teams.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/scrum-training-courses/:slug/
+course_topics:
+- Scrum Training Courses
+course_vendors:
+- Scrumorg
+course_learning_experiences:
+- Immersive
+- Traditional
+delivery_audiences:
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Teams
+preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
+previewIcon: Scrumorg-Course-PSU-400x.png
+brandColour: 
 code: PSU
 course_length: 16
 course_sessions: 8
@@ -115,6 +112,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:38Z
+  short_title: 2025-07-29T15:01:41Z
 
 ---
 # Professional Scrum with User Experience (PSU) with Certification

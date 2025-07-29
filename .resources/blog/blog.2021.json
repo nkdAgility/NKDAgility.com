@@ -7,10 +7,9 @@
       "date": "2021-07-21",
       "weight": 750.0,
       "ResourceId": "XuePm2RAZa0",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum-org",
       "aliases": [
         "/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org",
@@ -31,13 +30,20 @@
         "/blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org",
         "/resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org"
       ],
+      "layout": "blog",
       "concepts": [],
-      "categories": ["Leadership", "Product Management", "Scrum"],
-      "tags": ["Evidence Based Leadership", "Evidence Based Management", "Decision Making"],
-      "ResourceContentOrigin": "Hybrid",
+      "categories": [
+        "Leadership",
+        "Product Management",
+        "Scrum"
+      ],
+      "tags": [
+        "Evidence Based Leadership",
+        "Evidence Based Management",
+        "Decision Making"
+      ],
       "ResourceImportId": 46257,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg",
       "Watermarks": {
@@ -57,21 +63,6 @@
       "description": "Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.",
       "date": "2021-05-17",
       "weight": 750.0,
-      "ResourceId": "Stln5As7Fof",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
-      "ResourceType": "blog",
-      "slug": "hiring-a-professional-product-owner",
-      "aliases": ["/blog/hiring-a-professional-product-owner", "/hiring-a-professional-product-owner", "/resources/Stln5As7Fof", "/resources/blog/hiring-a-professional-product-owner"],
-      "aliasesArchive": ["/blog/hiring-a-professional-product-owner", "/hiring-a-professional-product-owner", "/resources/blog/hiring-a-professional-product-owner"],
-      "concepts": ["Tenet"],
-      "categories": ["Product Development", "Product Management", "Scrum"],
-      "tags": ["Product Owner", "Professional Scrum", "Scrum Team", "Agile Product Management", "Software Development", "Product Delivery", "Value Delivery", "Pragmatic Thinking"],
-      "ResourceContentOrigin": "Hybrid",
-      "ResourceImportId": 46138,
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Fredrik Wendt",
@@ -102,7 +93,44 @@
           "external": "https://www.linkedin.com/in/james-powis-agile-product-owner/"
         }
       ],
+      "ResourceId": "Stln5As7Fof",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "hiring-a-professional-product-owner",
+      "aliases": [
+        "/blog/hiring-a-professional-product-owner",
+        "/hiring-a-professional-product-owner",
+        "/resources/Stln5As7Fof",
+        "/resources/blog/hiring-a-professional-product-owner"
+      ],
+      "aliasesArchive": [
+        "/blog/hiring-a-professional-product-owner",
+        "/hiring-a-professional-product-owner",
+        "/resources/blog/hiring-a-professional-product-owner"
+      ],
       "layout": "blog",
+      "concepts": [
+        "Tenet"
+      ],
+      "categories": [
+        "Product Development",
+        "Product Management",
+        "Scrum"
+      ],
+      "tags": [
+        "Product Owner",
+        "Professional Scrum",
+        "Scrum Team",
+        "Agile Product Management",
+        "Software Development",
+        "Product Delivery",
+        "Value Delivery",
+        "Pragmatic Thinking"
+      ],
+      "ResourceImportId": 46138,
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
       "resourceTypes": "blog",
       "preview": "image-3-3.png",
       "Watermarks": {
@@ -123,21 +151,34 @@
       "date": "2021-04-19",
       "weight": 355.0,
       "ResourceId": "mqbD3iIhRg4",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
-      "aliases": ["/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility", "/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility", "/resources/mqbD3iIhRg4", "/resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility"],
-      "aliasesArchive": ["/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility", "/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility", "/resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility"],
-      "concepts": ["Ethos"],
-      "categories": ["Scrum"],
-      "tags": ["Software Development"],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+      "aliases": [
+        "/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+        "/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+        "/resources/mqbD3iIhRg4",
+        "/resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility"
+      ],
+      "aliasesArchive": [
+        "/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+        "/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+        "/resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility"
+      ],
+      "layout": "blog",
+      "concepts": [
+        "Ethos"
+      ],
+      "categories": [
+        "Scrum"
+      ],
+      "tags": [
+        "Software Development"
+      ],
       "ResourceImportId": 46108,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "naked-agility-technically-agile-1280×720-19-1-1.jpg",
       "Watermarks": {
@@ -158,20 +199,38 @@
       "date": "2021-03-15",
       "weight": 590.0,
       "ResourceId": "1EEAZ-ldcTz",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "hiring-a-professional-scrum-master",
-      "aliases": ["/blog/hiring-a-professional-scrum-master", "/hiring-a-professional-scrum-master", "/resources/1EEAZ-ldcTz", "/resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers"],
-      "aliasesArchive": ["/blog/hiring-a-professional-scrum-master", "/hiring-a-professional-scrum-master", "/resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers"],
-      "concepts": [],
-      "categories": ["Scrum", "Technical Leadership", "Leadership"],
-      "tags": ["Scrum Master", "Professional Scrum", "Scrum Team", "Software Development", "Agile Frameworks", "Team Performance"],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "hiring-a-professional-scrum-master",
+      "aliases": [
+        "/blog/hiring-a-professional-scrum-master",
+        "/hiring-a-professional-scrum-master",
+        "/resources/1EEAZ-ldcTz",
+        "/resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers"
+      ],
+      "aliasesArchive": [
+        "/blog/hiring-a-professional-scrum-master",
+        "/hiring-a-professional-scrum-master",
+        "/resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers"
+      ],
+      "layout": "blog",
+      "concepts": [],
+      "categories": [
+        "Scrum",
+        "Technical Leadership",
+        "Leadership"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Professional Scrum",
+        "Scrum Team",
+        "Software Development",
+        "Agile Frameworks",
+        "Team Performance"
+      ],
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "Wide-screen-scrum-master-3-3.jpg",
       "Watermarks": {
@@ -192,10 +251,9 @@
       "date": "2021-03-01",
       "weight": 665.0,
       "ResourceId": "DdQ1nKvk-hv",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "scrum-is-made-up-of-influencers-entrepreneurs-and-makers",
       "aliases": [
         "/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers",
@@ -216,14 +274,16 @@
         "/blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers",
         "/resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers"
       ],
+      "layout": "blog",
       "concepts": [],
-      "categories": ["Leadership", "Product Development"],
+      "categories": [
+        "Leadership",
+        "Product Development"
+      ],
       "tags": [],
-      "ResourceContentOrigin": "Hybrid",
       "ResourceImportId": 45946,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "image-4-5-5.png",
       "Watermarks": {
@@ -244,21 +304,30 @@
       "date": "2021-02-04",
       "weight": 640.0,
       "ResourceId": "-Oo9b3G-8Zw",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "become-the-leader-that-you-were-meant-to-to-be",
-      "aliases": ["/blog/become-the-leader-that-you-were-meant-to-to-be", "/become-the-leader-that-you-were-meant-to-to-be", "/resources/-Oo9b3G-8Zw", "/resources/blog/become-the-leader-that-you-were-meant-to-to-be"],
-      "aliasesArchive": ["/blog/become-the-leader-that-you-were-meant-to-to-be", "/become-the-leader-that-you-were-meant-to-to-be", "/resources/blog/become-the-leader-that-you-were-meant-to-to-be"],
-      "concepts": [],
-      "categories": ["Leadership"],
-      "tags": [],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "become-the-leader-that-you-were-meant-to-to-be",
+      "aliases": [
+        "/blog/become-the-leader-that-you-were-meant-to-to-be",
+        "/become-the-leader-that-you-were-meant-to-to-be",
+        "/resources/-Oo9b3G-8Zw",
+        "/resources/blog/become-the-leader-that-you-were-meant-to-to-be"
+      ],
+      "aliasesArchive": [
+        "/blog/become-the-leader-that-you-were-meant-to-to-be",
+        "/become-the-leader-that-you-were-meant-to-to-be",
+        "/resources/blog/become-the-leader-that-you-were-meant-to-to-be"
+      ],
+      "layout": "blog",
+      "concepts": [],
+      "categories": [
+        "Leadership"
+      ],
+      "tags": [],
       "ResourceImportId": 45806,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "image-2-2.png",
       "Watermarks": {
@@ -279,10 +348,9 @@
       "date": "2021-01-25",
       "weight": 340.0,
       "ResourceId": "ZSqNF7v9vSR",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "all-technical-debt-is-a-risk-to-the-product-and-to-your-business",
       "aliases": [
         "/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business",
@@ -301,14 +369,20 @@
         "/resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business",
         "/resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business."
       ],
+      "layout": "blog",
       "concepts": [],
-      "categories": ["Engineering Excellence", "Product Development"],
-      "tags": ["Technical Mastery", "Technical Debt", "Pragmatic Thinking"],
-      "ResourceContentOrigin": "Hybrid",
+      "categories": [
+        "Engineering Excellence",
+        "Product Development"
+      ],
+      "tags": [
+        "Technical Mastery",
+        "Technical Debt",
+        "Pragmatic Thinking"
+      ],
       "ResourceImportId": 45521,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg",
       "Watermarks": {
@@ -329,21 +403,32 @@
       "date": "2021-01-19",
       "weight": 1000.0,
       "ResourceId": "ZQi3U9gnXj3",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "professional-kanban-trainer-for-applying-professional-kanban",
-      "aliases": ["/blog/professional-kanban-trainer-for-applying-professional-kanban", "/professional-kanban-trainer-for-applying-professional-kanban", "/resources/ZQi3U9gnXj3", "/resources/blog/professional-kanban-trainer-for-applying-professional-kanban"],
-      "aliasesArchive": ["/blog/professional-kanban-trainer-for-applying-professional-kanban", "/professional-kanban-trainer-for-applying-professional-kanban", "/resources/blog/professional-kanban-trainer-for-applying-professional-kanban"],
-      "concepts": [],
-      "categories": ["Kanban"],
-      "tags": ["Software Development"],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "professional-kanban-trainer-for-applying-professional-kanban",
+      "aliases": [
+        "/blog/professional-kanban-trainer-for-applying-professional-kanban",
+        "/professional-kanban-trainer-for-applying-professional-kanban",
+        "/resources/ZQi3U9gnXj3",
+        "/resources/blog/professional-kanban-trainer-for-applying-professional-kanban"
+      ],
+      "aliasesArchive": [
+        "/blog/professional-kanban-trainer-for-applying-professional-kanban",
+        "/professional-kanban-trainer-for-applying-professional-kanban",
+        "/resources/blog/professional-kanban-trainer-for-applying-professional-kanban"
+      ],
+      "layout": "blog",
+      "concepts": [],
+      "categories": [
+        "Kanban"
+      ],
+      "tags": [
+        "Software Development"
+      ],
       "ResourceImportId": 45694,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "applying-professional-kanban-background-logo-2-2.jpg",
       "Watermarks": {
@@ -364,10 +449,9 @@
       "date": "2021-01-18",
       "weight": 1000.0,
       "ResourceId": "wYwQygBrmgx",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg",
       "aliases": [
         "/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg",
@@ -388,14 +472,25 @@
         "/blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-",
         "/resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg"
       ],
-      "concepts": ["Ethos"],
-      "categories": ["Lean"],
-      "tags": ["Organisational Physics", "Sociotechnical Systems", "Organisational Culture", "Agile Philosophy", "Complexity Thinking", "Organisational Psychology", "Pragmatic Thinking"],
-      "ResourceContentOrigin": "Hybrid",
+      "layout": "blog",
+      "concepts": [
+        "Ethos"
+      ],
+      "categories": [
+        "Lean"
+      ],
+      "tags": [
+        "Organisational Physics",
+        "Sociotechnical Systems",
+        "Organisational Culture",
+        "Agile Philosophy",
+        "Complexity Thinking",
+        "Organisational Psychology",
+        "Pragmatic Thinking"
+      ],
       "ResourceImportId": 45392,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg",
       "Watermarks": {
@@ -416,21 +511,43 @@
       "date": "2021-01-11",
       "weight": 750.0,
       "ResourceId": "sLRE2HdkUCS",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "sprint-goal-is-an-immediate-tactical-goal",
-      "aliases": ["/blog/sprint-goal-is-an-immediate-tactical-goal", "/sprint-goal-is-an-immediate-tactical-goal", "/resources/sLRE2HdkUCS", "/resources/blog/sprint-goal-is-an-immediate-tactical-goal"],
-      "aliasesArchive": ["/blog/sprint-goal-is-an-immediate-tactical-goal", "/sprint-goal-is-an-immediate-tactical-goal", "/resources/blog/sprint-goal-is-an-immediate-tactical-goal"],
-      "concepts": [],
-      "categories": ["Product Management", "Product Development", "Scrum"],
-      "tags": ["Common Goals", "Professional Scrum", "Product Owner", "Agile Product Management", "Software Development", "Customer Focus", "Agile Planning", "Agile Frameworks", "Value Delivery", "Product Delivery"],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "sprint-goal-is-an-immediate-tactical-goal",
+      "aliases": [
+        "/blog/sprint-goal-is-an-immediate-tactical-goal",
+        "/sprint-goal-is-an-immediate-tactical-goal",
+        "/resources/sLRE2HdkUCS",
+        "/resources/blog/sprint-goal-is-an-immediate-tactical-goal"
+      ],
+      "aliasesArchive": [
+        "/blog/sprint-goal-is-an-immediate-tactical-goal",
+        "/sprint-goal-is-an-immediate-tactical-goal",
+        "/resources/blog/sprint-goal-is-an-immediate-tactical-goal"
+      ],
+      "layout": "blog",
+      "concepts": [],
+      "categories": [
+        "Product Management",
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Common Goals",
+        "Professional Scrum",
+        "Product Owner",
+        "Agile Product Management",
+        "Software Development",
+        "Customer Focus",
+        "Agile Planning",
+        "Agile Frameworks",
+        "Value Delivery",
+        "Product Delivery"
+      ],
       "ResourceImportId": 45310,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "naked-agility-hypothesis-driven-2-2.jpg",
       "Watermarks": {
@@ -451,21 +568,41 @@
       "date": "2021-01-04",
       "weight": 380.0,
       "ResourceId": "ICuFIMyhnwj",
-      "ResourceImport": true,
-      "ResourceImportSource": "Wordpress",
-      "ResourceImportOriginalSource": "Wordpress",
+      "ResourceImport": false,
       "ResourceType": "blog",
-      "slug": "story-points-velocity-are-a-sign-of-an-unsuccessful-team",
-      "aliases": ["/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team", "/story-points-velocity-are-a-sign-of-an-unsuccessful-team", "/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team", "/blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team", "/resources/ICuFIMyhnwj", "/resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team"],
-      "aliasesArchive": ["/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team", "/story-points-velocity-are-a-sign-of-an-unsuccessful-team", "/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team", "/blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team", "/resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team"],
-      "concepts": [],
-      "categories": ["Scrum", "Product Development"],
-      "tags": ["Transparency", "Software Development", "Empirical Process Control", "Professional Scrum", "Pragmatic Thinking"],
       "ResourceContentOrigin": "Hybrid",
+      "slug": "story-points-velocity-are-a-sign-of-an-unsuccessful-team",
+      "aliases": [
+        "/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/story-points-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/resources/ICuFIMyhnwj",
+        "/resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team"
+      ],
+      "aliasesArchive": [
+        "/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/story-points-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team",
+        "/resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team"
+      ],
+      "layout": "blog",
+      "concepts": [],
+      "categories": [
+        "Scrum",
+        "Product Development"
+      ],
+      "tags": [
+        "Transparency",
+        "Software Development",
+        "Empirical Process Control",
+        "Professional Scrum",
+        "Pragmatic Thinking"
+      ],
       "ResourceImportId": 44532,
       "AudioNative": true,
       "creator": "Martin Hinshelwood",
-      "layout": "blog",
       "resourceTypes": "blog",
       "preview": "image-9-14-14.png",
       "Watermarks": {

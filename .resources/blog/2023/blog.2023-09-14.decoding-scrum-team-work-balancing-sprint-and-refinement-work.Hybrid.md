@@ -5,10 +5,9 @@ description: Explains how Scrum teams can balance Sprint work and Refinement, wi
 date: 2023-09-14
 weight: 690
 ResourceId: RCMVmNzZDfV
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
 - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
@@ -23,6 +22,7 @@ aliasesArchive:
 - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+layout: blog
 concepts:
 - Method
 categories:
@@ -39,11 +39,9 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Product Delivery
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49783
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 Watermarks:

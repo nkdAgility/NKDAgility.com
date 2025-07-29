@@ -5,10 +5,9 @@ description: Explains why regular backlog refinement is essential in Scrum, how 
 date: 2020-12-17
 weight: 330
 ResourceId: 4ukwclfJlXy
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 aliases:
 - /blog/backlog-not-refined-wrong
@@ -23,6 +22,7 @@ aliasesArchive:
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
+layout: blog
 concepts:
 - Framework
 categories:
@@ -45,11 +45,9 @@ tags:
 - Product Developer
 - Agile Planning Tools
 - Product Owner
-ResourceContentOrigin: Hybrid
 ResourceImportId: 38243
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 Watermarks:

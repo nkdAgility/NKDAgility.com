@@ -1,16 +1,14 @@
 ---
 title: Applying Flow Metrics for Scrum
-description: Unlock the power of flow metrics in Scrum! This immersive course enhances your Agile practices, boosting team efficiency and project outcomes.
-ResourceId: Ej_UgfRAGhZ
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Applying Flow Metrics for Scrum
+description: Learn to use flow metrics like WIP, cycle time, and throughput in Scrum to improve team efficiency, planning, forecasting, and workflow with practical data-driven tools.
 date: 2024-01-12
 weight: 500
-creator: Martin Hinshelwood
-type: course
+ResourceId: Ej_UgfRAGhZ
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: applying-flow-metrics-for-scrum
-url: /training-courses/kanban-training-courses/:slug/
 aliases:
 - /training-courses/applying-flow-metrics-for-scrum/
 - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
@@ -20,16 +18,10 @@ aliasesArchive:
 - /training-courses/applying-flow-metrics-for-scrum/
 - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
 - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-course_topics:
-- Kanban Training Courses
-course_vendors:
-- ProKanbanorg
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Flow Efficiency
 - Metrics and Learning
@@ -46,22 +38,28 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
-- Throughput
-- Value Delivery
-- Product Backlog
-- Scrum Master
-categories:
-- Scrum
-- Product Development
-preview: NKDAgility-Courses-AFMS-16x9-1.jpg
-previewIcon: AFMS.png
-brandColour: 
-course-topic: Professional Kanban
 card:
   button:
     content: ""
   title: Applying Flow Metrics for Scrum
   content: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
+creator: Martin Hinshelwood
+type: course
+url: /training-courses/kanban-training-courses/:slug/
+course_topics:
+- Kanban Training Courses
+course_vendors:
+- ProKanbanorg
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Teams
+- Product Owners
+- Lean Agile Practitioners
+preview: NKDAgility-Courses-AFMS-16x9-1.jpg
+previewIcon: AFMS.png
+brandColour: 
+course-topic: Professional Kanban
 code: AFMS
 course_proficiencies:
 - intermediate
@@ -91,6 +89,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:00:55Z
+  short_title: 2025-07-29T15:00:56Z
 
 ---
 # Applying Flow Metrics for Scrum

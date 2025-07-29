@@ -50,17 +50,17 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Product Delivery
+card:
+  button:
+    content: Learn More
+  content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
+  title: Manifesto for Agile Software Development
 resourceTypes: guide
 references:
 - title: Manifesto for Agile Software Development
   url: https://agilemanifesto.org/
 recommendedContent: 
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
-  title: Manifesto for Agile Software Development
 Watermarks:
   description: 2025-05-07T12:58:11Z
   short_title: 2025-07-07T16:40:34Z

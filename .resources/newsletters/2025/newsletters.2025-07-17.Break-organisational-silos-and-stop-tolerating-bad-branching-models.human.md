@@ -4,19 +4,15 @@ short_title: Break Organisational Silos and Bad Branching
 description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture to improve software delivery flow.
 date: 2025-07-17
 weight: 55
+author: MrHinsh
 ResourceId: AORP41zLNTi
 ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: human
 slug: break-organisational-silos-and-stop-tolerating-bad-branching-models
 aliases:
 - /resources/AORP41zLNTi
-author: MrHinsh
-ResourceContentOrigin: human
-resourceTypes: newsletter
 layout: newsletter
-Watermarks:
-  description: 2025-05-07T12:48:55Z
-  short_title: 2025-07-07T16:43:14Z
 concepts:
 - Accountability
 categories:
@@ -39,6 +35,10 @@ tags:
 - Sociotechnical Systems
 - Team Performance
 - Value Delivery
+resourceTypes: newsletter
+Watermarks:
+  description: 2025-05-07T12:48:55Z
+  short_title: 2025-07-07T16:43:14Z
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.
@@ -96,7 +96,7 @@ Technical leadership is **not optional decoration**. It is the deliberate shapin
 
 If you hold the title of CTO or development manager, you are accountable for systemic delivery health — not just delivery reports.
 
-Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/lean-agile-consultancy" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.
+Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/business-agility-consulting" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.
 
 I look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.
 

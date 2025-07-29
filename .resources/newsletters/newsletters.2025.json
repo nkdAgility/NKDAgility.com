@@ -6,21 +6,16 @@
       "description": "Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture to improve software delivery flow.",
       "date": "2025-07-17",
       "weight": 55.0,
+      "author": "MrHinsh",
       "ResourceId": "AORP41zLNTi",
       "ResourceImport": false,
       "ResourceType": "newsletters",
+      "ResourceContentOrigin": "human",
       "slug": "break-organisational-silos-and-stop-tolerating-bad-branching-models",
       "aliases": [
         "/resources/AORP41zLNTi"
       ],
-      "author": "MrHinsh",
-      "ResourceContentOrigin": "human",
-      "resourceTypes": "newsletter",
       "layout": "newsletter",
-      "Watermarks": {
-        "description": "2025-05-07T12:48:55Z",
-        "short_title": "2025-07-07T16:43:14Z"
-      },
       "concepts": [
         "Accountability"
       ],
@@ -45,9 +40,14 @@
         "Sociotechnical Systems",
         "Team Performance",
         "Value Delivery"
-      ]
+      ],
+      "resourceTypes": "newsletter",
+      "Watermarks": {
+        "description": "2025-05-07T12:48:55Z",
+        "short_title": "2025-07-07T16:43:14Z"
+      }
     },
-    "BodyContent": "Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.\n\nThis issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.\n\n### **1. End Branch Chaos: Kill Topic Branches**\n\nTopic branches feel safe — they are not.  \nThey **delay integration, block feedback, and increase risk**.\n\nLeadership must enforce:\n\n- Trunk-based development.\n- Fast merges, continuous integration, and automated validation.\n- Feature toggles, not deferred integration.\n\nYou need to stop [promoting code through branches tied to environments]({{< ref \"/resources/blog/2025/2025-02-06-stop-promoting-branches\" >}}) and instead build a system optimised for flow.\n\n### **2. Dismantle Silos: Build Adaptive Delivery Systems**\n\nOrganisational silos create handoffs, disconnect accountability, and slow down value delivery.\n\nLeaders must:\n\n- Restructure around cross-functional product teams.\n- Push decision-making to the team level.\n- Use observability and automation to replace manual coordination.\n- Define and broadcast clear, shared system goals.\n\nThis is not reorg theatre; it’s redesigning the delivery system for adaptability.\n\n### **3. Refactor Leadership: Remove Business Logic from the Database**\n\nStored procedures carrying business logic are a leadership-smuggled bottleneck.  \nThey:\n\n- Tangle persistence with domain logic.\n- Obstruct testing and refactoring.\n- Introduce invisible complexity and hidden risks.\n\nAs a technical leader, you must **set non-negotiable architectural boundaries**:\n\n- Keep business logic in the application layer.\n- Treat databases as persistence engines, not logic hubs.\n- Demand CI/CD coverage across the full system.\n\n### **Leadership Accountability**\n\nTechnical leadership is **not optional decoration**. It is the deliberate shaping of:\n\n- Architectures that enable agility.\n- Teams that maximise flow.\n- Governance that reinforces adaptability.\n\nIf you hold the title of CTO or development manager, you are accountable for systemic delivery health — not just delivery reports.\n\nWant an external assessment or alignment session? [Schedule time with us]({{< ref \"/capabilities/lean-agile-consultancy\" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.\n\nI look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.\n\n<p style=\"margin-top:20px; font-family: Arial, sans-serif;\">\n    Best regards,<br>\n    <strong>Martin Hinshelwood</strong><br>\n    <em>Naked Agility Ltd.</em>\n</p>\n\n---\n\n## What's New\n\nWe continue to offer our [mentor programs]({{< ref \"/capabilities/mentor-programs\" >}}) and [training programs]({{< ref \"/capabilities/training-courses\" >}}) for new and existing customers. We have changed [how out customers work with us]({{< ref \"/company/working-with-us\" >}}) with the same great content and delivery.\n\nCheck out our latest resources and updates:\n\n### Recent Posts\n\n{{< recent-resources ResourceTypes=\"blog\" >}}\n\n### Recent Videos\n\n{{< recent-resources ResourceTypes=\"videos\" >}}\n\n### Recent Podcasts\n\n{{< recent-resources ResourceTypes=\"podcast\" >}}\n",
+    "BodyContent": "Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.\n\nThis issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.\n\n### **1. End Branch Chaos: Kill Topic Branches**\n\nTopic branches feel safe — they are not.  \nThey **delay integration, block feedback, and increase risk**.\n\nLeadership must enforce:\n\n- Trunk-based development.\n- Fast merges, continuous integration, and automated validation.\n- Feature toggles, not deferred integration.\n\nYou need to stop [promoting code through branches tied to environments]({{< ref \"/resources/blog/2025/2025-02-06-stop-promoting-branches\" >}}) and instead build a system optimised for flow.\n\n### **2. Dismantle Silos: Build Adaptive Delivery Systems**\n\nOrganisational silos create handoffs, disconnect accountability, and slow down value delivery.\n\nLeaders must:\n\n- Restructure around cross-functional product teams.\n- Push decision-making to the team level.\n- Use observability and automation to replace manual coordination.\n- Define and broadcast clear, shared system goals.\n\nThis is not reorg theatre; it’s redesigning the delivery system for adaptability.\n\n### **3. Refactor Leadership: Remove Business Logic from the Database**\n\nStored procedures carrying business logic are a leadership-smuggled bottleneck.  \nThey:\n\n- Tangle persistence with domain logic.\n- Obstruct testing and refactoring.\n- Introduce invisible complexity and hidden risks.\n\nAs a technical leader, you must **set non-negotiable architectural boundaries**:\n\n- Keep business logic in the application layer.\n- Treat databases as persistence engines, not logic hubs.\n- Demand CI/CD coverage across the full system.\n\n### **Leadership Accountability**\n\nTechnical leadership is **not optional decoration**. It is the deliberate shaping of:\n\n- Architectures that enable agility.\n- Teams that maximise flow.\n- Governance that reinforces adaptability.\n\nIf you hold the title of CTO or development manager, you are accountable for systemic delivery health — not just delivery reports.\n\nWant an external assessment or alignment session? [Schedule time with us]({{< ref \"/capabilities/business-agility-consulting\" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.\n\nI look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.\n\n<p style=\"margin-top:20px; font-family: Arial, sans-serif;\">\n    Best regards,<br>\n    <strong>Martin Hinshelwood</strong><br>\n    <em>Naked Agility Ltd.</em>\n</p>\n\n---\n\n## What's New\n\nWe continue to offer our [mentor programs]({{< ref \"/capabilities/mentor-programs\" >}}) and [training programs]({{< ref \"/capabilities/training-courses\" >}}) for new and existing customers. We have changed [how out customers work with us]({{< ref \"/company/working-with-us\" >}}) with the same great content and delivery.\n\nCheck out our latest resources and updates:\n\n### Recent Posts\n\n{{< recent-resources ResourceTypes=\"blog\" >}}\n\n### Recent Videos\n\n{{< recent-resources ResourceTypes=\"videos\" >}}\n\n### Recent Podcasts\n\n{{< recent-resources ResourceTypes=\"podcast\" >}}\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\newsletters\\2025-07-17\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\newsletters\\2025-07-17",
     "ReferencePath": "resources/newsletters/2025-07-17"
@@ -59,21 +59,16 @@
       "description": "True organisational resilience means improving technical health—like testing, automation, and architecture—beyond just surviving incidents or following Agile rituals.",
       "date": "2025-06-12",
       "weight": 215.0,
+      "author": "MrHinsh",
       "ResourceId": "X2BzJPMloRw",
       "ResourceImport": false,
       "ResourceType": "newsletters",
+      "ResourceContentOrigin": "human",
       "slug": "why-resilience-demands-more-than-survival",
       "aliases": [
         "/resources/X2BzJPMloRw"
       ],
-      "author": "MrHinsh",
-      "ResourceContentOrigin": "human",
-      "resourceTypes": "newsletter",
       "layout": "newsletter",
-      "Watermarks": {
-        "description": "2025-05-07T12:49:02Z",
-        "short_title": "2025-07-07T16:43:31Z"
-      },
       "concepts": [],
       "categories": [
         "Engineering Excellence",
@@ -85,7 +80,12 @@
         "Technical Excellence",
         "Technical Mastery",
         "Pragmatic Thinking"
-      ]
+      ],
+      "resourceTypes": "newsletter",
+      "Watermarks": {
+        "description": "2025-05-07T12:49:02Z",
+        "short_title": "2025-07-07T16:43:31Z"
+      }
     },
     "BodyContent": "In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.\n\nReal resilience comes from embedding rigorous engineering discipline. Every time you patch a production issue, you must ask:\n\n- Did we improve our automated tests?\n- Did we harden CI/CD pipelines?\n- Did we strengthen observability and monitoring?\n- Did we reinforce the architecture or code quality?\n\nWithout these, you are not resilient — you are hiding behind Agile theatre.\n\n### Detecting Agile Bullshit in Resilience Talk\n\nHere is how to spot teams and leaders pretending they are resilient:\n\n- “We’re Agile!” but they cannot deliver usable product every sprint.\n- “We do Scrum!” but there is no working increment, just carryover.\n- “We’re resilient!” but they rely on manual rollbacks and hero debugging.\n- “We have CI/CD!” but deployments are locked behind manual approvals or compliance bottlenecks.\n\nIf you hear these, stop and challenge them. Resilient systems show up in empirical delivery, not in slide decks or postmortem write-ups.\n\n### Technical Health: Your Best Resilience Investment\n\nOperational resilience is engineered in the small:\n\n- Small batch sizes\n- Continuous delivery to expose issues early\n- Automated recovery processes\n- Telemetry and feedback loops driving change\n\nResilience is a leadership accountability. Product Owners set priorities that invest in system health, not just features. Scrum Masters challenge process rot and technical compromises. Engineering leaders fund cross-team technical enablement.\n\nWithout technical health, there is no sustainable delivery. Without sustainable delivery, there is no real resilience.\n\nI look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.\n\n<p style=\"margin-top:20px; font-family: Arial, sans-serif;\">\n    Best regards,<br>\n    <strong>Martin Hinshelwood</strong><br>\n    <em>Naked Agility Ltd.</em>\n</p>\n\n---\n\n## What's New\n\nWe continue to offer our [mentor programs]({{< ref \"/capabilities/mentor-programs\" >}}) and [training programs]({{< ref \"/capabilities/training-courses\" >}}) for new and existing customers. We have changed [how out customers work with us]({{< ref \"/company/working-with-us\" >}}) with the same great content and delivery.\n\nCheck out our latest resources and updates:\n\n### Recent Posts\n\n{{< recent-resources ResourceTypes=\"blog\" >}}\n\n### Recent Videos\n\n{{< recent-resources ResourceTypes=\"videos\" >}}\n\n### Recent Podcasts\n\n{{< recent-resources ResourceTypes=\"podcast\" >}}\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\newsletters\\2025-06-12\\index.md",
@@ -99,21 +99,16 @@
       "description": "Explore how combining human decision-making with AI-driven automation boosts team accountability, agility, and measurable value in modern organisations.",
       "date": "2025-05-15",
       "weight": 580.0,
+      "author": "MrHinsh",
       "ResourceId": "OQOqFl5-FAi",
       "ResourceImport": false,
       "ResourceType": "newsletters",
+      "ResourceContentOrigin": "human",
       "slug": "agentic-agility-why-you-need-both-human-and-ai-agency",
       "aliases": [
         "/resources/OQOqFl5-FAi"
       ],
-      "author": "MrHinsh",
-      "ResourceContentOrigin": "human",
-      "resourceTypes": "newsletter",
       "layout": "newsletter",
-      "Watermarks": {
-        "description": "2025-05-07T12:49:07Z",
-        "short_title": "2025-07-07T16:44:12Z"
-      },
       "concepts": [
         "Accountability"
       ],
@@ -122,11 +117,17 @@
       ],
       "tags": [
         "Agentic Agility",
+        "Agentic Engineering",
         "Collective Intelligence",
         "Artificial Intelligence",
         "Value Delivery",
         "Digital Transformation"
-      ]
+      ],
+      "resourceTypes": "newsletter",
+      "Watermarks": {
+        "description": "2025-05-07T12:49:07Z",
+        "short_title": "2025-07-07T16:44:12Z"
+      }
     },
     "BodyContent": "Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).\n\nMost organisations fail because they only get one side right:\n\n- They empower humans but leave automation gaps.\n- Or they throw AI at problems without human mastery, making the system brittle.\n\nNeither works. You need both.\n\n### Why This Should Matter to You\n\nAs a leader, you are **accountable** for outcomes. That means:\n\n- Ensuring your teams **self-manage** and own delivery — they are not process-followers.\n- Leveraging **AI and automation** to extend human capability, not replace it.\n- Delivering **measurable value** by combining human feedback loops and adaptive systems.\n\nThis is not theoretical. Companies that miss this either drown in complexity or waste time automating the wrong things.\n\n### What We See in the Field\n\nFrom years of consulting, here’s what we know works:\n\n- Teams with clear **human accountability** (Product Owners, Scrum Masters, developers) outperform those stuck in roles without ownership.\n- Teams using **AI and automation** for telemetry, deployment, testing, and feedback loops reduce failure, cut cycle time, and build delivery confidence.\n- Organisations that combine both see **10–40% better throughput and quality** — not because of magic, but because they shape the system of work, not just the tools.\n\n### What You Should Do Next\n\nHere’s your short, sharp checklist:\n\n- Identify where **humans** must make decisions. Clarify their accountability.\n- Identify where **AI or automation** can remove waste, amplify insights, or increase speed.\n- Design your system of work to bring both together. This is not an either-or game.\n\nIf you only focus on humans, you burn out. If you only focus on AI, you build fragility.\n\n### Ready to Move?\n\nIf you want to build a system where humans and AI work together to drive continuous delivery of value, let’s talk. We help leadership teams align goals, practices, and enabling technology.\n\n**Agentic agility is not a buzzword. It is your competitive baseline.**\n\nI look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.\n\n<p style=\"margin-top:20px; font-family: Arial, sans-serif;\">\n    Best regards,<br>\n    <strong>Martin Hinshelwood</strong><br>\n    <em>Naked Agility Ltd.</em>\n</p>\n\n---\n\n## What's New\n\nWe continue to offer our [mentor programs]({{< ref \"/capabilities/mentor-programs\" >}}) and [training programs]({{< ref \"/capabilities/training-courses\" >}}) for new and existing customers. We have changed [how out customers work with us]({{< ref \"/company/working-with-us\" >}}) with the same great content and delivery.\n\nCheck out our latest resources and updates:\n\n### Recent Posts\n\n{{< recent-resources ResourceTypes=\"blog\" >}}\n\n### Recent Videos\n\n{{< recent-resources ResourceTypes=\"videos\" >}}\n\n### Recent Podcasts\n\n{{< recent-resources ResourceTypes=\"podcast\" >}}\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\newsletters\\2025-05-15\\index.md",

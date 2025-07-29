@@ -7,12 +7,21 @@ weight: 635
 ResourceId: Szz-d1q7CG7
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: the-market-isn-t-slowing-down-for-anyone
 aliases:
 - /resources/Szz-d1q7CG7
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Development
+tags:
+- Business Agility
+- Agile Philosophy
+- Market Adaptability
+- Pragmatic Thinking
+- Organisational Agility
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7318294805258657793
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:25Z
   short_title: 2025-07-07T16:44:50Z
-concepts: []
-categories:
-- Product Development
-tags:
-- Business Agility
-- Agile Philosophy
-- Market Adaptability
-- Pragmatic Thinking
-- Organisational Agility
 
 ---
 The market isn’t slowing down for anyone. While some organisations are still stuck debating frameworks, others are seizing opportunities and adapting at speed. The difference? Responsiveness.

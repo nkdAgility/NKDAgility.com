@@ -5,10 +5,9 @@ description: Explores why traditional hierarchical organisations struggle in fas
 date: 2023-06-29
 weight: 1000
 ResourceId: aeNTMpquEZ5
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-urgent-call-for-agile-organisational-transformation
 aliases:
 - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
@@ -23,6 +22,7 @@ aliasesArchive:
 - /the-urgent-call-for-agile-organisational-transformation
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+layout: blog
 concepts:
 - Ethos
 categories:
@@ -42,11 +42,9 @@ tags:
 - Beta Codex
 - Agile Philosophy
 - Agile Strategy
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49485
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: 1686217267121-1-1-1.jpg
 Watermarks:

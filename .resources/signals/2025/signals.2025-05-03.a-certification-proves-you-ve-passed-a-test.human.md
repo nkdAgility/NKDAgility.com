@@ -7,12 +7,19 @@ weight: 765
 ResourceId: 5fShT9wNqFg
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: a-certification-proves-you-ve-passed-a-test
 aliases:
 - /resources/5fShT9wNqFg
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Product Management
+tags:
+- Competence
+- Personal
+- Product Owner
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7324455284574150658
@@ -27,13 +34,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:03Z
   short_title: 2025-07-07T16:44:30Z
-concepts: []
-categories:
-- Product Management
-tags:
-- Competence
-- Personal
-- Product Owner
 
 ---
 A certification proves you’ve passed a test. It does not mean you can define a product vision, align stakeholders, or make tough trade-offs.

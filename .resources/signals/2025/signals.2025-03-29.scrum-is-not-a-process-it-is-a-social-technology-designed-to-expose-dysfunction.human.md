@@ -7,26 +7,12 @@ weight: 420
 ResourceId: CNqQyGHkbF3
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: scrum-is-not-a-process-it-is-a-social-technology-designed-to-expose-dysfunction
 aliases:
 - /resources/CNqQyGHkbF3
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7311786728955006976
-  post_id: "7311786728955006976"
-  post_date: 2025-03-29T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:49Z
-  short_title: 2025-07-07T16:45:09Z
+layout: signal
 concepts:
 - Accountability
 categories:
@@ -45,6 +31,20 @@ tags:
 - Organisational Agility
 - Scrum Master
 - Scrum Team
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7311786728955006976
+  post_id: "7311786728955006976"
+  post_date: 2025-03-29T16:30:02Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:49Z
+  short_title: 2025-07-07T16:45:09Z
 
 ---
 Scrum isn’t a process—it’s a social technology designed to expose dysfunction.

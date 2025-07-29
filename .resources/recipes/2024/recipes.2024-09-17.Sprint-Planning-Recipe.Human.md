@@ -7,12 +7,14 @@ weight: 790
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 slug: sprint-planning-recipe
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 - /resources/D1dSEM9ni3C
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+layout: recipe
 concepts:
 - Method
 categories:
@@ -28,9 +30,12 @@ tags:
 - Agile Frameworks
 - Agile Planning Tools
 - Team Performance
-ResourceContentOrigin: Human
+card:
+  button:
+    content: Learn More
+  content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
+  title: Sprint Planning Recipe
 resourceTypes: recipe
-layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 recommendedContent:
@@ -49,11 +54,6 @@ videos:
   embed: https://www.youtube.com/embed/uQ786VBz3Jw
 - title: How does a scrum team plan and prioritize work effectively?
   embed: https://www.youtube.com/embed/sPmUuSy7G3I
-card:
-  button:
-    content: Learn More
-  content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
-  title: Sprint Planning Recipe
 Watermarks:
   description: 2025-05-07T12:57:48Z
   short_title: 2025-07-07T17:47:58Z

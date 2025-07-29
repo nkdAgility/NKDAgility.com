@@ -1,22 +1,15 @@
 ---
 title: Professional Scrum with Kanban (PSK) with Certification
-description: Enhance your Scrum skills with the Professional Scrum with Kanban™ training, blending self-paced learning and hands-on exercises for effective team strategies.
-ResourceId: 9TCIWaWs_mz
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Professional Scrum with Kanban (PSK)
+description: Advanced 2-day course for experienced Scrum teams on integrating Kanban practices into Scrum to boost flow, transparency, and effectiveness; includes PSK certification.
 date: 2018-02-26
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: 9TCIWaWs_mz
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-scrum-with-kanban-psk-with-certification
-url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-with-kanban-psk
-- /training-courses/professional-scrum-with-kanban-psk-training
-- /training-courses/professional-scrum-with-kanban-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
 - /resources/9TCIWaWs_mz
 aliasesArchive:
 - /training-courses/professional-scrum-with-kanban-psk
@@ -24,6 +17,25 @@ aliasesArchive:
 - /training-courses/professional-scrum-with-kanban-training-with-certification
 - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Frameworks
+- Agile Transformation
+- Flow Efficiency
+- Operational Practices
+- Professional Scrum
+- Software Development
+- Transparency
+card:
+  button:
+    content: ""
+  title: Professional Scrum with Kanban (PSK) with Certification
+  content: Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum practitioners how to apply Kanban practices to their work. Through theory, case studies, and hands-on exercises, participants will understand the importance of transparency and flow as it pertains to the Scrum framework."
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
 - Scrum Training Courses
 course_vendors:
@@ -36,23 +48,9 @@ delivery_audiences:
 - Scrum Masters
 - Lean Agile Practitioners
 - Teams
-tags:
-- Agile Frameworks
-- Agile Transformation
-- Flow Efficiency
-- Operational Practices
-- Professional Scrum
-- Software Development
-- Transparency
-categories: []
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Professional Scrum with Kanban (PSK) with Certification
-  content: Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum practitioners how to apply Kanban practices to their work. Through theory, case studies, and hands-on exercises, participants will understand the importance of transparency and flow as it pertains to the Scrum framework."
 code: PSK
 course_proficiencies:
 - advanced
@@ -85,6 +83,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:49Z
+  short_title: 2025-07-29T15:01:50Z
 
 ---
 ```markdown

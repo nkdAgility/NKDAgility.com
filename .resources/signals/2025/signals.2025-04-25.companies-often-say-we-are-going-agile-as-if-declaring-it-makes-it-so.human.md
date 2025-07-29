@@ -7,26 +7,12 @@ weight: 500
 ResourceId: otmDMgDEp-i
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so
 aliases:
 - /resources/otmDMgDEp-i
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7321556257234980864
-  post_id: "7321556257234980864"
-  post_date: 2025-04-25T14:30:40Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:55:14Z
-  short_title: 2025-07-07T16:44:40Z
+layout: signal
 concepts:
 - Ethos
 categories:
@@ -47,6 +33,20 @@ tags:
 - Agile Product Management
 - Agnostic Agile
 - Large Scale Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7321556257234980864
+  post_id: "7321556257234980864"
+  post_date: 2025-04-25T14:30:40Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:55:14Z
+  short_title: 2025-07-07T16:44:40Z
 
 ---
 I've lost count of the number of times I've heard companies say, "We're going Agile!"—as if declaring it makes it so.

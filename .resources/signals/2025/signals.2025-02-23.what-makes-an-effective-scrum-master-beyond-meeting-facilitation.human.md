@@ -7,26 +7,12 @@ weight: 380
 ResourceId: uTkyoIh6f3c
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: what-makes-an-effective-scrum-master-beyond-meeting-facilitation
 aliases:
 - /resources/uTkyoIh6f3c
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299465533391843329
-  post_id: "7299465533391843329"
-  post_date: 2025-02-23T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-05-16T15:56:46Z
-  short_title: 2025-07-07T17:46:14Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -48,6 +34,20 @@ tags:
 - Agile Frameworks
 - Operational Practices
 - Organisational Agility
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299465533391843329
+  post_id: "7299465533391843329"
+  post_date: 2025-02-23T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-16T15:56:46Z
+  short_title: 2025-07-07T17:46:14Z
 
 ---
 A great Scrum Master isn’t measured by how well they facilitate meetings. It’s not about whether the Daily Scrum starts on time or if they keep the Sprint Retrospective engaging.

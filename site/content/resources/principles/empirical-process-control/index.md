@@ -22,15 +22,15 @@ categories:
 tags:
 - Empirical Process Control
 - Software Development
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-draft: true
 card:
   button:
     content: Learn More
   content: Discover more about Empirical Process Control and how it can help you in your Agile journey!
   title: Empirical Process Control
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 Watermarks:
   description: 2025-05-07T12:58:10Z
   short_title: 2025-07-07T17:48:03Z

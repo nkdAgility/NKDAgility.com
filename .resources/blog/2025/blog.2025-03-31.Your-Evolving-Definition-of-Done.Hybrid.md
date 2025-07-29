@@ -7,17 +7,14 @@ weight: 100
 ResourceId: 5wIEg7lD_Xd
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: your-evolving-definition-of-done
 aliases:
 - /resources/5wIEg7lD_Xd
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /your-evolving-definition-of-done
 - /blog/your-evolving-definition-of-done
+layout: blog
 concepts:
 - Strategy
 categories:
@@ -40,6 +37,9 @@ tags:
 - Technical Excellence
 - Engineering Practices
 - Product Delivery
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:17Z
   short_title: 2025-07-07T16:45:08Z

@@ -34,6 +34,11 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
+card:
+  button:
+    content: Learn More
+  content: Discover more about Kanban Guide and how it can help you in your Agile journey!
+  title: Kanban Guide
 resourceTypes: guide
 references:
 - title: The Kanban Guide
@@ -42,11 +47,6 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Kanban Guide and how it can help you in your Agile journey!
-  title: Kanban Guide
 Watermarks:
   description: 2025-05-16T10:06:25Z
   short_title: 2025-07-07T16:40:30Z

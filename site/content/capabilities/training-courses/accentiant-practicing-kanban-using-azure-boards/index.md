@@ -1,16 +1,14 @@
 ---
 title: Practicing Kanban Using Azure Boards
-description: Boost your team's flow and throughput with our one-day course on Kanban and Azure Boards, designed by expert Richard Hundhausen. Join us for hands-on learning!
-ResourceId: wHhDvrn-8PH
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Practicing Kanban with Azure Boards
+description: Learn Kanban principles and hands-on Azure Boards setup to visualize workflow, set WIP limits, track flow metrics, and improve team throughput and predictability.
 date: 2020-08-31
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: wHhDvrn-8PH
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: practicing-kanban-using-azure-boards
-url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
 - /PKAB/
 - /training-courses/practicing-kanban-using-azure-boards
@@ -22,17 +20,9 @@ aliasesArchive:
 - /training-courses/practicing-kanban-using-azure-boards
 - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
-course_topics:
-- Azure DevOps Training Courses
-course_vendors:
-- Accentient
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Developers
-- Lean Agile Practitioners
-- Product Managers
-- Teams
+concepts: []
+categories:
+- Kanban
 tags:
 - Agile Frameworks
 - Azure Boards
@@ -45,13 +35,25 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Throughput
-categories:
-- Kanban
 card:
   button:
     content: ""
   title: Practicing Kanban Using Azure Boards
   content: All software development teams aim to enhance flow and throughput. This one-day course combines Kanban principles with Azure Boards, showing agile teams how to configure and effectively use the platform for Kanban practices. Participants will collaborate in teams on a shared project and case study to maximize learning.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/azure-devops-training-courses/:slug/
+course_topics:
+- Azure DevOps Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Developers
+- Lean Agile Practitioners
+- Product Managers
+- Teams
 code: PKAB
 course_proficiencies:
 - intermediate
@@ -137,6 +139,9 @@ events:
     - 2
     - 3
     - 4
+Watermarks:
+  description: 2025-07-29T15:01:34Z
+  short_title: 2025-07-29T15:01:35Z
 
 ---
 # Practicing Kanban Using Azure Boards

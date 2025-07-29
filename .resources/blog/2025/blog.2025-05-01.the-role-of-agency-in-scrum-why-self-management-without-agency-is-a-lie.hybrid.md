@@ -7,10 +7,10 @@ weight: 200
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 aliases:
 - /resources/uwJYNXG7yIu
-ResourceContentOrigin: Hybrid
 aliasesArchive:
 - /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie

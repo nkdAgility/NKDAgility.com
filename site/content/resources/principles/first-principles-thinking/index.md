@@ -19,14 +19,14 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-creator: Martin Hinshelwood
-draft: true
-resourceTypes: principle
 card:
   button:
     content: Start Optimizing Now
   title: First Principles Thinking
   content: Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths.
+creator: Martin Hinshelwood
+draft: true
+resourceTypes: principle
 Watermarks:
   description: 2025-05-07T12:57:52Z
   short_title: 2025-07-07T17:48:04Z

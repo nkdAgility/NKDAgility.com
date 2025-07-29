@@ -5,10 +5,9 @@ description: Explores the shift from traditional to immersive Agile learning, hi
 date: 2023-12-14
 weight: 840
 ResourceId: Ax5c4JFICyO
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: the-evolution-of-agile-learning-insights-from-scrum-org's-webinar
 aliases:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -25,17 +24,16 @@ aliasesArchive:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum.org-s-webinar
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-ResourceContentOrigin: Hybrid
 ResourceImportId: 50979
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 Watermarks:

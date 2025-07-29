@@ -1,16 +1,14 @@
 ---
 title: Scrum for Executives Training
-description: Join this interactive class to discover what Scrum is, why it matters, and your role in its adoption through engaging discussions and team activities.
-ResourceId: AHschsDjL2E
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Scrum for Executives Training
+description: Instructor-led course for executives and managers to understand Scrum, its benefits, executive roles, Agile metrics, case studies, and adoption best practices.
 date: 2020-08-31
 weight: 750
-creator: Martin Hinshelwood
-type: course
+ResourceId: AHschsDjL2E
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: scrum-for-executives-training
-url: 
 aliases:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
@@ -20,6 +18,25 @@ aliasesArchive:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
 - /capabilities/training-courses/accentient/scrum-for-executives
+concepts: []
+categories:
+- Scrum
+tags:
+- Agile Frameworks
+- Agile Transformation
+- Organisational Agility
+- Professional Scrum
+- Software Development
+card:
+  button:
+    content: ""
+  title: Scrum for Executives Training
+  content: |2
+
+    *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
+creator: Martin Hinshelwood
+type: course
+url: 
 course_topics:
 - Scrum Training Courses
 course_vendors:
@@ -29,24 +46,9 @@ course_learning_experiences:
 delivery_audiences:
 - Entrepreneurs
 - Executives
-tags:
-- Agile Frameworks
-- Agile Transformation
-- Organisational Agility
-- Professional Scrum
-- Software Development
-categories:
-- Scrum
 preview: 
 previewIcon: A-S4E.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Scrum for Executives Training
-  content: |2
-
-    *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
 code: S4E
 course_proficiencies:
 - beginner
@@ -83,6 +85,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:25Z
+  short_title: 2025-07-29T15:01:26Z
 
 ---
 # Scrum for Executives Training

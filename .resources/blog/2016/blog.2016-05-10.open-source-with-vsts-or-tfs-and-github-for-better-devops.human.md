@@ -5,24 +5,19 @@ description: Learn how to automate code synchronisation between VSTS/TFS and Git
 date: 2016-05-10
 weight: 690
 ResourceId: LWHiaHn3CWF
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Human
 slug: open-source-with-vsts-or-tfs-and-github-for-better-devops
 aliases:
 - /resources/LWHiaHn3CWF
-ResourceContentOrigin: Human
-ResourceImportId: 11491
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/open-source-vsts-tfs-github-better-devops
 - /open-source-vsts-tfs-github-better-devops
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
+layout: blog
 concepts:
 - Tool
 categories:
@@ -35,6 +30,9 @@ tags:
 - Modern Source Control
 - Pragmatic Thinking
 - GitHub
+ResourceImportId: 11491
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 Watermarks:
   description: 2025-05-07T13:16:44Z

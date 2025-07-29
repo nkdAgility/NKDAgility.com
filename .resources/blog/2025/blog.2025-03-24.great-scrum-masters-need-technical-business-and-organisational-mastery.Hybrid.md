@@ -4,25 +4,22 @@ short_title: 'Scrum Mastery: Technical, Business, Organisational'
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 date: 2025-03-24T09:00:00
 weight: 175
-ResourceId: dQjKsWR5qfn
-ResourceImport: false
-ResourceType: blog
-slug: great-scrum-masters-need-technical-business-and-organisational-mastery
-aliases:
-- /resources/dQjKsWR5qfn
-ResourceContentOrigin: Hybrid
-AudioNative: true
-creator: Martin Hinshelwood
 contributors:
 - name: Henrik Berglund
   external: https://www.linkedin.com/in/henrikber/
-layout: blog
-resourceTypes: blog
+ResourceId: dQjKsWR5qfn
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+aliases:
+- /resources/dQjKsWR5qfn
 aliasesArchive:
 - /great-scrum-masters-need-technical-business-and-organisational-mastery
 - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
 - /great-scrum-masters-need-technical--business--and-organisational-mastery
 - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+layout: blog
 concepts:
 - Framework
 categories:
@@ -45,6 +42,9 @@ tags:
 - Value Delivery
 - Operational Practices
 - Market Adaptability
+AudioNative: true
+creator: Martin Hinshelwood
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:18Z
   short_title: 2025-07-07T16:45:15Z

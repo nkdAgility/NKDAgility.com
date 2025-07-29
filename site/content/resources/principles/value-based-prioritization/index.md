@@ -22,15 +22,15 @@ categories:
 tags:
 - Product Backlog
 - Value Delivery
-recommendedContent: 
-creator: Martin Hinshelwood
-resourceTypes: principles
-draft: true
 card:
   button:
     content: Learn More
   content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
   title: Value-based Prioritization
+recommendedContent: 
+creator: Martin Hinshelwood
+resourceTypes: principles
+draft: true
 Watermarks:
   description: 2025-05-07T12:57:53Z
   short_title: 2025-07-07T17:48:08Z

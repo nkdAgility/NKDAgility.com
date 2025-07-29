@@ -5,10 +5,9 @@ description: Explores how live virtual classrooms have become effective alternat
 date: 2020-06-18
 weight: 1000
 ResourceId: wS3GaFbyzDv
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: live-virtual-classroom's-and-the-new-normal
 aliases:
 - /resources/blog/live-virtual-classroom-s-and-the-new-normal
@@ -20,15 +19,14 @@ aliasesArchive:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 - /resources/blog/live-virtual-classroom-s-and-the-new-normal
+layout: blog
 concepts: []
 categories:
 - Uncategorized
 tags:
 - Remote Working
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44418
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1-1-1.png
 Watermarks:

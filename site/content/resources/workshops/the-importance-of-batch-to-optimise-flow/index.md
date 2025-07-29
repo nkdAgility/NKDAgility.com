@@ -28,13 +28,13 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-resourceTypes: workshop
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
   title: The Importance of Batch to Optimise Flow
+resourceTypes: workshop
+creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:58:27Z
   short_title: 2025-07-07T17:48:10Z

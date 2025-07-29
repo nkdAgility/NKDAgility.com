@@ -1,24 +1,15 @@
 ---
 title: Professional Scrum Master Advanced (PSM-A) with Certification
-description: Elevate your Scrum Master skills with the 2-day PSM-A course, designed for experienced professionals seeking advanced knowledge and a free PSM II certification attempt.
-ResourceId: 7p77l4PFd03
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Professional Scrum Master Advanced (PSM-A)
+description: Advanced 2-day course for experienced Scrum Masters covering servant leadership, conflict resolution, facilitation, metrics, and includes PSM II certification attempt.
 date: 2019-05-25
 weight: 600
-creator: Martin Hinshelwood
-type: course
+ResourceId: 7p77l4PFd03
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: professional-scrum-master-advanced-psm-a-with-certification
-url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/advanced-scrum-master-psm-ii-training
-- /training-courses/professional-scrum-master-ii-psmii-training
-- /training-courses/advanced-professional-scrum-master-psm-a-training
-- /training-courses/professional-scrum-master-ii-training-with-certification
-- /training-courses/professional-scrum-master-advanced-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
 - /resources/7p77l4PFd03
 aliasesArchive:
 - /training-courses/advanced-scrum-master-psm-ii-training
@@ -28,6 +19,27 @@ aliasesArchive:
 - /training-courses/professional-scrum-master-advanced-training-with-certification
 - /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+tags:
+- Scrum Master
+- Agile Frameworks
+- Agile Transformation
+- Coaching
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Performance
+card:
+  button:
+    content: ""
+  title: Professional Scrum Master Advanced (PSM-A) with Certification
+  content: Professional Scrum MasterTM II (PSM II) course is a 14h advanced Scrum Master class designed to support Scrum Masters in their professional development.  The PSM II course is intended for Scrum Masters with at least one year of experience who are looking to grow their knowledge and abilities as a Scrum Master. This course is one step in that journey.
+creator: Martin Hinshelwood
+type: course
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
 - Scrum Training Courses
 course_vendors:
@@ -38,27 +50,9 @@ delivery_audiences:
 - Managers
 - Scrum Masters
 - Lean Agile Practitioners
-tags:
-- Scrum Master
-- Agile Frameworks
-- Agile Transformation
-- Coaching
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
-- Pragmatic Thinking
-categories:
-- Scrum
-- Technical Leadership
 preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSMII-400x.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Professional Scrum Master Advanced (PSM-A) with Certification
-  content: Professional Scrum MasterTM II (PSM II) course is a 14h advanced Scrum Master class designed to support Scrum Masters in their professional development.  The PSM II course is intended for Scrum Masters with at least one year of experience who are looking to grow their knowledge and abilities as a Scrum Master. This course is one step in that journey.
 code: PSM-A
 course_proficiencies:
 - advanced
@@ -108,6 +102,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:42Z
+  short_title: 2025-07-29T15:01:43Z
 
 ---
 # Professional Scrum Master Advanced (PSM-A) with Certification

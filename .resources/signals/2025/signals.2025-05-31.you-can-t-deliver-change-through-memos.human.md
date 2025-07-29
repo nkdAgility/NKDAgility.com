@@ -11,22 +11,8 @@ ResourceContentOrigin: human
 slug: you-can-t-deliver-change-through-memos
 aliases:
 - /resources/_CXFN2swhdy
-layout: signal
 source: LinkedIn
-platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7334602153124102145
-  post_id: "7334602153124102145"
-  post_date: 2025-05-31T14:30:23Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-Watermarks:
-  description: 2025-06-17T17:50:45Z
-  short_title: 2025-07-07T16:43:51Z
+layout: signal
 concepts:
 - Principle
 categories:
@@ -48,6 +34,20 @@ tags:
 - Agile Transformation
 - Software Development
 - Self Organisation
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7334602153124102145
+  post_id: "7334602153124102145"
+  post_date: 2025-05-31T14:30:23Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-17T17:50:45Z
+  short_title: 2025-07-07T16:43:51Z
 
 ---
 You can’t deliver change through memos. Or tool rollouts. Or executive mandates. If people don’t understand the change, they’ll resist it. Silently. Subtly. And completely.

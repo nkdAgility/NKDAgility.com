@@ -9,15 +9,11 @@
       "ResourceId": "9asj2UApmVM",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy",
       "aliases": [
         "/resources/9asj2UApmVM"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "Watermarks": {
-        "description": "2025-06-18T18:22:38Z",
-        "short_title": "2025-07-07T16:43:05Z"
-      },
       "concepts": [
         "Practice"
       ],
@@ -42,7 +38,11 @@
         "Project Management",
         "Lean Thinking",
         "Product Delivery"
-      ]
+      ],
+      "Watermarks": {
+        "description": "2025-06-18T18:22:38Z",
+        "short_title": "2025-07-07T16:43:05Z"
+      }
     },
     "BodyContent": "Just a regular reminder that predictability and the accuracy of any estimate deteriorate rapidly as you increase the amount of Work in Progress (WIP) in the system. And yet, most teams still try to compensate for unpredictability by estimating better, rather than addressing the actual problem: the system is overloaded and cannot flow.\n\nThis isn’t a theoretical issue. It’s not about mindset. It’s a systemic constraint. The more you load a delivery system, the slower and more unpredictable it becomes. The more you try to force progress by starting new work, the less likely it is that anything will finish.\n\nAt a certain point, no estimate matters because wait time is dominating lead time.\n\n## Estimation and flow are not interchangeable\n\nIt’s tempting to believe that delivery problems are caused by poor estimation. If only the team were better at sizing or forecasting, things would be more predictable. But the underlying assumption here is flawed: it assumes the issue lies with how the team understands the work, not with how the system behaves under load.\n\nA team may estimate that a task will take two days of effort. That estimate might be reasonable, given what they know. But if that task sits in a review queue, or is waiting on test, or is delayed due to someone being pulled onto another “high priority” initiative, then that two-day effort turns into a ten-day cycle time. The estimate wasn’t wrong. It was irrelevant.\n\nIn a system where most of the time is spent waiting, refining the accuracy of the effort estimate achieves very little. It’s a distraction from the core issue, which is that the system is too congested to behave predictably.\n\n## Little’s Law doesn’t care about your process\n\nThe relationship between WIP, throughput, and cycle time is not arbitrary. It’s defined by **[Little’s Law](https://en.wikipedia.org/wiki/Little%27s_law)**:\n\n> WIP = Throughput × Cycle Time\n\nThis relationship always holds, but it depends on a key assumption: that throughput is reasonably stable. And this is where many teams fall over.\n\nIn most software teams, throughput **does** fluctuate — sometimes significantly. That variability comes from inconsistent work item sizes, unclear requirements, frequent interruptions, blockers, technical debt, lack of test automation, and reactive priorities.\n\nUnless a team is managing WIP aggressively, working in collaboration, and applying consistent flow policies, the idea of “stable throughput” is optimistic at best and misleading at worst. This is exactly why [Scrum]({{< ref \"/resources/guides/scrum-guide\" >}}), [Kanban]({{< ref \"/resources/guides/kanban-guide\" >}}), and other flow-based systems place so much emphasis on visualising work and limiting WIP: to stabilise throughput _so_ you can get the benefits of predictability.\n\nSo yes, [Little’s Law](https://en.wikipedia.org/wiki/Little%27s_law) is always valid. But applying it usefully requires more than a theoretical understanding. It requires operational discipline. It requires systems that dampen variability rather than amplify it.\n\nIn fact, multiple industry studies and real-world examples have consistently validated this behaviour. One case study by [Troy Magennis](https://focusedobjective.com) describes a team that introduced WIP limits and began swarming on blocked work. As a result, their 85th percentile cycle time dropped from 35 days to 14 days, even after halving the team size. Meanwhile, their throughput increased from 1.07 to 1.41 stories per day (Magennis, T., _Impact of WIP Limits on Throughput and Predictability_, 2016).\n\nAnother example comes from Ultimate Software, documented in _[Making Work Visible](https://itrevolution.com/products/making-work-visible)_[ by Dominica DeGrandis](https://itrevolution.com/products/making-work-visible), where a payroll team implemented WIP limits lower than the number of developers to force collaboration. This change led to a 69% reduction in story cycle time and a 79% reduction in average queue wait time. Their conclusion was simple: controlling WIP shortened how long work spent in the system and dramatically improved predictability.\n\nThe more work you start without finishing, the longer everything takes to get done. That delay introduces variability, and that variability is what destroys the trustworthiness of your plans.\n\nMost teams don’t lose predictability because the work is hard. They lose predictability because everything is in progress, and very little is actually flowing.\n\n## You don’t need to measure to see the damage\n\nYou don’t need metrics dashboards to identify when WIP is too high. You can see it in the way work moves ,  or doesn’t.\n\nIf you reach the middle of a sprint and everything is “in progress” but nothing has been finished, that’s a signal. If developers are working on individual items and handing them off downstream to test or review, you’re operating a batch-and-queue system, and your flow efficiency is likely sitting around 5–15%.\n\nThat means 85–95% of the total time a work item spends in the system is just waiting. And yet we still treat the active effort as the part worth optimising.\n\nThis is why “estimating better” doesn’t help. Your estimates cover the 5–15%. The problem lives in the 85–95%.\n\n## Collaboration is the early warning system\n\nIn my experience, if a team isn’t working together, in pairs, mobs, or focused swarms, WIP is already too high. The more localised the work, the more parallelisation. The more parallelisation, the more queues. And the more queues, the longer and more variable the cycle time.\n\nSolo work in a collaborative delivery system isn’t faster. It’s fragmented. And it usually results in a board full of items “almost done” by the time you hit the sprint review.\n\nThere’s a reason experinced teams limit WIP to fewer items than there are people. It forces collaboration. It surfaces blockers. It reduces context switching. And it creates the conditions where delivery actually becomes predictable.\n\n## Multitasking is just unmanaged WIP\n\nIt’s easy to hide WIP inside individual calendars. A developer working on four items in parallel is managing four invisible queues. They’ll tell you they’re “almost done” with all of them, but none of them are finished.\n\nEvery switch between tasks adds cognitive load ([Mark et al., 2005, UC Irvine](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)). Studies have shown that with five parallel items, you lose up to 75% of productive time to context switching alone (Weinberg, G., _Quality Software Management: Systems Thinking_, 1992; DeMarco, T. & Lister, T., _Peopleware_, 1999).\n\nWe don’t account for this in planning. We assume that “utilised” means “productive.” It doesn’t. It means slow, error-prone, and unpredictable.\n\nSo even if each individual item is small and well-estimated, the system is still under strain. And that strain manifests as delay.\n\n## The fix isn’t effort. It’s flow.\n\nI’ve worked with teams that improved throughput and predictability without changing how they estimated, or increasing capacity, or working longer hours. They simply reduced WIP and focused on finishing.\n\nAnother example comes from a workshop documented by Julia Wester and Daniel Vacanti, where a team reduced their average cycle time by 55% over four sprints by combining visible WIP limits with service level expectations. There was no change to the work, the people, or the tooling. The only thing that changed was the system of work: work was finished before starting more, blockers were made visible, and delivery became more even. This kind of operational clarity consistently outperforms speculative estimation.\n\nThey didn’t do more work. They just stopped pretending that all the started work was progress.\n\nThe result? Less stress. Fewer surprises. And a forecast that didn’t fall apart after day two.\n\n## If you want predictability, stop flooding the system\n\nYou don’t get predictability from planning harder.\n\nYou get it from flow. You get it when work finishes at a consistent rate. You get it when the system is stable enough that estimates are actually meaningful.\n\nIf you’re struggling with predictability, don’t start with estimation. Start with WIP. Look at how many items are currently in progress. Look at how long they’ve been sitting. Look at how many are waiting on something else to move first.\n\nThen ask: what would happen if we cut our WIP in half?\n\nWhat would we have to do differently to actually finish things instead of constantly starting new ones?\n\nThat’s where predictability begins, not in a planning session, but in the shape and health of the system itself.\n\n---\n\n## References\n\n- Wester, J. & Vacanti, D. (2019). _Actionable Agile Metrics for Predictability_. Leanpub. [https://www.actionableagile.com/book](https://www.actionableagile.com/book)\n- Magennis, T. (2016). _Impact of WIP Limits on Throughput and Predictability_. Focused Objective. [https://focusedobjective.com](https://focusedobjective.com)\n- Mark, G., Gonzalez, V. M., & Harris, J. (2005). _No Task Left Behind? Examining the Nature of Fragmented Work_. UC Irvine, CHI Conference. [https://www.ics.uci.edu/\\~gmark/chi08-mark.pdf](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)\n- Weinberg, G. (1992). _Quality Software Management: Systems Thinking_. Dorset House Publishing. [https://www.dorsethouse.com/books/qsmvol1.html](https://www.dorsethouse.com/books/qsmvol1.html)\n- DeMarco, T. & Lister, T. (1999). _Peopleware: Productive Projects and Teams_. Dorset House Publishing. [https://www.dorsethouse.com/books/peopleware.html](https://www.dorsethouse.com/books/peopleware.html)\n- Magennis, T. (2016). _Impact of WIP Limits on Throughput and Predictability_. [https://focusedobjective.com](https://focusedobjective.com)\n- DeGrandis, D. (2017). _Making Work Visible: Exposing Time Theft to Optimize Work & Flow_. IT Revolution Press. [https://itrevolution.com/products/making-work-visible](https://itrevolution.com/products/making-work-visible)\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-09-08-estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy\\index.md",
@@ -59,15 +59,11 @@
       "ResourceId": "IO5EHjiHhTf",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "are-we-still-pretending-coding-was-the-bottleneck",
       "aliases": [
         "/resources/IO5EHjiHhTf"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "Watermarks": {
-        "description": "2025-06-06T15:13:01Z",
-        "short_title": "2025-07-07T16:43:06Z"
-      },
       "concepts": [
         "Principle"
       ],
@@ -80,6 +76,7 @@
         "Software Development",
         "Pragmatic Thinking",
         "Value Delivery",
+        "Agentic Engineering",
         "Operational Practices",
         "Sociotechnical Systems",
         "Organisational Agility",
@@ -90,9 +87,12 @@
         "Flow Efficiency",
         "Technical Excellence",
         "Systems Thinking",
-        "Continuous Improvement",
-        "Engineering Practices"
-      ]
+        "Continuous Improvement"
+      ],
+      "Watermarks": {
+        "description": "2025-06-06T15:13:01Z",
+        "short_title": "2025-07-07T16:43:06Z"
+      }
     },
     "BodyContent": "AI has changed a lot of things in software development. But if you're shocked that it can write code, you’ve probably misunderstood where the real constraints are.\n\nLet’s be clear: **coding was never the bottleneck**.\n\nIf you're still organising your system of work like it is—managing capacity by developer headcount, measuring velocity in story points, handing off tickets from BA to Dev to QA—then AI isn’t going to save you. It’s going to expose you.\n\n## The First Way of DevOps Was Always the Warning\n\nThe First Way of DevOps is **Systems Thinking**. It’s the relentless focus on flow, from idea to delivery. Not just within development, but across the entire value stream.\n\nSo why is everyone panicking about code-writing agents?\n\nBecause most organisations never understood the First Way in the first place. They thought DevOps was about pipelines, YAML files, and infrastructure automation.\n\nThey forgot it was about fixing the system.\n\nAI isn’t breaking your delivery model. It’s just revealing how broken it already was.\n\n## If You Map Your Value Stream, the Bottleneck Isn't Where You Think\n\nDo the work. Map your system. What you’ll likely find is this:\n\n- Work sits in queues waiting for “clarification”\n- Teams are blocked by signoffs, dependencies, or overburdened specialists\n- Test feedback takes hours, days, or never comes at all\n- Quality is gated by QA teams, not engineered into the product\n- Your best developers are busy merging branches, not solving problems\n\nIn that mess, how is code ever the constraint?\n\n## AI Hallucination? Or Garbage In?\n\nYes, AI sometimes generates code that doesn’t compile or misbehaves. But let’s not act like human-written code is immune to those flaws.\n\nGarbage in, garbage out. If your acceptance criteria are vague, your architecture is a mess, and your quality is outsourced to downstream testers, you’re giving AI the same bad inputs that led you here in the first place.\n\nYou don’t fix that by blaming the tool. You fix that by adopting **disciplined engineering practices**:\n\n- **Test-First** development so intent is explicit\n- **Observability** built in from the start\n- **Definition of Done** that includes operational readiness\n- **Autonomous teams** accountable for outcomes, not output\n\nThe problem isn’t the LLM. The problem is the system it landed in.\n\n## QA Is Not a Team. It’s a System Responsibility.\n\nIf you still have a separate QA team running tests after “dev is done,” you are perpetuating one of the core dysfunctions that made DevOps necessary.\n\nQuality is not something you inspect in later. It’s something you **build in** from the start—with design, pairing, automation, and feedback.\n\nAI won’t fix this. But it will make it more obvious.\n\n## So How Do You Test AI-Generated Code?\n\nThe same way you should already be testing human-typed code:\n\n- Write the test before the code\n- Make quality part of the Definition of Done\n- Deploy frequently, observe outcomes, adapt fast\n\nAI doesn’t change that. It just **removes the excuse** that “we didn’t have time.”\n\n## If You're Still Blaming the Tool, You're Not Owning the System\n\nAI isn’t the enemy. Your culture is. Your delivery model is. Your lack of flow is.\n\nIf your teams can’t ship working software reliably today, AI isn’t going to help.\n\nBut if you’ve invested in autonomy, flow, and observability—if you’ve taken the First Way of DevOps seriously—then AI is a force multiplier.\n\nThe bottleneck was never the code. It was the way you worked.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-09-01-are-we-still-pretending-coding-was-the-bottleneck\\index.md",
@@ -109,15 +109,11 @@
       "ResourceId": "k-kqjqSgdGx",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "should-you-use-one-project-to-rule-them-all-in-azure-devops",
       "aliases": [
         "/resources/k-kqjqSgdGx"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "Watermarks": {
-        "description": "2025-06-06T12:34:49Z",
-        "short_title": "2025-07-07T16:43:07Z"
-      },
       "concepts": [
         "Tool"
       ],
@@ -142,7 +138,11 @@
         "Agile Strategy",
         "Organisational Agility",
         "Team Performance"
-      ]
+      ],
+      "Watermarks": {
+        "description": "2025-06-06T12:34:49Z",
+        "short_title": "2025-07-07T16:43:07Z"
+      }
     },
     "BodyContent": "**Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**\n\nIf you’re still using multiple team projects in Azure DevOps to represent every application, every team, or every product, you may be paying the price in fragmentation, lost observability, and poor flow. That might have made sense in TFS 2005, but it's a liability in 2025.\n\nThe real path to high-performing teams? **One Project to rule them all**. One Azure DevOps Project, multiple teams, focused goals, observable flow. Scaled, not scattered.\n\nI have been advocating for [One Team Project to rule them all]({{< resource-ref \"8AfjJ-2eCEV\" >}}) almost from the beginning with [Project of Projects with team Foundation Server 2010]({{< resource-ref \"qiY3IH2aMYV\" >}})  and my stance has not changed, although the Azure DevOps product has a over the years.\n\n## TL;DR;&#x20;\n\nThe \"many teams and projects\" model in Azure DevOps is Microsoft’s own recommended setup—and one they use internally. It can make life easier for portfolio management and cross-team collaboration. But it comes with a price: increased complexity in setup, configuration, and ongoing maintenance. You’re trading operational simplicity for structural flexibility.\n\n> \"One project to rule them all \\[Teams] and in \\[Azure DevOps] bind them\"\n> \\- Martin Hinshelwood, 2010\n\n## When should you have multiple Projects in Azure DevOps?\n\nMicrosoft [clearly advises that projects are there to support multiple business units](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/about-projects?view=azure-devops) and gives the following reasons for creating multiple projects:\n\n- Support custom work tracking processes for specific business units within your organisation\n- Support entirely separate business units that have their own administrative policies and administrators\n\nI removed three reasons they give from this list, as they are generally irrelevant for most organisations. The first was the permission boundary, which I will handle below; another was for testing customisations, and the last was for a separate public OSS project.\n\nNowhere does Microsoft, as the creator of Azure DevOps, advocate for a Project per project, initiative, or effort within your organisation.\n\n## Why Multiple Organisations and Projects Break Down at Scale\n\nIn most organisations, we aim to create cross-functional teams capable of delivering across a portfolio, at least within a defined funding stream or budgetary unit. As organisations grow, they typically segment into multiple funding streams, but decision-making around where and how to apply funding remains centralised within each unit.\n\nAzure DevOps’ organisational and project boundaries can hinder this flexibility.\n\n#### Multi-Organisation Boundaries\n\n- **P\\&L Boundary**: Separate organisations represent separate billing scopes; licensing, builds, storage.\n- **Query Boundary**: You cannot query across organisations inside the same tenant. To get a full view, you're forced into third-party tooling like Power BI.\n- **Linking Boundary**: While you can link work items across organisations (e.g., \"Consumes From\", \"Produces For\", \"Remote Related\"), these links are largely superficial. They aren't usable in Delivery Plans, Backlogs, or Boards.\n\n#### Multi-Project Boundaries\n\n- **Query Boundary**: While you can technically query across projects, you can't create a unified backlog. Planning becomes fragmented and requires external tools like Portfolio++ to stitch things together.\n- **Boards**: You cannot create a board that visualises work across multiple projects. That’s a hard platform limitation.\n- **Team Focus**: When individuals belong to multiple projects, their focus splinters. Backlogs fragment. Priorities conflict. The result? Increased wait time, context switching, and delivery delays.\n- **Security**: Permissions, policies, and groups must be duplicated and managed separately across projects. That’s more overhead and more risk.\n- **Shared Assets**: Test cases, source, pipelines, environments—these are far harder to reuse or coordinate across projects.\n\nEvery additional Organisation and Project adds friction that Azure DevOps is not designed to resolve. These aren’t flexible abstractions; they are hard boundaries and are by design.\n\n&#x20;None of these constraints provides anything that a single project and a sane Area Path strategy couldn’t already achieve, with less overhead and more coherence.\n\n## Should you have many projects?\n\nHere is a summary of the three options:\n\n- **One project, many teams** - If your teams are aligned, your backlog is coherent, and you're operating within a single organisation, then one project is the sweet spot. You get unified governance, consistent processes, and minimal admin overhead. Each team can tailor their boards and iterations while still feeding into a shared backlog and reporting structure. Visibility is baked in—if someone wants to see what's happening, they can. Coordination is simpler, reuse is natural, and roll-up metrics just work. Most importantly, it reduces cognitive and operational overhead, letting teams focus on delivery, not bureaucracy.\n- **One organisation, many projects, and teams** - This model is useful when you're juggling different processes, delivery cadences, or security needs. You trade a bit of simplicity for flexibility. Each project has its own process templates, permissions, and settings, which makes sense if the work is fundamentally different, but it adds friction. Cross-team visibility suffers, reuse gets clumsy, and roll-up reporting becomes harder. You're coordinating across silos, not within a system. If you're using this model, you’ve likely optimised for isolation over collaboration. That might be intentional, but it comes at a cost.\n- **Many organisations** - Only use this if you need ironclad isolation—think separate business units, external contracts, or compliance constraints. This is the most expensive model in terms of overhead, administration, and collaboration. There’s no natural visibility across orgs, no shared queries or boards, and zero cross-org reporting. Everything has to be duplicated or integrated manually. That might be acceptable if you’re supporting legacy TFS structures or strict multitenancy, but it kills flow. If you’re working across orgs and still need to coordinate, you’re solving a problem your tooling should have prevented.\n\nI have always advocated for larger projects and use the following rule of thumb:\n\n> If you have money, people, work, or products that interact in any meaningful way, then they should really be in a single Project.\n\nLet’s not pretend this is theoretical. Microsoft’s own Developer Division (DevDiv) utilises a single Azure DevOps project to manage source code, builds, releases, test cases, and work items for over 2,000 engineers. For the Windows team at Microsoft, it's more like 15,000 people in one Project.\n\nIf that’s not proof this scales, what is?\n\n## The Strategy: One Project. Many Teams. Clear Constraints.\n\nA modern Azure DevOps project is designed to scale horizontally using **Teams**, and **Area Paths** and not by creating new team projects. This means that you need to deliberately design your strategy to avoid it becoming a total midden.\n\nInside Azure DevOps, while teams are a flat list, they are linked to Area paths, a hierarchy, to determine which work items are included in the teams view, and thus their backlogs and boards.\n\nHere’s how it works.\n\n> [!WARNING]\n> This is going to get confusing since \"Team\" can mean \"team of people\" or the Azure DevOps construct of \"Team\". Im going to try and explicetly say \"Azure DevOps Team\" to refer to the construct and \"team\" to refer to a group of people. These people could be a \"portfolio team\", \"feature team\", or \"delivery team\".\n\n### 1. **Use Area Paths to Represent Departments and Products**\n\nYour Area Path hierarchy is the backbone of visibility, governance, and scale. Treat it as a map of how your products are delivered—not how your org chart looks. It should reflect the product structure and value streams, not departmental politics.\n\nCreate a distinct leaf node for every delivery team. This gives you fine-grained control for permissions, test plan isolation, dashboard targeting, and scoped visibility. Intermediate levels should reflect coherent product or platform groupings, enabling roll-up views without breaking team autonomy.\n\n```\nMyProject\n ├── Product A\n │    ├── Team 1\n │    └── Team 2\n ├── Product B\n │    ├── Team X\n │    └── Team Y\n └── Platform\n      └── Shared Services Team\n```\n\nIf your hierarchy matches your architecture and delivery teams, you unlock real traceability. If it mirrors your reporting lines, you’ll spend your time fighting visibility gaps and access problems.\n\n> [!TIP]\n> Use Area Paths deliberately. They are your primary tool for scoping permissions, isolating test plans, assigning build policies, and targeting dashboards. Keep them stable. Don’t reorganise on a whim.\n\n### 2. Define Azure DevOps Teams with Clear Area Path Ownership\n\nEach Azure DevOps Team is a lens into a defined slice of the Area Path hierarchy. That lens determines what work shows up on its backlog, board, and delivery plans. Clear, non-overlapping ownership is essential if you want visibility without duplication, focus without conflict.\n\nThe key? Design the Area Path hierarchy with intent, then map each team to a specific leaf node. Use the “include sub-areas” option carefully. Avoid overlap. One work item, one team board.\n\n- Want a unified **Platform view**? Create an Azure DevOps Team at the higher-level node and include all sub-areas.\n- Need a **delivery team focus**? Map them to their own leaf node and exclude others.\n- Building a **Portfolio Kanban**? Use higher-level Areas with Epics and Features only—leave Backlog Items to delivery teams.\n\n> [!TIP]\n> A work item should never appear on two boards. If it does, your setup will confuse stakeholders and erode trust.\n\nHere’s a common, pragmatic split:\n\n- **Feature team Boards**: Configure to show Backlog Items only.\n- **Portfolio Boards**: Configure to show Epics and Features only, with “include sub-areas” on.\n\nThis setup enables delivery teams to focus on tactical work, while leadership tracks strategic progress—all in the same project, without duplication.\n\n### 3. **Use Iteration Paths for Cadence, Not Structure**\n\nKeep Iteration Paths consistent across teams where possible. This enables consolidated reporting and facilitates shared understanding of delivery cycles.\n\n> [!WARNING]\n> When teams have different cadences within the same funding structure, it can cause friction and delays.&#x20;\n\nWhen Team A says that the work will be done by Sprint 23, what does that mean? If Team B is on a different candidate, then this could be their Sprint 45, or the Shared Platform Teams Sprint 3.  A balance of autonomy and alignment is important when lots of folks are working together in the same value stream.\n\n> [!TIP]\n> Choose a cadence for review and delivery that aligns with the business needs, stakeholder engagement cadence, and the effective planning horizon. Regardless of the delivery team's chosen process, everyone inspects and adapts at least on that cadence.\n\nIf you must deviate (e.g. teams with different Sprint lengths), isolate only the differing branches.\n\n### 4. **Secure by Area, Not by Project**\n\nOne of the most common justifications for multiple team projects is “security.” But Azure DevOps already supports:\n\n- **Granular permissions on Area Paths**\n- **Repos permissions**\n- **Pipeline-level permissioning**\n- **Environment and Library security for deployments**\n\nYou can grant fine-grained access control to individual teams, stakeholders, or systems without fragmenting your project into unmanageable silos.\n\n> [!TIP]\n> Use Azure DevOps Groups that contain Enta ID groups to maintain flexability and clarity\n\n## What About Reporting?\n\nIf you're using one Azure DevOps project with clearly defined Area Paths and Teams, reporting becomes dramatically simpler, more powerful, and more honest.\n\nEverything you need is in one place: Work Items, Repos, Pipelines, Releases, Test Plans. That means dashboards, boards, analytics views, and Delivery Plans just work—with no duct tape, no spreadsheet exports, no cross-project hacks.\n\n- Use **Dashboards** for high-level visibility tailored to stakeholders.\n- Use **Delivery Plans** for planning across multiple teams and value streams.\n- Use **Portfolio Backlogs** to track progress across Features, Epics, and Initiatives without duplicating work.\n- Use **Analytics Views** and **Power BI** to correlate flow, throughput, and cycle times across teams, products, and time.\n\nAnd when you need more:\n\n- **Portfolio++** provides rich roadmap and status visualisations that work across queries, teams, and even projects.\n- **ActionableAgile** brings deep flow metrics—cycle time scatterplots, throughput charts, WIP ageing—directly into your Azure DevOps instance.\n\n> [!TIP]\n> Reporting doesn’t just inform—it aligns. A unified project gives you shared truth. Every extra project boundary erodes that.\n\n## Final Word: Optimise for Flow, Not Structure\n\nAzure DevOps isn’t just tooling; it reflects how your organisation thinks about delivery. If you design for control, you’ll get silos. If you design for flow, you’ll get visibility, alignment, and adaptability. Its an intrinsic part of your systems of work.\n\nEvery new project boundary introduces delay, friction, and duplication. Every extra organisational boundary kills collaboration and wrecks observability. You don’t need more buckets. You need better boundaries inside one.\n\nDesign your system of work to reflect how you deliver value, not how your teams report. Use one project. Use Area Paths and Teams to model structure and scale. Secure it properly. Report from it meaningfully. And let your delivery system evolve with clarity, not chaos.\n\n**Don’t build around exceptions. Build for flow.**\n\nOne Project. Many teams. Clear constraints. Value, continuously delivered.\n\n### Definitions\n\nIt's clear that everyone refers to things within Azure DevOps differently, and naming is not Microsoft's strong suit. Here is what I mean when I use terminology in this post:\n\n- **Tennant -** Not really within Azure DevOps, but intrinsically linked is the Microsoft Entra ID tenant that provides the security with Users and Groups.\n- **Organisation** - The big bucket of stuff and the almost absolute boundary for Azure DevOps. For argument's sake, it's a \"database\" with unique IDs and clear boundaries. Also known as \"Collection\" in Team Foundation Server (TFS).\n- **Process** - The definition of the types and workflows of those types as well as the available backlog levels. Previously known as \"Process Template\".\n- **Project** - The first level bucket after Organisation that provides a security and feature boundary. Used to be called \"Team Project\".\n- **Value Board** - visualisation of the flow of value at a particular backlog level. This is just called \"Board\" in Azure DevOps, but I wanted to make my distinction clearer.\n- **Task Board** - visualisation of tasks within value represented as value pinned to the left, and sub-tasks flow across the board.\n\n## References\n\n- [About projects and scaling your organization - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/about-projects?view=azure-devops)\n- [Scaling Agile to large teams - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/devops/plan/scaling-agile)\n- [Plan your organizational structure - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/user-guide/plan-your-azure-devops-org-structure?view=azure-devops#how-many-projects-do-you-need)\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-08-25-should-you-use-one-project-to-rule-them-all-in-azure-devops\\index.md",
@@ -159,16 +159,11 @@
       "ResourceId": "bpRR4ieKvr3",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "getting-started-with-objectives-key-results",
       "aliases": [
         "/resources/bpRR4ieKvr3"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "mermaid": true,
-      "Watermarks": {
-        "description": "2025-06-03T15:33:08Z",
-        "short_title": "2025-07-07T16:43:08Z"
-      },
       "concepts": [
         "Strategy"
       ],
@@ -193,7 +188,12 @@
         "Social Technologies",
         "Metrics and Learning",
         "Enterprise Agility"
-      ]
+      ],
+      "mermaid": true,
+      "Watermarks": {
+        "description": "2025-06-03T15:33:08Z",
+        "short_title": "2025-07-07T16:43:08Z"
+      }
     },
     "BodyContent": "OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.\n\nSo what do you need?\n\n## 1. A Clear Strategy\n\nI've worked at a few customers that have tried, unsuccessfully, to implement OKR, and every time it comes down to a lack of leadership in defining and communicating clear strategies that everyone can understand.\n\n> “Is there a product charter that lays out the mission and strategic goals? Do all members of the team understand both, and are they able to see how their work contributes to both?”\n> — DIB: Detecting Agile BS\n\nStrategy should drive execution. If you don’t know where you’re trying to go over the next 1 to 5 years, OKRs won’t help. They’ll float. They’ll drift. They’ll get turned into a quarterly to-do list that looks busy but delivers nothing that matters. Worse, they can just become a work breakdown structure and a disaster waiting to happen.\n\n## 2. A Culture That Embraces Transparency, Inspection, and Adaptation\n\nOKRs will fail if your organisation tries to turn plans into contracts, hide things it does not like, or resist feedback. We need to be open by default. We need to welcome inspection and are willing to adapt.\n\nChange is something to be expected and the norm rather than the exception. This is about building systems where learning is baked into the way that we do things. Agile, Scrum, and DevOps all share the same fundamental requirement for success. If you are failing at them, then OKRs will not solve any problems. You need to look in the mirror and deal with what's there first.\n\nOKRs surface misalignment; they are as much like a mirror as Scrum is. They expose a vague strategy and an incoherent execution. But they only help if people feel safe to inspect and adapt. Without that culture, OKRs become fear-driven, and the outcomes become distorted.\n\n## 3. Team Agency\n\nOKRs only work if the people doing the work have the **agency** to shape how they deliver outcomes. If you’re still managing with command-and-control, resource allocation, individual performance metrics, centralised plans, and siloed functions—admit it. You don’t want agility. You want a Gantt chart and a work breakdown structure. You’ll never unlock the creativity and accountability that OKRs demand.\n\n> \"Are teams empowered to change the requirements based on user feedback?\"\n> \"Are teams empowered to change their process based on what they learn?\"\n> — DIB: Detecting Agile BS\n\nOKRs work best when teams self-manage against shared constraints. This requires clarity on purpose, context for decision-making, and boundaries that support autonomy rather than inhibit it.\n\n## 4. A Belief That Outcomes Matter More Than Output\n\nOKRs are fundamentally about **outcomes**. Not effort. Not headcount. Not feature delivery. If your leaders still reward activity over impact, OKRs will feel performative and punitive.\n\nYou have to believe that **measurable, meaningful change** is the point. Everything else is just activity.\n\nShifting to an outcome mindset means asking better questions:\n\n- What behaviour are we trying to change?\n- What evidence will show we’re making progress?\n- How can we empower teams to find better ways to achieve the outcomes?\n\nWithout this mindset, OKRs will get gamed, ignored, or weaponised.\n\n## The OKR Structure\n\nOKRs exist to translate strategy into action. That’s it.\n\n- **Objectives** clarify where you’re going.\n- **Key Results** define what success looks like.\n- **Execution** is how you actually move toward it.\n\nA simple, powerful format:\n**“I will \\[Objective] as measured by \\[this set of Key Results].”**\n\nThis structure gives you clarity, focus, and alignment. And when used well, it drives the shift from output to outcome.\n\nToo often, organisations obsess over the Objective and treat the Key Results as a laundry list. That’s a mistake. It’s the Key Results that create leverage. They force clarity. They reveal intent. They make progress inspectable.\n\n### Why Do We Need Objectives?\n\nObjectives provide direction in the chaos and reconnect execution to strategy. Without them, you’re just busy. And busy doesn’t mean valuable. We just have output.\n\nThe purpose of objectives is to:\n\n- It forces you to focus. Limit the number. Ruthlessly.\n- Connect directly to your strategic goals.\n- Give teams something meaningful to rally around.\n- Shift the conversation from “what are we doing?” to “why does it matter?”\n\nThe objectives help us resolve the goals from Scrum or Evidence-based management and can create the intent from intent-based leadership. They make the strategy visible and the contribution clear.\n\nA well-written objective is outcome-oriented and time-bound. Not vague. Not incremental. And never written as “continue doing X.”\n\n### Why Do We Need Key Results?\n\nKey Results aren’t just metrics. They’re commitments.\n\nThey:\n\n- Push teams to define **what success looks like**\n- Enable autonomy by giving teams room to decide **how** to achieve it\n- Anchor discussions in data, not opinions\n- Help leaders focus on enablement, not interference\n\nKey Results aren’t there to punish failure. They’re there to surface learning. If you hit 100% of your Key Results every time, your goals were too easy.\n\nThat’s not success. That’s sandbagging.\n\n### Execution Isn’t Optional\n\nOKRs aren’t a quarterly workshop. They live and die in the execution. If you’re not inspecting progress weekly or biweekly, they will drift. Strategic priorities will get lost in the noise of delivery.\n\nYou need a cadence. A rhythm. A system for:\n\n- Reviewing progress\n- Re-aligning focus\n- Adapting based on learning\n\nAdditionally, reassess your OKRs at least every quarter. But don’t wait until the end to find out if they mattered. The feedback loop is the heartbeat of OKRs. Without it, they become theatre. With it, they become a mechanism for continuous adaptation.\n\n## OKRs are iterative and outcomes incremental\n\nYou won’t get it right the first time. Or the second. Or the third. You’ll write vague Objectives. You’ll write vanity Key Results. You’ll set goals that are either too big or too small.\n\nThat’s fine.\n\nOKRs are a **practice**. You refine them over time. The point isn’t perfection. The point is progress. Use a retrospective on your OKRs and refactor your goals. Treat them as living artefacts. That’s how you get better.\n\n{{< mermaid width=\"400px\" >}}\nflowchart TD\nVMV[\"Vision, Mission, Values\\n(5 to 20 years)\"]\nSTR[\"Strategies\\n(1 to 5 years)\"]\nOBJ[\"Objectives\\n(Quarterly to Yearly)\"]\nKR[\"Key Results\\n(Quarterly to Yearly)\"]\nACT[\"Activities (Execution)\\n(Day to Day)\"]\nMEA[\"Measure\\n(Day to Day)\"]\nLEA[\"Learn\\n(Weekly to Quarterly)\"]\n\n    VMV --> STR\n    STR --> OBJ\n    OBJ --> KR\n    KR --> ACT\n    ACT --> MEA\n    MEA --> LEA\n    LEA --> STR\n\n    classDef yellow fill:#f9c74f,stroke:#333,stroke-width:1px;\n    classDef green fill:#90be6d,stroke:#333,stroke-width:1px;\n    classDef blue fill:#43aa8b,stroke:#333,stroke-width:1px;\n    class OBJ yellow\n    class KR green\n    class ACT,MEA,LEA blue\n\n{{< /mermaid >}}\n\nThis is what OKRs make possible: a living connection from strategy to execution, and back again. This is the cadence that drives organisational agility. This is why OKRs matter.\n\nIf you're struggling to make OKRs stick, don't blame the tool. Inspect your system. Look at your strategy. Look at your culture. Look at your cadence.\n\nBecause you can’t shortcut clarity. You can only create the conditions for it to emerge.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-08-18-getting-strted-with-okr\\index.md",
@@ -207,25 +207,20 @@
       "description": "Explores Agile as a disciplined system of delivery, emphasizing engineering excellence, CI/CD, observability, and system design over mindset or behaviour alone.",
       "date": "2025-08-11T09:00:00Z",
       "weight": 60.0,
-      "ResourceId": "ABbVdMBZ5fI",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "is-agile-really-just-a-mindset",
-      "aliases": [
-        "/resources/ABbVdMBZ5fI"
-      ],
-      "ResourceContentOrigin": "hybrid",
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Rikard Skelander",
           "external": "https://www.linkedin.com/in/rikardskelander/"
         }
       ],
-      "Watermarks": {
-        "description": "2025-05-30T15:27:52Z",
-        "short_title": "2025-07-07T16:43:10Z"
-      },
+      "ResourceId": "ABbVdMBZ5fI",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
+      "slug": "is-agile-really-just-a-mindset",
+      "aliases": [
+        "/resources/ABbVdMBZ5fI"
+      ],
       "concepts": [
         "Capability"
       ],
@@ -250,7 +245,12 @@
         "Frequent Releases",
         "Organisational Agility",
         "Working Software"
-      ]
+      ],
+      "creator": "Martin Hinshelwood",
+      "Watermarks": {
+        "description": "2025-05-30T15:27:52Z",
+        "short_title": "2025-07-07T16:43:10Z"
+      }
     },
     "BodyContent": "Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.\n\nAgile for software development is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile, you’re just busy.\n\n## Agile Isn’t a Mindset. It’s a System of Work.\n\nThe term “Agile mindset” has become a smoke screen for vague, feel-good language that conveniently ignores the hard parts: architecture, observability, checkability, and releasability. A mindset doesn’t ship working software. A system does.\n\nAgile is a **strategy for managing complexity**. It draws on an **empirical ethos** to deal with uncertainty. While Agile principles support this ethos through practices like continuous delivery, frequent reflection, and embracing change, they stop short of formalising it. Agile leaves room for interpretation, which is both its power and its weakness.\n\nInstead of prescription, Agile encourages conditions that make learning and adaptation possible:\n\n- Deliver working software frequently.\n- Reflect regularly on how to become more effective.\n- Embrace change—even late in development.\n\nThis isn’t methodology. It’s operational discipline.\n\n## Behaviour Is Necessary, but Not Sufficient\n\nYes, agility requires certain behaviours: collaboration, openness to change, and continuous learning. But those behaviours are not the whole picture. They’re the byproducts of **well-designed systems**, not the system itself.\n\nIf you want teams to behave “agile,” you need to:\n\n- Give them working CI/CD pipelines.\n- Define a clear and realistic shared quality standard.\n- Stop flooding them with WIP and start managing flow.\n- Align work to meaningful goals with clear delivery expectations.\n- Enable them to ship to production regularly and reliably.\n\n**Without engineering and system design, Agile behaviours collapse under pressure.**\n\n## Engineering Practices Are the Backbone of Agility\n\nAgile without engineering is theatre. You might have sticky notes and daily standups, but if you can’t deliver reliable, high-quality software frequently, you're not Agile.\n\nHere’s what engineering excellence looks like in Agile:\n\n- **Continuous Integration & Deployment (CI/CD)**: Small, safe, frequent releases.\n- **Automated Checking**: Fast, repeatable validation that gives developers confidence.\n- **Infrastructure as Code**: Reproducible environments with version control.\n- **Telemetry and Observability**: Insight into live systems for fast feedback and debugging.\n- **Design for Replaceability**: Modular, cohesive systems you can change without fear.\n\nThese are not “nice-to-haves.” They are foundational. If your teams can’t ship to production at regular, sustainable intervals, you’re not Agile—you’re just going through the motions.\n\n## Stop Outsourcing Agile to Coaches Who Don’t Code\n\nA big part of the problem is that we’ve allowed Agile to be colonised by people with no engineering background. They talk about collaboration, but not architecture. They push for psychological safety, but ignore version control hygiene. They love retrospectives but can’t read a cycle time chart.\n\nThis isn’t a personal attack. It’s a **call for accountability**.\n\nIf you're coaching Agile teams and you don’t understand modern engineering practices—DevOps, CI/CD, telemetry, checkability, you’re not equipped to lead agility in software.\n\nAgile is not a therapy session. It’s not a motivational poster. It is a **system of delivery** designed to maximise value under conditions of uncertainty. And if we want to keep calling it that, we’d better start treating it with the rigour it deserves.\n\n## \"A bad system will beat a good person every time.\"\n\nDeming’s insight isn’t a philosophical quip—it’s a brutal truth. In Agile environments, we often celebrate the heroics of individuals, when we should be interrogating the design of the system. Good people trapped in bad systems burn out, give up, or conform.\n\nThis is where **Larman’s Law** comes in: _“Organisations are implicitly optimised to avoid changing the status quo middle-management and specialist roles, power structures and political boundaries.”_ It explains why many Agile initiatives fail. Not because people resist Agile—but because the system resists accountability.\n\nAgile invites change, but organisations repel it. Instead of redesigning systems of work, they repurpose Agile into just another management fad. Sticky notes go up. Certifications get handed out. But the constraints, silos, and dysfunction remain untouched.\n\nIf your structure still depends on project gates, command hierarchies, and stage approvals, you haven’t adopted Agile. You’ve institutionalised waste.\n\n**Systems produce outcomes. Not individuals.**\n\nWant to see agility? Look at the architecture. Look at how teams form, flow, and deliver. Look at what the system makes _easy_ and what it makes _hard_. If it’s easier to follow process than to deliver value, your system is broken—no matter how agile your people are.\n\n## Finally\n\nLet’s kill the myth:\n\n- Agile is **not a mindset**. It is a discipline.\n- Agile is **not only about behaviour**. It’s about delivery.\n- Agile is **not a feeling**. It’s a feedback-driven engineering strategy.\n\n**Agile is the deliberate design of systems that enable autonomy, accountability, and continuous delivery of value.**\n\nIf you’re not delivering, you’re not Agile. Period.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-08-11-is-agile-really-just-a-mindset\\index.md",
@@ -264,9 +264,24 @@
       "description": "Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.",
       "date": "2025-08-04T09:00:00Z",
       "weight": 30.0,
+      "contributors": [
+        {
+          "name": "Brett Maytom",
+          "external": "https://www.linkedin.com/in/scrum-trainer/"
+        },
+        {
+          "name": "Alex Brown",
+          "external": "https://www.linkedin.com/in/alexbrown/"
+        },
+        {
+          "name": "Alessandro Recca",
+          "external": "https://www.linkedin.com/in/alessandro-recca-b9974a21a/"
+        }
+      ],
       "ResourceId": "W_KrTupmowf",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design",
       "aliases": [
         "/resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.",
@@ -284,6 +299,7 @@
         "Leadership"
       ],
       "tags": [
+        "Agentic Engineering",
         "Lean Principles",
         "Operational Practices",
         "Self Organisation",
@@ -297,25 +313,9 @@
         "Product Delivery",
         "Agile Leadership",
         "Agile Strategy",
-        "Agile Transformation",
-        "Continuous Improvement"
+        "Agile Transformation"
       ],
-      "ResourceContentOrigin": "hybrid",
       "creator": "Martin Hinshelwood",
-      "contributors": [
-        {
-          "name": "Brett Maytom",
-          "external": "https://www.linkedin.com/in/scrum-trainer/"
-        },
-        {
-          "name": "Alex Brown",
-          "external": "https://www.linkedin.com/in/alexbrown/"
-        },
-        {
-          "name": "Alessandro Recca",
-          "external": "https://www.linkedin.com/in/alessandro-recca-b9974a21a/"
-        }
-      ],
       "Watermarks": {
         "description": "2025-05-19T07:28:14Z",
         "short_title": "2025-07-07T16:43:11Z"
@@ -336,16 +336,11 @@
       "ResourceId": "TwYNSm1pZOS",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "the-definition-of-done-is-a-commitment-to-quality",
       "aliases": [
         "/resources/TwYNSm1pZOS"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "creator": "Martin Hinshelwood",
-      "Watermarks": {
-        "description": "2025-05-07T12:48:53Z",
-        "short_title": "2025-07-07T16:43:12Z"
-      },
       "concepts": [
         "Artifact"
       ],
@@ -370,7 +365,12 @@
         "Transparency",
         "Working Software",
         "Increment"
-      ]
+      ],
+      "creator": "Martin Hinshelwood",
+      "Watermarks": {
+        "description": "2025-05-07T12:48:53Z",
+        "short_title": "2025-07-07T16:43:12Z"
+      }
     },
     "BodyContent": "Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.\n\n## How Does the Agile Manifesto Relate?\n\nWhile the Definition of Done is specific to Scrum, its essence connects directly to the values and principles of the Agile Manifesto. The manifesto doesn’t define a DoD explicitly, but it demands **working software as the primary measure of progress** and calls for **continuous attention to technical excellence and good design**. These principles implicitly require teams to set and meet clear standards of completeness and quality.\n\nIn Agile, “Done” is characterised not by formal documents or bureaucratic sign-offs but by **tangible, working outcomes**. The focus is on delivering increments of value that are potentially shippable, ensuring continuous feedback, and maintaining sustainable pace. This spirit is what Scrum formalises with its Definition of Done: an explicit, transparent commitment to what quality means, grounded in Agile’s broader ethos of delivering working software and embracing change.\n\n## Why Define Done?\n\nThe Definition of Done is not optional. It is the shared understanding that tells everyone — Developers, Product Owner, stakeholders — what quality bar each increment must meet to be considered usable, releasable, and valuable. Without it, you deliver chaos disguised as agility.\n\nIf your organisation has no defined standards, your team must create its own. But let’s be blunt: if you have multiple teams on one product, they must align on a shared Definition of Done. No excuses, no fragmentation. Without this alignment, you jeopardise integration, delivery, and the product’s reputation.\n\n> “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review.”\n> — Scrum Guide 2020\n\n## Done Means Releasable\n\nDone is not about user stories, requirements, or business value. It is about whether the increment is in a state that the Product Owner can say, “Yes, let’s ship it.” No hidden work, no deferred testing, no “we’ll fix it later.”\n\nA robust Definition of Done ensures:\n\n- Transparency on what’s been completed.\n- Predictability in delivery.\n- Shared accountability for quality.\n- Protection of the product’s and organisation’s reputation.\n\n## Start with a Seed, Grow It Over Time\n\nYour DoD does not need to be perfect on day one, but you do need to start. Run a facilitated DoD workshop. Involve the Scrum Team, relevant stakeholders, and anyone representing critical gates like security, architecture, UX, and compliance. Define what “Done” looks like across four layers:\n\n1. **Organisational DoD** – minimum standards to protect reputation and compliance.\n2. **Practice DoD** – engineering or discipline-specific standards (e.g., security, performance).\n3. **Customer DoD** – any client-specific requirements.\n4. **Team DoD** – additional agreements the team needs to deliver quality.\n\nWithout this clarity, you’re not managing risk; you’re just rolling dice.\n\n## Characteristics of a Strong Definition of Done\n\n- **Short, measurable checklist** — automate verification wherever possible.\n- **Mirrors shippable** — the Product Owner should have the option to ship at the Sprint Review (if not doing continuous delivery).\n- **No further work required** — if additional work is needed, you weren’t Done.\n\nThis is not subjective. “Approved by the Product Owner” is not a DoD item. The DoD is an objective, verifiable standard.\n\n## Examples of DoD Items\n\nHere’s what good engineering practices might embed:\n\n- Code passes automated quality checks (e.g., SonarQube) with no new critical issues.\n- Unit, integration, and acceptance tests are automated and pass.\n- Security scans run in CI/CD pipelines and show no high-severity vulnerabilities.\n- Documentation is updated and linked to the increment.\n- Code reviews or pair/mob programming sessions completed.\n- Automated deployment pipelines confirm repeatable, error-free delivery.\n\n## Continuous Reflection and Improvement\n\nYour DoD is not static. You must review and improve it continuously — at least every Sprint Retrospective. When you uncover new failure points, you integrate them into your DoD.\n\nIf your increment no longer meets the quality bar, stop Sprinting. Fix the foundation first — that’s called a **Scrumble**. It’s a deliberate pause to repair quality, not a failure. Once resolved, your DoD should evolve to prevent recurrence.\n\n## Practical Steps\n\n1. **Run a DoD Workshop** — include Developers, Product Owner, stakeholders, and relevant experts.\n2. **Document and Share** — make the DoD visible, accessible, and owned by the team.\n3. **Automate** — reduce human error by automating checks wherever feasible.\n4. **Review Regularly** — build DoD reviews into retrospectives.\n\n## Final Word\n\nThe Definition of Done is not bureaucracy. It’s the backbone of your Scrum implementation. Without it, you don’t have empirical process control; you have chaos. Without it, you can’t deliver continuous value; you deliver continuous risk.\n\nProfessional Scrum Teams are accountable for quality. Own it. Define it. Evolve it.\n\n> Always ask: “Would you be happy to release this increment to production and support it? You are on call tonight.” If the answer is no, it’s not Done.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-07-28-the-definition-of-done-is-a-commitment-to-quality\\index.md",
@@ -384,14 +384,6 @@
       "description": "Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.",
       "date": "2025-07-21T09:00:00Z",
       "weight": 245.0,
-      "ResourceId": "AhxlPTOD1yy",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "rethinking-capacity-planning",
-      "aliases": [
-        "/resources/AhxlPTOD1yy"
-      ],
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Nigel Thurlow",
@@ -402,11 +394,14 @@
           "external": "https://www.linkedin.com/in/alexbrown/"
         }
       ],
+      "ResourceId": "AhxlPTOD1yy",
+      "ResourceImport": false,
+      "ResourceType": "blog",
       "ResourceContentOrigin": "hybrid",
-      "Watermarks": {
-        "description": "2025-05-07T12:48:54Z",
-        "short_title": "2025-07-07T16:43:13Z"
-      },
+      "slug": "rethinking-capacity-planning",
+      "aliases": [
+        "/resources/AhxlPTOD1yy"
+      ],
       "concepts": [
         "Principle"
       ],
@@ -431,7 +426,12 @@
         "Product Delivery",
         "Systems Thinking",
         "Team Performance"
-      ]
+      ],
+      "creator": "Martin Hinshelwood",
+      "Watermarks": {
+        "description": "2025-05-07T12:48:54Z",
+        "short_title": "2025-07-07T16:43:13Z"
+      }
     },
     "BodyContent": "Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.\n\nToo many organisations frame capacity as “how many hours does each person have?” or “how many tasks can we assign this sprint?” They fall into the trap of breaking complex, systemic work into artificial personal quotas, focusing on individual loading rates instead of collective flow. This leads to managers obsessing over how ‘utilised’ each person is, mistaking busyness for progress. Teams become overloaded with microtasks, pulled into multitasking, and lose sight of flow efficiency and value creation. This mindset traps them in local optimisations, overload, and multitasking chaos. Everyone looks busy, but value delivery crumbles. Deadlines slip, work piles up, and predictability collapses.\n\nWe need to shift from individual task-level tracking and micromanagement to managing the system of work.\n\n## Three Levels of Capacity Planning: Strategic, Category, Team\n\nEffective capacity planning happens at three distinct but connected levels: portfolio (strategic), category (product or business unit), and team (execution). Each level has its own constraints, its own levers, and its own accountabilities. If you blur these levels, you end up with local optimisations, overloaded systems, and unpredictable delivery. If you handle them deliberately, you enable scalable, reliable flow across the entire organisation. This post lays out what matters at each level, where most organisations fail, and how to focus on the right system levers to improve predictability and value delivery.\n\n### Portfolio Level (Strategic)\n\nAt the portfolio level, individual capacity is irrelevant. Portfolio-level delivery is not the sum of people’s hours or team headcounts. It is about the system’s ability to progress and complete major initiatives across the organisation.\n\nTraditional project management has well-established strengths — especially in controlling scope, budget, and schedule — but repeatedly makes the same flawed assumptions when applied to complex, system-wide delivery. To connect better, we should acknowledge where traditional methods excel and then explain why they hit limits at scale or in domains like software engineering, where variability and complexity cannot be fully controlled. It assumes that if you know how many people you have and how many hours they can work, you can calculate how many projects you can run. It treats capacity as a static sum of people, ignoring system dynamics like waiting times, handoffs, coordination overhead, and priority collisions. It assumes that by assigning people to projects and filling calendars, you maximise delivery. In reality, you simply increase work in progress, dilute focus, and create organisational thrashing.\n\nFlow-based, lean thinking demands a different focus. The real constraint at portfolio level is not team speed. It is how many initiatives the organisation can meaningfully progress in parallel before bottlenecks, cross-team dependencies, or funding constraints stall progress. This speaks directly to Lean’s core emphasis on optimising the system as a whole, not optimising local team measures. As Deming stressed, managing parts in isolation leads to suboptimisation — the real improvement comes when leadership steps back and improves the flow and constraints at the system level. It is about how efficiently the system moves work across teams, products, and functions, independent of how busy individuals are.\n\nTracking individual capacity at portfolio level leads to local optimisation and wastes effort. Managing portfolio-level WIP, cross-team flow, and initiative-level progress gives you real, actionable capacity insight. Trying to map individual team throughput directly to portfolio delivery without addressing cross-initiative coordination, system WIP limits, or systemic blockers is a guaranteed failure.\n\nSpecifically, leaders fall into the trap of believing:\n\n- That if every team improves throughput, the portfolio improves – false.\n- That we can just sum team metrics to get total portfolio capacity – false.\n- That we can ignore portfolio-level WIP and still forecast accurately – false.\n\nThe shift required is from “how many hours can we extract from people” to “how much value can the system deliver, predictably, given its real constraints.” This is why traditional project management fails at scale. It looks down at tasks and people when it should be looking up at systems and flow.\n\n### Category Level (Product / Business Unit)\n\nAt the category level, the biggest mistake is assuming you can simply roll up individual team flow metrics to understand category capacity, without managing cross-team dependencies, shared bottlenecks, or category-level WIP.\n\nWhy is this wrong?\n\nTeams within a category rarely operate in isolation. They share architectures, platforms, specialists, and decision-makers. Even if each team shows good local flow, the category’s overall delivery can be blocked by cross-team dependencies, shared capacity limits (such as UX, security, or operations), or coordination overhead (like release alignment or integration cycles).\n\nTraditional thinking assumes category performance equals the sum of teams’ performance. In reality, category performance is governed by the speed of the slowest shared bottleneck and the organisation’s ability to coordinate across flows.\n\nWhat needs to shift:\n\n- Apply category-level WIP limits on how many initiatives or epics are in play across all teams.\n- Focus on improving cross-team flow and dependency management, not just local team throughput.\n- Measure flow across the value stream, not within isolated team swimlanes.\n\nThe mistake is failing to treat the category as an interconnected system. Local team improvements mean little if the category’s delivery is constrained by systemic coordination, shared services, or unmanaged WIP.\n\n### Team Level (Execution)\n\nThe core mistake at the team level when moving to flow metrics is assuming that flow metrics like throughput or cycle time are just “better tracking” of individual performance, rather than system-level indicators of work preparation, flow, and blockers.\n\nWhy is this wrong?\n\nTraditional teams apply flow metrics to individuals, asking: “How many tasks did you finish?” or “What’s your personal throughput or cycle time?” This creates local pressure, gaming, and false signals because flow metrics were never designed to evaluate individuals. They measure how well the team system moves work end-to-end.\n\nTeams also often skip the upstream preparation work, thinking that flow metrics alone will fix predictability, without addressing key conditions:\n\n- Right-sizing work\n- Defining clear pull-ready conditions\n- Setting and respecting WIP limits\n\nWhat needs to shift:\n\n- Treat flow metrics as team-level health signals, not personal performance measures.\n- Focus on improving system conditions — work size, WIP, and dependencies — to improve flow, not squeezing people for more.\n- Use metrics to guide improvement conversations, not to monitor or punish individuals.\n\nThe mistake is misapplying flow metrics as individual productivity tools instead of using them to improve team system flow. Without addressing preparation, WIP, and collaboration, adding flow metrics just creates new reporting noise.\n\n## What needs to change\n\nThe shift from individual capacity thinking to system-level flow demands disciplined, pragmatic changes across the organisation. This is not a matter of adding a few charts or running reports — it’s a change in ethos. It is about treating capacity as an emergent system property, not a mechanical sum of parts.\n\n### Focus on Throughput, Lead Time, and Efficiency\n\nRather than fixating on individual or team utilisation, shift your measurement to system-level flow. Pay attention to:\n\n- The number of items completed per sprint or delivery cycle (noting this assumes work items are similarly sized; otherwise, throughput comparisons can be misleading).\n- The average lead time from work start to completion, helping reveal system bottlenecks and delays.\n- Process cycle efficiency (PCE): the proportion of time work actively moves versus all non–value-adding activities (not just waiting), exposing inefficiencies across the system. This includes unnecessary committees, bureaucratic processes, and other activities that exist only to service themselves rather than delivering value.\n\nThe goal is not to ask, “Who can take on more?” but to ask, “What does our system reliably deliver, and how can we improve flow without overburdening people or teams?”\n\n### Stop Misusing Estimation, Start Right-Sizing\n\nStop wasting time trying to predict perfect effort estimates.\n\nInstead, apply the Lean principle of reducing variability and batch size, using queuing theory to improve system flow. But be clear: software engineering lives in the complex domain, not the clear or complicated domain where variability can simply be engineered away. We cannot eliminate variability entirely, but we can reduce unnecessary variability by defining a clear definition of workflow, supported by approaches like One Engineering System (1ES) and platform engineering. These strategies help standardise and stabilise the environment, tools, and pipelines — leaving only the unavoidable, context-driven variability that belongs to the real problem space.\n\nTo right-size effectively:\n\n- Break work into small, similarly sized, meaningful slices that fit smoothly through your system.\n- Focus on cutting work to a shape the system can absorb predictably — not wasting time on abstract story points or inflated complexity debates.\n- Use historical throughput and cycle time data to calibrate what 'small enough' looks like in practice, not in theory.\n- Make right-sizing part of your working agreements and backlog preparation, ensuring teams only pull work that meets clear, shared readiness standards.\n\nThe issue isn't estimation itself—it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. This is not about squeezing people harder; it is about designing a steady, sustainable system where predictability is built directly into the shape and handling of the work.\n\n### Apply WIP Limits and Enforce Pull\n\nStop treating WIP limits as a mechanical cap or a reportable metric. They are a deliberate, disciplined strategy to protect system flow and predictability. Set clear limits on how many initiatives, epics, or stories are in play — not on how many tasks an individual can juggle. Once the system reaches its limit, stop adding work. Enforce pull: nothing new enters until capacity is truly available. Multitasking is toxic; kill it without hesitation. This is not about pushing people harder; it’s about designing the system so work flows cleanly and teams can focus, finish, and deliver predictably.\n\n### Forecast With Empirical Data\n\nStop pretending forecasts are about precision. Forecasting is about understanding what the system consistently delivers and using that to set realistic expectations, with the important caveat that this relies on the assumption of a relatively stable system, as Lean approaches depend on system stability for predictability. This also means recognising how system constraints align with legal mandates, statutory requirements, and interdepartmental dependencies — especially in public sector or regulated environments where external obligations shape the boundaries of what can be delivered and when. If your teams typically deliver 6–8 items per sprint, then forecast 6–8 — no sandbagging, no overpromising, no wishful thinking. Use past variance to shape your delivery ranges and confidence levels. Forecasting is not about heroic assumptions; it is about respecting the boundaries of what your system can actually achieve. Teach leadership that predictability comes from protecting system health, not demanding unrealistic outputs or pushing teams beyond sustainable limits.\n\n### Monitor Flow Health Holistically\n\nFlow health is not just a dashboard; it is the living pulse of your system. Go beyond counting throughput and look deeper:\n\n- Rising cycle or lead times — these are your early-warning signals of hidden bottlenecks creeping into the system (and, as noted earlier, low PCE includes more than just waiting — it also covers other forms of systemic waste and non–value-adding activities).\n- Aging WIP — when work lingers without progress, it is a red flag that something is stalled or blocked.\n- Low PCE — when too much time is spent waiting instead of progressing, it signals waste accumulating across the system.\n\nThese are not vanity metrics. They reveal how your system is truly performing, regardless of how full calendars look or how busy people appear. Build regular inspection of these health indicators into your operating rhythm. Use them not for blame or micromanagement, but as fuel for system-wide conversations: Where is flow breaking down? What needs to change? Where can we intervene to unblock, simplify, or improve?\n\nHealthy flow is not a side effect; it is a deliberate, ongoing outcome you must design, monitor, and continuously tune.\n\nThe change is not cosmetic — it’s a fundamental rethink of how you approach planning, forecasting, and delivering across all levels of the organisation.\n\n### The Role of Leadership\n\nLeadership is not about control or oversight; it is about creating the conditions where teams and systems can thrive. Lean leadership models humility, removes systemic obstacles, and relentlessly focuses on delivering customer value, not just improving internal measures. Leaders must step back from the temptation to manage individuals and instead take accountability for enabling the system of work. That means:\n\n- Enabling true autonomy at the team level, giving teams the space to own their work and delivery, without micromanagement.\n- Actively protecting WIP limits and pull discipline across the system, even when external pressures or senior stakeholders demand more.\n- Investing in backlog refinement, right-sizing, and preparation so that teams pull only well-shaped, high-value work — and have the capacity to deliver it predictably.\n- Focusing measurement on system health — time-to-market (TTM), process cycle efficiency (PCE), throughput, and lead time — not individual utilisation, heroics, or busyness.\n\nLeaders are accountable for creating an environment where flow is deliberate, predictable, and sustainable. This is not about pushing people to work harder; it is about tuning the system so teams can focus, collaborate, and deliver value without unnecessary friction or disruption. True leadership means enabling the system, not extracting from the people.\n\n## Reframing the Conversation\n\nLean capacity planning reshapes how we think about delivery, focus, predictability, and most critically, continuous learning and relentless improvement — the true core of Lean thinking.\n\nStop asking, “How many tasks or hours can we assign?” Start asking, “How much value can the system deliver, at what lead time, and with what efficiency?”\n\nIf you’re not measuring system health indicators like PCE or TTM, you are flying blind.\n\nThis is not about making teams go faster. It is about creating smarter, healthier flow. Get the fundamentals right, and you unlock sustainable, reliable delivery that serves both your customers and your organisation.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-07-21-rethinking-capacity-planning\\index.md",
@@ -448,15 +448,11 @@
       "ResourceId": "O_VlmDj7n3V",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "why-topic-branches-drive-high-quality-delivery",
       "aliases": [
         "/resources/O_VlmDj7n3V"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "Watermarks": {
-        "description": "2025-05-07T12:48:56Z",
-        "short_title": "2025-07-07T16:43:16Z"
-      },
       "concepts": [
         "Tenet"
       ],
@@ -481,7 +477,11 @@
         "GitHub",
         "Market Adaptability",
         "Technical Excellence"
-      ]
+      ],
+      "Watermarks": {
+        "description": "2025-05-07T12:48:56Z",
+        "short_title": "2025-07-07T16:43:16Z"
+      }
     },
     "BodyContent": "In modern [software development]({{< ref \"/tags/software-development\" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref \"/tags/team-collaboration\" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.\n\nA topic branch is a short-lived, focused branch in your source control repository that isolates a **single unit of developer work**. This is not a month-long feature branch. This is not \"we'll merge it someday\" work. A topic branch is something you **code, test, and integrate in a few hours or, at most, a couple of days**.\n\nThe moment your topic branch stretches beyond a few days, take it as a warning:\n\n- Integration will get harder.\n- Merge conflicts will multiply.\n- Your risk of defects or unintended behaviours will spike.\n- Reviewing and validating costs more\n\nIf you let a branch sit for too long, you are building up **integration debt** that will bite you later. Topic branches, and thinking about them as just that, topics, is an essential practice in modern software engineering.\n\n## The Strategic importance of Topic Branches\n\nWe want to consistently emphasised the importance of technical practices that enable flow, adaptability, and resilience in software teams. Whether addressing trunk-based development, [continuous delivery]({{< ref \"/tags/continuous-delivery\" >}}), or [engineering excellence]({{< ref \"/categories/engineering-excellence\" >}}), the message remains the same: discipline in the small enables success in the large. Topic branches fit directly into this pattern. They are not just a coder habit; they are a deliberate tool that reinforces modularity, integration, and continuous feedback, all cornerstones of modern software delivery.\n\nFrom a **technical [leadership]({{< ref \"/categories/leadership\" >}})** perspective, topic branches are pivotal because they enable:\n\n- Modularity — you isolate changes to a narrow scope.\n- Continuous delivery — you keep the mainline ready for release.\n- Clear code reviews — you limit pull requests to atomic, understandable units.\n- Collaborative accountability — the team shares responsibility for integrating small changes frequently.\n- **Support for agile development practices** — you align technical work with the team’s tactical Sprint Goals and Product Goals.\n\nWithout topic branches, you create a fragile system of work. Without topic branches, you make integration harder. Without topic branches, you **slow down your delivery pipeline** and increase the chance of failure.\n\n### Practical Patterns for Tactical Implementation of Topic Branches\n\nBuilding on the strategic importance we need actionable patterns that technical leaders and teams can apply. It is not enough to understand why topic branches matter; you need pragmatic, grounded approaches that translate strategy into engineering practice. For most teams and most projects, **GitHub Flow** (the branching model, not the cloud tool) is the most effective model. It is a trunk-based model with minimal overhead and complexity. GitHub Flow treats the main branch as the production-ready line and uses small, short-lived topic branches for all work.\n\n![GitHub Flow diagram](images/branchstrategy-trunkbased.png)\n\nYou branch off `main`, do your small unit of work, push frequently, and merge back as soon as possible — ideally the same day, or next day at the latest. Your branch is:\n\n- Focused on a single task or issue.\n- Continuously tested (locally and via CI).\n- Reintegrated quickly to avoid drift.\n- Reinforces context disapline\n\nIf you have a larger application with more engineers and the need to make changes in the production line, then Microsoft’s Release Flow, which is almost identical to \"Github Flow\" with the addition of a versioned release branch. One could say that  Release Flow inherits and extends Github Flow.\n\n![Release Flow diagram](images/branchstrategy-releaseflow.png)\n\nCompare this to the traditional **Git Flow** approach that models less mature braching stratagies, which adds layers of feature, develop, release, and hotfix branches. While Git Flow can still be useful in some legacy or non-continuous delivery setups, it introduces far more overhead and complexity. It reflects a strategy from the pre-CD world.\n\n![Git Flow diagram](images/branchstrategy-old-school.png)\n\nGitflow Flow, and its derivatives, simplifies this: fewer long-lived branches, fewer merge headaches, more emphasis on **incremental delivery**.\n\n## Leading change through Branching Stratagy\n\nIf you are leading a team, the presence or absence of disciplined topic branching tells you a lot.\n\n- Short-lived topic branches = a team practising modularity, integration, continuous feedback, and accountability.\n- Long-lived feature branches = a team accumulating integration risk, delaying delivery, and likely violating agile principles.\n\nYou need to push the team to keep branches small, focused, and short-lived. Review your branching strategy regularly. Make sure it supports, not undermines, your goals of flow, agility, and quality. And above all make sure its clear what each branch is for and how it should be used.\n\nIf your team is struggling with long-lived branches, get serious:\n\n- Introduce trunk-based development practices with GitHub Flow or Release Flow.\n- Enforce limits on branch lifespan.\n- Tighten your CI/CD loops.\n- Teach your team the cost of integration delay.\n\nRemember: your branching strategy is not just a technical choice. It is a critical enabler of continuous [value delivery]({{< ref \"/tags/value-delivery\" >}}).\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-07-14-why-topic-branches-drive-high-quality-delivery\\index.md",
@@ -498,6 +498,7 @@
       "ResourceId": "zLhc3UKUWOj",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "stop-building-silos-start-building-systems",
       "aliases": [
         "/resources/zLhc3UKUWOj",
@@ -533,7 +534,6 @@
         "Value Delivery",
         "Azure Pipelines"
       ],
-      "ResourceContentOrigin": "hybrid",
       "Watermarks": {
         "description": "2025-05-07T12:48:58Z",
         "short_title": "2025-07-07T16:43:18Z"
@@ -554,12 +554,11 @@
       "ResourceId": "ffJaR9AaTl7",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "human-and-ai-agency-in-adaptive-systems-strategy-before-optimisation",
       "aliases": [
         "/resources/ffJaR9AaTl7"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "mermaid": true,
       "aliasesArchive": [
         "/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation",
         "/blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation"
@@ -577,10 +576,12 @@
         "Sensemaking",
         "Strategic Goals",
         "Complexity Thinking",
+        "Agentic Engineering",
         "Systems Thinking",
         "Pragmatic Thinking",
         "Decision Making"
       ],
+      "mermaid": true,
       "Watermarks": {
         "description": "2025-05-07T12:48:59Z",
         "short_title": "2025-07-07T16:43:20Z"
@@ -601,11 +602,11 @@
       "ResourceId": "utAzlIGxj7O",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "stop-writing-business-logic-in-stored-procedures",
       "aliases": [
         "/resources/utAzlIGxj7O"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/stop-writing-business-logic-in-stored-procedures",
         "/blog/stop-writing-business-logic-in-stored-procedures"
@@ -641,11 +642,11 @@
       "ResourceId": "AgIU1SK-3pE",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "how-lack-of-agency-is-killing-your-devops-initiatives",
       "aliases": [
         "/resources/AgIU1SK-3pE"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/how-lack-of-agency-is-killing-your-devops-initiatives",
         "/blog/how-lack-of-agency-is-killing-your-devops-initiatives"
@@ -662,6 +663,7 @@
         "Agentic Agility",
         "Technical Mastery",
         "Social Technologies",
+        "Agentic Engineering",
         "Pragmatic Thinking",
         "Software Development",
         "Operational Practices",
@@ -690,11 +692,11 @@
       "ResourceId": "EtzHUfsWjsD",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "resilience-is-part-of-the-product-not-an-afterthought",
       "aliases": [
         "/resources/EtzHUfsWjsD"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/resilience-is-part-of-the-product--not-an-afterthought",
         "/blog/resilience-is-part-of-the-product--not-an-afterthought"
@@ -734,11 +736,11 @@
       "ResourceId": "RevK05qtZD7",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "the-missing-lever-in-agile-transformations",
       "aliases": [
         "/resources/RevK05qtZD7"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/the-missing-lever-in-agile-transformations",
         "/blog/the-missing-lever-in-agile-transformations"
@@ -764,16 +766,16 @@
         "Business Agility",
         "Organisational Culture",
         "Strategic Goals",
+        "Agentic Engineering",
         "Enterprise Agility",
-        "Pragmatic Thinking",
-        "Evidence Based Management"
+        "Pragmatic Thinking"
       ],
       "Watermarks": {
         "description": "2025-05-07T12:49:04Z",
         "short_title": "2025-07-07T16:43:46Z"
       }
     },
-    "BodyContent": "Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.\n\nYou can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.\n\n**[Agentic Agility]({{< ref \"/tags/agentic-agility\" >}})** is the bridge between _doing Agile_ and _being agile_. It reconnects the mechanical adoption of frameworks with the deeper need for autonomy, purpose, and empirical adaptability. Without agency, agility remains performative theatre. With agency, it becomes adaptive strength.\n\n## Hollow Transformations vs. Human and System Agency\n\nMost transformations stall because they focus on ceremonial compliance:\n\n- Stand-ups happen daily\n- Stories are \"written\"\n- Retrospectives are \"held\"\n- Boards are \"managed\"\n\nMeanwhile, decision latency remains high, impediments are tolerated, and delivery remains brittle. The system stays paralysed by learned helplessness.\n\nTransformation is about a shift in **beliefs and constraints**, not just behaviours:\n\n- Individuals must believe they can shape outcomes.\n- Teams must be enabled to change how they work.\n- Organisations must evolve policies, structures, and practices that block responsiveness.\n\nThis is the ethos behind Agentic Agility: fostering **human agency** (the ability to act with intention) and **system agency** (the capacity for the system itself to adapt).\n\nWhen we focus transformation efforts solely on compliance and ceremony, we institutionalise fragility. When we focus on agency, we unleash resilience.\n\n## Agentic Agility and Evidence-Based Management\n\nYou cannot manage what you cannot measure. You cannot empower what you cannot observe.\n\nThis is why I have consistently pointed to [Evidence-Based Management (EBM)]({{< ref \"/resources/guides/evidence-based-management-guide-2020\" >}})as a cornerstone for real change. EBM gives organisations the tools to:\n\n- **Measure actual outcomes**, not outputs.\n- **Challenge assumptions** with data, not dogma.\n- **Adapt strategies** based on evidence, not inertia.\n\nWithout an evidence-based feedback loop, agency collapses into chaos or bureaucratic decay. EBM operationalises Agentic Agility by aligning action with impact.\n\nTransformations without agency are short-lived.\nTransformations without evidence are blind.\nTransformations with neither are inevitable failures.\n\n## Real Agility is Agentic Agility\n\nAgentic Agility reframes transformation away from ceremonies and towards capacity:\n\n- Capacity for individuals to act intentionally.\n- Capacity for teams to shape their working systems.\n- Capacity for organisations to evolve dynamically in response to reality.\n\nThe next evolution of agility will not be led by those who install more frameworks. It will be led by those who build organisations capable of thinking, learning, and acting for themselves.\n\n**Agentic Agility is not an option. It is the missing lever for real change.**\n",
+    "BodyContent": "Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.\n\nYou can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.\n\n**[Agentic Agility]({{< ref \"/tags/agentic-agility\" >}})** is the bridge between _doing Agile_ and _being agile_. It reconnects the mechanical adoption of frameworks with the deeper need for autonomy, purpose, and empirical adaptability. Without agency, agility remains performative theatre. With agency, it becomes adaptive strength.\n\n## Hollow Transformations vs. Human and System Agency\n\nMost transformations stall because they focus on ceremonial compliance:\n\n- Stand-ups happen daily\n- Stories are \"written\"\n- Retrospectives are \"held\"\n- Boards are \"managed\"\n\nMeanwhile, decision latency remains high, impediments are tolerated, and delivery remains brittle. The system stays paralysed by learned helplessness.\n\nTransformation is about a shift in **beliefs and constraints**, not just behaviours:\n\n- Individuals must believe they can shape outcomes.\n- Teams must be enabled to change how they work.\n- Organisations must evolve policies, structures, and practices that block responsiveness.\n\nThis is the ethos behind Agentic Agility: fostering **human agency** (the ability to act with intention) and **system agency** (the capacity for the system itself to adapt).\n\nWhen we focus transformation efforts solely on compliance and ceremony, we institutionalise fragility. When we focus on agency, we unleash resilience.\n\n## Agentic Agility and Evidence-Based Management\n\nYou cannot manage what you cannot measure. You cannot empower what you cannot observe.\n\nThis is why I have consistently pointed to [Evidence-Based Management (EBM)]({{< ref \"/resources/guides/evidence-based-management-guide\" >}})as a cornerstone for real change. EBM gives organisations the tools to:\n\n- **Measure actual outcomes**, not outputs.\n- **Challenge assumptions** with data, not dogma.\n- **Adapt strategies** based on evidence, not inertia.\n\nWithout an evidence-based feedback loop, agency collapses into chaos or bureaucratic decay. EBM operationalises Agentic Agility by aligning action with impact.\n\nTransformations without agency are short-lived.\nTransformations without evidence are blind.\nTransformations with neither are inevitable failures.\n\n## Real Agility is Agentic Agility\n\nAgentic Agility reframes transformation away from ceremonies and towards capacity:\n\n- Capacity for individuals to act intentionally.\n- Capacity for teams to shape their working systems.\n- Capacity for organisations to evolve dynamically in response to reality.\n\nThe next evolution of agility will not be led by those who install more frameworks. It will be led by those who build organisations capable of thinking, learning, and acting for themselves.\n\n**Agentic Agility is not an option. It is the missing lever for real change.**\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-06-02-the-missing-lever-in-agile-transformations\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-06-02-the-missing-lever-in-agile-transformations",
     "ReferencePath": "resources/blog/2025/2025-06-02-the-missing-lever-in-agile-transformations"
@@ -788,11 +790,11 @@
       "ResourceId": "VThLnxVapgJ",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "how-to-build-for-business-resilience-and-continuity",
       "aliases": [
         "/resources/VThLnxVapgJ"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/how-to-build-for-business-resilience-and-continuity",
         "/blog/how-to-build-for-business-resilience-and-continuity"
@@ -836,11 +838,11 @@
       "ResourceId": "F0yVBj8Tx8H",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back",
       "aliases": [
         "/resources/F0yVBj8Tx8H"
       ],
-      "ResourceContentOrigin": "hybrid",
       "aliasesArchive": [
         "/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back",
         "/blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back"
@@ -868,18 +870,18 @@
     "FrontMatter": {
       "title": "Fragile by Design: The Cost of Pretending to Be Resilient",
       "short_title": "Fragile by Design: The Cost of Fake Resilience",
+      "subtitle": "You don't rise to the level of your continuity plan. You fall to the level of your last real test.",
       "description": "Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.",
       "date": "2025-05-12T09:00:00Z",
       "weight": 165.0,
       "ResourceId": "LGGuvRq4g7p",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "hybrid",
       "slug": "fragile-by-design-the-cost-of-pretending-to-be-resilient",
       "aliases": [
         "/resources/LGGuvRq4g7p"
       ],
-      "ResourceContentOrigin": "hybrid",
-      "subtitle": "You don't rise to the level of your continuity plan. You fall to the level of your last real test.",
       "aliasesArchive": [
         "/fragile-by-design--the-cost-of-pretending-to-be-resilient",
         "/blog/fragile-by-design--the-cost-of-pretending-to-be-resilient"
@@ -916,11 +918,11 @@
       "ResourceId": "uwJYNXG7yIu",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie",
       "aliases": [
         "/resources/uwJYNXG7yIu"
       ],
-      "ResourceContentOrigin": "Hybrid",
       "aliasesArchive": [
         "/the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie",
         "/blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie",
@@ -971,19 +973,16 @@
       "ResourceId": "5wIEg7lD_Xd",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "your-evolving-definition-of-done",
       "aliases": [
         "/resources/5wIEg7lD_Xd"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "layout": "blog",
-      "resourceTypes": "blog",
       "aliasesArchive": [
         "/your-evolving-definition-of-done",
         "/blog/your-evolving-definition-of-done"
       ],
+      "layout": "blog",
       "concepts": [
         "Strategy"
       ],
@@ -1009,6 +1008,9 @@
         "Engineering Practices",
         "Product Delivery"
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "Watermarks": {
         "description": "2025-05-07T12:49:17Z",
         "short_title": "2025-07-07T16:45:08Z"
@@ -1026,30 +1028,27 @@
       "description": "Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.",
       "date": "2025-03-24T09:00:00",
       "weight": 175.0,
-      "ResourceId": "dQjKsWR5qfn",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "great-scrum-masters-need-technical-business-and-organisational-mastery",
-      "aliases": [
-        "/resources/dQjKsWR5qfn"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Henrik Berglund",
           "external": "https://www.linkedin.com/in/henrikber/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "dQjKsWR5qfn",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "great-scrum-masters-need-technical-business-and-organisational-mastery",
+      "aliases": [
+        "/resources/dQjKsWR5qfn"
+      ],
       "aliasesArchive": [
         "/great-scrum-masters-need-technical-business-and-organisational-mastery",
         "/blog/great-scrum-masters-need-technical-business-and-organisational-mastery",
         "/great-scrum-masters-need-technical--business--and-organisational-mastery",
         "/blog/great-scrum-masters-need-technical--business--and-organisational-mastery"
       ],
+      "layout": "blog",
       "concepts": [
         "Framework"
       ],
@@ -1075,6 +1074,9 @@
         "Operational Practices",
         "Market Adaptability"
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "Watermarks": {
         "description": "2025-05-07T12:49:18Z",
         "short_title": "2025-07-07T16:45:15Z"
@@ -1092,23 +1094,20 @@
       "description": "Explores how Scrum Masters and Product Owners balance leadership, authority, and team autonomy to ensure accountability, effective self-management, and organisational alignment.",
       "date": "2025-03-17T09:00:00",
       "weight": 405.0,
+      "contributors": null,
       "ResourceId": "UH6M7ujV-kB",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "balance-of-leadership-and-control-in-scrum",
       "aliases": [
         "/resources/UH6M7ujV-kB"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "contributors": null,
-      "layout": "blog",
-      "resourceTypes": "blog",
       "aliasesArchive": [
         "/balance-of-leadership-and-control-in-scrum",
         "/blog/balance-of-leadership-and-control-in-scrum"
       ],
+      "layout": "blog",
       "concepts": [
         "Accountability"
       ],
@@ -1137,6 +1136,9 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "Watermarks": {
         "description": "2025-05-07T12:49:19Z",
         "short_title": "2025-07-07T16:45:23Z"
@@ -1154,9 +1156,16 @@
       "description": "Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.",
       "date": "2025-03-03T09:00:00",
       "weight": 245.0,
+      "contributors": [
+        {
+          "name": "Nigel Thurlow",
+          "external": "https://www.linkedin.com/in/nigelthurlow/"
+        }
+      ],
       "ResourceId": "KHEPBWiFDKJ",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead",
       "aliases": [
         "/resources/KHEPBWiFDKJ",
@@ -1169,6 +1178,7 @@
         "/blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)",
         "/resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead"
       ],
+      "layout": "blog",
       "concepts": [
         "Principle"
       ],
@@ -1194,17 +1204,6 @@
         "Continuous Improvement",
         "Market Adaptability"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "contributors": [
-        {
-          "name": "Nigel Thurlow",
-          "external": "https://www.linkedin.com/in/nigelthurlow/"
-        }
-      ],
-      "layout": "blog",
-      "resourceTypes": "blog",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1219,6 +1218,9 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "Watermarks": {
         "description": "2025-05-07T12:49:20Z",
         "short_title": "2025-07-07T16:45:40Z"
@@ -1236,16 +1238,6 @@
       "description": "Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.",
       "date": "2025-02-24T09:00:00",
       "weight": 155.0,
-      "ResourceId": "7hEAycZIn8w",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "stop-hiding-behind-complexity-and-start-delivering-continuously",
-      "aliases": [
-        "/resources/7hEAycZIn8w"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "John McFadyen",
@@ -1256,14 +1248,21 @@
           "external": "https://www.linkedin.com/in/richvisotcky/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "7hEAycZIn8w",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "stop-hiding-behind-complexity-and-start-delivering-continuously",
+      "aliases": [
+        "/resources/7hEAycZIn8w"
+      ],
       "aliasesArchive": [
         "/stop-hiding-behind-complexity-deliver-continuously",
         "/blog/stop-hiding-behind-complexity-deliver-continuously",
         "/stop-hiding-behind-complexity-and-start-delivering-continuously",
         "/blog/stop-hiding-behind-complexity-and-start-delivering-continuously"
       ],
+      "layout": "blog",
       "concepts": [
         "Practice"
       ],
@@ -1289,7 +1288,6 @@
         "Business Agility",
         "Release Management"
       ],
-      "preview": "2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1298,12 +1296,16 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg",
       "Watermarks": {
         "description": "2025-05-07T12:49:30Z",
         "short_title": "2025-07-07T17:46:10Z"
       }
     },
-    "BodyContent": "Every organisation says their software is 'too complex' for [continuous delivery]({{< ref \"/tags/continuous-delivery\" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref \"/tags/azure-devops\" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.\n\nContinuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.\n\nThe organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure [DevOps]({{< ref \"/categories/devops\" >}}) team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.\n\nThis evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate [technical debt]({{< ref \"/tags/technical-debt\" >}}), automate relentlessly, and embed a culture of [continuous improvement]({{< ref \"/tags/continuous-improvement\" >}}). It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after four years, later stabilising at just over 300. This is the power of continuous delivery.\n\n### TLDR\n\nEvery software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.\n\n## What is holding you back?\n\nMany teams believe they cannot achieve continuous delivery and instead claim:\n\n- Their product is too big and complex\n- Their teams lack the skills\n- It’s not possible in their regulated industry\n\nEvery single one of these justifications is illegitimate and reflects either the team's unwillingness to learn or the [leadership]({{< ref \"/categories/leadership\" >}})'s unwillingness to invest. These are excuses, not realities.\n\n**In reality, systemic and continuous underinvestment in quality, scalable, and supportable products is to blame.**\n\nThis failure is not driven by the engineers or managers doing the work, but they have enabled it. The cause lies squarely in the business, even if they did not consciously make it.\n\n> \"If you put people under pressure to deliver, they will increasingly and systemically decrease quality to meet whatever ridiculous deadlines you give them.\"\n\nThe result is unchecked technical debt, high bug rates in production, significant rework, and unmet expectations.\n\nThis is not a terminal condition but a challenge to manage and overcome. The key lies in intentionality. Without tackling the root causes of complexity for new capabilities, slow releases, and frequent production issues, process changes will fail to deliver meaningful results.\n\n### The Evolution of the Developer Division at Microsoft\n\nLike every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division—responsible for Visual Studio, Team Foundation Server, and other software engineering tools—this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.\n\nMarket forces pushed them to evolve. They could no longer meet the demands of an increasingly dynamic market, and a four-year response time to customer needs was unsustainable. While laggards might remain, it's the early adopters who drive new business and shape emerging markets. Failing to keep them engaged signals a decline that, if left unchecked, can be fatal—but recovery is possible with decisive action.\n\nAzure DevOps emerged as the result of decisive action by Microsoft's Developer Division, triggered by an urgent need to break free from their two-year release cycle and four-year customer feedback loop. They didn't inherit perfection—they faced legacy code, fragmented processes, and a monolithic release cycle. Their transformation began with small, incremental changes, but success required deeper, systemic shifts:\n\n- **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.\n\n- **Trunk-Based Development**: The cognitive load and resulting complexity from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of [working software]({{< ref \"/tags/working-software\" >}}) to real users. Adopting [Trunk-Based Development practices]({{< ref \"/resources/blog/2025/2025-02-06-stop-promoting-branches\" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.\n\n- **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref \"/resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value\" >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.\n\n- **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes—only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.\n\n- **Iterate Over Pain**: If a task is hard or error-prone, you should do it more often. Any activity, like releasing, that feels difficult or frequently leads to errors deserves focused attention. Repeated practice exposes weak points, allowing you to refine the process and reduce risk. Avoiding the pain only ensures it remains a persistent threat.\n\n## What can we learn?\n\nIf you want to be able to adapt to market opportunities or surprises, then you need to be able to shift quickly. This means that any software system, regardless of its complexity, architecture, or purpose, should be updated, tested, and deployed in a continuous flow without delays, bottlenecks, or manual interventions. This is the ethos of Continuous Delivery (CD), where software is always in a deployable state, enabling frequent and reliable releases.\n\nIn the world of modern software engineering its no longer an optional thing. It's a business demand.  Too many business opportunities have been missed because we are too slow to deliver and too slow to turn feedback into usable working products on a short enough timeline.\n\nHow short your timeline needs to be is a question for your business... what is your effective planning horizon. For Starbucks PoS its 48h; for [Windows]({{< ref \"/tags/windows\" >}}), its \\~120h, for Facebook its just a few minutes.\n\n## Measuring your velocity\n\nVelocity isn't just about how much work gets done—it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.\n\nIn 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team introduced four key metrics to evaluate and enhance the [software development]({{< ref \"/tags/software-development\" >}}) and deployment process:\n\n- **Time to Build:** This metric measures the duration from code commit to the completion of a successful local build on a developer's workstation. It reflects the amount of time a developer needs to wait to know if their code compiles.\n\n- **Time to Self-Test:** This refers to the time taken to execute automated tests after a build locally. A shorter Time to Self-Test reflects fast tests and enables quicker feedback on code quality. Efficient self-testing cycles catch defects early, reduce rework, and maintain code integrity.\n\n- **Time to Deploy:** This metric tracks the time required to deploy a build to a production environment. Shorter deployment times increase velocity by enabling rapid feedback and [value delivery]({{< ref \"/tags/value-delivery\" >}}). Minimising the Time to Deploy is crucial for rapidly delivering features and fixes to end users. [Continuous integration]({{< ref \"/tags/continuous-integration\" >}}) and delivery (CI/CD) pipelines are essential for optimising this metric.\n\n- **Time to Learn:** This encompasses the period from deployment to collecting and analysing user feedback or telemetry data. Reducing Time to Learn ensures teams quickly understand user interactions and make informed decisions for future development. Faster learning cycles mean teams adapt quickly, prioritise effectively, and avoid wasting time on low-value features.\n\nThese metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case—and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.\n\nBy monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.\n\nIt's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref \"/resources/guides/evidence-based-management-guide-2020\" >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:\n\n1. **[Current Value]({{< ref \"/tags/current-value\" >}}) (CV):** Measures the value delivered to customers or stakeholders today, reflecting satisfaction and success based on the current product.\n2. **Unrealized Value (UV):** Identifies potential future value by highlighting gaps between what customers have and what they need or desire.\n3. **[Ability to Innovate]({{< ref \"/tags/ability-to-innovate\" >}}) (A2I):** Assesses how effectively the organisation can deliver new capabilities, features, or products without being constrained by technical debt, process bottlenecks, or organisational drag.\n4. **[Time to Market]({{< ref \"/tags/time-to-market\" >}}) (T2M):** Evaluates the speed at which ideas, features, or fixes move from concept to production, directly impacting responsiveness to market demands and customer needs.\n\nThese four areas provide a balanced view, ensuring you don’t just measure output but focus on the outcomes that drive business success and [customer satisfaction]({{< ref \"/tags/customer-satisfaction\" >}}).\n\n## The Path Forward\n\nUltimately, when deployments are automated, code is well-tested, and processes are streamlined, teams can respond faster to customer needs, market changes, and business opportunities. Azure DevOps’ and Windows evolutions proved that the barrier to continuous delivery is not technical complexity but organisational will.\n\nNo matter where you start, the path to continuous delivery is through addressing the complexity that is slowing you down head-on. Prioritise automation, enforce code quality and relentlessly improve your processes. The result is not just faster releases but better software, happier teams, and more satisfied customers.\n\nIf Azure DevOps can do it with their scale and complexity, so can you.\n\nThe only question is whether you're willing to do what Azure DevOps, Starbucks, and countless others have done: stop hiding behind complexity, and start delivering continuously.\n",
+    "BodyContent": "Every organisation says their software is 'too complex' for [continuous delivery]({{< ref \"/tags/continuous-delivery\" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref \"/tags/azure-devops\" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.\n\nContinuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.\n\nThe organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure [DevOps]({{< ref \"/categories/devops\" >}}) team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.\n\nThis evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate [technical debt]({{< ref \"/tags/technical-debt\" >}}), automate relentlessly, and embed a culture of [continuous improvement]({{< ref \"/tags/continuous-improvement\" >}}). It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after four years, later stabilising at just over 300. This is the power of continuous delivery.\n\n### TLDR\n\nEvery software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.\n\n## What is holding you back?\n\nMany teams believe they cannot achieve continuous delivery and instead claim:\n\n- Their product is too big and complex\n- Their teams lack the skills\n- It’s not possible in their regulated industry\n\nEvery single one of these justifications is illegitimate and reflects either the team's unwillingness to learn or the [leadership]({{< ref \"/categories/leadership\" >}})'s unwillingness to invest. These are excuses, not realities.\n\n**In reality, systemic and continuous underinvestment in quality, scalable, and supportable products is to blame.**\n\nThis failure is not driven by the engineers or managers doing the work, but they have enabled it. The cause lies squarely in the business, even if they did not consciously make it.\n\n> \"If you put people under pressure to deliver, they will increasingly and systemically decrease quality to meet whatever ridiculous deadlines you give them.\"\n\nThe result is unchecked technical debt, high bug rates in production, significant rework, and unmet expectations.\n\nThis is not a terminal condition but a challenge to manage and overcome. The key lies in intentionality. Without tackling the root causes of complexity for new capabilities, slow releases, and frequent production issues, process changes will fail to deliver meaningful results.\n\n### The Evolution of the Developer Division at Microsoft\n\nLike every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division—responsible for Visual Studio, Team Foundation Server, and other software engineering tools—this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.\n\nMarket forces pushed them to evolve. They could no longer meet the demands of an increasingly dynamic market, and a four-year response time to customer needs was unsustainable. While laggards might remain, it's the early adopters who drive new business and shape emerging markets. Failing to keep them engaged signals a decline that, if left unchecked, can be fatal—but recovery is possible with decisive action.\n\nAzure DevOps emerged as the result of decisive action by Microsoft's Developer Division, triggered by an urgent need to break free from their two-year release cycle and four-year customer feedback loop. They didn't inherit perfection—they faced legacy code, fragmented processes, and a monolithic release cycle. Their transformation began with small, incremental changes, but success required deeper, systemic shifts:\n\n- **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.\n\n- **Trunk-Based Development**: The cognitive load and resulting complexity from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of [working software]({{< ref \"/tags/working-software\" >}}) to real users. Adopting [Trunk-Based Development practices]({{< ref \"/resources/blog/2025/2025-02-06-stop-promoting-branches\" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.\n\n- **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref \"/resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value\" >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.\n\n- **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes—only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.\n\n- **Iterate Over Pain**: If a task is hard or error-prone, you should do it more often. Any activity, like releasing, that feels difficult or frequently leads to errors deserves focused attention. Repeated practice exposes weak points, allowing you to refine the process and reduce risk. Avoiding the pain only ensures it remains a persistent threat.\n\n## What can we learn?\n\nIf you want to be able to adapt to market opportunities or surprises, then you need to be able to shift quickly. This means that any software system, regardless of its complexity, architecture, or purpose, should be updated, tested, and deployed in a continuous flow without delays, bottlenecks, or manual interventions. This is the ethos of Continuous Delivery (CD), where software is always in a deployable state, enabling frequent and reliable releases.\n\nIn the world of modern software engineering its no longer an optional thing. It's a business demand.  Too many business opportunities have been missed because we are too slow to deliver and too slow to turn feedback into usable working products on a short enough timeline.\n\nHow short your timeline needs to be is a question for your business... what is your effective planning horizon. For Starbucks PoS its 48h; for [Windows]({{< ref \"/tags/windows\" >}}), its \\~120h, for Facebook its just a few minutes.\n\n## Measuring your velocity\n\nVelocity isn't just about how much work gets done—it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.\n\nIn 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team introduced four key metrics to evaluate and enhance the [software development]({{< ref \"/tags/software-development\" >}}) and deployment process:\n\n- **Time to Build:** This metric measures the duration from code commit to the completion of a successful local build on a developer's workstation. It reflects the amount of time a developer needs to wait to know if their code compiles.\n\n- **Time to Self-Test:** This refers to the time taken to execute automated tests after a build locally. A shorter Time to Self-Test reflects fast tests and enables quicker feedback on code quality. Efficient self-testing cycles catch defects early, reduce rework, and maintain code integrity.\n\n- **Time to Deploy:** This metric tracks the time required to deploy a build to a production environment. Shorter deployment times increase velocity by enabling rapid feedback and [value delivery]({{< ref \"/tags/value-delivery\" >}}). Minimising the Time to Deploy is crucial for rapidly delivering features and fixes to end users. [Continuous integration]({{< ref \"/tags/continuous-integration\" >}}) and delivery (CI/CD) pipelines are essential for optimising this metric.\n\n- **Time to Learn:** This encompasses the period from deployment to collecting and analysing user feedback or telemetry data. Reducing Time to Learn ensures teams quickly understand user interactions and make informed decisions for future development. Faster learning cycles mean teams adapt quickly, prioritise effectively, and avoid wasting time on low-value features.\n\nThese metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case—and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.\n\nBy monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.\n\nIt's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref \"/resources/guides/evidence-based-management-guide\" >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:\n\n1. **[Current Value]({{< ref \"/tags/current-value\" >}}) (CV):** Measures the value delivered to customers or stakeholders today, reflecting satisfaction and success based on the current product.\n2. **Unrealized Value (UV):** Identifies potential future value by highlighting gaps between what customers have and what they need or desire.\n3. **[Ability to Innovate]({{< ref \"/tags/ability-to-innovate\" >}}) (A2I):** Assesses how effectively the organisation can deliver new capabilities, features, or products without being constrained by technical debt, process bottlenecks, or organisational drag.\n4. **[Time to Market]({{< ref \"/tags/time-to-market\" >}}) (T2M):** Evaluates the speed at which ideas, features, or fixes move from concept to production, directly impacting responsiveness to market demands and customer needs.\n\nThese four areas provide a balanced view, ensuring you don’t just measure output but focus on the outcomes that drive business success and [customer satisfaction]({{< ref \"/tags/customer-satisfaction\" >}}).\n\n## The Path Forward\n\nUltimately, when deployments are automated, code is well-tested, and processes are streamlined, teams can respond faster to customer needs, market changes, and business opportunities. Azure DevOps’ and Windows evolutions proved that the barrier to continuous delivery is not technical complexity but organisational will.\n\nNo matter where you start, the path to continuous delivery is through addressing the complexity that is slowing you down head-on. Prioritise automation, enforce code quality and relentlessly improve your processes. The result is not just faster releases but better software, happier teams, and more satisfied customers.\n\nIf Azure DevOps can do it with their scale and complexity, so can you.\n\nThe only question is whether you're willing to do what Azure DevOps, Starbucks, and countless others have done: stop hiding behind complexity, and start delivering continuously.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-02-24-stop-hiding-behind-complexity-deliver-continuously\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2025\\2025-02-24-stop-hiding-behind-complexity-deliver-continuously",
     "ReferencePath": "resources/blog/2025/2025-02-24-stop-hiding-behind-complexity-deliver-continuously"
@@ -1315,30 +1317,27 @@
       "description": "Argues that the Scrum Master role requires proven mastery and real-world experience, not entry-level skills or certifications, and should be earned within the team, not assigned.",
       "date": "2025-02-17T09:00:00",
       "weight": 135.0,
-      "ResourceId": "f2RQh2UCwqB",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "there-is-no-such-thing-as-a-junior-scrum-master",
-      "aliases": [
-        "/resources/f2RQh2UCwqB"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "Contributors": [
+      "contributors": [
         {
           "name": "Dave (\"Dungeon\" Dave) Smith",
           "external": "https://www.linkedin.com/in/dungeon-dave-smith/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "f2RQh2UCwqB",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "there-is-no-such-thing-as-a-junior-scrum-master",
+      "aliases": [
+        "/resources/f2RQh2UCwqB"
+      ],
       "aliasesArchive": [
         "/no-such-thing-as-a-junior-scrum-master",
         "/blog/no-such-thing-as-a-junior-scrum-master",
         "/there-is-no-such-thing-as-a--junior--scrum-master",
         "/blog/there-is-no-such-thing-as-a--junior--scrum-master"
       ],
+      "layout": "blog",
       "concepts": [
         "Accountability"
       ],
@@ -1361,8 +1360,6 @@
         "Team Collaboration",
         "Product Delivery"
       ],
-      "preview": "2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg",
-      "marketing": [],
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1371,6 +1368,11 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg",
+      "marketing": [],
       "Watermarks": {
         "description": "2025-05-07T12:49:37Z",
         "short_title": "2025-07-07T17:46:27Z"
@@ -1388,16 +1390,6 @@
       "description": "Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.",
       "date": "2025-02-13T09:00:00",
       "weight": 145.0,
-      "ResourceId": "_ncZFfeCrnS",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "testing-in-production-maximises-quality-and-value",
-      "aliases": [
-        "/resources/_ncZFfeCrnS"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Benjamin Day",
@@ -1412,12 +1404,19 @@
           "external": "https://www.linkedin.com/in/vladimirkhvostov/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "_ncZFfeCrnS",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "testing-in-production-maximises-quality-and-value",
+      "aliases": [
+        "/resources/_ncZFfeCrnS"
+      ],
       "aliasesArchive": [
         "/testing-in-production-maximises-quality-and-value",
         "/blog/testing-in-production-maximises-quality-and-value"
       ],
+      "layout": "blog",
       "concepts": [
         "Tool"
       ],
@@ -1443,6 +1442,9 @@
         "Deployment Strategies",
         "Frequent Releases"
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "preview": "2025-02-06-testing-in-production-maximises-quality-and-value.jpg",
       "marketing": [],
       "Watermarks": {
@@ -1465,21 +1467,18 @@
       "ResourceId": "UfdnQrxv5iF",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "without-delivery-there-is-no-value",
       "aliases": [
         "/resources/UfdnQrxv5iF"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "layout": "blog",
-      "resourceTypes": "blog",
       "aliasesArchive": [
         "/without-delivery-no-value",
         "/blog/without-delivery-no-value",
         "/without-delivery--there-is-no-value",
         "/blog/without-delivery--there-is-no-value"
       ],
+      "layout": "blog",
       "concepts": [
         "Tenet"
       ],
@@ -1505,8 +1504,6 @@
         "Pragmatic Thinking",
         "Increment"
       ],
-      "preview": "2025-02-10-without-delivery-no-value.jpg",
-      "marketing": [],
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1515,6 +1512,11 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-02-10-without-delivery-no-value.jpg",
+      "marketing": [],
       "Watermarks": {
         "description": "2025-05-07T12:49:40Z",
         "short_title": "2025-07-07T17:46:37Z"
@@ -1532,28 +1534,25 @@
       "description": "Explains why promoting code through multiple branches slows delivery, increases risk, and suggests GitHub Flow or Release Flow as simpler, safer alternatives for deployment.",
       "date": "2025-02-06T09:00:00",
       "weight": 160.0,
-      "ResourceId": "x7ra7pQCDX5",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "stop-promoting-branches",
-      "aliases": [
-        "/resources/x7ra7pQCDX5"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Benjamin Day",
           "external": "https://www.linkedin.com/in/benjaminpday/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "x7ra7pQCDX5",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "stop-promoting-branches",
+      "aliases": [
+        "/resources/x7ra7pQCDX5"
+      ],
       "aliasesArchive": [
         "/stop-promoting-branches",
         "/blog/stop-promoting-branches"
       ],
+      "layout": "blog",
       "concepts": [
         "Principle"
       ],
@@ -1579,6 +1578,9 @@
         "Flow Efficiency",
         "Engineering Practices"
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
       "preview": "2025-02-06-stop-promoting-branches.jpg",
       "marketing": [],
       "Watermarks": {
@@ -1598,30 +1600,27 @@
       "description": "Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.",
       "date": "2025-02-03T09:00:00",
       "weight": 175.0,
-      "ResourceId": "jBIyK6NW3ZB",
-      "ResourceImport": false,
-      "ResourceType": "blog",
-      "slug": "delivery-is-the-only-measure-of-progress-in-scrum",
-      "aliases": [
-        "/resources/jBIyK6NW3ZB"
-      ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
       "contributors": [
         {
           "name": "Ana Kotevska",
           "external": "https://www.linkedin.com/in/ana-kotevska-b0b9ab39/"
         }
       ],
-      "layout": "blog",
-      "resourceTypes": "blog",
+      "ResourceId": "jBIyK6NW3ZB",
+      "ResourceImport": false,
+      "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
+      "slug": "delivery-is-the-only-measure-of-progress-in-scrum",
+      "aliases": [
+        "/resources/jBIyK6NW3ZB"
+      ],
       "aliasesArchive": [
         "/delivery-is-the-only-measure-of-progress",
         "/blog/delivery-is-the-only-measure-of-progress",
         "/delivery-is-the-only-measure-of-progress-in-scrum",
         "/blog/delivery-is-the-only-measure-of-progress-in-scrum"
       ],
+      "layout": "blog",
       "concepts": [
         "Principle"
       ],
@@ -1647,7 +1646,6 @@
         "Agile Product Management",
         "Technical Excellence"
       ],
-      "preview": "2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1656,6 +1654,10 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg",
       "Watermarks": {
         "description": "2025-05-07T12:49:51Z",
         "short_title": "2025-07-07T17:46:52Z"
@@ -1673,9 +1675,28 @@
       "description": "Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.",
       "date": "2025-01-30",
       "weight": 220.0,
+      "contributors": [
+        {
+          "name": "Ryan Ripley",
+          "external": "https://www.linkedin.com/in/ryanripley"
+        },
+        {
+          "name": "Elle Anderson",
+          "external": "http://www.linkedin.com/in/anderelle"
+        },
+        {
+          "name": "Sathpal Singh",
+          "external": "https://www.linkedin.com/in/sathpal/"
+        },
+        {
+          "name": "Ralph Jocham",
+          "external": "https://www.linkedin.com/in/ralphjocham/"
+        }
+      ],
       "ResourceId": "yMnia2DLI6q",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "the-scrum-master-is-accountable-for-delivery",
       "aliases": [
         "/resources/yMnia2DLI6q",
@@ -1686,6 +1707,7 @@
         "/the-scrum-master-is-accountable-for-delivery",
         "/blog/the-scrum-master-is-accountable-for-delivery"
       ],
+      "layout": "blog",
       "concepts": [
         "Accountability"
       ],
@@ -1710,30 +1732,6 @@
         "Increment",
         "Agile Leadership"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "contributors": [
-        {
-          "name": "Ryan Ripley",
-          "external": "https://www.linkedin.com/in/ryanripley"
-        },
-        {
-          "name": "Elle Anderson",
-          "external": "http://www.linkedin.com/in/anderelle"
-        },
-        {
-          "name": "Sathpal Singh",
-          "external": "https://www.linkedin.com/in/sathpal/"
-        },
-        {
-          "name": "Ralph Jocham",
-          "external": "https://www.linkedin.com/in/ralphjocham/"
-        }
-      ],
-      "layout": "blog",
-      "resourceTypes": "blog",
-      "preview": "2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1742,6 +1740,10 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg",
       "Watermarks": {
         "description": "2025-05-07T12:49:52Z",
         "short_title": "2025-07-07T17:46:52Z"
@@ -1762,6 +1764,7 @@
       "ResourceId": "pDvDdIEi9sj",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "why-handoffs-are-killing-your-agility",
       "aliases": [
         "/resources/pDvDdIEi9sj",
@@ -1772,6 +1775,7 @@
         "/why-handoffs-are-killing-your-agility",
         "/blog/why-handoffs-are-killing-your-agility"
       ],
+      "layout": "blog",
       "concepts": [
         "Strategy"
       ],
@@ -1797,12 +1801,6 @@
         "Value Delivery",
         "Agile Frameworks"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "layout": "blog",
-      "resourceTypes": "blog",
-      "preview": "2025-01-11-why-handoffs-are-killing-your-agility.jpg",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1811,6 +1809,10 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-01-11-why-handoffs-are-killing-your-agility.jpg",
       "Watermarks": {
         "description": "2025-05-07T12:50:01Z",
         "short_title": "2025-07-07T17:47:02Z"
@@ -1831,6 +1833,7 @@
       "ResourceId": "-Z5GGUOjc-d",
       "ResourceImport": false,
       "ResourceType": "blog",
+      "ResourceContentOrigin": "Hybrid",
       "slug": "definition-of-done-objective-vs-subjective",
       "aliases": [
         "/resources/-Z5GGUOjc-d",
@@ -1845,6 +1848,7 @@
         "/definition-of-done---objective-vs-subjective",
         "/blog/definition-of-done---objective-vs-subjective"
       ],
+      "layout": "blog",
       "concepts": [
         "Artifact"
       ],
@@ -1870,12 +1874,6 @@
         "Team Performance",
         "Working Software"
       ],
-      "ResourceContentOrigin": "Hybrid",
-      "AudioNative": true,
-      "creator": "Martin Hinshelwood",
-      "layout": "blog",
-      "resourceTypes": "blog",
-      "preview": "2025-01-03-definition-of-done-objective-vs-subjective.jpg",
       "platform_signals": [
         {
           "platform": "Scrumorg",
@@ -1884,6 +1882,10 @@
           "post_type": "crosspost"
         }
       ],
+      "AudioNative": true,
+      "creator": "Martin Hinshelwood",
+      "resourceTypes": "blog",
+      "preview": "2025-01-03-definition-of-done-objective-vs-subjective.jpg",
       "Watermarks": {
         "description": "2025-05-07T12:50:03Z",
         "short_title": "2025-07-07T17:47:03Z"

@@ -361,6 +361,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'tags'
     $list += 'platform_signals'
     $list += 'card'
+    $list += 'Watermarks'
     $missingFromOrder += Update-FieldPositions -data $hugoMarkdown.FrontMatter -orderedkeys $list
     $missingFromOrder = $missingFromOrder | Sort-Object -Unique
 

@@ -1,16 +1,14 @@
 ---
 title: Scrum for Stakeholders Training
-description: Join this interactive class to discover what Scrum is, its benefits, and how it transforms your work. Engage in discussions and team activities for real insights!
-ResourceId: 33qyqKjBf3T
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Scrum Fundamentals for Stakeholders
+description: Introduces stakeholders to Scrum fundamentals, roles, and events, focusing on effective engagement, benefits over traditional methods, and practical participation skills.
 date: 2020-08-31
 weight: 1000
-creator: Martin Hinshelwood
-type: course
+ResourceId: 33qyqKjBf3T
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: scrum-for-stakeholders-training
-url: 
 aliases:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
@@ -20,6 +18,23 @@ aliasesArchive:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
 - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+concepts: []
+categories:
+- Scrum
+tags:
+- Agile Frameworks
+- Agile Product Management
+- Agile Transformation
+- Professional Scrum
+- Software Development
+card:
+  button:
+    content: ""
+  title: Scrum for Stakeholders Training
+  content: ""
+creator: Martin Hinshelwood
+type: course
+url: 
 course_topics:
 - Scrum Training Courses
 course_vendors:
@@ -28,22 +43,9 @@ course_learning_experiences:
 - Traditional
 delivery_audiences:
 - Product Managers
-tags:
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Software Development
-categories:
-- Scrum
 preview: 
 previewIcon: A-S4S.png
 brandColour: 
-card:
-  button:
-    content: ""
-  title: Scrum for Stakeholders Training
-  content: ""
 code: S4S
 course_proficiencies:
 - beginner
@@ -78,6 +80,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:30Z
+  short_title: 2025-07-29T15:01:31Z
 
 ---
 # Scrum for Stakeholders Training

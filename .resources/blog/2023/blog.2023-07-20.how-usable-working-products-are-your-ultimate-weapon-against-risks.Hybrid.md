@@ -5,10 +5,9 @@ description: Delivering usable, working products frequently is key to reducing r
 date: 2023-07-20
 weight: 360
 ResourceId: UnSs37BlBV7
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
@@ -19,6 +18,7 @@ aliasesArchive:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+layout: blog
 concepts:
 - Tenet
 categories:
@@ -37,11 +37,9 @@ tags:
 - Frequent Releases
 - Agile Transformation
 - Market Adaptability
-ResourceContentOrigin: Hybrid
 ResourceImportId: 49501
 AudioNative: true
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-1.jpg
 Watermarks:

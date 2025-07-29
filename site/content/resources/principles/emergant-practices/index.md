@@ -19,14 +19,14 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-resourceTypes: principles
-creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
   content: Discover more about Emergant Practices and how it can help you in your Agile journey!
   title: Emergant Practices
+resourceTypes: principles
+creator: Martin Hinshelwood
+draft: true
 Watermarks:
   description: 2025-05-07T12:58:23Z
   short_title: 2025-07-07T17:48:02Z

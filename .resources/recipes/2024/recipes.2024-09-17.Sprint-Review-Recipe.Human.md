@@ -7,12 +7,14 @@ weight: 750
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 slug: sprint-review-recipe
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 - /resources/K4kkSAG3R7m
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+layout: recipe
 concepts:
 - Method
 categories:
@@ -34,9 +36,12 @@ tags:
 - Agile Frameworks
 - Forecasting
 - Team Performance
-ResourceContentOrigin: Human
+card:
+  button:
+    content: Learn More
+  content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
+  title: Sprint Review Recipe
 resourceTypes: recipe
-layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 creator: Martin Hinshelwood
 recommendedContent:
@@ -57,11 +62,6 @@ videos:
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
-card:
-  button:
-    content: Learn More
-  content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
-  title: Sprint Review Recipe
 Watermarks:
   description: 2025-05-07T12:57:45Z
   short_title: 2025-07-07T17:48:02Z

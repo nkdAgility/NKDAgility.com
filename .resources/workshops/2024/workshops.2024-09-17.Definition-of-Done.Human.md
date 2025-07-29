@@ -7,6 +7,7 @@ weight: 1000
 ResourceId: IgRDk1wrh65
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 slug: definition-of-done
 aliases:
 - /workshops/Definition-Of-Done.html
@@ -17,21 +18,20 @@ aliasesArchive:
 - /workshops/Definition-Of-Done.html
 - /learn/agile-delivery-kit/workshops/Definition-Of-Done
 - /learn/agile-delivery-kit/workshops/definition-of-done/
+layout: workshop
 concepts:
 - Method
 categories:
 - Uncategorized
 tags:
 - Definition of Done
-ResourceContentOrigin: Human
-resourceTypes: workshop
-layout: workshop
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
+resourceTypes: workshop
+creator: Martin Hinshelwood
 Watermarks:
   description: 2025-05-07T12:58:00Z
   short_title: 2025-07-07T17:48:12Z

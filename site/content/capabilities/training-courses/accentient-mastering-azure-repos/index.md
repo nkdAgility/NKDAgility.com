@@ -1,16 +1,14 @@
 ---
 title: Mastering Azure Repos Training
-description: Azure DevOps Services offer cloud tools for teams to plan, develop, and deliver software efficiently, with Azure Repos enhancing collaboration and code quality.
-ResourceId: d4jyFSYdS2v
-ResourceImport: true
-ResourceType: course
-ResourceContentOrigin: human
+short_title: Mastering Azure Repos Training
+description: Learn to configure and use Azure Repos for Git version control, collaborate with branching and pull requests, and integrate with Visual Studio and GitHub in Azure DevOps.
 date: 2020-08-31
 weight: 600
-creator: Martin Hinshelwood
-type: course
+ResourceId: d4jyFSYdS2v
+ResourceImport: false
+ResourceType: course
+ResourceContentOrigin: human
 slug: mastering-azure-repos-training
-url: 
 aliases:
 - /training-courses/mastering-azure-repos
 - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
@@ -20,14 +18,9 @@ aliasesArchive:
 - /training-courses/mastering-azure-repos
 - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
 - /capabilities/training-courses/accentient/mastering-azure-repos-training
-course_topics:
-- Azure DevOps Training Courses
-course_vendors:
-- Accentient
-course_learning_experiences:
-- Traditional
-delivery_audiences:
-- Developers
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Azure DevOps
 - Azure Repos
@@ -36,16 +29,25 @@ tags:
 - Software Development
 - Technical Excellence
 - Technical Mastery
-categories:
-- Engineering Excellence
-preview: 
-previewIcon: A-MARS.png
-brandColour: 
 card:
   button:
     content: ""
   title: Mastering Azure Repos Training
   content: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
+creator: Martin Hinshelwood
+type: course
+url: 
+course_topics:
+- Azure DevOps Training Courses
+course_vendors:
+- Accentient
+course_learning_experiences:
+- Traditional
+delivery_audiences:
+- Developers
+preview: 
+previewIcon: A-MARS.png
+brandColour: 
 code: MARS
 course_proficiencies:
 - intermediate
@@ -72,6 +74,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+Watermarks:
+  description: 2025-07-29T15:01:22Z
+  short_title: 2025-07-29T15:01:23Z
 
 ---
 # Mastering Azure Repos Training

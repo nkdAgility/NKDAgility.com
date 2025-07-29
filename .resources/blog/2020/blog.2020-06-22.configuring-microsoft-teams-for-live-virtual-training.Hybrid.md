@@ -5,10 +5,9 @@ description: Step-by-step guide to setting up Microsoft Teams for live virtual t
 date: 2020-06-22
 weight: 1000
 ResourceId: Xc0Lh3NbXfK
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
 - /resources/Xc0Lh3NbXfK
@@ -16,6 +15,7 @@ aliasesArchive:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
+layout: blog
 concepts:
 - Tool
 categories:
@@ -23,10 +23,8 @@ categories:
 tags:
 - System Configuration
 - Install and Configuration
-ResourceContentOrigin: Hybrid
 ResourceImportId: 44452
 creator: Martin Hinshelwood
-layout: blog
 resourceTypes: blog
 preview: image-14-4-4.png
 Watermarks:

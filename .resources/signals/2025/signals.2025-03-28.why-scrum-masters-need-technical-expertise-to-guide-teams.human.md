@@ -7,12 +7,21 @@ weight: 235
 ResourceId: _0eaUkX1o1q
 ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 slug: why-scrum-masters-need-technical-expertise-to-guide-teams
 aliases:
 - /resources/_0eaUkX1o1q
-layout: signal
-ResourceContentOrigin: human
 source: LinkedIn
+layout: signal
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+tags:
+- Product Delivery
+- Pragmatic Thinking
+- Software Development
+- Operational Practices
 platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7311424349494784000
@@ -27,15 +36,6 @@ platform_signals:
 Watermarks:
   description: 2025-05-16T15:55:50Z
   short_title: 2025-07-07T16:45:10Z
-concepts: []
-categories:
-- Scrum
-- Technical Leadership
-tags:
-- Product Delivery
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
 
 ---
 Would you trust a coach who doesn’t understand your sport?

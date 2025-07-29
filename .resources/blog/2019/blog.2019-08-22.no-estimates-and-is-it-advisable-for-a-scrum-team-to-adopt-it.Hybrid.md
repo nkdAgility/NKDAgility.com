@@ -5,30 +5,28 @@ description: Explores whether Scrum Teams should adopt No Estimates, comparing e
 date: 2019-08-22
 weight: 440
 ResourceId: Lv1CLfk5cPM
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
 - /resources/Lv1CLfk5cPM
-ResourceContentOrigin: Hybrid
-ResourceImportId: 39684
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 aliasesArchive:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+layout: blog
 concepts: []
 categories:
 - Product Development
 - Scrum
 tags:
 - Software Development
+ResourceImportId: 39684
+creator: Martin Hinshelwood
+resourceTypes: blog
 preview: iStock-847664136-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:14Z
