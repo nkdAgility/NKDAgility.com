@@ -1,0 +1,124 @@
+{{ $programs := .programs }}
+{{ $page := .context }}
+{{ $now := now }}
+{{ $includeMeta := .includeMeta | default true }}
+<section class="row g-4" aria-label="Training and mentoring programs">
+  {{ range $programs }}
+    {{ $isFuture := (.Date.After $now) }}
+    {{ $programType := .Params.code | default "program" }}
+    {{ $truncatedDescription := .Description | default .Summary | truncate 150 }}
+    <div class="col-12 col-md-6 col-lg-4">
+      <article class="card h-100" itemscope itemtype="https://schema.org/Course">
+        {{ if $isFuture }}
+          {{ $duration := .Date.Sub $now }}
+          {{ $days := math.Floor (div $duration.Hours 24) }}
+          <header class="card-header bg-warning text-dark py-1 px-2" role="banner">
+            <small><strong>Launches in {{ $days }} day{{ if ne $days 1 }}s{{ end }}</strong></small>
+          </header>
+        {{ end }}
+        <div class="card-body d-flex flex-column position-relative">
+          <div class="mb-2 card-top-bits">
+            <small>
+              {{ with index .Params "course-vendors" }}
+                {{ $vendorName := index . 0 }}
+                {{ $vendorTerm := partial "functions/get-taxonomy-page" (dict "taxonomyName" "course-vendors" "termName" $vendorName "site" site) }}
+                {{ if $vendorTerm }}
+                  <a href="{{ $vendorTerm.Permalink }}" class="text-decoration-none"> <span aria-label="Program Vendors" itemprop="provider">{{ $vendorTerm.Params.short_title | default $vendorTerm.Title }}</span> </a>
+                {{ else }}
+                  <span aria-label="Program Vendors" itemprop="provider">{{ $vendorName }}</span>
+                {{ end }}
+                <span aria-hidden="true"> • </span>
+              {{ end }}
+              {{ if .Params.code }}
+                <span aria-label="Program Code" itemprop="courseCode">{{ .Params.code }}</span>
+                <span aria-hidden="true"> • </span>
+              {{ end }}
+              {{ if .Params.course_length }}
+                <span aria-label="Duration" itemprop="timeRequired" content="PT{{ .Params.course_length }}H">{{ .Params.course_length }}h</span>
+                <span aria-hidden="true"> • </span>
+              {{ end }}
+              {{ if .Params.level }}
+                <span aria-label="Level" itemprop="educationalLevel">{{ .Params.level | title }}</span>
+              {{ end }}
+            </small>
+          </div>
+          <header title="{{ .Title }}">
+            <h3 class="card-title h5 mb-2 fw-semibold" itemprop="name">
+              <a href="{{ .Permalink }}" class="text-decoration-none text-reset" aria-describedby="desc-{{ .Params.ResourceId }}" itemprop="url">
+                {{ .Params.short_title | default .Title }}
+              </a>
+            </h3>
+          </header>
+          <p class="card-text flex-grow-1" id="desc-{{ .Params.ResourceId }}" itemprop="description" {{ if $includeMeta }}title="{{ .Description | default .Summary }}"{{ end }}>
+            {{ $truncatedDescription }}
+          </p>
+          <footer class="d-flex justify-content-between align-items-end mt-auto">
+            {{ if eq .Kind "term" }}
+              <div class="program-type d-flex align-items-center gap-1" aria-label="Program Category: {{ .Type | title }}">
+                <i class="fa-regular fa-tag"></i>
+                <span class="visually-hidden">{{ .Type | title }}</span>
+                <small class="text-muted">{{ .Type | title }} ({{ len .Pages }})</small>
+              </div>
+            {{ else }}
+              <div class="program-type d-flex align-items-center gap-1" aria-label="Program type: {{ if .Params.code }}{{ if eq .Type "course" }}Course{{ else if eq .Type "mentor-program" }}Mentoring{{ else }}Program{{ end }}{{ else }}Program{{ end }}">
+                {{ if eq .Type "course" }}
+                  <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i>
+                  <span class="visually-hidden">Course Program</span>
+                  <small class="text-muted">Course Program</small>
+                {{ else if eq .Type "mentor-program" }}
+                  <i class="fa-solid fa-user-graduate" aria-hidden="true"></i>
+                  <span class="visually-hidden">Mentoring Program</span>
+                  <small class="text-muted">Mentoring Program</small>
+                {{ else }}
+                  <i class="fa-solid fa-bookmark" aria-hidden="true"></i>
+                  <span class="visually-hidden">Program</span>
+                  <small class="text-muted">Program</small>
+                {{ end }}
+              </div>
+            {{ end }}
+            {{ if .IsSection }}
+              <i class="fa-regular fa-layer-group" aria-label="Multiple versions available" title="Multiple versions available"></i>
+            {{ end }}
+            {{ if .Params.forked_from }}
+              <i class="fa-regular fa-code-fork" aria-label="Fork of another Guide" title="Fork of another Guide"></i>
+            {{ end }}
+            <span class="visually-hidden">Read more about {{ .Title }}</span>
+          </footer>
+        </div>
+        {{ if $includeMeta }}
+          {{ with .Params.author }}
+            {{ if (reflect.IsSlice .) }}
+              {{ range . }}
+                <meta itemprop="author" content="{{ . }}" />
+              {{ end }}
+            {{ else }}
+              <meta itemprop="author" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+          {{ with .Params.creator }}
+            <meta itemprop="instructor" content="{{ . }}" />
+          {{ end }}
+          {{ with .Params.tags }}
+            {{ range . }}
+              <meta itemprop="keywords" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+          {{ with .Params.preview_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
+          {{ with .Params.featured_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
+          {{ if .Params.course_length }}
+            <meta itemprop="totalTime" content="PT{{ .Params.course_length }}H" />
+          {{ end }}
+          {{ with index .Params "course-vendors" }}
+            {{ range . }}
+              <meta itemprop="provider" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </article>
+    </div>
+  {{ end }}
+</section>

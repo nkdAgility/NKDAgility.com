@@ -1,0 +1,51 @@
+{{/* Function: get-taxonomy-page
+
+  Description: Finds a taxonomy page based on taxonomy name and term name
+
+  Parameters:
+  - .taxonomyName (string): The name of the taxonomy (e.g., "tags", "categories", "course-vendors")
+  - .termName (string): The name of the term to find
+  - .site (object): The Hugo site object (pass as .Site or site)
+
+  Returns: Page object or false if not found
+
+  Usage:
+  {{ $taxonomyPage := partial "functions/get-taxonomy-page" (dict "taxonomyName" "tags" "termName" "agile" "site" site)
+}}
+{{ if $taxonomyPage }}
+  <a href="{{ $taxonomyPage.Permalink }}">{{ $taxonomyPage.Title }}</a>
+{{ end }}
+*/}}
+{{- $taxonomyName := .taxonomyName -}}
+{{- $termName := .termName -}}
+{{- $site := .site -}}
+{{- $termPage := false -}}
+
+{{- /* Debug information */ -}}
+{{- warnf "get-taxonomy-page called with: taxonomyName=%q, termName=%q, site type=%T" $taxonomyName $termName $site -}}
+
+{{- if and $taxonomyName $termName $site -}}
+  {{- $urlizedTerm := urlize $termName -}}
+  {{- $termPath := printf "/%s/%s" $taxonomyName $urlizedTerm -}}
+  {{- $termPage = $site.GetPage $termPath -}}
+  {{- if not $termPage -}}
+    {{- warnf "Taxonomy page not found: %s (term: %q, urlized: %q)" $termPath $termName $urlizedTerm -}}
+    {{- /* List available terms for this taxonomy */ -}}
+    {{- $taxonomy := index $site.Taxonomies $taxonomyName -}}
+    {{- if $taxonomy -}}
+      {{- $availableTerms := slice -}}
+      {{- range $termKey, $termPages := $taxonomy -}}
+        {{- $availableTerms = $availableTerms | append $termKey -}}
+      {{- end -}}
+      {{- warnf "Available %s terms: %s" $taxonomyName (delimit $availableTerms ", ") -}}
+    {{- else -}}
+      {{- warnf "No taxonomy found for: %s" $taxonomyName -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "Found taxonomy page: %s" $termPath -}}
+  {{- end -}}
+{{- else -}}
+  {{- warnf "get-taxonomy-page: Missing required parameters - taxonomyName: %q, termName: %q, site: %t" $taxonomyName $termName (ne $site nil) -}}
+{{- end -}}
+
+{{- return $termPage -}}

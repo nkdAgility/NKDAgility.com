@@ -36,7 +36,7 @@ aliasesArchive:
 course-topics:
   - Scrum Training Courses
 course-vendors:
-  - Scrum.org
+  - Scrumorg
 course-learning-experiences:
   - Immersive
   - Traditional
