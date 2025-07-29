@@ -100,7 +100,7 @@ sections:
     content: |
       Each course is certified and enhanced with NKD Agility’s proven transformation frameworks.
     type: taxonomies-list
-    source: course-topics
+    source: course_topics
     types:
       - course
   - type: none

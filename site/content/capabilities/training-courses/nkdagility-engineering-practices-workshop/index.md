@@ -16,7 +16,7 @@ aliases:
   - /resources/0HKCf4ALF5Y
 aliasesArchive:
   - /training-courses/engineering-practices-workshop/
-course-topics:
+course_topics:
   - Engineering Training Courses
 course_vendors:
   - NKDAgility

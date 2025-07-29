@@ -106,7 +106,7 @@ sections:
       - course
   - title: Courses by Context
     type: taxonomies
-    source: course-topics
+    source: course_topics
     types:
       - course
   - title: Courses by Vendor

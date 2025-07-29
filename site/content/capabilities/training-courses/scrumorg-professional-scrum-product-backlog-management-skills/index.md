@@ -19,7 +19,7 @@ aliases:
 aliasesArchive:
   - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg

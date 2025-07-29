@@ -20,7 +20,7 @@ aliasesArchive:
   - /training-courses/scrum-for-stakeholders
   - /training-courses/scrum-for-stakeholders-training/
   - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Accentient

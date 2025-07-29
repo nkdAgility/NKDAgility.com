@@ -28,7 +28,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-master-advanced-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org

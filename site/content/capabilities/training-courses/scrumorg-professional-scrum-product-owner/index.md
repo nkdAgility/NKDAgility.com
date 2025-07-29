@@ -25,7 +25,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
   - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg

@@ -20,7 +20,7 @@ aliasesArchive:
   - /training-courses/continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
   - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
-course-topics:
+course_topics:
   - Azure DevOps Training Courses
 course_vendors:
   - Accentient

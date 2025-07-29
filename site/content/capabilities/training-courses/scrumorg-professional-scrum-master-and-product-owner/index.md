@@ -19,7 +19,7 @@ aliases:
 aliasesArchive:
   - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg

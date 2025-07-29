@@ -22,7 +22,7 @@ aliasesArchive:
   - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
   - /A-MPAB/
   - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
-course-topics:
+course_topics:
   - Azure DevOps Training Courses
 course_vendors:
   - Accentient

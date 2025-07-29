@@ -26,7 +26,7 @@ aliasesArchive:
   - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
   - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org

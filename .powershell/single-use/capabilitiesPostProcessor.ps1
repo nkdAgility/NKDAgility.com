@@ -284,7 +284,7 @@ function Update-MarkdownWithCourseData {
                 $details = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-more-details' } | Select-Object -ExpandProperty meta_value)
                 $colour = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-colour-primary' } | Select-Object -ExpandProperty meta_value
                 $vendor = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-vendor' } | Select-Object -ExpandProperty meta_value
-                $topics = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-topics' } | Select-Object -ExpandProperty meta_value)
+                $topics = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course_topics' } | Select-Object -ExpandProperty meta_value)
                 $objectives = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-objectives' } | Select-Object -ExpandProperty meta_value)
                 $certification = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-and-certification' } | Select-Object -ExpandProperty meta_value)
 

@@ -22,7 +22,7 @@ aliasesArchive:
   - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
   - /AD-QA/
   - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
-course-topics:
+course_topics:
   - Azure DevOps Training Courses
 course_vendors:
   - Accentient

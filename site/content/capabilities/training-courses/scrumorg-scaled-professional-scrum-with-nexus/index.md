@@ -28,7 +28,7 @@ aliasesArchive:
   - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
   - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
   - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org

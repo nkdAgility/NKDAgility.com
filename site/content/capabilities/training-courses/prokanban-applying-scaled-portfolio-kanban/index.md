@@ -18,7 +18,7 @@ aliases:
 aliasesArchive:
   - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
-course-topics:
+course_topics:
   - Kanban Training Courses
 course_vendors:
   - ProKanban.org

@@ -18,7 +18,7 @@ aliases:
 aliasesArchive:
   - /training-courses/agile-workshops/agile-kata-professional/
   - /akp/
-course-topics:
+course_topics:
   - Agile Training Courses
 course_vendors:
   - Agile Kata

@@ -27,7 +27,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
   - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg

@@ -20,7 +20,7 @@ aliasesArchive:
   - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
   - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-course-topics:
+course_topics:
   - Kanban Training Courses
 course_vendors:
   - ProKanban.org

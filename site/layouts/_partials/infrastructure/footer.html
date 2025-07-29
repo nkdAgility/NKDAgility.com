@@ -99,7 +99,7 @@
         <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-2">
           <h4 class="p-2 text-white">Training Services</h4>
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-            {{ $terms := ( index .Site.Taxonomies "course-topics") }}
+            {{ $terms := ( index .Site.Taxonomies "course_topics") }}
             {{ range $terms }}
               <li class="nav-item">
                 <small
@@ -175,7 +175,7 @@
   function loadScript(a) {
     var b = document.getElementsByTagName("head")[0],
       c = document.createElement("script");
-    (c.type = "text/javascript"), (c.src = "https://tracker.metricool.com/resources/be.js"), (c.onreadystatechange = a), (c.onload = a), b.appendChild(c);
+    ((c.type = "text/javascript"), (c.src = "https://tracker.metricool.com/resources/be.js"), (c.onreadystatechange = a), (c.onload = a), b.appendChild(c));
   }
   loadScript(function () {
     beTracker.t({ hash: "aec7284edc8d1939969ff642d8211446" });

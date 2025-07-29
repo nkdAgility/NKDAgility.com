@@ -122,7 +122,7 @@ The section automatically:
 - type: "taxonomies-list"
   title: "Learning Paths"
   content: "Comprehensive learning journeys across multiple content types"
-  source: "course-topics"
+  source: "course_topics"
   types:
     - "training-courses"
     - "workshops"

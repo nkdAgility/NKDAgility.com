@@ -24,7 +24,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-with-kanban-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org

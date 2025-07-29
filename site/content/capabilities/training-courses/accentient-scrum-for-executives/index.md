@@ -20,7 +20,7 @@ aliasesArchive:
   - /training-courses/scrum-for-executives
   - /training-courses/scrum-for-executives-training/
   - /capabilities/training-courses/accentient/scrum-for-executives
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Accentient

@@ -21,7 +21,7 @@ aliasesArchive:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-course-topics:
+course_topics:
   - Scrum Training Courses
   - Product Training Courses
 course_vendors:

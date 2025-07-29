@@ -25,7 +25,7 @@ aliasesArchive:
   - /training-courses/professional-agile-leadership-essentials-training-with-certification
   - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrumorg

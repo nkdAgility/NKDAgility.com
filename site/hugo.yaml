@@ -75,7 +75,7 @@ taxonomies:
   category: categories
   tag: tags
   classification-type: concepts
-  course-topic: course-topics
+  course_topic: course_topics
   course_vendor: course_vendors
   course_learning_experience: course_learning_experiences
   customer-industry: customer-industries
@@ -95,9 +95,9 @@ permalinks:
     concepts: "/resources/:slug/"
     marketing: "/marketing/:slug/"
     delivery-audiences: "/capabilities/audiences"
-    course-topics: "/capabilities/training-courses/course-topics"
+    course_topics: "/capabilities/training-courses/course-topics"
     course_vendors: "/capabilities/training-courses/course-vendors"
-    course_learning_experiences: "/capabilities/training-courses/course_learning_experiences"
+    course_learning_experiences: "/capabilities/training-courses/course-learning-experiences"
     customer-industry: "/company/customers/industry"
     people-abilities: "/company/people/abilities"
   term:
@@ -106,7 +106,7 @@ permalinks:
     concepts: "/resources/:slug/"
     marketing: "/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
-    course-topics: "/capabilities/training-courses/:slug/"
+    course_topics: "/capabilities/training-courses/:slug/"
     course_vendors: "/capabilities/training-courses/:slug/"
     course_learning_experiences: "/capabilities/training-courses/:slug/"
     customer-industry: "/company/customers/:slug/"

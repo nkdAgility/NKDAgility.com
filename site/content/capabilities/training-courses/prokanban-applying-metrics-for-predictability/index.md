@@ -20,7 +20,7 @@ aliasesArchive:
   - /training-courses/applying-metrics-for-predictability/
   - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
-course-topics:
+course_topics:
   - Kanban Training Courses
 course_vendors:
   - ProKanban.org

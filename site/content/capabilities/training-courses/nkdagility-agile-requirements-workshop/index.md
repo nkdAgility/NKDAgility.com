@@ -18,7 +18,7 @@ aliases:
 aliasesArchive:
   - agile-requirements-workshop-1-day
   - /training-courses/agile-requirements-workshop/
-course-topics:
+course_topics:
   - Agile Training Courses
 course_vendors:
   - NKDAgility

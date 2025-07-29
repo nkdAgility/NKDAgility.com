@@ -24,7 +24,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
   - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
-course-topics:
+course_topics:
   - Scrum Training Courses
 course_vendors:
   - Scrum.org
