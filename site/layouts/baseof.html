@@ -8,7 +8,7 @@
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
-    {{- if ne hugo.Environment "development" }}
+    {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}
       <!-- termly.io-->
       <script src="https://app.termly.io/resource-blocker/8bfd9df8-10f3-48d6-8543-802e916c4a5c?autoBlock=on"></script>
       <!-- Google Tag Manager -->
@@ -31,8 +31,8 @@
 
     {{- partial "infrastructure/head.html" . }}
   </head>
-  <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#">
-    {{- if ne hugo.Environment "development" }}
+  <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#" data-nkda-renderGTM=" {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}true{{ else }}false{{- end }}">
+    {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}
       <!-- Google Tag Manager (noscript) -->
       <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRVT65" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- End Google Tag Manager (noscript) -->
