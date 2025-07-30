@@ -1,0 +1,15 @@
+{
+  "media": {
+    "root": "site/static/images",
+    "public": "site/static/"
+  },
+  "content": {
+    "root": "site/content"
+  },
+  "themeConfig": [
+    "site/hugo.yaml",
+    "site/hugo.preview.yaml"
+  ],
+  "arrangement": [],
+  "showCommitModal": true
+}
