@@ -367,6 +367,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'subtitle'
     $list += 'description'
     $list += 'abstract'
+    $list += 'tldr'
     $list += 'date'
     $list += 'weight'
     $list += 'author'

@@ -2,6 +2,7 @@
 title: 'Stop Testing Quality In: How Shifting Left Builds Better Software, Faster'
 short_title: Building Quality In with TDD and Automation
 description: Stop testing quality in—start building it in. Learn how shifting left, automation, and fast feedback loops drive engineering excellence in modern teams.
+tldr: Relying on testers to catch issues late in the process increases costs, slows feedback, and undermines product trust; instead, quality should be built in from the start by moving tests and feedback as close to the engineer as possible. Key practices include automating builds and tests, adopting continuous integration and delivery, using test-driven development, and incrementally improving code quality. Development managers should focus on empowering engineers to own quality, relentlessly shortening feedback loops, and making incremental improvements to achieve faster, more reliable releases.
 date: 2025-08-18T06:00:00Z
 weight: 155
 ResourceId: Ny4mMLZX4UE
@@ -43,6 +44,7 @@ tags:
 Watermarks:
   description: 2025-07-24T15:09:42Z
   short_title: 2025-07-24T15:09:43Z
+  tldr: 2025-07-30T23:14:39Z
 videoId: Ny4mMLZX4UE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ny4mMLZX4UE/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCWsJzPr_lUtXaQb9o83cYJ2ydRkw

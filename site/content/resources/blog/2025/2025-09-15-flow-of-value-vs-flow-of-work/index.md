@@ -2,6 +2,8 @@
 title: Flow of Value vs Flow of Work – Misnomer or Useful Shorthand?
 short_title: Flow of Value vs Flow of Work
 description: Compares “flow of value” and “flow of work” in Kanban, explaining why only validated outcomes count as value and stressing the need for evidence, feedback, and learning.
+tldr: |
+  The phrase “flow of value” is easy to abuse. Used carelessly it breeds complacency and hides waste. Used thoughtfully – with explicit definitions of work, disciplined WIP limits, and a relentless focus on measuring outcomes – it can remind us why we’re here: to deliver what stakeholders need, when they need it, as predictably as possible. That’s not just semantics; it’s the difference between a busy team and a valuable one.
 date: 2025-09-15T09:00:00Z
 weight: 1000
 ResourceId: p2XfFa_1tko
@@ -20,8 +22,6 @@ categories:
 tags: []
 Watermarks:
   description: 2025-07-30T22:58:59Z
-tldr: |
-  The phrase “flow of value” is easy to abuse. Used carelessly it breeds complacency and hides waste. Used thoughtfully – with explicit definitions of work, disciplined WIP limits, and a relentless focus on measuring outcomes – it can remind us why we’re here: to deliver what stakeholders need, when they need it, as predictably as possible. That’s not just semantics; it’s the difference between a busy team and a valuable one.
 
 ---
 # Flow of value vs. flow of work: misnomer or useful shorthand?
