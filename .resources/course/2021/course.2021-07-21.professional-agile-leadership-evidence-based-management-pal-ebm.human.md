@@ -18,6 +18,7 @@ aliases:
 - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 - /resources/enw9s_l3PeE
 - /capabilities/evidence-based-leadership/
+- /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 aliasesArchive:
 - /ebm
 - /pal-ebm
@@ -26,6 +27,7 @@ aliasesArchive:
 - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 - /capabilities/evidence-based-leadership/
+- /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 concepts:
 - Principle
 categories:
@@ -128,13 +130,13 @@ Enhance your leadership skills by learning to apply the Evidence-Based Managemen
 
 ## Target Audience
 
-- Product Owners  
-- Product Managers  
-- Managers  
-- Entrepreneurs  
-- Executives  
-- Scrum Masters  
-- Agile Coaches  
+- Product Owners
+- Product Managers
+- Managers
+- Entrepreneurs
+- Executives
+- Scrum Masters
+- Agile Coaches
 - Consultants
 
 ---

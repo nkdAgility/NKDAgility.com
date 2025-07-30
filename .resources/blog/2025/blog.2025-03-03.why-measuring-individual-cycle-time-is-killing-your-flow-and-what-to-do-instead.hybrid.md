@@ -15,12 +15,14 @@ slug: why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-in
 aliases:
 - /resources/KHEPBWiFDKJ
 - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+- /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
 aliasesArchive:
 - /measuring-individual-cycle-time-is-killing-your-flow
 - /blog/measuring-individual-cycle-time-is-killing-your-flow
 - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+- /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
 layout: blog
 concepts:
 - Principle

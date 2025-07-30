@@ -477,7 +477,7 @@ function Get-ClassificationsForType {
     }
 
     if ([datetime]$hugoMarkdown.FrontMatter.date -gt [datetime](Get-Date)) {
-        Update-MissingClassificationsLive -hugoMarkdown $hugoMarkdown -catalog $catalog
+        # Update-MissingClassificationsLive -hugoMarkdown $hugoMarkdown -catalog $catalog
 
     }
     # Load from Cache and validate its contents
