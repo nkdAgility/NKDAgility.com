@@ -4,7 +4,7 @@ short_title: The Folly of Tracking Original vs. Actual Hours
 description: Tracking original vs. actual hours in software development undermines trust, quality, and value; focus on outcomes, team well-being, and customer impact instead.
 tldr: Tracking original versus actual hours damages trust, lowers morale, and does not improve software quality or value delivered. Pressuring teams to hit time estimates leads to stress, poor estimates, and rushed work, while hours worked do not reflect customer value. Focus instead on outcomes like cycle time, defect rates, and customer satisfaction to drive better results and a healthier team environment.
 date: 2025-09-22T09:00:00Z
-weight: 1000
+weight: 125
 ResourceId: rE-_hlb3Y34
 ResourceImport: false
 ResourceType: blog
@@ -15,10 +15,28 @@ aliases:
 - /resources/rE-_hlb3Y34
 aliasesArchive:
 - /resources/blog/the-folly-of-tracking-original-vs.-actual-hours-in-software-development
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Organisational Culture
+- Value Delivery
+- Pragmatic Thinking
+- Team Collaboration
+- Software Development
+- Team Performance
+- Agile Leadership
+- Team Motivation
+- Agile Philosophy
+- Metrics and Learning
+- Organisational Psychology
+- Social Technologies
+- Business Agility
+- Customer Focus
+- Operational Practices
 Watermarks:
   description: 2025-07-30T22:50:31Z
   tldr: 2025-07-30T23:12:26Z

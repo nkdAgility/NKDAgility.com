@@ -2,6 +2,7 @@
 title: 'Legacy Systems Aren’t the Enemy—Friction Is: How to Unblock Innovation and Accelerate Agile Delivery'
 short_title: Legacy Systems Are Holding You Back
 description: Is legacy tech slowing your team? Discover how removing friction unlocks agility, innovation, and faster delivery in your organisation.
+tldr: Legacy systems are only a problem when they create friction that slows delivery, increases fragility, and blocks innovation. The real issue is not system age but lack of ongoing maintenance and improvement, which leads to bottlenecks for both engineers and management. To accelerate agile delivery, focus on identifying and removing friction points, prioritising continuous improvement, and communicating the value of these efforts to the business.
 date: 2025-07-14T06:00:00Z
 weight: 315
 ResourceId: aN0ODVdECUw
@@ -29,6 +30,7 @@ tags:
 Watermarks:
   description: 2025-07-24T15:12:25Z
   short_title: 2025-07-24T15:12:26Z
+  tldr: 2025-07-30T23:22:12Z
 videoId: aN0ODVdECUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aN0ODVdECUw/maxresdefault.jpg

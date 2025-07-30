@@ -2,6 +2,7 @@
 title: The Definition of Done is a Commitment to Quality
 short_title: Definition of Done as Commitment to Quality
 description: Defines the Definition of Done in Scrum as a clear, shared standard for quality, ensuring increments are releasable, transparent, and continuously improved by the team.
+tldr: A clear, shared Definition of Done is essential for delivering quality, releasable software in Scrum and aligns teams on what “complete” means. It ensures transparency, predictability, and accountability, protects your product’s reputation, and must be created, automated, and regularly improved by all teams working on a product. Development managers should prioritise running DoD workshops, making standards visible, automating checks, and reviewing the DoD every sprint to maintain quality and reduce risk.
 date: 2025-07-28T09:00:00Z
 weight: 145
 ResourceId: TwYNSm1pZOS
@@ -36,6 +37,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:48:53Z
   short_title: 2025-07-07T16:43:12Z
+  tldr: 2025-07-30T23:21:55Z
 creator: Martin Hinshelwood
 
 ---

@@ -2,6 +2,7 @@
 title: Still Deploying Manually? Why Automation Is the Bare Minimum for Modern Engineering (and Your Business Survival)
 short_title: Automate CI/CD Deployments in Azure DevOps
 description: Still deploying manually? Discover why automation isn’t optional—protect your business, avoid disaster, and deliver value with modern engineering practices.
+tldr: Manual deployments put your business at serious risk due to inevitable human error, as shown by real-world failures that have caused massive financial losses. Automation of builds, deployments, tests, and quality checks is now the minimum standard for professional software development, enabling faster, safer, and more reliable releases. To protect your business and deliver value consistently, eliminate manual steps and automate every part of your delivery pipeline as soon as possible.
 date: 2025-08-11T07:00:00Z
 weight: 185
 ResourceId: PMG_BahteNQ
@@ -42,6 +43,7 @@ tags:
 Watermarks:
   description: 2025-07-24T15:10:12Z
   short_title: 2025-07-24T15:10:13Z
+  tldr: 2025-07-30T23:21:46Z
 videoId: PMG_BahteNQ
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/PMG_BahteNQ/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLD5O0xRPKD1Q_f_XzwjoVm1JLiSIQ
