@@ -37,9 +37,7 @@ tags:
   - Operational Practices
 ---
 
-In many software organisations, estimation accuracy is treated as a proxy for predictability and control. Teams are asked to compare their _original estimates_ to _actuals_, with discrepancies scrutinised in retrospectives, sprint reviews, and management dashboards. The intent is clear: forecast better, deliver more reliably.
-
-But this well-meaning metric hides a trap.
+In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.
 
 ## When the Metric Becomes the Target
 
@@ -52,77 +50,81 @@ What happens next is entirely predictable:
 - **Scope distortion**: Work is redefined midstream to match the estimate.
 - **False success**: Projects finish “on time” and “on budget,” but deliver little value.
 
+These aren’t edge cases; they’re rational adaptations to a distorted system. The result is a culture of compliance, not curiosity.
+
 This is not theoretical. Peer-reviewed research backs it up.
 
-> **Thurlow’s Law of Metric Distortion:**
-> “Any metric you measure will appear to improve in the short term, not because the system got better, but because people adjusted their behaviour to game the metric.”
+> **Thurlow’s Law of Metric Distortion**: “Any metric you measure will appear to improve in the short term. This doesn’t mean the system improved, only that people adjusted their behaviour to game the metric.”
 
-This principle highlights a broader risk: once teams realise they’re being judged on metric performance, they optimise for appearances. Not delivery. Not learning. Not value.
+This principle highlights a broader risk. Once teams realise they’re being judged on metric performance, they start optimising for appearances. They stop focusing on delivery, learning, and value. The metric becomes a distraction from what really matters. And it’s not just about gaming the numbers , it’s about the system reinforcing behaviours that look good on a dashboard but degrade performance in reality.. Not delivery. Not learning. Not value.
 
 ## The Evidence Behind the Trap
 
-Studies from Lederer & Prasad, Jørgensen, and others show that using estimation accuracy as an evaluation criterion strongly influences behaviour , often negatively. One experimental study (Lorko et al., 2022) found that when participants were rewarded for estimation accuracy alone, they systematically overestimated and deliberately slowed down to “finish on schedule.” The appearance of control was preserved, but efficiency was lost.
+Studies from Lederer & Prasad, Jørgensen, and others show that using estimation accuracy as an evaluation criterion strongly influences behaviour, and often negatively. When estimation accuracy becomes a KPI, it reshapes incentives across the system, often with unintended results. , often negatively. One experimental study (Lorko et al., 2022) found that when participants were rewarded solely for estimation accuracy, they systematically overestimated and deliberately slowed down to “finish on schedule.” The appearance of control was preserved, but efficiency was lost.
 
 Another study (Jørgensen & Grimstad, 2008) showed that people who knew they’d be judged on their estimates produced more biased and less realistic figures. They weren’t aiming for truth; they were aiming for safety.
 
-This is a textbook example of Goodhart’s Law: _When a measure becomes a target, it ceases to be a good measure._
+This is a textbook example of Goodhart’s Law. When a measure becomes a target, it stops being useful as a measure and starts driving the wrong behaviours.
+
+> **Goodhart's law:**  "Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes."
 
 ### Trust Is a Two-Way Street
 
-If you treat your engineers like they’re untrusted contractors who need to account for every six-minute increment, don’t be surprised when morale tanks. Research shows employees who feel trusted are more engaged and productive. Conversely, heavy time tracking breeds a culture of micromanagement and mistrust. More than half of knowledge workers say time tracking actually prevents them from doing their best work. When people feel every minute is under a microscope, they’re less likely to ask questions or offer improvements. You’re starving your team of psychological safety and innovation in the name of an illusion of control.
+If you treat your engineers like they’re untrusted contractors who need to account for every six-minute increment, don’t be surprised when morale tanks. One developer put it bluntly: “If you’re going to track me like a machine, don’t expect me to act like an innovator.” Research shows employees who feel trusted are more engaged and productive. Conversely, heavy time tracking breeds a culture of micromanagement and mistrust. More than half of knowledge workers say time tracking actually prevents them from doing their best work. When people feel every minute is under a microscope, they’re less likely to ask questions or offer improvements. You’re starving your team of psychological safety and innovation in the name of an illusion of control.
 
 ### Bad Estimates Don’t Make You a Bad Developer
 
-Software development is creative problem-solving. No two tasks are truly alike. You can’t reliably predict how long it will take to untangle a thorny bug or integrate a library. Sometimes a “quick” fix explodes into a two-day rabbit hole. So why beat people up when they miss an arbitrary prediction? Estimating in hours assumes everyone is equally experienced and works at a constant pace. They don’t. Pressuring developers to “improve” at guessing hours only creates stress and encourages padding or sandbagging. It’s a game with no winners.
+Software development is creative problem-solving. No two tasks are truly alike. You can’t reliably predict how long it will take to untangle a thorny bug or integrate a library. Sometimes, a “quick” fix can turn into a two-day rabbit hole. So why beat people up when they miss an arbitrary prediction? Estimating in hours assumes everyone is equally experienced and works at a constant pace. They don’t. Pressuring developers to “improve” their guesses assumes effort and duration are predictable. In knowledge work, they’re not. It only creates stress and encourages padding or sandbagging. It’s a game with no winners.
 
 ### Time Pressure Kills Quality
 
-When management’s only lever is the schedule, quality suffers. Tom DeMarco and Tim Lister, in _Peopleware_, warn that unreachable deadlines force developers to cut corners: “Workers kept under extreme time pressure will begin to sacrifice quality… deliver products that are unstable and not really complete.” Lab studies back this up. Developers under tight time pressure work faster, not better, and quality drops.
+When management’s only lever is the schedule, quality suffers. Tom DeMarco and Tim Lister, in _Peopleware_, warn that unreachable deadlines force developers to cut corners: “Workers kept under extreme time pressure will begin to sacrifice quality… deliver products that are unstable and not really complete.” Lab studies back this up. Developers under tight time pressure work faster, not better, and quality drops. And when shortcuts pile up, the cost isn’t just bugs, it’s fragile systems, frustrated customers, and eroded trust.
 
 ### Hours Worked Do Not Equal Value Delivered
 
-Hours spent coding don’t correlate with customer value. A day spent deleting dead code or simplifying a design might look “unproductive” on a timesheet, but delivers enormous long-term benefit. Focusing on hours can encourage presenteeism and burnout while overlooking quality. Teams end up celebrating busyness instead of outcomes, prioritising status updates over solving real problems.
+Hours spent coding don’t correlate with customer value. A day spent deleting dead code or simplifying a design might look “unproductive” on a timesheet, but delivers enormous long-term benefit. Focusing on hours can encourage presenteeism and burnout while overlooking quality. Teams end up celebrating busyness instead of outcomes, prioritising status updates over solving real problems. **Ultimately, hours measure effort, not impact. And customers don’t buy effort.**
 
 Customers don’t buy “accurate estimates.” They buy working software that solves their problems. Metrics like velocity or hours measure output, but they don’t measure the value customers care about. It’s better to track what matters: how frequently you can deliver features, how quickly you recover from failures, and whether you’re improving the user experience. Frameworks like DORA and SPACE focus on deployment frequency, lead time, change failure rate and developer happiness. These are indicators of real progress.
 
 ## What to Do Instead
 
-Let’s be clear: in complex, knowledge-based work, there is no meaningful diagnostic value in “estimate vs actual.” It measures the wrong thing and leads to the wrong conclusions.
+Let’s be clear: in complex, knowledge-based work, there is no meaningful diagnostic value in “estimate vs actual.” Take, for example, a cross-functional team building an internal developer platform. In the first quarter, leadership tracked the estimated vs actual across epics to improve forecasting. Developers quickly learned to overestimate tasks, avoided exploratory work, and padded estimates to match targets. The numbers looked better, but progress slowed, innovation stalled, and valuable refactoring work vanished from the backlog. By the time leadership realised the disconnect, technical debt had doubled. The team hadn’t become more predictable; it had simply become more cautious and less effective. This is the cost of measuring the wrong thing. It measures the wrong thing and leads to the wrong conclusions.
 
 > "Estimate vs actual measures the work, but the waste lives in the gaps , the wait, the handoff, the delay. So you're optimising the wrong thing."
+> \- Nigel Thurlow
 
-This reflects Systems Thinking perfectly: focusing on task-level variance distracts from the real constraint, which almost always lies in the _flow_ of work, not the work itself.
+This is a clear example of Systems Thinking. Focusing on task-level variance distracts from the actual constraint. In most cases, the constraint lies in the flow of work, rather than in the tasks themselves.
 
 Even when used “diagnostically,” this metric misleads:
 
-- It ignores queues, rework, and dependencies , the real sources of delay.
+- It ignores queues, rework, and dependencies, which are often the actual sources of delay. Lean thinking teaches us that to improve flow, we must visualise queues, limit work in progress (WIP), and actively manage handoffs, none of which are addressed by focusing on task-level estimate variance.
 - It reinforces the illusion that better estimation leads to better outcomes.
 - It promotes local optimisation over systemic improvement.
 
-A reminder of **Thurlow’s Principle of Estimation Distortion!**
+A reminder of **Thurlow’s Principle of Estimation Distortion** above!
 
 ### A Better Path Forward
 
-If you want to understand and improve delivery, stop obsessing over how close your guesses were. Measure how your system behaves:
+To understand and improve delivery, stop obsessing over how close your guesses were. Measure how your system behaves across the value stream and under varying flow loads:
 
-- **Cycle time trends** , highlight latency and variability
-- **Work item ageing** , reveals stuck or neglected work
-- **Flow efficiency** , shows how much time is value-adding vs waiting
-- **Throughput variance** , surfaces systemic unpredictability
+- **Cycle time trends**, which highlight latency and variability across the entire value stream
+- **Work item ageing** reveals stuck or neglected work
+- **Flow efficiency** shows how much time is value-adding vs waiting
+- **Throughput variance**, surfaces systemic unpredictability
 
-If you must discuss estimates, use them to explore assumptions and complexity , not to evaluate people or predict timelines. Value lies in understanding, not accuracy.
+If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people or predict timelines. The real goal is not forecast compliance but delivering meaningful outcomes to customers, and that requires embracing uncertainty, not punishing it. Value lies in understanding, not accuracy.
 
 - **De-emphasise 'estimate vs actual' entirely**. It is a false signal in complex domains.
 - **Reward flow mastery, not forecasting tricks**.
 - **Focus on learning, adaptability, and real customer outcomes.**
 
-Estimation should enable informed conversations about uncertainty , not become a stick to enforce predictability.
+Estimation should support informed conversations about uncertainty. It should not become a tool used to force predictability.
 
 ### Radical Candour: Have the Courage to Stop
 
-This isn’t about shielding teams from accountability. It’s about holding ourselves to a higher standard of leadership. Telling your engineers you don’t trust them unless they hit time estimates is lazy management. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
+This isn’t about shielding teams from accountability. It’s about holding ourselves to a higher standard of leadership. Framing time estimate accuracy as a condition for trust is a failure of leadership. It signals a lack of psychological safety and a misunderstanding of how complex work unfolds. True leadership fosters environments where learning is safe, discovery is encouraged, and performance is judged by value, not conformity to expectations. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
 
-If you insist on tracking something, track cycle time, defect rates, and customer satisfaction. Use anything that actually reflects value. Talk with your team about impediments and improvements rather than the hours they logged. When you remove the spotlight from the clock, you’ll find your people deliver better software, enjoy their work more, and build trust along the way.
+If you insist on tracking something, track cycle time, defect rates, and customer satisfaction. Use anything that actually reflects value. Take a look at Evidence-based management and DORA. Talk with your team about impediments and improvements rather than the hours they logged. When you remove the spotlight from the clock, you’ll find your people deliver better software, enjoy their work more, and build trust along the way.
 
 ## In Summary
 
