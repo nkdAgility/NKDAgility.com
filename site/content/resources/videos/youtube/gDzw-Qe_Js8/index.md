@@ -2,6 +2,7 @@
 title: 'Engineering Excellence Isn’t Perfection: How Continuous Improvement and Fast Feedback Drive Real Agile and DevOps Success'
 short_title: What Engineering Excellence Really Means
 description: Engineering excellence isn’t perfection—it’s continuous improvement, clean code, and fast feedback. Unlock true agility with modern Agile and DevOps practices.
+tldr: Engineering excellence is not about achieving perfection or creating exhaustive plans, but about building systems that continuously adapt and improve through fast feedback and incremental change. Key practices include clean code, observability, automated testing, and CI/CD, which together enable teams to deliver high-quality software quickly and respond to real-world needs. Development managers should focus on removing manual bottlenecks and technical debt to shorten feedback loops, as this is the foundation of true Agile and DevOps success.
 date: 2025-07-21T06:00:00Z
 weight: 150
 ResourceId: gDzw-Qe_Js8
@@ -43,6 +44,7 @@ tags:
 Watermarks:
   description: 2025-07-24T15:11:44Z
   short_title: 2025-07-24T15:11:46Z
+  tldr: 2025-07-30T23:22:02Z
 videoId: gDzw-Qe_Js8
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gDzw-Qe_Js8/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCaDw4_qASDFmlS-dZFdb3kyoO16w

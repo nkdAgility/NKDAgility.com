@@ -2,6 +2,7 @@
 title: 'Stop Chasing Tech Hype: How Evidence-Based Decisions Empower Real Leadership'
 short_title: 'CTO Peer Pressure: Evidence-Based Choices'
 description: Stop chasing tech trends. Learn how evidence, visibility, and clarity empower tech leaders to make confident, strategic decisions—beyond the hype.
+tldr: Chasing technology trends because competitors do is not a real strategy; instead, focus on making your systems visible, use evidence to guide decisions, and choose tools that fit your actual needs. This approach helps you defend your roadmap with confidence and creates sustainable results for your teams and business. Prioritise clarity and alignment over hype to lead effectively and avoid unnecessary complexity.
 date: 2025-07-04T06:00:44Z
 weight: 370
 ResourceId: osrjRtn7rUw
@@ -31,6 +32,7 @@ tags:
 Watermarks:
   description: 2025-07-24T15:13:09Z
   short_title: 2025-07-24T15:13:10Z
+  tldr: 2025-07-31T06:50:50Z
 videoId: osrjRtn7rUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/osrjRtn7rUw/maxresdefault.jpg

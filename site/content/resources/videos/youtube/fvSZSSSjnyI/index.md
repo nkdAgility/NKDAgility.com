@@ -2,6 +2,7 @@
 title: 'Stop Guessing: How to Make Work Visible and Drive Real Improvement with Azure DevOps Flow Metrics'
 short_title: Visibility, Metrics, and Flow in DevOps
 description: Stop guessing—start making data-driven decisions in Azure DevOps. Discover tools, tips, and insights to make your work visible and your delivery predictable.
+tldr: Relying on gut feeling leads to mediocre results, so making work visible with real data is essential for improvement. Azure DevOps provides a strong data foundation but its built-in metrics and visualisations are basic; using tools like Flow Viz or Actionable Agile Metrics gives deeper insights and actionable flow data. To drive better outcomes, move from guesswork to evidence-based decisions by leveraging these tools to make your team’s work and bottlenecks visible.
 date: 2025-08-25T06:00:00Z
 weight: 120
 ResourceId: fvSZSSSjnyI
@@ -43,6 +44,7 @@ tags:
 Watermarks:
   description: 2025-07-24T14:49:14Z
   short_title: 2025-07-24T14:49:15Z
+  tldr: 2025-07-30T23:12:41Z
 videoId: fvSZSSSjnyI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/fvSZSSSjnyI/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBv1On-uLT1olHCP2GKp4FGmFtQxw

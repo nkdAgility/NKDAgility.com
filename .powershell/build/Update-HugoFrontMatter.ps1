@@ -54,6 +54,8 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract
     # }
 
+
+
     # Safely handle missing descriptionUpdate
    
     $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
@@ -67,12 +69,35 @@ while ($hugoMarkdownQueue.Count -gt 0) {
                 content  = $hugoMarkdown.BodyContent
             }
             $description = Get-OpenAIResponse -Prompt $promptText
+            $description = ($description -replace '\r', '').Trim()
+            
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
         }
         catch {
             throw "Error generating description: $_"
+        }
+       
+    }        
+
+    $tldrUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.TLDR
+    $tldrUpdateDate = if ($tldrUpdateString) { [DateTime]::Parse($tldrUpdateString) } else { [DateTime]::MinValue }
+    if (-not $hugoMarkdown.FrontMatter.tldr -or $tldrUpdateDate -lt $tldrDateWatermark) {
+        try {
+            # Generate a new description using OpenAI
+            $promptText = Get-Prompt -PromptName "content-tldr.md" -Parameters @{
+                title    = $hugoMarkdown.FrontMatter.Title
+                abstract = "none"
+                content  = $hugoMarkdown.BodyContent
+            }
+            $tldr = Get-OpenAIResponse -Prompt $promptText
+            # Update the description in the front matter
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tldr' -fieldValue $tldr -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.tldr' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+        }
+        catch {
+            throw "Error generating tldr: $_"
         }
        
     }        
@@ -342,6 +367,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'subtitle'
     $list += 'description'
     $list += 'abstract'
+    $list += 'tldr'
     $list += 'date'
     $list += 'weight'
     $list += 'author'

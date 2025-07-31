@@ -2,6 +2,7 @@
 title: Rethinking Capacity Planning
 short_title: Rethinking Capacity Planning
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
+tldr: Capacity planning should focus on optimising system flow and predictability, not tracking individual hours or task assignments. Shifting from micromanagement to managing work as a system at portfolio, category, and team levels helps prevent overload, improves value delivery, and enables reliable forecasting. Development managers should prioritise system-level metrics, enforce work-in-progress limits, and empower teams to pull well-prepared work, creating sustainable and predictable delivery.
 date: 2025-07-21T09:00:00Z
 weight: 245
 contributors:
@@ -41,6 +42,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z
+  tldr: 2025-07-30T23:22:00Z
 creator: Martin Hinshelwood
 
 ---
