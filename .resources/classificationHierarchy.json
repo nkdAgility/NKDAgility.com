@@ -1,35 +1,9 @@
 {
-  "Tool": {
-    "content": "Tags",
+  "Philosophy": {
     "categories": [],
-    "tags": [
-      "Windows",
-      "Internal Developer Platform",
-      "Install and Configuration",
-      "GitHub",
-      "Collaboration Tools",
-      "Azure Repos",
-      "Azure Pipelines",
-      "Azure DevOps",
-      "Azure Boards",
-      "Agile Planning Tools"
-    ]
-  },
-  "Method": {
-    "categories": [],
-    "tags": [
-      "Service Level Expectation",
-      "Release Management",
-      "Lean Startup",
-      "Lean Product Development",
-      "Hypothesis Driven Development",
-      "Estimation"
-    ]
+    "tags": []
   },
   "Practice": {
-    "categories": [
-      "Kanban"
-    ],
     "tags": [
       "Value Stream Mapping",
       "Test First Development",
@@ -53,95 +27,156 @@
       "Backlog Refinement",
       "Automated Testing",
       "Acceptance Test Driven Development"
-    ]
-  },
-  "Tenet": {
-    "categories": [],
-    "tags": []
-  },
-  "Framework": {
-    "categories": [
-      "Scrum"
     ],
-    "tags": [
-      "Sprint Review",
-      "Scrum Values",
-      "Large Scale Agility",
-      "Agile Frameworks"
+    "categories": [
+      "Kanban"
     ]
   },
-  "Philosophy": {
-    "categories": [],
+  "Method": {
     "tags": [
-      "Agentic Engineering"
-    ]
+      "Service Level Expectation",
+      "Release Management",
+      "Lean Startup",
+      "Lean Product Development",
+      "Hypothesis Driven Development",
+      "Estimation"
+    ],
+    "categories": []
   },
   "Observability": {
-    "categories": [],
     "tags": [
       "Throughput",
       "Revenue per Employee",
       "Lead Time"
-    ]
-  },
-  "First Principal": {
-    "categories": [],
-    "tags": [
-      "Competence"
-    ]
-  },
-  "Accountability": {
-    "categories": [],
-    "tags": [
-      "Scrum Team",
-      "Product Owner",
-      "Product Developer"
-    ]
-  },
-  "Ethos": {
-    "categories": [
-      "Product Management",
-      "DevOps"
     ],
-    "tags": [
-      "Social Technologies",
-      "Site Reliability Engineering",
-      "Professional Scrum",
-      "Open Space Agile",
-      "Hybrid Agile",
-      "Beta Codex",
-      "Agile Product Operating Model",
-      "Agile Philosophy",
-      "Agentic Agility"
-    ]
-  },
-  "Discipline": {
-    "categories": [
-      "Engineering Excellence"
-    ],
-    "tags": [
-      "Working Agreements",
-      "Scrum Master",
-      "Project Management",
-      "Organisational Psychology",
-      "Forecasting"
-    ]
+    "categories": []
   },
   "Artifact": {
-    "categories": [],
     "tags": [
       "Product Backlog",
       "Increment",
       "Definition of Workflow",
       "Definition of Ready",
       "Definition of Done"
+    ],
+    "categories": []
+  },
+  "Accountability": {
+    "tags": [
+      "Scrum Team",
+      "Product Owner"
+    ],
+    "categories": []
+  },
+  "Principle": {
+    "tags": [
+      "Working Software",
+      "Value Delivery",
+      "Troubleshooting",
+      "Transparency",
+      "Self Organisation",
+      "Personal",
+      "Objective Key Results",
+      "Metrics and Learning",
+      "Liberating Structures",
+      "Lean Thinking",
+      "Lean Principles",
+      "Evidence Based Management",
+      "Empirical Process Control",
+      "Customer Satisfaction",
+      "Customer Retention",
+      "Customer Focus",
+      "Customer Feedback Loops",
+      "Continuous Improvement",
+      "Common Goals",
+      "Asynchronous Development",
+      "Agnostic Agile",
+      "Agile Planning",
+      "Agile Leadership"
+    ],
+    "categories": [
+      "Lean"
+    ]
+  },
+  "First Principal": {
+    "tags": [
+      "Competence"
+    ],
+    "categories": []
+  },
+  "Tool": {
+    "content": "Tags",
+    "tags": [
+      "Windows",
+      "Internal Developer Platform",
+      "Install and Configuration",
+      "GitHub",
+      "Collaboration Tools",
+      "Azure Repos",
+      "Azure Pipelines",
+      "Azure DevOps",
+      "Azure Boards",
+      "Agile Planning Tools"
+    ],
+    "categories": []
+  },
+  "Framework": {
+    "tags": [
+      "Sprint Review",
+      "Scrum Values",
+      "Large Scale Agility",
+      "Agile Frameworks"
+    ],
+    "categories": [
+      "Scrum"
+    ]
+  },
+  "Strategy": {
+    "tags": [
+      "Value Stream Management",
+      "Trend Analysis",
+      "Strategic Goals",
+      "Scaling",
+      "Product Strategy",
+      "Portfolio Management",
+      "One Engineering System",
+      "Market Share",
+      "Evidence Based Leadership",
+      "Digital Transformation",
+      "Decision Theory",
+      "Company as a Product",
+      "Agile Product Management"
+    ],
+    "categories": [
+      "Product Development"
+    ]
+  },
+  "Tenet": {
+    "categories": [],
+    "tags": []
+  },
+  "Model": {
+    "tags": [
+      "Systems Thinking",
+      "Organisational Physics",
+      "Complexity Thinking",
+      "Cell Structure Design"
+    ],
+    "categories": []
+  },
+  "Discipline": {
+    "tags": [
+      "Working Agreements",
+      "Scrum Master",
+      "Project Management",
+      "Organisational Psychology",
+      "Forecasting"
+    ],
+    "categories": [
+      "Engineering Excellence"
     ]
   },
   "Capability": {
-    "categories": [
-      "Technical Leadership",
-      "Leadership"
-    ],
     "tags": [
       "Unrealised Value",
       "Time to Market",
@@ -174,7 +209,6 @@
       "Current Value",
       "Cross Functional Teams",
       "Continuous Learning",
-      "Collective Intelligence",
       "Coaching",
       "Change Management",
       "Business Agility",
@@ -183,66 +217,28 @@
       "Agile Values and Principles",
       "Agile Transformation",
       "Agile Strategy",
-      "Agentic Engineering",
       "Ability to Innovate"
-    ]
-  },
-  "Model": {
-    "categories": [],
-    "tags": [
-      "Systems Thinking",
-      "Organisational Physics",
-      "Complexity Thinking",
-      "Cell Structure Design"
-    ]
-  },
-  "Strategy": {
-    "categories": [
-      "Product Development"
     ],
-    "tags": [
-      "Value Stream Management",
-      "Trend Analysis",
-      "Strategic Goals",
-      "Scaling",
-      "Product Strategy",
-      "Portfolio Management",
-      "One Engineering System",
-      "Market Share",
-      "Evidence Based Leadership",
-      "Digital Transformation",
-      "Decision Theory",
-      "Company as a Product",
-      "Agile Product Management"
+    "categories": [
+      "Technical Leadership",
+      "Leadership"
     ]
   },
-  "Principle": {
-    "categories": [
-      "Lean"
-    ],
+  "Ethos": {
     "tags": [
-      "Working Software",
-      "Value Delivery",
-      "Troubleshooting",
-      "Transparency",
-      "Self Organisation",
-      "Personal",
-      "Metrics and Learning",
-      "Liberating Structures",
-      "Lean Thinking",
-      "Lean Principles",
-      "Evidence Based Management",
-      "Empirical Process Control",
-      "Customer Satisfaction",
-      "Customer Retention",
-      "Customer Focus",
-      "Customer Feedback Loops",
-      "Continuous Improvement",
-      "Common Goals",
-      "Asynchronous Development",
-      "Agnostic Agile",
-      "Agile Planning",
-      "Agile Leadership"
+      "Social Technologies",
+      "Site Reliability Engineering",
+      "Professional Scrum",
+      "Open Space Agile",
+      "Hybrid Agile",
+      "Beta Codex",
+      "Agile Product Operating Model",
+      "Agile Philosophy",
+      "Agentic Agility"
+    ],
+    "categories": [
+      "Product Management",
+      "DevOps"
     ]
   }
 }

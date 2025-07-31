@@ -35,6 +35,7 @@ tags:
   - Business Agility
   - Customer Focus
   - Operational Practices
+canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
 ---
 
 In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.
