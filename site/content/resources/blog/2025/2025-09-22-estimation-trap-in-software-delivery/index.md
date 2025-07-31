@@ -4,7 +4,7 @@ short_title: The Estimation Trap
 description: Using estimation accuracy as a performance metric in software delivery leads to gaming, mistrust, and reduced value. Focus on outcomes, flow, and evidence-based metrics.
 tldr: Focusing on estimation accuracy as a performance metric leads teams to game the system, avoid innovation, and deliver less value, creating a culture of compliance rather than improvement. Research shows this approach distorts behaviour, undermines trust, and does not improve delivery outcomes. Development managers should shift to evidence-based metrics like cycle time, flow efficiency, and customer value to drive real improvement and support high-performing teams.
 date: 2025-09-22T09:00:00Z
-weight: 1000
+weight: 155
 ResourceId: rE-_hlb3Y34
 ResourceImport: false
 ResourceType: blog
@@ -15,10 +15,28 @@ aliases:
 - /resources/rE-_hlb3Y34
 aliasesArchive:
 - /resources/blog/the-estimation-trap-in-software-delivery
-concepts: []
+concepts:
+- Strategy
 categories:
-- Uncategorized
-tags: []
+- Leadership
+- Product Development
+- Engineering Excellence
+tags:
+- Software Development
+- Evidence Based Management
+- Decision Making
+- Team Performance
+- Value Delivery
+- Customer Focus
+- Evidence Based Leadership
+- Metrics and Learning
+- Continuous Improvement
+- Pragmatic Thinking
+- Organisational Culture
+- Operational Practices
+- Organisational Agility
+- Product Delivery
+- Agile Transformation
 Watermarks:
   description: 2025-07-31T20:05:58Z
   tldr: 2025-07-31T20:06:00Z
