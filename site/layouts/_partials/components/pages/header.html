@@ -23,7 +23,7 @@
           {{ else if .Params.subtitle }}
             <p class="mb-4 ">{{- .Params.subtitle | markdownify }}</p>
           {{ else }}
-            <p class="mb-4">{{- .Description | markdownify }}</p>
+            <p class="mb-4">{{- .Params.tldr | default .Description | markdownify }}</p>
           {{- end }}
         </div>
       </div>

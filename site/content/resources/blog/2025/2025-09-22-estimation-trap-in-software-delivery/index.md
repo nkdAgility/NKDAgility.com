@@ -1,43 +1,30 @@
 ---
 title: The Estimation Trap in Software Delivery
 short_title: The Estimation Trap
+description: Using estimation accuracy as a performance metric in software delivery leads to gaming, mistrust, and reduced value. Focus on outcomes, flow, and evidence-based metrics.
+tldr: Focusing on estimation accuracy as a performance metric leads teams to game the system, avoid innovation, and deliver less value, creating a culture of compliance rather than improvement. Research shows this approach distorts behaviour, undermines trust, and does not improve delivery outcomes. Development managers should shift to evidence-based metrics like cycle time, flow efficiency, and customer value to drive real improvement and support high-performing teams.
 date: 2025-09-22T09:00:00Z
-weight: 125
+weight: 1000
 ResourceId: rE-_hlb3Y34
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: estimation-trap-in-software-delivery
 aliases:
-  - /resources/blog/the-estimation-trap-in-software-delivery
-  - /resources/rE-_hlb3Y34
+- /resources/blog/the-estimation-trap-in-software-delivery
+- /resources/rE-_hlb3Y34
 aliasesArchive:
-  - /resources/blog/the-estimation-trap-in-software-delivery
-concepts:
-  - Principle
+- /resources/blog/the-estimation-trap-in-software-delivery
+concepts: []
 categories:
-  - Product Development
-  - Engineering Excellence
-  - Technical Leadership
-tags:
-  - Organisational Culture
-  - Value Delivery
-  - Pragmatic Thinking
-  - Team Collaboration
-  - Software Development
-  - Team Performance
-  - Agile Leadership
-  - Team Motivation
-  - Agile Philosophy
-  - Metrics and Learning
-  - Organisational Psychology
-  - Social Technologies
-  - Business Agility
-  - Customer Focus
-  - Operational Practices
+- Uncategorized
+tags: []
+Watermarks:
+  description: 2025-07-31T20:05:58Z
+  tldr: 2025-07-31T20:06:00Z
 canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
----
 
+---
 In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.
 
 ## When the Metric Becomes the Target
