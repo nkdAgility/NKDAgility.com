@@ -90,15 +90,16 @@ Customers don’t buy “accurate estimates.” They buy working software that s
 
 If you’re serious about improving delivery outcomes, it’s time to move beyond estimate accuracy and adopt an evidence-based approach. Customers don’t care how accurate your forecasts are. They care whether you are delivering outcomes that improve their lives. and adopt an evidence-based approach. Frameworks like **Evidence-Based Management (EBM)** provide a more actionable lens for improvement. EBM is not a dashboard, it’s a feedback loop. Measurement must lead to regular inspection and adaptation, not just reporting. for evaluating organisational performance through empirical data, not speculation.
 
-EBM encourages decisions grounded in what is _actually happening_, not what was _predicted_. Forecasts can support decision-making, but only when used transparently to explore assumptions, not when turned into compliance targets. When forecast accuracy becomes a performance metric, it violates empiricism by rewarding appearances instead of real outcomes.
+EBM encourages decisions grounded in what is _actually happening_, not what was _predicted_. Forecasts can support decision-making, but only when used transparently to explore assumptions — not when turned into compliance targets. When forecast accuracy becomes a performance metric, it violates empiricism by rewarding appearances instead of real outcomes.
 
-Leadership must create transparency around outcomes, not intentions. This means embracing metrics that reflect customer value, system health, and delivery capability, even when they challenge the status quo.
+Leadership must create transparency around outcomes, not intentions. This means embracing metrics that reflect customer value, system health, and delivery capability — even when they challenge the status quo.
 
 Let’s be clear: in complex, knowledge-based work, there is no meaningful diagnostic value in “estimate vs actual.” Take, for example, a cross-functional team building an internal developer platform. In the first quarter, leadership tracked the estimated vs actual across epics to improve forecasting. Developers quickly learned to overestimate tasks, avoided exploratory work, and padded estimates to match targets. The numbers looked better, but progress slowed, innovation stalled, and valuable refactoring work vanished from the backlog. By the time leadership realised the disconnect, technical debt had doubled. The team hadn’t become more predictable; it had simply become more cautious and less effective. This is the cost of measuring the wrong thing. It leads to the wrong conclusions.
 
-> "Estimate vs actual measures the work, but the waste lives in the gaps , the wait, the handoff, the delay. So you're optimising the wrong thing." **- Nigel Thurlow**
+> "Estimate vs actual measures the work, but the waste lives in the gaps , the wait, the handoff, the delay. So you're optimising the wrong thing."
+> \- Nigel Thurlow
 
-This is a clear example of Systems Thinking. Focusing on individual task variance distracts from the flow constraints that limit real progress. In most cases, the constraint lies not in the task but in the queues, wait states, and rework loops that fragment delivery.. Focusing on task-level variance distracts from the actual constraint. In most cases, the constraint lies in the flow of work, rather than in the tasks themselves.
+This is a clear example of Systems Thinking, as outlined in _The Flow System_ (Thurlow et al., 2020). Focusing on individual task variance distracts from the flow constraints that limit real progress. In most cases, the constraint lies not in the task but in the queues, wait states, and rework loops that fragment delivery.. Focusing on task-level variance distracts from the actual constraint. In most cases, the constraint lies in the flow of work, rather than in the tasks themselves.
 
 Even when used “diagnostically,” this metric misleads:
 
@@ -112,10 +113,10 @@ A reminder of **Thurlow’s Principle of Estimation Distortion** above!
 
 EBM organises improvement around four Key Value Areas (KVAs):
 
-- **Current Value** - Are we delivering value to customers and stakeholders today?
-- **Unrealized Value** - What additional value could we deliver in the future?
-- **Time to Market** - How quickly can we learn, respond, and deliver?
-- **Ability to Innovate** - How effectively can we change and adapt the product?
+- **Current Value** — Are we delivering value to customers and stakeholders today?
+- **Unrealized Value** — What additional value could we deliver in the future?
+- **Time to Market** — How quickly can we learn, respond, and deliver?
+- **Ability to Innovate** — How effectively can we change and adapt the product?
 
 The metrics we use should support these questions, not distract from them. Here's how EBM-oriented alternatives compare:
 
@@ -159,13 +160,14 @@ That’s the objective measure of a high-performing team.
 
 ## References
 
-1. [Lederer & Prasad (1998). "A causal model for software cost estimating error"](https://doi.org/10.1111/j.1540-5915.1998.tb01356.x)
-2. [Lorko et al. (2022). "Hidden Inefficiency: Strategic Inflation of Project Schedules"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213670)
-3. [Jørgensen & Grimstad (2008). "The impact of irrelevant and misleading information on software development effort estimates"](https://www.sciencedirect.com/science/article/abs/pii/S0950584908000852)
-4. [Jørgensen (2004). "A review of studies on expert estimation of software development effort"](https://www.sciencedirect.com/science/article/pii/S0164121203000581)
-5. [Abdel-Hamid et al. (1999). "The dynamics of software project performance"](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.45.8.1104)
-6. [Peopleware Book Summary](https://www.runn.io/blog/peopleware-book-summary)
-7. [Impact of time pressure on software quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810279/)
-8. [Why Managers Should Focus on Outcomes, Not Hours](https://we360ai.medium.com/why-managers-should-focus-on-outcomes-not-hours-and-how-to-do-it-bcde6625693e)
-9. [Accelerate: The Science of Lean Software and DevOps (Forsgren, Humble, Kim)](https://itrevolution.com/products/accelerate)
-10. [SPACE Framework Whitepaper (GitHub)](https://queue.acm.org/detail.cfm?id=3454124) [Why Leading Agile Teams Focus on Customer Value](https://www.easyagile.com/blog/why-leading-agile-teams-focus-on-customer-value)
+1. [Thurlow, Nigel; Turner, Brian Rivera; Helm, John. _The Flow System: The Evolution of Agile and Lean Thinking in an Age of Complexity_ (2020)](https://www.theflowsystem.com)
+2. [Lederer & Prasad (1998). "A causal model for software cost estimating error"](https://doi.org/10.1111/j.1540-5915.1998.tb01356.x)
+3. [Lorko et al. (2022). "Hidden Inefficiency: Strategic Inflation of Project Schedules"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213670)
+4. [Jørgensen & Grimstad (2008). "The impact of irrelevant and misleading information on software development effort estimates"](https://www.sciencedirect.com/science/article/abs/pii/S0950584908000852)
+5. [Jørgensen (2004). "A review of studies on expert estimation of software development effort"](https://www.sciencedirect.com/science/article/pii/S0164121203000581)
+6. [Abdel-Hamid et al. (1999). "The dynamics of software project performance"](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.45.8.1104)
+7. [Peopleware Book Summary](https://www.runn.io/blog/peopleware-book-summary)
+8. [Impact of time pressure on software quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810279/)
+9. [Why Managers Should Focus on Outcomes, Not Hours](https://we360ai.medium.com/why-managers-should-focus-on-outcomes-not-hours-and-how-to-do-it-bcde6625693e)
+10. [Accelerate: The Science of Lean Software and DevOps (Forsgren, Humble, Kim)](https://itrevolution.com/products/accelerate)
+11. [SPACE Framework Whitepaper (GitHub)](https://queue.acm.org/detail.cfm?id=3454124) [Why Leading Agile Teams Focus on Customer Value](https://www.easyagile.com/blog/why-leading-agile-teams-focus-on-customer-value)
