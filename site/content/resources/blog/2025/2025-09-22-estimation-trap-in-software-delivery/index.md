@@ -1,15 +1,10 @@
 ---
 title: "The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery"
 short_title: The Estimation Trap in Software Delivery
-description: Using estimation accuracy as a performance metric in software delivery leads to gaming, mistrust, and reduced value. Focus on outcomes, flow, and evidence-based metrics.
-tldr: Focusing on estimation accuracy as a performance metric leads teams to game the system, avoid innovation, and deliver less value, creating a culture of compliance rather than improvement. Research shows this approach distorts behaviour, undermines trust, and does not improve delivery outcomes. Development managers should shift to evidence-based metrics like cycle time, flow efficiency, and customer value to drive real improvement and support high-performing teams.
+description: Tracking estimation accuracy in software delivery leads to mistrust, fear, and distorted behaviours. Focus on customer value, flow, and outcomes—not estimate compliance.
+tldr: Focusing on estimation accuracy as a performance metric leads to fear, gaming, and a culture of compliance rather than real improvement, which undermines trust, innovation, and actual value delivery. Research shows that when teams are judged on how closely they meet estimates, they pad numbers, hide risks, and avoid complex work, resulting in false success and missed opportunities for learning. Instead, shift attention to evidence-based metrics that reflect customer value, system health, and delivery flow, and use estimates only to support learning and informed conversations, not as tools for control.
 date: 2025-09-22T09:00:00Z
 weight: 155
-ResourceId: rE-_hlb3Y34
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
-slug: estimation-trap-in-software-delivery
 contributors:
   - name: Ralph Jocham
     githubUsername: rjocham
@@ -17,6 +12,11 @@ contributors:
   - name: Nigel Thurlow
     external: https://www.linkedin.com/in/nigelthurlow/
     githubUsername: nigelthurlow
+ResourceId: rE-_hlb3Y34
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: hybrid
+slug: the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery
 aliases:
   - /resources/blog/the-estimation-trap-in-software-delivery
   - /resources/rE-_hlb3Y34
@@ -45,8 +45,8 @@ tags:
   - Product Delivery
   - Agile Transformation
 Watermarks:
-  description: 2025-07-31T20:05:58Z
-  tldr: 2025-07-31T20:06:00Z
+  description: 2025-08-01T15:51:24Z
+  tldr: 2025-08-01T15:51:28Z
 canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
 ---
 
