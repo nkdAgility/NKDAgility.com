@@ -187,8 +187,7 @@ To understand and improve delivery, stop obsessing over how close your guesses w
   > Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
 - **Work item ageing** reveals stuck or neglected work.
 - **Flow efficiency** indicates the proportion of total time spent progressing work versus waiting. It’s a measure of delay, not value. But beware: systems often mask latency by moving queued work into “in progress” prematurely. High flow efficiency with unchanged lead time may signal gaming.
-
-  **Throughput variance** only tells you something if your work items are roughly the same size. If not, throughput becomes noise. Teams that right-size work can use this as a stability signal. Otherwise, avoid using it as an indicator of performance.
+- **Throughput variance** only tells you something if your work items are roughly the same size. If not, throughput becomes noise. Teams that right-size work can use this as a stability signal. Otherwise, avoid using it as an indicator of performance.
 
 If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people or predict timelines. The ultimate goal is to deliver meaningful outcomes to customers. That requires embracing uncertainty, surfacing impediments, and improving system capability. The aim is not to enforce forecast compliance. Value lies in understanding, not accuracy.
 
