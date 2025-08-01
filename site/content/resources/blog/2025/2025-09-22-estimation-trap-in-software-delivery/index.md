@@ -54,25 +54,25 @@ In many software organisations, estimation accuracy is mistaken for predictabili
 
 ## When the Metric Becomes the Target
 
-Metrics are never neutral. Once teams are judged by how closely they meet estimated timelines or planned outputs, those metrics stop reflecting the truth. The more visible and enforced the target becomes, the more teams adapt—not to improve outcomes, but to survive the system. What follows is a cascade of distorted behaviours: silence replaces honesty, delivery becomes performance theatre, and metrics become tools of compliance rather than learning. The following patterns are not outliers; they are systemic symptoms of measurement misuse.
+Metrics are never neutral. Once teams are judged by how closely they meet estimated timelines or planned outputs, those metrics stop reflecting the truth. The more visible and enforced the target becomes, the more teams adapt, not to improve outcomes, but to survive the system. What follows is a cascade of distorted behaviours: silence replaces honesty, delivery becomes performance theatre, and metrics become tools of compliance rather than learning. The following patterns are not outliers; they are systemic symptoms of measurement misuse.
 
 ### Malicious Compliance: When Teams Give Up on Caring
 
-When systems overemphasise compliance, teams don’t rebel — they comply. Maliciously. They log the hours. They meet the metrics. They do exactly what’s asked — but no more. They stop asking questions. They stop raising concerns. They stop caring.
+When systems overemphasise compliance, teams don’t rebel; they comply. Maliciously. They log the hours. They meet the metrics. They do exactly what’s asked; but no more. They stop asking questions. They stop raising concerns. They stop caring.
 
-This kind of mechanical compliance doesn’t improve delivery; it undermines it. Developers fill in timesheets at the end of the week with whatever gets approved. They make up hours to satisfy reporting tools. What ends up in the system looks clean and green — but it’s fiction.
+This kind of mechanical compliance doesn’t improve delivery; it undermines it. Developers fill in timesheets at the end of the week with whatever gets approved. They make up hours to satisfy reporting tools. What ends up in the system looks clean and green, but it’s fiction.
 
 And what gets lost is far worse: safety, curiosity, technical excellence, and any sense of pride in the outcome. A culture of malicious compliance breeds disengagement, risk blindness, and degraded quality. If you’re measuring in six-minute increments, you’re not managing for value. You’re auditing obedience.
 
 ### Green Shifting: When Metrics Replace Truth
 
-Once metrics become the focus, honesty becomes optional. Teams under pressure to hit targets will show green status until the very moment they can’t hide red anymore. This phenomenon—sometimes called “green shifting”—isn’t a failure of individuals. It’s the predictable result of a system that rewards status optics over empirical feedback.
+Once metrics become the focus, honesty becomes optional. Teams under pressure to hit targets will show green status until the very moment they can’t hide red anymore. This phenomenon, sometimes called “green shifting,” isn’t a failure of individuals. It’s the predictable result of a system that rewards status optics over empirical feedback.
 
 When the dashboard matters more than the work, risk gets buried. Quality is sidelined. And problems that could’ve been solved early are deferred until they explode. This isn’t management; it’s theatre.
 
 ### Fear-Driven Delivery
 
-When performance is judged by how closely estimates match actuals, teams shift into survival mode. Psychological safety evaporates. People stop flagging problems, bugs, and risks—not because they don’t care, but because they’re afraid of missing the number. Defects get buried. Safety is deferred. Risk is hidden.
+When performance is judged by how closely estimates match actuals, teams shift into survival mode. Psychological safety evaporates. People stop flagging problems, bugs, and risks. It’s not due to apathy, but fear of missing the number. Defects get buried. Safety is deferred. Risk is hidden.
 
 The focus moves from building the right thing to defending the wrong metric.
 
@@ -86,11 +86,11 @@ What happens next is entirely predictable:
 
 - **Padding**: Teams inflate estimates to guarantee hitting the target.
 
-In one large organisation, teams were told they could deliver no more than five points per story, and no more than 24 points per sprint. The result? Teams padded everything to hit exactly 24 points. Story sizes gravitated to five points regardless of complexity. Innovation vanished, curiosity died, and delivery became a game of maximising perceived output. They met the metric perfectly — and completely undermined the point of estimation. This is what happens when the system is designed for optics, not outcomes.
+In one large organisation, teams were told they could deliver no more than five points per story, and no more than 24 points per sprint. The result? Teams padded everything to hit exactly 24 points. Story sizes gravitated to five points regardless of complexity. Innovation vanished, curiosity died, and delivery became a game of maximising perceived output. They met the metric perfectly and completely undermined the point of estimation. This is what happens when the system is designed for optics, not outcomes.
 
 - **Risk aversion**: Complex and innovative work is avoided because it’s difficult to estimate.
 - **Scope distortion**: Work is redefined midstream to match the estimate.
-- **False success**: Projects finish “on time” and “on budget,” but deliver little value. Many organisations never validate whether the promised benefits were actually realised. One team might deliver a multimillion-dollar system, only for no one to ever measure its usage or customer impact. The project is declared a success — but no one checks if it made a difference. In some cases, even the most advanced organisations fall into this trap. The cost of not checking actual outcomes is hidden until it's too late.
+- **False success**: Projects finish “on time” and “on budget,” but deliver little value. Many organisations never validate whether the promised benefits were actually realised. One team might deliver a multimillion-dollar system, only for no one to ever measure its usage or customer impact. The project is declared a success, but no one checks if it made a difference. In some cases, even the most advanced organisations fall into this trap. The cost of not checking actual outcomes is hidden until it's too late.
 
 These aren’t edge cases; they’re rational adaptations to a distorted system. The result is a culture of compliance, not curiosity.
 
@@ -98,7 +98,7 @@ These aren’t edge cases; they’re rational adaptations to a distorted system.
 
 ### The System Learns to Lie
 
-This principle highlights a broader risk. Once teams realise they’re being judged on metric performance, they start optimising for appearances. They stop focusing on delivery, learning, and value. The metric becomes a distraction from what really matters. It reinforces behaviours that prioritise green dashboards over working software. This is how green shifting starts — status reports stay green until the moment they can no longer hide the red. It’s not deceit, it’s self-preservation. In a system optimised for appearances, truth is delayed until failure is unavoidable. The focus shifts away from delivery, learning, and value.
+This principle highlights a broader risk. Once teams realise they’re being judged on metric performance, they start optimising for appearances. They stop focusing on delivery, learning, and value. The metric becomes a distraction from what really matters. It reinforces behaviours that prioritise green dashboards over working software. This is how green shifting starts. Status reports stay green until the moment they can no longer hide the red. It’s not deceit. It’s self-preservation. In a system optimised for appearances, truth is delayed until failure is unavoidable. The focus shifts away from delivery, learning, and value.
 
 ## The Evidence Behind the Trap
 
@@ -112,7 +112,7 @@ This is a textbook example of Goodhart’s Law. When a measure becomes a target,
 
 ### Trust Is a Two-Way Street
 
-If you treat your engineers like they’re untrusted contractors who need to account for every six-minute increment, don’t be surprised when morale tanks. One developer put it bluntly: “If you’re going to track me like a machine, don’t expect me to act like an innovator.” Research shows employees who feel trusted are more engaged and productive. Conversely, heavy time tracking breeds a culture of micromanagement and mistrust. More than half of knowledge workers say time tracking actually prevents them from doing their best work. When people feel every minute is under a microscope, they’re less likely to ask questions or offer improvements. You’re starving your team of psychological safety, and with it, the conditions for innovation, quality, and honesty. When people are punished for missing estimates, they stop raising risks. They stop discussing trade-offs. Data becomes performative. The real work gets buried under ritual. The system becomes more predictable on paper—and more brittle in reality.
+If you treat your engineers like they’re untrusted contractors who need to account for every six-minute increment, don’t be surprised when morale tanks. One developer put it bluntly: “If you’re going to track me like a machine, don’t expect me to act like an innovator.” Research shows employees who feel trusted are more engaged and productive. Conversely, heavy time tracking breeds a culture of micromanagement and mistrust. More than half of knowledge workers say time tracking actually prevents them from doing their best work. When people feel every minute is under a microscope, they’re less likely to ask questions or offer improvements. You’re starving your team of psychological safety, and with it, the conditions for innovation, quality, and honesty. When people are punished for missing estimates, they stop raising risks. They stop discussing trade-offs. Data becomes performative. The real work gets buried under ritual. The system becomes more predictable on paper, but more brittle in reality.
 
 ### Bad Estimates Don’t Make You a Bad Developer
 
@@ -124,7 +124,7 @@ When management’s only lever is the schedule, quality suffers. Tom DeMarco and
 
 ### Hours Worked Do Not Equal Value Delivered
 
-Customers don’t buy effort, hours, or estimation accuracy — they buy working software that solves their problems. A day spent cleaning up architecture might look unproductive on a timesheet, but it delivers enormous long-term value. Optimising for logged time only encourages burnout, presenteeism, and a celebration of busyness over outcomes.
+Customers don’t buy effort, hours, or estimation accuracy. They buy working software that solves their problems. A day spent cleaning up architecture might look unproductive on a timesheet, but it delivers enormous long-term value. Optimising for logged time only encourages burnout, presenteeism, and a celebration of busyness over outcomes.
 
 Metrics like velocity or hours measure output, but they don’t measure the value customers care about. It’s better to track what matters: how frequently you can deliver features, how quickly you recover from failures, and whether you’re improving the user experience. These metrics help track how fast you’re learning (Time to Market), how much waste exists in your delivery process (Ability to Innovate), and whether users are sticking around and benefiting from what you’ve delivered (Current Value).
 
@@ -134,7 +134,7 @@ If you're serious about improving delivery outcomes, stop obsessing over time. T
 
 **Evidence-Based Management (EBM)** is a way of managing with data that reflects actual outcomes and system capability. It helps leaders move beyond speculation by focusing on what is observable and valuable.
 
-Good decisions start with real data, not guesses. EBM helps teams and leaders focus on what actually delivers value — not what was forecast, promised, or imagined.
+Good decisions start with real data, not guesses. EBM helps teams and leaders focus on what actually delivers value, not what was forecast, promised, or imagined.
 
 In large-scale systems, direct customer contact is rare. That makes feedback loops even more critical. We must rely on proxy signals like usage trends, satisfaction scores, defect trends, and change failure rates to know if we're on track. Not every team needs direct access to the customer, but every team needs access to evidence that what they shipped is working.
 
@@ -168,29 +168,41 @@ EBM organises improvement around four Key Value Areas (KVAs):
 
 The metrics we use should support these questions, not distract from them. Here's how EBM-oriented alternatives compare:
 
-| Instead of...            | Try...                                                                                                |
-| ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Estimate vs Actual       | Lead time trends that show how long it takes from commitment to customer release (\*Time to Market\*) |
-| Story points completed   | Customer satisfaction (_Current Value_)                                                               |
-| On-time delivery rate    | Flow efficiency (_Ability to Innovate_)                                                               |
-| Headcount-based planning | Opportunity backlog delta (_Unrealised Value_)                                                        |
+| Instead of...            | Try...                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| Estimate vs Actual       | End-to-end lead time from commitment to usable customer delivery (\*Time to Market\*) |
+| Story points completed   | Customer satisfaction (_Current Value_)                                               |
+| On-time delivery rate    | Flow efficiency (_Ability to Innovate_)                                               |
+| Headcount-based planning | Opportunity backlog delta (_Unrealised Value_)                                        |
 
 _Note: Time-based metrics must be contextualised. Without insight into value, complexity, and customer outcomes, they risk becoming another distorted proxy._
 
 To understand and improve delivery, stop obsessing over how close your guesses were. Instead, measure how your system behaves across the value stream and under varying flow loads. EBM encourages the use of actionable, outcome-aligned metrics that reflect actual system health, rather than projected compliance.
 
 - **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the complexity and value of the work, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
-- **Work item ageing** reveals stuck or neglected work
-- **Flow efficiency** reveals how much time work is idle in queues compared to how much time it is actively being advanced. It highlights delay, not complexity or value.
-- **Throughput variance**, surfaces systemic unpredictability
 
-If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people or predict timelines. The real goal is delivering meaningful outcomes to customers. That requires embracing uncertainty, surfacing impediments, and improving system capability — not enforcing forecast compliance. Value lies in understanding, not accuracy.
+  > Note: Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
+
+- **Work item ageing** reveals stuck or neglected work.
+- **Flow efficiency** indicates the proportion of total time spent progressing work versus waiting. It’s a measure of delay, not value. But beware: systems often mask latency by moving queued work into “in progress” prematurely. High flow efficiency with unchanged lead time may signal gaming.
+
+  **Throughput variance** only tells you something if your work items are roughly the same size. If not, throughput becomes noise. Teams that right-size work can use this as a stability signal. Otherwise, avoid using it as an indicator of performance.
+
+If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people or predict timelines. The ultimate goal is to deliver meaningful outcomes to customers. That requires embracing uncertainty, surfacing impediments, and improving system capability. The aim is not to enforce forecast compliance. Value lies in understanding, not accuracy.
 
 - **De-emphasise 'estimate vs actual' entirely**. It is a false signal in complex domains.
 - **Reward flow mastery, not forecasting tricks**.
 - **Focus on learning, adaptability, and real customer outcomes.**
 
 Estimation should support informed conversations about uncertainty. It should not become a tool used to force predictability.
+
+### Quantitative vs Qualitative
+
+Most metrics in delivery are quantitative, including lead time, flow efficiency, and throughput. But numbers don’t tell the whole story. If you want to know whether you’re building the right thing, you need qualitative feedback: real customer conversations, issue sentiment, satisfaction narratives, and behavioural observations.
+
+Quantitative data tells you **what** happened. Qualitative insight helps you understand **why**.
+
+No chart or trendline can replace a conversation with a frustrated user or a support ticket that describes unmet needs. The most resilient teams blend data with dialogue, metrics with meaning.
 
 ### Radical Candour: Have the Courage to Stop
 
@@ -210,26 +222,15 @@ Real progress starts when people feel safe enough to tell the truth about comple
 
 ## References
 
-11. [Thurlow, Nigel; Turner, Brian Rivera; Helm, John. ](https://www.theflowsystem.com)_[The Flow System: The Evolution of Agile and Lean Thinking in an Age of Complexity](https://www.theflowsystem.com)_[ (2020)](https://www.theflowsystem.com)
-
-12. [Lederer & Prasad (1998). "A causal model for software cost estimating error"](https://doi.org/10.1111/j.1540-5915.1998.tb01356.x)
-
-13. [Lorko et al. (2022). "Hidden Inefficiency: Strategic Inflation of Project Schedules"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213670)
-
-14. [Jørgensen & Grimstad (2008). "The impact of irrelevant and misleading information on software development effort estimates"](https://www.sciencedirect.com/science/article/abs/pii/S0950584908000852)
-
-15. [Jørgensen (2004). "A review of studies on expert estimation of software development effort"](https://www.sciencedirect.com/science/article/pii/S0164121203000581)
-
-16. [Abdel-Hamid et al. (1999). "The dynamics of software project performance"](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.45.8.1104)
-
-17. [Peopleware Book Summary](https://www.runn.io/blog/peopleware-book-summary)
-
-18. [Impact of time pressure on software quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810279/)
-
-19. [Why Managers Should Focus on Outcomes, Not Hours](https://we360ai.medium.com/why-managers-should-focus-on-outcomes-not-hours-and-how-to-do-it-bcde6625693e)
-
-20. [Accelerate: The Science of Lean Software and DevOps (Forsgren, Humble, Kim)](https://itrevolution.com/products/accelerate)
-
-21. [SPACE Framework Whitepaper (GitHub)](https://queue.acm.org/detail.cfm?id=3454124)
-
-22. [Why Leading Agile Teams Focus on Customer Value](https://www.easyagile.com/blog/why-leading-agile-teams-focus-on-customer-value)
+1. [Thurlow, Nigel; Turner, Brian Rivera; Helm, John. ](https://www.theflowsystem.com)_[The Flow System: The Evolution of Agile and Lean Thinking in an Age of Complexity](https://www.theflowsystem.com)_[ (2020)](https://www.theflowsystem.com)
+2. [Lederer & Prasad (1998). "A causal model for software cost estimating error"](https://doi.org/10.1111/j.1540-5915.1998.tb01356.x)
+3. [Lorko et al. (2022). "Hidden Inefficiency: Strategic Inflation of Project Schedules"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213670)
+4. [Jørgensen & Grimstad (2008). "The impact of irrelevant and misleading information on software development effort estimates"](https://www.sciencedirect.com/science/article/abs/pii/S0950584908000852)
+5. [Jørgensen (2004). "A review of studies on expert estimation of software development effort"](https://www.sciencedirect.com/science/article/pii/S0164121203000581)
+6. [Abdel-Hamid et al. (1999). "The dynamics of software project performance"](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.45.8.1104)
+7. [Peopleware Book Summary](https://www.runn.io/blog/peopleware-book-summary)
+8. [Impact of time pressure on software quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810279/)
+9. [Why Managers Should Focus on Outcomes, Not Hours](https://we360ai.medium.com/why-managers-should-focus-on-outcomes-not-hours-and-how-to-do-it-bcde6625693e)
+10. [Accelerate: The Science of Lean Software and DevOps (Forsgren, Humble, Kim)](https://itrevolution.com/products/accelerate)
+11. [SPACE Framework Whitepaper (GitHub)](https://queue.acm.org/detail.cfm?id=3454124)
+12. [Why Leading Agile Teams Focus on Customer Value](https://www.easyagile.com/blog/why-leading-agile-teams-focus-on-customer-value)
