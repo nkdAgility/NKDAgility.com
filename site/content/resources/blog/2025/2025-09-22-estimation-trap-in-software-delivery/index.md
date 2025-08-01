@@ -177,15 +177,14 @@ The metrics we use should support these questions, not distract from them. Here'
 | Headcount-based planning | Opportunity backlog delta (_Unrealised Value_) |
 {{< /table >}}
 
-> [!NOTE]
+> [!WARNING]
 > Time-based metrics must be contextualised. Without insight into value, complexity, and customer outcomes, they risk becoming another distorted proxy.
 
 To understand and improve delivery, stop obsessing over how close your guesses were. Instead, measure how your system behaves across the value stream and under varying flow loads. EBM encourages the use of actionable, outcome-aligned metrics that reflect actual system health, rather than projected compliance.
 
 - **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the complexity and value of the work, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
-
-  > Note: Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
-
+  > [!NOTE]
+  > Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
 - **Work item ageing** reveals stuck or neglected work.
 - **Flow efficiency** indicates the proportion of total time spent progressing work versus waiting. It’s a measure of delay, not value. But beware: systems often mask latency by moving queued work into “in progress” prematurely. High flow efficiency with unchanged lead time may signal gaming.
 
