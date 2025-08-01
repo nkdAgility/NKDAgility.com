@@ -153,7 +153,7 @@ This is a clear example of Systems Thinking, as outlined in The Flow System (Thu
 
 Even when used "diagnostically", estimate vs actual as a metric misleads:
 
-- It ignores queues, rework, and dependencies, which are often the actual sources of delay. Lean thinking teaches us that to improve flow we must visualise queues, limit work in progress (WIP), and actively manage handoffs, none of which are addressed by focusing on task-level estimate variance.
+- It ignores queues, rework, and dependencies, which are often the actual sources of delay. Lean thinking teaches us that to improve flow we must visualise queues, limit work in progress (WIP), and actively manage handoffs; none of which are addressed by focusing on task-level estimate variance.
 - It reinforces the illusion that better estimation leads to better outcomes.
 - It promotes local optimisation over systemic improvement.
 
@@ -175,7 +175,7 @@ The metrics we use should support these questions, not distract from them. Here'
 | ------------------------ | ------------------------------------------------------------------------------------- |
 | Estimate vs Actual | End-to-end lead time from commitment to usable customer delivery (\*Time to Market\*) |
 | Story points completed | Customer satisfaction (_Current Value_) |
-| On-time delivery rate | Flow efficiency (_Ability to Innovate_) |
+| On-time delivery rate | Deployment frequency or Technical debt ratio (_Ability to Innovate_) |
 | Headcount-based planning | Opportunity backlog delta (_Unrealised Value_) |
 {{< /table >}}
 
@@ -184,10 +184,10 @@ The metrics we use should support these questions, not distract from them. Here'
 
 To understand and improve delivery, stop obsessing over how close your guesses were. Instead, measure how your system behaves across the value stream and under varying flow loads. EBM encourages the use of actionable, outcome-aligned metrics that reflect actual system health, rather than projected compliance.
 
-- **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the complexity and value of the work, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
+- **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the nature and complexity of the work, as well as its value, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
   > [!NOTE]
   > Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
-- **Work item ageing** reveals stuck or neglected work.
+- **Work item ageing** reveals stuck or neglected work, or requirements that were added and then discarded.
 - **Flow efficiency** indicates the proportion of total time spent progressing work versus waiting. It’s a measure of delay, not value. But beware: systems often mask latency by moving queued work into “in progress” prematurely. High flow efficiency with unchanged lead time may signal gaming.
 - **Throughput variance** only tells you something if your work items are roughly the same size. If not, throughput becomes noise. Teams that right-size work can use this as a stability signal. Otherwise, avoid using it as an indicator of performance.
 
