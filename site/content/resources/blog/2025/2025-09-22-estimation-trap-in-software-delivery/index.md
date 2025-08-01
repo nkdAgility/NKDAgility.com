@@ -1,57 +1,57 @@
 ---
-title: 'The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery'
+title: "The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery"
 short_title: The Estimation Trap in Software Delivery
 description: Tracking estimation accuracy in software delivery leads to mistrust, fear, and distorted behaviours. Focus on customer value, flow, and outcomes—not estimate compliance.
 tldr: Focusing on estimation accuracy as a performance metric leads to fear, gaming, and a culture of compliance rather than real improvement, which undermines trust, innovation, and actual value delivery. Research shows that when teams are judged on how closely they meet estimates, they pad numbers, hide risks, and avoid complex work, resulting in false success and missed opportunities for learning. Instead, shift attention to evidence-based metrics that reflect customer value, system health, and delivery flow, and use estimates only to support learning and informed conversations, not as tools for control.
 date: 2025-09-22T09:00:00Z
 weight: 100
 contributors:
-- name: Ralph Jocham
-  githubUsername: rjocham
-  external: https://effectiveagile.com/
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
-  githubUsername: nigelthurlow
+  - name: Ralph Jocham
+    githubUsername: rjocham
+    external: https://effectiveagile.com/
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
+    githubUsername: nigelthurlow
 ResourceId: rE-_hlb3Y34
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery
 aliases:
-- /resources/blog/the-estimation-trap-in-software-delivery
-- /resources/blog/estimation-trap-in-software-delivery
-- /resources/rE-_hlb3Y34
+  - /resources/blog/the-estimation-trap-in-software-delivery
+  - /resources/blog/estimation-trap-in-software-delivery
+  - /resources/rE-_hlb3Y34
 aliasesArchive:
-- /resources/blog/the-estimation-trap-in-software-delivery
-- /resources/blog/estimation-trap-in-software-delivery
+  - /resources/blog/the-estimation-trap-in-software-delivery
+  - /resources/blog/estimation-trap-in-software-delivery
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
-- Product Management
+  - Product Development
+  - Engineering Excellence
+  - Product Management
 tags:
-- Evidence Based Leadership
-- Agile Strategy
-- Metrics and Learning
-- Decision Making
-- Evidence Based Management
-- Pragmatic Thinking
-- Operational Practices
-- Software Development
-- Value Delivery
-- Continuous Improvement
-- Empirical Process Control
-- Agile Philosophy
-- Customer Focus
-- Team Performance
-- Organisational Agility
+  - Evidence Based Leadership
+  - Agile Strategy
+  - Metrics and Learning
+  - Decision Making
+  - Evidence Based Management
+  - Pragmatic Thinking
+  - Operational Practices
+  - Software Development
+  - Value Delivery
+  - Continuous Improvement
+  - Empirical Process Control
+  - Agile Philosophy
+  - Customer Focus
+  - Team Performance
+  - Organisational Agility
 Watermarks:
   description: 2025-08-01T15:51:24Z
   tldr: 2025-08-01T15:51:28Z
 canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
-
 ---
+
 In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.
 
 ## When the Metric Becomes the Target
@@ -151,9 +151,9 @@ Let’s be clear: in complex, knowledge-based work, there is no meaningful diagn
 
 This is a clear example of Systems Thinking, as outlined in The Flow System (Thurlow et al., 2020). The true constraint rarely lies in the task. It lies in the system: the queues, context switching, blocked dependencies, or fragmented communication paths that hinder the delivery of value. In most cases, the constraint lies in the workflow, rather than in the functions themselves.
 
-Even when used “diagnostically,” this metric misleads:
+Even when used "diagnostically", estimate vs actual as a metric misleads:
 
-- It ignores queues, rework, and dependencies, which are often the actual sources of delay. Lean thinking teaches us that to improve flow, we must visualise queues, limit work in progress (WIP), and actively manage handoffs, none of which are addressed by focusing on task-level estimate variance.
+- It ignores queues, rework, and dependencies, which are often the actual sources of delay. Lean thinking teaches us that to improve flow we must visualise queues, limit work in progress (WIP), and actively manage handoffs; none of which are addressed by focusing on task-level estimate variance.
 - It reinforces the illusion that better estimation leads to better outcomes.
 - It promotes local optimisation over systemic improvement.
 
@@ -173,9 +173,9 @@ The metrics we use should support these questions, not distract from them. Here'
 {{< table "table table-striped table-bordered" >}}
 | Instead of... | Try... |
 | ------------------------ | ------------------------------------------------------------------------------------- |
-| Estimate vs Actual | End-to-end lead time from commitment to usable customer delivery (\*Time to Market\*) |
+| Estimate vs Actual | End-to-end lead time from commitment to usable customer delivery (_Time to Market_) |
 | Story points completed | Customer satisfaction (_Current Value_) |
-| On-time delivery rate | Flow efficiency (_Ability to Innovate_) |
+| On-time delivery rate | Quality Trends, or % of effort on new vs sustaining work (_Ability to Innovate_) |
 | Headcount-based planning | Opportunity backlog delta (_Unrealised Value_) |
 {{< /table >}}
 
@@ -184,14 +184,14 @@ The metrics we use should support these questions, not distract from them. Here'
 
 To understand and improve delivery, stop obsessing over how close your guesses were. Instead, measure how your system behaves across the value stream and under varying flow loads. EBM encourages the use of actionable, outcome-aligned metrics that reflect actual system health, rather than projected compliance.
 
-- **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the complexity and value of the work, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
+- **Cycle time trends** can reveal delivery latency across the value stream, but must be interpreted with caution. Without understanding the nature and complexity of the work, as well as its value, these trends are just noise. Measure flow to inspect how the system behaves, not how long individual items take.
   > [!NOTE]
   > Cycle time only tracks how long one piece of work took. It says nothing about what the customer waited for or whether the system is flowing well. Lead time tells you how long the customer waits, starting from the moment a request is made until they receive something usable. Always measure from the outside in.
-- **Work item ageing** reveals stuck or neglected work.
+- **Work item ageing** reveals stuck or neglected work, or requirements that were added and then discarded.
 - **Flow efficiency** indicates the proportion of total time spent progressing work versus waiting. It’s a measure of delay, not value. But beware: systems often mask latency by moving queued work into “in progress” prematurely. High flow efficiency with unchanged lead time may signal gaming.
 - **Throughput variance** only tells you something if your work items are roughly the same size. If not, throughput becomes noise. Teams that right-size work can use this as a stability signal. Otherwise, avoid using it as an indicator of performance.
 
-If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people or predict timelines. The ultimate goal is to deliver meaningful outcomes to customers. That requires embracing uncertainty, surfacing impediments, and improving system capability. The aim is not to enforce forecast compliance. Value lies in understanding, not accuracy.
+If you must discuss estimates, use them to explore assumptions and complexity, not to evaluate people. The ultimate goal is to deliver meaningful outcomes to customers. That requires embracing uncertainty, surfacing impediments, and improving system capability. The aim is not to enforce forecast compliance. Value lies in understanding, not accuracy.
 
 - **De-emphasise 'estimate vs actual' entirely**. It is a false signal in complex domains.
 - **Reward flow mastery, not forecasting tricks**.
@@ -209,13 +209,15 @@ No chart or trendline can replace a conversation with a frustrated user or a sup
 
 ### Radical Candour: Have the Courage to Stop
 
-This isn’t about shielding teams from accountability. It’s about holding ourselves to a higher standard of leadership. Framing time estimate accuracy as a condition for trust is a failure of leadership. It signals a lack of psychological safety and a misunderstanding of how complex work unfolds. True leadership fosters environments where learning is safe, discovery is encouraged, and performance is judged by value, not conformity to expectations. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
+This isn’t about shielding teams from accountability. It’s about holding ourselves accountable to a higher standard of leadership. Framing time estimate accuracy as a condition for trust is a failure of leadership. It signals a lack of psychological safety and a misunderstanding of how complex work unfolds. True leadership fosters environments where learning is safe, discovery is encouraged, and performance is judged by value, not conformity to expectations. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
 
 Don’t replace one flawed proxy with another. Metrics like cycle time, throughput, or flow efficiency are helpful, but only as part of a broader conversation about value, quality, and improvement. Alone, they tell you nothing about whether you’re solving the correct problems or improving customer outcomes. Consider adopting Evidence-Based Management and DORA to shift focus toward empiricism and value flow across the organisation. Talk with your team about impediments and improvements rather than the hours they logged. When you remove the spotlight from the clock, you’ll find your people deliver better software, enjoy their work more, and build trust along the way.
 
 ## In Summary
 
-The Estimation Trap appears to be a process improvement effort. But underneath, it creates a fear-based culture that rewards gaming and punishes uncertainty. It distorts delivery and kills innovation in the name of control.
+The Estimation Trap appears to be a process improvement effort. But underneath it creates a fear-based culture that rewards gaming and punishes uncertainty. It distorts delivery and kills innovation in the name of control.
+
+All quantitative measures can do, is inform of system _efficiency_. They cannot inform of system _effectiveness_!
 
 Instead of asking, “Why didn’t we match our original estimate?” ask, “What did we learn, how did we adapt, and are we improving the outcomes that matter?”
 
