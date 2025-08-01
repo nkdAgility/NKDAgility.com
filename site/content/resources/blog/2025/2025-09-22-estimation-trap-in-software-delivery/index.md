@@ -209,13 +209,15 @@ No chart or trendline can replace a conversation with a frustrated user or a sup
 
 ### Radical Candour: Have the Courage to Stop
 
-This isn’t about shielding teams from accountability. It’s about holding ourselves to a higher standard of leadership. Framing time estimate accuracy as a condition for trust is a failure of leadership. It signals a lack of psychological safety and a misunderstanding of how complex work unfolds. True leadership fosters environments where learning is safe, discovery is encouraged, and performance is judged by value, not conformity to expectations. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
+This isn’t about shielding teams from accountability. It’s about holding ourselves accountable to a higher standard of leadership. Framing time estimate accuracy as a condition for trust is a failure of leadership. It signals a lack of psychological safety and a misunderstanding of how complex work unfolds. True leadership fosters environments where learning is safe, discovery is encouraged, and performance is judged by value, not conformity to expectations. It’s not helping them grow; it’s punishing them for unpredictability inherent in complex work. Radical candour means caring personally and challenging directly. The challenge here is to stop clinging to false certainty and instead focus on the outcomes that matter for your business and your customers.
 
 Don’t replace one flawed proxy with another. Metrics like cycle time, throughput, or flow efficiency are helpful, but only as part of a broader conversation about value, quality, and improvement. Alone, they tell you nothing about whether you’re solving the correct problems or improving customer outcomes. Consider adopting Evidence-Based Management and DORA to shift focus toward empiricism and value flow across the organisation. Talk with your team about impediments and improvements rather than the hours they logged. When you remove the spotlight from the clock, you’ll find your people deliver better software, enjoy their work more, and build trust along the way.
 
 ## In Summary
 
-The Estimation Trap appears to be a process improvement effort. But underneath, it creates a fear-based culture that rewards gaming and punishes uncertainty. It distorts delivery and kills innovation in the name of control.
+The Estimation Trap appears to be a process improvement effort. But underneath it creates a fear-based culture that rewards gaming and punishes uncertainty. It distorts delivery and kills innovation in the name of control.
+
+All quantitative measures can do, is inform of system _efficiency_. They cannot inform of system _effectiveness_!
 
 Instead of asking, “Why didn’t we match our original estimate?” ask, “What did we learn, how did we adapt, and are we improving the outcomes that matter?”
 
