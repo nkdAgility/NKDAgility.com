@@ -16,10 +16,9 @@ ResourceId: rE-_hlb3Y34
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-slug: the-estimation-trap-in-software-delivery
+slug: the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery
 aliases:
   - /resources/blog/the-estimation-trap-in-software-delivery
-  - /resources/blog/the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery
   - /resources/rE-_hlb3Y34
 aliasesArchive:
   - /resources/blog/the-estimation-trap-in-software-delivery
