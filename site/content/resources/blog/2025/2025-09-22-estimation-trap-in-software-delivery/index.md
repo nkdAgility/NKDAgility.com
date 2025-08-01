@@ -168,14 +168,17 @@ EBM organises improvement around four Key Value Areas (KVAs):
 
 The metrics we use should support these questions, not distract from them. Here's how EBM-oriented alternatives compare:
 
-| Instead of...            | Try...                                                                                |
+{{< table "table table-striped table-bordered" >}}
+| Instead of... | Try... |
 | ------------------------ | ------------------------------------------------------------------------------------- |
-| Estimate vs Actual       | End-to-end lead time from commitment to usable customer delivery (\*Time to Market\*) |
-| Story points completed   | Customer satisfaction (_Current Value_)                                               |
-| On-time delivery rate    | Flow efficiency (_Ability to Innovate_)                                               |
-| Headcount-based planning | Opportunity backlog delta (_Unrealised Value_)                                        |
+| Estimate vs Actual | End-to-end lead time from commitment to usable customer delivery (\*Time to Market\*) |
+| Story points completed | Customer satisfaction (_Current Value_) |
+| On-time delivery rate | Flow efficiency (_Ability to Innovate_) |
+| Headcount-based planning | Opportunity backlog delta (_Unrealised Value_) |
+{{< /table >}}
 
-_Note: Time-based metrics must be contextualised. Without insight into value, complexity, and customer outcomes, they risk becoming another distorted proxy._
+> [!NOTE]
+> Time-based metrics must be contextualised. Without insight into value, complexity, and customer outcomes, they risk becoming another distorted proxy.
 
 To understand and improve delivery, stop obsessing over how close your guesses were. Instead, measure how your system behaves across the value stream and under varying flow loads. EBM encourages the use of actionable, outcome-aligned metrics that reflect actual system health, rather than projected compliance.
 
