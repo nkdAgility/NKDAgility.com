@@ -1488,15 +1488,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "5RJpAeKMRzs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:37:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile principles and pitfalls rather than the One Engineering System framework. While it touches on themes of organisational transformation and efficiency, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 16.787,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 6.35,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content extensively discusses Agile pitfalls and solutions, focusing on team-level Agile practices and mindset. There are no direct mentions or conceptual linkage to the One Engineering System (1ES) framework or its principles (integration of tools/processes, standardisation across teams, or unified engineering practices). While the audience aligns partially (engineering/organizational improvement), the content doesn't discuss 1ES concepts, methodology, or case studies. Its depth and intent are unrelated to 1ES, with no references to integration, standardisation, or cross-team unification—the hallmarks of 1ES.",
+    "reasoning_summary": "This content discusses Agile anti-patterns and improvement but shares no explicit or conceptual overlap with One Engineering System. There is no mention of process integration, tool unification, or engineering system standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2000,6 +2007,25 @@
     "final_score": 36.0,
     "reasoning": "The content discusses Agile pitfalls and offers guidance on cultural and procedural improvements for teams. While it covers topics like autonomy, accountability, feedback, and value delivery—concepts adjacent to Agentic Engineering—it does not explicitly address the deliberate design of engineering practices to maximise human or AI agency. There is little reference to DevOps ethos, ethical AI, or decision decentralisation. The focus is mainly on general Agile dysfunctions, not on agentic engineering frameworks or philosophy. The alignment is thus partial and indirect, focused more on Agile as a mindset or process rather than as a vehicle for maximising agency.",
     "reasoning_summary": "While this article highlights essential Agile improvements like accountability and feedback, it doesn’t explicitly address Agentic Engineering’s focus on maximising human or AI agency, decentralisation, or deliberate engineering practice design. Alignment is indirect and mainly conceptual.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5RJpAeKMRzs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 15.239,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content thoroughly discusses Agile anti-patterns and guidance for effective Agile practices. However, it does not mention or meaningfully address agentic software delivery, AI agents, contextual intelligence, or human–AI integration. Its focus is on organisational behaviour and culture in Agile, not agentic delivery. There is minimal, if any, implicit relevance—no signal of modern AI, agents, or systemic augmentation. All scores are low in line with the category criteria, as the content lacks conceptual fit or targeted intent.",
+    "reasoning_summary": "This piece is about Agile transformation pitfalls and solutions, not agentic software delivery. It does not address AI agents, contextual intelligence, or agentic practices. There is no substantive category fit.",
     "level": "Ignored"
   }
 }

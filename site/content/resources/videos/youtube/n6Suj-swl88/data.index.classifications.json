@@ -1476,15 +1476,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "n6Suj-swl88",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:57:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner in the context of Scrum and Agile methodologies, specifically discussing the Sprint Review process. While it touches on aspects of team collaboration and value maximisation, it does not directly address the principles or components of the One Engineering System (1ES) framework. The discussion is centred around Scrum practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 16.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 5.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on the role of the Product Owner in Agile Sprint Reviews, offering detailed practical guidance aligned with Scrum practices. There is no direct mention or implicit discussion of One Engineering System (1ES), its principles, components, or impact. The main purpose is to inform practitioners about effective Sprint Reviews; there is no substantive alignment or crossover with 1ES concepts such as the unification of tools, processes, or engineering practice standardisation. The audience overlaps somewhat, as both target practitioners in software teams, but the content is not intended to support, explain, or implement 1ES in any way; it's narrowly about an Agile Ceremony.",
+    "reasoning_summary": "Content is about Agile Sprint Reviews and Product Owner roles, not 1ES. It neither mentions nor discusses standardised engineering systems, process integration, or the unification 1ES targets. Fit is minimal and mostly coincidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on best practices for Sprint Reviews in Agile, emphasizing the Product Owner's role in maximizing value, gathering feedback, and updating the backlog. While it aligns with agency in terms of team accountability, adaptation, and value-driven practices, it does not explicitly discuss Agentic Engineering, the philosophical underpinnings of agency, or the integration of human and AI decision-making. DevOps and engineering autonomy are briefly mentioned, but only peripherally. There is depth in discussing structured feedback and continuous value, loosely aligning with Agentic Engineering themes, but the content primarily stays within Agile methodology and team process. No penalties were applied.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering through its focus on Agile team agency and value-driven feedback, yet it mainly details process mechanics without directly engaging with agentic design principles or AI-human autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 14.22,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on Agile/Scrum practices, specifically on the Product Owner's role in leading Sprint Reviews. There are no direct mentions or exploration of agentic software delivery, autonomous AI agents, agency in delivery, or modern engineering practices aligned with agentic delivery. The main themes relate to human facilitation, feedback loops, and backlog management strictly within classical Scrum guidance. While the content’s audience and some concepts like updating the backlog and feedback loops lightly overlap with modern delivery modernization themes, there is no substantive or explicit reference to context-aware intelligence, agent integration, AI-driven practices, or governance frameworks for agents—the distinctive characteristics of Agentic Software Delivery. Thus, the fit is minimal-to-none.",
+    "reasoning_summary": "The content discusses traditional Agile and Scrum practices, with no explicit or substantial reference to agentic software delivery, AI agents, or related concepts. Fit with the Agentic Software Delivery category is minimal to nonexistent.",
     "level": "Ignored"
   }
 }

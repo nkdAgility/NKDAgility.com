@@ -300,13 +300,23 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "81zAbGYQP0o",
     "category": "Kanban",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions the 'Kanban board' as part of the course objectives, indicating that Kanban is a secondary theme within a broader context focused on Azure Boards and Scrum methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 36.04,
+    "ai_mentions": 2.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.5,
+    "ai_intent": 2.3,
+    "ai_audience": 5.9,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "Direct mentions of Kanban are limited—a single sub-bullet in course topics references 'Kanban board usage.' The overall course is on Azure Boards for agile project management, emphasizing backlog, sprints, and Scrum, with little exploration of Kanban methods, principles, or metrics. Main intent is not Kanban-focused, and conceptual alignment is weak. Audience may overlap with Kanban practitioners but is strongly targeted at Scrum/agile teams. Only a small portion discusses Kanban boards as a feature of Azure Boards rather than delving into Kanban practice or philosophy.",
+    "reasoning_summary": "The content only lightly mentions Kanban board usage as a tool within Azure Boards; the main focus and themes are not on Kanban methodology. Fit with Kanban category is minimal and mostly incidental.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -2069,6 +2079,25 @@
     "final_score": 27.0,
     "reasoning": "The course focuses on Azure Boards as a project management tool with strong coverage of agile practices, backlog management, sprints, and team collaboration. However, it does not directly mention Agentic Engineering or its concepts such as maximizing agency, ethical autonomy, or DevOps-infused craft. The alignment and depth are limited since it stays at a tools/process level and does not address agency (neither human nor AI) or philosophical/ethical engineering principles. The audience partially overlaps but is geared more to practitioners learning a tool than those interested in agentic or autonomous system design. No penalties applied as there are no outdated or critical references.",
     "reasoning_summary": "This content is centered on teaching Azure Boards for agile practice and project management, with little to no reference to the core concepts or philosophies of Agentic Engineering. The focus is practical and tool-centric, not agentic or autonomy-oriented.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "81zAbGYQP0o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 14.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content thoroughly covers Azure Boards for agile project management, with emphasis on backlog management, sprint planning, and collaboration. However, there are no explicit mentions or deep engagement with agentic concepts like autonomous AI agents or contextual, proactive intelligence; discussions of agency, contextual intelligence, or agent integration are absent. The tooling described supports traditional project tracking with no hint of embedded AI, autonomy, or governance frameworks around agents, nor any discussion of human-in-the-loop designs. The course is geared towards practitioners of agile and Scrum methodologies but does not target the unique principles of Agentic Software Delivery. Intent and alignment to the category are tangential at best.",
+    "reasoning_summary": "The content is focused on traditional agile project management using Azure Boards, without discussion of agentic principles or AI-driven delivery, so fit with 'Agentic Software Delivery' is very low.",
     "level": "Ignored"
   }
 }

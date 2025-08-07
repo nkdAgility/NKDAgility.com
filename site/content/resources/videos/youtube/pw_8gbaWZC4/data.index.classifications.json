@@ -378,13 +378,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "pw_8gbaWZC4",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the use of metrics and monitoring in the context of Candan strategies and Scrum, which relates to empirical process control. However, the primary focus is on Candan rather than a direct exploration of empirical process control principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 83.65,
+    "ai_mentions": 6.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.8,
+    "ai_intent": 8.2,
+    "ai_audience": 8.7,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content extensively covers data-driven decision-making, transparency, and continuous improvement through 'Candan' (likely meant to reference Kanban/Caman) strategies, aligning well with empirical process control. It repeatedly references the importance of transparency, inspection using flow metrics, and adaptation based on observed evidence. It discusses practical applications for teams and highlights visualizing workflow issues to trigger improvement actions. The mentioning of Scrum and recommendations to integrate metrics into Scrum also fit the audience and domain. While the exact term 'empirical process control' is not stated outright, it is conceptually well-aligned throughout. There is minor marketing present, but it doesn't significantly dilute focus. No penalties were applied since content is current, positive, and not contradictory.",
+    "reasoning_summary": "Content strongly fits empirical process control, emphasizing transparency, data-driven feedback, inspection, and adaptation within Agile/Scrum teams. It is purposefully aligned, though the terminology is indirect and there's minor self-promotion. Overall fit is clear and high.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -2009,5 +2019,24 @@
     "reasoning": "The content focuses on Candan strategy's emphasis on transparency, workflow observability, continuous improvement, and data-driven decision-making—key elements within Agentic Engineering. It highlights systemic observability by discussing flow metrics, monitoring, and visualizing workflow issues, which align with maximizing agency via feedback-driven adaptation. However, it does not explicitly reference maximizing both human and AI agency, nor does it mention ethical AI, decentralization, or DevOps-infused craft in a deep way. The target audience is practitioners (teams, engineers) and the discussion stays focused on enabling decision-making and improvement practices, rather than general engineering. The depth is moderate, with actionable examples and a clear link to team autonomy, but it stops short of discussing advanced agentic frameworks or AI collaboration. No outdated practices or contradictory tone detected.",
     "reasoning_summary": "This content on Candan strategy strongly emphasizes transparency, workflow observability, and continuous improvement, aligning well with Agentic Engineering themes. It focuses on empowering teams through data-driven insights but lightly addresses AI agency or autonomous systems, thus offering moderate overall alignment with the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pw_8gbaWZC4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 39.43,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.6,
+    "ai_intent": 3.9,
+    "ai_audience": 4.8,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on strategies for continuous improvement, transparency, and flow metrics in workflows (primarily referencing Candan/Caman strategies), but makes no direct or implicit mention of agentic software delivery, autonomous agents, AI integration, or the specific principles listed in the definition. The intent is aligned with modern software delivery and improvement, but is conceptualized through classic metrics-driven practices, not agentic/AI-augmented methodologies. The target audience—teams and practitioners seeking better workflow management—has some overlap, but agentic principles are absent. The discussion is substantial on Candan practices, but does not cross into the territory of Agentic Software Delivery as defined. No penalties were applied, as the content is not outdated or critical—it is simply not well aligned.",
+    "reasoning_summary": "Content is focused on transparency and continuous improvement via Candan strategies and flow metrics, but contains no direct or conceptual alignment with agentic, AI-driven, or autonomous software delivery themes. Fit is partial and mostly tangential.",
+    "level": "Ignored"
   }
 }

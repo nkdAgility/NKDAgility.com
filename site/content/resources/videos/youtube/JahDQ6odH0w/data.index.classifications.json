@@ -3156,21 +3156,21 @@
   "Agile Planning": {
     "resourceId": "JahDQ6odH0w",
     "category": "Agile Planning",
-    "calculated_at": "2025-07-15T17:17:27",
-    "ai_confidence": 28.45,
-    "ai_mentions": 0.7,
-    "ai_alignment": 3.6,
-    "ai_depth": 2.9,
-    "ai_intent": 2.8,
-    "ai_audience": 6.0,
-    "ai_signal": 3.5,
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 46.88,
+    "ai_mentions": 2.8,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.5,
+    "ai_intent": 5.7,
+    "ai_audience": 8.1,
+    "ai_signal": 7.3,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 28.0,
-    "reasoning": "The content is focused on CTOs coping with tech decision fatigue and strategic overload. While the solution is tied to clarity and decision strategies, there's no direct or significant reference to Agile Planning concepts, frameworks, or practices. It does not address iterative planning, user stories, sprints, or Agile meetings. Audience (CTOs) could benefit from Agile Planning, but the material remains high-level and lacks explicit ties to the category definition. No penalties applied as the content is current and not critical or satirical, but the overall alignment and depth remain weak due to minimal relevance.",
-    "reasoning_summary": "This content addresses CTO leadership challenges and decision-making fatigue but does not discuss Agile Planning principles, methods, or tools. Its relevance is limited and only tangentially connected through high-level strategy and adaptability themes.",
-    "level": "Ignored"
+    "final_score": 47.0,
+    "reasoning": "The content discusses agility as an adaptive mindset for CTOs and organizations, pushing back against trend-chasing, and focusing on clarity, decision-making, and adaptability. However, it lacks direct, sustained discussion of Agile Planning principles, techniques, or frameworks like sprints, user stories, or backlog management. Although the ethos of adaptability and responding to change overlaps with Agile philosophy, concrete examples related to Agile Planning practices are missing. The target audience (technical leaders, CTOs) aligns, and the tone supports agile values, but mention of 'Agile Planning' or related structural concepts is limited, and the depth of exploration into Agile Planning methods is moderate. The core of the content is more about high-level adaptive leadership and organizational clarity rather than procedural or practical Agile Planning specifics.",
+    "reasoning_summary": "The content aligns partially with Agile Planning in promoting agile thinking and adaptability but does not deeply explore planning frameworks, methods, or practices central to the category. Direct relevance is moderate and not explicit.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "resourceId": "JahDQ6odH0w",
@@ -3342,5 +3342,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' are absent. While the content addresses CTOs' decision fatigue and the need for custom-fit strategies, the main themes are more about leadership support in navigating tech trends rather than the deliberate design of engineering practices that maximise agency for humans and intelligent systems. There are tangential overlaps—mentioning autonomy in decision strategies and referencing 'Engineering Excellence' and 'DevOps'—but there is no substantive discussion of agency, distributed decision-making frameworks, or systemic observability. The content is audience-aligned (CTOs, engineering leaders) and focused, but it offers limited direct or in-depth exploration of Agentic Engineering as defined.",
     "reasoning_summary": "The content offers broad leadership support for CTOs feeling overwhelmed by tech trends, touching peripherally on autonomy and decision strategies. However, it does not meaningfully engage with core Agentic Engineering concepts like maximising human and AI agency or decentralised engineering practices.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JahDQ6odH0w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 18.42,
+    "ai_mentions": 1.5,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 5.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content targets CTOs and tech leaders overwhelmed by the rapid pace of tech change, especially AI and microservices. While it critiques blind adoption of AI and emphasizes thoughtful modernization, it does not mention or substantively discuss agentic principles, integration of autonomous agents, context-aware intelligence, or delivery frameworks involving agency. It is instead focused on clarity, restraint, decision making, and organizational fit—core agile/leadership themes. No discussion of autonomous AI agents, human-agent synergy, telemetry-driven feedback, or the deep practices of agentic software delivery are presented. Thus, alignment and depth are low, and direct mentions are absent. Audience fit is medium, as CTOs are relevant to agentic topics, but the content does not address them directly.",
+    "reasoning_summary": "Content focuses on leadership clarity in the face of AI/microservices hype, not Agentic Software Delivery. Little to no mention or exploration of agentic AI, human-agent synergy, or supporting practices. Fit is weak and not substantive.",
+    "level": "Ignored"
   }
 }

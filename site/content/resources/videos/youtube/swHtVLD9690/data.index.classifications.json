@@ -1506,15 +1506,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "swHtVLD9690",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:20:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses DevOps practices and challenges, with no direct mention of the One Engineering System (1ES). While it touches on themes of integration and feedback loops, these are framed within the context of DevOps rather than the specific principles or components of 1ES. The discussion lacks depth regarding 1ES, focusing instead on the evolution of risk management in a DevOps environment.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 18.01,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.7,
+    "ai_audience": 4.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There are no direct mentions or references to the One Engineering System or its principles, frameworks, or terminology. The content solely focuses on DevOps challenges, feedback loops, and risk management. While these touch on transformation and cross-team process, they are not linked to system-wide standardization or the integration aspects central to 1ES. There is no discussion of unifying engineering processes, toolchains, standardization frameworks, or 1ES philosophy. The overall theme is DevOps adoption, not integrated or standardized engineering systems.",
+    "reasoning_summary": "Content is about DevOps practices, not One Engineering System. No explicit or implicit alignment with 1ES topics, integration, or standardization. Fit is weak and mostly coincidental, not by intent or coverage.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2019,5 +2026,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or related explicit terminology are absent, focusing strictly on DevOps adoption challenges. However, the content broadly aligns with Agentic Engineering via substantial discussion of feedback loops, rapid iteration, and continuous improvement, which overlap with agency, feedback-driven adaptation, and continuous value delivery. It does not detail developer autonomy, AI collaboration, or ethical aspects—key themes in Agentic Engineering—so depth and alignment are moderate. The intent is highly relevant for engineering practitioners, with a good signal-to-noise ratio, but without explicit agency focus or philosophical framing.",
     "reasoning_summary": "The content aligns with Agentic Engineering through its discussion of DevOps feedback loops, rapid iteration, and continuous improvement, but lacks explicit focus on agency, AI, or ethical autonomy. It offers moderate conceptual fit but falls short of fully embodying the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "swHtVLD9690",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 27.45,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.3,
+    "ai_depth": 3.1,
+    "ai_intent": 3.0,
+    "ai_audience": 6.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content strictly discusses DevOps adoption challenges centered on risk management and feedback loops. While feedback loops and continuous improvement are mentioned (themes adjacent to agentic software delivery), there is no explicit or implied discussion about integration of autonomous AI agents, context-aware intelligence, human-agent synergy, or the intentional embedding of agency in systems of work. The piece remains focused on best practices for DevOps, rapid iteration, and CI/CD, but these are not framed in the context of agentic principles or technologies. There is no direct mention of AI, agents, or governance models crucial to Agentic Software Delivery. The audience, being DevOps practitioners, is peripheral to the Agentic Software Delivery sphere, but the content itself is not aligned. No penalties applied as there is no outdated or contradictory material.",
+    "reasoning_summary": "This content is about DevOps adoption, feedback loops, and modern risk management. There’s no mention of AI agents, agentic workflows, or context-aware automation, so it does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

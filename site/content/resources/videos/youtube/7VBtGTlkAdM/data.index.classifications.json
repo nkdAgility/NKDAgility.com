@@ -1219,15 +1219,22 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "7VBtGTlkAdM",
     "category": "Value Delivery",
-    "calculated_at": "2025-04-10T15:52:36",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which aligns with the core theme of delivering value to customers. However, the primary focus is on consulting contracts and their implications rather than on specific value delivery methodologies or practices within Agile or Scrum frameworks. The discussion lacks depth in terms of established value delivery theories and does not provide detailed strategies or techniques for maximising customer value.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 78.437,
+    "ai_mentions": 7.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.5,
+    "ai_intent": 8.0,
+    "ai_audience": 8.3,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly references 'value' and stresses focusing on outcomes over outputs, aligning closely with value delivery concepts in Agile and Scrum. Key themes—flexibility, adapting to client needs, and continuous value delivery—fit the category. The discussion leverages central value delivery ideas, such as responses to unpredictability in product development and customer-centric results. However, it doesn't deeply explore technical methodologies or measurements of value delivery, and leans more on practical advice and mindset than on comprehensive frameworks or granular strategies. Some promotional content (course offering) adds slight noise, but most of the argument is focused. The audience is practitioners in Agile, Scrum, and consulting, matching the category.",
+    "reasoning_summary": "This content fits 'Value Delivery' well, emphasizing outcome focus and flexibility in consulting, with Agile/Scrum context. It is aimed at practitioners and is conceptually aligned, though depth and technical detail are moderate. Partial but strong fit.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1952,6 +1959,25 @@
     "final_score": 38.0,
     "reasoning": "The content discusses consulting contract flexibility and shifting from rigid agreements to outcome/value focus—an idea tangentially adjacent to Agency themes. There is implicit reference to adaptability and decentralisation (i.e., allowing for change and focusing on value), but it lacks direct mention of Agentic Engineering, developer/system agency, or AI. The content targets an agile/consulting audience and refers to Scrum, but doesn't explicitly engage with the deliberate design of engineering practices aimed at maximising human or AI agency, systemic observability, or DevOps-craft. No evidence of outdated/criticising content, so no penalties applied.",
     "reasoning_summary": "The article encourages outcome-focused, adaptable consulting engagements and critiques rigidity, concepts adjacent to agency. However, it lacks explicit discussion of Agentic Engineering or its core themes—such as maximising developer or AI agency—making it only marginally aligned to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 9.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on consulting engagement challenges, contract rigidity, and outcome-oriented delivery. It mentions Agile and Scrum but never references agentic principles, autonomous AI agents, contextual intelligence, or modern agentic delivery practices. There is no discussion of AI agent integration, feedback loops, or governance frameworks. Alignment and depth are minimal, as the core of Agentic Software Delivery is not addressed. The target audience is adjacent (Agile consultants/practitioners), but the themes and language do not fit the category definition. There is nothing outdated or actively contra; the material is simply unrelated.",
+    "reasoning_summary": "The content is unrelated to Agentic Software Delivery—no mention of AI agents, contextual intelligence, or agentic practices. It addresses Agile consulting contracts, which does not fit the category definition, making the alignment very weak.",
     "level": "Ignored"
   }
 }

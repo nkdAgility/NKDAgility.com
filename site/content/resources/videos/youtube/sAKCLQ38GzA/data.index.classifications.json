@@ -1439,16 +1439,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "sAKCLQ38GzA",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:33:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of discussing team dynamics and motivation, particularly in relation to the role of purpose and vision in a team setting. However, it does not delve deeply into Scrum principles, roles, or events, and the primary focus is on broader motivational theories rather than Scrum-specific practices. The mention of Scrum is secondary to the overall discussion, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 64.0,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.5,
+    "ai_intent": 7.4,
+    "ai_audience": 8.1,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content directly references Scrum and Scrum Master but focuses mainly on purpose-driven motivation (Simon Sinek, Dan Pink). While it connects these ideas to Agile/Scrum contexts (roles, vision, leadership), it does not deeply discuss Scrum framework events, artifacts, or detailed practices. The main audience aligns with practitioners aiming to enhance Agile team motivation, matching well with Scrum's intended audience. However, most content is about general Agile or leadership, not strictly Scrum, and the framing is more about purpose than the mechanics of Scrum itself.",
+    "reasoning_summary": "Fits the Scrum category partially: it references Scrum and Scrum Master in the Agile context and discusses purpose and leadership, but focuses more on motivational theory than Scrum mechanics. Main themes are only partly aligned.",
+    "level": "Secondary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -2011,6 +2018,25 @@
     "final_score": 40.0,
     "reasoning": "The content explores purpose and motivation—particularly autonomy, mastery, and purpose in Agile teams—drawing from Sinek and Dan Pink. While it touches on autonomy (a precondition for agency), it never discusses the deliberate engineering of agency, systemic observability, DevOps practices, decision decentralisation, or AI collaboration. The angle is philosophical but lacks explicit focus on the mechanics or practices central to Agentic Engineering. The main audience overlaps (Agile practitioners), and the content is focused, but largely motivational rather than agentic. There are no explicit references to Agentic Engineering or its core subdomains.",
     "reasoning_summary": "This content discusses motivation, autonomy, and purpose in Agile, aligning loosely with agency but not the engineering focus or practices of Agentic Engineering. It targets a similar audience but lacks direct or deep engagement with the category's core concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sAKCLQ38GzA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 28.8,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 3.2,
+    "ai_audience": 7.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on motivation, purpose, and leadership within Agile teams, referencing Simon Sinek and Dan Pink. There is no mention, discussion, or exploration of agentic software delivery, AI agents, or their integration with human expertise. The closest topics—autonomy and purpose—are discussed in a human motivational sense and do not touch on agency as a property of intelligent agents within software systems. The audience is reasonably adjacent (Agile practitioners), but the subject matter is largely philosophical/cultural and not technical or systemic. Signal-to-noise is moderate since all material is somewhat relevant to work/teams but not to agentic delivery. No penalties are needed as the content is neither outdated nor actively contradictory.",
+    "reasoning_summary": "This content centers on human motivation and purpose in Agile teams, not on agentic software delivery. There is no discussion of AI agents or autonomous systems, so categorization under 'Agentic Software Delivery' is a poor fit.",
     "level": "Ignored"
   }
 }

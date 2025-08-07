@@ -1499,15 +1499,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "Tye_-FY7boo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:07:11",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product management principles, specifically Vision, Value, and Validation, rather than discussing the One Engineering System (1ES) framework or its components. While it touches on the transition from project management to product management, it does not delve into the integration of tools or processes across teams, nor does it provide insights into the implementation of 1ES. The discussion lacks depth regarding the core themes of 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 23.57,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.26,
+    "ai_depth": 2.42,
+    "ai_intent": 2.05,
+    "ai_audience": 3.08,
+    "ai_signal": 3.17,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on guiding Product Owners through the transition from project to product management using the principles of vision, value, and validation. It does not mention or discuss the One Engineering System (1ES) framework, its principles, or standardization of engineering processes. The main themes are product management mindset, practical tips for Product Owners, and the importance of value-driven development, none of which are tied to 1ES or its core ideas. While the audience overlaps slightly (both technical/Agile practitioners), there is no substantive alignment with 1ES topics such as unified tools, process integration across teams, or standardization. No penalties were needed.",
+    "reasoning_summary": "The content is about vision, value, and validation in product management—not the One Engineering System. There are no direct or indirect references to 1ES principles, integration, or standardization, so fit is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2011,6 +2018,25 @@
     "final_score": 32.0,
     "reasoning": "The content discusses the transition from project to product management, emphasizing vision, value, and validation as key principles for Product Owners. While it addresses some aspects of empowered product development and feedback-driven adaptation, it does not directly address or reference Agentic Engineering, its philosophical underpinnings, or engineering practices maximizing human/AI agency. Explicit mentions of autonomy, decentralization, DevOps, or ethical AI collaboration are absent. The primary audience are Product Owners, with only indirect overlap with Agentic Engineering. The depth is moderate and focused on product management—not engineering practice design. Signal-to-noise ratio reflects a clear product management focus without much tangential material, but also without addressing core Agentic Engineering concepts.",
     "reasoning_summary": "The content primarily targets product management practices for Product Owners, focusing on vision, value, and validation, with minimal overlap to Agentic Engineering. Agency, autonomy, DevOps, and AI-human collaboration are not explored, making the fit low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Tye_-FY7boo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 13.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.6,
+    "ai_intent": 1.8,
+    "ai_audience": 4.5,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on transitioning from traditional project management to product management using 'Vision, Value, and Validation'. While it discusses feedback loops and continuous validation, it never mentions or implies agentic principles: no AI, no agent integration, no proactive system intelligence. The audience (Product Owners) overlaps somewhat with those interested in Agentic Software Delivery, but there's no substantive discussion of AI agents, human-AI synergy, or contextual autonomy, which are central to the category. At best, the content presents generic practices that could be prerequisites to agentic approaches but lacks any direct or meaningful conceptual bridge.",
+    "reasoning_summary": "The content is about product management principles for Product Owners, not Agentic Software Delivery. It lacks references to AI agents, context-aware systems, or agent integration. Fit is low and mostly incidental.",
     "level": "Ignored"
   }
 }

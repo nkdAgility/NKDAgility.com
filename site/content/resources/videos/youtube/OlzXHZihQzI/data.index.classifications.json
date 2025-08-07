@@ -1504,15 +1504,22 @@
     "reasoning_summary": "This content is a good fit for the competence category, as it explores how immersive learning supports skill development and adaptability in Agile settings. It connects experiential learning to building competence, though it doesn’t go into detail about specific methods for nurturing a competence-driven culture, which limits its depth somewhat. Overall, it clearly relates to the ongoing development of Agile expertise."
   },
   "One Engineering System": {
+    "resourceId": "OlzXHZihQzI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:50:18",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning within Agile practices, specifically Scrum, and does not discuss the One Engineering System framework or its principles. While it touches on Agile transformation, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 15.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 6.4,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on immersive learning in Agile environments, mental model shifts, and Agile transformation. There are no direct mentions of One Engineering System (1ES) or its principles, tools, integration, or standardisation focus. Conceptually, the article centers on pedagogical strategies and transformation via training rather than unifying engineering methods or frameworks. The target audience (Agile practitioners, Scrum Masters, coaches) has partial overlap with 1ES, but the subject and intent deviate heavily from 1ES criteria.",
+    "reasoning_summary": "The article discusses immersive learning for Agile transformation, with no reference to One Engineering System (1ES) principles, integration, or standardisation. The fit is minimal and mostly incidental due to audience overlap, not content alignment.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2017,5 +2024,24 @@
     "reasoning": "Direct, explicit references to 'Agentic Engineering' or its labeled core elements are absent, hence the low mention score. Conceptually, the piece aligns in areas such as fostering individual/team agency, experiential learning, and adaptive behaviors—key themes in maximizing agency. However, systemic observability, DevOps-infused craft, ethical AI considerations, and blended human-AI agency are either missing or underdeveloped. The depth is moderate, focusing deeply on immersive, feedback-driven transformation but not on the design of engineering practices or decision frameworks with agentic intent. The intent is adjacent—promoting agency through immersive learning in Agile, but not addressing deliberate engineering practice design. The audience is solidly Agile practitioners/leaders—a fair overlap. Content is focused, nearly all relevant to learner agency in Agile, but not explicitly to agentic engineering as a field or philosophy. No outdated practices or adversarial stance are present, so no penalties were applied.",
     "reasoning_summary": "The content meaningfully discusses team and learner agency within Agile transformation, especially via experiential learning. While it strongly supports autonomy and mindset shifts, it does not address the broader scope or deliberate engineering design that defines Agentic Engineering, so alignment is partial rather than direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OlzXHZihQzI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 12.07,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.55,
+    "ai_depth": 1.3,
+    "ai_intent": 2.3,
+    "ai_audience": 2.25,
+    "ai_signal": 1.87,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses immersive learning in Agile and transformation of mental models but does not directly mention or explore autonomous AI agents, agency, or context-aware intelligence as set out in the 'Agentic Software Delivery' category. There are no explicit or implicit references to integrating AI agents, contextual intelligence, or agentic practices in software delivery. The content is squarely focused on people-based learning and coaching, targeting Scrum Masters and Agile teams, not agentic delivery stakeholders. No mention of technical practices, governance frameworks or modern engineering requirements for agentic delivery is present. All scores are low, justified by only superficial or tangential overlaps, such as encouraging adaptability and reflection.",
+    "reasoning_summary": "This content focuses on human-centered immersive learning in Agile, lacking reference to autonomous AI agents or agentic delivery concepts. Its intent and scope do not align with the Agentic Software Delivery category definition.",
+    "level": "Ignored"
   }
 }

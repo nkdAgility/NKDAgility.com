@@ -1761,16 +1761,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "UfdnQrxv5iF",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the importance of delivery in maximising value, which is a critical aspect of Agile methodologies. While it discusses concepts like feedback loops and adaptation, it does not explicitly address social technologies or frameworks that promote collaboration and decision-making. The discussion is more centred on delivery processes rather than the social dynamics within teams or organisations, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 87.42,
+    "ai_mentions": 3.6,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.5,
+    "ai_intent": 9.3,
+    "ai_audience": 8.8,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The content deeply explores principles central to Social Technologies, such as collaboration (empowered teams, feedback loops), transparency (inspection, adaptation), collective intelligence, and iterative value delivery. It references Agile, Scrum, and DevOps frameworks, giving concrete evidence (DORA metrics, Standish Group) and case studies (Windows 8/10/11) to show value in frequent release cycles. Direct mention of 'Social Technologies' is absent, but strong conceptual alignment and depth are present. The intent aligns with optimising value delivery in adaptive, collaborative settings, and the audience is practitioners/strategists in Agile/DevOps, matching the category’s scope. Content is focused, highly on-topic, with minimal filler.",
+    "reasoning_summary": "This content fits well: it strongly aligns with Social Technologies themes—in particular improvement through collaboration, transparency, and frequent delivery in Agile/DevOps. Direct naming is low, but the substance and audience match the category solidly.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2415,5 +2422,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the philosophical framing of agency per se is not explicit. However, core principles—such as frequent delivery, empowerment to adapt requirements, rapid feedback, and continuous value delivery—align with agentic engineering values. The article explores systemic observability, feedback loops, and decentralized product validation, but it concentrates much more on the mechanics of delivery and value realisation than on engineering practices that explicitly maximize both human and AI agency, decision autonomy, or ethical collaboration with intelligent systems. There are strong overlaps with DevOps and Agile but relatively little that frames these as agentic engineering at a conceptual or intent level, with little explicit audience targeting toward engineers of agentic systems, and signal remains focused. No penalties apply.",
     "reasoning_summary": "The content focuses on frequent delivery, feedback loops, and adaptation—core to DevOps and Agile, and conceptually adjacent to Agentic Engineering. While agency and autonomy are implied through empowerment and rapid value validation, explicit discussion of agentic engineering practices or AI integration is limited.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UfdnQrxv5iF",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 22.27,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.6,
+    "ai_intent": 3.5,
+    "ai_audience": 7.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "There are no direct mentions or discussions of Agentic Software Delivery or autonomous AI agents. The content emphasizes frequent delivery, Agile, DevOps practices, and feedback loops, but does not discuss agency, AI agent integration, contextual intelligence, or human/AI collaboration. While much of the vocabulary (feedback, rapid delivery, DORA, iteration) overlaps with modern delivery, none of the deeper hallmarks of agentic delivery—autonomous agent integration, proactive AI-driven value delivery, governance frameworks for agents, human-in-the-loop design, or agent/architecture synergy—are present. The content’s intent and depth are solidly focused on traditional Agile and DevOps paradigms, targeting practitioners, with high relevance for Agile/Scrum delivery but not agentic principles.",
+    "reasoning_summary": "Content focuses on Agile and DevOps delivery practices with no discussion of agentic software delivery, AI integration, or autonomous agents. Its primary themes align only peripherally, resulting in a weak category fit.",
+    "level": "Ignored"
   }
 }

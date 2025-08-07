@@ -73,15 +73,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it explores Enterprise Agility in relation to organisational strategy, adaptability, and long-term change. It highlights how embedding agility supports continuous improvement and innovation. However, it doesn’t go into detail about specific strategic frameworks or decision-making models, which means the alignment isn’t absolute but remains highly relevant."
   },
   "Practice": {
+    "resourceId": "Enterprise Agility",
     "category": "Practice",
-    "calculated_at": "2025-04-09T15:52:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of Enterprise Agility, which touches on themes of continuous improvement and collaboration. However, it lacks direct mentions of specific practices or actionable techniques that teams can implement. The focus is more on the overarching concept rather than on repeatable actions or methods that enhance team performance.",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 38.25,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.6,
+    "ai_intent": 3.8,
+    "ai_audience": 4.0,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content discusses 'Enterprise Agility' in conceptual and organisational terms, focusing on agility as a broad cultural capability. There are no direct, actionable practices or techniques covered—rather, the text speaks generally about mindsets, capabilities, and systemic change. Terms like 'continuous improvement' and 'collaboration' are thematically adjacent to practice, but not explored in actionable or technique-driven ways as required by the category. The audience is more executive or strategic rather than focused on practitioners seeking concrete actions, lowering the match. There is little explicit mention or detailed discussion of specific, repeatable practices; thus, fit is weak and confidence low.",
+    "reasoning_summary": "The content is conceptual, focusing on agility as an organisational mindset and capability rather than detailing repeatable practices or techniques. It only loosely fits the 'Practice' category; actionable practice discussion is absent.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3130,6 +3137,25 @@
     "final_score": 17.0,
     "reasoning": "The content discusses enterprise agility in terms of organisational responsiveness, adaptability, and systemic change. While it mentions cross-functional and collaborative aspects, it never references human-AI collaboration, AI agency, or socio-technical systems involving AI agents. None of the core Collective Intelligence criteria—human-AI distributed cognition, partnership models, or hybrid decision-making—are present. The intent is focused on organisational and team-based human agility, with no overlap with human-AI collaborative intelligence. Audience partially overlaps (agile practitioners, leaders), but the signal to noise is low for this category since relevance is minimal.",
     "reasoning_summary": "This content centers on scaling human team agility within organizations and does not discuss human-AI collaboration or collective intelligence. It lacks references to AI partnerships or distributed cognition between humans and AI, resulting in poor fit for the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Enterprise Agility",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 24.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 6.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses entirely on broad organisational agility, promoting responsiveness, adaptability, and cross-functional collaboration at an enterprise level. However, it never explicitly references agentic software delivery or the integration of AI agents, contextual intelligence, or agentic practices in software delivery. There are no discussions about autonomous agents, their synergy with human expertise, technical practices, feedback loops grounded in agentic models, or governance frameworks around agentic delivery. Its intent remains firmly rooted in agile transformation and organisational change, not agentic delivery paradigms. Audience overlap exists, but only partially, since some practitioners interested in agentic delivery may also care about enterprise agility; however, the signal is diluted and does not focus on the core subject.",
+    "reasoning_summary": "The content addresses organisational agility but does not mention or align with agentic software delivery, autonomous agents, or related principles. Fit is superficial and coincidental, not intentional or substantive.",
     "level": "Ignored"
   }
 }

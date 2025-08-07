@@ -1499,15 +1499,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it centres on developing leadership abilities and continuous learning within agile teams. While it does mention broader topics like agile transformation and collaboration, the main emphasis remains on building practical skills and guiding teams, which closely aligns with the core themes of competence."
   },
   "One Engineering System": {
+    "resourceId": "gEJhbET3nqs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:52:29",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile leadership and the Scrum framework, with no direct mention of the One Engineering System (1ES). While it discusses the importance of alignment and collaboration within agile teams, it does not delve into the principles, components, or implementation of 1ES. The discussion is centred around personal development in agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 23.65,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 8.6,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on agile leadership, Scrum, team alignment, and agile transformation, but never mentions the One Engineering System (1ES) framework or its unifying tools/processes. No direct or indirect reference to 1ES principles, integration, or standardization appears. While the audience (agile leaders, managers) could overlap with 1ES's target, and some themes like alignment and collaboration are adjacent, there is no substantial conceptual, direct, or deep linkage. The content is high signal for agile leadership, but it is unrelated to 1ES specifically. Thus, only minimal points are awarded for peripheral alignment.",
+    "reasoning_summary": "The content discusses agile leadership and transformation but does not mention or address One Engineering System concepts. Minimal relevance, as it lacks discussion of standardization, tool/process integration, or 1ES principles.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2015,6 +2022,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on agile leadership and team alignment within Scrum.org's workshop. While it discusses enabling teams, cultural change, and organisational agility, it does not explicitly cover Agentic Engineering or its core principles such as maximising human and AI agency, DevOps-infused craft, or ethical AI integration. The main intent is leadership development in agile contexts, not the deliberate design of engineering practices to maximise agency. There is minimal direct mention and limited conceptual alignment; depth is restricted to leadership and team-oriented agile practices rather than agentic engineering frameworks.",
     "reasoning_summary": "This content centers on agile leadership and organisational transformation, with only tangential relevance to Agentic Engineering. It loosely touches on empowerment, but lacks focus on system design for agency or AI collaboration, making it only slightly aligned to the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gEJhbET3nqs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 10.64,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on agile leadership and transformation, specifically through Scrum.org's workshop. There are no direct mentions of Agentic Software Delivery, AI agents, contextual intelligence, or human-agent collaboration. The primary themes are leadership, team alignment, and organizational culture—not the integration of autonomous AI agents or agentic delivery. The closest overlap is the emphasis on continuous improvement and modern agile practices, which is peripheral to the Agentic Software Delivery category. The audience (agile leaders/aspiring leaders) could overlap with Agentic Software Delivery, but the material does not cover agentic systems, principles, or technology in any substantive way.",
+    "reasoning_summary": "Content is centered on agile leadership development and organizational transformation, with no reference to autonomous AI agents, agentic practices, or software delivery involving AI. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

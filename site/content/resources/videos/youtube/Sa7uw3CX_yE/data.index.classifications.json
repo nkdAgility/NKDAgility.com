@@ -1397,15 +1397,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "Sa7uw3CX_yE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:51:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile practices and critiques the concept of true agility versus superficial adherence. While it touches on themes of collaboration and transparency, it does not explicitly mention or align with the principles of the One Engineering System framework. The focus is on agile methodologies rather than the integration and standardisation of engineering processes, which is central to 1ES.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 27.32,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 3.8,
+    "ai_audience": 8.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content does not mention One Engineering System (1ES) at all, nor does it address its core themes—standardising or integrating engineering practices and tools. Instead, it covers agile culture, transparency, counter-Taylorism, and authentic agility. While these may overlap with general software culture and improvement (which can be indirectly relevant to 1ES audiences), the focus is exclusively on mindset, culture, agile practice, and human factors, with zero discussion on unifying tools, processes, or frameworks like 1ES. Audience and signal scores are higher due to targeting technical professionals and being focused, but primary and direct category fit is absent.",
+    "reasoning_summary": "The content lacks any direct or conceptual discussion of the One Engineering System or its key principles. Its core is authentic agile culture, not tool/process unification, so it does not fit the assigned category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1917,5 +1924,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, so the mentions score is low. However, the piece strongly aligns conceptually; it critiques Taylorism and argues for human-centricity, autonomy, transparency, empowerment, feedback, and outcomes—core ideas in Agentic Engineering. While the focus is more on agile philosophy than on deliberate engineering practices or AI agency, much of the advice overlaps with agentic system creation, especially around empowerment and continuous adaptation. The depth is marked by practical suggestions and historical context but lacks technical or systemic observability and AI autonomy, so not a perfect fit. The audience is technical/practitioner-oriented, aligning well. Signal is high as there is little tangential content. No penalties are warranted.",
     "reasoning_summary": "The content advocates for autonomy, transparency, and feedback in agile teams, resonating with Agentic Engineering’s focus on agency and continuous improvement. It aligns conceptually but lacks explicit reference to engineering practices, AI agency, or systemic observability, resulting in a moderate-to-high confidence for this category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Sa7uw3CX_yE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 23.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 5.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content primarily discusses agile culture vs. superficial agile practice, critiquing Taylorism and focusing on concepts like transparency, feedback loops, and value orientation. There is no explicit or implicit discussion about autonomous AI agents, contextual intelligence, human-agent collaboration, or agentic delivery frameworks. No reference is made to AI, systems of work, modern engineering automation, or agent-driven feedback mechanisms, which are central to the category. The closest overlap is a general advocacy for feedback, outcome-focus, and teamwork, but these are not grounded in agentic principles. Audience is somewhat aligned (software/organizational improvement practitioners), but relevance is peripheral.",
+    "reasoning_summary": "This content focuses on differentiating genuine vs. superficial agile practice and critiques management philosophy, not agentic software delivery. It lacks reference to autonomous AI agents, integration, or agentic systems, so fit to the category is very low.",
+    "level": "Ignored"
   }
 }

@@ -1500,15 +1500,22 @@
     "reasoning_summary": "This content is a good fit for the category because it highlights the value of developing skills and expertise within Scrum teams. By focusing on learning, adapting, and sharing experiences, it reinforces the importance of competence in Agile practices, even if the term itself isn’t directly mentioned."
   },
   "One Engineering System": {
+    "resourceId": "2I3S32Sk8-c",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:24:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices and advice for new Scrum teams, which does not align with the core principles of the One Engineering System. While it discusses team collaboration and improvement, it does not address the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 8.877,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses best practices for new Scrum teams, focusing on Scrum principles, retrospectives, and iterative improvement. It does not mention the One Engineering System (1ES) framework, standardized tooling, cross-team process integration, or unification of engineering practices. No themes related to 1ES are present. The audience is Scrum practitioners and Agile coaches, not engineers implementing 1ES. Content is relevant within Agile/Scrum but does not touch on 1ES concepts, intents, or outcomes.",
+    "reasoning_summary": "This content focuses only on practices for new Scrum teams and does not discuss One Engineering System or any of its principles. The topic, intent, and themes do not fit the 1ES category, resulting in extremely low category alignment.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2020,6 +2027,25 @@
     "final_score": 39.0,
     "reasoning": "The content is squarely focused on practical advice for new scrum teams, emphasizing the importance of learning, experimentation, and retrospectives within scrum processes. While it touches on themes such as continuous improvement, team learning, empowerment, and feedback—which are tangentially related to Agentic Engineering—it never explicitly addresses or deeply explores maximizing the agency of humans or intelligent systems, engineering autonomy, or AI-human collaboration as core design principles. Instead, the perspective is that of agile coaching, grounded in scrum best practices and cultural change within teams, without explicit reference to decentralization, ethical AI, systemic observability, or DevOps-infused craft. The content’s audience (agile practitioners, scrum teams) overlaps with Agentic Engineering, but the philosophical and systemic aspects unique to Agentic Engineering are absent. No dimensions warrant penalty deductions as the content is not outdated nor obviously contradictory—the shortfall is purely in relevance and depth, not tone or currency.",
     "reasoning_summary": "This content gives scrum teams solid, practical advice for their first weeks, focusing on experimentation and improvement. While there’s some alignment with agency and adaptive practices, it does not explicitly address Agentic Engineering’s principles—especially regarding the deliberate design for maximizing human and AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2I3S32Sk8-c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 7.88,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on basic Scrum team practices, habits, and learning approaches. There is no mention of AI, agents, contextual intelligence, or agentic delivery frameworks. The discussion is relevant to software delivery teams but remains within classic Agile and Scrum boundaries, focusing on foundational workflow, retrospectives, experimentation, and organizational impediments, not proactive intelligent systems, agent integration, or AI support. Audience (software teams) overlaps slightly, but the main theme, direct mentions, and conceptual depth are unrelated to the 'Agentic Software Delivery' definition.",
+    "reasoning_summary": "The topic is strictly classic Scrum onboarding and practical advice; it contains no discussion of AI, autonomous agents, or proactive intelligent delivery methods, so it does NOT fit the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

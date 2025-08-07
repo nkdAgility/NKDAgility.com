@@ -34,13 +34,23 @@
     "reasoning_summary": "This content is a strong fit for the Evidence-Based Management category, as it emphasises using empirical data and structured approaches to drive organisational agility. It offers practical insights into implementing evidence-based strategies, though it occasionally touches on broader Agile themes. Overall, its focus on measurement, innovation, and informed decision-making aligns well with the category’s core principles."
   },
   "Lean": {
+    "resourceId": "RdwxVidD26i",
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses organisational change and agility, which are related to Lean principles, but the primary focus is on Agile methodologies and Scrum rather than Lean itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 38.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.5,
+    "ai_intent": 4.1,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "Direct Lean mentions are sparse—a single reference among general agile/scrum content, and no lean tools/techniques discussed. Conceptual alignment is sporadic; the article focuses on agile change and continuous improvement, which partially overlaps with lean’s principles (e.g., efficiency, value, culture), but lacks explicit treatment of classic lean methodologies, such as value stream mapping or 5S, and does not discuss specific lean concepts like the Seven Wastes. The core thrust is evidence-based, incremental organisational change leveraging scrum/agile frameworks rather than lean approaches per se. The intended audience—transformation leaders, executives, or practitioners—could match lean interests, but most themes are agile-centric. The signal is diluted by repeated emphasis on scrum, empirical improvement, and stakeholder engagement, with only tangential relevance to lean. There is no penalty for outdated or critical tone, as the article is constructive. The result is a low confidence: Lean elements are present but not meaningfully developed.",
+    "reasoning_summary": "Content relates mainly to agile-driven change rather than Lean; lean is mentioned superficially but not elaborated. No lean tools or techniques are explored—any fit to 'Lean' is partial and tangential.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -2033,5 +2043,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or closely related terminology are absent—the focus is 'organisational agility', incremental change, and evidence-based transformation rather than maximizing agency. Alignment is partial: there are nods to adaptive, feedback-driven change, empowerment, and the role of engineering practices, but the philosophical dimension of agency (human and AI) is largely missing. The treatment of DevOps and engineering practices is present, yet framed as organizational strategy, not agentic autonomy or co-creative decision-making that characterizes Agentic Engineering. Depth is moderate, exploring roles and practices but not at the level of agentic frameworks or systemic observability. The intended audience aligns somewhat (change leaders, practitioners) but is organizational more than engineering agenticity. Signal is good, but focus often rests on transformation process and training rather than principled agency maximization. No significant penalties are necessary.",
     "reasoning_summary": "The content explores organizational agility through evidence-based, collaborative, and engineering-informed change but does not address the core concerns of Agentic Engineering, such as maximizing developer or AI agency, ethical autonomy, or systemic observability. Relevance to the category is tangential.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RdwxVidD26i",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 13.763,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "This content focuses on organisational agility, change leadership, Scrum, and continuous improvement at an organisational level. There are extensive discussions about backlog-driven change, training, and agile leadership coalitions, but there is no mention or clear implication of agentic approaches (AI agents, autonomous systems, contextual intelligence, or integration of such agents into delivery processes). Topics like engineering practices, CI/CD, or DevOps are only referenced in a conventional agile/DevOps sense. The primary audience and themes (change agents, Scrum Masters, leadership for agile transformation) are adjacent to, but do not intersect with, Agentic Software Delivery. The content does not reference, imply, or intend to cover proactive or context-aware agents embedded in delivery systems.",
+    "reasoning_summary": "Content discusses agile transformation, change, and Scrum—not AI agent integration or agency in delivery. No mention or direct relevance to Agentic Software Delivery; fit is minimal and likely coincidental.",
+    "level": "Ignored"
   }
 }

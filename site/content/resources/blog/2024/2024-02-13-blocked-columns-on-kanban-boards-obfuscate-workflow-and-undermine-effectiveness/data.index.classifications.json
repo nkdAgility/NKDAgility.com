@@ -1349,15 +1349,22 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "7JJaRr4g-KA",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:47:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the use of Kanban boards and the implications of blocked columns on workflow efficiency. While it touches on agile practices, it does not explicitly address the Agile Product Operating Model or its core principles. The focus is more on operational issues within Kanban rather than the broader product-oriented mindset or integration of agile methodologies with product management.",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 29.55,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.8,
+    "ai_intent": 2.7,
+    "ai_audience": 5.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content critiques Kanban board practices, especially 'Blocked' columns, focusing primarily on workflow visualization, WIP limits, and transparency. While it touches on Agile themes and operational effectiveness, it lacks direct discussion or framing around the Agile Product Operating Model (APOM), its principles, or the project-to-product transition. The content does not engage with product management integration, organizational modeling, or EBM, but remains focused on a team-level Kanban implementation detail. The audience (practitioners using Kanban/DevOps tools) overlaps with that of APOM in a broad sense, but the core topic is fundamentally Kanban workflow mechanics, not APOM.",
+    "reasoning_summary": "The content is primarily about Kanban workflow practices (specifically Blocked columns) and does not directly address Agile Product Operating Model principles or themes. Fit is weak; overlap is incidental, not central.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1989,5 +1996,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent. The content focuses on transparency and workflow management in Kanban, advocating for practices that avoid disengagement and loss of information—indirectly supporting developer agency, transparency, and feedback. However, the discussion centers on workflow visualization, not the systemic design of engineering practices for maximizing agency. While there is some alignment in promoting transparency and empowering teams, core topics like decentralized decision-making, AI augmentation, or ethical autonomy are not covered. The audience (practitioners, teams) and focus (continuous value, visual management) have moderate fit, but the depth and conceptual tie to Agentic Engineering are limited to surface-process improvement rather than philosophical or systemic agency.",
     "reasoning_summary": "The content promotes better Kanban practices for transparency and responsibility, aligning somewhat with agency and feedback-driven adaptation. However, it lacks substantial focus on agentic design, autonomy, or AI integration, making its fit with 'Agentic Engineering' moderate but not strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7JJaRr4g-KA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 6.63,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.9,
+    "ai_audience": 1.0,
+    "ai_signal": 0.93,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses Kanban board design, focusing on visualization and workflow transparency in Azure DevOps, but does not mention AI agents, contextual intelligence, or agentic frameworks. While relevant to software delivery process optimization, there is no conceptual or direct alignment with the key topics or unique intents of Agentic Software Delivery. The primary audience (practitioners using Kanban/Azure DevOps) only partially overlaps with agentic delivery stakeholders. Much of the discussion is unrelated to integrating agents or agency, and there are no references to modern agentic practices, autonomous support, or feedback loops from AI/agency. No penalties were necessary, as the tone and content are contemporary and not contradictory.",
+    "reasoning_summary": "Content focuses on Kanban workflow transparency, not agentic delivery. No coverage of AI agents, agency, or context-aware intelligence. Only tangential relevance to Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

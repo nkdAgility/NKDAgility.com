@@ -79,15 +79,22 @@
     "level": "Ignored"
   },
   "Professional Scrum": {
+    "resourceId": "6S9LGyxU2cQ",
     "category": "Professional Scrum",
-    "calculated_at": "2025-04-10T15:52:36",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content discusses elements of Scrum, such as Sprints, retrospectives, and coaching, indicating a focus on Scrum practices. However, it lacks a comprehensive exploration of Scrum principles and roles, which limits its depth. The mention of Scrum is present but not the primary focus, as it also touches on broader Agile concepts and immersive learning experiences.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 64.26,
+    "ai_mentions": 3.8,
+    "ai_alignment": 7.9,
+    "ai_depth": 6.7,
+    "ai_intent": 6.4,
+    "ai_audience": 7.6,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content references Scrum several times and discusses feedback loops, retrospectives, coaching, continuous improvement, and learning in the context of agile teams. However, it focuses specifically on the EPS immersive learning experience and its general benefits for agility rather than diving deeply into the ethos, professionalism, empiricism, or accountability unique to Professional Scrum. While it’s related and shares some focus on iterative learning and adaptation, it does not substantially discuss Professional Scrum values, technical excellence, evidence-based management, or the particular expectations of Scrum roles. The audience is likely Scrum or agile practitioners, and the core themes align moderately well, but Professional Scrum is not the sole or strongly centered topic.",
+    "reasoning_summary": "The content aligns with Professional Scrum principles via themes like retrospectives, feedback, and iterative learning, but primarily discusses immersive learning for agility, not the Professional Scrum ethos in depth. Fit is moderate but not primary.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -1989,6 +1996,25 @@
     "final_score": 38.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent; there is no discussion of developer/AI agency, ethical AI, or the philosophical principles essential to the category. The focus is on immersive agile coaching, feedback, retrospectives, and continuous improvement — aligning with related agile practice, but falling short of deliberate agentic design or decision decentralisation. The audience matches agile practitioners, but not specifically those interested in maximising human/AI agency or engineering autonomy. Content is relevant to coaching and learning-driven improvement cycles, but lacks systemic or agentic framing.",
     "reasoning_summary": "The content discusses agile training, feedback loops, and coaching for continuous improvement but does not explore agentic engineering concepts such as developer/AI agency, ethical integration, or decentralised decision-making. The alignment with Agentic Engineering is indirect and limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6S9LGyxU2cQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 17.68,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 4.3,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses immersive learning, team coaching, and feedback loops in the context of Scrum and agile frameworks. While it touches on continuous improvement and structured feedback, it does not reference autonomous AI agents, contextual intelligence, or agentic integration. The primary audience is agile practitioners, but the focus is on human coaching models, not agentic software delivery systems. Direct mentions and conceptual alignment with 'Agentic Software Delivery' are extremely minimal; there are no references to AI-powered agency, agent integration, or supporting frameworks. The bulk of the content addresses training and iterative team development with a human coach, not the interplay of AI agents and human experts as specified by the category. No penalties were applied, as the tone is not critical or outdated.",
+    "reasoning_summary": "This content focuses on immersive agile coaching and team learning, with no meaningful reference to agentic software delivery or autonomous AI agents. The fit is very weak; only general themes like feedback loops are tangentially aligned.",
     "level": "Ignored"
   }
 }

@@ -1489,15 +1489,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "99LDtXqmRu5",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:48:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of the Sprint Goal within the Scrum framework, which is a specific methodology rather than the broader principles of the One Engineering System. While it touches on team collaboration and focus, it does not address the integration or standardisation of engineering processes across teams, nor does it provide insights into the One Engineering System framework or its implementation. Therefore, the content does not align well with the category.",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 14.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers entirely on the concept of the Sprint Goal within Scrum, referencing its importance, how it is created, and its connection to the Product Goal. Nowhere does it mention 'One Engineering System' (1ES), nor does it discuss unification, standardisation, or integration of engineering practices, tools, or processes across departments. The focus is specific to Scrum team guidance and best practices around the Sprint Goal commitment. The audience, intent, and discussion depth are all tailored to Scrum practitioners rather than discussing enterprise-wide engineering system unification. No penalties were necessary; the content is simply not relevant to 1ES.",
+    "reasoning_summary": "This content is solely about defining and using Sprint Goals in Scrum; it does not discuss One Engineering System or unified engineering practices. Alignment with the category is purely incidental and partial at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2010,6 +2017,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on the Scrum Sprint Goal as a mechanism for alignment and clarity within a Scrum team, referencing the 2020 Scrum Guide. There is some adjacency with developer autonomy and decision-making, describing how teams negotiate scope and align with product goals, but it does not mention agentic engineering or deeply explore the maximization of human/AI agency, system observability, or ethical AI. The discussion is centered on Scrum practices rather than the broader, more philosophical approach necessary for agentic engineering. Audience targeting is close (practitioners), but overall conceptual depth and alignment with agentic engineering are moderate at best. No penalties were required.",
     "reasoning_summary": "This content reviews the Sprint Goal's role in Scrum, offering practical advice for team alignment and focus. While tangentially related to developer decision-making, it does not explicitly or deeply engage with the core concepts of agentic engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "99LDtXqmRu5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.8,
+    "ai_audience": 3.5,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content solely discusses the Sprint Goal in Scrum, referencing its definition, purpose, and examples. There is no mention or exploration of autonomous AI agents, contextual intelligence, or agentic principles. No direct or indirect alignment to Agentic Software Delivery is present. Audience is Scrum practitioners rather than those focused on agentic or AI-enhanced delivery. The text is focused but not relevant for the assigned category.",
+    "reasoning_summary": "This content discusses Sprint Goals in Scrum with no reference or alignment to agentic software delivery, autonomous agents, or related topics. It is not a fit for this category.",
     "level": "Ignored"
   }
 }

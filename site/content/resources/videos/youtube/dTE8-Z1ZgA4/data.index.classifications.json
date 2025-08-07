@@ -1355,15 +1355,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "dTE8-Z1ZgA4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:57:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile training and the effectiveness of a Minecraft case study in enhancing team dynamics and engagement. It does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of Agile practices, they do not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 16.725,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content centers on an innovative Agile training case study using Minecraft but never mentions or alludes to Shift Left Strategy. It emphasizes engagement, complexity, team dynamics, and learning application within Agile. There are no references to integrating testing, security, or compliance earlier in the software lifecycle—the essential characteristics of Shift-Left. Audience partly overlaps with practitioners interested in Agile improvement, but the alignment, depth, and signal are all low for Shift Left, reflecting near-zero relevance.",
+    "reasoning_summary": "The content focuses on Agile training via a Minecraft case study without discussing Shift Left Strategy, related practices, or early integration of testing or compliance. Fit is minimal and largely tangential.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1914,6 +1921,25 @@
     "final_score": 31.0,
     "reasoning": "The content provides a detailed account of using a Minecraft-based case study to enhance Agile training, focusing on engagement, complexity, and collaboration. While it addresses ways to increase learner agency and team dynamics, there is no explicit mention or substantive exploration of Agentic Engineering as defined (engineering practices designed to maximize human and AI agency, ethics, systematic feedback, or DevOps ethos). The discussion remains centered on training techniques and does not delve into engineering frameworks, observability, automation, or the integration of AI in the agentic sense.",
     "reasoning_summary": "This piece emphasizes innovative Agile training but does not address the deliberate design of engineering practices or agency maximization central to Agentic Engineering. Its relevance is tangential, focusing on engagement rather than systemic engineering agency or autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dTE8-Z1ZgA4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 13.665,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 2.3,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses Agile training using a Minecraft case study to enhance engagement, represent complexity, and foster team collaboration. There are no explicit mentions, references, or substantial exploration of agentic software delivery. No autonomous agents, contextual intelligence, or human-AI collaboration are described, nor are any underpinning practices, frameworks or governance relevant to agentic principles. The focus is entirely on human learning dynamics and creative training—partially related themes but no alignment to agentic delivery. The content targets Agile practitioners/trainers but does not fit the agentic software delivery audience or intent.",
+    "reasoning_summary": "The content is about innovative Agile training using Minecraft, with no mention or exploration of agentic software delivery, AI agents, or related systems. Only a minimal conceptual overlap through shared emphasis on innovation in delivery approaches.",
     "level": "Ignored"
   }
 }

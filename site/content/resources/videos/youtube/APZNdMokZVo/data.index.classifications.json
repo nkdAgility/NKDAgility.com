@@ -78,15 +78,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "APZNdMokZVo",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:25:28",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While it briefly mentions the importance of quality and risk mitigation, these concepts are discussed in the context of Agile practices rather than DevOps philosophy. The content lacks a strong emphasis on collaboration, automation, or shared accountability, which are central to DevOps discussions.",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 19.8,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.2,
+    "ai_audience": 7.8,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "DevOps is referenced only once, in a generic closing invitation, not as a main topic. Main themes exclusively focus on Agile/Scrum practices, especially the Definition of Done. No principles, practices, or culture of DevOps are discussed. Audience and relevancy are closer due to Agile/DevOps overlap, but the content's purpose, alignment, and depth toward DevOps are minimal. No evidence for penalties.",
+    "reasoning_summary": "Content focuses on Agile/Scrum (Definition of Done, risk, transparency), not DevOps. DevOps is mentioned only in passing, with no discussion of its principles or practices. Fit is weak and tangential.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1966,6 +1973,25 @@
     "final_score": 28.0,
     "reasoning": "The content centers on the Definition of Done within Agile and Scrum, emphasizing quality, transparency, and risk mitigation. While these concepts are indirectly related to some principles of agentic engineering (like team responsibility and feedback), there is no direct discussion of maximizing human or AI agency, decentralizing decision-making, or engineering deliberate agency. The content targets Agile practitioners and touches on DevOps at the end, but it does not address decision-making frameworks, ethical AI integration, or DevOps-infused craft as described for Agentic Engineering. Thus, conceptual and depth alignment are partial and focus remains on practical process guidance rather than agentic design or philosophical treatment.",
     "reasoning_summary": "This content explains the Definition of Done in Agile and Scrum, focusing on quality, transparency, and team alignment. While it briefly mentions DevOps and team ownership, it does not discuss maximizing human or AI agency, decentralization, or agentic frameworks, so alignment with Agentic Engineering is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "APZNdMokZVo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 14.797,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 2.5,
+    "ai_audience": 4.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the Definition of Done in Agile/Scrum, highlighting quality, transparency, and risk mitigation but does not mention agentic software delivery, AI agents, contextual intelligence, or automation. Its alignment is only tangential; the audience (Agile/Scrum practitioners) partially overlaps, but there is no substantive agentic content. There is no discussion of autonomous agents, human-agent collaboration, context-aware intelligence, or agentic delivery frameworks. The signal-to-noise ratio reflects the lack of relevance to agentic principles.",
+    "reasoning_summary": "The content addresses best practices in Agile and Scrum (Definition of Done), but does not discuss agentic software delivery, AI agents, or related principles. Fit is very low and largely incidental.",
     "level": "Ignored"
   }
 }

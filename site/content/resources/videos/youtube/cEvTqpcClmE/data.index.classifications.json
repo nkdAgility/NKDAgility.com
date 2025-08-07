@@ -1,15 +1,22 @@
 {
   "Lean": {
+    "resourceId": "cEvTqpcClmE",
     "category": "Lean",
-    "calculated_at": "2025-04-29T13:34:46",
-    "ai_confidence": 15.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 15.0,
-    "reasoning": "The content primarily focuses on automation and DevOps tools, with no direct mention of Lean principles or methodologies. While it discusses efficiency, it does not align with Lean's core themes of value maximisation and waste minimisation. The depth of discussion is also limited, as it does not explore Lean concepts such as value stream mapping or continuous improvement.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:06",
+    "ai_confidence": 49.7,
+    "ai_mentions": 2.5,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.6,
+    "ai_intent": 6.0,
+    "ai_audience": 6.6,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content promotes incremental improvement and efficiency, mentioning 'continuous improvement' and eliminating bottlenecks—concepts relevant to Lean. However, it never directly cites Lean, Lean principles, or tools (e.g., 5S, Kanban) and is more focused on DevOps automation. Concepts like waste, value stream mapping, or the Seven Wastes do not appear. The main themes are culture change, automation, and pragmatic improvements in tech environments—aligned with the idea of continuous improvement but not deeply Lean-specific. The reference to 'continuous improvement' could be Lean or general, making the fit partial. Audience is technical/practitioner, overlapping Lean's audience but not fully targeted. The signal is decent because the whole text is on improvement, but the Lean connection remains secondary or implied.",
+    "reasoning_summary": "The content aligns partially with Lean by promoting continuous improvement and efficiency but does not explicitly reference Lean principles or tools. The main focus is on DevOps automation and mindset, making the Lean fit marginal and indirect.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -2223,5 +2230,24 @@
     "reasoning": "The content focuses on automating legacy systems by changing mindsets and adopting DevOps and continuous improvement practices. While it discusses autonomy, incremental improvement, and mindset shifts (indirectly aligning with developer agency and feedback-driven adaptation), it never directly mentions Agentic Engineering or addresses AI involvement, ethical autonomy, or the explicit design of agency-maximizing systems. Depth is modest: the focus is automation as a means to improve workflows and organizational culture, rather than engineering frameworks that specifically maximize human or AI agency. The intended audience overlaps with Agentic Engineering (practitioners and leaders interested in improvement and DevOps), and the content remains focused on relevant topics, though philosophical dimensions and decision-making frameworks are more implicit than explicit. No penalties were warranted since it is neither outdated nor contradictory.",
     "reasoning_summary": "This content aligns with Agentic Engineering mainly by advocating for autonomy, mindset change, and continuous improvement in legacy automation. However, it stops short of explicitly exploring agentic practices, ethical AI, or deep engineering frameworks, making the fit relevant but not comprehensive.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cEvTqpcClmE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:06",
+    "ai_confidence": 18.55,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.1,
+    "ai_audience": 4.3,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on mindset shifts, incremental automation, and DevOps for legacy systems, without referencing agentic principles such as autonomous AI agents or context-aware systems. No direct mentions or evidence of agency, intelligence, or agent-human collaboration. It is relevant to software delivery but remains centered on conventional automation, lacking depth or alignment with agentic software delivery as defined. The audience is technical/organizational but not specifically targeting those interested in agentic frameworks. Signal is fair, but noise is present in generalized automation advice.",
+    "reasoning_summary": "Content is about modernizing legacy systems using automation and DevOps but does not discuss integration of agentic AI, autonomy, or contextual intelligence—partial conceptual overlap, but topic does not fit agentic software delivery.",
+    "level": "Ignored"
   }
 }

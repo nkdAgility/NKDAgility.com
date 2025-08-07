@@ -290,13 +290,23 @@
     "level": "Ignored"
   },
   "Product Strategy": {
+    "resourceId": "pDvDdIEi9sj",
     "category": "Product Strategy",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the issues related to handoffs in software development and their impact on agility, rather than focusing on product strategy methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 38.88,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.2,
+    "ai_intent": 4.5,
+    "ai_audience": 4.3,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content predominantly addresses process optimization (handoffs, cross-functional teams, continuous delivery) within software development. While these can indirectly impact product strategy by improving agility and value delivery, the main focus is on practical, operational improvements to team structures and delivery pipelines, not the methodologies or frameworks underpinning product vision, roadmap, or strategic market positioning. 'Product strategy' or related core topics such as vision, roadmap formulation, market analysis, or customer-centric approaches are not directly or deeply discussed. Audience is practitioners (teams, coaches) rather than strategists. There is some tangential relevance due to references to alignment, value delivery, and agility, but it does not substantially explore product strategy as defined by the category.",
+    "reasoning_summary": "Focuses on reducing handoffs for agile software delivery; only tangentially relevant to product strategy as it relates to organizational agility and value, but lacks discussion on vision, roadmap, or strategic planning.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -2330,5 +2340,24 @@
     "reasoning": "Direct mentions are minimal; the term 'Agentic Engineering' is not used, and there's no explicit discussion of maximising human or AI agency as defined. Conceptual alignment exists via advocacy for autonomy (cross-functional teams, end-to-end ownership, shift left), but the emphasis is on Lean, Agile, and DevOps—not on agency as a system property. Depth is moderate because practices are explored thoroughly, yet the philosophical layer about agency is not foregrounded. The intent closely fits by promoting autonomy and collaborative ownership, but it is not explicitly about agentic engineering as a discipline. The audience is technical practitioners and teams, overlapping with but not tailored to 'agentic engineering' advocates. Signal is high—the content consistently discusses relevant engineering and autonomy topics. No penalties are required since the content is timely and does not contradict the framing.",
     "reasoning_summary": "The content strongly advocates cross-functional work, ownership, and reducing silos—ideas related to increasing agency—but does not directly or deeply engage with agentic engineering as a core theme. Its primary framing is as a Lean/Agile/DevOps best practice discussion, moderately aligned with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pDvDdIEi9sj",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 27.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 3.1,
+    "ai_audience": 4.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content is focused on eliminating handoffs to improve software agility, advocating cross-functional teams, flow optimisation, and modern engineering practices like CI/CD and automation. However, there is no explicit or implicit discussion of integrating autonomous AI agents, human-agent synergy, agentic intelligence, agent governance, or agency in software delivery. Automation is referenced, but always in the context of general process improvement, without reference to agentic principles, proactive/grounded intelligence, or AI-support roles. The audience and practices have overlap (modern engineering, flow, cross-functionality), but agentic software delivery's core concepts are not addressed, making fit partial and relatively weak.",
+    "reasoning_summary": "Content is about eliminating handoffs for agility, emphasizing cross-functional teams and automation but lacks any mention of autonomous AI agents, agency, or agentic principles. Fit to Agentic Software Delivery is only superficial and indirect.",
+    "level": "Ignored"
   }
 }

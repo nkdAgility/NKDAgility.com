@@ -1415,15 +1415,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "_Eer3X3Z_LE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:47:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 11.755,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of a product backlog within the Agile and Scrum frameworks, which are not directly related to the One Engineering System. While it touches on collaboration and prioritisation, it does not discuss the principles, components, or implementation of 1ES. The discussion is more about backlog management rather than the integration and standardisation of engineering processes.",
+    "reasoning": "The content exclusively discusses the concept of a product backlog in Agile and Scrum contexts, focusing on definitions, best practices, and challenges. There is no mention, implicit or explicit, of One Engineering System (1ES), nor does the discussion engage with standardisation, tool/process integration, or any framework-level unification that is core to 1ES. The intent is educational for Agile practitioners, unrelated to 1ES implementation or philosophy. Audience overlap is partial, as both could involve engineers, but topic fit is minimal.",
+    "reasoning_summary": "The content is narrowly focused on product backlog in Agile/Scrum, without discussing One Engineering System principles, integration, or standardisation. Only a very slight fit due to possible audience overlap; otherwise, not aligned with the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1926,6 +1933,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on defining and demystifying the product backlog within Agile and Scrum. It covers backlog basics, collaboration, and team understanding, but does not mention or meaningfully discuss agentic engineering, maximizing agency, systemic observability, DevOps-infused craft, or any explicit or implicit agentic practices. The audience (Agile teams and coaches) partially overlaps, but the conceptual fit is weak. There is no discussion of engineering practices or AI integration aligned with agentic engineering. No penalties are applied since content is recent and not contradictory.",
     "reasoning_summary": "This content centers on Agile product backlogs and team collaboration, without addressing agentic engineering concepts or agency-maximizing practices. While relevant to Agile practitioners, it is only tangentially related to the evaluated category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_Eer3X3Z_LE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 7.33,
+    "ai_mentions": 0.15,
+    "ai_alignment": 0.47,
+    "ai_depth": 0.38,
+    "ai_intent": 0.67,
+    "ai_audience": 1.25,
+    "ai_signal": 0.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is an introductory overview of what a product backlog is in Agile/Scrum contexts. It mentions core backlog practices, team collaboration, and understanding but never references autonomous AI agents, contextual intelligence, agentic frameworks, or AI-human integration. There is no discussion of modern agentic engineering practices, proactive agents, or outcome-driven intelligence in delivery. The fit is minimal, as product backlog management forms a substrate of agentic systems but is not presented with an agentic framing or technical detail. Audience overlap (Agile practitioners) accounts for the marginal audience score, but all other dimensions score near zero given the lack of relevant themes.",
+    "reasoning_summary": "This content explains basic product backlog concepts for Agile teams but does not address agentic AI, agent-supported delivery, or contextual intelligence. No meaningful alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

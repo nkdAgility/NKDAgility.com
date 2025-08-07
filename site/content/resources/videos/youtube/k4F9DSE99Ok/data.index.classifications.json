@@ -81,15 +81,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "k4F9DSE99Ok",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:30:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile practices and stakeholder engagement, with only a brief mention of DevOps at the end. While it touches on themes like feedback and collaboration, which are relevant to DevOps, the overall discussion is centred around Agile methodologies rather than the core principles of DevOps. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 29.12,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 7.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content is explicitly focused on Agile, Scrum, and stakeholder engagement. DevOps is mentioned only once in a generic closing and not substantively discussed. While concepts like feedback loops are touched upon, they are framed within Agile, not DevOps principles, culture, or implementation. There is negligible exploration of DevOps philosophies, automation, flow, accountability, or technical DevOps practices. The intent and target audience may overlap with DevOps practitioners interested in collaboration, but the fit is mostly tangential. Thus, confidence is low, with primary alignment being surface-level only.",
+    "reasoning_summary": "Content is Agile/Scrum-centric and only mentions DevOps superficially, without discussing DevOps concepts, practices, or philosophy. The fit to the DevOps category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1998,5 +2005,24 @@
     "reasoning": "The content centers on stakeholder engagement and the impact of feedback famine in Agile teams, focusing on morale, alignment, and collaboration. While these themes touch on feedback-driven adaptation and elements relevant to Agentic Engineering (such as the importance of feedback and stakeholder involvement), the article does not directly reference agentic concepts or frameworks, nor does it explore how engineering practices can systematically maximize human or AI agency. There are no explicit discussions of ethical autonomy, DevOps-infused craft, AI collaboration, systemic observability, or the deliberate design for decentralized decision-making. Depth is moderate as practical steps are given but within a conventional Agile context, not an agentic or engineering-centric lens. The purpose is primarily improvement of team engagement, with strong audience alignment to Agile practitioners. Signal is high with minimal off-topic content but leans more toward practical team advice than agentic engineering discourse.",
     "reasoning_summary": "This article spotlights stakeholder engagement within Agile teams, emphasizing feedback and practical steps for collaboration. While it aligns moderately with agentic principles around feedback loops, it lacks direct references or deeper treatment of Agentic Engineering concepts, resulting in a modest confidence fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 16.31,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.5,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on the importance of stakeholder feedback in Agile teams, discussing engagement, morale, and techniques for maintaining collaboration. There is no explicit or implicit reference to agentic software delivery, autonomous AI agents, agent-human synergy, contextual intelligence, or related engineering practices. The intent is about traditional Agile practices, and there are no signs of AI integration or proactive, context-aware intelligence in delivery. Audience alignment is moderate, as Agile practitioners might overlap with the agentic audience, but topic fit is poor. Very little relevance to 'Agentic Software Delivery'. No outdated practices or negative tone identified.",
+    "reasoning_summary": "Content concerns Agile stakeholder engagement and morale, with no discussion of agentic software delivery, autonomous agents, or AI integration. Only a minor general process overlap. Does not fit the assigned category.",
+    "level": "Ignored"
   }
 }

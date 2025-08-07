@@ -1332,15 +1332,22 @@
     "level": "Ignored"
   },
   "Internal Developer Platform": {
+    "resourceId": "IoUQqtS1U1Y",
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:27:56",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum methodologies and certification, with no direct mention or discussion of Internal Developer Platforms. While it touches on Agile and DevOps practices, these are not aligned with the core themes of IDPs, which are about streamlining development processes and automating tasks. The depth of discussion is limited to Scrum practices, further distancing it from the IDP category.",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 8.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 4.1,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on Scrum, Agile, and DevOps for software development, with no mention or thematic exploration of Internal Developer Platforms (IDPs). Topics like Scrum framework, Agile principles, DevOps integration, and developer skills are well-covered, but these relate only tangentially to IDPs. There is no direct reference to IDPs, their components, architecture, or best practices. The intent and learning objectives are tied to professional Scrum and certification, not to streamlining development via a platform approach. The only relevant overlap is the DevOps mention, but context is limited to process and practices, not platform-centric discussion.",
+    "reasoning_summary": "Content focuses on Scrum, Agile, and DevOps—not Internal Developer Platforms. No direct or substantial relevance to IDPs, with only surface-level overlap via DevOps practices. Misaligned both in topic and intent. Fit is minimal.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -2060,5 +2067,24 @@
     "reasoning": "The course content centers on applying Scrum, Agile, and DevOps in software development, focusing on team collaboration, technical excellence, and continuous delivery. While these themes overlap conceptually with Agentic Engineering—especially in areas like empowerment, systemic observability (CI, TDD), and DevOps—the content does not explicitly address the philosophical or design-driven aspects of maximizing human and AI agency central to Agentic Engineering. There are implicit allusions to developer empowerment and distributed teamwork, but there are no direct mentions or in-depth exploration of agentic frameworks, AI collaboration, or ethical autonomy. The course is technical and practitioner-oriented, matching the audience, but mostly frames topics as practical skills for certification rather than as a deliberate act of agentic engineering.",
     "reasoning_summary": "This course closely aligns with technical and empowerment aspects of Agentic Engineering but stops short of explicitly addressing agency maximization or agentic paradigms. Its primary focus is on practical skills in Scrum, Agile, and DevOps, making it tangential but not central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IoUQqtS1U1Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 21.78,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.4,
+    "ai_intent": 1.7,
+    "ai_audience": 5.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on foundational Scrum, Agile, and DevOps practices for developers, emphasizing teamwork, engineering practices (TDD, CI, architecture), and professional development. There are no direct mentions of agentic, autonomous AI agents, or contextual intelligence as described by 'Agentic Software Delivery.' The course's objective is to prepare for Scrum.org certification, targeting practitioners seeking standard scrum and engineering skills, not agentic transformation. While DevOps, architecture, and automation are included, they lack agency principles, human-AI collaboration, or modern autonomous-agent systems integral to the category. Therefore, there is minimal direct or conceptual fit beyond general software delivery and CI/CD topics.",
+    "reasoning_summary": "The content is about traditional Scrum and DevOps for software delivery—not agentic software delivery. It lacks references to autonomous AI agents, contextual intelligence, or agency, so there is only a minimal fit with the category.",
+    "level": "Ignored"
   }
 }

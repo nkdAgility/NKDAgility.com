@@ -378,13 +378,23 @@
     "level": "Ignored"
   },
   "Forecasting": {
+    "resourceId": "gUxi6u7gQcc",
     "category": "Forecasting",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions 'forecasting completion dates for portfolio items,' which is a relevant aspect of forecasting in Agile frameworks, but it is not the primary focus of the course.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 77.82,
+    "ai_mentions": 6.8,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.8,
+    "ai_intent": 7.9,
+    "ai_audience": 8.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The course explicitly includes 'Forecast completion dates for portfolio items' in its learning outcomes, and 'Forecasting and predictability' as a course topic, directly referencing the category. While forecasting is not the exclusive focus (broader Kanban/portfolio management content is core), it is treated as a targeted module within a larger context of Agile practices. The audience (Agile roles, Scrum Masters, Product Owners) is closely aligned with the category's target. Depth is moderate since actual methods/metrics (like burndown charts) are not detailed in the summary, but the curriculum indicates tangible treatment of forecasting topics. No penalties were required since the content is contemporary and not critical or outdated.",
+    "reasoning_summary": "Forecasting is an explicitly covered topic, with both direct mention and practical alignment, though not the sole focus. Main intent fits the category well. Content aligns reasonably closely with Agile forecasting as defined.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1948,6 +1958,25 @@
     "final_score": 34.0,
     "reasoning": "There are zero direct mentions of Agentic Engineering or its conceptual language. The content centers on Kanban portfolio management practices—principally workflow transparency, strategy alignment, and dependency management—as well as data-driven improvement, which lightly touch upon systemic observability and feedback-driven adaptation. However, the focus is process and portfolio oversight, not on maximizing human or AI agency, ethical autonomy, or agentic principles. It lacks discussion of developer autonomy, ethical AI, or feedback-centric engineering frameworks. The intent and audience partially overlap with Agentic Engineering, but the signal-to-noise ratio is relatively strong due to minimal extraneous content.",
     "reasoning_summary": "The content is focused on scalable Kanban portfolio management and transparency. While it uses some systems-thinking and data-driven improvement elements, it doesn’t address the core concepts of maximising human or AI agency, ethical autonomy, or agentic design practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gUxi6u7gQcc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 2.2,
+    "ai_audience": 3.4,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is solely focused on Portfolio Kanban for portfolio management, alignment, forecasting, and transparency in large organizations. There are no mentions of agentic or autonomous AI concepts, no discussion of integrating AI agents with human expertise, or modern engineering practices relating to agentic delivery. All course topics pertain to workflow visualization and management, lacking any reference to agency, contextual intelligence, or the category’s unique principles. The content targets process practitioners (managers, coaches, etc.), which overlaps partially with the agentic audience but without the technical/AI emphasis required. Signal-to-noise ratio is low for the agentic category due to the total absence of relevant themes.",
+    "reasoning_summary": "Content is about Scaled Portfolio Kanban—workflow management and transparency—not Agentic Software Delivery. No mentions, concepts, or depth relate to autonomous AI agents, agency, or contextual intelligence. Fit is nearly nonexistent.",
     "level": "Ignored"
   }
 }

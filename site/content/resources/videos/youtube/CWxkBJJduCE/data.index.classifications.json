@@ -1443,15 +1443,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "CWxkBJJduCE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:57:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are specific methodologies rather than discussions on the One Engineering System (1ES). While there are mentions of improving code quality and collaboration, these concepts are not directly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES. Overall, the content does not align with the key topics outlined for the One Engineering System category.",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 37.042,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.4,
+    "ai_intent": 2.5,
+    "ai_audience": 3.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses entirely on TDD and pair programming, highlighting their benefits to software architecture, code quality, and team growth. It does not mention or directly discuss One Engineering System, nor does it address the integration, standardization, or unification of engineering processes, tools, or methodologies across teams, which are core to the 1ES category. While themes of system-wide productivity and process improvement are discussed, these are general agile/dev practices rather than 1ES-specific concepts. There is minimal overlap with the category purpose, and the match is mostly tangential, resulting in low confidence.",
+    "reasoning_summary": "Content does not mention or discuss One Engineering System. Focus is on TDD and pair programming, which are general engineering practices, not 1ES-specific. Only minor thematic overlap; overall, the fit with the category is weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1957,5 +1964,24 @@
     "reasoning": "The content focuses on TDD and pair programming, discussing their impact on software architecture, quality, and team learning. While these practices relate to developer autonomy and team empowerment, the article does not explicitly mention or deeply explore the philosophical or systemic dimensions of Agentic Engineering, such as decentralized decision-making, integrating AI, or feedback-driven systemic adaptation. The exploration largely revolves around traditional agile craftsmanship with only indirect alignment to the agentic paradigm. The audience alignment and signal-to-noise ratio are moderate, as the target readers are practitioners interested in improving their craft, but the discussion remains practical and does not extend into deliberate engineering for agency.",
     "reasoning_summary": "The content meaningfully explores TDD and pair programming’s benefits for code quality and team growth, which aligns somewhat with developer agency. However, it lacks explicit discussion of Agentic Engineering principles, AI integration, or feedback-driven autonomy, resulting in moderate confidence for this category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 19.325,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content delves into TDD and pair programming as means to improve software architecture, code quality, team skills, and productivity, but does not mention or discuss agentic software delivery, AI agents, or the integration of contextual intelligence. Any alignment is incidental through references to improved processes, not agentic principles. The audience is technical, which overlaps with the category's targets, but there is no reference to AI, agency, or autonomous systems. Signal is moderate as content remains tightly focused on software engineering practices, not agentic delivery.",
+    "reasoning_summary": "This content focuses on TDD and pair programming, not agentic software delivery. There are no mentions or exploration of AI agents, contextual intelligence, or agentic strategies. Any overlap is non-specific and incidental. Fit is poor.",
+    "level": "Ignored"
   }
 }

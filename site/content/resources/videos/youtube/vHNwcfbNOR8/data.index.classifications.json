@@ -1483,15 +1483,22 @@
     "reasoning_summary": "This content is a good fit for the competence category, as it centres on Agile apprenticeships that promote ongoing learning and skill-building. By highlighting mentorship and professional development, it demonstrates a clear commitment to nurturing competence. However, since the main focus is on apprenticeships rather than competence in general, the alignment is strong but not absolute."
   },
   "One Engineering System": {
+    "resourceId": "vHNwcfbNOR8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:15:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile apprenticeships and personal experiences related to Agile training, with no direct mention of the One Engineering System (1ES) framework. While it discusses concepts related to Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also limited to personal anecdotes and does not provide substantial insights into the principles or implementation of 1ES.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 17.38,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 1.8,
+    "ai_audience": 5.4,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "There are no explicit mentions of One Engineering System (1ES) or its concepts. The content revolves around personal experiences with Agile mentorship, apprenticeships, and community learning, not about standardising or integrating development processes across teams. While the audience might overlap with those interested in frameworks like 1ES, the discussion remains about personal learning, support, and coaching. No integration, tooling unification, or process standardisation is discussed. There is no signal of case studies, best practices, challenges, or any core 1ES themes.",
+    "reasoning_summary": "Content focuses on Agile apprenticeships and mentorship, lacking any discussion of One Engineering System, its principles, or process integration. No direct or conceptual fit to the category definition.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1994,6 +2001,25 @@
     "final_score": 29.0,
     "reasoning": "The content centers on fostering Agile apprenticeships, mentorship, and continuous learning for Scrum Masters and Agile professionals. While these practices enhance professional growth and agency at an individual level, the discussion does not engage with the deliberate design of engineering systems, decentralization, ethical AI, or DevOps-infused craft. There are superficial references to DevOps and scrum, but no substantial treatment of agentic engineering concepts. The audience is technical practitioners, partially matching, and the signal-to-noise ratio is moderate because the focus is on mentorship, not engineering practice transformation.",
     "reasoning_summary": "This content focuses on mentorship and continuous learning in Agile contexts, supporting practitioner growth but not the deliberate engineering of agency or systemic practices central to Agentic Engineering. Alignment and depth with the category are limited and largely indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vHNwcfbNOR8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 5.03,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.45,
+    "ai_depth": 1.3,
+    "ai_intent": 2.05,
+    "ai_audience": 0.78,
+    "ai_signal": 0.82,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on human-centric Agile mentorship, apprenticeships, and support structures for Scrum Masters and professionals. There is no discussion or reference to agentic software delivery, AI agents, contextual intelligence, or the integration of AI with human expertise; all examples are classic, people-driven mentoring forms. The audience fit is for Agile practitioners/learners—not roles specific to agentic/AI delivery. Any overlap is purely tangential (i.e., both relate to evolving delivery models or continuous improvement), but there are no direct or indirect connections to agentic principles. There is no signal of agentic systems, autonomous agents, or intelligent automation.",
+    "reasoning_summary": "Content is about Agile apprenticeships and human mentorship with no mention or discussion of agentic software delivery, AI, or autonomous agents. No thematic, conceptual, or intent overlap with the category.",
     "level": "Ignored"
   }
 }

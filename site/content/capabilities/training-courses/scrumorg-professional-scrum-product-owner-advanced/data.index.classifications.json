@@ -42,13 +42,23 @@
     "level": "Secondary"
   },
   "Leadership": {
+    "resourceId": "-JfGj8NOcre",
     "category": "Leadership",
-    "calculated_at": "2025-02-18T00:02:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Product Owners and their leadership skills in navigating challenges and collaborating with stakeholders, which aligns with leadership themes. However, the primary focus is on the Product Owner role and Scrum practices rather than leadership itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 61.623,
+    "ai_mentions": 2.7,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.5,
+    "ai_intent": 5.7,
+    "ai_audience": 7.9,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The course centers on advanced Product Owner skills: product vision, stakeholder collaboration, agile governance, and value delivery. Leadership concepts arise indirectly through stances like 'Visionary,' 'Influencer,' and decision-making, but explicit, in-depth discussion of leadership in an Agile or DevOps context is limited. Leadership is not directly or frequently referenced. The audience includes leaders and practitioners. Main intent is skills mastery for Product Owners rather than a focus on leadership practices; aspects of inspiring collaboration, influencing, and driving value connect partially. No penalties applied as content is current and neutral.",
+    "reasoning_summary": "Content tangentially aligns with leadership—mentions influencing, collaboration, vision, decision-making—but leadership is not the primary theme or focus. Fit is partial, with moderate relevance to the Leadership category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -2069,6 +2079,25 @@
     "final_score": 36.0,
     "reasoning": "The content is an advanced Scrum Product Owner course with no direct reference to Agentic Engineering as a concept. While related concepts appear, such as stakeholder collaboration, experimentation, value delivery, and decentralised decision-making (aspects that are tangentially related to agentic principles), the focus is strictly on product ownership roles within Scrum. The philosophical depth around the maximisation of both human and AI agency, ethical AI integration, and engineering practices designed for agency is missing. Audience alignment is moderately high, since some pragmatic technical/product leads could overlap with agentic engineering practitioners, but overall, the material is more geared to agile product managers than to agentic engineers or system designers.",
     "reasoning_summary": "This course targets advanced Scrum Product Owners, focusing on topics like value delivery, experimentation, and agile governance. While some themes loosely align with agentic principles, the content lacks direct, substantive engagement with Agentic Engineering concepts such as engineering for human and AI agency or ethical AI integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-JfGj8NOcre",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 7.486,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.9,
+    "ai_intent": 1.3,
+    "ai_audience": 2.4,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The course content focuses on advanced product ownership, emphasizing value delivery, vision, stakeholder management, and agile governance. There is no mention of agentic principles, autonomous AI agents, or the integration of contextual intelligence. The alignment with Agentic Software Delivery is very low: the intent and topics center on human roles, agile frameworks, and classic product management themes. No topics or language signal agent integration or context-aware AI in software delivery. The audience is practitioners in Scrum, but the content is unrelated to agentic delivery. Signal-to-noise is low given the absence of relevant discussion.",
+    "reasoning_summary": "Content is about advanced Scrum Product Ownership, not about agentic software delivery or AI agent integration. It does not match the category’s definition or intent and is only marginally relevant.",
     "level": "Ignored"
   }
 }

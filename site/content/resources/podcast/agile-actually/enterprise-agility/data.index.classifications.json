@@ -183,15 +183,22 @@
     "level": "Secondary"
   },
   "Lean": {
+    "resourceId": "SOXXjw2lnAK",
     "category": "Lean",
-    "calculated_at": "2025-03-14T19:54:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile concepts and discussions, with only a brief mention of 'leanagileprocurement' which does not delve into Lean principles or methodologies. The core themes of Lean, such as waste reduction and continuous improvement, are not addressed, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 25.392,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content centers on effective communication and transparency within agile teams—a core Agile topic—not Lean. The only Lean-related reference is a mention of 'leanagileprocurement' in the podcast host's bio, not in the discussion itself. No Lean principles, wastes, tools, or value stream mapping are covered. There is no substantive discussion or depth on Lean methodologies; the intent is about language in Agile, not value/waste per Lean, and the content is aimed at Agile practitioners with possibly tangential overlap. Signal-to-noise fares better as the bio is on-topic for agile, but only peripherally for Lean.",
+    "reasoning_summary": "Only a passing mention of Lean exists; the main discussion is about language in Agile teams, not Lean principles or practices. This is a poor fit for the Lean category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1939,6 +1946,25 @@
     "final_score": 32.0,
     "reasoning": "The content discusses language, transparency, and effective decision-making in agile teams. While these are foundational for agency, the discussion does not explicitly reference Agentic Engineering or focus on deliberate engineering practices to maximize agency. There are no in-depth explorations of developer agency, AI augmentation, or ethical frameworks. The closest alignment is with communication, which is a support topic but not core to Agentic Engineering. Few direct conceptual ties to the category are present, though the overall audience is technical and some themes are tangentially relevant.",
     "reasoning_summary": "This podcast centers on communication and transparency within agile teams, lightly touching on decision-making. It lacks direct discussion of engineering practices or the deliberate maximisation of human or AI agency, aligning only tangentially with Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "SOXXjw2lnAK",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 8.47,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is entirely focused on traditional Agile practice (precision in language and transparency in teams), discussed by agile coaches. There are no direct mentions of agentic software delivery, AI agents, contextual intelligence, or agent-driven delivery practices. The intent, though solidly Agile-targeted, does not reference or even tangentially include themes of agency, autonomous systems, or the core mechanics and governance of agentic delivery. Audience and context are strictly limited to Agile practitioners, making the fit for Agentic Software Delivery borderline negligible. Confidence is very low per scoring formula.",
+    "reasoning_summary": "This content is about Agile team communication, not agentic software delivery. It lacks any mention or exploration of AI agents, agency, or agent-focused delivery, so the fit for the category is extremely weak.",
     "level": "Ignored"
   }
 }

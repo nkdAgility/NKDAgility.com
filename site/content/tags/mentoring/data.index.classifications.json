@@ -36,15 +36,22 @@
     "level": "Secondary"
   },
   "Tenet": {
+    "resourceId": "Mentoring",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses mentoring within agile, lean, and DevOps environments, which aligns with the principles of continuous improvement and collaboration. However, it lacks explicit references to specific tenets or actionable guiding rules, making it more of a general discussion on the importance of mentoring rather than a focused exploration of tenets. The depth of discussion is moderate, providing insights into the benefits of mentoring but not delving into specific tenets that guide decision-making and behaviours.",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 46.05,
+    "ai_mentions": 1.5,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.3,
+    "ai_intent": 5.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content focuses on mentoring as a developmental practice within Agile, Lean, and DevOps, discussing its benefits, approach, and impact on team and organizational performance. However, it does not directly reference actionable tenets, prescriptive guiding rules, or doctrines (e.g., 'Continuous improvement is a core tenet'). While it touches on adjacent topics like psychological safety, continuous learning, and adaptability, it frames mentoring as a general enabler rather than discussing the direct application or operationalizing of any specific tenet. Alignment and depth are moderate due to the indirect connection, and mentions are low because 'tenet' or specific rules are not cited explicitly. The intended audience and content signal are stronger since it clearly targets practitioners and is mostly on-topic for professional growth in Agile contexts.",
+    "reasoning_summary": "Content discusses mentoring and its value in Agile/Lean/DevOps but does not focus on specific tenets or translate abstract principles into actionable rules. Fit is partial because it addresses context, not core tenets, with no explicit mention of actionable doctrines.",
     "level": "Tertiary"
   },
   "Method": {
@@ -3153,6 +3160,25 @@
     "final_score": 17.0,
     "reasoning": "The content is focused entirely on human-to-human mentoring in agile and DevOps environments. There is no discussion or explicit mention of AI, human-AI collaboration, or collective intelligence as defined by the category. While it addresses collaboration and knowledge transfer, the context is strictly human-driven mentorship, not the partnership or emergent capabilities from human-AI teaming. The intended audience overlaps with technical and agile practitioners, but the rest of the dimensions indicate very little relevance or conceptual overlap with the category.",
     "reasoning_summary": "The content describes traditional mentoring and knowledge sharing among agile professionals, focusing solely on human collaboration. It does not address human-AI partnership or collective intelligence, so its fit to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Mentoring",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 12.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on mentoring, professional development, and knowledge transfer in agile, lean, and DevOps contexts. It makes no direct mention of Agentic Software Delivery, autonomous AI agents, contextual/intelligent systems, or agent-driven processes. The main themes are human-oriented: nurturing, guidance, resilience through mentoring, and building adaptive, skilled teams. No relevant discussion is provided regarding integration of AI agents, agentic governance, feedback loops powered by agents, or architectures for agentic delivery. The target audience is somewhat aligned (agile professionals, leadership) but the topic does not address agentic principles, agent/human interaction, or technical practices foundational to the Agentic Software Delivery category. Thus, alignment, direct mention, and depth are all minimal. No penalties were applied as there is no outdated material or contradicting tone.",
+    "reasoning_summary": "Content focuses on traditional mentoring in agile contexts, not Agentic Software Delivery. It lacks discussion of AI agents, agentic integration, or relevant technical frameworks; therefore, fit with the category is minimal.",
     "level": "Ignored"
   }
 }

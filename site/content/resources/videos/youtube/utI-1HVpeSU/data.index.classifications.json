@@ -997,16 +997,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "utI-1HVpeSU",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-04-10T15:52:26",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content briefly touches on the dynamics of group collaboration versus individual decision-making, which aligns with themes of leadership and team dynamics in organisational psychology. However, it lacks a detailed exploration of psychological principles or theories, and the discussion is more focused on governance styles rather than the psychological aspects of organisational behaviour.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 85.33,
+    "ai_mentions": 2.8,
+    "ai_alignment": 9.0,
+    "ai_depth": 8.7,
+    "ai_intent": 9.3,
+    "ai_audience": 8.9,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 85.0,
+    "reasoning": "The content centers on the psychological dynamics of leadership styles within Agile, comparing autocratic (dictatorship) and democratic approaches. It emphasizes their effects on motivation, engagement, decision quality, and team buy-in—core themes of organisational psychology. While 'organisational psychology' is not directly named, key principles like team empowerment, group behavior, and leadership influence on morale are well-developed. The audience (Agile leaders and practitioners interested in team dynamics and engagement) is well-aligned with the category. Depth of analysis is strong, articulating both risks of dictatorship and benefits of democracy, plus a nuanced middle ground. Very little filler, with clear focus on the psychological elements of organisational behavior. No penalties apply.",
+    "reasoning_summary": "Content directly addresses leadership styles' impact on team motivation, engagement, and decision-making—central to organisational psychology. Alignment and depth are strong, though explicit category terms are infrequent. Fit with the category is high.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1928,5 +1935,24 @@
     "reasoning": "The content analyzes Agile leadership through the lenses of dictatorship and democracy, focusing on striking a balance between directive leadership and team empowerment. It frequently discusses empowerment, collaboration, and distributed decision-making—core aspects of Agentic Engineering (developer agency, decision decentralization). However, it does not explicitly reference 'Agentic Engineering,' nor does it delve deeply into systems observability, AI collaboration, DevOps craft, or explicit engineering frameworks. Its alignment is solid but partial, as philosophical and agency concepts are present but not discussed in the technical, engineering-centric way central to the category.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering, emphasizing empowered teams and balanced leadership in Agile—key agentic themes. While it addresses agency and decision decentralization, it doesn't fully explore technical or systemic facets of Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "utI-1HVpeSU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 11.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.6,
+    "ai_audience": 3.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content centers on styles of Agile leadership (dictatorship vs. democracy) and the importance of balancing direction with collaboration. There are no direct mentions or substantial exploration of agentic software delivery, AI agents, or intelligent automation. The discussion is limited to human leadership models and team dynamics, without connecting to agentic principles, AI, or the integration of intelligent agents into delivery processes. Audience partially overlaps (Agile practitioners), but the content remains unrelated to agentic software delivery's core concepts.",
+    "reasoning_summary": "Discusses leadership models in Agile, not agentic delivery. Lacks references to AI agents, contextual intelligence, or system integration. Only tangentially relevant via audience. Does not fit the 'Agentic Software Delivery' category.",
+    "level": "Ignored"
   }
 }

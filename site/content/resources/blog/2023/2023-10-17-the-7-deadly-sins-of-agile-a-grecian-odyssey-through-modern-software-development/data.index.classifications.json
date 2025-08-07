@@ -1368,16 +1368,23 @@
     "level": "Ignored"
   },
   "Leadership": {
+    "resourceId": "DgJV3wMMjWr",
     "category": "Leadership",
-    "calculated_at": "2025-03-14T21:37:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the challenges faced by agile teams through the lens of the seven deadly sins, which indirectly touches on leadership issues such as accountability, adaptability, and team dynamics. However, it primarily focuses on the pitfalls of agile practices rather than providing a direct exploration of leadership strategies or frameworks. The discussion lacks depth in leadership-specific techniques and does not explicitly address the role of leaders in fostering an agile environment.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 47.147,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.3,
+    "ai_intent": 5.2,
+    "ai_audience": 5.7,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses mainly on the metaphorical 'sins' of agile teams, human pitfalls, and cultural dysfunctions. While it briefly references leadership (e.g., sloth among leadership, issues of accountability), most discussion is oriented towards team-level behaviors, general agility pitfalls, and drawing parallels with Greek philosophy—not directly on leadership in Agile or DevOps per se. The only explicit leadership mention is in passing. The main intent is raising awareness about common agile failings rather than exploring leadership strategies, practices, or frameworks. While some themes touch roles and responsibilities (e.g., accountability, culture, transparency), these are not distinctly framed as leadership issues or approaches. Audience appears to be a broad agile practitioner/coach group, not specifically leaders. Signal is diluted by metaphor and broadness, not direct leadership advice.",
+    "reasoning_summary": "Content delivers agile lessons via Greek sins, focusing on human/team pitfalls with rare and indirect leadership mentions. Only partially aligns with the leadership category; the primary focus is not leadership strategies or frameworks.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1983,6 +1990,25 @@
     "final_score": 31.0,
     "reasoning": "The content is a reflective exploration of human pitfalls in Agile, drawing on Greek philosophy as an extended metaphor. While it discusses elements like feedback, transparency, and value delivery, these are couched within a broader cultural and human lens rather than Agentic Engineering. There is no explicit mention of agentic practices such as systemic observability, DevOps craft, ethical AI, or mechanisms that maximize human or AI agency. Its focus is on psychological and process pitfalls—not on the deliberate engineering of agency. The audience overlaps with agentic audiences (practitioners, Scrum teams), but the primary aim is to caution against common Agile sins, not intentional agentic design. Thus, scores for alignment, depth, and intent are below midpoint; signal-to-noise is higher due to focused, relevant critique, but explicit ties to agentic engineering are minimal.",
     "reasoning_summary": "This content focuses on Agile pitfalls using Greek philosophy as metaphor, primarily addressing human and process issues. While themes like feedback and value delivery are present, there is no substantive discussion or deliberate design intent connected to Agentic Engineering. Relevance to the category is secondary and incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DgJV3wMMjWr",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a thematic, philosophical exploration linking the seven deadly sins to agile software team behaviors. It discusses pitfalls like pride, envy, sloth, and so on, in agile delivery. However, it makes no direct or indirect reference to agentic software delivery, autonomous agents, AI integration, human-in-the-loop systems, contextual intelligence, engineering practices relevant to agentic delivery (CI/CD, observability, etc.), or governance of AI agents. The content is fundamentally about culture, accountability, and human behaviors in agile contexts, not the strategy, implementation, or principles of agentic software delivery. Audience is generally agile practitioners and leaders, not specifically agentic system designers. All scoring dimensions are accordingly low.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category. It discusses human and cultural pitfalls in agile delivery, without any mention or alignment to agentic, AI-driven, or autonomous software delivery topics.",
     "level": "Ignored"
   }
 }

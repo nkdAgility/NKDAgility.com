@@ -1216,15 +1216,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "220tyMrhSFE",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:52:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses workflow management principles related to Caman, focusing on clarity, active management, and continuous improvement. It does not mention Test First Development or its core concepts, nor does it provide any detail on testing practices or success criteria, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 15.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.1,
+    "ai_intent": 1.6,
+    "ai_audience": 6.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the principles of Caman workflow management: visualising workflow, managing items, and continuous improvement within a general agile/team context. There are no explicit or implied references to Test First Development, success criteria definition before implementation, or the importance of automated/manual testing. While some mention of feedback loops and clarity might overlap conceptually with agile/frequent testing mindsets, none of the core Test First Development topics—defining success criteria before implementation, TDD/ATDD, or testing as design/collaboration—are substantively present. The audience is practitioners, partially overlapping, but the depth and alignment to Test First Development are negligible.",
+    "reasoning_summary": "This content is about workflow and process management, not Test First Development. There are no direct or conceptual connections to defining tests first, TDD, or related practices. Overall, it is not a fit for this category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1961,5 +1968,24 @@
     "reasoning": "The content discusses Caman workflow management with principles such as workflow visualisation, active management, and continuous improvement. While these align partially with Agentic Engineering—particularly in feedback loops, transparency, and adaptability—the text lacks direct mention of agentic frameworks, developer/AI agency, or ethical/DevOps aspects. The theme is practical workflow optimisation for teams (audience fit), but is not explicitly framed around maximising agency, ethical AI, or decentralised decision autonomy. There is moderate conceptual overlap, especially around feedback-driven adaptation and process observability, but minimal depth regarding engineering autonomy or AI collaboration. No penalties were assessed since the content is current and not contradictory.",
     "reasoning_summary": "The content introduces principles that relate to clarity, adaptability, and improvement in team workflows, which partially overlap with Agentic Engineering themes. However, it lacks explicit focus on engineering agency, AI collaboration, or ethical autonomy, resulting in a moderate confidence fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "220tyMrhSFE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 20.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 6.4,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content details the Caman workflow management principles: visualising processes, actively managing tasks, and continuous improvement. It is highly focused on agile team efficiency and workflow clarity, but makes no direct or implied reference to agentic software delivery, autonomous AI agents, contextual intelligence, or human-agent synergy. No technical detail pertains to integrating AI agents, observability, or agentic governance. The intent is general workflow/process management, suitable for practitioners but lacking any agentic context. The content is clear and relevant for process improvement but is only somewhat adjacent to 'Agentic Software Delivery' via its mention of feedback loops and continuous improvement, which are generic. No penalties for outdatedness or contradiction applied.",
+    "reasoning_summary": "Content is focused on generic workflow management and continuous improvement without mention or clear alignment to agentic software delivery, autonomous AI agents, or contextual intelligence. Fit with the category is minimal and tangential.",
+    "level": "Ignored"
   }
 }

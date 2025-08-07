@@ -48,16 +48,23 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Sensemaking",
     "category": "Method",
-    "calculated_at": "2025-04-09T15:02:57",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses sensemaking as a process for interpreting complexity and making informed decisions, which aligns with the broader themes of Agile and Lean methodologies. However, it does not provide specific structured procedures or step-by-step methods, which are essential for a higher confidence score in the 'Method' category. The mention of Agile Planning and Continuous Improvement indicates an awareness of methods but does not delve into their specific practices, leading to a lower overall confidence.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 41.85,
+    "ai_mentions": 1.9,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.7,
+    "ai_intent": 5.1,
+    "ai_audience": 7.3,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content repeatedly describes sensemaking as a capability, process, and framework, focusing on organisational decision-making and adaptability. While it touches on procedures such as gathering data and recognising patterns, it clearly distinguishes sensemaking from methods and frames it as an enabling context rather than a structured, step-by-step method. The main purpose, themes, and audience overlap only partially with the definition of 'Method.' Discussion is conceptual and strategic rather than procedural, resulting in low to moderate scores for direct mentions, alignment, depth, and intent. No penalties are applied, as the content is current and does not contradict the category’s framing, but overall fit is partial.",
+    "reasoning_summary": "Partial fit: Content frames sensemaking as an enabling framework/process, not a step-by-step method. It distinguishes sensemaking from methods, focusing on context and decision-making rather than explicit procedures. Procedural depth is limited.",
+    "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -3126,6 +3133,25 @@
     "final_score": 23.0,
     "reasoning": "The content describes sensemaking as an organizational process for interpreting complexity and making informed decisions, focusing on human teams responding with agility. There are no direct mentions or discussion of AI, human-AI collaboration, or any form of collective intelligence as defined. The audience (teams, organizations) and the focus on decision-making have some peripheral overlap, but the core content does not align conceptually or through intent, as it is exclusively about human sensemaking. No penalties were required as the tone is neutral and the content is not outdated.",
     "reasoning_summary": "This content addresses organizational sensemaking and decision-making without referencing human-AI collaboration, collective intelligence, or related themes, resulting in limited relevance to the chosen category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Sensemaking",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 38.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.7,
+    "ai_intent": 3.8,
+    "ai_audience": 4.7,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content discusses sensemaking as a general organisational process for interpreting complexity and informed decision-making. While these are adjacent to Agentic Software Delivery—especially regarding context and feedback loops—there is no explicit mention of AI agents, agency, or software delivery specifics. The discussion remains abstract and lacks direct references to agentic principles, autonomous systems, or integration of AI with human expertise in delivery contexts. The intended audience seems technical or managerial but not specifically focused on software engineering or agentic practices. Content is mostly on-topic for sensemaking but peripheral to Agentic Software Delivery.",
+    "reasoning_summary": "The content is about organisational sensemaking and decision-making, not explicitly about Agentic Software Delivery or the integration of autonomous AI agents. Conceptual overlap is minimal; the fit is tangential and unclear.",
     "level": "Ignored"
   }
 }

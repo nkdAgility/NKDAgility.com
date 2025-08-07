@@ -527,15 +527,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "hjlKdneL4t8",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:46:49",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on establishing a Working Agreement with customers, discussing roles, goals, and agility in project management. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the importance of feedback loops, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 3.7,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on establishing a collaborative agreement and defining roles and responsibilities between customers and providers. It covers aspects of agility, commitment, and roles like Product Owner, but does not mention, discuss, or align with Test First Development practices, principles, or topics such as writing tests before implementation, defining acceptance criteria as a basis for development, automated testing, or feedback loops. No direct or implied reference to Test First concepts is found. The audience may overlap with those interested in agile practices, but the main discussion is organizational, not technical or test-focused. There are no penalties for contradiction or outdatedness.",
+    "reasoning_summary": "The content centers on working agreements and role clarity, not Test First Development principles or practices. No direct or substantial conceptual fit; only a tangential connection to agile teams’ context, not testing approaches.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1975,6 +1982,25 @@
     "final_score": 29.0,
     "reasoning": "The content describes a structured collaborative workshop to create a Statement of Work and clarify responsibilities and commitments between customer and provider. While it references agility, transparency, and collaboration—concepts related to Agentic Engineering—it centers on agreement facilitation rather than the deliberate engineering of systems maximizing human/AI agency. There are no explicit Agentic Engineering references or deep exploration of related topics such as decentralised decision-making, ethical AI, or DevOps craft. The audience (technical practitioners) is loosely aligned, but the signal-to-noise ratio is moderate due to limited direct relevance.",
     "reasoning_summary": "This content outlines a workshop to clarify work agreements and responsibilities. It lightly touches on agility and transparency but doesn't focus on engineering autonomy, agency, or systemic agentic practices, making alignment with Agentic Engineering only tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hjlKdneL4t8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 8.817,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 3.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "This content focuses on facilitating a workshop for collaborative working agreements between customer and provider—primarily targeting project structure, agility level, and roles/responsibilities. It does not mention, imply, or explore autonomous AI agents, contextual intelligence, or agentic software delivery. No agentic practices, AI-human integration, or engineering frameworks characteristic of the category are present. The audience is indirectly technical but more aligned to project governance than advanced software delivery evolution. Therefore, while the intent is collaborative and delivery-focused, it is outside the Agentic Software Delivery scope.",
+    "reasoning_summary": "The content is about workshop facilitation for project agreements and agility. It does not reference or explore agentic delivery, AI agents, or relevant concepts, so it only weakly fits the category, if at all.",
     "level": "Ignored"
   }
 }

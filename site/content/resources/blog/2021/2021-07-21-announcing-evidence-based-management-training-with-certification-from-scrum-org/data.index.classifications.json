@@ -1501,15 +1501,22 @@
     "reasoning_summary": "This content touches on competence by emphasising evidence-based management and ongoing skill development, both key in Agile and DevOps contexts. However, its main focus is on promoting a particular training course, rather than offering an in-depth discussion of competence itself. As a result, while relevant, it doesn’t fully centre on the competence category."
   },
   "One Engineering System": {
+    "resourceId": "XuePm2RAZa0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:40:57",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Evidence-Based Management and Agile Leadership training, which are not directly related to the One Engineering System framework. While there are mentions of leadership and metrics, these do not align with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth on the integration of tools and processes or the impact of 1ES on software quality and delivery timelines.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 17.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.35,
+    "ai_intent": 3.05,
+    "ai_audience": 5.1,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There are no direct references to the One Engineering System (1ES), its principles, components, or objectives. The content is focused on Evidence-Based Management (EBM) and Agile Leadership, emphasizing custom metrics, organisational vision, and leadership, not on the standardisation or integration of tools/processes across engineering teams. There is minimal conceptual overlap, as EBM might loosely align with broader engineering improvement goals, but no substantial discussion of unified systems or frameworks. The intent and signal-to-noise are somewhat aligned with technical/leadership audiences relevant to 1ES, but the core themes (measurement, leadership, agility) are not exclusive or direct matches for 1ES, resulting in a low confidence score for this category.",
+    "reasoning_summary": "Content centers on Evidence-Based Management and Agile Leadership; no mention or substantive alignment with One Engineering System. Main themes are only loosely related, with no depth on standardising or unifying engineering systems. Fit for 1ES is minimal to none.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2019,6 +2026,25 @@
     "final_score": 38.0,
     "reasoning": "The content centers on Scrum.org’s PAL-EBM training, emphasizing evidence-based management, the customization of metrics, and leadership in aligning teams with organizational vision. These elements tangentially relate to agentic concepts, like empowering teams and fostering autonomy. However, there is a lack of direct discussion on the deliberate design of engineering practices that maximize agency for humans or intelligent systems. Key concepts like systemic observability, DevOps philosophy, or ethical integration of AI are not explicitly addressed. The discussion focuses more on leadership mindset, alignment, and measurement, not on agentic engineering or the decentralization of decision-making via engineering practices. Audience fit is reasonable (technical leads/managers), and the content is focused, but the direct fit with Agentic Engineering as defined is modest.",
     "reasoning_summary": "This content lightly intersects with Agentic Engineering, primarily through its advocacy for team alignment and evidence-based practices. However, it lacks direct discussion of engineering practices or systemic agency-maximization, resulting in only a modest categorical fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XuePm2RAZa0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 14.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on Evidence-Based Management (EBM) in Agile contexts and promotes leadership alignment, metrics, and organisational vision. It does not discuss any integration of AI agents, contextual intelligence, or the agentic delivery themes laid out in the definition. There are no direct mentions, implied references, or substantial alignment with Agentic Software Delivery. The discussion is oriented toward metrics, leadership, and culture, not agent-driven or AI-augmented processes. The only slight audience overlap (technical leaders) warrants a modest audience score, but all topical, conceptual, and depth criteria for the Agentic Software Delivery category are not met.",
+    "reasoning_summary": "Content is about Evidence-Based Management for Agile leadership, with no reference to autonomous AI agents or agentic delivery. It does not fit the Agentic Software Delivery category; topical alignment is minimal, audience overlap is limited.",
     "level": "Ignored"
   }
 }

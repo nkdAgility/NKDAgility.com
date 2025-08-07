@@ -1044,15 +1044,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "kgtNo8tGkjS",
     "category": "Windows",
-    "calculated_at": "2025-04-10T15:54:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the migration of a repository from Codeplex to GitHub, with a focus on using Git-TF and Chocolatey, which are tools that can be used in a Windows environment. However, the main topic is not specifically about Windows itself, but rather about version control and repository management. While there are mentions of installing Chocolatey and using PowerShell, these are not explored in depth or in the context of Windows-specific features or issues. Therefore, the content does not align closely with the core themes of the Windows category.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.3,
+    "ai_intent": 0.3,
+    "ai_audience": 0.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on migrating code repositories from Codeplex to GitHub, including use of tools like Git-TF and Chocolatey. While Chocolatey and PowerShell are Windows-centric, the content does not discuss Windows OS itself (installation, configuration, troubleshooting, etc.). There are no explicit mentions of Windows nor is the core purpose to address the Windows operating system or its environment; any references are indirect and incidental. The intended audience is developers needing help migrating code repositories, not specifically Windows administrators or users. Hence, fit is negligible based on the category definition.",
+    "reasoning_summary": "The content is about source control migration using platforms like GitHub and Codeplex, with only incidental references to Windows tooling. It does not specifically address the Windows OS or its management.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1934,6 +1941,25 @@
     "final_score": 7.0,
     "reasoning": "The content is a practical guide focused solely on migrating repositories between Codeplex and GitHub. It discusses tool usage and technical steps with no explicit or implicit references to Agentic Engineering principles such as developer agency, engineering philosophy, decision-making decentralization, or human/AI collaborative autonomy. Its audience is developers, but the purpose is narrow and operational, not aligned with Agentic Engineering's philosophical or systemic themes. There are no direct or conceptual mentions of the category, nor is there any exploration of ethical, systemic, or agentic aspects of engineering. The signal-to-noise ratio is low due to tangential discussions, such as opinions on GitHub's tool quality, without relation to agency maximization.",
     "reasoning_summary": "This content is a narrowly focused technical migration guide with no conceptual or thematic alignment to Agentic Engineering. It neither references nor explores agency, ethics, or engineering philosophy, and is thus not relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 2.93,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.2,
+    "ai_audience": 3.3,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively describes a manual, step-by-step process for migrating repositories from Codeplex to GitHub using standard developer tools. There is no mention or substantive exploration of autonomous AI agents, agency, context-aware intelligence, or modern agentic practices. The discussion does not reference integration of AI with organizational context, delivery processes, or human-in-the-loop AI frameworks. Only procedural migration, tool limitations, and some tool configuration are discussed, which situates the guide as a procedural reference for software developers but not aligned with Agentic Software Delivery in concept or execution.",
+    "reasoning_summary": "The content is a manual migration guide lacking references to agentic principles, AI agents, or autonomous delivery. It does not fit the assigned category beyond generic developer relevance. Fit is minimal and purely tangential.",
     "level": "Ignored"
   }
 }

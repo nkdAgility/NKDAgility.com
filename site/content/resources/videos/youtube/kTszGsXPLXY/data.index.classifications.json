@@ -1432,15 +1432,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "kTszGsXPLXY",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:47:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban as a workflow management strategy, discussing its principles, implementation steps, and metrics for improvement. It does not explicitly mention the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. While there are elements of continuous improvement and metrics, these are not directly tied to the Shift-Left concept, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 13.28,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses starting a Kanban pilot, workflow visualization, cycle time, throughput, and continuous improvement. Nowhere is Shift Left Strategy, or its principles (early testing, security, or compliance integrated in the lifecycle), directly mentioned or described. Kanban metrics use, even in software, does not inherently invoke or model Shift Left Strategy. The focus is on productivity and improvement using Kanban tools, not on early integration of practices to find issues sooner in the lifecycle—the essence of Shift Left. Audience, intent, and signal-to-noise ratio are all misaligned with the category definition, as the content lacks technical, practice-based focus necessary for Shift Left. No outdated or critical tone noted, so no penalties applied.",
+    "reasoning_summary": "Content focuses on Kanban setup and workflow optimization, without mentioning or aligning with Shift Left Strategy principles. It does not address early testing, security, or compliance. Fit with the Shift Left category is very weak and indirect.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1996,6 +2003,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses on practical steps for starting a Kanban pilot, highlighting workflow visualisation, metric analysis, and team improvement. While it touches on some related topics like continuous improvement, feedback, and team participation, there are no direct references to agentic engineering, developer agency, ethical AI, or systemic decentralisation. The approach remains within general Kanban best practices and does not delve into autonomy maximisation, AI collaboration, or philosophical frameworks central to the Agentic Engineering concept. Audience is somewhat aligned given the DevOps/software context, but the main intent and substance are not devoted to agentic principles.",
     "reasoning_summary": "This guide introduces Kanban to improve workflow and foster team participation using metrics and continuous improvement. While somewhat related to agency in teams, it does not explicitly address the core themes of Agentic Engineering, such as human and AI autonomy, ethical integration, or deliberate decentralisation.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kTszGsXPLXY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 13.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.0,
+    "ai_intent": 2.5,
+    "ai_audience": 2.2,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses strictly on Kanban adoption, workflow, metrics (cycle time, throughput), and standard continuous improvement practices. There are no references to AI agents or autonomous systems, nor does it discuss integrating agentic intelligence, human-AI collaboration, agentic governance, or modern engineering practices as required by the Agentic Software Delivery category. While modern toolsets (like JIRA and Azure DevOps) are mentioned, their use is not in an agentic, context-aware, or agent-augmented fashion. The main themes (workflow visualization, team collaboration, metric-based improvement) fit traditional process optimization, not agentic, AI-driven or autonomous delivery paradigms. The intended audience is primarily teams looking to implement Kanban, not those exploring AI-augmented delivery. Thus, there is only minimal conceptual overlap (e.g., mention of telemetry or DevOps in passing), but not at the core of agentic software delivery, making the overall fit poor.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It discusses traditional Kanban adoption and workflow improvements, without any mention or exploration of agentic AI, autonomous systems, or AI-human collaboration in delivery.",
     "level": "Ignored"
   }
 }

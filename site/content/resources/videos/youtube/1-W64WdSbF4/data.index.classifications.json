@@ -939,13 +939,23 @@
     "level": "Primary"
   },
   "Accountability": {
+    "resourceId": "1-W64WdSbF4",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T15:54:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the role of the product owner in the sprint review, emphasising the importance of accountability in fulfilling their responsibilities. It highlights the impact of accountability on team dynamics, trust, and collaboration, which aligns closely with the principles of accountability in Agile practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 17.183,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is primarily an informal workshop debrief focused on technical delivery, feedback, and logistics of a Sprint Review session. There is little to no explicit or deep discussion on accountability as a structural mechanism, nor on outcome ownership by specific roles such as Product Owner. Mentions of goals and retrospectives relate to session improvement rather than role-based or systemic accountability. Audience alignment is somewhat relevant (Agile practitioners), but the main themes do not match the category definition.",
+    "reasoning_summary": "Content centers on workshop execution and feedback, not on structural or role-based accountability in Agile systems. Fit with the Accountability category is low and mostly incidental.",
+    "level": "Ignored"
   },
   "Minimum Viable Product": {
     "category": "Minimum Viable Product",
@@ -1999,6 +2009,25 @@
     "final_score": 23.0,
     "reasoning": "The content is a recap of a workshop for introducing Sprint Reviews. Its focus is on event delivery, participant feedback, technical issues, and lessons from a livestream. There are minor conceptual intersections (empirical approach, feedback loops), but discussion about agency, systemic observability, DevOps ethos, or deliberate engineering for human/AI autonomy is absent. The intention is practical/event-based, not agentic by design. Audience overlap is marginal as workshop attendees may include relevant practitioners, but the theme is too operational/process-centered and doesn’t address the deliberate design of engineering practices for agency. Surface-level nods to improvement/retrospective do not provide depth related to Agentic Engineering. Penalties applied for lack of direct mention, low conceptual/depth fit, and off-center audience/intent alignment.",
     "reasoning_summary": "This content centers on operational workshop logistics and process improvements for Sprint Reviews, not the deliberate design of engineering practices for human or AI agency. Any alignment is incidental, with minimal conceptual overlap and no direct reference to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1-W64WdSbF4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 8.13,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is dedicated to introducing Sprint Reviews and discusses technical/logistical aspects of virtual workshop delivery, using tools like Teams and Mural. However, it does not mention agentic principles, AI agents, AI-human synergy, contextual intelligence, or advanced automation within software delivery. Topics like governance frameworks, autonomous agents, or modern engineering practices specific to agentic delivery are absent. Its focus is classic agile facilitation and workshop logistics, not agentic software delivery, which leads to a very low confidence score, since only basic overlap with modern workflows is present (e.g., mention of technology adoption).",
+    "reasoning_summary": "Content focuses on Sprint Reviews and delivery logistics, not on agentic software delivery, AI agents, or related topics. No substantive alignment with the Agentic Software Delivery category; fit is minimal and mostly indirect.",
     "level": "Ignored"
   }
 }

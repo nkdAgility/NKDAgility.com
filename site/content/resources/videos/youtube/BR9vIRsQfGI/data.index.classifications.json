@@ -1408,15 +1408,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "BR9vIRsQfGI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:07:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss the One Engineering System framework, its principles, or its implementation. While there are mentions of collaboration and communication, these are not directly tied to the core themes of 1ES, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.3,
+    "ai_intent": 1.4,
+    "ai_audience": 2.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused entirely on negotiation strategies for product owners, inspired by 'Never Split the Difference'. There is no mention or discussion of One Engineering System (1ES), its principles, integration efforts, or standardized engineering practices. The themes are about communication and negotiation skills, not software process frameworks or system unification. The audience (product owners/apprentices) may overlap superficially with those interested in 1ES, but all discussion is tangential and not relevant to 1ES in intent or substance. No penalties applied, as the content does not contradict or undermine the category.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It covers negotiation skills for product owners, not standardization, integration, or the 1ES framework. No overlap with core 1ES principles, so classification is not appropriate.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1918,6 +1925,25 @@
     "final_score": 22.0,
     "reasoning": "The content centers on negotiation skills for product owners, drawing from Chris Voss's book. While these skills may play a part in effective product management or support aspects of general agency, there is no discussion of Agentic Engineering, developer autonomy, DevOps principles, feedback-driven adaptation, or engineering practices that maximize human and AI agency. The piece is pragmatic and communication-focused, not targeting the systemic, philosophical, or technical concerns of Agentic Engineering. While the audience is adjacent (product owners within software), virtually none of the defining characteristics of Agentic Engineering are present or referenced, and depth of alignment is absent.",
     "reasoning_summary": "The content delivers negotiation insights for product owners but does not address Agentic Engineering or its key themes. There is no discussion of engineering autonomy, adaptive practice, or AI collaboration—making it a weak fit for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 7.1,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on negotiation skills for product owners, emphasizing empathy, active listening, and communication—a useful topic for Agile teams but not related to agentic software delivery. There are no direct or conceptual references to AI agents, agency in delivery, contextual intelligence, human-agent integration, or modern engineering practices outlined in the category. The audience (product owners) partially overlaps, but the topic lacks relevance to agentic frameworks, AI-supported delivery, or system intelligence. Signal is high for product ownership but not agentic delivery.",
+    "reasoning_summary": "This content is about product owner negotiation skills, not Agentic Software Delivery—lacking AI, agency, or contextual intelligence themes. Any fit is accidental, with no substantive conceptual or topical overlap with the category.",
     "level": "Ignored"
   }
 }

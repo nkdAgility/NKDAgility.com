@@ -1409,16 +1409,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "xk11NhTA_V8",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:12:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'agile' and 'scrum' in the context of discussing judgment and metrics, but it does not delve into specific Scrum roles, events, or practices. The focus is more on general agile principles rather than the Scrum framework itself, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 58.78,
+    "ai_mentions": 3.2,
+    "ai_alignment": 6.9,
+    "ai_depth": 7.3,
+    "ai_intent": 6.6,
+    "ai_audience": 7.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content centers on Agile team dynamics, focusing on psychological safety and the negative impact of judgment tied to metrics like velocity and bug counts. While it references Scrum directly (in a call to action) and discusses metrics relevant to Scrum teams, its primary framing is broadly 'Agile' rather than Scrum-specific. It offers actionable advice (outcomes over outputs, iterating metrics) that can apply within Scrum but doesn't go deep into Scrum roles, events, or artifacts. The target audience appears to be Agile practitioners, Scrum team members, or anyone interested in improving Agile team health, and the discussion is largely relevant, but also touches on general Agile principles and briefly mentions DevOps. The tone is supportive and not satirical or outdated. Mentions of Scrum are present but lightweight and not in-depth.",
+    "reasoning_summary": "Content broadly discusses Agile team challenges with some relevance to Scrum, referencing velocity and metrics. Only a brief mention of Scrum; main discussion is not Scrum-specific but applicable. Partial fit for the Scrum category.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1982,5 +1989,24 @@
     "reasoning": "The content centers on psychological safety and growth in Agile, critiquing harmful practices like judgment via metrics. Its focus on fostering autonomy, open dialogue, and iterating on metrics touches some Agentic Engineering elements (developer agency, feedback-driven adaptation), particularly in the encouragement of adaptability and team empowerment. However, it does not explicitly reference Agentic Engineering, DevOps-infused craft, AI autonomy, or systemic observability. Its main purpose is to address team culture and metrics misuse, not engineering practice design. Thus, while the audience and some concepts slightly overlap, the depth and alignment with Agentic Engineering are moderate and largely incidental.",
     "reasoning_summary": "This piece highlights psychological safety, team autonomy, and metric adaptation in Agile, which partially overlaps with Agentic Engineering concepts on agency and feedback. However, it doesn't directly discuss engineering practice design or address core Agentic Engineering themes, making alignment moderate at best.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 13.05,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.0,
+    "ai_intent": 2.6,
+    "ai_audience": 3.8,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content discusses Agile team culture, pitfalls of judgmental metrics, and strategies for promoting collaboration, openness, and outcome focus. However, it does not mention agentic software delivery, autonomous AI agents, contextual intelligence, or related systems. Its alignment is partially supportive (emphasizing outcome focus and adaptability), but there are no direct or indirect references to embedding AI agents, agency, or advanced governance frameworks unique to the Agentic Software Delivery category. The discussion remains rooted in human/cultural Agile practices, not technological or agentic integration.",
+    "reasoning_summary": "Content focuses on Agile team dynamics, growth, and outcome-driven culture. It does not address AI agents, agency, or the technical integrations described in Agentic Software Delivery. Fit is marginal and largely unrelated to the category.",
+    "level": "Ignored"
   }
 }

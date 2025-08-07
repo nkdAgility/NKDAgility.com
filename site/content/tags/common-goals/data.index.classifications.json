@@ -37,17 +37,23 @@
     "level": "Secondary"
   },
   "Tenet": {
+    "resourceId": "K-0Kt7CHeQw",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 0,
-    "final_score": 82.0,
-    "reasoning": "The content discusses 'Common Goals' as a guiding principle for effective delivery, which aligns closely with the concept of tenets in Agile methodologies. It explicitly mentions how these goals facilitate decision-making, collaboration, and alignment within teams, which are core themes of the category. The depth of discussion is substantial, providing specific examples of how common goals translate into actionable practices like Product Goals and Sprint Goals in Scrum. However, while it is focused on a specific principle, it does not delve deeply into the broader implications of tenets across multiple methodologies, which slightly lowers the confidence score.",
-    "level": "Primary",
-    "reasoning_summary": "This content is a strong fit for the category, as it explores how 'Common Goals' serve as a foundational principle in Agile practices. It clearly connects these goals to team alignment and decision-making, using concrete examples like Product and Sprint Goals in Scrum. While it centres on one principle rather than a wide range of tenets, its detailed discussion makes it relevant and valuable for the category."
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 83.59,
+    "ai_mentions": 6.8,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.5,
+    "ai_intent": 8.2,
+    "ai_audience": 8.4,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content discusses Common Goals as fundamental principles guiding decision-making, with actionable practices in Scrum and OKRs. It connects goals to concrete practices (e.g., Sprint Goal, Product Goal), distributed decision-making, and alignment—aligning with 'Tenet' as applied, actionable rules. It refrains from vague value talk, instead focusing on how common goals inform strategy, execution, and daily work, with operational examples. It targets practitioners, leaders, and strategists interested in applying these concepts. While not using 'tenet' verbatim, it embodies its meaning through concept and operational detail. The discussion is deep, purposeful, and highly relevant, but not a perfect ten due to indirect category mention and slight conceptual generality in some sections.",
+    "reasoning_summary": "Content presents common goals as actionable, guiding principles in Agile/Scrum—aligning strategy, execution, and team decisions. It operationalizes these ideas, fitting the 'Tenet' category closely despite not using the term explicitly.",
+    "level": "Primary"
   },
   "Method": {
     "category": "Method",
@@ -3133,6 +3139,25 @@
     "final_score": 31.0,
     "reasoning": "The content centers on the principle of 'Common Goals' for organizational alignment, focusing on strategy-to-execution coherence in Agile and Scrum. While it discusses distributed decision-making and team collaboration, it refers exclusively to human actors—no mention or implication of human-AI partnerships, distributed cognition involving AI, or any aspect of AI integration. No direct reference to collective intelligence as defined; content remains within the realm of human team alignment. Minimal to no signal for the evaluated category—hence low scores for direct mention, conceptual match, and depth, even if audience and signal are somewhat higher due to relevance for Agile practitioners.",
     "reasoning_summary": "This content addresses organizational alignment and effective collaboration in Agile settings, but focuses exclusively on human teamwork and goal-setting, not on human-AI collective intelligence. There is no mention or indication of AI or human-AI partnerships.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "K-0Kt7CHeQw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 17.87,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 5.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on strategic alignment and the role of common goals in effective delivery systems, discussing mechanisms like Product Goal, Sprint Goal, Nexus Sprint Goal, and OKRs. However, it lacks any direct reference to autonomous AI agents, contextual intelligence, or agency—core elements of Agentic Software Delivery. The depth and alignment with the category are low, as the piece sits squarely in the realm of goal-setting and alignment in agile and Scrum contexts, not the deliberate integration of agentic AI approaches. Audience is moderately relevant due to technical and team references, but overall, the core concepts of the Agentic Software Delivery category are not present.",
+    "reasoning_summary": "The content is about strategic alignment and common goals in Agile/Scrum, not about Agentic Software Delivery. It lacks mention of AI agents, contextual intelligence, or practices vital to the category. The fit is weak and largely off-topic.",
     "level": "Ignored"
   }
 }

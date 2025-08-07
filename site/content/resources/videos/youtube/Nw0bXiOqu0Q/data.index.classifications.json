@@ -208,13 +208,23 @@
     "level": "Ignored"
   },
   "Lean Product Development": {
+    "resourceId": "Nw0bXiOqu0Q",
     "category": "Lean Product Development",
-    "calculated_at": "2025-04-10T15:54:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and their application in product development, which aligns with Lean Product Development themes of efficiency and continuous improvement. However, the primary focus is on Agile rather than Lean specifically, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 61.69,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.8,
+    "ai_intent": 6.3,
+    "ai_audience": 7.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "Direct mention of 'Lean Product Development' is absent; focus is instead on Agile and empirical process control. The article aligns in discussing adaptability, rapid learning, empirical experimentation, and waste reduction—core Lean themes—but always through the lens of Agile. Techniques like iterative validation and rapid customer feedback are outlined (e.g., hypothesis, minimum viable product, abandoning unproven ideas), showing conceptual overlap with Lean, but do not reference Lean-specific tools or explicit Lean thinking. The discussion is deep regarding adaptability and experiment-driven improvement, yet generic Agile framing dominates. The intent is relevant for practitioners interested in maximizing value, learning, and eliminating waste, but target audience is broader (Agile professionals). Most content is focused, with minor digressions (marketing pitch for consulting), but signal-to-noise is acceptable. No outdated/contradictory content or penalties needed. The confidence is moderate because while there is strong conceptual overlap with Lean Product Development, the framing and purpose are primarily Agile-focused, not exclusively or directly Lean.",
+    "reasoning_summary": "Content aligns moderately with Lean Product Development via emphasis on value, rapid learning, and empirical feedback. However, it frames concepts through Agile, rarely mentioning Lean principles/tools, so fit is partial rather than direct.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -2049,5 +2059,24 @@
     "reasoning": "The content focuses on agile’s value during recessions, emphasizing adaptability, continuous improvement, team empowerment, and empirical process control. While it aligns with some Agentic Engineering principles—like empowering teams and decentralising decisions—these are discussed generically within an agile context, not under the philosophy or practice of Agentic Engineering itself. There is no direct mention of 'Agentic Engineering,' no discussion of AI/human collaborative agency, or the DevOps and ethical AI components. The primary audience is agile practitioners, aligning somewhat with the Agentic Engineering category, and the content is focused and relevant. However, Agentic Engineering’s framing—explicit integration of human and AI agency, systemic observability, and ethical automation—remains largely unaddressed. No outdated or antagonistic tone is present; therefore, no penalties are applied.",
     "reasoning_summary": "While the article explores agile’s empowerment and adaptation themes, it lacks direct discussion of Agentic Engineering, DevOps-infused craft, or AI agency. Its focus remains on general agile adoption, only partially aligning with Agentic Engineering’s core definition and audience.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Nw0bXiOqu0Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 16.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.0,
+    "ai_intent": 3.2,
+    "ai_audience": 5.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses solely on Agile adoption during recessions, emphasizing adaptability, customer value, and empirical process control. Nowhere are agentic concepts (autonomous AI agents, contextual intelligence in delivery, or agent-human synergy) mentioned or implied. The discussion remains grounded in human-driven Agile/Scrum evolution, not technical/agentic advancements. No reference is made to AI, agency, modern engineering for agentic delivery, or governance models around agentic systems. The intent is to promote traditional Agile/Scrum to a management/practitioner audience, not to introduce or discuss agentic software delivery. Thus, it is almost entirely unrelated to the category.",
+    "reasoning_summary": "The content discusses traditional Agile adoption and improvement, with no references to agentic software delivery, AI agents, or related integration. It does not fit the intended category except for generic references to adaptability and feedback.",
+    "level": "Ignored"
   }
 }

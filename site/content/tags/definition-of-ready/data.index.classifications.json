@@ -161,17 +161,23 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores the Definition of Ready (DoR) within Scrum. It clearly explains the DoR’s purpose, its connection to the Definition of Done, and offers practical advice on ensuring backlog items are actionable. The discussion is detailed and relevant, providing valuable insights into how the DoR shapes Agile processes and team effectiveness."
   },
   "Discipline": {
+    "resourceId": "Definition of Ready",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the Definition of Ready (DoR) in the context of Scrum, which relates to the discipline of managing backlog items effectively. It directly mentions the concept of readiness and its implications, contributing to the understanding of discipline in project management. However, while it aligns with the core themes of discipline, such as accountability and clarity in processes, the depth of discussion is more focused on the nuances of DoR rather than a broader exploration of discipline itself.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the category as it explores the Definition of Ready within Scrum, highlighting how it supports disciplined backlog management. While it centres on DoR specifics rather than the wider concept of discipline, it still reinforces key themes like process clarity and accountability, making it relevant to discussions about discipline in project management."
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 56.22,
+    "ai_mentions": 2.7,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.2,
+    "ai_intent": 5.8,
+    "ai_audience": 8.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Definition of Ready (DoR) in Scrum, its subjectivity, risks of treating it as objective, and compares DoR to Definition of Done (DoD). It focuses primarily on a practice (DoR) and its pitfalls, rather than on systemic discipline concepts or evolution. There are light references to principles and decision-making (e.g., avoiding false gating, ensuring understanding), and some governance and team agreement aspects. There is moderate conceptual alignment with discipline at the level of shared understanding and standards, but most of the discussion focuses on the mechanics and caveats of a specific practice/tool (DoR), not on the maturation or systemic evolution of Agile or Scrum as disciplines. The INVEST mnemonic and rule-of-thumb sections reference standards for backlog items, but these are practices, not discipline-level discussions. There is limited depth specifically relating to discipline; audience is well targeted (Scrum practitioners), and signal is moderately high due to focus. No penalty for tone or outdatedness.",
+    "reasoning_summary": "Content focuses more on DoR as a practice and its pitfalls than on systemic discipline principles. Only partial fit to the Discipline category; moderate alignment, minimal depth on discipline evolution or governance.",
+    "level": "Tertiary"
   },
   "Scrum Values": {
     "resourceId": "Definition of Ready",
@@ -3114,6 +3120,25 @@
     "final_score": 3.0,
     "reasoning": "The content centers on backlog item readiness, team understanding, and collaboration in a Scrum context. However, it does not discuss human-AI collaboration, distributed cognition with AI agents, or any patterns of collective intelligence as defined. All collaboration discussed is entirely among humans, without mention or implication of AI agency or partnership. As such, alignment, depth, and direct mentions are minimal; the audience is moderately aligned (Agile practitioners), but the focus is not on collective intelligence as specified in the category.",
     "reasoning_summary": "This content focuses on human team collaboration and backlog item readiness in Scrum, with no discussion of human-AI partnerships or the emergence of collective intelligence per category requirements. Fit is weak for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Definition of Ready",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 18.85,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 6.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on the 'Definition of Ready' in Scrum, clarifying requirements for backlog items and proper practices for backlog management. There is no mention of autonomous AI agents, context-aware intelligence, or agentic principles. The discussion is purely about human-driven process clarity, guidelines (INVEST), and potential issues with DoR practices. None of the key enablers, governance, or mechanisms of agentic software delivery are explored, nor is there any depth or conceptual linkage to AI integration for delivery or outcome-focused evolution; no signal of contextually intelligent systems or agentic delivery. Audience alignment is moderate (software practitioners).",
+    "reasoning_summary": "Content is focused strictly on Scrum practices for backlog readiness. It lacks any discussion or themes related to agentic software delivery and does not align with the category definition. Fit is minimal and almost entirely incidental.",
     "level": "Ignored"
   }
 }

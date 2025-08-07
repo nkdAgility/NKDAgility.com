@@ -1153,13 +1153,23 @@
     "level": "Primary"
   },
   "Lean": {
+    "resourceId": "PjYSLMnBHhI",
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the need to reassess management practices and adopt a lean, outcome-focused approach, which aligns with Lean principles. However, the primary focus is on Agile methodologies and practices, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 61.155,
+    "ai_mentions": 3.7,
+    "ai_alignment": 6.5,
+    "ai_depth": 5.9,
+    "ai_intent": 6.8,
+    "ai_audience": 7.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content's direct mention of 'lean' is limited to a single reference near the end. While the narrative repeatedly advocates for principles that align with Lean—such as value over output, experimentation, continuous improvement, and data-driven discovery—it frames them primarily within the context of Agile, Evidence-Based Management, and Product Goals. There are no explicit discussions of Lean-specific methodologies (e.g., value stream mapping, Kaizen, 5S, JIT, Seven Wastes) or case studies illustrating Lean implementation. The focus remains on shifting organizational mindset from output to outcome (an overlapping Lean/Agile concern), but Lean is not a central or deeply explored framework. The audience—senior practitioners or strategists in product/organizational change—does overlap with Lean's target. The signal is moderately strong; most content is relevant to process improvement, but only a modest portion distinctly centers on Lean as defined. No penalties applied, as the content is current and neutral-to-supportive.",
+    "reasoning_summary": "While Lean is mentioned and some aligned concepts are discussed, the focus is mostly on Agile, experimentation, and product goals. Lean principles underpin arguments but aren't the central or deeply discussed topic—fit is partial, not core.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -2057,5 +2067,24 @@
     "reasoning": "The content directly explores concepts like experimentation, outcome over output, and adapting practices for cognitive work. It strongly aligns with feedback-driven adaptation and outcome-driven work, emphasizing data-driven learning. However, while it references DevOps, autonomy, and the evolution of practices, it does not explicitly address the maximization of human/AI agency, ethical AI, systemic observability, or decision-distribution—core aspects of Agentic Engineering as defined. There are indirect connections through themes of decentralization, modern product management, and agility, but explicit mention or deep discussion of Agentic Engineering is missing. The signal-to-noise ratio is high due to focused argumentation on work practices, yet the philosophical dimension of agentic systems is only partially present.",
     "reasoning_summary": "This content aligns with Agentic Engineering by focusing on adaptive, experimentation-driven practices in agile organizational strategy. However, it lacks explicit consideration of human/AI agency or the full systemic perspective central to the category, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PjYSLMnBHhI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 30.56,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.9,
+    "ai_intent": 2.7,
+    "ai_audience": 7.6,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content focuses on product goals, experimentation, evidence-based management, and transitioning from traditional to agile delivery practices. While it emphasizes data-driven discovery, outcomes, and modern approaches relevant to software delivery, there is no explicit mention or exploration of agentic software delivery concepts: no discussion of AI agents, context-aware intelligence, human-agent integration, agent autonomy, or related engineering practices. Audience and signal scores are higher due to targeting agile/software practitioners, but direct references, conceptual alignment, and depth in the 'agentic' context are low. No penalty is warranted.",
+    "reasoning_summary": "Content is about agile strategy, experimentation, and product goals, not about integrating autonomous agents or agentic delivery principles. Only a partial thematic overlap exists through modern software delivery practices.",
+    "level": "Ignored"
   }
 }

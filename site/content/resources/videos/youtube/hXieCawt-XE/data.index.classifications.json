@@ -46,16 +46,23 @@
     "level": "Ignored"
   },
   "Professional Scrum": {
+    "resourceId": "hXieCawt-XE",
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T19:23:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban, a methodology distinct from Scrum, with only a brief mention of its application in Scrum teams. It lacks in-depth discussions on Scrum principles, roles, or practices, which are essential for alignment with the Professional Scrum category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 44.03,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.1,
+    "ai_intent": 4.4,
+    "ai_audience": 5.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct mentions of Scrum and Professional Scrum are minimal, featuring only a brief section noting that Kanban can be combined with Scrum. The primary focus is on Kanban as a method, not Professional Scrum’s ethos or principles. Some elements (continuous improvement, empiricism, transparency) are compatible but generic, not explored from a Professional Scrum perspective. The audience may overlap (team practitioners), but the content’s intent is mainly to explain Kanban, not to reinforce or deeply explore the ethos, values, or unique practices of Professional Scrum. The only touchpoint is the paragraph discussing use with Scrum Teams, but this is not elaborated from a Professional Scrum philosophy or accountability angle. No conflict with Professional Scrum, but the focus and depth are not a strong fit for this specific category.",
+    "reasoning_summary": "The content explains Kanban practices and only briefly references Scrum. It lacks depth, intent, and conceptual focus on Professional Scrum’s ethos or principles; thus, fit is weak and mostly tangential.",
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1982,6 +1989,25 @@
     "final_score": 37.0,
     "reasoning": "There are no direct mentions of Agentic Engineering or its synonymous concepts. While Kanban’s pull systems and continuous improvement bear conceptual resemblance to agency-maximizing practices, the content focuses exclusively on workflow efficiency, bottleneck management, and implementation details without explicit reference to decentralization, automation, or the deliberate enhancement of human or AI agency. There is mild thematic overlap in promoting team autonomy and empirical adaptation, but the discussion does not address the philosophical, ethical, or AI-augmented aspects central to Agentic Engineering. The intended audience is practitioners of workflow/process optimization, which partially overlaps, but the primary aim and signal stay firmly within Kanban methodology, not the broader, agentic paradigm. No penalties are necessary, as the content is current and neutral.",
     "reasoning_summary": "The content examines Kanban as a workflow optimization tool, with surface-level thematic overlap around team autonomy and improvement. However, it does not explicitly discuss or explore Agentic Engineering, its principles, or the central goal of maximizing agency in humans or intelligent systems.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hXieCawt-XE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 4.82,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.5,
+    "ai_intent": 0.9,
+    "ai_audience": 0.12,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content provides a thorough, practical guide on traditional Kanban practices focusing on workflow visualization, WIP limits, bottleneck management, and incremental improvement. There are no explicit or implicit references to autonomous AI agents, context-aware intelligence, human-agent synergy, or agentic design, as defined by Agentic Software Delivery. The discussion is rooted in conventional process management techniques common in Agile contexts, with passing references to Scrum and Lean but none to agentic or autonomous systems. The audience is mainly practitioners seeking workflow efficiency via Kanban, not those interested in AI-driven, agentic transformation. While the discussion on flow and improvement tangentially overlaps with some outcomes of agentic systems, it lacks the central themes and novel practices outlined in the Agentic Software Delivery category.",
+    "reasoning_summary": "This content is focused entirely on traditional Kanban practices for workflow efficiency. It lacks any discussion of AI agents, automation, or agentic principles, so does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

@@ -1437,16 +1437,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "TzhiftXOJdw",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:06:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses agility in a broad sense, touching on the challenges traditional organisations face when adopting agile methodologies. While it briefly mentions 'agile' and 'scrum' towards the end, the primary focus is on the general concept of agility rather than the specific principles, roles, or practices of Scrum. The discussion lacks depth in Scrum-specific topics such as roles, events, or artifacts, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.4,
+    "ai_intent": 4.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content deeply explores organisational adoption of Agile mindsets and cultural change, but does not directly discuss Scrum or its framework roles, events, artifacts, or core mechanics. The focus is broad 'Agile' transformation, mentioning only methodologies/tools at a surface level. No references, explicit or implicit, to Scrum principles, team dynamics, events, or Scrum-specific vocabulary are present. The audience overlaps somewhat, as Scrum practitioners often participate in Agile adoption, but the content targets a general 'traditional organisation' and change management context. Thus, fit with 'Scrum' is partial and mostly indirect.",
+    "reasoning_summary": "Content focuses on general Agile adoption, culture, and transformation in organisations, with no direct or substantial discussion of Scrum roles, events, or artifacts. Alignment to the Scrum category is partial and indirect; fit is weak.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -2011,5 +2018,24 @@
     "reasoning": "The content discusses organisational transformation towards Agile, emphasizing decentralisation, cultural change, team empowerment, and continuous adaptation. These ideas strongly overlap with themes of agency, decentralised decision-making, and feedback-driven change. However, the piece never names Agentic Engineering or directly invokes AI, engineering craft, or observability; its framework is more about cultural and organisational agility. The conceptual fit is moderate—developer agency and feedback loops are addressed, but ethical AI, DevOps-infused craft, and engineering/systemic specifics are not. The depth is good for organisational agility, but lacks explicit treatment of agentic software engineering. Audience fit is strong, as it speaks to technical and organisational leaders. There's little filler, keeping the signal high.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by emphasizing decentralised structures, cultural change, and empowered teams. While it echoes agency themes, it lacks direct discussion of agentic engineering practices, AI collaboration, or technical frameworks, making the fit relevant but not deep or explicit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TzhiftXOJdw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 7.76,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is dedicated to Agile transformation in traditional organizations, focusing on cultural and organizational readiness, deep adoption, and the benefits of agility. However, at no point does it mention or imply concepts central to Agentic Software Delivery such as AI agents, contextual intelligence, integration between agents and human expertise, or modern technical agent-driven practices. The audience is adjacent (business and technical transformation leaders), but there is no connection to agentic principles, AI, or autonomous systems in software delivery. Thus, the match is extremely weak on every dimension.",
+    "reasoning_summary": "This content exclusively addresses cultural, structural, and mindset shifts for true Agile adoption; it does not reference or align with Agentic Software Delivery concepts, AI agent integration, or technical enablers. Fit is extremely poor.",
+    "level": "Ignored"
   }
 }

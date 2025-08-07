@@ -675,15 +675,22 @@
     "level": "Secondary"
   },
   "Continuous Delivery": {
+    "resourceId": "kORUKHu-64A",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:32:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and governance, which are not directly related to Continuous Delivery. While it touches on Agile practices, it does not explore Continuous Delivery principles, automation, or the delivery of incremental improvements. The focus is on governance within Scrum rather than on the Continuous Delivery process itself.",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content exclusively addresses the interplay between Scrum and governance, with a focus on debunking myths about Scrum's lack of governance. There is no substantive or explicit discussion of Continuous Delivery principles, automation, deployment practices, or related tooling. The content only tangentially mentions value delivery—a term also relevant to many agile contexts not exclusive to Continuous Delivery. It does not reference Continuous Delivery, nor does it substantially align with the category's core topics. Audience and signal scores are modest: while the piece targets agile practitioners (who overlap with Continuous Delivery audiences), its signal-to-noise for this category is low given off-topic focus. No penalties were necessary as there are no outdated or contrarian elements.",
+    "reasoning_summary": "The content focuses on Scrum and governance rather than Continuous Delivery. There is no explicit reference or substantial thematic overlap, so the fit is minimal and mostly coincidental. Not suitable for the assigned category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1992,5 +1999,24 @@
     "reasoning": "The content focuses on correcting the misconception that Scrum lacks governance, emphasizing the importance of regulatory compliance and organizational standards. While it addresses balancing flexibility with compliance, the discussion remains grounded in governance within Agile and Scrum contexts, not in agentic engineering principles. There is minimal to no explicit mention of maximizing human or AI agency, systemic observability, DevOps automation, or ethical AI integration. The content is aimed at practitioners interested in practical governance within Scrum, not at those advancing agency-focused engineering frameworks. Signal-to-noise is moderate, as the focus is clear but not aligned with agentic engineering’s specific philosophical pillars.",
     "reasoning_summary": "This content explores the relationship between Scrum and governance, focusing on compliance and standards, but does not address the core themes of Agentic Engineering such as maximizing human or AI agency. The alignment with the category is low and largely incidental.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 11.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on Scrum and governance, emphasizing Agile's compatibility with regulatory compliance and internal standards. There is no discussion of agentic software delivery concepts: no mention or exploration of AI agents, contextual intelligence, or human/AI collaboration. Governance is discussed only in the traditional sense—process, compliance, and maintaining standards within Scrum. The intended audience is Agile practitioners, which is closer to the Agentic Software Delivery audience, but without any conceptual overlap with agentic intelligence or delivery. No obsolete or contradictory references are present. The fit is very tenuous, hence the low confidence.",
+    "reasoning_summary": "This content addresses Scrum and governance but lacks discussion of autonomous AI agents, contextual intelligence, or agentic delivery concepts. It does not fit the Agentic Software Delivery category beyond very broad process overlap.",
+    "level": "Ignored"
   }
 }

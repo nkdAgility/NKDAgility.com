@@ -1430,16 +1430,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:40:02",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the transformation of feature delivery through smaller experiments, which aligns with the principles of continuous improvement and iterative processes. However, it primarily focuses on the technical aspects of software development rather than explicitly addressing social technologies or collaboration frameworks. While it mentions customer feedback and a culture of experimentation, these are secondary to the main narrative about feature delivery, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 83.7,
+    "ai_mentions": 2.4,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.6,
+    "ai_intent": 8.7,
+    "ai_audience": 8.8,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "Direct mention of 'social technologies' is absent, accounting for the lower mentions score. However, the content is strongly aligned with the category: it discusses iterative experimentation, continuous improvement, customer-centric development, feedback loops, and a cultural shift—all key social technologies themes. The depth is robust, reflecting on mindset changes, risk reduction, and the impact on team collaboration. The main intent is to illustrate an adaptive, collaborative, and learning-driven approach to feature delivery, meant for practitioners and improvement-minded professionals. The signal is high, as most content directly supports the theme, with minimal off-topic material. No penalties were triggered, as the tone is positive and content is current.",
+    "reasoning_summary": "Strong conceptual and thematic alignment with 'Social Technologies' via its focus on experimentation, team learning, feedback, adaptability, and continuous improvement, though lacking explicit mentions by name. Fit is clear and substantial.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2036,5 +2043,24 @@
     "reasoning": "Direct mentions are very limited, as 'Agentic Engineering' is never named or referenced, resulting in a low 'mentions' score. However, the content's themes of breaking work into small experiments, rapid feedback, risk reduction, and customer-centric iteration are conceptually adjacent to Agentic Engineering. The main intent aligns with maximizing developer (team) agency and empirical adaptation—core to the category. Depth is good but the discussion remains practical rather than philosophical; it doesn't explicitly address systemic observability, AI augmentation, or autonomy across both human and intelligent systems. The audience is technical practitioners, which is a fair match. The signal-to-noise ratio is high—nearly all content is on-topic—but lacks explicit focus on agentic principles or terminology.",
     "reasoning_summary": "The content strongly supports iterative, feedback-driven development and increased team agency, which aligns with Agentic Engineering themes. However, it lacks explicit discussion of agentic philosophy, autonomy, or AI integration, making it well-aligned but not a perfect fit for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WEYf9jWG9wk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 28.682,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.9,
+    "ai_intent": 3.5,
+    "ai_audience": 4.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "There are no direct mentions of Agentic Software Delivery or autonomous AI agents. The content centers on iterative delivery and continuous improvement via small experiments, aligning with modern agile thinking, but lacks substantive discussion on agentic integration, contextual intelligence, or AI agency. The audience is practitioners in software delivery, which somewhat aligns, and the intent is about bettering delivery practices. However, signal-to-noise is modest since the discussion never touches on autonomous agents, agentic design, or the enabling technology/core principles of Agentic Software Delivery. No outdated or critical tone is present, so no penalties apply.",
+    "reasoning_summary": "Content discusses agile/iterative delivery but never addresses AI agents, agency, or agentic software delivery principles. Thematic overlap on experimentation and improvement is partial, so fit with Agentic Software Delivery is low.",
+    "level": "Ignored"
   }
 }

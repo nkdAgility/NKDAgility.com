@@ -1397,16 +1397,23 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "KXvd_oyLe3Q",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:15:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on DevOps practices and technical debt rather than the Agile Product Operating Model. While it touches on themes of efficiency and team dynamics, it lacks direct references to the principles of APOM, such as product-oriented mindsets or continuous delivery in a product context.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 47.9,
+    "ai_mentions": 1.6,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.6,
+    "ai_intent": 4.7,
+    "ai_audience": 7.5,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses primarily on DevOps transformation, technical debt, and organizational effectiveness. While there is thematic overlap—discussing cross-team coordination, ownership, simplification, and value delivery—the discussion is centered on DevOps engineering practices, not the Agile Product Operating Model or its unique product management alignment. The content lightly touches on elements relevant to APOM, such as product-centricity and organizational shifts, but product management principles, professional Scrum integration, and governance structures are largely absent. Most of the audience focus and examples point towards engineers and DevOps practitioners rather than APOM's broader product or executive audience.",
+    "reasoning_summary": "The content tangentially aligns with APOM by addressing organizational change and value, but its main focus is DevOps transformation, not product operating models. Only a partial conceptual overlap exists; direct or deep APOM discussion is missing.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -2026,5 +2033,24 @@
     "reasoning": "The content provides a detailed real-world DevOps transformation case focusing on simplification, technical debt, team ownership, and the value of skill-building over outsourcing. Although it thoroughly addresses developer agency, ownership, and value delivery, it doesn't directly use 'Agentic Engineering' language or overtly frame these practices through the philosophical lens of human/AI agency or engineered autonomy. Depth is solid, but the primary vocabulary is DevOps-centric. No contradictions or outdated references noted; no penalties applied.",
     "reasoning_summary": "This piece aligns moderately with Agentic Engineering by emphasizing developer agency, ownership, and continuous improvement, but stops short of explicitly framing these as agentic or discussing human/AI autonomy at a systemic level. Its core focus remains classic DevOps transformation.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KXvd_oyLe3Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 34.549,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.9,
+    "ai_audience": 7.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on DevOps transformation, technical debt, team dynamics, and modernization—aligned with some modern software delivery practices but not with agentic software delivery. There’s no explicit mention of autonomous AI agents, agency, agent/human synergy, or agentic governance frameworks. The discussion is thorough for DevOps, ownership, and refactoring, but references none of the key agentic themes such as proactive, context-aware AI, integration with product telemetry, or human-in-the-loop agent systems. The intent is to motivate DevOps best practices, not agentic enablement. The audience (practitioners and leaders in delivery/DevOps) overlaps with, but is not limited to, agentic delivery stakeholders. Signal is fair since focus is maintained on transformation topics, but the content remains squarely in advanced DevOps, not agentic software delivery.",
+    "reasoning_summary": "Content is focused on DevOps transformation, technical debt, and delivery efficiency, not agentic software delivery. No discussion of autonomous AI agents, agency, or agentic governance frameworks. Fit is partial at best; relevant themes but category not directly addressed.",
+    "level": "Ignored"
   }
 }

@@ -357,15 +357,22 @@
     "level": "Ignored"
   },
   "Cycle Time": {
+    "resourceId": "XF-yQmPdUME",
     "category": "Cycle Time",
-    "calculated_at": "2025-03-14T18:38:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, with a focus on value delivery rather than explicitly addressing Cycle Time. While it touches on iterative cycles, it does not provide a detailed exploration of Cycle Time as a metric or its implications in Agile and DevOps practices.",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 15.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 4.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses product ownership, product management, and Scrum but does not explicitly mention or deeply explore Cycle Time. The only indirect touchpoints are mentions of 'shorter delivery cycles' and 'iterative cycles', yet these refer to cadence, not cycle time as a metric. There is no discussion of measuring or optimizing Cycle Time, nor are the impacts, relevant methods, or comparative metrics (Lead Time etc.) addressed. The audience and context partly align with where Cycle Time might matter (e.g., Scrum teams), but all references to 'cycle' are generic and not focused on the defined metric. Hence, confidence in this content fitting the Cycle Time category is very low.",
+    "reasoning_summary": "The content focuses on the relationship between product ownership and product management in Scrum, not Cycle Time. 'Cycle' is used only in a generic sense; there is no direct or meaningful discussion of Cycle Time as a metric or concept.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -2008,6 +2015,25 @@
     "final_score": 28.0,
     "reasoning": "The content thoroughly discusses the evolution and interaction between product ownership and product management in the context of Scrum, focusing on value delivery, adaptation, and role clarity. However, there are no direct mentions or conceptual use of Agentic Engineering or its key themes such as maximizing agency, systemic observability, DevOps, or AI collaboration. While adaptation and empowerment are emphasized, the discussion lacks explicit engagement with topics like engineering practices that maximize human and AI agency, ethical AI, or feedback-driven adaptation through technical means. The target audience and focus on iterative value delivery slightly align at the periphery, but the content’s intent and depth are firmly rooted in Agile product roles, not Agentic Engineering.",
     "reasoning_summary": "The article focuses on clarifying product ownership and management within Scrum, highlighting value delivery and agile adaptation. It does not discuss agentic engineering principles, technical frameworks, or human/AI agency, making its relevance to the Agentic Engineering category minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XF-yQmPdUME",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 9.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.4,
+    "ai_audience": 2.2,
+    "ai_signal": 2.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses entirely on clarifying the relationship between product ownership and product management within Scrum/Agile, emphasizing value delivery, accountability, and agile adaptation. There are no mentions of autonomous AI agents, contextual intelligence, or agentic systems, which are central to Agentic Software Delivery. The audience is practitioners in agile software delivery, but the piece lacks any discussion of agentic technologies, agency, or AI-human integration. All alignment is indirect, resulting in a very low confidence score for this category. No penalties were needed as tone and recency were appropriate.",
+    "reasoning_summary": "Content is about product ownership and product management in Scrum—fully aligned to agile, but has no mention of agentic software delivery, autonomous AI agents, or agentic concepts. Fit is extremely weak and based only on general relevance to delivery topics.",
     "level": "Ignored"
   }
 }

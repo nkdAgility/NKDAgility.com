@@ -1,16 +1,22 @@
 {
   "Principle": {
+    "resourceId": "Time to Market",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:20:11",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 30,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the concept of Time to Market, which is closely related to principles of Agile and Lean methodologies, particularly in terms of value delivery and continuous improvement. It explicitly mentions how reducing Time to Market allows teams to respond to customer needs and market changes, aligning with the principles of adaptability and customer collaboration. The depth of discussion is substantial, providing insights into how Time to Market influences organisational capability and fosters a culture of improvement. However, while it touches on principles, it does not delve deeply into specific actionable principles, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the category as it explores Time to Market in relation to Agile and Lean methodologies, highlighting its impact on adaptability and customer responsiveness. While it offers valuable insights into organisational improvement and value delivery, it doesn’t provide detailed, actionable principles, which slightly limits its alignment with the category’s core focus."
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 72.2,
+    "ai_mentions": 4.4,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.8,
+    "ai_intent": 7.0,
+    "ai_audience": 7.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Time to Market as an organizational value area, focusing on speed and adaptability, which are closely linked to Lean and Agile principles. It references actionable concepts like continuous improvement and responsiveness, aligning partially with principles but remains primarily descriptive of a metric/group of metrics rather than an in-depth principle discussion. There are implicit references to principles (value delivery, adaptability), yet explicit mention or exploration of principles is limited. The content is relevant to practitioners and leaders interested in improvement and organizational capability. There is some alignment with the principle category as Time to Market reflects ways of working shaped by principles, but it is not as direct or deep as content explicitly focusing on guiding rules or foundational beliefs.",
+    "reasoning_summary": "The content touches on principle-related topics such as adaptability, value delivery, and continuous improvement, but centers mainly on Time to Market as a metric. Fit is partial; principles are referenced rather than directly explored.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3125,6 +3131,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses exclusively on 'Time to Market' as a value area in Evidence-Based Management, emphasizing metrics and process efficiency in organizational capability. There is no explicit mention of Collective Intelligence, nor discussion of human-AI collaboration, distributed cognition, socio-technical systems, or complementary human-AI partnerships. The themes center on organizational agility and value delivery via process improvement and Lean/Agile principles, not on collaborative human-AI problem-solving. The intended audience is aligned (management, Agile practitioners), and content is relevant to them, but it lacks direct or substantial conceptual overlap with Collective Intelligence as defined. No penalties are applied, as the tone and content are current and non-conflicting.",
     "reasoning_summary": "This content addresses process improvement and organizational agility but lacks any reference to human-AI collaboration or the emergence of capabilities from such partnerships, making its alignment with the Collective Intelligence category minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Time to Market",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 16.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.7,
+    "ai_audience": 4.6,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is centered on the metric 'Time to Market' within Evidence-Based Management, focusing on agility, speed, and process improvement. Although these themes are broadly relevant to modern software delivery, there is no discussion of autonomous AI agents, agentic frameworks, human-agent interplay, contextual intelligence, or any specific agentic principles. The content aligns more with general Agile/Lean measurement and organisational strategy than with the proactive, integrated intelligence that defines Agentic Software Delivery. Consequently, the fit is marginal, with minor conceptual alignment due to shared interest in delivery improvement. No penalties for outdated content, criticism, or oppositional tone.",
+    "reasoning_summary": "Content discusses Time to Market metrics in Evidence-Based Management but lacks mention of autonomous AI agents or agentic practices, resulting in very low alignment with Agentic Software Delivery. Only a superficial fit based on generic delivery concepts.",
     "level": "Ignored"
   }
 }

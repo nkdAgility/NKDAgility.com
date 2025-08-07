@@ -1249,15 +1249,22 @@
     "reasoning_summary": "This content fits the category as it highlights key aspects of business agility, such as adaptability and autonomy, by critiquing rigid frameworks and promoting principle-driven approaches. However, its main focus is on evaluating specific methodologies rather than offering a broad overview of business agility concepts and practices."
   },
   "Kanban": {
+    "resourceId": "FdQpGx-FW-0",
     "category": "Kanban",
-    "calculated_at": "2025-03-14T21:28:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Kanban as one of the tools in the Agile toolbox, but the primary focus is on critiquing prescriptive frameworks like Scrum and discussing the importance of principles over rules. While there is some conceptual alignment with Kanban's emphasis on flexibility and principles, the depth of discussion on Kanban itself is minimal, and it does not explore key Kanban practices or metrics.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 36.9,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.9,
+    "ai_intent": 4.7,
+    "ai_audience": 5.3,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content primarily discusses issues with rigid Agile practices, particularly Scrum, and advocates for principle-driven approaches. Kanban is mentioned in passing as one of several tools that can enable business agility, but there is no focused discussion on Kanban practices, principles, or core topics. The main ideas do not align closely with the Kanban methodology as outlined in the definition. The audience may overlap somewhat with Kanban practitioners, but the signal-to-noise ratio is modest as relevance to Kanban is incidental and superficial.",
+    "reasoning_summary": "Kanban is only mentioned briefly as an example tool; the content focuses on principle-driven agility versus rigid frameworks. Themes, intent, and depth do not specifically match Kanban, so fit is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -2004,5 +2011,24 @@
     "reasoning": "The content strongly argues for empowering teams, autonomy, and principle-driven work—core concerns of Agentic Engineering. Concepts like data access, decentralized decision-making, and the critique of prescriptive methods align well with the category, though Agentic Engineering is not explicitly named. There is moderate depth in exploring how to foster agency, especially in the practical advice given. However, the discussion remains rooted in general Agile practices without explicit focus on AI agency, systemic observability, or DevOps-infused craft. The audience is technical, fitting practitioners, but not exclusively Agentic Engineering-focused. Signal is mostly high but diluted by motivational tone and broad Agile references.",
     "reasoning_summary": "The discussion aligns with Agentic Engineering by emphasizing autonomy, decision-making empowerment, and value-driven practices. While the content centers on Agile transformation, it substantially addresses the mindset shift toward maximizing agency, though without explicit focus on AI-driven or engineering system design.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FdQpGx-FW-0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 12.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content critiques rigid Agile and advocates for principles, autonomy, and data-informed decisions. While themes of autonomy, accessibility, continuous feedback, and innovation resonate distantly with agentic concepts, there are no direct mentions or substantial exploration of autonomous AI agents, contextual intelligence, agentic delivery practices, or synergy between AI and humans—instead, the focus is on human decision empowerment, cultural change, and the avoidance of prescriptive frameworks. Tesla's data telemetry is referenced for transparency, but not in the context of proactive, context-aware AI agency. The intended audience overlaps only slightly, as it targets Agile practitioners and change agents rather than those designing AI-powered delivery frameworks. Overall, the fit is tangential and surface level at best.",
+    "reasoning_summary": "Main focus is moving from rigid Agile to principle-driven practice. Only minimal overlap (autonomy, data access) with agentic delivery; no discussion of AI agents or context-aware systems. Category fit is weak and incidental.",
+    "level": "Ignored"
   }
 }

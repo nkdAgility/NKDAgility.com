@@ -256,15 +256,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "isdope3qkx4",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-10T15:54:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile practices and tools for managing distributed teams, with a focus on collaboration and continuous improvement. While it touches on concepts relevant to Continuous Delivery, such as feedback loops and adaptation, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery specifics, leading to a low confidence score in this category.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 21.32,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.5,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on Agile team management, distributed work, and tools like Azure DevOps, GitHub, and Planner. While DevOps and continuous improvement are mentioned, there is no explicit discussion of Continuous Delivery principles, automation, or deployment pipelines. The audience (Agile and DevOps practitioners) is partially aligned, but the main topic and depth are far from Continuous Delivery specifics.",
+    "reasoning_summary": "This content centers on Agile team management in distributed settings, tool selection, and general improvement—not on Continuous Delivery concepts or practices. Fit to the category is partial, mostly via tool overlap and tangential references.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1927,5 +1934,24 @@
     "reasoning": "The content discusses Agile and DevOps in distributed teams, focusing on tools, adaptation, and collaboration. While terms like feedback loops, adaptation, and transparency align in spirit, there are no direct or frequent references to Agentic Engineering or its core philosophy (maximizing human/AI agency, ethical AI collaboration, decentralized decision-making, or explicit DevOps-infused craft). Depth is moderate, mostly offering tool comparisons and practical advice without addressing philosophical or structural aspects of agency. The intent is general guidance for Agile practitioners—not engineering frameworks that maximize agency—so confidence is moderate. There is no outdated content or undermining tone.",
     "reasoning_summary": "The article emphasizes practical Agile and DevOps adaptation, collaboration, and feedback for distributed teams, loosely aligning with Agentic Engineering themes. However, it does not explicitly address agency, system design, or ethical AI, resulting in only moderate relevance to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "isdope3qkx4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 16.65,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 4.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on Agile and DevOps in distributed team management, emphasizing tools, communication, and adaptation. There is no mention of agentic principles—no discussion of autonomous AI agents, contextual intelligence, or human–AI collaboration. The closest overlaps are on feedback loops and adaptation, but these are general Agile practices, not unique to agentic software delivery. Audience alignment is moderate (Agile/DevOps practitioners), but the subject matter is unrelated to autonomous agents or agentic delivery frameworks.",
+    "reasoning_summary": "This content is about distributed Agile team management—not Agentic Software Delivery. It lacks any reference to autonomous agents, contextual intelligence, or related agentic concepts; the fit is minimal and only tangential through general Agile themes.",
+    "level": "Ignored"
   }
 }

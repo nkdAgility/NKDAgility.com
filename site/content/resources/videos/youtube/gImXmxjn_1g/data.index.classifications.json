@@ -1408,15 +1408,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "gImXmxjn_1g",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:06:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on skills for agile consultants, such as understanding the domain, active listening, and communication, which are not directly related to the One Engineering System framework. While there are mentions of software development contexts, the discussion does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 14.14,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 4.3,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "No direct references or conceptual discussion of One Engineering System (1ES) occur. The focus is personal advice for agile consultants: domain understanding, active listening, and honest communication, none of which discuss standardisation, integration, or unified engineering systems. The closest adjacent topics (e.g., organisational transparency, working with delivery teams, domain context) pertain to general agile or consulting skills rather than the frameworks, integration, or best practices of 1ES. The intended audience (agile consultants) may overlap with some 1ES topics, but the actual content is unrelated. No depth is provided on 1ES principles, tools, impact, or challenges, and signal-to-noise is low for the category.",
+    "reasoning_summary": "Content focuses on agile consulting skills, not on 1ES principles or tooling. No direct or conceptual fit with One Engineering System. Category assignment is inappropriate; confidence in category match is extremely low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1917,6 +1924,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses on interpersonal and advisory skills for agile consultants—domain knowledge, active listening, and honest communication. While important in organisational change and relevant for an audience operating within agile/DevOps environments, none of the key pillars of Agentic Engineering (human-AI agency maximization, systemic observability, DevOps craft, ethical AI, or feedback-driven adaptation) are directly named or substantially explored. There is implicit encouragement of transparency and empowerment, but no conceptual depth connecting to deliberate engineering design, decentralised decision-making, or AI agency. Relevance to agentic principles is tangential at best. The content lacks explicit reference to the philosophy, technical practices, or systemic constructs that define Agentic Engineering, resulting in a low confidence score.",
     "reasoning_summary": "This article gives practical advice to agile consultants but doesn’t discuss the design of engineering practices or human/AI agency central to Agentic Engineering. Any connection to agentic themes is indirect, making the content only loosely relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gImXmxjn_1g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 9.791,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 2.6,
+    "ai_audience": 1.9,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content does not reference or discuss Agentic Software Delivery or relevant agentic concepts. The focus is on soft skills for agile consultants—domain knowledge, active listening, and honest communication. There are no discussions of autonomous AI agents, agentic patterns, system integration, or contextual intelligence. Target audience is agile consultants, not specifically those interested in agentic delivery. No signals of outdated or satirical tone, so no penalties. Confidence is extremely low due to complete lack of direct or thematic connection to the category.",
+    "reasoning_summary": "This content focuses solely on the soft skills of agile consultants and lacks any discussion of agentic software delivery concepts, systems, or AI agent integration—so its fit for the category is essentially nonexistent.",
     "level": "Ignored"
   }
 }

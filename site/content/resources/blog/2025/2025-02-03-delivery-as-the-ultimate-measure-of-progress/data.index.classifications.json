@@ -766,17 +766,23 @@
     "reasoning_summary": "This content is an excellent fit for the Deployment Frequency category. It clearly advocates for frequent, reliable releases in Scrum, offering advanced insights, practical strategies, and actionable advice. The discussion is tailored to Agile and DevOps professionals, focusing on the value of continuous delivery and how to achieve it, making it highly relevant and purposeful for the intended audience."
   },
   "Continuous Integration": {
+    "resourceId": "jBIyK6NW3ZB",
     "category": "Continuous Integration",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum and the importance of delivery in software development, with a focus on the distinction between 'Done' and 'Delivered'. While it mentions CI/CD pipelines as a means to ensure delivery, the overall emphasis is on Scrum practices rather than Continuous Integration principles. The discussion on CI is limited and does not explore the broader themes of CI, such as automated testing or tools specifically designed for CI, which affects the depth and alignment scores.",
-    "level": "Secondary",
-    "reasoning_summary": "This content mainly centres on Scrum methodologies and the concept of delivery within software development, briefly touching on CI/CD pipelines. However, it doesn’t delve deeply into Continuous Integration practices or tools, so it doesn’t fully align with the CI category. The focus remains on Scrum rather than exploring the broader aspects of CI."
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 57.59,
+    "ai_mentions": 2.7,
+    "ai_alignment": 6.8,
+    "ai_depth": 5.9,
+    "ai_intent": 6.1,
+    "ai_audience": 8.6,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "Direct mention of CI is present but brief, specifically in the phrase 'CI/CD pipelines eliminate constraints and ensure every increment is delivered safely and efficiently.' Most of the content focuses on the importance of delivery in Scrum, advocating for deployment to production as the true measure of progress. There are conceptual links to CI principles (automation, frequent integration/release), but discussion of CI itself is limited. The deep dive centers on delivery and value realization rather than CI's internal mechanisms or practices, and tools are only named generically ('CI/CD pipelines'). While intent aligns (through advocating frequent, automated integration/delivery), CI is not the core topic—it's referenced within a broader DevOps/Continuous Delivery argument. The audience is practitioners (Scrum teams, dev orgs), matching the CI category. Content is focused and up-to-date, but CI discussion is clearly secondary and lacks detailed exploration.",
+    "reasoning_summary": "CI is mentioned as part of 'CI/CD pipelines' to support automated delivery but is not the main theme; content centers on delivery in Scrum. Partial fit: some relevant principles but lacks depth/context to fully match the CI category.",
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "resourceId": "jBIyK6NW3ZB",
@@ -2386,5 +2392,24 @@
     "reasoning": "There are no direct mentions of 'Agentic Engineering' or its phrasing, resulting in a low mentions score. However, the content strongly aligns conceptually: it champions autonomous delivery, developer empowerment (especially via removing silos and full-cycle automation), rapid feedback, and modern DevOps practices. It emphasizes continuous delivery as the definition of progress, infuses ethical engineering (minimizing manual risk, maximizing user impact), and repeatedly advocates for software teams' agency over their workflow and delivery pipelines. Discussion depth is solid but leans more toward specific Scrum and DevOps delivery mechanics rather than sustained meta-level treatment of agency as a philosophical construct. The primary intent matches promoting agentic practices in engineering, and the content clearly targets practitioners and technical leaders. The majority of details maintain focus on delivery, agency, and value outcomes, with little off-topic material.",
     "reasoning_summary": "While the content lacks direct mention of Agentic Engineering, it embodies the concept by advocating developer agency, delivery-focused workflows, automation, and rapid feedback loops. Its alignment and thorough exploration of agentic themes within modern Scrum and DevOps contexts result in substantial category relevance.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jBIyK6NW3ZB",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 24.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.4,
+    "ai_audience": 6.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content centers on the importance of continuous delivery as the sole measure of Scrum progress, advocating for modern DevOps practices (CI/CD, automation, feedback loops). However, it does not directly discuss agentic software delivery: there are no explicit references to autonomous AI agents, contextual intelligence, human-AI integration, or governance frameworks that define Agentic Software Delivery. The primary focus is on organizational and engineering process improvements, not the proactive embedding of AI agents or the synergy between human expertise and AI autonomy. Practitioner audience overlap exists, and tooling themes partially align, but intent, depth, and conceptual fit for the category are low.",
+    "reasoning_summary": "This content strongly advocates modern software delivery practices and automation in Scrum but does not cover the core topics of Agentic Software Delivery such as autonomous AI agents or human-AI synergy. Alignment with the category is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

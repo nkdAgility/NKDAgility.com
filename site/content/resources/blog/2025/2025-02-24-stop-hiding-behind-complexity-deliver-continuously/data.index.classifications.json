@@ -451,15 +451,22 @@
     "level": "Ignored"
   },
   "Mentoring": {
+    "resourceId": "7hEAycZIn8w",
     "category": "Mentoring",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on continuous delivery and the technical aspects of software development, with minimal reference to mentoring or coaching. While it discusses challenges and strategies in software delivery, it does not address the role of a mentor, coaching techniques, or professional growth within Agile teams, which are essential for the 'Mentoring' category.",
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 14.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 0.5,
+    "ai_audience": 4.8,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct references to mentoring, guidance, coaching, or facilitating professional development in Agile, Scrum, or DevOps contexts. The piece is highly focused on organisational process transformation, technical practices (automation, trunk-based development, metrics), and improvement mindsets, but these topics are not explicitly framed as a mentoring process or as offering guidance for personal/professional skills development. Audience overlap is partial (engineering/leadership), and high signal-to-noise reflects a focused discussion, but the content's intent and depth do not target the development or coaching of individuals. Minimal conceptual overlap arises only when discussing mindset or learning, but this is incidental, not central.",
+    "reasoning_summary": "Content is focused on process and technical improvement in DevOps/Agile, not on mentoring, coaching, or professional development. There are no direct or substantial links to the mentoring category; fit is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -2517,5 +2524,24 @@
     "reasoning": "There are no direct mentions of 'Agentic Engineering.' However, some concepts—such as developer autonomy, relentless automation, decentralised improvement, rapid feedback, and the focus on engineering changes to improve agency—are loosely aligned with the category. Examples include the emphasis on engineering ownership over delivery speed, automation, and continuous improvement. Still, the discussion is primarily framed around continuous delivery, DevOps, and organisational change, with little explicit exploration of the philosophical underpinnings or dual human/AI agency required for strong fit. No penalties are warranted, as content is timely and not critical or satirical.",
     "reasoning_summary": "While the content robustly advocates for autonomy, automation, and process improvement, its focus remains on continuous delivery rather than the explicit, philosophical design for maximising human and AI agency essential to Agentic Engineering. Alignment exists, but depth and direct fit are moderate.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7hEAycZIn8w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 23.94,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 7.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is focused on achieving continuous delivery through automation, process change, and investment, with examples from Azure DevOps and Starbucks. While it embraces modern engineering practices (automation, trunk-based development, feature flags) that are relevant to agentic delivery, it does not mention or explore the core ideas of Agentic Software Delivery (integration of autonomous AI agents, agent-based contextual intelligence, agency, governance frameworks, or human-in-the-loop agent design). There are no explicit direct mentions, and while audience and engineering practices align with the agentic audience, the main intent and conceptual depth are about DevOps and continuous delivery, not agentic delivery per se.",
+    "reasoning_summary": "The content covers modern continuous delivery practices but lacks discussion of AI agents or agentic autonomy. It only partially aligns with Agentic Software Delivery, focusing on automation rather than agent-driven, context-aware delivery.",
+    "level": "Ignored"
   }
 }

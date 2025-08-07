@@ -1171,16 +1171,23 @@
     "level": "Ignored"
   },
   "Agile Product Management": {
+    "resourceId": "wYwQygBrmgx",
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T02:35:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily critiques traditional project management methodologies, particularly Taylorism and Waterfall, without directly addressing Agile Product Management principles. While it touches on the need for new practices and mentions Agile concepts towards the end, the focus remains on the historical context and shortcomings of traditional methods rather than on Agile practices, roles, or strategies specific to product management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 41.517,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.9,
+    "ai_depth": 5.3,
+    "ai_intent": 5.0,
+    "ai_audience": 4.9,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content primarily critiques Taylorism and its legacy in modern management and organizational structures. While it touches on concepts relevant to Agile (such as cross-functional teams, Lean, Scrum, autonomy, and customer-focused practices), these are mostly presented as emergent solutions to the problems with Taylorism and Waterfall rather than a dedicated and substantive discussion of Agile Product Management itself. Key elements of Agile Product Management – such as Product Owner roles, backlog prioritization, evidence-based decision making, and iterative customer feedback mechanisms – are mentioned only tangentially or in linked resources, rather than explored in depth. The intended audience potentially overlaps (those interested in better ways of managing modern work and products), but the article’s focus is on critiquing traditional and Tayloristic practices rather than directly presenting or guiding Agile Product Management methods. There is some conceptual alignment and moderate depth on the transition from old to new ways of working, but explicit coverage of Agile Product Management is weak.",
+    "reasoning_summary": "Taylorism’s critique leads into some Agile concepts, but core Agile Product Management topics are not deeply or directly discussed. Focus is broader (organizational/management history) rather than directly guiding or informing Agile Product Management.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -2041,5 +2048,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' or its technical terms but is acutely aligned with its themes: it critiques Taylorism and traditional, dehumanising management structures in favor of autonomy, mastery, and purpose—ideas foundational to agentic approaches. It discusses systemic issues that suppress human agency and touts post-Taylorist practices such as decentralizing decision-making, fostering team autonomy, and embracing evidence-based methods (referencing Scrum, Agile, DevOps, and evidence-based management). While the treatment is principally historical and cultural/philosophical rather than focusing on concrete engineering practices or AI/human collaboration, repeated references to autonomy, adaptive practices, and the value of decentralized, empowered teams are directly relevant. The discussion mentions continuous value delivery and feedback-driven adaptation in passing but does not develop technical mechanisms for engineer or AI agency. Audience and signal are strong, depth is solid but less technical. No content is outdated or satirical; penalties do not apply. The overall confidence reflects substantial conceptual fit without explicit labeling.",
     "reasoning_summary": "While Agentic Engineering is not explicitly named, the article robustly aligns with its major themes by critiquing dehumanizing management and promoting autonomy, mastery, and decentralization. The discussion targets practitioners and change leaders intent on re-humanizing engineering practices, matching the category’s intent and audience.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wYwQygBrmgx",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 12.385,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.6,
+    "ai_audience": 2.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content provides a critical exploration of Taylorism and its lasting effects on management and software delivery, but it does not discuss the integration of autonomous AI agents, contextual intelligence, or modern agentic concepts. There are no explicit or implicit references to agentic principles such as autonomous agents, proactive intelligence, human-AI collaboration, or their application in delivery pipelines. The article's intent is to critique legacy management, not to propose or explain agentic software delivery strategies. Thus, conceptual alignment, depth, direct mentions, and audience fit are very weak for this specific category. It fits only in the sense that it diagnoses the outdated context from which agentic models might someday escape, but it does not itself cover or even hint at the defining topics of 'Agentic Software Delivery.'",
+    "reasoning_summary": "The article critiques legacy management and Taylorism without discussing agentic principles or AI-based approaches in software delivery. Its themes, audience, and purpose do not match the 'Agentic Software Delivery' category, resulting in very low confidence.",
+    "level": "Ignored"
   }
 }

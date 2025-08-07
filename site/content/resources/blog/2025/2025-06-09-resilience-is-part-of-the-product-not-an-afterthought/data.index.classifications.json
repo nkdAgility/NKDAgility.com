@@ -875,15 +875,22 @@
     "level": "Ignored"
   },
   "Agnostic Agile": {
+    "resourceId": "EtzHUfsWjsD",
     "category": "Agnostic Agile",
-    "calculated_at": "2025-04-29T17:39:17",
-    "ai_confidence": 32.0,
-    "ai_mentions": 0,
-    "ai_alignment": 40.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of resilience in product design and engineering practices, which aligns with the Agnostic Agile principle of adapting methods to context. However, it does not explicitly mention Agnostic Agile or its core themes, such as the comparison with specific frameworks or the ethical considerations in agile practices. The focus is primarily on resilience as a feature rather than on agile methodologies, resulting in a lower confidence score.",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 35.38,
+    "ai_mentions": 0.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.9,
+    "ai_intent": 4.0,
+    "ai_audience": 7.3,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content centers on the principle of building resilience as an integral product feature, drawing on engineering, DevOps, and pragmatic approaches like telemetry, rapid delivery, and continuous improvement. These themes overlap somewhat with Agnostic Agile’s contextual, principle-first mindset and value delivery focus. However, the article does not mention Agnostic Agile, its philosophy, or any related explicit comparisons to frameworks like Scrum, Kanban, etc. It does not cite key thought leaders or core tenets unique to Agnostic Agile. While it demonstrates critical thinking and context-driven design, the focus is on resilience engineering, not on agile methodology choice or comparative discussions. Therefore, while some conceptual and audience overlap exists, direct fit to Agnostic Agile is weak.",
+    "reasoning_summary": "The content discusses pragmatic, context-driven resilience but does not reference Agnostic Agile or its principles. Some conceptual overlap exists, but fit is partial and mainly indirect, so classification confidence is low.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -2516,5 +2523,24 @@
     "reasoning": "The content firmly centers on resilience as an outcome of deliberate engineering and DevOps practice, emphasizing ownership, system observability, telemetry, containment, and feedback-driven improvement. It deeply explores embedding resilience as a product feature—highly aligned with agentic engineering’s focus on decentralised decision-making and systemic empowerment. However, it doesn’t explicitly mention 'agency' or 'Agentic Engineering,' nor does it directly reference AI as a systemic collaborator or ethical autonomy, which are key elements of Agentic Engineering. As such, while the conceptual overlap is significant, gaps remain around direct category references and full coverage of AI-agentic interaction.",
     "reasoning_summary": "This content closely aligns with Agentic Engineering by focusing on deliberate, feedback-driven resilience engineering, developer ownership, and system observability. While it lacks explicit agentic terminology or AI aspects, its conceptual alignment with maximising engineering agency is strong and clear.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 23.68,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.1,
+    "ai_intent": 2.5,
+    "ai_audience": 7.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is a robust argument for building resilience into software products from the start, highlighting engineering practices such as telemetry, observability, and CI/CD. It is squarely focused on DevOps and modern product engineering but never discusses agentic delivery, AI agents, or the integration of contextual intelligence into delivery systems. No autonomous agent, human-in-the-loop, or agentic governance topics arise. The alignment is partial at best—some described practices (telemetry, observability, progressive delivery) are prerequisites for agentic delivery, but the article never references agency, AI, or agentic workflows. Audience and signal are high because it's aimed at technical practitioners in modern delivery, but there's no conceptual depth or direct mention of the Agentic Software Delivery category.",
+    "reasoning_summary": "Content focuses on resilience in engineering and product delivery, not on integration of AI agents or agentic delivery principles. Some overlap in modern practices but no agentic concepts or intent. Fit is marginal for this category.",
+    "level": "Ignored"
   }
 }

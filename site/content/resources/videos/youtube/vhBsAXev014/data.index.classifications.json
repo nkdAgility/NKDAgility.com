@@ -1214,15 +1214,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "vhBsAXev014",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:35:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on agile transformation and chaos management within agile methodologies, with only a brief mention of DevOps at the end. While it touches on themes like communication and alignment, which are relevant to DevOps, the overall discussion does not delve deeply into DevOps principles or practices, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 23.267,
+    "ai_mentions": 1.5,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 2.4,
+    "ai_audience": 6.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses primarily on agile chaos, communication, and alignment in organizational transformation. DevOps is mentioned in a closing list of related topics (alongside Scrum), but is not conceptually explored. No principles, practices, or cultural shifts core to DevOps are discussed. The audience (change agents, technical roles) marginally overlaps. Relevant DevOps concepts (automation, flow efficiency, observability, etc.) are absent, and the mention is tangential. Thus, confidence is low that this content fits the DevOps category.",
+    "reasoning_summary": "Content centers on agile transformation and chaos—not core DevOps themes. DevOps is only name-dropped in passing. Minimal conceptual overlap yields a low category fit.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1998,5 +2005,24 @@
     "reasoning": "The content focuses on chaos in agile transformations and methods for restoring alignment, autonomy, and clarity—touching on elements like empowerment, transparency, continuous adaptation, and the movement from prescriptive practices to principle-based work. These align closely with aspects of Agentic Engineering (e.g., developer agency, feedback-driven adaptation, decentralised decision-making). However, the article's framing is more about agile culture than deliberate engineering of agency for both humans and AI, with little on systemic observability, DevOps craft, or explicit integration of intelligent systems. The audience (teams, leaders, agile practitioners) fits, and the signal is strong, but explicit references to Agentic Engineering or its more technical facets are lacking.",
     "reasoning_summary": "This content strongly aligns with Agentic Engineering principles—emphasizing autonomy, feedback, and alignment in agile—but doesn’t directly discuss engineering practices or human-AI agency design. It fits the audience and general philosophy without explicitly addressing all core pillars.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vhBsAXev014",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 14.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 3.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on chaos in agile transformations, vision, communication, and aligning teams but never discusses AI, autonomy, agents, or contextual intelligence in software delivery. It doesn't address synergy between AI agents and humans, agency, modern engineering practices supporting agentic models, or any governance or feedback frameworks for agentic systems. Its intent is on cultural and leadership alignment in agile, not on concepts or practices core to Agentic Software Delivery. The only weak proximity is a mention of autonomy as a value, but it's generic and not related to AI agents or technological enablement.",
+    "reasoning_summary": "Content discusses agile chaos, vision, and communication, but not agentic software delivery, AI agents, or their integration. No relevant concepts or approaches are present; fit to the category is minimal to none.",
+    "level": "Ignored"
   }
 }

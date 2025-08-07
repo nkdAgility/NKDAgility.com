@@ -1466,15 +1466,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into how Kaizen principles drive continuous improvement and skill development within Agile and Scrum teams. By sharing practical advice and experiences, it clearly connects Kaizen to building competence, even though the main emphasis is on the Kaizen approach itself."
   },
   "One Engineering System": {
+    "resourceId": "pVPzgsemxEY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:18:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of Kaizen within Scrum and Agile methodologies, which does not align with the core principles of the One Engineering System. While it discusses continuous improvement, it does not address the integration or standardisation of engineering processes across teams, which is central to 1ES. The discussion is more about personal experiences and practices in Scrum rather than the unified framework of 1ES.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 25.33,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.4,
+    "ai_intent": 2.6,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content exclusively discusses Kaizen (continuous improvement) within Agile and Scrum contexts, focusing on practical tips for retrospectives and team processes. There is no mention or even conceptual discussion of One Engineering System (1ES), its principles, standardized tools, or cross-team/system integration. Depth and intent are targeted toward continuous improvement in Scrum teams, which can sometimes overlap with 1ES philosophy, but are not tied to the framework itself. The audience (Scrum practitioners) may overlap with 1ES's, and the discussion is relevant and focused for its context, but not the assigned category.",
+    "reasoning_summary": "The content discusses Kaizen and continuous improvement in Scrum, not One Engineering System. There are no mentions or conceptual links to 1ES, its principles, or objectives. Fit is minimal and only overlaps generally with improvement themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1985,5 +1992,24 @@
     "reasoning": "The content thoroughly discusses Kaizen and continuous improvement in Scrum, focusing on practical workflow tips and team culture. While it addresses developer autonomy, incremental adaptation, and feedback-driven change, it does not explicitly address the concept or philosophy of Agentic Engineering, nor does it mention AI, systemic observability, or ethical autonomy. The emphasis is on process improvement, not on maximizing human and AI agency or decentralizing decision-making through agentic design. There are no attempts to frame Kaizen within the context of engineering environments that combine human and intelligent systems agency, nor is there discussion about DevOps-infused craft or ethical AI integration. Therefore, while there is partial conceptual overlap (namely around feedback-driven adaptation and team self-improvement), the main thrust is tangential rather than directly aligned with Agentic Engineering as strictly defined.",
     "reasoning_summary": "This content mainly explores Kaizen and continuous improvement within Scrum, focusing on workflow and team culture. While it touches on aspects like adaptation and incremental change, it lacks explicit alignment with Agentic Engineering, particularly regarding agency, DevOps ethos, or AI-driven autonomy.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pVPzgsemxEY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 14.857,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.4,
+    "ai_intent": 1.7,
+    "ai_audience": 4.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content provides a thorough explanation of continuous improvement (Kaizen) in Scrum and Agile contexts but does not discuss autonomous AI agents, context-aware intelligence, human-agent collaboration, or any agentic software delivery concepts. There is no mention of AI, agency, agent integration, or system-of-work enhancements involving autonomous technology. The focus is entirely on human-led process improvement, classic Agile practices, retrospectives, and team culture, which are not evidence of Agentic Software Delivery per the provided definition.",
+    "reasoning_summary": "This content is about human-driven continuous improvement in Agile/Scrum, not about the use of autonomous AI agents, contextual intelligence, or agentic delivery. It does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

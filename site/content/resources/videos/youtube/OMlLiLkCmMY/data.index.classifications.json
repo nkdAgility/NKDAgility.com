@@ -924,15 +924,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "OMlLiLkCmMY",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:13:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on organisational change and team engagement, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of communication and participation, these are not specific to Continuous Delivery, which emphasises automation, rapid feedback, and incremental improvements in software delivery.",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 8.07,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.6,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on organisational change, team engagement, and leadership strategies. It does not mention Continuous Delivery or related terminology (automation, deployment, software, feedback from users, etc.), nor does it align with the principles, practices, or audiences of Continuous Delivery. No outdated or actively critical views were provided, so no penalties applied. Any peripheral alignment is extremely indirect, as fostering a culture of engagement could, in theory, support Continuous Delivery, but this is speculative and not discussed. The discussion remains generic and wholly unrelated to the specific intent or substance of the category.",
+    "reasoning_summary": "Content is about organisational change and team engagement, not Continuous Delivery. There are no direct or indirect links to the category’s topics, practices, or intent. The fit is extremely poor and confidence is very low.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1957,6 +1964,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on team empowerment, engagement, and organisational change but does not explicitly reference or delve into the concepts central to Agentic Engineering (such as the deliberate shaping of engineering practices to maximize human and AI agency, systemic observability, or DevOps-infused practices). While it briefly discusses empowerment and participation, these are framed generally as management or change leadership concepts, not in the context of software engineering or the technical-philosophical aspects that define Agentic Engineering. There are no direct mentions of Agentic Engineering or its key topics such as decision decentralisation, engineering autonomy, or feedback-driven software adaptation. The content is relevant for leadership and organisational change but only tangentially aligns with the intended audience or technical focus of the Agentic Engineering category.",
     "reasoning_summary": "This content broadly discusses team empowerment and organisational change but does not address Agentic Engineering’s core concepts. It lacks explicit reference to technical or philosophical aspects of agency in engineering, making its relevance to the category low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OMlLiLkCmMY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 13.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.6,
+    "ai_audience": 6.0,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on human-centric change management strategies, including engagement, communication, and team involvement for organisational transformation. There are no explicit mentions or substantial discussion of agentic software delivery, nor integration of AI agents, contextual intelligence, modern engineering practices, or agentic governance. While it references feedback loops, transparency, and culture—which can be components of modern delivery approaches—the context is purely organisational change management and people engagement, not the integration of autonomous AI agents into delivery systems. The target audience broadly aligns with organisational transformation practitioners but not with technical, agentic software delivery experts.",
+    "reasoning_summary": "This content is about human-centric organisational change, not Agentic Software Delivery. No discussion or intent toward AI agents, system integration, or agentic principles. There is only tangential overlap via generic feedback concepts.",
     "level": "Ignored"
   }
 }

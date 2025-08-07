@@ -20,21 +20,21 @@
   "Engineering Excellence": {
     "resourceId": "mjsboLP-N9P",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-05-06T12:20:40",
-    "ai_confidence": 92.7,
-    "ai_mentions": 7.6,
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 93.05,
+    "ai_mentions": 8.7,
     "ai_alignment": 9.7,
     "ai_depth": 9.3,
-    "ai_intent": null,
-    "ai_audience": 9.0,
+    "ai_intent": 9.1,
+    "ai_audience": 9.4,
     "ai_signal": 9.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
     "final_score": 93.0,
-    "reasoning": "This content is a strong, direct fit for the 'Engineering Excellence' category. \n\n- **Direct Mentions (7.6):** While the phrase 'engineering excellence' is explicitly mentioned once, the content repeatedly references core principles (resilience, fault tolerance, observability, accountability, continuous improvement) that are central to the category. The author also uses phrases like 'engineering ethos' and 'engineering honesty', which reinforce the alignment, but the explicit category name is not used frequently, hence not a perfect score.\n\n- **Conceptual Alignment (9.7):** The main themes—building resilient, fault-tolerant systems, refactoring for robustness, implementing retries and fallbacks, and continuous improvement—are textbook examples of software craftsmanship and quality assurance. The discussion of logs, error handling, and future improvements (testing, structured logging, Dockerisation) further cements the alignment.\n\n- **Depth of Discussion (9.3):** The content goes well beyond surface-level mentions. It provides detailed technical explanations, code samples, real-world failure logs, and a step-by-step breakdown of the engineering process. The author reflects on both what failed and how it was improved, and even outlines a roadmap for further enhancements, demonstrating a deep engagement with engineering best practices.\n\n- **Intent / Purpose Fit (9.2):** The primary intent is to share lessons learned and best practices in building robust software systems, with a clear focus on engineering quality and continuous improvement. The tone is constructive, informative, and directly relevant to practitioners seeking to improve their engineering processes.\n\n- **Audience Alignment (9.0):** The content is clearly aimed at technical practitioners—engineers, SREs, DevOps professionals, and software developers—who are the target audience for this category. The use of technical language, code, and references to tools like PowerShell, FastAPI, and Docker further supports this.\n\n- **Signal-to-Noise Ratio (9.1):** The content is highly focused, with minimal digression. The only slight reduction is due to a brief personal anecdote about migrating from WordPress, but even this is used to set context for the engineering challenge. The rest is tightly relevant to engineering excellence.\n\n- **Penalties:** No penalties were applied. The content is current, references modern practices (FastAPI, Docker, structured logging, automated testing), and the tone is earnest and aligned with the category's framing.\n\n- **Level:** Primary. The content is a direct, in-depth discussion of engineering excellence, not a secondary or tangential mention.\n\nOverall, the confidence score is very high, reflecting the content's strong, explicit, and thorough engagement with the principles and practices of engineering excellence.",
-    "level": "Primary",
-    "reasoning_summary": "This content is an excellent match for the 'Engineering Excellence' category. It thoroughly explores key engineering principles like resilience, fault tolerance, and continuous improvement, offering detailed technical insights and practical examples. The focus is clearly on sharing best practices and lessons learned, making it highly relevant for technical professionals aiming to enhance software quality."
+    "reasoning": "The content offers an in-depth exploration of engineering resilience in building a token server, discussing system refactoring, best practices in fault tolerance, error handling, retry patterns, logging, and actionable next steps (testing, modularization, Dockerization). These map directly to engineering excellence themes: process improvement, quality assurance, resilient architecture, automation, continuous improvement, code clarity, and accountability. The author references their engineering principles, aligns solutions with DevOps ethos, and ties proposed future enhancements (testing, logging, CI/CD, exception handling) back to software craftsmanship. Audience targeting is technical, with the main focus being on systematic improvement of engineering deliverables. There is minimal off-topic material, with any narrative context directly supporting the technical discussion. No outdated practices or contradictions detected, so no penalties apply.",
+    "reasoning_summary": "This content exemplifies engineering excellence by detailing the process, principles, and practices used to create a robust, resilient server. It covers best practices, continuous improvement, automation, quality, and accountability—all core to the category.",
+    "level": "Primary"
   },
   "Lean": {
     "resourceId": "mjsboLP-N9P",
@@ -3198,5 +3198,24 @@
     "reasoning": "The content provides a practical, in-depth account of building a resilient, observable, and automated engineering workflow for a token counting server, emphasizing ownership, adaptability, and robustness—close to the ethos of Agentic Engineering. It demonstrates feedback-driven adaptation, systemic observability, and DevOps-infused craft (automation, quality, infrastructure). However, the piece focuses on individual experience rather than the broader or systemic human+AI agency, decision-making frameworks, or explicit philosophical exploration typical of Agentic Engineering. The explicit phrase 'Agentic Engineering' does not appear, and while DevOps principles and agency are implied, the core themes are primarily technical and practice-oriented with some attention to mindset. Depth and relevance are high, but the content is less overtly framed around maximizing both human and AI agency than the definition expects.",
     "reasoning_summary": "The article strongly aligns with Agentic Engineering’s practical principles—resilience, observability, automation, and adaptive engineering. While the term itself and deep philosophical context are missing, the narrative and practices echo core category themes, making the fit relevant and confident.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mjsboLP-N9P",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 21.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.05,
+    "ai_depth": 2.15,
+    "ai_intent": 2.0,
+    "ai_audience": 2.22,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content describes building a resilient, fault-tolerant token server, highlighting modern engineering practices such as retries, error handling, observability, fallbacks, modular PowerShell scripting, and some DevOps themes. However, it does not engage Agentic Software Delivery's core topics: there is no mention or implication of autonomous AI agents, contextual intelligence, human-AI-system integration, governance for agent operation, or feedback loops involving contextual AI-driven learning. The only tangential overlap is discussion of resilience, flow, and accountability—central to DevOps and modern engineering but not sufficient for the agentic paradigm. No penalties applied as the discussion is current and relevant within its own scope.",
+    "reasoning_summary": "This content describes resilient, observable scripting and system engineering but does not fit Agentic Software Delivery. It lacks agent autonomy, contextual intelligence, or integration of AI agents with human expertise. Fit is minimal and largely indirect.",
+    "level": "Ignored"
   }
 }

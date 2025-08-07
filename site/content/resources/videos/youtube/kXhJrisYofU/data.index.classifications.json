@@ -1510,15 +1510,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "kXhJrisYofU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:52:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses budgeting practices and the concept of Beyond Budgeting, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development. The discussion lacks depth regarding integration or standardisation of engineering processes, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:10:40",
+    "ai_confidence": 18.73,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.15,
+    "ai_depth": 2.45,
+    "ai_intent": 2.05,
+    "ai_audience": 6.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on budgeting approaches (traditional vs. Beyond Budgeting) and their influence on organisational agility and value. While themes like value delivery and agility may conceptually align with some engineering topics, there are zero direct mentions of One Engineering System (1ES), nor is 1ES or the standardisation of engineering tools and practices discussed. The depth is limited to budgeting transformation. The audience includes practitioners, but not specifically those interested in 1ES. Signal is relatively high due to clear focus, but most of the substance is orthogonal to the 1ES category definition.",
+    "reasoning_summary": "This content discusses budgeting reforms (Beyond Budgeting), not the integration or standardisation of engineering systems. There are no direct or in-depth references to One Engineering System, making fit highly partial and confidence low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2027,5 +2034,24 @@
     "reasoning": "The content centers on moving from rigid annual budgeting to dynamic, value-driven approaches like Beyond Budgeting, advocating for flexibility, responsiveness, and iterative investment. While these themes are adjacent to Agentic Engineering (such as decentralization, feedback-driven resource allocation, and maximizing value), the article does not directly discuss developer or AI agency, systemic observability, or engineering practices. The main focus is organizational finance, not the philosophical or technical dimensions of agentic autonomy in software engineering. Mentions of adaptive change, agility, and empirical evaluation boost conceptual alignment moderately, but the lack of deep discussion on agency, autonomy, or engineering-specific practices limits depth and intent. Audience overlap exists, as technical leaders and agile practitioners are likely readers, but the content is not fully targeted at Agentic Engineering concerns.",
     "reasoning_summary": "The content promotes value-driven, adaptive budgeting (Beyond Budgeting) and shares principles broadly aligned with decentralization and agility. However, it lacks direct exploration of agency, engineering practices, or AI integration, making its fit with 'Agentic Engineering' moderate and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kXhJrisYofU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:40",
+    "ai_confidence": 20.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on the limitations of traditional budgeting and recommends Beyond Budgeting and value-driven funding for greater agility. However, it does not discuss autonomous AI agents, agentic delivery principles, contextual intelligence, or AI-human collaboration in delivery. There are tangential mentions of agility, value, and evidence-based management, but no exploration of agentic software delivery's core themes, such as autonomous systems, governance for agent-enabled delivery, or human-in-the-loop AI. The intended audience overlaps partially (transformation-minded practitioners), but the fit is weak for the specific category.",
+    "reasoning_summary": "Content centers on budgeting agility and value-focused practices, not on agentic software delivery, AI agents, or autonomous systems. No substantive match to category themes. Fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

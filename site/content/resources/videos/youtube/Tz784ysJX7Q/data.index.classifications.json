@@ -263,16 +263,23 @@
     "level": "Ignored"
   },
   "Product Strategy": {
+    "resourceId": "Tz784ysJX7Q",
     "category": "Product Strategy",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 42.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 20,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of quality and stability in product delivery, which indirectly relates to product strategy. However, it primarily focuses on delivery management and ethical considerations rather than explicitly addressing product vision, roadmapping, or market analysis. The discussion lacks depth in strategic frameworks and methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 33.725,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.3,
+    "ai_intent": 4.2,
+    "ai_audience": 4.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "This content focuses on the trade-off between speed and quality in delivery management. While it discusses concepts such as stakeholder communication and long-term product outcomes, it does not directly address product vision, roadmapping, competitive analysis, or market positioning. The main focus is operational delivery quality and decision-making rather than the strategic frameworks central to product strategy. The content is aimed at managers and those making delivery trade-offs, who may overlap with product strategists, but its core topic is execution and risk management rather than defining or steering product direction.",
+    "reasoning_summary": "Content focuses on quality vs. speed in delivery, not on defining vision, roadmaps, or market positioning. Although some themes touch on long-term outcomes, it lacks direct or deep focus on product strategy frameworks or core strategic planning.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1996,5 +2003,24 @@
     "reasoning": "The content focuses on delivery management, prioritising quality and stability over speed. While ethical choices, stakeholder communication, and long-term value are highlighted, there is no direct mention of 'Agentic Engineering' or its distinctive concepts (such as developer/AI agency, systemic observability, or philosophical underpinnings of agency). The discussion is centred on delivery trade-offs and practical advice for delivery managers, not on intentional engineering practices that maximise agency for humans or intelligent systems. Some ideas (ethical dilemmas, prioritising quality, communicating with stakeholders) align tangentially with ethical autonomy and informed decision-making, but the main focus does not cover decentralised decisions, DevOps-infused craft, agentic feedback loops, or AI collaboration. The audience alignment is moderate, as delivery managers are partly relevant, but the content’s scope does not specifically target those practicing or interested in Agentic Engineering.",
     "reasoning_summary": "This content primarily discusses delivery management trade-offs between speed and quality, touching on ethics and long-term value. While some principles overlap with Agentic Engineering, it lacks direct references or depth on agency-maximising engineering practices, resulting in only moderate category alignment.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Tz784ysJX7Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 19.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on delivery management best practices, prioritizing quality and stability over speed, illustrated by scenarios involving deadlines, stakeholder management, and ethical choices. It does not mention Agentic Software Delivery, autonomous AI agents, contextual intelligence, or associated practices. There is no substantive discussion of agentic principles, AI-human synergy, or enabling technologies central to the category. While the theme of stable delivery has peripheral conceptual relevance, the absence of agentic context results in low alignment and depth scores. The intended audience—delivery managers addressing quality/stability trade-offs—partially overlaps with agentic delivery audiences but lacks explicit connection.",
+    "reasoning_summary": "Content centers on traditional delivery management, not Agentic Software Delivery. No mention of AI agents, agentic practices, or contextual intelligence. Limited conceptual overlap; fit with the category is peripheral and not explicit.",
+    "level": "Ignored"
   }
 }

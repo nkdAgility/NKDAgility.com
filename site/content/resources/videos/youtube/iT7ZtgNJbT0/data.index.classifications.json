@@ -58,15 +58,22 @@
     "level": "Tertiary"
   },
   "Organisational Physics": {
+    "resourceId": "iT7ZtgNJbT0",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:54:18",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a systematic exploration of organisational dynamics. While it touches on the impact of Agile methodologies on teams and organisations, it lacks a thorough discussion of systems thinking principles or the interplay of organisational structure and culture. The mention of long-term effects hints at organisational dynamics but does not delve into the complexities or feedback loops that define Organisational Physics.",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 27.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.6,
+    "ai_audience": 3.5,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content describes a personal success story about Agile consulting leading to significant, lasting impact. While it emphasizes organisational transformation, Scrum workshops, and team change, it does not mention systems thinking, feedback loops, complexity, or the core theoretical or analytical aspects of Organisational Physics. Concepts such as systems interactions or mapping are absent. The narrative is inspirational but primarily anecdotal, not analytical. Audience is close (change agents, consultants) but lacks direct fit with those seeking to apply or understand systems thinking at an organisational level.",
+    "reasoning_summary": "This content offers a personal Agile transformation story but does not explore or directly reference Organisational Physics or its core systems-thinking concepts. Fit is partial and tangential, lacking substantive focus on organisational dynamics.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1989,6 +1996,25 @@
     "final_score": 24.0,
     "reasoning": "The content is a personal story about an Agile consultancy engagement and its impact, focusing largely on Agile, Scrum, and team transformation. While it loosely addresses positive, transformative engineering environments, it does not mention or deeply explore Agentic Engineering themes such as maximizing human/system agency, ethical AI integration, feedback-driven adaptation, or engineering practices focused on agency. The narrative centers on the consultant’s experience and team transformation via Scrum workshops, rather than the deliberate design of engineering autonomy or systemic agency. Furthermore, there's no discussion of decision decentralization, system observability, or DevOps-infused practices. Some tangential overlap exists via references to transformation and impact, but these do not align sufficiently with the key criteria for Agentic Engineering. Penalties applied for lack of depth, intent misalignment, and failure to reference or explore the category directly.",
     "reasoning_summary": "This content recounts personal Agile consulting experiences, emphasizing team transformation through Scrum and coaching. It does not directly address Agentic Engineering principles, agency maximization, or system design for autonomy, making alignment with the category low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "iT7ZtgNJbT0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 7.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "penalized mentions (-0.9), alignment (-0.9), depth (-0.8), signal (-0.6) for outdated reference (seven years ago) and content not addressing agentic software delivery themes",
+    "final_score": 8.0,
+    "reasoning": "The content is a personal story about Agile and Scrum consulting from seven years ago, focusing on the long-term impact of traditional Agile workshops. There are no mentions or implicit references to autonomous AI agents, contextual intelligence, or agentic delivery principles. The discussion centers on transformation via human facilitation and team learning within traditional Agile practices, not the integration of AI agents or agentic systems. The narrative is practical and inspirational but completely outside the scope of Agentic Software Delivery as defined. Penalties were applied for outdated context and a lack of conceptual or practical relevance to the category.",
+    "reasoning_summary": "Content tells an Agile consulting story unrelated to Agentic Software Delivery. No discussion of AI agents or agency. Only traditional Agile/Scrum transformation is covered. Fit is minimal to nonexistent.",
     "level": "Ignored"
   }
 }

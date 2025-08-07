@@ -1372,15 +1372,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "enw9s_l3PeE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:01:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) course, which is centred around Agile leadership and customer value rather than the One Engineering System framework. While there are elements of improving organisational performance and agility, these do not directly relate to the principles or components of 1ES. The discussion lacks explicit mentions of 1ES, integration of tools and processes, or best practices for implementing a unified engineering system, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 13.98,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.4,
+    "ai_audience": 5.3,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The course focuses strictly on Evidence-Based Management (EBM) for agile leadership, with no explicit or implicit discussion of One Engineering System (1ES), integrated engineering processes, or its principles. There are no mentions or alignment with the core 1ES topics such as unified tools, standardization across engineering teams, or system integration. The intent is to teach evidence-based leadership, not engineering system integration. While aimed at practitioners who might also engage with 1ES, the content itself is not relevant. Scores are low across direct mentions, alignment, depth, and signal; audience is higher since product owners/managers could be exposed to 1ES, but this is coincidental. No penalties applied.",
+    "reasoning_summary": "The content is only about Evidence-Based Management in agile leadership with no relation to One Engineering System principles, tools, or integration. Minimal alignment or relevance to 1ES; confidence is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2040,5 +2047,24 @@
     "reasoning": "The course does not explicitly mention 'Agentic Engineering.' However, it aligns closely with agentic themes: promoting autonomy, self-management, and adaptive decision-making in engineering and leadership practices. Focus is on empirical adaptation, organizational agility, and measurement for continuous improvement—all closely related to maximizing human agency. Ethical AI or systemic observability is not directly addressed, and the emphasis is on human agency within agile/EBM. The material is substantial and targeted at relevant practitioners and leaders, with most content staying on-topic. There's limited mention of DevOps or explicit references to system-level autonomy.",
     "reasoning_summary": "This content is strongly aligned with Agentic Engineering, emphasizing autonomy, self-management, and evidence-driven adaptive practices in agile leadership. While explicit mentions are lacking, its focus on enhancing agency through empiricism and value-based management is highly relevant to the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "enw9s_l3PeE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 29.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 3.7,
+    "ai_audience": 8.5,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on leadership, empiricism, value delivery, and measurement within Agile frameworks. While autonomy/self-management is encouraged, there is no reference to AI agents, contextual intelligence, integrated agent frameworks, or agentic delivery practices. The course covers evidence-based management for business agility, but delivers no substantive discussion on agent-driven delivery, AI integration, or modern agentic governance models. Audience alignment and relevance signal are fairly high for innovation-focused delivery audiences, but core Agentic Software Delivery topics and depth are absent.",
+    "reasoning_summary": "Content is about leadership and evidence-based management in agile, not Agentic Software Delivery. No mention or discussion of AI agents, agentic practices, or intelligent automation. Themes only weakly overlap on autonomy and outcomes but lack specific agentic focus.",
+    "level": "Ignored"
   }
 }

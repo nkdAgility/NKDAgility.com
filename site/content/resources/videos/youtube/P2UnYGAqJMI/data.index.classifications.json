@@ -1435,15 +1435,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "P2UnYGAqJMI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:58:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the use of burndown charts and advocating for minimal planning and continuous flow. It does not mention the One Engineering System (1ES) framework, its principles, or its components, nor does it address integration of tools and processes across teams, which are key topics for the 1ES category. The focus is on Agile practices rather than the standardisation and integration of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 18.32,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.55,
+    "ai_depth": 2.75,
+    "ai_intent": 1.5,
+    "ai_audience": 3.05,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Agile burndown charts, minimal planning, and continuous flow, arguing for Agile adaptations but never mentions or addresses One Engineering System (1ES), unified cross-team processes, or standardized engineering methods. Its themes are about practical Agile team-level improvements and not about large-scale integration, tool/process standardisation, or 1ES-specific concepts. No in-depth discussion or even surface-level reference to 1ES. The audience—Agile practitioners and coaches—slightly overlaps with 1ES stakeholders, but fit is incidental and indirect.",
+    "reasoning_summary": "The content is an Agile critique, not about One Engineering System. No direct or indirect discussion on standardisation or integration across teams; audience and intent don’t align. Classification fit is low and confidence reflects this partial overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1951,5 +1958,24 @@
     "reasoning": "The content critiques Agile burndown charts and advocates a shift toward minimal planning and continuous value delivery. Its themes superficially nod to elements relevant for Agentic Engineering, like adaptability and decentralizing planning. However, it does not explicitly discuss maximizing human or AI agency, systemic observability, or ethical AI. The philosophy leans more toward classic Agile/Lean than the intentional engineering of agency. There are few, if any, direct mentions of Agentic Engineering or its signature practices. The primary audience (Agile practitioners) somewhat overlaps, but key Agentic Engineering concepts are missing or only weakly implied.",
     "reasoning_summary": "While the article promotes adaptive, flow-based Agile practices, it lacks substantive connection to Agentic Engineering—omitting direct engagement with developer/AI agency, systemic observability, or deliberate agentic systems. Relevance is tangential rather than core.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "P2UnYGAqJMI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 17.791,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.3,
+    "ai_audience": 6.3,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Agile planning pitfalls and advocates continuous flow and minimal planning in teams. It does not reference agentic software delivery, autonomous AI agents, agent/human synergy, contextual intelligence, or modern agent-focused delivery practices. There is no substantive discussion of agentic principles, nor is there mention of autonomous systems, AI, governance, observability, or feedback loops as defined. The audience (Agile teams, coaches) somewhat overlaps but the substance is misaligned. The closest match relates to continuous flow and outcome orientation, but this is framed in classic Agile terms, not agentic or AI-powered delivery.",
+    "reasoning_summary": "Content covers Agile planning issues and continuous flow, but lacks any discussion of agentic software delivery, autonomous agents, or relevant AI integration. It does not fit the category except for tangentially related delivery principles.",
+    "level": "Ignored"
   }
 }

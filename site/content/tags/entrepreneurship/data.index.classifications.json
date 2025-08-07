@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Entrepreneurship",
     "category": "Method",
-    "calculated_at": "2025-04-09T15:51:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses entrepreneurship in a broad context, focusing on innovation and decision-making rather than specific structured methods or procedures. While it mentions Agile and Lean methodologies, it does not delve into the specific methods or step-by-step processes associated with them. The discussion is more philosophical and conceptual, lacking the detailed procedural focus required for a strong alignment with the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 18.65,
+    "ai_mentions": 1.6,
+    "ai_alignment": 2.75,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 4.45,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses 'entrepreneurship' as a mindset and illustrates its value for innovation, agility, and collaboration. While it briefly mentions alignment with Agile and Lean methodologies, it does not describe specific step-by-step procedures, structured processes, or methods. The main ideas and purpose focus on fostering a culture and mindset, not on methods themselves. Mentions of experimentation and feedback are conceptual, not procedural. Audience is loosely aligned but skewed toward general business practitioners. No outdated or undermining tone was detected, so no penalties apply.",
+    "reasoning_summary": "Does not fit the 'Method' category—focuses on entrepreneurial mindset, not structured procedural methods. Only minor conceptual links to methods through mention of Agile and Lean, but lacks method detail or stepwise process discussion.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3104,6 +3111,25 @@
     "final_score": 14.0,
     "reasoning": "The content on entrepreneurship focuses on fostering innovation, risk-taking, and collaboration within organizations, with references to Agile and Lean. However, it does not directly discuss human-AI partnerships, AI agent collaboration, or collective intelligence as defined. Themes of collaboration are purely among humans, lacking any mention of AI agency or socio-technical factors central to the category. Therefore, alignment, depth, and mentions scores are very low, and the confidence reflects minimal fit.",
     "reasoning_summary": "This content centers on human-driven entrepreneurship, innovation, and collaboration but does not address human-AI partner dynamics or collective intelligence as defined by the category. As such, its relevance is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Entrepreneurship",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 14.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on general entrepreneurship themes, such as innovation, risk-taking, value delivery, and agility. It references ideas aligned with Agile and Lean, stressing experimentation and customer feedback. However, no explicit or implicit discussion of AI agents, agentic principles, or the integration of autonomous agents with human expertise in software delivery is present. The conceptual alignment is only partial, as the content mentions proactive mindsets and feedback loops, but does not provide depth about agentic software delivery, autonomous agents, or related engineering practices. The audience may overlap somewhat (innovation-driven teams), but the relevance and specificity to the category are low.",
+    "reasoning_summary": "The content is about entrepreneurship and innovation, not specifically agentic software delivery. It lacks references to AI agents, autonomy, or agentic principles; thus there is very limited alignment with the category.",
     "level": "Ignored"
   }
 }

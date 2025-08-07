@@ -538,15 +538,22 @@
     "level": "Ignored"
   },
   "Market Share": {
+    "resourceId": "fcOSewXez3I",
     "category": "Market Share",
-    "calculated_at": "2025-03-14T23:08:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity, with only a brief mention of a 'competitive edge' for organisations adopting AI. However, it lacks a detailed discussion on market share strategies, competitive analysis, or specific methodologies for increasing market presence, which are essential for the 'Market Share' category.",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 11.12,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 2.7,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content extensively discusses AI's impact on workplace productivity and individual creativity, focusing on personal improvements and workflow, not on market share. While there is a brief mention of gaining a 'competitive edge,' this is a passing reference to outperforming competitors via efficiency, not a substantive discussion of market presence, share growth strategies, or competitive market analysis. There is no focus on metrics, methodologies, or strategies to grow or measure market share, nor does the content target strategists or executives seeking to expand their product's market footprint. The audience is mainly individuals looking to improve daily work, and almost all discussion centers around workplace changes, not market positioning.",
+    "reasoning_summary": "Content focuses on AI for personal productivity and creativity, with only a fleeting reference to competitive advantage. No substantive discussion of market share, strategy, or competition; fit with the 'Market Share' category is almost nonexistent.",
     "level": "Ignored"
   },
   "Scrum Team": {
@@ -1928,5 +1935,24 @@
     "reasoning": "The content presents AI as a productivity and creativity booster, framing it as a co-pilot that augments human work. While it does touch on agency (control, empowerment), it lacks explicit reference to Agentic Engineering or its more technical or systemic aspects. Depth is modest, focusing mostly on individual productivity rather than the engineering of agency at a team or system level. Its intent is to encourage adoption and upskilling but does not explore engineering practices, DevOps ethos, feedback-driven change, or ethical autonomy in depth. The audience aligns well, as it appeals to professionals interested in work modernization, and the signal is solid, but the content is not extensively focused on the deliberate design of engineering practices to maximize human or AI agency.",
     "reasoning_summary": "This content promotes AI as an empowering, productivity-boosting companion, aligning somewhat with the philosophy of Agentic Engineering. However, it lacks direct engagement with the engineering design, DevOps, or systemic aspects central to the category. Fit is partial but meaningful.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 36.5,
+    "ai_mentions": 1.9,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.8,
+    "ai_intent": 4.5,
+    "ai_audience": 4.3,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content discusses general productivity and creativity boosts from AI, such as idea generation, content drafting, and automating mundane tasks. It emphasizes AI as a 'co-pilot' but doesn't discuss integration of autonomous AI agents, contextual intelligence, modern engineering practices, or delivery systems. There's no exploration of agentic software principles, synergy with human expertise in software delivery, or specific delivery frameworks. The audience seems general, not focused on software delivery professionals. Little to no explicit reference to 'Agentic Software Delivery' or its core themes is present. No penalties applied as there is no outdated or contradicting content.",
+    "reasoning_summary": "Content covers general AI productivity uses, not agentic software delivery. Lacks depth on integration, context, or delivery-specific themes. Only partial, tangential fit; not targeted at the core category or its audience.",
+    "level": "Ignored"
   }
 }

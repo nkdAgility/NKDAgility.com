@@ -787,15 +787,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "IDMjGi5C8lS",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:28:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the historical context of management practices and critiques the adoption of Agile methodologies, without any direct mention or exploration of Test First Development principles. It lacks focus on success criteria, testing practices, or the role of feedback loops in the context of Test First Development.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 16.07,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.4,
+    "ai_intent": 2.5,
+    "ai_audience": 4.8,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses Taylorism's history and the problems with superficial Agile adoption but does not directly mention or discuss Test First Development. There are indirect touches on feedback loops, which are relevant to Test First, but without explicit or deep coverage of TFD principles, practices, or examples. The main purpose is historical critique and detecting agile 'BS', not informing about or promoting Test First Development. While there is some thematic overlap via feedback loops, it is limited and not the central theme; thus, scores for alignment, depth, and intent are low.",
+    "reasoning_summary": "The content critiques management history and poor agile adoption, briefly mentioning feedback loops, but lacks direct or in-depth discussion of Test First Development. Relevance to the category is minimal and mostly tangential.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1975,6 +1982,25 @@
     "final_score": 31.0,
     "reasoning": "The content critiques Taylorism and highlights the persistence of outdated management practices, calling for increased feedback loops in Agile. While it discusses systemic issues and implicitly emphasizes the need for better engineering environments, it does not directly reference Agentic Engineering, nor does it substantially address topics like human or AI agency, ethical autonomy, or DevOps-infused craft. The alignment and depth are moderate, given the thematic focus on autonomy and feedback, but the connection is largely indirect and lacks explicit conceptual discussion pertinent to Agentic Engineering.",
     "reasoning_summary": "The content discusses the historical roots of restrictive management and advocates for improved feedback in Agile, which loosely aligns with Agentic Engineering's emphasis on autonomy and adaptive change. However, it does not explicitly address or deeply explore agentic engineering concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IDMjGi5C8lS",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 19.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 6.3,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content critiques outdated management practices (Taylorism) and superficial Agile adoption, focusing on feedback loops' absence. However, it does not mention or explore agentic software delivery, autonomous AI agents, agency in delivery, or modern AI-driven engineering practices. There is some faint, indirect alignment where feedback loops and the critique of legacy methods might relate to themes in agentic thinking, but this is neither detailed nor explicit. The intended audience (practitioners interested in Agile improvement) partially overlaps with the agentic category, but the substance is not an actual discussion of integrating AI agents, contextual intelligence, or agentic practices in delivery. No penalties applied as content is current and not satirical.",
+    "reasoning_summary": "This content critiques outdated management and poor Agile but does not cover agentic software delivery concepts, AI agents, or contextual intelligence. Fit is loose and indirect at best, lacking explicit or deep thematic overlap.",
     "level": "Ignored"
   }
 }

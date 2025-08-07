@@ -36,16 +36,23 @@
     "level": "Tertiary"
   },
   "Tenet": {
+    "resourceId": "Deployment Strategies",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses deployment strategies in detail, focusing on balancing risk and speed, which aligns with Agile and DevOps principles. However, it does not explicitly mention specific tenets or actionable guiding rules, making it more of a general discussion on practices rather than a focused exploration of tenets.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 66.9,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.7,
+    "ai_intent": 6.2,
+    "ai_audience": 8.1,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content focuses on deployment strategies (blue-green, canary, rolling update), their impact on risk, iteration, and value delivery, and connects them to Agile/DevOps principles like experimentation and continuous improvement. However, explicit use of 'tenet' or detailed discussion of prescriptive tenets is absent. The alignment and depth are moderate, as the text emphasizes guiding principles and actionable approaches (experimentation, learning, collaboration) that closely resemble methodological tenets but does not directly enumerate them. The overall relevance is strong for practitioners in Agile/DevOps, with high signal-to-noise, but the precision of mapping to the 'tenet' category (as doctrine/guiding rule) is moderate.",
+    "reasoning_summary": "Covers actionable guiding principles in deployment and links to Agile/DevOps culture, matching core tenet themes, but lacks direct reference to specific tenets. Fit is partial: conceptually strong, explicitly moderate.",
+    "level": "Secondary"
   },
   "Method": {
     "category": "Method",
@@ -3121,6 +3128,25 @@
     "final_score": 12.0,
     "reasoning": "The content focuses on deployment strategies—blue-green, canary releases, rolling updates—and their role in balancing risk and speed during software delivery. It discusses agile and DevOps collaborations but only in a human-to-human context, with no mention, reference, or implication of AI agents, human-AI partnerships, or collective intelligence as defined. There are broad discussions of collaboration and shared responsibility, but none involve AI, distributed cognition between humans and AI, or enhanced capabilities resulting from human-AI teaming. Thus, the content scores very low on direct mentions, conceptual alignment, and depth. The audience alignment is somewhat higher, as DevOps and Agile practitioners are relevant, but all signals point to a strictly human-driven collaboration model.",
     "reasoning_summary": "This content describes human-centric deployment strategies in Agile/DevOps, with no reference to human-AI collaboration or collective intelligence themes. It lacks alignment and depth with the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Deployment Strategies",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 32.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.0,
+    "ai_audience": 6.1,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on release and deployment strategies like blue-green and canary deployments, which are best practices in DevOps and Agile. However, there is no explicit or implicit mention of autonomous AI agents, agentic principles, context-aware intelligence, or how human expertise and AI operate together within delivery systems. While it discusses systematic processes for risk mitigation, experimentation, and operational resilience—which are relevant to modern delivery paradigms—the themes do not directly connect to Agentic Software Delivery. The audience is somewhat aligned (technical, delivery-focused), and most of the content is on-topic for software delivery, but the lack of agentic concepts substantially reduces alignment, depth, and intent scores. Thus, there is only a minimal fit with the category as defined.",
+    "reasoning_summary": "Content details modern deployment in software delivery but does not introduce agentic principles, AI agents, or integration with human expertise in delivery. Only slight overlap with broader delivery modernization. Fit is minimal and mostly indirect.",
     "level": "Ignored"
   }
 }

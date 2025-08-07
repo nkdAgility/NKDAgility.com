@@ -1369,17 +1369,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "grJFd9-R5Pw",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:27",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the APS course and its practical application of Scrum, which is a framework that supports collaboration and decision-making. While it discusses the challenges of traditional organisational structures and the importance of effective problem-solving, it does not explicitly delve into broader social technologies or frameworks that promote collaboration beyond Scrum. The discussion is somewhat aligned with the core themes of social technologies, particularly in terms of fostering collaboration and addressing dysfunctions in team dynamics, but it lacks depth in exploring the wider implications of social technologies in organisational contexts.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is somewhat relevant to the category, as it highlights how Scrum encourages teamwork and addresses organisational challenges. However, it mainly centres on the APS course and Scrum itself, without exploring a wider range of social technologies or collaborative frameworks. As such, it only partially fits the category, lacking broader discussion of social technologies in organisational settings."
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 90.44,
+    "ai_mentions": 2.6,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.3,
+    "ai_intent": 9.1,
+    "ai_audience": 9.6,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content is highly aligned with Social Technologies, focusing on how the APS course fosters self-organization, collaboration, and collective intelligence in Scrum teams through practical exercises. It explores organizational constraints, transparency in team dynamics, iterative improvement, and the facilitation of emergent problem-solving. There is very thorough discussion about traditional dysfunction, decision-making, and value delivery in agile contexts. The content directly targets practitioners/managers in Agile and DevOps, providing rich, relevant detail and only minor off-topic marketing/filler. No penalties are needed, as there are no outdated or contradictory elements.",
+    "reasoning_summary": "This content deeply matches Social Technologies by discussing hands-on methods to enhance collaboration, self-organization, decision-making, and value delivery in Scrum and agile teams, with practical examples of continuous improvement in complex organizations.",
+    "level": "Primary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -2026,6 +2032,25 @@
     "final_score": 33.0,
     "reasoning": "Direct references to 'Agentic Engineering' or its terminology are absent. The content centers on training people to use Scrum effectively within organizations, emphasizing practical exercises and revealing the impact of traditional mindsets. While there are discussions about team autonomy, decision-making, and overcoming organizational constraints, these are framed as elements of general agile and scrum practice rather than the deliberate maximization of human and AI agency—the core of Agentic Engineering. Topics such as systemic observability, DevOps-infused craft, or ethical AI are not covered. The focus is on human learning, improvement, and organizational adaptation in agile contexts. The audience (practitioners, scrum teams, leaders) partly overlaps, but the conceptual focus remains primarily on agile education and transformation, not the philosophical or systemic engineering implications central to Agentic Engineering.",
     "reasoning_summary": "This content outlines practical scrum training and agile adaptation, with limited relevance to Agentic Engineering. It briefly touches on autonomy and decision-making but does not delve into agency maximization, system design, or AI integration—core aspects of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "grJFd9-R5Pw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.5,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on teaching and applying Scrum via practical exercises and simulations in organisational settings. There is no mention or evidence of autonomous AI agents, agency, or the integration of AI/human expertise as described in Agentic Software Delivery. The core themes are traditional agile coaching and Scrum effectiveness, not agentic delivery or software enhanced by contextual AI. Target audience is practitioners of Scrum, which partially overlaps with agentic delivery but with differing context. The only vague alignment is that both focus on improving software delivery, but this piece does not address core Agentic topics, such as agent integration, agency, or contextual intelligence. Therefore, very low scores on all relevant dimensions.",
+    "reasoning_summary": "Content strictly covers traditional Scrum training, lacking references to agentic principles, AI agents, or contextual intelligence. Intent and depth are misaligned with Agentic Software Delivery. Only minimal conceptual overlap; overall, not a fit.",
     "level": "Ignored"
   }
 }

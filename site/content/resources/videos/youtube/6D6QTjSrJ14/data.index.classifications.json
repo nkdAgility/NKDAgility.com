@@ -1436,15 +1436,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "6D6QTjSrJ14",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T22:25:18",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Agile and Scrum in the context of immersive learning experiences, but it does not delve into specific Scrum roles, events, or principles. While there is a focus on continuous development and feedback loops, which align with Scrum's iterative nature, the discussion lacks depth and does not provide detailed insights into Scrum practices or frameworks. The mention of 'Agile, Scrum, or DevOps' at the end is too vague to significantly enhance the relevance to the Scrum category.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 11.1,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.8,
+    "ai_intent": 2.0,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on immersive learning for professional development with no explicit reference to Scrum, Agile, or related frameworks. While it touches on iterative and collaborative learning—which can coincide philosophically with Scrum’s approaches—it makes no mention of Scrum roles, events, artifacts, or empirical process control. The audience could overlap with Scrum practitioners curious about modern learning, but overall relevance and conceptual alignment are minimal. No penalties are applied, as it doesn't reference outdated practices or undermine the Scrum framework.",
+    "reasoning_summary": "The content centers on immersive learning methods without any direct or substantial connection to Scrum principles or its framework, making fit with the 'Scrum' category extremely weak.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -2007,6 +2014,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on the evolution of immersive learning in professional development, emphasizing sustained engagement, feedback loops, and community support. While it references experimentation and feedback-driven iterations, it does not mention or substantively discuss agentic engineering, developer or AI agency, or the deliberate design of engineering practices maximizing agency. There are no discussions of DevOps, autonomy, or ethical AI. The main audience is likely trainers and organizational learning professionals rather than software engineering practitioners. Thus, direct relevance is minimal and alignment is weak but present in references to adaptation and feedback cycles.",
     "reasoning_summary": "While the piece covers adaptive, feedback-driven learning, it lacks direct or substantive discussion of agentic engineering, human/AI agency, or engineering practice design. Its fit to the category is tangential, resulting in low confidence for classification under Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6D6QTjSrJ14",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 7.59,
+    "ai_mentions": 0.12,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.27,
+    "ai_intent": 0.21,
+    "ai_audience": 0.19,
+    "ai_signal": 0.17,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content centers around immersive learning in professional development, not software delivery. There are references to feedback loops, continuous improvement, and real-world application, which are tangentially related to themes in Agentic Software Delivery, but there is no discussion of AI agents, contextual intelligence, or autonomous systems in delivery processes. No direct mentions or substantive conceptual overlap with the category as defined. The main audience is trainers and learners, not technical delivery teams.",
+    "reasoning_summary": "Content focuses on immersive learning and professional development, not agentic software delivery, AI agents, or autonomous systems. There’s only minor thematic overlap (feedback loops, continuous improvement), so fit with the category is minimal.",
     "level": "Ignored"
   }
 }

@@ -97,15 +97,22 @@
     "level": "Ignored"
   },
   "Remote Working": {
+    "resourceId": "DsvMKLto30o",
     "category": "Remote Working",
-    "calculated_at": "2025-03-14T16:20:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses software delivery challenges and organisational issues related to legacy systems, with no direct mention of remote working practices, tools, or Agile methodologies in a remote context. While it touches on the need for continuous delivery and organisational will, it does not address the unique challenges or solutions associated with remote work in Agile teams.",
+    "calculated_at": "2025-08-07T06:10:21",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 1.3,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on simplifying complex systems for continuous delivery, cultural change, and resilience in Agile/DevOps environments. There is no discussion of remote work, distributed teams, collaboration at a distance, or tools/techniques for remote Agile. The text is aimed at Agile practitioners or leaders but does not reference Remote Working directly or conceptually. All dimensions justifiably receive scores close to zero and the overall confidence is extremely low.",
+    "reasoning_summary": "The content is unrelated to Remote Working, as it does not discuss distributed teams, remote collaboration, or relevant challenges/solutions. No fit with the category beyond targeting Agile practitioners in general.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -2245,5 +2252,24 @@
     "reasoning": "The content does not directly mention Agentic Engineering and only tangentially touches on the concept of maximizing engineer agency. The main thrust is about organizational will, cultural change, and process overhaul to achieve continuous delivery. There are strong references to continuous improvement, resilience, and adaptability—which overlap with Agentic Engineering—but little explicit focus on decentralised decision-making, ethical AI integration, or specific agency-maximizing frameworks. No obsolete practices or tone infractions were observed. The target audience (engineers, leaders) aligns, and the content is focused and actionable, but the philosophical and agentic depth is moderate, not comprehensive.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering by advocating for organizational change, resilience, and continuous delivery, but it lacks explicit references or deep exploration of agency-maximizing engineering practices, AI collaboration, or decentralization.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DsvMKLto30o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 33.55,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.8,
+    "ai_intent": 4.6,
+    "ai_audience": 4.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content is focused on the importance of simplicity and organisational change in achieving continuous delivery, highlighting the challenges of legacy systems and the need for cultural resilience. However, there are no explicit or implicit discussions of autonomous AI agents, agency in delivery, integration of contextual intelligence, or governance frameworks specific to agentic software delivery. It does not discuss AI, agents, or the agentic paradigm, but rather stresses general modern engineering and organisational improvement. Most key agentic delivery topics are entirely absent. The audience could overlap with agentic themes due to the technical/devops focus, but the content fails to address agentic principles or examples.",
+    "reasoning_summary": "Content discusses continuous delivery and legacy systems, but lacks any reference to agentic software delivery, AI agents, or autonomous/context-aware systems. The fit is poor; general delivery improvement, not agentic delivery, is the focus.",
+    "level": "Ignored"
   }
 }

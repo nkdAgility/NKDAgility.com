@@ -530,15 +530,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "IZ-FlBbGaSY",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:39:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses the importance of quality and culture within software development but does not explicitly mention Test First Development or its principles. It focuses more on CI/CD practices and organisational culture rather than the specific practices of defining success criteria or the role of testing in development.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 18.96,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.2,
+    "ai_intent": 2.1,
+    "ai_audience": 4.4,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on fostering a culture of quality, engineering excellence, and technical leadership, largely via anecdotal and conceptual examples from aviation and software. There are very broad allusions to software quality and CI/CD, which align partially with the goals and outcomes associated with Test First Development but do not mention its principles, terminology, or practices. There is no discussion of defining success criteria before implementation, test-driven or acceptance-test-driven development, feedback loops, or specific Test First methodologies. Some technical audience alignment exists, but Test First is at best tangential in this context.",
+    "reasoning_summary": "Broad focus on quality culture and engineering excellence with no direct or substantial reference to Test First Development principles or practices. Only tangential alignment with the category; fit is partial and mostly indirect.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2011,5 +2018,24 @@
     "reasoning": "The content strongly emphasizes engineering excellence, technical leadership, empirical learning, and ethical organizational cultures—closely aligning with 'Agentic Engineering.' References to quality, leadership, and decision-making frameworks contribute to conceptual fit. However, it does not use the category's phrase or terminology directly, only implies some key topics (agency, feedback-adaptation, DevOps ethos) without explicit focus on maximizing human/AI agency or integrating AI collaboration. Depth and intent are robust, but the primary thrust is towards fostering cultural and process quality in engineering rather than full spectrum agentic design. Some overlap exists (engineering decisions, empirical reflection, organizational contexts), but signal-to-noise is mildly diluted by historical examples and service promotion at the end. No penalties apply, and minor dimension offsets are maintained for granularity.",
     "reasoning_summary": "This content aligns well with Agentic Engineering themes through its focus on engineering excellence, ethical leadership, and decision frameworks. While direct references to agency or AI are absent, its advocacy for empirical, culture-driven quality and autonomous decision-making supports a strong, though not complete, category fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IZ-FlBbGaSY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 19.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content strongly discusses building a culture of quality, engineering excellence, leadership, and the impact of organizational values on technical outcomes. It mentions CI/CD pipelines, continuous integration, and agile frameworks but never references agentic software delivery, autonomous AI agents, or contextual AI. There is no exploration of proactive, context-aware intelligence, agent integration, or modern AI-driven delivery practices central to the category. The focus is on human culture, leadership, and engineering discipline, not on the synthesis of agentic principles. The audience (software practitioners/managers) is somewhat aligned, but the content is generally not on the agentic paradigm. Most themes are only tangentially related due to overlap with modern engineering best practices.",
+    "reasoning_summary": "The content focuses on quality culture and engineering excellence, not on autonomous AI agents or agentic delivery. Mentions of CI/CD and agile are present, but agentic concepts are absent. Fit with 'Agentic Software Delivery' is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

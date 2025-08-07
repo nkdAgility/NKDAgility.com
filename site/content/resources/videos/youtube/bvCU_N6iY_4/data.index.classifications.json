@@ -1463,15 +1463,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "bvCU_N6iY_4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:39:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Business Agility and does not mention or discuss the One Engineering System (1ES) framework. While it touches on collaboration and community engagement, it lacks direct references to the principles, components, or implementation of 1ES, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 13.98,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 5.1,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on business agility and Lean Coffee-style collaborative learning, not on engineering system unification or One Engineering System (1ES) principles. No mention of 1ES, its components, process integration, or implementation challenges. The only partial overlap is in audience (agile practitioners, some of whom may engage in engineering process topics), but the main topic, intent, and examples do not relate to 1ES or the category definition.",
+    "reasoning_summary": "Content is about business agility discussions and collaboration, not 1ES or engineering system integration. No conceptual or explicit connections to the category beyond a partially aligned target audience. Fit with category is minimal and unclear.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1979,6 +1986,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on facilitating business agility discussions via Lean Coffee sessions. While it mentions real-world challenges, continuous learning, collaboration, and enables participant-driven agency, it does not discuss engineering practices, software development, DevOps, AI, or decision frameworks central to Agentic Engineering. It targets agility enthusiasts and practitioners but lacks technical depth, philosophical exploration of agency, or mention of engineering autonomy for humans or AI. No penalties were needed as it is current, inclusive, and not contradictory.",
     "reasoning_summary": "While fostering agency and collaborative learning in business agility discussions, the content does not align with Agentic Engineering's focus on engineering practice, human/AI autonomy, or DevOps ethos, resulting in a low confidence of direct category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bvCU_N6iY_4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 11.325,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.4,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content centers on business agility discussions, using collaborative formats like Lean Coffee and Mural, but makes no direct or indirect reference to agentic concepts, AI agents, contextual intelligence, or the software delivery context specified in the category. The primary focus is sharing real-world experiences and fostering continuous learning in an agile community, with no discussion of AI agency, integration of agents, or relevant technical practices. Audience overlap is minimal and arises only via generic agile practitioner appeal. No outdated or critical tone is present, so no penalties were applied. As such, confidence in fit is extremely low.",
+    "reasoning_summary": "This content focuses on business agility conversations with no mention or discussion of agentic software delivery, AI agents, or relevant engineering practices. Its thematic and audience overlap with the category is incidental and very weak.",
     "level": "Ignored"
   }
 }

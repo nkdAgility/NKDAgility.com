@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Install and Configuration",
     "category": "Method",
-    "calculated_at": "2025-04-09T15:42:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses installation and configuration processes that support agile, lean, and DevOps practices, but it primarily focuses on the technical setup of tools rather than structured, step-by-step methods. While it touches on the importance of these processes for enabling methodologies, it lacks detailed procedural discussions specific to methods like Scrum or Kanban, which are central to the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 23.85,
+    "ai_mentions": 1.4,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 7.2,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on installing and configuring tools to support Agile, Lean, and DevOps, but remains focused on technical and preparatory aspects rather than outlining structured, step-by-step procedural methods as defined in the category. There are some conceptual links (e.g., enabling workflows and supporting methodologies) but no mention or description of actual methods, iterative practices, or procedural approaches. Mentions of 'processes' are general and refer to setup/configuration instead of core methods. Depth, alignment, and intent all reflect a partial and surface-level fit. No explicit penalties applied, since tone and data are current and neutral.",
+    "reasoning_summary": "Content describes installation and configuration of tools, focusing on enabling methods but not on step-by-step procedural approaches. Fit with 'Method' category is partial and indirect, lacking discussion on core methods or structured techniques.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3172,6 +3179,25 @@
     "final_score": 10.0,
     "reasoning": "The content focuses on installation and configuration of tools and platforms primarily in support of agile and DevOps practices. There are no explicit or implicit discussions of humans collaborating with AI agents, human-AI partnership, or collective intelligence as defined in the category. The content discusses how technical setup supports team performance and value delivery, but these are generic outcomes relevant to many domains and not specific to human-AI enhanced cognition or collaboration. There are no direct mentions of the category, and the core concepts (emergence from human-AI partnerships, shared agency, collaborative intelligence) are absent. The intended audience (agile/DevOps practitioners or managers) might align with some topics in the category, but the main focus remains on technical aspects, not collective intelligence. All scores reflect the lack of direct, aligned, or in-depth content related to the required category.",
     "reasoning_summary": "This content describes practices for setting up tools and platforms in agile and DevOps contexts, but does not address human-AI collaboration or any aspects of collective intelligence. It is technical and organizational, without evidence of alignment to the defined category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Install and Configuration",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 26.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on install and configuration activities as foundations for agile and DevOps, describing their importance for efficiency and adaptability. However, it does not mention or discuss autonomous AI agents, contextual intelligence, agency, or human-AI synergy—the core of Agentic Software Delivery. No direct mentions; only a weak indirect link exists via value delivery and adaptability themes. Audience and relevance are fair due to technical focus, but the main purpose, topical alignment, and depth sharply diverge from the agentic definition.",
+    "reasoning_summary": "Content focuses on installation/configuration in agile/DevOps contexts, not agentic software delivery. Lacks any discussion of AI agents, contextual intelligence, or agency. Fit is marginal and highly indirect, with negligible direct relevance.",
     "level": "Ignored"
   }
 }

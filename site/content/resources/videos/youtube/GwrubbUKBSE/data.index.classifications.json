@@ -1414,15 +1414,22 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "GwrubbUKBSE",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:27:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a live Q&A session about DevOps and Agility, with no explicit discussion of Agentic Agility or its principles. While it mentions agility, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 18.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 2.4,
+    "ai_audience": 7.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content describes an open Q&A about DevOps, Agile, Scrum, and Azure DevOps but makes no direct or indirect references to agency, agentic agility, or the distinct dimensions required by the category definition. The main focus is broad, open-ended discussion, not the exploration of agency in Agile. While the audience partially overlaps with the intended practitioner/technical audience, the topic remains general, lacking conceptual alignment, depth, or focused intent related to Agentic Agility.",
+    "reasoning_summary": "This open Q&A session covers broad Agile and DevOps topics without mentioning or exploring agency or Agentic Agility. Content intent and themes do not fit the category definition; any connection is tangential and minimal.",
     "level": "Ignored"
   },
   "Hybrid Agile": {
@@ -1918,6 +1925,25 @@
     "final_score": 17.0,
     "reasoning": "The content describes an open Q&A covering broad topics like DevOps, Agile, Scrum, and Azure DevOps, hosted by a professional in the field. There are no direct mentions of Agentic Engineering or its core concepts such as systemic observability, developer agency, ethical AI, or feedback-driven engineering. While the practitioner audience overlaps, the material itself is general, with no depth on agentic practices, decision frameworks, or value delivery mechanisms. The intent is informative but not tailored to the Agentic Engineering philosophy. The content may incidentally touch on relevant engineering practices through questions, but this is neither explicit nor emphasized.",
     "reasoning_summary": "This Q&A session relates broadly to DevOps and Agile without focusing on Agentic Engineering themes such as human/AI agency, systemic observability, or continuous feedback. There is no explicit or in-depth alignment with the category, making relevance marginal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GwrubbUKBSE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 6.28,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.1,
+    "ai_signal": 0.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There are no direct mentions or substantive discussion of agentic software delivery or key related themes; content is a generic open Q&A about Agile, Scrum, DevOps, and Azure DevOps. The intent and audience are not aligned with the agentic category, and there is no focus on autonomous AI agents, contextual intelligence, or modern agentic engineering practices. Content is largely promotional for an AMA session.",
+    "reasoning_summary": "The content does not fit Agentic Software Delivery; it is a general Agile/DevOps Q&A session with no evident relevance to agentic principles, AI agents, or contextual intelligence.",
     "level": "Ignored"
   }
 }

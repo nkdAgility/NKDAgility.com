@@ -695,15 +695,22 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "KX1xViey_BA",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:52:27",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the historical shift from people to systems, referencing Frederick Winslow Taylor's philosophy, which aligns with systems thinking. It touches on the balance between systems and people in Agile environments, indicating an understanding of organisational dynamics. However, while it mentions systems thinking principles, the depth of discussion on organisational behaviour and dynamics is moderate, leading to a confidence score that reflects a solid but not exhaustive engagement with the category.",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 69.85,
+    "ai_mentions": 5.7,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.4,
+    "ai_intent": 7.1,
+    "ai_audience": 7.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 70.0,
+    "reasoning": "The content addresses the historical evolution from individual-focused to system-focused work via Taylorism, relating it to Agile's balance between systems and people. While it references systemic thinking and organisational dynamics (e.g., systems hindering work, continual evaluation, empowering people), it does not explicitly engage with established Organisational Physics or systems thinking frameworks. The exploration is moderate in depth, emphasizing the balance and feedback between systems and individuals in organisational contexts, aligning with category aims. No penalties applied, as content is current, non-satirical, and thematically fitting though not technically deep.",
+    "reasoning_summary": "Content aligns well with the Organisational Physics category by exploring systemic impacts on organisational behaviour, though without technical depth or explicit frameworks. Discussion is relevant but partially indirect; fit is adequate but not comprehensive.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1921,5 +1928,24 @@
     "reasoning": "The content provides a high-level discussion on the historical evolution from people-centered to system-centered work, highlighting the importance of balancing systems with people in Agile environments. It aligns conceptually with Agentic Engineering in advocating empowered practitioners and adaptive systems. However, it does not explicitly refer to agentic principles, decision decentralization, or DevOps-infused craft, and avoids detailed engineering practices or the philosophical framing of agency. The discussion is generally relevant for practitioners interested in organizational change and Agile, but the coverage of Agentic Engineering’s unique elements is indirect and lacks depth and explicit mentions, resulting in a moderate confidence score.",
     "reasoning_summary": "The content explores balancing human and system factors in Agile, conceptual alignment with Agentic Engineering is present but not explicit, and depth on agentic or engineering-specific practices is limited, making relevance moderate rather than strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 28.05,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 8.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses the historical transition from people-centric to system-centric work and how Agile approaches restore focus to people. It does not mention or explore agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI and human expertise. The main theme is about the balance between systems and people in modern Agile, not specifically proactive agent-based systems or agency in software delivery. Only some generic emphasis on systems and empowerment vaguely relates but lacks the terminology, concepts, or depth required for 'Agentic Software Delivery.'",
+    "reasoning_summary": "Content is about the evolution and balance of systems vs. people in work, focusing on Agile, not on agentic software delivery or agent-based intelligence. Only tangentially relevant to the category.",
+    "level": "Ignored"
   }
 }

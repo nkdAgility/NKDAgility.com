@@ -1476,15 +1476,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "BCWiKTm8hjg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:12:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of charity within Agile methodologies, focusing on team dynamics and personal experiences rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is more about individual and team behaviours in Agile rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 22.945,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 6.3,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content centers on the virtue of charity within Agile methodology, focusing on team support, culture, and motivation. There are no explicit or implicit references to the One Engineering System (1ES), nor to standardizing tools, processes, or practices across teams. The discussion is rooted in behavioral and cultural aspects of Agile, not on frameworks for integration or unification. The audience could overlap with 1ES but the content is not targeted toward practitioners interested in engineering integration or standardization. Thus, confidence is very low for fitting the category, with only tangential conceptual alignment.",
+    "reasoning_summary": "The content focuses on 'charity' as a virtue in Agile, not on unifying engineering systems, frameworks, or standardized processes. No reference to 1ES concepts; fit is minimal and only tangential at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 25.0,
     "reasoning": "The content thoroughly addresses the virtue of charity in Agile, focusing on altruism, collaboration, and building a supportive culture within teams. While there is some conceptual overlap with agency—such as references to autonomy, purpose, and collective decision-making—there is no direct engagement with Agentic Engineering concepts. The main focus is on human virtues and team dynamics, with little discussion on decentralized engineering practices, leveraging AI, systemic observability, or DevOps-infused craft. The audience is relevant (practitioners, coaches, leaders), but the content does not mention or deeply align with the deliberate maximization of human and AI agency at engineering or systemic levels.",
     "reasoning_summary": "The discussion centers on charity and supportive Agile team culture, only lightly touching on elements like autonomy without addressing core Agentic Engineering themes. Most content is tangential to the category, resulting in low alignment and confidence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 3.6,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the virtue of charity in Agile teams, emphasizing collaboration, intrinsic motivation, and organizational benefit. However, there are zero direct references to autonomous AI agents, agentic intelligence, or integration of humans and AI in software delivery. No agentic context, agency, or AI support mechanisms are discussed. The content's themes revolve around human behavior, psychological motivation, and Agile teamwork, but not at all around the proactive, embedded intelligence or AI-human synergy central to Agentic Software Delivery. The audience may include Agile practitioners, which modestly overlaps, but the topic itself does not fit the category requirements.",
+    "reasoning_summary": "Content discusses charity and collaboration in Agile, with no mention of AI, agentic systems, or delivery via autonomous agents. No alignment with Agentic Software Delivery as defined; audience overlap is minimal. Fit is extremely low.",
     "level": "Ignored"
   }
 }

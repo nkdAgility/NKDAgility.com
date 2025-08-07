@@ -821,13 +821,23 @@
     "level": "Tertiary"
   },
   "Transparency": {
+    "resourceId": "ZcMcVL7mNGU",
     "category": "Transparency",
-    "calculated_at": "2025-04-10T14:45:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of effective communication and shared goals within teams, which relates to transparency, but it primarily focuses on product management and the challenges of transitioning to Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 65.72,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.7,
+    "ai_intent": 7.4,
+    "ai_audience": 8.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content discusses clear communication, shared goals, and engaging stakeholders—concepts related to transparency—but does not directly mention 'transparency' or deeply explore it as a core theme. Focus is on alignment and collaboration, with transparency as an implicit element. Tools and practices like evidence-based management and hypothesis-driven engineering are mentioned, relevant to visibility but without explicit emphasis on transparency. The audience (organizational leaders, product managers) fits. No outdated or contradictory elements are present.",
+    "reasoning_summary": "Transparency is addressed as an underlying concept through clear communication and stakeholder engagement, but is not the primary theme; mentions are mostly indirect and the depth is moderate. Partial but not full fit with the category.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -2024,5 +2034,24 @@
     "reasoning": "Direct references to Agentic Engineering or its terminology are absent. Related topics, such as evidence-based management, hypothesis-driven engineering, value delivery, and fostering agency through vision and collaboration, are discussed but not explored in depth from an agentic perspective. Design for human/AI agency and ethical autonomy are not addressed. The intent—aligning teams for agile product management—overlaps tangentially with Agentic Engineering, but content remains focused on general agile alignment rather than deliberate design of agency-maximising practices. The audience matches technical/leadership practitioners, and signal is high with relevant examples, but depth and conceptual fit are moderate.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering through its advocacy for evidence-based, agency-focused agile practices, but it falls short of directly exploring agency-maximising design or the interplay of human and AI autonomy, yielding a mid-range confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZcMcVL7mNGU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 21.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.25,
+    "ai_depth": 2.75,
+    "ai_intent": 3.35,
+    "ai_audience": 6.9,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on agile product management and organisational alignment, with references to Evidence-Based Management and hypothesis-driven engineering. However, it never mentions agentic software delivery, autonomous AI agents, or related concepts. The main ideas focus on vision, value, collaboration, and evidence-based decision-making in an agile context, not on embedding context-aware autonomous AI agents into software delivery. The intended audience—practitioners in product management and software delivery—does overlap with the agentic delivery audience, but the topic remains adjacent, not directly aligned. There is no discussion of agent agency, integration with human expertise, modern agent-supporting engineering practices, or governance for AI agent interactions. Thus, fit is low, beyond a tangential connection via agile best practices and evidence-based management.",
+    "reasoning_summary": "Content discusses agile product management, collaboration, and evidence-based practices, not agentic software delivery. No mention of AI agents or autonomous context-aware systems; focus is on organisational process, so fit is minimal and tangential.",
+    "level": "Ignored"
   }
 }

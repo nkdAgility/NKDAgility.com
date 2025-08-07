@@ -86,16 +86,23 @@
     "level": "Primary"
   },
   "Philosophy": {
+    "resourceId": "Value Stream Mapping",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily focuses on the practical application of Value Stream Mapping as a tool for optimising workflows, which aligns more with procedural discussions than philosophical exploration. While it touches on themes of continuous improvement and organisational resilience, it lacks a direct discussion of the foundational beliefs or theoretical underpinnings that shape methodologies like Lean. The mention of fostering a culture of collaboration hints at broader cultural aspects but does not delve into the philosophical 'why' behind these practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 46.7,
+    "ai_mentions": 1.8,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.1,
+    "ai_intent": 5.3,
+    "ai_audience": 6.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content describes Value Stream Mapping primarily as a practice or tool, focusing on its workflow visualisation, inefficiency identification, and optimisation functions. While it briefly mentions fostering a culture of continuous improvement and alignment with customer needs, the discussion does not directly address philosophical foundations such as Lean Thinking, or delve into the 'why' behind the method beyond efficiency and team collaboration. The terminology leans procedural rather than theoretical, with little explicit or deep exploration of underlying philosophies per the category definition. The audience is generally aligned (change agents, teams), but the focus remains on practical application. All scores reflect these partial overlaps, yielding a modest confidence.",
+    "reasoning_summary": "Partially fits: While it notes the cultural significance of Value Stream Mapping, the core focus is on practical workflow optimisation, not philosophical foundations or theoretical underpinnings.",
+    "level": "Tertiary"
   },
   "Observability": {
     "category": "Observability",
@@ -3157,6 +3164,25 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Value Stream Mapping as a way to visualise and optimise workflows, focusing on teamwork and shared understanding, but makes no reference to human-AI collaboration, AI agency, or collective intelligence between humans and AI agents. The collaboration described is strictly among human teams, and there are no mentions or implications of AI as a team member or partner. There is no coverage of collective cognition, hybrid human-AI problem-solving, or decision-making leveraging AI strengths. The main audience aligns with agile practitioners, but the topic is not relevant to collective intelligence as defined here.",
     "reasoning_summary": "The content centers on human-human collaboration and workflow improvement, without references to human-AI partnership or collective intelligence themes. It does not fit the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Value Stream Mapping",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 31.65,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.5,
+    "ai_intent": 3.1,
+    "ai_audience": 5.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on Value Stream Mapping, which is about workflow visualisation, identifying waste, and optimizing value delivery—important in modern software delivery. However, it does not mention or discuss agentic principles such as integration of AI agents, contextual intelligence, or human-agent synergy as defined by Agentic Software Delivery. There is no reference to autonomous agents, AI, or governance over intelligent systems. The intent is to explain a traditional continuous improvement practice, which can be tangentially adjacent but is not directly aligned with Agentic Software Delivery. The audience is practitioners in software delivery, somewhat overlapping, and the content is focused but not on the required agentic theme.",
+    "reasoning_summary": "This content explains classic process improvement using Value Stream Mapping, lacking explicit or implicit ties to agentic AI integration or intelligence in software delivery. The fit to Agentic Software Delivery is very low and mostly indirect.",
     "level": "Ignored"
   }
 }

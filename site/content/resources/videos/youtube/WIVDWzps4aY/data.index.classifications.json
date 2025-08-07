@@ -1430,15 +1430,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "WIVDWzps4aY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:57:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product ownership and management within agile teams, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and effective practices, it lacks explicit discussion of 1ES, its integration, or its impact on software quality and delivery timelines.",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 10.56,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on product ownership, product management skills, and Agile team practices. There is no direct or indirect mention of the One Engineering System framework, its principles, or its implementation. Themes of tool/process unification, engineering system integration, or standardisation are absent. The audience is mostly Agile practitioners and product owners, not system integrators or engineering process stakeholders. Minimal conceptual overlap exists only in broad ideas of team success and improvement, but nothing ties content to 1ES.",
+    "reasoning_summary": "This content primarily addresses Agile product ownership and does not discuss 1ES, its frameworks, principles, or engineering system standardisation. There is almost no fit to the defined category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1940,6 +1947,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on product ownership in agile teams, highlighting vision, prioritization, and stakeholder engagement. While these topics tangentially touch on leadership and autonomy, there is minimal explicit connection to Agentic Engineering principles: no discussion of developer or AI agency, systemic observability, DevOps-infused craft, or ethical AI. The audience (agile practitioners) partially overlaps, but the main themes and depth fall outside core agentic engineering concepts. There are no outdated or negative framings, so no penalties applied.",
     "reasoning_summary": "This content centers on classic agile product ownership and management. While it advocates empowerment through strong roles and effective communication, it does not explicitly address or embody agentic engineering's deeper concerns with maximizing developer or AI agency, systemic feedback, or ethical autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WIVDWzps4aY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 8.05,
+    "ai_mentions": 0.25,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused exclusively on the human-centric aspects of product ownership and product management in agile teams. It does not mention, discuss, or align with agentic software delivery topics such as autonomous AI agents, contextual intelligence, or integration of AI into delivery. There is no language or theme relating to agency in software systems, AI-supported work, feedback loops driven by AI, or human/agent collaboration. Audience is practitioners in agile/product but not those interested in agentic or AI-driven delivery, making alignment extremely low. No penalties applied as tone is neutral and not outdated.",
+    "reasoning_summary": "This content is about human product ownership in agile teams, with no mention or alignment to agentic software delivery or AI agent integration. It does not fit the category beyond a possible slight audience overlap.",
     "level": "Ignored"
   }
 }

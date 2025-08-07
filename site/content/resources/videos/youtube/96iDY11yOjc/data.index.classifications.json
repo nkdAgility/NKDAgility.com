@@ -1482,15 +1482,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "96iDY11yOjc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:37:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal development and methodologies related to Agile practices, without discussing the One Engineering System framework or its principles. It lacks direct mentions of 1ES and does not explore integration or standardisation of engineering processes, which are core to the category.",
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 13.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.1,
+    "ai_audience": 2.4,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses personal growth, engagement, and best practices for individuals within Agile environments, with no mention of 1ES or discussion of unified engineering processes, methodologies, or tool integrations. It focuses on learner empowerment, flipped learning, and the characteristics of great developers, but does not address the systematic, organization-wide integration and standardisation at the heart of the One Engineering System concept. The audience and themes are not well aligned to 1ES. Hence, scores across all dimensions are very low.",
+    "reasoning_summary": "This content centers on developer self-improvement and Agile learning, not on One Engineering System or standardised engineering integration. Fit is weak; themes and intent do not align with the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1996,5 +2003,24 @@
     "reasoning": "The content focuses on the distinction between average and great Agile developers, emphasizing intrinsic motivation, self-directed learning, continuous improvement, and engagement. These themes align partially with Agentic Engineering, especially around developer agency, fostering autonomy, and environments encouraging adaptive change. However, the piece does not explicitly reference Agentic Engineering, systemic observability, DevOps-infused craft, or AI augmentation, and there's little discussion on decentralised decision-making or feedback-driven adaptation at an engineering/systemic level. Most attention is on individual development, and while it invokes the spirit of agency, it lacks depth on systemic or philosophical aspects crucial to Agentic Engineering as defined. No penalties were warranted.",
     "reasoning_summary": "The content discusses developer engagement, self-directed learning, and personal growth within Agile, partially aligning with aspects of agency. However, it doesn't explicitly address broader engineering or systemic agentic practices that the category requires, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "96iDY11yOjc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 17.62,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 7.1,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content centers on Agile developer growth, focusing on engagement, learning, and self-improvement. It does not discuss AI agents, agentic principles, or autonomous systems in software delivery. Alignment with 'Agentic Software Delivery' is minimal: audiences overlap (agile practitioners), and high-performance themes are present, but core Agentic topics like agency, AI-human integration, or contextual intelligence are absent. There are no explicit or implied mentions of agentic delivery frameworks, modern engineering for agents, or any structure enabling AI autonomy in delivery. Thus, fit for the category is very low.",
+    "reasoning_summary": "This is about Agile developer growth—engagement, learning, self-direction—not Agentic Software Delivery. It lacks discussion of AI agents, agency, or autonomous delivery systems. Alignment with the category is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

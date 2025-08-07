@@ -67,15 +67,22 @@
     "level": "Tertiary"
   },
   "Coaching": {
+    "resourceId": "sXmXT_MDXTo",
     "category": "Coaching",
-    "calculated_at": "2025-03-14T18:24:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions coaching in the context of educating teams about compliance, but it primarily focuses on DevOps practices, tools, and processes. While there are elements of team empowerment and ownership, the overall emphasis is on technical solutions rather than the collaborative and supportive nature of coaching.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 31.055,
+    "ai_mentions": 1.6,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 3.9,
+    "ai_audience": 4.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content is primarily about bespoke DevOps solutions and organizational process improvements, with only minor references to coaching (one explicit mention under compliance education and another link to a coaching tag). There is no structured or in-depth discussion about coaching methods, active listening, team dynamics, or growth mindset—topics central to the Coaching category. Most of the content focuses on assessment, tool rationalization, automation, compliance, and practical rollout strategies, which, while supportive, are not coaching-oriented. The audience overlaps with coaching practitioners (DevOps teams, technical leaders), but the intent and conceptual core are about consulting and process transformation rather than coaching as defined.",
+    "reasoning_summary": "This content's main focus is DevOps consulting and process improvement, with only fleeting, unspecific mentions of coaching. It does not directly address or explore coaching practices, so fit to category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -2007,5 +2014,24 @@
     "reasoning": "There are no direct or explicit mentions of 'Agentic Engineering' or its precise philosophical framing. However, the content demonstrates moderate conceptual alignment with agentic principles: it discusses team empowerment, ownership, feedback loops, streamlining, continuous delivery, and autonomy at the team level. While the depth of discussion on a philosophical or systemic level is limited and more practical in orientation, there is clear attention to agency and decentralisation in the DevOps context, especially in topics like ownership, team-driven deployment, and decision-making authority. The focus is primarily on practical DevOps adoption rather than a thorough exploration of agentic engineering as an integrative concept involving AI, ethical autonomy, or explicit decision frameworks, so alignment and depth scores are modestly above average. Audience fit is strong for practitioners and leaders involved in engineering practice transformation. The content maintains a high signal with little noise, but due to a lack of explicit category mention and only moderate philosophical depth, the overall confidence remains in the mid-60s.",
     "reasoning_summary": "The content moderately aligns with Agentic Engineering by focusing on team autonomy, ownership, feedback, and continuous improvement within DevOps. While it doesn't address the deeper philosophical or AI-integrative aspects, its practical orientation supports several core concepts of agentic engineering.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sXmXT_MDXTo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 14.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.4,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on traditional and modern DevOps practices, streamlining processes, compliance, and quality/ownership. There are no mentions of agentic software delivery, autonomous AI agents, contextual intelligence, or human-agent integration. The content's main themes align with DevOps process improvement, not with the deliberate integration or operation of AI agents as described in the Agentic Software Delivery definition. The audience (DevOps practitioners and technical leaders) could overlap, but the subject matter is not agentic. There is some minor conceptual proximity in mentioning automation and telemetry, but not at the agentic level. No penalties applied as there is no contradiction or outdatedness detected.",
+    "reasoning_summary": "Content addresses DevOps improvement, automation, compliance, and delivery but does not discuss autonomous AI agents, agentic design, or human-agent integration. Lacks agentic depth or direct alignment. Overall, fit with Agentic Software Delivery is minimal.",
+    "level": "Ignored"
   }
 }

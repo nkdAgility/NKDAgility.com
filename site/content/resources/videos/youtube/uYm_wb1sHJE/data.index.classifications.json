@@ -541,15 +541,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "uYm_wb1sHJE",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:46:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing stakeholder engagement and product alignment rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of defining tests before implementation, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 1.5,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is entirely devoted to explaining the Sprint Review workshop: its purpose, benefits, structure, and impact on stakeholder engagement and product improvement. It does not mention or infer Test First Development, nor does it discuss defining success criteria before implementation, manual/automated test-first practices, or any related principles, methods, or transitions. The alignment, depth, and relevance to 'Test First Development' is essentially nonexistent, beyond both being Agile practices. All six scoring dimensions reflect this lack of connection, with direct mentions at 0, alignment and depth at trivial levels, and only mild audience overlap (agile practitioners). There are no penalties for outdated content or antagonistic tone. Confidence is extremely low as per the scoring formula.",
+    "reasoning_summary": "The content discusses Sprint Review workshops and stakeholder engagement, with no references or conceptual ties to Test First Development. It does not fit this category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1991,5 +1998,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' are absent. The content focuses on the Sprint Review's role in stakeholder engagement, market alignment, and continuous improvement—these themes lightly touch on decentralised feedback and potentially developer agency. However, there is no explicit discussion of agency (human/AI), engineering for autonomy, or systemic observability. Emphasis is on Agile practice and collaboration, not on the deliberate engineering of agency or integration of AI. The audience fits practitioners, moderately matching the category. Signal is fair but not tightly tied to the philosophical or ethical aspects of agentic practices—rather, it centres on practical workshop guidance.",
     "reasoning_summary": "The content addresses Agile Sprint Reviews and stakeholder engagement, indirectly touching on themes of team autonomy and feedback but lacking explicit focus on agentic engineering principles. Its alignment is partial and mainly practical, not philosophical or technical regarding agency.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uYm_wb1sHJE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 16.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.3,
+    "ai_audience": 6.1,
+    "ai_signal": 5.38,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is an in-depth guide to the Sprint Review workshop, focusing on Agile teams, stakeholder engagement, continuous improvement, and market alignment. However, it does not mention or discuss autonomous AI agents, contextual intelligence, or agentic delivery concepts. There is no reference to integration of AI, agent-driven workflows, or modern agentic engineering practices. The audience (Agile/DevOps professionals) aligns, and relevance is high for Agile practice, but not for the specific topic of Agentic Software Delivery. Consequently, scores for mentions, alignment, depth, and intent are low, reflecting only tangential overlap with agentic principles.",
+    "reasoning_summary": "Primarily about Sprint Review in Agile, with no mention or discussion of agentic software delivery, autonomous AI agents, or related concepts. Content fits Agile delivery, not Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

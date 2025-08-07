@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "DevOps",
     "category": "Tool",
-    "calculated_at": "2025-04-09T16:48:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the philosophy of DevOps rather than specific tools or their functionalities. While it touches on concepts like automation and collaboration, it lacks direct references to specific tools or a detailed exploration of how tools facilitate workflows within Agile, Lean, or DevOps frameworks.",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 23.335,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.8,
+    "ai_intent": 3.0,
+    "ai_audience": 8.0,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content thoroughly defines DevOps as a philosophy or ethos, emphasizing culture, collaboration, automation, and continuous improvement. While 'automation' and 'technology' are referenced, there is no explicit mention or substantial discussion of specific tools, tool features, or tool-based implementation and comparison as per the category definition. The depth is high regarding DevOps as a concept, but practical tool application is merely implied, resulting in low conceptual alignment and direct mentions for the 'Tool' category, despite high relevance for practitioners.",
+    "reasoning_summary": "Content focuses on DevOps as a philosophy, not tool usage. Lacks direct/specific tool discussion required for this category. Thematic alignment is weak: tool fit is partial and mostly implied, making overall match to 'Tool' category low.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3111,6 +3118,25 @@
     "final_score": 25.0,
     "reasoning": "The content focuses on DevOps as a philosophy emphasizing collaboration among humans (developers, operations, security) and technology/automation for software delivery. While it references 'people, processes, and technology,' it does not discuss human-AI collaboration or AI agents as active team members. There is no explicit mention of collective intelligence or its associated core concepts, such as complementary human-AI problem solving or emergent capabilities. All references to automation and tooling are about process improvement—not collaboration with AI as partner agents. The audience overlaps with those interested in collective intelligence, but the content does not address this theme directly or in depth.",
     "reasoning_summary": "The content highlights human collaboration and automation in DevOps but does not address AI as a collaborative team member. It lacks direct references and substantial alignment with the collective intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DevOps",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 29.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.1,
+    "ai_intent": 3.5,
+    "ai_audience": 6.0,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on core DevOps principles—automation, collaboration, feedback, continuous improvement—but there are no explicit mentions of agentic software delivery or AI agents. While related ideas such as automation and observability are present, they are discussed at a high level without reference to autonomous agents, contextual intelligence, or human-agent collaboration as defined by the Agentic Software Delivery category. Intent and alignment are partial: the content is for practitioners interested in improving software delivery, which does overlap with the category audience, but the lack of focus on agents or agency substantially lowers depth and alignment. No outdated or contrary criticism is present, so no penalties are applied. Overall, the content partially overlaps (automation, feedback), but does not explicitly or deeply engage with the agentic approach.",
+    "reasoning_summary": "This DevOps content relates to automation and modern delivery but does not discuss autonomous AI agents, agency, or agentic integration, so its fit with Agentic Software Delivery is partial and general, not specific or deep.",
     "level": "Ignored"
   }
 }

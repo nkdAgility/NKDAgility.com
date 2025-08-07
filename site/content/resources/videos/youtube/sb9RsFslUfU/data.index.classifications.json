@@ -1446,15 +1446,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "sb9RsFslUfU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:54:54",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with no direct mention of the One Engineering System (1ES) framework or its principles. While it touches on themes related to Agile and DevOps, it does not discuss integration, standardisation, or the specific components of 1ES. The discussion lacks depth regarding the core topics outlined for the category, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 7.23,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.95,
+    "ai_intent": 1.1,
+    "ai_audience": 1.2,
+    "ai_signal": 0.98,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on personal career progression from DevOps practitioner to consultant, discussing recognition, influence, consultancy entry, and personal branding. There are no direct mentions of 'One Engineering System' (1ES), its principles, tooling, integration, or methodology unification contexts. Themes are primarily about personal growth, not engineering system standardisation. No significant conceptual alignment or depth regarding 1ES. Audience could overlap with 1ES practitioners, but all major topics are unrelated to 1ES and do not touch on frameworks, case studies, or the impact of standardized engineering systems.",
+    "reasoning_summary": "Content is strictly personal career guidance in DevOps/Agile, with no reference or conceptual overlap to One Engineering System. Does not fit the category by topic, intent, or theme.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1955,6 +1962,25 @@
     "final_score": 34.0,
     "reasoning": "The content centers on the personal journey from DevOps practitioner to consultant, focusing on recognition, influence, and career growth, rather than deliberate design of engineering practices or maximizing human/AI agency. There is no direct mention of Agentic Engineering or its explicit themes (such as systemic observability, ethical AI, or feedback-driven adaptation). While autonomy and agency in career development are implied, these references are generic and not framed from an engineering/process design viewpoint. The advice is career-oriented, targeting practitioners and aspiring consultants, thus showing reasonable audience alignment and signal. However, the conceptual alignment, depth, intent, and mentions scores are all low due to the limited relevance to Agentic Engineering's definition. There are no outdated or contradictory elements, so no penalties are applied.",
     "reasoning_summary": "This content is largely career-focused and does not substantively address Agentic Engineering's concepts. While it touches on personal agency in career transitions, it lacks alignment to the deliberate design of engineering systems or practices that the category entails.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sb9RsFslUfU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 9.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on transitioning from DevOps practitioner to consultant, with emphasis on recognition, influence, and consulting career tips. There are no mentions or substantive discussion of agentic software delivery, AI agents, contextual intelligence, or related practices. The themes are career progression, personal branding, and consulting, which do not conceptually align with the core of Agentic Software Delivery. The intent, audience, and content are not relevant to the defined category, and there is little to no overlap with key agentic topics.",
+    "reasoning_summary": "This piece is about moving from DevOps practitioner to consultant, focusing on recognition and career advice. It does not discuss agentic software delivery, AI agents, or contextual intelligence, so category fit is very low and mostly coincidental.",
     "level": "Ignored"
   }
 }

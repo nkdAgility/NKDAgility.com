@@ -84,16 +84,23 @@
     "level": "Ignored"
   },
   "Philosophy": {
+    "resourceId": "Trend Analysis",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:19:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses trend analysis as a practice for strategic decision-making, which is somewhat related to the philosophical underpinnings of evidence-based management. However, it primarily focuses on the practical aspects of trend analysis rather than exploring the foundational beliefs or core philosophies that influence methodologies like Agile or Lean. The discussion lacks explicit references to philosophical concepts and does not delve deeply into how these philosophies guide decision-making or team dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 61.079,
+    "ai_mentions": 2.4,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.2,
+    "ai_intent": 6.9,
+    "ai_audience": 7.3,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content discusses trend analysis in the context of strategic, evidence-based decision-making rather than practical techniques, aligning moderately with the 'Philosophy' category, especially regarding organisational mindset and evidence-driven culture. Explicit philosophical terms (e.g., 'philosophy', 'foundational beliefs') are absent, and the discussion is more about application at the strategic level than about the 'why' and 'what' behind methodologies. However, the discussion of evidence-based decision-making and fostering certain mindsets provides partial alignment with the philosophy of organisational strategy and adaptation, although the content leans toward practical outcomes more than pure philosophical discussion. Audience is somewhat aligned (strategists, leaders), and the signal-to-noise ratio is high.",
+    "reasoning_summary": "Content partially fits 'Philosophy'; it supports evidence-based decision-making and mindset but lacks explicit discussion of foundational beliefs or philosophical frameworks. Main focus is strategic use, not exploration of core philosophies.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3111,6 +3118,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses on trend analysis in a general organizational and product development context. There is no explicit or implicit mention of human-AI collaboration, distributed cognition, or emergent capabilities involving teams of humans and AI agents. While the content addresses team-based strategic decision-making and evidence-based practice, these are not contextualized within a framework of Collective Intelligence as defined. Its intent is somewhat aligned in that it concerns group decision-making, but the absence of any reference to AI collaboration or emergent intelligence distinctively separates it from the core collective intelligence category.",
     "reasoning_summary": "This content discusses team-based strategic decision-making through trend analysis, but does not reference or align with human-AI collaboration or the core themes of Collective Intelligence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Trend Analysis",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 24.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 3.1,
+    "ai_audience": 4.7,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content discusses trend analysis as a practice for strategic decision-making and organisational adaptability. It focuses on data-driven foresight and evidence-based culture, but does not mention or allude to agentic software delivery, autonomous agents, contextual intelligence, or integration with human expertise in software delivery. No references to modern engineering practices, AI agent frameworks, or any of the key Agentic Software Delivery concepts are present. The focus is generic and lacks both direct mentions and substantive conceptual overlap, resulting in a low confidence score for this category.",
+    "reasoning_summary": "This content is about strategic, data-driven trend analysis and does not discuss agentic software delivery, AI agents, or the integration of autonomous intelligence in delivery systems. The fit is weak and mostly unrelated.",
     "level": "Ignored"
   }
 }

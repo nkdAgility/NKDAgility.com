@@ -1101,13 +1101,23 @@
     "level": "Secondary"
   },
   "Windows": {
+    "resourceId": "bkiQSbbO78R",
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Visual Studio Team Services (VSTS), which is a Microsoft product, and mentions the Windows team at Microsoft. However, the primary focus is on source control and DevOps practices rather than Windows-specific topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 7.445,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.35,
+    "ai_depth": 1.9,
+    "ai_intent": 1.25,
+    "ai_audience": 0.345,
+    "ai_signal": 0.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "Direct references to 'Windows' are minimal, appearing only in an aside noting the Windows team at Microsoft uses Git. The content primarily focuses on modern source control, DevOps, and platform-agnostic delivery practices, with extensive discussion of VSTS (a Microsoft offering), but not specifically its use for Windows OS installation, configuration, troubleshooting, or management. There is no exploration of Windows OS features, updates, or user/account management. Intent and audience fit the DevOps/software delivery domain rather than Windows administrators or users. Signal regarding the Windows category is extremely low.",
+    "reasoning_summary": "The content is only tangentially related to Windows, mentioning it briefly. Its main focus is on DevOps and source control with a platform-neutral approach. It does not address Windows OS management, configuration, or troubleshooting.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1992,5 +2002,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering.' However, there is substantial conceptual overlap: the focus on developer autonomy, role of DevOps, automation, feedback cycles, and integration of telemetry align with agentic principles. Systemic observability is referenced, as are feedback-driven workflows and team empowerment. The depth covers tooling as enabler of best practice, though it's centered on adoption and practicalities rather than a philosophical treatment of agency. Ethical AI integration and decentralized decision frameworks are lacking. The main audience (software practitioners, DevOps teams, technical coaches) aligns well. Some tangential references to tools/platforms (e.g., VSTS) but the value of agency and empowerment remains a through-line; the signal-to-noise ratio is strong. There are no outdated or contradictory elements justifying penalty.",
     "reasoning_summary": "This content aligns well with Agentic Engineering by advocating developer autonomy, feedback-driven practices, and the holistic integration of DevOps and automation. While lacking direct mentions and deep philosophical framing, its emphasis on empowerment, observability, and adaptive workflows signals moderate-to-high relevance.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 31.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.1,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content is focused on modern source control, DevOps, automation, and professional practices. While it discusses modern engineering practices (CI/CD, automated testing), organizational context, and the integration of tools, it lacks explicit or implicit mention of autonomous AI agents, agentic principles, or context-aware intelligence. No agency, AI-driven delivery, or embedding of agentic behaviors is found. The fit is only partial, mainly due to overlaps in progressive software engineering, feedback loops, and mentions of telemetry, but without grounding in agentic concepts or AI. Audience and signal-to-noise are strong, but the core topic is misaligned with the category definition.",
+    "reasoning_summary": "Primarily about modern DevOps and source control, this content lacks relevance to agentic or autonomous AI in delivery. While it mentions automation, CI/CD, and telemetry, it does not cover agentic principles. Only a partial, tangential fit.",
+    "level": "Ignored"
   }
 }

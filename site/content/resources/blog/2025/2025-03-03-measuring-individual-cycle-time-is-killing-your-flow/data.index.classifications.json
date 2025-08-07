@@ -201,16 +201,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "KHEPBWiFDKJ",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of focusing on system efficiency rather than individual performance, which aligns with the principles of accountability in Agile. It highlights the negative consequences of measuring individual cycle time and the need for collective ownership of the workflow. However, while it touches on accountability, it primarily focuses on process improvement and does not delve deeply into team dynamics or ownership, which limits its overall alignment with the category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:20",
+    "ai_confidence": 37.06,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.5,
+    "ai_intent": 3.1,
+    "ai_audience": 3.9,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on the problem of measuring individual cycle time in Kanban and advocates for system-level metrics. While it strongly promotes system thinking and critiques individual measurement, it does not directly discuss structural accountabilities or ownership of outcomes in work systems as defined in the accountability category. Explicit references to accountability, role ownership, or how accountabilities influence performance are absent. The theme is tangentially related as it cautions against blaming individuals, but it primarily targets process optimization over clarifying or structuring outcome ownership. The audience is practitioners in Kanban/agile but the connection to explicit accountability structures or conversations is weak and indirect.",
+    "reasoning_summary": "Content focuses on system flow vs. individual performance metrics, not on accountability structures or outcome ownership. While tangential themes exist, core alignment with the selected category is limited and mostly indirect.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -2516,5 +2523,24 @@
     "reasoning": "The content strongly advocates for optimizing systems rather than individuals and critiques the measurement of individual performance in Kanban, championing system-wide improvements. This aligns with philosophical aspects of Agentic Engineering—such as decentralizing decision-making and continuous systemic improvement. However, it never directly mentions Agentic Engineering, developer agency, AI collaboration, or ethical autonomy. Its focus is primarily on Kanban metrics and anti-patterns around measurement, which overlaps with decision-making frameworks and feedback-driven adaptation but does not substantially center on maximizing agency for humans or AI in a broader sense. The audience is technical and process-oriented, which is in line with the category, and the arguments are cohesive, but the absence of explicit agentic themes and broader framing limits overall confidence.",
     "reasoning_summary": "This content aligns with Agentic Engineering in its emphasis on improving systemic processes, decentralizing measurement, and optimizing team flow, but it lacks explicit exploration of agency, autonomy, or human-AI collaboration central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KHEPBWiFDKJ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 17.616,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 5.0,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is deeply focused on metrics for system flow in Kanban, arguing against measuring individuals and highlighting system-level visibility (PCE, WIP, throughput). However, there are no direct or indirect references to agentic software delivery, AI agents, autonomous systems, contextual intelligence, human-AI collaboration, or agentic engineering practices. The themes are consistent with modern flow-centric delivery but remain grounded in traditional Kanban/Lean thinking without invoking any agentic paradigm. The primary audience overlaps (teams, delivery practitioners), and the signal is high for Kanban metrics, but entirely lacks the agentic content required for this category.",
+    "reasoning_summary": "This content centers on Kanban metrics and systems flow, not agentic software delivery. It lacks discussion of AI agents, autonomy, or contextual intelligence—thus only weakly aligns with the target category.",
+    "level": "Ignored"
   }
 }

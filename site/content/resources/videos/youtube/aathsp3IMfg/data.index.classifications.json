@@ -1253,15 +1253,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "aathsp3IMfg",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:16",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the APS approach within the context of Scrum, highlighting team empowerment and collaboration, which aligns with the principles of social technologies. However, while it touches on themes of self-organisation and iterative processes, the primary focus remains on Scrum practices rather than a broader discussion of social technologies. The depth of discussion is moderate, providing insights into APS but lacking extensive exploration of the underlying social frameworks.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 78.03,
+    "ai_mentions": 3.8,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.6,
+    "ai_intent": 8.2,
+    "ai_audience": 8.0,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content discusses APS (Applied Professional Scrum) as a methodology for team improvement in an Agile context, specifically emphasizing the removal of ineffective practices, fostering collaboration, and organizational change backlogs. It explores concepts like self-organization through metaphors (barnacles), transparency, and continuous improvement within Scrum teams. The intent is to inform practitioners on authentic Scrum adoption—strongly aligned with 'Social Technologies.' The depth is solid though not exhaustive, and audience/intent are clearly targeted at Agile practitioners and teams. There are explicit references to organizational change, retrospection, and collective intelligence (e.g., barnacle exercise). Direct mentions of 'Social Technologies' are absent, reducing that score. No penalties were necessary since the tone is affirming and relevant.",
+    "reasoning_summary": "The content closely fits 'Social Technologies,' exploring collaborative Scrum practices and APS. It discusses transparency, iterative value delivery, and organizational change for Agile teams—key category themes—even if direct category mention is lacking.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1897,6 +1904,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on empowering teams and removing ineffective practices using the Applied Professional Scrum (APS) approach. While it discusses autonomy, continuous improvement, and feedback loops (which have conceptual parallels to agentic principles), it does not explicitly address the deliberate design of engineering practices for maximising human and AI agency. There is no discussion of DevOps, systemic observability, or ethical AI; AI is not mentioned. The main focus is on Scrum mastery, team empowerment, and agile transformation. Thus, while some overlap exists in philosophy (agency, feedback), most of the core Agentic Engineering themes are only tangentially aligned or absent. The content targets a practitioner audience, aligning reasonably on that dimension, but its intent and depth do not directly serve the Agentic Engineering category.",
     "reasoning_summary": "This article centers on team empowerment and agile transformation via APS and Scrum concepts. While it touches on autonomy and feedback—elements related to Agentic Engineering—it lacks direct discussion of engineering practice design, AI, or DevOps, making its fit with the category peripheral.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "aathsp3IMfg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 14.1,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on the Applied Professional Scrum (APS) approach, targeting agile practitioners interested in improving Scrum practices and agility. There is no direct or indirect mention of agentic systems, autonomous AI agents, contextual or proactive intelligence, or modern engineering practices aligned with Agentic Software Delivery. The primary themes relate to human team introspection, removal of ineffective habits, and strengthening core Scrum principles—nothing about integrating AI agents or context-aware automation. No discussion of agentic frameworks, human-agent interaction, or engineering pipelines appears. The audience is similar (agile practitioners), which provides the only notable overlap, but intent, depth, and signal are clear mismatches. The confidence score is thus very low.",
+    "reasoning_summary": "This content focuses on Scrum team improvement via the APS approach with no mention or alignment to Agentic Software Delivery, autonomous AI agents, or related engineering practices. The fit is minimal and largely coincidental due to audience similarity.",
     "level": "Ignored"
   }
 }

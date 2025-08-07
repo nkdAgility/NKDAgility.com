@@ -1410,15 +1410,22 @@
     "reasoning_summary": "This content is a strong match for the competence category, as it explores how immersive learning supports ongoing skill development for Agile professionals. By highlighting continuous learning methods and practical exercises, it clearly addresses the growth of expertise. The detailed discussion of learning strategies further reinforces its relevance, making it highly suitable for this category."
   },
   "One Engineering System": {
+    "resourceId": "VjPslpF3fTc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:11:56",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. However, it does not directly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more about personal development and learning methodologies rather than the standardisation and integration of engineering processes, which is the core of 1ES.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 14.47,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 5.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on immersive learning for Agile practitioners, discussing methods to deepen skills via hands-on activities, double-loop learning, and practical assignments. There are no direct references—or even conceptual alignment—to One Engineering System (1ES), nor does it address its principles (standardization, tool/process integration, or unified frameworks). The main focus is on individual skill growth and professional development within Agile, not on the integration or standardization of engineering processes at the organizational level. The audience partially overlaps (technical practitioners), but the topic is not in line with 1ES, and there is substantial unrelated content.",
+    "reasoning_summary": "The content focuses on immersive learning for Agile practitioners, not on One Engineering System principles, tools, or frameworks. There is no alignment with 1ES, and only incidental overlap in audience. Overall, the fit is poor and confidence is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1919,6 +1926,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on immersive learning for experienced Agile professionals, highlighting benefits like double-loop learning, practical assignments, and tailoring based on learner experience. While it references concepts aligned with Agile, Scrum, and professional development, it does not explicitly address the deliberate design of engineering practices to maximize agency, nor does it discuss developer autonomy, systemic observability, DevOps-infused craft, or ethical AI integration. The main focus is on learning strategies and skill amplification, not on agentic practices or decentralized decision-making. Audience alignment is moderate as it targets experienced practitioners, some of whom may be interested in Agentic Engineering, but there is only a passing mention of DevOps and no discussion of maximizing human or AI agency. The signal-to-noise ratio is fair; the content is focused but not specific to the Agentic Engineering domain.",
     "reasoning_summary": "This content centers on immersive learning for experienced Agile practitioners, emphasizing skill enhancement and double-loop learning. It aligns modestly with Agentic Engineering only at the periphery, lacking direct discussion on agency, systemic observability, or engineering autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VjPslpF3fTc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 13.445,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.0,
+    "ai_intent": 1.8,
+    "ai_audience": 5.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on immersive learning for experienced Agile practitioners. There is no direct mention or substantial discussion of agentic software delivery, autonomous AI agents, context-aware intelligence, or agent-driven delivery processes. The content examines professional development, double-loop learning, and blending theory with practice in Agile contexts, but does not address the core themes or technical elements of agentic software delivery. The audience somewhat aligns (Agile professionals), but the content intent, concepts, and depth fall outside the agentic category's scope.",
+    "reasoning_summary": "The content is about immersive learning for Agile practitioners, not agentic software delivery. It does not mention autonomous AI agents, contextual intelligence, or agent-driven practices, so fit with the category is minimal.",
     "level": "Ignored"
   }
 }

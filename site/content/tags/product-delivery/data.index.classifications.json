@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Product Delivery",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the process of Product Delivery and its importance in delivering value, but it does not explicitly mention accountability or outcome ownership. While it touches on themes of team ownership and collaboration, these are more about task execution rather than clearly defined accountabilities. The discussion lacks depth in exploring how accountability shapes behaviour or influences performance in work systems.",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 36.95,
+    "ai_mentions": 1.6,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.3,
+    "ai_intent": 3.4,
+    "ai_audience": 7.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content describes end-to-end product delivery in Agile/DevOps settings, mentioning ownership and empowerment, but does not explicitly discuss outcome-level accountability, structural accountabilities, or role-specific outcome ownership. There is no direct mention of accountability, distinctions from responsibility, or discussion of how accountabilities shape performance, alignment, or adaptation. The focus is on process, collaboration, and value delivery—not on the structural mechanics of accountability as defined. References to teams being empowered to take ownership approach the topic but remain at a general level without specifying accountabilities. Depth and alignment are limited by the lack of explicit framework reference; audience is moderately relevant due to the Agile/DevOps context, but overall fit to the category definition is partial.",
+    "reasoning_summary": "The content broadly addresses team ownership in product delivery but does not discuss explicit outcome accountabilities or structural mechanisms essential to 'Accountability' as defined. Fit is partial and mostly indirect.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3126,6 +3133,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on the end-to-end process of software product delivery, emphasizing workflow, collaboration among cross-functional teams, and practices such as Agile and DevOps. However, it does not mention or explore human-AI collaboration, complementary strengths of humans and AI, or any facets of collective intelligence as strictly defined. The discussion is centered solely on human teams and established methodologies without reference to AI as a collaborator or team member, nor does it cover distributed cognition, emergent capabilities from human-AI partnerships, or the specific topics related to the category.",
     "reasoning_summary": "The content addresses human team collaboration and product delivery workflows but lacks any reference to human-AI collaboration or collective intelligence. As such, it aligns poorly with the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Delivery",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 25.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.9,
+    "ai_intent": 3.5,
+    "ai_audience": 6.8,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on general software product delivery processes, referencing Agile, Lean, and DevOps principles, feedback loops, and organisational improvement. However, there is no explicit mention or conceptual exploration of agentic delivery, autonomous AI agents, contextual intelligence, or specific agentic principles. While the mention of feedback loops and modern delivery practices aligns tangentially, none of the defining attributes or integration aspects of Agentic Software Delivery are discussed. The intent and audience are generally aligned with practitioner and business outcomes but lack agentic elements. The content is well-focused on delivery but not on agentic software delivery themes.",
+    "reasoning_summary": "This content describes general software delivery practices and principles without referencing autonomous agents or agentic delivery. It does not fit the Agentic Software Delivery category; alignment is at best tangential.",
     "level": "Ignored"
   }
 }

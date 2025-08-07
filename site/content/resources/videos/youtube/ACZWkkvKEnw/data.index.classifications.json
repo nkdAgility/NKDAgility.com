@@ -1425,15 +1425,22 @@
     "reasoning_summary": "This content is well-suited to the project management category, as it explores how governance can drive organisational efficiency—a central concern in project management. By emphasising alignment with goals and cross-functional collaboration, it addresses key project management themes, even if it doesn’t delve into specific methodologies or tools. The practical focus makes it relevant for professionals seeking to enhance project outcomes."
   },
   "Hybrid Agile": {
+    "resourceId": "ACZWkkvKEnw",
     "category": "Hybrid Agile",
-    "calculated_at": "2025-04-10T12:12:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses governance and organisational efficiency but does not explicitly mention Hybrid Agile or its specific challenges. While it touches on themes of integration and collaboration, it lacks a critical examination of the merging of traditional and agile methodologies, which is central to the Hybrid Agile category.",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 16.07,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.3,
+    "ai_audience": 4.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content does not directly mention Hybrid Agile or discuss merging agile and traditional governance models. It focuses on general system optimisation and the pitfalls of local governance improvements. No explicit case studies, pitfalls of Hybrid Agile, or critical analysis of blending traditional and agile approaches are present. Audience (organizational leaders, team members) partially matches, but themes are generalized and do not address the unique dysfunctions or definitional aspects outlined in the Hybrid Agile category, leading to low conceptual and depth scores.",
+    "reasoning_summary": "Content discusses governance and system-wide optimisation, not Hybrid Agile. No reference or analysis of blending agile and traditional approaches or associated dysfunctions. Its fit with ‘Hybrid Agile’ is minimal and indirect.",
     "level": "Ignored"
   },
   "Scaling": {
@@ -1882,5 +1889,24 @@
     "reasoning": "The content does not directly mention Agentic Engineering or its terminology. However, it discusses governance, cross-functional collaboration, and the importance of holistic, integrated approaches over siloed or local optimisation. This aligns partially with Agentic Engineering's themes of systemic observability, decision-making frameworks, and decentralised value delivery. The article is aimed at agile practitioners and leaders, consistent with the Agentic Engineering audience, with a clear focus and minimal tangential content. Its depth is moderate; it explains concepts well but lacks explicit reference to maximizing human or AI agency, ethical autonomy, or DevOps-infused practices. Given the intent to drive better organisational alignment and holistic decision-making, the fit is partial but not strong.",
     "reasoning_summary": "The article emphasizes integrated, system-wide optimisation over local gains and encourages holistic governance, aligning modestly with Agentic Engineering principles. However, it lacks direct references to human/AI agency or explicit DevOps/AI-ethics integration, resulting in only a partial category fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ACZWkkvKEnw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 37.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.6,
+    "ai_audience": 4.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on governance, local vs. system-wide optimization, and cross-team collaboration but never explicitly mentions agentic software delivery concepts such as autonomous AI agents or proactive contextual intelligence. Alignment is partial, given the emphasis on integration and holistic systems thinking, themes somewhat related to agentic delivery, but there's no discussion of AI agents, their integration with human expertise, or agentic engineering practices. The audience seems adjacent, targeting practitioners concerned with organizational success and governance in agile settings. The discussion stays on conventional organizational governance and systemic optimization rather than on agentic principles, giving it only a moderate signal-to-noise ratio for the target category.",
+    "reasoning_summary": "Primarily addresses systems thinking and governance, with no explicit reference to autonomous agents, agentic delivery, or AI context. Only partial thematic overlap; not a direct fit for 'Agentic Software Delivery.'",
+    "level": "Ignored"
   }
 }

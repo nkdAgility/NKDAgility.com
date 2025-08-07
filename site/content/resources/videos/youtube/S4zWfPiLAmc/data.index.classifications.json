@@ -1428,15 +1428,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "S4zWfPiLAmc",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban metrics and strategies, with no direct mention or discussion of the Shift-Left Strategy. While it touches on data analysis and workflow improvements, these concepts do not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about optimising Kanban processes rather than addressing the proactive measures associated with Shift-Left practices.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 9.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.0,
+    "ai_intent": 1.3,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is strictly focused on Kanban workflow optimization through the use of actionable metrics. There is no direct or indirect mention of Shift-Left Strategy, nor are concepts such as integrating testing, security, or compliance early in the SDLC discussed. The content's purpose, audience, and thematic focus are about performance improvement in Kanban, not Shift-Left practices. Therefore, fit to the Shift Left Strategy category is extremely low, as the topic and intent do not align.",
+    "reasoning_summary": "Content is unrelated to Shift Left Strategy; it focuses on Kanban metrics and workflow, without addressing early integration of testing, security, or compliance in the SDLC.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1993,5 +2000,24 @@
     "reasoning": "The content focuses on operational Kanban practices, emphasizing the importance of actionable metrics and continuous improvement. While it touches on observability, data-driven decision-making, and workflow adaptation—key aspects of Agentic Engineering—it does not explicitly develop themes of agency, ethical AI integration, or decentralized autonomy. The focus is practical rather than philosophical, with more attention on how to use metrics for workflow efficiency than on maximizing human or AI agency. Thus, conceptual alignment and depth are partial but not strong. The intended audience overlaps with Agentic Engineering (practitioners and teams), but the framing is on practical Kanban improvement, not the deliberate design of agentic practices.",
     "reasoning_summary": "This content is practical Kanban advice focused on metrics and continuous improvement, aligning partially with Agentic Engineering’s data-driven adaptation ethos but lacking emphasis on autonomy or AI collaboration. Its fit is moderate but not strong for the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "S4zWfPiLAmc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 7.48,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on Kanban best practices, specifically selecting actionable metrics for workflow improvement. It discusses digital tools and data-driven improvement but lacks any explicit or implicit discussion of agentic software delivery concepts. There is no mention of autonomous AI agents, contextual intelligence, agent/human collaboration, or agentic evolution of delivery models. The audience is practitioners in process improvement, but not necessarily those focused on agentic delivery. No penalties are applied as the content is neither outdated nor critical. The result is a very low confidence score due to lack of conceptual and thematic overlap.",
+    "reasoning_summary": "Content centers on Kanban metrics and workflow efficiency, not agentic delivery. No mention or exploration of AI agent integration, agency, or agentic delivery principles. Overall fit is minimal to none.",
+    "level": "Ignored"
   }
 }

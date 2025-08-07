@@ -72,15 +72,22 @@
     "level": "Ignored"
   },
   "Practice": {
+    "resourceId": "Professional Scrum",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the philosophy of Professional Scrum, which touches on continuous improvement and accountability, but it lacks specific actionable techniques or practices that teams can implement. The focus is more on the ethos and mindset rather than on concrete practices like pair programming or retrospectives.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 33.75,
+    "ai_mentions": 2.6,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.4,
+    "ai_intent": 4.8,
+    "ai_audience": 8.2,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions penalized (0.4) for philosophical focus over explicit practice references; Alignment penalized (0.6) for emphasizing ethos and mindset rather than concrete, repeatable practices; Depth penalized (1.0) for abstract discussion over actionable techniques.",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on the ethos, philosophy, and mindset behind Professional Scrum, highlighting empiricism, accountability, and professionalism. While these are foundational to successful practice, the article avoids naming or exploring actionable, repeatable techniques—explicit practices like retrospectives, TDD, or stand-ups are absent. The tone is conceptual; it stresses what it means to 'do Scrum professionally' but largely through attitudes, roles, and overarching values, not by describing specific behaviors or how-tos. Thus, relevance to 'Practice' as defined is partial—it's supportive and philosophically aligned but not an exposition of practice per se.",
+    "reasoning_summary": "The content emphasizes the philosophy and ethos behind Professional Scrum, not explicit, actionable practices. It aligns indirectly but lacks detail on repeatable techniques, making its fit with the Practice category partial and limited.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3110,6 +3117,25 @@
     "final_score": 15.0,
     "reasoning": "The content is a focused description of 'Professional Scrum'; it emphasizes empiricism, professionalism, team accountability, and disciplined delivery. However, it refers only to human team roles and philosophies, not to human-AI collaboration, AI agents, or emergent human-AI capabilities. There are no explicit mentions or thematic explorations of Collective Intelligence as defined, nor any substantial discussion of AI involvement, shared cognition with AI, or human-AI team dynamics. The audience is Scrum practitioners, so tangential audience overlap exists, but the core meaning and purpose are not aligned with the category. The signal-to-noise ratio is high for the discussed topic, but low for Collective Intelligence.",
     "reasoning_summary": "This content focuses solely on human roles and professionalism in Scrum, without addressing human-AI collaboration or collective intelligence. It does not discuss the core concepts of the category, making it only marginally relevant and not a strong fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Professional Scrum",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 20.95,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.25,
+    "ai_depth": 2.05,
+    "ai_intent": 2.35,
+    "ai_audience": 6.05,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on the ethos and discipline of Professional Scrum, emphasizing empiricism, accountability, and technical excellence. It discusses roles (Product Owner, Scrum Master, Developer) and agile thinking but does not mention or suggest the integration of autonomous AI agents, agency in software delivery, or agentic principles. There are no direct or indirect references to contextual intelligence, AI-enabled delivery practices, or modern agentic delivery topics. The main purpose and intent are to articulate professionalism in Scrum, not to address agentic software delivery as defined. The only partial fit is that audience alignment and focus on improvement overlap with advanced delivery contexts, but all critical agentic themes are absent.",
+    "reasoning_summary": "The content is about disciplined and professional Scrum, focusing on empiricism and team roles—without mention or alignment to agentic software delivery or AI agent integration. Fit is minimal and mostly coincidental.",
     "level": "Ignored"
   }
 }

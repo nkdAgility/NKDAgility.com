@@ -1493,15 +1493,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "vkqr5T9YVsf",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:17:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies and contrasts them with traditional project management practices, focusing on risk mitigation through usable products versus documentation. While it touches on collaboration and adaptation, it does not explicitly mention the One Engineering System framework or its principles, components, or implementation strategies. The discussion is more centred on Agile and Waterfall methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 18.013,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 5.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content does not mention One Engineering System (1ES) directly or discuss its principles, integration efforts, or implementation. It focuses on comparing Agile's risk mitigation via working software and traditional project management's documentation, not the unification of engineering systems, tools, or processes. The main topic is risk mitigation strategies in Agile versus Waterfall, without any linkage to the core themes of 1ES as defined. Depth and alignment are limited to concepts that could be tangentially relevant (e.g., cross-team collaboration), but this is never framed within the 1ES context. The audience partly overlaps, but the content lacks relevance, intent, and conceptual fit for the category.",
+    "reasoning_summary": "This is a comparison of Agile and traditional risk mitigation—not about One Engineering System. There is no direct or implicit discussion of 1ES principles, integration, or practices, so the fit is poor and confidence is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2007,5 +2014,24 @@
     "reasoning": "The content focuses on comparing risk mitigation in Agile versus traditional project management, emphasizing adaptability, incremental delivery, and feedback—but it frames these as general Agile/DevOps best practices rather than through the lens of agency (human or AI) or deliberate engineering design to maximize agency. Concepts like transparency, iteration, and continuous deployment are present, which slightly align with Agentic Engineering topics (developer agency, feedback-driven adaptation), but the philosophical underpinnings and explicit connection to systemic enhancement of both human/AI agency or ethical autonomy are missing. No direct mention of Agentic Engineering, agency maximization, or AI as collaborator. Discussion depth favors Agile philosophy and risk reduction, not agentic frameworks or ethical design. The audience is mostly technical practitioners familiar with Agile, which somewhat overlaps the Agentic Engineering target, but lacks sharper focus on agency-maximizing engineering intent.",
     "reasoning_summary": "This content highlights Agile's strengths in adaptation and incremental delivery for risk mitigation, touching tangentially on concepts relevant to Agentic Engineering. However, it does not explicitly focus on maximizing agency or ethical autonomy, making its alignment partial rather than direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vkqr5T9YVsf",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 13.529,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.0,
+    "ai_intent": 1.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content compares Agile and traditional project management, focusing on risk mitigation through incremental delivery versus documentation. While it mentions DevOps and continuous integration, it does not discuss autonomous AI agents, proactive agentic intelligence, or synergies between AI agents and human experts. There is no reference—direct or indirect—to agentic software delivery, embedding of AI agency, contextual intelligence, governance of agents, or any evolving outcome-focused systems. Thus, the alignment and depth scores remain low, as do direct mentions. The target audience (software delivery practitioners) has moderate overlap, but overall the content lacks substance or intent relevant to the evaluated category.",
+    "reasoning_summary": "This content focuses on Agile versus traditional risk mitigation, never addresses autonomous AI agents or agentic delivery. Partial overlap in engineering practices, but doesn't fit the Agentic Software Delivery category beyond surface process themes.",
+    "level": "Ignored"
   }
 }

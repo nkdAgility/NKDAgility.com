@@ -74,15 +74,22 @@
     "level": "Ignored"
   },
   "Practice": {
+    "resourceId": "Scrum Team",
     "category": "Practice",
-    "calculated_at": "2025-04-09T15:05:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the structure and roles within a Scrum Team, which is more focused on the framework rather than actionable practices that enhance team performance. While it touches on collaboration and accountability, it lacks specific techniques or habits that would fall under the 'Practice' category. The discussion is more about the definition and responsibilities of the Scrum Team rather than practical methods for improving effectiveness or continuous improvement.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 38.15,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.5,
+    "ai_intent": 3.8,
+    "ai_audience": 7.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "Direct mentions of 'practice' or actionable techniques are absent; the content centers on the structure, roles, and accountability of the Scrum Team. It describes the team's function and organisation, not specific, repeatable team practices or habits as defined by the category. The topic closely relates to Scrum, but focuses on team composition and accountability rather than daily or iterative behaviors, methods, or collaboration practices. There is little discussion of techniques like retrospectives, stand-ups, TDD, or Kanban—practices that would directly fit the category. The audience (Scrum practitioners/teams) overlaps, but the main theme is structural definition, not practical application, leading to a partial/category-adjacent fit.",
+    "reasoning_summary": "The content defines and explores the structure and accountability of a Scrum Team but does not cover actionable or repeatable practices. It is adjacent to, but not squarely within, the 'Practice' category.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3108,6 +3115,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses on the human team construct within Scrum, emphasizing collective accountability, self-management, and collaboration, but does not mention or discuss AI agents, human-AI partnerships, or any aspects of collective intelligence as defined by human-AI collaboration. While it addresses team-level collaboration and responsibility, all discussion is about human roles; there is no reference to AI, enhanced cognition through human-AI partnership, or relevant socio-technical factors beyond human teamwork. Thus, alignment, depth, and intent scores are low, with only general audience and signal-to-noise scores modestly higher due to relevance to practitioner audiences. No penalties for outdated practices or contradictory tone were warranted.",
     "reasoning_summary": "This content describes human team roles and accountability in Scrum, without addressing human-AI collaboration or collective intelligence. It fits traditional teamwork, not the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Scrum Team",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 13.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 3.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively describes the Scrum Team’s structure, roles, and collaborative accountability, with no discussion of autonomous AI agents, agentic strategies, or integration of contextual AI in software delivery. While 'self-managing' teams are mentioned, this refers to human autonomy, not agentic intelligence. There are no references to agent frameworks, AI integration, or modern practices defining agentic delivery. The audience is general agile practitioners, not specifically targeting those interested in agentic systems. The overall signal is focused on Scrum, not the agentic paradigm, resulting in very low confidence for this category.",
+    "reasoning_summary": "Content solely addresses human Scrum Team roles and accountability, with no reference to agentic AI, autonomous agents, or agentic software delivery themes. Does not fit the category.",
     "level": "Ignored"
   }
 }

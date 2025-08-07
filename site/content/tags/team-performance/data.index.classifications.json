@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Team Performance",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses team performance in a systemic context, touching on aspects of delivery capability and collaboration. However, it lacks explicit mentions of accountability as a structural construct or role-specific accountabilities. While it aligns with the core themes of performance and system design, it does not delve deeply into how accountability influences these factors, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 32.55,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.7,
+    "ai_intent": 3.8,
+    "ai_audience": 7.5,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on systemic factors influencing team performance (flow, structure, collaboration) but does not mention accountability, explicit outcome ownership, or role-based accountabilities. Alignment is partial as some systemic improvement topics overlap, but core themes of accountability, outcome ownership, and role clarity are absent. The piece is aimed at practitioners interested in team improvement but does not directly discuss how accountabilities shape performance, so the relevance is moderate but indirect.",
+    "reasoning_summary": "Content discusses system design and team performance, but lacks explicit mention or in-depth treatment of accountability, outcome ownership, or related constructs. The fit is partial and indirect.",
+    "level": "Ignored"
   },
   "Framework": {
     "category": "Framework",
@@ -3134,6 +3141,25 @@
     "final_score": 15.0,
     "reasoning": "The content focuses on team performance as a systemic indicator and describes collaborative habits, system design, and empirical improvement through flow metrics. However, there is no mention or exploration of human-AI collaboration, the role of AI agents, distributed cognition between humans and AI, or collective intelligence concepts as defined. The audience and signal scores are higher because the language and approach could be relevant for practitioners interested in team metrics, but the substance is not about collective intelligence. No penalties were applied.",
     "reasoning_summary": "This content addresses team performance as a function of human collaboration and organizational design, but it does not involve AI agents or collective human-AI dynamics. Thus, alignment with the 'Collective Intelligence' category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Team Performance",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 16.75,
+    "ai_mentions": 0.05,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 1.15,
+    "ai_audience": 7.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content describes team performance in terms of systemic delivery and improvement patterns (e.g., flow metrics, visibility, collaboration). However, there are no explicit or implicit references to agentic delivery, AI agents, contextual intelligence, or integration of autonomous systems. The discussion centers on team practices, system constraints, and classic indicators of Agile/DevOps performance, lacking any agentic or AI-related dimension. Audience and signal scores are higher as the discussion would generally interest modern delivery practitioners, but the substance is not aligned to the Agentic Software Delivery category.",
+    "reasoning_summary": "The content focuses on team performance and systemic delivery improvements, without mentioning autonomous AI agents, agency, or contextual intelligence. There is little to no alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

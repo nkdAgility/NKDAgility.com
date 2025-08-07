@@ -1519,15 +1519,22 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "DSIXtHZTirA",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:38:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses performance engineering and technical leadership without explicitly addressing Agentic Agility. While it touches on concepts like quality and value creation, it lacks a clear focus on the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 28.681,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.9,
+    "ai_audience": 7.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on engineering excellence, technical practices, and leadership in Agile contexts. While agency and intentionality are somewhat implied via discussions of decision-making and ownership, direct discussion of agency, adaptive action, or their specific role in Agile/DevOps is missing. Key markers of agentic agility—such as explicit agency, autonomy, or strategies to foster agentic environments—are not addressed. The piece is mainly a promotional or overview video targeting practitioners and leaders but does not delve into the distinct nuances of agentic agility as defined. Scores for mentions, alignment, depth, and intent are low, as references to Agile and ownership are incidental, not central, to the topic.",
+    "reasoning_summary": "The content is about engineering excellence in Agile but lacks explicit discussion of agency, autonomy, or adaptive action. Its alignment with 'Agentic Agility' is marginal, with incidental rather than intentional overlap.",
     "level": "Ignored"
   },
   "Product Development": {
@@ -2017,6 +2024,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on engineering excellence, performance engineering, testing practices, and technical leadership for agile teams. While these themes overlap superficially with Agentic Engineering (e.g., decentralizing decision-making, empowering teams), there are no direct references or substantial treatment of agency (human or AI), systemic observability, ethical AI integration, or feedback-driven adaptation as defined. The discussion centers on shifting practices 'left', building quality, and reducing technical debt, which aligns tangentially, but does not explicitly address maximizing agency or integrating intelligent systems as collaborators. The intended audience appears to be technical leaders and teams interested in modern practices, but category-defining concepts (such as deliberate agency design, decision frameworks, or engineering/AI autonomy) are absent. The content contains almost no off-topic filler, but does not deeply explore agentic philosophies, so confidence is moderate-low.",
     "reasoning_summary": "The content discusses engineering excellence with an agile and modern practices focus, targeting relevant technical audiences. However, it doesn't directly address or deeply explore Agentic Engineering themes such as maximizing agency, feedback-driven adaptation, or AI-human collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DSIXtHZTirA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 25.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.3,
+    "ai_audience": 6.6,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on achieving engineering excellence through practices like performance engineering, shift-left, and technical leadership. While it discusses modern software delivery and quality engineering, there are no explicit or implicit mentions of autonomous AI agents, context-aware intelligence, or agency as described in Agentic Software Delivery. The main themes are about team practices, culture, and process improvement, targeting practitioners and leaders in software engineering but without covering agentic, AI-related, or autonomous delivery aspects. Therefore, fit with the category is minimal.",
+    "reasoning_summary": "Content addresses engineering and agile excellence but lacks any coverage of autonomous AI agents or agentic delivery concepts, resulting in poor fit with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

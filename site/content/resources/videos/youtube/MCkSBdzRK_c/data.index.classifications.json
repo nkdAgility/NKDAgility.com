@@ -1290,16 +1290,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "MCkSBdzRK_c",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:06",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses evidence-based management, which relates to decision-making and value delivery, but it lacks a direct focus on social technologies or collaboration frameworks. While it touches on metrics and organisational capabilities, it does not delve deeply into the social aspects of teamwork or collective intelligence, which are central to the category of Social Technologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 62.347,
+    "ai_mentions": 2.5,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.8,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content explicitly discusses evidence-based management (EBM), a methodology aligned with social technologies principles such as data-driven decision-making, value delivery, and continuous improvement. It describes the EBM framework’s components (current value, unrealised value, time to market, ability to innovate) and emphasizes tailoring metrics and organisational learning—strongly resonant with the aim of optimising value and adaptability. However, there is minimal explicit mention of social technologies as a category or framework, and the primary focus centers on EBM rather than broader collaborations or team dynamics. While the narrative touches on themes (leadership, transparency, empiricism) linked to social technologies, in-depth exploration of collaboration, collective intelligence, or self-organisation is limited. The content targets leaders and practitioners interested in organisational improvement, very similar to the intended audience of ‘Social Technologies,’ and has high relevance and signal throughout, but lacks some directness and depth linking EBM explicitly to wider social-tech practices.",
+    "reasoning_summary": "This content partially fits Social Technologies. It aligns with data-driven value delivery and continuous improvement, key to the category, but focuses more on evidence-based management than core social frameworks or collaboration methods.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -2000,6 +2007,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on evidence-based management for leadership and business value using data-driven decisions. While it references metrics, empirical feedback, and organizational improvement, it does not directly discuss Agentic Engineering, developer/AI agency, or the deliberate design of engineering practices. There are indirect alignments with feedback and outcomes, but the core themes and intended audience are more management-centric than agentic or engineering-focused. No penalties are applied, as the content is current and maintains a purpose compatible with, but not central to, Agentic Engineering.",
     "reasoning_summary": "The article is well-aligned with data-driven decision-making and organizational improvement but lacks direct references to agentic engineering practices or the maximization of human/AI agency. Its focus remains on management, making it only tangential to the target category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MCkSBdzRK_c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 16.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 4.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "There are essentially no direct mentions of agentic concepts, autonomous AI agents, or the integration of agents with human expertise in software delivery. The article exclusively explores evidence-based management focused on data-driven decision-making, business value, and metrics in leadership and organizational contexts. There is no substantive discussion of context-aware AI, agentic delivery principles, or related technologies. Though the content targets a similar audience (organizational leaders, practitioners interested in improvement), its intent, themes, and specifics do not align with agentic software delivery definitions. The few marginal overlaps (such as measurement, metrics, and delivery effectiveness) are generic and not tied to agentic systems.",
+    "reasoning_summary": "Content focuses solely on evidence-based management and leadership metrics. It does not mention or discuss agentic software delivery, autonomous AI agents, or related practices, so fit with the category is minimal and largely incidental.",
     "level": "Ignored"
   }
 }

@@ -37,16 +37,23 @@
     "reasoning_summary": "This content is a strong fit for the Agile frameworks category, as it clearly explains the importance of 'working software' in Agile and Scrum, and how it supports iterative progress and value delivery. While it could cover a wider range of frameworks or methods, its focus on a central Agile principle makes it highly relevant to the topic."
   },
   "Tenet": {
+    "resourceId": "Working Software",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses 'working software' as a key output in Agile and Scrum, which relates to the principles of delivering value and continuous improvement. However, it does not explicitly mention actionable tenets or guiding rules that shape decision-making and behaviours within an organisation. The focus is more on the concept of working software rather than on specific tenets, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 65.483,
+    "ai_mentions": 4.5,
+    "ai_alignment": 7.0,
+    "ai_depth": 6.4,
+    "ai_intent": 7.1,
+    "ai_audience": 8.2,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content discusses 'working software' as a core artifact and value delivery measure in Agile/Scrum. While these are closely related to tenets (e.g., 'working software over comprehensive documentation' in the Agile Manifesto), the content does not explicitly frame 'working software' as a tenet or prescriptive rule. It focuses more on describing its role, benefits, and function rather than embedding it as a guiding principle with actionable rules. Strong alignment with audiences targeted by tenets is present (practitioners, leaders), and the signal is high, but the lack of explicit tenet terminology and direct highlighting of actionable rules lowers the score. Depth is moderate as the discussion covers artifacts, process outcomes, and value realisation, but does not debate or codify tenets directly.",
+    "reasoning_summary": "Discusses 'working software' as core in Agile, with indirect alignment to tenets, but lacks direct prescriptive rules or explicit tenet framing. Strong relevance for practitioners, but not a clear or thorough tenet discussion. Partial fit.",
+    "level": "Secondary"
   },
   "Method": {
     "category": "Method",
@@ -3121,6 +3128,25 @@
     "final_score": 12.0,
     "reasoning": "The content focuses on working software as a key Agile/Scrum artifact, highlighting its value for teams and stakeholders through transparency and feedback. However, it does not mention or describe human-AI collaboration, AI agents as team members, or any of the core aspects of Collective Intelligence as defined above. References to collaboration pertain solely to human teams. No penalties applied as there is no outdated content or antagonistic tone.",
     "reasoning_summary": "This content describes team-focused delivery of working software in Agile but does not address human-AI collaboration or any Collective Intelligence themes. It is only tangentially related due to the broad emphasis on teams and collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Working Software",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 20.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.8,
+    "ai_intent": 2.4,
+    "ai_audience": 7.5,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content exclusively discusses the concept of 'working software' as an Agile/Scrum artifact, emphasizing value delivery, transparency, feedback, and adaptation. It does not mention agentic concepts such as AI agents, autonomous systems, contextual intelligence, or the integration of human and AI agency in software delivery. There are no references to modern engineering practices specific to agentic delivery, governance of agent agents, or human-in-the-loop designs. While the audience could partially overlap, the topic itself is strictly traditional Agile/Scrum, lacking the agentic framing required by the category definition.",
+    "reasoning_summary": "This content focuses entirely on traditional Agile concepts, specifically 'working software,' with no reference to agentic principles or autonomous AI agents in delivery. There is minimal alignment with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

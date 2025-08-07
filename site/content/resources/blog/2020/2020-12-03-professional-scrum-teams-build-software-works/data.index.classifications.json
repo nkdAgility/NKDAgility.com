@@ -1019,15 +1019,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "vCeqzJIgF1F",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:54:33",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which aligns with technical leadership principles. It touches on DevOps practices and the need for continuous improvement, but lacks a strong focus on mentoring, coaching, or specific agile leadership strategies. The depth of discussion on technical leadership concepts is moderate, with some relevant points but not enough to fully encapsulate the category.",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 67.313,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.9,
+    "ai_intent": 7.3,
+    "ai_audience": 8.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "Direct mentions of 'technical leadership' or synonyms (such as 'leadership') are rare and not a primary focus. The content primarily targets developers, teams, and organizations using Scrum, emphasizing accountability, software quality, technical debt, and engineering excellence. There is strong conceptual alignment via discussions of technical debt, continuous improvement, and linking technical decisions to business outcomes. There are several leadership-relevant principles (e.g., team accountability, building trust, using retrospectives for improvement, and the role of organizational decisions in quality tradeoffs), but the article does not directly address strategies or responsibilities of technical leaders, coaching, or leadership-specific practices. The primary audience is practitioners and team-level technical staff, with only secondary reference to executive leadership decision points. The bulk of the content is relevant, with limited digressions. Overall, there's a solid, though indirect, fit with technical leadership—more from the angle of setting quality standards and organizational accountability than explicit guidance or mentoring by technical leaders.",
+    "reasoning_summary": "Content discusses accountability, quality, and technical debt in Scrum teams—topics adjacent to technical leadership—but rarely addresses explicit leadership roles or practices. Fit is partial, with strong relevance but indirect coverage of the category.",
     "level": "Secondary"
   },
   "Increment": {
@@ -2006,5 +2013,24 @@
     "reasoning": "The content focuses on SCRUM team professionalism, accountability, automation, and quality—elements foundational to high-agency engineering teams. While themes like developer accountability, automation, and empiricism overlap with Agentic Engineering (e.g., empowering teams and fostering improvement), the discussion is conventionally rooted in Scrum concepts, not in the broader or explicit framing of maximising human and AI agency. There's scant reference to decentralised decision-making, ethical AI, or feedback-driven adaptation beyond empirical Scrum processes. The lack of explicit terminology or direct mention of Agentic Engineering concepts reduces the confidence. The audience and signal remain high, as the guidance is relevant for practitioners interested in agency within their teams, but the category fit remains partial and not fully intentional.",
     "reasoning_summary": "This content emphasizes developer accountability, automation, and empirical improvement within Scrum, partially aligning with Agentic Engineering themes. However, it lacks explicit focus on the maximisation of human and AI agency, making the fit moderate rather than strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vCeqzJIgF1F",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 18.46,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions: -0.5 outdated references (e.g., 'in 2017'), alignment: -0.5 for lack of contextual intelligence/agent topics, depth: -0.5 superficial mention of automation, intent: -0.5 as content focuses on traditional practices.",
+    "final_score": 18.0,
+    "reasoning": "The content is a detailed advocacy for software quality and professionalism in Scrum delivery, emphasizing developer accountability, automation, CI/CD, and technical excellence. However, nowhere does it mention or substantially discuss agentic concepts: e.g., AI agents, agency, autonomous systems, contextual intelligence, human-agent collaboration, or agent governance. The closest it comes to category relevance is in discussing automation, CI/CD pipelines, and DevOps practices—a foundational enabler for agentic delivery, but far removed from the core topics (autonomous agents, human-in-the-loop, agent governance, etc.). The audience (Scrum practitioners) is partially aligned but the core purpose is traditional craftsmanship, not agentic delivery. Penalties were applied for outdated references (2017), lack of conceptual fit, superficial treatment of automation as opposed to agentic intelligence, and irrelevant focus for this category. Thus, the fit is only minimal, scored mainly for foundational engineering practices relevant as prerequisites, not as direct agentic delivery discourse.",
+    "reasoning_summary": "Content focuses on traditional Scrum, developer accountability, and software quality—not on agentic delivery, AI agents, or their integration. Topic and intent are not well-aligned; fit is tangential and partial at best, relating only through automation/CI/CD basics.",
+    "level": "Ignored"
   }
 }

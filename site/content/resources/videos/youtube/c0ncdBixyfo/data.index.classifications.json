@@ -1491,15 +1491,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "c0ncdBixyfo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:38:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the culture of contempt within Agile teams and leadership dynamics, which does not directly relate to the One Engineering System framework. While it touches on team dynamics and productivity, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 22.94,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.45,
+    "ai_depth": 2.5,
+    "ai_intent": 2.85,
+    "ai_audience": 6.0,
+    "ai_signal": 6.18,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content deeply explores organizational culture issues in Agile teams, such as contempt, morale, and leadership inclusivity. However, it makes no mention of One Engineering System (1ES), standardisation, integrated tooling, or unified engineering processes. Its intent is general improvement of Agile team culture, not 1ES. The audience (technical leaders) and signal/noise are somewhat aligned, but key 1ES topics—framework characteristics, cross-team tool/process integration, or 1ES implementation case studies—are absent.",
+    "reasoning_summary": "Content focuses on Agile team culture, not 1ES standards or integration. No mention of One Engineering System, and no alignment with its principles or framework. Only partial overlap in audience makes fit weak and confidence low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2002,6 +2009,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on workplace culture in Agile teams, emphasizing inclusion, shared decision-making, and team morale. While these ideas intersect with developer agency—a core aspect of Agentic Engineering—the discussion remains rooted in cultural and leadership advice rather than deliberate engineering practices designed to maximize human and AI agency. Key Agentic Engineering themes like observability, DevOps, or ethical AI collaboration are absent. The focus is on organizational culture, not the intentional engineering of autonomy or feedback mechanisms. The absence of direct mentions, limited conceptual overlap, and lack of technical, systemic, or philosophical depth on agency lowers the alignment with the core category definition.",
     "reasoning_summary": "The content discusses Agile team culture, inclusion, and leadership behaviors related to team agency, but does not address engineering practices or system design central to Agentic Engineering. Its focus is more on general organizational culture than on maximizing agency in technical contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "c0ncdBixyfo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 12.875,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "There are no direct or indirect mentions of autonomous AI agents, contextual intelligence, or agentic principles in the content. The piece exclusively focuses on team culture, leadership, morale, and inclusive decision-making within Agile teams. While relevant for Agile practices and team health, it does not touch on the integration of AI agents or systems, agent autonomy, or modern engineering practices central to Agentic Software Delivery. The alignment, depth, and audience scores are minimal as the content and its audience are more related to general Agile leadership and team dynamics, with no reference to agentic software delivery concepts or practices.",
+    "reasoning_summary": "The content is focused on Agile team culture, not Agentic Software Delivery. No discussion or mention of AI agents, contextual intelligence, or agentic principles. Fit is very weak and incidental at best.",
     "level": "Ignored"
   }
 }

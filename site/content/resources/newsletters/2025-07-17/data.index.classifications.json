@@ -2897,15 +2897,21 @@
   "Internal Developer Platform": {
     "resourceId": "AORP41zLNTi",
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-05-01T12:58:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": null,
-    "final_score": 32.0,
-    "reasoning": "The content discusses leadership in software development and the importance of system design, but it does not explicitly mention Internal Developer Platforms or their specific components. While it touches on themes of improving delivery and reducing silos, which are relevant to IDPs, the focus is more on leadership and organisational structure rather than the IDP framework itself. The depth of discussion on IDPs is minimal, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:06",
+    "ai_confidence": 46.76,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.7,
+    "ai_intent": 4.9,
+    "ai_audience": 6.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content discusses leadership strategies for improving software delivery via better branching, team structure, and architecture, which are conceptually adjacent to key ideas of Internal Developer Platforms (IDP) such as streamlining delivery and automation. However, the text does not directly refer to IDPs, their architecture, implementation, or specific tooling. Focus is on agile leadership, trunk-based development, team design, and architectural choices, not the implementation or operationalization of a self-service platform for developers. Audience and intent marginally fit: technical leaders who could benefit from IDPs, but the context is broader transformation rather than platform engineering. Signal-to-noise is moderate given sections on consultancy offerings and programs. Overall, low mention and only partial conceptual and depth alignment result in moderate-low confidence.",
+    "reasoning_summary": "Content advocates agile technical leadership and improved development practices but does not explicitly discuss or deeply align with Internal Developer Platforms. Fit is partial and mostly tangential, with no direct IDP focus.",
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "resourceId": "AORP41zLNTi",
@@ -3276,5 +3282,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or close synonyms are absent; the focus is on practical leadership intervention in system design, branching models, and organisational structure. Conceptual alignment is strong: themes include decentralising decision-making, team autonomy, flow, and adaptive systems—all Agentic Engineering interests. There is substantial depth in arguing for trunk-based development, architectural boundaries, and accountability, though philosophical agency aspects are implicit rather than explicit. The primary audience is technical (CTOs, managers). Signal-to-noise is high, with minimal filler, although the final section adds some unrelated updates. No outdated practices or contradictory tone are present, so no penalties applied. The confidence reflects strong, though not perfect, fit—rooted in substantial but indirect treatment of Agentic Engineering concepts.",
     "reasoning_summary": "This content deeply explores technical leadership's role in systemic improvement: flattening silos, team agency, and continuous delivery—key Agentic Engineering themes, albeit indirectly. It strongly aligns with the category's intent, targeting decision-makers who shape developer and system agency.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:03",
+    "ai_confidence": 26.43,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 3.0,
+    "ai_audience": 4.1,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on modern software delivery, leadership accountability, and breaking down silos, but there are no explicit or implicit references to autonomous AI agents, agentic intelligence, or agentic principles. Recommendations center on traditional engineering practices (e.g., CI/CD, trunk-based development, architecture) and cross-functional teams, rather than the integration of AI agents or agentic workflows. Discussion of observability and automation is geared toward improving flow, not embedding context-aware intelligence. The audience (technical leaders) is relevant for agentic delivery, but the actual coverage of agentic principles is superficial to nonexistent. No penalties applied since there's no outdated or contradictory content.",
+    "reasoning_summary": "Content addresses software delivery leadership, silos, and architecture but lacks agentic AI, agency, or context-aware integration. Alignment with the Agentic Software Delivery category is weak and mostly indirect.",
+    "level": "Ignored"
   }
 }

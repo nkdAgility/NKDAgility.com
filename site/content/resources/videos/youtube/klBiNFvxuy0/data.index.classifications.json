@@ -1483,16 +1483,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "klBiNFvxuy0",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:09:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and its principles, focusing on the Aha moments experienced by participants in Scrum courses. While it touches on themes of understanding purpose and value in Scrum, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities in the context of agility, and it does not provide mechanisms or case studies related to Agentic Agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 68.175,
+    "ai_mentions": 1.8,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.3,
+    "ai_intent": 6.8,
+    "ai_audience": 8.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "There is no explicit or frequent mention of 'agency' or 'agentic agility,' so direct mentions are low. However, the content explores how understanding Scrum's purpose leads to intentional, adaptive action—echoing the core of agentic agility. The shift from rote process-following to empowered, purposeful engagement closely aligns with the concept. The depth is moderate: main ideas center on empiricism, self-management, and the need for critical engagement over blind procedure, but do not deeply analyze the nuances of agency or its explicit distinction in human/AI contexts. Intent is somewhat aligned—helping Scrum learners achieve meaningful, outcome-oriented practice fits agentic agility's goal, though the focus is more on epiphany related to purpose than agency per se. Audience (Scrum practitioners and agile professionals) matches very closely. Signal is good but not maximally focused: some promotional sections and discussion of general agile practices stray from the core theme.",
+    "reasoning_summary": "The content discusses meaningful engagement with Scrum and the move from rote to intentional work, echoing agentic agility’s spirit. However, it lacks explicit treatment of agency and only partially aligns with the specific themes of the category.",
+    "level": "Secondary"
   },
   "Product Development": {
     "category": "Product Development",
@@ -1986,5 +1993,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is completely absent. Conceptual overlap is moderate, with repeated discussion on empiricism, purpose, and challenging rote processes—which partially echo developer agency and feedback-driven adaptation—but the focus is almost exclusively on Scrum's philosophy and not specifically about engineering practices that intentionally maximize agency (for humans or AI). There's little about autonomy in engineering, observability, DevOps-infused craft, or deliberate design for agency. Audience is practitioners interested in Scrum/agile, which is tangential but not a precise fit. The content's main purpose is to inspire reevaluation of Scrum with respect to its underlying principles, which aligns weakly with agentic concepts but doesn't reach into technological, structural, or ethical frameworks foundational to Agentic Engineering. Signal-to-noise is fair, but much is general advocacy and promotional closing, not agentic engineering per se.",
     "reasoning_summary": "The content emphasizes empiricism and reflective practice in Scrum, but lacks discussion of engineering, tech-enabled agency, or systemic autonomy essential to Agentic Engineering. Its focus remains on philosophical shifts within agile, aligning weakly and mostly tangentially with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "klBiNFvxuy0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 15.986,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.9,
+    "ai_audience": 4.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on Scrum fundamentals, empiricism, and transformation in mindset within Scrum training. There is no mention of autonomous AI agents, contextual intelligence, agentic delivery concepts, or agent integration with human expertise. While modern software delivery, high-performance teams, and agile practices are occasionally mentioned, these are addressed in the context of human process improvement, not agentic systems or agency-driven practices. Depth is minimal for the category, with some partial alignment due to the focus on evolving delivery practices, but the central themes remain traditional Scrum and agile coaching. The audience (practitioners interested in Scrum/agile) partially overlaps, but intent and references stay outside the agentic paradigm.",
+    "reasoning_summary": "Content is about Scrum learning and empiricism, not agentic delivery. No AI agents, contextual intelligence, or agency themes are present. Audience overlaps partially, but topical fit is minimal, with no explicit or implicit agentic software delivery focus.",
+    "level": "Ignored"
   }
 }

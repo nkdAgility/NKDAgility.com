@@ -1470,15 +1470,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "Nf6XCdhSUMw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:21:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on evidence-based management and data-driven decision-making, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and metrics, these concepts are not explicitly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 24.62,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 3.51,
+    "ai_audience": 7.2,
+    "ai_signal": 7.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses entirely on evidence-based management (EBM), data-driven decisions, purposeful metrics, and continuous improvement—none of which directly discuss, mention, or meaningfully align with the One Engineering System (1ES) or its core themes of tool/process integration or unification. There are no explicit references to 1ES, nor to its principles, frameworks, or case studies. Alignment and depth are low due to absence of 1ES-related integration or tool standardisation discussion. The audience and signal scores are higher as the topic is relevant to organisational improvement for technical teams, but intent and fit are only partially relevant since the primary topic diverges notably from 1ES.",
+    "reasoning_summary": "The content does not mention or substantively align with One Engineering System. It focuses on evidence-based management and metrics, not on integration or standardisation of engineering systems. Fit is partial and indirect at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1983,5 +1990,24 @@
     "reasoning": "The content focuses on evidence-based management, emphasizing informed, data-driven decision making and the thoughtful use of metrics to shape behaviours and foster continuous improvement. While these themes partially intersect with Agentic Engineering—especially in advocating for informed, non-controlling use of data, adaptive decision-making, and team empowerment—the piece does not explicitly reference Agentic Engineering or its unique features (e.g., systemic observability leveraging telemetry, DevOps-infused craft, or explicit integration of human/AI agency). The discussion lacks direct mention or deep exploration of agentic systems, distributed decision frameworks, or ethical AI collaboration. The audience (practitioners and managers in Agile and organisational contexts) is somewhat aligned, but the main topic remains evidence-based management rather than the deliberate engineering for maximising agency. No penalties were applied, as the content is not outdated or oppositional.",
     "reasoning_summary": "This content aligns partially with Agentic Engineering by promoting informed, adaptive decision-making and consideration of team behaviours. However, it remains focused on evidence-based management, lacking explicit discussion of engineering for human or AI agency, systemic observability, or agentic system design.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Nf6XCdhSUMw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 14.57,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 3.1,
+    "ai_audience": 4.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses solely on evidence-based management: using data and metrics to inform organizational decision-making. It does not discuss autonomous AI agents, integration with human expertise, or any defining aspects of agentic software delivery. There is no mention of AI, agents, context-aware systems, or synergy between human experts and agents. The content's intent and audience are relevant to agile/management practitioners, but there is only tangential thematic overlap (e.g., contextual decision-making). Depth, mentions, and conceptual alignment with agentic software delivery are all minimal. No penalties are needed because the piece is current and not satirical or critical.",
+    "reasoning_summary": "Content is about evidence-based management and organizational metrics. It lacks discussion of AI agents or agentic delivery principles; only tangentially relevant. Strong category fit is absent.",
+    "level": "Ignored"
   }
 }

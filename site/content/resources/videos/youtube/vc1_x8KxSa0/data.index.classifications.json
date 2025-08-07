@@ -21,21 +21,21 @@
   "Sociotechnical Systems": {
     "resourceId": "vc1_x8KxSa0",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-07-15T17:13:23",
-    "ai_confidence": 86.407,
-    "ai_mentions": 5.3,
-    "ai_alignment": 9.3,
-    "ai_depth": 9.0,
-    "ai_intent": 9.4,
-    "ai_audience": 9.2,
-    "ai_signal": 9.5,
+    "calculated_at": "2025-08-07T06:10:06",
+    "ai_confidence": 80.0,
+    "ai_mentions": 2.7,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.8,
+    "ai_intent": 8.2,
+    "ai_audience": 8.6,
+    "ai_signal": 8.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 86.0,
-    "reasoning": "The content directly addresses the critical interplay between organizational culture and technical practices, emphasizing mindset shifts, team adaptability, and continuous improvement—all core to sociotechnical systems. Explicit phrases like 'Engineering Excellence Isn’t Just Technical—It’s Cultural' and the breakdown of legacy versus modern approaches demonstrate strong conceptual alignment and significant depth. The intent is to convince organizations and teams to prioritize cultural evolution alongside technology, targeting leaders and practitioners concerned with both human and technical factors. While the term 'sociotechnical' is not named verbatim, references to culture, mindset change, agility, collaboration, and the avoidance of purely technical solutions cover the scope deeply. Nearly all content focuses on the intended audience of sociotechnical systems, and even promotional aspects emphasize the integration of social and technical transformation.",
-    "reasoning_summary": "This content thoroughly explores how organizational culture and engineering practices interact, urging both mindset and technical change for sustainable improvement. It closely aligns with the sociotechnical systems category, strongly addressing the blend of social and technical factors in software delivery.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "Direct mentions of 'sociotechnical systems' are absent, resulting in a low explicit mention score. However, the content strongly aligns with the category: it explores the interplay between organisational culture and technical change, critiques purely technical solutions ('Big Bang'), and recommends sustainable, incremental approaches that require changes in team mindset, collaboration, and organisational learning. The article thoroughly discusses how cultural and technical shifts must be integrated for successful legacy system transformation, directly fitting the Sociotechnical Systems definition. The audience (leaders, practitioners, change agents in software organisations) is highly relevant. There is little to no discussion off-topic, and examples validate the category fit. No penalties applied as the tone is constructive, modern, and on-framing.",
+    "reasoning_summary": "Content deeply explores how organisational culture and technical strategies interact in legacy system change. Though it never names 'sociotechnical systems,' its focus on team dynamics, cultural adoption, and technical change closely fits the category definition.",
+    "level": "Secondary"
   },
   "Hybrid Agile": {
     "resourceId": "vc1_x8KxSa0",
@@ -3342,5 +3342,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, but the content stresses cultural and systemic change toward modern engineering, highlighting continuous improvement, team autonomy, and adaptive practices—closely aligning with agentic principles. The discussion is deeper than superficial, describing the transition from command-driven, legacy mindsets to empowered, adaptable teams. The intended audience is technical practitioners and leaders aiming for excellence in engineering through DevOps, autonomy, and continuous value delivery. Although not naming agentic engineering, the emphasis on team agency, sustainable evolution, and fast learning mirrors the core values of the category.",
     "reasoning_summary": "The content strongly aligns with Agentic Engineering through its focus on engineering culture shifts, team autonomy, continuous improvement, and adaptability, even though it does not mention the term directly. Its message and audience are a close fit for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vc1_x8KxSa0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:03",
+    "ai_confidence": 38.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.1,
+    "ai_intent": 4.7,
+    "ai_audience": 6.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on moving from legacy systems to sustainable, incremental modernization, emphasizing continuous improvement and engineering excellence. It aligns with some modern delivery principles, such as incremental change, risk reduction, and value delivery. However, it does not mention or discuss agentic software delivery, agency for AI agents, or autonomous AI/human teamwork—key aspects outlined in the category definition. There is no reference to AIs, agent-based systems, contextual intelligence, or agent-integrated delivery practices. The core ideas—engineering culture, sustainable change, team learning, and risk mitigation—are relevant to high-performing software teams and could be adjacent to agentic models but do not directly address or develop the agentic paradigm. Therefore, direct mentions are essentially absent, thematic alignment is minimal, and depth is limited to general engineering practices rather than agentic delivery specifics.",
+    "reasoning_summary": "Content discusses sustainable engineering change and moving away from 'big bang' rewrites, but does not mention or explore agentic delivery, autonomous AI agents, or related principles. Partial alignment with modern engineering, but not with agentic software delivery.",
+    "level": "Ignored"
   }
 }

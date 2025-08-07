@@ -1362,16 +1362,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "sbr8NkJSLPU",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:02",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Kanban practices that promote clarity, alignment, and efficiency within teams, which aligns with the principles of social technologies. However, it primarily focuses on workflow visualisation and task management rather than broader themes of collaboration and decision-making. While it touches on aspects of team dynamics and the importance of shared understanding, it lacks a deeper exploration of social frameworks or methodologies that drive collective intelligence and emergent problem-solving.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 88.1,
+    "ai_mentions": 5.5,
+    "ai_alignment": 9.2,
+    "ai_depth": 8.7,
+    "ai_intent": 8.1,
+    "ai_audience": 8.5,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 88.0,
+    "reasoning": "Direct mentions of 'Social Technologies' are absent, but Kanban is strongly aligned as a collaborative social technology. The content addresses team alignment, transparency, self-organisation, visualisation, shared policies, and stability—core to the category. It explores practice and purpose in meaningful depth (defining boards, establishing policies, agreement on workflow), supporting collective intelligence and continuous improvement. The intent is guidance for practitioners; audience fit is strong for Agile/DevOps/Lean teams. Nearly all content is signal; off-topic or filler is minimal. No dimension was penalised as there are no outdated or contradictory elements.",
+    "reasoning_summary": "The content deeply aligns with 'Social Technologies' by advancing Kanban as a collaborative, adaptive framework for clarity, transparency, and value delivery. While the explicit label isn't used, the purpose and discussion fit the category very well.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1964,6 +1971,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on Kanban workflow visualization and process definition for efficiency and team clarity. While themes of autonomy, clarity, and process alignment are related, there are no explicit references to agentic engineering concepts, such as maximising human or AI agency, DevOps-infused craft, decentralised decision-making, or ethical AI. The discussion is practical, procedural, and anchored in workflow specifics, not the deliberate design of agency as outlined in the category. The audience is practitioners interested in process improvement, which aligns somewhat, but overall the content remains within the boundaries of Kanban practice rather than agentic engineering.",
     "reasoning_summary": "This guide centers on Kanban workflow clarity and efficiency, prioritizing process visualization and rule definition. While aligned with supporting team autonomy, it doesn't explicitly address the broader, philosophical, or technical elements of agentic engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sbr8NkJSLPU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 6.39,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 0.9,
+    "ai_audience": 0.8,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on Kanban fundamentals—workflow visualization, WIP limits, team alignment, and task selection—without discussing AI agents, contextual intelligence, or agentic delivery. There are no direct or indirect references to Agentic Software Delivery or qualifying agentic principles (such as autonomous AI, human-in-the-loop design, engineering automation, governance between automation and humans, etc.). While some ideas (such as workflow stability and process clarity) are tangentially related to modern delivery practices, this is generic to workflow management and process definition—not unique to agentic or AI-driven paradigms. The intent, audience, and examples are Kanban-focused. No outdated concepts or contradictory tones present, so no penalties applied.",
+    "reasoning_summary": "This content is about classic Kanban workflow definition and visualisation. It does not reference Agentic Software Delivery, AI agents, or related concepts. The fit is extremely weak and only coincidentally touches generic process themes.",
     "level": "Ignored"
   }
 }

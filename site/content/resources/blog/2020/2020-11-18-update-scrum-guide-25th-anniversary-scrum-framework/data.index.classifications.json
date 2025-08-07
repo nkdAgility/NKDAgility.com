@@ -587,15 +587,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "7CqdvOa9t4c",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:22:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 12.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses updates to the Scrum Guide, focusing on Scrum roles and team management rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
+    "reasoning": "The content summarizes changes to the 2020 Scrum Guide, detailing updates in terms such as self-managing teams, commitments to goals/backlogs, and the Definition of Done. However, there is no direct mention or substantive discussion of Test First Development or its core principles. While 'Definition of Done' is referenced, it is not explained or tied to the practices of determining success criteria prior to implementation, automated/manual test practices, or collaborative aspects of Test First Development. The main purpose is to inform Scrum practitioners about Scrum Guide changes, not to delineate or advocate for Test First Development.",
+    "reasoning_summary": "The content does not discuss Test First Development. Its focus is on updates to Scrum roles and artifacts, with only broad relevance (e.g., 'Definition of Done') but no real connection to Test First principles or practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -1981,6 +1988,25 @@
     "final_score": 34.0,
     "reasoning": "The content details updates to the Scrum Guide, emphasizing simplified language and the concept of self-managing teams. While this nods to autonomy and agency (touchpoints with Agentic Engineering), there are no direct references to Agentic Engineering itself, nor does the discussion venture into philosophical or systemic aspects like feedback-driven adaptation, AI agency, or observability. The main focus remains practical Scrum revisions targeting teams and practitioners, not the deliberate design for maximized human/AI agency. Relevance is partial but not robust.",
     "reasoning_summary": "The article describes Scrum Guide updates with reference to self-management, which overlaps with agency. However, it does not explicitly discuss Agentic Engineering principles or mechanisms. Alignment exists but is limited and only indirectly related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7CqdvOa9t4c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 13.72,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.3,
+    "ai_audience": 4.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content comprehensively summarizes updates to the 2020 Scrum Guide, emphasizing self-managing teams, simplified language, and key Scrum accountabilities. However, there is no explicit mention or detailed discussion of autonomous AI agents, agency, contextual intelligence, modern engineering practices related to agentic delivery, or integration of AI and human expertise. The alignment is low since the article remains strictly within classic Scrum framework updates and does not introduce agentic, AI-driven, or next-gen software delivery concepts. Its audience (Scrum practitioners and interested readers) marginally overlaps with those interested in agentic delivery, but the core focus is not related.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It only discusses Scrum Guide updates on self-management and team commitments, without introducing autonomous agents, contextual AI, or agentic delivery themes.",
     "level": "Ignored"
   }
 }

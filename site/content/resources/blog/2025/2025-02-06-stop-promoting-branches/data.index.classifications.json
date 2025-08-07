@@ -1691,16 +1691,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "x7ra7pQCDX5",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on software delivery models and branching strategies, which are technical aspects of development rather than discussions on social technologies. While it touches on themes of agility and value delivery, it lacks a direct focus on collaboration, decision-making, or the social frameworks that underpin these processes. The mention of team dynamics is minimal and does not explore the underlying social technologies that facilitate collaboration or collective intelligence.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:23",
+    "ai_confidence": 61.55,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.8,
+    "ai_intent": 6.0,
+    "ai_audience": 8.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content critiques traditional branching models and advocates for modern alternatives (GitHub Flow, Release Flow) that emphasize continuous integration and value delivery—concepts adjacent to Social Technologies. However, explicit mention of collaboration frameworks, self-organization, or organisational culture is limited. The main discussion is technical process improvement related to flow, reducing friction, and enabling faster delivery (which generally support social technology principles), but lacks explicit depth in terms of team dynamics or collective decision-making mechanisms. The intended audience is aligned (Agile, DevOps practitioners). The focus is on enabling better flow and agility, not just on technical tools, thus matching the category in intent and some conceptual alignment, but falls short in direct, thorough exploration of social frameworks, with only moderate depth into social aspects.",
+    "reasoning_summary": "Content primarily covers branching strategies for software delivery. While it promotes techniques that enhance value delivery and agility, direct coverage of social frameworks and collaboration is moderate, so fit with Social Technologies is partial.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2343,5 +2350,24 @@
     "reasoning": "This content strongly critiques outdated software delivery practices and emphasizes modern, flow-based branching models like GitHub Flow and Release Flow. It argues for eliminating friction, empowering developers, and enabling continuous value delivery—concepts closely related to agentic engineering's tenets of agency and fast feedback. Topics such as continuous integration, deployment, observability, and minimizing process overhead align with maximizing developer autonomy. However, the content is practical rather than conceptual: it mainly discusses tactics and models, not the explicit philosophical frame of agentic engineering or ethical AI collaboration. No explicit mention of 'agency' or 'Agentic Engineering' occurs. The audience is technical practitioners, matching the target group. The practical focus is relevant but lacks explicit reference to agentic engineering as a movement or philosophy, justifying penalties.",
     "reasoning_summary": "The content advocates for delivery models that enhance developer autonomy and flow, aligning with key Agentic Engineering principles. It lacks explicit references and deep conceptual discussion but is practically relevant, making it a good—though not definitive—fit for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "x7ra7pQCDX5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:23",
+    "ai_confidence": 21.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.0,
+    "ai_audience": 5.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content provides an in-depth critique of branch promotion and advocates for modern practices such as GitHub Flow and Release Flow. It regularly mentions continuous delivery, CI/CD, automation, testing, and observability — which are necessary technical foundations for agentic software delivery. However, it never references Agentic Software Delivery by name, nor does it discuss autonomous AI agents, agency, contextual intelligence, or agent-involved workflows. Its audience (technical software delivery teams) overlaps with those interested in agentic approaches, but the substance and intent are focused entirely on Lean, CI/CD, and branch models, not on embedding AI agents or mixed human/AI agency. Thus, fit is partial and mostly accidental.",
+    "reasoning_summary": "Content discusses modern software delivery (CI/CD, mainline branching), not agentic principles. Lacks references to AI agents, agency, or contextual intelligence—fit is partial and mostly coincidental.",
+    "level": "Ignored"
   }
 }

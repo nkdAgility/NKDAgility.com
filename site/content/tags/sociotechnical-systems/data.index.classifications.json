@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Sociotechnical Systems",
     "category": "Tool",
-    "calculated_at": "2025-04-09T15:00:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses sociotechnical systems, which touch on the interaction between technology and organisational structures. However, it does not explicitly mention specific tools or provide a detailed analysis of how tools facilitate workflows or improve collaboration. While there is some conceptual alignment with the category, the primary focus is on the broader concept of sociotechnical systems rather than on tools themselves.",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 16.375,
+    "ai_mentions": 1.8,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses the broad concept of sociotechnical systems, focusing on the interaction between social and technical elements. While it recognizes tools as part of technical capabilities, it does not directly discuss or evaluate specific tools, their features, integration, or practical usage within Agile, Lean, or DevOps. The discussion remains high-level, addressing concepts, frameworks, and the impact of alignment between people and technology rather than providing insight about tools per the category definition.",
+    "reasoning_summary": "The content offers a conceptual overview of how social and technical factors interact, mentioning tools only generally. It lacks direct, in-depth discussion of tools or their application, making its fit for the \"Tool\" category weak and indirect.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3139,6 +3146,25 @@
     "final_score": 36.0,
     "reasoning": "The content describes the interplay of social and technical elements in organizations with focus on team effectiveness and software delivery. While it discusses organizational alignment, collaboration, and the synergy of people and technology, there are no explicit or implied mentions of human-AI collaboration, AI agents, or the emergence of collective intelligence through human-AI interaction. The main focus is broader sociotechnical alignment rather than the specific partnership or distributed cognition between humans and AI that the category requires. The audience (Agile/DevOps/product leaders and practitioners) and themes (collaboration, adaptation) are tangentially aligned but not substantively focused on collective intelligence as defined. No penalties applied, as there are no outdated or contradictory elements.",
     "reasoning_summary": "This content centers on the importance of sociotechnical systems in software teams, stressing collaboration between people and technology. However, it lacks discussion of human-AI partnership or explicit collective intelligence themes, offering only partial overlap with the intended category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Sociotechnical Systems",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 34.36,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content discusses the interaction between social and technical factors in software delivery but never directly mentions or describes agentic software delivery or autonomous AI agents. There is some conceptual overlap in recognizing the importance of human-technological synergy, alignment, and systemic approaches, but it does not address agentic intelligence, agency, governance frameworks for AI agents, or the integration of context-aware AI in delivery. Depth focuses on sociotechnical principles in team effectiveness, not modern agentic practices. Audience fit is relatively high as both target practitioners interested in delivery effectiveness. However, there is a significant gap in the thematic and intentional focus required for the Agentic Software Delivery category.",
+    "reasoning_summary": "The content aligns only broadly with agentic delivery by discussing sociotechnical integration but lacks any reference to autonomous AI agents or agency in delivery. It does not substantially fit the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

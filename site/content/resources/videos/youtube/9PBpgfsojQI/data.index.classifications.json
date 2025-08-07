@@ -1454,15 +1454,22 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
+    "resourceId": "9PBpgfsojQI",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:08:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses various aspects of business strategy and agile methodologies but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on improving product development and employee satisfaction, it lacks a focused discussion on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 14.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 0.7,
+    "ai_audience": 6.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "There are no direct mentions of 'Shift Left Strategy' or related key concepts (e.g., integrating testing/security/compliance early). The content centers on general strategy, agile, team performance, and organizational improvement, not on identifying/dealing with issues earlier in the development process. The closest relevant angle is a general discussion of Scrum making problems visible early, but this is neither explicit nor developed in the distinct context of shift-left. The core intent is broad performance advice for 2023, not a focus on shift-left principles or practices.",
+    "reasoning_summary": "Content does not address the Shift Left Strategy. The focus is on agile adoption, general product development, and organizational strategy without references to integrating processes early or shift-left practices. Fit is highly limited or unclear.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2022,6 +2029,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses heavily on general agile practices, product development, business strategy, and employee/customer satisfaction, but never explicitly references Agentic Engineering or its core themes (such as maximizing the agency of humans and AI, decentralised decision-making, ethical autonomy, or DevOps-infused engineering). While autonomy and improving ways of working are discussed, these are framed through generic organizational improvement, not through the philosophical or practical lens of Agentic Engineering. The material is well aligned with a technical and managerial audience relevant to software and product delivery, and its focus is sustained, but it does not meaningfully explore or engage with the unique, defining aspects that distinguish Agentic Engineering from standard agile or consulting discourse.",
     "reasoning_summary": "This content addresses agile and organizational improvement but does not discuss or align closely with Agentic Engineering concepts, such as maximizing human-and-AI agency or ethical, decentralized engineering practices. It remains a general guide to agile transformation and business success rather than a fit for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9PBpgfsojQI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 12.703,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 5.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content discusses business strategy, agile ways of working, Scrum, Kanban, product ownership, employee and customer satisfaction, and agile coaching during hard times, but never mentions autonomous AI agents, contextual intelligence, nor any agentic principles. There is no exploration of agent integration, agent/AI-human synergy, or the governance, feedback, or engineering practices critical for Agentic Software Delivery. The material is entirely focused on traditional agile improvement and coaching, not on algorithmic or agent-driven delivery. The closest relevancy is peripheral: mentions of backlog, feedback, and CI/CD-adjacent agile practices, but these lack any context of agentic software delivery as defined. The content audience is tangentially compatible (agile practitioners), but the content is off-topic for this specific category.",
+    "reasoning_summary": "Content is about agile strategy, product development, and Scrum with no mention of autonomous agents or agentic delivery concepts. Lacks direct alignment, depth, or focus on category. Fit is minimal and mostly coincidental.",
     "level": "Ignored"
   }
 }

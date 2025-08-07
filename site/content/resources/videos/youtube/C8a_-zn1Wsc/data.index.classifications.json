@@ -1455,15 +1455,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into how ongoing learning and self-awareness are crucial in Agile and Scrum. By addressing knowledge gaps and offering practical ways to build skills, it directly supports the development of competence. The use of real examples and strategies further reinforces its relevance to this theme."
   },
   "One Engineering System": {
+    "resourceId": "C8a_-zn1Wsc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:49:34",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around personal development in Agile practices, which does not align with the core themes of 1ES.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 10.465,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.4,
+    "ai_intent": 1.8,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers on immersive learning in Agile/Scrum to overcome cognitive bias and promote continuous improvement. It does not mention One Engineering System (1ES), its principles, framework, or era of engineering standardisation—nor does it touch on cross-team integration, unified toolsets, or comparisons with 1ES-related systems. Its intent, depth, and conceptual alignment are all firmly outside 1ES, focusing instead on general Agile practitioner growth. Audience partially overlaps (practitioners), but the core topics and discussions are not aligned to 1ES.",
+    "reasoning_summary": "Content is focused on immersive learning in Agile/Scrum, with no references to 1ES, integration, or engineering standardisation. It does not fit the category definition or required themes, thus alignment is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1968,6 +1975,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses on immersive learning in Agile and Scrum, discussing ways to overcome cognitive bias, foster continuous improvement, and promote hands-on practice. While it addresses practitioner agency and continuous feedback, it does not explicitly discuss the deliberate design of engineering practices, decentralization of decisions, AI collaboration, or DevOps-infused engineering—the hallmarks of Agentic Engineering. There are no direct mentions of agentic concepts in title, description, or body. Audience and signal are high due to technical targeting, but conceptual alignment and depth are weak regarding Agentic Engineering per the strict definition.",
     "reasoning_summary": "This content centers on practical Agile learning and improvement, with some indirect ties to practitioner agency, but it lacks the explicit focus on engineering design, autonomy, or AI-human agency that defines Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "C8a_-zn1Wsc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 3.86,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses immersive learning, cognitive bias, and practical training for Agile and Scrum practitioners. There are no direct or indirect references to AI agents, contextual intelligence, agency, modern engineering practices, or the integration of autonomous systems as defined by Agentic Software Delivery. Although the target audience overlaps (Agile practitioners), and the structure is focused on continuous improvement—a tangential theme—it completely lacks alignment with the central principles or purposes of the Agentic Software Delivery category. The signal-to-noise is moderate (clear, but off-topic), and no content is outdated or critical of agentic framing. Minimal scores are given for audience and signal due to practitioner overlap, but otherwise the fit is extremely weak.",
+    "reasoning_summary": "This content focuses solely on immersive learning and cognitive bias in Agile and Scrum. It lacks any discussion of autonomous AI agents or agentic principles. There is only thematic overlap in continuous improvement with no substantive relevance.",
     "level": "Ignored"
   }
 }

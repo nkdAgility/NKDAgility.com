@@ -1236,15 +1236,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "roWCOkmtfDs",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T14:45:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on product validation and the importance of a hypothesis-driven approach in product development. While it touches on concepts like data collection and decision-making, which are relevant to DevOps, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The discussion lacks depth in terms of DevOps-specific themes such as collaboration, automation, or shared accountability, leading to a low confidence score in alignment with the DevOps category.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 33.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.2,
+    "ai_intent": 3.8,
+    "ai_audience": 6.7,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "DevOps themes (automation, telemetry, feedback, data-driven decision-making) are somewhat adjacent but not directly referenced or deeply discussed. The main focus is on product validation, hypothesis-driven development, and product management, not DevOps philosophy or practices. There are indirect overlaps with observability and evidence-based management—a practice within DevOps—but core DevOps principles (collaboration, automation pipelines, CI/CD, cultural shifts, etc.) are largely absent. The audience skews product managers/owners more than DevOps practitioners; signal-to-noise is reasonably high but not fully aligned.",
+    "reasoning_summary": "The content primarily targets product validation and hypothesis-driven development, not DevOps. It touches on observability and data use but lacks direct or deep alignment with DevOps principles or audiences. Fit is weak and tangential.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -2025,5 +2032,24 @@
     "reasoning": "Direct mentions of Agentic Engineering or its terminology are absent, with no reference to developer or AI agency, decentralised decision-making, or explicit DevOps or ethical AI themes. However, there is conceptual overlap in advocating telemetry, feedback loops, and empowering product managers, which aligns loosely with system observability and decision-making practices. The main thrust targets product managers and owners on hypothesis-driven product validation—related to empirical feedback and adaptive change but not oriented to maximising human/AI agency or autonomy at the engineering practice level. The discussion falls short of addressing autonomy, decentralised decision-making frameworks, or AI integration, placing the content on the periphery of the category.",
     "reasoning_summary": "The content aligns superficially with Agentic Engineering via advocacy of telemetry and feedback-driven adaptation but lacks focus on agency, decentralised decisions, or AI collaboration. Its emphasis is on product validation, not engineering practice design for agency, so category fit is moderate to low.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "roWCOkmtfDs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 12.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.8,
+    "ai_intent": 1.7,
+    "ai_audience": 2.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is about validation, hypothesis-driven development, telemetry, and product management. While it briefly touches on telemetry and evidence-based approaches relevant to modern engineering, it never discusses autonomous agents, agency, agentic delivery, AI integration, or synergy between humans and AI. There’s no mention of agent frameworks, human-in-the-loop designs, or modern engineering practices specific to agentic delivery. The audience focuses on product managers and developers, not those interested in agentic software delivery. Thus, direct mentions and conceptual alignment are minimal, and most discussion is only tangentially related, focusing on traditional evidence-based product validation rather than agentic system design or operation.",
+    "reasoning_summary": "Content centers on hypothesis-driven product validation and telemetry, lacking any mention or exploration of agentic software delivery, AI agents, or agentic principles. There is only a tangential fit via data-driven decisions, not agentic integration.",
+    "level": "Ignored"
   }
 }

@@ -22,15 +22,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "6L2r8YrehWc",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:54:12",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing leadership and influence rather than DevOps principles. While it briefly mentions collaboration and continuous improvement, which are relevant to DevOps, the main emphasis is on Scrum roles and responsibilities, leading to a low confidence score for alignment with the DevOps category.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 14.01,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 2.3,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centrally discusses the Scrum Master’s role within Scrum, focusing on influence, authority, and team dynamics—core to agile methodology, but not to DevOps. DevOps is mentioned only in an invite at the end, lacking substantive connection to the main concepts (no focus on automation, continuous delivery, collaboration between operations and development, or shared accountability across those functions). There is little to no exploration of DevOps principles, philosophy, or practices, and the target audience and intent are anchored in Scrum/Agile, not DevOps. The only direct mention is in a list of general open discussion topics at the end, resulting in extremely weak relevance.",
+    "reasoning_summary": "Content is centered on Scrum Master influence and agile team dynamics. DevOps is only briefly referenced at the end, with no discussion of its principles, making the fit with the DevOps category extremely weak.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1993,6 +2000,25 @@
     "final_score": 36.0,
     "reasoning": "There is no explicit mention of Agentic Engineering or related terminology. The content's core is about the Scrum Master's role as an influencer, not an authority figure, fostering team effectiveness, and supporting agile collaboration. While this tangentially supports developer agency and decentralized decision-making, it does not directly connect to system design, DevOps-ethos, or ethical AI integration, which are core to Agentic Engineering. The exploration is at a moderate depth into leadership style but not in the engineering, technical, or systemic sense. The intent and audience somewhat overlap with those of Agentic Engineering—the focus on agency and empowerment is present, but concentrated on human factors within Scrum leadership and not broader engineer or AI agency. There is limited technical depth or discussion of how practices or systems are deliberately engineered for agentic outcomes, and the SNR is somewhat diffuse as the discussion targets general Scrum leadership rather than deliberate engineering philosophy.",
     "reasoning_summary": "The content emphasizes the Scrum Master's influence over authority, highlighting aspects of team empowerment and collaboration. However, it does not engage with the deliberate engineering practices, technical systems, or AI considerations central to Agentic Engineering, leading to low-moderate relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6L2r8YrehWc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 5.225,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 0.9,
+    "ai_audience": 0.9,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is an in-depth discussion on the role of the Scrum Master, focusing on leadership through influence rather than authority within agile teams. It explains accountability, trust-building, and the value of non-authoritative leadership. However, there are no direct or indirect references to agentic software delivery, autonomous AI agents, contextual AI-driven processes, or any technical or organizational practices that define or enable agentic software delivery. The entire focus is on human aspects of Scrum roles, specifically leadership style, and not on AI, agent systems, or integration of intelligence into delivery systems. Only general agile, Scrum, and DevOps are mentioned, and those as secondary context. Thus, the fit with Agentic Software Delivery is extremely tenuous—the content neither supports nor explores agentic concepts.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It discusses human leadership and influence in Scrum, with no mention or alignment to AI agents, agentic processes, or agentic delivery principles—fit is minimal and indirect at most.",
     "level": "Ignored"
   }
 }

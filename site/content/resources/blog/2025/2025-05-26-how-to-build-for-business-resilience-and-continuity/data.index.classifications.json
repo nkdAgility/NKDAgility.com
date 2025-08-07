@@ -723,15 +723,22 @@
     "reasoning_summary": "This content is an excellent fit for the SRE category, as it thoroughly explores core SRE concepts like SLOs, monitoring, and incident management, with practical examples and actionable advice. Its focus is clearly on applying engineering methods to boost system reliability and business continuity, making it highly relevant for SRE practitioners. The discussion remains on-topic and current, ensuring strong alignment with the intended category."
   },
   "Portfolio Management": {
+    "resourceId": "VThLnxVapgJ",
     "category": "Portfolio Management",
-    "calculated_at": "2025-04-29T14:17:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on business resilience and operational strategies rather than the management of a portfolio of projects. While it touches on concepts like metrics and decision-making, it does not explicitly discuss portfolio management practices or frameworks. The themes of strategic alignment and prioritisation are not present, leading to a low confidence score in relation to the specified category.",
+    "calculated_at": "2025-08-07T06:10:05",
+    "ai_confidence": 35.154,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.8,
+    "ai_intent": 2.7,
+    "ai_audience": 2.1,
+    "ai_signal": 2.154,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on technical/operational strategies for business resilience: observability, decoupling, rapid recovery, DevOps, SRE, evidence-based management metrics (e.g. MTTR, deployment frequency). It does not directly address portfolio management topics such as strategic alignment, value stream mapping, portfolio KPIs, investment prioritization, or agile portfolio frameworks. The mention of 'investment in resilience' and 'Evidence-Based Management' is tangential and does not explore portfolio-level practices or approaches. The audience seems to be technical leaders and teams rather than decision-makers managing a project/initiative portfolio. Thus, the fit is marginal, with only distant conceptual overlap.",
+    "reasoning_summary": "Content focuses on technical/operational resilience, not managing a portfolio of initiatives. Portfolio Management topics (e.g., strategic alignment, value stream mapping) are largely absent. Minimal, tangential fit to the category.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -2502,5 +2509,24 @@
     "reasoning": "The content delves deeply into systemic observability, decentralised decision-making, DevOps craft, continuous delivery, and team empowerment—highly aligning with Agentic Engineering principles. It underscores features such as telemetry and autonomy, SRE, EBM, and the philosophical underpinnings (agency, resilience, rapid feedback) that define the category. However, it does not explicitly reference 'Agentic Engineering' nor directly tackle AI/human agency or ethical AI integration. Primary focus is resilience rather than the full philosophical breadth of agency, so direct mention and intent scores are moderate. The audience and signal closely fit, as the discussion targets practitioners and strategists designing modern, empowered engineering systems.",
     "reasoning_summary": "This content strongly aligns with 'Agentic Engineering' by emphasizing team empowerment, decentralization, observability, and DevOps-driven resilience. While it thoroughly covers system agency and adaptive practices, it lacks explicit references to agentic philosophy and AI-specific agency. Focus and audience are well-suited for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VThLnxVapgJ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:05",
+    "ai_confidence": 47.825,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.9,
+    "ai_depth": 5.2,
+    "ai_intent": 4.4,
+    "ai_audience": 5.0,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content is focused on business resilience and continuity in software delivery, advocating for technical practices (observability, decoupling, routine deployments, empowerment, rapid recovery) closely linked to modern DevOps, SRE, and EBM. However, it does not explicitly or implicitly discuss agentic approaches, agency, autonomous AI agents, or integration with human expertise—nor does it reference proactive, context-aware intelligence or agent-driven delivery models. Topics like CI/CD, IaC, automated testing, and live incident management are present but not in the context of agentic delivery. The audience is technical and managerial, which aligns partially, but the absence of direct and conceptual discussion of agentic software delivery renders the fit only partial. There is zero direct mention of agentic delivery, and while some practices overlap with prerequisites for agentic systems (e.g., observability, automation), the category's main conceptual core is missing.",
+    "reasoning_summary": "The content strongly covers software resilience and modern engineering, but it never addresses agentic principles, autonomous AI agents, or agency. Partial overlap exists on enabling practices, but core agentic delivery themes are absent, resulting in only a partial fit.",
+    "level": "Tertiary"
   }
 }

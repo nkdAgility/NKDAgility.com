@@ -100,15 +100,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Daily Scrum",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Daily Scrum practice within the Scrum framework, discussing team alignment and adaptability rather than observability. While it touches on transparency and accountability, these concepts are not directly related to the core themes of observability, such as metrics, logs, and traces. The discussion lacks depth in observability principles and does not provide specific insights or tools related to the category.",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 16.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 5.9,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on the Scrum event 'Daily Scrum' with no direct mention or explicit exploration of Observability concepts as defined (metrics, logs, traces, system state, etc.). While there is minor thematic overlap in fostering transparency, it centers on team alignment and adaptability, not system state measurement. No key observability practices or tools are referenced. The target audience (Agile practitioners) loosely matches, but the topic and intent do not align with Observability in software systems.",
+    "reasoning_summary": "This content does not fit the Observability category. It centers on Scrum ceremony mechanics and team alignment, lacking focus on metrics, system state, or observability practices. Overlap is minimal and indirect.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3130,6 +3137,25 @@
     "final_score": 14.0,
     "reasoning": "The content discusses the Daily Scrum in the context of team alignment, collaboration, and agility, but makes no mention of AI agents or human-AI partnerships central to the definition of Collective Intelligence. All examples refer solely to human teamwork without referencing artificial intelligence, hybrid teams, or augmented cognition. There are no implicit or explicit suggestions of AI-enabled collaboration, emergent human-AI capacities, or distributed cognition involving non-human entities. As such, all alignment is incidental and limited to general teamwork, not the specific human-AI collaborative focus required for this category. The intent and depth reflect only conventional agile practices, not Collective Intelligence as defined.",
     "reasoning_summary": "This content focuses exclusively on human team practices in Scrum without any mention or implication of AI collaboration. It does not address the Collective Intelligence category, which requires discussion of human-AI partnership and emergent capabilities.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Daily Scrum",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 13.66,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.4,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content describes the Daily Scrum as part of traditional Scrum practices, focusing on team alignment, adaptability, and communication. There are no direct or indirect references to agentic principles—no mention of AI agents, contextual intelligence, automation beyond basic communication, or integration with human expertise. The discussion centers wholly on human practices and routine agile ceremonies. While the audience overlaps with Agile practitioners who may be interested in Agentic Delivery, the themes, purposes, and depth are unrelated to the category's key concepts. No penalties are applied, as the tone is neutral and not outdated.",
+    "reasoning_summary": "The content focuses exclusively on traditional Scrum team practices and does not mention or align with agentic software delivery, autonomous AI agents, or intelligent system integration. It does not fit the assigned category.",
     "level": "Ignored"
   }
 }

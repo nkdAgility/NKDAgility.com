@@ -185,16 +185,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "akntzjbRQe2",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:54:52",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses new Release Management tools and their role in creating reliable release pipelines, which directly relates to product delivery. It mentions DevOps, orchestration, and integration, aligning well with the methodologies and practices of delivering software products. The depth of discussion on the tools and their applications in deployment adds to the confidence score, although it lacks broader coverage of other product delivery aspects like planning and testing.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 87.38,
+    "ai_mentions": 8.3,
+    "ai_alignment": 9.4,
+    "ai_depth": 9.1,
+    "ai_intent": 8.6,
+    "ai_audience": 8.0,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "mentions: -0.5 for referencing features and events from 2015, which may be outdated; audience: -0.5 for slight skew toward Microsoft-specific practitioners vs. broad product delivery audience.",
+    "final_score": 87.0,
+    "reasoning": "The content thoroughly explores Microsoft's Release Management tools focusing on DevOps pipelines, orchestration, and deployment—the core mechanisms of product delivery. It provides explicit mentions of release management and deployment, discusses integration with platforms like Chef and Docker, and elaborates on building professional release pipelines. The content’s focus matches metrics, methodologies, and the main practices listed in the category definition. However, references to TFS 2015 and event timing indicate the possibility of some information being outdated. The audience slightly skews toward Microsoft tech practitioners rather than the full product delivery spectrum. Regardless, it aligns well with the themes, practices, and intent of effective software delivery.",
+    "reasoning_summary": "The content directly discusses release management, pipelines, orchestration, and deployment, matching the core of 'Product Delivery.' There is clear, practical focus, but slight age and audience specialization moderate a perfect fit.",
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1982,6 +1989,25 @@
     "final_score": 30.0,
     "reasoning": "The content thoroughly describes new Release Management tools in Microsoft's ecosystem (VSTS/TFS), emphasizing orchestration, integration, pipeline flexibility, and tool choice (e.g., Chef, PowerShell, Docker). While these features reflect DevOps flexibility and imply increased user autonomy, the focus remains on tooling capabilities rather than on the philosophical or deliberate engineering practice of maximizing human or AI agency. There are no explicit references to ethical AI, decision-making frameworks, feedback-driven adaptation, or developer agency as a primary design goal. The article’s purpose is product overview and demonstration for technical practitioners, not a discussion of Agentic Engineering’s principles. The content is modern, technically accurate, clearly targeted at engineers, and on-topic with respect to DevOps practices, but lacks meaningful exploration of Agentic Engineering as a deliberate approach.",
     "reasoning_summary": "This content describes the features and benefits of Microsoft’s Release Management tools for DevOps pipelines. Although it touches on flexibility and user choice, it does not explicitly or deeply engage with Agentic Engineering concepts such as developer agency or ethical AI.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "akntzjbRQe2",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 18.424,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.4,
+    "ai_intent": 2.5,
+    "ai_audience": 5.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions (-1, no direct category reference); alignment (-1, practices described are outdated and predate agentic principles)",
+    "final_score": 18.0,
+    "reasoning": "The content discusses Microsoft's Release Management tools (VSTS/TFS, circa 2015–2016), focusing on DevOps pipelines, flexible orchestration, and tool integration. While these are related to modern delivery and technical enablement, there is no discussion of agentic concepts: no mention of autonomous AI agents, context-aware intelligence, human–AI synergy, or deliberate integration of agents. The narrative centers on orchestration and flexibility but lacks emphasis on proactive, autonomous, or context-grounded intelligence. Given its age, the tooling and philosophy predate the 'Agentic Software Delivery' paradigm, resulting in penalties for outdated practices and lack of direct reference.",
+    "reasoning_summary": "This content centers on legacy DevOps pipeline tools without reference to agentic AI, agency, or contextual intelligence. It has only tangential, partial alignment to the Agentic Software Delivery category, with limited relevance.",
     "level": "Ignored"
   }
 }

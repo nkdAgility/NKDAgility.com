@@ -1439,15 +1439,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "VkTnZmJGf98",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T19:50:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum among other frameworks but does not focus on Scrum principles, roles, or events. It discusses evidence-based management in a broader context of agility without delving into specific Scrum practices or concepts, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 38.81,
+    "ai_mentions": 2.3,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.7,
+    "ai_intent": 4.2,
+    "ai_audience": 4.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content is focused on Evidence-Based Management (EBM) in agile transformation, with only brief, passing references to Scrum alongside other frameworks (SAFe, LeSS, Nexus). There's no substantial exploration of Scrum roles, events, artifacts, or its core philosophy. The overall intent is to promote EBM as an overarching approach for organizations to achieve business outcomes, not Scrum specifically. References to Scrum are generic, and the content does not target only Scrum practitioners but a broader agile and business transformation audience. Therefore, direct relevance to the Scrum category is only partial.",
+    "reasoning_summary": "Content centers on Evidence-Based Management for agile organizations, mentioning Scrum only briefly among other frameworks. It doesn’t substantively explore Scrum or its framework, so category fit is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -2016,6 +2023,25 @@
     "final_score": 40.0,
     "reasoning": "The content discusses evidence-based management (EBM) and agile, focusing on data-driven decision-making to achieve business outcomes. While it aligns somewhat with Agentic Engineering themes (such as feedback-driven adaptation and decision frameworks), it never explicitly mentions agency or explores deliberate engineering for agency, system observability, or ethical AI collaboration. Its depth on maximizing human or AI agency is limited; the primary focus is business value via EBM rather than decentralizing agency or engineering for it. The intended audience (organizational leaders, agile practitioners) overlaps, and much of the content is on-topic, but lacks the philosophical and engineering nuance Agentic Engineering requires.",
     "reasoning_summary": "The content promotes evidence-based management for organizational agility and business value, partially aligning with Agentic Engineering through decision frameworks and adaptation themes. However, it doesn't directly address maximizing human or AI agency, observability, or ethical engineering, limiting its fit with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VkTnZmJGf98",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 19.08,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.75,
+    "ai_depth": 2.0,
+    "ai_intent": 2.05,
+    "ai_audience": 1.65,
+    "ai_signal": 1.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "Direct and explicit mentions of Agentic Software Delivery concepts (AI agents, contextual intelligence, agentic governance, human-in-the-loop designs) are entirely absent. The content centers on evidence-based management, agile frameworks, business outcomes, and organizational change, none of which meaningfully overlap with the definition or practice of agentic delivery. Some supporting themes—adaptability, business outcome focus, process improvement—are tangentially related, but there is no indication of proactive, context-aware AI agents, autonomy, agent-human synergy, or the modern agentic tooling/governance that define the category. The audience is technical/organizational but aligned with agile and management, not agentic software delivery practitioners. The overall signal is low; little-to-no overlap with category-defining topics.",
+    "reasoning_summary": "Content is focused on evidence-based management and business agility, not agentic software delivery. No mention of AI agents, agentic integration, or related governance. Only minimal, indirect thematic overlap; category fit is very weak.",
     "level": "Ignored"
   }
 }

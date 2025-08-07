@@ -1468,15 +1468,22 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "DWOh_hRJ1uo",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:08:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on becoming a Scrum Master and the value of certifications, which does not directly address the concept of Agentic Agility. While there are mentions of skills and learning, the discussion lacks a clear connection to intentional shaping of outcomes or the interplay between human and AI capabilities in agility.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 40.38,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.9,
+    "ai_intent": 4.1,
+    "ai_audience": 6.6,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content focuses on practical advice for becoming a Scrum Master outside software engineering, emphasizing skill application, validated learning, and the value of experience over certification. While concepts such as intentional action, learning, and improving outcomes are tangentially related to agentic agility, there are no direct discussions of agency, intentionality, or the adaptive actions required to fit the Agentic Agility category. Agency is not named or deeply explored; instead, the focus is largely instructional and motivational—helpful for Scrum practitioners but missing core, explicit linkage to agency's role in Agile contexts as defined by Agentic Agility. The discussion targets a relevant audience, but lacks depth and conceptual alignment on agency, autonomy, or double-loop learning.",
+    "reasoning_summary": "Content gives general Scrum Master advice focusing on certifications, learning, and skill-building, with only minimal overlap with Agentic Agility. Concepts of agency or intentional, adaptive action are not directly addressed; fit with the category is partial and indirect.",
     "level": "Ignored"
   },
   "Product Development": {
@@ -1967,6 +1974,25 @@
     "final_score": 23.0,
     "reasoning": "There are no direct mentions or references to Agentic Engineering or its core tenets. The content leans heavily on career advice and practical paths for becoming a Scrum Master outside of software, focusing on certification, learning, and skill development. While it alludes to some general Agile and DevOps principles, including learning through validated practice, it does not delve into engineering practices, systemic observability, or human/AI agency. The intended audience (practitioners in Agile-related fields) loosely aligns with Agentic Engineering’s, but the article lacks substantive conceptual alignment, depth, and focus on the deliberate design of engineering practices that maximize agency. The majority of content is tangential to Agentic Engineering’s philosophical and technical core, with only peripheral relevance where it discusses applied learning and continuous improvement in an Agile context.",
     "reasoning_summary": "This content is focused on practical career advice for becoming a Scrum Master outside software, emphasizing certification, learning, and general Agile principles. It lacks direct discussion of Agentic Engineering’s core ideas, addressing related audiences but without deep conceptual or technical fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DWOh_hRJ1uo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 6.64,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.26,
+    "ai_depth": 1.11,
+    "ai_intent": 1.31,
+    "ai_audience": 1.46,
+    "ai_signal": 1.23,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on becoming a Scrum Master outside software engineering, emphasizing skills, certifications, and practical learning. There is no mention or exploration of Agentic Software Delivery concepts—no AI agents, contextual intelligence, agency, or agent-human synergy. All key concepts, intent, and examples pertain exclusively to traditional Scrum and agile learning and career development. Audiences overlap only to the extent that both could be interested in delivery, but there is no direct or indirect fit between the content and the Agentic Software Delivery category.",
+    "reasoning_summary": "Content is unrelated to Agentic Software Delivery; it discusses Scrum Master career advice, not agent integration, AI, or context-aware delivery. No conceptual, topical, or audience alignment to category.",
     "level": "Ignored"
   }
 }

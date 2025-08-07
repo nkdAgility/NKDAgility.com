@@ -1429,15 +1429,22 @@
     "level": "Ignored"
   },
   "Continuous Improvement": {
+    "resourceId": "LWHiaHn3CWF",
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:18:41",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, with minimal direct discussion on Continuous Improvement principles. While it touches on automation and configuration, it lacks a clear emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning, which are core themes of Continuous Improvement.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 32.847,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 2.4,
+    "ai_intent": 2.8,
+    "ai_audience": 7.3,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on the technical process of automating synchronization between VSTS/TFS and GitHub to streamline DevOps for open-source. While it mentions continuous integration and improved workflows (which can indirectly relate to Continuous Improvement), it does not explicitly discuss ongoing reflection, iterative adaptation, or a culture of relentless learning and measured advancement. Key continuous improvement philosophies (like Kaizen, Plan-Do-Check-Act, or broader empirical experimentation) are absent. The intent is more about technical enablement and tool configuration rather than sustained improvement cycles. The audience (DevOps and agile engineers) overlaps partially with those interested in Continuous Improvement, but the main theme does not match the category's meaning. Most of the content is on-topic and detailed, but only peripherally relevant to Continuous Improvement as defined.",
+    "reasoning_summary": "Content centers on automating code sync between VSTS/TFS and GitHub, mainly covering DevOps workflows. While related tools are used in Continuous Improvement, the content does not discuss reflection, adaptation, or empirical improvement cycles.",
     "level": "Ignored"
   },
   "Common Goals": {
@@ -1982,6 +1989,25 @@
     "final_score": 23.0,
     "reasoning": "The content is focused on workflow automation and setup between VSTS/TFS and GitHub for DevOps, without explicitly referencing or exploring agentic engineering principles. It presents practical, tool-based procedures and options for source code synchronization but largely omits the philosophical or theoretical aspects of maximizing human or AI agency, ethical integration, or feedback-driven adaptation. While automation and flexibility grant some developer agency, there is little emphasis on systemic observability, decentralized decision-making, or continuous value delivery from an agentic framework. The content’s audience (DevOps engineers/technical implementers) aligns partially, and the material is focused, but depth and conceptual fit with Agentic Engineering remain superficial.",
     "reasoning_summary": "This content details technical workflow automation between VSTS/TFS and GitHub for open-source projects. It offers process options and tool configuration but doesn't address the core concepts or philosophical underpinnings of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LWHiaHn3CWF",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 19.465,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 5.0,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses exclusively on code synchronization automation between VSTS/TFS and GitHub for DevOps pipelines. It describes detailed manual and CI-based automations using build definitions, personal tokens, and configuration options, but never directly references agentic software delivery concepts. There are no explicit mentions of AI, proactive agents, contextual intelligence, or human-in-the-loop design. It discusses modern engineering (CI/CD automation), but only with scripts and basic workflow—not autonomous, proactive, or context-aware agents. Synchronicity and flexibility are emphasized, but without the agency, contextual grounding, or synergy with human expertise central to the Agentic Software Delivery category. The narrative is aimed at DevOps engineers and project practitioners, not agentic delivery strategists. Minimal alignment exists only through mention of automation and CI/CD; otherwise, the themes are outside the classification.",
+    "reasoning_summary": "Content describes DevOps automation for code sync between VSTS/TFS and GitHub, not agentic software delivery. Lacks AI agency, context awareness, or human-agent integration; only superficial overlaps with modern engineering practices. Category fit is low.",
     "level": "Ignored"
   }
 }

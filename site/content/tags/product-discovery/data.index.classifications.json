@@ -84,16 +84,23 @@
     "level": "Tertiary"
   },
   "Philosophy": {
+    "resourceId": "Product Discovery",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the process of Product Discovery, focusing on identifying customer needs and defining product features. While it touches on the importance of understanding the 'why' behind product features, which aligns with philosophical discussions, the primary focus is on practical techniques and methodologies rather than a deep exploration of philosophical frameworks. The mention of fostering a culture of experimentation hints at broader philosophical implications, but the overall emphasis remains on execution and practical outcomes.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 57.7,
+    "ai_mentions": 2.0,
+    "ai_alignment": 6.5,
+    "ai_depth": 6.4,
+    "ai_intent": 7.6,
+    "ai_audience": 7.0,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content discusses foundational motivations ('why') behind Product Discovery, and highlights philosophical themes such as learning, experimentation, and aligning with customer needs. However, it only lightly references the philosophical framework—much focus is still on the benefits and process for practitioners. Explicit philosophical theories or deeper references (e.g., Lean Thinking, Agile values) are absent. The piece leans toward application-oriented exploration, not abstract philosophy, but does cover intent and culture. No outdated or undermining tone detected, so no deductions.",
+    "reasoning_summary": "Content addresses the 'why' and intentions behind Product Discovery, touching on philosophical aspects but mainly stays practical. It partially fits 'Philosophy' via cultural and intent focus, but lacks explicit theoretical discussion.",
+    "level": "Tertiary"
   },
   "Observability": {
     "category": "Observability",
@@ -3137,6 +3144,25 @@
     "final_score": 12.0,
     "reasoning": "The content describes Product Discovery as a process focused on identifying customer needs and validating product ideas, emphasizing user-centricity and team learning. However, it contains no references to AI, human-AI collaboration, or themes directly or indirectly pertaining to Collective Intelligence as defined (such as human-AI team dynamics or socio-technical systems). The discussion is strictly about human teams, and AI is not present as a topic. Thus, there is little conceptual or topical alignment, minimal fit with the intent, and no direct mentions. Audience is focused on product teams, but with no indication of collective intelligence relevance.",
     "reasoning_summary": "The content focuses solely on human-driven Product Discovery practices and user research, with no evidence of human-AI collaboration, AI partnership, or Collective Intelligence themes. It does not align with the intended category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Discovery",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 17.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 5.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses entirely on the process of understanding customer needs and defining features—core to product discovery but with no explicit or implicit discussion of autonomous AI agents, agentic systems, or the integration of context-aware intelligence in delivery. There are no direct mentions or tangential references to Agentic Software Delivery, nor does it touch on enabling practices, human/agent synergy, or governance frameworks characteristic of the target category. The audience and signal dimensions are moderate because product discovery can involve the same teams as agentic software delivery, but the content does not address them from an agentic perspective.",
+    "reasoning_summary": "This content only covers general product discovery principles and does not reference or align with agentic software delivery or related AI-agent integration. The fit with the assigned category is minimal.",
     "level": "Ignored"
   }
 }

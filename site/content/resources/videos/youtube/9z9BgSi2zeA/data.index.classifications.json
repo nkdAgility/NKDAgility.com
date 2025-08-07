@@ -1454,15 +1454,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it explores the essential skills and qualities an Agile coach should have. By emphasising both technical expertise and business insight, it demonstrates how competence enables effective collaboration and ongoing development, ultimately supporting organisational transformation. The detailed examples further reinforce its relevance to the theme of competence."
   },
   "One Engineering System": {
+    "resourceId": "9z9BgSi2zeA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:20:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on hiring an Agile coach and their role in bridging technical teams and leadership, which does not directly discuss the One Engineering System framework or its principles. While there are mentions of Agile practices, the content lacks a clear connection to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 18.27,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 3.4,
+    "ai_audience": 5.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused on hiring an Agile coach with both technical and leadership skills, centering on Agile transformation and bridging technical-business gaps. It does not directly reference One Engineering System (1ES), nor does it discuss frameworks, tool integrations, or process standardization across teams—the core of 1ES. While it emphasizes cross-team and cross-level engagement, there’s no mention or exploration of unified engineering systems, standardized practices, or 1ES principles. The audience does have overlap (technical leaders, managers), but the topic, purpose, and specific guidance align poorly with the category. There are no penalties since the content is up-to-date and not antagonistic, but the overall fit is weak, with only conceptual similarities to cross-functional alignment and transformation.",
+    "reasoning_summary": "Content focuses on Agile coaching and transformation, not One Engineering System. It lacks direct 1ES references and does not discuss standardization or integration of engineering tools/processes. Fit is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1965,6 +1972,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on qualities to seek in an Agile coach, prioritizing technical and business engagement, communication, and organizational cultural fit. While it addresses aspects like developer agency (empowerment and bridging technical-business gaps), it lacks direct or explicit discussion of the deliberate design of engineering practices or maximization of human and AI agency—core Agentic Engineering tenets. The piece is more about coaching effectiveness in Agile contexts than about engineering environments that foster decentralized decision-making, systemic observability, ethical AI collaboration, or continuous value delivery through agentic principles. The audience and many themes overlap somewhat, but Agentic Engineering's philosophical and systemic aspects are only tangentially touched if at all. No penalties were applied as the material is up-to-date and the tone is supportive.",
     "reasoning_summary": "This content marginally aligns with Agentic Engineering by discussing leadership and technical agency in coaching but lacks focus on systemic engineering practices, AI collaboration, or deliberate maximization of agency. Its primary emphasis is agile coaching effectiveness, not agentic environments.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9z9BgSi2zeA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 13.76,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.4,
+    "ai_audience": 5.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content exclusively discusses qualities for hiring an Agile coach, focusing on their ability to engage technical and leadership audiences for Agile transformation. There is no discussion of autonomous AI agents, contextual intelligence, or agentic delivery principles. While the subject is tangentially related to modern software delivery and business outcomes, it never mentions or explores agentic concepts, AI agent integration, human/AI synergy, or supporting technologies (e.g., observability, automated testing, governance of autonomous systems). The audience—organizational leaders hiring coaches—may overlap partially with 'Agentic Software Delivery' audiences but the fit is weak and indirect.",
+    "reasoning_summary": "The content is about hiring Agile coaches for technical and leadership engagement and does not address agentic software delivery or the role of autonomous AI agents. Connection to the category is minimal and tangential.",
     "level": "Ignored"
   }
 }

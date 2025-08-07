@@ -1090,15 +1090,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "KIG3LzjF3zK",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:30:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of Product Owners in Scrum and does not address Test First Development principles or practices. While it touches on aspects of value delivery and backlog management, it lacks any direct mention or detailed exploration of testing methodologies, success criteria, or the importance of testing in the development process.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 9.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.05,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content strictly discusses challenges related to Product Owner roles in Scrum, focusing on backlog ownership, value delivery, and organizational accountability. There are no direct mentions or implied concepts of Test First Development, such as success criteria definition prior to implementation, test-driven or acceptance criteria practices, automated or manual testing, or the Test First mindset. Its intent, depth, examples, and advice all center on Scrum team structure and product ownership, not testing practices or approach. The only minor alignment is a tangential connection in discussing clarity and validation, but this is not meaningfully tied to Test First principles. The audience is Scrum practitioners, consistent with the Test First category, but the topic is off-theme.",
+    "reasoning_summary": "Content focuses on Product Owner accountability and backlog management in Scrum, not Test First Development practices, principles, or intent. Only vague, indirect ties exist. It does not fit the assigned category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -2002,6 +2009,25 @@
     "final_score": 25.0,
     "reasoning": "The content is focused on clarifying the Product Owner's role in Scrum and addressing practical issues caused by multiple POs. While it emphasizes accountability, value delivery, and backlog ownership, it does so specifically within Scrum's established roles and does not discuss engineering practices, system observability, or maximizing the agency of humans and AI. Key concepts like decentralised decision-making or engineering for agency are not explored; automation, ethical AI, and DevOps ethos are absent. The primary audience alignment is high, as the piece is directed toward Scrum practitioners facing organizational and process challenges, but actual Agentic Engineering themes are not present beyond superficial overlap on value delivery, so confidence is low.",
     "reasoning_summary": "This content addresses Scrum role clarity, particularly the Product Owner's responsibilities and implications for value delivery. While relevant to practitioners focused on workflow and accountability, it lacks any substantive discussion or design related to Agentic Engineering concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KIG3LzjF3zK",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 5.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 0.9,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is focused entirely on Scrum roles, specifically Product Owner challenges, backlog accountability, and value delivery in a traditional Scrum context. There are no direct or indirect references to agentic software delivery, AI agents, or context-aware automation. The issues discussed—ownership, team responsibilities, stakeholder engagement—are conventional Agile/Scrum topics without any mention of autonomous agents, synergy between humans and AI, governance of agency, or evolution towards agentic delivery. The intent, target audience, and depth remain squarely within legacy Agile delivery, excluding any agentic perspective. No penalties applied as content is not outdated or satirical.",
+    "reasoning_summary": "This content concerns traditional Scrum Product Owner issues and backlog management, with no reference to agentic software delivery, AI agents, or contextual intelligence. It does not align with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

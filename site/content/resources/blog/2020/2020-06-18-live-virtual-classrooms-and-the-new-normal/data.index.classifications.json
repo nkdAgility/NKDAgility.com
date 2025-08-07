@@ -1492,15 +1492,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "wS3GaFbyzDv",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:54:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, with a focus on Scrum and Agile methodologies. While it touches on aspects of collaboration and communication in a virtual environment, it does not explicitly address the One Engineering System framework or its principles. The discussion is more centred on personal experiences and opinions regarding virtual training rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 7.98,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.23,
+    "ai_signal": 2.05,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses the transition to virtual classrooms, remote collaboration, and the use of modern conferencing tools. Nowhere does it mention One Engineering System (1ES) or directly discuss unified toolchains, the integration of engineering processes, or the standardization efforts essential to 1ES. There is passing relevance regarding distributed work and tool adoption, but no substantive alignment with the 1ES framework, methodology, or its implementation. The focus remains on remote learning, teaching experiences, and the impact of virtual models on training, not on engineering system unification. Target audience is indirectly technical, but content does not address engineering standardization or integrated frameworks.",
+    "reasoning_summary": "Content focuses on remote/virtual classrooms and collaboration, not on 1ES or integration of engineering tools and processes. No direct mentions or core conceptual overlap. Fit with the One Engineering System category is minimal and indirect at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2008,6 +2015,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses on the shift to live virtual classrooms during a crisis, mainly discussing remote learning tools, effectiveness, and personal experiences. There is no direct mention or substantial exploration of agentic engineering concepts, such as maximizing human or AI agency, engineering practices, ethical AI, or feedback-driven adaptation. While it refers to technological adaptation and some changes in collaborative practices, these are only tangential to the core ideas of Agentic Engineering. The audience (trainers/practitioners in Scrum/Agile) aligns somewhat, but the discussion lacks explicit or in-depth exploration of topics like developer agency, observability, or DevOps-infused craft. Content is reasonably focused but falls outside the deliberate design of engineered practices for agency.",
     "reasoning_summary": "This content primarily discusses the transition to virtual classrooms and remote training effectiveness. It does not address Agentic Engineering themes such as engineering practices that maximize human or AI agency. Its relevance to the category is marginal and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wS3GaFbyzDv",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 5.34,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.6,
+    "ai_audience": 2.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively discusses the shift from in-person to live virtual classroom training, using modern videoconferencing tools for remote learning. There are no mentions or allusions to AI agents, contextual intelligence, integration of agentic practices in software delivery, or any of the key themes of 'Agentic Software Delivery.' The intent is centered on educational adaptation due to remote work, not software delivery enhancement via autonomous agents or agentic practices. Audience focus is on trainers and students, not software delivery teams. Thus, alignment, depth, and mentions scores are extremely low, with a small audience score reflecting remote knowledge workers as a tangential overlap. No penalty is necessary, as the tone is neutral and the content is not outdated.",
+    "reasoning_summary": "This content is about moving training online and remote learning. It does not reference agentic software delivery, autonomous agents, or related practices, and has almost no conceptual overlap with the category.",
     "level": "Ignored"
   }
 }

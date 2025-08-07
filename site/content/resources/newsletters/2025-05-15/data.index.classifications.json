@@ -2,15 +2,21 @@
   "Technical Leadership": {
     "resourceId": "OQOqFl5-FAi",
     "category": "Technical Leadership",
-    "calculated_at": "2025-05-01T13:09:05",
-    "ai_confidence": 42.0,
-    "ai_mentions": 2,
-    "ai_alignment": 35.0,
-    "ai_depth": 45.0,
-    "non_ai_confidence": null,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the concept of 'agentic agility' and the importance of balancing human and AI agency in decision-making, which touches on leadership accountability and team dynamics. However, it lacks a direct focus on agile methodologies and specific technical leadership practices, such as mentoring or facilitating agile ceremonies. While it mentions the need for teams to self-manage and own delivery, it does not delve deeply into the principles of servant leadership or continuous improvement, which are core to the Technical Leadership category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 84.9,
+    "ai_mentions": 6.2,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.4,
+    "ai_intent": 9.2,
+    "ai_audience": 9.0,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 85.0,
+    "reasoning": "The content directly addresses leaders responsible for team outcomes, explicitly referencing accountability, team self-management, and integrating human and AI decision-making to improve agility and measurable value—core topics for technical leadership. It offers actionable steps for aligning technical practices (AI/automation) with human roles (Product Owners, Scrum Masters), discusses system design for combined agency, and uses concrete workplace examples. The focus on enabling leaders to shape work systems, foster ownership, and apply automation aligns well with best practices in technical leadership within agile/DevOps. However, explicit use of the phrase 'technical leadership' is absent, preventing a maximal 'Direct Mentions' score. The intended audience (decision-makers, technical leaders) and actionable, strategic content are well matched. Minor reductions are due to some content (newsletter/program updates) that is not central to the category, slightly affecting signal-to-noise.",
+    "reasoning_summary": "Strong fit: content guides technical leaders on fostering teamwork, accountability, and combining human/AI expertise to drive agility—core to technical leadership in agile/DevOps. Few explicit mentions but very high conceptual and audience alignment.",
+    "level": "Primary"
   },
   "DevOps": {
     "resourceId": "OQOqFl5-FAi",
@@ -2380,5 +2386,24 @@
     "reasoning": "The content explicitly centers on the deliberate design of work systems maximizing both human and AI agency, repeatedly referencing 'agentic agility' and its necessity in modern engineering. Themes include agency (human/accountability and AI/autonomy), designing systems for combined capabilities, DevOps practices (telemetry, feedback, automation), and continuous value delivery. It targets leaders and practitioners responsible for engineering agility, matching the category’s audience. The discussion is substantial, giving concrete practices and actionable checklists rather than surface-level commentary. Nearly all content is relevant, with brief marketing elements; these do not detract from focused, agentic engineering guidance. No dimension is penalized: the content is current, not critical or satirical, and fully aligned philosophically and practically.",
     "reasoning_summary": "This content aligns tightly with Agentic Engineering, consistently stressing the need for both human and AI agency within engineering practice. It details practical approaches and outcomes, targets the appropriate audience, and maintains strong thematic and conceptual depth throughout.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OQOqFl5-FAi",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 78.093,
+    "ai_mentions": 7.3,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.9,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content directly discusses the combination of human and AI agency in software delivery, referencing 'agentic agility' and emphasizing the need for proactive collaboration between humans and autonomous systems. It outlines practical steps and real-world benefits, such as improved throughput and reduced fragility, supporting agentic principles. However, it doesn't fully address all technical or governance topics (e.g., detailed frameworks, architecture integration), and uses broader agility framing rather than the specific term 'Agentic Software Delivery.' Audience targeting is strong (leaders/practitioners), and most of the content remains focused, with some marginal commercial updates and resource sections. No evidence of outdated or contradictory tone.",
+    "reasoning_summary": "The article aligns strongly with Agentic Software Delivery, as it discusses integrating human and AI agency for better delivery outcomes, though not all technical aspects are covered. The core theme and intent closely match the category definition.",
+    "level": "Secondary"
   }
 }

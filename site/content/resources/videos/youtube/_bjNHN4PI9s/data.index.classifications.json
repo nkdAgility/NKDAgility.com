@@ -1431,15 +1431,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "_bjNHN4PI9s",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:58:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) for enhancing virtual classroom experiences in Scrum training. While it discusses technology integration in a learning context, it does not address the principles, components, or implementation of the One Engineering System framework. The discussion is centred around personal experiences and tips for using these tools rather than on standardising or integrating software development practices across teams, which is the core of 1ES.",
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 12.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 3.8,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content offers practical tips for using Microsoft Teams and Mural in virtual Scrum training sessions. While it covers integration and practices for collaboration, there is no reference to One Engineering System or unified frameworks for standardising engineering processes. The discussion is focused on classroom logistics rather than organisational frameworks. Audience targeting is adjacent, being for Scrum practitioners/trainers rather than engineering standardisation roles. No dimensions are penalised.",
+    "reasoning_summary": "The content does not discuss One Engineering System or its principles. Focus is on classroom tech tips, not engineering frameworks or process standardisation. Fit with 'One Engineering System' category is minimal and incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1948,6 +1955,25 @@
     "final_score": 19.0,
     "reasoning": "The content is centered on practical tech tips for using Microsoft Teams and Mural to improve virtual Scrum training sessions. It focuses on participant experience, troubleshooting, and maximizing engagement but does not address or mention Agentic Engineering, nor does it discuss decentralised decision-making, observability, ethical AI collaboration, or engineering practices that maximize agency. The main intent and depth focus on tool usage and classroom effectiveness. While it targets a technical audience, its alignment with the philosophical, DevOps, or agentic aspects of engineering is minimal.",
     "reasoning_summary": "This content primarily offers practical guidance on using digital tools for Scrum training. While relevant for trainers and technical learners, it does not engage with Agentic Engineering's philosophical or practice-driven themes such as maximizing agency, ethical AI, or feedback-driven adaptation.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 7.68,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on improving virtual Scrum training through practical tech tips for Microsoft Teams and Mural. It does not mention agentic software delivery or related concepts such as autonomous AI agents, contextual intelligence, or integration of agentic systems in software delivery. The discussion is centered on using and optimizing collaboration tools in virtual classrooms, not designing, implementing, or governing delivery systems that embed AI agents. Audience is mainly Scrum practitioners or trainees seeking to maximize learning with basic tools, not those involved in agentic software delivery strategies, frameworks, or practices.",
+    "reasoning_summary": "Content is about tech tips for virtual Scrum training, not agentic software delivery. It lacks any reference to AI agents, automation, or contextual intelligence. Does not fit the assigned category.",
     "level": "Ignored"
   }
 }

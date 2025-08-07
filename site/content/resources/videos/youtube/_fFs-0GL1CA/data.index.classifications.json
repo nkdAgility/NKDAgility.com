@@ -1447,15 +1447,22 @@
     "reasoning_summary": "This content is well-suited to the competence category, as it centres on how certifications validate skills and support ongoing learning—key aspects of professional competence in Agile and DevOps. While it briefly mentions career growth and employer views, its main emphasis remains on skill validation and development, making competence the most appropriate fit."
   },
   "One Engineering System": {
+    "resourceId": "_fFs-0GL1CA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:18:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile and Scrum certifications, discussing their importance for career advancement rather than the principles or implementation of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 13.54,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.3,
+    "ai_intent": 1.1,
+    "ai_audience": 5.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses exclusively on Agile certifications and their role in career development. There are no direct or indirect references to One Engineering System (1ES), its principles, or its focus on the standardization and integration of tools, processes, and methodologies. No connections are made to unified engineering frameworks, 1ES-related practices, or cross-team/system integration. The intent is on individual professional growth, certification value, and learning, aimed at practitioners and candidates—distinct from the organizational and systemic perspective of 1ES. The content is targeted and relevant to Agile/Scrum practitioners, which partially overlaps with technical audiences relevant to 1ES, but the topics and depth don't fit the 1ES definition.",
+    "reasoning_summary": "The content is centered on Agile certifications and individual learning, with no mention or alignment to One Engineering System concepts. It does not fit the category definition.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1957,6 +1964,25 @@
     "final_score": 13.0,
     "reasoning": "The content is primarily focused on the career value of Agile certifications and learning validation, with examples concerning how certifications indicate knowledge or skill. There is minimal to no discussion of deliberate engineering practice design, systemic observability, developer agency, or ethical AI integration. While terms like 'continuous learning' and references to DevOps appear, they do so in career or education contexts rather than as elements of agentic engineering philosophy. The audience is tangentially related (Agile practitioners), but the core of agentic engineering—maximizing agency in engineering systems—is not addressed beyond vague mentions of skill competency. There are no direct or even indirect references to the foundational aspects or philosophical grounding of Agentic Engineering.",
     "reasoning_summary": "This content centers on the value of Agile certifications for career growth, not on the deliberate design of engineering practices or maximizing agency. It targets Agile practitioners but lacks substantive alignment with Agentic Engineering concepts, resulting in very low category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_fFs-0GL1CA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 12.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.25,
+    "ai_depth": 0.9,
+    "ai_intent": 1.5,
+    "ai_audience": 5.8,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on Agile/Scrum certification as a career tool, validation of knowledge, and continuous learning. It does not mention or explore AI agents, autonomous intelligence, or integration of contextual AI into software delivery. There is no direct reference or conceptual link to agentic systems, agency in software delivery, or any of the modern engineering or governance practices that differentiate Agentic Software Delivery. The target audience (Agile/Scrum practitioners and career-focused readers) is tangentially related but not directly aligned. The only remote overlap is a vague connection to continuous improvement, but no substance supports Agentic Software Delivery ideals.",
+    "reasoning_summary": "This content is about Agile/Scrum certifications for career advancement. It does not discuss AI agents, agency, or related delivery strategies, so it does not fit the Agentic Software Delivery category except in the broadest audience sense.",
     "level": "Ignored"
   }
 }

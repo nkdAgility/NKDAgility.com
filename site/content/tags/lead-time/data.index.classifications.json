@@ -1,15 +1,22 @@
 {
   "Framework": {
+    "resourceId": "Lead Time",
     "category": "Framework",
-    "calculated_at": "2025-04-11T08:51:11",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 55.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Lead Time as a metric within Agile, Lean, and DevOps environments, which aligns with the core themes of the Framework category. It mentions Kanban systems, which is a specific Agile framework, and highlights the importance of Lead Time in supporting continuous improvement and operational feedback loops. However, the primary focus is on the metric itself rather than a structured methodology or framework, which limits the depth of discussion regarding frameworks. The content does not provide a comprehensive overview or implementation strategies for frameworks, thus affecting the overall confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 32.1,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.9,
+    "ai_audience": 6.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on Lead Time as an observability metric, explaining its purpose, relevance, and use in Agile, Lean, and DevOps. While it references frameworks like Kanban, the discussion centers on a metric, not on frameworks' structure, adaptation, or implementation. There is brief mention of Kanban but no substantive exploration or comparison of frameworks, nor adaptation or integration strategies. The content is highly relevant for practitioners interested in Agile/DevOps metrics but only tangential to frameworks themselves. Thus, conceptual alignment, depth, and intent scores are modest, and the overall confidence is low.",
+    "reasoning_summary": "The content details Lead Time as a metric used in Agile/Lean contexts, with only incidental framework mentions. It does not discuss framework structures, guidelines, or adaptation. Partial and indirect fit with the Framework category.",
+    "level": "Ignored"
   },
   "Capability": {
     "category": "Capability",
@@ -3134,6 +3141,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses exclusively on Lead Time as an observability metric in Agile, Lean, and DevOps contexts. It discusses how Lead Time supports workflow efficiency, decision-making, and system health, but does not explicitly discuss or reference human-AI partnerships, collective intelligence, or any aspects of human-AI co-creation. There is no mention of human-AI collaboration, distributed cognition, or collective intelligence concepts. The audience aligns with practitioners implementing DevOps/Agile metrics, so a moderate audience score is assigned. The content is well-focused on its subject, but there is little relevance to the 'Collective Intelligence' category by definition.",
     "reasoning_summary": "This content describes Lead Time as a performance metric in Agile and DevOps, focusing strictly on workflow and delivery efficiency. It does not discuss human-AI collaboration or collective intelligence themes, making it only minimally relevant to this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lead Time",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 31.85,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.9,
+    "ai_intent": 3.5,
+    "ai_audience": 4.4,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses 'Lead Time' as an observability metric in the context of Agile, DevOps, and Lean practices. It covers workflow efficiency, feedback loops, and telemetry but makes no explicit mention of agentic software delivery, autonomous AI agents, human-AI synergy, or agentic governance. The discussion focuses on tooling and metrics typical in legacy and modern software delivery, not the specific integration or orchestration of agents as core actors. While observability and feedback loops are relevant to agentic patterns, there is no direct or contextual alignment with the key agentic topics outlined, such as contextual intelligence, agent autonomy, or human-in-the-loop agent governance.",
+    "reasoning_summary": "Content focuses on workflow metrics and observability, not on agentic AI, agent integration, or human-agent teamwork. While tangentially relevant, it does not sufficiently address agentic delivery concepts.",
     "level": "Ignored"
   }
 }

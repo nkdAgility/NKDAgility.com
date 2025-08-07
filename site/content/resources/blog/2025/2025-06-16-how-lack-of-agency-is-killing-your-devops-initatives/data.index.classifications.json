@@ -971,15 +971,22 @@
     "level": "Ignored"
   },
   "Open Space Agile": {
+    "resourceId": "AgIU1SK-3pE",
     "category": "Open Space Agile",
-    "calculated_at": "2025-04-28T16:14:10",
-    "ai_confidence": 25.0,
-    "ai_mentions": 0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily focuses on the concept of operational agency within DevOps, discussing the importance of empowering developers and the consequences of lacking agency. While it touches on themes of collaboration and feedback, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding Open Space Technology and its application in Agile contexts, leading to a low confidence score in alignment with the Open Space Agile category.",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 18.935,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.6,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on DevOps and the importance of operational agency for developers, not on Open Space Agile or Open Space Technology. While themes like empowerment, ownership, and organizational change are present, there are no direct mentions or in-depth discussions of Open Space Agile principles. The closest alignment is the emphasis on psychological safety and agency, which somewhat overlaps with Open Space Agile values, but the methods, terminology, and framing remain solidly in DevOps and continuous delivery, not Open Space Agile. Target audience (practitioners of agile/DevOps) has some overlap, but the discussion, purpose, and substance do not fit the Open Space Agile category.",
+    "reasoning_summary": "Content is about DevOps agency and control, not Open Space Agile. Lacks reference to Open Space Technology, its principles, or methods. Only minor thematic overlap. Does not fit the assigned category except in very broad terms.",
     "level": "Ignored"
   },
   "Test Driven Development": {
@@ -2515,5 +2522,24 @@
     "reasoning": "The content strongly and repeatedly emphasizes the importance of developer agency within DevOps, directly aligning with the core definitions of Agentic Engineering. Phrases like 'DevOps is agency,' 'operational agency,' and 'developers must have real control' echo the focus on autonomous engineering practices. The text delves deeply into systemic observability (feedback from production, telemetry), DevOps-infused craft (tooling is not enough; actual agency is the goal), and feedback-driven adaptation (learning from live signals). Its purpose is to advocate for greater autonomy and decision-making power for engineers, using rich, practical examples. The tone is instructional and motivational, targeting technical leaders and practitioners. Audience fit is very strong, slightly reduced only by small references that could be applicable to broader roles. The signal is tight, with every section reinforcing core Agentic Engineering themes. No outdated practices or overt criticism of agentic philosophy were present, and penalties were not triggered.",
     "reasoning_summary": "This content is highly relevant to Agentic Engineering, centering on developer agency, operational control, and feedback-driven adaptation in DevOps. It exemplifies the category’s principles with detailed arguments that advocate for decentralizing decision-making and empowering engineers.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:04",
+    "ai_confidence": 59.7,
+    "ai_mentions": 3.5,
+    "ai_alignment": 7.7,
+    "ai_depth": 5.8,
+    "ai_intent": 7.0,
+    "ai_audience": 7.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "Direct mentions of agency and operational agency are frequent, but there is no mention of autonomous AI agents, agent integration, or contextual intelligence as defined in Agentic Software Delivery. The discussion is focused on human developer agency in DevOps, aligning with some thematic elements (ownership, feedback, continuous delivery, agency), but lacks specific reference to the integration of AI agents, human-AI synergy, or governance frameworks for agentic delivery. The depth is moderate, thoroughly critiquing DevOps practices but not exploring agentic software delivery mechanics such as AI-human collaboration. The intent is strongly aligned with advocating for agency in delivery processes, supporting partial overlap with category intent. The audience (DevOps practitioners, software engineers) is similar to the likely audience for Agentic Software Delivery, and the content has a high signal-to-noise ratio. No penalties applied, as no outdatedness or satirical/contradictory tone is present.",
+    "reasoning_summary": "The content aligns with the 'agency' aspect in team empowerment and operational control, but lacks specifics on AI agents or their integration, making the fit partial but relevant by theme, not definition.",
+    "level": "Tertiary"
   }
 }

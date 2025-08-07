@@ -1181,12 +1181,22 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "ozXMaDX0lvp",
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the application of Scrum and Agile methodologies in a training context, including learning from feedback and iterating on the training approach. However, the primary focus is on the training process rather than systematic experimentation or hypothesis-driven methodologies.",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 46.37,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.7,
+    "ai_depth": 5.0,
+    "ai_intent": 4.1,
+    "ai_audience": 6.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "Direct mention of 'experimentation' occurs briefly (mainly in reference to empirical practices) but is not a central focus. The content primarily discusses Scrum training, adoption, and organisational change for the Ghana Police. Some aspects—such as retrospectives, learning from feedback, and empirical/iterative methods—are related to hypothesis-driven improvement. However, the main thrust is hands-on Scrum training and organisational transformation, not systematic experimentation as defined (e.g., formal hypothesis testing, analysis of experiment outcomes, integration into Agile decision-making or ceremonies). The content references learning from experience and adapting next steps, but does not dwell on structured experiments or explicit validation of assumptions via experimentation. Some relevance exists, especially in learning from feedback and responding to surprises, but it remains tangential and indirect. Target audience (Agile practitioners, change agents) is somewhat aligned, and much of the content avoids off-topic filler.",
+    "reasoning_summary": "The content's main focus is on Scrum training and organisational change, not experimentation. Some indirect connections to empirical adaptation, but limited explicit depth or alignment with hypothesis-driven experimentation.",
     "level": "Tertiary"
   },
   "Scrum Master": {
@@ -2023,6 +2033,25 @@
     "final_score": 25.0,
     "reasoning": "The content focuses on Professional Scrum training for police officers, emphasizing grassroots adoption, team collaboration, and organizational change via Agile practices. While themes of autonomy, mastery, and feedback are mentioned, these are in the context of generic Scrum training, not specifically Agentic Engineering as defined. There is no direct mention of Agentic Engineering or its distinct philosophical or technical emphases (e.g., human/AI agency, engineering excellence interwoven with DevOps and ethical autonomy). The main audience is non-software police officers, not technical practitioners. The content contains few tangential references to agency but mostly serves as a case report of training outcomes.",
     "reasoning_summary": "The content describes Agile and Scrum training for police officers, focusing on collaboration and organizational change. While it briefly touches on autonomy and feedback, it does not align closely with the Agentic Engineering category, as it lacks direct or substantial discussion of maximizing human or AI agency in engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ozXMaDX0lvp",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 6.58,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.95,
+    "ai_intent": 1.0,
+    "ai_audience": 1.13,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are no direct references to agentic principles or AI agents in software delivery. The content is limited to traditional Scrum training and organizational change via Scrum for policing. Key agentic topics—autonomous AI agents, contextual intelligence, human-agent collaboration—are entirely absent. The closest overlap is some discussion about autonomy and self-organization in Scrum teams, but this refers solely to human teams, not software/AI agents. The audience is being introduced to very foundational Agile/Scrum concepts (non-technical). Very little, if any, relevance to Agentic Software Delivery. No penalties are applied because the content is not outdated or contradictory.",
+    "reasoning_summary": "This is strictly about basic Scrum training, not Agentic Software Delivery. It lacks any mention or exploration of AI, agents, or context-aware automation. Only foundational human Scrum practices are covered; fit is negligible.",
     "level": "Ignored"
   }
 }

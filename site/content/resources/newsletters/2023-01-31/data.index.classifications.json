@@ -270,15 +270,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "Kofi3sgOhDX",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:29:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of product ownership in navigating economic uncertainty and driving value within organisations. While it touches on themes of delivering value and aligning with organisational objectives, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in software delivery. The focus is more on product management rather than the specific practices of Continuous Delivery.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the impact of a skilled product owner, organizational strategy during uncertainty, and value-driven leadership. It never mentions Continuous Delivery, nor discusses its principles, automation, or practices. There is only a marginal audience overlap (practitioners curious about modern delivery), but no conceptual, structural, or intentional connection to the Continuous Delivery category. The content's main themes are product ownership and training, not frequent releases, automation, or delivery cycles.",
+    "reasoning_summary": "No direct or indirect discussion of Continuous Delivery. The focus is on product ownership, strategy, and team alignment, not software delivery practices. Large mismatch with the category; only a nominal audience overlap.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -2012,6 +2019,25 @@
     "final_score": 19.0,
     "reasoning": "Direct mentions of Agentic Engineering or its terminology are virtually absent, with the content focusing on the role and impact of a strong product owner during challenging times. While there are slight overlaps (e.g., autonomy, team alignment), the discussion remains at a role-level and strategy-level, not addressing the design of engineering practices to maximize human/AI agency, or DevOps-integrated or agentic systems. Audience alignment is moderate since the readers are Agile practitioners, but the emphasis is not on engineering autonomy, observability, ethical AI, or decision-making frameworks as defined by Agentic Engineering. The bulk of the content is news, community, and training-related, with minimal conceptual connection to the category.",
     "reasoning_summary": "This content centers on the impact of skilled product owners and offers community updates and training opportunities. While relevant for Agile practitioners, it does not engage with the principles or practices of Agentic Engineering, such as maximizing human or AI agency or engineering autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Kofi3sgOhDX",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 10.15,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.2,
+    "ai_intent": 2.3,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the role of a skilled product owner in driving value, team alignment, and responding to organizational challenges, particularly in times of economic uncertainty. It discusses the importance of product ownership, prioritization, community building, and available training but does not mention or explore any of the key themes of Agentic Software Delivery such as the integration of autonomous AI agents, contextual intelligence, human-AI synergies, or agentic principles in software delivery. No direct or indirect references are made to AI agents, proactive intelligence, governance frameworks for agents, feedback loops involving autonomous actors, or modern engineering practices specifically in an agentic context. While product ownership and delivery processes are touched on, these are well within traditional and human-centered Agile/Scrum practice, without any agentic layer or related modern automation themes. The intended audience is Agile practitioners, but the topic and coverage remain outside the Agentic Software Delivery domain.",
+    "reasoning_summary": "This content focuses exclusively on traditional product owner roles in Agile contexts, with no mention of agentic software delivery, AI agents, or related principles. No signal of agentic themes; fit is extremely low.",
     "level": "Ignored"
   }
 }

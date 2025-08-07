@@ -1009,16 +1009,23 @@
     "level": "Ignored"
   },
   "Product Strategy": {
+    "resourceId": "2Cy9MxXiiOo",
     "category": "Product Strategy",
-    "calculated_at": "2025-04-10T15:54:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the tactical aspects of Scrum, specifically the concept of a sprint goal. While it briefly touches on the importance of a product vision and goal, the discussion is largely centred around immediate tasks and tactical execution rather than strategic planning or methodologies for product development. The content does not delve into broader product strategy themes such as market analysis, customer-centric approaches, or long-term vision formulation, which are essential for a higher confidence score in this category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 42.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.2,
+    "ai_audience": 5.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content primarily explains the sprint goal—a tactical concept in Scrum—not product strategy itself. It briefly references product vision and product goal, but the bulk of the discussion addresses tactical team objectives and their immediate connection to product goals. Topics central to product strategy such as vision formulation, strategic roadmapping, competitive analysis, or market alignment are not explored. The purpose and examples are aimed at Scrum practitioners focused on operational/tactical practices, not at strategists or decision-makers responsible for product direction. The content's relevance to product strategy is indirect—mainly via repeated mention that sprint goals relate to driving toward vision—but lacks substantive treatment of actual strategic methodologies or frameworks, resulting in moderate-to-low confidence.",
+    "reasoning_summary": "Content focuses on defining the sprint goal as a tactical Scrum element, referencing product vision/goals only in passing. It lacks in-depth discussion of product strategy themes, yielding only a partial, indirect fit to the product strategy category.",
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1933,6 +1940,25 @@
     "final_score": 31.0,
     "reasoning": "The content focuses on explaining what a sprint goal is within Scrum, emphasizing tactical planning, focus, actionable feedback, and linking daily work to broader product vision. Although these themes overlap with concepts like agency, feedback, and continuous delivery at a superficial level, there are no direct references to Agentic Engineering or explicit discussion of maximizing human or AI agency, systemic observability, or the deliberate engineering design philosophy. The main thrust is educational Scrum basics, targeting agile practitioners/newcomers. Little direct alignment to Agentic Engineering's unique core. Mentions and depth both remain low and no mention of ethics, automation, or AI agency.",
     "reasoning_summary": "While the content touches on actionable feedback and connecting team focus to product vision—concepts adjacent to agency—it remains firmly within standard Scrum explanation. There's minimal alignment with Agentic Engineering's distinct themes of maximizing human or AI agency or deliberate engineering practice.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2Cy9MxXiiOo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 8.05,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on the definition, importance, and tactical role of the sprint goal in Scrum. There are no explicit mentions or implications of autonomous AI agents, contextual intelligence, or integration of agentic practices. While the content is relevant for Agile or Scrum practitioners, it does NOT address or align with Agentic Software Delivery concepts, nor does it explore agentic themes, modern engineering practices with AI integration, or related governance frameworks. Audience slightly overlaps (software delivery professionals), but not purpose. Content is highly focused on classic Scrum team practice and not on agentic or AI-driven delivery.",
+    "reasoning_summary": "This content discusses classic Scrum sprint goals. It lacks any mention or coverage of agentic delivery, AI integration, or related themes. Not relevant to Agentic Software Delivery, aside from a slight audience overlap.",
     "level": "Ignored"
   }
 }

@@ -96,15 +96,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Agile Planning Tools",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile Planning Tools and their role in backlog management and team collaboration, with no direct mention of observability or its principles. While it discusses aspects of team effectiveness and decision-making, it does not delve into metrics, logs, traces, or tools specifically related to observability. Therefore, the alignment with the observability category is minimal.",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 24.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 1.8,
+    "ai_audience": 8.5,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on Agile Planning Tools and their impact on backlog management, forecasting, and collaboration. There is no direct mention of observability or its core concepts (metrics, logs, traces, internal system state). While empirical data and continuous improvement are referenced, these are aligned with Agile practice generally, not with Observability as strictly defined. The purpose is about planning and execution, not about understanding system behavior or improving transparency and monitoring as per Observability. The audience overlaps with Observability (Agile practitioners/teams), and the content is focused, but the main topics, intent, and depth do not sufficiently fit the Observability category.",
+    "reasoning_summary": "Content is on Agile planning, mentioning empirical data and transparency only generally. No mention of Observability’s core principles (internal state, metrics, logs, traces). Fit is minimal – intent and themes do not match the Observability category.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3112,6 +3119,25 @@
     "final_score": 18.0,
     "reasoning": "The content focuses on Agile Planning Tools to enhance backlog management, forecasting, and team collaboration, but only discusses human collaboration and digital tooling—not explicit human-AI partnerships, distributed cognition with AI, or emergent collective intelligence as defined. There are no direct or indirect references to AI collaboration, human-AI team patterns, or collective decision-making frameworks. Instead, the text centers on process optimization and team engagement within human teams. While a collaborative atmosphere is mentioned, it stays within the realm of human-to-human interaction, omitting all AI involvement. Therefore, the alignment, depth, and explicit mention scores remain low, and the signal is diluted given the lack of fit to the provided Collective Intelligence scope.",
     "reasoning_summary": "This content discusses Agile Planning Tools for improving team collaboration and planning but does not reference human-AI collaboration or collective intelligence. It remains focused on process facilitation for human teams and is largely unrelated to the defined category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Planning Tools",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 17.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.4,
+    "ai_intent": 2.1,
+    "ai_audience": 6.7,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses solely on conventional Agile Planning Tools, backlog management, and team collaboration. There are no mentions or discussions—direct or implied—regarding autonomous AI agents, contextual intelligence, or agentic principles. The purposes, audiences, and use cases discussed center on standard Agile execution practices, not on embedding proactive, autonomous, or agent-driven intelligence. No outdated practices or overt contradictions are present to justify additional penalties.",
+    "reasoning_summary": "The content does not discuss agentic software delivery, autonomous AI agents, or contextual intelligence. It covers standard Agile tooling, making the fit with Agentic Software Delivery minimal to nonexistent.",
     "level": "Ignored"
   }
 }

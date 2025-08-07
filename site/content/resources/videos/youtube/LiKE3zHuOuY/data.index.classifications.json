@@ -393,15 +393,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "LiKE3zHuOuY",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:51:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on their complementary nature and the benefits of their integration. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks depth regarding Test First methodologies, making it clear that the content does not align with the core themes of Test First Development.",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 2.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on the integration of Scrum and DevOps, emphasizing collaboration, automation, and efficiency benefits. Nowhere does it mention Test First Development, success criteria, TDD, acceptance criteria, or testing-first practices. Although automation is mentioned in the context of DevOps, it is not tied to testing or the test-first mindset. The main themes revolve around process improvement, not test-first principles. There is no elaboration on designing or building tests prior to implementation, nor any focus on testing roles or practices as outlined in the category definition. Audience slightly overlaps due to the general software delivery focus but does not target test-first practitioners.",
+    "reasoning_summary": "This content is not about Test First Development. It discusses Scrum and DevOps synergy without mentioning test-first concepts, practices, or audiences. The fit is minimal and almost entirely off-topic.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1950,6 +1957,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on integrating Scrum and DevOps for improved collaboration, automation, speed, and software quality. However, it never directly references Agentic Engineering or core concepts such as agency, ethical AI integration, feedback-driven adaptation, or decision-making frameworks. While it suggests practices that could loosely connect to developer empowerment and continuous improvement, the discussion remains at a high level and centers on process synergy rather than deliberate agency maximisation for humans or intelligent systems. The target audience is relevant (software professionals interested in DevOps/Scrum), and most discussion is on-topic, but there is little evidence of exploration into engineering autonomy, ethical considerations, or systemic observability that are core to Agentic Engineering.",
     "reasoning_summary": "While relevant to modern engineering practices, the content does not address Agentic Engineering’s unique focus on autonomy, agency, or ethics for humans and AI. It highlights process synergy but lacks substantial engagement with the category’s conceptual core.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LiKE3zHuOuY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 14.96,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 2.3,
+    "ai_audience": 3.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on integrating Scrum and DevOps to improve software delivery, emphasizing collaboration, automation, speed, and quality. There is no mention or discussion of AI agents, contextual intelligence, agency, or the unique principles of Agentic Software Delivery. The focus is on traditional Agile and DevOps processes rather than autonomous or agentic approaches. It does not address AI integration, agent governance, feedback loops with AI learning, or human-in-the-loop systems. There is minimal alignment with the core themes or audience of Agentic Software Delivery.",
+    "reasoning_summary": "Content describes Scrum-DevOps synergies but lacks discussion of AI agents or agentic principles. Neither topic, intent, nor themes match Agentic Software Delivery. Fit is very weak and largely unrelated.",
     "level": "Ignored"
   }
 }

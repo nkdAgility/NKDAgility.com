@@ -207,15 +207,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "NgoP5W5y7Gs",
     "category": "Azure Repos",
-    "calculated_at": "2025-03-14T17:10:53",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of 'shifting left' in software development, focusing on quality and security practices. While it briefly mentions Azure DevOps, it does not delve into Azure Repos specifically or its functionalities, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 8.5,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on shift-left practices, quality, and modern engineering (TDD, pair programming, CI/CD), using Azure DevOps as a high-level case study. There are no explicit mentions or substantive discussions about Azure Repos, its functionalities, branching, pull requests, or source control. While the intended audience (engineers/teams involved in Azure and DevOps) somewhat overlaps, the content never addresses source control or the specifics of Azure Repos. Peripheral relevance may stem from referencing Azure DevOps, but there is no argument, theme, or purpose connected to Azure Repos itself.",
+    "reasoning_summary": "The content does not fit the Azure Repos category. There are no direct mentions or in-depth discussions about Azure Repos; focus is on shift-left, security, and general DevOps practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1970,5 +1977,24 @@
     "reasoning": "The content focuses heavily on 'shift left' practices, developer empowerment, continuous feedback, and ownership—strongly aligning with agentic themes like developer agency and DevOps-infused craft. However, it does not explicitly mention 'Agentic Engineering' or delve into its philosophical, ethical, or AI-collaborative aspects. The discussion remains more practical than theoretical and focuses chiefly on human agency and process change, rather than expanding into intelligent systems or ethical AI integration. There are high levels of conceptual similarity, depth regarding team empowerment and feedback-driven adaptation, and the audience is well-aligned (engineering leaders, developers). However, the lack of direct mention and coverage of agentic engineering's broader framing (e.g., decentralised AI/human collaborative autonomy) limits the top-end score.",
     "reasoning_summary": "This resource deeply explores developer agency, ownership, and feedback-driven excellence in software engineering, strongly aligning with agentic practices. However, it lacks direct reference to agentic engineering or ethical AI collaboration, keeping the confidence moderate but positive for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "NgoP5W5y7Gs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 21.958,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.4,
+    "ai_audience": 6.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses extensively on 'shift left', security by design, and engineering excellence through practices like TDD, pair programming, and continuous feedback. It addresses continuous delivery, empowered teams, and organizational transformation. However, there is no explicit mention or substantive discussion of agentic principles—no reference to AI agents, agency, or AI-human collaboration in software delivery. The content is more about modern engineering and DevOps culture than about agentic software delivery as defined. The audience is technical practitioners, which aligns with the category, and the content is highly focused on its stated subject, but it lacks conceptual or intentional overlap with agentic software delivery itself.",
+    "reasoning_summary": "This content focuses on shift-left engineering, security, and modern DevOps—not on agentic or AI-driven delivery. No agency, AI, or autonomy themes are present. Only partial alignment exists due to overlap in engineering practices.",
+    "level": "Ignored"
   }
 }

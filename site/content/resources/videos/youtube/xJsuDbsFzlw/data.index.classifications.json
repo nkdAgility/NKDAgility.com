@@ -22,15 +22,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "xJsuDbsFzlw",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:22:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, which is not directly aligned with the core principles of DevOps. While it briefly mentions DevOps in the conclusion, the main discussion revolves around Agile practices and workshop facilitation, lacking a deep exploration of DevOps concepts such as collaboration, automation, or shared accountability.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 22.07,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 2.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "DevOps is mentioned only alongside Agile and Scrum, in a closing sentence inviting inquiries. The content is fully focused on Sprint planning, practical coaching, and continuous improvement—central to Agile and Scrum, not DevOps. No substantive DevOps discussion, principles, or cultural topics appear, nor are technical DevOps concepts like automation, shared accountability, or observability discussed. The audience, intent, and signal are all solidly Agile/Scrum practitioner-facing, with very minimal, tangential DevOps relevance.",
+    "reasoning_summary": "The content is primarily about Sprint planning, not DevOps. DevOps is only referenced once alongside other methodologies, with no meaningful exploration of DevOps culture, principles, or practices. Fit for the DevOps category is extremely limited.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1987,6 +1994,25 @@
     "final_score": 32.0,
     "reasoning": "There are no direct references to 'Agentic Engineering' or its explicit core themes. The content focuses on improving Sprint planning through workshops, coaching, adaptation, and team empowerment, which slightly aligns with generic ideas of developer agency and feedback-driven adaptation. However, the philosophical underpinnings of agentic engineering—like deliberate maximisation of human/AI agency, system observability, DevOps-infused craft, or AI-augmented processes—are absent. The primary goal is improved Agile/Scrum facilitation, not the purposeful design of engineering practices to decentralise decision-making or fuse human and machine autonomy. While cultural empowerment and adaptability are mentioned, they serve traditional agile aims rather than explicit agentic engineering objectives. Audience aligns moderately with practitioners interested in process improvement, but not specifically with those focused on agentic engineering as defined.",
     "reasoning_summary": "The content modestly touches on team empowerment and adaptation in Sprint planning but does not explicitly address the core themes or intent of Agentic Engineering. Its alignment is limited to general Agile facilitation rather than the deliberate maximisation of human or AI agency within engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xJsuDbsFzlw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 14.17,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 2.5,
+    "ai_audience": 4.0,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is entirely focused on practical coaching for Sprint Planning in Agile/Scrum. It stresses feedback, adaptability, and continuous improvement, but never references agentic concepts such as autonomous AI agents, context-aware intelligence, or agent-human integration. No terminology or frameworks from Agentic Software Delivery are mentioned. The depth is limited to facilitation, empowerment, and adaptation in human teams, with no substantive link to autonomous or proactive agent-based delivery. The primary audience is Scrum practitioners or Agile teams, which overlaps partially, but the main themes, intent, and examples are not aligned with agentic delivery as defined.",
+    "reasoning_summary": "This content does not address Agentic Software Delivery. It only discusses human-centered Agile practice and coaching, with no mention of agentic principles, autonomous AI, or contextual intelligence. Fit is very low and mostly incidental.",
     "level": "Ignored"
   }
 }

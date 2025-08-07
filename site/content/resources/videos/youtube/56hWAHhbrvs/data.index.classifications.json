@@ -1492,15 +1492,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "56hWAHhbrvs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:37:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges of traditional organizational structures in relation to Agile methodologies, focusing on the Alpha model and its impact on agility. While it touches on themes of collaboration and decision-making, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on standardising or integrating software development practices across teams.",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 36.595,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on organizational structure as a barrier to agility and offers strategies for decentralizing decision-making and empowering teams. However, it does not mention One Engineering System (1ES), its principles, tooling, integration, or unified frameworks. The main discussion aligns more with general Agile transformation and organizational change than with standardization, integration, or unification of tools/processes as characterized by 1ES. The intended audience (agile practitioners, leaders) partially overlaps, but the fit remains superficial because it lacks direct or indirect references to the category’s core concepts or its technical/systemic approach.",
+    "reasoning_summary": "Content addresses organizational transformation for agility, not One Engineering System. No 1ES mention, nor focus on standardization, tool/process integration, or unified frameworks. Only a loose thematic connection exists; fit is weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2006,5 +2013,24 @@
     "reasoning": "The content strongly aligns with key Agentic Engineering themes by critiquing centralized, rigid structures and advocating for decentralization, team empowerment, and feedback-driven adaptation—core category pillars. It thoroughly discusses systemic barriers to agency, the necessity of distributed decision-making, and servant leadership, but does not specifically mention Agentic Engineering or expand on AI agency, observability, or automation. The intended audience, tone, and focus are well-matched with the category, but the superficial mention of 'agency' concepts (e.g., team autonomy, leadership models) keeps the 'direct mention' score low. No penalties applied, as the content is timely, supportive, and never contradictory.",
     "reasoning_summary": "This piece addresses decentralization and team empowerment in software organizations, closely matching Agentic Engineering's focus on maximizing human agency. Though it doesn't mention the category explicitly or explore AI agency, its strategies and philosophy are highly relevant for practitioners pursuing agentic practices.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "56hWAHhbrvs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 18.57,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on organizational structure barriers to agility, advocating for decentralization and empowerment of teams, but at no point does it reference autonomous AI agents, agentic design, or the integration of contextual AI in software delivery. There are no explicit or implicit mentions of agentic systems or intelligence, nor does it cover engineering practices, governance, or AI support mechanisms critical to 'Agentic Software Delivery.' The intent is to provide advice on agile transformation at the organizational level, not on enabling agentic approaches. While relevant for practitioners, there is no tie-in with the technological or agency-centric aspects needed for this category. Small signal is relevant due to the focus and minimal off-topic content.",
+    "reasoning_summary": "Content is about shifting from hierarchical to agile teams—organizational empowerment, not agentic software delivery. No mention or exploration of AI agents, agentic integration, or related engineering practice. Does not fit category definition.",
+    "level": "Ignored"
   }
 }

@@ -1367,15 +1367,22 @@
     "level": "Ignored"
   },
   "Continuous Improvement": {
+    "resourceId": "mKq16PgA7Ks",
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-10T15:54:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on technical instructions for mapping Windows special folders to OneDrive for Business, with no explicit discussion of Continuous Improvement principles. While it touches on the importance of data backup and accessibility, it lacks depth in exploring themes such as empirical evidence, experimentation, or strategies for organisational processes. Therefore, it does not align with the Continuous Improvement category.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 13.727,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.6,
+    "ai_intent": 0.9,
+    "ai_audience": 8.0,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is a practical tutorial on syncing Windows folders to OneDrive for backup and accessibility. There is no direct or implied mention of Continuous Improvement, nor are empirical reflection, experimentation, or strategic process optimization themes present. The focus is personal productivity and data safety, not team or organizational advancement, so the conceptual alignment and depth for the target category are minimal. The only moderate matches are with the general audience technical focus and high relevance/signal within its own topic.",
+    "reasoning_summary": "This content is a technical walkthrough on automatic backup using OneDrive, with no direct or conceptual ties to Continuous Improvement themes or intent. Any fit is incidental and minimal.",
     "level": "Ignored"
   },
   "Common Goals": {
@@ -1920,6 +1927,25 @@
     "final_score": 8.0,
     "reasoning": "The content is focused on practical instructions for mapping Windows special folders to OneDrive for Business to achieve reliable file backups and cross-device access. There are no direct mentions or conceptual explorations of agency, intentional engineering practices, developer autonomy, observability, feedback-driven adaptation, ethical AI, or DevOps culture. The audience is end-users seeking usable backup solutions; there is no targeting of software engineers or those interested in agency-maximizing engineering practices. The content is tool- and outcome-focused, not philosophically or structurally aligned with Agentic Engineering principles.",
     "reasoning_summary": "This content provides step-by-step cloud backup advice for Windows users, but does not discuss or relate to Agentic Engineering concepts, developer agency, or engineering practices. It is practical user guidance, not engineering philosophy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mKq16PgA7Ks",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on manual configuration of Windows special folders to sync with OneDrive for cloud backup. There is no mention of autonomous AI agents, AI-driven contextual intelligence, or any agentic principles in software delivery. The purpose is end-user backup enablement, not enhancement of software delivery processes via agentic means. No references to agile, DevOps, feedback loops, or integration with humans and AI agents. At best, a minuscule conceptual alignment might be detected if 'sync' were misinterpreted as 'automation', but not in a context that fits this category.",
+    "reasoning_summary": "Content is about manual cloud backup setup, not agentic delivery in software. No AI, agency, or integration themes. Does not fit the category at all.",
     "level": "Ignored"
   }
 }

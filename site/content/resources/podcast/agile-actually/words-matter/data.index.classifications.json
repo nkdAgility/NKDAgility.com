@@ -21,15 +21,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "Z1FuzHOIZD5",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:23:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the importance of language and transparency in the Agile context, with only a brief mention of DevOps through Martin Hinshelwood's expertise. While there is a slight connection to DevOps principles, the discussion does not delve into core DevOps themes such as collaboration, automation, or shared accountability, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 18.8,
+    "ai_mentions": 2.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is focused on the importance of precise language and transparency in agile teams. DevOps is only briefly referenced as a secondary area of expertise of one host, without being discussed conceptually or in depth. There are no substantive mentions of DevOps principles, practices, or culture, and the main intent, themes, and examples are unrelated to the DevOps category as defined. The potential audience for DevOps overlaps partially since the hosts consult on DevOps, but the episode itself targets agile practitioners broadly. No penalties were necessary, as there were no outdated practices nor undermining tone.",
+    "reasoning_summary": "DevOps is only mentioned in the host bio and not explored in the content. The discussion overall is not aligned with DevOps principles, practices, or philosophy, so fit is weak and largely incidental.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1933,6 +1940,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on language, transparency, and communication within agile teams, largely from a coaching and consulting perspective. While transparency and effectiveness are tangentially related to agentic practices, there are no direct mentions of Agentic Engineering or its core themes like decentralised decision-making, ethical AI, feedback-driven adaptation, or explicit focus on maximizing human+AI agency. The discussion remains at the level of agile communication rather than deliberate engineering practices. Audience alignment is relatively strong, as the intended audience overlaps with those interested in agile engineering. However, the conceptual and in-depth alignment is limited, and the content does not explore the philosophical or systemic design of engineering practices that the category demands.",
     "reasoning_summary": "This content examines language and transparency in agile teams, which is tangentially relevant to Agentic Engineering’s focus on agency and effective collaboration, but lacks direct discussion of agentic engineering principles or systemic engineering practices. Alignment with the category is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Z1FuzHOIZD5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 10.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 3.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content centers on language, transparency, and effectiveness in agile teams, mainly from a communication and coaching perspective. There is no mention or implication of agentic software delivery, autonomous AI agents, or integration of contextual intelligence. Focus is on traditional agile practices and language precision rather than the integration of autonomous agents, agentic principles, or modern engineering practices required for Agentic Software Delivery. Audiences (agile practitioners) may overlap but topic intent and depth are unrelated to the category.",
+    "reasoning_summary": "Content focuses on language and transparency in agile teams, not Agentic Software Delivery. There are no references to autonomous agents, contextual intelligence, or agentic integration; category fit is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

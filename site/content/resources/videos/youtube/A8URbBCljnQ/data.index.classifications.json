@@ -500,12 +500,22 @@
     "level": "Tertiary"
   },
   "Organisational Physics": {
+    "resourceId": "A8URbBCljnQ",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:54:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses themes of team dynamics, processes, feedback loops, and Agile methodologies that can relate to systems thinking and organisational behaviour, but it primarily focuses on remote work and Agile practices. While there are significant references to organisational dynamics, they are secondary to the main subject of remote work and Scrum practices.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 47.72,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.1,
+    "ai_depth": 4.9,
+    "ai_intent": 5.8,
+    "ai_audience": 8.4,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses on practical strategies for remote Agile teams, such as communication, tool adaptation, feedback loops, team dynamics, gamification, and UX integration. While it references systems ideas (e.g., feedback loops, team interactions, production line analogy), direct references to 'Organisational Physics' or explicit systems thinking frameworks are absent. The content’s themes overlap with organisational dynamics but are rooted in Agile/team practices rather than holistic organisational systems analysis or theory. The emphasis on team dynamics and feedback offers some conceptual alignment, but exploration of organisational structure, emergent behaviour, or mapping of organisational systems is shallow. The audience (Agile practitioners/leaders) aligns, and the majority of content is relevant. Ultimately, this is a partial fit: valuable adjacent insights, but not a deep or explicit dive into Organisational Physics as defined.",
+    "reasoning_summary": "The article touches on team dynamics and feedback loops, which partially align with Organisational Physics, but lacks explicit systems thinking or deep analysis of organisational dynamics. The fit is limited to adjacent themes, not core category focus.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -1995,5 +2005,24 @@
     "reasoning": "The content focuses on remote Agile teamwork, communication, tool experimentation, feedback loops, and integrating UX into Agile. While it touches on concepts like value delivery, feedback, team agency, and engineering excellence, it lacks explicit mention of 'Agentic Engineering' or deep philosophical discussions on maximizing human/AI agency. The focus remains practical, with superficial alignment to agentic practices (like feedback-driven adaptation and developer autonomy), but without the thorough exploration of deliberative engineering design, ethical AI integration, or autonomy central to Agentic Engineering. Audience matches practitioners, and the content is highly relevant for Agile teams, but agentic topics are more incidental than central.",
     "reasoning_summary": "This content aligns tangentially with Agentic Engineering through themes of autonomy, feedback, and value delivery in remote Agile teams. However, it lacks explicit references or in-depth exploration of core agentic engineering principles. Its primary focus is practical Agile team advice, making its fit to the category partial and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "A8URbBCljnQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 13.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 5.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on remote Agile work practices, focusing on team communication, tool choice, value delivery, team dynamics, gamification, and integrating UX into Agile. There are no explicit or implicit mentions of autonomous AI agents, contextual intelligence, agentic principles, or integration of agency into delivery systems as per category definition. It does reference feedback loops, engineering practices, and delivery optimization, but not in the context of agentic approaches; everything is framed from a human/team perspective, not involving AI or agentic delivery. The audience and tone align with technical/practitioner Scrum and Agile audiences (hence a slight score uptick for audience), but there's no direct or conceptual fit with agentic software delivery. No penalties needed since content is current and not critical of the category.",
+    "reasoning_summary": "Content is about remote work for Agile teams, emphasizing team dynamics, communication, and integrating UX—there is no mention or exploration of agentic software delivery, autonomous AI agents, or agency in delivery systems. Fit is minimal.",
+    "level": "Ignored"
   }
 }

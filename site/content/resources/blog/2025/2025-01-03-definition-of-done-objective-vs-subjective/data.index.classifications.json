@@ -316,12 +316,22 @@
     "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explains the Definition of Done in Agile/Scrum, highlighting its objective and measurable nature. It offers practical examples, addresses common challenges, and is clearly aimed at guiding Agile teams. The focus on best practices and team alignment ensures it’s highly relevant and valuable for practitioners, with no outdated or off-topic material present."
   },
   "Product Strategy": {
+    "resourceId": "-Z5GGUOjc-d",
     "category": "Product Strategy",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Definition of Done and its relationship to product quality and goals, which are relevant to product strategy, but the primary focus is on Scrum practices rather than a comprehensive exploration of product strategy methodologies.",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 43.958,
+    "ai_mentions": 2.8,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 4.3,
+    "ai_audience": 4.6,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content primarily explores the 'Definition of Done' in Scrum, focusing on the distinction between subjective goals and objective quality measures. While it touches lightly on alignment to product vision, and references organizational or product-level quality standards, the main emphasis is process and quality assurance within Scrum, not on product strategy frameworks, vision formulation, or strategic market alignment. The article’s treatment of 'Product and Sprint Goals' is limited to their subjectivity and guiding function, lacking depth on roadmapping, strategy metrics, or customer-centric planning. Thus, while tangentially connected through quality standards and organizational intent, the core discussion is not on 'Product Strategy' as defined.",
+    "reasoning_summary": "Mostly focused on Scrum’s Definition of Done and quality measures, the content only briefly considers product/organizational intent. It lacks sustained or explicit product strategy discussion, so fit is marginal and confidence is low to moderate.",
     "level": "Tertiary"
   },
   "Customer Retention": {
@@ -2334,5 +2344,24 @@
     "reasoning": "The content explicitly discusses team autonomy, the evolution of quality standards, the critical role of feedback loops (automation/CI/CD), and maintaining a living Definition of Done—all closely related to agentic engineering. However, it never mentions 'Agency,' 'Agentic Engineering,' or explicitly addresses AI as a collaborator. The philosophical alignment is moderate: the main focus is on the objective Definition of Done, with an emphasis on autonomy and decentralization. There is some discussion of feedback-driven improvement and continuous quality bar raising—elements tied to agentic practices. Still, it primarily addresses Scrum practitioners who want rigorous quality and process, not the broader agentic engineering philosophy, nor does it deal directly with intelligent systems or ethical AI. No penalties were required, as the content is current, straightforward, and on-topic, but does not achieve full conceptual coverage. Scores reflect moderate to good alignment, especially in promoting autonomy, adaptive change, and continuous improvement through engineering practices.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering. It emphasizes team autonomy, objective quality criteria, automated feedback, and continuous improvement—principles related to agentic practice—but does not directly address agency as a philosophical or AI-augmented concept.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-Z5GGUOjc-d",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 31.67,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.1,
+    "ai_depth": 3.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on the Definition of Done (DoD) in Scrum, emphasizing objective, measurable standards for product quality, automation, and continuous improvement. While it gestures toward modern engineering practices (e.g., automation, CI/CD) and organizational alignment, it does not reference or deeply explore agentic principles, autonomous AI agents, or their integration with human expertise and organizational context. There are no explicit or implicit mentions of agentic software delivery, autonomous agents, or governance frameworks for agent-human interactions—the content remains strictly within the realm of quality frameworks in Scrum. The closest overlaps (automation, objective measurement, CI/CD) stop at general best practices, not the proactive, context-aware intelligence described in agentic software delivery. The content is targeted at Scrum practitioners, relevant for modern engineering, but off-topic for the agentic software delivery category.",
+    "reasoning_summary": "This article is about objective quality in Scrum (DoD) and automation, not about agentic software delivery. No agentic principles or autonomous AI agents are discussed. Alignment with the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

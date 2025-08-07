@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Lean",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:29",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Lean methodology, focusing on value maximisation and waste minimisation, without explicitly addressing accountability or outcome ownership. While it touches on principles that may indirectly relate to accountability, such as continuous improvement and empirical decision-making, these concepts are not the primary focus. The discussion lacks depth regarding structural accountabilities or role-specific responsibilities, which are central to the accountability category.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 24.75,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 8.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on Lean principles—maximizing value, minimizing waste, continuous improvement, and customer-centricity. While it discusses systemic change and process optimization, it never directly addresses or even indirectly details accountability as defined (ownership of outcomes, role-based accountabilities in work systems, etc.), nor does it touch on distinctions between accountability and responsibility or organize its explanation around outcome ownership structures. The main audience aligns with Agile/DevOps practitioners, but the theme is not on accountability as a structural mechanism. Consequently, relevance is weak on all major scoring axes except audience and signal-to-noise, which remain relatively high due to strong topical focus, but not on the desired category.",
+    "reasoning_summary": "The content explains Lean principles and value delivery but does not address outcome ownership, structural accountabilities, or role-based accountability. Thus, alignment with the Accountability category is weak and largely tangential.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3125,6 +3132,25 @@
     "final_score": 14.0,
     "reasoning": "The content thoroughly describes the principles, practices, and benefits of Lean, focusing on value delivery, waste elimination, continuous improvement, and cultural mindset. However, it never discusses human-AI collaboration, augmented decision-making with AI, or collective cognition involving AI agents. The Lean philosophy described is entirely human-centric, with no mention of integrating or partnering with AI as team members. The closest connection is a mention of synergy with Agile and DevOps, which could enable collective intelligence in other contexts, but this is not explicitly explored here. The content is highly relevant for teams interested in process improvement, but entirely misaligned with the defined 'Collective Intelligence' category.",
     "reasoning_summary": "This Lean overview is focused on human process optimization and continuous improvement, without any mention of human-AI collaboration or augmented collective capabilities. It does not align with the 'Collective Intelligence' category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lean",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 25.12,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content exclusively describes Lean as a value-maximising, waste-minimising methodology rooted in the Toyota Production System. While Lean shares affinity with Agile and DevOps through its focus on efficiency, feedback, and improvement, it makes no mention of autonomous AI agents, contextual intelligence, or agency-centric strategies. There are no direct references or even implicit suggestions of agentic software delivery or the integration of AI into the delivery process. The intent is purely to explain Lean as a broad management and software delivery philosophy. Thus, only distant conceptual alignment exists (e.g., iterative learning, feedback loops), and the audience could overlap as technical and management teams, but the core category requirements are not met.",
+    "reasoning_summary": "Content is solely about Lean strategy for waste reduction and value delivery, with no mention or suggestion of AI agents or agentic principles. Only extremely loose thematic overlap exists; it does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

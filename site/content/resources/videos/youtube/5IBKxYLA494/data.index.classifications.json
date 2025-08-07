@@ -1372,16 +1372,23 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "5IBKxYLA494",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:38:27",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on enhancing the Scrum process using Azure DevOps, which is more aligned with traditional Scrum practices rather than the broader Agile Product Operating Model. While it touches on agile practices and mentions concepts like backlog management and refinement, it lacks a direct discussion on transitioning to a product-oriented mindset or integrating product management principles. The depth of discussion on Scrum events and tools is significant, but it does not sufficiently address the core themes of the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 56.23,
+    "ai_mentions": 2.7,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.8,
+    "ai_intent": 7.2,
+    "ai_audience": 6.5,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content focuses on practical guidance for customizing Azure DevOps to optimize Scrum processes, aligning with agile product delivery and continuous improvement, but never directly discusses the Agile Product Operating Model framework, principles, or organization-level strategy. The fit is partial: while there are aspects such as product backlog focus, refinement, continuous improvement, and practical support for value-based delivery, the discussion revolves around tooling and team-level practices, not a broader organizational model or strategic product operating model transformation. There are no direct mentions of APOM or in-depth exploration of its principles. The audience (Scrum practitioners/teams) can intersect with APOM but is not specifically targeting organizational leaders or strategists. Signal is moderately strong but centered on team-level Scrum and Azure DevOps usage.",
+    "reasoning_summary": "Content is Scrum/DevOps/team-focused, with partial relevance to APOM topics (backlog, value flow, improvement), but does not address the Agile Product Operating Model itself or its core principles. Fit is tangential, not direct.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1999,6 +2006,25 @@
     "final_score": 40.0,
     "reasoning": "The content focuses on practical guidance for customizing Azure DevOps to support Scrum teams, emphasizing agile practices, backlog management, and process adaptation. While there is discussion about autonomy (adapting tools to team needs) and continuous improvement, the framing remains tool- and process-centric rather than explicitly addressing the philosophy or systemic initiatives found in Agentic Engineering. Key aspects like developer/AI agency, ethical integration, or decentralised decision-making are either absent or only lightly implied (e.g., customising tools for team behaviors). There are no direct mentions, and coverage of agentic practices is indirect. The intended audience (practitioners, Scrum Masters, team leads) overlaps partially with the Agentic Engineering audience, but the content’s focus is less on philosophical engineering shifts and more on practical workflow assistance.",
     "reasoning_summary": "This content presents practical advice for customising Azure DevOps to fit Scrum team processes. While elements of team autonomy and continuous improvement are present, the content remains focused on tooling and agile facilitation, with little direct alignment to the Agentic Engineering philosophy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5IBKxYLA494",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 18.06,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content centers on practical setup and customisation of Azure DevOps for Scrum teams, detailing backlog, sprint, and refinement practices in agile software delivery. It does not mention agentic concepts, AI agents, or context-aware autonomy. Discussions on observability, governance frameworks, or agency are absent, and automation or AI is not integrated into workflow narratives. The focus is on team productivity using current tools, not proactive AI augmentation or agent/human synergy.",
+    "reasoning_summary": "The content does not address agentic software delivery, autonomous AI agents, or AI-human collaboration. Its focus is on standard Scrum and Azure DevOps customisation, lacking conceptual or direct alignment to the category.",
     "level": "Ignored"
   }
 }

@@ -1491,15 +1491,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "4YixczaREUw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:35:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 11.74,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 4.4,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology, rather than discussing the One Engineering System (1ES). While it touches on some principles of Agile and Scrum, it does not address the integration, standardisation, or comprehensive framework aspects of 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "reasoning": "There are no direct mentions or discussions of the One Engineering System (1ES) framework, its components, unified tooling, or cross-team engineering process integration. The content is focused solely on debunking myths about Scrum—a specific Agile methodology. While relevant for Agile practitioners (some overlap in audience), none of the main ideas, purposes, or depth reflect the standardisation or integration themes core to 1ES. The signal nearly fully excludes the 1ES topic, aside from perhaps brief, tangential relevance through discussion of process improvement and governance (which is not explicitly linked to standardisation or unified systems). No penalties are applied since the content is neither outdated nor critical of the category, but rather simply unrelated.",
+    "reasoning_summary": "This content addresses misconceptions about Scrum and Agile adoption, with no substantial overlap with the 'One Engineering System' category, its principles, or implementation themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2005,6 +2012,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses on debunking misconceptions about Scrum and clarifying its foundational events, planning, and governance. While it does mention developer autonomy (e.g., teams self-organising, developers deciding how to work), these are standard Agile/Scrum discussions and do not directly engage with the broader or deeper principles of Agentic Engineering, such as the integration of human and AI agency, systemic observability, ethical AI, or feedback-driven adaptation at a philosophical, systemic, or engineering-practice level. There are no explicit references or terminology related to Agentic Engineering, nor a discussion of engineering craft, automation, or value delivery through agency-led frameworks. The content is well-aligned for Agile practitioners but does not meaningfully engage with most core tenets of Agentic Engineering as defined.",
     "reasoning_summary": "This content reviews misconceptions about Scrum, focusing mainly on clarifying Agile concepts and process roles. Although it briefly highlights developer autonomy and team decision-making, it lacks direct exploration of Agentic Engineering topics or frameworks. The primary focus is on Scrum adoption and not on maximizing human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4YixczaREUw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 13.944,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses strictly on clarifying Scrum myths, planning, and governance. There are no references to AI agents, intelligent automation, or agentic integration. The conceptual overlap is limited to discussions of events (like Sprint Planning) that could theoretically be agent-supported, but there is no mention of software agents or contextual intelligence. The audience is Agile practitioners interested in Scrum, not those exploring autonomous agent augmentation in software delivery. As such, alignment, depth, and intent scores are very low for this category, with minimal relevance or signal for 'Agentic Software Delivery.'",
+    "reasoning_summary": "The content is about Scrum practices and debunks, not about agentic software delivery or autonomous AI agents in delivery. There is no meaningful overlap; category fit is very low.",
     "level": "Ignored"
   }
 }

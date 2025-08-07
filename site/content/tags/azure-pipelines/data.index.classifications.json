@@ -37,16 +37,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Azure Pipelines",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Azure Pipelines and its role in automating processes, which indirectly relates to tenets of continuous improvement and collaboration. However, it lacks explicit mentions of specific tenets or actionable guiding rules, focusing instead on the functionality of the tool rather than its application within a framework like Agile or Lean.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 67.65,
+    "ai_mentions": 3.2,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.6,
+    "ai_intent": 7.0,
+    "ai_audience": 8.4,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content focuses on Azure Pipelines' automation for CI/CD, referencing continuous improvement, feedback loops, and collaboration—core tenets of modern DevOps. However, it does not explicitly label them as tenets and is more tool-centric than tenet-centric. The alignment and depth are strong because the features and benefits discussed (feedback loops, collaboration, continuous improvement) reflect key tenets in DevOps and Agile. There are few direct mentions or prescriptive statements about tenets, but the conceptual match is clear. No penalties were applied as the content is current and supports the category’s intent.",
+    "reasoning_summary": "The content implicitly discusses several DevOps tenets (automation, feedback, collaboration, continuous improvement) but centers mainly on tool capabilities, not on tenet doctrine itself. Fit is partial but conceptually strong.",
+    "level": "Secondary"
   },
   "Method": {
     "category": "Method",
@@ -3119,6 +3126,25 @@
     "final_score": 14.0,
     "reasoning": "The content describes Azure Pipelines as an automation tool for build, test, and deployment processes. It highlights team collaboration and DevOps practices but does not reference human-AI partnerships, distributed cognition, or collective intelligence principles. No explicit or implicit discussion of AI agent collaboration with human agency appears. The audience is somewhat aligned (DevOps/Agile practitioners), but the content is focused solely on automation tools, not human-AI teamwork or enhanced collective capabilities per the definition.",
     "reasoning_summary": "This content focuses on CI/CD automation and DevOps collaboration using Azure Pipelines but lacks any discussion of human-AI partnership or enhanced collective intelligence. Its alignment to the “Collective Intelligence” category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Azure Pipelines",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 27.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.4,
+    "ai_intent": 3.8,
+    "ai_audience": 8.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content is focused on Azure Pipelines as a CI/CD automation tool, emphasizing automation, workflow streamlining, and integration with Azure DevOps. There are no explicit or implicit references to agentic principles, autonomous AI agents, or the deliberate integration of AI with human expertise or organizational context. The main purpose is to describe benefits of automation in a DevOps context, not agentic software delivery per se. Thus, while CI/CD is a foundation for modern engineering (a supporting topic), the discussion lacks conceptual or thematic fit with key agentic elements such as contextual intelligence, agency, or governance frameworks for AI agents. The target audience is technical and relevant, and the content is succinct and focused, but the connection to Agentic Software Delivery is very weak.",
+    "reasoning_summary": "Content describes CI/CD automation with Azure Pipelines but lacks references to agentic AI, agent integration, or contextual intelligence. No agentic principles present; fit with Agentic Software Delivery is minimal and largely indirect.",
     "level": "Ignored"
   }
 }

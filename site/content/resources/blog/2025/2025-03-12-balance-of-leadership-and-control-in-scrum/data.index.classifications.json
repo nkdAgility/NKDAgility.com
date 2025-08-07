@@ -918,15 +918,22 @@
     "level": "Ignored"
   },
   "Beta Codex": {
+    "resourceId": "UH6M7ujV-kB",
     "category": "Beta Codex",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses leadership and authority within the Scrum framework, which touches on themes of autonomy and accountability. However, it primarily focuses on traditional roles and structures rather than the decentralised and adaptive principles of Beta Codex. While there are elements of self-management and team dynamics, the emphasis on authority and control detracts from a true alignment with Beta Codex principles.",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 40.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.1,
+    "ai_intent": 5.6,
+    "ai_audience": 6.7,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content examines leadership, authority, and autonomy in Scrum, featuring discussions on self-management and organisational constraints. However, it neither mentions Beta Codex nor explicitly advocates decentralisation, human-centric design, or adaptive structures crucial to Beta Codex. While some principles (autonomy, empowerment) loosely align, the article is rooted in traditional Scrum roles and accountability, not in radical decentralisation or BetaCodex theory. The depth relates mainly to Scrum practice, without conceptual bridge to BetaCodex frameworks. Audience (Scrum practitioners and managers) only partially overlaps with BetaCodex interests. Overall, links are indirect and thematic, not explicit or deep.",
+    "reasoning_summary": "The article covers Scrum team autonomy, leadership, and authority but does not mention Beta Codex or directly explore its principles. While it partially overlaps on self-management, its intent and themes remain centered on traditional Scrum rather than BetaCodex.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -2505,5 +2512,24 @@
     "reasoning": "The content robustly addresses themes of authority, self-management, empowerment, and balancing leadership with control in Scrum teams—concepts closely tied to 'agentic' software practice. However, Agentic Engineering is not mentioned by name. While the focus on human agency, autonomy, and decision-making fits well, discussion about AI/system agency is absent, and the explicit integration of DevOps, systemic observability, or ethical AI is lacking. The depth is solid regarding agency within Scrum, but somewhat narrow in engineering breadth. The likely technical/practitioner audience is aligned, but the signal does include some context explanations and Scrum fundamentals. No penalties apply as content is current and tone is neutral.",
     "reasoning_summary": "This article aligns strongly with Agentic Engineering by focusing on leadership, autonomy, and balancing authority for effective self-management in Scrum. While it thoroughly explores human agency, it lacks direct mention of the category and does not cover AI or system agency, moderating its fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UH6M7ujV-kB",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 17.74,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.95,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 6.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on roles, authority, and self-management in Scrum, emphasizing human leadership and autonomy, but makes no mention of autonomous AI agents, agentic systems, or intelligent automation in software delivery. It lacks any discussion of embedding AI, agentic intelligence, or synergy between human expertise and agents, which are central to 'Agentic Software Delivery.' The audience is practitioners in agile/Scrum, which partially overlaps the target demographic, but the signal-to-noise ratio is low for the category due to tangential alignment. No penalties were applied, as the content is not outdated or actively contrary.",
+    "reasoning_summary": "This content discusses human roles and authority in Scrum, not the integration of AI agents or agentic intelligence in delivery. Therefore, it only loosely fits the 'Agentic Software Delivery' category via shared themes of autonomy and accountability.",
+    "level": "Ignored"
   }
 }

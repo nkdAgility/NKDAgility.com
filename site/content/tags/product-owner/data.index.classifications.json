@@ -61,16 +61,23 @@
     "level": "Secondary"
   },
   "Strategy": {
+    "resourceId": "Product Owner",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising product value and aligning it with stakeholder needs, which ties into strategic decision-making and organisational objectives. While it does touch on strategic aspects, the primary focus is on the operational role and responsibilities of the Product Owner within Agile frameworks, which may detract from a purely strategic discussion.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:18",
+    "ai_confidence": 89.45,
+    "ai_mentions": 7.2,
+    "ai_alignment": 9.3,
+    "ai_depth": 8.9,
+    "ai_intent": 9.0,
+    "ai_audience": 8.6,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 89.0,
+    "reasoning": "The content explains the Product Owner role, emphasizing maximising product value, aligning product vision with business objectives, strategic backlog prioritisation, and evidence-based decision-making—core aspects of strategy. While specific operational details are present, the main focus is on the high-level strategic accountability within Scrum and its impact on organisational goals. The content addresses strategic alignment, decision-making, and the bridging role between stakeholders and teams. Direct mentions of 'strategic decision-making,' 'alignment,' and references to business goals reinforce strong category fit. Minor operational language slightly reduces the signal-to-noise ratio. No content is satirical or outdated; no penalties applied.",
+    "reasoning_summary": "The content centers on the Product Owner's strategic accountability, focusing on aligning product development with organisational goals, strategic decision-making, and value delivery. Strong match for the Strategy category with high conceptual alignment and depth.",
+    "level": "Primary"
   },
   "Practice": {
     "category": "Practice",
@@ -3179,6 +3186,25 @@
     "final_score": 21.0,
     "reasoning": "The content provides a detailed description of the Product Owner role in Scrum, emphasizing leadership, strategic alignment, and collaboration within human teams. However, it never explicitly or implicitly references collaboration with AI agents or discusses human-AI collective intelligence, decision-making frameworks leveraging both human and AI strengths, or emergent outcomes from human-AI partnerships. While collaboration and evidence-based decisions are mentioned, they only concern human teams and stakeholders, not AI or socio-technical systems enabled by AI. Thus, direct mentions and conceptual alignment with the 'Collective Intelligence' category—defined as emergent capabilities from human-AI collaboration—are minimal, leading to a substantially lower confidence score despite moderate audience and signal relevance to Agile practitioners.",
     "reasoning_summary": "This content focuses entirely on the Product Owner's role and collaborative practices within human Scrum teams. It does not address or imply human-AI collective intelligence, resulting in minimal alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Owner",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 18.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 6.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content strictly focuses on the Product Owner role in Scrum, emphasizing accountability, backlog management, value delivery, and stakeholder alignment. There is no mention or exploration of AI, agentic principles, autonomous software agents, or integration of AI and human expertise. It aligns with classic Scrum and product management, not agentic software delivery as defined. Most content is on human-driven processes; no contextual intelligence, agency, or modern engineering practices for agentic delivery are present. Audience (technical Scrum practitioners) may overlap, but the category's core agentic concepts are missing.",
+    "reasoning_summary": "Content describes the human Product Owner accountability in Scrum with no mention of AI agents, autonomy, or agentic system integration. It does not match Agentic Software Delivery principles; fit is minimal and mostly audience-related.",
     "level": "Ignored"
   }
 }

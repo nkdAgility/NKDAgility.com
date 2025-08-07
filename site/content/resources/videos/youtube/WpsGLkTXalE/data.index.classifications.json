@@ -1177,15 +1177,22 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "WpsGLkTXalE",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:52:21",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of communication and transparency within Agile teams, which aligns with the principles of empirical process control. However, it does not explicitly mention empirical process control or provide in-depth analysis of its techniques or case studies. The focus is more on the consequences of silence and strategies to improve communication rather than on empirical decision-making based on observed evidence.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 73.58,
+    "ai_mentions": 3.5,
+    "ai_alignment": 8.3,
+    "ai_depth": 8.0,
+    "ai_intent": 7.8,
+    "ai_audience": 7.2,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "This content focuses on silence as a barrier to open communication, trust, and value delivery in Agile teams, emphasizing the need for transparency and open dialogue—core tenets of Empirical Process Control. While it never directly names the term 'Empirical Process Control,' its alignment is strong: the breakdown of consequences of silence and the proposed strategies (e.g., encouraging openness, modeling vulnerability) clearly support transparency, inspection, and adaptation. The discussion explores why these behaviors are critical for continuous improvement. However, some dimensions are scored lower: there are no explicit direct mentions of empirical process control terminology or related figures (Ken Schwaber, Jeff Sutherland, etc.), and the focus is broad rather than delving into specific empirical techniques, tools, or case studies. The target audience is Agile practitioners, matching the category, with most of the content tightly focused on the topic. No penalties are warranted—there is no obsolete, off-topic, or undermining content.",
+    "reasoning_summary": "Content advocates for open dialogue and transparency to counteract silence in Agile teams, supporting empirical process control. It fits well conceptually but lacks explicit term use or in-depth theory, so confidence is substantial but not definitive.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1974,6 +1981,25 @@
     "final_score": 36.0,
     "reasoning": "The content centers on fostering open communication and psychological safety in Agile teams. These themes overlap with aspects of agentic environments (such as empowerment and continuous improvement), but the discussion stays at team habit and interpersonal dynamics, without referencing agentic engineering, AI/human agency in engineering, DevOps-infused craft, systemic observability, or ethical AI. There are no explicit or implicit references to deliberate engineering design practices that maximize human or AI agency or continuous value delivery via agentic methods. The audience is Agile practitioners—related, but there's minimal content on engineering autonomy, decision frameworks, or DevOps. The signal-to-noise ratio is solid as content is focused, but it's not on the target topic. There are no penalties: content is current, relevant for Agile, and the tone does not contradict the category.",
     "reasoning_summary": "While the content supports open communication and psychological safety—sometimes adjacent to agentic engineering—it does not reference deliberate engineering design or address human/AI agency, DevOps, or autonomy. Its focus is team culture in Agile, not the engineering practices central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WpsGLkTXalE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 13.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on psychological safety, open communication, and anti-patterns in Agile teams, emphasizing fears, accountability, and culture. There are no direct mentions or discussions of agentic software delivery, AI agents, or related concepts such as AI integration, contextual intelligence, governance frameworks, or human-in-the-loop designs. The intent is aligned with improving Agile team function, but not with embedding AI agency into delivery. Audience overlap exists as both can target Agile practitioners, but the fit is highly tangential at best, with virtually no conceptual intersection beyond general value delivery and accountability themes.",
+    "reasoning_summary": "Content is about communication issues in Agile teams, not agentic software delivery. No mention of AI agents or agentic practices. Only a slight audience overlap with Agile practitioners; overall, the fit is highly incidental.",
     "level": "Ignored"
   }
 }

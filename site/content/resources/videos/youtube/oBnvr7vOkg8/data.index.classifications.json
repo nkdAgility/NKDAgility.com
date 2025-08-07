@@ -1470,15 +1470,22 @@
     "reasoning_summary": "The content is a good fit for the category as it centres on the value of professional competence in Agile consulting, stressing the need for expertise and recognition in one’s field. While it also covers broader Agile concepts and personal stories, the main emphasis remains on the importance of mastering your craft before applying Agile methods. This focus aligns well with the category’s intent, despite some wider discussion."
   },
   "One Engineering System": {
+    "resourceId": "oBnvr7vOkg8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:14:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on becoming an Agile consultant and discusses Agile methodologies in detail, but it does not explicitly mention or align with the One Engineering System framework. The discussion is centred around personal experiences and insights related to Agile consulting rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 11.325,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 2.2,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "Direct mentions of One Engineering System (1ES) are completely absent; the text focuses solely on Agile consulting. The conceptual alignment is minimal—though themes of process improvement and standardisation are lightly touched, they are not widely developed and are placed only in the generalized Agile context. No discussion is made of 1ES principles, framework, or tools, nor does the content examine integration or standardisation across teams as described in the 1ES category description. Audience is loosely adjacent (technical practitioners), and the signal is mainly on becoming an Agile consultant, with no relevant discussion of unified engineering systems or frameworks.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It discusses becoming an Agile consultant, not 1ES, and does not mention or substantively discuss standardised or unified engineering frameworks.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1980,6 +1987,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses exclusively on career development and steps to becoming an Agile consultant, emphasizing domain expertise, experience, and teaching Agile/Lean principles. It does not discuss or even reference the core concepts of Agentic Engineering: agency, the deliberate design of engineering environments to maximize human/AI autonomy, systemic observability, DevOps-infused craft, ethical AI, or feedback-driven adaptation. While it is tangentially linked through Agile and software development themes, it lacks explicit conceptual overlap, discussion depth, or intent to address agency maximization in engineering. The audience somewhat aligns (professionals in software and Agile), and content shows moderate focus, but those aspects alone cannot make up for the absence of relevance to Agentic Engineering.",
     "reasoning_summary": "This content outlines steps to become an Agile consultant, focusing on expertise, recognition, and adaptation across industries. It does not engage with the design philosophies, agency principles, or system-level engineering themes crucial to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "oBnvr7vOkg8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 13.071,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "This content is entirely focused on becoming an Agile consultant, covering domain expertise, consulting steps, and career advice. There are no references, explicit or implied, to agentic systems, autonomous AI agents, or the integration of contextual intelligence, which define Agentic Software Delivery. Key concepts like human-agent collaboration, feedback loops with AI, agency, governance for agents, or modern engineering practices that support agentic delivery are absent. The audience is technical/practitioner-focused but with no tie-in to agentic or AI topics.",
+    "reasoning_summary": "The article discusses Agile consulting career paths, with no reference or connection to autonomous agents, contextual AI, or agentic software delivery practices. Only significant fit is technical audience overlap; otherwise, it's unrelated.",
     "level": "Ignored"
   }
 }

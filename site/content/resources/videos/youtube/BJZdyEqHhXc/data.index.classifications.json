@@ -1367,16 +1367,23 @@
     "level": "Secondary"
   },
   "Beta Codex": {
+    "resourceId": "BJZdyEqHhXc",
     "category": "Beta Codex",
-    "calculated_at": "2025-04-10T14:45:14",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the human-centric and adaptive principles of Beta Codex. However, it primarily focuses on the critique of external consulting and the myth of quick fixes in Agile and DevOps, rather than explicitly addressing Beta Codex principles or decentralisation. The discussion lacks depth in exploring the foundational theories of Beta Codex, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 45.56,
+    "ai_mentions": 0.4,
+    "ai_alignment": 5.35,
+    "ai_depth": 4.85,
+    "ai_intent": 4.8,
+    "ai_audience": 6.0,
+    "ai_signal": 7.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content does not directly mention BetaCodex or its terminology, resulting in a very low score for direct mentions. Conceptually, there are partial overlaps such as empowerment, decentralisation, and building internal capability, which are loosely aligned with BetaCodex principles. However, references remain generic to Agile and DevOps and lack explicit discussion of decentralised or adaptive organisational structures as defined by BetaCodex. Depth is moderate, delving into empowerment and consultant roles but never reaching BetaCodex's core theories or structural comparisons. Intent partially fits, as the push towards internal capability and team empowerment is relevant, but Beta Codex as a framework is not addressed. The audience is generally aligned—practitioners and leaders interested in organisational improvement—but may also appeal more broadly within Agile/DevOps communities. Most of the content is on-topic regarding empowerment and capability-building, warranting a higher signal score. No penalties apply, as there is no outdated or critical tone toward BetaCodex. Overall, the content is only a partial thematic fit due to the absence of explicit BetaCodex framing or in-depth exploration specific to its principles.",
+    "reasoning_summary": "The content partially aligns by supporting empowerment and decentralisation, but lacks any direct mention or deep discussion of BetaCodex principles. Fits only tangentially; intent and themes overlap, but category-specific depth and explicit references are missing.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -2021,5 +2028,24 @@
     "reasoning": "The content centers on the empowerment and capability-building of Agile and DevOps teams, concepts highly aligned with agentic engineering principles like developer agency and continuous learning. However, it does not directly mention 'Agentic Engineering' or its full conceptual language, focusing instead on critiquing over-reliance on external parties and promoting a culture of collaboration, internal growth, and sustainable change. There are strong thematic overlaps (internal agency, continuous improvement), and the intended audience matches, but the discussion lacks explicit technical exploration of systemic observability or AI's role as a collaborator. Signal-to-noise is high, with a focused message. No outdated or contrarian elements were detected, and no penalties were warranted. The confidence score is moderate-high, reflecting substantial overlap in intent and practical alignment, but lower on explicitness and direct mention.",
     "reasoning_summary": "This content closely aligns with Agentic Engineering by advocating for team empowerment and sustainable change within Agile and DevOps. It emphasizes internal agency and capability-building, fitting well with the category, but never directly names or deeply explores agentic engineering concepts or AI collaboration.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BJZdyEqHhXc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 20.451,
+    "ai_mentions": 0.122,
+    "ai_alignment": 2.863,
+    "ai_depth": 3.151,
+    "ai_intent": 2.043,
+    "ai_audience": 6.133,
+    "ai_signal": 6.213,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on debunking myths about 'quick fixes' in Agile and DevOps, emphasizing internal capability building and empowerment over outsourcing. While it covers empowerment, team learning, and sustainable improvement, it never mentions or substantially discusses AI agents, agentic architecture, or agentic delivery frameworks. There are no explicit or even implicit references to the deliberate integration of autonomous AI agents, contextual intelligence, human-AI synergy, nor the specific engineering/governance practices central to agentic software delivery. The intended audience overlaps (practitioners/teams), and the high signal-to-noise ratio reflects the focus on practical guidance for sustained improvement, but the topic does not conceptually align with the core definition of Agentic Software Delivery.",
+    "reasoning_summary": "The article focuses on team empowerment in Agile/DevOps and internal capability, with no reference to agentic software delivery or AI agent integration. It does not fit the category beyond a generic relevance to software delivery teams.",
+    "level": "Ignored"
   }
 }

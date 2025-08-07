@@ -899,12 +899,22 @@
     "level": "Tertiary"
   },
   "Empirical Process Control": {
+    "resourceId": "COuQsbI48JU",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:54:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses facilitation skills within Scrum teams, which aligns with Agile principles, but it primarily focuses on facilitation rather than empirical process control as a central topic.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 51.52,
+    "ai_mentions": 1.6,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.2,
+    "ai_intent": 6.6,
+    "ai_audience": 7.3,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content centers on facilitation in Scrum, emphasizing collaboration, transparency, and participatory decision making—concepts related to empirical process control but focuses more on facilitation techniques rather than explicitly on transparency, inspection, and adaptation. 'Transparency' is referenced as a benefit, and improvement in Scrum events is discussed, which relates conceptually but depth is limited. Course is targeted to Agile practitioners, matching the intended audience. The fit is partial: empirical process control is supported as a theme but not the main explicit focus.",
+    "reasoning_summary": "Content partially fits the category: facilitation skills help transparency and collaboration in Scrum, which support empirical process control, but inspection and adaptation are not emphasized. Main focus is facilitation, not the core principles of empirical process control.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -2069,6 +2079,25 @@
     "final_score": 31.0,
     "reasoning": "The content focuses on Scrum facilitation skills—empowering team collaboration, participatory decision-making, and improving Scrum events. While these touch on aspects of human agency and decentralized decision-making, there is no explicit mention or in-depth discussion of Agentic Engineering concepts such as engineering-driven autonomy, DevOps, engineering practices that maximize human and AI agency, systemic observability, or ethical AI integration. The intent is tangentially supportive (empowerment via facilitation), audience overlap is present, but the content doesn't explicitly or deeply address the deliberate design of engineering practices with agentic framing.",
     "reasoning_summary": "This content relates to empowering Scrum teams but only indirectly aligns with Agentic Engineering, lacking explicit coverage of engineering practices that maximize agency or integrate human and AI autonomy. The fit is peripheral, not central.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "COuQsbI48JU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 10.68,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 5.7,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on traditional Scrum facilitation, improving team collaboration, and decision making. It lacks any mention or exploration of AI agents, agency, or automated, agentic software delivery practices. No agentic frameworks, architectures, or modern engineering practices related to autonomous systems are discussed. The audience overlaps partially, as they may be interested in new methodologies, but the content is not aligned with or indicative of agentic delivery principles as defined by the classification.",
+    "reasoning_summary": "This content only addresses Scrum facilitation training and does not reference AI agents, autonomous delivery, or agentic design. No direct or indirect fit with Agentic Software Delivery is present; category relevance is minimal.",
     "level": "Ignored"
   }
 }

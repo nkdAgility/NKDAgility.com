@@ -1410,15 +1410,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "xaLNCbr9o3Y",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:02:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile practices, specifically Scrum and Kanban, without any direct reference to the One Engineering System framework. While it touches on themes of flexibility and community, these are not aligned with the core principles of 1ES, which focuses on standardisation and integration across teams. The discussion lacks depth regarding the implementation or impact of a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 13.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 1.3,
+    "ai_audience": 4.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on adapting agile learning and community within remote environments, emphasizing flexibility, flow (via Kanban/Scrum), and teaching strategies—not on the One Engineering System (1ES). There are zero direct mentions or conceptual exploration of 1ES principles like standardized engineering processes, unified tooling, or integrated system delivery. Instead, the content is centered on agile classroom adaptation amidst the pandemic. While it briefly references integration (e.g., tools like Zoom and Mural), these are presented in the context of remote classrooms, not organizational engineering systems. The target audience (agile practitioners/learners) only partially overlaps with 1ES's likely audience. There is no signal of process unification or cross-team engineering themes integral to 1ES. Therefore, the confidence is very low, only nominally fitting the broadest aspect of audience.",
+    "reasoning_summary": "The content is about adapting agile (Scrum/Kanban) education for remote environments, not about One Engineering System principles, tools, or integration. No direct or conceptual fit—the category assignment is not supported.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1927,6 +1934,25 @@
     "final_score": 35.0,
     "reasoning": "The content discusses adapting agile learning for remote contexts, focusing on flexibility, flow, gamification, and community support. While these themes touch on some agile principles that overlap with Agentic Engineering (e.g., feedback loops, autonomy in learning, and adaptation), there is no explicit or substantial reference to the deliberate design of engineering practices to maximize human and AI agency. Key topics such as systemic observability, DevOps-infused craft, ethical AI integration, or the specific engineering decision frameworks are absent. The audience is largely agile practitioners, but the main focus is on learning, remote adaptation, and community, not the engineering practices central to Agentic Engineering. Thus, relevance and confidence are relatively low.",
     "reasoning_summary": "The content aligns only tangentially with Agentic Engineering, focusing mainly on agile learning, flexibility, and community in remote settings. It lacks explicit discussion on maximizing human or AI agency through engineering practices, resulting in low confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 8.12,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses adapting agile learning and facilitating agile classes remotely using collaboration tools, emphasizing flow, flexibility, and community. However, it does not mention autonomous AI agents, agentic delivery, or any agentic principles. No discussion of integrating AI agents, contextual intelligence, human-in-the-loop designs, or proactive system of work is present. The primary focus is on agile pedagogy and community support in remote environments, not on the embedding of agency or AI in software delivery. Audience is agile practitioners, somewhat overlapping, but main themes do not fit the Agentic Software Delivery category, resulting in a very low confidence score.",
+    "reasoning_summary": "The content does not address Agentic Software Delivery; it focuses on agile teaching, community, and remote learning, lacking any reference or alignment to agentic delivery, AI agents, or related practices. Only an extremely weak, tangential fit is present.",
     "level": "Ignored"
   }
 }

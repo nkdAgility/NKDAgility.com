@@ -1463,15 +1463,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "2cSsuEzGkvU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:08:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and trust, it lacks specific discussions on standardising or integrating software development practices, making it only tangentially related to the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 23.43,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.7,
+    "ai_intent": 4.5,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content thoroughly discusses empathy and trust in agile teams, focusing on interpersonal dynamics and collaboration. However, it does not mention or align with the principles, integration, or practices specific to One Engineering System (1ES). There is no reference to unified tools, standardisation of engineering processes, or the framework of 1ES. The audience could partially overlap with those interested in 1ES, but the main topic is people-centric agile practices, not engineering system integration or standardisation.",
+    "reasoning_summary": "The content centers on empathy in agile teams, not the One Engineering System or its practices. There are no direct mentions or discussion of 1ES principles, making the category fit weak and mostly unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1975,6 +1982,25 @@
     "final_score": 30.0,
     "reasoning": "The content centers on empathy, trust, and relationships within Agile teams, emphasizing psychological safety and cultural factors in collaboration and continuous improvement. However, it does not directly reference Agentic Engineering or its core themes such as decentralised decision-making, engineering autonomy, systemic observability, DevOps-infused craft, ethical AI integration, or maximization of human/AI agency. While the discussion of feedback and decision-making mentions concepts that loosely orbit the idea of agency, it remains largely at the interpersonal/team-culture level rather than addressing deliberate engineering design to enhance agency. The target audience (agile and engineering practitioners) overlaps with Agentic Engineering, and the signal-to-noise ratio is high due to relevant discussions on team practices. Nonetheless, the fit is limited by a lack of technical, engineering, or philosophical focus on agency as defined by the category.",
     "reasoning_summary": "This content focuses on the importance of empathy and trust in Agile teams, aiming to enhance collaboration and continuous improvement. It aligns with interpersonal and cultural aspects relevant to agile practitioners but lacks substantial connection to the deliberate engineering practices central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 18.365,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 5.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content emphasizes empathy, trust, and respect as drivers of effective agile teams, focusing on human relationships, bias reduction, and continuous improvement. However, there are no direct references or discussions about agentic software delivery, autonomous AI agents, contextual intelligence, or agent integration in software delivery—which are central to the target category. There is no discussion of agency in AI, governance of agents, or modern engineering practices in agent-driven environments. While agile practitioners are the target audience, the topic stays within human behavioral aspects of agile, not agentic augmentation or AI-supported delivery.",
+    "reasoning_summary": "Content is centered on empathy in agile teams, addressing human relationships, bias, and continuous improvement, with no mention of autonomous agents or agentic software delivery concepts. Alignment with the target category is very low.",
     "level": "Ignored"
   }
 }

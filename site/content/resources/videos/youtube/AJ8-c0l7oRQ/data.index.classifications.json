@@ -372,15 +372,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "AJ8-c0l7oRQ",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:31:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, focusing on their effectiveness in conveying complexity and collaboration in a learning environment. It does not mention Test First Development, its principles, or related practices, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 8.97,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses the merits of Lego vs. Minecraft as teaching tools in Scrum training, focusing on representing complexity and collaboration in learning. There is no direct or indirect discussion of Test First Development, success criteria, or test-first practices. Only vague references to software development and agile concepts are present, with no substantial alignment with the Test First Development core themes or audience. The entire article addresses facilitation tools, not test-first methodology.",
+    "reasoning_summary": "The content neither discusses nor aligns with Test First Development concepts. Its focus is on comparing teaching tools for Scrum training, making it unrelated and a very poor fit for the assigned category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1917,6 +1924,25 @@
     "final_score": 31.0,
     "reasoning": "The content debates the merits of different training tools (Lego vs. Minecraft) for Scrum, focusing mainly on how well each simulates complexity and collaboration. While it discusses experiential aspects of software development and collaborative learning environments, it lacks explicit references to agentic engineering, developer agency, ethical AI, or systemic observability. No philosophical or engineering practice discussions regarding maximizing agency are present. The audience (Scrum trainers and agile practitioners) partially aligns, but the main intent is tool comparison, not agentic design. Signal is moderate since most content is relevant to learning environment choice, though not to the deliberate practice of agentic engineering.",
     "reasoning_summary": "This content mostly contrasts tools for scrum training, emphasizing complexity simulation rather than the deliberate design of engineering practices or the maximization of agency. It touches on collaboration and realism, which are tangentially aligned but do not directly address agentic engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AJ8-c0l7oRQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 8.71,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.5,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content critiques Lego as a training tool for Scrum and discusses Minecraft as a way to convey complexity, but it never references, implies, or explores agentic software delivery, AI, agent-based automation, or related governance/frameworks. There is no explicit or implicit discussion of autonomous AI agents, context-aware intelligence, or the integration of human and AI agency in software delivery. While the audience is related to Agile/Scrum practitioners (who may overlap with the target audience for Agentic Software Delivery), nothing aligns conceptually or thematically with the category. Only general references to software development and complexity are present, without any agency, autonomy, or AI focus.",
+    "reasoning_summary": "Content is solely about the merits of training tools (Lego vs. Minecraft) for Scrum, with no mention or hint of agentic software delivery, agency, AI, or autonomous systems. It does not fit the category.",
     "level": "Ignored"
   }
 }

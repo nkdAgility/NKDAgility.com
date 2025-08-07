@@ -1421,16 +1421,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "GmLW6wNcI6k",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:30:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Agile and Scrum in the context of consulting engagements but does not focus on Scrum principles, roles, or events. The discussion is more centred around assessment phases and customer engagement rather than the Scrum framework itself.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 67.59,
+    "ai_mentions": 6.7,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.9,
+    "ai_intent": 7.6,
+    "ai_audience": 8.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content references Scrum explicitly by naming the Scrum Master role and invoking Scrum and Agile principles (continuous learning, adaptation, iterative engagement over rigid phases). However, it concentrates on the broader idea of assessments in consulting, comparing traditional and agile approaches. While Scrum is positioned as an important context and audience target, much of the discussion is generic to agile consulting, with specific Scrum processes, roles, or artifacts only lightly touched. The call to action for Scrum and Agile learning further aligns intent and audience, but the depth is not primarily Scrum-focused. The content is topical and modern, with no penalties needed.",
+    "reasoning_summary": "Related to Scrum via direct mentions and agile concepts, but focus is on general consulting assessment and adaptation, not in-depth Scrum practice. Fit is partial with relevancy but not detailed exploration of Scrum specifics.",
+    "level": "Secondary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1993,5 +2000,24 @@
     "reasoning": "The content primarily discusses approaches to consulting assessments with an emphasis on agility, continuous learning, and hands-on engagement. While it references concepts like adaptation and DevOps experience, it does not explicitly invoke Agentic Engineering or its philosophical principles (developer/AI agency, observability, ethical AI, etc.). The focus is practical consulting practices, not the deliberate maximization of human/system agency, nor engineering frameworks for decentralisation or feedback-driven adaptation central to Agentic Engineering. The audience overlaps with the category, as it targets Scrum Masters, consultants, and practitioners interested in adaptive workflows, but the signal is only modest due to the lack of direct and deep alignment.",
     "reasoning_summary": "This content reflects agile and adaptive strategies in consulting assessment but does not directly address Agentic Engineering. While overlapping with some relevant themes, it stops short of discussing agency, engineering practices, or philosophical aspects foundational to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GmLW6wNcI6k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 20.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses consulting assessment phases, emphasizing continuous learning, engagement, and agile practices. While it mentions adaptation and ongoing feedback, it never references agentic software delivery, autonomous agents, or contextual AI. There is no direct or indirect discussion of embedding AI agents or integrating autonomy/contextual intelligence in software delivery. It is squarely focused on consulting and agile/adaptive approaches but lacks any agentic framing, relevant AI topics, or alignment with the principles/key topics outlined in the Agentic Software Delivery definition. Minor relevance is possible for audiences interested in modern delivery, but the content remains distant from the evaluated category.",
+    "reasoning_summary": "Content focuses on agile consulting assessment, continuous learning, and engagement but never mentions or explores agentic software delivery or related AI agent integration. Category fit is weak and at best tangential.",
+    "level": "Ignored"
   }
 }

@@ -1221,15 +1221,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "ZBb8OZ0I6qA",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:39:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on backlog management within Scrum and Kanban frameworks, which are methodologies rather than core DevOps principles. While it touches on concepts like agility and value delivery, it does not explicitly discuss DevOps practices, principles, or cultural shifts. The discussion lacks depth in terms of DevOps-specific themes such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 33.57,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.8,
+    "ai_intent": 3.3,
+    "ai_audience": 4.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on backlog management structures for Scrum and Kanban, emphasizing agility and value delivery. DevOps is mentioned in the context of a tool (Azure DevOps), not the philosophy or practice. There is some mention of flexibility, value delivery, and tool use, which are tangentially relevant to DevOps principles like flow, responsiveness, and cross-functional work, but the core discussion is about backlog mechanics—not the people/process/tech integration, culture, or automation that define DevOps. No penalties applied as the content is neither outdated nor negative.",
+    "reasoning_summary": "Content centers on backlog structure in Scrum/Kanban, not DevOps principles or culture. Mentions Azure DevOps as a tool, but does not explore DevOps as a philosophy. Only tangential fit with limited alignment to the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -2021,6 +2028,25 @@
     "final_score": 34.0,
     "reasoning": "There are no direct mentions of Agentic Engineering, its terminology, or its philosophical elements. The content focuses on practical backlog management and agility in team workflows, mostly aligning with generic Agile best practices. While themes such as autonomy, flexibility, and value delivery are present, they are framed within the lens of backlog and tooling choices—without direct or deep exploration of maximizing human and AI agency, ethical AI, decision-making frameworks, or DevOps-infused engineering craft. The audience overlaps (practitioners, coaches) but main intent is practical improvement on backlog structures, not the deliberate design of agency-maximizing engineering practices. Content is focused, with some signal through discussions of autonomy, but lacks substantive links to agentic principles or advanced engineering decisions.",
     "reasoning_summary": "This content provides practical advice on backlog management, emphasizing team autonomy and value delivery, but it does not directly engage with Agentic Engineering concepts. Its alignment is tangential and primarily focused on agile practices, not on maximizing agency through engineering design.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZBb8OZ0I6qA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 9.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses solely on backlog structure and best practices in Scrum and Kanban, specifically promoting flat backlogs for agility. There are no references to agentic principles, AI agents, contextual intelligence, or autonomous systems. Discussion is centered on traditional human-driven workflow and tooling (Azure DevOps, Jira), with intent aligned to practical team improvement in agile management, not on the deliberate integration of autonomous agents or agentic delivery systems. The target audience (agile practitioners/coaches) matches agentic software delivery in a general sense but is not oriented towards the category’s advanced topics. No penalties are warranted, as the content is current and not contrary to agentic software delivery. Confidence is extremely low due to the complete lack of relevance to agentic delivery themes.",
+    "reasoning_summary": "This content concerns backlog restructuring for agility, with no connection to agentic software delivery or autonomous AI agents. It does not fit the category.",
     "level": "Ignored"
   }
 }

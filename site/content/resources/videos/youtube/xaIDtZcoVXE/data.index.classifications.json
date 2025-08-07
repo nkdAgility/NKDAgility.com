@@ -1272,15 +1272,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "xaIDtZcoVXE",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:07:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management and metrics related to Time to Market, with no direct mention of Test First Development principles or practices. While it touches on the importance of efficiency and continuous improvement, it does not delve into the specifics of defining success criteria or the role of testing in the development process, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 18.405,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses extensively on measuring and improving Time to Market in Agile teams through metrics like lead time, cycle time, and time to fix. While automation and testing are briefly mentioned as process improvements, there are no direct or substantive discussions of Test First Development, nor are its principles or practices explored. There is no mention of defining success criteria before implementation, the impact on design/collaboration, or specific Test First methodologies (TDD, ATDD, etc.). The main intent is metrics-driven process optimization for faster delivery, not Test First Development. Audience overlap exists (Agile practitioners, Scrum teams), but topic fit is weak.",
+    "reasoning_summary": "Content centers on Agile metrics for improving delivery speed, not Test First Development. It lacks Test First principles, methods, or intent, resulting in a poor category fit despite some audience overlap and brief testing mentions.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -2015,5 +2022,24 @@
     "reasoning": "The content focuses on measuring and improving Time to Market in Agile teams using Evidence-Based Management (EBM), covering relevant metrics (lead time, cycle time, etc.), and improvement techniques like automation and feedback loops. While these are tangentially related to agentic concepts (developer agency, feedback-driven change), there are no direct mentions or explicit exploration of agentic engineering's philosophy—such as deliberate design for human/AI agency, ethical AI integration, or decentralised decision-making frameworks. The main themes align with continuous improvement and DevOps-infused craft, but only as secondary effects of improved delivery metrics, not as core objectives. Discussion of agency or systemic observability is implied but not explicit or deeply developed. The target audience (Agile teams, practitioners) matches that of agentic engineering, and the content is largely focused, but falls short on depth and intent for the specific category.",
     "reasoning_summary": "This content outlines Agile metrics for faster value delivery and continuous improvement, touching lightly on themes like automation and feedback loops. However, it doesn't explicitly discuss agentic engineering, human/AI agency, or ethical autonomy, making direct category fit partial at best.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xaIDtZcoVXE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 28.563,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.1,
+    "ai_intent": 2.6,
+    "ai_audience": 5.8,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content thoroughly explains measuring and improving Time to Market in Agile teams via metrics like lead time and cycle time, focusing on Evidence-Based Management and efficiency. It mentions automation and continuous feedback loops, which partially align with modern engineering practices noted in Agentic Software Delivery, but it never discusses the integration or role of autonomous AI agents, contextual intelligence, agency, or human-agent collaboration. There is no explicit mention or exploration of agentic principles, boundaries for AI agency, governance of AI agents, or agentic transformation in delivery models. The audience and advice are somewhat indirectly relevant (technical, improvement-oriented), but the fit is partial, as 'agentic' themes are outside the core of this piece.",
+    "reasoning_summary": "Content focuses on Agile metrics and time to market, not agentic software delivery. No mention of autonomous agents or agentic context. Partial alignment with some engineering practices, but lacks core agentic themes.",
+    "level": "Ignored"
   }
 }

@@ -36,16 +36,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Shift Left Strategy",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the Shift-Left Strategy, which aligns with the principles of Agile and DevOps by emphasising early testing and feedback loops. However, it does not explicitly mention tenets or actionable guiding rules, making it more of a general discussion on practices rather than a focused exploration of tenets. The depth of discussion is moderate, providing a good overview but lacking specific tenets or doctrines that guide decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 83.3,
+    "ai_mentions": 6.8,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.2,
+    "ai_intent": 8.5,
+    "ai_audience": 8.9,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content advocates for 'Shift-Left Strategy' as a fundamental guiding rule, positioning it as an actionable tenet within Agile and DevOps. Concepts like early defect detection, feedback loops, and building quality in align with tenets such as flow efficiency and continuous improvement. The description is prescriptive ('shift left... build quality in from the start'), targeting practitioners focused on high-performing teams. Depth is strong but not exhaustive; explicit mention of 'tenet' is absent, resulting in a somewhat lower 'mentions' score. No penalties applied—the tone is constructive, and the strategy discussed is current.",
+    "reasoning_summary": "The content prescribes 'Shift-Left' as a core guiding principle, aligning closely with actionable tenets in Agile and DevOps. While not explicitly labeled 'tenet', its prescriptive, practice-oriented message fits the category well.",
+    "level": "Primary"
   },
   "Method": {
     "category": "Method",
@@ -3106,6 +3113,25 @@
     "final_score": 7.0,
     "reasoning": "The content on 'Shift-Left Strategy' focuses exclusively on moving testing, security, and compliance earlier in the software lifecycle to improve quality and delivery speed. While it references modern DevOps and agile teams, it does not mention or substantively address human-AI collaboration, enhanced cognitive outcomes from human-AI teaming, or any principles central to the 'Collective Intelligence' category. There are no explicit or implicit discussions of collective intelligence, human-AI partnerships, or emergent team cognition, and the content is aimed at general DevOps practitioners focused on process improvement rather than collaborative intelligence with AI agents.",
     "reasoning_summary": "This content describes shift-left practices in DevOps but does not address human-AI collaboration or collective intelligence. Its focus is on process timing and quality rather than joint cognitive outcomes between humans and AI.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Shift Left Strategy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 33.55,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.5,
+    "ai_audience": 7.9,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on shift-left practices such as early testing, security, and compliance—topics aligned with modern software delivery and CI/CD. However, it does not mention agentic software delivery or discuss autonomous AI agents, human-AI synergy, or agentic governance. There are no explicit or implicit references to context-aware agents, intelligent automation, or agent-driven feedback loops. The target audience is technical teams similar to those interested in agentic delivery, but the main intent remains on legacy shift-left approaches rather than agentic evolution. The only minor overlap is the focus on early feedback and automation as an enabler, but without agency or proactive intelligence. There is no signal of outdated practices, nor is the tone contradictory.",
+    "reasoning_summary": "Partial fit: Modern delivery and automation topics overlap with agentic practices, but the core ideas—autonomous agents, agency, and context-aware delivery—are absent. Content is focused on shift-left, not agentic software delivery.",
     "level": "Ignored"
   }
 }

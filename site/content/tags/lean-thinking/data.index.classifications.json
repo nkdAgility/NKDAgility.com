@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Lean Thinking",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Lean principles focused on efficiency and waste reduction, with minimal direct mention of accountability or outcome ownership. While it touches on themes of ownership and engagement, it does not delve into structural accountabilities or specific roles within work systems, which are central to the accountability category.",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 33.8,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.3,
+    "ai_intent": 2.7,
+    "ai_audience": 7.5,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on Lean principles such as waste reduction, value delivery, continuous improvement, and team empowerment. While it discusses process ownership and empowerment, it does not explicitly mention accountability, outcome ownership, or structural role-based accountabilities relevant to Agile/Scrum/DevOps contexts. The main alignment is thematic (sense of ownership and engagement), but lacks direct discussion on accountability’s distinct meaning in work systems. Audience overlap exists due to a shared focus on organisational improvement, but the intent and depth fall short of the Accountability category definition.",
+    "reasoning_summary": "This content is Lean-focused with minor thematic links to accountability via process ownership and team empowerment, but lacks explicit discussion of outcome ownership or formal accountabilities. Only a partial, indirect fit to the 'Accountability' category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3142,6 +3149,25 @@
     "final_score": 13.0,
     "reasoning": "The content is solely about Lean Thinking, focusing on reducing waste, improving efficiency, team empowerment, and continuous improvement. Nowhere does it mention or discuss human-AI collaboration, AI agents, or any aspect of collective intelligence as defined in the category. While there is brief mention of cross-functional teams and collaboration, all references are strictly human-centric, lacking any involvement of AI agents or emergent capabilities from human-AI partnership. No penalties were required as the content is not outdated or contradictory; it is simply outside the category's scope.",
     "reasoning_summary": "The content is exclusively about human team-based Lean process improvement and does not reference or align with Collective Intelligence as defined, specifically lacking any discussion of human-AI collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lean Thinking",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 21.65,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content strictly discusses Lean principles for reducing waste and improving efficiency in workflow contexts, focusing on continuous improvement and value delivery. There are no direct mentions of agentic software delivery, AI agents, autonomous intelligence, or the integration of AI and human expertise. The main ideas and themes align more with process optimisation at a general level rather than the contextual integration of autonomous software agents. No aspects of agency, contextual intelligence, or advanced engineering practices specific to agentic delivery are present. The audience is process-minded and oriented towards operational improvement, which partially overlaps with modern delivery contexts but does not address agentic software delivery directly.",
+    "reasoning_summary": "The content covers Lean/continuous improvement in workflows but lacks any discussion of AI agents, autonomy, or agentic integration. It does not fit the Agentic Software Delivery category except at a very generic level.",
     "level": "Ignored"
   }
 }

@@ -1395,16 +1395,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "K4kkSAG3R7m",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T14:45:05",
-    "ai_confidence": 42.0,
-    "ai_mentions": 3,
-    "ai_alignment": 25,
-    "ai_depth": 14,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, which is a specific Agile methodology. While it touches on aspects of collaboration and decision-making, such as gathering feedback from stakeholders and facilitating discussions, it does not deeply engage with the broader principles of social technologies. The discussion is more about the mechanics of a Scrum event rather than the underlying social frameworks that promote collaboration and continuous improvement across an organisation. Therefore, while there are relevant mentions, the overall depth and alignment with the category are limited.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:40",
+    "ai_confidence": 88.96,
+    "ai_mentions": 7.3,
+    "ai_alignment": 9.2,
+    "ai_depth": 8.7,
+    "ai_intent": 9.0,
+    "ai_audience": 8.6,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 89.0,
+    "reasoning": "The content offers a comprehensive, step-by-step guide to running a Sprint Review within a Scrum/Agile context. It directly discusses facilitation, self-organisation, stakeholder engagement, collective intelligence, feedback loops, and adaptation—all core to Social Technologies. Explicit references to techniques (facilitation, liberating structures) and practices for improving collaboration, feedback, transparency, and participative planning strengthen the conceptual alignment. The intent is educative and supportive, aimed at practitioners and facilitators who are the primary audience for social frameworks in organisations. Depth is solid, going beyond surface-level to provide facilitation options and rationales for each flow step. There is some mention of technical tools, but always in service of social outcomes. No content is outdated or contradicts the category, hence no penalties applied.",
+    "reasoning_summary": "This guide closely aligns with Social Technologies by focusing on collaboration, stakeholder engagement, facilitation techniques, and iterative value delivery within Scrum. Its themes, audience, and intent are directly relevant—fit is strong and clear.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2002,6 +2009,25 @@
     "final_score": 29.0,
     "reasoning": "The content is a practical, step-by-step guide on running Sprint Reviews in Scrum, discussing facilitation, feedback, and forecasting. While it covers collaborative and feedback-driven practices, there are no direct mentions or deep exploration of agentic engineering, developer/AI agency, systemic observability, or DevOps-infused craft. The main focus is on meeting structure and facilitation, not on the deliberate design of engineering practices that maximize agency. Most concepts (e.g., feedback loops, stakeholder involvement) only tangentially align with agentic engineering, and there is no significant philosophical or technical framing around agency, autonomy, or ethical AI. The target audience (Scrum practitioners, facilitators) is somewhat adjacent but does not precisely match the agentic engineering context. No penalties were necessary; there is no obsolete or contradictory tone. Overall, the content fits poorly with the strict criteria for Agentic Engineering.",
     "reasoning_summary": "This content provides a structured guide for Sprint Reviews, focusing on facilitation and feedback, but does not discuss or intentionally design engineering practices to maximize human or AI agency. It only loosely aligns with Agentic Engineering and is not a direct or deep fit for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "K4kkSAG3R7m",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 16.489,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 5.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content exclusively describes facilitation and structure for a traditional Sprint Review event in Scrum, focused on human roles, feedback, metrics analysis, and stakeholder engagement. There is no mention—direct or implicit—of autonomous AI agents, contextual intelligence, agentic principles, or integration of AI with human expertise or organisational context. Cycle time, Monte Carlo forecasting, and SLE are modern quantitative practices but are not tied to any agentic or autonomous agent capabilities within the text. The intent and audience are Scrum practitioners, not those engaged with agentic software delivery, and the signal-to-noise ratio is low for agentic themes.",
+    "reasoning_summary": "This content is about traditional Scrum Sprint Reviews with no mention or implicit coverage of agentic software delivery. It does not fit the category, beyond possibly using some adjacent engineering practices.",
     "level": "Ignored"
   }
 }

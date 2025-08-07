@@ -1327,15 +1327,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "XZ1Swam_Cx0",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:15:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'scrum' in the context of discussing agile methodologies but does not provide substantial information or detailed discussion about Scrum principles, roles, or practices. The focus is more on critiquing 'fake agilists' rather than exploring Scrum as a framework. Therefore, while there is a mention of Scrum, it is not a primary focus, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 36.67,
+    "ai_mentions": 2.6,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.4,
+    "ai_intent": 3.6,
+    "ai_audience": 5.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.3,
+    "ai_penalty_details": "Penalized Direct Mentions (-0.6) for only a brief reference to Scrum, mostly listing it among other topics; Conceptual Alignment (-0.4) since critique of Agile is only tangentially about Scrum, not core principles; Depth (-0.7) as Scrum-specific discussion is essentially absent, with surface-level generic references; Intent (-0.6) since main critique is at ‘Agile’ in broad terms, not Scrum practitioners.",
+    "final_score": 37.0,
+    "reasoning": "The content critiques unqualified 'Agile' practitioners and prioritises experience over certifications, focusing its argument and examples on generic Agile rather than Scrum specifically. While Scrum is mentioned, it appears mostly as a name-check in a closing call-to-action and is not the focus or context of the critique. There is no substantive discussion of Scrum roles, events, artifacts, or the inner workings of Scrum teams. Most actionable suggestions and stories are equally applicable to any framework within Agile. The intended audience (practitioners, leaders) overlaps with that of Scrum, but the overall discussion lacks depth and conceptual specificity relevant to Scrum alone. Penalties were applied for overgeneralizing, minimal direct mention, and lack of Scrum-specific depth.",
+    "reasoning_summary": "This content critiques poor Agile practice in general, with only a shallow reference to Scrum. It is not aligned in topic or depth with Scrum's specific principles or practices. Fit with the Scrum category is marginal and mostly incidental.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1897,6 +1904,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on differentiating genuine Agile practitioners from 'fake agilists', emphasizing the importance of real-world experience over certifications. While themes like authentic leadership, innovation, continuous learning, and transparency overlap somewhat with Agentic Engineering ideals, the discussion is neither explicit nor deep on engineering agency, systemic observability, DevOps-ethos, or decision decentralization. The main thrust remains an Agile critique with only marginal alignment to agentic concepts. No references to AI agency, ethical integration, or agentic decision frameworks are present. The audience (Agile/software professionals) is related but broader than Agentic Engineering’s primary focus. No outdated references or tone contradictions detected. As a result, confidence is low.",
     "reasoning_summary": "This content critiques superficial Agile practices, centering on authentic expertise vs. certification. While it values autonomy, transparency, and real experience—concepts near Agentic Engineering—it doesn’t explicitly address the intentional design for maximizing human or AI agency. Alignment is incidental, not central.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XZ1Swam_Cx0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 3.7,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.6,
+    "ai_penalty_details": "Mentions (-0.3): No reference to agentic delivery, minor satirical tone; Alignment (-0.7): Content is critical of poor Agile, not connected to AI or agentic principles; Depth (-0.4): Outdated angle, no exploration of agentic delivery.",
+    "final_score": 13.0,
+    "reasoning": "The content critiques unqualified Agile practitioners, focusing on authenticity, experience, and the risk of shallow certifications. It does not mention nor explore agentic software delivery, autonomous AI agents, or related concepts. The closest overlap is a general concern for innovation and effective software delivery, but agentic principles (AI-driven, contextual intelligence, human-agent synergy) are wholly absent. The satirical and critical tone, along with a focus on traditional Agile pitfalls, merit minor penalties. Final confidence is very low since the thematic focus and details do not align with the provided category.",
+    "reasoning_summary": "Content is a critique of fake Agile practitioners, with no reference to agentic software delivery, AI agents, or contextual intelligence. It does not fit the category; overlap is incidental and not substantive.",
     "level": "Ignored"
   }
 }

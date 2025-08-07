@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Agentic Agility",
     "category": "Tool",
-    "calculated_at": "2025-04-09T16:41:58",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of Agentic Agility, focusing on the ability to shape outcomes through autonomy and adaptability. While it touches on the role of AI systems as tools that can recommend actions and optimise processes, the primary focus is on the philosophical and conceptual aspects of agility rather than specific tools or their integration within Agile, Lean, or DevOps frameworks. The mention of tools is limited and lacks detailed exploration of their functionality or practical application, leading to a lower confidence score in the 'Tool' category.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 13.25,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 2.2,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on the concept of 'agency' and its role in Agile, Scrum, and DevOps. While it discusses how agency enables effective practice, it does not reference specific tools, software, or mechanisms supporting these methods. There are no mentions of practical tools, tool features, integration, or selection—only abstract discussion of human and AI agency. The audience is practitioners of Agile and DevOps, but the discussion is on mindset and capability rather than tools that support workflows. Thus, there is low alignment, intent, and depth for the 'Tool' category definition.",
+    "reasoning_summary": "Content explores human and AI agency in Agile and DevOps, not actual tools or software. It is conceptually distant from the 'Tool' category—no tool references, features, or practical application—so fit is very low.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3126,5 +3133,24 @@
     "reasoning": "The content focuses extensively on agency as it relates to both humans and AI within Agile, Scrum, and DevOps contexts. It describes how intentional, adaptive action by both agents leads to better organizational outcomes—central to the 'Collective Intelligence' category. The use of comparison tables and breakdown of how humans and AI each contribute illustrates a detailed, conceptually aligned treatment. There are frequent explicit mentions of agency for both humans and AI. The main intent is to inform and advocate for synergy between human and AI agency—matching the collective intelligence intent. The primary audience is practitioners in socio-technical environments, which aligns closely with the target audience. The content is focused, technical, and relevant, with very little off-topic material. No outdated or critical/satirical tone is present, so no penalties are applied. While the term 'collective intelligence' itself is not used verbatim, the entire discussion is framed around its foundational concepts, resulting in a high, but not perfect, confidence score.",
     "reasoning_summary": "This content strongly aligns with 'Collective Intelligence' by examining the interplay of human and AI agency in Agile, Scrum, and DevOps. It emphasizes collaborative, adaptive action within socio-technical systems—matching the category's core focus and intended audience.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agentic Agility",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 70.45,
+    "ai_mentions": 5.8,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.0,
+    "ai_intent": 6.9,
+    "ai_audience": 6.3,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 70.0,
+    "reasoning": "The content directly discusses 'Agentic Agility', strongly thematizing human and AI agency within socio-technical systems like Agile, Scrum, and DevOps. It differentiates between human and AI agency, referencing intentionality, autonomy, feedback loops, and adaptive intervention—all core to agentic delivery. However, while highly conceptually aligned, there is less focus on concrete software delivery mechanisms such as CI/CD, product backlog integration, or specific engineering practices, making the fit partial. It is mainly a deep theoretical exploration, referencing software delivery contexts only through Agile/Scrum/DevOps. The audience seems to be practitioners and organizational designers, which broadly overlaps with the category, but is not exclusively technical or tool-focused. Signal is generally very good, with almost all content relevant, but it stops short of deep engagement with technical implementation details or agent governance frameworks.",
+    "reasoning_summary": "The piece is conceptually aligned, exploring human and AI agency in Agile software delivery. While it fits the category's themes, it lacks practical detail on agentic software delivery mechanisms. Confident fit, but with a partial/theoretical slant.",
+    "level": "Secondary"
   }
 }

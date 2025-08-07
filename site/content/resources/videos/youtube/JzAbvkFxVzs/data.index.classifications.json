@@ -1485,15 +1485,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "JzAbvkFxVzs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:02:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile practices and the pitfalls of routine Agile questions, with no direct mention or focus on the One Engineering System framework. While it touches on team collaboration and efficiency, it does not align with the core principles of 1ES, nor does it provide depth on its components or implementation. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 21.19,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.52,
+    "ai_depth": 2.19,
+    "ai_intent": 2.35,
+    "ai_audience": 6.45,
+    "ai_signal": 6.66,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on evolving Agile rituals (standups, value delivery, managing bottlenecks) and warns against rote practices. It does not mention the One Engineering System (1ES) by name nor discuss its principles (integration, tool/process unification, cross-team standardization, 1ES best practices, or case studies). The main ideas revolve around Scrum efficiency and value-centric ceremonies, not the integrated or standardized engineering systems that define 1ES. However, there is partial thematic overlap in the intent to improve team collaboration and delivery, nudging audience fit and signal-to-noise, but conceptual and surface alignment to 1ES remains weak.",
+    "reasoning_summary": "The content is about Agile and Scrum ceremonies, not One Engineering System. It doesn’t mention 1ES, discuss its framework, or core topics. While it aligns with improving practices, it lacks any direct or in-depth coverage of 1ES themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2001,6 +2008,25 @@
     "final_score": 38.0,
     "reasoning": "The content critiques rote Agile practices and promotes focusing on value and evolving ceremonies, which align somewhat with maximizing developer autonomy and adaptive workflows. However, there is no direct mention of Agentic Engineering, decision decentralization, observability, AI collaboration, or deliberate engineering for either human or AI agency. The primary focus is practical Agile coaching—improving meeting usefulness—rather than architecture or system design for agency. Penalties were applied primarily for lack of direct mention, only partial conceptual fit, and insufficient depth on agentic practice.",
     "reasoning_summary": "This content discusses evolving Agile practices to improve value delivery and team focus, partially aligning with agentic themes like autonomy and adaptiveness. It does not, however, explicitly discuss Agentic Engineering, agency maximization, or AI-system collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JzAbvkFxVzs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 7.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.75,
+    "ai_intent": 0.9,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content critiques rote Agile rituals and advocates for value-centric, outcome-driven Agile ceremonies. It references evolution in Agile practices and a move towards improved delivery, but never mentions AI, autonomy, agentic systems, or modern engineering required for agentic delivery. There are no discussions of AI agents, contextual intelligence, or agency. The content may have minimal indirect relevance (its focus on evolution, continuous delivery, and improvements could set the stage for adopting agentic methods), but it does not touch any explicit or implicit elements of agentic software delivery as defined. The target audience is Agile and Scrum practitioners or coaches, which overlaps partially, but the substance is not agentic.",
+    "reasoning_summary": "This content critiques routine Agile questions and advocates for value-focused evolution, but contains no references to AI agents, autonomy, or agentic delivery. There is only the faintest thematic connection to the category.",
     "level": "Ignored"
   }
 }

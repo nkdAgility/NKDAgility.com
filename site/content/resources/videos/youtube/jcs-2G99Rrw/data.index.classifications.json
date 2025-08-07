@@ -1462,15 +1462,22 @@
     "level": "Secondary"
   },
   "Agentic Agility": {
+    "resourceId": "jcs-2G99Rrw",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:00:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on optimising Azure DevOps and avoiding common pitfalls in agile practices, without explicitly discussing Agentic Agility or its principles. While it touches on aspects of agility, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 39.02,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 4.3,
+    "ai_audience": 6.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on best practices for Azure DevOps within Agile contexts and highlights themes like traceability, process simplicity, and accountability. However, it never directly discusses agentic agility, agency, intentionality, or distinctions of agency between humans/AI. Depth is limited to explaining process pitfalls, and while agency is implied in some advice (e.g., teams taking responsibility for traceability), it's not explicitly defined or explored. No penalties as the content is not outdated nor critical; it is on-topic for technical Agile audiences but stops short of truly engaging with the concept of Agentic Agility.",
+    "reasoning_summary": "The content covers Agile practices and accountability themes but does not directly discuss agency or agentic agility. Fit is partial and mostly inferred, not explicit.",
     "level": "Ignored"
   },
   "Product Development": {
@@ -1963,6 +1970,25 @@
     "final_score": 39.0,
     "reasoning": "The content is focused on practical guidance for improving Azure DevOps usage within agile contexts, discussing common mistakes and best practices. While topics such as traceability, workflow improvement, and agility are mentioned, there is little direct discussion of agency—either human or AI—or of deliberate engineering practices that maximize agency, autonomy, or systemic observability. No explicit reference is made to agentic decision-making, feedback-driven adaptation, DevOps as a craft, or ethical AI integration. The content does broadly target technical professionals and covers engineering practices, but the philosophical concepts of Agentic Engineering are at most tangentially addressed, primarily through indirect encouragement of best practices and process simplification. No penalties were applied as the material is current and neutral in tone.",
     "reasoning_summary": "This content offers concrete advice for enhancing Azure DevOps agility but only minimally overlaps with Agentic Engineering, lacking direct focus on agency, autonomy, or the philosophical aspects that define the category. Its alignment is indirect and more tool- and practice-centric than agentic.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 18.731,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.227,
+    "ai_depth": 2.832,
+    "ai_intent": 2.857,
+    "ai_audience": 5.004,
+    "ai_signal": 5.047,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content thoroughly discusses agile practices and effective use of Azure DevOps, but makes no mention or exploration of agentic principles, AI agents, or autonomous systems. It addresses process optimisation, traceability, and product delivery, which partially aligns with software delivery improvements, but lacks any discussion of integrating autonomous AI, contextual intelligence, or the specific hallmarks of Agentic Software Delivery. Target audience (technical, agile teams) is loosely relevant, but the content remains outside the core category definition, resulting in low conceptual alignment and depth regarding agentic themes.",
+    "reasoning_summary": "Content focuses on agile practices and Azure DevOps optimisation, without any discussion of agentic, autonomous, or AI-driven delivery. No mention of agentic principles: fit is weak and indirect.",
     "level": "Ignored"
   }
 }

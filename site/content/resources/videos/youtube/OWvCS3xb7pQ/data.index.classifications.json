@@ -1476,15 +1476,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "OWvCS3xb7pQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:16:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 11.74,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile leadership and training methodologies rather than the One Engineering System framework. While it discusses aspects of agile practices, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about personal experiences and training formats, which deviates from the core themes of integration and standardisation in engineering processes.",
+    "reasoning": "The content does not mention or discuss One Engineering System (1ES), its framework, integration, or standardisation. It is focused on agile leadership training formats. No references to tools, unified processes, or 1ES-related topics are present. All scores are low, reflecting a lack of fit; audience alignment is slightly higher because the target group (leaders in technical environments) could overlap marginally. However, intent, depth, and content remain unrelated to 1ES.",
+    "reasoning_summary": "Content focuses on agile leadership training, not on One Engineering System principles, tools, or process integration. There is no mention or conceptual overlap with 1ES, so category fit is extremely low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 38.0,
     "reasoning": "The content deeply explores immersive agile leadership training and fostering an adaptive mindset in leaders, which partially aligns with Agentic Engineering’s focus on empowerment and adaptation. However, it centers on leadership development and training delivery methods rather than the deliberate engineering of systems to maximize human or AI agency. There's no direct reference to Agentic Engineering or its philosophical/technical elements (e.g., feedback-driven adaptation of engineering processes, systemic observability, ethical AI, DevOps craftsmanship). As such, while the content’s themes overlap on autonomy, learning, and adaptation, it lacks any explicit link to engineering practices or AI agency, thus reducing both direct alignment and depth on core category concerns.",
     "reasoning_summary": "While this article advocates for immersive, adaptive leadership development—a value adjacent to Agentic Engineering—it focuses on training approaches rather than engineered systems that maximize human or AI agency. Thus, relevance to the Agentic Engineering category is partial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OWvCS3xb7pQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 10.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 1.1,
+    "ai_audience": 2.4,
+    "ai_signal": 2.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses entirely on agile leadership training formats and the shift from workshops to immersive, ongoing education. There is no mention of agentic software delivery, autonomous AI agents, context-aware intelligence, agent integration in delivery, or supporting engineering practices. While the audience may overlap partially (leaders in software delivery), the topic, intent, and themes are all about human leadership development and course delivery, with zero conceptual or explicit reference to agentic systems, AI agency, or autonomous workflows.",
+    "reasoning_summary": "Content is about immersive agile leadership training, not agentic software delivery. No AI agents, contextual intelligence, or agentic principles discussed. Audience overlap minor; fit is almost entirely absent.",
     "level": "Ignored"
   }
 }

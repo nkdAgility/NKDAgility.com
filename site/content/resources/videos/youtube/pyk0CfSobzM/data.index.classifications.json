@@ -1348,16 +1348,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Scrum estimation techniques, which are more about project management than the broader themes of social technologies. While it touches on collaboration among team members and the importance of understanding within the team, it lacks a direct discussion on self-organisation, collective intelligence, or transparency. The depth of discussion is moderate, but it does not sufficiently explore the social frameworks that underpin effective collaboration and decision-making in organisations.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 70.19,
+    "ai_mentions": 3.6,
+    "ai_alignment": 8.4,
+    "ai_depth": 8.8,
+    "ai_intent": 8.1,
+    "ai_audience": 8.3,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 70.0,
+    "reasoning": "The content centers on Scrum estimation, highlighting the value of shared understanding, adaptability, and embracing uncertainty—key themes in Social Technologies. It discusses collaboration between team members, iterative planning, and learning within Agile, aligning well with the category. Mentions of self-organization, emergent problem solving, and collective intelligence are implicit but not directly named. The discourse is thorough, practical, and intended for Agile practitioners, focusing on continuous improvement and fostering adaptive team culture. There's no content contradictory to the category; no penalties are warranted.",
+    "reasoning_summary": "Substantially fits Social Technologies: strong emphasis on teamwork, adaptation, and learning in Scrum estimation. Implicitly covers key themes of collaboration and adaptive processes without directly mentioning the category terms.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1981,6 +1988,25 @@
     "final_score": 30.0,
     "reasoning": "The content focuses on Scrum estimation uncertainties and emphasizes shared understanding, sizing backlog items, and accommodating unpredictability in creative processes. While these concepts (embracing uncertainty, team discussion, adaptation) marginally intersect with agency and adaptive engineering, there is no direct discussion of maximizing human or AI agency, agentic design, observability, autonomy, or DevOps principles. The audience is a technical practitioner (aligned), and the signal is mostly focused, but topical alignment and depth are weak for Agentic Engineering.",
     "reasoning_summary": "The content discusses Scrum estimation and Agile unpredictability, emphasizing team understanding and adaptation, but does not explicitly address agentic engineering, autonomy, or human/AI agency. Alignment with the Agentic Engineering category is limited and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 6.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content strictly discusses traditional Scrum team estimation practices, focusing on human-driven uncertainty, backlog sizing, and agile delivery. It does not mention or allude to agentic principles, autonomous AI agents, or integration of contextual AI in software delivery. No direct or indirect references to agentic software delivery exist. The audience, themes, and intent remain specific to conventional Scrum and agile project management, not agentic software delivery.",
+    "reasoning_summary": "This content exclusively discusses Scrum estimation and agile human-centric methods, without any link to agentic software delivery or autonomous AI agents. No fit with the intended category.",
     "level": "Ignored"
   }
 }

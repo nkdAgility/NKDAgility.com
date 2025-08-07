@@ -21,16 +21,23 @@
     "level": "Secondary"
   },
   "DevOps": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:54:46",
-    "ai_confidence": 15.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 50,
-    "final_score": 15.0,
-    "reasoning": "The content title suggests a focus on Azure DevOps Services, which is a tool related to DevOps practices. However, the description lacks any specific details or discussions about DevOps principles, methodologies, or cultural shifts. As a result, while there is a mention of DevOps in the title, the overall content does not provide substantial information or alignment with the core themes of the DevOps philosophy.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 93.6,
+    "ai_mentions": 9.1,
+    "ai_alignment": 9.8,
+    "ai_depth": 8.8,
+    "ai_intent": 9.4,
+    "ai_audience": 9.2,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content directly and frequently cites DevOps (in the title, description, topics, and learning outcomes). Its main themes—CI/CD, flow, collaboration, feedback, and continuous improvement—align closely with core DevOps principles. The level of discussion covers philosophy (principles/culture), practices (CI/CD, collaboration), and tools (Azure DevOps, Visual Studio), offering notable, though not exhaustive, depth. The course’s intent is clearly to enable practitioners to adopt and enhance DevOps in real settings, well-matched with the target audience (technical professionals). Most material stays on-topic, with minimal extraneous information. There are no outdated or contradictory elements requiring penalties. Confidence is high due to strong direct and conceptual fit across all scoring dimensions.",
+    "reasoning_summary": "Strong coverage of DevOps principles, practices, and tools. Direct purpose is to teach DevOps; intent and audience strongly match. Content stays focused with minimal off-topic material. Clear and thorough fit for the DevOps category.",
+    "level": "Primary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -2050,5 +2057,24 @@
     "reasoning": "The content does not explicitly mention Agentic Engineering concepts or terminology. While it focuses on DevOps principles, CI/CD, and continuous feedback, these are presented mainly as practical skills rather than philosophical underpinnings such as maximizing agency or ethical AI integration. There is some conceptual overlap through themes of collaboration, continuous learning, empowerment, and team autonomy, but explicit discussions of decentralised decision-making, observability as agency, or engineering agency are missing. The intent aligns partially due to emphasis on empowerment and continuous improvement, but overall depth into agentic philosophy is limited. The audience is well-aligned to technical practitioners, increasing the score in that dimension. No penalties were applied, as the content is neither outdated nor contradictory to the category.",
     "reasoning_summary": "The course addresses DevOps and continuous delivery with attention to teamwork and improvement, partially aligning with agentic engineering concepts like autonomy and feedback. However, it lacks a deliberate focus on maximizing human or AI agency or broader agentic engineering philosophy, resulting in moderate category fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Et_C1UNbGdO",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 19.47,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on traditional DevOps, CI/CD, and Azure DevOps tools, without explicit mention of AI agents, contextual intelligence, or agentic delivery concepts. While it covers modern practices (CI/CD, feedback, learning), there's no discussion of autonomous AI agents, synergy between agents and humans, or governance for agentic software. The audience aligns somewhat, but core themes are not present. No penalties as the content is reasonably current and neutral in tone.",
+    "reasoning_summary": "This content covers traditional DevOps and CI/CD training but lacks references to agentic delivery or autonomous AI agents. Intent and audience loosely align, but topic fit is minimal and does not match the agentic software delivery category.",
+    "level": "Ignored"
   }
 }

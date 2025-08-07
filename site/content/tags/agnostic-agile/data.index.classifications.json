@@ -74,15 +74,22 @@
     "level": "Ignored"
   },
   "Principle": {
+    "resourceId": "kfsLvZzGPDZ",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:49:32",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 32,
-    "non_ai_confidence": 30,
-    "final_score": 87.0,
-    "reasoning": "The content explicitly discusses the principles of Agnostic Agile, focusing on adaptability, value delivery, and continuous improvement. It highlights how these principles guide decision-making and team behaviour, aligning closely with the core themes of the category. The depth of discussion is substantial, providing insights into how these principles can be applied in practice, which further supports a high confidence score.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 90.5,
+    "ai_mentions": 8.7,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.9,
+    "ai_intent": 8.7,
+    "ai_audience": 7.9,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content explicitly centers on principles—highlighting adaptability, value delivery, and continuous improvement as guiding rules for team behaviors rather than rigid frameworks. It aligns strongly with the category by advocating actionable, foundational beliefs (e.g., critical thinking, professionalism, context-driven decisions) and applying these across Agile, Lean, Kanban, and XP. The discussion goes beyond surface-level reference, describing how these principles foster adaptable, ethical, and resilient organizations. Intentionally, the piece targets practitioners and strategists invested in evidence-based agility, though it is less tailored to technical-only or executive audiences. There is little filler or off-topic content; nearly all information emphasizes how principles underpin Agnostic Agile. No penalties are needed as there are no outdated or contradictory elements.",
+    "reasoning_summary": "Centered wholly on actionable principles guiding Agile practice, the content thoroughly explores their application and relevance, directly matching the category’s intent and definition. Fit is very strong and highly confidence-scored.",
     "level": "Primary"
   },
   "Philosophy": {
@@ -3122,6 +3129,25 @@
     "final_score": 19.0,
     "reasoning": "The content discusses an approach to agility that stresses flexibility, professionalism, ethical practices, and tailoring methods to context. While these align with principles of good team collaboration, there is no explicit or implicit mention of humans collaborating with AI agents, nor any coverage of distributed cognition, socio-technical environments, or human-AI partnerships. The focus is strictly on human practitioners, drawing on different Agile frameworks. No evidence was found for human-AI collective intelligence or reference to AI collaboration design, so only minor points for indirect alignment are awarded.",
     "reasoning_summary": "The content emphasizes flexible, ethical human collaboration in Agile practices but does not reference human-AI partnership, distributed cognition, or socio-technical systems. It lacks relevance to collective intelligence as defined by human-AI collaboration, resulting in low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kfsLvZzGPDZ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 16.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content centers on the Agnostic Agile movement, focusing on flexible, context-driven approaches to agility and drawing from multiple frameworks (Scrum, Kanban, etc.). There are no direct mentions of Agentic Software Delivery, autonomous AI agents, or agentically-driven delivery principles. Main topics include pragmatism, professionalism, ethical agility, and context adaptation, not agentic methods. While there is some overlap about adapting practices in context, there is no evidence of AI, contextual intelligence, automation, or the integration of agents as described in the Agentic Software Delivery definition. The audience fits modern delivery practitioners but not specifically those concerned with agentic systems. Therefore, fit to the category is very low but not zero, as there is tangential relevance to context-positive and adaptive thinking.",
+    "reasoning_summary": "The content discusses agile frameworks and context-driven adaptability, with no mention of AI agents or agentic integration. It only weakly aligns with Agentic Software Delivery, lacking direct or substantial category-relevant themes.",
     "level": "Ignored"
   }
 }

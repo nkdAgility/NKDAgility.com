@@ -1,15 +1,22 @@
 {
   "Product Management": {
+    "resourceId": "F0yVBj8Tx8H",
     "category": "Product Management",
-    "calculated_at": "2025-04-28T14:39:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the impact of AI and automation on the workforce and critiques traditional management practices, particularly Taylorism. While it touches on themes of organisational change and the need for a shift in workplace dynamics, it does not directly address product management methodologies, customer feedback, or strategic alignment of product development. The focus is more on philosophical and societal implications rather than the strategic aspects of product management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:23",
+    "ai_confidence": 40.67,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.3,
+    "ai_intent": 4.1,
+    "ai_audience": 3.7,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content critiques historical and current organisational paradigms—especially Taylorism, industrial hierarchy, and work design in the face of automation. While it references business and workforce strategy, as well as the impact of AI and robots on organisational structures and work, it does not explicitly or even implicitly discuss product management principles, frameworks, or the unique concerns of product managers. There are few if any direct mentions or allusions to product management, agile, or prioritisation of features/customers. The intent leans toward a philosophical critique of work and a call to redefine human dignity in the workplace rather than a focused analysis of strategic product development, customer alignment, or measuring product success. The audience seems broad (executive/organisational leaders and workers), only partially overlapping with product management. Discussion of outcome-over-output, knowledge age, and purpose-driven motivation echoes modern product thinking but lacks specific ties to product management methodologies. Therefore, the match to the 'Product Management' category definition is partial and indirect at best.",
+    "reasoning_summary": "This content explores automation's impact on work and critiques outdated management, but does not address product management practices or frameworks directly. Any overlap is conceptual and tangential rather than specific or targeted.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "resourceId": "F0yVBj8Tx8H",
@@ -2497,5 +2504,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering', docking it on direct mentions. However, it strongly aligns conceptually: it critiques industrial-era management practices that suppress human agency, celebrates AI and automation as liberators of human potential, and advocates for environments that enable autonomy, mastery, and purposeful work. It also frames AI as an augmentation, not replacement, echoing key category themes. The discussion is substantial with philosophical depth, targets a technical/managerial audience relevant to agentic practices, and maintains high topical focus. No outdated references or contradictory tone; thus, no penalties.",
     "reasoning_summary": "The content robustly explores themes central to Agentic Engineering—empowering human and AI agency, moving beyond industrial management, and leveraging automation for creativity and autonomy—even though it doesn't use the category’s terminology directly. Highly relevant and well-aligned.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "F0yVBj8Tx8H",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 40.632,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.0,
+    "ai_intent": 4.5,
+    "ai_audience": 4.3,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content centers on the liberating effect of robots and AI on work, critiquing industrial-era structures and arguing that automation allows humans to focus on meaningful tasks. While some themes touch on the generative potential of AI and challenge outdated delivery models, there are no direct mentions of 'agentic software delivery', nor are there specific discussions on integration of autonomous AI agents, context-aware systems, delivery architectures, or practices like CI/CD, observability, or governance frameworks. The intent and audience are only partially aligned, focusing on broad organizational philosophy rather than technical implementation or evidence-based delivery. The signal is moderate, as the piece is thematically consistent but mostly in a social or philosophical register.",
+    "reasoning_summary": "Content argues AI/robots free humans from repetitive work and critiques industrial management. It only loosely relates to agentic software delivery—lacking focus on technical, agentic integration in software delivery. The fit is partial and conceptual at best.",
+    "level": "Tertiary"
   }
 }

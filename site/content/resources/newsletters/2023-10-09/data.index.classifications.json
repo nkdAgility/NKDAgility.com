@@ -599,15 +599,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "2G_gVI5phMC",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:44:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and Product Backlog Management, which are not directly related to Continuous Delivery principles. While there are elements of project management and stakeholder engagement, the discussion lacks explicit references to Continuous Delivery practices, automation, or the rapid feedback loops that characterise it. The content does not delve into the core themes of Continuous Delivery, such as incremental improvements or software quality enhancement.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 13.56,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 1.8,
+    "ai_audience": 3.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused almost exclusively on Scrum Product Backlog management, stakeholder engagement, and team skills enhancement. There are no direct or indirect references to Continuous Delivery principles, automation, deployment, or related cultural/technical practices. While backlog management can be a supporting activity in enabling Continuous Delivery in some organizations, this relationship is not discussed or implied in the content. The intent, depth, audience, and signal all remain firmly within the realm of Scrum education without substantive linkage to Continuous Delivery per the strict category definition.",
+    "reasoning_summary": "This content is about Scrum backlog management and team training; it does not address Continuous Delivery concepts, practices, or audience. Any connection would be indirect and is not covered or discussed in this material.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1982,6 +1989,25 @@
     "final_score": 20.0,
     "reasoning": "The content is a detailed promotion for Scrum backlog management training without explicit mention or substantial exploration of Agentic Engineering principles. While it discusses stakeholder engagement, empirical decision-making, and boosting team effectiveness, these are standard agile topics and not framed in terms of maximizing human or AI agency, decentralized decision-making, or ethical autonomy. There is some indirect alignment in promoting skills that could contribute to developer agency, but there's no systematic discussion of agentic frameworks, observability, automation, AI collaboration, or continuous value delivery as defined by Agentic Engineering. The focus is product- and workflow-centric rather than on deliberate design of engineering practices that maximize agency. The audience is technical, but relevance to Agentic Engineering is minimal.",
     "reasoning_summary": "This content centers on Scrum backlog management and agile training, only loosely touching on themes of agency and decision-making. It lacks any explicit or substantial link to Agentic Engineering, with minimal indirect relevance, yielding a low confidence of categorization.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2G_gVI5phMC",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 7.29,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is strictly about Scrum backlog management training and improvement of product management skills. There is no mention of autonomous AI agents, agentic systems, or any discussion of context-aware intelligence or embedding AI into delivery systems. Key topics like agency, AI integration, or human-agent teams are entirely absent. While the audience overlaps with those interested in software delivery practices, there is no conceptual or direct link with agentic software delivery per the classification definition, making fit negligible.",
+    "reasoning_summary": "No discussion of agentic software delivery, AI agents, or their integration. Focus is entirely on Scrum backlog skills. Content does not fit the category, except for partial overlap in delivery-oriented audience.",
     "level": "Ignored"
   }
 }

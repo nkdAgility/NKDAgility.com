@@ -1438,15 +1438,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "x0sJSqJhVRG",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:15:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on an Agile conference and related activities, with no explicit mention of the One Engineering System framework or its principles. While it discusses Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, as the content is more about event promotion and personal experiences rather than a structured analysis of engineering systems.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 4.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "There are no direct or indirect references to One Engineering System (1ES), either by name or concept. The content is entirely focused on Agile, Scrum, team coaching, and conference events, with no discussion on unified engineering frameworks, tools integration, or 1ES pillars such as standardization or cross-team process integration. The target audience is practitioners of Agile and Scrum, not stakeholders interested in the design or implementation of unified engineering systems. Signal is very low as nothing is relevant to 1ES core principles. Scoring across all dimensions is at or near the minimum due to irrelevance rather than contradiction.",
+    "reasoning_summary": "The content does not fit the One Engineering System category. It is focused on Agile events, training, and coaching, without any mention or discussion of 1ES principles, integration, or unified engineering practices. Fit is wholly absent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1948,6 +1955,25 @@
     "final_score": 17.0,
     "reasoning": "The content primarily promotes an Agile conference, training, and networking events, with a focus on general agile practices, Scrum, coaching, and professional development. It does not reference 'Agentic Engineering' explicitly or discuss its core concepts such as maximizing human and AI agency, ethical AI integration, or feedback-driven adaptation. References to autonomy are generic (e.g., 'agile excellence') rather than engaging with agency in engineering systems. Audience is somewhat aligned (technical practitioners), but conceptual depth and alignment with Agentic Engineering are minimal.",
     "reasoning_summary": "This content centers on Agile events and training, not on the philosophical or systemic aspects of Agentic Engineering. There are no explicit or deep discussions of agency, AI, or decentralised engineering practices central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "x0sJSqJhVRG",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 5.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a general promotion for an Agile conference, listing workshops, coaching, games, and classes focused on Scrum, Kanban, and Agile practices. Nowhere does it mention autonomous AI agents, agentic concepts, or proactive context-aware systems. The audience (agile professionals) has some distant overlap with Agentic Software Delivery, but none of the core topics, intent, or discussions actually map onto the category definition. The signal-to-noise ratio is also low, as most content concerns logistics, networking, or general Agile community events, not agentic principles or practices.",
+    "reasoning_summary": "This conference promo is Agile-focused but does not mention or align with Agentic Software Delivery. There are no references to AI agents, contextual intelligence, or agentic delivery themes. Fit is poor — only tangential overlap with the target audience.",
     "level": "Ignored"
   }
 }

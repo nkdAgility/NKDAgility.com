@@ -273,15 +273,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "_w2xgO2i3C9",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:07:35",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and Agile principles, with no direct discussion of Continuous Delivery practices. While it touches on aspects of Agile that could relate to delivery, it does not delve into the specific principles, practices, or benefits of Continuous Delivery, nor does it provide any depth on automation, incremental improvements, or rapid feedback mechanisms that are central to Continuous Delivery.",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 16.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 5.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is exclusively focused on the fundamentals of Scrum, Agile mindset, and teamwork. While Scrum can be a foundation for adopting Continuous Delivery, the materials do not mention Continuous Delivery by name, nor cover its specific principles (automation, deployment, rapid release cycles, feedback loops, etc.). Course topics and learning outcomes are limited to Scrum events, roles, and artifacts with no explicit reference to software delivery pipelines, automation, or continuous release practices. The only mild alignments are indirect: Scrum teams sometimes practice Continuous Delivery, and improved teamwork and agility can be a cultural enabler, but the course neither mentions nor explores these aspects. No penalties for outdatedness or contradiction are needed.",
+    "reasoning_summary": "This content is strictly an introduction to Scrum fundamentals, not Continuous Delivery. No explicit mentions or substantive treatment of Continuous Delivery concepts or practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -2059,6 +2066,25 @@
     "final_score": 30.0,
     "reasoning": "The APS course content presents general Scrum fundamentals and agile teamwork. While concepts like teamwork, autonomy, and a new way of working are implied, there is no explicit mention of 'agentic engineering' or deep exploration of maximizing agency for humans/AI. The focus is on basic Scrum, with references to team roles, collaboration, and professional practices, but these do not approach the specific themes or philosophy of Agentic Engineering, such as the deliberate design for human-AI agency, ethical systems, or advanced feedback-driven workflows. The main audience is technical practitioners, but the course remains introductory and geared toward foundational Scrum knowledge rather than the deeper, agency-maximizing practices of the category. Surface overlap exists, but strong conceptual or direct category alignment is lacking.",
     "reasoning_summary": "This APS course covers Scrum basics and agility but does not explicitly address Agentic Engineering's core ideas of deliberate human and AI agency, ethical automation, or feedback-driven decision frameworks. Any alignment is incidental rather than intentional.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_w2xgO2i3C9",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 6.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.3,
+    "ai_intent": 1.2,
+    "ai_audience": 0.5,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The course content is focused exclusively on traditional Scrum fundamentals and Agile teamwork, with no mention—explicit or conceptual—of agentic software delivery, autonomous AI agents, contextual intelligence, or related practices. There is no evidence of integrating AI, agentic frameworks, or modern agent-based delivery patterns. All topics revolve around human team practices, Scrum rituals, and basic Agile concepts, which are explicitly excluded from the Agentic Software Delivery category unless explicitly reframed to include AI agents or context-aware systems. Therefore, confidence in fit is extremely low.",
+    "reasoning_summary": "Content teaches human-centric Scrum without discussion of AI agents or agentic practices. No alignment with Agentic Software Delivery; the fit is extremely low and purely surface-level.",
     "level": "Ignored"
   }
 }

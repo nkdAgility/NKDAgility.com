@@ -1017,12 +1017,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "d4jyFSYdS2v",
     "category": "Azure DevOps",
-    "calculated_at": "2025-04-10T15:54:35",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 90.0,
-    "reasoning": "The content focuses primarily on Azure Repos, a key service within Azure DevOps, and provides comprehensive training details, including usage, configuration, and integration aspects closely related to Azure DevOps functionalities.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 94.4,
+    "ai_mentions": 9.6,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.5,
+    "ai_intent": 9.4,
+    "ai_audience": 9.0,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The course is explicitly focused on Azure Repos, a core Azure DevOps service. Multiple direct mentions of Azure Repos and Azure DevOps appear in the description. Content is thorough, with modules on configuration, collaboration, advanced features, and integration. The intent is to train practitioners seeking practical expertise in Azure DevOps tools. The targeted audience (software developers working with Azure DevOps) aligns closely. The entirety of the content is relevant and focused on Azure DevOps with almost no extraneous topics. No penalties applied as the information is current and presented neutrally.",
+    "reasoning_summary": "This content strongly fits 'Azure DevOps' as it directly covers Azure Repos training within the Azure DevOps suite, targets practitioners, and focuses fully on category-relevant topics with clear, explicit alignment.",
     "level": "Primary"
   },
   "Decision Theory": {
@@ -2059,6 +2069,25 @@
     "final_score": 20.0,
     "reasoning": "There are no direct mentions of Agentic Engineering or related philosophy. The course focuses narrowly on Azure Repos practicalities (configuration, Git workflows, integration), without addressing developer agency, system observability, ethical AI, or decision frameworks intrinsic to Agentic Engineering. While the audience (software developers) somewhat overlaps, the material aligns much more with tooling and operational skills. There is minimal conceptual or thematic overlap with Agentic Engineering, as it lacks discussion of maximising human or AI agency, decentralised decision-making, continuous value delivery, or the DevOps mindset beyond Azure Repos' specific functionality.",
     "reasoning_summary": "The content is a technical training on Azure Repos, without discussion of agency, engineering philosophy, or ethical AI. Its focus on practical Git and DevOps tool usage does not align with Agentic Engineering, resulting in very low confidence of categorical fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "d4jyFSYdS2v",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a detailed training course on Azure Repos and Git workflows with no explicit or implicit discussion of agentic software delivery, integration of autonomous agents, or contextual intelligence. The main focus is on standard version control and collaboration using Azure tools, not agent-driven automation, agency, or outcome-focused systems. No key topics from the Agentic Software Delivery definition are addressed; automation and CI/CD are only implied briefly via workflows. Audience is developers, as is common for this category, but the course's scope is not aligned with agentic concepts.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It focuses solely on Azure Repos, Git, and related workflows, with no reference to agentic systems, AI agents, or contextual intelligence.",
     "level": "Ignored"
   }
 }

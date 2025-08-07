@@ -396,15 +396,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "uQ786VBz3Jw",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:55:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Sprint planning and team collaboration within Agile methodologies, with no direct mention of Test First Development principles or practices. While it discusses the importance of clarity and goals, it does not address success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 4.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are no explicit mentions of Test First Development or its principles. The content strictly discusses Sprint planning, product backlog understanding, goal clarity, and teamwork within Agile and Scrum. None of the content references defining success criteria before implementation, testing practices, or any Test First methodologies such as TDD or ATDD. The primary audience is Agile teams and practitioners, which partially aligns with audiences interested in Test First Development, but the topic does not engage with the category themes. All scoring is low due to lack of direct or indirect relevance, except audience alignment which is moderately scored due to overlapping Agile interests. No penalties were necessary, as the content is current and not critical or satirical.",
+    "reasoning_summary": "The content does not fit the Test First Development category. It covers Sprint planning and Agile team practices without addressing test-first concepts, testing practices, or success criteria preceding implementation.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1992,6 +1999,25 @@
     "final_score": 23.0,
     "reasoning": "The content is focused on basic principles of Sprint planning in Agile, covering understanding the backlog, setting goals, and teamwork. It does not mention Agentic Engineering explicitly, nor does it delve into the maximisation of human or AI agency, system observability, DevOps as a craft, or ethical AI integration. While some ideas (e.g., team alignment, collaborative decision-making) superficially relate to agency, the content doesn't explore the philosophical or methodological depth required by Agentic Engineering. The intended audience (Agile practitioners, Scrum teams) overlaps somewhat, but core themes like decentralised decision making, feedback-driven adaptation, or AI as a collaborator are not present. Signal-to-noise is moderate: all content is relevant to Agile practices but not specifically to Agentic Engineering.",
     "reasoning_summary": "This content centers on practical Sprint planning tips within Agile, emphasizing collaboration and clarity, but does not address the deliberate engineering or philosophical aspects fundamental to Agentic Engineering. Any overlap is incidental; the main focus remains conventional Agile team practice.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uQ786VBz3Jw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 18.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 3.4,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on core Agile practices, particularly Sprint planning, product backlog clarity, product goals, and teamwork. There are no direct or indirect mentions of agentic software delivery, AI agents, contextual intelligence, or the integration of automation and human expertise as described in the Agentic Software Delivery classification. The material is general Agile guidance, with no discussion of AI or agentic systems. The purpose is to inform about classic Agile principles rather than agentic themes. The audience is Agile or Scrum practitioners, partly overlapping but not directly targeting those exploring agentic delivery. Signal-to-noise ratio is modest; all content is on-topic for Agile, but none relates to agentic delivery. No evident obsolescence or critical tone, so no penalties are applied. Overall, the fit with this category is very low but not absolutely zero, as references to product backlog and goals could theoretically be extended in agentic contexts.",
+    "reasoning_summary": "Content discusses classic Agile/Sprint planning and team alignment, with no mention of autonomous agents, contextual AI, or agentic practices. The fit for Agentic Software Delivery is minimal as it lacks category-defining topics or intent.",
     "level": "Ignored"
   }
 }

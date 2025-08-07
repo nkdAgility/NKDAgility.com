@@ -828,16 +828,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "KHcSWD2tV6M",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T15:52:22",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of speaking up in Agile teams, which relates to accountability, but it primarily focuses on communication gaps rather than ownership or team dynamics. While it touches on the consequences of silence in relation to accountability, it does not delve deeply into strategies for fostering accountability or the distinction between accountability and blame.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 31.722,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.8,
+    "ai_audience": 5.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on communication, psychological safety, and open dialogue in Agile teams, emphasizing the risks when silence prevails. While this can overlap with accountability as a supporting mechanism, the conversation never directly discusses structural or outcome ownership, explicit accountabilities (like Product Owner or Scrum Master), or how assigning clear accountabilities shapes team outcomes. The closest tie-in is the effect that communication breakdowns have on value delivery and trust, which can relate to poor accountability but are never attributed to it nor discussed in those terms. There are no explicit references to accountability as a construct or differentiation from responsibility. The audience matches the Agile/Scrum context, but the primary themes are not about accountability. Thus, the confidence for fitting the 'Accountability' category is low.",
+    "reasoning_summary": "Content is aligned with team communication and psychological safety in Agile, not explicit accountability or outcome ownership. It only partly relates to accountability through secondary effects like value delivery and trust, so fit with 'Accountability' is weak.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1972,6 +1979,25 @@
     "final_score": 32.0,
     "reasoning": "The content addresses communication gaps and psychological safety in Agile teams, emphasizing the importance of open dialogue and empowerment. However, it never explicitly mentions Agentic Engineering or discusses engineering practices, systemic observability, or AI augmentation. Its themes partially align with developer agency, but it lacks the category's core focus on philosophical and structural aspects of maximising human and AI agency within engineering systems. The article targets Agile practitioners, offering practical advice for team communication and engaging leadership, but remains absent of topics like DevOps-infused craft, automation, or ethical AI collaboration.",
     "reasoning_summary": "This article centers on improving communication within Agile teams, touching lightly on themes of agency but lacking any substantive alignment with Agentic Engineering’s systems, practices, or philosophical framing. Its relevance is tangential rather than direct.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KHcSWD2tV6M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 16.183,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 7.1,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is centered on improving team communication in Agile environments, focusing on psychological safety, feedback, and dialogue. There are no direct or indirect references to agentic concepts such as autonomous AI agents, contextual intelligence, human-agent synergy, or modern engineering practices involved in agentic software delivery. The audience (Agile practitioners) overlaps with the category, and the article is focused with little off-topic material. No agentic principles or technologies are discussed, making the conceptual and depth ratings low. No penalties apply as the content is current and not critical; the low confidence reflects near-total lack of alignment with the agentic software delivery theme.",
+    "reasoning_summary": "Content focuses on human communication gaps in Agile teams; no mention or exploration of agentic software delivery, AI agents, or related practices. Audience is tangentially relevant, but topic does not fit the category.",
     "level": "Ignored"
   }
 }

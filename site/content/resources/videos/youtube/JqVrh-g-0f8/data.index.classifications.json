@@ -1273,15 +1273,22 @@
     "level": "Ignored"
   },
   "Organisational Change": {
+    "resourceId": "JqVrh-g-0f8",
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T23:30:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the characteristics of a product backlog within Agile and Scrum frameworks, which is more about project management and specific practices rather than organisational change. While it briefly touches on the importance of clarity and alignment with organisational goals, it lacks a direct discussion on change management strategies, methodologies, or frameworks that are central to the category of Organisational Change.",
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 24.25,
+    "ai_mentions": 1.7,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.2,
+    "ai_audience": 6.2,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses narrowly on product backlog quality within Agile and Scrum but does not discuss organisational change principles, frameworks, or processes. There is very limited reference to organisational-level transformation, leadership in change, or change management strategies. The intent is instructional for backlog management rather than change facilitation. Any overlap with agility serves daily team operations, not organisational adaptation or transformation. Audience targeting leans slightly toward practitioners who could be involved in change, but the substance is project/process-level guidance, not organisational change.",
+    "reasoning_summary": "Content is about improving Agile product backlogs—not organisational change. Discusses backlog clarity for team/stakeholder efficiency, with no frameworks, leadership, or change management themes. Very limited alignment to the category.",
     "level": "Ignored"
   },
   "Definition of Done": {
@@ -1967,6 +1974,25 @@
     "final_score": 15.0,
     "reasoning": "The content discusses characteristics of poor and good product backlogs within Agile and Scrum but makes no explicit reference to Agentic Engineering, agency, autonomy, or related philosophical themes. Key category topics like decentralised decision-making, feedback-driven adaptation, or the deliberate design of engineering practices for maximising human or AI agency are absent. The focus is on product management best practices and backlog clarity for teams and stakeholders, which is too general and task-specific for Agentic Engineering. No penalties are required as the tone and currency are neutral and current.",
     "reasoning_summary": "This content centers on product backlog management in Agile/Scrum without addressing Agentic Engineering concepts such as agency, autonomy, or ethical AI. While relevant to practitioners, it lacks substantive alignment with the category's definition.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JqVrh-g-0f8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 7.234,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.4,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses solely on characteristics of a poor vs. good product backlog within Agile and Scrum, such as order, clarity, and stakeholder alignment. There are no mentions of agentic concepts (AI agents, autonomy, contextual intelligence, or integration of AI with human expertise). The discussion does not address software delivery strategies involving autonomous agents, nor any associated modern engineering, governance, or outcome-driven agentic practices. Audience is Agile practitioners, somewhat adjacent to the category, but the topic remains unrelated to agentic methods.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It discusses effective product backlogs in Agile/Scrum, with no connection to autonomous AI agents, agentic delivery principles, or modern agentic practices.",
     "level": "Ignored"
   }
 }

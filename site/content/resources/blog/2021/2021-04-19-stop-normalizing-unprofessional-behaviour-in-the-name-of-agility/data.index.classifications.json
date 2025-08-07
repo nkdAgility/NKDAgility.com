@@ -867,15 +867,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "mqbD3iIhRg4",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:54:31",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of professionalism in agile practices and critiques unprofessional behaviours that hinder agility. While it touches on the principles of agile and the responsibilities of teams, it lacks a direct focus on technical leadership roles, mentoring, or specific agile methodologies. The depth of discussion is moderate, providing examples and implications of unprofessional behaviour but not fully exploring the nuances of technical leadership.",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 74.31,
+    "ai_mentions": 2.4,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.3,
+    "ai_intent": 7.7,
+    "ai_audience": 7.9,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "The content does not explicitly use the phrase 'technical leadership,' but is conceptually well-aligned: it addresses professional conduct within agile teams, ethical decision-making, and the necessity of competence and discipline—core to technical leadership. The discussion is moderately deep, using practical examples of both failures (Volkswagen, Boeing) and agile anti-patterns. The content seeks to inform and guide practitioners toward better practices, indicating intent and audience alignment. Signal-to-noise is high, with most content relevant to leadership behaviours affecting team functioning, though it stops slightly short of deeper exploration of technical leadership mechanisms (e.g., coaching or mentoring methods). There are no outdated references or negative/critical tones that warrant penalty. Levels across dimensions vary slightly, with the main deduction for only minorly direct mentions.",
+    "reasoning_summary": "Content fits the category by focusing on leadership responsibilities in agile teams, professional conduct, and ethical considerations, aligning with technical leadership themes, though without explicit terminology or exhaustive depth; overall, a strong but not perfect fit.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -2021,5 +2028,24 @@
     "reasoning": "The content stresses professionalism, competence, ethics, and responsibility within agile practices, aligning somewhat with the philosophical foundations of Agentic Engineering (e.g., ethical autonomy, continuous value delivery, informed decision-making). However, it never explicitly discusses or references agentic concepts (developer/AI agency, decision frameworks, observability, DevOps craft); its focus is on professional conduct, not on the deliberate engineering or design of agency-maximizing systems. Audience and signal are fairly strong since it is directed at agile practitioners with practical, relevant concerns, but the core conceptual and depth alignment is partial and indirect.",
     "reasoning_summary": "While the post emphasizes ethics, competence, and professionalism within agile teams—which partly overlaps with Agentic Engineering’s ethos—it lacks explicit discussion of agency, systemic observability, or the deliberate design of engineering practices. Overall, only moderate relevance to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mqbD3iIhRg4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 11.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on professionalism and ethical behaviour in agile teams, with examples around proper use of Scrum, increments, and good practices. It does not mention or meaningfully discuss autonomous AI agents, contextual intelligence, or agentic delivery. There are no allusions to integrating AI, proactive intelligence, or the distinct principles of Agentic Software Delivery. While there is mention of engineering discipline and avoiding legacy/bureaucratic practices, these are standard agile themes and do not show conceptual alignment or depth with the agentic delivery concept as defined. The content targets agile practitioners, which loosely overlaps the Agentic Software Delivery audience, but the core substance is not relevant. Thus, scores are very low across all dimensions and no penalties apply.",
+    "reasoning_summary": "The content is about professionalism in agile teams and does not address agentic software delivery, AI agents, or related concepts. Only general agile practices are discussed, offering little to no relevance to the specified category.",
+    "level": "Ignored"
   }
 }

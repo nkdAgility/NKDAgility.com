@@ -540,15 +540,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "7UZsdsD23rs",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:37:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of empiricism within Agile methodologies, focusing on transparency, inspection, and adaptation. While it touches on aspects of Agile practices, it does not explicitly mention Test First Development or its principles. The discussion lacks depth regarding success criteria, testing practices, or the transition from manual to automated testing, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 16.51,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.3,
+    "ai_intent": 1.4,
+    "ai_audience": 8.0,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is focused on empiricism in Agile, discussing the importance of observation, inspection, adaptation, and feedback loops. Test First Development is not directly mentioned, nor are its core practices (writing tests or criteria before implementation). Elements like feedback loops, adaptation, and team collaboration overlap with Test First principles at a high level, but there is no direct or substantial discussion of test-first techniques, success criteria, test automation, or manual vs. automated Test First methods. Thus, the fit is peripheral and incidental.",
+    "reasoning_summary": "The article explores empiricism and feedback loops in Agile but does not address Test First Development or its principles. Any conceptual overlap is incidental, not intentional. The content is off-category except for broad Agile relevance.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2018,5 +2025,24 @@
     "reasoning": "Direct mentions of Agentic Engineering or its frameworks are absent, though some underlying ideas—such as feedback-driven adaptation, transparency, inspection, and adaptation—partially align with the agentic engineering ethos. The article thoroughly discusses empiricism in Agile, emphasizing decentralized decision-making, continuous value delivery, and empowering Scrum roles to inspect and adapt workflows. However, it lacks explicit references to autonomy, engineering excellence, or AI/human agency. It primarily targets Agile practitioners (Scrum Masters, Product Owners, teams) and focuses on real-world applicability, with high relevance but a moderate proportion of direct conceptual overlap with Agentic Engineering. No penalties were applied as content is current and earnest in tone.",
     "reasoning_summary": "This content thoroughly explores empiricism in Agile, emphasizing feedback, adaptation, and responsive workflows—concepts tangentially related to Agentic Engineering, but without explicit focus on agency, engineering practices, or AI. The fit is partial and mostly conceptual.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7UZsdsD23rs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 24.36,
+    "ai_mentions": 0.12,
+    "ai_alignment": 2.75,
+    "ai_depth": 2.82,
+    "ai_intent": 2.42,
+    "ai_audience": 3.15,
+    "ai_signal": 2.92,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on empiricism in Agile, highlighting inspection, adaptation, transparency, feedback loops, and Scrum practices. It does not reference autonomous AI agents, agentic strategies, or integration of contextual intelligence. While there is strong emphasis on evidence-driven improvement and discipline, there is no mention of agentic concepts such as AI-driven delivery, human-agent orchestration, or governance frameworks. Thus, alignment is partial and mostly tangential, with the closest points being feedback and adaptation. No penalties were warranted as the material is not outdated or critical, but scores across all dimensions remain low due to lack of direct relevance.",
+    "reasoning_summary": "Content is a deep dive on empiricism in Agile, not agentic software delivery. It lacks AI agents, agentic frameworks, or integration themes, so fit is very weak and mostly unrelated to the category.",
+    "level": "Ignored"
   }
 }

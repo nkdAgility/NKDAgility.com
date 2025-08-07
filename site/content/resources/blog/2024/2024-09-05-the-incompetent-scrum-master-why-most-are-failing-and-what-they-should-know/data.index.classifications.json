@@ -1684,16 +1684,23 @@
     "reasoning_summary": "This content is a strong fit for the leadership category, as it thoroughly explores key leadership qualities and responsibilities within Agile and Scrum contexts. While it also touches on technical skills, the main emphasis is on guiding, coaching, and managing teams—core aspects of leadership. The discussion is relevant and practical for those aiming to enhance Scrum Master effectiveness, making it highly suitable for this category."
   },
   "Social Technologies": {
+    "resourceId": "VTjU5Wl2XWU",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T14:45:06",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team effectiveness, which touches on collaboration and decision-making. However, it primarily focuses on the technical competencies required for Scrum Masters rather than the broader social technologies framework. While there are mentions of coaching and facilitation skills that align with social technologies, the overall emphasis is more on individual competencies and technical knowledge than on fostering collective intelligence or organisational culture.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 77.394,
+    "ai_mentions": 4.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.2,
+    "ai_intent": 8.1,
+    "ai_audience": 7.9,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "Mentions (-0.8): The term 'social technologies' is never directly used, but frameworks like Scrum, Agile, Lean, DevOps (all social techs) are discussed. Tone is critical of bad practice, but not negatively satirical or undermining.",
+    "final_score": 77.0,
+    "reasoning": "The content explores the role, competencies, and failings of Scrum Masters, emphasizing the need for collaboration, facilitation, coaching, and continuous improvement—core to social technologies. It details frameworks (Scrum, Agile, Lean, DevOps), team facilitation, self-organization, and metrics-driven improvement. Discussion is substantial, covering both theory and practice for enabling effective teams. The intended audience is practitioners or leaders in Agile/DevOps environments. Direct mention of 'social technologies' is lacking, which penalizes the explicitness of fit. The overall thrust, however, is deeply aligned with the category’s conceptual meaning—including transparency, collective intelligence, and organisational change. One penalty is applied to 'Direct Mentions' due to never explicitly referencing 'social technologies' or nearly synonymous terms.",
+    "reasoning_summary": "Content thoroughly explores frameworks, practices, and competencies for effective Scrum Masters—strongly aligning with Social Technologies ideals around collaboration, self-organisation, and continuous improvement, though the category itself isn't named.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2315,6 +2322,25 @@
     "final_score": 40.0,
     "reasoning": "The content critiques Scrum Masters' lack of core skills and outlines ideal competencies—many relevant to DevOps, modern practices, and effective teams—but the framing is on competence, not maximizing human/AI agency or agentic engineering by philosophy or ethics. While practices like observability, continuous feedback, and DevOps are mentioned, they serve as skill requirements rather than exploring decentralization, ethical autonomy, or systemic design for agency (human or AI). The tone is corrective, not fundamentally aligned with creating environments for agentic practice, and misses direct discussion of AI/automation as agents or agentic frameworks. The target audience (Scrum Masters/Coaches) is somewhat aligned, and the content is focused, but agentic engineering connections are implicit at best. Penalties applied for lack of direct mention, off-category framing, and intent mismatches.",
     "reasoning_summary": "This content lists modern Scrum and DevOps skills, touching on engineering practices and feedback, but its focus is on generic competence—not the deliberate design for agency in humans and AI. Agentic Engineering themes are peripheral and not central, making overall fit limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VTjU5Wl2XWU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 21.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.05,
+    "ai_intent": 2.0,
+    "ai_audience": 7.3,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on the competencies required of Scrum Masters and criticisms of current gaps in their skills and impact. It explores knowledge in Scrum, DevOps, engineering practices, metrics, facilitation, and coaching. However, it does not address, discuss, or explicitly mention the integration of autonomous AI agents, agency, or contextual intelligence in software delivery. The discussion remains in the realm of modern human-centered software team enablement without reference to agentic strategies, AI-supported delivery, or related governance. There are mentions of CI/CD, observability, feedback loops, and technical mastery, but these are not linked to agentic principles or practices as defined. Audience and signal are relatively strong due to the advanced technical/professional focus, but the content's themes do not conceptually or explicitly align with Agentic Software Delivery.",
+    "reasoning_summary": "Content is focused on improving Scrum Master effectiveness and lists necessary technical/team competencies. There is no mention or real conceptual tie to Agentic Software Delivery, AI agent integration, or autonomous, context-aware intelligence. Fit is poor.",
     "level": "Ignored"
   }
 }

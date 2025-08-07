@@ -594,15 +594,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "w5rxdL8YHNa",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:57:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, emphasising customer-centric development and collaboration. It does not explicitly discuss Test First Development principles, nor does it delve into testing methodologies or practices related to TDD or ATDD. The mention of validation techniques is too general and does not align with the specific focus of Test First Development.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 12.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 3.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on product validation, customer discovery, and team collaboration as part of a Scrum.org workshop. While it mentions feedback loops, rapid prototyping, and validation, there is no direct reference to Test First Development, its principles (such as defining success criteria before implementation), or its related testing practices (manual or automated). The depth, alignment, and intent scores reflect that while some generic agile/testing themes are present, they are not specifically or thoroughly connected to the Test First Development category. The audience (product developers, Scrum practitioners) has partial overlap. Overall, any association with the category is indirect and superficial.",
+    "reasoning_summary": "Content focuses on product validation and discovery, not Test First Development. No direct mention or substantial thematic overlap; fit is minimal and indirect. Audience partially overlaps; intent and alignment are weak.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -2014,6 +2021,25 @@
     "final_score": 23.0,
     "reasoning": "There is no mention of Agentic Engineering or its key concepts (agency, observability, DevOps craft, ethical AI, etc). The workshop focuses on product validation, customer discovery, and team collaboration, with emphasis on customer-centricity and agile teamwork, but not on the deliberate engineering of agency for humans or AI systems. While leadership, collaboration, and innovation are noted, these are generally framed around product outcomes rather than systemic empowerment or agentic practices. Thus, alignment is low, depth is shallow, and the intent, though related to product development professionals, is not focused on the agentic engineering audience or principles.",
     "reasoning_summary": "This content centers on agile product discovery and validation, emphasizing customer focus and collaboration, but it does not reference or embody Agentic Engineering principles. The focus is on product practices rather than engineering for agency, resulting in low alignment with the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "w5rxdL8YHNa",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 8.03,
+    "ai_mentions": 0.15,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.27,
+    "ai_intent": 0.2,
+    "ai_audience": 3.8,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is about a Scrum.org workshop focusing on product validation, discovery, and customer-centric product development. There is no mention of autonomous AI agents, agentic delivery models, or contextual AI grounded in software delivery systems. While robotics is referenced in the trainer’s background, it pertains to her credentials rather than the workshop focus. The core themes center on Scrum, customer feedback loops, and agile practices, but none specifically relate to agentic software delivery, integration of AI agents, or agentic governance. The intended audience (product practitioners, product owners, and agile teams) somewhat overlaps with agentic software delivery, but the substance doesn't address the agentic paradigm. Signal is low because most of the text is promotional and on general agile/product topics, not AI-augmented delivery frameworks.",
+    "reasoning_summary": "This workshop promo centers on agile product discovery and validation—not agentic software delivery. There is no substantive link to autonomous AI agents or agentic models. Thus, the fit is weak and only tangential at best.",
     "level": "Ignored"
   }
 }

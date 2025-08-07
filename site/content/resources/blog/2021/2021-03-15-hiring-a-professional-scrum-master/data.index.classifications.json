@@ -442,16 +442,23 @@
     "level": "Ignored"
   },
   "Agile Values and Principles": {
+    "resourceId": "1EEAZ-ldcTz",
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T02:28:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is a specific Agile framework role rather than a discussion of Agile values and principles. While it mentions concepts like self-management and continuous improvement, these are framed within the context of the Scrum framework rather than as core Agile principles. The discussion lacks depth in exploring the foundational beliefs of Agile methodologies, making it more of a job specification than a discourse on Agile values.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 66.16,
+    "ai_mentions": 3.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.9,
+    "ai_intent": 6.1,
+    "ai_audience": 7.7,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "Direct references to 'Agile' values and principles are limited; the focus is on the Scrum Master role, responsibilities, and required skills. While there is conceptual overlap (e.g., 'personify Scrum and Agile,' continuous improvement, servant leadership, transparency), the narrative remains mostly framework- and job-specification-centered rather than a deep exploration of Agile Values and Principles as such. The mention of coaching mindsets and values-based leadership aligns with the category, but only a few explicit connections are made. The intent mainly supports hiring/finding practitioners, not fostering a philosophical discussion on the Agile Manifesto or core principles specifically.",
+    "reasoning_summary": "Content mainly details Scrum Master responsibilities and required skills, occasionally referencing Agile mindsets and values. It overlaps with the category, but isn't a thorough or focused discussion of Agile Values and Principles; fit is partial.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -2006,6 +2013,25 @@
     "final_score": 32.0,
     "reasoning": "The content centers on hiring and role definition for Scrum Masters, emphasizing leadership, facilitation, and coaching within Scrum teams. While it describes fostering team self-management, empirical planning, and continuous improvement, it does not directly address or frame these practices in the context of deliberate agentic engineering, ethical AI, or maximizing human/AI agency. There are no explicit mentions of 'Agentic Engineering,' systemic observability, decision-making frameworks, or integration of AI as a collaborator—core to the category's definition. The depth of discussion focuses on practical Scrum Master responsibilities and required skills, remaining grounded in Agile/Scrum best practices rather than philosophical or systemic aspects relating to agency. The intended audience (practitioners, team leaders, hiring managers) partially overlaps with Agentic Engineering, but the content's main purpose and thematic focus remain too narrow and procedural to align strongly with the category.",
     "reasoning_summary": "This content discusses hiring and effective practice for Scrum Masters, focusing on leadership and team facilitation. It aligns tangentially with developer agency and continuous improvement, but lacks the deliberate philosophical or systemic focus required for Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1EEAZ-ldcTz",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 10.18,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 4.9,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is focused entirely on hiring and defining the Scrum Master role, responsibilities, and desirable skills within conventional Scrum/Agile delivery. It does not reference agentic concepts: there is no mention of AI agents, autonomous systems, agency, integration of contextual intelligence, or human–AI collaboration in delivery processes. No conceptual, thematic, or direct alignment with Agentic Software Delivery exists. The only overlap is that a Scrum Master might work in environments that one day leverage agentic delivery, but this is not discussed or implied. The audience is moderately aligned (Agile practitioners/teams), and the content is focused/signal is high for Scrum, but not the assigned category.",
+    "reasoning_summary": "This content strictly discusses hiring and role requirements for Scrum Masters without touching on agentic, AI-integrated, or autonomous software delivery concepts. No alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

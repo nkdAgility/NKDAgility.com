@@ -149,15 +149,22 @@
     "reasoning_summary": "This content is well-suited to the principles category, as it explores decision making through the lens of empiricism and continuous improvement. By referencing Lean and Agile, it connects decision processes to established methodologies. While it addresses the broader impact on culture and teams, it doesn’t focus on individual principles in detail, which slightly affects its fit. Overall, it aligns with the category’s intent."
   },
   "Artifact": {
+    "resourceId": "Decision Making",
     "category": "Artifact",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses decision making in a general context, touching on evidence-based approaches and methodologies like Lean and Agile. However, it does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean systems. The focus is more on the decision-making process rather than on artifacts as formal representations of work, leading to a low confidence score in the 'Artifact' category.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content discusses structured, evidence-based decision making rooted in Lean and Agile. However, it is abstract and does not reference, define, or discuss any artifacts (formal, tangible constructs central to Agile/Scrum/Lean work). There are no explicit mentions of artifacts or examples like Product Backlog or Definition of Done. Depth is low on artifact discourse, and while the audience could overlap (e.g., Agile practitioners), the fit is mostly conceptual and indirect. The primary topic is the cultural/systemic approach to decision making, not the inspection/adaptation mechanism enabled by artifacts. No penalties applied.",
+    "reasoning_summary": "The content focuses on decision-making philosophy and techniques but does not reference, define, or discuss artifacts. The fit is weak, as artifact structure, role, or usage in Agile/Lean is not addressed.",
     "level": "Ignored"
   },
   "Discipline": {
@@ -3110,6 +3117,25 @@
     "final_score": 36.0,
     "reasoning": "The content discusses structured, evidence-based decision making primarily in the context of business and organisational practices. It mentions 'collective insights' but never references human-AI collaboration, AI agents, or patterns of distributed cognition with AI. The discussion centers on human teamwork, methodologies like Lean and Agile, and organisational culture, without exploring the human-AI partnership essential for Collective Intelligence. The audience (teams, organisations) fits the broader category, but the absence of direct or sustained discussion about human-AI collective intelligence, partnership, or socio-technical systems means alignment and depth are moderate at best.",
     "reasoning_summary": "The content focuses on human decision making using evidence-based methods, with brief references to collective insights. However, it does not address human-AI collaboration or the core principles of Collective Intelligence, resulting in only a partial fit with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Decision Making",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 19.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 5.6,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content discusses structured, evidence-based decision making using Lean and Agile principles, targeting technical/organisational audiences. However, there is no mention of autonomous AI agents, agentic principles, or integration of contextual intelligence. Depth focuses on decision frameworks, not on agentic delivery. No dimension deserved penalty points; however, alignment, intent, and depth were notably low due to limited relevance to agentic software delivery. Signal-to-noise is reasonably high as the content is focused, but off-topic for the evaluated category.",
+    "reasoning_summary": "The content focuses on evidence-based decision making and Agile, without mentioning, referencing, or aligning with Agentic Software Delivery or AI agent integration. It is mostly off-category except for tangential relevance to decision processes.",
     "level": "Ignored"
   }
 }

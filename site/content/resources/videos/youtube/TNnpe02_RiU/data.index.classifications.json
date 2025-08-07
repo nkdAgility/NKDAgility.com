@@ -338,15 +338,22 @@
     "level": "Secondary"
   },
   "Coaching": {
+    "resourceId": "TNnpe02_RiU",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:32:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions coaching in the context of Agile and Scrum, but it primarily focuses on debunking myths about continuous delivery in DevOps. While it touches on empowerment and the importance of mindset, it lacks a detailed exploration of coaching techniques or the role of a coach. The discussion is more about addressing misconceptions rather than facilitating growth and development through coaching.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 36.1,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content primarily focuses on debunking DevOps myths and empowering developers, not on coaching as specifically defined. Coaching terminology is only referenced in passing (hashtags, company services), and there is no in-depth exploration of coaching practices, techniques, or mindset. The main themes revolve around continuous delivery and developer empowerment, not facilitating individual/team growth through coaching methods. There is brief allusion to guiding teams but it is not the central topic, and coaching is not differentiated or directly discussed in an Agile/Scrum context. Audience may overlap with coaching content, but the text does not directly serve coaching practitioners. Overall, this is a poor fit for the coaching category.",
+    "reasoning_summary": "The content barely references coaching and lacks substantive discussion or guidance aligned with the coaching category definition. Its main focus is on DevOps myths and developer empowerment, with coaching only mentioned peripherally.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -1979,5 +1986,24 @@
     "reasoning": "The content directly mentions developer empowerment and challenges the myth that developers cannot be trusted with continuous delivery, aligning conceptually with Agentic Engineering’s focus on agency. However, 'Agentic Engineering' is never explicitly named and the discussion, while positive toward developer autonomy, remains mostly at the motivational or high-level advocacy layer. It lacks specific references to systemic observability, ethical AI integration, or detailed practices for continuous value delivery. The intent is supportive of agency in engineering but is partly diluted by marketing content. The target audience (DevOps practitioners, Agile teams) matches well, focus is high, and signal-to-noise ratio is strong, but the absence of explicit category terminology or in-depth exploration keeps confidence moderate.",
     "reasoning_summary": "This content promotes developer agency and empowerment in DevOps, conceptually aligning with Agentic Engineering. It supports decentralised decision-making and continuous delivery, though lacks explicit mention and in-depth treatment of Agentic Engineering principles. The audience and purpose are well-aligned.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TNnpe02_RiU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 14.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content discusses frustrations and misconceptions in DevOps, focusing on developer empowerment and the attainability of continuous delivery. However, there are no explicit mentions or references to agentic software delivery, autonomous AI agents, contextual intelligence, or governance frameworks for agentic delivery. The main focus is practical DevOps and agile coaching, not on the deliberate integration of AI agents or modern agentic principles. The audience is interested in agile and DevOps, which somewhat overlaps, but the topic fit is tenuous and does not explore agentic concepts.",
+    "reasoning_summary": "The content focuses on DevOps empowerment and myth-busting about continuous delivery, not on agentic delivery or integration of autonomous AI agents. Only a minimal overlap with the category exists via continuous delivery themes.",
+    "level": "Ignored"
   }
 }

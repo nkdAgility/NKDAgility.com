@@ -174,15 +174,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "2QojN_k3JZ4",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:14",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the concept of 'done' in Agile teams, which relates to collaboration and decision-making within teams. It highlights the importance of clarity, consistency, and quality assurance, aligning with the core themes of social technologies. However, while it touches on collaboration and leadership engagement, it lacks a broader discussion on social frameworks or methodologies, which limits its depth in the category.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 76.87,
+    "ai_mentions": 3.2,
+    "ai_alignment": 8.9,
+    "ai_depth": 7.8,
+    "ai_intent": 8.2,
+    "ai_audience": 7.7,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "Direct mentions of 'social technologies' are absent, but the content is conceptually well-aligned: it discusses collaborative approaches (engaging leadership, joint definition creation), team norms, continuous improvement (refining 'done'), and value delivery. The focus on clear definitions to support organisational quality and trust aligns with social technology themes (transparency, collective intelligence). The discussion is moderately deep, covering not only the 'what' but 'how' and 'why' of the definition of done, and its impact on team culture. Intent is squarely aligned—providing practical advice to Agile practitioners, with direct relevance to those engaged in team-based value delivery and continuous improvement. Audience is slightly practitioner-leaning, with implications for both teams and leaders. Signal is strong, as the content avoids tangents. No discussion of obsolete practices or a tone contradicting the category was detected; thus, no penalties were applied.",
+    "reasoning_summary": "Content closely aligns with 'Social Technologies'—it covers collaboration, decision alignment, value delivery, and team culture improvement via defining 'done'. No direct mentions, but intent and substance match the category’s purpose and audience.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1928,6 +1935,25 @@
     "final_score": 36.0,
     "reasoning": "The content centers on clarifying the 'definition of done' in Agile teams, focusing on quality, team alignment, leadership expectations, and reducing rework. While these are relevant engineering practices, there is no explicit discussion of Agentic Engineering principles, such as maximizing human or AI agency, ethical autonomy, systemic observability, or decision-making frameworks driven by agency. The closest overlap is in promoting team autonomy to define and refine 'done,' but the content lacks depth around agentic philosophy, AI integration, or feedback-driven adaptation as defined in the category. No penalties were needed as the material is current and not contradictory. Most of the content is relevant to Agile practitioners but only tangentially connects to Agentic Engineering.",
     "reasoning_summary": "This content focuses on clarifying and aligning Agile teams around the 'definition of done,' with emphasis on quality and leadership collaboration. It is mainly about Agile team practices, with only tangential alignment to Agentic Engineering—mainly via team agency—but lacks direct mention or deep exploration of agentic principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2QojN_k3JZ4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 23.78,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 3.1,
+    "ai_audience": 7.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is centered on improving clarity and alignment around the 'definition of done' in Agile teams—an important Agile/Scrum practice but not specific to Agentic Software Delivery. There is no direct mention of AI agents, contextual AI, or agentic principles as defined. The discussion remains focused on human collaboration, leadership expectations, quality, and practical recommendations for Agile teams. While audiences are tangentially similar (Agile practitioners, delivery teams), the main topics and depth of discussion do not align with the integration of autonomous agents, human-AI synergy, or any systems of agentic delivery. Almost all content relates to traditional Agile process improvement, not to agentic approaches.",
+    "reasoning_summary": "Content focuses on Agile's 'definition of done' for quality and alignment, not on agentic software delivery or AI-agent integration. No explicit or conceptual fit with the category; overlap is only audience-adjacent and Agile-contextual.",
     "level": "Ignored"
   }
 }

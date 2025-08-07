@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Evidence Based Leadership",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 50,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the concept of Evidence Based Leadership, which is closely tied to accountability through its emphasis on data-driven decision-making and fostering a culture of transparency. While it does not explicitly mention specific roles like Product Owner or Scrum Master, it aligns well with the core themes of accountability by highlighting how empirical evidence can clarify outcome ownership and support self-management. The depth of discussion is substantial, focusing on how this approach can enhance performance and adaptability in organisations, which are key aspects of accountability. However, it lacks direct references to structural accountabilities in specific frameworks like Scrum or Agile, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 57.75,
+    "ai_mentions": 3.6,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.3,
+    "ai_intent": 5.7,
+    "ai_audience": 7.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Evidence Based Leadership with passing references to accountability and transparency, stating such leadership 'fosters a culture of accountability.' However, the focus remains on empiricism, decision-making, and organisational improvement broadly, not specifically on accountability as a foundational, structural concept in work systems. Explicit discussion of defined outcome ownership, structural roles, or accountabilities (such as Product Owner or Scrum Master) is missing. The audience is likely practitioners and leaders in Agile, but depth on accountability is limited to superficial mentions, aligning only partially with the category requirements.",
+    "reasoning_summary": "The content aligns partially to 'Accountability' through indirect references, but accountability is not the primary focus. Discussion centers broadly on evidence-based practices rather than explicit structural or outcome-oriented accountabilities.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -3115,6 +3122,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on evidence-based leadership, applying empirical data to drive organizational decision-making and improvement. There are no explicit or implied references to AI, human-AI collaboration, or collective intelligence as defined in the category. Main themes center on human leadership practices and data-driven culture, with no mention of AI partnership, distributed cognition involving AI, or socio-technical systems involving AI agents as collaborative team members. The audience and intent are somewhat tangentially aligned due to the organizational leadership context, but there is a lack of both direct mention and conceptual depth around human-AI collective intelligence.",
     "reasoning_summary": "This content centers on evidence-based human leadership, with no discussion of human-AI collaboration or collective intelligence per the category definition. Its relevance is limited to general decision-making and team culture without reference to AI partnership.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Evidence Based Leadership",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 19.67,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.1,
+    "ai_audience": 5.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is centered on leadership principles grounded in empirical evidence, transparency, and organizational improvement. While there is thematic overlap with data-driven practices and feedback loops, there are no direct mentions or discussions of autonomous AI agents, agentic integration, or AI-driven delivery contexts. The focus is on leadership behaviors, decision-making culture, and value delivery rather than the systematic embedding of agentic intelligence into software delivery. Audience partially overlaps (leaders in organizations), but the material lacks the technical and architectural focus needed for high relevance to 'Agentic Software Delivery.' No penalties were applied, as tone, timeliness, and framing align positively.",
+    "reasoning_summary": "The content aligns with evidence-based decision-making but does not discuss AI agents, agentic architectures, or software delivery contexts. Fit is partial and tangential, with limited relevance to 'Agentic Software Delivery.'",
     "level": "Ignored"
   }
 }

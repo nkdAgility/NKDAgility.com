@@ -67,15 +67,22 @@
     "reasoning_summary": "This content is a strong fit for the leadership category, as it directly addresses leadership concepts and responsibilities. It explores the unique human aspects of leadership—such as strategic decision-making, ethics, and accountability—and cautions against delegating these to AI. The discussion is in-depth, practical, and clearly aimed at leaders and decision-makers, making it highly relevant and focused for the intended audience."
   },
   "Scrum": {
+    "resourceId": "ffJaR9AaTl7",
     "category": "Scrum",
-    "calculated_at": "2025-04-29T12:57:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the roles of human and AI agency in adaptive systems, focusing on strategic intent and tactical optimisation. It does not mention Scrum or its principles, roles, events, or artifacts, which are essential for alignment with the Scrum category. The discussion is more aligned with general project management and decision-making rather than the specific practices and frameworks of Scrum.",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 9.42,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is a conceptual exploration of human vs. AI agency in adaptive systems. It focuses on the boundaries between strategic (human) and tactical (AI) roles, governance, ethical judgment, and system adaptation. However, there are no direct mentions of Scrum, nor does it reference Scrum roles, events, artifacts, or principles found in the Scrum Guide. The themes around adaptation, iterative improvement, and organisational design are tangentially related to adaptive frameworks like Scrum, but no explicit or deep connection is made to Scrum or its implementation. The audience may intersect with strategy and agile professionals but is not specifically targeted at Scrum teams or practitioners.",
+    "reasoning_summary": "No direct Scrum references or specific alignment with Scrum principles/roles. Content is generally about human/AI roles in adaptation, not iterative development or empirical process control found in Scrum. Fit with the Scrum category is weak and indirect.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -2493,5 +2500,24 @@
     "reasoning": "The content deeply explores the distinction and necessary balance between human and AI agency, directly aligning with Agentic Engineering's focus on designing systems that maximize both forms of agency. Discussion covers strategic intent, decision-making frameworks, ethical boundaries, and operational governance—all central to Agentic Engineering. Core topics like feedback-driven adaptation, ethical AI integration, and systemic observability are clearly addressed. There are no penalties; the content is timely, direct, and very thematically aligned with little off-topic material. Audience is practitioners and strategists interested in the philosophy and operationalisation of human-AI collaboration in adaptive systems.",
     "reasoning_summary": "This content offers a rigorous, nuanced discussion on the operational boundaries between human and AI agency in adaptive systems—a perfect thematic fit for Agentic Engineering, with strong depth, directness, and alignment to key audience concerns.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ffJaR9AaTl7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:04",
+    "ai_confidence": 66.05,
+    "ai_mentions": 1.3,
+    "ai_alignment": 7.1,
+    "ai_depth": 6.9,
+    "ai_intent": 6.5,
+    "ai_audience": 7.5,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content offers a nuanced discussion of human and AI agency in adaptive systems and clearly maps boundaries and collaboration between them. It references key concepts like context-aware AI, human-in-the-loop processes, governance, and adaptation boundaries—anchoring on issues of accountability, outcome stewardship, and real-world operational frameworks. However, it generally speaks at a conceptual or philosophical level and only indirectly references integration into software delivery workflows. There are no direct mentions of 'Agentic Software Delivery' or concrete implementation within modern engineering practices like CI/CD or backlog triage. The fit is strong for conceptual alignment, intent, and depth relative to the agency theme, but weaker for direct references and practical delivery specifics. The intended audience is practitioners or strategists grappling with AI integration, aligning decently. The piece does not reference obsolete practices, and the tone is earnest and supportive of considered, agency-aware integration.",
+    "reasoning_summary": "Content strongly explores human vs. AI agency boundaries in adaptive systems, aligning conceptually with agentic delivery themes. Lacks direct references or practical delivery focus, making the category fit partial but relevant for audience and intent.",
+    "level": "Secondary"
   }
 }

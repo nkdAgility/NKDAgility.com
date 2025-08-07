@@ -348,16 +348,23 @@
     "level": "Tertiary"
   },
   "Agile Planning": {
+    "resourceId": "Iy33x8E9JMQ",
     "category": "Agile Planning",
-    "calculated_at": "2025-04-10T15:52:36",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly touches on the importance of pragmatism and adapting processes to changing demands, which aligns with Agile principles. However, it lacks explicit discussions on Agile Planning methodologies, techniques, or practices, and does not delve into specific Agile concepts such as user stories, backlogs, or sprints. The focus is more on general adaptability rather than structured Agile planning, resulting in a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 47.8,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.8,
+    "ai_intent": 6.2,
+    "ai_audience": 7.0,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content opposes dogma and promotes empiricism, flexibility, and continuous learning—core Agile values—but does not directly discuss Agile Planning or planning practices. 'Agile' and 'Scrum' are mentioned only in a call-to-action, not in substantive discussion. There is little to no focus on Agile planning activities (backlog, sprints, metrics, etc.), and the themes revolve around consulting mindsets rather than Agile Planning specifics. The audience overlaps somewhat with Agile practitioners, but the content fits better under Agile philosophy or change management than specifically Agile Planning.",
+    "reasoning_summary": "Discusses empiricism and flexibility needed in consulting, aligning with Agile values, but lacks specific coverage of Agile Planning methods, tools, or practices. Fit to 'Agile Planning' is tangential and broad, not direct.",
+    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1958,5 +1965,24 @@
     "reasoning": "The content addresses the drawbacks of dogma in consulting and advocates for empirical, adaptive, and people-centric approaches. It aligns with Agentic Engineering in emphasizing continuous learning, adaptability, and empiricism, but does not clearly discuss developer or system agency, DevOps, AI collaborations, or decision decentralisation. No direct mention of Agentic Engineering concepts or terminology. Some tangential relevance for practitioners, but not a focused or thorough discussion of agentic engineering principles.",
     "reasoning_summary": "The content partially aligns with Agentic Engineering through its focus on empiricism, adaptability, and continuous learning, relevant to practitioners. However, it lacks explicit reference to agency, technical practices, or the deliberate design of engineering for agency, resulting in moderate confidence for this category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 13.24,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.8,
+    "ai_intent": 1.3,
+    "ai_audience": 2.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on the contrast between dogma and empiricism in consulting, emphasizing flexibility, empathy, and continuous learning. There is no mention of autonomous AI agents, agentic systems, or related practices. The themes align more generally with Agile philosophy, not Agentic Software Delivery. There is no discussion of AI integration, modern engineering, feedback loops with agents, or synergy between human and AI expertise. As such, there is very low conceptual alignment, depth, and almost no direct mentions or explicit relevance to Agentic Software Delivery.",
+    "reasoning_summary": "This content discusses empiricism versus dogma in consulting, not the integration of autonomous AI agents or agentic principles. Its themes only very loosely connect to the agentic category, making the fit minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

@@ -1399,15 +1399,22 @@
     "reasoning_summary": "This content is a great match for the competence category, as it thoroughly explores how immersive learning helps Scrum practitioners build practical skills and confidence. By emphasising hands-on experience and expert guidance, it clearly demonstrates how such approaches contribute to real-world competence and professional growth."
   },
   "One Engineering System": {
+    "resourceId": "GfB3nB_PMyY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:48:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum contexts, discussing training methods and personal experiences rather than the principles or implementation of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of standardisation and integration of software development practices.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 15.53,
+    "ai_mentions": 0.25,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 3.4,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses exclusively on immersive learning within the context of Agile and Scrum training. There is no mention or discussion of One Engineering System (1ES), nor any exploration of unified engineering practices, cross-team standardization, or integration of tooling and process—core themes of the category definition. While the content is aimed at a professional and technical audience, its intent, depth, and conceptual alignment are highly tangential to 1ES. The main ideas and narrative consistently revolve around training methods for Scrum practitioners, not integrated engineering systems. Therefore, alignment, depth, and confidence are very low.",
+    "reasoning_summary": "This content is about immersive Agile/Scrum training, not One Engineering System. No direct mentions or meaningful alignment with 1ES; focus is on learning techniques, not engineering system integration. Fit is unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1911,6 +1918,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on immersive learning in Agile/Scrum contexts, emphasizing hands-on training, practical application, and expert guidance. While these ideas support autonomy and effective practices, there is little to no explicit mention of Agentic Engineering's core focus: the deliberate design of systems to maximize human/AI agency, decentralised decision-making, or ethical AI integration. The themes overlap peripherally with developer agency (through empowerment by training), but the content lacks discussion of engineering practices, systemic observability, or decision-making frameworks characteristic of the Agentic Engineering category. Its audience and content are minimally relevant but do not extend into agentic engineering as a deliberate, designed approach.",
     "reasoning_summary": "While the content highlights immersive, empowering practices for Scrum and Agile training, it doesn't discuss Agentic Engineering or its underlying core themes. Its emphasis on practical experience and autonomy is tangential rather than central, making fit with the category weak and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GfB3nB_PMyY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 13.341,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 0.8,
+    "ai_audience": 3.2,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is a deep dive into immersive Agile and Scrum training. It focuses on blending theory and practical experience, highlighting benefits like consultative trainers, real-world simulations, feedback, and team growth. However, it does not mention or explore autonomous AI agents, contextual intelligence, or their integration into systems of work—the defining aspects of Agentic Software Delivery. Relevant engineering practices (CI/CD, governance frameworks for agents, human-in-the-loop design, agent support for delivery tasks) are not discussed. The target audience is Scrum Masters, Agile Coaches, and practitioners, which partly overlaps, but the thematic focus is training, not agentic software delivery or AI agent integration.",
+    "reasoning_summary": "Content is about immersive Agile/Scrum learning—not about agentic software delivery, AI agents, or their integration. No relevant direct or conceptual overlap, so fit is minimal and confidence is very low.",
     "level": "Ignored"
   }
 }

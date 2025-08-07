@@ -1417,16 +1417,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "a2sXBMPHl2Y",
     "category": "Scrum",
-    "calculated_at": "2025-03-15T00:20:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of training and discussions around Agile practices, but it does not focus on Scrum principles, roles, or events in detail. While there is some alignment with Agile principles and the importance of team dynamics, the depth of discussion on Scrum specifically is limited, making it a secondary topic rather than a primary focus.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 54.68,
+    "ai_mentions": 5.6,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.1,
+    "ai_intent": 6.2,
+    "ai_audience": 6.8,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content references Scrum multiple times, shows a moderate conceptual fit (it is discussed in the context of private corporate training), and is aimed at practitioners interested in Scrum and Agile. However, the main focus is on private training benefits rather than deep Scrum practice specifics, which weakens depth and direct alignment. Scrum appears alongside Agile and DevOps rather than as the sole focus. No outdated or contradictory elements are present. Therefore, confidence is moderate.",
+    "reasoning_summary": "Scrum is discussed several times as a part of training but is not the sole or central topic. Content overlaps with Agile and DevOps, making the fit for the Scrum category partial rather than exclusive.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1986,6 +1993,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses heavily on the value of private training for Agile, Scrum, and DevOps topics, emphasizing candid conversations, learning depth, and intra-team insight discovery. However, it does not mention or substantially discuss Agentic Engineering, developer agency, decentralised decision-making, or the integration of AI as an agent. There is a broad hint toward empowerment and autonomy within training, but there is no direct or deep exploration of the deliberate engineering choices that maximise either human or system agency. Little is said about systemic observability, ethical AI, or agentic DevOps practice. The intent centers on promoting private training as a benefit to teams, not the philosophical or structural engineering aspects of agency. Audience overlap exists at a low level (technical/professional teams) but is not targeted to the agentic engineering community. Content is focused but not relevant to the category.",
     "reasoning_summary": "This content promotes private Agile and DevOps training, highlighting open discussion and tailored insights for teams. However, it does not reference or discuss Agentic Engineering, developer/system agency, or philosophical engineering practices that maximize autonomy—resulting in a low confidence of fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "a2sXBMPHl2Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 14.738,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 2.6,
+    "ai_audience": 3.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content discusses benefits of private Agile, Scrum, and DevOps training, including open internal discussions and exposure to practices like unit testing and continuous delivery. However, it never mentions or explores Agentic Software Delivery, autonomous AI agents, AI-human synergy, contextual intelligence, or agentic practices/key concepts. Focus is on human training outcomes, not AI-driven or agent-enabled delivery. No evidence of agency, AI governance, or modern engineering explicitly in an agentic context. Overall, conceptual and intent overlap is very weak and indirect.",
+    "reasoning_summary": "Content is about private training benefits in Agile/DevOps, not Agentic Software Delivery. No mention or exploration of agentic AI, agency, or agentic principles. Topic and purpose are distinctly outside the intended category.",
     "level": "Ignored"
   }
 }

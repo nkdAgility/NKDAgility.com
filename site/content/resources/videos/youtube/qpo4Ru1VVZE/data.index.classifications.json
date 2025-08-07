@@ -1310,15 +1310,22 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "qpo4Ru1VVZE",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:41:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations rather than the Agile Product Operating Model. While it touches on the importance of planning and adapting to new environments, it does not engage with the core principles or themes of APOM, such as product-oriented mindsets or continuous delivery.",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 6.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.6,
+    "ai_penalty_details": "Alignment -0.5 (focuses solely on migration without APOM themes); Depth -0.1 (only tangentially related, does not explore APOM).",
+    "final_score": 20.0,
+    "reasoning": "The content primarily provides technical guidance for migrating from TFS to Azure DevOps, focusing on compatibility, security, and customisations. There is no explicit mention or exploration of the Agile Product Operating Model (APOM) or its principles. The main themes—legacy tooling, upgrade risks, code asset safety, and custom solution adaptation—do not directly relate to APOM topics such as shifting to a product mindset, integrating Professional Scrum, or organisational restructuring around product value. While the audience (IT/engineering decision-makers) partially overlaps with APOM's target audience, and there is minor conceptual adjacency (operational stability, change planning), the content lacks depth and intent toward APOM discussion. Penalties are applied for low alignment and depth.",
+    "reasoning_summary": "Content is about TFS-to-Azure DevOps migration, not the Agile Product Operating Model. Lacks core category alignment, depth, and direct mention—any fit is incidental and not by intent.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1932,6 +1939,25 @@
     "final_score": 16.0,
     "reasoning": "The content focuses on practical migration from TFS to Azure DevOps, mainly covering technical considerations around compatibility, customisations, and security. It does not mention or discuss Agentic Engineering, developer agency, decentralised decision-making, or the philosophical dimensions of maximising agency in engineering environments. While best practices and planning are mentioned, they are not explored through the lens of agency, autonomy, or AI/human collaboration. Some audience overlap exists (engineering practitioners), but the primary thrust is operational migration, not agentic transformation. Penalties are applied for lack of direct mention, weak conceptual linkage, and shallow engagement with category-defining ideas.",
     "reasoning_summary": "This content is primarily a practical guide on migrating from TFS to Azure DevOps. It does not address the core themes or intent of Agentic Engineering, such as agency or decentralised decision-making. Relevance is tangential at best and largely operational.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qpo4Ru1VVZE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 16.48,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.2,
+    "ai_penalty_details": "Alignment (-0.6): Content discusses legacy migration without agentic concepts; Depth (-0.6): Lacks modern agentic approaches or integration of AI agents.",
+    "final_score": 16.0,
+    "reasoning": "The content is focused on migrating from TFS on-premises to Azure DevOps, mainly discussing compatibility, legacy customisations, security, and planning. There are no explicit or implicit references to Agentic Software Delivery, autonomous AI agents, or integration of intelligence into the software delivery pipeline. The topic centers solely on technical, operational, and best-practice guidance for platform migration, lacking any mention of AI agents, contextual intelligence, or agentic frameworks. Penalties were applied for alignment and depth, as content is somewhat outdated and does not address agentic approaches at all.",
+    "reasoning_summary": "Content is standard migration guidance for TFS to Azure DevOps. No mention or exploration of agentic software delivery, AI agents, or contextual intelligence. Fit is minimal and largely off-topic for the assigned category.",
     "level": "Ignored"
   }
 }

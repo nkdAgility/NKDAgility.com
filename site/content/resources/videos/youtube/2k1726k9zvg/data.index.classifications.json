@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "2k1726k9zvg",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:10:59",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of Scrum Masters within Agile methodologies, discussing accountability and value creation. While it briefly mentions DevOps in the conclusion, it does not delve into DevOps principles or practices, making it a secondary topic rather than a primary focus.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 19.118,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.6,
+    "ai_intent": 3.1,
+    "ai_audience": 3.8,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is centered around exploring distinctions between new and experienced Scrum Masters, focusing on Scrum principles, accountability, value delivery, and professional mindset. DevOps is only directly mentioned in a closing invitation with no substantive discussion. There is little to no exploration of DevOps principles (collaboration, automation, cultural shift, feedback loops, etc.), and the conceptual alignment with DevOps is minimal. The primary intent and audience are Scrum Masters and Agile practitioners, not specifically DevOps practitioners or those interested in DevOps philosophy. Signal-to-noise is low for the DevOps topic, as nearly all content pertains to Scrum. No penalties are needed as the tone and references are current and neutral.",
+    "reasoning_summary": "DevOps is only briefly mentioned and is not discussed beyond an invite to continue the conversation. The content focuses almost entirely on Scrum Master roles and mindsets, so conceptual and intent alignment with DevOps is very low.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1965,6 +1972,25 @@
     "final_score": 33.0,
     "reasoning": "The content centers on the distinction between new and experienced Scrum Masters, emphasizing competence, accountability, continuous improvement, and value—aligning in part with agentic themes. However, it does not mention or explicitly reference Agentic Engineering or its core philosophical aspects. Discussion focuses on professional mindset and Scrum Master roles, not the deliberate design of engineering practices to maximize agency for humans or AI. Key Agentic Engineering topics—including systemic observability, decision decentralization, or AI collaboration—are absent. The primary intent is supporting Scrum practitioners in professional growth, which is tangential to the audience for Agentic Engineering. There is moderate relevance where it promotes professional autonomy and improvement, but the depth and direct relevance are limited.",
     "reasoning_summary": "The content highlights accountability and continuous improvement for Scrum Masters, touching on themes of professional agency, but lacks direct discussion of Agentic Engineering principles or its core focus on engineering deliberate agency for humans or AI. Alignment is partial and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2k1726k9zvg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 11.825,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 4.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses solely on the roles, responsibilities, and mindset of Scrum Masters, contrasting new and experienced practitioners. There is no direct or indirect mention of agentic principles, autonomous AI agents, or their integration into software delivery. Topics like contextual intelligence, agency, feedback loops driven by AI, or modern engineering practices for agentic delivery are entirely absent. The audience may overlap slightly with those interested in agentic delivery (i.e., Agile/DevOps practitioners), providing a small boost to audience alignment and signal, but the core thematic intent and content depth remain unrelated to the category.",
+    "reasoning_summary": "Content is about professional versus new Scrum Masters. It does not discuss agentic software delivery, autonomous agents, AI, or their integration in delivery processes. Fit is minimal and purely incidental through shared Agile audience.",
     "level": "Ignored"
   }
 }

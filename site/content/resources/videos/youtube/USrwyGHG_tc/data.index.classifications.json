@@ -926,15 +926,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "USrwyGHG_tc",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:03:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master in an Agile environment, focusing on facilitation and avoiding micromanagement. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion is more about team dynamics and Agile principles rather than the specifics of Test First Development.",
+    "calculated_at": "2025-08-07T06:12:31",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 1.7,
+    "ai_audience": 5.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content analyzes the role of a Scrum Master within agile frameworks, emphasizing trust, facilitation, and autonomy rather than micromanagement. It does not mention or delve into the principles, practices, or collaborative aspects of Test First Development, nor does it discuss success criteria, test-driven approaches, or the distinction between testing and design practices in software delivery. While the tone and audience could overlap with those for Test First Development, the focus is exclusively on team leadership and culture, making the alignment largely incidental at best.",
+    "reasoning_summary": "Focuses on Scrum Master behavior, not Test First Development. No mention or discussion of test-first concepts, criteria, or practices. Fit is very weak and purely incidental.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1986,5 +1993,24 @@
     "reasoning": "The content focuses on the Scrum Master's role in empowering teams, promoting autonomy, trust, and not micromanaging. This aligns conceptually with Agentic Engineering—specifically, maximizing developer agency and creating environments for autonomous, empowered teams. However, it does not explicitly reference Agentic Engineering or discuss technical system design, DevOps practices, or AI augmentation. Discussion depth is moderate and practical, not philosophical or systemic. The audience is clearly practitioners interested in engineering team dynamics and autonomy. Content is focused and stays on-point, though it falls short of the deeper exploration or explicit thematic ties required for full alignment.",
     "reasoning_summary": "The content emphasizes team autonomy, facilitation, and trust—key tenets of Agentic Engineering. While well aligned conceptually, it does not explicitly address broader engineering systems, AI, or the philosophical underpinnings of agency, making its fit moderate and contextually relevant but not deep or direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "USrwyGHG_tc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:40",
+    "ai_confidence": 26.91,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 3.3,
+    "ai_audience": 7.3,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on Scrum Master behaviors, mainly contrasting facilitation versus micromanagement. While autonomy and trust are discussed (which overlap with agency), there is no mention of AI, agents, or software systems with contextual intelligence, nor any discussion of agent integration, AI-supported processes, or technical enablers (CI/CD, observability, etc.) as required by the Agentic Software Delivery category. The audience (agilists, Scrum practitioners) partially overlaps with agentic delivery's target groups, but the substance and intent do not fit. The direct mention score is very low as 'Agentic Software Delivery' is not referenced at all, and the ideas only very lightly touch on the principle of human autonomy, not on agentic systems.",
+    "reasoning_summary": "This content focuses on human team autonomy in Scrum, lacking any discussion of AI agents, contextual intelligence, or technical practices key to Agentic Software Delivery. Fit is minimal and only tangential through themes of autonomy.",
+    "level": "Ignored"
   }
 }

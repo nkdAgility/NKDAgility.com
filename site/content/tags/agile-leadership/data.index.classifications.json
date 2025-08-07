@@ -120,16 +120,23 @@
     "level": "Secondary"
   },
   "Model": {
+    "resourceId": "Agile Leadership",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile Leadership, which touches on concepts of adaptability and team empowerment but does not explicitly focus on specific models or frameworks like the Cynefin Framework or Lean Startup principles. While it mentions frameworks such as Scrum and Kanban, these are not the primary focus of the content. The discussion lacks depth in terms of analysing or comparing models, leading to a lower confidence score in the 'Model' category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 51.7,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.3,
+    "ai_intent": 5.4,
+    "ai_audience": 7.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content centers on Agile Leadership as a philosophy and practice but does not explicitly treat it as a conceptual model, nor does it analyze or compare models. While frameworks like Scrum and Kanban are mentioned, their discussion is brief and tactical rather than a deep exploration of models for decision-making or system analysis per the given definition. The piece focuses more on mindset, culture, and behaviors than on conceptual representations or frameworks, resulting in only partial alignment with the 'Model' category.",
+    "reasoning_summary": "This content discusses leadership principles and briefly references frameworks, but it doesn’t directly focus on conceptual models or frameworks as defined by the category. The fit is partial, as the discussion is more about mindset than models.",
+    "level": "Tertiary"
   },
   "Principle": {
     "category": "Principle",
@@ -3124,6 +3131,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses solely on Agile Leadership, highlighting empowerment, adaptability, and self-organizing teams within an Agile context. However, there is no mention of AI, AI agents, or human-AI collaboration, which are essential for the 'Collective Intelligence' category. While the description fits well for human team collaboration and leadership best practices, it does not reference or align with the topics required by the definition, such as human-AI partnerships, distributed cognition with AI, or socio-technical systems involving AI. The only slight alignment comes from a generally collaborative team environment, which is necessary but not sufficient for this category.",
     "reasoning_summary": "This content is about Agile Leadership and team empowerment but lacks any reference to human-AI collaboration or collective intelligence. It addresses human teamwork without incorporating AI, so it only minimally aligns with the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Leadership",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 19.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.7,
+    "ai_audience": 5.5,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content strictly focuses on Agile Leadership, such as team empowerment, adaptability, continuous improvement, psychological safety, and frameworks like Scrum and Kanban. There are no direct mentions or discussions of Agentic Software Delivery, autonomous AI agents, contextual intelligence, or agent-driven practices. While both leadership and agentic delivery aim for high-performing teams and organizational adaptability, the key agentic concepts (autonomous agents, AI integration, human-machine collaboration) are entirely absent. The audience is somewhat overlapping (leaders in tech environments), explaining the moderate audience and signal scores. However, all other dimensions score low, resulting in a low overall confidence score.",
+    "reasoning_summary": "The content is only about Agile Leadership and makes no mention of autonomous AI agents, agentic delivery, or related technologies. Fit to the Agentic Software Delivery category is very low, with little conceptual or thematic overlap.",
     "level": "Ignored"
   }
 }

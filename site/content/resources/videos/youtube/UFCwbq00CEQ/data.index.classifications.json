@@ -1475,15 +1475,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "UFCwbq00CEQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:00:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies and the importance of focusing on value over estimates, which deviates from the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 22.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 7.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content critiques over-reliance on estimation metrics in Agile and advocates for value-driven, psychologically safe teams. However, it does not directly mention, reference, or explore the One Engineering System framework or its core tenets such as standardisation, tool/process unification, or cross-team integration. Its audience (Agile practitioners, team leads) could overlap with 1ES, but the absence of explicit or conceptual alignment with 1ES means it barely fits—if at all. Discussion depth is low regarding 1ES, as all references pertain exclusively to general Agile cultural and metric shifts.",
+    "reasoning_summary": "Content focuses on Agile team practices, value delivery, and psychological safety—not on One Engineering System, its principles, or integration themes. There is negligible direct or conceptual fit. Fit is superficial and unclear.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,5 +1997,24 @@
     "reasoning": "The content criticizes metric-focused Agile practices and advocates for value-driven, psychologically safe teams. There is strong alignment with Agentic Engineering themes such as fostering human agency, focusing on outcomes, and nurturing collaborative cultures. However, the piece lacks explicit reference to Agentic Engineering, decision decentralization, systemic observability, or integration with AI agency. It doesn't deeply engage with engineering practices, automation, or ethical autonomy. No penalties applied, as it is relevant and not outdated or contradictory.",
     "reasoning_summary": "The content aligns with Agentic Engineering in advocating for team agency, value delivery, and psychological safety but lacks direct discussion of engineering practices, AI, or systemic observability. Its focus remains on human agency within Agile, not the broader Agentic Engineering scope.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UFCwbq00CEQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 17.452,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on moving beyond output-based metrics and fostering value-centric Agile cultures. However, it lacks any discussion of autonomous AI agents, context-aware intelligence, agentic integration, or the transformation of delivery models toward agentic approaches. Though 'value delivery' is discussed, the topic is rooted in well-established Agile practices and psychological safety, not in agentic methods or AI-enabled delivery. The audience and themes overlap slightly with modern software delivery, but the core attributes of Agentic Software Delivery are entirely absent, resulting in a low confidence score.",
+    "reasoning_summary": "The content covers Agile value delivery and psychological safety but does not discuss agentic practices, AI agents, or contextual intelligence—making it a poor match for the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

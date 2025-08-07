@@ -1458,15 +1458,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into the ongoing development and refinement of Scrum Master skills. It highlights the importance of continuous learning, professional growth, and effective facilitation, all of which are central to building competence. The discussion is thorough and clearly supports the theme of skill enhancement within the Scrum framework."
   },
   "One Engineering System": {
+    "resourceId": "vI_qQ7-1z2E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:05:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the PSM II certification and Scrum Master skills, which are not directly related to the One Engineering System framework. While it discusses skill development and facilitation techniques, it does not address the principles, integration, or implementation of 1ES. The discussion is centred around Scrum methodology rather than the standardisation and integration of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 2.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content closely analyzes the merits of the PSM II course in advancing Scrum Master skills. However, it does not reference the One Engineering System framework or its principles. The discussion is focused on professional development for Scrum Masters, not on unified engineering systems, integration of tooling, or cross-team/process standardization. There are no explicit One Engineering System mentions, and the alignment is extremely limited. The intended audience is Scrum practitioners, not specifically teams involved in engineering system standardization. The content's signal-to-noise ratio is high within the Scrum Master context, but nearly irrelevant to 1ES.",
+    "reasoning_summary": "Content focuses on Scrum Master skill development and the PSM II course—does not mention or align with One Engineering System topics. Fit is extremely minimal and only tangential due to general professional development discussion.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1969,6 +1976,25 @@
     "final_score": 24.0,
     "reasoning": "The content focuses on the PSM II course, its role in developing Scrum Master skills, facilitation, and accountability. While it addresses empowerment and skill growth, it does not mention or substantially explore Agentic Engineering principles like systemic observability or DevOps-infused craft. The focus remains on individual capability within Scrum rather than deliberate agentic engineering or human/AI agency maximization. Therefore, mentions and conceptual alignment are low, as is depth. The audience aligns somewhat with Agentic Engineering practitioners, but the bulk of the discussion is about Scrum-based professional development rather than engineering of agency-driven environments.",
     "reasoning_summary": "The article centers on skill growth and advanced facilitation for Scrum Masters—relevant to personal development but not Agentic Engineering. It lacks focus on designing engineering systems for human or AI agency, so alignment with the category is limited and confidence low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vI_qQ7-1z2E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses the PSM II Scrum Master course, focusing on skill development, facilitation, and accountability within Scrum. There are no mentions or exploration of agentic software delivery concepts such as autonomous agents, AI, contextual intelligence, or modern engineering practices described in the classification definition. The audience, theme, and intent are tightly aligned with Scrum mastery, not with integrating AI or agentic principles into software delivery. Therefore, the overlap with 'Agentic Software Delivery' is minimal and only faintly plausible through an extremely indirect connection to modern organisational practices.",
+    "reasoning_summary": "Content focuses on Scrum Master skill development, not agentic software delivery. No mention of agents, AI, or contextual intelligence. Fit is minimal and only tangentially related to the assigned category.",
     "level": "Ignored"
   }
 }

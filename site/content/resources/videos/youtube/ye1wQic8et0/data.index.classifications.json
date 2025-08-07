@@ -1426,16 +1426,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "ye1wQic8et0",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:50:59",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly touches on Agile principles and the need for collaboration. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide a detailed exploration of Scrum practices. The mention of 'agile' is brief and does not delve into Scrum specifics, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 60.15,
+    "ai_mentions": 1.6,
+    "ai_alignment": 7.7,
+    "ai_depth": 5.8,
+    "ai_intent": 6.4,
+    "ai_audience": 8.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content discusses eliminating committees to increase agility and empower teams, concepts that align with agile principles and are relevant to Scrum (e.g., self-organizing teams, reducing blockers). However, direct references to Scrum are minimal—a single passing mention at the end groups Scrum with Agile and DevOps, and the bulk of the discussion addresses agility and decision-making rather than specific Scrum roles, events, or artifacts. The content targets practitioners seeking to improve team performance and time-to-market, aligning with Scrum's audience. Depth on Scrum is limited, as there is no exploration of the Scrum framework itself. Signal is moderately high, as most content discusses agility and team empowerment, tangentially relevant to Scrum, but not explicitly nor deeply so.",
+    "reasoning_summary": "The content aligns with agile and empowerment principles central to Scrum but offers only a minor direct mention and no substantive discussion of Scrum. Its fit is partial; it's more about agility and team autonomy than Scrum specifically.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -2000,5 +2007,24 @@
     "reasoning": "The content does not explicitly mention Agentic Engineering but strongly aligns conceptually. It critically examines how committee-based decision-making reduces team autonomy, delays feedback, and impedes agility—directly resonating with Agentic Engineering's themes of decentralised decision-making and maximising engineer agency. The discussion provides a clear real-world example and advocates for empowering teams, which fits core category principles. However, it falls short in explicitly referencing agentic concepts, AI, or observability, and does not directly address ethical AI or detailed engineering practices. Audience targeting (agile/DevOps practitioners) matches the category, and the bulk of the content is focused on removing barriers to agency, though it remains more operational than philosophical. Depth is moderate, focusing on empowerment and agility impacts, but not extending into technical mechanisms or ethical dimensions.",
     "reasoning_summary": "The article argues that committees slow decision-making and hamper team agency, aligning well with Agentic Engineering's emphasis on autonomy, empowerment, and continuous adaptation. While implicit, the content supports decentralised, feedback-driven practices central to the category, though explicit references to agentic engineering concepts are limited.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 24.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 3.2,
+    "ai_audience": 7.6,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on reducing organizational friction (committees) to improve agility and time to market. It strongly advocates empowering teams and modernizing processes. However, it does not mention or discuss autonomous AI agents, contextual AI, or any principles unique to agentic software delivery. Its themes are aligned with agile and DevOps, not with agentic integration of AI and human expertise or the embedding of context-aware agents. There is no direct mention of agentic concepts, making both conceptual alignment and depth minimal. The audience aligns generally with those interested in modern delivery but not specifically with agentic software delivery. The intent is relevant to delivery improvements, but mostly tangential to agentic principles.",
+    "reasoning_summary": "This content addresses agile delivery, team empowerment, and process streamlining, but lacks any mention or exploration of autonomous AI agents or agentic principles. Only a partial fit, as the discussion does not engage with agentic software delivery themes.",
+    "level": "Ignored"
   }
 }

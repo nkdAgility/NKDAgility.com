@@ -770,17 +770,23 @@
     "reasoning_summary": "This content is relevant to the category as it explores Azure DevOps’ shift towards continuous delivery, emphasising rapid feedback and adaptability—core elements of engineering excellence. However, it doesn’t delve deeply into specific coding standards or quality metrics, so while it fits the category, it could be strengthened with more detailed examples of engineering best practices."
   },
   "Product Strategy": {
+    "resourceId": "_gyzx59-AJk",
     "category": "Product Strategy",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the transformation of Azure DevOps in terms of agility and responsiveness to market changes, which aligns with product strategy principles. It highlights the importance of continuous delivery, customer feedback, and adapting to market demands, all of which are key aspects of product strategy. However, while it touches on these themes, it primarily focuses on implementation and operational aspects rather than a comprehensive strategic framework, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content relates to product strategy as it explores how Azure DevOps adapts to market shifts through agility, continuous delivery, and customer feedback. While it addresses important strategic themes, its main emphasis is on practical implementation and operations rather than outlining a full strategic approach, making the fit with the category partial but relevant."
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 67.09,
+    "ai_mentions": 2.9,
+    "ai_alignment": 7.55,
+    "ai_depth": 7.35,
+    "ai_intent": 6.7,
+    "ai_audience": 6.45,
+    "ai_signal": 6.97,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content focuses on how Azure DevOps improved responsiveness and agility by adopting continuous delivery, rapid feedback, and data-driven decisions. These themes overlap with product strategy topics such as maximizing value, customer-centricity, and market responsiveness. However, the main focus is on operational transformation and DevOps practices rather than explicitly detailing product vision, roadmapping, or competitive positioning. There are references to market opportunity and user value, but explicit discussion of product strategy frameworks, vision formulation, or organizational-goal alignment is limited. The article primarily targets practitioners interested in delivery and agility rather than product strategists, and direct category mentions are minimal.",
+    "reasoning_summary": "The content aligns with product strategy through themes of market responsiveness and value creation but centers more on delivery and agility practices. Fit is partial; strategy topics are implied but not deeply explored.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -2140,5 +2146,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent and related terms (like agency, autonomy, or ethical AI) are not explicitly used. However, the content aligns conceptually with Agentic Engineering by emphasizing developer autonomy, tight feedback loops, continuous delivery, telemetry, and cultivating an adaptive engineering culture—central agentic themes. The depth shows substantial discussion of adaptive delivery and feedback-driven change, but it doesn't delve into philosophical agency or ethical AI. The intent and audience match practitioners and strategists focused on DevOps-empowered transformation, with a strong focus on maximising organisational and team agility. The signal is high, as the bulk of the content remains focused on relevant mechanisms and lessons, with little filler and minimal tangents. Since the main agentic dimensions are present but not deeply or explicitly framed as 'agentic,' the weight leans toward moderate-to-strong relevance without full alignment.",
     "reasoning_summary": "This content strongly aligns with Agentic Engineering through its emphasis on developer autonomy, rapid feedback, and continuous delivery. While it doesn't explicitly name Agentic Engineering or delve deeply into ethical AI, the practical lessons and focus on adaptive practices make it a relevant and well-suited example for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_gyzx59-AJk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 37.95,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 4.3,
+    "ai_audience": 6.1,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content details Azure DevOps's dramatic change from long release cycles to highly frequent deployments, emphasizing agility, feedback loops, data-driven decisions, and CI/CD. However, there are no direct discussions of autonomous AI agents, agentic architectures, or explicit agent/human collaboration in delivery. While it covers modern delivery practices foundational for agentic delivery (continuous deployment, telemetry, fast feedback), it doesn't engage with most key elements of Agentic Software Delivery category—such as context-aware AI agents, human-in-the-loop design, agent governance, or AI-powered refinement. The content targets technical and agile-minded audiences but its intent and main themes spotlight evolutionary DevOps and agile transformation—not agentic principles as strictly defined.",
+    "reasoning_summary": "The content covers modern DevOps and agile transformation but lacks direct links to Agentic Software Delivery, omitting AI agency, agent/human synergy, and agent-enabled workflows. Fit is partial; focus is on agility, not agentic software delivery.",
+    "level": "Ignored"
   }
 }

@@ -84,15 +84,22 @@
     "level": "Secondary"
   },
   "Philosophy": {
+    "resourceId": "Organisational Psychology",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses organisational psychology and its impact on team dynamics and engagement, which are relevant to the broader philosophical themes of collaboration and cultural aspects in organisations. However, it primarily focuses on practical applications and does not delve deeply into the theoretical foundations or philosophical underpinnings of Agile, Lean, or DevOps. The mention of these methodologies is secondary to the main topic of psychology, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 65.76,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.9,
+    "ai_depth": 6.8,
+    "ai_intent": 7.1,
+    "ai_audience": 8.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content discusses principles of organisational psychology and their influence on motivation, engagement, leadership, and team dynamics—areas relevant to the foundational beliefs behind Agile and DevOps. However, it frames these ideas from a behavioural science perspective, not primarily as philosophy or core foundational 'why/what' guiding methodologies. There's a strong thematic overlap with philosophical concerns, particularly regarding culture, team dynamics, and human-centred organisational change, but explicit philosophical frameworks, terminology, or deep theoretical exploration are not present. Direct mentions of philosophy are lacking, but intent and audience largely fit the context, as the focus is on overarching motivators and how they impact organisational success.",
+    "reasoning_summary": "This content aligns moderately with 'Philosophy' by addressing foundational beliefs about motivation and team culture in organisations. However, it is more psychological than explicitly philosophical, so the category fit is partial rather than full.",
     "level": "Secondary"
   },
   "Observability": {
@@ -3114,6 +3121,25 @@
     "final_score": 32.0,
     "reasoning": "The content primarily discusses human factors in team dynamics, motivation, and organisational psychology, referencing Agile, Lean, and DevOps only as contexts for applying these ideas. There are no mentions or exploration of AI collaboration, human-AI partnerships, or distributed cognition involving AI. Thus, there is minimal conceptual alignment with Collective Intelligence as defined here: the text is exclusively about human behaviour, leadership, engagement, and team dynamics, not human-AI collaboration or synergies. The only tangential relevance comes from general themes of collaboration in Agile/DevOps, but without AI involvement, direct or implied. Audience alignment is high as the intended readers are likely practitioners in socio-technical environments, but overall focus and explicit fit are low.",
     "reasoning_summary": "This content is focused on human-only team psychology and organisational behaviour, without addressing AI partnership or collective intelligence as defined. It’s relevant to similar audiences, but lacks substantive or explicit ties to human-AI collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Organisational Psychology",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 19.36,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 3.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content thoroughly discusses organisational psychology, focusing on team motivation, leadership, and human factors in agile and DevOps contexts. However, there is no mention of autonomous AI agents, contextual intelligence, or any core aspect of agentic software delivery. The alignment and depth scores reflect some tangential relevance (via modern delivery settings), but key topics such as AI agents, human-agent collaboration, or systems intelligence are missing. The intended audience (teams, leaders) and signal are partly relevant to agentic delivery but stop short of direct connection to the category. No penalties were applied as neither tone nor content is outdated or critical.",
+    "reasoning_summary": "The content addresses organisational psychology in team contexts but does not discuss autonomous AI agents or their integration in software delivery. Fit for Agentic Software Delivery is minimal and mostly tangential.",
     "level": "Ignored"
   }
 }

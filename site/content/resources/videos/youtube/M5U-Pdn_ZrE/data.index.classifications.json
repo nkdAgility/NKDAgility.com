@@ -1432,15 +1432,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "M5U-Pdn_ZrE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:05:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address the principles or components of the One Engineering System. While there are elements of team dynamics that could tangentially relate to collaboration, the discussion lacks explicit references to 1ES, its integration of tools and processes, or best practices for its implementation.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.2,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on interpersonal communication skills for Product Owners, such as reading non-verbal cues, adapting language, and fostering open dialogue for team clarity. There are no mentions or discussions regarding the One Engineering System (1ES), nor is there consideration of standardising or integrating engineering tools, methodologies, or frameworks as defined by 1ES. The content is oriented toward individual/team communication best practices, not process/system unification. The intent, audience, and signal offer a minimal, tangential overlap, as team clarity can have a distant, indirect relevance to effective engineering systems, but this is not discussed in an integrated or systematic way.",
+    "reasoning_summary": "Content is about communication skills for Product Owners, not One Engineering System. No 1ES mentions or framework discussion, and only very weak conceptual overlap. Does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1943,6 +1950,25 @@
     "final_score": 24.0,
     "reasoning": "The content focuses on communication skills and fostering understanding in teams, particularly for Product Owners, through reading non-verbal cues, open dialogue, and adapting communication. There is no direct or explicit mention of Agentic Engineering or its core concepts such as developer agency, systemic observability, DevOps, or ethical AI. The alignment is minimal, as the content emphasizes psychological safety and communication—foundational for agency, but does not discuss the deliberate design of engineering practices to maximize agency for humans or intelligent systems. The depth remains superficial with respect to the category. Audience partially overlaps (technical teams, product owners), but does not directly address agentic engineering practitioners. Content maintains high focus but is off-topic regarding the category.",
     "reasoning_summary": "The content centers on team clarity and communication for Product Owners, not on Agentic Engineering or its core themes. While related to fostering team autonomy, it does not address the intentional design of engineering practices that maximize human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 9.66,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers exclusively on interpersonal skills for product owners—improving team clarity, communication, and understanding. It does not mention or allude to autonomous agents, contextual intelligence, or the integration of AI in delivery processes. There are no references to agentic principles, modern engineering practices for agentics, or supporting frameworks. Audience is product owners, which may overlap tangentially with agentic delivery, but focuses instead on soft skills and team dynamics. Content is wholly unrelated to Agentic Software Delivery per the classification definition.",
+    "reasoning_summary": "Content focuses on team communication and understanding for product owners, with no mention or alignment to agentic AI or Agentic Software Delivery themes. No fit for the assigned category.",
     "level": "Ignored"
   }
 }

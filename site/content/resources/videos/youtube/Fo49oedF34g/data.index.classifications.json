@@ -819,16 +819,23 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "Fo49oedF34g",
     "category": "Coaching",
-    "calculated_at": "2025-03-14T22:40:53",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions agile coaching and consulting, indicating a connection to the coaching category. However, it lacks detailed discussion on coaching techniques, the role of a coach, or specific strategies for fostering team collaboration and growth. The focus is more on promoting services rather than exploring the nuances of coaching in Agile contexts.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 54.25,
+    "ai_mentions": 7.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.9,
+    "ai_intent": 5.6,
+    "ai_audience": 6.3,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content mentions 'agile coaching' several times, and hashtag keywords like #agilecoach indicate relevance. However, the main focus is on distinguishing agile leadership from traditional management, not on coaching practices per se. The discussion stays high-level, using 'coaching' as an offered service rather than deeply exploring coaching techniques, roles, or frameworks. Intent is partly aligned, as the target audience seems to include those seeking coaching, but most content is promotional rather than educational on coaching itself. There is little depth into coaching methodologies, tools, or case studies. The audience somewhat matches the coaching category, being agile practitioners or organizations. The signal-to-noise ratio is moderate due to heavy promotional and keyword tagging.",
+    "reasoning_summary": "Coaching is mentioned and offered, but the main focus is agile leadership vs. management, not coaching practices. Content has some fit with the category but lacks depth or detailed exploration of coaching topics.",
+    "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1906,6 +1913,25 @@
     "final_score": 18.0,
     "reasoning": "The content focuses on differences between agile leadership and traditional management, stressing team collaboration and improvement. While agency and adaptability are conceptually aligned, there are no explicit references to agentic engineering or its core tenets such as systemic observability, DevOps-infused craft, or AI agency. The discussion remains surface-level and serves more as a general agile promotion, lacking depth into engineering practices or philosophical aspects of agency, thus justifying the low confidence score.",
     "reasoning_summary": "This content aligns loosely with Agentic Engineering through its emphasis on agile leadership and team empowerment, but it doesn't explore engineering practices, decision frameworks, or agentic principles in depth. Its fit to the category is minimal and largely incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Fo49oedF34g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 5.72,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.45,
+    "ai_depth": 0.97,
+    "ai_intent": 1.2,
+    "ai_audience": 1.05,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on the differences between agile and traditional leadership, emphasizing team collaboration, adaptability, and improvement. It does not mention or discuss agentic software delivery, autonomous AI agents, or integration of contextual intelligence. There’s no alignment with agentic delivery concepts or practices. Audience and intent are centered on agile coaching, training, and management—not on agentic software delivery or associated engineering frameworks. No explicit or implicit references to the category or its unique domain.",
+    "reasoning_summary": "Content discusses agile vs. traditional leadership without mentioning agentic software delivery or its key concepts. No relevant alignment or depth. Fit is negligible.",
     "level": "Ignored"
   }
 }

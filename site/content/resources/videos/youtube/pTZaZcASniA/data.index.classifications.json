@@ -1,15 +1,22 @@
 {
   "Product Management": {
+    "resourceId": "pTZaZcASniA",
     "category": "Product Management",
-    "calculated_at": "2025-04-10T21:45:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the challenges faced by CTOs regarding legacy systems and their modernization, which is more aligned with technical leadership and engineering practices rather than product management. There are no direct mentions of product management concepts, and while there is a brief mention of improving processes, it lacks depth in discussing strategic alignment with customer needs or business objectives. Overall, the content does not sufficiently engage with the core themes of product management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 63.86,
+    "ai_mentions": 1.9,
+    "ai_alignment": 7.1,
+    "ai_depth": 7.4,
+    "ai_intent": 6.5,
+    "ai_audience": 8.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "Direct mentions of 'product management' or its frameworks are absent, resulting in a low mentions score. However, several themes—such as strategic modernisation, management approaches, alignment with business needs, and balancing trade-offs—strongly overlap with product management in the context of steering legacy system modernisation. The depth of discussion is moderate: while practical and strategic aspects are discussed, techniques or explicit frameworks from product management are not fully elaborated. The intended audience includes executives and transformation stakeholders, partially matching product management's strategic focus. Signal-to-noise is decent, though some content is generic organisational advice. No penalties were needed as the material is timely and non-contradictory.",
+    "reasoning_summary": "While the content addresses strategic modernisation and management of technology, it does not explicitly discuss product management frameworks or roles. The fit is partial; themes overlap, but the core focus is not squarely on product management.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -2222,6 +2229,25 @@
     "final_score": 38.0,
     "reasoning": "The content thoroughly addresses technical and organizational pain points of legacy system modernisation. While it touches on shifting management approaches and discusses decision-making in modernization, it stops short of explicitly referencing Agency, Agentic Engineering, or key philosophical aspects such as maximising human or AI agency, ethical AI integration, or DevOps-infused craft. Audience fit is strong, as technical and leadership roles are targeted. There is some conceptual overlap at a high level (e.g., enabling organizations to thrive, systemic improvement), but no direct mention or deep exploration of agentic principles. The direct match to Agentic Engineering is weak, mainly due to absent terminology, narrow focus (modernization strategies), and a lack of philosophical or systemic depth specific to maximising agency.",
     "reasoning_summary": "This content focuses on legacy system modernisation strategies, with some overlap in organizational and decision-making themes. However, it does not directly discuss or explore the principles or practices of Agentic Engineering, resulting in a low alignment and confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pTZaZcASniA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 18.484,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 2.4,
+    "ai_audience": 5.0,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There are no direct mentions of AI agents, agency, or context-aware intelligence. The content focuses on legacy system modernisation, technical debt, compliance, integration, and management approaches. While it hints at evolving systems of work and modern practices, it never addresses key Agentic Software Delivery principles such as autonomous AI agents, human-in-the-loop design, contextual intelligence, AI-driven delivery practices, or feedback loops involving agents. The intent is helping leaders with legacy strategies, not integrating agentic delivery concepts. The audience overlaps somewhat, as both target technical/leadership roles, but topical alignment is weak.",
+    "reasoning_summary": "The content is focused on legacy system modernisation strategies, not the integration of autonomous AI agents or agentic practices. Its fit to Agentic Software Delivery is low; substantial topic misalignment, with only basic audience relevance.",
     "level": "Ignored"
   }
 }

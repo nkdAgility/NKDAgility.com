@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Customer Retention",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses customer retention strategies and their alignment with Agile principles, but it does not focus on specific frameworks or provide a structured methodology for implementing Agile, DevOps, or Lean principles. While it touches on concepts relevant to Agile, it lacks a primary focus on frameworks themselves, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 24.65,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 1.9,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content discusses customer retention strategies, value delivery, and customer engagement, but does not mention, analyze, or recommend any framework (Agile, Scrum, Kanban, etc.) or their implementation. Although Agile principles are briefly referenced, there is no structured discussion related to the core scope of the Framework category, such as comparison, adaptation, or guidance on frameworks. The content is more focused on business strategy and customer-centric thinking, lacking both direct linkage and in-depth treatment of frameworks.",
+    "reasoning_summary": "The content is about customer retention. While it briefly nods to Agile principles, it does not address frameworks, their use, structure, or implementation. There is minimal relevance, making the fit to the Framework category very low.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3117,6 +3124,25 @@
     "final_score": 9.0,
     "reasoning": "The content does not mention Objective Key Results (OKRs) or connect customer retention to the OKR framework or principles. It focuses on strategies for customer retention, value delivery, and continuous improvement, with passing reference to Agile, but without theoretical or practical exploration of OKRs. There is no discussion of objectives, key results, measurement, alignment, or other foundational elements as defined by John Doerr. The audience, while generally aligned with those interested in business agility, is not specifically addressed in relation to OKR practice.",
     "reasoning_summary": "This content is about customer retention strategies and value delivery without any reference or conceptual tie to OKRs. It does not align with the category definition and lacks the required focus on Objective Key Results.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Customer Retention",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 14.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 3.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on customer retention strategies such as feedback loops, value delivery, and Agile principles, but does not mention or engage with agentic software delivery, autonomous AI agents, or their integration with human expertise. There is no discussion of AI, contextual intelligence, modern engineering practices (like CI/CD or observability), or governance frameworks for agentic delivery. While continuous feedback loops and iterative improvement are mentioned, these are general Agile practices and not unique to agentic approaches. Therefore, the fit for 'Agentic Software Delivery' is very minimal.",
+    "reasoning_summary": "Content centers on general customer retention strategies and Agile principles, not on agentic software delivery or AI agents. There is virtually no overlap with the key topics or definition of the assigned category; fit is very low.",
     "level": "Ignored"
   }
 }

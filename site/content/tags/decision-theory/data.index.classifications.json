@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Decision Theory",
     "category": "Tool",
-    "calculated_at": "2025-04-09T16:03:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "While the content discusses Decision Theory as a framework for decision-making, it does not focus on specific tools or software applications that facilitate this process. The mention of 'tools' is vague and does not refer to any particular mechanism or application. The content aligns conceptually with the idea of improving decision-making processes, but it lacks depth in discussing specific tools or their integration within Agile, Lean, or DevOps frameworks. Overall, the primary focus is on the theory itself rather than on tools, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 38.55,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.2,
+    "ai_intent": 3.8,
+    "ai_audience": 5.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on Decision Theory as a conceptual framework for decision-making, not as a practical tool, mechanism, or application in Agile, Lean, or DevOps. While it uses 'tools' metaphorically, it does not explore any actual software, application, or implementation relevant to the 'Tool' category. There are no direct mentions or discussions of specific tools, tool comparisons, integrations, or practical best practices as defined in the category. The intent is largely educational and theoretical, aimed at practitioners but with minimal connection to how tools function within workflows. Depth and signal are moderate, given the alignment with evidence-based practices, yet absence of tool-centric detail limits fit for this category.",
+    "reasoning_summary": "This content describes Decision Theory as a conceptual framework, not a practical tool or software relevant to the 'Tool' category. Fit is partial at best; lacks specific discussion of tools, features, or implementations.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3119,6 +3126,25 @@
     "final_score": 34.0,
     "reasoning": "The content does not mention 'collective intelligence' or any of its key terms and never refers directly or indirectly to human-AI collaboration. Its focus is decision theory as a discipline applied in teams and organizations, emphasizing structured, evidence-based decision-making under uncertainty using heuristics, probability, and behavioral economics. There is no discussion of humans collaborating with AI agents, distributed cognition, or any relevant patterns of human-AI teaming. The audience and signal-to-noise ratio are high, as the content is well-targeted to practitioners interested in decision frameworks, but core alignment and depth with the Collective Intelligence category are minimal.",
     "reasoning_summary": "The content discusses decision-making frameworks in teams but lacks references to human-AI collaboration or collective intelligence. While relevant to team-oriented decision processes, it does not address the category’s core focus.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Decision Theory",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 27.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 3.4,
+    "ai_audience": 4.1,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content discusses decision-making theory, heuristics, and evidence-based approaches in uncertainty, which is related in spirit to some aspects of agentic software delivery (notably evidence-based decisions and adaptability). However, there are no direct mentions of agentic software delivery, autonomous AI agents, or technical integration into delivery practices. The focus is generic and could apply to any business or team context. While the intent and audience show mild relevance (teams, organisations, value delivery), there is no discussion of software delivery, agency of AI, or integration of context-aware agents. The signal is moderate as the content is focused, but not aligned in depth or detail with the category’s core definition.",
+    "reasoning_summary": "Content explores decision-making in uncertainty but lacks discussion of agentic AI, software delivery integration, or context-aware agents. Partial alignment in evidence-based themes, but overall fit with Agentic Software Delivery is weak and indirect.",
     "level": "Ignored"
   }
 }

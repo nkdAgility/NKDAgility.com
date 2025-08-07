@@ -36,15 +36,22 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Hypothesis Driven Development",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Hypothesis Driven Development, which aligns with the tenet of evidence-based decision-making by emphasising experimentation and validated learning. It highlights the importance of adapting to user feedback and market conditions, which resonates with the core themes of Agile methodologies. However, while it touches on principles relevant to tenets, it does not explicitly mention specific tenets or actionable guiding rules, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 76.3,
+    "ai_mentions": 2.3,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.9,
+    "ai_intent": 8.5,
+    "ai_audience": 8.0,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses Hypothesis Driven Development as a systematic, evidence-based approach, closely aligning with tenets like 'evidence-based decision-making.' While 'tenet' isn't mentioned directly, the method described is prescriptive and shapes behavior, embodying a doctrine within Agile/Lean/DevOps contexts. It details how teams should operate using this principle, reflecting strong alignment and depth. Intent is to inform practitioners on adopting this guiding rule. The audience (Agile, Lean, DevOps professionals) matches well, and little content is off-topic. No penalties: tone is constructive, and the focus is contemporary.",
+    "reasoning_summary": "The content exemplifies a core tenet—evidence-based, hypothesis-driven decision-making—within Agile/Lean, providing prescriptive guidance on behavior and process. Fit is strong, though 'tenet' isn't named explicitly; overall alignment and intent are clear.",
     "level": "Secondary"
   },
   "Method": {
@@ -3129,6 +3136,25 @@
     "final_score": 16.0,
     "reasoning": "The content focuses on human team learning and experimentation for product decisions, emphasizing data-driven and agile mindsets. There is no mention of AI, human-AI collaboration, or the emergent properties at the intersection of human and AI agency. All examples and concepts are about collective human learning, not human-AI partnerships. The alignment, depth, and signal-to-noise scores are low because the core subject is unrelated to Collective Intelligence as defined; audience relevance is somewhat higher since product teams could be interested in both topics, but there's no direct linkage.",
     "reasoning_summary": "This content centers on human team experimentation and learning, with no references to human-AI collaboration or collective intelligence as defined. Its relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Hypothesis Driven Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 27.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content explores Hypothesis Driven Development: experimentation, validated learning, and product agility. However, it does not mention autonomous AI agents, agentic design, or context-aware intelligence. It targets product teams/engineers but does not address agentic software delivery's unique role (e.g., agent-human synergy, governance, or embedded AI). The match to the category is mostly incidental, as both value data-driven delivery, but the core agentic concepts are absent.",
+    "reasoning_summary": "Content describes agile, hypothesis-driven experimentation but does not discuss autonomous agents, context-aware AI, or agentic system integration. There is little overlap with core 'Agentic Software Delivery' principles; fit is weak and mostly indirect.",
     "level": "Ignored"
   }
 }

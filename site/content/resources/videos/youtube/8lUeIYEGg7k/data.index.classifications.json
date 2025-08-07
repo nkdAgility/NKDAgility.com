@@ -1,15 +1,22 @@
 {
   "Scrum": {
+    "resourceId": "8lUeIYEGg7k",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T16:19:34",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 10,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses agile principles and the challenges of scaling agile practices, which are relevant to Scrum. However, it primarily focuses on scaling frameworks like SAFe, LeSS, and Nexus, rather than Scrum itself. While there are mentions of agility and delivering value, the lack of direct references to Scrum roles, events, or artifacts limits the depth of discussion specifically on Scrum. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 44.78,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.6,
+    "ai_intent": 5.2,
+    "ai_audience": 6.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "Direct mentions of Scrum are minimal—one brief bracketed reference to 'Large Scale Scrum (LeSS)', surrounded by broader scaling frameworks (SAFe, Nexus). The primary focus is scaling agile practices generally, not Scrum-specific principles or frameworks. While LeSS and Nexus (Scrum-based scaling) are named, the discussion remains generic and method-agnostic, emphasizing organizational fit, dependency management, and agility as mindset, not Scrum roles/events/artifacts or Scrum Guide principles. The intended audience overlaps with Scrum practitioners (agile coaches, org leaders), but the content speaks more to general agile scaling. There is no in-depth exploration of Scrum, Scrum roles, or unique Scrum challenges. Minimal signal relates directly to Scrum, with most guidance applying to any agile scaling initiative.",
+    "reasoning_summary": "This content mentions Scrum (via LeSS) but is focused broadly on scaling agile, discussing frameworks and strategies in a generic sense. It partially fits the Scrum category but does not primarily address Scrum-specific practices or principles.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -2228,6 +2235,25 @@
     "final_score": 30.0,
     "reasoning": "The content focuses on strategies for scaling Agile across multiple teams, addressing frameworks (SAFe, LeSS, Nexus), dependencies, and maintaining agility during organisational growth. There are no direct or implied references to Agentic Engineering or its key themes such as systemic observability, DevOps-infused craft, developer or AI agency, or feedback-driven adaptation. The main discussion stays within mainstream Agile scaling and transformation practices. While the emphasis on autonomy and tailored solutions partially reflects some agentic principles, the content does not explicitly discuss agency design, ethical AI integration, or decentralised decision-making frameworks. The audience is technical (practitioners, managers), which partially overlaps, but otherwise the content is broadly relevant to Agile at scale, not Agentic Engineering specifically.",
     "reasoning_summary": "This content is about Agile scaling strategies and maintaining agility across multiple teams, without explicit reference to Agentic Engineering concepts or practices. There is little discussion of agency, autonomy, or engineering practices focused on maximising human or AI agency, so alignment is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8lUeIYEGg7k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 14.42,
+    "ai_mentions": 0.12,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.36,
+    "ai_intent": 1.54,
+    "ai_audience": 4.05,
+    "ai_signal": 2.56,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses strictly on scaling agile across multiple teams, referencing frameworks like SAFe, LeSS, and Nexus. It does not mention autonomous AI agents, contextual intelligence, or any agentic delivery topics. There is no evidence of discussions around integrating proactive AI, modern engineering practices unique to agentic software delivery, or governance/models involving agency. Thus, direct mentions and conceptual alignment are very low. The intended audience (agile practitioners or leaders) only slightly overlaps due to general software delivery interest, but there's no agentic aspect. The content is focused, but on a different topic; hence, a low signal-to-noise score as relevant to this category.",
+    "reasoning_summary": "The content discusses scaling agile teams, not agentic software delivery. There is no mention of AI agents, autonomy, or related practices. The subject, intent, and themes do not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

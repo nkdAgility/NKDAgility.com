@@ -12,17 +12,23 @@
     "level": "Ignored"
   },
   "Engineering Excellence": {
+    "resourceId": "pQyifHyTkWo",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-04-29T13:43:01",
-    "ai_confidence": 72.0,
-    "ai_mentions": 3,
-    "ai_alignment": 80.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the transition from monolithic to microservices architecture, which is a significant aspect of engineering excellence. It mentions 'Engineering Excellence + Technical Leadership' as a formula for successful transformation, indicating a direct focus on high standards in software craftsmanship. The alignment with core themes is strong, particularly in relation to best practices and the role of DevOps in enhancing development efficiency. However, while it provides valuable insights, the depth of discussion on specific engineering practices and metrics is somewhat limited, preventing a higher score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is well-suited to the category as it explores the shift from monolithic to microservices architecture—a key topic in engineering excellence. It highlights the importance of technical leadership and best practices, aligning closely with core themes. However, it doesn’t delve deeply into specific engineering methods or metrics, so its coverage is somewhat broad rather than detailed."
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 71.24,
+    "ai_mentions": 3.1,
+    "ai_alignment": 8.4,
+    "ai_depth": 6.6,
+    "ai_intent": 7.9,
+    "ai_audience": 7.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 71.0,
+    "reasoning": "The content does not explicitly mention 'engineering excellence' but focuses strongly on engineering best practices in transitioning from monolithic to microservices architectures—a common topic in engineering excellence discourse. It discusses planning, technical and team challenges, decomposing systems, avoiding complexity, and ensuring scalable, maintainable delivery. However, while alignment with engineering excellence concepts is solid, the text is not a direct exposé on classic standards like CI/CD, code reviews, or metrics. The audience is technical; the content is focused and relevant, with minor reference to organizational consulting. No penalties apply as the advice is current and matches the definition. Final confidence is moderate-high due to strong alignment without frequent explicit category references.",
+    "reasoning_summary": "Content aligns well with engineering excellence by emphasizing best practices for modern software design, team structure, and scalable delivery. It fits the category mainly through relevant themes, but explicit mentions are minimal. Partial but strong conceptual fit.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -2225,6 +2231,25 @@
     "final_score": 35.0,
     "reasoning": "The content is a practical guide focusing on transitioning from monoliths to microservices. While it addresses adaptive delivery, team dynamics, and iterative approaches—concepts loosely related to agentic practices—it never explicitly references agency, ethics, AI collaboration, or decentralised decision-making. The philosophical dimension central to Agentic Engineering is largely absent, and there is little substance on maximizing human or AI agency, system observability, or DevOps-infused engineering craft. The main themes are relevant to technical practitioners, which matches the audience alignment and maintains focus, but the fit to Agentic Engineering is mostly tangential and lacks conceptual depth.",
     "reasoning_summary": "This content primarily discusses practical microservices transitions, with some overlap in adaptability and team focus, but lacks explicit treatment of agency, ethical AI, or the core philosophy of Agentic Engineering. The relevance is marginal, with minimal direct alignment to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pQyifHyTkWo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 18.664,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 1.5,
+    "ai_audience": 5.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is narrowly focused on transitioning from monolithic systems to microservices, covering elements like team alignment, complexity, incremental change, and delivery improvement. However, it makes no explicit reference to autonomous AI agents, agency, or context-aware intelligent systems. The core themes of Agentic Software Delivery (proactive AI agents, human/AI synergy, agent-coupled delivery, contextual intelligence, feedback loops, agentic governance) are not present. The discussion stays within classic modern engineering best-practices for architecture and delivery but does not engage with agentic principles, human-in-the-loop AI, or agent-powered software delivery. The audience and delivery focus are somewhat adjacent, but the absence of agentic themes leads to a very low confidence score.",
+    "reasoning_summary": "This material chiefly addresses strategy for microservices transitions, not Agentic Software Delivery. It does not discuss AI agents, contextual intelligence, or agentic practices, making it a poor fit for the category.",
     "level": "Ignored"
   }
 }

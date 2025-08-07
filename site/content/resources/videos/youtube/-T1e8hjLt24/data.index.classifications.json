@@ -877,15 +877,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "-T1e8hjLt24",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:04:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of continuous learning rather than Continuous Delivery. While it touches on the importance of staying relevant in a rapidly evolving tech landscape, it does not explicitly discuss Continuous Delivery principles, practices, or related topics. The mention of learning and personal growth is too general and does not align with the specific themes of Continuous Delivery, such as automation, rapid feedback, or software quality. Therefore, the confidence score reflects a very low alignment with the category.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 10.908,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on personal and professional continuous learning, with no explicit mention of Continuous Delivery or software delivery cycles. While readers in technology may overlap with the intended audience of Continuous Delivery content, there is no discussion of delivery automation, incremental change, integration, feedback, deployment, or related practices. The intent centers on encouraging ongoing skill and knowledge development, not the disciplined release of software. Consequently, there are only vague, if any, conceptual connections — for example, references to experimentation or new project management approaches. However, these are generic and not tied to delivery practices. The signal-to-noise ratio is therefore low for this category, despite the high relevance of continuous learning for professional development in tech at large.",
+    "reasoning_summary": "This content is solely about continuous learning for individual growth, not Continuous Delivery. It lacks relevant themes, intent, or explicit discussion of software delivery practices and is only marginally related, if at all.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1895,6 +1902,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on the value of continuous learning, personal growth, and staying current in the tech world, but does not explicitly mention Agentic Engineering or discuss issues like developer agency, system observability, DevOps, or ethical AI. Concepts like experimentation and reflection are present but are used in general self-improvement contexts rather than connected to maximizing human or AI agency in engineering. The intended audience overlaps slightly (technical professionals), but there's only tangential relevance to the category. No penalty is applied, as the content isn't outdated or oppositional.",
     "reasoning_summary": "This content encourages general continuous learning in tech, with only indirect or coincidental touches on concepts like experimentation. It lacks direct discussion of agentic engineering, developer/AI agency, or deliberate engineering design.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 5.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 2.2,
+    "ai_audience": 1.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on continuous learning and personal development, not on Agentic Software Delivery. It mentions technology and project management generally, but does not discuss autonomous AI agents, integration with human expertise, agentic principles, or relevant software delivery frameworks. There are no explicit or implicit references to the architecture, agency, feedback loops, human-in-the-loop, or engineering practices essential to the category definition. Furthermore, the primary audience is general technologists or professionals seeking self-improvement, not specifically those engaged in agentic software delivery transformation.",
+    "reasoning_summary": "Content focuses on personal and professional growth through learning, not on Agentic Software Delivery. No significant overlap in topic, theme, or intent. Audience, purpose, and depth are misaligned; fit is weak and only tangential at best.",
     "level": "Ignored"
   }
 }

@@ -881,15 +881,22 @@
     "level": "Ignored"
   },
   "Product Discovery": {
+    "resourceId": "HzW0lKldLP9",
     "category": "Product Discovery",
-    "calculated_at": "2025-04-10T14:45:04",
-    "ai_confidence": 45.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritisation in the context of delivering value to stakeholders, which is relevant to product discovery. However, it primarily focuses on backlog management within a Scrum framework rather than exploring methodologies for identifying customer needs or validating product ideas. The mention of value creation hints at understanding user requirements, but the overall depth and direct focus on product discovery practices are limited.",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 50.2,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.5,
+    "ai_depth": 4.8,
+    "ai_intent": 6.1,
+    "ai_audience": 6.9,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content addresses value-based prioritization—relevant to narrowing down product features, a core part of Product Discovery—but does not directly mention discovery or cover user research, validation, or customer feedback. Depth is moderate, focusing on prioritization within Scrum, aligning partially with the category (feature definition and value assessment) but not fully exploring discovery methodologies or user-centric practices. Audience is Scrum teams, which is aligned; intent is informative. Signal is good; little irrelevant content.",
+    "reasoning_summary": "Partially fits Product Discovery by focusing on prioritization and value, but lacks coverage of user research, customer feedback, or discovery methodologies. Intent and audience moderately align, but scope is too narrow for strong categorization.",
     "level": "Tertiary"
   },
   "Lean Startup": {
@@ -1976,6 +1983,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses on prioritizing work by value to stakeholders and balancing value creation with revenue, which are general Agile and Scrum topics. There is little to no explicit mention or exploration of agentic engineering concepts such as agency, decentralization, AI collaboration, or feedback-driven adaptation. The audience aligns moderately as it addresses Scrum teams (practitioners), but the thematic overlap with Agentic Engineering is minimal, and signal-to-noise is modestly high since the focus stays on prioritization. No elements are outdated, critical, or satirical; thus, no penalties are applied.",
     "reasoning_summary": "This content centers on backlog prioritization for stakeholder value—a standard Agile practice—without reference to agentic principles, systemic autonomy, or AI integration. Its overlap with Agentic Engineering is minimal, resulting in a low confidence of fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 18.65,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.35,
+    "ai_intent": 2.9,
+    "ai_audience": 5.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content describes prioritization techniques in Scrum, focusing on stakeholder value and backlog management—topics relevant to general agile and product delivery. There is no mention of AI agents, autonomous agency, contextual intelligence, agent/human synergy, or engineering/Governance practices listed as core to Agentic Software Delivery. The discussion lacks any direct or indirect reference to agentic systems or associated frameworks. Therefore, the fit to the 'Agentic Software Delivery' category is minimal, with only a broad link via shared audience (practitioners in software delivery) but lacking conceptual or thematic alignment.",
+    "reasoning_summary": "This content discusses generic backlog value prioritization in Scrum, not Agentic Software Delivery. No mention of AI agents, autonomous systems, or agentic concepts—partial audience overlap, but only a vague, indirect fit.",
     "level": "Ignored"
   }
 }

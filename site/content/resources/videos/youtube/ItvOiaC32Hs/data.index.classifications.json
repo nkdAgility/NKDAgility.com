@@ -1481,15 +1481,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "ItvOiaC32Hs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:26:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on addressing chaos within Agile teams and does not explicitly mention the One Engineering System (1ES) framework or its principles. While it discusses alignment and communication, which are relevant to 1ES, it lacks a direct connection to the integration and standardisation of engineering processes that define 1ES. The discussion is more about Agile practices rather than the comprehensive framework of 1ES.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 32.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.7,
+    "ai_intent": 3.1,
+    "ai_audience": 5.6,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on aligning Agile teams, mitigating chaos, and improving communication/collaboration. There is no direct mention of 'One Engineering System,' and the recommended strategies remain at the level of team processes, generic agile practices, and leadership—not on the 1ES's integration of standardized tools and frameworks. There are conceptual overlaps in terms of alignment and breaking down silos, but the intent and detail stop short of 1ES. The audience aligns with tech teams, but content is too broad/materially unrelated to 1ES.",
+    "reasoning_summary": "Content targets Agile team alignment and communication, not One Engineering System. No 1ES-specific tools, frameworks, or implementation are discussed. Conceptual fit is partial and indirect; thus, confidence is low for this category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1993,6 +2000,25 @@
     "final_score": 32.0,
     "reasoning": "There are no explicit mentions of 'Agentic Engineering.' The content is focused on improving Agile team alignment and reducing chaos through communication and clarity of objectives. While this tangentially relates to maximizing team agency, it falls short of discussing deliberate design for human or AI agency, DevOps, systemic observability, or ethical AI. The main ideas lack depth and thematic alignment with core agentic engineering, remaining rooted in general Agile practices. The audience slightly overlaps (Agile practitioners), but the focus is more on practical team management than engineering philosophy or autonomy.",
     "reasoning_summary": "This content addresses Agile team alignment and reducing chaos but does not explicitly discuss Agentic Engineering or its key themes. It focuses on general team practices rather than engineering for agency, autonomy, or human-AI collaboration, making the fit marginal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 16.53,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 5.3,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on Agile team alignment, chaos management, and general Agile practices. There are no mentions of agentic software delivery, autonomous AI agents, context-aware systems, human-AI synergy, modern engineering practices for agentic delivery, or governance frameworks specific to agents. The intent is about improving collaboration and clarity in teams, not embedding intelligence or agency. Alignment and depth with the category are low. Audience and signal are slightly higher as the text targets Agile practitioners and stays focused, but it is not relevant to Agentic Software Delivery.",
+    "reasoning_summary": "This content focuses strictly on Agile team alignment and chaos reduction, with no discussion of agentic principles, AI agents, or related frameworks. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

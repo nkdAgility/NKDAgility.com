@@ -1010,15 +1010,22 @@
     "level": "Ignored"
   },
   "Lean": {
+    "resourceId": "Gtp9wjkPFPA",
     "category": "Lean",
-    "calculated_at": "2025-03-14T23:37:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'lean' in the context of DevOps but does not delve into Lean principles or methodologies. The primary focus is on the integration of DevOps and Agile, with limited discussion on Lean concepts, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 18.004,
+    "ai_mentions": 2.0,
+    "ai_alignment": 2.504,
+    "ai_depth": 1.55,
+    "ai_intent": 2.4,
+    "ai_audience": 3.8,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused on the integration of DevOps and Agile, not Lean. Lean is mentioned once (as a sub-concept of DevOps) but not discussed nor elaborated upon. No key Lean principles, tools, or methodologies are covered, nor are there conceptual links or examples to Lean. The main themes are synergy, culture, and delivery, not value stream mapping, waste reduction, or Kaizen. Audience is technical but not specifically Lean practitioners. Discussion of Lean is incidental, making it a weak fit for the Lean category, with low direct alignment, depth, and signal.",
+    "reasoning_summary": "Lean is only briefly mentioned as a DevOps aspect; no Lean principles, practices, or in-depth discussion are present. The main focus is DevOps/Agile integration, so content only partially fits the Lean category.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -1948,6 +1955,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on the interplay between DevOps and Agile, discussing their unique perspectives and how they complement each other in software delivery and team collaboration. While these topics are relevant to Agentic Engineering, there is no explicit mention of agency (human or AI), decentralised decision-making, or ethical/systemic autonomy. The discussion remains surface-level, lacking depth around maximizing agency or integrating AI as collaborators. Audience fit is partial, as it targets practitioners interested in Agile and Scrum, but does not directly address agentic engineering frameworks, systemic observability, or ethical AI. Thus, while somewhat tangential, the content is not off-topic and scores modestly due to its relevance to engineering culture and process.",
     "reasoning_summary": "This content discusses the integration of DevOps and Agile, focusing on complementary roles in software delivery and collaboration. However, it does not directly address agency, systemic autonomy, or the core practices of Agentic Engineering, resulting in only partial alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.8,
+    "ai_intent": 1.9,
+    "ai_audience": 1.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses how DevOps and Agile integrate, emphasizing their complementary roles in process, people, and engineering for improved software delivery. However, it makes no mention of agentic delivery, AI agents, contextual intelligence, or modern agentic principles. The discussion remains superficial with regard to automation, focusing instead on methodologies, collaboration, and course promotion. Audience and intent are very generally about software delivery and methodology, not specifically about Agentic Software Delivery innovations or practices.",
+    "reasoning_summary": "This content does not align with Agentic Software Delivery; it focuses on Agile and DevOps integration without referencing AI agents, autonomy, contextual intelligence, or agentic delivery concepts.",
     "level": "Ignored"
   }
 }

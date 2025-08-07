@@ -691,12 +691,22 @@
     "level": "Ignored"
   },
   "Transparency": {
+    "resourceId": "N4fzkLtirTS",
     "category": "Transparency",
-    "calculated_at": "2025-04-10T15:52:31",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 80.0,
-    "reasoning": "The content emphasizes promoting transparency in Product Backlog management, highlighting techniques to enhance clarity and transparency, which are central themes of the course. It thoroughly discusses the importance and methods of maintaining transparency within the context of Scrum, making it a primary topic.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 63.135,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.8,
+    "ai_depth": 6.7,
+    "ai_intent": 7.2,
+    "ai_audience": 8.3,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 63.0,
+    "reasoning": "The course content mentions transparency explicitly in relation to Product Backlog management, including as a learning outcome and course topic. Conceptually, it aligns with transparency by focusing on clarity for team members and stakeholders. However, transparency is only one facet of a broader curriculum on backlog management and empirical/process skills. Depth of coverage is moderate: transparency receives a dedicated subtopic but is not the course's main focus. Intent suits the category, aiming to inform those in Agile roles about promoting openness. Audience is well matched (Scrum practitioners). The majority of the content is relevant. No penalties are needed, as the tone is aligned and practices current.",
+    "reasoning_summary": "Transparency is explicitly mentioned and addressed but is a supporting theme within a broader backlog management course, not the sole focus. Content fit is solid but not comprehensive for the Transparency category.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -1954,6 +1964,25 @@
     "final_score": 38.0,
     "reasoning": "While the course promotes concepts such as team autonomy and data-driven decision making, direct references to Agentic Engineering or its central themes, such as maximising human and AI agency, systemic observability, or ethical AI integration, are lacking. Most of the content is focused on backlog management within the Scrum framework, which has some conceptual overlap (autonomy, iterative improvement) but does not deeply engage with the deliberate engineering of agency at human or system levels. There are limited signs of DevOps-Infused Craft or ethical AI collaboration. The intended audience (Scrum practitioners) overlaps in part, and content relevancy is generally good, but the course is not constructed primarily around Agentic Engineering principles.",
     "reasoning_summary": "The content emphasizes backlog management, transparency, team autonomy, and empirical decision-making within Scrum, sharing surface-level alignment with Agentic Engineering topics. However, it does not directly address or deeply explore the core concepts or philosophy of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "N4fzkLtirTS",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 12.43,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 4.25,
+    "ai_signal": 2.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is about traditional Scrum Product Backlog management skills, focusing on data, transparency, and stakeholder engagement. There are no explicit or implied mentions of agentic principles such as integrating autonomous AI agents, context-aware intelligence, or agent-human delivery synergy. The focus is conventional agile practice, with no reference to novel software delivery via AI agents or agency in delivery processes, depth on contextual/agentic intelligence, or modern governance frameworks as per category definition.",
+    "reasoning_summary": "Content relates solely to Scrum Product Backlog management without discussing agentic software delivery, AI integration, or context-aware agents. No conceptual or topical match; fit is minimal to none.",
     "level": "Ignored"
   }
 }

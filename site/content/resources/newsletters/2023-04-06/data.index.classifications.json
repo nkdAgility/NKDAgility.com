@@ -1471,15 +1471,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "WAc9JUyPY5M",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:09:07",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and its implementation rather than discussing the One Engineering System (1ES). While it touches on themes of improving team effectiveness and continuous improvement, it does not explicitly mention 1ES or its principles, components, or integration across teams. The discussion is more about Scrum practices and personal experiences rather than the standardisation and integration of engineering processes that 1ES entails.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 15.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.7,
+    "ai_intent": 2.3,
+    "ai_audience": 7.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on Professional Scrum, agile training, and coaching, without explicitly mentioning One Engineering System (1ES) or discussing integration/unification of engineering tools, processes, or frameworks. No 1ES principles are outlined, nor is there discussion about standardised engineering systems across teams. Target audience (practitioners/managers) has some overlap, but the thematic and conceptual focus is on Scrum practice, not 1ES. Very minor latent adjacency in talking about improvement and integration, but this does not cross into the core 1ES category.",
+    "reasoning_summary": "Content is about Scrum and agile practice, lacking all substantive links to One Engineering System. No mention or depth about unified engineering frameworks. Only superficial relevance through audience overlap. Poor fit for this category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1984,6 +1991,25 @@
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Professional Scrum and agile training, emphasizing empiricism, transparency, inspection, adaptation, and team performance. It discusses concepts like continuous improvement, customer feedback, and team empowerment, which loosely align with elements of Agentic Engineering (such as feedback-driven adaptation). However, it does not directly reference agentic engineering nor delve into agency maximization for humans or AI, systemic observability, ethical AI integration, or DevOps-infused engineering practice. The target audience (agile practitioners, scrum masters, teams) matches Agentic Engineering's demographic. However, the discussion's depth on agency, decision decentralization, or human-AI collaboration is minimal. Most content promotes training, courses, and podcasts, further reducing depth and conceptual fit. No disqualifying penalty factors such as outdatedness or satirical tone are present.",
     "reasoning_summary": "The content addresses Scrum and agile team enablement, lightly touching on feedback and empowerment, but lacks explicit or in-depth alignment with Agentic Engineering. Human/AI agency, decision frameworks, or agentic design principles are not central topics.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WAc9JUyPY5M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 9.216,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 1.1,
+    "ai_audience": 2.1,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are no mentions or thematic alignment to agentic software delivery or autonomous AI agents. The content focuses purely on Professional Scrum, agile training, and implementation challenges common to traditional agile teams. There is no discussion of integrating AI, autonomous agents, contextual intelligence, or modern agent-centric delivery principles. The target audience is agile practitioners, but not in an agentic delivery context. All content signal is directed toward Scrum education and agile team improvement, not agentic approaches or tooling. No penalties applied as content is not outdated or contradictory, just unrelated.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It covers only traditional Scrum and agile practices, without any reference to AI agents or agentic delivery concepts.",
     "level": "Ignored"
   }
 }

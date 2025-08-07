@@ -1475,15 +1475,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "4p5xeJZXvcE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:10:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of patience in agile teams, focusing on interpersonal dynamics and team culture rather than the One Engineering System framework. While it touches on collaboration and team development, it does not explicitly mention 1ES principles, components, or implementation strategies, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 14.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 1.3,
+    "ai_audience": 6.9,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses solely on cultivating patience within agile teams, exploring leadership behaviour, team trust, and growth. There is no explicit or implicit reference to One Engineering System (1ES), nor does it address standardisation, integration, shared engineering platforms, or the core elements that define 1ES. Its audience may overlap with those interested in engineering practices, but the topic is strictly about team psychology and culture rather than the systemisation and integration central to 1ES.",
+    "reasoning_summary": "Content does not discuss One Engineering System; it covers patience and team culture in agile without mentioning integration, standardisation, or 1ES principles. Fit is minimal and mostly coincidental based on audience overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1986,6 +1993,25 @@
     "final_score": 24.0,
     "reasoning": "The content focuses on cultivating patience to build trust and collaboration in agile teams. While it emphasizes supportive culture, open communication, and the avoidance of blame, it does not discuss agentic engineering concepts such as maximizing agency, decentralization, DevOps practices, systemic observability, or ethical collaboration with AI. There are no direct mentions of Agentic Engineering or coverage of its key themes. The audience is practitioners in agile/tech, but the topic is not aligned with the deliberate design of engineering practices for human or AI agency, resulting in low scores across mentions, alignment, and depth.",
     "reasoning_summary": "This content discusses patience and psychological safety in agile teams, with a general audience fit, but lacks focus on Agentic Engineering principles like agency, decentralization, or DevOps-infused practices. The relevance to Agentic Engineering is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4p5xeJZXvcE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 6.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on patience, trust, and psychological safety in agile teams. It does not mention, reference, or align with agentic software delivery, AI agents, or contextual intelligence. There are no relevant discussions of autonomy, agency, AI, or software delivery systems involving agents, nor of governance, feedback loops, or embedded intelligence. While the audience (agile practitioners, product owners) slightly overlaps with that of Agentic Software Delivery, the themes and examples are generic to team dynamics, not agent-enabled delivery. Thus, minimal alignment and no depth on required category topics.",
+    "reasoning_summary": "Content is strictly about patience and team culture in agile—not agentic delivery, AI, or agent integration. No relevant concepts or discussions align with Agentic Software Delivery’s definition.",
     "level": "Ignored"
   }
 }

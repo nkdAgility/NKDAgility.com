@@ -1488,15 +1488,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into how immersive learning in Agile settings supports ongoing skill development and practical application. While it does reference broader educational ideas, its main emphasis remains on strategies that build and sustain competence, making it highly relevant to the category."
   },
   "One Engineering System": {
+    "resourceId": "Ax5c4JFICyO",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:07:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile training and immersive learning methodologies, specifically within the context of Scrum. While it discusses training approaches, it does not address the principles, components, or implementation of the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 8.362,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses entirely on contrasting traditional and immersive Agile learning approaches, especially in Scrum.org/professional training contexts. There is no explicit or implicit reference to One Engineering System (1ES)—its principles, tool standardization, cross-team integration, or unified engineering processes. Content is about instructional methods for Agile/Scrum, not about engineering system frameworks or process unification. The only overlap is a minor tangential reference to improved collaboration or learning, but not in a systems/process/tools sense. Audience is adjacent (Agile trainers/practitioners) but not the core 1ES audience (engineering org/process architects/engineers). There's no signal for category fit and virtually no noise that is about the wrong category—it's simply irrelevant for the purposes of 1ES.",
+    "reasoning_summary": "Content does not discuss One Engineering System, its principles, or related process/tool integration. It is focused exclusively on Agile learning approaches. No meaningful alignment to the One Engineering System category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1999,6 +2006,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on the evolution from traditional to immersive Agile learning, emphasizing real-world application, feedback loops, and reflective practice in professional development. There are conceptual touchpoints with feedback-driven adaptation and empowerment of learners, paralleling some Agentic Engineering themes around continuous value delivery and empirical learning. However, there are no direct mentions or substantial discussions of developer/AI agency, systemic observability, DevOps, or ethical autonomy. The audience (Agile practitioners/instructors) somewhat overlaps with Agentic Engineering's, but most content remains strictly about learning models, not deliberate engineering for agency in software or systems. Signal is moderate, with most material relevant to learning in Agile contexts rather than agentic engineering practices.",
     "reasoning_summary": "Content aligns tangentially with Agentic Engineering through its focus on feedback, reflection, and adaptive learning in Agile, but lacks any direct engagement with agency, engineering practices, or automation. It is primarily about immersive training, not about agentic systems or engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ax5c4JFICyO",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 10.279,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.9,
+    "ai_audience": 1.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is focused entirely on the evolution of Agile and Scrum learning formats, contrasting traditional and immersive training. It covers feedback loops, double-loop learning, and learning reinforcement—concepts somewhat analogous to those in Agentic Software Delivery (e.g., learning cycles and feedback)—but never discusses or references autonomous AI agents, contextual intelligence in software delivery, synergy between humans and AI, or any of the specific agentic strategies or technologies outlined in the category definition. The audience is Agile practitioners and trainers, which does slightly overlap with Agentic delivery's technical/practitioner audience, but all content strictly pertains to education and training approaches, not agent/AI-driven delivery. Therefore, relevance is minimal, and no penalties are needed.",
+    "reasoning_summary": "This content is about Agile learning and immersive training, not about Agentic Software Delivery or AI agent integration. Aside from superficial thematic overlap with feedback loops, it does not match the category's intent, topics, or technology context.",
     "level": "Ignored"
   }
 }

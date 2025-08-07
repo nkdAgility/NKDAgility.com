@@ -1476,15 +1476,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "YUlpnyN2IeI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:38:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum, discussing its principles and practices without any direct reference to the One Engineering System (1ES). While it touches on themes of flexibility and adaptation, which are relevant to engineering practices, it does not align with the core topics of 1ES such as integration of tools, standardisation, or implementation best practices. The discussion is centred around Scrum methodologies rather than the overarching framework of 1ES.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 17.854,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 2.8,
+    "ai_audience": 5.1,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content only discusses Scrum, focusing on adapting frameworks and flexibility. There is no mention of One Engineering System (1ES), nor discussion of unified tools, processes, or cross-team integration. Its themes are Scrum/Agile-specific and individual/team-level, not about system-wide engineering frameworks as required by the 1ES category.",
+    "reasoning_summary": "This content centers on Scrum and Agile adaptability, not One Engineering System. No references to 1ES principles, unified tools, or cross-team integration. Fit is minimal and largely tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,6 +1997,25 @@
     "final_score": 36.0,
     "reasoning": "Direct references to 'Agentic Engineering' or its terminology are absent—the content never discusses maximizing human or AI agency, systems observability, or DevOps-ethical integration. However, conceptual overlap exists in the advocacy for flexibility, autonomy, and adapting frameworks, which indirectly nods to developer agency. The focus is on adaptive usage of Scrum, not the deliberate design of engineering systems to maximize agency. No in-depth exploration of agentic frameworks, feedback-driven adaptation, or systemic observability appears. The intended audience (Scrum practitioners, agile teams) somewhat matches the Agentic Engineering sphere, but overall relevance is tangential. No penalties applied—content is current and earnest.",
     "reasoning_summary": "While the content values team autonomy and pragmatic adaptation (loosely related to developer agency), it doesn't discuss Agentic Engineering concepts directly. Its main focus is Scrum flexibility, not the deliberate maximization of agency in engineering design.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "YUlpnyN2IeI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 10.174,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 2.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on pragmatic and flexible adoption of Scrum frameworks, emphasizing tailoring Agile practices to organizational context. However, it does not discuss AI, autonomous agents, context-aware intelligence, or modern agentic software delivery themes as described in the category. There are no direct or indirect references to agentic integration, AI agency, or advanced automation. The main audience is Agile/Scrum practitioners, not specifically those interested in agentic or AI-augmented delivery. While adaptation and continuous improvement are mentioned, these do not cross into agentic territory. The overall fit is minimal, with no relevant signals for the intended category.",
+    "reasoning_summary": "This content is about pragmatic Scrum practices, lacking any reference to agentic, AI-enabled, or context-aware software delivery. It does not fit the Agentic Software Delivery category except for general context focus.",
     "level": "Ignored"
   }
 }

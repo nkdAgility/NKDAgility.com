@@ -1441,15 +1441,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "7SdBfGWCG8Q",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:49:11",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning within the Scrum framework and the importance of relationships among practitioners. While it touches on collaborative aspects relevant to software development, it does not explicitly discuss the One Engineering System (1ES) framework, its principles, or its implementation. The discussion is more centred on personal experiences and relationship-building rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 12.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.85,
+    "ai_depth": 1.93,
+    "ai_intent": 2.13,
+    "ai_audience": 3.56,
+    "ai_signal": 2.18,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "This content thoroughly explores immersive learning and relationship-building in Scrum practice and training. However, it doesn't mention or discuss One Engineering System (1ES), its principles, integration of engineering tools, process standardisation, unified frameworks, or cross-team standardisation. The main ideas focus on interpersonal dynamics, peer support, and Scrum-specific teaching/learning, which are not conceptually or technically aligned with 1ES. The target audience (Scrum practitioners and trainers) may somewhat overlap with 1ES's, but the thematic focus remains exclusive to Scrum education, not engineering system integration. No outdatedness or criticisms were present to trigger penalties.",
+    "reasoning_summary": "The content focuses on immersive learning and relationship-building within Scrum, without mentioning or aligning with One Engineering System concepts, integration, or frameworks. Partial audience overlap, but overall a poor fit with the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1951,6 +1958,25 @@
     "final_score": 40.0,
     "reasoning": "The content centers on building relationships through immersive Scrum learning. There are no direct mentions or substantial discussions of Agentic Engineering, developer agency, AI collaboration, DevOps practices, or ethically driven systemic design. While themes like collaboration, autonomy, and continuous improvement partially align, the conceptual focus is on interpersonal growth rather than deliberate engineering to maximize agency. The audience (Scrum practitioners) is tangentially related, but the intent and substance are insufficient for the Agentic Engineering category.",
     "reasoning_summary": "This content focuses on building peer relationships in Scrum through immersive learning. While there are tangential alignments to agency and continuous improvement, it lacks direct relevance to Agentic Engineering's core themes—such as engineering practices, human-AI autonomy, or DevOps ethos.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7SdBfGWCG8Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 15.475,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 1.8,
+    "ai_audience": 4.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on immersive learning and building strong peer relationships within Scrum training. There is no mention of agentic concepts, AI agents, autonomous delivery, or relevant supporting practices. While some modern delivery themes like 'continuous improvement' are briefly mentioned, these are well within standard Scrum learning and do not indicate integration of AI, agency, or organizational intelligence. The audience is technical Scrum practitioners and trainers, somewhat overlapping with agentic delivery’s target group, but the topic does not address or explore agentic software delivery principles in any direct or meaningful way. The content is solely about human interactions, not about human-agent or agentic system integration.",
+    "reasoning_summary": "This content is about immersive learning and relationship-building in Scrum. It lacks any discussion of agentic software delivery, autonomous AI, or contextual intelligence, and is thus unrelated to the category except by loose audience overlap.",
     "level": "Ignored"
   }
 }

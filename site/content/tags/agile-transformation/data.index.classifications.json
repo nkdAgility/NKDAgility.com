@@ -48,16 +48,23 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Agile Transformation",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:33:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile Transformation, which is more focused on a holistic approach rather than specific structured methods or procedures. While it mentions evolving processes and practices, it does not delve into specific methods like Scrum or Kanban, which are essential for a higher confidence score in the 'Method' category. The discussion is broad and philosophical, lacking the detailed procedural focus required for a strong alignment with the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 49.4,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.4,
+    "ai_intent": 5.8,
+    "ai_audience": 5.9,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content focuses on Agile Transformation as an organisational shift, emphasizing mindset, culture, and values rather than step-by-step procedural methods. While it references evolving processes and practices, concrete methods or structured procedures (as required by the category) are not detailed. The alignment and intent partially fit, mainly via mentions of evolving processes and iterative development, but the main thrust is a philosophy and cultural change. The discussion is broad and holistic, with minimal direct method discussion, leading to a moderate confidence score.",
+    "reasoning_summary": "The content mainly discusses Agile Transformation as a holistic, cultural, and mindset shift rather than method-specific details, so fit with the 'Method' category is partial and indirect.",
+    "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -3121,6 +3128,25 @@
     "final_score": 13.0,
     "reasoning": "The content discusses Agile transformation—shifting mindsets, processes, and cultures for organizational agility. While it emphasizes collaboration, self-organization, and collective improvement, it does not mention or address human-AI collaboration, distributed cognition involving AI, or the enhancement of cognitive capabilities through human-AI partnerships. No specific themes, best practices, or examples of Collective Intelligence (as defined) are present. The main focus is purely on human teams and organizational change within Agile; AI is entirely absent. There are minimal direct mentions, marginal conceptual overlap, and very little relevance to the intended category beyond generic references to collaboration and collective action.",
     "reasoning_summary": "This content centers on human-centric Agile transformation and organizational change. It lacks any mention of human-AI collaboration or collective intelligence as defined for the category, resulting in low confidence for category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Transformation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 14.95,
+    "ai_mentions": 0.35,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses exclusively on Agile Transformation: evolving mindset, culture, principles, and organisational process. There are no direct or indirect mentions of agentic concepts—autonomous AI agents, contextual intelligence, agent/human synergy, or supporting engineering practices. The alignment, depth, and intent remain limited to classic Agile cultural and process change, not AI-driven or agent-powered delivery. The audience (change leaders, transformation agents) overlaps only slightly, and most of the signal is unrelated to the Agentic Software Delivery category.",
+    "reasoning_summary": "The content does not discuss AI agents, autonomy, or agentic delivery. Its sole focus is general Agile Transformation. There is minimal conceptual overlap, making it a poor fit for the category.",
     "level": "Ignored"
   }
 }

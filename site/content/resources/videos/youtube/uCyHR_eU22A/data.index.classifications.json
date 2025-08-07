@@ -1465,15 +1465,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "uCyHR_eU22A",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:41:33",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically the selection of items for the Sprint backlog, which is not directly related to the One Engineering System framework. While it touches on collaboration and prioritisation, it lacks explicit discussion of 1ES principles, components, or its impact on software quality and delivery timelines.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 16.51,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.45,
+    "ai_intent": 1.35,
+    "ai_audience": 5.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content strictly discusses Agile and Scrum sprint backlog selection, focusing on how teams prioritize and select backlog items for sprints by blending business, technical, and stakeholder perspectives. There is no direct mention of One Engineering System (1ES) or any of its principles, no references to unified engineering processes, integration of tools, or 1ES framework components. While the target audience overlaps (Agile practitioners), and there's some alignment in discussing cross-team collaboration, the discussion is limited to Scrum best practices, not the broader, integrated, standardizing principles of 1ES. The intent, depth, and alignment with 1ES are very limited.",
+    "reasoning_summary": "Content focuses on Agile/Scrum backlog selection, not the integration or standardization of engineering systems. No direct or conceptual connection to One Engineering System; only minimal overlap via collaborative team focus. Fit is partial and indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1977,6 +1984,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on practical techniques for Agile sprint backlog selection, collaboration, and aligning business and technical priorities. While it emphasizes team agency and collaboration, it does not explicitly discuss Agentic Engineering concepts such as systemic observability, DevOps-infused craft, or AI augmentation. There are implicit connections to developer agency, but no in-depth exploration of maximizing human or AI agency, nor explicit mention of agentic frameworks, ethical autonomy, or continuous feedback beyond general Agile principles. Thus, the match to Agentic Engineering is indirect and limited, with most content centered on Agile backlog best practices rather than the deliberate design of agentic engineering environments.",
     "reasoning_summary": "This content addresses collaborative Agile sprint backlog selection and stakeholder alignment, with minor overlap on developer agency. However, it lacks direct discussion of Agentic Engineering's core concepts such as systemic observability, DevOps, or intentional design for maximizing agency, making its fit with the category limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uCyHR_eU22A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 20.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 7.5,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on collaborative sprint backlog selection in Agile/Scrum—emphasizing business, technical, and stakeholder input. However, it does not mention or describe agentic software delivery, autonomous AI agents, agent-integration, or contextual intelligence. The themes stay firmly in traditional Agile practices, with no alignment to proactive AI, human-agent synergy, or advanced automation. The audience is similar (Agile practitioners), and the signal is reasonably focused, but there is little direct or conceptual overlap with Agentic Software Delivery.",
+    "reasoning_summary": "Content is about human-centric Agile backlog selection, not agentic or AI-augmented delivery. No mention of autonomous agents, intelligence integration, or agentic frameworks. Only a partial fit in intended audience, otherwise unrelated.",
     "level": "Ignored"
   }
 }

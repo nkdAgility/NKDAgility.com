@@ -908,15 +908,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "TabMnJpXFVA",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:07:49",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses immersive training and agile methodologies, with a focus on value delivery through DevOps and training approaches. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD, which are central to the category. The discussion is more about training and value creation rather than testing practices.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 6.22,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 2.5,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on immersive learning and DevOps within training transformation, not Test First Development. There is no direct mention or substantive discussion of Test First principles (success criteria, TDD, ATDD), nor is there an intent to inform or instruct on this category. Some references to agile and quality/value could indirectly relate, but the core themes, audience, and message target training methodologies and organisational value, not Test First practices in any detail. Thus, the fit is extremely tenuous and almost wholly tangential.",
+    "reasoning_summary": "Content is about training, immersive learning, and DevOps—not Test First Development. No mention or thematic substance related to Test First. Connection to the category is extremely weak and incidental at best.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1958,5 +1965,24 @@
     "reasoning": "The content discusses immersive training and DevOps, including value-driven mindsets and practical workflow improvements. While DevOps-related topics like autonomy and value delivery are touched upon, the piece never directly addresses agentic engineering or the philosophical integration of human/AI agency, decision frameworks, or ethical autonomy. There is a loose conceptual overlap through themes of empowerment, feedback, and value creation, but the article's focus is on training effectiveness and business impact, not systematic design practices that maximise agency. Thus, the fit is tangential rather than direct. No penalties apply as the content is not outdated and the tone is positive.",
     "reasoning_summary": "The content aligns partially with Agentic Engineering via its discussion of DevOps and value-driven practices but lacks explicit treatment of maximising human or AI agency and agentic system design. Its primary focus remains on immersive training improvements rather than agentic engineering principles.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TabMnJpXFVA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 12.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "There are no explicit mentions of agentic software delivery or autonomous AI agents. The content is entirely focused on improving learning and training effectiveness in DevOps contexts, with an emphasis on pedagogical models (double-loop, flipped learning). While modern DevOps practices are mentioned, there is no discussion of integrating AI agents, contextual intelligence, human-in-the-loop automation, or agency, which are central to Agentic Software Delivery. The depth primarily concerns training evolution rather than software delivery models enabled by agentic principles. The target audience seems to be trainers, agile practitioners, and business owners interested in teaching effectiveness, not those involved in building agentic software delivery pipelines. Nearly all content is off-topic relative to the category definition, with only minor, tangential overlap in the aspiration for organisational effectiveness and process evolution.",
+    "reasoning_summary": "The content centers on improving training and immersive learning in DevOps—not on agentic software delivery or autonomous AI agents. It has minimal relevance to the category definition, with only indirect alignment via modern practices and value focus.",
+    "level": "Ignored"
   }
 }

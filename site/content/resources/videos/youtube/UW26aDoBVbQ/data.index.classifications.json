@@ -1465,15 +1465,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "UW26aDoBVbQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:49:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product ownership and lean product delivery, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and alignment with business goals, these concepts are discussed in the context of lean methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 20.423,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 7.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is focused on product ownership and lean product delivery, discussing team empowerment, alignment, and continuous improvement. However, it never mentions 1ES or discusses unified tooling or standardised engineering processes. While the audience and some themes (like alignment, collaboration, and empowerment) partially overlap with 1ES, the article has no reference to integrating engineering tools/processes or comparing frameworks. There is no explicit intent or substantial conceptual alignment with One Engineering System.",
+    "reasoning_summary": "The article centers on lean product delivery and product ownership, not the One Engineering System. It only partially aligns in terms of audience and tangential themes but lacks direct or deep discussion of 1ES principles or practices.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1976,6 +1983,25 @@
     "final_score": 35.0,
     "reasoning": "The content centers on effective product ownership and lean product delivery, focusing on alignment, collaboration, adaptability, and continuous improvement. While some key concepts like empowerment, feedback loops, and experimentation touch tangentially on agency and adaptive practices, there's no explicit or in-depth discussion of agentic engineering, developer/AI agency, ethical design, or systems observability. The intent remains squarely on product roles, not agency-maximizing engineering philosophies. The audience is mainly practitioners—aligned but not exclusively. No obsolete practices or contradictory tone. Thus, alignment and depth are partial and mostly indirect.",
     "reasoning_summary": "This article discusses lean product delivery and effective product ownership, emphasizing empowerment and feedback, but does not directly address agentic engineering or the deliberate design of maximizing human or AI agency. Its relevance to Agentic Engineering is tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UW26aDoBVbQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 18.39,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on product ownership and lean product delivery, emphasizing alignment, collaboration, agility, empowered teams, and feedback loops. However, it does not mention or discuss agentic software delivery, AI agents, or related concepts (e.g., autonomous intelligence, agent-human synergy, governance of agents, modern engineering for agentic delivery). While themes like feedback loops and empowerment are tangentially relevant, the discussion remains rooted in human-driven lean/agile practices. There is no evidence of agentic principles, no contextual intelligence via AI, and no discussion of agent-based autonomy or integration. Audience alignment is partial, as product delivery practitioners could overlap, but the main themes do not sufficiently fit the Agentic Software Delivery definition.",
+    "reasoning_summary": "Content centers on product ownership and lean delivery—no mention of AI agents, agentic principles, or associated practices. Lacks conceptual alignment and depth for Agentic Software Delivery; fit is weak and highly tangential.",
     "level": "Ignored"
   }
 }

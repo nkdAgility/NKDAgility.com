@@ -1426,16 +1426,23 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "XMLdLH6f4N8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:14:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses organisational change and team dynamics but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on the importance of a common framework and communication, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general team collaboration rather than the specific methodologies and practices of 1ES.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 49.95,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.3,
+    "ai_depth": 5.0,
+    "ai_intent": 4.7,
+    "ai_audience": 6.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the benefits of a common framework, structured communication, and continuous improvement in engineering teams, aligning broadly with One Engineering System principles such as standardisation and integration. However, it never directly mentions 1ES, its components, or compares/contrasts it with other frameworks. Key topics (like toolchain unification, cross-team integration, or 1ES-specific case studies) are not explicitly explored, and much of the discussion is anecdotal about organisational change rather than focused on systematic, cross-team standardisation. Audience and intent are loosely aligned (engineering teams discussing frameworks), but the signal-to-noise ratio is partially diluted by generic change management themes.",
+    "reasoning_summary": "Content fits partially: it discusses shared frameworks and standardisation in engineering teams (core 1ES themes), but lacks direct reference to One Engineering System or detailed exploration of its principles and mechanisms.",
+    "level": "Tertiary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
@@ -1943,5 +1950,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, but the content frequently promotes themes like developer engagement, empowerment, autonomy, feedback cycles, and continuous improvement via frameworks and structured communication. However, it does not cover systemic observability, DevOps-infused craft, or the philosophical integration of human and AI agency central to Agentic Engineering. Discussion is practitioner-oriented, focused, and well-aligned with the audience seeking agile and collaborative engineering shifts. The confidence score reflects solid conceptual alignment and thorough engagement with developer agency, but the absence of explicit agentic terminology and deeper ties to AI collaboration and engineering autonomy limit top-tier relevance.",
     "reasoning_summary": "This content strongly supports developer empowerment and continuous improvement through frameworks and structured collaboration, aligning with aspects of Agentic Engineering. However, it lacks explicit references to agentic concepts, AI involvement, or engineering philosophy, making its fit solid but not comprehensive.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 19.239,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 3.1,
+    "ai_intent": 2.8,
+    "ai_audience": 5.0,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on organisational change, team frameworks, structured communication, and continuous improvement. It does not mention or discuss autonomous AI agents, contextual intelligence, or any agentic delivery principles. There's no reference to AI, agents, or modern engineering practices associated with agentic delivery. While the content is relevant to team practices and improvement in software delivery contexts, it lacks direct or indirect alignment with Agentic Software Delivery as strictly defined. The audience is tangentially similar (software delivery practitioners), and the signal is moderately focused but not on the agentic theme.",
+    "reasoning_summary": "Content describes team frameworks and collaboration, not Agentic Software Delivery. No mention of AI agents, autonomy, or agentic concepts. Only a partial fit via shared improvement themes, lacking direct relevance to the category.",
+    "level": "Ignored"
   }
 }

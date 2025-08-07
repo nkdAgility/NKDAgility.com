@@ -1405,15 +1405,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "XF95kabzSeY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:06:48",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 12.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of team communication and alignment, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system, which are key topics for the 1ES category.",
+    "reasoning": "The content focuses on guiding Product Owners in understanding vision, engaging teams, and delivering value in product development. It does not mention One Engineering System (1ES) explicitly nor discuss unification of tools, processes, or frameworks. While aimed at technical practitioners, its main themes (clarity of vision, engagement, value delivery) are not conceptually aligned with 1ES, and there is no exploration of standardisation, integration, or 1ES implementation. There is minimal overlap in audience, but not in topic or intent, so the confidence score is appropriately very low.",
+    "reasoning_summary": "Content addresses Product Owner leadership and product vision with no direct or indirect link to One Engineering System. It does not discuss unified engineering practices, processes, or frameworks and does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1916,6 +1923,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on a Product Owner's approach to clarifying product vision, team engagement, and value delivery. There is no direct mention or explicit discussion of agentic engineering, developer/AI agency, or related philosophical concepts. Themes like ownership and feedback are present but framed in a general product management context—engagement centers around aligning teams, not empowering engineering agency or adaptive socio-technical systems. The audience is technical-adjacent but not explicitly agentic engineering practitioners. No content is outdated or penalized. Confidence reflects low conceptual and direct connection to Agentic Engineering.",
     "reasoning_summary": "This guide offers practical tips for Product Owners on communication and vision but does not address agentic engineering concepts such as maximizing human/AI agency, ethical design, or DevOps-centric autonomy. It is largely outside the target category's scope.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 2.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on the role of Product Owners in communicating vision, engaging teams, and delivering value. It does not mention or discuss Agentic Software Delivery, autonomous AI agents, contextual intelligence, agentic principles, or any key topics outlined in the category. The intent and audience are geared towards product management in traditional agile teams with no references to AI-enabled or agentic practices. Discussion is at a general level and does not overlap conceptually or explicitly with the target category.",
+    "reasoning_summary": "This content focuses on traditional Product Owner responsibilities in vision and team engagement, with no mention or alignment to Agentic Software Delivery, AI agents, or agentic delivery principles. It does not fit the category.",
     "level": "Ignored"
   }
 }

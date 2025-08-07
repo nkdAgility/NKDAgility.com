@@ -354,13 +354,23 @@
     "level": "Tertiary"
   },
   "Cycle Time": {
+    "resourceId": "fZLGlqMdejA",
     "category": "Cycle Time",
-    "calculated_at": "2025-04-10T15:52:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of value delivery and flow efficiency, which are related to Cycle Time, but the primary focus is on resource utilisation and the need for thinking time rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 26.625,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.2,
+    "ai_intent": 3.4,
+    "ai_audience": 6.5,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on Agile values, overwork, resource utilization, team trust, leadership, and flow efficiency, but does not directly mention or substantively discuss Cycle Time as defined. While related concepts like flow efficiency and productivity are covered, there are no direct references to Cycle Time as a metric, its measurement, or its implication in workflow efficiency. The discussion is largely about changing mindsets and behaviors rather than empirical or procedural metrics analysis. The audience (Agile practitioners, coaches, leaders) overlaps with those interested in Cycle Time, so audience alignment is moderately strong. Given the tangential relevance and lack of direct or in-depth focus on Cycle Time, the overall confidence in this classification is low.",
+    "reasoning_summary": "Content covers Agile efficiency and flow, but does not mention or discuss Cycle Time specifically or in depth. Alignment with Cycle Time is tangential and secondary to its central themes. Only a weak, partial fit to the category.",
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -2028,5 +2038,24 @@
     "reasoning": "The content reflects on value-driven Agile by challenging the concept of greed and advocating for team trust, flow efficiency, communication, and leadership. Though there is a strong emphasis on human agency and systemic improvement, the article never explicitly refers to Agentic Engineering or addresses intelligent systems/AI. The connection to maximizing human agency is present but lacks direct reference to engineering practices, frameworks, or ethical AI dimensions found in the Agentic Engineering definition. Thus, conceptual alignment is moderate. The main audience is Agile practitioners and leaders (some overlap), and the content stays focused, but the match with core Agentic Engineering themes is partial.",
     "reasoning_summary": "This article is closely related to maximizing team agency and value-driven delivery in Agile, but it does not address Agentic Engineering's full scope—missing elements like AI integration and explicit engineering practice design. It is relevant yet only moderately aligned with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fZLGlqMdejA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.95,
+    "ai_intent": 2.2,
+    "ai_audience": 7.05,
+    "ai_signal": 7.45,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content discusses value-driven Agile delivery, team trust, leadership, and culture, but makes no reference to AI, agentic paradigms, autonomous systems, or their integration into software delivery. It focuses strictly on human practices. There is high audience and signal overlap, as Agile practitioners interested in agentic delivery would find some concepts familiar; however, there is no conceptual, technical, or direct overlap with Agentic Software Delivery as defined by the category. The depth and alignment scores remain low due to the absence of any discussion of autonomous agents, AI, contextual intelligence, or the human-AI partnership central to Agentic Software Delivery.",
+    "reasoning_summary": "This content thoroughly focuses on human-centered Agile practices, lacking any reference to AI, autonomy, or agentic software delivery principles. There is negligible conceptual or technical overlap with the intended category.",
+    "level": "Ignored"
   }
 }

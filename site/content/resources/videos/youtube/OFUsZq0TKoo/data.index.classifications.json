@@ -1514,15 +1514,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "OFUsZq0TKoo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:18:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development and structured learning, discussing user value, waste reduction, and collaboration. While these topics are relevant to software development, they do not specifically address the principles or components of the One Engineering System (1ES). There are no direct mentions of 1ES, and the discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 24.43,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.45,
+    "ai_intent": 2.1,
+    "ai_audience": 2.11,
+    "ai_signal": 2.07,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on structured learning, evidence-based practices, and improving collaboration within product development. There are no direct mentions of One Engineering System (1ES), nor does it discuss the unification of tools, processes, or system-wide standardization. While the theme of collaboration and continuous improvement aligns partially with 1ES general goals, the discussion remains at the practice level and is not linked explicitly or conceptually to the principles, implementation, or case studies of 1ES. The intended audience appears to be practitioners interested in personal or team improvement rather than those involved in cross-team system unification. Nearly all signal is about practical product development, not system integration.",
+    "reasoning_summary": "This content does not fit the 'One Engineering System' category. It covers evidence-based product development and collaboration, but lacks any explicit or conceptual focus on 1ES frameworks, principles, or system-wide integration.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2025,6 +2032,25 @@
     "final_score": 39.0,
     "reasoning": "The content emphasizes structured learning, experimentation, evidence-based practices, and collaboration in product development, but does not explicitly address maximising human or AI agency or the philosophical underpinnings of Agentic Engineering. There is no direct mention of the term or substantial exploration of decentralised decision-making, ethical AI integration, or DevOps craftsmanship as core themes. While elements like experimentation and feedback-driven adaptation overlap conceptually, these are not developed within the agentic context. The audience is generally product development professionals, which partially aligns but lacks a specific Agentic Engineering focus. Signal-to-noise is fairly high due to clear relevance to learning and improvement but lacks direct topical focus on Agentic Engineering.",
     "reasoning_summary": "This content explores structured learning and evidence-based practices in product development, sharing concepts like experimentation and feedback, but does not explicitly or deeply address Agentic Engineering principles, agency maximisation, or ethical AI integration. Relevance is indirect and tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OFUsZq0TKoo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on structured learning, evidence-based practices, experimentation, and collaboration in product development. However, it never directly or indirectly references autonomous AI agents, agentic principles, or any core tenets of Agentic Software Delivery. There are no mentions of context-aware AI, human-agent synergy, software delivery frameworks, or modern engineering practices as described in the classification. The audience is practitioners in product development, which could somewhat align, but the focus is entirely different. Thus, scores for most dimensions are very low, and there is no fit beyond coincidental overlap in general 'continuous improvement' themes.",
+    "reasoning_summary": "This content is not related to Agentic Software Delivery. It discusses product development and structured learning, with no reference to agentic concepts, AI agents, or relevant practices. Fit is not present or is purely accidental.",
     "level": "Ignored"
   }
 }

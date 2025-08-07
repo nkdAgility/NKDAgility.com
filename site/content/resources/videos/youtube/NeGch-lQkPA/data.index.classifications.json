@@ -1393,16 +1393,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "NeGch-lQkPA",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:03",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the integration of Kanban metrics into Scrum, which aligns with the principles of enhancing value delivery and fostering collaboration. However, while it touches on aspects of team dynamics and decision-making, the primary focus is on technical metrics and tools rather than the underlying social frameworks. The discussion is somewhat detailed but does not deeply explore the broader implications of social technologies in organisational contexts.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 88.7,
+    "ai_mentions": 2.2,
+    "ai_alignment": 9.0,
+    "ai_depth": 8.7,
+    "ai_intent": 8.9,
+    "ai_audience": 8.5,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 89.0,
+    "reasoning": "The content focuses on integrating Kanban flow metrics with Scrum, both of which are foundational social technologies in Agile and DevOps. It explicitly discusses team collaboration, value delivery, continuous improvement, transparency, and data-driven collective decision-making, using concrete examples such as retrospectives, sprint planning, and stakeholder visibility. The discussion is substantive, moving beyond surface-level mentions into practical guidance and use cases for optimizing organisational agility and emergent problem-solving. Direct mentions of 'social technologies' as a term are absent, lowering the direct mention score, but references to Kanban, Scrum, collaboration, and value delivery are frequent. The content targets Agile practitioners—exactly the intended audience. All discussion remains highly relevant with a strong signal-to-noise ratio. There are no references to outdated practices, nor is the tone critical or divergent from the social technologies framing.",
+    "reasoning_summary": "This content strongly fits 'Social Technologies' by thoroughly exploring team collaboration, value delivery, transparency, and improvement within Scrum and Kanban—core to the category’s intent—even though the exact term isn't used.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2001,6 +2008,25 @@
     "final_score": 38.0,
     "reasoning": "The content centers on integrating Kanban flow metrics into Scrum for improved value delivery, visibility, and continuous improvement. It covers topics like data-driven decisions, transparency, and adaptation—superficially related to Agentic Engineering’s focus on agency, system observability, and continuous value delivery. However, it does not address deliberate design for maximizing the agency of humans/AI, ethical autonomy, or DevOps ethos explicitly. There is no mention of AI collaboration, decentralized decision-making, or the philosophical aspects of agency. The audience (practitioners and agile teams) slightly overlaps with Agentic Engineering’s, and content adheres to evidence-based improvement. The primary fit is via empirical adaptation and continuous improvement but lacks the depth, intent, or direct framing aligned to Agentic Engineering, which limits confidence.",
     "reasoning_summary": "This content aligns tangentially with Agentic Engineering through themes of continuous improvement and empirical adaptation but lacks explicit focus on agency, ethical AI, or systemic autonomy. Its emphasis is more on practical Scrum optimization than on engineering for agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "NeGch-lQkPA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 5.375,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 0.8,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content discusses integrating Kanban flow metrics with Scrum to improve agile delivery, but it does not mention agentic software delivery, AI agents, contextual intelligence, or autonomous systems. The article is focused on process improvement via metrics and flow within frameworks, not the proactive, context-aware intelligence or synergy between humans and AI agents. No modern agency/AI practices, agentic governance, or human-in-the-loop principles appear. All dimensions reflect a tangential to weak fit, with the only possible alignment being the general theme of enhancing delivery processes, which is insufficient according to the strict classification requirements.",
+    "reasoning_summary": "Content focuses on Kanban metrics in Scrum, not agentic software delivery. No mention or discussion of AI agents, contextual intelligence, or autonomy. Does not align with the category definition except at a very general process-improvement level.",
     "level": "Ignored"
   }
 }

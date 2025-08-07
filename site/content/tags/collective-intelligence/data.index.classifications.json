@@ -59,21 +59,21 @@
   "Technical Excellence": {
     "resourceId": "Collective Intelligence",
     "category": "Technical Excellence",
-    "calculated_at": "2025-07-23T12:07:59",
-    "ai_confidence": 34.67,
-    "ai_mentions": 0.4,
-    "ai_alignment": 3.7,
-    "ai_depth": 4.2,
-    "ai_intent": 3.1,
-    "ai_audience": 5.5,
-    "ai_signal": 6.0,
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 51.9,
+    "ai_mentions": 0.5,
+    "ai_alignment": 5.2,
+    "ai_depth": 6.1,
+    "ai_intent": 4.6,
+    "ai_audience": 6.3,
+    "ai_signal": 7.4,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 35.0,
-    "reasoning": "The content focuses on Collective Intelligence, emphasizing how humans and AI collaborate for superior outcomes. While it references modern product development, distributed cognition, and some technical infrastructure, it does not directly mention or thoroughly explore core technical excellence practices like TDD, CI/CD, modular architecture, or emergent design. Depth and alignment are moderate due to discussion of socio-technical systems and enabling infrastructure, but the main intent and audience are only partially aligned with the technical excellence category. No penalties were required as the content is contemporary and neutral.",
-    "reasoning_summary": "This content primarily centers on human-AI collaboration, organizational culture, and enabling infrastructure for collective intelligence, without direct focus on technical excellence practices. Partial alignment exists, but the core themes are broader and more cognitive than technical.",
-    "level": "Ignored"
+    "final_score": 52.0,
+    "reasoning": "The content thoroughly explores the concept of Collective Intelligence in socio-technical contexts, emphasizing human-AI collaboration, agency, and distributed cognition. While there are references to continuous improvement, technical infrastructure, and adaptive learning (which are tangentially related to Technical Excellence), the main focus is not on high-level engineering practices or technical strategies (e.g., TDD, CI/CD, modular architecture) that underlie Technical Excellence as defined. There are some overlaps — such as fostering a culture of continuous learning, technical infrastructure for collaboration, and improvement cycles — but these remain general or are framed around the human/AI partnership, not explicit software engineering principles or practices. Direct mentions are minimal; alignment and depth are moderate due to some conceptual interplay, but the core intent and emphasis are distinct from the Technical Excellence category as specified.",
+    "reasoning_summary": "Content focuses on human–AI collaboration, distributed cognition, and organizational learning. While some themes (continuous improvement, technical infrastructure) partially align, it lacks direct focus on Technical Excellence’s core engineering practices.",
+    "level": "Tertiary"
   },
   "Lean Startup": {
     "resourceId": "Collective Intelligence",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content explores the synergy of human and AI collaboration to enhance innovation, decision-making, and organizational learning—factors indirectly linked to market adaptability. It discusses enabling factors like feedback loops, continuous learning, and accelerated delivery which echo Agile and DevOps principles. However, it does not directly reference Agile, DevOps, Lean, or explicit market adaptability strategies; nor does it situate the practices within the context of direct response to market shifts or competitive pressures. The target audience is practitioners and strategists interested in advanced collaboration, but the explicit connection to market adaptability methodologies is moderate, not primary. Thus, scores are strongest on conceptual alignment and discussion depth, moderate on intent and signal, but low on direct mentions.",
     "reasoning_summary": "While the piece thoroughly explores how human-AI collaboration can drive organizational agility and learning, it only moderately aligns with Market Adaptability. There is indirect relevance through enabling practices, but direct reference to key methodologies and explicit market adaptation is limited.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Collective Intelligence",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 83.4,
+    "ai_mentions": 6.3,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.6,
+    "ai_intent": 8.3,
+    "ai_audience": 8.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content draws an explicit link between humans and AI agents working together for superior outcomes, directly tying into core aspects of Agentic Software Delivery. It discusses agency, autonomy, distributed cognition, collaboration in modern product development, and technical infrastructure — all aligning strongly with the category's definition. Although not heavily using the exact term 'Agentic Software Delivery', it uses 'Agentic Agility' and elaborates on agentic principles, human-in-the-loop patterns, and the systematic embedding of AI into delivery workflows. The audience is clearly practitioners and leaders in modern software delivery. There is minimal filler/off-topic material. Minor deduction in 'mentions' because the precise category phrase appears infrequently.",
+    "reasoning_summary": "Content fits Agentic Software Delivery concepts: emphasizes proactive, autonomous AI agents collaborating with humans in delivery contexts, with depth on integration, infrastructure, and organizational transformation. Coverage is thorough and audience-aligned.",
+    "level": "Primary"
   }
 }

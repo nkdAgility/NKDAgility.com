@@ -1482,15 +1482,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "kEywzkMhWl0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:02:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies, which does not directly address the principles or components of the One Engineering System. While it touches on Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises.",
+    "calculated_at": "2025-08-07T06:12:24",
+    "ai_confidence": 7.28,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is exclusively focused on the teaching skill of Scrum Masters in Agile teams, without any direct or indirect references to the One Engineering System (1ES) framework, its principles, components, or purpose. It never mentions 1ES, unified engineering practices, integration of tools/processes, or standardization. Its audience (Agile practitioners) only partially overlaps with potential 1ES adopters. All scoring dimensions are low due to total lack of relevance: no direct mention (0.10 for off-chance tangential overlap), no conceptual, intent, or depth fit. Audience score is slightly higher since Scrum Masters could potentially be involved in 1ES environments, but nothing in this content is relevant to the category.",
+    "reasoning_summary": "Content is about Scrum Masters’ teaching skills in Agile, with no mention or discussion of One Engineering System or standardised engineering practices. Only tangential or hypothetical overlap; does not fit the target category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1992,6 +1999,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses exclusively on the importance of teaching as a critical skill for Scrum Masters to drive Agile transformation. While it touches on improvement of team autonomy and empowerment through understanding, it doesn't address the core precepts of Agentic Engineering—such as system design for agency, DevOps integration, observability, or AI collaboration. The intent is about effective teaching for Agile change rather than engineering for maximized agency (human or AI). Audience overlap is partial (Agile practitioners), but relevance to Agentic Engineering is minimal and purely tangential.",
     "reasoning_summary": "This content highlights teaching in Agile and Scrum roles, emphasizing change facilitation, but does not substantively address Agentic Engineering concepts such as engineering for human/AI agency, DevOps, or systemic feedback. Fit is tangential and low-confidence for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 7.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is entirely focused on the role of teaching as a core competency for Scrum Masters, relating to Agile transformation and change management. There are no direct or indirect references to autonomous AI agents, agentic systems, or any of the agentic software delivery themes such as contextual intelligence, AI-human synergies, modern engineering practices for agents, or feedback loops involving intelligent systems. The audience is Agile practitioners, but the topic remains within traditional Scrum practices, focusing on human-driven coaching and education. No signal aligns with the nuanced integration of AI agents or discussed agency in software delivery—thus it only marginally fits in terms of context (Scrum is part of modern delivery), but it does not actually touch the agentic dimensions.",
+    "reasoning_summary": "Focuses entirely on Scrum Master teaching and Agile change—not on agentic delivery or autonomous AI agents. No content links to the category definition beyond a surface-level connection to modern software teams.",
     "level": "Ignored"
   }
 }

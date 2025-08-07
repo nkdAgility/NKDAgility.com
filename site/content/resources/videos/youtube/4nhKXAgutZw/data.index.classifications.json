@@ -1488,15 +1488,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "4nhKXAgutZw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:09:49",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 11.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.25,
+    "ai_depth": 2.1,
+    "ai_intent": 1.4,
+    "ai_audience": 4.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses kindness and empathy within Agile practices, focusing on customer and team relationships. It does not mention the One Engineering System or its principles, components, or implementation strategies, which are essential for alignment with the category.",
+    "reasoning": "The content is about kindness, empathy, and compassion within Agile practices and team collaboration. It details behavioral and cultural virtues, not frameworks or tool/process integration. There is no mention of One Engineering System (1ES), nor is there discussion of systemic or process-level integration relevant to 1ES themes. The main audience (Agile practitioners and leaders) could overlap with 1ES interests, but the focus and intent are centered on human aspects of Agile, not on systematized, unified engineering practices. The content does not discuss process standardization, tool integration, or the principles of 1ES.",
+    "reasoning_summary": "Content focuses on kindness in Agile, not on One Engineering System. No references or alignment with 1ES principles, integration, or standardization. Fit is weak and almost entirely tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1999,6 +2006,25 @@
     "final_score": 36.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent. The content centers on kindness, empathy, and trust within Agile, focusing mainly on interpersonal virtues and cultural values rather than engineering practices aimed at human or AI agency. While it discusses fostering team collaboration and treating developers well, it doesn't explore technical mechanisms such as decentralised decision-making, observability, automation, or ethical AI integration. The best thematic fit is the emphasis on team autonomy and compassion but this is addressed primarily as a leadership/cultural value and not through the lens of engineering systems or agentic design. The intent is relevant to Agile practitioners but misaligned with core topics like engineering practices, system design, or continuous value delivery driven by agentic approaches.",
     "reasoning_summary": "The content emphasizes kindness and empathy within Agile but does not address deliberate engineering practice or the maximization of human or AI agency. Its focus is team culture and collaboration, making its relevance to Agentic Engineering peripheral rather than direct.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4nhKXAgutZw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 17.482,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.9,
+    "ai_intent": 1.9,
+    "ai_audience": 1.3,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on kindness, empathy, and compassion as cultural virtues within Agile teams and their impact on collaboration and customer focus. While it aligns somewhat with Agile/DevOps contexts, it does not discuss autonomous AI agents, contextual intelligence, or agentic principles—the core features of Agentic Software Delivery. There are no references to autonomous agents, AI-human synergy, agency in software, context-aware automation, or supporting engineering practices such as CI/CD with agents. The intent, audience, and topics focus on soft skills and organizational culture rather than the integration of contextual intelligence or agentic automation in delivery workflows.",
+    "reasoning_summary": "Mainly about kindness as an Agile virtue, not about autonomous agents or agentic delivery. Lacks mention of AI agents, context-aware automation, or agentic principles. Only a weak, indirect fit to the category.",
     "level": "Ignored"
   }
 }

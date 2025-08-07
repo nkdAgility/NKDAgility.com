@@ -378,12 +378,22 @@
     "level": "Ignored"
   },
   "Forecasting": {
+    "resourceId": "jUM-1XnARoT",
     "category": "Forecasting",
-    "calculated_at": "2025-02-18T00:48:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes a section on managing Product Backlog and forecasting, indicating that forecasting is a secondary theme within the broader context of the course for Product Owners.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 48.65,
+    "ai_mentions": 2.4,
+    "ai_alignment": 5.6,
+    "ai_depth": 4.9,
+    "ai_intent": 5.3,
+    "ai_audience": 7.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The course overview and topics focus on the broader Product Owner role and Agile product management, with only brief mentions of 'Release Management and Forecasting' as a singular topic area. There is limited depth, specificity, and substantive exploration of forecasting methods or metrics. The intent is more about overall product ownership and value delivery than focused forecasting practice. The intended audience matches the category, and the signal-to-noise ratio is decent as forecasting is among relevant Agile PO topics. However, because forecasting is not a core or major theme, confidence is moderate and the fit is partial.",
+    "reasoning_summary": "Forecasting is briefly mentioned as a topic but is not a main theme. The content primarily covers Product Owner skills in Agile/Scrum, so fit to the 'Forecasting' category is partial and confidence is moderate.",
     "level": "Tertiary"
   },
   "Cycle Time": {

@@ -677,15 +677,22 @@
     "reasoning_summary": "This content mainly explores the responsibilities and challenges faced by a Product Owner in Agile, emphasising decision-making and value delivery. While it references elements of Agile strategy, its primary focus is on the Product Owner role rather than offering a broad view of organisational Agile strategy, making it only partially relevant to the category."
   },
   "Continuous Delivery": {
+    "resourceId": "2_CowcUpzAA",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:17:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 12.15,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a Product Owner within the Scrum framework, discussing strategic thinking, decision-making, and value maximization. While these aspects are relevant to software delivery, they do not specifically address Continuous Delivery principles, practices, or benefits. The discussion lacks direct mentions of Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements, leading to a low confidence score.",
+    "reasoning": "The content is focused entirely on the breadth of the Product Owner role, with emphasis on decision-making, value maximization, market insight, and relationships. There is no explicit mention or discussion of Continuous Delivery, its principles, tooling, automation, or practices. While themes of value delivery and continuous learning are present, these are aligned with general Agile/Product Management and do not specifically anchor to Continuous Delivery concepts or audience. The closest connection is the mention of 'value delivery' and general continuous learning, which is insufficient for substantial conceptual overlap.",
+    "reasoning_summary": "The content centers on the Product Owner's strategic and value-maximizing responsibilities in Agile, not on Continuous Delivery principles, practices, or tooling. Fit to the Continuous Delivery category is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2001,6 +2008,25 @@
     "final_score": 34.0,
     "reasoning": "The content centers on the expanded strategic role of the Product Owner in Agile, including themes like value maximization, informed decision-making, and proactive leadership. While these concepts closely relate to agency and autonomy in product teams, there are no direct references to Agentic Engineering or explicit integration of engineering practices maximizing human/AI agency, DevOps ethos, or ethical autonomy. The discussion remains at the product ownership and Agile leadership level, lacking depth on systemic observability, AI collaboration, or philosophical foundations of agency in engineering. Audience and signal are moderately aligned, being relevant to Agile practitioners interested in agency, but the fit is partial.",
     "reasoning_summary": "This content discusses Agile Product Owner responsibilities, emphasizing strategic value and decision-making autonomy—concepts related to agency. However, it does not directly address Agentic Engineering's unique practices or philosophy, resulting in moderate but partial alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2_CowcUpzAA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 19.262,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 3.2,
+    "ai_audience": 5.0,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is an in-depth exploration of the Product Owner role in Agile, focusing on accountability, value maximisation, and strategic decision-making. Nowhere does it mention or discuss autonomous AI agents, contextual intelligence, or the concept of agency in software delivery. There are references to backlog management, customer feedback, and continuous learning, which slightly overlap conceptually with some enablers of agentic software delivery, but these are standard Agile topics and not indicative of agentic principles. No depth is given to the integration of AI agents, human-in-the-loop patterns, architecture, or telemetry. The intent is entirely about being a better Product Owner, not about modernizing software delivery with agentic approaches. The audience overlaps with agentic delivery (i.e., practitioners, product professionals), but the content itself is not focused on the agentic category. The signal is reasonably high, as most of the content is focused and relevant for Product Owners, not off-topic, but it is not on the Agentic Software Delivery topic.",
+    "reasoning_summary": "The content thoroughly covers the Product Owner role in Agile but does not address Agentic Software Delivery principles, AI agents, or autonomous intelligence integration. Alignment to the assigned category is minimal and mostly incidental.",
     "level": "Ignored"
   }
 }

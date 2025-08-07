@@ -631,15 +631,22 @@
     "level": "Ignored"
   },
   "System Configuration": {
+    "resourceId": "yvIanYh3bcQ",
     "category": "System Configuration",
-    "calculated_at": "2025-04-10T12:12:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses governance and compliance rather than system configuration. While it touches on the importance of streamlining processes, it does not delve into specific system configuration practices, tools, or methodologies. The focus is more on organisational governance and compliance rather than the technical aspects of configuring systems for optimal performance.",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 29.28,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 4.2,
+    "ai_intent": 3.9,
+    "ai_audience": 5.3,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content centers on lean governance and how to streamline compliance and eliminate unnecessary bureaucracy. There is some mention of system and tools (e.g., Azure DevOps, change logs, compliance as code), but these examples are secondary. The focus is on optimisation of governance processes, not on system configuration itself. System configuration is referenced loosely through compliance automation, but most of the discussion is about organisational processes and culture. Some strategies such as 'compliance as code' and log files barely touch configuration topics, but they are not treated in depth. The audience may include those interested in system configuration, but is more oriented toward leadership or process management.",
+    "reasoning_summary": "This content mainly discusses lean governance and process optimisation, with only minimal references to system setup, config, or automation. Its focus is more organisational and procedural than technical; fit for System Configuration is weak and indirect.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -1882,5 +1889,24 @@
     "reasoning": "The content focuses on streamlining governance to promote agility and innovation within organizations—concepts adjacent to agentic engineering, such as minimizing unnecessary bureaucracy, encouraging value-driven processes, and enabling responsiveness. It references DevOps in a case example and discusses compliance automation (compliance as code), which partially aligns with agentic practices. However, the content doesn't directly address deliberate engineering for maximizing agency, systemic observability, or ethical AI/human autonomy. The philosophical underpinnings and active design for agency are not fully explored. The main purpose is to counsel lean governance, which is thematically related but not core to agentic engineering. The audience (technical leaders, practitioners) and signal are solid, but overall mention and depth for this specific category are moderate.",
     "reasoning_summary": "The article supports lean governance for agility and reduced bureaucracy, concepts tangential to Agentic Engineering. While it references DevOps and compliance automation, it doesn't deeply cover the deliberate design for maximizing human/AI agency or the systemic, philosophical aspects central to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yvIanYh3bcQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 16.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 3.1,
+    "ai_intent": 2.5,
+    "ai_audience": 4.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on lean governance and compliance, advocating for reducing bureaucracy and aligning value with minimal governance. While it mentions some modern DevOps tools and the notion of 'compliance as code', it does not reference or deeply explore autonomous AI agents, contextual intelligence, or proactive agency in software delivery. The discussion remains at the process and governance level without discussing the integration of AI, human expertise, or agentic principles. No penalties were applied as the content is neither outdated nor critical; however, it remains tangential and indirect regarding the Agentic Software Delivery category.",
+    "reasoning_summary": "Content remains focused on process improvement and lean governance, not on agentic AI, agency, or autonomous software delivery. Minimal alignment; not a good fit for the assigned category.",
+    "level": "Ignored"
   }
 }

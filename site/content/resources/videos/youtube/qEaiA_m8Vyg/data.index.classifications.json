@@ -52,15 +52,22 @@
     "level": "Ignored"
   },
   "Professional Scrum": {
+    "resourceId": "qEaiA_m8Vyg",
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T23:05:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses immersive learning experiences and does not explicitly mention Scrum principles, roles, or practices. While there are some references to concepts like support and continuous improvement, they are not grounded in Scrum theory or practices, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 37.81,
+    "ai_mentions": 0.1,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.2,
+    "ai_intent": 3.9,
+    "ai_audience": 4.6,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "There are no explicit mentions of Scrum or Professional Scrum, nor any reference to related roles, events, or artifacts. Some alignment exists with themes of empiricism, continuous improvement, and community, but these are approached generically through the lens of immersive learning, not contextualized in Scrum. The depth of the content is notable regarding immersive, iterative learning, and empiricism, but with no linkage to the ethos, roles, or disciplined practices that define Professional Scrum. The audience could overlap (e.g., professionals seeking advanced learning), but there is no specific targeting or adaptation for Scrum practitioners. Signal-to-noise is moderate, with much space given to analogies and generalities rather than directly relevant concepts.",
+    "reasoning_summary": "Content highlights experiential, empirical learning but never references Scrum or its professional ethos. The fit is weak: only generic overlaps with empiricism and continuous improvement. Lacks specificity, purpose, and context for Professional Scrum.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -2005,6 +2012,25 @@
     "final_score": 30.0,
     "reasoning": "The content centers on immersive, iterative, and community-based learning experiences, emphasizing engagement, practice, and growth. While it references continuous learning, feedback, and empirical adaptation—parallels to themes in Agentic Engineering—it never addresses the deliberate engineering of software practices, system or developer agency, or the integration of humans/AI in socio-technical contexts. No explicit or implied references to engineering, DevOps, autonomy, or ethical AI appear. The content’s intent is exclusively educational (learning theory and pedagogy), targeting trainers and learners, not engineering professionals or agents. Minor conceptual overlaps occur in empirical, feedback-driven approaches, but core category themes are largely absent, justifying a low confidence score.",
     "reasoning_summary": "This content discusses immersive and continuous learning but does not address engineering practices or agency in software development. Overlaps with Agentic Engineering are minimal and conceptual, resulting in low relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qEaiA_m8Vyg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 8.26,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on immersive learning, engagement, and community-building in education, without any mention or exploration of autonomous AI agents, integration in software delivery, contextual intelligence, or related engineering practices. While there is mention of continuous improvement and evidence-based practice, these relate to learning, not to agentic principles or software delivery contexts. There are no direct, indirect, or thematic links to Agentic Software Delivery definitions or its key topics.",
+    "reasoning_summary": "This content does not fit the category. It discusses immersive learning, not autonomous AI agents, engineering, or agentic delivery. No conceptual or audience alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

@@ -1,15 +1,22 @@
 {
   "Tool": {
+    "resourceId": "Deployment Frequency",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses deployment frequency as a concept related to software delivery and its impact on value delivery and feedback loops. However, it does not explicitly mention any specific tools or mechanisms that facilitate this process, which is a key requirement for the 'Tool' category. While it aligns with the themes of continuous improvement and DevOps practices, the lack of direct references to tools or their functionalities limits its classification as a primary focus on tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 32.5,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.8,
+    "ai_audience": 5.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content discusses deployment frequency as a concept and key metric in product development and DevOps, highlighting its benefits for feedback, value delivery, and team practices. However, it does not mention or analyze any specific tools, tool features, or practical tool integration. The discussion is about a process outcome enabled by tools but does not focus on mechanisms, software, or tool-specific practices aligned with the category definition. Some alignment exists since mature DevOps (with automation and streamlined processes) generally requires tools, but this connection is implicit and not the core topic.",
+    "reasoning_summary": "This content explores deployment frequency as a process metric and cultural driver rather than discussing tools themselves. While related to outcomes enabled by tools, it lacks direct tool focus or analysis, making only a loose fit for the Tool category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -3128,6 +3135,25 @@
     "final_score": 7.0,
     "reasoning": "The content discusses deployment frequency in the context of product development and DevOps, focusing on feedback loops, value delivery, team collaboration, and cultural aspects. However, it does not mention or substantially explore human-AI partnerships, distributed cognition, or any aspect of collaborative intelligence between humans and AI agents. Discussions center on human teams, automation, and process maturity—typical in DevOps—but lack references to AI as an active collaborative partner. There are no cases or concepts relating to human-AI hybrid teams, mutual cognition, or collective intelligence as defined. Thus, very minimal alignment and near-absent mentions yield a very low confidence score.",
     "reasoning_summary": "This content centers on team collaboration and DevOps practices but does not address human-AI partnerships or collective intelligence. Its relevance to the category is minimal, with no substantive alignment to the required themes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Deployment Frequency",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 36.45,
+    "ai_mentions": 0.0,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content discusses deployment frequency as part of modern software delivery, emphasizing DevOps, feedback loops, automation, and continuous delivery. However, it does not mention or directly discuss agentic concepts such as autonomous AI agents, contextual intelligence, or their integration with human expertise. There is moderate thematic alignment on modern delivery practices and feedback loops, which are important foundations for agentic delivery, but no explicit or implicit discussion of agency, AI-driven autonomy, or human-in-the-loop designs. The intent is related to efficient delivery and responsiveness—helpful for agentic delivery—but does not address the unique aspects of the category. The audience is aligned (technical practitioners, delivery teams), and the information is focused, but agentic principles are absent.",
+    "reasoning_summary": "Content covers modern delivery and DevOps benefits, aligning with some foundational practices for agentic delivery. However, it lacks any discussion of autonomous AI agents or agentic strategies, so fit is partial and indirect.",
     "level": "Ignored"
   }
 }

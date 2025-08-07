@@ -132,20 +132,21 @@
   "Portfolio Management": {
     "resourceId": "Observability",
     "category": "Portfolio Management",
-    "calculated_at": "2025-05-06T11:18:33",
-    "ai_confidence": 41.624,
-    "ai_mentions": 0.7,
-    "ai_alignment": 4.4,
-    "ai_depth": 5.3,
-    "ai_intent": 4.5,
-    "ai_audience": 6.1,
-    "ai_signal": 7.7,
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 35.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 3.6,
+    "ai_audience": 2.4,
+    "ai_signal": 3.2,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 42.0,
-    "reasoning": "The content provides a comprehensive explanation of observability, focusing on its strategic and cultural value within an organization. However, there is no direct mention of Portfolio Management or explicit reference to its core practices (e.g., portfolio alignment, investment prioritization, risk management at the portfolio level). The conceptual alignment is partial: while the text occasionally references ideas that matter to Portfolio Management (such as strategic alignment, value delivery, metrics, and integration of Lean/Agile principles), these are at a generic organizational or team level—not the explicit portfolio-of-projects context required for the classification. The depth of discussion is moderate, providing substantial exploration of observability itself and hinting at links to strategic outcomes and continuous improvement, but never connecting this directly to portfolio-level governance or decision-making. The intent and audience are somewhat tangential: the primary purpose is to advocate for observability as a generalized cultural/practical asset, mainly targeting practitioners and team leads rather than portfolio managers or strategists. The signal-to-noise is strong—the content remains tightly focused on observability, but the relevance to Portfolio Management is indirect. There are no penalties, as the content is current, accurate, and not critical of the category. Overall, this content fits as a tertiary resource for Portfolio Management: it provides foundational concepts that may inform elements of portfolio practices (e.g., data-driven oversight, continuous improvement), but does not itself fulfill the direct purpose or requirements of the classification.",
-    "level": "Tertiary"
+    "final_score": 35.0,
+    "reasoning": "The content extensively discusses observability as a practice for understanding work flow, value delivery, and continuous improvement. While it draws some links to strategic alignment and Lean/Agile, it never explicitly addresses portfolio-level concerns such as prioritisation of initiatives, value stream optimisation across multiple projects, or portfolio governance frameworks. The focus is largely on teams, organisational transparency, and operational improvement, rather than management of a project portfolio. There is only a glancing mention of alignment with strategic goals, and no substantive discussion of portfolio management methodologies, metrics, or decision-making structures. Audience and intent tend to be operational rather than specifically targeting portfolio managers or strategists.",
+    "reasoning_summary": "Content focuses on observability for teams and organisational improvement, not direct portfolio management. Partial thematic overlap via alignment and value delivery, but lacks explicit portfolio focus, frameworks, or priorities. Fit is marginal.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "resourceId": "Observability",
@@ -3216,5 +3217,24 @@
     "reasoning": "The content focuses heavily on the role of observability in organizational transparency, decision-making, and continuous improvement but does not reference collective intelligence concepts directly. There is a surface-level alignment regarding collaboration and shared understanding, which are tangential to collective intelligence, but there are no explicit discussions of human-AI teaming, joint agency, or emergent capabilities arising from human-AI partnerships. The discussion remains largely about human teams making use of data and monitoring practices to improve outcomes. The audience is aligned with practitioners in Agile/Lean/DevOps, but the main thrust is not targeted at human-AI collaboration or emergent capabilities defined by the collective intelligence category.",
     "reasoning_summary": "While observability promotes shared understanding and collaboration in teams, this content does not address or exemplify human-AI partnerships or emergent collective intelligence. Its focus is organizational learning and system feedback rather than human-AI teaming.",
     "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Observability",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 44.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 5.1,
+    "ai_depth": 4.8,
+    "ai_intent": 4.9,
+    "ai_audience": 6.4,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content extensively discusses observability as crucial to delivery and improvement, aligning with one supporting pillar in agentic delivery systems. However, it does not mention autonomous AI agents, agency, human-agent synergy, or systematized agentic practices. The depth of observability treatment is moderate; intent and focus are relevant but not specific to agentic software delivery or its unique mechanisms. Audience targeting is moderately aligned (technical teams, delivery practitioners), and signal-to-noise is strong as the content stays focused on observability. Mentions of agentic concepts are implicit rather than explicit, leading to low direct mention and only partial conceptual fit.",
+    "reasoning_summary": "Content focuses on observability as an enabler for insight and improvement, which partially aligns as a support practice in agentic delivery but does not discuss autonomous agents or agentic concepts directly. Category fit is partial, not central.",
+    "level": "Tertiary"
   }
 }

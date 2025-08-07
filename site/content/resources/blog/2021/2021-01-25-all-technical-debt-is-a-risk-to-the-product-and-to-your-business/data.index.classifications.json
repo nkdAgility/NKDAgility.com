@@ -1356,16 +1356,23 @@
     "level": "Ignored"
   },
   "Leadership": {
+    "resourceId": "ZSqNF7v9vSR",
     "category": "Leadership",
-    "calculated_at": "2025-03-15T02:32:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the implications of technical debt on business and product delivery, touching on leadership's role in addressing these issues. However, it primarily focuses on technical debt rather than leadership practices. While there are mentions of leaders making changes and fostering an environment for better delivery, the overall emphasis is on technical aspects and the consequences of technical debt rather than on leadership strategies or frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 47.44,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.3,
+    "ai_intent": 3.7,
+    "ai_audience": 5.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content is focused primarily on technical debt as a business and product risk, with examples of real scenarios (Microsoft, Team Foundation Server) and decisions around delivery cadence. Leadership is mentioned briefly in relation to specific individuals (Brian Harry and Aaron Bjork) who drove cultural and operational changes. The leadership dimension is secondary, with only partial exploration: there is some discussion of cultivating accountability, transparency, and transformation, but these are not the central themes. The main thrust supports audience alignment (leaders, product owners, business decision-makers), but the discussion of leadership frameworks, models, or sustained practices is sparse. As such, the overall confidence in the 'Leadership' classification is modest, reflecting only a partial fit.",
+    "reasoning_summary": "Leadership is mentioned in an example, and leader-driven change is referenced, but most discussion focuses on technical debt risk, not leadership practice. Content has partial but not strong fit with the Leadership category.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

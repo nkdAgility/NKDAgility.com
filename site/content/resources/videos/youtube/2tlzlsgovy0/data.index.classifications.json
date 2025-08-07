@@ -1495,15 +1495,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "2tlzlsgovy0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:32:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and the importance of product vision, which are not directly related to the One Engineering System framework. While it touches on team alignment and decision-making, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide depth on integration of tools or processes across teams, nor does it address challenges specific to adopting a unified engineering system.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 26.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 5.2,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content thoroughly discusses the importance of product vision and strategic goals for Agile teams but makes no reference, explicit or indirect, to One Engineering System (1ES) principles such as standardized integration, tool/process unification, or 1ES-specific implementation. It is audience-relevant (team leads, Agile practitioners) but the themes focus on empowerment, ownership, and vision, not integrated engineering systems. There is high signal on Agile and product goals, but near-zero signal for 1ES, minimal conceptual overlap, surface-level fit, and no direct mentions.",
+    "reasoning_summary": "This content focuses on agile team empowerment and product vision; it does not align with One Engineering System's core topics of integration or standardization. Intent and depth are unrelated or marginal; fit to 1ES is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2008,5 +2015,24 @@
     "reasoning": "The content emphasizes empowering teams, encouraging ownership, decentralizing decision-making, and supporting feedback loops, all of which conceptually align with Agentic Engineering’s focus on maximizing human agency and adaptability. However, it does not explicitly mention 'Agentic Engineering' or directly focus on the deliberate engineering practices or the integration of AI and DevOps characteristics. The main discussion centers on product vision, alignment, and team empowerment in Agile, meaning discussion is adjacent and relevant but not deeply specific to the category. The depth, intent, audience, and signal-to-noise fit well due to practical advice for practitioners, but superficial direct references and no AI/systemic observability aspects keep confidence moderate.",
     "reasoning_summary": "This content closely aligns with Agentic Engineering in spirit by emphasizing team empowerment, decentralization, and feedback-driven adaptation, though it lacks direct reference to the category and omits discussion of AI or DevOps-specific engineering practices.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 23.195,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.6,
+    "ai_intent": 2.2,
+    "ai_audience": 6.3,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content strongly focuses on Agile team empowerment, product vision, alignment, and context-aware decision making but makes no mention of AI, agentic concepts, autonomy, or related practices. While themes like empowerment, feedback loops, and adaptability are superficially adjacent to Agentic Software Delivery, there is zero reference to AI agents, context-aware intelligence, or integration of human and autonomous systems. The intent is to promote understanding of vision/goals for agile teams, not to discuss agentic delivery models. The depth is fair for its intended topic but irrelevant to agentic aspects—thus, alignment, depth, and intent are scored low. The technical/practitioner audience and focused discussion explain the higher audience and signal scores. No penalties are applied since the tone is constructive and up-to-date.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It addresses agile empowerment and strategic alignment but lacks any reference to AI agents, autonomous delivery, or agentic principles.",
+    "level": "Ignored"
   }
 }

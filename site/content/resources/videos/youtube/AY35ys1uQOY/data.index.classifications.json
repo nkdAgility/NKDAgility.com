@@ -1456,15 +1456,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "AY35ys1uQOY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:38:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 12.175,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 2.2,
+    "ai_audience": 4.9,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on crafting effective sprint goals within the Scrum framework, which is a specific Agile methodology. It does not discuss the One Engineering System (1ES) or its principles, components, or implementation. While it touches on team alignment and collaboration, these are not directly related to the standardisation and integration of software development practices as outlined in the 1ES category.",
+    "reasoning": "The content centers solely on how to recognize and craft strong Sprint Goals within Scrum. 'One Engineering System' is not mentioned, and there is no discussion of standardized engineering systems, integration of tools/processes, or 1ES implementation. While the topic is tangentially related to software development teams (overlapping audience), it is not conceptually or topically aligned with the category definition. No penalties applied since the tone is positive and current.",
+    "reasoning_summary": "Content discusses qualities of a great Sprint Goal in Scrum—not the principles or implementation of One Engineering System. No direct or conceptual fit with 1ES; the audience is partly overlapping, but the subject is unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1967,6 +1974,25 @@
     "final_score": 20.0,
     "reasoning": "The content discusses the qualities of effective Sprint Goals within Agile and Scrum contexts, focusing on inspiration, team motivation, and engagement. It does not directly mention or explore principles central to Agentic Engineering, such as maximising both human and AI agency, systemic observability, or DevOps/ethical AI practices. While the emphasis on developer enthusiasm and team agency has a very modest conceptual overlap with the theme of agency, these references are generic and not explored in any agentic engineering-specific manner. There is no mention (explicit or implicit) of decentralised decision-making, feedback-driven adaptation as a systemic design, or ethical, DevOps-infused craft. The audience is largely practitioners in Agile/Scrum (a partial overlap), and the content is focused, but substantially off-topic relative to Agentic Engineering.",
     "reasoning_summary": "This content primarily addresses Agile and Scrum practitioners, focusing on motivating sprint goals. While it slightly touches on themes of team excitement and engagement, it does not substantially align with Agentic Engineering or its focus on designing engineering practices to maximise human and AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AY35ys1uQOY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 11.129,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "There are no direct or indirect references to Agentic Software Delivery concepts such as AI agents, agency, human-agent collaboration, or context-aware intelligence. The entire content focuses on human motivation and emotional signals in writing effective Sprint Goals within Scrum, making it strictly about human-centric Agile practices and not about automation, agents, or technological augmentation. Audience is Agile practitioners, but without linkage to software agent integration, contextual intelligence, or related technical strategies. No penalties applied as the tone and context are modern, not satirical, and not outdated.",
+    "reasoning_summary": "The content is about crafting effective Sprint Goals in Agile/Scrum, with no mentions or conceptual ties to agentic delivery, AI agents, or their integration. Fit for the category is extremely weak and largely irrelevant.",
     "level": "Ignored"
   }
 }

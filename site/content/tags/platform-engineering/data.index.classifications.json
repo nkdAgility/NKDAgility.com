@@ -146,17 +146,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Platform Engineering",
     "category": "Capability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 50,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the concept of Platform Engineering as a capability that enhances developers' ability to deliver value independently and reliably. It explicitly mentions the importance of reducing cognitive load and creating a coherent developer experience, which aligns with the core themes of capability development. The depth of discussion includes aspects of continuous improvement and the relationship between platform engineering and organisational strategy, indicating a strong focus on enduring competencies rather than transient tools. However, while it touches on capabilities, it does not delve deeply into specific strategies for embedding these capabilities within teams or organisations, which slightly lowers the overall confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is well-suited to the capability development category, as it explores how Platform Engineering empowers developers and supports organisational goals. It highlights key themes like reducing cognitive load and fostering a strong developer experience, though it could provide more detail on practical strategies for embedding these capabilities within teams."
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 93.3,
+    "ai_mentions": 7.6,
+    "ai_alignment": 9.4,
+    "ai_depth": 9.1,
+    "ai_intent": 8.8,
+    "ai_audience": 9.6,
+    "ai_signal": 9.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 93.0,
+    "reasoning": "The content thoroughly discusses Platform Engineering as a systemic, enduring organisational capability. It focuses on enabling developer autonomy, alignment with organisational strategy, and continuous delivery—all hallmarks of capability. The narrative goes beyond tools or practices, framing platform engineering as an integrated competency (e.g., 'capability provides paved paths...'; 'platforms are treated as products, with feedback loops, continuous improvement'). Core Capability themes such as alignment with strategy, embedding, sustainability, and adaptive processes are explicit. While 'capability' is directly mentioned only once, the entire discussion centers around establishing and maturing internal developer platforms in a way that is cross-cutting and enduring. The content targets engineering leaders and strategists, matches category intent, and contains minimal filler.",
+    "reasoning_summary": "Content closely fits 'Capability': It profiles platform engineering as an enduring, cross-cutting organisational competency, detailing characteristics, strategic alignment, and outcomes—well beyond just tools or isolated practices.",
+    "level": "Primary"
   },
   "Discipline": {
     "category": "Discipline",
@@ -3152,6 +3158,25 @@
     "final_score": 14.0,
     "reasoning": "The content does not mention collective intelligence or human-AI collaboration. Its focus is on internal platforms, developer autonomy, and efficient delivery, rather than enhanced outcomes from human-AI partnerships. The main themes revolve around product thinking in platform creation for developer enablement. While concepts like reducing cognitive load and enabling collaboration are present, they refer strictly to human teams or developer-platform relationships, not human-AI teaming.",
     "reasoning_summary": "This content centers on platform engineering for developer productivity, with no discussion of human-AI collaboration or collective intelligence concepts. Its relevance to the category is minimal and largely incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Platform Engineering",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 26.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content is centered on platform engineering, emphasizing internal developer platforms, autonomy, paved paths, and developer experience. While these themes tangentially align with some supporting practices of Agentic Software Delivery (e.g., autonomy, feedback loops), there is no explicit mention or detailed discussion of autonomous AI agents, proactive contextual intelligence, agent/human collaboration, agentic architectures, or governance frameworks for agents—core aspects of the Agentic Software Delivery definition. Most discussion remains at the level of platform abstractions and developer enablement, not agentic approaches. Audience overlap exists (engineering/DevOps practitioners), but the topical fit is partial and indirect.",
+    "reasoning_summary": "The content discusses platform engineering—enabling developer autonomy and reducing complexity—but does not address agentic AI, autonomous agents, or their integration with delivery teams. Fit with Agentic Software Delivery is limited.",
     "level": "Ignored"
   }
 }

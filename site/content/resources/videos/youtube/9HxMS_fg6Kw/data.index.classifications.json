@@ -191,15 +191,22 @@
     "level": "Ignored"
   },
   "Lean Product Development": {
+    "resourceId": "9HxMS_fg6Kw",
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-15T01:56:27",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses hiring practices for agile consultants, with some mention of Lean and Lean UX Product Development. However, it does not focus on Lean Product Development principles or practices in detail. The discussion is more about agile methodologies and consultant qualifications rather than the core themes of Lean Product Development, such as waste reduction and continuous improvement.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 28.24,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 3.2,
+    "ai_audience": 6.1,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "Direct mentions of Lean Product Development are minimal, surfacing only once as 'Lean UX Product Development' in a list. The focus is on vetting agile consultants instead of Lean principles, waste elimination, customer feedback integration, or value stream mapping. There is discussion of critical thinking, learning, and not being dogmatic, which loosely aligns with some Lean values but lacks substantive exploration of Lean Product Development methods, tools, or application in product creation. The content only partially overlaps with the Lean Product Development audience, as it's more about consultancy hiring in agile contexts rather than Lean practices. No outdated content or contradictions requiring penalty. Confidence remains low due to tangential relevance and shallow coverage.",
+    "reasoning_summary": "Content weakly fits the Lean Product Development category—only one direct mention, with minimal conceptual alignment. The main topic is hiring agile consultants, not Lean principles or product development methods. Only partial, surface-level relevance.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -2023,6 +2030,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses primarily on hiring criteria for agile consultants, emphasizing community involvement, in-depth agile knowledge, and quality over quantity. While these themes tangentially relate to professional autonomy and competency, they do not explicitly address the deliberate design of engineering practices, maximizing human or AI agency, DevOps ethos, or agentic engineering concepts. Ethical, systemic, or feedback-driven practices, as required for Agentic Engineering, are absent. The intended audience overlaps with Agentic Engineering (technical leaders or practitioners), but discussion is surface-oriented and not systemically targeted to maximize agency. There is no direct reference to Agentic Engineering or its key topics.",
     "reasoning_summary": "The content covers agile consulting red flags and professional competency, which only weakly and indirectly align with Agentic Engineering. Key concepts such as maximizing agency, engineering design, or systematic autonomy are not addressed. Relevance is low and largely tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9HxMS_fg6Kw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 7.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content targets hiring in the agile consulting field, with focus on professional credibility, community involvement, and agile best practices. There are no direct mentions or conceptual discussion of agentic principles, AI agents, or software delivery enhanced by context-aware intelligence, nor are there any references to modern agentic practices (such as CI/CD automation, human-in-the-loop AI, or governance for autonomous agents). The alignment, depth, and signal-to-noise ratio are very low, as the entire content orbits traditional agile professionalism, not agentic software delivery.",
+    "reasoning_summary": "The content exclusively discusses agile consultant hiring and does not reference or align with agentic software delivery, AI agents, or related concepts. It is wholly outside the scope of the category definition.",
     "level": "Ignored"
   }
 }

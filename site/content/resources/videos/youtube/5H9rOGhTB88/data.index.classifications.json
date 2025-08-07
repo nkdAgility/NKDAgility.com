@@ -1507,15 +1507,22 @@
     "reasoning_summary": "This content is a good fit for the category, as it explores how empowering teams to adapt their processes supports competence within Agile frameworks. It stresses continuous learning and practical ways to build a competent culture, like promoting experimentation. However, since the main emphasis is on agility and process flexibility rather than competence alone, the match is strong but not absolute."
   },
   "One Engineering System": {
+    "resourceId": "5H9rOGhTB88",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:27:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of empowering teams to tailor their processes, which indirectly touches on the principles of flexibility and adaptation in engineering practices. However, it primarily focuses on Agile methodologies and personal experiences rather than the specific framework of the One Engineering System (1ES). While there are mentions of process tailoring and the pitfalls of rigid systems, the content lacks a direct discussion of 1ES principles, components, or its impact on software quality and delivery timelines, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 27.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.7,
+    "ai_intent": 4.3,
+    "ai_audience": 7.2,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content argues for empowering teams to customize processes instead of following a uniform, rigid methodology. While there is discussion of standardization pitfalls and process integration, the focus is on agility, team autonomy, and anti-patterns of enforcing uniformity, not on defining, implementing, or exploring One Engineering System (1ES) itself. There are no direct mentions of 1ES or its principles, components, or tools. The described cases and themes are only tangentially related to One Engineering System, positioning process standardisation as a problem rather than addressing how 1ES applies, supports, or is balanced with empowerment. The audience (tech/engineering leaders) is loosely aligned, and some points on integration echo 1ES contexts, but the core intent and depth do not serve 1ES content directly.",
+    "reasoning_summary": "Content focuses on empowering teams and criticizing rigid, standardized processes, which is tangential to 'One Engineering System.' It does not explore 1ES principles or implementation; alignment is partial and largely indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2023,5 +2030,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, and the term is not referenced. However, the content has strong conceptual alignment: it focuses on maximizing team autonomy, adapting engineering practices, feedback-driven adaptation, minimization of waste, fostering innovation, and process tailoring—all of which fit core Agentic Engineering themes. It provides real-world examples and practical organizational steps, with substantial depth beyond superficial treatment. The primary intent is educational and supportive of empowering agency for technical teams, aligning with the category's practitioner and leadership audiences. Some tangential examples (e.g., personal anecdotes) slightly reduce the overall signal-to-noise ratio and audience alignment, but overall focus is maintained. There are no penalties for outdated references or contradictory tone.",
     "reasoning_summary": "The content strongly aligns with Agentic Engineering through its emphasis on team agency, process tailoring, and adaptive change. It offers practical depth on empowering engineers within organizations but lacks explicit category mentions. The focus and intent make it a solid, relevant fit for the intended audience.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5H9rOGhTB88",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 31.29,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.3,
+    "ai_intent": 3.0,
+    "ai_audience": 7.6,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content thoroughly discusses agility, team empowerment, and the tailoring of processes, with specific critiques of rigid, one-size-fits-all software delivery approaches. It references continuous delivery and modern engineering practices, and is intended for agile practitioners and leaders. However, it lacks direct or explicit mentions of agentic concepts: autonomous AI agents, context-aware intelligence, governance frameworks involving agents, or synergy between human experts and AI. There are no discussions of agency in software agents, agent-based feedback loops, or human-in-the-loop designs rooted in agentic delivery. While the content aligns in spirit with moving from legacy to outcome-focused systems, and touches tangentially on cultural and engineering transformation, it does not situate its recommendations within the agentic software delivery paradigm. Thus, while somewhat related in terms of broader agility practices and engineering modernization, it does not directly or thoroughly address the criteria for Agentic Software Delivery.",
+    "reasoning_summary": "This content is about empowering teams and agile process adaptation, not Agentic Software Delivery. It lacks discussion of AI agents, agency, or contextual intelligence, and only partially aligns by referencing modern engineering and outcome-focused approaches.",
+    "level": "Ignored"
   }
 }

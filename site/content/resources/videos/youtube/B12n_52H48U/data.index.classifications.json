@@ -493,17 +493,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "B12n_52H48U",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:52:33",
-    "ai_confidence": 72.0,
-    "ai_mentions": 3,
-    "ai_alignment": 80.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses decision-making in Agile, emphasising the importance of feedback, adaptation, and continuous learning, which aligns well with empirical process control principles. It mentions the need for transparency and the role of the product owner in navigating uncertainty, reflecting core themes of the category. However, while it touches on these concepts, it does not delve deeply into specific techniques or case studies related to empirical process control, which slightly lowers the depth score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content aligns with the category as it explores Agile decision-making, highlighting feedback, adaptation, and learning—key aspects of empirical process control. It also addresses transparency and the product owner's responsibilities. However, it remains at a conceptual level and doesn’t provide detailed techniques or real-world examples, which limits its depth within the category."
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 77.83,
+    "ai_mentions": 2.3,
+    "ai_alignment": 8.9,
+    "ai_depth": 7.7,
+    "ai_intent": 7.9,
+    "ai_audience": 8.3,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content discusses product owner decision-making in Agile, focusing heavily on feedback, adaptation, continuous learning, and responding to change—all key elements of empirical process control. It covers the value of inspection, learning from feedback, and adaptation, though it does not directly or frequently use the phrase 'empirical process control.' Instead, the concepts are strongly aligned: transparency (openness to feedback), inspection (reflection on past decisions), and adaptation (changing course in response to new information) are frequent themes. The audience is practitioners in Agile roles, matching the category. The discussion is practical and focused, with minor broad phrasing about mindsets but no significant noise. Lack of explicit references to empirical process control by name limits the 'Direct Mentions' score, but thematic fit is robust. No penalties were applied since the content is current, accurate, and does not contradict the category framing.",
+    "reasoning_summary": "Strong thematic and conceptual fit with empirical process control via emphasis on feedback, adaptation, and continuous improvement in Agile. Minimal direct mentions reduce confidence but main purpose, depth, and audience are well-matched. Fit is good but not explicit.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1997,5 +2003,24 @@
     "reasoning": "The content focuses on the decision-making process of product owners in Agile contexts, emphasizing autonomy and adaptability. While these themes overlap with aspects of Agentic Engineering (e.g., agency, feedback, reflection), the discussion remains general to Agile best practices. There are no direct references to Agentic Engineering, systemic observability, DevOps-Infused Craft, or explicit human/AI agency. Content is aimed at practitioners and is relevant but not deeply aligned to the conceptual depth and breadth of Agentic Engineering as strictly defined.",
     "reasoning_summary": "This content partially aligns with Agentic Engineering as it emphasizes autonomy, feedback-driven adaptation, and agency in decision-making. However, it remains focused on general Agile product ownership without directly engaging with Agentic Engineering's core concepts or terminology.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "B12n_52H48U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 22.868,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.6,
+    "ai_intent": 3.1,
+    "ai_audience": 5.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content thoroughly discusses Agile decision-making, specifically focusing on product owners' judgement in pivoting or persevering based on data, instinct, feedback, and adaptability. However, it does not mention or address integration of AI agents, agency, contextual intelligence, or agentic frameworks. The focus is on traditional Agile roles and methods, not on combining human and machine agency or introducing autonomous AI into delivery pipelines. No outdated practices, satire, or contradictions are present. The audience and intent are compatible with modern Agile practitioners, but topic relevance to agentic software delivery is minimal.",
+    "reasoning_summary": "Content focuses on Agile decision-making by human product owners; no references to AI agents, agency, or agentic delivery principles. Partial thematic overlap in adaptability and feedback, but fit with Agentic Software Delivery is weak and indirect.",
+    "level": "Ignored"
   }
 }

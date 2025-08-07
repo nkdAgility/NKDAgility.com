@@ -341,17 +341,23 @@
     "level": "Tertiary"
   },
   "Cycle Time": {
+    "resourceId": "_FtFqnZHCjk",
     "category": "Cycle Time",
-    "calculated_at": "2025-04-10T14:45:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the concept of Cycle Time in the context of Agile product management, particularly contrasting long release cycles with shorter ones. It highlights the importance of reducing Cycle Time to improve customer feedback loops and team efficiency. The discussion includes specific examples of how the Azure DevOps team transitioned from a two-year cycle to a three-week cycle, which directly relates to the measurement and implications of Cycle Time. However, while Cycle Time is a significant focus, the content also delves into broader product management practices, which slightly dilutes its primary focus on Cycle Time.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a strong fit for the Cycle Time category, as it centres on how reducing Cycle Time benefits Agile product management. By sharing real-world examples, it illustrates the impact of shorter cycles on feedback and efficiency. While it does touch on broader product management themes, the main emphasis remains on Cycle Time and its practical implications."
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 41.27,
+    "ai_mentions": 2.3,
+    "ai_alignment": 5.3,
+    "ai_depth": 5.7,
+    "ai_intent": 4.2,
+    "ai_audience": 5.4,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the shift from long to short release cycles and how Agile enables faster feedback, improved quality, and continuous delivery. While it clearly addresses the move to shorter cycles (release frequency), it never directly references Cycle Time as a metric, its definition, methods of measurement, or its formal role in Agile/DevOps efficiency. The concept of reducing cycle length aligns partially with Cycle Time's meaning, but themes focus more on general Agile transformation and product management practices. No penalties applied as the content is contemporary, not satirical, and doesn't contradict the framing. Audience is practitioners/strategists, somewhat aligned.",
+    "reasoning_summary": "The content partially fits 'Cycle Time' by emphasizing shorter development cycles but never directly discusses Cycle Time as a measurement or key workflow metric in Agile/DevOps. The fit is indirect and mostly conceptual, not explicit nor in-depth.",
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -2016,5 +2022,24 @@
     "reasoning": "The content focuses on Agile's transformation of product management, highlighting shorter cycles, feedback loops, and built-in quality. These themes are conceptually adjacent to feedback-driven adaptation and continuous value delivery, which are relevant to Agentic Engineering. However, the piece does not explicitly discuss maximizing human or AI agency, decentralizing decision-making, or ethical/agentic frameworks. Systemic observability, developer autonomy, or the philosophical core of agentic engineering are not addressed. Technical practices like CI/CD are discussed but without agentic framing. Audience is product/engineering-focused, and the content is mostly on-topic for Agile transformation, not agentic engineering per se.",
     "reasoning_summary": "This content is broadly aligned with Agile principles that overlap with Agentic Engineering—such as frequent feedback and continuous delivery—but lacks direct discussion of maximizing agency, decentralization, or agentic system design. The connection is tangential rather than central.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_FtFqnZHCjk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 12.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content thoroughly discusses the evolution of product management in the Agile era, highlighting themes such as continuous delivery, shorter cycles, and feedback loops. However, there is no mention of autonomous AI agents, agentic principles, or the embedding of proactive, context-aware intelligence as required by the Agentic Software Delivery classification. Topics such as agency, AI-human synergy, or agent governance frameworks are absent. The main focus is on human-driven Agile practices and process improvements, not agentic systems. Thus, conceptual and topical alignment is very low.",
+    "reasoning_summary": "Content discusses Agile product management and continuous delivery but contains no references to AI agents or agentic delivery concepts. Minimal alignment with Agentic Software Delivery; fit is negligible.",
+    "level": "Ignored"
   }
 }

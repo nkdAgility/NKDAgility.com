@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Ability to Innovate",
     "category": "Framework",
-    "calculated_at": "2025-04-09T16:43:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Ability to Innovate (A2I) and its relationship with Evidence-Based Management (EBM), but it does not focus on Agile frameworks or Lean principles, which are central to the Framework category. While it touches on themes of innovation and decision-making, it lacks direct references to specific frameworks or their implementation strategies. The discussion is more about a concept rather than a structured methodology, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 28.15,
+    "ai_mentions": 1.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.4,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on 'Ability to Innovate' as an organizational concept and key value area within Evidence-Based Management, describing metrics and mindsets. There is no explicit discussion of frameworks, guidelines, or structured methodologies; it instead presents innovation as a cultural and systemic capability. Frameworks are only mentioned in contrast ('Unlike other concepts that may focus on specific methodologies or frameworks...'), without exploring their role, principles, or application. Thus, mentions and alignment to the 'Framework' category are minimal, and there is very limited relevance beyond general contextual overlap—resulting in low confidence for this classification.",
+    "reasoning_summary": "Content describes innovation capacity in orgs, not frameworks; lacks direct discussion of frameworks or their principles, intent, or usage. Alignment with the 'Framework' category is tangential and insufficient for confident fit.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3123,6 +3130,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on an organization's overall capacity for innovation, emphasizing experimentation, learning, and collaborative culture among human teams. However, it does not mention or discuss AI, human-AI collaboration, or the emergence of collective intelligence as defined. There is strong relevance for practitioners interested in Agile and product development, but no evidence of integrating AI agents or discussing socio-technical human-AI systems. All discussion centers on human interaction and culture within organizations, not human-AI collaboration.",
     "reasoning_summary": "The content centers on fostering innovation and collaboration within human teams, lacking any significant mention of AI or human-AI partnership. Its focus is on organizational innovation culture, so alignment to the Collective Intelligence category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ability to Innovate",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 20.97,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 7.8,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses innovation and improvement in organizational capability, referencing experimental culture and adaptability. However, it does not mention agentic approaches, autonomous AI agents, human-agent collaboration, contextual intelligence, or modern engineering practices as defined for Agentic Software Delivery. There are no direct references or detailed alignment with integrating AI agents, nor any mention of governance, human-in-the-loop systems, or automated delivery mechanisms. Audience fit is higher since the content is aimed at organizational improvement in a software context, but intent, alignment, and depth for the specific Agentic Software Delivery category are low.",
+    "reasoning_summary": "This content is about fostering organizational innovation but does not reference or align with concepts of Agentic Software Delivery, such as integrated AI agents or agentic delivery processes. Fit is weak and mostly unrelated, aside from a shared improvement mindset.",
     "level": "Ignored"
   }
 }

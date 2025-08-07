@@ -654,15 +654,22 @@
     "level": "Secondary"
   },
   "Continuous Integration": {
+    "resourceId": "BAwBXYtKj7o",
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-14T17:13:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses technical debt management rather than Continuous Integration. While it briefly mentions the transition to a continuous delivery model, it does not delve into CI principles, practices, or tools. The focus is on the implications of technical debt and its management, which is not aligned with the core themes of Continuous Integration.",
+    "calculated_at": "2025-08-07T06:10:40",
+    "ai_confidence": 30.07,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.65,
+    "ai_intent": 3.5,
+    "ai_audience": 4.05,
+    "ai_signal": 3.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content is principally about technical debt management and long-term quality, using the Azure DevOps team's migration to continuous delivery as a related example. While continuous delivery and feature deployment velocity are discussed, there is only a passing reference to 'three ways of DevOps' and closing/shortening feedback loops, but no direct or substantive mention of Continuous Integration (CI), its principles, tools, or core practices. There is no discussion of CI pipelines, toolchains, code integration frequency, automated testing as part of CI, or team collaboration specifically within a CI context. Audience fit is somewhat adjacent due to engineering and DevOps references but not targeting CI practitioners directly. Proportion of directly relevant signal for CI is low; therefore, confidence is low.",
+    "reasoning_summary": "Content focuses on technical debt and long-term quality, using a continuous delivery example. It lacks explicit or in-depth discussion of Continuous Integration and only tangentially references related concepts. Partial fit at best.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -1996,6 +2003,25 @@
     "final_score": 40.0,
     "reasoning": "The content focuses on technical debt management and its impact on long-term product quality and delivery speed. It references DevOps, continuous delivery, feedback loops, and engineering practices—concepts tangent to Agentic Engineering—but doesn't explicitly discuss agency (human or AI), ethical autonomy, or deliberate decentralization of decisions. Mentions of enabling engineers to close and shorten feedback loops suggest some proximity to developer agency. However, the core purpose is advising on technical debt rather than agentic design, and there are no references to AI collaboration or explicit frameworks for agency. The main audience is technical practitioners, fitting the Agentic Engineering demographic, but the signal-to-noise ratio is moderate due to tangential content. No penalties apply as there's no outdated or contradictory material.",
     "reasoning_summary": "This content discusses technical debt management, touches on DevOps, feedback loops, and engineering practices, and aligns partially with Agentic Engineering. Brief references to developer empowerment occur, but no focus on agency, decision decentralization, or AI collaboration. Alignment is peripheral rather than central.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BAwBXYtKj7o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 19.09,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.6,
+    "ai_intent": 2.25,
+    "ai_audience": 6.15,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on technical debt management for quality and delivery speed. It discusses DevOps, feedback loops, CI/CD, and engineering practices, but does not mention AI agents, agency, or the integration of contextual intelligence into delivery. Although there are nods to themes such as automating pipelines and continuous delivery, there is no substantive linkage to agentic principles—no reference to AI autonomy, human-agent synergy, contextualized intelligence, or the governance of agent operations. The focus remains on human team practices, modern software engineering, and feature delivery acceleration. The audience is aligned (engineers, managers, product owners), and the discussion is moderately deep about technical debt, but it lacks key agentic delivery content.",
+    "reasoning_summary": "Discusses technical debt and modern engineering but omits AI agents, autonomy, or agentic software delivery concepts. No direct or indirect alignment with agentic principles. Fit is low, with mentions of related contexts only.",
     "level": "Ignored"
   }
 }

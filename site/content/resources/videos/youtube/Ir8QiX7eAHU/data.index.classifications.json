@@ -1409,15 +1409,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "Ir8QiX7eAHU",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban and WIP limits, with no direct mention of the Shift-Left Strategy. While it discusses workflow optimisation, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 19.76,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.5,
+    "ai_intent": 3.2,
+    "ai_audience": 4.6,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content exclusively discusses Kanban WIP limits, workflow management, and practical advice for optimizing Kanban systems. While it refers to visualizing work and identifying bottlenecks early, it does not directly or conceptually tie these concepts to the Shift Left Strategy, which focuses on integrating testing, security, and compliance earlier in the development lifecycle. There is no discussion of shifting these types of processes leftward, nor are any of the key topics—such as Shift-Left principles, targeted metrics, or early quality assurance—addressed. The main audience is Agile and Kanban practitioners, potentially overlapping with Shift-Left interest groups, but the topic is not aligned. Confidence is low due to absence of relevant themes and direct mentions.",
+    "reasoning_summary": "The content centers on Kanban WIP limits and workflow—not Shift Left Strategy. It does not mention integrating testing, security, or compliance early in development. Fit to the category is minimal and largely incidental.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1974,6 +1981,25 @@
     "final_score": 38.0,
     "reasoning": "The content is a practical guide to Kanban WIP limits focused on improving team productivity and workflow. It does touch on elements like experimentation, feedback, and informed decision-making, partially aligning with the Agentic Engineering emphasis on feedback-driven adaptation and decentralised action. However, the discussion is framed in terms of process optimization rather than explicitly maximizing human or AI agency or engineering systemic autonomy. There are no direct mentions of agentic engineering or significant discussion of engineering philosophy, ethical integration of AI, or advanced decision-making frameworks. Thus, the alignment and depth scores are moderate, with low direct mentions. The target audience aligns with technical practitioners, but the scope is not broad or philosophical enough to strongly fit Agentic Engineering. No penalties apply as tone and content are relevant and current.",
     "reasoning_summary": "While the article covers adaptive workflows and feedback—concepts adjacent to Agentic Engineering—it stays focused on Kanban process optimization and lacks explicit discussion of agency, engineering autonomy, or philosophical depth central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ir8QiX7eAHU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 8.125,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "There are no direct mentions, concepts, or practices tied to agentic software delivery, such as autonomous AI agents, contextual intelligence, or agent-human synergy. The content strictly explains WIP limits in Kanban, focusing on optimizing team flow. While the audience (software delivery professionals) might overlap, the topic does not address agentic principles, AI integration, or proactive system intelligence. No penalties for outdatedness or negative tone were necessary.",
+    "reasoning_summary": "The content covers Kanban WIP limits without reference to AI agents, agentic delivery, or contextual intelligence, so it does not fit the assigned category. Any overlap is indirect and coincidental.",
     "level": "Ignored"
   }
 }

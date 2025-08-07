@@ -1438,15 +1438,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "SLZmpwEWxD4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on visualizing work within a Kanban strategy and does not explicitly discuss the Shift-Left Strategy. While it touches on aspects of collaboration and workflow definition, it lacks a direct connection to integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 18.91,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.2,
+    "ai_intent": 1.9,
+    "ai_audience": 8.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "This content is focused on Kanban visualization, team alignment, board setup, and using flow metrics to improve Agile process efficiency. There is no direct or indirect mention of Shift-Left principles (integrating testing, security, or compliance earlier in development), nor any conceptual overlap with the proactive risk-mitigation focus defined by the Shift Left Strategy. The core discussion revolves around workflow visibility, collaboration, and operational clarity—not the early-in-lifecycle integration of critical processes. The intended audience (Agile teams, Scrum Masters) aligns, but the themes and purposes are fundamentally misaligned with 'Shift Left Strategy.'",
+    "reasoning_summary": "Content focuses on Kanban visualization and team alignment, not integrating testing/security/compliance earlier. No direct or conceptual overlap with Shift-Left Strategy. Audience fits, but topic intent and themes do not.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2005,6 +2012,25 @@
     "final_score": 27.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' or its explicit themes are absent. The content centers around Kanban visualization, with secondary attention to team alignment and system clarity. While notions like autonomy, alignment, and clear workflows connect tangentially to developer agency (a facet of Agentic Engineering), these are not explored through the lens of maximizing human/AI agency, ethical integration, or systemic observability. The main thrust is operational Kanban practice, not the philosophical or systemic design aspects defining Agentic Engineering. Audience slightly overlaps (Agile practitioners, Scrum Masters) but content doesn't address the higher-order principles, decision-making frameworks, or DevOps/AI infusion relevant for the category.",
     "reasoning_summary": "This content focuses on Kanban visualization for team clarity and alignment, not on the deliberate design of human or AI agency in engineering. While there is slight overlap with themes of alignment and workflow definition, it doesn't substantively address Agentic Engineering principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "SLZmpwEWxD4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 5.269,
+    "ai_mentions": 0.15,
+    "ai_alignment": 0.85,
+    "ai_depth": 0.67,
+    "ai_intent": 0.54,
+    "ai_audience": 1.04,
+    "ai_signal": 1.01,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content thoroughly discusses Kanban visualization, alignment, and team workflows within agile/Scrum contexts, but does not mention or suggest the integration of autonomous AI agents, contextual intelligence, or agentic principles. There is no exploration of agency, agent-based orchestration, or human/AI collaboration in delivery. The focus is strictly on human practices, work visualization, team collaboration, and tooling—not on agentic software delivery as defined (autonomous agents, modern agent-aware practices, or governance frameworks). Thus, the overlap is extremely low—only tenuous conceptual connections exist in collaborative/modern delivery, not in agentic paradigm.",
+    "reasoning_summary": "This article covers Kanban and visual work practices in Agile but does not touch on autonomous AI agents, agentic principles, or contextual intelligence. It is not a fit for Agentic Software Delivery except for very broad, tangential links about team alignment.",
     "level": "Ignored"
   }
 }

@@ -544,15 +544,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "Cgy1ccX7e7Y",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:13:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile consulting and organisational agility without any direct mention or focus on Test First Development principles. While it touches on adaptability and responsiveness, it does not address success criteria, testing practices, or the specific methodologies associated with Test First Development.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 8.78,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 0.9,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content centers on agile consulting outcomes and organizational agility, discussing adaptability, decentralization, and empowerment. There is no direct or indirect mention of Test First Development or its key principles (like defining success criteria before implementation, TDD, or ATDD). Testing practices, feedback loops, or the design/testing integration are absent. The closest overlap is a general focus on responsiveness and continuous improvement, but these are broad agile themes, not specific to Test First Development. The audience aligns with agile practitioners, but the substance is off-topic for this category.",
+    "reasoning_summary": "This content discusses agile consulting and organizational agility but does not reference Test First Development or its core principles. No relevant overlap with the category's purpose or topics.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2026,5 +2033,24 @@
     "reasoning": "The content discusses agile consulting outcomes centered on organizational adaptability, decentralized decision-making, empowered teams, and shifting from Tayloristic control to node-based, responsive organizations. These elements overlap significantly with Agentic Engineering's focus on maximising human agency, decentralisation, and adaptive evolution. However, explicit references to engineering practice, ethical AI integration, DevOps ethos, or technical agency-enabling mechanisms are absent. The discussion is more on organizational dynamics and agile mindset rather than engineering craft or explicit human/AI agency maximisation in development. Mentions of observability, empirical feedback, and continuous value are indirect, keeping alignment and depth moderate. The audience (agile consultants, coaches, leaders) fits, and the content is focused, but it lacks category-specific technical substance, resulting in a middling confidence score.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering by promoting decentralized decision-making, empowered teams, and adaptability within agile consulting. It fits the audience and intent but lacks depth in engineering practices or AI collaboration, making alignment solid yet not comprehensive.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Cgy1ccX7e7Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 18.533,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 3.1,
+    "ai_audience": 5.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on agile consulting outcomes, emphasizing adaptability, resilience, decentralized decision-making, and autonomy at the team level. However, it doesn't reference agentic software delivery, autonomous AI agents, or the integration of contextual intelligence, which are core to the category. The content does align partially with themes like autonomy and evolution from legacy practices, but these are framed around human teams and organizational agility, not agentic or AI-driven delivery. No explicit or implicit mention of agentic systems, AI agents, or technical mechanisms central to the category is present. Thus, scores are low on mentions, conceptual alignment, and depth, with partial credit for audience and signal, given the overlap with technical and agile audiences.",
+    "reasoning_summary": "The content discusses agile delivery and organizational autonomy but lacks reference to agentic software delivery or AI agents. It fits the category only peripherally, as the core theme is human-centric agile consulting, not agentic or AI-enabled delivery.",
+    "level": "Ignored"
   }
 }

@@ -1418,16 +1418,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "cv5IIVUgack",
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:21:43",
-    "ai_confidence": 52.0,
-    "ai_mentions": 5,
-    "ai_alignment": 20,
-    "ai_depth": 27,
-    "non_ai_confidence": 50,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the transition to a Scrum developer, which implies a focus on Scrum principles, particularly around continuous delivery and Agile practices. However, it lacks explicit references to specific Scrum roles, events, or artifacts, which limits its depth. The mention of continuous practices aligns with Agile principles but does not delve deeply into Scrum's framework or its implementation, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 80.7,
+    "ai_mentions": 7.8,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.9,
+    "ai_intent": 8.4,
+    "ai_audience": 7.7,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content explicitly centers on transitioning from a developer role to a Scrum developer, with repeated references to Scrum by name, focus on Scrum-specific challenges, and encouragement to deepen Scrum practice. It aligns with the category by discussing the shift to Scrum ways of working, embracing Agile philosophy, and continuous improvement—central to Scrum. While it addresses related topics (e.g., engineering practices, continuous delivery), these are framed within Scrum adoption rather than as unrelated methodologies. The depth is moderate; the discussion is more reflective and motivational than technical, but it captures essential principles. The target audience (developers considering Scrum) aligns with the intended audience of the category. Most content is on-topic, with minimal filler. No penalties are applied as the content is current, positive, and consistent with the Scrum Guide's framing.",
+    "reasoning_summary": "The content fits well in 'Scrum'—it directly addresses the transition to Scrum development, builds on core Scrum and Agile themes, and targets developers seeking to embrace Scrum practices.",
+    "level": "Primary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1991,5 +1998,24 @@
     "reasoning": "The content focuses primarily on transitioning from traditional development to Scrum, emphasizing continuous learning, delivery, Agile philosophy, and engineering practices. While some elements (continuous delivery, engineering practices, autonomy) touch tangentially on the Agentic Engineering ethos, there is no explicit or deep discussion of human or AI agency, ethical autonomy, or deliberate decentralization of decision-making. Key topics such as systemic observability, DevOps-infused craft, or ethical AI integration are absent. The main purpose is self-improvement in Scrum, not the design of engineering practices that maximize agency. The audience (developers) partly overlaps, and the content is generally focused, but it lacks conceptual and depth alignment with Agentic Engineering as defined.",
     "reasoning_summary": "The piece discusses moving from developer to Scrum developer with a focus on Agile and engineering best practices, but lacks direct attention to agentic design, systemic agency, or ethical autonomy. Its alignment with Agentic Engineering is tangential and largely implied.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cv5IIVUgack",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 19.849,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.6,
+    "ai_intent": 2.8,
+    "ai_audience": 7.8,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content discusses transitioning from a traditional developer role to a Scrum developer, focusing on continuous delivery, Agile, and engineering practices. While related to modern software development and delivery, it does not mention or explore agentic principles (such as AI agents, agency, context-driven intelligence, or synergy between autonomous agents and human experts). The primary themes are Agile adoption and professional growth in Scrum teams, not the intentional integration of agentic systems. There is no direct or conceptual mention of agentic delivery, nor exploration of governance, feedback loops with AI, or agent-enabled workflows. Therefore, alignment, depth, and intent fit are all low. Audience alignment is higher due to relevance for practitioners, and there is moderate signal among Agile topics, but overall fit to the assigned category is minimal.",
+    "reasoning_summary": "This piece focuses on shifting from developer to Scrum roles and modern engineering practices in Agile, but does not address agentic delivery, AI agents, or autonomy. There is little to no fit with the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

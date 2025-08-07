@@ -694,16 +694,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "mqgffRQi6bY",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:52:29",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses complexity in the context of Scrum training, which touches on systems thinking principles. However, it primarily critiques the use of Lego as a training tool rather than exploring broader organisational dynamics or systems thinking in depth. While it acknowledges the complexity of real-world tasks, it does not provide a comprehensive analysis of organisational behaviour or the interplay of organisational elements, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 40.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.1,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content critiques Lego's use in Scrum training for oversimplifying real-world complexity, referencing the nuanced nature of software work. Complexity and systems elements are alluded to, but there's no explicit adoption of systems thinking or analysis of organisational dynamics per Organisational Physics. Main themes are about metaphorical fit, not systemic organisational interaction or feedback loops. Intent is more instructional for Scrum trainers, not examination of systemic organisational behaviour or holistic systems analysis. The audience (Scrum trainers) may overlap with those interested in Organisational Physics but the focus is not tailored specifically to those themes.",
+    "reasoning_summary": "Content touches on complexity but does not directly address systems thinking or organisational dynamics per Organisational Physics. Focus is on critique of training tools, not holistic organisational analysis. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1930,6 +1937,25 @@
     "final_score": 24.0,
     "reasoning": "The content critiques the use of Lego in Scrum training, focusing on how oversimplified metaphors fail to capture software complexity. It advocates for training methods that better mirror real-world challenges but does not discuss agency, decentralized decisions, or AI-system interactions. There's no explicit mention or intent to explore Agentic Engineering concepts. While the audience overlaps with engineering practitioners, substantive linkages to agency-maximizing engineering or feedback-driven adaptation are largely absent. Penalties were applied due to lack of explicit references, weak alignment, and superficial depth regarding agentic principles.",
     "reasoning_summary": "This content critiques Lego as an oversimplified Scrum training tool, advocating for realism in teaching software complexity. While relevant to practitioners, it does not reference or meaningfully align with Agentic Engineering concepts, agency, or intentional engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mqgffRQi6bY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 13.524,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 4.8,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.6,
+    "ai_penalty_details": "alignment (-0.7): Content is critical of oversimplified training metaphors but never references agentic principles or AI integration; depth (-0.9): Lacks any real discussion on agentic delivery or AI; intent (-1.0): Content is critical of a teaching tool, not promoting or aligning with agentic delivery.",
+    "final_score": 14.0,
+    "reasoning": "The content critiques the use of Lego in Scrum training for oversimplifying software complexity. It does not mention or discuss agentic principles, AI agents, or software delivery with proactive intelligence. The focus is on training realism, not delivery strategy, modern engineering practices, or integration of AI/human agency. The only overlap is a tangential emphasis on complexity and realism in training exercises. Penalties were applied for conceptual misalignment, insufficient depth, and off-purpose intent.",
+    "reasoning_summary": "Content critiques Lego in Scrum training for oversimplification but lacks any discussion of agentic software delivery, AI, or agentic concepts. No meaningful alignment with the target category; fit is extremely limited and mostly tangential.",
     "level": "Ignored"
   }
 }

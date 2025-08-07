@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Minimum Viable Product",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the MVP concept in product development, which indirectly relates to accountability through the emphasis on team collaboration and ownership. However, it lacks explicit mentions of accountability structures or roles, and the primary focus is on product features and market validation rather than on outcome ownership or accountability mechanisms.",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 33.2,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.9,
+    "ai_intent": 2.8,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content discusses MVP concepts—focusing on quick feedback, iteration, and value delivery—with themes of collaboration and team ownership. However, it does not explicitly address accountability, outcome ownership, structural roles, or distinctions between accountability and responsibility. There are indirect allusions to ownership and alignment, but these are not developed in the structural or role-driven sense specified by the category definition. The main focus remains MVP methodology—not the systemic mechanisms of accountability in Agile or Scrum contexts. No penalties are necessary, as no obsolete practices or category-undermining tones are present.",
+    "reasoning_summary": "While there are minor allusions to team ownership and alignment, the content does not directly address structural accountability or explicit outcome ownership. Its main focus is MVP methodology, not accountability mechanisms in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3153,6 +3160,25 @@
     "final_score": 13.0,
     "reasoning": "The content focuses on Minimum Viable Product methodologies, emphasizing cross-functional (human) team collaboration, user feedback, and iterative learning. However, it makes no explicit reference to AI involvement, AI-human partnership, or collective intelligence as defined in the category. Collaboration and learning discussed are entirely human-centric, without any elements of distributed cognition between humans and AI, nor frameworks, patterns, or systems involving AI as team members. Thus, the fit with 'Collective Intelligence' is extremely low.",
     "reasoning_summary": "This content discusses MVP in terms of human team collaboration and iterative product development, without referencing human-AI partnership, shared cognition, or collective intelligence as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Minimum Viable Product",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 18.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on foundational MVP concepts in product development: testing, iteration, and feedback loops. It does not mention or integrate autonomous AI agents, agentic intelligence, or software delivery contexts involving agents, nor does it explore agentic governance, modern engineering practices, or synergy between humans and AI. Its intent is product validation and lean development, not agentic delivery. While some ideas like feedback and iteration overlap conceptually, none are discussed in an agentic or AI-integrated context. The audience is general product and development teams rather than those focused on agentic software delivery.",
+    "reasoning_summary": "This content discusses MVP and iterative product development but does not reference agentic software delivery, AI agents, or the integration of contextual intelligence. The fit is weak and only peripheral at best.",
     "level": "Ignored"
   }
 }

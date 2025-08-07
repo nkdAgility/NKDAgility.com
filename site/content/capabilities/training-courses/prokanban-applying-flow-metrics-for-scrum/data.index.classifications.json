@@ -559,15 +559,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "Ej_UgfRAGhZ",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T14:59:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and flow metrics, which are related to Agile practices rather than Continuous Delivery. While there is a mention of improving team efficiency and project outcomes, it does not explicitly discuss Continuous Delivery principles, automation, or the specific practices associated with it. The discussion lacks depth in terms of Continuous Delivery concepts, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 34.94,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 3.6,
+    "ai_audience": 8.3,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "This course is focused on teaching how to use flow metrics (WIP, cycle time, throughput) within Scrum to improve team efficiency, planning, and forecasting. While many of these topics are related to concepts leveraged within Continuous Delivery (such as monitoring flow and enabling predictability), the content is explicitly targeted at internal Scrum process optimization and team-level practices, not on the broader principles and practices of Continuous Delivery as defined by the category. There are no direct mentions of Continuous Delivery, nor is there substantive discussion of deployment automation, rapid release, or end-to-end pipeline topics. The intent is team improvement in Scrum context, not releaseability or rapid, automated delivery. Audience is technical and relevant, but signal is moderately diluted as the focus is primarily on Scrum improvement, not Continuous Delivery. No penalties apply as content is current and not antagonistic.",
+    "reasoning_summary": "Content teaches flow metrics to improve Scrum teams. While these metrics can support Continuous Delivery, no direct discussion or intent aligns with the core CD category. Main focus is Scrum optimization, not delivering releasable software.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1951,6 +1958,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on applying flow metrics, analytical tools, and data-driven improvements in Scrum. While it aligns somewhat with agentic themes like empirical adaptation and decision-making through metrics, it does not directly reference deliberate design to maximize human or AI agency, ethical AI integration, or decentralized decision-making frameworks. The audience overlaps with Agentic Engineering, but the discussion centers on efficiency and workflow optimization. There are minimal explicit ties to the category, limited conceptual depth on agency or autonomy, and no mention of technical or ethical frameworks for augmenting human or system agency.",
     "reasoning_summary": "This course centers on using flow metrics within Scrum to improve team efficiency and data-driven decisions, partially aligning with agentic practices. However, it lacks direct discussion of agency, autonomy, or the engineering philosophies core to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ej_UgfRAGhZ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 17.625,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 5.5,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There are no direct mentions of Agentic Software Delivery or its defining elements (autonomous AI agents, contextual intelligence, etc.) in the content. The course focuses on pragmatic use of flow metrics and analytical tools within Scrum to improve workflow and efficiency. While it supports data-informed delivery, there is no sign of AI, agency, or autonomous systems—only traditional empirical process control and data-driven improvement. The audience (Scrum practitioners) partially overlaps, but the content’s themes and intent do not align with agentic delivery principles or practices.",
+    "reasoning_summary": "The content is about flow metrics and data analysis in Scrum, not agentic delivery. There’s no AI, agent, or contextual intelligence—so it does not fit the Agentic Software Delivery category, except by very weak and indirect association.",
     "level": "Ignored"
   }
 }

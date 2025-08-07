@@ -1126,16 +1126,23 @@
     "level": "Ignored"
   },
   "Agile Product Management": {
+    "resourceId": "3CgKmunwiSQ",
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T18:07:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses evidence-based management and contrasts it with traditional management practices. While it touches on Agile concepts like story points and velocity, the primary focus is on decision-making processes rather than Agile Product Management specifically. The mention of metrics and the importance of data aligns somewhat with Agile principles, but the overall discussion lacks depth in Agile methodologies and practices, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 62.23,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.1,
+    "ai_intent": 6.9,
+    "ai_audience": 6.4,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "Direct mention of Agile Product Management is extremely limited; the focus is evidence-based management in contrast to traditional management. Some references relate to agile practices (story points, velocity, continuous improvement) and mention product owner, but the main theme is decision-making and metrics usage at an organizational/managerial level, not specifically agile product management. The alignment comes from overlap with evidence-based management—a key topic within agile product management—but there is little depth on product ownership, backlog management, or maximizing product value through agile methods. Intent is partially relevant, as the material supports data-informed decision making, which is important for agile product management, but not its primary aim. The audience is broadly managerial, not specifically product managers in an agile context. Signal-to-noise is decent: nearly all content relates to evidence-driven management, though not to agile product management per se.",
+    "reasoning_summary": "While evidence-based management overlaps with agile product management, this content primarily contrasts traditional and EBM, with only brief agile/product references. Partial fit; not deeply focused on agile product management as defined.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1957,5 +1964,24 @@
     "reasoning": "The content focuses extensively on evidence-based management versus traditional management, emphasizing data-driven decision-making, usage of valuable metrics, and continuous improvement. While these correlate with some philosophical underpinnings of Agentic Engineering—such as decentralizing decisions and feedback-driven adaptation—the article never directly refers to agency (neither for developers nor AI), DevOps-infused craft, ethical AI integration, or engineering practices that maximize human/AI autonomy. There's a moderate conceptual overlap in terms of striving for empirical, systemic improvement and feedback loops, but the discussion remains at a management/process level. No explicit mention or depth about engineering methodologies, developer autonomy, observability, or AI-human collaboration, so most Agentic Engineering core themes are absent.",
     "reasoning_summary": "This content provides a thorough exploration of evidence-based management, reflecting some Agentic Engineering principles like feedback-driven adaptation and systemic impact. However, it lacks explicit focus on engineering agency, autonomy, and AI integration, making alignment partial and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 8.825,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.4,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively focuses on traditional management vs. evidence-based management, discussing data-driven decision making, pitfalls of vanity metrics, and practice transformation. There is no direct mention of autonomous AI agents, agentic systems, or agentic principles in software delivery. The closest match is the focus on evidence and metrics, but this is firmly within a managerial/leadership and Agile improvement context, not agentic systems. There are no references to intelligent agents, human-agent collaboration, agency, context-aware intelligence, or governance of agentic systems. The audience, intent, depth, and alignment all firmly target management practice evolution, not Agentic Software Delivery as defined. Thus, confidence is extremely low, reflecting only the slight thematic overlap with improvement and evidence-driven practices.",
+    "reasoning_summary": "This content does not fit Agentic Software Delivery—it focuses on evidence-based management and metrics, with no discussion of AI agents, contextual intelligence, or agentic principles relevant to the category.",
+    "level": "Ignored"
   }
 }

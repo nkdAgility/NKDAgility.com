@@ -1398,15 +1398,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "x6a_BuQq580",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:58:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on cloud migration strategies and technical considerations rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on planning and communication, it does not explicitly connect these to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 23.19,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 3.2,
+    "ai_audience": 7.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on technical and practical aspects of cloud migration (planning, risk mitigation, Microsoft tools, stakeholder communication) and alleviating concerns over incomplete data transfers. While there are brief touches on communication, planning, and aligning stakeholder expectations, there is no direct discussion or conceptual exploration of Common Goals as defined (e.g., aligning strategic/tactical objectives, goal frameworks like OKRs, or Agile/DevOps alignment principles). The intent is mainly about migration efficacy, not about fostering shared goals in an Agile context. Therefore, only incidental alignment with the category exists, leading to a low confidence score.",
+    "reasoning_summary": "The content addresses planning and communication in cloud migration but lacks substantial connection to Common Goals as defined in Agile or DevOps contexts. Main focus is on technical migration steps, not shared strategic alignment.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1932,6 +1939,25 @@
     "final_score": 21.0,
     "reasoning": "The content solely addresses practical cloud migration concerns—such as planning, risk, data assessment, and the use of Microsoft tools—without referencing Agentic Engineering concepts, such as maximising human/AI agency, decentralised decision-making, or DevOps-philosophical aspects. There is no explicit or implicit mention of ethical autonomy, systemic observability, or how workflows evolve based on feedback other than in a very general sense (e.g., communication and planning). The target audience (technical practitioners) overlaps somewhat, but the content focus is operational rather than agentic. There is little philosophical or conceptual overlap and no mention of decision-making frameworks or agentic practices.",
     "reasoning_summary": "This content offers hands-on cloud migration guidance but does not discuss Agentic Engineering concepts or practices. It lacks references to human or system agency and stays firmly focused on practical migration steps and Microsoft tools.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "x6a_BuQq580",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 13.115,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 4.9,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on practical guidance for cloud migration with an emphasis on planning, Microsoft tools, and support strategies for avoiding incomplete data transfers. It does not mention agentic software delivery or related concepts like autonomous AI agents, contextual intelligence, or human-agent collaboration in delivery processes. There are no references to agentic frameworks, AI-driven systems, or the embedded context-aware intelligence described by the category. The content is targeted to technical practitioners, but strictly within the scope of cloud migration and does not incorporate agentic principles or innovations.",
+    "reasoning_summary": "This content discusses cloud migration planning and risks, without addressing agentic software delivery, AI-driven agents, or contextual intelligence. It does not match the core definition or topics of the category.",
     "level": "Ignored"
   }
 }

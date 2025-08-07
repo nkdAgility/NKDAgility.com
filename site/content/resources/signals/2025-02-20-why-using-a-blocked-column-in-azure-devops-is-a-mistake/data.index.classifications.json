@@ -40,21 +40,21 @@
   "Collaboration Tools": {
     "resourceId": "H8CRQrD64JY",
     "category": "Collaboration Tools",
-    "calculated_at": "2025-05-16T20:22:18",
-    "ai_confidence": 60.97,
-    "ai_mentions": 3.7,
-    "ai_alignment": 7.3,
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 57.95,
+    "ai_mentions": 4.2,
+    "ai_alignment": 6.8,
     "ai_depth": 5.9,
-    "ai_intent": 7.1,
-    "ai_audience": 8.3,
-    "ai_signal": 7.6,
+    "ai_intent": 6.2,
+    "ai_audience": 6.6,
+    "ai_signal": 7.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 61.0,
-    "reasoning": "The content centers on Azure DevOps, a recognized collaboration tool. It critiques current Kanban practices and proposes practical alternatives for handling blocked work, directly referencing workflow and team communication. However, direct references to 'collaboration tools' and in-depth exploration of broader tool features are limited. The primary audience is Agile practitioners seeking process improvement. The discussion is relevant, focused, and includes actionable advice, though it doesn’t deeply compare tools or integrate broader best practices, which restricts higher depth and direct mention scores.",
-    "reasoning_summary": "This content is targeted at Agile teams using collaboration tools, offering practical tips to manage workflow in Azure DevOps. While it aligns with collaboration tool usage, the discussion is narrowly focused on a specific feature, limiting broader coverage.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses workflow management within Azure DevOps—a platform fitting the 'Collaboration Tools' category. It offers practical advice for teams on handling blocked work by leveraging in-tool features (tags, color-coding, data tracking). However, while Azure DevOps itself is a collaboration tool, the focus here is on a specific workflow practice rather than a broad collaboration topic or exploration of tool capabilities. There is only indirect mention of collaboration enhancement, with the main discussion centered on process improvement using the tool. The content is targeted at Agile/DevOps practitioners and provides team-relevant advice, but does not deeply examine collaboration facilitation, specific features, or tool comparisons. Thus, the content partially fits the category but with limited depth and direct alignment.",
+    "reasoning_summary": "Content fits category by discussing team workflow within Azure DevOps, but focus is on a specific board practice, not broader collaboration tool themes. Partial, not full, match to 'Collaboration Tools' as defined.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "resourceId": "H8CRQrD64JY",
@@ -3341,6 +3341,25 @@
     "final_score": 33.0,
     "reasoning": "The content critiques the use of a 'Blocked' column in Azure DevOps, advocating for practices that maintain workflow visibility and promote action. While this aligns somewhat with improving engineering processes, it does not mention agentic engineering, developer agency, or systemic observability directly. The focus is more on board hygiene and workflow management than on the deliberate maximisation of human or AI agency. Its relevance to Agentic Engineering is peripheral; the audience is technical and process-focused, fitting a partial match but not the category's core intent.",
     "reasoning_summary": "This content addresses workflow patterns and visibility in Azure DevOps, offering practical advice for managing blocked work. While partially aligned with process improvement, it doesn't engage core Agentic Engineering themes like agency, autonomy, or ethical AI integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "H8CRQrD64JY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 14.88,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.6,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on workflow management within Azure DevOps, critiquing the use of a 'Blocked' column and suggesting alternative tracking using tags. While relevant to DevOps and Agile practice, it does not address autonomous AI agents, agentic integration, or context-aware intelligence. There are no direct or implicit references to agentic principles, AI, or human-agent collaboration. Audience (practitioners using DevOps tools) is somewhat related but does not fully align with the advanced agentic delivery context.",
+    "reasoning_summary": "The topic is about workflow optimization in Azure DevOps, not agentic software delivery. There is no mention or exploration of AI agents, contextual intelligence, or agentic practices, so fit with the category is minimal.",
     "level": "Ignored"
   }
 }

@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "I3eGjbYOnzu",
     "category": "Framework",
-    "calculated_at": "2025-04-09T16:15:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses competence as a foundational principle for professional effectiveness, which indirectly relates to frameworks in terms of the skills and capabilities required for successful implementation. However, it does not explicitly mention any specific frameworks or provide detailed discussions on Agile, DevOps, or Lean methodologies. The focus is more on the concept of competence rather than on frameworks themselves, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 13.3,
+    "ai_mentions": 2.7,
+    "ai_alignment": 3.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 1.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers almost entirely on the concept of competence as a foundational professional principle. Frameworks are only briefly mentioned to make the point that competence is required for any framework to succeed; there is no discussion of specific frameworks, no exploration of their principles, or implementation. The main idea is about individual and organizational capability, not structured methodologies, making both alignment and depth for the Framework category weak. There are no penalties since the content isn't outdated or actively critical.",
+    "reasoning_summary": "The content is about competence as a foundational principle, with only passing references to frameworks. It does not discuss frameworks, their principles, or implementation. Thus, fit under Framework is weak and mainly indirect.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3096,6 +3103,25 @@
     "final_score": 8.0,
     "reasoning": "The content focuses exclusively on the concept of competence as a professional and organizational principle, emphasizing individual and collective capability, continuous learning, and expertise. However, it makes no mention—direct or indirect—of human-AI collaboration, distributed cognition, team dynamics involving AI, or any hallmark of collective intelligence as strictly defined. There are no references to socio-technical systems, AI agents, or any form of human-AI partnership. The discussion is general, potentially relevant to teams, but remains entirely within the human and organizational domain without connecting to the technological or AI collaboration aspects. As such, it lacks both explicit references and underlying thematic alignment with the core definition and scope for Collective Intelligence.",
     "reasoning_summary": "This content discusses competence, continuous learning, and professionalism, but does not reference or align with human-AI collaboration or collective intelligence concepts. It remains focused on human and organizational capability and is not relevant to the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "I3eGjbYOnzu",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 15.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.4,
+    "ai_intent": 2.3,
+    "ai_audience": 5.8,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content exclusively discusses general competence as a foundational principle of professionalism and value delivery. There are no explicit or implicit references to agentic software delivery, AI agents, or related concepts. It does not mention, align with, or explore the category themes such as integration of autonomous agents, human-agent collaboration, governance of AI in delivery practices, or contextual software delivery. The audience is potentially relevant (tech/professionals), and the content is focused (high signal), but it is conceptually unrelated to the category.",
+    "reasoning_summary": "The content discusses professional competence in general, without any reference to agentic software delivery or the integration of AI agents. There is negligible alignment with the target category; the fit is highly partial and almost absent.",
     "level": "Ignored"
   }
 }

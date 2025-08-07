@@ -655,15 +655,22 @@
     "level": "Secondary"
   },
   "Continuous Delivery": {
+    "resourceId": "4mkwTMMtKls",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:44:29",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation within Agile frameworks, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of adaptation and innovation, which are relevant to Continuous Delivery, the focus remains on Agile methodologies rather than the specific practices of Continuous Delivery. Therefore, the confidence score reflects a very low alignment with the category.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.4,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on Agile anti-patterns related to envy, FOMO, and the dangers of copying frameworks like Spotify. It emphasizes tailoring Agile to team needs, fostering innovation, autonomy, and values-driven practices. There is no explicit mention of Continuous Delivery or its key principles (automation in delivery, rapid feedback, deployment readiness, etc.). The intent is reflective, not specific to software delivery cadence, pipelines, or delivery automation. Any audience overlap is only due to Agile practitioners being a subset of Continuous Delivery stakeholders. Nearly all discussion is tangential or thematic, lacking substance or direct connection to Continuous Delivery.",
+    "reasoning_summary": "The content discusses Agile process authenticity, not Continuous Delivery. There are no direct or substantive references to Continuous Delivery principles, practices, or automation-focused approaches—fit with the category is highly marginal and indirect.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1946,5 +1953,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering' but conceptually aligns with aspects such as autonomy, tailoring processes, and valuing team agency (e.g., advocating adaptation over copying, stressing innovation and unique solutions). There is moderate depth in arguing for self-direction in practices and decision-making frameworks, though not framed in agentic engineering’s vocabulary or integrating technical/DevOps/AI topics. The audience is practitioners interested in authentic Agile adoption, somewhat overlapping but not solely focused on agentic engineering domains. There’s a high signal-to-noise ratio, with little filler and a sustained focus on agency, autonomy, and adaptation. No penalties for outdated practices or contradictory tone.",
     "reasoning_summary": "The content strongly encourages tailoring Agile practices to unique team contexts and values autonomy, aligning well with agentic engineering’s principles. However, it lacks direct references, technical depth, or explicit discussion of human/AI agency or DevOps. The fit is moderate but not core.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 13.62,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.05,
+    "ai_audience": 2.1,
+    "ai_signal": 2.05,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content addresses authentic Agile adoption, customization, and the risks of copying popular models. It emphasizes autonomy, positive culture, and customer focus but does not mention or discuss autonomous AI agents, contextual intelligence, or any agentic delivery principles. The closest match is a general encouragement of team autonomy but without technological, architectural, or agent-driven framing. No modern agentic software delivery topics (CI/CD, observability, agent interaction, governance) are present. Audience is Agile practitioners, which partially overlaps but not specifically with agentic delivery stakeholders.",
+    "reasoning_summary": "This content does not address Agentic Software Delivery: no AI agents, context-aware automation, or agentic systems discussed. Focus is solely on authentic, tailored Agile practices and values without reference to technological agency.",
+    "level": "Ignored"
   }
 }

@@ -862,15 +862,22 @@
     "level": "Tertiary"
   },
   "Agile Leadership": {
+    "resourceId": "zLhc3UKUWOj",
     "category": "Agile Leadership",
-    "calculated_at": "2025-04-30T10:42:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of building systems and processes that empower teams, which aligns with Agile Leadership principles. However, it primarily focuses on technical practices and DevOps strategies rather than explicitly addressing leadership roles or practices within Agile contexts. While there are mentions of self-management and team autonomy, the depth of discussion on leadership aspects is limited, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 37.7,
+    "ai_mentions": 1.8,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 2.8,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "Direct mentions of Agile leadership concepts are minimal; 'self-management' and Agile principles are referenced only to clarify engineering boundaries. While the text describes systems and practices that can empower teams and support scaling, the primary focus is on technical platform consolidation, DevOps, and platform engineering. The leadership dimension is auxiliary, context-setting rather than central. The intent is to guide engineering teams and organisations toward unified systems, but it is not framed as a leadership strategy document. The audience, though broadly relevant, is more technical and operations-focused than executive or leadership-targeted. The signal-to-noise ratio is low for the Agile Leadership category—the content is mostly about system architecture, not about leading change or organisational culture.",
+    "reasoning_summary": "This content focuses on platform engineering and unifying tooling for DevOps, only tangentially touching on Agile leadership (e.g., self-management within constraints). Leadership is auxiliary, not central; fit to the Agile Leadership category is weak.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -2531,5 +2538,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' are lacking, but the content strongly aligns with many of its core ideas: maximizing developer autonomy, observability, breaking silos, engineering excellence, and DevOps philosophy. The discussion about moving from fragmented tools to unified systems and platform engineering links closely to enabling both human and systemic agency. It highlights feedback loops, flow, and the need for resilient, observable engineering systems, mapping conceptually to agentic engineering, though explicit terminology is missing and the role of AI collaboration is less emphasized. Deep exploration of engineering boundaries and constraints as enablers of team autonomy further reinforces relevance. No penalties, as content is current and consistent.",
     "reasoning_summary": "This content extensively discusses designing unified, feedback-driven engineering systems that empower teams and maximize autonomy, aligning strongly with Agentic Engineering principles. While it doesn't use the label directly or emphasize AI collaboration, it deeply explores developer agency and systemic observability in DevOps-embedded contexts.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zLhc3UKUWOj",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 28.82,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 2.1,
+    "ai_audience": 8.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "Direct mentions of 'agentic', 'autonomous AI agents', or related agentic terminology are absent. The content extensively covers modern engineering practices, DevOps, consolidation, platform engineering, feedback loops, and developer experience, but it focuses on unifying systems and removing tool fragmentation—not on integrating AI agents, agency, or emergent intelligence. While it discusses governance, boundaries, and the role of platforms for enabling flow and autonomy, the autonomy described is about human team operation within engineered constraints. There is no significant treatment of embedded AI agency, contextual intelligence, or human-agent synergy. The main audience and context—DevOps, platform engineering, systems thinking—is broadly related to the engineering backdrop of agentic delivery, but not to its core. Hence, conceptual alignment and depth are partial, with much of the content off the primary topic.",
+    "reasoning_summary": "The content focuses on platform engineering, DevOps, and unified engineering systems, not on embedding AI agents or agentic delivery. There is minimal overlap with Agentic Software Delivery beyond related engineering practices. Alignment is partial at best.",
+    "level": "Ignored"
   }
 }

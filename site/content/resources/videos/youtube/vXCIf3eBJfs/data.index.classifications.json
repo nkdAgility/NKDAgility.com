@@ -1348,15 +1348,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "vXCIf3eBJfs",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:50:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of evaluating an agile coach's expertise. However, it does not delve into Scrum principles, practices, or frameworks, making it a secondary focus rather than a primary discussion. The mention of Scrum is limited and lacks depth, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 35.85,
+    "ai_mentions": 2.6,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.6,
+    "ai_intent": 3.9,
+    "ai_audience": 5.3,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content discusses Agile coaching from a broad, framework-agnostic perspective. Scrum is directly mentioned a few times, most notably as one example among frameworks. There is only brief, surface-level discussion of Scrum, primarily as a contrast to a one-size-fits-all approach. The thematic focus is on selecting adaptable Agile coaches, not on Scrum’s principles, artifacts, events, or roles. The intended audience overlaps with potential Scrum practitioners, but the information is highly generic and relevant to many Agile paradigms. Signal-to-noise is moderate, with most details addressing the value of flexibility rather than core Scrum practices or philosophy. There are no outdated references or negative tone against Scrum itself.",
+    "reasoning_summary": "While Scrum is mentioned as one framework among several, the content primarily promotes a broad, agnostic approach to Agile coaching. Scrum is not a central theme, making this fit partial and of moderate confidence.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1923,5 +1930,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the content never engages the philosophical or engineering-excellence aspects central to the category. The piece focuses on evaluating Agile coaches based on versatility and adaptability across frameworks, promoting agnosticism and continuous learning. While these notions overlap slightly with themes of agency and environment fit, they are not explored in ways distinctive to Agentic Engineering: decision decentralisation, human/AI agency, or ethical autonomy. The depth is limited to practicalities of hiring and evaluating coaches, not systemic engineering practices, nor the integration of AI or autonomy. The intent remains narrowly on practical talent selection for Agile teams—relevant to practitioners but misaligned with the core category definition. Stronger audience overlap results from its targeting of technical/managerial readers, and a high signal-to-noise ratio reflects the focus of the article.",
     "reasoning_summary": "The content discusses selecting Agile coaches who are adaptable and agnostic, aligning somewhat with agency and continuous improvement. However, it does not address the deliberate design of engineering practices, decision decentralization, or human/AI agency central to Agentic Engineering. Overall, relevance is peripheral.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vXCIf3eBJfs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 11.095,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 1.9,
+    "ai_signal": 1.195,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content thoroughly discusses selecting an Agile coach with adaptability and framework-agnostic expertise. Agentic Software Delivery is not directly mentioned nor implied. There's no discussion of AI agents, contextual intelligence, human-agent synergy, or autonomous agentic practices. The main topics are about human coaching, adaptability across Agile methods, and practical coaching qualities—completely outside the key concepts of agentic delivery. The audience is process-improvement focused (Agile leaders, delivery teams), which slightly overlaps with the category's likely audience, but only marginally. The majority of the content is focused on coaching, not on technical, agentic, or AI-enabled delivery.",
+    "reasoning_summary": "Content is about choosing adaptable Agile coaches, not about agentic software delivery. No discussion of autonomous agents, AI integration, or agentic principles. Fit is minimal; alignment is very weak and indirect at best.",
+    "level": "Ignored"
   }
 }

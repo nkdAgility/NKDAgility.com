@@ -1503,15 +1503,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "4scE4acfewk",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:09:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of humility within Agile practices, discussing its importance for collaboration and team dynamics. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 12.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.8,
+    "ai_audience": 4.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses entirely on the virtue of humility within Agile teams and product management, with no explicit or implicit mention of One Engineering System (1ES), its principles, frameworks, or goals around standardisation or integration across engineering teams. There is no discussion of unified tooling, process integration, or 1ES implementation. The audience is generally in the range of Agile practitioners, overlapping somewhat with 1ES audiences, but all themes and advice are rooted in team culture and personal/team virtues, not system/process standardisation or integration. The few tangential mentions of collaboration and data-driven decision-making remain general and not connected to 1ES goals. Nearly all content is off-topic regarding the category, resulting in extremely low confidence.",
+    "reasoning_summary": "This content discusses team humility in Agile, not One Engineering System. It does not mention 1ES, its integration principles, or process unification, so fit is almost nonexistent except for a generic Agile/tech audience overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2014,6 +2021,25 @@
     "final_score": 38.0,
     "reasoning": "The content is centered on the virtue of humility in Agile contexts, focusing on collaboration, feedback, and data-driven decision-making. While these are adjacent to principles like decentralized decision-making and feedback loops found in Agentic Engineering, there are no explicit references to engineering practices, agency maximization, ethical AI, observability, or DevOps-craft as defined by the classification. Autonomy is referenced in the sense of openness to feedback, but not in the agentic, systemic, or infrastructural sense. The discussion is at the team culture and interpersonal level, not the deliberate design of engineering systems to maximize agency for humans or intelligent systems. Some points overlap (like data-driven adaptation), but overall, the fit is loose and largely incidental.",
     "reasoning_summary": "This content focuses on humility and collaboration in Agile teams, emphasizing feedback and openness. While it touches on themes that are tangentially related to Agentic Engineering, such as adaptive change, it does not address the deliberate engineering or agency aspects at the core of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4scE4acfewk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 12.19,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.35,
+    "ai_audience": 2.15,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is about humility as a core virtue in Agile teams, with discussion focused on openness to feedback, collaboration, and data-driven improvement. It does not mention or meaningfully address agentic principles, AI agents, contextual intelligence, or integrated human-agent systems. The emphasis is on human behaviors and virtues in Agile, not autonomous or proactive AI within software delivery. There's no discussion of CI/CD, telemetry, agentic governance, or similar topics. The audience (Agile practitioners) could overlap with those interested in agentic delivery, but the content itself is unrelated to agentic software delivery.",
+    "reasoning_summary": "Content focuses entirely on human virtues in Agile (humility, feedback), without AI, agentic automation, or agent-human synergy—does not fit Agentic Software Delivery. Only superficial audience overlap; content is largely off-topic for category.",
     "level": "Ignored"
   }
 }

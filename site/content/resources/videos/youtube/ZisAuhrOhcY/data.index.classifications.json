@@ -1439,15 +1439,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "ZisAuhrOhcY",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.3,
+    "ai_intent": 1.8,
+    "ai_audience": 2.5,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban as a workflow optimisation strategy and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on improving predictability and transparency, these concepts do not directly align with integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "reasoning": "The content exclusively focuses on Kanban—its workflow optimization benefits, transparency improvement, and application across domains—not on Shift Left Strategy. While workflow improvement is somewhat tangentially related, there are no explicit or implicit discussions of integrating testing, security, or compliance earlier in the lifecycle, nor are Shift Left principles or metrics discussed. The intent is to advise on Kanban adoption, not on Shift Left practices or their impact. The only element slightly aligned is a general philosophy of early visibility, but this is not developed in a way that matches the Shift Left Strategy definition. The target audience (teams optimizing workflow in various domains) does not specifically match Shift Left’s focus on proactive integration of testing, security, and compliance during development. No penalties were imposed, as the content is not outdated or antagonistic.",
+    "reasoning_summary": "This article focuses entirely on Kanban, not Shift Left Strategy. There are no explicit or meaningful implicit references to Shift Left topics such as early testing or security. The fit is minimal and only weakly related via general workflow concepts.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2001,6 +2008,25 @@
     "final_score": 39.0,
     "reasoning": "The content is focused on the author's practical adoption of Kanban and promotes its benefits in workflow, predictability, and transparency. While there are strong parallels with agentic principles—such as enabling teams to make better decisions and emphasizing transparency—the discussion remains at the process and workflow strategy level. It does not explicitly reference or deeply explore the maximisation of human or AI agency, decentralised decision-making frameworks, or ethical AI integration, which define the core of 'Agentic Engineering'. No points require deduction as there are no outdated references or contradictory tones. The content is relevant to operational and technical audiences but not specifically to those interested in Agentic Engineering as a distinct discipline.",
     "reasoning_summary": "This content centers on Kanban's practical value for improving workflow and visibility. While it aligns partially with agentic principles like transparency and team empowerment, it does not directly address the core concepts or terminology of Agentic Engineering. Its relevance to the category is moderate but not primary.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZisAuhrOhcY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 13.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 3.8,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses extensively on Kanban as a workflow optimization tool, discussing its use for improving predictability, transparency, and flow across teams and industries. However, there is no mention or discussion of agentic software delivery, autonomous AI agents, context-aware intelligence, or related agentic principles. The primary themes are process optimization and team workflow, not the deliberate integration of AI agents with human expertise in delivery. The audience is tangentially similar (practitioners of modern delivery), but the subject does not fit the agentic framing. No penalties were necessary as the content is contemporary and not satirical or critical.",
+    "reasoning_summary": "The content is focused solely on Kanban and workflow optimization, without reference to agentic software delivery or its core principles (AI agents, contextual intelligence, human-agent synergy). Fit with the category is weak and largely coincidental.",
     "level": "Ignored"
   }
 }

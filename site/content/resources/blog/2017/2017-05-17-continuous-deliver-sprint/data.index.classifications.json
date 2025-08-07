@@ -1070,13 +1070,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "nIIA3IUtX_z",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:54:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their importance for communication, alignment, and predictability, which are relevant to technical leadership in agile environments. However, the primary focus is on the mechanics of Scrum rather than on broader technical leadership principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 83.32,
+    "ai_mentions": 5.6,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.4,
+    "ai_intent": 8.3,
+    "ai_audience": 8.0,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content discusses the value of Sprints within continuous delivery, focusing on agile best practices, feedback loops, planning, communication, and predictability—all core themes for technical leadership. While it doesn't explicitly mention 'leadership' or 'mentoring,' it interprets and advocates for best practices that leaders would communicate to teams, including fostering empirical process control, structured ceremonies, aligning with business cadence, and predictability. The audience is teams and possibly leaders seeking to understand Scrum rationale, and the intent is educational and persuasive towards effective Scrum implementation. The discussion goes beyond mere definitions, exploring deeper advantages relevant for those guiding teams. Some dimensions are slightly lower due to lack of direct leadership terminology or explicit references to mentorship or coaching.",
+    "reasoning_summary": "Content fits technical leadership by advocating best-practice rationale for Sprints, aligning with agile values and team guidance. While explicit leadership terms are sparse, topics like planning, feedback loops, and process control match category purpose.",
+    "level": "Primary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -2003,6 +2013,25 @@
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the rationale for Sprints within continuous delivery, focusing on planning, feedback, and Scrum mechanics. There is limited direct discussion of agency (human or AI), engineering for autonomy, or the philosophical aspects central to Agentic Engineering. It does reference feedback loops and empirical practices, aligning somewhat in concept, but the main focus is Scrum roles and cadence over agentic decision-making or adaptive engineering environments designed for maximizing agency. Audiences align as both are technical practitioners, but the content remains more practical than agentic in nature.",
     "reasoning_summary": "This content loosely aligns conceptually through its emphasis on feedback and empirical process but lacks focused discussion on engineering for agency or agentic systems. It is more about Scrum practice than Agentic Engineering, resulting in a low confidence match.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "nIIA3IUtX_z",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 10.72,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on the value of Sprints within Scrum in the context of continuous delivery. It discusses planning, predictability, and feedback loops, but does not mention agentic principles, autonomous AI agents, or contextual intelligence. There are no references to the integration of AI agents with human expertise, nor are there discussions of agency, agent roles, or supporting modern engineering practices for agentic delivery. The topic and audience are related to software delivery, but do not match the advanced, autonomous agent-driven themes required for this category.",
+    "reasoning_summary": "Content is about Scrum and continuous delivery, not agentic software delivery. No discussion of AI agents, agency, or autonomous systems. Not a fit for this category; minimal alignment.",
     "level": "Ignored"
   }
 }

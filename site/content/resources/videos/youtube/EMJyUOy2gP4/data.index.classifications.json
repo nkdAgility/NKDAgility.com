@@ -1434,15 +1434,22 @@
     "reasoning_summary": "This content is a strong fit for the Scrum category, as it centres on the responsibilities and influence of Scrum Masters within teams. By exploring their competencies and the resulting impact on performance and ROI, it directly addresses core Scrum principles. The inclusion of performance metrics further reinforces its relevance to Scrum’s focus on continuous improvement and effective team dynamics."
   },
   "Shift Left Strategy": {
+    "resourceId": "EMJyUOy2gP4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:39:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role and impact of competent Scrum Masters on team performance and ROI, without explicitly addressing the Shift-Left Strategy. While it touches on aspects of quality and delivery, it does not integrate testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 13.58,
+    "ai_mentions": 0.05,
+    "ai_alignment": 1.45,
+    "ai_depth": 1.75,
+    "ai_intent": 1.6,
+    "ai_audience": 3.1,
+    "ai_signal": 2.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct mentions, references, or discussions of the Shift Left Strategy or its key principles (integrating testing, security, or compliance earlier). The content is exclusively focused on Scrum Master competence and measurement of Scrum ROI via team metrics such as innovation and usage rate, but does not discuss shifting practices left in the SDLC. While there is some relevance in process improvement for teams, neither the intent nor the substance matches the requirements of the category. Audience overlap exists as both target people interested in Agile practices, but that is incidental.",
+    "reasoning_summary": "This content does not fit the Shift Left Strategy category; it focuses entirely on Scrum Master effectiveness and ROI metrics, without discussing Shift Left principles, testing, or early lifecycle integration.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1997,5 +2004,24 @@
     "reasoning": "The content focuses on the skills and measurable value of Scrum Masters, with emphasis on ROI, team delivery, and the use of metrics like innovation rate. While it mentions DevOps and engineering practices, it does not directly or deeply engage with the core theme of Agentic Engineering—maximising agency of humans and intelligent systems, decentralised decision-making, or ethical AI collaboration. The discussion is primarily about the practical effectiveness and accountability of Scrum Masters, not about deliberate engineering design to maximise agency. There are tangential touches on observability and some alignment with systemic improvement, but the philosophical and agentic underpinnings are largely absent. The main audience overlaps (technical/practitioner), and the content is tightly focused on team process improvement, maintaining a good signal-to-noise ratio, but it stays within traditional Scrum/Agile boundaries.",
     "reasoning_summary": "This content addresses Scrum Master competence and its impact on ROI, with some light overlap in engineering metrics and DevOps. However, it lacks direct engagement with core Agentic Engineering concepts such as maximising agency, decentralised decision-making, or ethical AI integration.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "EMJyUOy2gP4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 14.801,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.8,
+    "ai_audience": 4.3,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the competence of Scrum Masters and ROI measurement through delivery metrics. There is no explicit discussion or evidence of autonomous AI agents, agentic principles, or agent-in-human-team integration, all central to Agentic Software Delivery. The entire text remains within conventional agile and Scrum improvement, modern engineering practices, and related metrics, but never bridges toward contextual intelligence, embedded agents, or agency as defined in the category. Audience (tech managers/Scrum teams) and signal (relevant to agile delivery) are higher, but conceptual alignment and depth on agentic themes are nearly absent. No penalties applied because the tone is not outdated or critical, just unrelated to agentic delivery.",
+    "reasoning_summary": "The content centers on Scrum Master competence and agile metrics, not on embedded AI agents or agentic delivery. It lacks any direct or conceptual fit with Agentic Software Delivery and only partially overlaps with its engineering context.",
+    "level": "Ignored"
   }
 }

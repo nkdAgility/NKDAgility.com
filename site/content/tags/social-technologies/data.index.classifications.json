@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Social Technologies",
     "category": "Tool",
-    "calculated_at": "2025-04-09T16:44:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses social technologies as foundational philosophies that shape collaboration and decision-making, but it does not focus on specific tools or their practical applications within Agile, Lean, or DevOps frameworks. While it touches on concepts relevant to team collaboration and adaptability, it lacks detailed discussions on specific tools or their integration into workflows, which is essential for a higher confidence score in the 'Tool' category.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 21.3,
+    "ai_mentions": 1.9,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 4.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses 'social technologies' as foundational philosophies and structures for collaboration and adaptability but explicitly states they are not tools or methodologies. There are no mentions of software applications, mechanisms, or practical tool alignments as defined by the category. While the themes (collaboration, continuous learning) overlap with core Agile/DevOps values, the content is conceptual/philosophical, not focused on tools that enable these values. Minimal alignment is found in the audience (change facilitators, leaders) and a slight nod to tools as enabling structures, but overall the criteria for 'Tool' are not met beyond superficial thematic relatedness.",
+    "reasoning_summary": "The content explores social technologies as philosophies for collaboration and adaptability, not tangible tools or software. It explicitly distinguishes these from tools or processes, so fit with the 'Tool' category is weak and mostly conceptual.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3125,5 +3132,24 @@
     "reasoning": "The content directly mentions 'collective intelligence' and frequently discusses principles that support it, like self-organization, participatory governance, and continuous learning. However, its treatment is mostly at a philosophical and structural level, focusing on foundational mindsets and social technologies rather than providing specific, concrete examples of human-AI collaboration or explicit discussions of AI as a team member. It references concepts such as distributed cognition and emergent order, which are tangentially related, and emphasizes collaboration and decision-making in complex environments. The main audience (organizational practitioners or leaders) fits, and the signal is high since most of the content is on-topic. Depth and conceptual alignment are somewhat limited by the lack of explicit human-AI partnership scenarios, which is central to the classification definition.",
     "reasoning_summary": "The content aligns moderately with 'Collective Intelligence' by emphasizing self-organization, participatory governance, and social learning. While it references collective intelligence, its focus remains on philosophical approaches rather than explicit human-AI collaboration, limiting depth and full alignment to the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Social Technologies",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 34.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.1,
+    "ai_intent": 3.7,
+    "ai_audience": 4.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on foundational philosophies for collaboration, self-organisation, and adaptive organizational learning, but makes no explicit mention of agentic AI, autonomous software agents, technical delivery contexts, or related engineering practices. The main themes of decentralisation and collective intelligence are conceptually adjacent to agentic delivery principles but stop short of discussing the integration of AI agents, technical architectures, or delivery-specific mechanisms. Audience overlap is partial since both are about organizational evolution and innovation, but nothing targets software delivery specifically. The intent is philosophically aligned around adaptability and continuous learning, yet the technical and practical requirements central to Agentic Software Delivery are absent.",
+    "reasoning_summary": "This content explores adaptability and self-organisation in organizations, which is loosely related to agentic delivery, but lacks any mention of AI agents, technical systems, or delivery practices. Fit is insufficient for classification under this category.",
+    "level": "Ignored"
   }
 }

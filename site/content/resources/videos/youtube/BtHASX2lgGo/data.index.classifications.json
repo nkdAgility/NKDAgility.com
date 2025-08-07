@@ -1248,15 +1248,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "BtHASX2lgGo",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:11:18",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Sprint planning and critiques the use of burndown charts, focusing on flexibility and adaptability in agile practices. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the role of testing in the development process. Therefore, it has minimal relevance to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 17.74,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses overwhelmingly on critiques of burndown charts, upfront planning, and advocates for adaptive Sprint planning and continuous flow. There is no direct or even indirect discussion of Test First Development, its principles, or practices (manual or automated). No mention is made of defining success criteria before implementation, and neither test-centric nor criteria-driven thinking is used as a lens for the advocated practices. The main intent and audience are Agile practitioners, but the theme is planning and flow—not testing or specification. No penalties were applied, as the content is timely and does not actively contradict or undermine Test First ideas, but the fit remains highly tangential and insufficient.",
+    "reasoning_summary": "Content is about sprint planning and critiques burndown charts, not about Test First Development. Does not cover test-first principles, success criteria, or test automation. Relevance to the category is marginal and mostly circumstantial.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1985,5 +1992,24 @@
     "reasoning": "The content critiques traditional burndown charts and advocates for adaptive, minimal Sprint planning in Agile teams. It emphasizes continuous flow, adaptability, and the downside of rigid, upfront planning. While these concepts overlap with agency, such as empowering teams to adapt and focusing on value delivery, the content does not directly reference Agentic Engineering or discuss the maximization of human or AI agency in software development. Other criteria, such as systemic observability, ethical AI integration, or DevOps-infused craft, are not explicitly addressed. The primary audience is practitioners seeking better Agile practices, somewhat aligning with agentic themes, but the focus remains on workflow, not on the deeper engineering or philosophical topics required for the category.",
     "reasoning_summary": "This content encourages adaptive workflow and minimizes rigid planning, echoing some agentic principles like team autonomy and continuous flow. However, it does not directly discuss or deeply engage with Agentic Engineering's core concepts, such as maximizing human/AI agency, system observability, or ethical AI integration.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BtHASX2lgGo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 13.92,
+    "ai_mentions": 0.12,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.85,
+    "ai_intent": 2.32,
+    "ai_audience": 3.71,
+    "ai_signal": 4.43,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content critiques burndown charts and advocates for adaptive Sprint planning and continuous flow, themes consistent with modern Agile thinking. However, it lacks reference to agentic principles—there is no discussion of autonomous AI agents, contextual intelligence, or AI-human collaboration in software delivery. The main focus is on reducing planning waste, not embedding intelligent agents or explaining architecture, agency, or synergy with AI. The audience and purpose are tangentially related but lack alignment with the agentic category definition.",
+    "reasoning_summary": "Content addresses agile practice reform (less planning, continuous flow) but does not discuss autonomous agents, contextual intelligence, or AI integration—so does not fit 'Agentic Software Delivery' except for some indirect alignment with modern delivery trends.",
+    "level": "Ignored"
   }
 }

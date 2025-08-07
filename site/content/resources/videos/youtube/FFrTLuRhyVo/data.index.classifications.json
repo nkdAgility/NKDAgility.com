@@ -1366,15 +1366,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "FFrTLuRhyVo",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:38:08",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of managing technical debt and fostering a culture of quality, which indirectly relates to collaboration and value delivery. However, it primarily focuses on technical aspects and does not explicitly address social technologies or their frameworks. The mention of team dynamics and the need for a culture of quality suggests some alignment with social technologies, but the depth of discussion on collaboration and decision-making is limited.",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 67.02,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 8.1,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content centers on managing technical debt to enable innovation and value, and references continuous improvement, value delivery, and fostering a quality-focused team culture. These themes conceptually align with Social Technologies, particularly methods to enhance collaboration, transparency, and adaptive processes. However, there are no direct mentions of social technology frameworks (e.g., Agile, DevOps), and most discussion is technical practice-focused with moderate exploration of team and cultural factors. Intent aligns, targeting practitioners and team leads seeking to improve collaboration and value delivery, but the primary thrust remains technical rather than strictly social frameworks or emergent problem solving methods.",
+    "reasoning_summary": "The content partially fits Social Technologies by emphasizing culture, value delivery, and continuous improvement. However, it is mainly about technical debt management, not directly about social frameworks or methodologies. Fit is partial but relevant.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {
@@ -1969,6 +1976,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on managing technical debt to improve product quality, innovation, and value delivery through continuous improvement practices. While it aligns with DevOps-infused craft and continuous delivery, it never explicitly discusses the intentional maximisation of human/AI agency, systemic observability, or ethical AI. The philosophical frame of Agentic Engineering is mostly absent, with more emphasis on cultural change than agency or decentralised decision-making. Audience is technical, but the content is largely generic to engineering best practices, missing key conceptual depth and explicit alignment required for Agentic Engineering.",
     "reasoning_summary": "This piece addresses continuous quality improvement, technical debt, and innovation, which modestly align with themes of engineering empowerment. However, it does not engage with core Agentic Engineering principles such as explicit agency, decentralisation, or AI collaboration, making the fit partial rather than direct.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FFrTLuRhyVo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 37.35,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content centers on technical debt management as a lever for quality and innovation in product delivery. While it discusses improvement strategies—proactive evaluation, refactoring, quality culture—there are no direct mentions of agentic software delivery, autonomous agents, AI integration, or the embedding of proactive, context-aware intelligence into systems of work. The piece aligns partially in its focus on continuous improvement and modern software delivery themes, but it does not connect these to agentic principles or AI-driven mechanisms. The audience (software professionals) is moderately relevant, but the discussion remains general and stops short of the agentic delivery paradigm.",
+    "reasoning_summary": "Content focuses on technical debt and quality improvement in delivery but does not address agentic software delivery, AI, or autonomous agents. Only a partial, tangential fit to the category definition.",
     "level": "Ignored"
   }
 }

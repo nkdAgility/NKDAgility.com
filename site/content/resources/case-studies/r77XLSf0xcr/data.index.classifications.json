@@ -21,21 +21,21 @@
   "Portfolio Management": {
     "resourceId": "r77XLSf0xcr",
     "category": "Portfolio Management",
-    "calculated_at": "2025-06-16T10:13:19",
-    "ai_confidence": 65.1,
-    "ai_mentions": 2.3,
-    "ai_alignment": 7.0,
-    "ai_depth": 6.8,
-    "ai_intent": 6.3,
-    "ai_audience": 9.2,
-    "ai_signal": 8.0,
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 56.12,
+    "ai_mentions": 1.5,
+    "ai_alignment": 6.3,
+    "ai_depth": 7.1,
+    "ai_intent": 5.8,
+    "ai_audience": 8.0,
+    "ai_signal": 7.4,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 65.0,
-    "reasoning": "Direct references to 'Portfolio Management' or its named frameworks are largely absent. However, the content does emphasize organizational alignment, strategic visibility, governance, and investment decision support—core principles of Portfolio Management. The primary focus is on consolidating tooling/processes to enable cross-team reporting, simplify governance, and give leaders improved flow and data. While themes such as strategic alignment, flow visibility, and executive decision-making are present, the depth around portfolio-specific methodologies, prioritization frameworks, or value stream optimization is somewhat limited. The audience is well-matched (CTOs, engineering leaders), and most of the content remains relevant. However, some discussions are more rooted in engineering operational excellence than explicit portfolio management practice.",
-    "reasoning_summary": "The content aligns moderately with Portfolio Management by highlighting strategic alignment, governance, and organizational clarity. However, it centers more on process/tool consolidation and engineering visibility than on deep portfolio management frameworks or value prioritization, resulting in a mid-to-high confidence score.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "Direct mentions of 'portfolio management' are absent, with most discussion focused on consolidation of DevOps and process standardisation. However, substantial alignment exists: the transformation unified project tracking, enabled senior leadership to make investment and delivery decisions, and improved strategic visibility across 800+ teams—core aspects of portfolio management. Still, the narrative centers slightly more on operational tooling and engineering excellence than on portfolio strategies or explicit prioritisation frameworks. The main audience (CTOs, engineering leaders) overlaps with portfolio interests, but some content targets technical/process leadership. The discussion is deep and strategic, yet it never directly labels the effort as 'portfolio management'; references to value flow and reporting do gesture toward portfolio-level visibility, but prioritisation and value-stream mapping are not primary topics.",
+    "reasoning_summary": "The content discusses large-scale process standardization and strategic visibility, substantially aligning with portfolio management—even though it does not explicitly frame the work in those terms. Fit is partial but strong for large-enterprise portfolio challenges.",
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "resourceId": "r77XLSf0xcr",
@@ -3342,5 +3342,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' or related terminology is minimal—the primary framing is around DevOps, standardization, and systems thinking. However, the narrative aligns with Agentic Engineering in several areas: strengthening system-level visibility, enabling developer focus (reduced tooling friction), and strategic transformation for engineering agency. There’s moderate discussion of empowering engineering teams to better deliver value, but the content is still largely about consolidation, standardization, and migration rather than philosophy or design principles for maximizing agency. Still, comments on flow, engineering excellence, visibility, and leadership signal alignment. The audience is fully aligned (technical and executive leaders), and content is focused with little filler or tangential material. The depth is decent, but the 'agency' lens is implicit rather than foundational. No penalties are warranted.",
     "reasoning_summary": "The content highlights large-scale systems transformation to increase clarity, visibility, and delivery confidence for engineering teams. While Agentic Engineering themes are present (empowerment, systemic improvement), explicit philosophical depth is limited, resulting in above-average but not high confidence.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "r77XLSf0xcr",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 38.336,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.6,
+    "ai_depth": 4.1,
+    "ai_intent": 4.0,
+    "ai_audience": 8.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content is centered on DevOps consolidation, automation and process standardization across large engineering orgs—it describes migration tooling, process governance, engineering enablement, and value flow visibility at scale. However, it does not mention or focus on agentic software delivery, autonomous AI agents, or agent-human synergy. Automation efforts (e.g., PowerShell scripts) are engineering automation, not proactive, context-aware AI agents. Key concepts such as AI-driven agency, human-in-the-loop design, agent autonomy, or contextualized intelligence are absent. Audience fit is strong—targeting CTOs and engineering leaders—but the main themes are classic DevOps transformation, not agentic principles or AI agent integration.",
+    "reasoning_summary": "Content focuses on large-scale DevOps system consolidation, process standardization, and automation—not agentic software delivery. Does not discuss autonomous AI agents, contextual intelligence, or agent-human synergy. Fit is minimal and primarily tangential.",
+    "level": "Ignored"
   }
 }

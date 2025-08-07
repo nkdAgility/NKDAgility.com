@@ -1488,15 +1488,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "XZVixdVy-PQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:56:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and critiques the mechanical application of Agile rituals. It does not focus on the One Engineering System framework, its principles, or its integration across teams. While there are mentions of processes and adaptability, these are not aligned with the specific themes of 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 17.89,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.05,
+    "ai_depth": 2.18,
+    "ai_intent": 1.64,
+    "ai_audience": 4.08,
+    "ai_signal": 2.38,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on Agile principles, criticizing superficial adoption of its rituals and emphasizing outcome-focused, adaptive mindsets. There are no references to One Engineering System (1ES), nor does the discussion address standardized frameworks, tool/process integration, or cross-team unification—the domain of 1ES. The narrative is directed at practitioners struggling with Agile implementation, not those seeking information about 1ES or unified engineering practices. While the critique of 'mechanical' approaches and advocacy for adaptability are conceptually adjacent to themes relevant in 1ES (like challenging process rigidity), this is generic advice applicable to many frameworks. There is no explicit or implicit exploration of 1ES's principles, methodology, or objectives. Thus, the fit with the category is minimal and scores are low, reflecting rare alignment on the audience and generic process improvement, but almost no content signal referring to the subject category.",
+    "reasoning_summary": "The content centers on Agile mindsets, rituals, and outcomes, not One Engineering System. There's no mention of 1ES principles, integration, or standardization. Fit with the target category is extremely limited and almost entirely off-topic.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2001,5 +2008,24 @@
     "reasoning": "The content directly critiques ritualistic Agile practices, emphasizing autonomy, adaptation, and human judgement, which partially aligns with Agentic Engineering themes such as developer agency and feedback-driven adaptation. It highlights the limits of automation and the need for human oversight (e.g., Toyota example). However, it rarely makes explicit connections to agentic system design, ethical AI, or DevOps approaches. There are no direct mentions of 'Agentic Engineering,' nor does the piece explore frameworks or practices explicitly designed to maximize human and AI agency. The target audience is likely engineering practitioners and Agile leaders, moderately overlapping with Agentic Engineering, but most discussion remains centered on Agile philosophy, not agentic engineering as defined.",
     "reasoning_summary": "Content advocates for outcome-focused Agile and the value of human judgment over rigid procedures, touching lightly on themes relevant to Agentic Engineering. It moderately overlaps but lacks depth or explicit discussion of maximizing human and AI agency, making it tangential to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XZVixdVy-PQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 38.053,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.8,
+    "ai_intent": 4.1,
+    "ai_audience": 5.5,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content critiques ritualistic Agile and advocates for value delivery, adaptability, and integrating human judgment with automated systems. However, it doesn't mention or explore agentic principles—such as autonomous AI agents, contextual intelligence, or their synergy with human expertise in software delivery. The automation discussion is generic and not situated in agentic software delivery models. The closest links are arguments about human checks alongside automation, but these lack explicit references to autonomous, context-aware agents or modern agentic frameworks. Audience and intent partly overlap (Agile practitioners), but the specifics of 'Agentic Software Delivery' are not present.",
+    "reasoning_summary": "The content focuses on Agile philosophy and warns against mechanical processes; while it critiques automation without human judgment, it never addresses agentic software delivery concepts like autonomous AI agents or contextual intelligence. Weak fit.",
+    "level": "Ignored"
   }
 }

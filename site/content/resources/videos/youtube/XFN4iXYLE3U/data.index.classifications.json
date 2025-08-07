@@ -1285,15 +1285,22 @@
     "level": "Ignored"
   },
   "Scrum Master": {
+    "resourceId": "XFN4iXYLE3U",
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:56:34",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban methodology and the importance of limiting work in progress (WIP), with no direct mention of the Scrum Master role or its responsibilities. While there are some general themes of team dynamics and productivity that could tangentially relate to a Scrum Master's influence, the discussion does not align with the core topics of the Scrum Master category. The content lacks depth in addressing the specific responsibilities or skills of a Scrum Master, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 9.886,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 0.6,
+    "ai_audience": 2.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is entirely focused on Kanban practices—specifically, limiting work in progress. There is only a single passing anecdotal mention of a Scrum team, with no discussion of the Scrum Master accountability, responsibilities, or systemic impact. The article neither addresses the role of the Scrum Master nor articulates distinctions between Scrum and Kanban accountabilities. All discussion and practical advice concern Kanban methodologies. Accordingly, scores are extremely low across all dimensions, with only a negligible mention of Scrum. No penalties are required since there are no signs of obsolete practices or contradiction.",
+    "reasoning_summary": "Content is exclusively about Kanban and WIP limits, with only an incidental mention of a Scrum team. It does not address Scrum Master accountability, responsibilities, or impact. Fit to the Scrum Master category is negligible.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1966,5 +1973,24 @@
     "reasoning": "The content thoroughly discusses Kanban and limiting Work in Progress (WIP) for better team focus, workflow management, and value delivery. While these topics align conceptually with aspects of Agentic Engineering (autonomy, feedback-driven flow, continuous value), there is no direct mention or explicit framing around agency maximization, ethical AI, or deliberate engineering for human/AI agency. The discussion is practical and detailed about workflow design and bottlenecks, targeting technical team audiences, but mainly through the lens of Kanban best practices—not the broader paradigm of Agentic Engineering. There is clarity and minimal off-topic noise, but exploration of agentic principles is implicit rather than explicit.",
     "reasoning_summary": "This content is highly relevant to workflow autonomy and continuous improvement in Kanban, which overlaps with Agentic Engineering's goals. However, it focuses on practical Kanban methods without directly addressing agency maximization or integrating explicit agentic principles.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XFN4iXYLE3U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 10.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.25,
+    "ai_intent": 0.95,
+    "ai_audience": 3.25,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "There are no explicit or implicit mentions of agentic software delivery or AI agents. The content focuses exclusively on human-centered Kanban WIP limits, team focus, and workflow management, without discussing integration of autonomous agents, contextual intelligence, agentic governance, or synergy between humans and AI. All discussed practices are traditional, lacking any substantive connection to agency, autonomy, or agentic system design. The audience and intent target Kanban practitioners interested in team productivity and agile delivery, with no overlap into the agentic paradigm.",
+    "reasoning_summary": "This content focuses on traditional Kanban and human team practices, with no discussion of autonomous agents, agentic intelligence, or agentic delivery. It fits the Kanban category, not Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

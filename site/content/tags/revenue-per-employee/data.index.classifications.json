@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Revenue per Employee",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T11:58:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses a financial metric related to workforce efficiency and strategic alignment, but it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on systemic performance and organisational changes, it lacks a direct focus on outcome ownership or role-specific accountabilities, which are central to the accountability category.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 21.1,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 6.7,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on 'Revenue per Employee' as a financial metric for system-level observability and organisational efficiency, without direct discussion of accountability constructs. It warns against its use for individual or team-level accountability, making only tangential connections to the category—primarily when reference is made to organisational alignment. There is no exploration of defined accountabilities, outcome ownership, or structural aspects essential to the Accountability category. The audience is somewhat aligned (leaders, strategists), but depth, intent, and direct mentions are low or only weakly related. Content is concentrated but misaligned in topic focus.",
+    "reasoning_summary": "The topic is about a financial metric for system performance, not about outcome ownership or role-based accountability. No conceptual or explicit link to accountability structures or intent. Fit is partial and indirect at best.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3102,6 +3109,25 @@
     "final_score": 8.0,
     "reasoning": "The content describes 'Revenue per Employee' as a system-level financial metric to analyze workforce efficiency and organizational alignment and as a tool for observability in the context of organizational change (like Agile adoption). However, there is no mention or discussion of human-AI partnerships, collaboration with AI agents, distributed cognition with AI, AI team member roles, or any other theme central to the definition of Collective Intelligence. The entire focus is on human organizational structure, efficiency, and business metrics—AI is not referenced in any context, nor is collective problem solving via human-AI collaboration. There is no ambiguity or peripheral fit for 'Collective Intelligence' as defined.",
     "reasoning_summary": "The content does not address human-AI collaboration or any aspect of Collective Intelligence. It strictly focuses on a financial metric for evaluating workforce and organizational efficiency, without reference to distributed cognition, AI team roles, or collaborative augmentation.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Revenue per Employee",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 18.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 7.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content exclusively discusses 'Revenue per Employee' as a financial metric for organisational observability, not agentic software delivery. No direct or indirect mention of autonomous AI agents, agentic integration, or related practices occurs. While the audience is strategic/technical leaders (partial thematic alignment), the metric is generic, lacks reference to any AI, agency, or agentic practices, and never touches upon topics such as human-agent synergy, contextual intelligence, or workflow augmentation. No signal of system evolution via agentic means or feedback loops with agentic processes; the intent is classic performance inspection, not agentic enablement. Depth is minimal, solely focused on metric interpretation.",
+    "reasoning_summary": "Content narrowly covers workforce efficiency via a financial metric. No mention or conceptual link to agentic software delivery, AI agents, or related strategies. Only a minimal overlap in audience/observability theme; fit with the category is very weak.",
     "level": "Ignored"
   }
 }

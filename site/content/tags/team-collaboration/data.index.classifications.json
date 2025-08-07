@@ -72,17 +72,23 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Team Collaboration",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 50,
-    "final_score": 78.0,
-    "reasoning": "The content discusses team collaboration as a practice that enhances teamwork, communication, and shared ownership, which aligns well with the core themes of the 'Practice' category. It provides a detailed exploration of how collaboration fosters a culture of continuous improvement and value delivery, addressing actionable techniques that can enhance team performance. However, while it mentions practices and tools, it does not delve deeply into specific methodologies or techniques like pair programming or TDD, which slightly lowers the depth score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the 'Practice' category because it explores how team collaboration improves communication, shared ownership, and continuous improvement. While it covers actionable ways to boost team performance, it doesn’t go into detail on specific methodologies like pair programming or TDD, making it more of a general overview than an in-depth guide."
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 69.3,
+    "ai_mentions": 6.2,
+    "ai_alignment": 7.5,
+    "ai_depth": 6.8,
+    "ai_intent": 7.1,
+    "ai_audience": 7.8,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content describes team collaboration as a practice that enhances teamwork, communication, and shared ownership for high performance. It refers several times to 'practice' and actionable techniques that foster a collaborative culture, matching the category definition. However, the discussion stays general, describing collaboration benefits and context rather than specific practices (like pair programming or retrospectives). There are implicit actionable elements (e.g., breaking down silos, communication, shared ownership), but explicit, detailed techniques are lacking. The intended audience is practitioners or teams aiming to improve collaboration and value delivery, aligning well. Very little content is off-topic. No penalties were applied, as the tone is positive and current. The confidence score reflects the partial but not direct coverage of specific actionable practices.",
+    "reasoning_summary": "The content fits the category by framing team collaboration as a practice and discussing its benefits but lacks specific, actionable techniques. It aligns with the intent but is general rather than detailed, offering a moderately strong category fit.",
+    "level": "Secondary"
   },
   "Philosophy": {
     "category": "Philosophy",
@@ -3143,6 +3149,25 @@
     "final_score": 8.0,
     "reasoning": "The content focuses exclusively on human teamwork, communication, and shared ownership for better performance. There is no mention of AI, human-AI partnerships, or any related collective intelligence themes per definition. Collaboration tools are referenced only generically, without AI context. All main points, case examples, and purposes strictly discuss collective efficacy among humans, not human-AI teams.",
     "reasoning_summary": "This content exclusively covers human collaboration without any AI or human-AI partnership themes. It lacks alignment with the 'Collective Intelligence' category, as its intent and depth are entirely focused on human teamwork.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Team Collaboration",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:18",
+    "ai_confidence": 23.15,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 3.7,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on general team collaboration, highlighting communication, shared ownership, breaking down silos, and benefits in agile or DevOps environments. There are no direct mentions or conceptual discussions involving agentic software delivery, autonomous AI agents, intelligent context-aware systems, or the deliberate integration of AI/agents in software delivery processes. While the audience and context overlap with modern software practices, and the signal remains fairly on topic for collaboration, the content misses all agentic-specific frameworks, governance, or technological depth required by this classification.",
+    "reasoning_summary": "This content broadly addresses team collaboration in software teams, without reference to agentic software delivery, autonomous AI agents, or agentic processes. It fits only tangentially, lacking core alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -1254,15 +1254,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "Psc6nDD7Q9g",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:55:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban and its role in improving software engineering processes, with no direct mention of Test First Development principles or practices. While it touches on continuous improvement and metrics, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices like TDD or ATDD.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 7.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.6,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on Kanban's role in transparency, visualization, and continuous improvement—not on Test First Development principles. There are no direct or even indirect references to defining success criteria before implementation, test-driven approaches, or any mention of acceptance criteria or testing methods (manual or automated). The main ideas (visualizing workflows, WIP limits, team adaptation) align with process optimization, not with test-first doctrine. The intended audience (software teams, Scrum practitioners) does have overlap, but the messaging, intent, and substance do not fit the Test First Development category. The content neither supports nor discusses defining tests before coding; it focuses on workflow management. Very little (if anything) is relevant for 'Test First Development,' hence low—but not absolute zero—scores across all dimensions.",
+    "reasoning_summary": "This content does not fit the 'Test First Development' category. It focuses on Kanban, continuous improvement, and workflow visualization without addressing test-first principles, success criteria, or related testing practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -2005,5 +2012,24 @@
     "reasoning": "Direct mention of Agentic Engineering is absent (score: 1.6), but there is strong alignment in themes like transparency, process visualisation, developer empowerment, and feedback-driven change. However, the discussion is framed around Kanban and continuous improvement, focusing on team agency and system observation—both key to Agentic Engineering—yet it does not explicitly address engineering for maximal human/AI agency or ethical AI integration. The depth is substantial in practical workflow optimization and feedback adaptation, but missing intentional philosophical reflection on agency, decision-making frameworks, or AI collaboration. Audience is clearly technical practitioners (engineers, Scrum teams), and the content is focused, practical, and relevant. No penalties apply, as it uses up-to-date practices and a positive tone. The confidence reflects strong, but indirect, fit.",
     "reasoning_summary": "The content is strongly aligned with Agentic Engineering’s values—transparency, systemic observability, and empowerment—yet lacks explicit mention or discussion of agency-maximizing frameworks or AI augmentation. Relevant, practical, and well-targeted, it is a strong but indirect fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Psc6nDD7Q9g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 17.78,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.5,
+    "ai_audience": 6.3,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on Kanban principles, transparency, and continuous improvement in software engineering. There is no explicit or implicit discussion of autonomous AI agents, agentic intelligence, or their integration with human expertise, nor references to organizational context as defined in Agentic Software Delivery. Technology discussed like Kanban and CI/CD is presented with a traditional lens (increasing transparency and flow) without describing proactive or context-aware AI, human-in-the-loop designs, or feedback loops using agentic intelligence. The target audience (practitioners, Scrum teams) slightly overlaps with Agentic Software Delivery, but the thematic and conceptual alignment is very low.",
+    "reasoning_summary": "This content discusses Kanban for process improvement and transparency but does not address agentic software delivery, AI agents, or their integration. There is minimal alignment to the assigned category.",
+    "level": "Ignored"
   }
 }

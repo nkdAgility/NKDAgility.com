@@ -1434,15 +1434,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "RSPw8pZ9NT8",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:57:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban as a workflow optimisation tool and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on improving processes and stakeholder engagement, it lacks a direct focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 18.068,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 3.9,
+    "ai_intent": 2.2,
+    "ai_audience": 5.8,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There is no direct mention of Shift-Left Strategy or explicit reference to integrating testing, security, or compliance earlier in the lifecycle. The content focuses on Kanban for workflow optimisation, data-driven insights, and probabilistic forecasting. While there is tangential relevance to process improvement and earlier awareness of workflow issues (e.g., using data to forecast or manage flow), none of the main concepts or outcomes center on Shift-Left principles, such as proactive QA/security or compliance shifts to the left of the development timeline. The audience may overlap, as it speaks to technical teams and leadership, but content is not aligned in focus, breadth, or purpose with Shift Left Strategy.",
+    "reasoning_summary": "This content centers on Kanban-driven workflow optimisation, not on Shift-Left Strategy or its core concerns. Only minimal tangential overlap exists in process improvement concepts; overall, it does not fit the Shift Left category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1998,5 +2005,24 @@
     "reasoning": "The content never directly names Agentic Engineering but discusses optimizing workflows, data-driven decision-making, and continuous improvement. It centers on Kanban as a meta-process for system observation and adaptation, which partially aligns with agentic concepts. However, it lacks explicit focus on maximizing human or AI agency, ethical autonomy, decentralization, or AI as collaborator—all central to Agentic Engineering. The depth is moderate: while the content explores data-driven flow, feedback, and adaptability, it stops short of broader agentic philosophies. The intent is to inform a technical audience about improving delivery and transparency, matching some of the target demographic, but the piece is more method- and Kanban-focused than philosophically agentic. Filler and off-topic content are minimal.",
     "reasoning_summary": "This content explores Kanban for workflow optimization, data analysis, and continuous improvement, all of which conceptually touch on agentic practices. However, it lacks direct discussion of maximizing human or AI agency and the broader themes central to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RSPw8pZ9NT8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 20.977,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 2.0,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on Kanban, data-driven improvement, and probabilistic forecasting for workflow optimization. It does not discuss the integration of autonomous AI agents, agency, or human-in-the-loop designs. There are no direct or indirect mentions of agentic software delivery, nor agentic frameworks, AI-powered augmentation, or related governance/control concepts. The audience is similar to those interested in delivery innovation, but the absence of agentic principles and themes puts this content largely outside the target category, even though topics like forecasting and telemetry analysis are generally relevant to both contexts.",
+    "reasoning_summary": "This content is centered on Kanban and workflow optimization, not Agentic Software Delivery. It lacks discussion of autonomous agents, agency, or AI augmentation — only partial thematic overlap via data-driven delivery. Low confidence fit.",
+    "level": "Ignored"
   }
 }

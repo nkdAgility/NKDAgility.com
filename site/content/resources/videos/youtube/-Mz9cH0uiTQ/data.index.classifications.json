@@ -1485,15 +1485,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "-Mz9cH0uiTQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:20:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile consulting and client engagement rather than the One Engineering System framework. While it touches on agile practices, it does not discuss the integration or standardisation of engineering processes, which are core to 1ES. The discussion lacks depth regarding the principles or components of 1ES, and there are no direct mentions of its impact on software quality or delivery timelines.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 17.19,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on agile consultancy, client needs assessment, and value delivery. There is no mention or exploration of One Engineering System (1ES), its standards, integration, or its principles. The content only briefly touches on topics like DevOps and Scrum and does not discuss system-wide integration, unified frameworks, or process standardisation typical of 1ES. The discussion is about consulting best practices, not about the standardisation or integration of engineering systems.",
+    "reasoning_summary": "Content does not mention nor align with One Engineering System. It instead discusses agile consulting, value delivery, and consultancy pitfalls. There is no thematic, conceptual, or audience alignment with 1ES principles, intent, or practices.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1996,6 +2003,25 @@
     "final_score": 32.0,
     "reasoning": "The content addresses agile consulting and the art of uncovering true client needs but does not reference Agentic Engineering directly. Some conceptual overlap exists—discussion of consultant guidance, feedback through observation, and value-based delivery hint at forms of agency—but these are typical of agile/consulting in general and lack Agentic Engineering’s specific focus on decentralised decision-making for human and AI autonomy, engineering practice, or deliberate systems design for maximising agency. There’s no mention of systemic observability, DevOps-infused craft, AI as a collaborator, or continuous value delivery through agentic mechanisms. The primary audience (agile consultants and practitioners) somewhat aligns, but the core intent and depth fall short, as the discussion stays at the consulting and agile method/practice level, not at the engineering philosophy or system design level that is central to Agentic Engineering. No outdated practices or negative tones are present, so penalties are not applied.",
     "reasoning_summary": "This content focuses on agile consulting and value delivery but lacks direct discussion of Agentic Engineering principles. Concepts of agency and feedback appear only tangentially, with little alignment to the category's core themes or engineering-specific practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-Mz9cH0uiTQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 17.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 6.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on agile consulting, value delivery, and organizational pitfalls. There is no explicit mention of autonomous AI agents, agency, or contextual intelligence. All examples and advice are firmly rooted in human consultants rather than agentic delivery models. While a technical audience is addressed, the main ideas, purpose, and depth lack a direct or substantial link to agentic software delivery principles. No modern engineering practices, agent design, or integrations are touched upon. Signal-to-noise is higher due to the narrow topic, but overall conceptual and mention alignment is very weak.",
+    "reasoning_summary": "The content is about agile consulting and value discovery, not about agentic software delivery. It lacks any discussion of AI agents, agency, or agent-enabled delivery. Alignment with the category is minimal and mostly incidental due to tangential audience overlap.",
     "level": "Ignored"
   }
 }

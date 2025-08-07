@@ -1383,15 +1383,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "Qko_93YAV70",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:43:48",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Caman as a tool for process optimisation in relation to Scrum, without any explicit mention or focus on the Shift-Left Strategy. While it touches on themes of transparency and optimisation, these concepts do not directly align with the core principles of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices and does not provide relevant techniques, case studies, or metrics related to the category.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 24.6,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.8,
+    "ai_intent": 3.2,
+    "ai_audience": 7.6,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "This content discusses process optimisation, transparency, and workflow improvement via Caman in the context of Scrum and other industries. However, it does not directly mention, reference, or conceptually align with Shift Left Strategy principles, such as integrating testing, security, or compliance early in the software development lifecycle. Its focus is on general process visibility and value stream optimisation, which, while tangentially related to continuous improvement, lack the specificity required for Shift Left. The intent, audience, and tone fit a technical/process improvement context, but without direct or substantial reference to Shift Left approaches, the fit is weak. No penalties for outdatedness or contradiction were necessary.",
+    "reasoning_summary": "Content centers on Caman and Scrum for workflow and process optimisation but does not discuss Shift Left Strategy, lack explicit alignment with its principles or practices. Fit with category is highly partial and mostly indirect.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1944,5 +1951,24 @@
     "reasoning": "The content deeply explores Caman's value in process optimisation and transparency, concepts resonant with agentic engineering. However, it never explicitly refers to 'agentic engineering,' developer agency, or the interplay between human and AI agency. The focus is on leveraging Caman for insights and continuous improvement but remains general (applying to any industry) and avoids philosophical or ethical discussions key to full agentic engineering. Intent, depth, and alignment are moderately strong but not maximal, as explicit mention of core agentic principles or AI-human collaboration is missing.",
     "reasoning_summary": "The article strongly addresses transparency, process adaptation, and optimisation but lacks explicit focus on agency or human-AI collaboration. It aligns partially with Agentic Engineering but does not fully embody its central principles.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Qko_93YAV70",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 19.52,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 3.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on Caman as a strategy for process transparency and optimisation in conjunction with Scrum, without explicit mention of agentic software delivery or the integration of autonomous AI agents. There is no discussion of AI, intelligent agents, context-aware systems, or human-in-the-loop designs. The talk of 'systems' and 'optimisation' is generic and could loosely map to modern delivery concepts, but not to agentic frameworks as defined. The audience is process-focused practitioners, not specifically those working on AI agent integration. There's little signal in the content matching the rich, context-aware, proactive agentic delivery practices described in the category definition.",
+    "reasoning_summary": "Content discusses generic process optimisation and transparency (Caman + Scrum) but lacks agentic themes, AI, or autonomous agents. It does not fit the category criteria for Agentic Software Delivery beyond weak incidental overlap.",
+    "level": "Ignored"
   }
 }

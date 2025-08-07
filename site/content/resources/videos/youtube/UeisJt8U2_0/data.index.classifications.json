@@ -1458,15 +1458,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "UeisJt8U2_0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:36:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses issues related to Agile coaching and Scrum practices, which are not directly aligned with the principles of the One Engineering System. While it touches on themes of competence and methodology, it does not focus on the integration or standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 17.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 5.3,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "alignment: Content occasionally references outdated or misconceived Agile practices, resulting in a 1.0 point penalty; depth: Criticism and tone partially undermine constructive intent, minus 1.0 point.",
+    "final_score": 17.0,
+    "reasoning": "The content is an opinionated critique of incompetent Agile coaches and Scrum Masters. It suggests solutions aligned with true Agile values but never references One Engineering System (1ES), its framework, principles, or purpose. There is some overlap in themes of standardization and quality improvement, but these are approached strictly from an Agile coaching/leadership context. No discussion of integrating tools, unifying practices, or cross-team process standardization—the core tenets of 1ES—appears. The audience is technical and Agile-focused, so moderately aligns, but the content lacks direct relevance and depth for the 1ES category. Penalties applied for reinforcement of outdated practices (the standing meeting anecdote) and for critical tone toward prevailing standards.",
+    "reasoning_summary": "Focuses on Agile coaching incompetence and restoration of Agile values. No mention of One Engineering System or unification across engineering practices/tools—only tangentially relevant. Not a fit for the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1969,6 +1976,25 @@
     "final_score": 31.0,
     "reasoning": "The content emphasizes poor Agile/Scrum coaching and calls for raising standards in Agile practice. While it extols values like autonomy, competence, continuous improvement, and team empowerment, it neither directly mentions Agentic Engineering nor explores advanced concepts like systemic observability, DevOps-as-craft, or ethical AI collaboration. Most discussions remain focused on fundamentals, misconceptions, or organizational dysfunctions rather than the deliberate, philosophical engineering of agency in teams or AI. Audience fit is high—targeting practitioners—but key elements of Agentic Engineering are only loosely implied at best.",
     "reasoning_summary": "The piece centers on elevating Agile coaching, broadly supporting autonomy and improvement but lacks explicit focus on Agentic Engineering's deeper principles. It falls short on systemic, DevOps, or AI-augmented agency themes, rendering its fit partial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UeisJt8U2_0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 12.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.7,
+    "ai_intent": 1.5,
+    "ai_audience": 2.3,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "alignment, depth, and mentions penalized by 1 for lacking references to AI agents, agentic systems, or contextual intelligence; content is critical of current Agile coaching practices but not in relation to agentic delivery concepts",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on shortcomings and reforms in Agile coaching and Scrum Mastery, but it does not discuss the integration of AI agents, context-aware intelligence, human-agent synergy, or agentic delivery systems. There are zero direct mentions of 'Agentic Software Delivery' or its key topics such as autonomy, embedded AI, feedback loops, or modern engineering practices tied to agentic principles. The content's intent is to critique and improve human coaching standards, not the augmentation of delivery through AI agency. Audience overlap is minor, given the technical/procedural orientation, but the overall noise-to-signal ratio is high due to off-topic critique and motivational commentary. Penalties were applied for lack of topicality and alignment.",
+    "reasoning_summary": "This content is about challenges and reforms in human Agile coaching, not Agentic Software Delivery. It does not discuss autonomous AI agents, agency, or agent-driven delivery, so fit to the category is minimal and mostly incidental.",
     "level": "Ignored"
   }
 }

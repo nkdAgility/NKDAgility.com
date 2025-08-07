@@ -1224,15 +1224,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "ICuFIMyhnwj",
     "category": "Kanban",
-    "calculated_at": "2025-03-15T02:36:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Scrum and critiques the use of Story Points and Velocity within that framework. While it briefly mentions Kanban principles, such as cycle time and metrics, the focus remains on Scrum practices, which detracts from its alignment with Kanban. The discussion lacks depth in Kanban-specific practices and does not provide substantial insights into Kanban's core themes.",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 39.85,
+    "ai_mentions": 1.5,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.6,
+    "ai_intent": 2.7,
+    "ai_audience": 6.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "Kanban is mentioned explicitly only when referencing cycle time metrics and a link to the Kanban Guide for Scrum Teams. The main focus is on critiquing story points and velocity within Scrum, not Kanban methodology or practices. While cycle time is a Kanban metric, its mention is ancillary to the core discussion here. The article's primary audience (Agile/Scrum practitioners) could overlap with Kanban, but a Kanban practitioner would find little directly relevant content; the intent, conceptual alignment, and depth of Kanban coverage are lacking. Kanban gets token acknowledgment but not substantive treatment.",
+    "reasoning_summary": "The fit to Kanban is weak: Kanban is referenced regarding metrics but not explored. The discussion centers on Scrum practices with only brief links to Kanban ideas and guides. Kanban practitioners would not find this content focused or in depth.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1993,5 +2000,24 @@
     "reasoning": "The content critiques the overuse of story points and velocity in Scrum, arguing for transparency, empirical data, and meaningful measures of confidence. While these themes touch on some agentic practices—such as empowering teams to inspect, adapt, and increase agency in delivery approaches—the discussion remains focused on Scrum maturity, metrics, and transparency rather than the broader, philosophical, or systemic topics central to Agentic Engineering (e.g., decentralised decision-making, AI integration, or designing for human/AI agency). No direct mention of Agentic Engineering or its vocabulary occurs. The main audience is technical—Scrum practitioners and coaches—which matches the category, but the content does not fully explore engineer/AI agency or deliberate system design for maximising autonomy. Thus, confidence is moderate: slightly aligned by intent and depth, with clear audience fit, but lacking explicit and deep coverage of core Agentic Engineering tenets.",
     "reasoning_summary": "The content advocates for greater transparency and questioning of traditional agile metrics, echoing some values of Agentic Engineering. However, it mainly focuses on Scrum maturity rather than the deliberate, systemic empowerment of human and AI agency, leading to only partial alignment with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ICuFIMyhnwj",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 10.48,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 0.9,
+    "ai_audience": 2.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses deeply on the pitfalls of using Story Points and Velocity in Scrum, advancing alternative metrics for confidence and predictability based on transparency and empirical process. There is, however, no discussion of agentic principles: it does not reference autonomous AI agents, contextual intelligence, or software delivery by agentic means. Its alignment with the target category is minimal; the content is about Scrum practice reform, not agentic software delivery. The closest thematic overlap is a minor reference to improved feedback loops (confidence via transparency), but it lacks any mention or implication of AI, agents, or modern agency-enabled workflows, and does not engage with agentic delivery's core concepts or audience.",
+    "reasoning_summary": "Content is about Scrum metric practices, not agentic software delivery. No mention of agents, AI, or their integration in delivery; minimal theme overlap. Category fit is only incidental at best, with low confidence.",
+    "level": "Ignored"
   }
 }

@@ -1284,15 +1284,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "KWiWgLFalyA",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:30:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses scaling product development and does not explicitly mention Test First Development or its principles. While it touches on related themes such as feedback loops and alignment, these concepts are not directly tied to Test First practices. The focus is on organisational challenges rather than testing methodologies, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 23.98,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 8.7,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on challenges and strategies for scaling product development—emphasizing alignment, technical debt management, and feedback loops. While 'feedback loops' are mentioned, they refer to process efficiency rather than the Test First Development approach (which involves specific practices like TDD, specifying tests/criteria before implementation, etc.). There is no explicit or implicit discussion of defining success criteria before development, manual/automated test-first practices, or collaboration around pre-implementation testing. The audience (tech/leadership) could overlap, but the topic does not align with Test First Development principles. No penalties were applied as the content is current and not critical of the category.",
+    "reasoning_summary": "The content addresses scaling, alignment, and process bottlenecks, not Test First Development. Feedback loops are mentioned but not in the test-first sense. There’s minimal relevance or thematic overlap with the assigned category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1878,5 +1885,24 @@
     "reasoning": "The content discusses systemic improvement, alignment, managing technical debt, and feedback loops, all related to engineering practices for effective scaling. While these themes conceptually overlap with Agentic Engineering (such as empowerment, feedback-driven change, and system design), there is no direct, explicit discussion of maximizing agency, deliberate decentralization, or integrating human/AI autonomy. The approach remains practical, focusing on operational system effectiveness rather than the philosophical or ethical aspects central to Agentic Engineering. No direct mention of the term or its distinctive frameworks is found, and the connection via 'naked agility' is about better scaling, not autonomy or agentic principles. Thus, the fit is moderate, with moderate conceptual and depth scores, but low for mentions and strong focus. No penalties for obsolescence or contradictory tone are necessary.",
     "reasoning_summary": "The content addresses system-level improvements, alignment, and fast feedback—ideas related to Agentic Engineering—but it doesn't explicitly discuss maximizing agency or autonomy. Its practical focus aligns moderately, but it lacks the philosophical depth or direct mention of agentic practices.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KWiWgLFalyA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 28.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 3.3,
+    "ai_audience": 8.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "There are no explicit or implicit references to autonomous AI agents or agentic systems; the content centers on human-centric system improvements (alignment, technical debt, feedback loops). While modern engineering challenges are discussed, agentic software delivery principles—like context-aware AI integration, agency boundaries, human-AI collaboration, or governance for agents—are entirely absent. The audience (software delivery professionals) overlaps, and themes like feedback loops are adjacent, but the main concept and solutions remain non-agentic. No outdated or critical tone; no penalties were warranted.",
+    "reasoning_summary": "This content discusses scaling product development via process/system improvement—without mentioning or aligning with agentic AI delivery concepts. It fits the audience, but not the category's definition or intent. Fit is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

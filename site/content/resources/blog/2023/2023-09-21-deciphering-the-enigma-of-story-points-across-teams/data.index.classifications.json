@@ -518,15 +518,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "LKp5S7_4Kbw",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:34:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the use of Story Points in agile teams, focusing on metrics for performance and value delivery. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria that are central to the Test First Development category. The discussion is more aligned with agile methodologies and performance metrics rather than the specific practices of Test First Development.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 6.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There are no direct mentions or discussions of Test First Development, its principles, defining criteria upfront, or practices like TDD/ATDD. The article focuses narrowly on the assessment and use of story points, throughput, value metrics, and evidence-based management. No themes, advice, or incidental references relate to test-first practices, manual or automated testing, or collaboration patterns pertinent to Test First Development. The target audience (agile practitioners interested in metrics and performance) partially overlaps, but the overall topic is misaligned.",
+    "reasoning_summary": "This content focuses on agile metrics, story points, and evidence-based management, with no mention or thematic alignment to Test First Development. Any fit is extremely weak and indirect; thus, it is not a meaningful match.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2005,5 +2012,24 @@
     "reasoning": "The content focuses primarily on team metrics (Story Points, throughput, value) and optimizing agile team performance. While it touches on themes like value delivery and evidence-based management, it does not explicitly discuss or explore agentic engineering, developer or AI agency, decentralized decision-making, or systemic observability. The intent and depth are only moderately aligned, as the philosophical aspects of agency are not addressed. The audience is technical and relevant, and the content is focused, but there are only minor overlaps with true 'Agentic Engineering' topics.",
     "reasoning_summary": "The content centers on agile team metrics and value delivery but doesn’t directly address agentic engineering concepts such as human/AI agency or decentralized engineering practices. Its alignment with the category is moderate and mostly tangential.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LKp5S7_4Kbw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 10.393,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 0.8,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on Scrum, Agile metrics, and team performance, without mentioning or discussing autonomous agents, contextual intelligence, or any aspect specific to Agentic Software Delivery. There is no discussion of agent-human collaboration, AI-driven processes, or governance relating to AI agents. The article is entirely about traditional Agile and evidence-based management topics such as Story Points, throughput, and value, and does not intersect with core agentic themes. There is also no allusion to autonomous, context-aware tooling or evolution toward agency. The only overlap is a general concern for improving value delivery in software teams—a distant conceptual link, but lacking specificity or depth for the agentic category. Target audience are technical/practitioner types, but the subject remains classic Agile practice.",
+    "reasoning_summary": "This content does not fit Agentic Software Delivery. It discusses team metrics in Agile (Story Points, throughput, value) with no reference to agentic or AI-driven methods or principles. Fit is minimal and almost entirely indirect.",
+    "level": "Ignored"
   }
 }

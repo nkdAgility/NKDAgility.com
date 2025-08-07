@@ -1477,15 +1477,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "kmQceaX7e-O",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:53:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in place of true agility. While it touches on themes of organisational change and agility, it does not directly address the principles or components of the One Engineering System (1ES). The focus is on the limitations of SAFe rather than on integration, standardisation, or best practices related to 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 21.861,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 8.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions penalized (-0.8): No referencing of 1ES. Alignment penalized (-0.5): Only deals tangentially with standardisation criticism, not the 1ES framework. Depth penalized (-0.7): No substantive exploration of unified engineering systems.",
+    "final_score": 22.0,
+    "reasoning": "The content critiques SAFe as a prescriptive, bureaucratic framework that falsely promises agility. There are conceptual overlaps with themes of standardisation and process integration, such as discussing the pitfalls of bureaucratic frameworks and referencing business process transformation. However, the article makes no mention, implicit or explicit, of the One Engineering System (1ES); it neither covers its principles, practices, nor implementation. The focus is on warning against adopting frameworks uncritically, not on exploring the unification of engineering systems or 1ES itself. While the target audience (organisation/tech leaders) is similar, and there is an indirect thematic intersection with the concept of system standardisation, this is not developed or tied to 1ES. Penalties were applied for lack of direct mention, poor alignment, and superficial depth regarding One Engineering System. The article is primarily anti-SAFe, not about any unified engineering approach.",
+    "reasoning_summary": "The piece criticises SAFe’s rigidity and the dangers of adopting prescriptive frameworks but does not discuss, reference, or align directly with One Engineering System. Only minor tangential overlap exists via anti-bureaucracy themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1997,6 +2004,25 @@
     "final_score": 36.0,
     "reasoning": "The content primarily critiques SAFe as rigid and anti-agile, arguing for genuine evolution over frameworks. While it opposes bureaucracy and calls for adaptability, which resonates conceptually with Agentic Engineering, it never directly discusses maximizing human or AI agency, systemic observability, or ethical autonomy—core tenets of this category. The argument is more a warning against anti-agentic practices than a discussion of agentic engineering principles. It targets technical and transformation audiences and stays on topic, but lacks explicit, in-depth category engagement. Several penalty deductions were made for lack of explicit mention, partial alignment, and critical framing.",
     "reasoning_summary": "This content is tangential to Agentic Engineering—it critiques bureaucratic frameworks and advocates for business evolution, paralleling some agentic ideas, but never directly addresses the deliberate design or maximization of agency. The fit is partial and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kmQceaX7e-O",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 18.27,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.2,
+    "ai_audience": 4.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content critiques the adoption of SAFe and argues for genuine business evolution over prescriptive frameworks. There are no direct mentions of agentic software delivery, autonomous AI agents, or related concepts. While the theme of needing evolution and agility is present, it does not discuss the integration of AI agents, contextual intelligence, or any agentic delivery practices. The audience overlaps partially (change leaders, execs), but the discussion stays focused on pitfalls of rigid frameworks, not the proactive embedding of agency in delivery. Thus, alignment, depth, and intent are low and no penalties are needed.",
+    "reasoning_summary": "This is a critique of SAFe and rigid agile frameworks. It does not mention or explore agentic software delivery, AI agents, or related concepts. Only partial conceptual overlap via business evolution and agility. The category fit is weak.",
     "level": "Ignored"
   }
 }

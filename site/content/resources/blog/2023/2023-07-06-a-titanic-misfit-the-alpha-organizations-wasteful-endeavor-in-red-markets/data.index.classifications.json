@@ -1462,15 +1462,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "jW4sFDdDkvn",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:21:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations. It does not mention the One Engineering System or its principles, nor does it explore integration or standardisation of engineering processes. The focus is on organisational models rather than the core themes of 1ES.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 19.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.8,
+    "ai_intent": 1.0,
+    "ai_audience": 6.1,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.6,
+    "ai_penalty_details": "alignment (-0.6: the critique undermines standardisation/rigidity); depth (-0.6: critical tone); intent (-1.0: off-purpose, not framed to inform/support 1ES); signal (-0.4: significant off-topic content)",
+    "final_score": 19.0,
+    "reasoning": "There is no direct mention of One Engineering System (1ES), its principles, or related topics. The discussion critiques rigid, hierarchical organizations and advocates for agile/decentralized approaches but never addresses the unification or standardization of processes or tools at the heart of 1ES. The content's purpose is mainly critical of old models rather than informing or promoting 1ES concepts. It is aimed at practitioners/observers of organizational models, so some audience overlap exists but not specifically to 1ES stakeholders. Significant portions are off-topic, focusing more on Alpha/Beta dichotomy and market types, resulting in low conceptual alignment and depth.",
+    "reasoning_summary": "Content never references 1ES and focuses on criticizing outdated, hierarchical structures, not on system unification/standardization. Intent and depth miss the category, and relevance is tangential at best with only minor audience alignment.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1974,5 +1981,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, reflected in the low mentions score. However, key themes such as hierarchical rigidity versus decentralisation, untapped human potential, feedback speed, and organisational adaptation in volatile markets show strong conceptual alignment to Agentic Engineering. The focus on agency (employee autonomy, missed insights, and decision-making authority), the critique of top-down rigidity, and praise of agile, decentralised Beta organisations all resonate with the category’s essence. Lacking, however, are depth on engineering-specific practices, DevOps or AI collaboration, or explicit frameworks—the depth is moderate, exploring systemic issues but not detailed engineering methods. The primary audience seems technically-inclined change leaders or strategists, closely matching the category audience. Most of the content stays focused on waste born from a lack of agency, keeping noise below moderate. No penalties are applied since the content isn’t outdated or hostile, though the absence of engineering practice specifics, DevOps, or AI means the confidence score does not reach a high threshold.",
     "reasoning_summary": "The content critiques hierarchical Alpha organisations and highlights the value of agile, decentralised approaches. While agency, untapped human potential, and feedback are emphasized, there is little explicit coverage of engineering, DevOps, or AI collaboration. The fit is moderate for Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jW4sFDdDkvn",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 13.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 4.9,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content critiques Alpha organizations in red markets, advocating for agile and decentralized approaches. However, it never mentions autonomous AI agents, agentic delivery, human-in-the-loop AI, or other core concepts from 'Agentic Software Delivery.' The discussion is limited to traditional organizational agility, lacks any references to AI, agency, or modern engineering practices, and doesn't address the integration of intelligent agents. Thus, conceptual alignment and depth are very low. There's a partial overlap by promoting decentralization and adaptation, which are adjacent to, but not explicitly or deeply tied to, Agentic Software Delivery. The audience seems to be those interested in organizational change, not specifically agentic practitioners.",
+    "reasoning_summary": "Discusses agile, decentralized orgs vs. rigid hierarchies but lacks any mention of AI agents, contextual intelligence, or agentic delivery. Only aligns tangentially via agility themes—fit with 'Agentic Software Delivery' is weak and indirect.",
+    "level": "Ignored"
   }
 }

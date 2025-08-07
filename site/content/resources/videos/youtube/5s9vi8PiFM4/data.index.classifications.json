@@ -1479,15 +1479,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "5s9vi8PiFM4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:10:24",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and Lean methodologies, discussing personal experiences and insights rather than the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to personal reflections on Scrum and Lean, which are not relevant to the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 12.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.35,
+    "ai_intent": 1.25,
+    "ai_audience": 5.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on personal experiences blending Scrum and Lean principles for agile improvement, not on 1ES concepts. There are no mentions or discussions of One Engineering System, its unification frameworks, or standardization of engineering processes. While there is some value to agile practitioners, conceptual and direct overlap with the 1ES category is minimal.",
+    "reasoning_summary": "This content centers on the benefits of combining Scrum and Lean in Agile practice but does not mention, align with, or discuss the One Engineering System framework or its defining themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1989,6 +1996,25 @@
     "final_score": 31.0,
     "reasoning": "The content is a reflective post about learning to integrate Lean with Scrum for team efficiency and insight. While it discusses improving team collaboration, data-driven insights, and success through process synergy, it does not mention agentic engineering or associated concepts (agency, ethical AI, decentralised decision-making, or advanced observability). The discussion is largely high level and personal, focused on methodology improvement rather than intentional engineering design around agency. The intended audience (practitioners on an Agile journey) overlaps with the category, but core signals such as agency maximisation and empirical feedback loops are only loosely implied. No penalties apply, as the content isn't outdated or contrary.",
     "reasoning_summary": "The content centers on combining Lean and Scrum for efficiency but lacks explicit discussion about agency, decision decentralization, or deliberate engineering for human/AI autonomy. Its practitioner audience is relevant, but overall fit to Agentic Engineering is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5s9vi8PiFM4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 11.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on combining Lean principles and Scrum for increased efficiency and insight in Agile teams, discussing personal experience, collaboration, and learning. There is no mention—direct or indirect—of autonomous AI agents, contextual intelligence, or any agentic principles as outlined in the classification definition. There is no discussion of AI-enabled delivery, contextualized automation, or human-agent integration. The content addresses an Agile/Scrum practitioner audience, but not from an agentic delivery perspective. All relevant scoring dimensions are kept low, with only audience alignment slightly higher due to overlapping Agile audiences, though not targeted to agentic themes. No penalties for obsolete practices or negative tone apply.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It only discusses using Lean with Scrum, with no reference to autonomous agents, contextual AI, or agentic principles; the fit is minimal and coincidental.",
     "level": "Ignored"
   }
 }

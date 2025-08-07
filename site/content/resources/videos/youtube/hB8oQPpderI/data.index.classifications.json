@@ -1462,15 +1462,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "hB8oQPpderI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:53:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the limitations of learning Scrum through books compared to interactive courses. While it mentions Agile and Scrum, it does not focus on the One Engineering System framework or its principles, components, or implementation. The discussion is centred around personal learning experiences and training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 6.62,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on comparing reading and attending courses, advocating for interactive learning in Agile and Scrum contexts. It does not mention or conceptually align with One Engineering System (1ES)—there are no references to integration, standardisation, or unified engineering practices. The closest thematic overlap—collaboration and team improvement in Agile—is tangential and not 1ES-specific. Audience is technical but not 1ES-targeted. No penalties applied as there is no outdated or critical tone.",
+    "reasoning_summary": "Content is irrelevant to One Engineering System: no mention or conceptual tie to 1ES, focused instead on Agile/Scrum training, learning modes, and collaboration.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1971,6 +1978,25 @@
     "final_score": 12.0,
     "reasoning": "The content compares books to courses, emphasizing interactive and collaborative learning, especially in Agile and Scrum contexts. However, it does not mention or discuss agentic engineering, developer agency, AI, systemic observability, or ethical design. Its main focus is promoting Agile/Scrum courses, not the deliberate design of engineering practices for agency. Any overlap with the category is indirect and minor, relating only to general collaboration and engagement ideas rather than the specific themes of Agentic Engineering.",
     "reasoning_summary": "While this content highlights collaboration and interactive learning in Agile and Scrum settings, it does not address Agentic Engineering or its core concepts. There is minimal alignment, making its relevance to the category very low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hB8oQPpderI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.6,
+    "ai_audience": 0.6,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses the value of interactive courses over books, emphasizing collaborative and discussion-based learning in Agile and Scrum contexts. It makes no reference to agentic software delivery, autonomous AI agents, or the integration of context-aware intelligence in software delivery processes. The focus is purely on human learning modalities, not the delivery of software or agentic system principles.",
+    "reasoning_summary": "This content is about human interactive learning approaches in Agile/Scrum; it does not discuss Agentic Software Delivery or touch on AI agent integration, making it a clear mismatch for the category.",
     "level": "Ignored"
   }
 }

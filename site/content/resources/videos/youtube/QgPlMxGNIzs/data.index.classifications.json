@@ -1512,15 +1512,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "QgPlMxGNIzs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:24:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies and their evolution, with a focus on leadership and team dynamics rather than the One Engineering System framework. While it touches on themes of collaboration and adaptability, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more centred on Agile practices and personal insights rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 17.858,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 5.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused entirely on the evolution of Agile methodologies, organizational change, and decentralization of decision-making. There are no direct mentions or discussion of One Engineering System (1ES), its principles, unified tooling, integrations, or standardization. The ideas of integration and process improvement are present but only tangentially, through the lens of Agile transformation rather than any 1ES framework. The article is targeted at practitioners interested in Agile, not specifically those concerned with engineering systems integration or standardization. The signal is fairly high for Agile but not for 1ES. Overall, there is no substantive fit to the category.",
+    "reasoning_summary": "The content discusses Agile evolution and decentralized decision-making, not One Engineering System. No direct or conceptual ties to 1ES integration or standardization are present. Fit to the category is minimal to nonexistent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2031,5 +2038,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' doesn't occur; the content instead details the evolution of Agile with a strong focus on decentralised decision-making, team autonomy, and feedback-driven adaptability—topics conceptually close to agentic engineering. Examples include criticizing imposed frameworks and advocating for empowered teams. There is depth in its exploration of shifting from command-and-control to responsive, adaptive work environments. However, the discussion never names agentic engineering directly, nor does it address systemic observability, DevOps-infused craft, or AI/human collaboration explicitly—missing core category hallmarks. The audience (agile practitioners, leaders) is generally appropriate, intent is aligned, and the majority of the discussion is relevant, although some content is company promotion.",
     "reasoning_summary": "The content aligns well with Agentic Engineering through its focus on decentralised decision-making, team empowerment, and adaptability in Agile, but lacks direct mention of the term and omits key topics such as AI agency and systemic observability. Overall, it is conceptually relevant and suitably targeted but not a perfect fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QgPlMxGNIzs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 9.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.3,
+    "ai_intent": 0.9,
+    "ai_audience": 1.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content strongly centers on the evolution of agile practices, the shift from hierarchy to team-based decision-making, and organizational agility. However, it does not mention agentic software delivery, AI agents, contextual intelligence, or related topics. There is no substantive discussion of integrating autonomous agents or human–AI collaboration. The audience (agile practitioners, consultants) very lightly overlaps but is only tangentially related. The content's intent, alignment, and signal-to-noise all remain on agile evolution and leadership dynamics, not agentic delivery.",
+    "reasoning_summary": "This content focuses on agile evolution and decentralization, not on agentic software delivery—there is no relevant discussion of AI agents, contextual AI, or agency in delivery. At best, there is only a tangential fit to the intended category.",
+    "level": "Ignored"
   }
 }

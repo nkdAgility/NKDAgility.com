@@ -1477,15 +1477,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "gjrvSJWE0Gk",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:44:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban and its metrics for improving predictability in project management, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Kanban practices rather than the integration and standardisation of engineering processes across teams.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 28.32,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 1.7,
+    "ai_audience": 4.3,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses exclusively on Kanban metrics, predictability, and related improvement techniques. It discusses team-level process refinement, not organizational engineering integration or standardisation as defined in the One Engineering System category. There are no direct nor indirect references to One Engineering System, no discussion of unifying tools/processes across teams, or any comparison with 1ES principles. The audience is tangentially relevant (improvement-oriented practitioners), but the topic is strictly Kanban training, so alignment, depth, and signal are quite low.",
+    "reasoning_summary": "This content centers on Kanban metrics for predictability, not One Engineering System. It lacks discussion of 1ES principles or cross-team standardisation, so the fit is weak and confidence low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1993,6 +2000,25 @@
     "final_score": 34.0,
     "reasoning": "The content centers on improving team predictability through Kanban metrics, covering cycle time, throughput, forecasting, and continuous improvement. While themes such as decision-making, data-driven improvement, and consistent value delivery are tangentially related to Agentic Engineering, the discussion does not explicitly address maximizing agency for humans or AI, systemic observability as a philosophical practice, ethical AI integration, or engineer autonomy in system design. The intent, depth, and conceptual alignment fall short of Agentic Engineering’s deliberate focus. Audience overlap is moderate as technical practitioners are targeted but without explicit agentic framing.",
     "reasoning_summary": "This content focuses on Kanban metrics to drive team predictability and value delivery, aligning partly with Agentic Engineering themes like continuous improvement and workflow adaptation but stops short of emphasizing agency, autonomy, or systemic design. Its fit with the category is indirect and limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gjrvSJWE0Gk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 8.767,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.6,
+    "ai_audience": 1.1,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is firmly focused on Kanban metrics, predictability, and classical flow-based delivery management, emphasizing cycle time, throughput, bottlenecks, and practical forecasting. There is no direct or indirect mention of agentic software delivery or the integration of autonomous agents, contextual intelligence, governance of AI, or agentic delivery practices. The target concepts—data-driven improvement, consistent value flow, team empowerment—do not reference agency, AI support, or evolution toward outcome-focused agentic systems. The intended audience is aligned with Agile and Kanban practitioners, but not specifically those interested in agentic delivery. Virtually all content is on Kanban metrics education with no agent-related topics, so signal-to-noise ratio regarding Agentic Software Delivery is low. No penalties are applied as the content isn't outdated or critical, just unrelated.",
+    "reasoning_summary": "This content is about Kanban metrics and predictability, not Agentic Software Delivery. It does not discuss autonomous agents, AI, or agentic practices, so the fit with the category is minimal to nonexistent.",
     "level": "Ignored"
   }
 }

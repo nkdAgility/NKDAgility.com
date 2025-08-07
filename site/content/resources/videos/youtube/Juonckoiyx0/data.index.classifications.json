@@ -1445,15 +1445,22 @@
     "reasoning_summary": "This content is a strong fit for the Scrum category, as it thoroughly explores stakeholder engagement within Sprint reviews—a core Scrum event. It covers the responsibilities of Scrum roles and emphasises collaboration and transparency, all of which are central to Scrum practices. The discussion’s depth and focus on practical strategies further reinforce its relevance to this category."
   },
   "Shift Left Strategy": {
+    "resourceId": "Juonckoiyx0",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:57:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses stakeholder engagement during Sprint reviews, which is not directly related to the Shift-Left Strategy. While it touches on aspects of collaboration and communication, it does not address integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or metrics relevant to the Shift-Left approach.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on stakeholder engagement during Sprint reviews within the Scrum framework. There is no mention or exploration of Shift-Left Strategy concepts—such as early testing, security, compliance, or proactive defect/opportunity detection—nor are the principles, techniques, or metrics for Shift-Left discussed. Although relevant to Agile practitioners (an audience overlap with Shift Left Strategy), the content’s intent and thematic alignment are strictly centered on transparency, communication, and value delivery specific to Sprint reviews. Therefore, the fit is extremely weak and only receives a nominal score for indirect, distant alignment through the general Agile context.",
+    "reasoning_summary": "This content is about stakeholder engagement in Sprint reviews and does not reference Shift-Left Strategy concepts or practices. The overall fit is minimal and only tangential due to its Agile context.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2003,6 +2010,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on effective stakeholder engagement and communication during Scrum Sprint reviews. Although it references empowerment, feedback loops, and active participation, it lacks direct discussion of Agentic Engineering concepts: there's no explicit focus on maximizing human or AI agency, systemic observability, DevOps craftsmanship, or ethical AI integration. The main audience aligns with agile practitioners, but key philosophical elements of Agentic Engineering are absent. Thus, confidence is low but not zero due to some tangential overlap around stakeholder participation and agency.",
     "reasoning_summary": "This content is about making Sprint reviews more stakeholder-focused and engaging, which loosely echoes agency and participation concepts. However, it does not address the deliberate engineering practices or systemic aspects central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Juonckoiyx0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 16.94,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on improving stakeholder engagement in Scrum Sprint reviews, emphasizing communication, transparency, and stakeholder involvement. It does not mention agentic software delivery, autonomous AI agents, or their integration with human expertise. There are no references to contextual intelligence, governance of AI agents, or modern engineering enabling agentic delivery. While feedback loops and transparency are referenced, they are discussed strictly within the classic Agile meeting context, not through agentic or AI-assisted delivery. The audience is Agile practitioners, which partially overlaps with the agentic delivery audience, but the topic fails to address any core principles, mechanisms, or themes from Agentic Software Delivery.",
+    "reasoning_summary": "Content is about stakeholder engagement in Scrum Sprint reviews, lacking any discussion or implication of agentic software delivery, autonomous AI agents, or their integration within software delivery. Clear miss for this category.",
     "level": "Ignored"
   }
 }

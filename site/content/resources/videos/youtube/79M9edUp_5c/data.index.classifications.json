@@ -1400,15 +1400,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "79M9edUp_5c",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:51:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to the One Engineering System framework. While it touches on themes of collaboration and communication, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 23.06,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 8.3,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is an in-depth discussion on asynchronous communication benefits, practices, and tools. Nowhere does it mention One Engineering System (1ES), nor does it directly discuss unification or standardisation of engineering processes across teams. While some themes (tooling, collaboration, productivity) might overlap with 1ES outcomes, the intent and detail focus solely on communication practices, not centralized engineering frameworks. Audience is generally relevant (professionals, possibly engineers), and content is focused, but substance about 1ES is entirely absent.",
+    "reasoning_summary": "Content is about asynchronous communication, not about One Engineering System. No direct or conceptual discussion of 1ES, its principles, or implementation; fit is very weak and almost entirely unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1909,6 +1916,25 @@
     "final_score": 24.0,
     "reasoning": "The content is focused on asynchronous communication and its impact on collaboration and productivity. It covers team flexibility, documentation, and inclusivity, aligning somewhat with agentic principles such as autonomy and improved workflows. However, it never directly mentions 'Agentic Engineering' or discusses deliberate engineering practices to maximise human or AI agency. There is no exploration of engineering frameworks, DevOps integration, systemic observability, or ethical AI collaboration. While the intent (improving team interaction) and audience (knowledge workers) partially overlap, the conceptual depth and directness are insufficient for the category.",
     "reasoning_summary": "This content promotes asynchronous communication for better team collaboration. While it touches on autonomy and workflow improvement—ideas loosely connected to agentic agency—it does not address engineering practices, autonomy at the system or AI level, or any explicit agentic engineering principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 11.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 3.8,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses entirely on asynchronous communication's benefits for team collaboration and productivity. There are no mentions or exploration of autonomous AI agents, contextual intelligence, or engineered systems fundamental to Agentic Software Delivery. The audience is generic (teams, professionals) and not specifically targeted to agentic/AI software delivery practitioners. While process improvement and tooling are discussed, these relate to collaboration, not the integration of agentic systems or their governance. No key agentic topics are covered, and the fit is marginal at best.",
+    "reasoning_summary": "This content only addresses asynchronous communication for general collaboration. It does not discuss AI agents, contextual intelligence, or their integration into software delivery, so fit with Agentic Software Delivery is minimal.",
     "level": "Ignored"
   }
 }

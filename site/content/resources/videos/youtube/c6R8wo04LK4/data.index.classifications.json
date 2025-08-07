@@ -1421,15 +1421,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "c6R8wo04LK4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:30:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum adoption and the challenges associated with it, which is not aligned with the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 14.45,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.7,
+    "ai_intent": 2.4,
+    "ai_audience": 4.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses exclusively on the challenges of Scrum adoption, particularly overcoming misconceptions about quick fixes and the need for mindset change. There are no mentions—explicit or implicit—of the One Engineering System (1ES), standardised engineering frameworks, unified tools, or integration efforts across teams. Discussion themes are limited to Agile transformation and do not touch on the principles, components, practices, or comparative context of 1ES. Audience fit is partial since both target practitioners, but the topical focus is not aligned. The overall fit is not in line with the definition of 'One Engineering System', resulting in a very low confidence score.",
+    "reasoning_summary": "Content is about Scrum adoption challenges, not One Engineering System. No direct or indirect coverage of 1ES components, integration, or standardisation. Topical and intent match are minimal—fit is poor and mostly irrelevant to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1931,6 +1938,25 @@
     "final_score": 23.0,
     "reasoning": "The content does not mention Agentic Engineering, its terminology, or core concepts directly. Its focus is on cultural and mindset shifts needed for Scrum adoption, such as overcoming the 'magic' myth and promoting continuous learning and adaptability. While loosely connected through the notion of organizational learning and adaptability—minor aspects of agentic environments—there is no explicit or substantial discussion on maximizing human or AI agency, engineering practices, system feedback loops, or the ethics and autonomy that underpin Agentic Engineering. The discussion is generic to Scrum adoption without philosophical grounding in agency, systemic observability, or DevOps-infused craft. Therefore, only marginal conceptual overlap exists, reflected in low scores for direct mentions, conceptual alignment, depth, and intent fit, while audience is moderately aligned due to targeting practitioners. No penalties were necessary.",
     "reasoning_summary": "This content focuses on mindset shifts and continuous learning needed to adopt Scrum, not on deliberate engineering practices or agency maximization. It minimally aligns with Agentic Engineering and does not discuss core category themes such as human or AI agency, system feedback, or ethical autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "c6R8wo04LK4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 9.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are no explicit or implicit references to agentic software delivery or key topics like autonomous AI agents, contextual intelligence, or AI-human integration in delivery. The content is strictly about Scrum adoption and organizational mindset challenges, not agentic delivery. Audience and intent are Agile practitioners, not those seeking info about agentic approaches in delivery. No content is outdated or satirical, so no penalties applied.",
+    "reasoning_summary": "This content discusses Scrum adoption challenges and does not mention or align with Agentic Software Delivery; there is no fit to the category's definition or themes.",
     "level": "Ignored"
   }
 }

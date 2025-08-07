@@ -333,15 +333,22 @@
     "level": "Secondary"
   },
   "Coaching": {
+    "resourceId": "-D7_0lz9GU6",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T02:09:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions coaching in the context of a community offering 1-on-1 coaching sessions, but it does not delve into the principles or practices of coaching itself. The primary focus is on agility and Scrum frameworks, with limited discussion on the supportive and collaborative nature of coaching. While there is some alignment with coaching concepts, the depth of discussion is minimal.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 23.07,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 6.8,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The main content focuses on explaining traditional vs empirical project management and providing Scrum resources, with only a single mention of 1-on-1 Coaching as a community feature. There is no discussion of coaching practices, techniques, or the coach's role. The purpose is more informational and promotional about community, training classes, and Scrum, without substantial exploration into coaching as defined in the category. While audiences (e.g., Scrum Masters, teams) align with those who may seek coaching, the signal for coaching is weak, and the intent is not primarily about coaching.",
+    "reasoning_summary": "Coaching is mentioned as an available benefit but not described or explored. The core focus is agility, Scrum, and training resources, not coaching itself. Fit to Coaching category is minimal and largely incidental.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -1992,6 +1999,25 @@
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the differences between traditional and empirical approaches in project management, focusing on the need for agility in complex environments. It mentions concepts like empiricism and Scrum but does not explicitly discuss the deliberate maximisation of agency in engineering practices, ethical AI integration, or systemic observability—the content centers on agility, empiricism, and Scrum education rather than Agentic Engineering's philosophical or systemic aspects. No direct mentions of 'Agentic Engineering' or clear focus on human/AI agency maximisation are found. Audience is somewhat aligned (practitioners, agility-focused), but most content is general or promotional. Overall, alignment and depth remain low versus category requirements.",
     "reasoning_summary": "While the newsletter explores empirical approaches and Scrum in complex environments—topics adjacent to Agentic Engineering—it does not address deliberate agency maximisation, systemic observability, or ethical AI. Its focus is on general agile practices, not the core tenets of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-D7_0lz9GU6",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 8.42,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.75,
+    "ai_depth": 1.65,
+    "ai_intent": 1.9,
+    "ai_audience": 1.5,
+    "ai_signal": 1.07,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on the difference between traditional and empirical project management, Scrum, and agility. It does not mention agentic software delivery or autonomous AI agents, nor does it discuss the integration of AI or contextual intelligence within delivery systems. Its themes are centered on traditional vs empirical process discussion, agility practices, and Scrum training, with no alignment to proactive or agentic software delivery concepts. The intended audience are Scrum practitioners and agile professionals, not specifically those exploring agentic (AI-centered) practices.",
+    "reasoning_summary": "Content is about agile, empirical vs. traditional approaches, and Scrum, not agentic software delivery. No reference to AI agents or agentic principles. Minimal fit with the category definition.",
     "level": "Ignored"
   }
 }

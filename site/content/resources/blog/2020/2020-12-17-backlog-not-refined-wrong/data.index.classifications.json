@@ -1490,15 +1490,22 @@
     "reasoning_summary": "This content highlights the value of a well-refined Product Backlog, stressing the need for Developers to have clarity in their work. While it offers practical advice for effective Sprint Planning, it doesn’t directly address ongoing learning or skill enhancement, which are central to the competence category. Therefore, its connection to competence is indirect rather than explicit."
   },
   "One Engineering System": {
+    "resourceId": "4ukwclfJlXy",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:46:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically backlog refinement, and does not discuss the One Engineering System framework or its principles. While it touches on aspects of team collaboration and efficiency, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 13.809,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses backlog refinement within the Scrum framework, focusing on best practices for keeping product backlogs ready for sprint planning. There are no direct mentions of One Engineering System (1ES) or conceptual overlap with its framework for unifying tooling or processes across teams. The focus is instead on team-level process in Scrum, not the wider integration, standardization, or cross-team practices required by 1ES. The audience is similar (engineering practitioners), and the content is on-topic (Agile methods), but the substance, purpose, and coverage are not aligned with 1ES.",
+    "reasoning_summary": "This content is about agile backlog refinement in Scrum, with no direct or conceptual link to One Engineering System. It targets team-level Scrum practices, not system-wide integration, standardization, or the principles of 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2013,6 +2020,25 @@
     "final_score": 24.0,
     "reasoning": "The content primarily addresses backlog refinement in Scrum, focusing on practical steps, readiness, roles, and the value of effective refinement. It supports developer empowerment and clarity but does not explicitly reference or deeply explore Agentic Engineering's philosophical or systemic themes: agency maximization, AI collaboration, DevOps-infused craftsmanship, or decision decentralization as defined. There are light alignments to developer autonomy and continuous value delivery, but no direct mention or in-depth conceptual engagement with Agentic practices. Audience and relevance are high for practitioners, but signal to the category is low.",
     "reasoning_summary": "This content is focused on Scrum backlog refinement techniques, which overlaps very lightly with Agentic Engineering through themes of developer empowerment, but lacks direct reference, conceptual depth, or engagement with agentic or systemic engineering principles. Its fit to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4ukwclfJlXy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 6.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "This content focuses strictly on Scrum backlog refinement, team practices, and process mechanics. There is no discussion or mention of agentic software delivery, autonomous AI agents, contextual intelligence, or modern agent-human integration. The entire article is about classic human-driven Scrum routines; no topics related to agentic principles (AI-powered refinement, agent support, governance for agents, feedback loops with agents, etc.) appear. The relevance is almost non-existent except that backlog refinement is mentioned, which, in agentic systems, could be a use case for agents. However, none of the text relates it to AI, agency, or emerging delivery models, so the overall confidence must be extremely low.",
+    "reasoning_summary": "Content focuses solely on human-centric Scrum backlog refinement with no mention or implication of agentic software delivery or agent integration. Does not fit the assigned category except for a generic delivery process reference.",
     "level": "Ignored"
   }
 }

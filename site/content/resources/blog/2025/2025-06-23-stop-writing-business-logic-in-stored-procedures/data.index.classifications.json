@@ -1063,15 +1063,22 @@
     "level": "Tertiary"
   },
   "Agnostic Agile": {
+    "resourceId": "utAzlIGxj7O",
     "category": "Agnostic Agile",
-    "calculated_at": "2025-04-30T09:54:10",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical aspects of refactoring business logic from stored procedures to application code, without any direct mention of Agnostic Agile principles or discussions. While it touches on the importance of modern engineering practices, it does not engage with the core themes of Agnostic Agile, such as ethical considerations, value delivery, or comparisons with agile frameworks. The discussion lacks depth in relation to Agnostic Agile, making it a secondary topic at best.",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 13.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 3.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is entirely focused on engineering practices (why not to use stored procedures for business logic) and strategies for refactoring code. While it occasionally refers to modernisation, discipline, technical debt, and CI/CD, it does not mention Agnostic Agile, its principles, comparisons to frameworks, or value-/context-driven agility. The content's main purpose and themes are technical and engineering-focused, not about context-sensitive agility or ethical/principled practice in agile methods. There's no critical thinking about frameworks or methodologies, only practices around business logic location.",
+    "reasoning_summary": "The content gives technical reasons to move business logic out of stored procedures, not discussing Agnostic Agile values, principles, or context-driven agility, and is weakly aligned with the category. Fit is minimal and indirect.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2502,5 +2509,24 @@
     "reasoning": "The content aligns partially with Agentic Engineering through its advocacy for developer autonomy, better feedback loops, and modern engineering discipline. It promotes moving business logic to testable, observable code, which increases agency. However, it never directly mentions Agentic Engineering's key concepts or philosophical framing, and lacks discussion of AI, decentralised decision-making, or the interplay between human and intelligent system agency. The focus is on technical best practices rather than a holistic agentic shift. Some penalty applied for lack of explicit mention and the limited conceptual/philosophical depth compared to Agentic Engineering’s definition.",
     "reasoning_summary": "The content champions engineering practices that increase developer autonomy and continuous improvement, which partially aligns with Agentic Engineering. However, it lacks explicit connection to agentic philosophy, autonomy for intelligent systems, or ethical/AI dimensions, making its fit moderate rather than strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "utAzlIGxj7O",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 22.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.2,
+    "ai_intent": 3.1,
+    "ai_audience": 7.9,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "mentions penalized (-0.7) for no category references, alignment penalized (-0.3) for only partial overlap.",
+    "final_score": 23.0,
+    "reasoning": "The content argues for refactoring business logic out of stored procedures to code, citing maintainability, testability, and CI/CD benefits. While this aligns with modern engineering and continuous delivery practices, there is no mention or substantive exploration of agentic concepts: autonomous AI agents, agency, contextual intelligence, agent-human synergy, or governance frameworks. The intent is limited to advocacy for software maintainability and does not touch deeply on integration of agents or agentic software delivery principles. Audience (software engineers, practitioners) partially overlaps with the category’s, but the core concept of 'Agentic Software Delivery' is only distantly related through modernisation themes. There are no explicit or even implicit discussions of AI agents, autonomous systems, or human-agent collaboration.",
+    "reasoning_summary": "This content advocates for modern CI/CD and software refactoring but does not discuss agentic software delivery, AI agents, or their integration. Only a minimal, indirect fit through generic modern engineering themes.",
+    "level": "Ignored"
   }
 }

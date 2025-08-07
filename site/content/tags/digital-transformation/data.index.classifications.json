@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Digital Transformation",
     "category": "Tool",
-    "calculated_at": "2025-04-09T15:59:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Digital Transformation in a broad context, focusing on the strategic adoption of technologies rather than specific tools. While it touches on themes of improving workflows and collaboration, it lacks direct mentions of specific tools or a detailed exploration of how tools facilitate Agile, Lean, or DevOps practices.",
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 23.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.7,
+    "ai_intent": 1.9,
+    "ai_audience": 3.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content provides a broad overview of Digital Transformation, focusing on strategic technology adoption and its impact on business agility. While it mentions digital solutions and tools in passing, the main themes revolve around organisational change and innovation rather than in-depth discussion of tools themselves. There are no direct or repeated mentions of specific tools, features, practical insights into tool use, or alignment with Agile/DevOps/Lean frameworks; the discussion remains at a high level and on concepts rather than tool-specific practices, features, or comparisons. The audience could overlap given the business/technology context, but the content does not target practitioners seeking tool evaluations or best practices.",
+    "reasoning_summary": "The content discusses Digital Transformation broadly with only light indirect mention of tools. It does not substantively address tool selection, features, or their role in Agile/DevOps, so it only weakly fits the Tool category and lacks alignment with its definition.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3100,6 +3107,25 @@
     "final_score": 33.0,
     "reasoning": "The content discusses digital transformation focusing on business agility, technology adoption, team workflows, and decision-making. While these themes are tangentially related to collaboration and improvement, there is no direct reference to Collective Intelligence, human-AI collaboration, or synergistic human-AI teaming. The main emphasis is on organizational benefits of digital technologies, not on emergent human-AI capabilities, distributed cognition, or human-AI partnership models. Audience and signal-to-noise are moderate, as practitioners interested in transformation could overlap with those interested in collective intelligence, but the core conceptual content and depth do not align with the definitive criteria for the category. No penalties were necessary, as content is modern and not contradictory in tone.",
     "reasoning_summary": "This content focuses on digital transformation through technology adoption, agility, and innovation, but does not address human-AI collaboration or emergent cognitive capabilities. It only loosely relates to Collective Intelligence, yielding low confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Digital Transformation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 19.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 3.8,
+    "ai_audience": 5.0,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content addresses broad digital transformation but makes no direct reference to agentic principles, autonomous AI agents, or specific practices detailed in the target category. While themes of agility, innovation, and technology alignment exist, they remain general and lack explicit ties to proactive, context-aware, autonomous agent integration. The audience may overlap (technical leaders, strategists, etc.), but the focus is much broader than Agentic Software Delivery. Depth is superficial, relating loosely to business agility but not to agentic delivery specifics.",
+    "reasoning_summary": "Content is a broad overview of digital transformation, with no clear reference to agentic delivery or its core principles. Partial fit only; themes are general and not specific to the category.",
     "level": "Ignored"
   }
 }

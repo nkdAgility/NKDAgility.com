@@ -1727,17 +1727,23 @@
     "reasoning_summary": "This content is a strong fit for the leadership category, as it thoroughly explores the Scrum Master's role in guiding teams, fostering effectiveness, and driving organisational change. While 'leadership' isn't always the main focus, the discussion consistently highlights leadership qualities like influence, empowerment, and decision-making, making it highly relevant for Agile leaders and practitioners."
   },
   "Social Technologies": {
+    "resourceId": "yMnia2DLI6q",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master in ensuring delivery within a Scrum framework, which is a specific methodology rather than a broader discussion on social technologies. While it touches on themes of collaboration, accountability, and continuous improvement, these are framed within the context of Scrum practices rather than the overarching principles of social technologies. The discussion lacks depth in exploring how these practices foster collective intelligence or emergent problem-solving beyond the Scrum context.",
-    "level": "Secondary",
-    "reasoning_summary": "This content centres on the Scrum Master's responsibilities within the Scrum methodology, highlighting collaboration and improvement, but it remains narrowly focused on Scrum practices. It doesn't delve into broader social technology concepts or explore how these practices contribute to collective intelligence or emergent problem-solving outside the Scrum framework."
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 86.89,
+    "ai_mentions": 5.2,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.8,
+    "ai_intent": 8.4,
+    "ai_audience": 9.0,
+    "ai_signal": 9.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The content offers an in-depth exploration of the Scrum Master's accountability for delivery, grounding it in the context of frameworks such as Scrum that are explicitly aligned with social technologies. The discussion covers principles essential to the category: fostering self-organisation, team accountability, transparency, empowerment, collective intelligence, feedback loops, and continuous improvement. The content transcends technical how-to, focusing instead on social, organisational, and behavioural aspects of enabling value delivery. Numerous examples are provided (psychological safety, team autonomy, cross-team collaboration), and the intended audience aligns with practitioners and organisational leaders working in Agile/DevOps/Lean environments. Direct category mention is low, as 'social technologies' is not named verbatim, but all main themes and language are consistent with the classification. Nearly all substance is relevant to the definition, with little off-topic content.",
+    "reasoning_summary": "The content substantially fits 'Social Technologies': it explores self-organisation, facilitation, collective accountability, transparency, and value delivery in Scrum, with strong alignment to the category’s principles and audience, despite not naming the category directly.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2378,5 +2384,24 @@
     "reasoning": "The content focuses on the Scrum Master's accountability for delivery and team effectiveness. While it discusses empowerment, autonomy, and continuous improvement—concepts tangential to Agentic Engineering—there are no explicit mentions of agentic practices, ethical AI, or human/AI agency. It centers on traditional Scrum roles and practices without intentional engineering for maximising agency, observability, or DevOps-infused craft. The primary audience is Scrum practitioners, which partially overlaps with Agentic Engineering audiences, but the philosophical aspects of agentic design are missing. The alignment and depth are moderate due to discussions of empowerment and autonomous teams, but the core construct of designing for human/AI agency and agentic engineering frameworks is not present.",
     "reasoning_summary": "This content discusses Scrum Master accountability, empowerment, and delivery, moderately touching on autonomy and continuous improvement. However, it does not delve into agentic engineering or explicitly address engineering for maximised human or AI agency, making it only partially aligned with the Agentic Engineering category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yMnia2DLI6q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 16.02,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content thoroughly discusses the Scrum Master's role in accountability for delivery in a Scrum context. While it addresses modern team effectiveness and delivery practices, it never mentions agentic software delivery, AI agents, or agentic principles. There is no reference to autonomous or context-aware agents, integration of AI and human expertise, or agentic architecture. Modern practices like CI/CD and automated testing get touched on, but always in the context of a Scrum Master's technical enabling—not agentic systems. The intent is to clarify Scrum accountability to a practitioner/executive audience, but not specifically to agentic delivery or AI augmentation. The substance is tightly focused on human team roles, with no overlap in agency, digital governance, or AI-agent-human collaboration.",
+    "reasoning_summary": "This content focuses on Scrum Master accountability in human-driven software delivery. It lacks discussion of autonomous agents, contextual intelligence, or agentic integration, so it only loosely and incidentally aligns with 'Agentic Software Delivery'.",
+    "level": "Ignored"
   }
 }

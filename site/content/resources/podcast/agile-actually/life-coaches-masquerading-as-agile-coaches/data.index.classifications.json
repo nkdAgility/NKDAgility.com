@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "lcekkOc8X02",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:10:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile coaching and the controversy surrounding life coaches presenting themselves as Agile coaches. While there is a brief mention of DevOps in the context of one of the hosts' expertise, it is not a primary focus of the discussion. The content lacks depth in exploring DevOps principles or practices, and the overall alignment with the core themes of DevOps is minimal.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 20.81,
+    "ai_mentions": 2.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.3,
+    "ai_intent": 2.6,
+    "ai_audience": 5.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content chiefly analyzes the credentials of Agile Coaches and controversies stemming from life coaches assuming Agile roles. DevOps receives only a brief mention in Martin Hinshelwood's profile as an area of expertise, with a link to DevOps services. There is no discussion on DevOps philosophy, principles, or practices, nor is there an exploration of DevOps themes like automation, collaboration, or continuous delivery. The audience overlaps only in a generic sense (tech, coaching), but almost all material focuses on Agile, not DevOps, and only a tangential association is made. Thus, the alignment, depth, and relevance are all very low, with the score reflecting DevOps presence as almost incidental.",
+    "reasoning_summary": "The content barely mentions DevOps, focusing entirely on Agile coaching and related controversies. There are no substantive discussions or themes tying it to DevOps principles, making category fit very weak and tangential.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1937,6 +1944,25 @@
     "final_score": 14.0,
     "reasoning": "The content centers on the credentialing and professionalism of Agile Coaches, with a focus on the risks posed by unqualified life coaches. There is no discussion of engineering practices, agency, DevOps, ethical AI, or system design principles central to Agentic Engineering. While the audience overlaps with technical practitioners, the content is only tangentially related, lacking direct or conceptual alignment with the category, and does not reach sufficient depth for meaningful exploration of agency or decision-making frameworks.",
     "reasoning_summary": "This content discusses qualifications and roles in Agile coaching but does not engage with concepts of agentic engineering, such as agency, engineering practices, or autonomous decision-making. Its focus lies elsewhere, resulting in low relevance to the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "lcekkOc8X02",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 8.23,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.25,
+    "ai_audience": 2.08,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses controversies around life coaches positioning as Agile Coaches. There is no mention of AI, agency in software delivery, or any integration of autonomous agents. The focus stays squarely on Agile coaching credentials and practice. While the audience—Agile practitioners—may overlap slightly, all thematic focus is on traditional agile roles rather than agentic software delivery, contextual intelligence, or agent-human synergy. No signals of agentic concepts, modern engineering practices, governance for agents, or feedback loops tied to proactive AI. No outdated practices or hostile tones detected, so no penalties.",
+    "reasoning_summary": "Content is unrelated to Agentic Software Delivery—focus is solely on Agile coaching and controversies, with no mention or implication of autonomous AI agents, agentic principles, or aligned topics. Audience overlap is partial but not enough for relevance.",
     "level": "Ignored"
   }
 }

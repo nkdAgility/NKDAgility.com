@@ -201,15 +201,22 @@
     "level": "Tertiary"
   },
   "Engineering Excellence": {
+    "resourceId": "WvUOpSMqawD",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-04-10T15:54:36",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which indirectly relates to engineering excellence through the lens of agile practices. However, it primarily focuses on broader organisational change rather than specific engineering practices, coding standards, or quality assurance. While it touches on the need for teams to adapt and improve, it lacks detailed discussions on software craftsmanship or specific engineering metrics, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 31.35,
+    "ai_mentions": 1.8,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.8,
+    "ai_intent": 2.7,
+    "ai_audience": 5.3,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content primarily addresses organizational change, agility, and leadership mindsets rather than the actual standards, practices, or technical details of software engineering excellence. While themes like continuous improvement and experimentation resonate with aspects of Engineering Excellence, there are only brief indirect references—Best practices are mentioned but ultimately challenged, and checklists reference team empowerment and user feedback, which can relate to engineering, but there is little direct discussion of software craftsmanship, coding standards, technical debt, or quality assurance. The core focus is on transformation vs. evolution at a management/cultural level, not on software engineering processes themselves. The audience is somewhat mixed—practitioners, but also leaders and executives. No clear signal-to-noise problem or outdated content.",
+    "reasoning_summary": "The article focuses more on organizational and leadership change than on software engineering standards or practices. Alignment with Engineering Excellence is indirect and tangential, so fit is partial at best.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -2020,5 +2027,24 @@
     "reasoning": "The content focuses heavily on continuous, experiment-driven change and organisational evolution, which aligns with agentic principles such as decentralised decision-making, feedback-driven adaptation, and organisational agency. There are strong themes around empowering teams, the limitations of top-down transformation, and the importance of situational decision-making and adaptation. However, explicit mentions of 'Agentic Engineering' or the associated terminology are absent; the language skews towards agility and leadership. The depth of discussion is substantial, particularly regarding evolving processes, empowerment, and navigating change, but the connection to AI agency or tech-driven systemic observability is general or inferred rather than direct. Audience fit is strong, targeting leaders and practitioners grappling with change, but is not unique to Agentic Engineering. No significant penalty triggers are present.",
     "reasoning_summary": "This content clearly emphasizes evolutionary change, team empowerment, and continuous adaptation—core principles of Agentic Engineering—but does so using Agile and leadership language without directly naming the category, hence a moderate but confident score.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WvUOpSMqawD",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 16.924,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.1,
+    "ai_audience": 5.0,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on continuous, evolutionary organizational change, agility, experimentation, leadership, and adaptation. There are no direct mentions or discussion of autonomous AI agents, agent-based systems, contextual intelligence, or agentic delivery. The main themes address traditional and modern organizational change management—not the integration of AI with human delivery capabilities. The audience of agile leaders has only partial overlap. Some concepts (continuous feedback, outcome-orientation) are slightly aligned conceptually, but the article never references agentic software delivery principles such as autonomous AI agents, agent governance, or AI-empowered delivery processes. The discussion remains squarely in human/process/organizational domains.",
+    "reasoning_summary": "The content discusses continuous, evolutionary change and agile leadership but does not reference agentic software delivery, AI agents, or agentic concepts. Only a minimal conceptual overlap exists, making this a poor fit for the category.",
+    "level": "Ignored"
   }
 }

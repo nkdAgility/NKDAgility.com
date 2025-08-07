@@ -171,16 +171,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "s7bwajkP-HP",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:54:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly touches on incorporating UX into a Scrum Team, which relates to product delivery methodologies. However, it lacks a comprehensive discussion on the broader aspects of product delivery, such as planning, testing, or deployment. The focus is more on a specific question rather than a detailed exploration of product delivery practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 71.55,
+    "ai_mentions": 4.7,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.9,
+    "ai_intent": 7.3,
+    "ai_audience": 7.6,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content focuses on integrating UX into Scrum teams—a practice central to Agile product delivery. It references Professional Scrum with UX, indicating practical applications. While 'Product Delivery' is not explicitly named, the detailed focus on methods within Scrum teams and experience-based advice strongly align with the category definition. However, as it's a Q&A session based around a webcast without additional written detail, explicit mentions are moderate rather than strong, and not all aspects of product delivery are fully discussed. No outdated or contradictory perspectives are present, so no penalties are applied. The target audience (Scrum practitioners, UX professionals, Agile teams) fits well with the Product Delivery audience.",
+    "reasoning_summary": "Integrating UX into Scrum teams is a strong, practical aspect of product delivery. Content aligns with the category via professional Agile/UX advice, though explicit category naming and exhaustive coverage are moderate. Fit is clear but not perfect.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1951,6 +1958,25 @@
     "final_score": 8.0,
     "reasoning": "The content is focused solely on integrating UX practices into Scrum teams, with no explicit or implicit references to concepts like agentic engineering, developer or AI agency, systemic observability, or ethical AI integration. The main theme is practical advice on Scrum and UX, which does not align with the philosophical or engineering aspects emphasized in Agentic Engineering. There is no depth or substantive exploration of decentralised decision-making, feedback cycles, or autonomy in development practices.",
     "reasoning_summary": "This webcast centers on blending UX with Scrum and offers practical guidance, but does not discuss agentic engineering concepts or themes. Its focus remains narrow—on process integration—without engaging the deeper agentic principles related to autonomy or human/AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "s7bwajkP-HP",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 8.092,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.3,
+    "ai_audience": 2.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on integrating UX into Scrum teams, specifically within the context of Professional Scrum and UX practices. There are no explicit or implicit references to agentic software delivery, autonomous AI agents, proactive contextual intelligence, or the integration of autonomous agents and human expertise as described in the category definition. The main themes pertain strictly to traditional Scrum and UX, with no mention of AI-driven delivery enhancements, human-in-the-loop agent frameworks, or modern autonomous delivery practices. The target audience (Scrum practitioners/UX professionals) is only loosely related, as the topic is not relevant to agentic delivery. No penalty deductions were required as the content is neither outdated nor contradictory; it is simply off-topic.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category. It addresses UX in Scrum teams without reference to AI agents, autonomous delivery, or contextual intelligence as required for this classification.",
     "level": "Ignored"
   }
 }

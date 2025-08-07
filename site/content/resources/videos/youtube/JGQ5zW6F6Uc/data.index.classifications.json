@@ -380,15 +380,22 @@
     "level": "Ignored"
   },
   "Mentoring": {
+    "resourceId": "JGQ5zW6F6Uc",
     "category": "Mentoring",
-    "calculated_at": "2025-04-10T15:52:23",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the role of Scrum Masters in supporting an ineffective Product Owner, which aligns with mentoring principles. It provides actionable steps for guidance and coaching, emphasising relationship-building and education. However, the primary focus is on addressing the challenges of the Product Owner rather than on mentoring itself, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 63.358,
+    "ai_mentions": 4.7,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.5,
+    "ai_intent": 6.7,
+    "ai_audience": 7.2,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 63.0,
+    "reasoning": "Direct references to 'mentoring' are limited; the term is not explicitly mentioned. However, much of the content aligns with the mentoring category by offering actionable advice for Scrum Masters to support and develop Product Owners through education, support, relationship-building, and feedback. The discussion includes approaches to support professional growth, emphasizes fostering team excellence, and encourages open dialogue—all core mentoring themes. Yet, the depth remains somewhat general, with practical steps focusing more on organisational navigation and role clarification rather than in-depth exploration of mentoring/coaching models or emotional intelligence. The intent is supportive, targeting Scrum Masters/agile professionals, but edges into broader team and organisational advice. Signal-to-noise is good but diluted by side discussions (e.g. systemic promotion issues).",
+    "reasoning_summary": "Content offers substantial mentoring-aligned guidance for Agile professionals but lacks explicit use of 'mentoring' and only moderately explores core mentoring practices. Fit is good yet partial, focusing more on support and guidance than structured mentoring frameworks.",
     "level": "Secondary"
   },
   "Trend Analysis": {
@@ -1998,6 +2005,25 @@
     "final_score": 27.0,
     "reasoning": "The content explicitly addresses practical team strategies for handling ineffective Product Owners in Agile/Scrum settings. It deals with organizational empowerment, team dynamics, and personal agency to some extent, but never discusses or directly aligns with the core tenets of Agentic Engineering: maximizing human and AI agency, DevOps- and feedback-driven engineering practices, explicit systemic observability, or ethical AI integration. The discussion is focused on human roles, relationships, and Agile politics rather than engineering practice design or philosophical frameworks around agency. DevOps is only a tag for further discussion, not explored. No direct or indirect mention or framing of agentic systems, decentralised decision-making in engineering, or AI-augmented autonomy is present.",
     "reasoning_summary": "This content is about practical advice for Agile teams facing ineffective Product Owners. While it touches on empowerment and organizational issues, it does not address the deliberate design of engineering practices or AI agency central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JGQ5zW6F6Uc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 7.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on challenges and remedies for ineffective Product Owners within Scrum, emphasizing relationship-building, educational, and support strategies to improve Agile team delivery. It never mentions agentic software delivery, autonomous AI agents, or any aspect of contextual intelligence, AI-driven automation, or modern agentic principles. The discussion is grounded in traditional Agile/Scrum roles, without references to AI integration, agency, or agent-enabled governance. Audience is Agile practitioners, but not those focused on agentic delivery. All dimensions score very low for relevance due to complete thematic separation from the 'Agentic Software Delivery' category.",
+    "reasoning_summary": "Content solely covers Agile team and Product Owner challenges—no mention, implication, or alignment with Agentic Software Delivery or AI agent integration. Fit is wholly absent and relevance is negligible.",
     "level": "Ignored"
   }
 }

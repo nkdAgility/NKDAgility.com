@@ -1471,15 +1471,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "j-mPdGP7BiU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:23:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development and the management of assumptions and hypotheses, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 26.484,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 3.5,
+    "ai_audience": 6.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on product development techniques such as identifying, prioritizing, and testing assumptions using hypotheses and experimentation. There is no mention of One Engineering System (1ES), nor does the discussion center around unification or standardization of engineering practices, toolchain integration, or 1ES principles. The audience is technical and relevant, and data-driven approaches fit the spirit of 1ES, but the connection is coincidental and conceptual rather than explicit. No penalties are warranted as the tone and practices are not outdated or contradictory.",
+    "reasoning_summary": "Content focuses on product development experimentation and assumption testing, without mentioning or aligning with One Engineering System. Fit is minimal and coincidental; topic and themes do not match the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1983,5 +1990,24 @@
     "reasoning": "The content centers on mastering product development using structured approaches: surfacing assumptions, creating hypotheses, data-driven experimentation, and critical thinking. It heavily emphasizes evidence-based, feedback-driven development, and iterative learning, which align conceptually with themes in Agentic Engineering, such as feedback-driven adaptation and empirical change. However, there is no direct mention of agentic engineering, developer/system agency, DevOps ethos, or ethical AI collaboration. The overall focus is process-oriented product management and experimentation, not the philosophical or structural design of maximizing the agency of humans or intelligent systems in engineering practice. The intended audience—development practitioners or product managers—matches the category, though the content is general and lacks focus on software engineering autonomy or AI. Content relevancy and density are high, but agentic engineering's core constructs are only tangentially addressed and not explicitly named or deeply explored.",
     "reasoning_summary": "This content is highly relevant for evidence-based product development but only marginally overlaps with Agentic Engineering. It discusses feedback, experimentation, and decision-making, but does not directly address maximizing human or AI agency in engineering design or practice.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "j-mPdGP7BiU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 22.44,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.3,
+    "ai_intent": 3.5,
+    "ai_audience": 4.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on transforming assumptions into hypotheses for better product development, focusing on experimentation, data, and critical thinking. There are no direct mentions or substantial discussion of agentic software delivery principles, such as integration of autonomous AI agents, human-agent synergy, or agentic governance. While the approach is modern and evidence-oriented, it remains within traditional product management and experimentation realms. Some practices, like iteratively using data, faintly align with the outcome-focus favored in agentic models, but key characteristics, such as contextual AI agents or automated delivery frameworks, are absent.",
+    "reasoning_summary": "This content focuses on product development assumptions and hypothesis testing, with no mention of agentic software delivery or autonomous AI agents. Its themes only loosely resemble agentic practices. Category fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

@@ -365,13 +365,23 @@
     "level": "Secondary"
   },
   "Agile Values and Principles": {
+    "resourceId": "cR4D4qQe9ps",
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T00:08:03",
-    "ai_confidence": 30,
-    "non_ai_confidence": 30,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the Scrum Guide and Scrum roles rather than on Agile values and principles. While it mentions collaboration and principles behind Scrum, these concepts are secondary to the main topic of understanding Scrum specifically.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 56.075,
+    "ai_mentions": 2.1,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.6,
+    "ai_intent": 5.7,
+    "ai_audience": 6.7,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content centers on reading the Scrum Guide as foundational for Scrum Masters, emphasizing understanding Scrum principles, empiricism, and collaboration. While it briefly mentions the need to comprehend principles behind Scrum, most content describes framework-specific advice, roles, and practices, and does not directly explore core Agile values or the Agile Manifesto. There is some conceptual alignment and partial overlap—especially when noting the importance of empiricism and collaboration—but depth and directness regarding Agile values/principles are limited. The main audience (new Scrum Masters) is somewhat aligned, but the focus is largely Scrum framework essentials, not Agile philosophy. No penalties applied as the content is current and neutral.",
+    "reasoning_summary": "Mainly discusses the importance of reading the Scrum Guide, with brief references to underlying principles. Only partially fits 'Agile Values and Principles' as the real focus is on Scrum framework basics, not Agile core values/philosophy.",
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1950,6 +1960,25 @@
     "final_score": 12.0,
     "reasoning": "The content is focused on foundational advice for new Scrum Masters, emphasizing the importance of reading and understanding the Scrum Guide. It covers Scrum roles, empiricism, mentoring, and Agile project management. However, it lacks direct or conceptual engagement with Agentic Engineering's core topics, such as maximizing human or AI agency, systemic observability, ethical AI, or DevOps ethos. The only touchpoint is a brief mention of 'empowerment,' which is generic and not explored in a way that aligns substantively with Agentic Engineering’s definition. The main purpose, audience, and message relate strictly to Scrum basics rather than deliberate engineering practices or philosophies around agency, with no reference to intelligent systems or decentralization. Thus, the fit is very limited.",
     "reasoning_summary": "This content centers on basic Scrum Master advice and learning the Scrum Guide, offering minimal overlap with Agentic Engineering. It does not explore engineering agency, deliberate practice design, or AI integration, so has low category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cR4D4qQe9ps",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 4.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 6.5,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses strictly on introductory advice for new Scrum Masters, emphasizing reading the Scrum Guide and understanding basic Scrum/Agile principles. There are no mentions or discussions of autonomous AI agents, contextual intelligence, or agentic delivery strategies. The content's themes, intent, and scope are aligned with classic Scrum Master onboarding and not with Agentic Software Delivery—all six scoring dimensions reflect this lack of relevance. The modest scores for audience and signal reflect the content’s focus and clarity for Agile practitioners, but these do not compensate for its lack of connection to agentic principles.",
+    "reasoning_summary": "This content is focused solely on traditional Scrum Master basics, with no reference to autonomous agents or agentic principles. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

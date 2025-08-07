@@ -965,15 +965,22 @@
     "level": "Secondary"
   },
   "Empirical Process Control": {
+    "resourceId": "Fg90Nit7Q9Q",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:52:45",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Scrum and its principles, particularly focusing on transparency and the importance of delivering usable products at the end of sprints. However, it lacks a detailed exploration of empirical process control concepts such as inspection and adaptation, and does not provide case studies or tools related to empirical process control. The primary focus is on aligning DevOps and Software Engineering teams rather than a thorough examination of empirical process control itself.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 67.63,
+    "ai_mentions": 2.7,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.9,
+    "ai_intent": 7.5,
+    "ai_audience": 9.3,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content focuses on how Scrum fosters transparency and feedback, which are central to empirical process control. There is explicit mention of transparency and the use of feedback loops (outcomes at the end of every sprint), closely aligning with the category. The article discusses continuous alignment and practical examples (e.g., integrating DevOps and engineering practices via Scrum) but does not mention empirical process control by name. The discussion is moderately deep, highlighting transparency, adaptation, and engineering excellence, but doesn't go extensively into mechanisms of inspection/adaptation or empirical theory as such. Intended for Agile practitioners and directly targets the relevant audience, with minimal off-topic content. No penalties applied as the content is current, supportive, and positively framed.",
+    "reasoning_summary": "Strong fit. The content centers on Scrum's transparency and feedback—core to empirical process control—but doesn’t mention the term itself or go very deep conceptually, giving it a moderately high, but not full, confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -1985,5 +1992,24 @@
     "reasoning": "The content connects Scrum, DevOps, and software engineering teams, emphasizing transparency, feedback, and engineering excellence—concepts relevant to Agentic Engineering. However, there is no direct mention or deep exploration of maximizing human/AI agency, ethical autonomy, or decentralized decision-making. The main focus is on alignment and best practices but lacks explicit treatment of agency or philosophical framing foundational to Agentic Engineering. The audience and signal ratio are good due to relevancy for practitioners, yet the discussion remains at an abstract and motivational level, not delving into core agentic practices or decision frameworks. No outdated references or tone penalties apply.",
     "reasoning_summary": "The content aligns partially with Agentic Engineering by discussing DevOps, Scrum, transparency, and engineering excellence but does not deeply explore core agentic or autonomy themes. It is moderately relevant for practitioners seeking to align teams with modern engineering values.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Fg90Nit7Q9Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 16.725,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 7.7,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses Scrum as a strategy to align DevOps and software engineering teams, focusing on transparency, feedback, and engineering excellence—but does not mention or meaningfully explore agentic principles such as integration of autonomous AI agents, context-aware intelligence, or agentic delivery practices. There is no reference to AI, autonomous agents, human/AI synergy, or agentic frameworks. The audience is practitioners interested in Agile/DevOps, which partially overlaps, but the topic and depth do not align with Agentic Software Delivery.",
+    "reasoning_summary": "The content does not meaningfully discuss Agentic Software Delivery: it lacks references to AI agents, contextual intelligence, or agent-led practices, focusing solely on aligning DevOps and software engineering teams via Scrum.",
+    "level": "Ignored"
   }
 }

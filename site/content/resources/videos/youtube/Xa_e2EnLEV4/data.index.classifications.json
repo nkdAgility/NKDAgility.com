@@ -1395,15 +1395,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "Xa_e2EnLEV4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses the importance of addressing problems in a Kanban strategy but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on proactive problem-solving, it lacks a direct focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 18.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 7.6,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on avoiding problem avoidance within Kanban, promoting transparency and prompt issue resolution. It does not explicitly mention or discuss Shift Left principles, nor does it address early integration of testing, security, or compliance. While the proactive theme aligns superficially, it is not specialized on Shift Left; the content is mainly about Kanban maturity and transparency, not about introducing activities earlier in the SDLC. Only audience and some signal are relevant due to overlap in target readers (process practitioners), but conceptual and depth fit are weak.",
+    "reasoning_summary": "While the proactive handling of problems is encouraged, Shift Left is never mentioned and the content remains focused on Kanban transparency rather than integrating key practices earlier in development. Only a weak partial fit exists via shared improvement themes.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1957,6 +1964,25 @@
     "final_score": 30.0,
     "reasoning": "The content focuses on the importance of transparency, regular issue resolution, and discipline in Kanban workflows. While these relate generally to healthy engineering practices, there is no mention of agentic engineering, developer/AI agency, DevOps, or ethical AI collaboration. The discussion is rooted in process hygiene and team discipline, lacking conceptual alignment or significant depth regarding agentic engineering's core elements. The audience is practitioners, and the signal is fairly focused but not highly specific to the category. No penalties apply as content is current and respectful.",
     "reasoning_summary": "While the article stresses transparency and proactive problem-solving in Kanban, it does not address agentic engineering topics such as maximizing human/AI agency, DevOps, or ethical autonomy. Its relevance to the category is indirect and minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Xa_e2EnLEV4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 6.47,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.75,
+    "ai_depth": 0.6,
+    "ai_intent": 0.85,
+    "ai_audience": 1.2,
+    "ai_signal": 1.47,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on common Kanban anti-patterns and the importance of transparency and problem resolution. There are no explicit or implicit discussions of autonomous agents, contextual AI, agentic governance, human-in-the-loop designs, or agent-powered software delivery. The theme is traditional continuous improvement within Kanban, without reference to the integration of AI, contextual intelligence, or agency principles as defined. Audience is typical Kanban practitioners and does not target those focused on agentic delivery strategies.",
+    "reasoning_summary": "This Kanban-focused content does not reference, describe, or align with agentic software delivery. It lacks discussion of AI agents, agency, or autonomous integration. Fit is negligible.",
     "level": "Ignored"
   }
 }

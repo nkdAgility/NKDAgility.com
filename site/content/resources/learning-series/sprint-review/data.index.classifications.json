@@ -792,15 +792,22 @@
     "level": "Ignored"
   },
   "Scrum Master": {
+    "resourceId": "9omxdDJCVDL",
     "category": "Scrum Master",
-    "calculated_at": "2025-04-10T14:45:03",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions the Sprint Review, which is a Scrum event, but does not explicitly discuss the role or responsibilities of the Scrum Master. While it touches on stakeholder engagement and decision-making, it lacks depth and a direct focus on the Scrum Master's influence or techniques. Overall, the content is more about the event itself rather than the Scrum Master role.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The provided content consists solely of 'Comming soon' with no description, context, or discussion. There are no mentions, thematic alignment, or depth regarding the Scrum Master accountability. Scores reflect minimal possible alignment based solely on the title/description, which refers generally to Sprint Review but not to Scrum Master responsibilities.",
+    "reasoning_summary": "The content contains no substantive material, so there is effectively no alignment or relevance to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1888,6 +1895,25 @@
     "final_score": 5.0,
     "reasoning": "The content is placeholder text ('Coming soon') with no substantive discussion. There are no direct mentions, conceptual alignment, or depth regarding Agentic Engineering. No signals of audience, intent, or relevant information are present. No penalties were applied, as there is insufficient material to critique for outdatedness or tone.",
     "reasoning_summary": "This content contains no discussion or indication of Agentic Engineering topics or related concepts—it's a placeholder awaiting substantive information.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9omxdDJCVDL",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 0.0,
+    "ai_signal": 0.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The provided content (“Comming soon”) contains no actual material to analyze, reference, or classify. There are no direct or indirect mentions of Agentic Software Delivery or any related concepts. Since there is no content, all dimensions score zero, and the overall confidence cannot be greater than zero. No penalties are needed because there is nothing outdated or off-tone.",
+    "reasoning_summary": "No content is present for analysis; nothing aligns with Agentic Software Delivery in topic, intent, or scope.",
     "level": "Ignored"
   }
 }

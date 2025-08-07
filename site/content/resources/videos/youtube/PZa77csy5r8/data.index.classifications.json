@@ -824,15 +824,22 @@
     "level": "Ignored"
   },
   "Cycle Time": {
+    "resourceId": "PZa77csy5r8",
     "category": "Cycle Time",
-    "calculated_at": "2025-03-14T17:08:41",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on technical debt rather than Cycle Time. While it briefly touches on Agile practices and mentions the importance of measuring progress, it does not explicitly discuss Cycle Time or its implications. The discussion lacks depth and does not align with the core themes of Cycle Time, such as its definition, measurement methods, or strategies for reduction.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 24.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 7.3,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses heavily on technical debt: its definition, impacts, and strategies for managing it. While it refers to related areas like productivity, feature delivery, DevOps practices, and cycle improvement, 'Cycle Time' is never directly named. There's only indirect relevance—improvements in feature delivery and quality could theoretically reduce Cycle Time, but direct measurement, analysis, or strategies regarding Cycle Time itself are missing. The audience (technical, development teams) is aligned with those interested in Cycle Time, but the content's clear focus is not on this metric nor does it incorporate the specific frameworks, definitions, or visualization tools associated with Cycle Time. Signal is moderate due to some tangential relevance, but on the whole, this is not a focused fit.",
+    "reasoning_summary": "The content centers on technical debt—not Cycle Time. It is only loosely related by discussing productivity gains that might result from paying down debt, but does not define, measure, or analyze Cycle Time. Fit with 'Cycle Time' is partial and incidental.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -2017,5 +2024,24 @@
     "reasoning": "The content focuses on technical debt: definitions, types, risks, and strategies for managing it, primarily via practical team practices (refactoring, feedback loops, quality focus). There is some conceptual overlap with Agentic Engineering—such as prioritizing feedback loops, team agency, and continuous improvement—but these are not framed in the context of maximizing human/AI agency or agentic engineering philosophy. There are no explicit or even indirect references to the deliberate design of engineering practices for decentralization, ethical AI, or agency. The depth and alignment scores reflect some overlap (feedback-driven improvement, developer practices), but the discussion is anchored around technical debt, not Agentic Engineering as defined. Other core concepts (decision-making autonomy, ethical AI integration, observability as agentic enabler) are not evident.",
     "reasoning_summary": "While the article covers themes like feedback loops and continuous improvement, its primary focus is on managing technical debt rather than on maximizing agency or engineering for autonomy. It only loosely aligns with Agentic Engineering and does not directly address category-specific practices.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PZa77csy5r8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 18.008,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.43,
+    "ai_depth": 2.72,
+    "ai_intent": 3.12,
+    "ai_audience": 5.11,
+    "ai_signal": 4.624,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on technical debt management, using Azure DevOps as a long-term improvement case. While it references modern delivery practices (agile, continuous delivery, feedback loops), it never discusses autonomous AI agents, contextual intelligence, or agentic frameworks—key components of Agentic Software Delivery. No explicit or implicit mention of AI-driven agency or human-agent synergy is present. The audience (development team leads/practitioners) slightly overlaps, but both conceptual alignment and depth on agentic principles are low. No penalties apply as it is neutral and refers to reasonably current practices.",
+    "reasoning_summary": "The content centers on classical technical debt management and delivery process evolution but lacks direct or indirect connection to agentic software delivery or AI agency, yielding a very low category fit.",
+    "level": "Ignored"
   }
 }

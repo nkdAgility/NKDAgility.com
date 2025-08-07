@@ -1452,15 +1452,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "5ZRMBfV9zpI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:38:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum training and the role of Scrum Masters, which is not aligned with the principles of the One Engineering System. While it discusses aspects of Agile and community building, it does not address the integration or standardisation of engineering processes, nor does it mention the One Engineering System framework or its components.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 6.74,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Scrum Master training with no mention or discussion of the One Engineering System (1ES) framework. There are no references to unified engineering processes, standardisation, or integration of tools fundamental to 1ES. The main topics—Agile, Scrum principles, community, and training—do not conceptually align with 1ES. The discussion depth centers on practical upskilling within the Scrum framework, not system-level engineering integration. The content is targeted at practitioners of Scrum rather than engineers or leaders integrating engineering systems. Thus, almost all score dimensions are minimal, reflecting an extremely weak—if any—fit with the 'One Engineering System' category.",
+    "reasoning_summary": "This content is strictly about Scrum Master training and does not discuss, reference, or align with One Engineering System topics. There is an extremely weak or no fit with the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1968,6 +1975,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses exclusively on Scrum Master training and professional development, emphasizing interactive learning, community support, and Agile skill-building. While these themes tangentially touch on developer agency and continuous improvement, there is no direct discussion of the deliberate design of engineering practices, decentralization, or the integration of human and AI agency. The training promotes empowerment and a culture of improvement, but lacks explicit or substantive alignment with Agentic Engineering's core concepts (such as engineering for autonomy, DevOps ethos, or ethical AI collaboration). No out-of-date or contradictory practices are present. The target audience—aspiring Scrum Masters—is somewhat adjacent but not fully aligned with the category. Thus, confidence in fit is low to moderate.",
     "reasoning_summary": "This content offers Scrum Master training centered on Agile principles, teamwork, and continuous improvement, but it does not address or explicitly discuss Agentic Engineering's focus on engineering autonomy, systemic decision-making, or human-AI collaboration. Its relevance to the category is limited and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5ZRMBfV9zpI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on Scrum Master training within general Agile principles, emphasizing human-centric learning, community, and continuous improvement. There is no explicit mention or substantive discussion of autonomous AI agents, agentic principles, or agent-driven software delivery. None of the key themes—autonomous systems, contextual intelligence, or AI-human synergy—are present. While the intent is to build effective software delivery professionals, the approach is rooted in traditional, human-driven Scrum practices, not Agentic Software Delivery. Some general relevance exists insofar as continuous improvement and transformation are themes in both categories, but this is very indirect. The signal-to-noise ratio is moderate due to content focus, but relevance to the evaluated category is minimal.",
+    "reasoning_summary": "The content solely covers human-focused Scrum Master training with no reference to autonomous agents, AI integration, or agentic delivery strategies. It does not align with the Agentic Software Delivery category beyond very general themes like improvement.",
     "level": "Ignored"
   }
 }

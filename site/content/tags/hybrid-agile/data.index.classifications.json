@@ -108,15 +108,22 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Hybrid Agile",
     "category": "Practice",
-    "calculated_at": "2025-04-10T11:53:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content critiques the concept of Hybrid Agile but does not focus on actionable practices or techniques that enhance team performance. While it discusses the challenges of hybrid implementations, it lacks direct mentions of specific practices like pair programming or retrospectives, which are essential for the 'Practice' category. The analysis is more philosophical and critical rather than providing concrete, repeatable actions or techniques.",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 30.646,
+    "ai_mentions": 2.6,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.3,
+    "ai_intent": 2.9,
+    "ai_audience": 4.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4,
+    "ai_penalty_details": "Penalties applied to alignment (-1), depth (-1), intent (-1), signal (-1). These were reduced for negative/critical tone opposing the spirit of Practice, minimal actionable technique content, and focus on critique rather than fostering practice.",
+    "final_score": 31.0,
+    "reasoning": "The content critiques misapplication and dilution of Agile practices (Hybrid Agile), focusing on failed implementations and their symptoms. It discusses practices only superficially and mostly from a negative, critical lens. The intent is to analyze or criticize implementations, not to inform or guide about actionable practices. While it references practices (e.g., ceremonies, accountability), it doesn't delve into consistent, repeatable actions or techniques teams can adopt. The audience partly overlaps with practitioners (as it warns them), but most of the content targets critics and organizations failing at implementation rather than supporting practice development. The tone actively contradicts the spirit of the Practice category, resulting in penalty deductions for several dimensions.",
+    "reasoning_summary": "Content primarily critiques failed or diluted Agile practices, offering little actionable technique discussion. Its negative focus and critical intent diverge from the Practice category’s meaning, fitting only loosely due to some surface-level references.",
     "level": "Ignored"
   },
   "Artifact": {
@@ -3102,6 +3109,25 @@
     "final_score": 4.0,
     "reasoning": "The content critiques the practice of 'Hybrid Agile', focusing extensively on organizational and process dysfunction when project management is combined with Agile. There is almost no reference to human-AI collaboration, agency, or collective intelligence as defined. The main themes are about flawed integrations of human workflows and governance structures—making it largely irrelevant to collective intelligence or socio-technical human-AI partnerships. The critical tone and references to failed structures also slightly undermine the potential for constructive involvement in collective intelligence. Penalties were applied for outdated framing (command-and-control vs. Agile) and a dismissive rather than enabling attitude. The confidence score is accordingly extremely low, reflecting the near-total lack of relevance.",
     "reasoning_summary": "This content critiques organizational approaches to combining project management and Agile methods, without discussing human-AI collaboration or collective intelligence themes. Its focus is on process analysis, not on human-AI partnerships or enhanced cognitive outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Hybrid Agile",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 13.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Penalty of 1 point applied to intent (tone is critical/undermining toward the category's framing), 1 point to alignment (focuses on traditional/anti-patterns rather than agentic concepts), and 1 point to depth (discusses anti-patterns rather than substantive category exploration).",
+    "final_score": 14.0,
+    "reasoning": "The content critiques the hybridization of project management and agile, focusing on failures and pitfalls of such approaches. It does not reference or elaborate on agentic principles, AI integration, or agency in software delivery. Its audience is practitioners interested in delivery models, partially matching the category's, but the intent is critical toward insufficiently agentic approaches, not supportive or exploratory of agentic software delivery. No significant discussion on proactive intelligence, agents, or category-specific governance. Penalties applied for anti-category tone and lack of substantive alignment.",
+    "reasoning_summary": "This content critiques hybrid project-agile models, lacking references to AI, agency, or Agentic Software Delivery. Its intent and focus are anti-patterns, not exploration of the category. Fit is minimal, mostly oppositional or tangential.",
     "level": "Ignored"
   }
 }

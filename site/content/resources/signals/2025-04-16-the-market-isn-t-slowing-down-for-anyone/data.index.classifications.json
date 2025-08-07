@@ -78,21 +78,21 @@
   "Continuous Delivery": {
     "resourceId": "Szz-d1q7CG7",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-05-16T14:21:49",
-    "ai_confidence": 41.25,
-    "ai_mentions": 0.2,
-    "ai_alignment": 4.8,
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 33.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.5,
     "ai_depth": 3.9,
-    "ai_intent": 5.8,
-    "ai_audience": 6.2,
-    "ai_signal": 6.7,
+    "ai_intent": 4.4,
+    "ai_audience": 7.3,
+    "ai_signal": 8.2,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 41.0,
-    "reasoning": "The content critiques slow adaptation and outdated methods, emphasizing organizational responsiveness and rapid decision-making. While these are conceptually adjacent to Continuous Delivery, there are no direct mentions or substantial exploration of Continuous Delivery concepts or practices. The intent is to motivate change and warn against inertia, appealing to leaders or change agents. However, it lacks explicit references to automation, incremental delivery, or tools, resulting in middling alignment and depth scores. No penalties are applied as the content isn't outdated or satirical.",
-    "reasoning_summary": "While the content champions speed, adaptability, and modern work systems, it doesn't directly address Continuous Delivery principles or practices. Its broad focus on responsiveness aligns partially with the category, but lacks the specifics needed for a strong fit.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content focuses on organisational responsiveness and the necessity for adapting quickly, criticizing outdated practices. While this conceptually overlaps with Continuous Delivery values, it never explicitly references Continuous Delivery, its principles, automation, or technical practices. The main discussion centers on general organisational agility and strategic adaptation rather than the practices or mechanics of software delivery cycles. There are no in-depth discussions on automation, deployment pipelines, or continuous release practices. The audience is suited (those interested in organisational change or improving delivery speed) and the message is focused, but the alignment and depth to Continuous Delivery are only partial and mostly implicit.",
+    "reasoning_summary": "Content discusses rapid adaptation and responsiveness but never directly references Continuous Delivery principles or practices; fit is partial and mostly conceptual, not explicit.",
+    "level": "Ignored"
   },
   "Scaling": {
     "resourceId": "Szz-d1q7CG7",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content focuses on organisational responsiveness and real-time decision-making, which are adjacent to themes in Agentic Engineering, such as decentralised decision-making and adaptation. However, there are no explicit references to agentic principles or practices (e.g., developer agency, ethical AI, systemic observability), and the discussion remains at a culture/process-level critique rather than elaborating on engineering practices that foster human or system agency. Some alignment is present in the critique of rigid, outdated frameworks and the emphasis on adaptability, but it lacks depth in discussing the deliberate engineering needed to maximise agency. Slight penalties were applied for lack of direct terminology, only moderate exploration of underlying engineering concepts, and a rhetorical tone. Overall, the piece leans toward change advocacy rather than substantive agentic engineering exploration.",
     "reasoning_summary": "The content encourages organisational adaptability and faster decision-making, themes related to Agentic Engineering, but does not directly discuss the engineering practices, autonomy, or technical foundations central to the category. Alignment is partial and mostly conceptual, with minimal direct fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Szz-d1q7CG7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 22.55,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.45,
+    "ai_depth": 2.35,
+    "ai_intent": 2.6,
+    "ai_audience": 6.8,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content discusses organizational responsiveness, the insufficiency of traditional frameworks, and the importance of real-time adaptation. However, it does not mention Agentic Software Delivery, autonomous AI agents, or integration of AI and human expertise. The main themes relate to agility and organizational change, not the embedding of context-aware AI agents or agency in delivery processes—core requirements for this category. The audience may include technical leaders, but the scope remains general. A low confidence score reflects only a partial and indirect conceptual overlap, mainly around the need for outcome-focused, adaptive systems of work.",
+    "reasoning_summary": "The content discusses competitiveness and adaptation, but lacks any mention of agentic delivery or autonomous AI agents. Alignment is partial, as themes touch on responsiveness but not on agentic software delivery's defining characteristics.",
+    "level": "Ignored"
   }
 }

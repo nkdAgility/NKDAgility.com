@@ -1378,16 +1378,23 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "tKEl0YVeWv4",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:37:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits and real-world implications. While it touches on aspects of product delivery, it does not explicitly mention the Agile Product Operating Model or its principles. The discussion lacks depth in relation to the core themes of APOM, such as transitioning to a product ethos or integrating agile methodologies with product management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:21",
+    "ai_confidence": 42.127,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.5,
+    "ai_depth": 4.9,
+    "ai_intent": 5.3,
+    "ai_audience": 4.8,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content strongly emphasizes automation, deployment, and operational consistency, which can support agile product delivery but does not reference the Agile Product Operating Model directly or explore its core themes (product orientation, EBM, governance, etc.) in depth. There are some conceptual links—such as the shift to continuous delivery, focusing on product quality, and learning from deployment cycles—that implicitly touch on APOM principles, but these are not explicitly presented within the model's context. The discussion primarily targets software developers interested in automation, with only tangential, non-explicit relevance to product operating models or organizational APOM transformation. No dimensions warrant penalties for outdated or undermining tone.",
+    "reasoning_summary": "The article focuses on automation in software development, which supports agile delivery, but does not directly discuss the Agile Product Operating Model or its principle themes. Only a partial fit by implication, not explicit intent.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1994,6 +2001,25 @@
     "final_score": 39.0,
     "reasoning": "The content is focused on automation in software development and DevOps practices, emphasizing speed, reliability, and error reduction. While it discusses developer empowerment through automation, it does not directly address the philosophical aspects of agency, ethical autonomy, or the deliberate design of engineering practices to maximize both human and AI agency. There is no mention of decision decentralization, feedback-driven adaptation, or integrative themes like ethical AI. The primary audience appears to be practitioners and technical leads interested in improving workflows, aligning somewhat with the Agentic Engineering audience, but conceptual and depth alignment are limited. Signal-to-noise is relatively high due to practical examples, but overall fit for Agentic Engineering is moderate at best.",
     "reasoning_summary": "While the content demonstrates practical automation benefits, it lacks explicit focus on agency, ethical autonomy, or systemic observability fundamental to Agentic Engineering. It is mainly a practical guide to automation with moderate relevance to the category's deeper conceptual aims.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "tKEl0YVeWv4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 22.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 6.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on traditional software automation—CI/CD, error reduction, faster deployments—but never references or delves into the concept of autonomous AI agents, context-aware intelligence, or agentic delivery frameworks. All case studies, examples, and arguments revolve around 'automation' in its conventional sense (scripted deployments, automated testing, consistency over manual work, etc.), not agentic agency or collaborative AI/human workflows. While automation is a prerequisite for modern delivery and is discussed in the agentic context as a foundation, the article does not touch on agentic software delivery concepts: there are no references to autonomous, context-aware agents, AI-human synergy, human-in-the-loop designs, or agent-supported processes. The target audience (software engineers, DevOps, delivery managers) does overlap with the intended audience of agentic delivery, hence a nonzero 'audience' score, and the signal-to-noise ratio is reasonably high, but the core conceptual alignment and direct mentions are almost entirely absent.",
+    "reasoning_summary": "This article discusses classic automation in software delivery but does not mention or align with Agentic Software Delivery concepts (AI agents, agency, or agent/human synergy). Fit is marginal and mostly overlaps at the audience level.",
     "level": "Ignored"
   }
 }

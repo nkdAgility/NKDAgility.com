@@ -1498,15 +1498,22 @@
     "reasoning_summary": "This content touches on competence by highlighting how high-quality code boosts productivity and team morale, and by suggesting ways to improve engineering skills. However, its main emphasis is on the negative effects and costs of poor-quality code, rather than directly exploring or developing the concept of competence itself."
   },
   "One Engineering System": {
+    "resourceId": "1AO6FFBlE4Y",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:58:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, which are relevant to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on integration and standardisation of engineering processes. The discussion is more centred on general software quality rather than the specific framework of 1ES.",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 29.36,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 2.7,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on the hidden costs of poor code quality and practical ways to improve engineering practices. It discusses topics like branching strategies, technical debt, productivity, security, and engineering excellence, aligning with general engineering improvements. However, there are no direct mentions of One Engineering System (1ES), no references to its principles, components, or its unifying framework. The intent is to promote high code quality rather than discuss the integration and standardisation of engineering tools/processes as described by 1ES. The audience may overlap with those interested in 1ES, but the content remains general, lacking depth or direct treatment of 1ES themes. Most of the signal pertains to broad best practices, not to the specifics of 1ES.",
+    "reasoning_summary": "Content covers code quality and engineering practice improvement but does not mention or align directly with One Engineering System. Fit is partial at best; main topic is not about 1ES integration or standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2009,5 +2016,24 @@
     "reasoning": "This content strongly advocates for engineering excellence (e.g., reducing technical debt, streamlining branching strategies, continuous integration), which is thematically close to Agentic Engineering. There’s an emphasis on empowering teams through productivity, code quality, and feedback loops, aligning with agentic themes of autonomy and systemic improvement. However, the article never mentions Agentic Engineering directly, nor does it deeply engage with the philosophical aspects of maximizing both human and AI agency or ethical AI. It targets technical practitioners, encouraging proactive, feedback-driven improvement—relevant to the category. Its main focus, though, remains on code quality and its practical business impact, rather than on the deliberate design of agentic-engineered systems, AI integration, or decentralised decision-making frameworks.",
     "reasoning_summary": "The content aligns with Agentic Engineering by emphasizing engineering excellence, productivity, and feedback loops. However, it lacks direct mentions, philosophical framing, or substantive discussion of human or AI agency, keeping its relevance moderate but not deep.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1AO6FFBlE4Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 24.067,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 8.4,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on the impacts of poor code quality and practical steps for improvement—mainly through engineering excellence, technical debt reduction, and modern practices (CI, small tests). However, there is no explicit mention of agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI with human expertise. While certain engineering practices (CI/CD, feedback loops) overlap somewhat with agentic prerequisites, the main themes are traditional code quality, productivity, and reputation. The target audience (engineers/leaders) is somewhat aligned. Depth scores are moderate due to thorough coverage of code quality but not agentic principles. Very little content could be construed as conceptually agentic; therefore, the fit is weak.",
+    "reasoning_summary": "This content is focused on code quality, technical debt, and engineering best practices—not on agentic software delivery or AI agent integration. It only minimally aligns with the core themes of the category.",
+    "level": "Ignored"
   }
 }

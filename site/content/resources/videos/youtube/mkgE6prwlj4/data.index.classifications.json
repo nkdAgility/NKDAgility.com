@@ -1435,15 +1435,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "mkgE6prwlj4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:43:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, and discusses its application within a team at Microsoft. While it mentions the transition from a waterfall model, it does not address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration across teams or best practices for implementing 1ES. The discussion is centred around Scrum rather than the broader context of 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 26.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 7.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content does not mention 'One Engineering System' (1ES) directly and instead focuses on Microsoft's use of Scrum to transform workflow in the Azure DevOps team. While the example is about the integration of modern practices at Microsoft, it neither references 1ES, its principles, nor standardisation across teams—it’s solely centered around Scrum and DevOps methods. There is no substantive discussion of unifying engineering processes or tooling, or on the 1ES impact as defined. Consequently, alignment, depth, and intent scores are low. Audience alignment is higher, as technical practitioners could overlap. No penalties are appropriate as there is no obsolete practice nor negative tone.",
+    "reasoning_summary": "Content addresses Scrum implementation by the Azure DevOps team but does not reference or align with One Engineering System concepts. Discussion stays within Scrum practices, not unified engineering systems; fit with the category is weak and tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1945,6 +1952,25 @@
     "final_score": 32.0,
     "reasoning": "The content is focused on Microsoft's Azure DevOps team's use of Scrum to improve build times and workflow efficiency. While it discusses transformation and improvement through agile practices (especially Scrum and DevOps), it does not explicitly reference or deeply explore the principles of agentic engineering, such as maximization of human and AI agency, deliberate decentralization in decision-making, or ethical autonomy. There are some conceptual overlaps (DevOps, team autonomy) but the discussion doesn't directly tie those improvements to the philosophical or systemic aspects central to Agentic Engineering. The audience—likely agile practitioners or those interested in practical team success—is broadly related but not specifically aligned with the more systemic/meta level orientation of agentic engineering. No penalties are warranted since the content is modern and not critical or satirical.",
     "reasoning_summary": "The content highlights agile and DevOps success but does not explicitly address or analyze agentic engineering principles such as agency maximization or ethical AI integration. Its relevance is moderate, with some conceptual overlap but lacking depth and direct category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mkgE6prwlj4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 19.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.4,
+    "ai_audience": 6.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on Scrum adoption by Azure DevOps teams, emphasizing improvements in workflow efficiency. While modern engineering practices (CI/CD) and significant transformation are discussed, there is no mention of agentic principles, autonomous AI agents, or contextual intelligence. The improvements are attributed to Scrum practices, not AI-driven, proactive, or context-aware intelligence. Audience is IT/Agile practitioners, which partially overlaps, but key agentic themes are absent.",
+    "reasoning_summary": "This piece only discusses Scrum-driven transformation and workflow efficiency, not agentic integration, AI agents, or contextual intelligence. Fit for 'Agentic Software Delivery' is low as no agentic dimensions are present.",
     "level": "Ignored"
   }
 }

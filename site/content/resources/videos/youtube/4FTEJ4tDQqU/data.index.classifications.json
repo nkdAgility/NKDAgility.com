@@ -1491,15 +1491,22 @@
     "reasoning_summary": "This content shares personal experiences with Agile and DevOps, focusing on process understanding and the human element in successful outcomes. While it mentions competence in navigating workflows, it doesn’t centre on continuous learning or skill development, making it more of a reflective narrative than a guide on building competence."
   },
   "One Engineering System": {
+    "resourceId": "4FTEJ4tDQqU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:19:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal experiences with Agile and Scrum, discussing the author's journey and insights rather than the One Engineering System framework. While it touches on themes of process improvement and collaboration, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about Agile methodologies and personal reflections than about standardising and integrating engineering practices across teams.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 27.66,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 3.8,
+    "ai_audience": 6.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content provides a personal narrative focusing on the author's journey embracing Agile, Scrum, and DevOps. It does not directly reference One Engineering System (1ES), nor does it discuss 1ES principles, integration of tools/processes across teams, or unified engineering frameworks. Discussions on process simplification and tools (e.g., Azure DevOps, Jira) only tangentially touch on relevant themes but are not framed as core 1ES topics. The target audience (practitioners and advocates) overlaps somewhat, but the main themes do not align with the integration/standardisation focus of 1ES. Signal is reduced by anecdotal and motivational content, and there is virtually no direct or deep exploration of 1ES-specific concepts.",
+    "reasoning_summary": "Content is a personal Agile/DevOps journey; it neither mentions One Engineering System nor explores its main concepts. Partial alignment exists through process/tool discussion, but the fit to the 1ES category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2004,5 +2011,24 @@
     "reasoning": "The content offers a reflective personal narrative on adopting Agile, Scrum, and DevOps, focusing on cultural and process shifts. It highlights themes like empowering teams, rethinking processes, and maximizing value, which conceptually relate to Agentic Engineering (e.g., developer freedom, autonomy, and continuous improvement). However, it does not directly mention Agentic Engineering nor delve deeply into core topics such as systemic observability, ethical AI, or explicit frameworks to maximize human and AI agency. The discussion is broad, with moderate depth on relevant themes, but mainly from a transformation and personal growth perspective rather than a systemic, agentic engineering lens. The intended audience overlaps with Agentic Engineering's, but content is more general on Agile and DevOps rather than the philosophical underpinnings and engineering practices of agency.",
     "reasoning_summary": "While the narrative aligns with Agentic Engineering themes like autonomy and value-driven culture, it lacks direct references and deeper exploration of agentic practices. The focus is on personal Agile transformation rather than deliberate engineering for human and AI agency.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4FTEJ4tDQqU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 18.55,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 6.9,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is a personal narrative covering the author's shift from traditional project management to Agile, Scrum, and DevOps practices. There are no explicit references to agentic concepts, autonomous AI agents, human-AI collaboration, or proactive context-aware intelligence. The discussion focuses on process, human factors, and the evolution of culture but does not introduce or align with the principles, methods, or technology relevant to Agentic Software Delivery. The audience and purpose are broadly compatible with technical change, but little to no conceptual overlap exists. Overall, this is not a fit for the given category.",
+    "reasoning_summary": "No explicit or conceptual coverage of Agentic Software Delivery topics or technology. Content is focused on Agile, Scrum, and DevOps from a human/process angle. Fit with the assigned category is very weak.",
+    "level": "Ignored"
   }
 }

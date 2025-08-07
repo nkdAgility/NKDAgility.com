@@ -84,16 +84,23 @@
     "level": "Primary"
   },
   "Philosophy": {
+    "resourceId": "Test Driven Development",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Test Driven Development (TDD) primarily as a software development practice, focusing on its implementation and benefits rather than exploring the philosophical underpinnings or broader cultural implications. While it briefly touches on Agile principles and mentions a culture of quality and accountability, these aspects are secondary to the technical discussion of TDD itself. The content lacks a deep exploration of the foundational beliefs that shape methodologies like Agile, which is essential for a stronger alignment with the Philosophy category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 41.85,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.9,
+    "ai_intent": 3.8,
+    "ai_audience": 4.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content primarily describes the practice of TDD, emphasizing its benefits in code quality, maintainability, and organizational culture. While it briefly connects TDD to Agile principles, the focus is on the 'how' and outcomes of TDD as a technique, not on underlying philosophies or theoretical foundations. There is minimal explicit reference to philosophy, and the discussion does not explore the 'why' or broader philosophical frameworks; thus, alignment and depth are limited. The audience is mainly practitioners interested in practical guidance rather than philosophical exploration.",
+    "reasoning_summary": "The content centers on TDD as a practice, with only superficial reference to Agile principles and culture. It does not explore foundational philosophies, so fit to 'Philosophy' is low and mostly indirect.",
+    "level": "Tertiary"
   },
   "Observability": {
     "category": "Observability",
@@ -3128,6 +3135,25 @@
     "final_score": 14.0,
     "reasoning": "The content discusses TDD, focusing on automated testing, code quality, and team practices within Agile contexts. However, it does not mention or discuss human-AI collaboration, AI agents, or collective intelligence principles as defined. The main themes are team culture and technical practices, strictly in a human context, with no evidence of human-AI interaction or emergent cognitive capabilities from human-AI partnership. Thus, all dimensions are scored extremely low, reflecting almost no conceptual overlap with the 'Collective Intelligence' category.",
     "reasoning_summary": "This content centers on TDD's role in fostering team quality and Agile alignment but does not reference or align with collective intelligence concepts, especially those involving human-AI collaboration, making its fit with the category extremely limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Test Driven Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 23.07,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.4,
+    "ai_intent": 3.1,
+    "ai_audience": 3.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is centered around Test Driven Development (TDD) and its benefits to software quality and Agile practices. While topics such as automation, quality, and continuous improvement are discussed, there is no mention of autonomous AI agents, agentic collaboration, contextual intelligence, or governance frameworks that are core to Agentic Software Delivery. The focus remains on human-driven, test-first practices without systemic or agentic design elements. The audience, intent, and depth revolve around established engineering methodologies, not on outcome-driven delivery via embedded agentic intelligence.",
+    "reasoning_summary": "Content focuses on TDD and agility, lacking any discussion of autonomous AI agents or agentic delivery concepts. Only minor thematic overlap exists with modern practice, making the fit with Agentic Software Delivery category very weak.",
     "level": "Ignored"
   }
 }

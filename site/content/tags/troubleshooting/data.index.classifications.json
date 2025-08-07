@@ -108,17 +108,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Troubleshooting",
     "category": "Capability",
-    "calculated_at": "2025-04-10T13:19:55",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses troubleshooting as a systematic approach to identifying and resolving issues, which aligns with the concept of capabilities in enhancing organisational performance and business agility. It highlights the importance of troubleshooting in maintaining functionality and optimising processes, which are key aspects of capability development. The discussion on fostering a culture of continuous improvement and collaboration further supports the alignment with the category. However, while it touches on capability-related themes, it primarily focuses on troubleshooting as a practice rather than a broader capability framework, which slightly limits its depth in the context of enduring competencies.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is relevant to the category as it explores troubleshooting as a method for improving organisational performance and agility. It emphasises continuous improvement and collaboration, both important for capability development. However, its main focus is on troubleshooting practices rather than a comprehensive capability framework, so its alignment with the category is present but somewhat limited in scope."
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 70.4,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.1,
+    "ai_depth": 6.5,
+    "ai_intent": 7.3,
+    "ai_audience": 7.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 70.0,
+    "reasoning": "The content positions troubleshooting as an enduring, systemic enabler for sustainable delivery and continuous improvement, acknowledging its role in reliability and collaboration—core aspects of capability. However, it sometimes blurs the line between a repeatable technique and a cross-cutting capability, lacking explicit, deep exploration of capability concepts. Few direct mentions of 'capability' itself, but strong alignment in intent and themes, and appropriate targeting of teams and organisations implementing agile/DevOps. The material is focused, though depth is moderate and some connections to capability are more implied than explicit.",
+    "reasoning_summary": "The content treats troubleshooting as a cultural and systemic competency, supporting capability themes in agility and improvement. Fit is moderate—concepts align, but not fully or explicitly focused on 'capability.' Lacks deep, direct discussion.",
+    "level": "Secondary"
   },
   "Model": {
     "category": "Model",
@@ -3119,6 +3125,25 @@
     "final_score": 12.0,
     "reasoning": "The content discusses troubleshooting, team collaboration, and continuous improvement within agile and DevOps contexts. However, there are no explicit or implicit references to human-AI collaboration, distributed cognition, or the emergence of collective intelligence through human-AI partnerships. The focus remains on general team practices, learning from failure, and process improvement among humans. No mention or exploration of AI agents as team members is present, making alignment with 'Collective Intelligence' extremely minimal.",
     "reasoning_summary": "The content focuses on team-based troubleshooting and process improvement but does not address human-AI collaboration or collective intelligence concepts, resulting in extremely low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Troubleshooting",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 24.04,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.4,
+    "ai_intent": 2.6,
+    "ai_audience": 3.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on troubleshooting in software delivery, focusing on issue identification, resolution, continuous improvement, and agile principles. However, it never mentions agentic concepts, AI agents, or the integration of proactive context-aware intelligence. The discussion remains at a general process/practices level, relevant broadly to DevOps and Agile but not to agentic strategies or agent-augmented delivery. The audience may overlap with those interested in agentic software delivery, but the substance fails to cover the core category topics.",
+    "reasoning_summary": "Content discusses troubleshooting in software delivery, not agentic principles. Lacks mentions of autonomous agents, AI, or embedded intelligence. The fit is tangential and does not align with 'Agentic Software Delivery' as defined.",
     "level": "Ignored"
   }
 }

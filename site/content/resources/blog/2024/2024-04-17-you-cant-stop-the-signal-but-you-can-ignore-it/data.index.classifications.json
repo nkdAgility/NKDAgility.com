@@ -531,15 +531,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "KHNSdDjr5K_",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:00:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and cultural challenges rather than the principles of Test First Development. While it touches on the importance of responding to signals and continuous improvement, it does not explicitly mention Test First practices, success criteria, or the role of testing in the development process. Therefore, the confidence score reflects a low alignment with the Test First Development category.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 24.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 2.4,
+    "ai_audience": 8.2,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on organizational responses to signals for improvement in Agile and Scrum, culture, and empowerment, with a strong analogy to Toyota's andon chain. However, it does not directly mention or substantively discuss Test First Development, its principles, or its practices (manual or automated). There are only vague allusions to 'signals' and 'quality', but no discussion of defining success criteria before implementation or the central role of test-first as a design/collaboration practice. The intent and alignment are low since the themes are more about culture and change management than Test First methodologies. The audience, however, is similar, as it targets technical leaders in Agile/Scrum environments, which keeps audience and signal scores higher.",
+    "reasoning_summary": "Content is about cultural factors in Agile/Scrum teams responding (or not) to quality signals, not Test First Development. The intent and substance are not aligned; the topic is tangential at best. Fit is weak and mostly coincidental.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2027,5 +2034,24 @@
     "reasoning": "The content investigates why teams ignore process signals in Agile/Scrum environments, drawing deep analogies to Toyota's andon system and emphasizing the need for empowering cultures that value feedback and transparency. It addresses systemic barriers to agency (like fear and culture), focusing on the need for environments that enable swift and decisive action. However, it stops short of explicitly referencing 'Agentic Engineering' or its specialized frameworks (e.g., AI/human co-agency, automation, or AI-augmented decision-making), sticking mainly to human agency and cultural change rather than broader engineering constructs. Thus, while it strongly aligns with certain tenets—particularly developer agency, feedback-driven adaptation, and cultural prerequisites for agency—it lacks direct mention and comprehensive coverage of agentic engineering's technical and philosophical breadth. The discussion is thoughtfully targeted at practitioners interested in cultural, process, and team agency, but narrower than the full category definition.",
     "reasoning_summary": "The content resonates with Agentic Engineering by examining cultural and systemic barriers to agency and feedback in Agile teams. It emphasizes developer agency, transparency, and continuous improvement but doesn't explicitly cover technical or AI aspects of agentic engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KHNSdDjr5K_",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 21.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.9,
+    "ai_intent": 3.0,
+    "ai_audience": 6.7,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on cultural and psychological barriers to acting upon signals within Agile and Scrum practices, using the andon chain as an analogy. It does not discuss agentic software delivery principles such as integration of autonomous AI agents, contextual AI intelligence, human-AI synergy, or modern engineering practices for agentic delivery. No mention of AI agents, their governance, or agentic paradigms is present—discussion is limited to human/cultural aspects of traditional Agile. While the audience overlaps (practitioners in software delivery), alignment, mentions, and depth regarding agentic approaches are minimal. No outdated or contradictory framing is detected.",
+    "reasoning_summary": "The content discusses organizational culture around Agile and Scrum signals, not agentic delivery or AI agents. Concepts and intent partially overlap with the audience, but do not address agentic software delivery themes. Fit is poor and indirect.",
+    "level": "Ignored"
   }
 }

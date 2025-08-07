@@ -240,16 +240,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "QpK99s9uheM",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:54:08",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content briefly touches on the role of project managers in an agile context, which relates to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed insights into the product delivery process. The focus is more on the challenges of integrating agility into project management rather than on the end-to-end delivery of software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:25",
+    "ai_confidence": 69.6,
+    "ai_mentions": 2.9,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.5,
+    "ai_intent": 6.1,
+    "ai_audience": 8.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 70.0,
+    "reasoning": "The content focuses on shifting project managers' mindsets towards agile ways of working, emphasizing values like collaboration, team empowerment, and adaptability. It discusses iterative processes, the Scrum Master role, and transitioning to agile mindsets. However, it remains more about leadership transformation than detailing the end-to-end practices, testing, deployment, or integration processes central to Product Delivery. It references practices like stand-ups and outcomes over outputs but does not cover CI/CD, release management, or delivery-specific metrics. Thus, it aligns conceptually (agile in delivery context), but is less deep on core product delivery execution.",
+    "reasoning_summary": "The content partially fits Product Delivery by addressing agile mindsets and team collaboration. However, it focuses more on leadership transformation than on specific delivery practices or methodologies, leading to moderate confidence.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1961,5 +1968,24 @@
     "reasoning": "The content strongly discusses transitioning project managers from control to collaborative, empowered, and outcome-driven approaches—central to agency in engineering. It emphasizes decentralised decision making, continuous learning, and team empowerment, aligning well with agentic aspects. However, it focuses more on human agency and agile mindsets than system-level design, AI, or deep engineering practices central to Agentic Engineering as defined. There is minimal to no direct mention of Agentic Engineering terminology, DevOps, or explicit integration with AI/autonomy. The discussion, while robust about human agency, does not substantially address systemic observability, feedback-driven adaptation mechanisms, or ethical AI. The audience—project managers—are tangentially aligned, and the discussion is consistently relevant, so signal-to-noise is high. No penalties for outdatedness or tone.",
     "reasoning_summary": "The content aligns well with Agentic Engineering regarding human agency, collaboration, and mindset shifts but lacks direct mention of the category, deeper system/AI aspects, or core engineering practice discussions. Its main focus is on team empowerment in agile contexts.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QpK99s9uheM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 16.86,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.4,
+    "ai_audience": 6.1,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content centers on the mindset shift for project managers adopting agile practices. There is strong emphasis on collaboration, empowerment, and outcome-orientation, which has distant thematic overlaps with Agentic Software Delivery's focus on autonomy and context. However, there is no mention of autonomous AI agents, contextual AI integration, or specific agentic software delivery strategies. The depth of discussion is squarely focused on human mindset rather than systems, agents, or AI-powered delivery models. The intent is informative for project managers transitioning to agile, but does not address the audience, intent, or technical requirements of Agentic Software Delivery. Thus, confidence is very low, with only tangential conceptual and audience linkage.",
+    "reasoning_summary": "Focuses on agile mindset for project managers, not Agentic Software Delivery. Lacks discussion of AI agents, autonomy, or agentic contexts; fit is highly tangential.",
+    "level": "Ignored"
   }
 }

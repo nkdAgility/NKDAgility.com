@@ -1,16 +1,22 @@
 {
   "Principle": {
+    "resourceId": "U-6FN9nj1fM",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:45:25",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 30,
-    "final_score": 87.0,
-    "reasoning": "The content explicitly discusses principles of self-organisation, collaboration, and adaptability, which are core to Agile methodologies. It highlights how Open Space Agile fosters an environment that encourages teams to define their own priorities and actions, aligning closely with the principles of self-management and continuous improvement. The depth of discussion is significant, as it elaborates on the implications of these principles in practice, making it a primary focus rather than a secondary mention.",
-    "level": "Primary",
-    "reasoning_summary": "This content is a strong fit for the Agile category, as it delves into key Agile values like self-organisation, teamwork, and adaptability. By focusing on how Open Space Agile empowers teams to set their own goals and improve continuously, the discussion goes beyond a passing reference and thoroughly explores Agile principles in action."
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 93.2,
+    "ai_mentions": 8.3,
+    "ai_alignment": 9.4,
+    "ai_depth": 9.2,
+    "ai_intent": 9.0,
+    "ai_audience": 8.7,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 93.0,
+    "reasoning": "The content repeatedly references 'principles' (explicitly naming them in relation to Open Space Technology) and deeply explores how these guide action in Agile transformation. Themes such as self-organisation, adaptability, continuous improvement, value delivery, psychological safety, and collaborative decision-making are directly and thoroughly tied to the definition of principles as actionable guiding rules. The intent of the content is highly aligned: it's designed to inform practitioners and transformation leaders about applying guiding Agile principles via Open Space. Discussion is focused, nuanced, and relevant, with very little off-topic content. Audience targeting aligns well: practitioners, leaders, and strategists in agile transformation. There are no signs of outdatedness or contradiction. No penalties were warranted.",
+    "reasoning_summary": "Content thoroughly discusses actionable principles (self-organisation, adaptability, value delivery) guiding Agile change. Alignment with the 'Principle' category is strong and explicit, with high topical focus and relevant audience. Fit is clear and substantial.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3142,6 +3148,25 @@
     "final_score": 33.0,
     "reasoning": "The content describes Open Space Agile, focusing on human collaboration, self-organisation, and adaptive change within organisations through open dialogue and shared ownership. There is no mention of AI agents, human-AI teaming, or technology-mediated collective intelligence. While the content aligns well with themes of distributed human cognition and collaborative practices, it fails to engage with the essential element of the category—enhanced outcomes from human-AI collaboration. Thus, both direct mentions and conceptual fit are low, as it’s purely about human-driven collective practices. Audience and signal remain higher because it’s targeted at Agile/organizational practitioners with clear relevance, but not in the required human-AI context.",
     "reasoning_summary": "The content focuses exclusively on human-centered collaboration and self-organization in Agile transformation, without any reference to AI or human-AI team dynamics. While relevant to organisational agility, it does not fit the Collective Intelligence category as defined here.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "U-6FN9nj1fM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 23.53,
+    "ai_mentions": 0.35,
+    "ai_alignment": 2.21,
+    "ai_depth": 2.65,
+    "ai_intent": 2.13,
+    "ai_audience": 7.19,
+    "ai_signal": 4.64,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content describes 'Open Space Agile,' an organisational transformation approach rooted in self-organisation, emergent practices, and collective decision-making. While this aligns with Agile and complexity thinking, there are no direct or indirect references to agentic software delivery concepts: no mention of autonomous AI agents, contextual intelligence, human-agent synergy, CI/CD or modern agentic engineering, or agent governance. The focus is on human-centric, participatory transformation rather than embedding proactive AI or context-aware agency within software delivery systems. The audience is somewhat technical and transformation-oriented, explaining the relatively higher score there, but the depth, alignment, and relevance for 'Agentic Software Delivery' remain very limited.",
+    "reasoning_summary": "This content addresses participatory Agile transformation, not agentic software delivery. It lacks references to AI agents, contextual intelligence, or autonomous delivery. Fit with the category is poor and indirect.",
     "level": "Ignored"
   }
 }

@@ -1434,16 +1434,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "W3H9z28g9R8",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:29:57",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses issues related to organisational structure and decision-making that can impact agile practices, but it does not explicitly mention Scrum roles, events, or artifacts. While it touches on themes relevant to agile principles, such as empowerment and team dynamics, it lacks a focused discussion on Scrum itself, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 58.22,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.8,
+    "ai_depth": 5.6,
+    "ai_intent": 6.7,
+    "ai_audience": 7.5,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content addresses resource scarcity and its impact on Agile teams, drawing on themes of empowerment, continuous improvement, trust, and value delivery, which conceptually overlap with Scrum principles. However, Scrum is mentioned just once (as one 'Agile' subtopic among several), and the discussion remains general to Agile at large rather than centering on Scrum-specific roles, artifacts, or events. There is no explicit exploration of Scrum framework details. The target audience aligns with Scrum practitioners, but the core content could apply to Kanban or other Agile methods. No penalties were applied, as the content is current and constructive.",
+    "reasoning_summary": "Content focuses on resource constraints in Agile teams, with only a single, broad Scrum mention. It conceptually overlaps with Scrum values but lacks explicit framework discussion. Fit is partial; primary focus is Agile more generally, not Scrum specifically.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -2008,5 +2015,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering,' scoring low on direct mentions. However, it shows strong conceptual alignment: the bulk of the article supports autonomy, decision decentralization, empowerment, and transparency in organizational practices—key Agentic Engineering ideals. Deep examples, such as granting training budgets and shifting authority, reflect high relevance to maximizing human agency, though AI agency and DevOps-craft are not emphasized. The piece is mainly targeted at Agile practitioners and leaders, slightly broadening the category audience, but maintains a clear focus and minimal off-topic content. No penalties were necessary as the content is current and affirmatively aligned with agentic principles.",
     "reasoning_summary": "While the article never directly references 'Agentic Engineering,' it embodies key aspects through discussions on empowerment, decentralization, and trust in Agile organizations. Its alignment with agentic principles is strong, though depth regarding AI or DevOps-craft is limited. The focus remains relevant to audiences interested in agency in engineering.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "W3H9z28g9R8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 16.274,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.3,
+    "ai_audience": 4.8,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on organizational resource scarcity and empowerment within Agile teams but does not mention or discuss autonomous AI agents, contextual intelligence, or agentic integration. There is strong alignment with improvement and empowerment themes, but nothing regarding agentic software delivery or agent-enabled systems. The intent is to improve Agile environments, targeting practitioners and leaders interested in agility, but falls outside the topic scope defined for Agentic Software Delivery. Content signal is focused on its central theme but remains general Agile advice.",
+    "reasoning_summary": "This content addresses Agile empowerment and resource issues, not agentic software delivery. It doesn't cover autonomous AI agents or systemic intelligence, so only weakly fits the assigned category.",
+    "level": "Ignored"
   }
 }

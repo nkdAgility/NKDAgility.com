@@ -1488,15 +1488,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "qRHzl4PieKA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:29:33",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and team empowerment rather than the One Engineering System framework. While it touches on aspects of collaboration and adapting processes, it does not explicitly discuss the principles, components, or implementation of 1ES. The discussion is more aligned with Agile methodologies and personal experiences rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 31.752,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content is an Agile-focused discussion about empowering teams, regular backlog updates, and user feedback adaptation. It does not mention 1ES or discuss standardisation, tool/process integration, or unified frameworks core to One Engineering System. The alignment is minimal and only partial at best; similarities exist where team collaboration and process improvement are discussed but without referencing or operating in a system-wide, unified context as required for 1ES classification.",
+    "reasoning_summary": "Content is Agile-centric with focus on team empowerment, backlog updates, and user feedback. No mention or in-depth discussion of One Engineering System, unified tools, or standardised engineering processes. Fit is minimal and only tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2005,5 +2012,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering' or its terminology, resulting in a low direct mentions score. However, it strongly aligns with agentic concepts: it focuses on empowering teams, decentralizing decision-making, regular adaptation based on feedback, and maximizing value delivery—themes central to Agentic Engineering. The discussion has substantive depth on team empowerment and adaptive engineering practices, though it does not directly engage with human-AI agency or DevOps-infused craft. The content’s primary intent is educational and motivational for Scrum roles, closely matching Agentic Engineering’s intended audience (technical practitioners, team leads). The signal-to-noise ratio is high, staying focused on empowerment and adaptation, though it lacks explicit inclusions on ethical AI collaboration or observability. No penalties were applied as the content is current and supportive.",
     "reasoning_summary": "This content closely aligns with Agentic Engineering through its discussion of team empowerment, adaptive requirements, and value-driven practices. Although it lacks explicit references to the category and some specific topics (like AI agency), its focus and audience fit make it broadly relevant to Agentic Engineering.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qRHzl4PieKA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 10.335,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.5,
+    "ai_intent": 1.1,
+    "ai_audience": 2.9,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on empowerment of agile teams to change requirements in response to feedback, emphasizing backlog dynamics, stakeholder/team collaboration, and Scrum Master practices. There is no explicit discussion of agentic Software Delivery: no mention of autonomous AI agents, multi-agent systems, human-in-the-loop frameworks, or architectural or operational integration of AI with teams. The article remains in the domain of traditional Agile/Scrum practice, targeting Scrum teams and leaders, and does not introduce or imply agentic delivery principles, technical underpinnings (CI/CD, observability, telemetry analysis), or governance related to agents. All scores are therefore low, with minor positive points in alignment, depth, intent, audience, and signal simply because the topic (team empowerment, feedback loops) is adjacent to themes covered in Agentic Software Delivery, but none are explored in an agentic context.",
+    "reasoning_summary": "Content is focused on traditional Agile/Scrum practices (empowered teams, backlog updates) without discussing autonomous AI agents, agency, or agentic systems. It does not fit the Agentic Software Delivery category; overlap is minimal.",
+    "level": "Ignored"
   }
 }

@@ -22,15 +22,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "82_yTGt9pLM",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:30:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile Consulting, discussing methodologies and strategies for organisational improvement rather than the core principles of DevOps. While it briefly mentions DevOps in the conclusion, it does not delve into DevOps-specific practices or cultural shifts. The discussion aligns somewhat with the importance of collaboration and continuous learning, but lacks depth in DevOps concepts such as automation, shared accountability, or feedback loops.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 23.14,
+    "ai_mentions": 1.8,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 2.6,
+    "ai_audience": 6.3,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses almost entirely on Agile consulting principles, strategies, and organisational change, with only a very brief invitation to discuss DevOps (as well as Agile and Scrum) in the closing sentence. There is no substantive discussion of DevOps philosophy, principles, or practices, nor are key elements such as automation, collaboration between Dev and Ops, or cultural shifts for continuous delivery explored. The primary audience (organisational leaders, teams, and consultants) somewhat overlaps the typical DevOps audience, but the content's intent, depth, and alignment almost exclusively target Agile, not DevOps. The one DevOps reference is generic and non-informative.",
+    "reasoning_summary": "Minimal DevOps fit: content centers on Agile consulting, with only a passing, nonspecific mention of DevOps. No elaboration on DevOps principles, practices, or culture. Not aligned with the core DevOps category intent or depth.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1985,6 +1992,25 @@
     "final_score": 35.0,
     "reasoning": "The content never directly mentions Agentic Engineering or core topics such as human/AI agency, ethical AI, or decentralised decision-making. It is centered on Agile consulting, focusing on collaboration, feedback, and empowerment. While some discussion of empowerment and continuous learning is tangentially related to agency, it doesn't delve into the deliberate design of engineering practices or the philosophical aspects foundational to Agentic Engineering. There is no substantial treatment of observability, autonomy, DevOps-infused craft, or ethical AI collaboration. The audience does overlap with that of Agentic Engineering (tech, leadership), and there is minor conceptual relevance in fostering team empowerment, but depth and alignment remain weak overall.",
     "reasoning_summary": "This content discusses Agile consulting and empowerment but does not explicitly or thoroughly explore Agentic Engineering, its practices, or its philosophical underpinnings. Overall relevance to Agentic Engineering is low, with only tangential overlaps in autonomy and feedback.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "82_yTGt9pLM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 18.84,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.55,
+    "ai_intent": 2.6,
+    "ai_audience": 5.45,
+    "ai_signal": 5.62,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on Agile consulting, continuous learning, organisational change, and collaboration, but makes no explicit mention of agentic software delivery or autonomous AI agents. Main themes include coaching, mindset, and diverse Agile strategies, not integration of AI agents or contextual intelligence. The audience is partially aligned (practitioners/leadership overlap), but the depth, alignment, and intent scores are low since nothing directly fits the agentic delivery definition. No penalties apply as the tone is current and not critical.",
+    "reasoning_summary": "Content focuses on Agile consulting, change, and collaboration without reference to agentic software delivery or AI agents. No mention or exploration of autonomous agents, context-aware intelligence, or agentic principles. Only minor partial alignment in delivery context.",
     "level": "Ignored"
   }
 }

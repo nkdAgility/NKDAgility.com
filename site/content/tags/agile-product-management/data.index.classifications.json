@@ -109,16 +109,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Agile Product Management",
     "category": "Capability",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Agile Product Management, which aligns with the concept of capabilities in terms of delivering value and fostering organisational agility. However, it primarily focuses on product management practices rather than the enduring competencies that empower teams. While it mentions aspects of collaboration and continuous delivery, it lacks a deep exploration of how these practices contribute to systemic capabilities within the organisation.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 87.6,
+    "ai_mentions": 4.8,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.7,
+    "ai_intent": 9.2,
+    "ai_audience": 8.8,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 88.0,
+    "reasoning": "The content deeply explores Agile Product Management as a systemic and enduring practice that fosters adaptability and continuous value delivery—hallmarks of capability in Agile contexts. It highlights the cultural and process elements, links to organisational performance, and positions Agile Product Management as a foundational enabler, not just a transient technique. While there are only indirect mentions of 'capability,' the depth, alignment, and comprehensive discussion of sustainability, collaboration, and continuous improvement strongly map to the category definition. The intent is clearly to inform strategists and practitioners about embedding lasting competencies. Minor deduction in 'mentions' since 'capability' isn't explicitly stated, but all other criteria are strongly fulfilled.",
+    "reasoning_summary": "The content aligns closely with the Capability category, focusing on long-term, systemic Agile practices that support sustainable value delivery and adaptability. Fit is very strong, though explicit use of the term 'capability' is limited.",
+    "level": "Primary"
   },
   "Model": {
     "category": "Model",
@@ -3148,6 +3155,25 @@
     "final_score": 11.0,
     "reasoning": "The content discusses Agile Product Management's value delivery, collaboration, and team empowerment without mentioning or implying Collective Intelligence as defined—no discussion of human-AI partnerships, distributed cognition, or human-AI teaming. References to 'collaboration' refer solely to human cross-functional teams, not AI agents contributing as team members. No technical, cultural, or ethical considerations about human-AI collaboration are explored.",
     "reasoning_summary": "This content is unrelated to Collective Intelligence; it focuses exclusively on human-centered Agile Product Management, with no discussion of human-AI collaboration or emergent collective capabilities as required by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Product Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 17.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content describes Agile Product Management broadly, focusing on aligning strategy, customer needs, and continuous delivery. There are no explicit or implicit mentions of agentic delivery, autonomous AI agents, contextual intelligence, or related engineering practices. The intent is broader product management rather than agentic software delivery, and the topic alignment is weak. Signal is reasonable (low filler), and the audience overlaps with technical and managerial roles, but key agentic concepts are missing.",
+    "reasoning_summary": "Content centers on Agile Product Management, not Agentic Software Delivery. Lacks discussion of AI agents, agentic methods, or architectural integration. Fit is minimal; only tangential alignment with delivery modernization concepts.",
     "level": "Ignored"
   }
 }

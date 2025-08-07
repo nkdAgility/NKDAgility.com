@@ -147,15 +147,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how Continuous Integration (CI) supports Agile and Lean principles like collaboration, continuous improvement, and value delivery. While it doesn’t explicitly label these as principles, the discussion clearly connects CI practices to actionable team behaviours and benefits, making it highly relevant."
   },
   "Artifact": {
+    "resourceId": "Continuous Integration",
     "category": "Artifact",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Continuous Integration (CI) as a software development practice, discussing its benefits and processes rather than exploring artifacts as formal representations of work. While it touches on collaboration and improvement, it does not explicitly mention or delve into specific artifacts related to Agile, Scrum, or Lean methodologies.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 11.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses Continuous Integration as a practice and process, emphasizing collaboration, automation, and quality, but does not mention or focus on artifacts as formal representations of work. There is no exploration of structure, purpose, or types of Agile/Scrum artifacts. The fit is minimal, as CI is an enabling practice rather than an artifact itself. No penalties were needed as the content is not outdated or critical, just misaligned.",
+    "reasoning_summary": "Content centers on the practice of Continuous Integration, not on artifacts or their structure and role. Mentions, alignment, and depth are minimal and do not fit the category definition. No evidence of artifact-focused discussion.",
     "level": "Ignored"
   },
   "Discipline": {
@@ -3120,6 +3127,25 @@
     "final_score": 15.0,
     "reasoning": "The content focuses exclusively on Continuous Integration as a software engineering practice. Although it discusses human collaboration and automation, it does not address AI participation, human-AI team dynamics, or any notion of humans and AI collaborating as team members—a central requirement for the Collective Intelligence category. The audience overlaps somewhat (tech practitioners), but the main ideas, terminology, and examples remain outside the intended scope. No penalties were applied—there is no evidence of obsolescence or contradiction.",
     "reasoning_summary": "This content centers on developer collaboration via CI practices but lacks any discussion of human-AI team dynamics, which is essential for Collective Intelligence. The focus remains purely on human teamwork and automation, not on human-AI collaboration or emergent joint capabilities.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Continuous Integration",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 22.2,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.2,
+    "ai_intent": 3.1,
+    "ai_audience": 6.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content discusses Continuous Integration (CI) as an engineering practice for improving software delivery: frequent code integration, automated testing, and rapid feedback. It aligns with one enabler (modern practices) for Agentic Software Delivery but does not mention or imply integration of autonomous AI agents, human-AI synergy, contextual intelligence, or agency themes. The main intent is educational about CI itself—audience is technical and content is focused, but no agency or agentic principles are described or alluded to.",
+    "reasoning_summary": "This content explains CI, aligning it only partially with Agentic Software Delivery (as a supporting practice), but lacks discussion of AI agents, agency, or agentic principles. Fit is peripheral and conceptual alignment is weak.",
     "level": "Ignored"
   }
 }

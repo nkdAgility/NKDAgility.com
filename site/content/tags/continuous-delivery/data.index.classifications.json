@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Continuous Delivery",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Continuous Delivery as a practice rather than discussing frameworks related to Agile, DevOps, or Lean methodologies. While it touches on principles of rapid feedback and iteration, it does not explicitly mention any frameworks or provide a structured methodology that aligns with the Framework category. The discussion lacks depth in terms of comparing frameworks or providing implementation strategies, which are key aspects of the Framework category.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 21.45,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses exclusively on Continuous Delivery as a software delivery practice—not as a framework or a comparison of frameworks. While there are overlaps between practices and frameworks in Agile/DevOps, the text neither discusses structured methodologies, guidelines, or rules (as in frameworks), nor compares or adapts frameworks. It describes the process, benefits, and impact of Continuous Delivery but does not frame it within or as a framework itself. No penalties applied as it is current and neutral in tone.",
+    "reasoning_summary": "Content is centered on Continuous Delivery as a practice, not as a framework or methodology. It does not fit the 'Framework' category except in very loose conceptual overlap; fit is low and mostly incidental.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3116,6 +3123,25 @@
     "final_score": 12.0,
     "reasoning": "The content focuses solely on the practice of Continuous Delivery in software engineering, primarily discussing automation, faster feedback, and frequent deployment. There are no explicit or implicit references to human-AI collaboration, the role of agency, or other essential dimensions of Collective Intelligence. The main audience is technical practitioners, which slightly aligns with the category’s typical audience, but the absence of any mention of AI collaboration, teamwork with AI agents, or socio-technical partnering means that conceptual alignment, depth, and direct mention scores are very low. No penalties are warranted, as the tone is neutral and the practices described are not outdated.",
     "reasoning_summary": "This content describes Continuous Delivery practices but does not discuss or relate to human-AI collaboration or Collective Intelligence in any explicit or conceptual way, resulting in a very low confidence score for category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Continuous Delivery",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 27.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content thoroughly covers Continuous Delivery as a practice in modern software engineering, emphasizing automation, rapid feedback, and incremental improvement. However, it does not explicitly mention or discuss agentic principles, autonomy of AI agents, integration with human expertise, or contextual intelligence. The text is aligned with modern engineering approaches foundational to agentic delivery but lacks discussion of agency, agent roles, governance frameworks, or human-in-the-loop design, all key to the evaluated category. The intended audience (engineering practitioners and leaders) aligns somewhat with Agentic Software Delivery, but the primary topic remains distinct.",
+    "reasoning_summary": "The content focuses on Continuous Delivery and its benefits but does not address agentic principles, autonomous agents, or integration with human expertise. Only tangential alignment with Agentic Software Delivery exists; fit is low and primarily foundational.",
     "level": "Ignored"
   }
 }

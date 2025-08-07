@@ -193,15 +193,22 @@
     "level": "Secondary"
   },
   "Remote Working": {
+    "resourceId": "5bgcpPqcGlw",
     "category": "Remote Working",
-    "calculated_at": "2025-03-15T03:08:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on site reliability engineering and practices within Azure DevOps, with no direct mention of remote working or Agile practices specific to remote teams. While it discusses team dynamics and cross-functional collaboration, it does not address the unique challenges or solutions associated with remote work in an Agile context.",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.2,
+    "ai_audience": 1.4,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are no explicit or implicit discussions of remote working. The piece focuses on site reliability, DevOps, automation, and team culture, but not on the remote/distributed aspects or challenges of Agile team collaboration. No best practices, tools, or strategies related to remote work are discussed. The audience and purpose align more with technical reliability/DevOps practitioners than specifically remote Agile teams. The fit is minimal and almost entirely off-category.",
+    "reasoning_summary": "Content does not discuss remote working. Focuses on site reliability, DevOps practices, and team culture, but not on distributed work, remote collaboration, or Agile remote team practices. Minimal/no fit with 'Remote Working' category.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1994,5 +2001,24 @@
     "reasoning": "The content thoroughly addresses modern engineering practices such as automation, continuous improvement, transparency, telemetry, and cross-functional teams—core aspects of agentic software development. It aligns strongly with Agentic Engineering's systemic observability, feedback-driven adaptation, and DevOps-infused craft, and targets practitioner audiences interested in maximising agency and autonomy. However, it does not explicitly mention 'agency' or 'Agentic Engineering', nor does it directly discuss AI as a collaborator, which slightly limits its scoring on direct mentions and full conceptual match. The content remains highly relevant and dense, with minimal off-topic material.",
     "reasoning_summary": "This article closely aligns with Agentic Engineering by emphasizing autonomy, automation, transparency, and adaptive team practices—focusing on systemic feedback and continuous improvement. While it doesn’t explicitly use the category name or discuss AI agency, its main themes are substantially relevant.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 31.86,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.7,
+    "ai_depth": 4.2,
+    "ai_intent": 4.3,
+    "ai_audience": 6.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "Direct mentions of agentic concepts, autonomous AI agents, or agency in delivery are absent. The article focuses on SRE, automation, telemetry, transparency, and cross-functional teams within the context of Azure DevOps. While there is an emphasis on modern engineering practices and continuous improvement (which slightly aligns with the evolutionary aspect of Agentic Software Delivery), no substantial discussion is present around embedding contextual, autonomous, or proactive AI agents, nor about synergy between AI and humans, agency boundaries, or agentic governance frameworks. The audience is technical/practitioner, which partially aligns, and the signal-to-noise ratio is decent as most of the content is topical, but it does not directly advance the agentic software delivery agenda. The article fits mostly under high-maturity DevOps/SRE/change management practices and only weakly aligns with the Agentic Software Delivery category.",
+    "reasoning_summary": "Content discusses advanced SRE, DevOps, and team practices but does not address integration of autonomous AI agents or agentic concepts. Only partial, incidental overlap with Agentic Software Delivery—fit is weak and indirect.",
+    "level": "Ignored"
   }
 }

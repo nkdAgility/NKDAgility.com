@@ -1385,16 +1385,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "CucU7DN-fJ7",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on integrating Kanban with Scrum, which is more about technical practices than the underlying social frameworks that promote collaboration and decision-making. While it mentions aspects of team dynamics and workflow optimisation, it lacks a thorough exploration of self-organisation, collective intelligence, or transparency in a broader organisational context. The discussion is more about methodologies and tools rather than the social technologies that empower teams and organisations.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 91.13,
+    "ai_mentions": 7.7,
+    "ai_alignment": 9.2,
+    "ai_depth": 9.5,
+    "ai_intent": 9.0,
+    "ai_audience": 8.6,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 91.0,
+    "reasoning": "The content explicitly discusses integrating Kanban into Scrum (a recognized social technology), with thorough explanations on methodology, workflow visualization, transparency, limiting work-in-progress, team adaptation, and measurement; all are core to 'Social Technologies.' The intent is informative, targeting Agile practitioners and teams seeking better collaboration and value delivery. Substantial details (e.g., extending Scrum with Kanban, focusing on flow, capacity metrics) reinforce deep, relevant exploration. The audience fit is strong, although some minor tangential elements exist (mentions of training logistics). There are no outdated or contradictory views present, no penalties applied.",
+    "reasoning_summary": "The content strongly matches 'Social Technologies,' exploring how integrating Kanban into Scrum enhances team collaboration, transparency, and value delivery, with thorough conceptual alignment and depth. Focus and intent are closely aligned to the category.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1995,6 +2002,25 @@
     "final_score": 34.0,
     "reasoning": "The content discusses integrating Kanban into Scrum, focusing on workflow improvements, transparency, and delivery. It explores metrics (WIP, Cycle Time, Throughput) and inspect/adapt cycles—concepts with some overlap to systemic observability and feedback-driven adaptation. However, there is no direct discussion of autonomy, agency (human or AI), ethical frameworks, or decision decentralization. The main purpose is to inform about a certification course and its practices—with no explicit philosophical angle and no mention of agency maximization or AI collaboration. The target audience (Scrum/Kanban practitioners) is tangentially relevant, but the discussion never directly addresses the intent or meaning of 'Agentic Engineering'. Signal-to-noise is fair, with most content centered on the practicalities of the training. Thus, alignment is partial and weak, depth is surface-level for Agentic Engineering, while audience and intent scores are moderate due to some indirect relevance.",
     "reasoning_summary": "This content explains integrating Kanban into Scrum for better workflow and delivery but does not address agency, autonomy, or AI as collaborators. It focuses on practical methods and training rather than the deliberate engineering of human or system agency central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CucU7DN-fJ7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 7.19,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.5,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses integrating Kanban with Scrum to improve delivery, focusing on practices such as workflow visualisation, WIP limits, and flow metrics. However, it does not discuss autonomous AI agents, context-aware intelligence, synergies between human experts and agents, or any proactive/agentic systems in software delivery. The alignment with Agentic Software Delivery is minimal and only indirectly relevant, as Kanban/Scrum are traditional process frameworks rather than agentic approaches. The audience is Scrum practitioners, not those focused on agent-driven software delivery. No penalties are required.",
+    "reasoning_summary": "This content is about Scrum teams adopting Kanban practices; it does not address agentic software delivery or autonomous agents. The connection is minimal—traditional process improvement, not proactive or intelligent agent integration.",
     "level": "Ignored"
   }
 }

@@ -300,13 +300,23 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "9TCIWaWs_mz",
     "category": "Kanban",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content focuses heavily on the integration of Kanban practices within the Scrum framework, making Kanban a significant but secondary theme alongside Scrum.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 82.75,
+    "ai_mentions": 7.8,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.1,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content directly references Kanban theory, principles, and practices, integrating them substantively into Scrum. Topics include Kanban visualisation, flow efficiency, and core Kanban metrics (Little's Law). The focus is advanced learning for an audience aligned with Kanban's intended users. However, the primary context is hybrid (Scrum with Kanban), and some portion of the content is inevitably dedicated to Scrum specifics, meaning the signal is shared, not pure Kanban. No penalties are needed since the practices referenced are current and the tone is neutral and informative.",
+    "reasoning_summary": "This content fits well due to its explicit focus on Kanban's principles, practices, and integration into Scrum. While hybrid, Kanban concepts are deeply explored and central to the purpose, supporting strong—though not pure—category alignment.",
+    "level": "Primary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -2049,6 +2059,25 @@
     "final_score": 33.0,
     "reasoning": "There are no explicit mentions of Agentic Engineering or its key terminology. Although the course describes transparency, flow, efficiency, and some empowerment concepts, it is framed as an advanced integration of Kanban within Scrum, focused on practical frameworks—not on philosophical or deliberate agency maximization. Main topics are practical, not focused on ethical AI, systemic observability, or agency as a core purpose. The audience (Scrum/Agile professionals) is adjacent to Agentic Engineering, offering moderate audience and signal scores. No penalties apply, as the course is current and earnest.",
     "reasoning_summary": "This PSK course centers on practical Kanban and Scrum integration, with little emphasis on agency or deliberate engineering of autonomy. While it aligns tangentially with Agentic Engineering's audience and minor themes, it lacks explicit or in-depth treatment of the category’s core concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9TCIWaWs_mz",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 12.44,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused solely on integrating Kanban with Scrum, emphasizing flow, transparency, and effectiveness for Scrum teams. There is no mention or substantive discussion of agentic software delivery, AI agents, or related concepts such as autonomous intelligence, human-agent synergy, or contextual frameworks with AI. The topics and intent are limited to improving Scrum by adding Kanban principles and do not overlap with agentic delivery. Scores are low across core dimensions (mentions, alignment, depth) due to the clear absence of category-relevant themes. No penalties applied, as content is neither outdated nor off-tone.",
+    "reasoning_summary": "The course covers integration of Kanban into Scrum, not agentic software delivery. It lacks discussion of AI agents or agentic principles, and does not fit the category beyond basic delivery-process improvement.",
     "level": "Ignored"
   }
 }

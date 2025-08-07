@@ -1324,15 +1324,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "ZeqWpEsyhbv",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-21T11:22:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a Kanban course and does not explicitly mention the Shift-Left Strategy or its principles. While it discusses continuous learning and practical application, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 6.0,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on Kanban principles and practices such as workflow design, flow metrics, visual boards, and continuous improvement, with no direct mention or substantive discussion of the Shift-Left Strategy, nor explicit integration of testing, security, or compliance early in the development lifecycle. Kanban does support improving delivery and process visualization, which are tangentially relevant skills for organizations adopting shift-left, but such connections are not made in the course description. The intent is purely to teach Kanban, not the Shift-Left Strategy, and the learning objectives and outcomes do not address shift-left principles, techniques, benefits, or metrics. The target audience (IT teams, project managers, agile practitioners) overlaps with typical shift-left audiences but is not sufficient for a meaningful classification. No penalties applied, as the content is not outdated or contrary.",
+    "reasoning_summary": "Content teaches Kanban processes, not Shift-Left Strategy. No direct or indirect coverage of shift-left integration in development. Only audience overlap is relevant. Does not fit the category in topic, intent, or theme.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2039,6 +2046,25 @@
     "final_score": 27.0,
     "reasoning": "The content outlines a Kanban course focused on principles of flow, workflow design, and team productivity. Nowhere does it explicitly reference Agentic Engineering, maximize human or AI agency, discuss decentralised decision-making, or address DevOps or ethical autonomy. The material is practical, tool- and process-focused, and intended for practitioners aiming to improve delivery, but lacks the philosophical and engineering framing intrinsic to Agentic Engineering. While kanban practices have some conceptual overlap—like empowering team-level improvement—the content does not delve into agency, ethical AI, or decentralised decision frameworks, providing only indirect, surface-level adjacency at best.",
     "reasoning_summary": "This Kanban course centers on practical workflow, delivery, and team collaboration skills. It does not reference or deeply align with Agentic Engineering concepts such as maximizing agency, ethical AI integration, or decentralization, making alignment minimal and confidence low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZeqWpEsyhbv",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is an overview of a Kanban certification course focused on workflow, flow metrics, and continuous improvement in software delivery. There are no explicit or implicit mentions of agentic software delivery, autonomous AI agents, contextual intelligence, or integration of AI with human expertise. The curriculum is grounded in traditional Kanban and Lean/Agile concepts with emphasis on human team practices, workflow design, and tooling—none of which are specifically agentic or AI-driven. The intent is educational, targeting improvement in team delivery using Kanban rather than explicating or enabling agentic delivery models. Minimal possible alignment exists only in the broad theme of improving software delivery, not in the specific, proactive, and context-aware sense required. The audience is similar in being technical/practitioner, but the course content has negligible conceptual overlap with agentic software delivery.",
+    "reasoning_summary": "This Kanban course does not address agentic software delivery, AI agents, or contextual intelligence. Its focus is on traditional workflow and team practices, providing only distant relevance to the evaluated category.",
     "level": "Ignored"
   }
 }

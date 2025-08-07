@@ -1402,16 +1402,23 @@
     "level": "Secondary"
   },
   "Social Technologies": {
+    "resourceId": "icX4XpolVLE",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T14:45:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the evolution of DevOps and highlights the importance of cultural and collaborative shifts, which aligns with the principles of social technologies. It mentions fostering a culture of continuous improvement and collaboration, but the primary focus is on the technical aspects of DevOps rather than a deep exploration of social frameworks. While there are relevant themes, the depth of discussion on social technologies is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 89.63,
+    "ai_mentions": 4.6,
+    "ai_alignment": 9.3,
+    "ai_depth": 9.1,
+    "ai_intent": 9.0,
+    "ai_audience": 8.7,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "There is only one semi-direct mention of 'social technologies,' but the content comprehensively covers their core themes: culture change, collaboration, feedback loops, systems thinking, continuous improvement, and the integration of people/processes/tools. These are consistently tied to DevOps, a prime example of a social technology framework, highlighting the importance of organisational learning, collective intelligence, and adaptive processes. The discussion is deep (sharing personal learning, real-world cautionary tales, and referencing industry-wide methodologies), intent is strongly aligned (empowering teams to deliver value through better social frameworks), and the audience is DevOps practitioners, managers, and transformation agents—approximating the category's target readers. The only relative deficiency is the lack of explicit, repeated use of the category keyword ('social technologies'), but all conceptual elements are otherwise robustly represented.",
+    "reasoning_summary": "The content thoroughly explores key aspects of social technologies—collaboration, continuous improvement, feedback loops, and cultural change—using DevOps as a lens. While direct mention is limited, conceptual alignment and depth are very strong.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2009,5 +2016,24 @@
     "reasoning": "The content extensively discusses the evolution of DevOps, focusing on challenges around cultural shifts, automation, learning, systems thinking, and feedback loops—directly aligned with many Agentic Engineering core topics (developer agency, systems thinking, feedback-driven adaptation, DevOps-infused craft). However, 'Agentic Engineering' is never explicitly mentioned, nor are AI agency, ethical AI integration, or decision-making frameworks for both humans and intelligent systems. The treatment of agency remains implicit, focused more on human developer autonomy and process improvement than the full breadth of deliberate engineering for human and AI agency. The discussion is moderately deep with practical examples and reflections, and the intent (practitioner guidance and empowerment) fits the category audience. Some topical drift toward general DevOps storytelling and consulting outreach reduces focus. No penalties are applied as content is neither outdated nor contradictory.",
     "reasoning_summary": "This content thoroughly explores key Agentic Engineering themes, such as developer agency, systemic thinking, automation, and feedback loops, though it lacks explicit mention of the category and omits AI autonomy. The alignment is strong but not complete, resulting in a moderately high confidence of fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "icX4XpolVLE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 39.17,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.8,
+    "ai_intent": 3.7,
+    "ai_audience": 4.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content is a reflective narrative on transitioning from traditional development to DevOps, focused on process automation, cultural change, feedback loops, and continuous improvement. While these overlap with modern software delivery and some foundational practices required for Agentic Software Delivery, there is no explicit or implicit discussion of autonomous AI agents, contextual intelligence, agent/human synergy, or agentic governance frameworks. The core substance centers on DevOps and doesn't mention or describe agentic strategies, agency, or advanced AI-powered delivery models. Concepts such as human-in-the-loop or embedded AI are absent, and the audience is mainly practitioners or managers interested in DevOps cultural transformation. Therefore, the fit is partial at best, possibly as a legacy precursor to agentic topics, but not a direct match.",
+    "reasoning_summary": "Main themes are DevOps, automation, and cultural change—no direct or indirect discussion of AI agents, contextual intelligence, or agentic delivery. Partial overlap on feedback loops, but content does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

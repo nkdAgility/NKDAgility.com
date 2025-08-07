@@ -1403,15 +1403,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "GS2If-vQ9ng",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:56:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 11.759,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.3,
+    "ai_audience": 3.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile training and consulting, which are not directly related to the One Engineering System framework. While it touches on organisational improvement, it does not address the principles, integration, or implementation of 1ES, nor does it provide any relevant case studies or comparisons. The focus is on Agile methodologies rather than the standardisation and integration of engineering processes.",
+    "reasoning": "The content discusses Agile training and consulting, focusing on their differences and benefits to organisational improvement. There are no mentions, references, or discussions of the One Engineering System (1ES), its principles, or related integration efforts. The content is mismatched in purpose and audience with the category, as it is aimed at organisations adopting Agile, not specifically at teams unifying tools and methodologies as in 1ES. Discussion is surface-level, focused only on Agile education versus consulting services.",
+    "reasoning_summary": "This content does not fit the One Engineering System category; it focuses on Agile training and consulting, with no mention or alignment to 1ES concepts, purposes, or audiences.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1912,6 +1919,25 @@
     "final_score": 8.0,
     "reasoning": "The content focuses on comparing Agile training and consulting without addressing any Agentic Engineering themes such as maximising agency, observability, DevOps, or ethical AI. There's no mention—direct or implied—of decision decentralisation, feedback-driven adaptation, or system design for human or intelligent system agency. The main audience (business or Agile practitioners) somewhat overlaps, but the purpose, depth, and conceptual relevance are minimal for this category.",
     "reasoning_summary": "This content does not discuss Agentic Engineering; it centers on differentiating Agile training and consulting, lacking themes of agency, engineering practice, or AI augmentation that define the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 6.54,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 3.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are no direct mentions or indirect references to Agentic Software Delivery or related concepts, such as AI agents, autonomy, contextual intelligence, or integration of humans and agents. The focus is exclusively on traditional Agile training and consulting—contrasting their scopes and benefits for organisations, without reference to software delivery contexts involving intelligent agents or automation. The audience may overlap somewhat (organizational leaders interested in Agile), but the specific topic and thrust of the content are not at all about agentic delivery, its practices, or concerns.",
+    "reasoning_summary": "This content focuses solely on traditional Agile training and consulting, with no mention or implication of autonomous agents, proactive intelligence, or agentic delivery. There is no conceptual or thematic fit with the assigned category.",
     "level": "Ignored"
   }
 }

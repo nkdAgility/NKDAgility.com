@@ -1395,15 +1395,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "Xc0Lh3NbXfK",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:53:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 12.17,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.9,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on the importance of preparation for effective training, it does not connect to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "reasoning": "The content focuses exclusively on the technical step-by-step setup of Microsoft Teams for live virtual training with detailed guidance on configuration, user management, and platform options. There are passing references to Professional Scrum trainers as an audience, which connects tangentially to Agile/Scrum domains, but there is no discussion or mention of shared objectives, team alignment, or the alignment of strategy and execution. No frameworks like OKRs, Sprint Goals, or strategic themes are referenced; the content does not discuss how configuration relates to organisational goals or team collaboration. The purpose is tool configuration, not alignment or Common Goals; relevance is incidental and indirect.",
+    "reasoning_summary": "Primarily a technical how-to for Microsoft Teams setup, not a discussion of Common Goals, shared objectives, or alignment. Audience overlap exists but content is unrelated to the core category definition. Fit is minimal and coincidental.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1936,6 +1943,25 @@
     "final_score": 15.0,
     "reasoning": "The content is a technical guide for configuring Microsoft Teams to support live virtual training, focusing mainly on practical steps related to Azure AD, Microsoft 365, guest access, and related IT administration. There are no explicit mentions of 'Agentic Engineering' or its concepts. The article discusses tool configuration, user access, authentication, and admin experience but does not engage with the deliberate design of engineering practices that maximize human or AI agency. No DevOps ethos, ethical AI, decision frameworks, or feedback-driven adaptation are addressed. The intended audience is technical trainers and admins, partially overlapping with Agentic Engineering's potential practitioner audience, but the thematic and conceptual depth on agency or agentic design is virtually absent.",
     "reasoning_summary": "This guide is focused on technical tool setup for Microsoft Teams and virtual training. It does not reference agentic engineering principles, practices, or philosophy, and lacks any substantive alignment with maximizing human or AI agency in engineering contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 2.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content strictly describes how to configure Microsoft Teams and its supporting infrastructure to host live virtual classes, focusing exclusively on practical steps for IT admins and trainers. It does not mention or explore agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI with human expertise. There are no references to agentic principles, feedback loops involving AI agents, or modern engineering practices relevant to agentic delivery. The audience is technical but centered on training delivery rather than software delivery using agentic methods. All details pertain to platform setup, authentication, and user management, without any discussion of agentic automation, governance, synergy between agents and humans, or outcome-focused delivery systems.",
+    "reasoning_summary": "The content is a practical guide for setting up Microsoft Teams for training, with no discussion of agentic software delivery or related AI/autonomy topics. It does not match the category’s subject matter or intent; fit is almost completely absent.",
     "level": "Ignored"
   }
 }

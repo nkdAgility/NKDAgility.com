@@ -907,13 +907,23 @@
     "level": "Ignored"
   },
   "Miscellaneous": {
+    "resourceId": "WVNiLx3QHLg",
     "category": "Miscellaneous",
-    "calculated_at": "2025-04-10T15:54:12",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses competence-based hierarchies and leadership without directly referencing specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks or principles. However, the hashtags and keywords indicate a connection to Agile topics, suggesting the category is not central enough.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 66.75,
+    "ai_mentions": 5.0,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.8,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content focuses on competence-based hierarchies, leadership, and decision-making, all explored through a personal, anecdotal perspective lacking direct reference to Agile, Scrum, DevOps, Lean, or EBM frameworks. While related hashtags and keywords include Agile, Scrum, and others, these appear as meta-tagging rather than substantive engagement with those methodologies. The discussion does not cite recognised practices, frameworks, or actionable guidance. Depth is moderate, with reflection rather than deep analysis. The purpose is to share opinion, not provide framework-aligned education. Audience is aligned generally with those interested in leadership or business agility, but not strictly technical practitioners. The signal-to-noise ratio is reasonably good, with most content staying on theme but some promotion and generalities present. No penalties were warranted; tone is positive and topical, with no outdated or satirical elements.",
+    "reasoning_summary": "Content is a general, personal view on competence-based leadership, unrelated to specific frameworks. While keywords reference Agile/Scrum, substance does not. Fits Miscellaneous as a reflective, non-framework-aligned narrative.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1942,6 +1952,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on competence-based hierarchies, advocating for deference to expertise over authority in leadership and decision-making. This aligns conceptually to some extent with Agentic Engineering, as it touches on agency and decentralised decision-making. However, it never mentions 'Agentic Engineering,' nor does it address core aspects like systemic observability, ethical AI, DevOps, or feedback mechanisms. The discussion lacks technical depth and does not reference deliberate engineering practices or frameworks. The intent is adjacent—supporting autonomy and expertise—but remains primarily a social/leadership orientation rather than a structured engineering paradigm. The audience is mostly practitioners and leaders in Agile contexts, which overlaps with the Agentic Engineering demographic, but the signal is diluted by general advocacy on leadership rather than technical methods.",
     "reasoning_summary": "While this piece supports agency through competence-based leadership, it lacks direct references or deep exploration of Agentic Engineering's core topics—such as autonomy in engineering, DevOps ethos, or AI collaboration—making its fit adjacent rather than central.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WVNiLx3QHLg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 25.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.65,
+    "ai_depth": 2.25,
+    "ai_intent": 3.25,
+    "ai_audience": 7.15,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "There are no direct mentions of agentic principles, autonomous AI, or the specialised integration of agents in software delivery. The text focuses solely on human competence-based leadership and decision-making. While some Agile/Scrum terminology and audiences overlap, there is no exploration of contextual intelligence, autonomous agent interaction, or agency concepts. The alignment is low; the approach is strictly human-centric, lacking depth on the agentic paradigm. The signal is reasonable because it's clearly about hierarchy and leadership rather than being off-topic or unfocused. No outdated content or contradictory tone was found.",
+    "reasoning_summary": "Content focuses on human competence and leadership, not on agentic software delivery or AI integration. No explicit or conceptual match to the agentic paradigm, only partial overlap with relevant audiences.",
     "level": "Ignored"
   }
 }

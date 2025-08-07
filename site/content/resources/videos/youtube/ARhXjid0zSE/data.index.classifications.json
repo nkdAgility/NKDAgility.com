@@ -1505,15 +1505,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "ARhXjid0zSE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:27:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 11.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.65,
+    "ai_depth": 2.25,
+    "ai_intent": 1.5,
+    "ai_audience": 3.25,
+    "ai_signal": 2.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and the importance of feedback and engagement within teams, which are not directly related to the One Engineering System framework. While it touches on themes of collaboration and communication, it does not discuss the principles, components, or implementation of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
+    "reasoning": "The content discusses feedback and engagement challenges in Agile teams, focusing on stakeholder and product owner involvement. There is no mention of One Engineering System, nor discussion of unified tooling, engineering process integration, or 1ES principles. While it covers themes relevant to team collaboration and process improvement, it does not align with the specifics of 1ES such as standardising or integrating engineering systems across teams. The audience is technical practitioners but the discussion centers on Agile practice, not on 1ES framework. No evidence or references to obsolete practices or critical tone are present, so no penalties are applied.",
+    "reasoning_summary": "Content focuses on feedback, engagement, and Agile team issues, not the One Engineering System framework. It lacks direct mention, conceptual overlap, or intent to discuss process integration, so fit is poor and confidence is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2018,5 +2025,24 @@
     "reasoning": "The content addresses Agile engagement and feedback loops, which are tangentially relevant to Agentic Engineering (i.e., decentralised feedback and agency). However, it does not mention or deeply explore agency, system observability, DevOps craftsmanship, AI, or ethical autonomy. The intent is improving team motivation through better stakeholder engagement, aligning partially with feedback-driven adaptation but lacking explicit agentic engineering discussion. The primary audience (Agile practitioners) overlaps, but focus is on team dynamics rather than engineering for maximising human and AI agency.",
     "reasoning_summary": "This content focuses on improving feedback and engagement within Agile teams, topics somewhat related to Agentic Engineering's emphasis on collaborative and feedback-driven environments. However, it lacks explicit or deep discussion of agency, DevOps ethos, or AI, resulting in only moderate relevance to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ARhXjid0zSE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 18.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.15,
+    "ai_depth": 1.3,
+    "ai_intent": 2.05,
+    "ai_audience": 8.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on feedback and engagement in Agile/Scrum teams, emphasizing stakeholder and product owner collaboration. It does not mention or discuss autonomous AI agents, contextual intelligence, or agentic delivery practices. There are no explicit or conceptual links to agentic integration, AI, or modern delivery automation. The discussion remains within traditional Agile frameworks, targeting practitioners and delivering relevant, focused advice about engagement. There is no outdated practice or contradictory tone, so no penalties were applied. The confidence reflects low conceptual overlap with the Agentic Software Delivery category.",
+    "reasoning_summary": "Content focuses on feedback and engagement in Agile teams—no mentions, concepts, or intent aligned with agentic delivery or AI agent integration. Audience fits practitioners, but topic is unrelated. Category fit is minimal.",
+    "level": "Ignored"
   }
 }

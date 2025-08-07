@@ -49,15 +49,22 @@
     "level": "Tertiary"
   },
   "Method": {
+    "resourceId": "Azure DevOps",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:25:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Azure DevOps as a toolset rather than focusing on specific methods or structured procedures. While it mentions agile methodologies and DevOps principles, it does not delve into the step-by-step processes or practices associated with these methods. The discussion is more about the functionalities and benefits of the tools rather than a detailed exploration of methods themselves.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 28.344,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 8.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content is primarily a descriptive overview of Azure DevOps as a platform and suite of tools. It focuses on the functions and integrations (Boards, Pipelines, Repos, Test Plans), highlighting how it supports collaboration, CI/CD, Agile/DevOps practices, and value delivery. However, it does not directly discuss any particular structured, step-by-step methods or procedures. The emphasis is on tool capabilities and overarching outcomes, not on methodical processes, practices, or implementation steps. Alignment and depth are low, as the treatment of 'method' is indirect, with no explicit stepwise procedures or named methods. Audience and signal are higher, as the content would be read by practitioners and is focused on relevant capabilities, but the actual fit for the 'Method' category is weak—there's no substantive discussion of methods as such.",
+    "reasoning_summary": "Content describes Azure DevOps as a tool; it supports but does not detail structured methods. Lacks procedural focus required for 'Method' category. Fit is partial and indirect, with minimal method coverage.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3150,6 +3157,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on Azure DevOps as a tool for collaboration, agile, and DevOps workflows but does not discuss or reference collective intelligence concepts, human-AI partnerships, or the cognitive collaboration between humans and AI agents. Team collaboration is mentioned, but always in a human-human or technology-enabling-human context (e.g., breaking down silos, process automation), not as a partnership with AI agents. No aspects of distributed cognition, shared understanding between humans and AI, or emergent intelligence from such interactions are explored. No case studies, frameworks, or references supporting collective intelligence, as defined, are visible. The audience (technical/organizational teams) and some mention of collaboration fit partially, but overall, the main themes and details do not align with the category.",
     "reasoning_summary": "This content explains Azure DevOps as a collaborative and agile-enabling suite but does not address collective intelligence or human-AI partnerships. Its primary themes are tool integration and team process improvement, not human-AI cognitive collaboration. Alignment with the category is superficial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Azure DevOps",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 37.83,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.3,
+    "ai_intent": 5.1,
+    "ai_audience": 6.4,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content centers on Azure DevOps as a platform for CI/CD, agile, and DevOps, describing its tools, features, and general value to organizations. It mentions modern software delivery, collaboration, and best practices, but does not reference autonomous AI agents, contextual intelligence, human-in-the-loop agentics, or integration of agent-driven processes. The closest points of contact are the focus on tooling, best practices, and continuous improvement, which are enabling preconditions for Agentic Software Delivery. However, none of the core concepts—deliberate agency, autonomous agents, AI-driven context, or governance of agents—are mentioned or discussed. The intended audience is technical practitioners interested in modern delivery practices, partially overlapping the agentic audience, but the content’s intent and focus are on tooling/platform features, not agentic integration.",
+    "reasoning_summary": "The content describes modern DevOps tooling and practices in Azure DevOps but lacks references to autonomous AI agents, contextual intelligence, or agentic delivery concepts. Fit is partial and indirect, with theme overlap but not core alignment.",
     "level": "Ignored"
   }
 }

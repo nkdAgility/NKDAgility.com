@@ -1509,15 +1509,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "17qTGonSsbM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:56:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of evaluating direction in software development and organisational strategy, but it does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes relevant to software development practices, such as feedback and adaptability, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general agile practices and personal experiences rather than the specific framework of 1ES.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 24.64,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 8.9,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content discusses evaluating direction and adaptability in software development for developers, product owners, and organizations. While the themes of reflection and change touch on general improvement and agile principles, there is no direct or indirect mention of the One Engineering System (1ES). The post does not discuss standardisation, unified tooling, integration of engineering processes, or any frameworks comparable to 1ES. The main subject is continuous evaluation of goals and methods, not integrating or unifying engineering systems. Therefore, conceptual and depth alignment are low. Audience fit and signal are moderate since the audience overlaps with who would be interested in 1ES, and much of the advice is relevant, but the content is not 1ES-specific.",
+    "reasoning_summary": "This content lacks any mention of One Engineering System and is focused on evaluating direction and adaptability at different organizational levels. There is minimal alignment with 1ES topics and no discussion of unified engineering frameworks.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2022,6 +2029,25 @@
     "final_score": 36.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' and its explicit concepts are absent. The content focuses on evaluating direction and adaptability at various software development levels, emphasizing retrospectives, adaptability, and data-driven change. While addressing elements like feedback, personal agency, and openness to change, it doesn't discuss the deliberate, engineered maximization of agency (human or AI), systemic observability, or ethical AI, which are central to Agentic Engineering. The audience is technical, matching the category. The intent is related—encouraging adaptation and feedback—but it's rooted in general Agile best practices rather than specific agentic philosophies or frameworks. The signal is high as most content is focused, but not strictly on the nuances of Agentic Engineering. No satire, contradiction, or outdated references were present.",
     "reasoning_summary": "The content promotes reflection, adaptability, and feedback, resonating with some aspects of agency but lacks core Agentic Engineering themes like deliberate engineering to optimize human and AI agency. Its alignment is tangential, not direct or substantial.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 14.58,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 1.6,
+    "ai_audience": 4.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the importance of evaluating direction in development, product ownership, and organizations. While it mentions an 'AI assistant,' the discussion is not about autonomous AI agents, agentic principles, or contextual intelligence in software delivery. The alignment with 'Agentic Software Delivery' is tangential at best; it explores principles of retrospection, adaptation, and course correction rather than integration of AI agents or agentic systems. The audience (developers, product owners, org leaders in Agile contexts) has partial overlap, but there is no substantial exploration of agentic delivery topics such as proactive, context-aware AI, human-agent synergy, or agent-based engineering and governance. The examples center on traditional product practices and change management, not on embedding AI agents into delivery pipelines.",
+    "reasoning_summary": "Content is about evaluating direction in development and organizational strategy, with only a passing AI mention. It lacks discussion of autonomous agents or agentic delivery, so it only loosely fits the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

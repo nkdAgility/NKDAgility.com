@@ -9,15 +9,22 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "uJaBPyixNlc",
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T02:08:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the selection of Scrum Trainers and highlights the importance of real-world experience and problem-solving in Agile environments. While it mentions 'experimentation' in the context of trainers helping clients propose solutions, the primary focus is on the qualifications and experiences of trainers rather than on systematic experimentation or hypothesis-driven approaches. The discussion lacks depth in terms of specific experimentation techniques or methodologies, which diminishes its alignment with the category.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 40.35,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.2,
+    "ai_intent": 3.6,
+    "ai_audience": 6.9,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content references 'experimentation' and mentions the importance of proposing experiments or solutions. However, the main focus is on the selection criteria for trainers, agile experience, and problem-solving, not directly on hypothesis-driven experimentation. There is no thorough exploration of experiment design, testing assumptions, or integrating experimentation systematically within Agile. Only indirect discussion touches on experimentation, mostly as a skill trainers should have. The audience matches (Agile practitioners/trainers), but the primary theme is recruiting and selection, not applying or teaching experimentation methods.",
+    "reasoning_summary": "Mentions 'experimentation' and related concepts but is mainly about trainer selection and agile experience, not the systematic or hypothesis-driven use of experimentation in Agile. Fit is partial and indirect.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -2036,6 +2043,25 @@
     "final_score": 39.0,
     "reasoning": "The content details how Naked Agility selects Scrum trainers, with emphasis on real-world agile experience and the capability to empower learners. While there is indirect alignment with some Agentic Engineering elements (such as autonomy, practical experience, and adaptation via experimentation), there are no explicit references to Agentic Engineering, developer/AI agency, systemic observability, or ethical AI integration. The discussion largely stays at the level of trainer selection and deep agile/Scrum practice, not the deliberate design of engineering environments for agency maximization (human/AI), nor does it address decentralized decision-making frameworks or DevOps-infused craft in the sense required by the classification definition. Although DevOps, experimentation, and empowerment are mentioned, these are secondary and not explored in sufficient depth to constitute a central, philosophical, or practical discussion of Agentic Engineering. The content targets agile practitioners and trainers, which partly overlaps with the category's audience, but the main focus is on skills proof and training efficacy, not engineering practice design or agentic system building.",
     "reasoning_summary": "The content focuses on selecting agile trainers with real-world, empowering experience. While it touches on autonomy and practical problem-solving, it lacks explicit discussion of agentic engineering principles or the deliberate design of engineering practices that maximize human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uJaBPyixNlc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 7.78,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on the selection and qualifications of Scrum trainers at Naked Agility, emphasizing real-world experience and agile skills. There are no direct or implied discussions about autonomous AI agents, agentic models, contextual intelligence in software delivery, or AI-human integration, which are central to Agentic Software Delivery. The content is strictly about agile education, trainer expertise, coaching, and consultancy. The audience is agile practitioners and prospective trainers, aligned more to traditional agile than agentic delivery themes. No references to agentic principles, AI governance, or automation are present. Thus, fit is minimal.",
+    "reasoning_summary": "Content discusses agile trainer selection, not autonomous agents or agentic delivery; no alignment with Agentic Software Delivery principles or topics.",
     "level": "Ignored"
   }
 }

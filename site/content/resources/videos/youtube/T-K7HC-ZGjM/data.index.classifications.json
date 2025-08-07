@@ -1475,15 +1475,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "T-K7HC-ZGjM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:42:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, which is not directly related to the One Engineering System. While it discusses aspects of Agile and team dynamics, it does not address the principles, integration, or implementation of 1ES. The discussion is centred on Scrum practices rather than the standardisation and integration of engineering processes across teams.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 7.39,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content thoroughly discusses the concept of a Sprint Backlog within Scrum and Agile contexts, emphasizing transparency, adaptability, and team focus. However, it does not mention or discuss the One Engineering System, its framework, integration, or principles. The discussion remains strictly at the Scrum team process level and does not address multi-team standardisation, tool integration, or practices characteristic of 1ES. No penalties were applied, as the content is neither outdated nor critical toward the category.",
+    "reasoning_summary": "This content does not address One Engineering System topics. It only discusses Scrum's Sprint Backlog and related Agile practices, with no references or alignment to 1ES principles, integration, or system standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 38.0,
     "reasoning": "Direct references to Agentic Engineering or its explicit concepts are absent. While the content discusses team agency and adaptability via the Sprint Backlog, it does not address deliberate engineering practice design, systemic observability, or human/AI co-agency. Focus rests largely on Scrum mechanics and team success in Agile rather than on maximising human or AI agency through intentional practice design or deep philosophical/DevOps alignment. Audience is Scrum practitioners, somewhat overlapping with Agentic Engineering, but the core concepts are only lightly brushed.",
     "reasoning_summary": "This content centers on practical guidance for maintaining an effective Sprint Backlog in Scrum. While it hints at team autonomy and adaptability, it does not deeply engage with Agentic Engineering themes such as system design for agency or ethical integration of AI, leading to a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "T-K7HC-ZGjM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 12.77,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 2.1,
+    "ai_audience": 2.5,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content solely discusses the Sprint Backlog within Scrum/Agile contexts, focusing on flexibility, goals, and team process. There are no mentions of agentic principles, autonomous AI agents, contextual intelligence, or related governance/synergy. The audience is Agile practitioners, not specifically those interested in agentic delivery. No outdated practices or negative tone is present, so no penalties are applied. Content is only tangential to the evaluated category.",
+    "reasoning_summary": "This content does not address agentic software delivery, AI agents, or related principles. It solely covers Sprint Backlog usage in Scrum/Agile, so the fit with the specified category is very low.",
     "level": "Ignored"
   }
 }

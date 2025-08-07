@@ -1456,15 +1456,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how competence drives organisational success. It offers practical strategies for nurturing a competent workforce, such as promoting ongoing learning and supporting innovation, all while emphasising professionalism and quality. The detailed insights and actionable advice make it highly relevant to the category’s focus."
   },
   "One Engineering System": {
+    "resourceId": "I9avUDYFw-E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:00:57",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of competence and employee well-being in organisations, which does not directly relate to the One Engineering System framework. While it touches on themes of continuous learning and team dynamics, it lacks explicit references to 1ES principles, integration of tools, or standardisation of engineering practices.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 17.53,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.15,
+    "ai_intent": 2.65,
+    "ai_audience": 5.25,
+    "ai_signal": 3.22,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content never mentions One Engineering System (1ES) or any of its terminology directly. Its focus is on general competence, organizational learning, and well-being, without explicit attention to standardizing or integrating engineering tools, processes, or practices. There is strong discussion about cultivating growth-oriented environments, but not from the specific lens of cross-team engineering integration, frameworks, or methodologies as defined by 1ES. Consequently, the fit with the category is low, though the audience overlaps in being organizational and leadership-focused.",
+    "reasoning_summary": "The content is focused on organizational competence, learning, and well-being, not integration or standardization of engineering systems. No mention of One Engineering System or similar frameworks. Fit to the category is incidental and weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1967,6 +1974,25 @@
     "final_score": 33.0,
     "reasoning": "The content centers on competence, learning, and well-being in organizations, which tangentially touch on themes related to Agentic Engineering—such as enabling individuals to thrive and supporting learning environments. However, it does not reference Agentic Engineering directly or discuss its core pillars: systemic observability, DevOps craft, maximized autonomy (human/AI), or feedback-driven engineering. Mentions of experimentation, feedback, learning cultures, and autonomy align partially, but the absence of framing around decentralization, autonomy in engineering practices, AI augmentation, or ethical design prevents substantive conceptual depth. The content’s intent is personal/professional growth rather than deliberate engineering methodologies. Its audience is somewhat aligned (leaders and practitioners), but focus is on general organizational improvement rather than agentic software engineering. No penalties applied since content is current and tone neutral.",
     "reasoning_summary": "This content touches on competence, learning, and experimentation, which are loosely adjacent to agentic concepts. However, it lacks explicit focus on engineering practices, autonomy, or the deliberate design of agency in human or AI systems, so its fit for the 'Agentic Engineering' category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "I9avUDYFw-E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 13.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.05,
+    "ai_intent": 1.35,
+    "ai_audience": 3.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers entirely on organizational competence, continuous learning, experimentation, and well-being. There is no mention of agentic software delivery, AI agents, autonomous systems, or contextual intelligence in software delivery. The focus is on human-centered growth and culture, with actionable advice for leaders to foster a positive environment. While the intended audience may sometimes overlap (organizational leaders in tech), none of the key criteria for Agentic Software Delivery are explicitly or implicitly met. No penalties were applied, as the tone and practices are modern and not outdated or critical.",
+    "reasoning_summary": "This piece discusses competence, growth, and learning in organizations, not Agentic Software Delivery. There are no references to AI agents or related practices. The fit is highly tangential and lacks any direct or conceptual alignment.",
     "level": "Ignored"
   }
 }

@@ -465,16 +465,23 @@
     "reasoning_summary": "This content strongly aligns with Professional Scrum principles, emphasising deep, systemic change over superficial practices. While it doesn’t use explicit Scrum terminology, its focus on empiricism, outcomes, and transformation closely mirrors Scrum values. The article is relevant for practitioners and leaders, offering substantial insight, though its unique vocabulary and broader framing slightly reduce direct category alignment."
   },
   "Decision Theory": {
+    "resourceId": "RevK05qtZD7",
     "category": "Decision Theory",
-    "calculated_at": "2025-04-28T15:38:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 100.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of agency in decision-making within Agile transformations, which aligns with the themes of decision theory. However, it primarily focuses on Agile practices and frameworks rather than a thorough exploration of decision-making processes in uncertain environments. The mention of agency suggests a connection to decision theory, but the depth of discussion is more about Agile methodologies than decision theory itself.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 57.1,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.3,
+    "ai_depth": 5.9,
+    "ai_intent": 7.2,
+    "ai_audience": 6.5,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content focuses on agency, autonomy, and evidence-based management (EBM) in Agile transformations, which overlaps with applied decision-making and adaptation under uncertainty. EBM relates to decision theory concepts (empiricism, feedback, improving outcomes), but the primary framing is organisational change rather than a direct treatment of decision theory fundamentals. There are few direct mentions and only moderate conceptual depth regarding decision theory (no explicit reference to heuristics, risk, or decision models), though the discussion of enabling teams to act, adapting via evidence, and removing constraints links to practical decision-making. The content is aimed at Agile practitioners and strategists (matching audience intent) and maintains good topical unity.",
+    "reasoning_summary": "Content partially fits the Decision Theory category by discussing agency and evidence-based adaptation, but lacks explicit reference to core decision theory concepts and frameworks. Fit is partial, mainly through practical alignment with decision-making under uncertainty.",
+    "level": "Tertiary"
   },
   "Azure Boards": {
     "resourceId": "RevK05qtZD7",
@@ -2511,5 +2518,24 @@
     "reasoning": "The content repeatedly and explicitly references 'agency' as the missing factor in successful agile transformations and introduces 'Agentic Agility,' which aligns tightly with Agentic Engineering's core concept of maximizing human and systemic agency in software development. It connects agency to transformation outcomes, evidence-based management, and organizational resilience, discussing both human and system agency and the shift from ceremonial compliance to empowered adaptation. EBM is mentioned as a key enabler, closely connecting empirical feedback and decision-making. The discussion is substantial and textured, going beyond slogans to practical, philosophical, and structural implications for organizations. Audience targeting (change leaders, agile practitioners, technical managers) matches well, though not as technical or AI-focused as pure Agentic Engineering content could be. Signal-to-noise ratio is high; the content stays on message. Minor deduction in signal and audience for some focus on organizational transformation rather than exclusively technical agency, but not enough to justify penalties.",
     "reasoning_summary": "This content is a strong match for Agentic Engineering, focusing deeply on the importance of human and system agency in agility, with clear links to evidence-based practices and adaptability. It explores the philosophical and practical underpinnings of agency, making it highly relevant and confident for the category.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RevK05qtZD7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 62.1,
+    "ai_mentions": 3.5,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.8,
+    "ai_intent": 6.9,
+    "ai_audience": 7.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content is a conceptual discussion of agency in agile transformations, emphasizing 'agentic agility': autonomy, evidence, system and human agency. While it aligns well with the agentic paradigm (core to Agentic Software Delivery), it does not explicitly address software delivery using autonomous AI agents, AI integration, agency in AI, or modern engineering/agentic system practices. The audience, intent, and themes overlap, but lack direct reference to the technical means (AI agents, context-aware intelligence, modern automation) at the heart of the category. Therefore, confidence is moderate: it lays theoretical groundwork for agentic delivery, but is not specific to autonomous AI or agentic software systems.",
+    "reasoning_summary": "The content aligns conceptually with agency in systems and agility, but lacks explicit discussion of autonomous AI agents or contextual AI integration, making the fit partial for Agentic Software Delivery.",
+    "level": "Secondary"
   }
 }

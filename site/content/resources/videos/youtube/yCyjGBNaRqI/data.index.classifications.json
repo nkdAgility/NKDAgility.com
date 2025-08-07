@@ -55,16 +55,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "yCyjGBNaRqI",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T14:45:14",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to organisational dynamics. However, it primarily focuses on individual behaviours and team morale rather than systems thinking or the broader organisational context. While concepts like autonomy and purpose touch on organisational culture, they do not delve deeply into the systemic interactions or complexities that define Organisational Physics.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 44.68,
+    "ai_mentions": 0.8,
+    "ai_alignment": 4.9,
+    "ai_depth": 5.6,
+    "ai_intent": 5.7,
+    "ai_audience": 6.4,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "Direct mentions of 'Organisational Physics' or explicit systems thinking are absent (0.8). Conceptual alignment and depth are partial: the content discusses team-level happiness, autonomy, mastery, and purpose, all of which can impact organisational performance. However, it does so from a micro/team motivation angle rather than a holistic, systems-based perspective; there is little analysis of feedback loops, organisational dynamics, or complex adaptive systems (alignment 4.9, depth 5.6). The intent supports growth and engagement (5.7) and is somewhat relevant to organisational improvement but not squarely within the category's boundary. Audience is practitioners and leaders interested in team effectiveness (6.4), broadly overlapping with the typical audience but not specifically focused on system-level strategists. Signal-to-noise is moderate: the entire piece is relevant to positive workplace culture, but little is directly about systems or structural insights (5.8). No penalties apply as the content is neither outdated nor critical. The final confidence is moderate, indicating a partial but not strong fit.",
+    "reasoning_summary": "Content focuses on team engagement and happiness, which influence organisational outcomes, but lacks direct discussion of systems thinking or organisational dynamics central to Organisational Physics. Fit is partial but not robust.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -2021,5 +2028,24 @@
     "reasoning": "The content directly discusses team autonomy and decision-making, aligning strongly with developer agency, a core facet of Agentic Engineering. There is a deep exploration of the importance of autonomy, mastery, and purpose in engineering teams, and the relationship to product excellence is well-developed. However, explicit mention of Agentic Engineering is absent, and advanced topics such as AI augmentation, DevOps ethos, or systemic observability are not discussed. The audience is team-centric practitioners, matching the target, and the content remains on topic throughout. No penalties were required; nothing is obsolete or contradictory to the domain.",
     "reasoning_summary": "The content deeply supports autonomy and agency in engineering teams and aligns strongly with Agentic Engineering principles focused on human agency. While it lacks direct mention or some technical aspects (AI, automation), it is highly relevant for the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yCyjGBNaRqI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 16.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 3.3,
+    "ai_audience": 4.5,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "Direct mentions of 'Agentic Software Delivery' are absent, with no relevant terminology such as AI agents, contextual intelligence, or agentic integration. The content focuses entirely on team dynamics, happiness, autonomy, mastery, and purpose as drivers of positive outcomes in agile teams. While 'autonomy' and 'empowerment' are discussed, their context is human-centric and unrelated to autonomous AI agency or software delivery frameworks grounded in agentic principles. There is no discussion about AI, machine learning, AI-supported processes, feedback loops for learning, or modern engineering practices specific to agentic delivery. The audience is likely practitioners interested in agile team effectiveness, not specifically those focused on AI integration or agentic systems. Thus, the content does not fit the 'Agentic Software Delivery' category.",
+    "reasoning_summary": "This content centers on human team happiness, autonomy, and engagement, with no reference to AI agents, contextual intelligence, or agentic principles. It does not meet the definition or key topics of Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

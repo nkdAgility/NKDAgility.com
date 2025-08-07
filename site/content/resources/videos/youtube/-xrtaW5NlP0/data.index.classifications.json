@@ -254,16 +254,23 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "-xrtaW5NlP0",
     "category": "Customer Retention",
-    "calculated_at": "2025-03-14T22:27:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the Kanban methodology in creative industries, focusing on workflow management and efficiency rather than strategies for customer retention. While there are brief mentions of client-centric approaches and customer satisfaction, these are not the main focus of the discussion. The content lacks depth in exploring customer retention strategies, making it only tangentially related to the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 41.03,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.3,
+    "ai_intent": 4.6,
+    "ai_audience": 5.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content mainly discusses how Kanban supports creativity and workflow management in creative industries, with a strong focus on efficiency, team alignment, and delivery cadence. Only brief references (e.g., a mention of 'customer satisfaction' and being 'client-centric') relate to customer engagement, and these are not explored in depth—customer retention is not a central theme. The main audience (creative teams, managers) somewhat aligns; however, the intent and message are organizational agility and process improvement within creative work, not about specific retention strategies. There are no case studies or significant sections demonstrating methodologies to retain customers, measure engagement, or build feedback loops. Most of the content is relevant to workflow improvement, not directly to customer retention.",
+    "reasoning_summary": "The content is primarily about using Kanban to improve creative workflows. Customer retention is only peripherally addressed, with brief mentions of client satisfaction, not as a central, explored theme. Fit to the category is partial and indirect.",
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1975,5 +1982,24 @@
     "reasoning": "The content focuses on Kanban's role in structuring creative industry workflows. While it highlights autonomy, collective decision-making, continuous improvement, and efficiency—ideas tangentially relevant to Agentic Engineering—there is no direct discussion of maximizing human and AI agency, decentralizing decision-making at an engineering level, or integrating ethical AI. Kanban is depicted as a facilitator of creativity, but the philosophical and systemic underpinnings central to Agentic Engineering (engineering excellence, DevOps ethos, ethical autonomy, or AI collaboration) are not explored in depth. The intended audience is practitioners in creative fields, not specifically agentic engineers or those shaping deliberate engineering practices for agency. No penalties were applied.",
     "reasoning_summary": "This content explores Kanban as a workflow tool for creative teams, touching on autonomy and collective decision-making but not explicitly addressing the design of engineering systems for maximizing human or AI agency. The fit with Agentic Engineering is moderate and mostly thematic rather than direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-xrtaW5NlP0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 8.918,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 1.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses Kanban's role in creative workflows, emphasizing organizing work, reducing chaos, and facilitating flow. It does not mention or imply the deliberate integration of autonomous AI agents, contextual intelligence, human-in-the-loop AI systems, or proactive, agentic delivery as defined. There is no discussion of AI, agency, or modern engineering practices for agentic delivery; the focus is strictly on classic Kanban principles (flow, visualization, continuous improvement) in creative industries. Signal-to-noise is moderately high due to tightly focused content, but all dimensions receive very low marks due to fundamental misalignment with Agentic Software Delivery. No penalties applied as the content is current, factual, and neutral in tone.",
+    "reasoning_summary": "Content focuses on classic Kanban for creative teams, with no AI agentics, contextual intelligence, or agentic software delivery themes. Strong misfit with category; discussion is unrelated to agentic delivery or AI-driven software processes.",
+    "level": "Ignored"
   }
 }

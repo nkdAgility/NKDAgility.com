@@ -1163,17 +1163,23 @@
     "reasoning_summary": "This content is a strong match for the category, as it thoroughly explores how prioritising completed work over starting new tasks enhances flow efficiency. It references Lean principles, work in progress, and tools like cumulative flow diagrams, all of which are central to optimising workflow. The discussion also covers cognitive load and context switching, further demonstrating its relevance to improving throughput and process efficiency."
   },
   "Product Delivery": {
+    "resourceId": "8aIUldVDtGw",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:52:05",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting multiple projects, which aligns closely with product delivery principles. It mentions Scrum and Lean methodologies, emphasising the role of a single product owner and the need for prioritising work based on value. The discussion on cycle time and throughput directly relates to delivery efficiency, making it a strong fit for the category. However, while it covers relevant topics, it does not delve deeply into specific methodologies or metrics, which slightly lowers the depth score.",
-    "level": "Primary",
-    "reasoning_summary": "This content is a good match for the category, as it highlights key aspects of product delivery such as prioritisation, efficient workflow, and the value of finishing tasks. By referencing Scrum and Lean, it connects to established delivery practices, even if it doesn’t explore them in detail. The focus on cycle time and throughput further supports its relevance, though a deeper dive into specific methods or metrics would strengthen the fit."
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 89.7,
+    "ai_mentions": 6.8,
+    "ai_alignment": 9.5,
+    "ai_depth": 8.9,
+    "ai_intent": 9.2,
+    "ai_audience": 8.7,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content explicitly discusses Agile, Scrum, and Lean concepts key to product delivery, such as limiting work in progress, value-based prioritization, cycle time, and the Product Owner role. It targets practitioners, focusing on practical methodologies to improve software delivery outcomes, addressing deployment speed, team structure, and relevant metrics. While 'Product Delivery' is not always directly named, all themes, techniques, and advice serve the purpose of improving end-to-end product delivery effectiveness. Content is focused, actionable, and free of obsolete or off-topic elements. Slight deduction in 'mentions' as the phrase 'product delivery' is not used verbatim, but most other categories are explored thoroughly. Audience and intent closely align, but some general leadership/team performance discussion is present.",
+    "reasoning_summary": "The content strongly fits the 'Product Delivery' category, focusing on Agile/Lean methodologies, prioritization, and practices directly impacting software delivery. Intent, audience, and themes clearly match the category’s definition.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -2012,5 +2018,24 @@
     "reasoning": "The content centers on productivity in teams via limiting WIP, finishing tasks, and value-based prioritization, referencing Lean and Scrum. While it robustly discusses workflow optimization, prioritization, and roles like Product Owner, it lacks explicit mention of Agentic Engineering. Key concepts such as engineering autonomy, AI integration, and decentralisation for both humans and intelligent systems are absent. No obsolete or contradictory points were found. Audience and signal scores are higher since the content speaks to practitioners with actionable insights, but direct conceptual and depth alignment to Agentic Engineering—as defined by maximizing agency—remains secondary.",
     "reasoning_summary": "The content thoroughly addresses Lean and Scrum practices for finishing work, but does not discuss Agentic Engineering, developer agency, or AI collaboration. Its main relevance is tangential, with greater alignment to general workflow optimization than the deliberate maximization of human or AI agency.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8aIUldVDtGw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 20.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 2.6,
+    "ai_audience": 4.4,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses entirely on Lean, Scrum, and value-based prioritization in software delivery, emphasizing limiting work in progress and avoiding multitasking. There is no mention of agentic, AI, autonomous agents, or the core concepts of Agentic Software Delivery (e.g., context-aware AI, autonomous agency, human-agent integration, modern engineering for agents, feedback loops for learning, agent-assisted workflows). The main purpose, themes, and recommendations are classic productivity and workflow management without reference to AI agents or agentic frameworks. While targeting a technical/practitioner audience (partial overlap), the intent, depth, and alignment with 'Agentic Software Delivery' are very limited and indirect. Signal is moderate as it stays on topic, but the topic is a poor fit for the category.",
+    "reasoning_summary": "Content discusses Lean, Scrum, limiting WIP, and task finishing in software delivery; it does not reference agentic principles, AI agents, or integration, so fit to 'Agentic Software Delivery' is minimal.",
+    "level": "Ignored"
   }
 }

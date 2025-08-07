@@ -78,15 +78,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "HFFSrQx-wbQ",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:29:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile methodologies and the challenges associated with rigidity in processes, which is not directly aligned with the core principles of DevOps. While it touches on themes of continuous improvement and flexibility, which are relevant to DevOps, the focus remains on Agile practices rather than the integration of development and operations or the cultural shifts necessary for effective DevOps implementation. The mention of DevOps at the end is brief and does not contribute significantly to the overall discussion.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 23.95,
+    "ai_mentions": 2.9,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 3.2,
+    "ai_audience": 6.0,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is mainly about the dangers of rigid Agile practices and the importance of flexibility and continuous improvement. While it briefly mentions DevOps in the closing, there is no substantial discussion of DevOps principles, practices, or culture. There is slight overlap in topics like experimentation and continuous improvement, but the context is Agile, not DevOps. The targeting to practitioners could include those interested in DevOps, but the core focus is not aligned. DevOps is only named in a promotional closing sentence, not discussed or explored.",
+    "reasoning_summary": "DevOps is only referenced in passing; the content's main focus is on Agile flexibility and continuous improvement. It does not discuss DevOps principles or practices, making the fit minimal and incidental.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1976,5 +1983,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent. However, the content's core message focuses on developer autonomy and fostering flexibility—concepts closely aligned with maximizing human agency. Emphasis on empowerment, experimentation, and team decision-making is consistent with the category’s key themes. The discussion is moderately deep, providing practical reflective questions and strategies. While the topic is couched generically in agile/DevOps rather than agentic engineering by name, the intent substantially overlaps with the category’s aims. Audience fit is strong, targeting agile practitioners and DevOps teams. The signal is high, with little off-topic content. No penalties were required, as the content references current, relevant practices and maintains a positive tone.",
     "reasoning_summary": "The content centers on empowering teams to drive process change and continuous improvement, aligning well conceptually with Agentic Engineering, though without using the term directly. It stresses developer agency and adaptive practices, making it a relevant fit for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HFFSrQx-wbQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 15.36,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 3.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on fostering flexibility, innovation, and team autonomy within Agile, criticizing rigidity in tool/process adherence. However, it never mentions autonomous AI agents, agentic principles, contextual intelligence, or any agentic software delivery concepts. There are no references to AI integration, agent-supported processes, or any of the defining topics of Agentic Software Delivery. While some talk of autonomy and continuous improvement could be surface-level adjacent, none of the content connects to the core meaning of the category. Audience overlap is partial, leaning toward Agile practitioners who might care about agentic approaches, but the topic, intent, and framing are about human/team habits, not agency in software or AI. Minimal, if any, incidental relevance.",
+    "reasoning_summary": "The content discusses team flexibility and innovation in Agile, not agentic software delivery or AI agents. There's no alignment with agentic principles or topics; fit with the category is negligible.",
+    "level": "Ignored"
   }
 }

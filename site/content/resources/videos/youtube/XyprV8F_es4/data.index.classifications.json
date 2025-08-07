@@ -33,17 +33,23 @@
     "level": "Secondary"
   },
   "Social Technologies": {
+    "resourceId": "XyprV8F_es4",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content discusses leadership's role in driving cultural change, which aligns with the principles of self-organisation and collaboration. It mentions fostering collaboration and breaking down silos, which are key aspects of social technologies. However, while it touches on these themes, the primary focus is on leadership strategies rather than a deep exploration of social technologies themselves. The depth of discussion on collaboration and continuous improvement is significant, but it does not fully delve into the methodologies or frameworks that define social technologies.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is relevant to the category as it highlights leadership’s influence on fostering collaboration and breaking down organisational silos—core elements of social technologies. However, its main emphasis is on leadership strategies rather than a thorough examination of social technology frameworks, so it only partially fits the category."
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 82.7,
+    "ai_mentions": 6.4,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.3,
+    "ai_intent": 8.7,
+    "ai_audience": 8.9,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content discusses leadership's pivotal role in fostering collaboration, breaking down silos, encouraging continuous learning, and driving cultural change for agile success—closely matching the definition of Social Technologies. There are direct but not explicit mentions of the category; the themes (self-organisation, collective intelligence, transparency, continuous improvement) are highly aligned, with practical examples and a deep exploration of implementation. The focus and intent are clear, aimed at practitioners and leaders seeking to improve organisational agility. Some attention is given to automation and tooling, but always linked with team learning and collaboration. The discussion is substantial and well-aligned with the audience interested in Social Technologies within Agile and DevOps contexts.",
+    "reasoning_summary": "This content fits the Social Technologies category well, with strong thematic alignment on leadership, collaboration, cultural change, and continuous improvement in Agile. The focus is clear and directly relevant to practitioners and leaders in this space.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1884,5 +1890,24 @@
     "reasoning": "The content addresses leadership's role in cultural change, automation, and breaking down silos—concepts that tangentially relate to Agentic Engineering through discussions of autonomy and continuous improvement. However, it remains leadership- and culture-centric, focusing more on enabling agile transformation via vision, collaboration, automation, and architectural investment without direct exploration of agency as a systemic engineering design goal, explicit decision decentralisation, or the engineering practices at the human-AI interface. While some core concepts overlap (supporting autonomy, valuing engineering craft, continuous delivery), the direct mention of agentic principles and decision-making frameworks at the engineering level, especially regarding human and AI agency, is limited. The audience and signal match well, as the piece targets engineering leaders in agile/DevOps environments, but the depth and conceptual alignment are moderate, as content does not delve deeply into the nuances of Agentic Engineering.",
     "reasoning_summary": "The content partially aligns with Agentic Engineering by promoting autonomy, automation, and continuous improvement for agile teams, but centers on leadership and cultural change rather than the direct, deliberate engineering of human and AI agency or systemic agentic practices. Its fit is moderate but not strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XyprV8F_es4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 28.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 4.7,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on leadership's role in enabling agile and cultural transformation, with indirect reference to automation, tooling, and continuous delivery. However, there are no explicit mentions or substantive discussions of agentic software delivery, autonomous AI agents, context-aware intelligence, or agency in software delivery. While modern engineering practices are generally referenced (e.g. automation, architecture), these are not situated in an agentic or AI-grounded context, but rather as supporting agile practices. The primary audience (leaders, agile practitioners) partially overlaps with those interested in agentic paradigms, but the thematic focus remains on organisational and cultural change, not on autonomous agents or their integration. Signal is moderately relevant, with little off-topic material, but fails to address the category core even implicitly.",
+    "reasoning_summary": "Content discusses agile leadership, automation, and delivery practices but lacks agentic software delivery concepts—no AI agent integration, contextual intelligence, or autonomy themes. Fit is minimal; only tangentially related through tooling and culture.",
+    "level": "Ignored"
   }
 }

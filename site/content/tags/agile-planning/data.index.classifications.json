@@ -135,15 +135,22 @@
     "level": "Tertiary"
   },
   "Principle": {
+    "resourceId": "Agile Planning",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 0,
-    "final_score": 82.0,
-    "reasoning": "The content discusses Agile Planning in detail, highlighting its role in balancing flexibility and predictability, which aligns closely with principles such as Continuous Improvement and Value Delivery. It explicitly mentions the importance of adapting to changing requirements and fostering collaboration, which are actionable principles guiding team behaviour. The depth of discussion on how Agile Planning supports these principles further strengthens its relevance to the category.",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 86.133,
+    "ai_mentions": 6.9,
+    "ai_alignment": 9.6,
+    "ai_depth": 8.7,
+    "ai_intent": 8.4,
+    "ai_audience": 8.1,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content discusses foundational aspects of Agile Planning closely linked to principles like adaptability, value delivery, empiricism, and continuous improvement. It details how planning is done in Agile, emphasizing iterative adaptation and collaboration. While the term 'principle' is not mentioned directly, the entire focus is on guiding approaches and systemic thinking, mapping well to actionable principles rather than abstract values. Depth is reasonable but not profoundly theoretical, and while the primary audience is broad (teams and organizations), this fits the category’s intent. No penalties were needed as the approach is modern and affirming.",
+    "reasoning_summary": "Strong alignment with Principle: discusses actionable, guiding approaches like adaptability and value delivery in Agile Planning. Lacks direct mentions but thoroughly covers how these principles underpin Agile Planning. Clear, relevant intent; strong category fit.",
     "level": "Primary"
   },
   "Artifact": {
@@ -3122,6 +3129,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses exclusively on human team collaboration, Agile processes, and systemic approaches to planning. There is no mention of AI, human-AI partnership, or any aspect of distributed cognition between humans and artificial agents as defined for 'Collective Intelligence.' The themes, scope, and examples are all framed within human agency, collaborative planning, and workflow optimization with no exploration of human-AI dynamics. Minimal alignment is assigned on the theoretical basis that future extensions might involve AI but this is wholly implicit and absent from the text.",
     "reasoning_summary": "This content discusses Agile Planning and team alignment with no references to AI or human-AI collaboration. It does not fit the 'Collective Intelligence' category, as it only addresses human teamwork and planning practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Planning",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 19.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 7.6,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on general Agile Planning, discussing flexibility, predictability, and the benefits of Agile frameworks. There are no direct mentions or explorations of autonomous AI agents, agentic principles, contextual intelligence, or synergy between humans and AI—core aspects of Agentic Software Delivery. The content remains on traditional Agile methods, not touching on proactive agent-driven delivery, governance of AI agents, or integration with advanced contextual systems. Audience alignment is somewhat present, as both target software delivery professionals, but the main topic and intent diverge from the Agentic Software Delivery definition.",
+    "reasoning_summary": "This content addresses standard Agile Planning but does not discuss AI agents or agentic delivery. Its theme and intent are not aligned with Agentic Software Delivery, yielding only a minimal, indirect fit primarily on audience overlap.",
     "level": "Ignored"
   }
 }

@@ -1495,15 +1495,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "3-LDBJppxvo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:33:29",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile methodologies and the importance of delivering working software iteratively, which is not directly related to the One Engineering System (1ES). While it touches on concepts like feedback loops and stakeholder involvement, it lacks explicit discussion of 1ES principles, components, or integration of tools and processes across teams. The content does not provide depth on the 1ES framework or its implementation, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 15.72,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 6.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses exclusively on core Agile practices—iterative delivery, feedback loops, stakeholder involvement, MVPs—but does not reference or discuss the One Engineering System (1ES) framework, its principles, or tool/process integration. There are no explicit or implicit references to 1ES, unified engineering processes, or standardisation themes unique to the category, nor is there any mention of cross-team tool integration or 1ES-driven standardisation. The target audience overlaps with software practitioners but is not specifically oriented towards 1ES adoption or discussion. The intent is strongly Agile-focused rather than 1ES. Signal-to-noise is high (content is on topic for Agile), but not for 1ES.",
+    "reasoning_summary": "The content discusses Agile iteration, feedback, and MVPs, with no mention or discussion of One Engineering System principles, integration, or standardisation. It does not fit the category except by very remote thematic proximity.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2013,5 +2020,24 @@
     "reasoning": "The content is focused on Agile principles, particularly delivering working software every iteration for feedback and value. This overlaps with some Agentic Engineering topics, such as feedback-driven adaptation and stakeholder engagement, but does not explicitly reference developer or system agency, ethical AI integration, or deliberate engineering design for maximizing human/AI autonomy. Automation is briefly mentioned (testing/deployment), aligning with DevOps-infused craft, but as a practical step, not a philosophical driver of agency. No references to broader decision-making frameworks, systemic observability, or agentic practices are present. The depth remains pragmatic, focused on practical Agile coaching, and does not move into agentic philosophy, ethical autonomy, or systemic design for decentralized agency. The intended audience (Agile teams and leaders) partially overlaps, but the primary message is not agentic by definition. No outdated practices or negative tone were found.",
     "reasoning_summary": "While the content covers Agile practices like feedback loops, automation, and incremental delivery, it only partially aligns with Agentic Engineering. It discusses adaptive improvement and stakeholder involvement but lacks core focus on agency, agentic design, or AI integration, resulting in moderate confidence.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3-LDBJppxvo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 14.77,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 4.8,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content discusses Agile practices focused on delivering working software every iteration, prioritizing feedback, value, and stakeholder engagement. However, it does not mention or discuss agentic principles, autonomous AI agents, or the integration of contextual AI with human expertise. Automation is referenced in the context of standard CI/CD and testing, without agentic intelligence, agency, or governance frameworks. The depth, while substantial for Agile iteration practices, is unrelated to agentic delivery. Audience overlap is partial, as both categories may appeal to modern delivery teams, but the topical alignment is weak. No penalties are applied since there is no outdated practice or contradicting tone.",
+    "reasoning_summary": "Content is focused on core Agile delivery and feedback loops, not agentic software delivery. No explicit or conceptual discussion of AI agents, agency, or related frameworks. Only general relevance through automation and delivery themes; overall category fit is weak.",
+    "level": "Ignored"
   }
 }

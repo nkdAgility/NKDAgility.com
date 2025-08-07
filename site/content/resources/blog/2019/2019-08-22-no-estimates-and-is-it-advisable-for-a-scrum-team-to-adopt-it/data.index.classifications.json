@@ -153,16 +153,23 @@
     "reasoning_summary": "This content is a good fit for the 'Metrics and Learning' category, as it explores how key metrics like Cycle Time and Throughput support team improvement within Scrum. While the main emphasis is on the No Estimates approach, the discussion still centres on using metrics to drive learning and process optimisation, making the classification appropriate, though not a perfect match."
   },
   "Kanban": {
+    "resourceId": "Lv1CLfk5cPM",
     "category": "Kanban",
-    "calculated_at": "2025-03-15T03:27:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Scrum and estimation practices, with only brief mentions of Kanban principles such as WIP and flow metrics. While it touches on some Kanban concepts, the focus remains on Scrum methodologies, which detracts from its alignment with the Kanban category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 56.75,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 6.4,
+    "ai_intent": 5.7,
+    "ai_audience": 7.6,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content is mainly focused on estimation practices in Scrum teams and the #NoEstimates movement. Kanban is referenced via suggestions to read the Kanban Guide for Scrum Teams and adoption of flow-based metrics (cycle time, throughput, WIP, work item aging). These are core Kanban concepts, suggesting some conceptual alignment and modest depth, but the main thrust is on moving away from estimation towards flow metrics rather than a comprehensive Kanban adoption or methodology discussion. The explicit Kanban reference is brief, without a thorough exploration of Kanban principles or dedicated advice for Kanban practitioners. Audience fit is decent, as the content occasionally addresses Agile teams interested in Kanban-like practices. Signal is high, with little off-topic content, but Kanban is still not central. No penalties apply as content is current and tone is neutral.",
+    "reasoning_summary": "While the content refers to Kanban flow metrics and the Kanban Guide, its primary focus is on estimation in Scrum teams, making Kanban tangential rather than central. The fit is partial and contextually relevant but not a deep or direct Kanban discussion.",
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -2017,6 +2024,25 @@
     "final_score": 37.0,
     "reasoning": "The content centers on whether Scrum Teams should adopt No Estimates, focusing on estimation discussions, flow metrics, and continuous improvement. While it touches on team autonomy and optimization practices (marginally relevant to Agentic Engineering), it never directly considers the philosophical basis of maximizing human or AI agency, nor does it discuss ethical or DevOps-infused agentic practices. The main focus is practical Scrum estimation evolution, not the deliberate design of agency-maximizing engineering systems. There are no direct mentions; alignment and depth are moderate due to some tangential relevance in autonomy and process improvement. Audience and signal scores are higher as the piece is practitioner-oriented and stays focused on estimation and process metrics.",
     "reasoning_summary": "This content discusses estimation methods and process optimization in Scrum contexts. While related to team autonomy and continuous improvement, it does not substantively address Agentic Engineering principles such as designing for maximized human or AI agency, ethical AI integration, or agentic DevOps practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lv1CLfk5cPM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 8.566,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content centers on the 'No Estimates' approach for Scrum teams, discussing the replacement of traditional estimation with flow metrics such as cycle time, throughput, WIP, and work item ageing. It does not mention or discuss agentic software delivery, autonomous AI agents, or contextual intelligence. The discussion remains within agile process improvement and metrics, focused on human team practice and product flow optimization, but never addresses AI, agentic automation, or integration of human/AI intelligence. Audience is Scrum practitioners, but there's no alignment with agentic principles or topics.",
+    "reasoning_summary": "Content focuses on Scrum, No Estimates, and agile metrics, without any reference to agentic software delivery, AI agents, or contextual intelligence. No conceptual or topical fit with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

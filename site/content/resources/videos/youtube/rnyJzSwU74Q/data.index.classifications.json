@@ -1,15 +1,22 @@
 {
   "DevOps": {
+    "resourceId": "rnyJzSwU74Q",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:36:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile methodologies, discussing concepts such as visibility, flexibility, and incremental value delivery. While it briefly mentions the author's experience in DevOps, the main discussion does not align with the core principles of DevOps, such as collaboration between development and operations, automation, or shared accountability. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 41.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.2,
+    "ai_audience": 6.8,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content very briefly references DevOps (in the author's credentials), but all main discussion centers on Agile, empirical models, Scrum, Kanban, and incremental delivery—not DevOps principles, culture, or practices. No deep engagement with DevOps topics (e.g., automation, flow efficiency, feedback loops, shared accountability, breaking silos, security, or observability) is present. The audience (project leaders, tech-focused) overlaps somewhat, but the entire intent, alignment, and discussion are about empirical Agile, not DevOps. The content offers no critique or outdated advice, so no penalties apply. Overall, while there is a tiny mention, the fit is minor and confidence is low.",
+    "reasoning_summary": "Content focuses on empirical Agile models, not DevOps. DevOps is cited only in the author’s background. Main ideas, themes, and depth are misaligned with the DevOps category; fit is minimal and only incidental.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -2009,5 +2016,24 @@
     "reasoning": "The content explores empirical Agile models and compares them to traditional methods, emphasizing continuous value delivery, feedback, risk reduction, and stakeholder involvement—key concepts related to agency. However, it does not explicitly mention 'Agentic Engineering,' nor does it deeply engage with the philosophical or ethical autonomy aspects or AI collaboration. The focus remains on maximizing project success through Agile, which aligns partially with agentic principles such as human agency and decentralization within engineering, but lacks explicit discourse on maximizing both human and AI agency, observability, or ethical AI integration.",
     "reasoning_summary": "This content aligns with Agentic Engineering through its emphasis on developer agency, incremental value delivery, visibility, and adaptation in Agile practices, but falls short of deep philosophical exploration and lacks direct mention of the category or discussion of AI autonomy or ethics.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 12.1,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 4.3,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies, focusing on empirical models, continuous delivery, visibility, change management, and incremental value. There is no mention or clear discussion of autonomous AI agents, context-aware intelligence, agentic principles, or human/agent collaboration. While modern engineering practices (e.g., CI/CD) are touched on, it is only as part of general Agile/DevOps topics, not agentic delivery. The audience (Agile practitioners, project leads) overlaps somewhat, and CI/CD is a modern engineering practice relevant to agentic contexts, but the piece never addresses the key characteristics of Agentic Software Delivery. Therefore, conceptual alignment, depth, and direct mentions are very low.",
+    "reasoning_summary": "Content focuses on empirical Agile/DevOps methods, not on agentic software delivery. Lacks any agentic themes such as autonomous AI agents, agency, or synergy with human expertise. Fit is very low and largely unrelated to the category.",
+    "level": "Ignored"
   }
 }

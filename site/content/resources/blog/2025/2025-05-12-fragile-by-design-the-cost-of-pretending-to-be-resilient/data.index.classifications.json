@@ -1104,17 +1104,23 @@
     "level": "Ignored"
   },
   "Systems Thinking": {
+    "resourceId": "LGGuvRq4g7p",
     "category": "Systems Thinking",
-    "calculated_at": "2025-04-29T14:01:17",
-    "ai_confidence": 72.0,
-    "ai_mentions": 3,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the concept of resilience within systems, highlighting the interconnectedness of various components and the importance of understanding systemic failures. It mentions specific case studies (Spain, Portugal, Oracle, Heathrow) that illustrate the consequences of poor systems design and organisational blindness, which aligns with the principles of Systems Thinking. However, while it touches on these themes, the primary focus is on resilience and failure rather than a comprehensive exploration of Systems Thinking methodologies or frameworks. The depth of discussion on Systems Thinking principles is moderate, as it does not delve deeply into techniques or tools specific to Systems Thinking, leading to a slightly lower score in depth and alignment.",
-    "level": "Secondary",
-    "reasoning_summary": "This content relates to Systems Thinking by exploring how interconnected components and organisational factors contribute to resilience and failure. While it uses relevant examples to illustrate these points, it doesn’t deeply examine Systems Thinking methods or frameworks, focusing more on resilience than on specific systems approaches. Thus, it fits the category, but with only moderate depth and alignment."
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 54.8,
+    "ai_mentions": 1.5,
+    "ai_alignment": 6.2,
+    "ai_depth": 5.8,
+    "ai_intent": 6.1,
+    "ai_audience": 6.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "This content analyzes high-profile system failures, dissecting how fragility results from single-point optimizations, lack of feedback awareness, and cultural denial. However, it never directly discusses Systems Thinking or its core terminology (feedback loops, system dynamics, interdependencies), and frames resilience mainly as an engineering and leadership problem, not explicitly a systemic or holistic one. While it gestures at emergent properties and organizational causality (e.g., Heathrow case, Merrill Lynch), it doesn't mention mapping techniques, foundational principles of Systems Thinking, or explicit systemic tools/frameworks. The audience (engineers, leaders) and themes align partially, but the practical application is resilience engineering, not Systems Thinking per se. Overall, the fit is partial: it exemplifies problems that Systems Thinking could address, but does not frame or solve them through its specific lens.",
+    "reasoning_summary": "While the content touches on system fragility and organizational interdependencies, it never references or deeply engages with Systems Thinking principles or methods. The fit is partial, focused on resilience rather than explicit Systems Thinking.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -2499,5 +2505,24 @@
     "reasoning": "There are no explicit mentions of 'Agentic Engineering' or its key terminology. The content strongly aligns conceptually with system design choices, proactive resilience engineering, and organisational dynamics around operational survivability, which overlap with agentic principles, especially regarding engineer agency, feedback-driven adaptation, and engineering for resilience. However, specific agentic engineering themes—like maximising both human and AI agency, ethical AI integration, or DevOps-infused craft—are only partially present or inferred, not discussed in detail. The depth is marked by concrete case analyses, cultural critique, and advocacy for rigorous, intentional testing. The purpose supports philosophical engineering principles, but the focus is more on resilience through discipline than on explicit decision-making autonomy for humans or AI systems. The audience seems to be technical leaders and practitioners. Content is highly focused, with little tangential material.",
     "reasoning_summary": "The article robustly critiques fragility in system design and champions disciplined resilience engineering practices, supporting elements of agentic philosophy but lacking explicit references to agentic engineering or AI autonomy. Its conceptual and practical alignment is partial but meaningful to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LGGuvRq4g7p",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 21.68,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 6.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content makes no explicit reference to agentic software delivery or autonomous AI agents. Its core focus is on engineering resilience and organisational failures, not the integration of AI agents, contextual intelligence, or agentic practices. Themes of rigorous real-world testing, system design, and operational discipline are strongly aligned with resilience engineering, but do not extend to the agentic paradigm as defined. No modern engineering practices related to agentic delivery (e.g., CI/CD, governance for agent-human interaction, AI feedback loops) are discussed. The audience is technical and leadership-focused, which somewhat matches, but the substance is outside scope for 'Agentic Software Delivery'. No outdated/contradictory content or penalties found.",
+    "reasoning_summary": "The content is about engineering for resilience, not agentic software delivery. It lacks mention of AI agents, contextual intelligence, or agentic integration, so the fit for this category is minimal.",
+    "level": "Ignored"
   }
 }

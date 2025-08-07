@@ -1012,16 +1012,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "5J8RLcOAE3E",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the complexities of continuous delivery in organisations, touching on systems thinking principles such as feedback loops and the need for adaptive practices. However, it primarily focuses on specific practices rather than a holistic view of organisational dynamics, which limits its alignment with the core themes of Organisational Physics.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 44.12,
+    "ai_mentions": 0.3,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.5,
+    "ai_intent": 5.0,
+    "ai_audience": 8.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct mentions are absent; the content never uses the term Organisational Physics or references systems thinking explicitly. However, it implicitly discusses complexity, adaptive change, the limits of best practices in complex systems, and feedback loops—all adjacent to organisational systems thinking. The main focus remains on practical approaches to continuous delivery, not holistic organisational dynamics, so depth and alignment are moderate but do not reach the full scope of the category. The intent is practical and improvement-oriented (partially aligned), and the target audience (practitioners in software delivery) significantly overlaps with the category’s likely readers. Most content is relevant and focused, but lacks direct engagement with Organisational Physics or deep exploration of systems mapping or organisational feedback. No penalties were needed as the framing is not outdated or contrary.",
+    "reasoning_summary": "Content touches on complexity, adaptive change, and improvement philosophy relevant to Organisational Physics, but does not explicitly engage with systems thinking or organisational dynamics. Fit is partial and indirect, with moderate conceptual overlap.",
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2038,5 +2045,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering', but its main themes—such as adapting engineering practices to context, feedback-driven improvement, and autonomy in delivery—closely align with the category's intent of maximising agency through engineering practices. It explores adaptive delivery, rapid feedback, evolving workflows, and decentralised decision-making, which reflects agentic principles. The depth is moderate, focusing on practical approaches rather than philosophical framing. The audience is technical practitioners, and the discussion is focused and relevant throughout. No penalties required, as the content is current, supportive, and does not undermine the category.",
     "reasoning_summary": "This content substantially aligns with Agentic Engineering by stressing adaptive practices, feedback loops, and evolving team workflows in complex software delivery. While it doesn't name the category, its focus on autonomy and continuous improvement closely fits Agentic Engineering's ethos.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5J8RLcOAE3E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 44.388,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.3,
+    "ai_depth": 4.2,
+    "ai_intent": 4.6,
+    "ai_audience": 8.1,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content discusses adaptive and audience-based continuous delivery, testing in production, and continuous improvement in complex environments. However, it does not mention AI agents, autonomy, contextual intelligence, or agency—foundational to Agentic Software Delivery. There is alignment in advocating evolving practices and leveraging feedback, but the absence of agentic systems, AI integration, or even related terminology is substantial. The depth is moderate for modern delivery themes, but shallow on agentic or AI-driven delivery. The audience fits practitioners in software delivery. Most of the content is focused, but not explicitly on agentic topics.",
+    "reasoning_summary": "Discusses adaptive continuous delivery, audience-based release, and iterative improvement, but does not reference AI agents, autonomy, or agentic principles. Partial alignment with outcomes-focused evolution, lacking core Agentic Software Delivery topics.",
+    "level": "Tertiary"
   }
 }

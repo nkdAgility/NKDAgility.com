@@ -1490,15 +1490,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "KhP_e26OSKs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:06:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on improving stakeholder engagement during Sprint reviews, which is a specific aspect of Agile methodology rather than the broader principles of the One Engineering System. While it touches on collaboration and feedback, it does not discuss the integration of tools, processes, or the standardisation of practices across teams, which are core to 1ES. Therefore, the content does not align well with the category.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 18.74,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.4,
+    "ai_audience": 5.3,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is deeply focused on strategies for improving Sprint review stakeholder engagement. There are no direct references to One Engineering System or its principles (0 for mentions). Conceptual overlap is weak and indirect; while collaboration is discussed, integration and standardisation across teams (the crux of 1ES) are not addressed, warranting a low alignment score. The content is thorough but strictly confined to feedback and attendance in Sprint reviews, not systemic engineering integration (low depth). Its intent is closely aligned with Agile ceremonies, not with unifying processes at scale. Audience skews to product owners and scrum teams instead of system-wide stakeholders. Signal-to-noise is relatively high, but focus is tangential to the 1ES framework. No outdated/contradictory elements detected, so no penalties applied.",
+    "reasoning_summary": "This piece focuses entirely on engagement in Sprint reviews. It does not discuss or align with the One Engineering System framework, its principles, or unification goals. Fit with the category is minimal and highly tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2002,6 +2009,25 @@
     "final_score": 35.0,
     "reasoning": "There are no direct mentions of 'Agentic Engineering' or its terminology. The content primarily addresses increasing stakeholder engagement in Sprint reviews by improving communication and feedback practices. While feedback loops and collaboration are mentioned (which can be somewhat adjacent to agentic principles of feedback-driven adaptation), the main focus is not on the philosophical or strategic maximisation of human or AI agency. The discussion is pragmatic and rooted in marketing and facilitation techniques rather than engineering practices, systemic observability, autonomy, or the integration of AI as a collaborator. The intended audience—practitioners improving Scrum events—does overlap somewhat with those interested in agentic practices, but not specifically in agency-maximising engineering. The overall fit is minimal, with only slight conceptual overlap through the encouragement of feedback and collaborative improvement.",
     "reasoning_summary": "The content focuses on stakeholder engagement in Sprint reviews using practical marketing and facilitation strategies, not on the deliberate engineering of agency for humans or AI. While it relates to feedback and improved collaboration, its connection to Agentic Engineering is tangential and limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KhP_e26OSKs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 2.3,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "There are no explicit or implicit references to agentic software delivery or its core principles. The content focuses entirely on human-driven strategies for stakeholder engagement in Sprint reviews, typical of traditional Scrum practices. It does not mention or allude to AI agents, automation, human-agent collaboration, contextual or proactive intelligence, or any technical or governance aspects associated with Agentic Software Delivery. The audience (product owners, Scrum teams) overlaps with typical agentic delivery audiences, but all intent and techniques are non-agentic. Therefore, alignment, depth, intent, audience, and signal scores are all minimal, reflecting only a tangential connection at best (the context is software delivery, but not agentic in any sense). No penalties were necessary as the tone and practices are current and neutral.",
+    "reasoning_summary": "The content discusses human-centric strategies for Sprint review engagement and feedback, with no mention of agentic delivery, AI agents, or related practices. It does not fit the Agentic Software Delivery category beyond a generic software delivery context.",
     "level": "Ignored"
   }
 }

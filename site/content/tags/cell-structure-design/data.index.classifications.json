@@ -1,14 +1,21 @@
 {
   "Principle": {
+    "resourceId": "5KmsJtm570B",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:48:34",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 34,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 86.85,
+    "ai_mentions": 7.6,
+    "ai_alignment": 9.3,
+    "ai_depth": 8.8,
+    "ai_intent": 8.6,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 87.0,
-    "reasoning": "The content explicitly discusses the principles of Cell Structure Design, which aligns closely with the principles of self-management, continuous improvement, and value delivery. It details how the decentralised structure empowers teams to self-organise and adapt, reflecting actionable principles that guide decision-making. The depth of discussion on how these principles foster responsiveness and accountability further supports a high confidence score.",
+    "reasoning": "The content deeply discusses the actionable foundational principles behind Cell Structure Design, such as self-management, continuous improvement, adaptability, customer focus, and decentralisation. It explicitly mentions being 'rooted in the principles of the Beta Codex' and thoroughly connects the design’s mechanisms (autonomy, end-to-end responsibility, dynamic coordination) to key Agile/Lean/DevOps principles. The discussion maintains high conceptual alignment and substance, targeting practitioners, leaders, and strategists interested in principles underpinning new ways of organising work. Signal is high, with little filler. Mentions are strong—'principle(s)' appears explicitly, but not repeatedly. No outdated practices or contradictory tone detected.",
+    "reasoning_summary": "Content thoroughly explains Cell Structure Design as a model rooted in actionable principles like self-management, adaptability, and value delivery, aligning strongly with the 'Principle' category. Fit is clear and substantial.",
     "level": "Primary"
   },
   "Observability": {
@@ -3128,6 +3135,25 @@
     "final_score": 32.0,
     "reasoning": "The content exclusively discusses the 'Cell Structure Design' organisational model, emphasizing decentralisation, self-organisation, and collaborative autonomy among human teams. However, there are no mentions or indications of AI involvement, human-AI collaboration, or technological augmentation—key distinguishing features for the Collective Intelligence category. While concepts such as distributed coordination and responsiveness are present, they refer only to human agency. The intent is organizational design for human teams rather than augmenting capabilities through human-AI partnerships. Audience alignment, signal, and intent score moderately since organizational designers and agile practitioners may overlap with the Collective Intelligence audience, but the lack of AI context fundamentally limits fit. No penalties were needed, as the tone is neither critical nor outdated.",
     "reasoning_summary": "This content focuses on human-centered organizational design with no discussion of AI collaboration or human-AI teamwork. While it describes distributed human autonomy and self-organisation, it does not fit the Collective Intelligence category due to total absence of human-AI partnership.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5KmsJtm570B",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 26.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.7,
+    "ai_depth": 4.2,
+    "ai_intent": 3.3,
+    "ai_audience": 6.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on organisational design (Cell Structure Design, Beta Codex) centred on decentralised, autonomous teams (cells) and complexity theory. While it heavily emphasizes autonomy, empowerment, and self-organisation, there are no direct or indirect mentions of AI agents, contextual intelligence, autonomous agent integration, engineering practices, or feedback loops relevant to Agentic Software Delivery. The main intent is to discuss human-centric, structural transformation, not the embedding or use of AI-driven agency within software delivery systems. The audience overlaps (organisational and delivery leaders), but the core subject remains organisational design, not agentic AI integration.",
+    "reasoning_summary": "This content discusses organisational transformation around autonomous teams, not the use of AI agents or agentic principles in software delivery. It only loosely aligns via themes of autonomy and adaptability, lacking any agentic AI integration.",
     "level": "Ignored"
   }
 }

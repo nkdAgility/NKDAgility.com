@@ -86,16 +86,23 @@
     "level": "Ignored"
   },
   "Philosophy": {
+    "resourceId": "Lean Startup",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Lean principles and their application in the Lean Startup methodology, focusing on practical implementation rather than the philosophical underpinnings of these principles. While it touches on concepts like experimentation and organisational culture, it lacks a deep exploration of the foundational beliefs that shape these methodologies, which is essential for a strong alignment with the Philosophy category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 83.85,
+    "ai_mentions": 4.8,
+    "ai_alignment": 9.2,
+    "ai_depth": 8.8,
+    "ai_intent": 9.0,
+    "ai_audience": 8.4,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content discusses Lean Startup as an approach grounded in Lean principles, focusing on experimentation, validated learning, and organisational culture—key philosophical themes. It compares philosophy with Agile, covers values (innovation, adaptability), and emphasizes culture, intent, and decision-making guided by empiricism and collaboration. No detailed technical implementation, personal anecdote, or obsolete practice is present. Most of the discussion is at the philosophy level, with only brief references to MVPs and process, which do not dominate the narrative.",
+    "reasoning_summary": "The content deeply explores Lean principles as a guiding philosophy behind Lean Startup, stressing experimentation, empiricism, and culture, making it highly relevant to the 'Philosophy' category.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3163,6 +3170,25 @@
     "final_score": 20.0,
     "reasoning": "The content describes Lean Startup methodology, focusing on rapid experimentation, MVPs, and validated learning to develop business ideas. While it mentions cross-functional collaboration, there is no discussion of AI agents or human-AI partnerships, which are central to the Collective Intelligence category. The themes and practices outlined relate to human teams and organizational learning, lacking references to distributed cognition across humans and AI, decision-making blending human/AI input, or any socio-technical system involving AI as an agent. The target audience aligns moderately, and the signal is relatively focused, but direct mentions, conceptual alignment, depth, and intent are all low for this category.",
     "reasoning_summary": "The content focuses entirely on Lean Startup concepts for business and product development using human collaboration, experimentation, and iterative learning—without discussing human-AI partnerships or the core aspects of Collective Intelligence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lean Startup",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 20.46,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 6.2,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content does not mention agentic software delivery, autonomous AI agents, or related concepts. While Lean Startup discusses experimentation, feedback, and iterative delivery, it is primarily about product-market fit, MVPs, and business validation, not the deliberate integration of AI agents or context-aware intelligence into software delivery processes. There is some conceptual similarity in fostering feedback loops and rapid response, which grants minor alignment, but it lacks the depth, technical focus, and specific themes required by Agentic Software Delivery. Audience overlap with technology and product professionals is partial, but most discussion is generic and lacks agentic principles.",
+    "reasoning_summary": "Content centers on Lean Startup—rapid experimentation, feedback, MVPs—not agentic software delivery. No mention of AI agents, contextual intelligence, or agentic engineering practices. Only very partial thematic overlap, thus a very low fit.",
     "level": "Ignored"
   }
 }

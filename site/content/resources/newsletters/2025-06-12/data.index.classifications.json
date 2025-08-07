@@ -2,16 +2,21 @@
   "Technical Leadership": {
     "resourceId": "X2BzJPMloRw",
     "category": "Technical Leadership",
-    "calculated_at": "2025-05-01T12:58:57",
-    "ai_confidence": 72.0,
-    "ai_mentions": 3,
-    "ai_alignment": 85.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": null,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of technical health and disciplined engineering as essential components of resilience in organisations, which aligns with the principles of technical leadership. It mentions the roles of Product Owners and Scrum Masters in fostering a culture of accountability and technical enablement, directly linking leadership to technical practices. However, while it touches on agile methodologies, the focus is more on resilience and technical health rather than on specific technical leadership strategies or mentoring, which slightly reduces the depth of discussion in the context of technical leadership.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is relevant to the technical leadership category because it highlights how technical health and disciplined engineering contribute to organisational resilience. It also references the influence of roles like Product Owners and Scrum Masters in shaping technical culture. However, it doesn’t delve deeply into specific leadership strategies or mentoring, making its fit somewhat general rather than highly specialised."
+    "calculated_at": "2025-08-07T06:10:04",
+    "ai_confidence": 82.96,
+    "ai_mentions": 5.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.4,
+    "ai_intent": 7.3,
+    "ai_audience": 8.1,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.6,
+    "ai_penalty_details": "Intent penalized 0.6 points for slight digressions into marketing and boilerplate (e.g., offers for mentor/training programs, closing salutation) that dilute focus from pure technical leadership.",
+    "final_score": 83.0,
+    "reasoning": "The content aligns well with 'Technical Leadership': it discusses leadership accountability in fostering technical health, critiques superficial Agile practices, emphasizes engineering discipline and improvement, and calls out leadership roles like Product Owners and Scrum Masters. Concrete technical/leadership practices (CI/CD, architecture, empirical delivery) are explored with depth. The intended audience is technical leaders, engineering managers, and coaches. However, some late-content sections (mentor/training program plugs, closing greeting) dilute focus, warranting a modest intent penalty. The piece is modern, relevant, and does not contradict the category framing. Signal-to-noise remains high given the core discussion, with only minor off-topic content.",
+    "reasoning_summary": "Content strongly fits 'Technical Leadership' via deep discussion of leaders' duty to drive technical health, improvement, and resilience. Minor off-topic promotions justify a small intent penalty; otherwise, fit is clear and strong.",
+    "level": "Primary"
   },
   "DevOps": {
     "resourceId": "X2BzJPMloRw",
@@ -2386,5 +2391,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the content never uses the key term or its synonyms. However, the article aligns conceptually with elements such as developer agency, system health, observability, technical discipline, feedback loops, and continuous improvement—all relevant to Agentic Engineering. It emphasizes systemic practices and the importance of autonomy in engineering decision-making. Still, it mainly addresses resilience and technical health rather than deliberate design for maximising human or AI agency. There is no discussion of ethical AI, collaborative autonomy, or agentic system frameworks. While depth is moderate and audience alignment is strong (targeting technical leaders and practitioners), focus shifts at the end to promotional material, lowering overall signal relevance. Recentness is not an issue and no penalties were applied.",
     "reasoning_summary": "The content discusses resilient engineering practices and continuous improvement in ways that overlap with Agentic Engineering themes, but it never explicitly addresses maximising human or AI agency or agentic design. Fit is moderate, not direct.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "X2BzJPMloRw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 33.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 4.1,
+    "ai_intent": 3.7,
+    "ai_audience": 8.2,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on how true resilience requires technical discipline (testing, CI/CD, observability, architecture) and criticizes superficial Agile practices. While it aligns with modern engineering and DevOps, it does not mention agentic strategies, autonomous AI agents, or human-AI integration. There is no discussion of context-aware automation, agent autonomy, or agentic frameworks. The primary audience (technical leaders) overlaps, and practices discussed are somewhat related, but agentic principles are not addressed. Thus, confidence is low for strict category fit.",
+    "reasoning_summary": "The content focuses on engineering for resilience using modern delivery practices but does not discuss agentic software delivery or AI agents. There is only a partial thematic overlap, so the match is weak and confidence is low.",
+    "level": "Ignored"
   }
 }

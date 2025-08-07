@@ -1,16 +1,22 @@
 {
   "Principle": {
+    "resourceId": "-Gso-hQgUca",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:50:33",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 87.0,
-    "reasoning": "The content discusses Liberating Structures as facilitation techniques that promote self-organisation, inclusivity, and collaborative decision-making, which are key principles in Agile, Lean, and DevOps. It explicitly mentions concepts like psychological safety and continuous improvement, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into how these techniques can transform team dynamics and enhance decision-making processes, thus demonstrating a strong focus on actionable principles rather than abstract values.",
-    "level": "Primary",
-    "reasoning_summary": "This content is a great fit for the category, as it explores practical facilitation methods that encourage collaboration, inclusivity, and ongoing improvement—core aspects of Agile, Lean, and DevOps. By highlighting psychological safety and actionable strategies, it offers concrete ways to enhance team dynamics and decision-making, rather than just discussing theory."
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 65.02,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 7.8,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content provides a comprehensive overview of Liberating Structures as facilitation methods, emphasizing actionable ways to improve team collaboration, decision-making, and engagement, all of which are aligned with Agile/Lean/DevOps principles. However, it doesn't explicitly name or systematically discuss foundational 'principles' per se; instead, it implies them by describing practices and their benefits (e.g., psychological safety, distributed control, co-creation). The discussion is more about the 'how'—practical tools embodying principles (like self-management, continuous improvement)—rather than listing or analyzing specific principles. No explicit critique, outdated content, or audience misalignment is present. Partial fit due to focus on toolkits/practices rather than direct principle articulation.",
+    "reasoning_summary": "Content centers on facilitation methods embodying key Agile/Lean principles (like inclusion and adaptability) but describes tools/practices more than explicit principles. Theme alignment is strong, but principle discussion is mostly implied, not direct.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3116,6 +3122,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on Liberating Structures as facilitation tools for human teams, emphasizing inclusive group participation, distributed control, and co-creation among people. There are no significant references to collaboration between humans and AI agents, nor to enhanced socio-technical outcomes arising from human-AI partnerships. The main context is team engagement in Agile/Lean/DevOps, but always among humans. Thus, relevance to Collective Intelligence (in the human-AI sense) is low, though the technical audience and concepts around group cognition offer minor indirect alignment.",
     "reasoning_summary": "While Liberating Structures encourage collaborative and distributed group work, the content refers exclusively to human interaction and facilitation methods, not human-AI collaboration as defined in the Collective Intelligence category. Thus, only minimal conceptual overlap exists.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-Gso-hQgUca",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 13.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 2.4,
+    "ai_audience": 4.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses entirely on group facilitation methods (Liberating Structures) for meetings and team collaboration. There are no references to agentic concepts—such as autonomous AI agents, contextual intelligence, or software delivery mechanisms involving agency. The main audience (Agile/Lean/DevOps teams) partially overlaps with the target for Agentic Software Delivery, but the content never addresses AI, agency, or integration with software delivery pipelines. Its intent and themes are about human facilitation, not agentic systems, resulting in very low direct mention, alignment, and depth scores. Some signal is maintained because the audience is technically relevant and the intent is about improving outcomes, but the connection is tenuous.",
+    "reasoning_summary": "The content discusses human-centric facilitation tools with no reference to agentic systems, AI, or autonomous agents in software delivery. Its alignment with the category is marginal and mostly incidental, not intentional or substantial.",
     "level": "Ignored"
   }
 }

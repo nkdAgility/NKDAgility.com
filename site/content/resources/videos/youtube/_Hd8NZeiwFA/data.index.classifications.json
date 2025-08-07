@@ -881,13 +881,23 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "_Hd8NZeiwFA",
     "category": "Coaching",
-    "calculated_at": "2025-02-25T12:14:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum Masters and the importance of coaching within that role, but it primarily focuses on the misconceptions and requirements of Scrum Mastery rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:20",
+    "ai_confidence": 66.7,
+    "ai_mentions": 2.5,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.8,
+    "ai_intent": 7.2,
+    "ai_audience": 9.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content directly compares the Scrum Master to a coach, emphasizing facilitation, team/process improvement, and supporting growth rather than command-and-control. It discusses why experience and competence matter, which aligns with key coaching themes. However, the focus is primarily on role legitimacy and professional standards, with less direct technique/exploration of true coaching practices, frameworks, or detailed interventions. There's only one explicit mention of 'coach', and most discussion is conceptual alignment rather than practical coaching application. The audience is Agile practitioners or aspiring Scrum Masters, matching the coaching context. Signal is high, with few tangents.",
+    "reasoning_summary": "The text aligns with coaching principles by highlighting the developmental, facilitative nature of the Scrum Master, but its main focus is on debunking myths about role seniority, so direct relevance to coaching is solid but not deep or comprehensive.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1882,6 +1892,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on debunking the myth of a 'junior Scrum Master', emphasizing experience, competence, and system understanding required for the role. While it discusses autonomy and competence for Scrum Masters—which touches tangentially on developer agency—it does not address agentic engineering's deliberate design principles, nor does it discuss engineering practices, systemic observability, DevOps, ethical AI, or feedback-driven adaptation. There is only a slight nod toward themes like autonomy and systemic thinking, but without explicit connection to the Agentic Engineering category or deliberate design of engineering environments. The content is most relevant for practitioners and those interested in Scrum team composition, providing focused, non-filler discussion, but the core philosophy behind Agentic Engineering is not present.",
     "reasoning_summary": "This article emphasizes the importance of experience and competence in a Scrum Master, critiquing the idea of a 'junior' role. While it touches practitioner autonomy, it lacks discussion of deliberate engineering design, DevOps, systemic observability, or human/AI agency, making direct alignment with Agentic Engineering weak.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_Hd8NZeiwFA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 6.524,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on debunking the idea of a 'junior Scrum Master' and emphasizes the experience and competence necessary for the Scrum Master role. There is no mention of autonomous AI agents, agentic practices, or contextual intelligence as defined in 'Agentic Software Delivery.' The discussion is squarely about team dynamics in Scrum and the expertise required for human roles within Agile teams. The audience is Agile practitioners, but the article does not touch on agentic systems, AI integration, or proactive intelligence. Minimal alignment and relevance to the specified category.",
+    "reasoning_summary": "The article only discusses Scrum Master experience and competence, not agentic software delivery, AI agents, or related systems. It only superficially relates to software delivery and does not fit the target category, except for general context.",
     "level": "Ignored"
   }
 }

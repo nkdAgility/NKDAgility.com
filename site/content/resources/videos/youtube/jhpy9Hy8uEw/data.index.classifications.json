@@ -677,15 +677,22 @@
     "level": "Tertiary"
   },
   "Continuous Delivery": {
+    "resourceId": "jhpy9Hy8uEw",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:22:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the author's preference for Scrum.org over Scrum Alliance, focusing on Scrum training and certification rather than Continuous Delivery practices. While it touches on themes of continuous improvement and community development, it lacks direct references to Continuous Delivery principles, automation, or deployment strategies, which are essential for a higher confidence score in this category.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 7.03,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 2.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on personal experiences and rationale for choosing Scrum.Org over Scrum Alliance, centering on certification, training, values, and community practices in the Scrum/agile domain. At no point does the article mention or discuss Continuous Delivery, its principles, or the related practices (automation, deployment, incremental delivery, feedback loops, etc.). Any alignment with Continuous Delivery is extremely tangential—such as references to continuous improvement—but without substance related to software delivery or release cycles. The intended audience (agile and Scrum practitioners) partially overlaps with the Continuous Delivery community, but this match is coincidental and not by content focus. There is no off-topic penalty, but the fit is almost nonexistent.",
+    "reasoning_summary": "This content centers on Scrum certification and community, not Continuous Delivery. It offers no discussion of delivery practices or principles. The match is incidental and negligible; the content does not fit this category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1989,6 +1996,25 @@
     "final_score": 29.0,
     "reasoning": "The content centers on a personal comparison of Scrum.Org and Scrum Alliance, focusing on credential processes, costs, community development, and alignment with agile values. There is little to no mention of Agentic Engineering or its core tenets, such as maximizing human/AI agency, decentralised decision-making, systemic observability, or DevOps-driven empowerment. The discussion remains at the level of certification and community ethos. While values like professionalism and continuous improvement are noted, they are not explicitly linked to deliberate engineering practices or agentic frameworks. The intended audience (scrum/agile practitioners) partly overlaps, but the primary purpose, themes, and depth do not fit the Agentic Engineering category.",
     "reasoning_summary": "This content focuses on comparing Scrum.Org and Scrum Alliance in terms of certifications and community, not the deliberate design of engineering practices that maximize human or AI agency. Key Agentic Engineering themes are absent, resulting in a low confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jhpy9Hy8uEw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 6.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses personal preference and the comparative merits of Scrum.Org vs. Scrum Alliance, focusing on certification renewal, community and values. There are no direct or indirect references to agentic software delivery, AI agents, contextual intelligence, or related engineering/governance practices. While the audience is technical and Agile-oriented, the discussion is specifically about certification bodies in Scrum—not about software delivery models, let alone agentic delivery. As such, the content has negligible conceptual alignment or depth relevant to the category definition.",
+    "reasoning_summary": "This content is a personal comparison of Scrum certification bodies and does not touch on agentic software delivery, AI agents, or related concepts. There is no fit to the category—topic, themes, and intent are unrelated.",
     "level": "Ignored"
   }
 }

@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Collaboration Tools",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
-    "non_ai_confidence": 30,
-    "final_score": 87.0,
-    "reasoning": "The content explicitly discusses collaboration tools, detailing their functionality and importance in supporting Agile teams. It aligns well with the core themes of the category by highlighting how these tools facilitate workflows, improve communication, and enhance team performance. The depth of discussion is significant, as it covers the impact of collaboration tools on continuous improvement and their integration within Agile, Lean, and DevOps practices.",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 82.9,
+    "ai_mentions": 8.6,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.5,
+    "ai_intent": 8.7,
+    "ai_audience": 8.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content thoroughly discusses the role and benefits of collaboration tools for Agile teams, addressing how they facilitate workflows, teamwork, and continuous improvement. The main focus is conceptual and does not reference any specific tools (e.g., JIRA), but explores their impact on agility and value delivery. Audience is practitioners and teams. High alignment and depth, but slightly reduced scores due to lack of concrete examples or tool names. No outdated references or oppositional tone, so no penalties applied.",
+    "reasoning_summary": "Strong fit with the Tool category—the content explains how collaboration tools support Agile and Lean practices, focusing on their purpose, audience, and workflow impact. Lacks specific tool examples, making fit solid, not perfect.",
     "level": "Primary"
   },
   "Accountability": {
@@ -3114,6 +3121,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses solely on the value of collaboration tools for Agile teams, emphasizing communication, transparency, and coordination among humans. There is no mention or exploration of AI involvement, human-AI partnerships, or any collective intelligence topics as defined. It aligns partially with the idea of teamwork but does not approach the specific criteria of human-AI collaborative intelligence, distributed cognition with AI, or socio-technical systems integrating AI agents. Audience (Agile teams, technical) is somewhat proximate, but all other dimensions are scored low due to absence of direct or conceptual connections to the category.",
     "reasoning_summary": "This content discusses generic human collaboration tools within Agile, with no mention of AI or human-AI partnerships. It is not relevant to the Collective Intelligence category as defined, offering limited conceptual overlap and no depth on the intended topics.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Collaboration Tools",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 23.86,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 6.9,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on collaboration tools in Agile contexts, emphasizing communication, transparency, and enabling value delivery. However, there are no direct mentions or discussion of agentic concepts such as autonomous AI agents, contextual intelligence, or the integration of human expertise with AI. Discussion is limited to process facilitation rather than embedding proactive intelligence or agency. The purpose is generally aligned with modern software delivery practices for Agile teams, but not explicitly with Agentic Software Delivery. Audience alignment is moderate, as both target delivery teams, but the thematic match is partial at best. Therefore, confidence is low and scores reflect an absence of key agentic signals.",
+    "reasoning_summary": "The content describes Agile-oriented collaboration tools but lacks any reference to agentic concepts, autonomous AI agents, or contextual intelligence. Only a superficial overlap with the category exists, so confidence is very low.",
     "level": "Ignored"
   }
 }

@@ -1198,15 +1198,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "2RYiDJ9l8wh",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:34:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on agile methodologies and the importance of language in agile transformations, with only a brief mention of DevOps in the context of one of the hosts' expertise. While there is some conceptual overlap regarding collaboration and transparency, the discussion does not delve into core DevOps principles or practices, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 21.134,
+    "ai_mentions": 2.5,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.2,
+    "ai_intent": 2.7,
+    "ai_audience": 5.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content centers on building political capital and effective communication for agile transformations, with nearly all depth and examples relating to agile practices. DevOps is mentioned only once, in a host bio, not in the main discussion. No central DevOps themes (collaboration between dev/ops, automation, flow, observability, etc.) appear in the podcast description or narrative. The topic, purpose, and depth are overwhelmingly about agile change management, not the DevOps philosophy or practice. Audience arguably overlaps but the fit is incidental.",
+    "reasoning_summary": "Content references DevOps in a host's professional summary but focuses on agile transformations and communication, not DevOps principles or practices. The fit is marginal and mostly incidental.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1945,6 +1952,25 @@
     "final_score": 23.0,
     "reasoning": "The content centers on political capital, communication, and transparency in Agile transformations. While these overlap tangentially with principles like transparency and empowered teams, there are no mentions of agency, agentic engineering, or the deliberate engineering of agency for humans and AI. The main themes are organizational politics, communication, Agile coaching, and DevOps/Scrum expertise. Systemic observability, ethical AI, feedback-driven adaptation, or strategic agency maximization are not addressed. The intended audience (Agile and DevOps practitioners) partially overlaps with the Agentic Engineering audience, but the substance of the material is aimed at navigating power dynamics and building influence, not at engineering agency through practices, architecture, or design philosophy.",
     "reasoning_summary": "This content focuses on communication, transparency, and political capital within Agile transformations. While these are adjacent to agency in teams, it doesn't cover engineering practices or the maximization of human or AI agency, placing it only tangentially within Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2RYiDJ9l8wh",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 12.152,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the political dimensions and communication strategies for successful Agile transformations, highlighting transparency and language. There is no discussion of agentic software delivery, autonomous AI agents, contextual intelligence, or any topics specific to embedding AI agency in software delivery processes. Mentions are limited to general Agile, Scrum, and DevOps coaching and consulting, not the deliberate integration of autonomous AI with human expertise. Audience is practitioners in Agile but not oriented toward agentic delivery advancement. Depth, alignment, and mentions are all low due to off-topic focus.",
+    "reasoning_summary": "Content discusses Agile transformation communication and politics, not agentic software delivery. No mention of autonomous AI, agency, or context-aware systems. Theme and intent do not match the assigned category.",
     "level": "Ignored"
   }
 }

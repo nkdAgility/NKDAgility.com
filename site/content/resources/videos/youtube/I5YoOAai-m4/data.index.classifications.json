@@ -1463,15 +1463,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "I5YoOAai-m4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:25:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the differences between Agile coaches and professional coaches, with no direct mention of the One Engineering System (1ES) or its principles. While it discusses Agile methodologies, it does not align with the core themes of 1ES, such as integration and standardisation of engineering processes. The depth of discussion is limited to coaching roles rather than the broader framework of 1ES.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 6.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on comparing Agile Coaches and Professional Coaches, emphasizing expertise in Agile methodologies and coaching styles. It neither mentions nor describes One Engineering System (1ES), its frameworks, tooling integration, or process standardisation. There is no discussion related to unified engineering practices or cross-team process standardisation. Intent, depth, and audience focus are peripherally related as the audience is technical, but the discussion remains strictly within coaching roles and Agile/Scrum, not 1ES or its concepts.",
+    "reasoning_summary": "The topic centers on coaching differences in Agile, not One Engineering System. There are no references or conceptual links to 1ES; relevance to standardised engineering frameworks is absent. Content does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1973,6 +1980,25 @@
     "final_score": 24.0,
     "reasoning": "The content compares Agile and professional coaching, focusing on domain expertise, effectiveness, and knowledge transfer. While it addresses team innovation and Agile practices, it never directly engages with Agentic Engineering themes: no mention of human or AI agency, systemic observability, feedback-driven adaptation, DevOps-infused engineering, or ethical AI. Depth and alignment are limited, as the coaching discussion lacks the philosophical and engineering focus crucial to the category. The primary audience (Agile/Scrum practitioners) somewhat overlaps, but signal is diluted by general coaching distinctions.",
     "reasoning_summary": "This content centers on coaching distinctions within Agile and does not address Agentic Engineering’s focus on agency, adaptive engineering, or AI integration. Its overlap with the category is minimal and largely incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "I5YoOAai-m4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 5.86,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 0.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content compares Agile coaches with professional coaches, emphasizing technical knowledge in Agile and Scrum frameworks and the benefits these bring to teams. However, there is zero direct mention or clear conceptual alignment with agentic software delivery, autonomous AI agents, or any contextual intelligence. The depth is limited to traditional agile coaching and team enablement, lacking discussion of integrating AI agents, agentic processes, or proactive intelligence. The content is targeted at Agile practitioners but not those focused on agentic delivery. While it is relevant to Agile coaching, almost none of the key topics of Agentic Software Delivery are addressed.",
+    "reasoning_summary": "This content is focused exclusively on Agile and professional coaching differences, with no discussion of agentic software delivery or autonomous AI agents—only marginal audience and tangential process overlap.",
     "level": "Ignored"
   }
 }

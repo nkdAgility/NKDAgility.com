@@ -1455,15 +1455,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "R8Ris5quXb8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:14:49",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum methodologies, which are not directly related to the One Engineering System framework. While it touches on aspects of collaboration and efficiency, it lacks explicit discussion of 1ES principles, components, or implementation strategies. The content does not provide depth on the integration of tools or processes across teams, nor does it address the impact of a unified engineering system on software quality or delivery timelines.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 14.34,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 1.8,
+    "ai_audience": 5.0,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on product backlog management within Agile/Scrum, addressing prioritisation, refinement, stakeholder engagement, and tool usage for backlog-related efficiency. There are no direct mentions or conceptual connections to One Engineering System (1ES) or its principles, unification, or integration of engineering practices across teams. The discussion is practitioner-focused, aligning with technical audiences, but does not discuss system integration, engineering toolchain standardisation, or the 1ES framework concepts. Signal-to-noise is moderate as the content stays on Agile topics, but these topics are not related to 1ES.",
+    "reasoning_summary": "Content is strictly about Agile backlog management and does not mention or align with One Engineering System concepts. No discussion of standardisation, integration, or 1ES principles. Fit to the assigned category is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1969,6 +1976,25 @@
     "final_score": 39.0,
     "reasoning": "The content is about effective product backlog management in Agile, focusing on prioritization, refinement, stakeholder engagement, and practical recommendations such as Kanban boards and work-in-progress limits. While these relate to autonomy, feedback loops, and value delivery, the discussion is grounded in classical Agile/Scrum team practices, not the deliberate philosophical or engineering approaches outlined in Agentic Engineering. The text does mention feedback, empowerment, and tools, but does not explore agency (human or AI), decentralized systems, or the engineering/ethical philosophy central to Agentic Engineering. No direct references are made, and depth is limited to process guidance rather than systemic agency or design.",
     "reasoning_summary": "This content focuses on standard Agile backlog management techniques. While it touches on autonomy and feedback, it does not meaningfully address the core practices, systemic design, or philosophical intent behind Agentic Engineering. Fit for the category is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "R8Ris5quXb8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 11.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on agile product backlog management. It highlights good practices such as prioritization, refinement, stakeholder engagement, and limiting WIP, but does not mention AI agents, agentic delivery, contextual intelligence, or relevant engineering practices for agentic software delivery. The closest overlap is the focus on feedback loops and improvement, which partially matches one element of the category, but nothing in the discussion covers core Agentic Software Delivery topics such as integration of autonomous agents, synergy with human expertise, architectural context, or modern engineering requirements related to agents. No content is outdated or contradicts the framing, so no penalties are applied. The low scores result from lack of relevance to the specified category.",
+    "reasoning_summary": "This content centers solely on traditional agile backlog management and improvement. There is no discussion of AI agents, autonomy, or agentic delivery principles, thus only a minimal fit with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

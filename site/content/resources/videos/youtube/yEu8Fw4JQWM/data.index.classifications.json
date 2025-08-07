@@ -1353,16 +1353,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "yEu8Fw4JQWM",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:11",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) and the benefits of minimising tasks to enhance productivity, which aligns with Agile principles. However, it lacks explicit discussions on collaboration, decision-making, or value delivery as defined in the Social Technologies category. While it touches on team dynamics and efficiency, it does not delve deeply into the social frameworks or methodologies that promote collaboration and collective intelligence, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 76.482,
+    "ai_mentions": 3.1,
+    "ai_alignment": 8.3,
+    "ai_depth": 7.8,
+    "ai_intent": 8.0,
+    "ai_audience": 8.5,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the principle of limiting work in progress (WIP) in Agile and Kanban contexts, referencing related practices and frameworks. The focus on team efficiency, reducing multitasking, and delivering value aligns well with social technology principles such as adaptability, self-organisation, and optimising value delivery. Direct reference to Kanban, Scrum, and Agile underscores the conceptual fit, although there's only moderate explicit mention of 'social technologies' per se. The depth is solid, discussing underlying reasons and effects (context switching, multitasking costs), but doesn't deeply explore broader frameworks or organisational culture aspects. Intent is clearly to inform Agile practitioners or those interested in iterative improvement. The audience is well-aligned, and the content is highly focused on the topic, with minimal off-topic material. No penalties were needed.",
+    "reasoning_summary": "This article explains WIP limits in Agile/Kanban with clear focus on value delivery and collaboration, strongly aligned to social technology themes. Good depth and intent for Agile audiences, but only moderate explicit mention of social technologies.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1996,6 +2003,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses on limiting work in progress (WIP) and its benefits for productivity, referencing concepts from Kanban and systems thinking. While these topics touch on workflow design and efficiency, the discussion remains rooted in general Agile and productivity principles without addressing Agentic Engineering's emphasis on maximizing human and AI agency, ethical AI integration, or decision decentralization. There are no direct mentions or deep explorations of agentic principles and no philosophical or ethical framing; the audience (Agile practitioners) and signal-to-noise ratio score high due to content focus, but depth and conceptual alignment to Agentic Engineering remain modest.",
     "reasoning_summary": "The content aligns with Agile and workflow optimization but does not explicitly or deeply address Agentic Engineering concepts like maximizing autonomy, ethical AI, or agentic decision-making frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yEu8Fw4JQWM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 13.52,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.82,
+    "ai_intent": 0.88,
+    "ai_audience": 4.41,
+    "ai_signal": 4.08,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on work in progress (WIP) limits, productivity, Kanban, multitasking, and context switching in Agile/Lean software development, but it does not reference or explore agentic concepts such as AI agent integration, contextual intelligence, or human-AI synergy. No mention is made of autonomous agents or agentic delivery themes (such as embedding AI in delivery processes or agency, feedback loops with intelligent context, or advanced engineering practices for AI agents). The discussion is strictly on human productivity and process efficiency within conventional Agile frameworks, providing no signals that align with the definition or subtopics of Agentic Software Delivery. Minimal audience overlap exists (Agile practitioners), but the topical and conceptual relationship is almost nonexistent.",
+    "reasoning_summary": "Content centers on WIP, Kanban, and focus in Agile, but does not mention or connect to agentic software delivery or AI-driven agent topics. There is virtually no conceptual or direct fit with the assigned category.",
     "level": "Ignored"
   }
 }

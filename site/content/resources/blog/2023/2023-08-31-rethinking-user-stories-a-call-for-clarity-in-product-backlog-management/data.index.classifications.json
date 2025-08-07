@@ -528,15 +528,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "E2aOGiRDnuG",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:37:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the terminology and conceptual framework around 'User Stories' and 'Product Backlog Items' in product development, without any direct reference to Test First Development principles, success criteria, or testing practices. While it touches on communication and clarity, it does not delve into testing methodologies or the importance of defining success criteria before implementation, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 18.8,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 1.9,
+    "ai_audience": 5.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content strictly concerns the language and framing around User Stories versus Product Backlog Items in backlog management. It does not mention Test First Development, success criteria, testing, or related practices at any point. No Test First principles, approaches, or benefits are outlined. While the audience (Agile/Scrum practitioners) overlaps, the topic and intent are unrelated, and there is no indirect reference to test-driven practices, acceptance criteria as test artifacts, or emphasis on defining success upfront. The entire discussion focuses on nomenclature clarity, not testing, success criteria, or automation. Therefore, the direct relevance and conceptual fit are very low.",
+    "reasoning_summary": "The content discusses backlog item terminology, not Test First Development or related practices. There is no mention or exploration of test-first principles, making the fit with the category weak and incidental.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1982,6 +1989,25 @@
     "final_score": 37.0,
     "reasoning": "The content critiques the rigid use of 'User Stories' in favor of 'Product Backlog Items' to promote clarity and flexibility, advocating for a language change in backlog management. While it does touch on the themes of autonomy, clarity, and transparency—concepts that partially overlap with 'Agentic Engineering'—it does not directly discuss developer or AI agency, decentralised decision-making, or engineering practices that maximize human/AI autonomy. The focus stays on communication practices within backlog management rather than the deliberate design of engineering practices for agency. No direct mentions of 'Agentic Engineering' are made, and core topics such as DevOps, systemic observability, or ethical AI integration are absent. Thus, the alignment and depth are modest, and the confidence is moderate but not high.",
     "reasoning_summary": "This content emphasizes clearer, more flexible product backlog language, which loosely supports team autonomy and transparency. However, it does not directly address the core themes or practices of Agentic Engineering, making its relevance to the category moderate but not strong.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "E2aOGiRDnuG",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 14.218,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on a terminology shift in product backlog management, discussing the merits of using 'Product Backlog Item' over 'User Story' for clarity and flexibility. While related to Agile and Scrum, there are no direct references to AI agents, autonomous systems, context-aware intelligence, or the core themes of Agentic Software Delivery such as embedding AI into software delivery, human-in-the-loop design, or modern engineering practices tailored for agentic models. The primary audience overlaps with practitioners in Agile and Scrum, justifying a higher audience alignment. However, there is little conceptual or practical exploration of agentic software delivery, and no mention of AI, agency, or any associated practices. Depth, intent, and signal are all low as the piece is exclusively about terminology and not agentic concepts.",
+    "reasoning_summary": "This content discusses backlog terminology in Agile/Scrum contexts but lacks any mention or substantive alignment with Agentic Software Delivery, AI agency, or integrating autonomous agents. It only partially overlaps in audience. Fit is minimal and very indirect.",
     "level": "Ignored"
   }
 }

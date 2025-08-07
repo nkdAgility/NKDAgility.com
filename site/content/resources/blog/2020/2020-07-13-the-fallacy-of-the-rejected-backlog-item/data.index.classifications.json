@@ -1397,17 +1397,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "Ewu5coIz9qm",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:36",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the dynamics of Scrum, particularly focusing on the roles of the Product Owner and Development Team, which touches on collaboration and decision-making. However, while it mentions enhancing collaboration and transparency, the primary focus is on the technical aspects of backlog management rather than a broader discussion of social technologies or frameworks that promote collective intelligence and value delivery. The depth of discussion on social technologies is limited, as it primarily revolves around Scrum mechanics rather than the underlying social frameworks that drive collaboration and continuous improvement.",
-    "level": "Secondary",
-    "reasoning_summary": "This content mainly explores Scrum mechanics, especially the roles of the Product Owner and Development Team, with an emphasis on backlog management. While it references collaboration and transparency, it doesn’t deeply engage with broader social technologies or frameworks that foster collective intelligence, so it only partially fits the category focused on social collaboration and value delivery."
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 93.82,
+    "ai_mentions": 7.4,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.2,
+    "ai_intent": 9.0,
+    "ai_audience": 9.0,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content explicitly discusses Scrum team interactions, principles of learning, collaboration, transparency, collective intelligence, and adapting value delivery, all core to Social Technologies. It references the Sprint Review as a forum for collaborative learning, not just technical delivery. The exploration is thorough, showing how these social processes structure workflow and decision-making, and discussing frameworks like INVEST and feature flags in a value-centric, organizational context rather than merely technical. The audience is directly aligned (Scrum team members, agile practitioners, product owners). The near-exclusive focus on adaptive, collaborative practice versus technical implementation justifies high alignment, depth, and signal scores. There are no outdated or critical tones, so no penalties.",
+    "reasoning_summary": "This content deeply explores Scrum’s social frameworks: learning, collaboration, transparency, and adaptive processes. The focus is directly relevant to Social Technologies definitions. Technical aspects are always anchored in team dynamics and value delivery.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2013,5 +2019,24 @@
     "reasoning": "The content focuses on Scrum process nuances, especially misconceptions about backlog item rejection at Sprint Reviews. It emphasizes learning, transparency, and collaboration—concepts adjacent to agentic practices like feedback loops and autonomy. However, it doesn't directly address the deliberate engineering of agency in humans or intelligent systems, nor does it frame these topics in terms of Agentic Engineering's philosophical or technical ambitions. While there are allusions to engineering practices (e.g., feature flags and developer flexibility), they are discussed as supporting Scrum rather than as practices for maximizing agency. There's no mention of agentic design, DevOps ethos, joint human-AI decision making, or ethical/observability themes. The content serves agile practitioners (strong audience overlap), and portions like 'flexibility for the Product Owner' approach some elements of developer agency, but mostly the treatment is practical and contextual rather than philosophical or systemic. There is little off-topic material, but the fit with Agentic Engineering is largely coincidental rather than intentional or in-depth.",
     "reasoning_summary": "This content aligns peripherally with Agentic Engineering by emphasizing Scrum transparency, learning, and developer flexibility, but it lacks direct focus on maximizing agency or design principles for human-AI collaboration central to the category. Audience fit is strong; conceptual alignment is partial.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ewu5coIz9qm",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 11.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 1.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is a detailed critique of Scrum practices related to Sprint Reviews and backlog item rejection, focusing on learning, collaboration, and increment completeness. There is discussion of engineering practices (feature flags, INVEST), but these are within classic Scrum and Agile contexts—there are no direct references to autonomous AI agents, contextual intelligence, or agentic principles as defined. Proactive, AI-based agency and integration between AI, humans, and organizational context are not mentioned. Audience is technical but not tailored to agentic software delivery. Minor alignment with engineering practices nudges the score above minimum, but content is overwhelmingly not about agentic software delivery.",
+    "reasoning_summary": "This content discusses Scrum backlog practices—there is little alignment with Agentic Software Delivery, as agentic concepts or AI integration are not addressed. The fit is weak and almost entirely outside category scope.",
+    "level": "Ignored"
   }
 }

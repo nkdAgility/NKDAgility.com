@@ -577,15 +577,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "MCdI76dGVMM",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:11:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of professionalism within Agile methodologies. While it touches on themes of continuous learning and improvement, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is on Scrum rather than the delivery aspect of software development.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 11.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.4,
+    "ai_audience": 2.6,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on professionalism and mastery within the role of Scrum Master, emphasizing continuous learning, expertise, and the need to go deeper into Scrum theory. It does not reference Continuous Delivery either directly or indirectly, nor does it explore practices, tools, automation, or principles specific to Continuous Delivery. Any indirect links are minimal—continuous learning is mentioned, but not in a delivery or DevOps context. The audience (Scrum Masters) partly overlaps with those interested in delivery practices, but the content intent and themes remain unrelated to Continuous Delivery as defined.",
+    "reasoning_summary": "The content centers on professionalism for Scrum Masters—not on Continuous Delivery. There are no relevant principles, practices, mentions, or depth aligned with the Continuous Delivery category. Fit is very weak and mostly unrelated.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1919,6 +1926,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on the professionalism and continuous learning aspect of Scrum Masters but does not explicitly mention or deeply align with the philosophical or structural principles of Agentic Engineering. There is no discussion of developer agency, AI integration, observability, or feedback-driven engineering practices. The primary audience (Agile/Scrum practitioners) partially overlaps but the content itself is narrowly attuned to professional growth, not deliberate engineering for maximizing human or AI agency.",
     "reasoning_summary": "This content centers on professional growth for Scrum Masters, emphasizing mastery and learning, but lacks direct or substantial alignment with Agentic Engineering themes such as agency, observability, or ethical AI collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MCdI76dGVMM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.35,
+    "ai_intent": 0.3,
+    "ai_audience": 0.4,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused exclusively on professionalism and mastery in Scrum Master roles, emphasizing personal learning, deep understanding, and commitment to the Scrum philosophy. It does not make any direct or indirect reference to agentic software delivery, autonomous AI agents, human–AI collaboration, contextual intelligence, or any of the core themes outlined in the 'Agentic Software Delivery' classification. It targets Scrum practitioners in a traditional coaching/support context, without touching on AI, automation, or agentic principles. There are no penalties, as the content is not outdated or contrary, but it remains wholly misaligned with the given category.",
+    "reasoning_summary": "This content is about personal professionalism in Scrum Mastery, not agentic software delivery. It neither discusses AI agents nor the principles of agentic integration, and thus does not fit the category.",
     "level": "Ignored"
   }
 }

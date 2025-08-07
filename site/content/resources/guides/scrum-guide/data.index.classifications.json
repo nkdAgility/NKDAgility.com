@@ -1442,15 +1442,22 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
+    "resourceId": "59gcHh1fYtC",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:41:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Scrum framework, its roles, events, and artefacts, without discussing the integration of testing, security, or compliance earlier in the software development lifecycle, which is essential for a Shift-Left Strategy. While there are elements of inspection and adaptation that could relate to early quality considerations, they are not explicitly tied to the Shift-Left concept.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 17.225,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 5.9,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The Scrum Guide never directly mentions Shift-Left Strategy or its key terms (like early testing, security, or compliance). While Scrum's incremental inspection and adaptation could theoretically support early issue discovery, the guide's focus is on the Scrum framework itself. There are no substantial discussions, principles, or case studies explicitly targeting Shift-Left. The audience overlap is partial — both target practitioners, but the topic fit is weak. The main intent is to explain Scrum, not proactive early integration practices. Nearly all content is unrelated to Shift-Left, yielding a low confidence score.",
+    "reasoning_summary": "The Scrum Guide focuses on Scrum fundamentals, not Shift-Left Strategy. There are no direct mentions, and only weak, indirect conceptual connections exist at best. Content is largely unrelated to Shift-Left, so fit is poor.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2006,5 +2013,24 @@
     "reasoning": "The Scrum Guide does not directly mention Agentic Engineering, nor does it discuss agency of AI or deliberate design for maximising both human and machine agency. However, it strongly addresses related concepts such as team autonomy, self-management, incremental value delivery, and empirical feedback cycles. The depth of discussion on engineering practices that promote human agency (e.g., self-management, transparency, adaptation) is significant, with clear guidance for practitioners, but without addressing ethical AI integration, observability tooling, or hybrid human-AI agency. The intent focuses on process and human-centred autonomy rather than the broader or philosophical context that Agentic Engineering covers. The audience—technical practitioners and Scrum users—overlaps with Agentic Engineering, and signal is high, with few tangents. Overall, the fit is partial: Scrum is agentic for people, but not positioned explicitly as Agentic Engineering as defined in the category (especially regarding AI or systemic design for multi-agent collaboration).",
     "reasoning_summary": "While The Scrum Guide explores themes of autonomy, empirical adaptation, and continuous value delivery—aligning in part with Agentic Engineering—it lacks discussion of AI agency, ethical AI integration, or explicit agentic engineering philosophy, resulting in partial but not direct category alignment.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "59gcHh1fYtC",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 13.42,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The Scrum Guide defines Scrum as a general framework for adaptive, incremental work, emphasizing empiricism, team roles, and events, but at no point discusses AI, autonomous agents, contextual intelligence, or agentic integration. There are no mentions of software delivery evolving through AI-enabled, autonomous, or agentic systems—or any related topics such as telemetry-driven feedback, agent–human synergy, or agentic governance. The content focuses on process, team roles, and artefacts relevant to Scrum. While the audience may overlap with technical practitioners interested in modern delivery (hence a slightly higher audience score), none of the category’s defining features are present.",
+    "reasoning_summary": "Content is a pure description of Scrum framework and roles, with no reference or alignment to agentic, AI-driven, or autonomous delivery concepts. It lacks the central themes of Agentic Software Delivery, so confidence is very low.",
+    "level": "Ignored"
   }
 }

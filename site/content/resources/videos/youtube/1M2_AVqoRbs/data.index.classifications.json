@@ -1353,15 +1353,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:39:23",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 66.82,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.9,
+    "ai_intent": 7.4,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 67.0,
-    "reasoning": "The content discusses the importance of fostering a culture that prioritises high-quality product delivery and the empowerment of teams, which aligns with the principles of social technologies. However, it primarily focuses on technical debt rather than explicitly addressing collaboration or decision-making frameworks. The mention of team morale and open communication indicates some alignment with social technologies, but the depth of discussion is more centred on technical aspects rather than the social frameworks themselves.",
+    "reasoning": "Direct mentions of 'social technologies' are absent, but the content shows partial alignment by advocating for open communication, empowered teams, stakeholder education, and continuous improvement—principles associated with social technologies in Agile and DevOps contexts. The primary focus is on technical debt and value delivery, with good but not exhaustive exploration of collaborative frameworks. The intent is clearly to help teams and organisations adopt adaptive, transparent practices to optimise value, though the lens remains technical debt rather than social frameworks per se. The audience is likely Agile practitioners, leads, and technical managers, who overlap with the social technologies demographic. Content is focused and relevant, with only minor tangents.",
+    "reasoning_summary": "The content focuses primarily on technical debt but incorporates core themes of social technologies—collaboration, empowerment, and continuous improvement. While not a perfect fit, the alignment and intent support a moderate confidence score for this category.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {
@@ -1959,5 +1966,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' or its unique terminology, resulting in a very low score for direct mentions. Conceptual alignment is moderate as the discussion touches on developer empowerment, frequent feedback, and value delivery—core agentic themes—yet lacks a deliberate focus on the philosophy of engineering agency. The depth is moderate, with substantial discussion on improving engineering environments and proactive practices, but it centers on technical debt rather than explicit agentic practices or ethical AI integration. The intent is relevant to agentic engineering, aiming to foster empowered teams and continuous improvement, but stops short of advocating true decentralised autonomy or alliance with intelligent systems. Audience fit is solid, targeting hands-on practitioners and leaders in software development. The content is highly focused on actionable strategies and their impact, yielding a strong signal-to-noise ratio. No penalties were warranted as the content is current and neither satirical nor critical toward the agentic approach.",
     "reasoning_summary": "This piece focuses on technical debt management, aligning somewhat with Agentic Engineering by promoting developer empowerment, feedback loops, and continuous improvement. However, it lacks direct reference to agentic concepts like decentralised decision-making or ethical AI, making the alignment partial but not comprehensive.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1M2_AVqoRbs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 17.519,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 4.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses entirely on managing technical debt to achieve agile, high-quality product delivery. While it promotes best practices for team empowerment, agility, and value delivery, at no point does it mention or allude to agentic software delivery, autonomous AI agents, agency, or contextual intelligence as defined in the category. There are also no hints at AI integration, governance for agent interaction, or feedback loops beyond human team processes. The strategies outlined (refactoring, communication, regular review) are purely traditional human-centric and do not tie back to agentic delivery practices. Thus, the strongest fit is for audiences interested in agile or quality-driven software processes, but not agentic software delivery.",
+    "reasoning_summary": "Content focuses on technical debt management and agility without any discussion of AI agents, agency, or agentic delivery concepts. Only weak indirect relevance to the category, so fit is minimal and largely unrelated.",
+    "level": "Ignored"
   }
 }

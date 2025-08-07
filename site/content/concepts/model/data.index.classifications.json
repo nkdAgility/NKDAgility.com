@@ -2534,20 +2534,21 @@
   "Metrics and Learning": {
     "resourceId": "Model",
     "category": "Metrics and Learning",
-    "calculated_at": "2025-05-06T11:18:53",
-    "ai_confidence": 62.47,
-    "ai_mentions": 2.9,
-    "ai_alignment": 7.7,
-    "ai_depth": 7.2,
-    "ai_intent": 7.4,
-    "ai_audience": 7.9,
-    "ai_signal": 8.3,
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 48.15,
+    "ai_mentions": 2.6,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.9,
+    "ai_intent": 5.3,
+    "ai_audience": 7.5,
+    "ai_signal": 7.8,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 62.0,
-    "reasoning": "The content provides an informative overview of 'models' as conceptual frameworks used for analysing systems and improving decision-making, with several direct references to Agile, Lean, and DevOps environments. \n\n**Direct Mentions (2.9):** The text does not explicitly mention metrics, learning, or data-driven feedback mechanisms, but some indirect connections exist (e.g., 'enabling feedback loops'). There are few direct category matches.\n\n**Conceptual Alignment (7.7):** The focus on models in Agile, Lean, and DevOps, their role in understanding system complexity, and supporting evidence-based decision-making aligns with the category. However, the emphasis is on models generally—not strictly on metrics, continuous improvement, or learning cycles, so the alignment is strong but not perfect.\n\n**Depth of Discussion (7.2):** There is a thoughtful discussion about the utility of models in visualising processes, enabling understanding, and aiding decision-making, but it does not dive deeply into metrics, analytics, case studies, or specific feedback mechanisms. Some category adjacent frameworks (e.g., Cynefin, Three Ways of DevOps) are mentioned.\n\n**Intent / Purpose Fit (7.4):** The content’s goal—to explain models and their organisational value—generally supports the metrics and learning theme but is not solely focused on fostering continuous improvement through metrics-driven approaches.\n\n**Audience Alignment (7.9):** The language and examples target practitioners and teams within Agile, DevOps, and Lean—strongly matching the category audience.\n\n**Signal-to-Noise Ratio (8.3):** The content is free from filler and tangents, remaining relevant and on-topic throughout, albeit not strictly about metrics or learning cycles. No obsolete practices or negative tone detected.\n\n**Level:** Secondary, because the discussion is supportive and adjacent to 'Metrics and Learning' but not a primary, direct exposition of that category. The emphasis is more on the foundational role of models in system understanding, with only passing acknowledgement of metrics or iterative learning.",
-    "level": "Secondary"
+    "final_score": 48.0,
+    "reasoning": "The content defines and elaborates on the concept of 'model' in Agile, Lean, and DevOps contexts, highlighting its use for understanding complexity, decision-making, and improvement. However, it only tangentially references feedback loops and decision-making. Direct discussion of metrics, data, measurement, evidence-based approaches, or explicit feedback mechanisms is largely absent. While the content aligns with reflective practices and does mention models central to Lean/Agile (like Cynefin and Kanban), it mainly discusses the conceptual, not measurement or learning via data. There’s some overlap with the audience and the intent of continuous improvement, but it falls short of richly exploring Metrics and Learning as defined by the category.",
+    "reasoning_summary": "The content covers conceptual models in Agile and DevOps, relating to decision-making and improvement but lacks explicit focus on metrics, measurement, or evidence-based learning. The fit to 'Metrics and Learning' is partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "resourceId": "Model",
@@ -3186,6 +3187,25 @@
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the abstract concept of models in teamwork, Agile, Lean, and DevOps contexts. While it touches on team collaboration, decision-making, and shared understanding, it does not specifically address human-AI collaboration, human-AI distributed cognition, or examples of AI as an agent in team settings. There are no references to AI, machine agency, or the emergence of collective capabilities from human-AI partnership as required by the Collective Intelligence category definition. The topics remain within human frameworks and tools for understanding complexity, not the augmentation of capability through collaboration with AI agents. Audience and signal scores are relatively higher as the content targets professionals operating in relevant domains (Agile, DevOps) and is on-topic for systems and models. However, lack of direct or conceptual alignment with human-AI collaboration yields low overall confidence.",
     "reasoning_summary": "This content covers models as tools for teams in Agile and DevOps but doesn't address human-AI collaboration or emergent capabilities from human-AI partnerships. While audience and focus are partially aligned, it doesn't meet the core requirements for the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Model",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 16.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.1,
+    "ai_audience": 5.4,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is a general overview of conceptual models in team-based systems and software delivery, referencing Agile, Lean, DevOps, and various frameworks. However, it never directly addresses agentic AI, autonomous agency, AI-human integration, or contextual intelligence. While the discussion of models in complex systems and mention of feedback loops slightly overlaps conceptually with topics in Agentic Software Delivery, this is incidental and not targeted. There's no specifics on autonomous agents, agentic practices, human-in-the-loop design, or AI-augmented delivery. Depth and alignment are weak, as the discussion remains at the abstraction of 'model' rather than the mechanisms or strategy of agentic delivery. The primary audience (teams using models) aligns, but the intent and content fail to focus on Agentic Software Delivery.",
+    "reasoning_summary": "This content discusses generic models for systems thinking, not Agentic Software Delivery. While it covers topics adjacent to software delivery, it lacks any explicit focus on agentic systems, AI agents, or their integration into delivery processes.",
     "level": "Ignored"
   }
 }

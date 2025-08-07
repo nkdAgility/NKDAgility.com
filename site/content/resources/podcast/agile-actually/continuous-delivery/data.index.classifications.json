@@ -1354,16 +1354,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "pGqagcI_q5y",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:53:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise but does not delve into Scrum principles, roles, or practices. The focus is more on transparency in Agile rather than specific Scrum discussions.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 51.46,
+    "ai_mentions": 3.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.1,
+    "ai_intent": 5.9,
+    "ai_audience": 6.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "Direct mentions of 'Scrum' are minimal and peripheral, mostly in professional titles and as index tags for one host. The main focus is on language/communication in Agile broadly rather than Scrum-specific frameworks, roles, or events. Several hosts are credentialed Scrum trainers, which suggests a partially relevant audience, but the discussion appears generalized across Agile rather than offering deep insight into Scrum practices, artifacts, or empirical process control. There is no exploration of core Scrum mechanisms, so depth and conceptual alignment are moderate. Signal is moderate since some context is off-topic (host bios, DevOps, Microsoft mentions). No penalties are needed since content is current, neutral, and not satirical.",
+    "reasoning_summary": "The content only peripherally addresses Scrum, mainly via host credentials and tags. The main focus is broadly on Agile communication, not Scrum frameworks or practices, so fit is partial and confidence is moderate.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1924,6 +1931,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on language precision and transparency in Agile, with some references to delivery, DevOps, and team effectiveness. However, it does not explicitly discuss nor deeply engage with the ideas central to Agentic Engineering, such as maximizing agency (human or AI), decentralised decision-making, ethical AI integration, or feedback-driven adaptation. While the podcast's practitioners-oriented audience and tangential mention of DevOps are proximity signals, the main themes are communication and language impact in Agile—not the philosophical or systemic design of agency or value delivery cycles. Therefore, alignment and depth are limited, with only minor conceptual overlap.",
     "reasoning_summary": "The podcast provides insights on precise language and transparency in Agile but does not focus on Agentic Engineering principles like maximising agency or systemic feedback. References to DevOps and delivery are present but remain secondary and lack in-depth exploration of agentic concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pGqagcI_q5y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 14.89,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 4.5,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "There are no direct references to agentic software delivery, autonomous AI agents, or related practices. Content centers on communication and language in Agile. While tangentially relevant for modern delivery, there is no substantive conceptual or technical alignment with the category. The focus is general Agile team effectiveness, not on embedding contextual AI or agentic engineering. The audience (Agile practitioners and consultants) has moderate overlap with the intended category, which supports a slight nonzero score for audience and signal. Confidence is very low due to minimal match.",
+    "reasoning_summary": "Content discusses Agile communication, not Agentic Software Delivery. There is no mention of AI agents, contextual intelligence, or agentic principles. Fit is minimal and tangential at best, with no direct or conceptual alignment.",
     "level": "Ignored"
   }
 }

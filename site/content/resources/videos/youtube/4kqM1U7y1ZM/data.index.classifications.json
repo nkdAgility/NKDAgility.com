@@ -772,16 +772,23 @@
     "reasoning_summary": "This content is a good fit for the Agile methodologies category, as it explores key practices like continuous delivery, feedback integration, and team empowerment. It also highlights the need for adaptability and value clarity within organisations. However, it doesn’t extensively cover wider market adaptability strategies or provide in-depth case studies, so its focus remains primarily on internal team transformation."
   },
   "Organisational Physics": {
+    "resourceId": "4kqM1U7y1ZM",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:52:42",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the transformation of a Scrum team within an organisational context, touching on aspects like organisational support and team readiness. However, while it mentions organisational dynamics, it primarily focuses on Scrum practices and individual team behaviours rather than a comprehensive systems thinking approach. The depth of discussion on organisational physics principles is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 59.8,
+    "ai_mentions": 0.8,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.9,
+    "ai_intent": 7.8,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "Direct mentions of 'Organisational Physics' or explicit systems thinking are lacking (0.8). Conceptually, the article discusses the influence of organisational context, feedback loops, empowerment, and evolving team structures, which somewhat align with organisational dynamics (7.3), but the framing is practical rather than theoretical or holistic as expected in the category. Depth is moderate—while feedback loops, culture, and structure are touched upon, their treatment is tool-focused, not analytical (6.9). The intent is to transform teams by shaping their environment and feedback, fitting the broad aims of Org Physics but furthering practical coaching over systemic diagnosis (7.8). Audience is likely Agile practitioners/managers, compatible with Org Physics (8.1). Signal is high (8.3); content remains focused and mostly relevant. No outdated info or contradictory tone detected, so no penalties. Overall confidence reflects partial to moderate fit, with substantial but not primary focus on systems thinking or organisational-level dynamics.",
+    "reasoning_summary": "Content partially fits; it references organisational factors, feedback loops, empowerment, and adaptive structure. However, focus is mainly on Agile team facilitation—not on deep systems thinking or holistic analysis as required for full Organisational Physics alignment.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1987,5 +1994,24 @@
     "reasoning": "The content directly names neither 'Agentic Engineering' nor its exact terminology, leading to a low direct mentions score. Conceptually, it substantially aligns with key aspects: it emphasizes empowering teams (developer agency), continuous delivery (DevOps-infused craft), feedback loops (systemic observability), and decentralization. The discussion of embedding a culture of delivery, enabling autonomy, and facilitating feedback-driven improvement reflects the category's intention. However, explicit exploration of AI as agentic collaborator or in-depth ethical autonomy discussions are largely absent, narrowing the depth slightly. The target audience (Scrum/Agile teams, coaches, leaders) fits the category, and the focus remains clear and relevant with minimal tangents, supporting high signal and audience scores. No penalties are applied, as the advice is current and aligns with the positive framing of agency.",
     "reasoning_summary": "This content aligns strongly with Agentic Engineering principles through its focus on team empowerment, continuous delivery, and feedback-driven adaptation. It targets the right audience and maintains thematic relevance but lacks explicit discussion of AI agency or ethical autonomy, moderating its overall confidence score.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4kqM1U7y1ZM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 27.04,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 3.2,
+    "ai_intent": 2.7,
+    "ai_audience": 5.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on Scrum team transformation through continuous delivery, value clarification, feedback integration, and empowerment. While it mentions feedback loops, telemetry, and DevOps topics (which overlap with Agentic Software Delivery methods), there is no direct mention of AI agents, autonomous agency, or human/agent collaboration. The main themes are traditional Agile coaching and empowerment, not contextual-agentic intelligence. Audience alignment and some process concepts overlap but do not thoroughly or intentionally address agentic paradigms. No points were deducted for outdated practice or negative tone since none were observed.",
+    "reasoning_summary": "Content primarily covers traditional Scrum and Agile transformation, missing essential agentic software delivery themes (AI agents, autonomy, and contextual intelligence), leading to a weak fit with the category.",
+    "level": "Ignored"
   }
 }

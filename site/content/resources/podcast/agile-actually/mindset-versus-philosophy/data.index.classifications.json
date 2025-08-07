@@ -1168,15 +1168,22 @@
     "level": "Tertiary"
   },
   "Lean": {
+    "resourceId": "G2XUaCtiq8w",
     "category": "Lean",
-    "calculated_at": "2025-03-14T19:31:32",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 27.6,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.2,
     "ai_depth": 2.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile concepts and the importance of language within that context. While it briefly mentions 'leanagileprocurement', this is not a core focus of the discussion, and the content lacks substantial detail on Lean principles or methodologies. The overall emphasis is on Agile coaching and consulting, which does not align closely with Lean's core themes.",
+    "ai_intent": 3.2,
+    "ai_audience": 6.5,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on language precision, transparency, and communication in Agile contexts, mentioning #leanagileprocurement as an area of Simon's work but not discussing Lean principles, methodologies, or tools directly. There are no explorations of Lean techniques, practices, or cultural impacts. The main intent and depth are squarely Agile-focused, with only a tangential Lean mention. Audience is partially relevant since Lean and Agile communities sometimes overlap, but relevance to Lean content is low overall.",
+    "reasoning_summary": "While Lean is mentioned once, no Lean principles or methods are discussed—the focus is on Agile communication. Fit with the Lean category is minimal, limited to tangential audience or career overlap.",
     "level": "Ignored"
   },
   "DevOps": {
@@ -1921,6 +1928,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on the importance of precise language and transparency in Agile contexts. While these values are tangentially related to Agentic Engineering—particularly via emphasis on transparency and clarity—they do not directly engage with the core concepts of agentic agency, system observability, or engineering practices that maximise agency for humans or AI. Instead, the discussion stays within the realm of communication and philosophy in Agile, with only peripheral mentions of DevOps or engineering autonomy. The main audience (Agile professionals and coaches) overlaps with the category, but most thematic substance is outside strict Agentic Engineering bounds. No direct mentions or substantial conceptual alignment; only weak overlap via secondary DevOps references and focus on professional/engineering collaboration.",
     "reasoning_summary": "This content centers on language and transparency in Agile, offering limited alignment with Agentic Engineering. While its audience and a few tangential themes overlap, the main focus is communication—not the deliberate engineering practices or agency maximization called for by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "G2XUaCtiq8w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 10.11,
+    "ai_mentions": 0.35,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.25,
+    "ai_intent": 1.6,
+    "ai_audience": 2.01,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the importance of language, transparency, and communication in Agile, discussing philosophy vs. mindset. There is no mention or thematic exploration of agentic software delivery, AI agents, contextual intelligence, or integration of human and autonomous workflows. The audience is Agile practitioners, which partially aligns, but there's no coverage of agentic delivery principles. No penalties were required as the content is not outdated nor contradictory, but relevance to the category is minimal.",
+    "reasoning_summary": "The content addresses Agile communication and mindset but does not cover agentic software delivery, AI agents, or related principles. Topic and purpose are only tangentially related, resulting in a low category fit.",
     "level": "Ignored"
   }
 }

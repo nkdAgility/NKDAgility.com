@@ -1450,15 +1450,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "5qtS7DYGi5Q",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:48:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its role in decision-making and performance evaluation, which does not directly address the Shift-Left Strategy. While there are elements of continuous improvement and metrics that could tangentially relate to early integration of processes, the focus is not on integrating testing, security, or compliance earlier in the software development lifecycle. Therefore, the content does not align well with the core themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 18.44,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 5.0,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content exclusively discusses Evidence-Based Management (EBM)—its purposes, metrics, and organizational value assessment. It never directly or indirectly mentions, nor aligns conceptually with, Shift Left Strategy. Key Shift Left ideas (testing, security, compliance early in SDLC) and any reference to development process integration are totally absent. The depth and intent focus entirely on value delivery measurement via EBM metrics, not process improvement, early defect detection, or proactive quality activities linked to Shift Left. The only vague overlap is that both topics target an improvement-oriented audience (tech leads, managers). Overall, the fit is extremely weak, reflected in low alignment, depth, intent, and mention scores.",
+    "reasoning_summary": "Content is about Evidence-Based Management and value metrics, with no mention or conceptual overlap with Shift Left Strategy. No alignment with category themes or purpose. Only minimal indirect audience overlap exists.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2017,5 +2024,24 @@
     "reasoning": "The content provides a thorough introduction and practical approach to Evidence-Based Management (EBM), emphasizing data-driven organizational improvement through metrics such as customer satisfaction and employee engagement. While the article discusses measurement practices, continuous improvement, and decision-making with some references to telemetry, these are framed within the context of EBM rather than Agentic Engineering. There is little explicit or implicit mention of maximizing developer or AI agency, decentralized decision-making, or the philosophical aspects central to Agentic Engineering. The discussion of telemetry, feedback loops, and team engagement only loosely overlaps with Agentic Engineering's themes (e.g., feedback-driven adaptation, systemic observability), but always through the lens of EBM and organizational value metrics, not engineering philosophy or agency maximization. No outdated or contradictory content was found; thus, no penalties were applied. The overall confidence reflects that, while some supporting practices are relevant, Agentic Engineering is not the main or sufficient focus of this content.",
     "reasoning_summary": "This content focuses on evidence-based decision-making and value measurement in organizations. While it briefly touches on telemetry and continuous improvement, it does not address core Agentic Engineering concepts like developer or AI agency, decentralization, or engineering philosophy. Its alignment with Agentic Engineering is incidental and not central.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5qtS7DYGi5Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 18.015,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.75,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Evidence-Based Management (EBM) and measuring organizational value via metrics like customer satisfaction, product usage, and employee engagement. It discusses the importance of data-driven decisions and continuous improvement frameworks, referencing telemetry and feedback loops. However, it does not address the integration of autonomous AI agents, agentic principles, human-agent synergy, or context-aware AI systems embedded in delivery processes. There are no explicit or implicit mentions of agentic software delivery concepts, boundary-setting for AI agents, modern agentic governance, or proactive machine intelligence in delivery. The audience is similar (organizational improvement, possibly engineering management), but the topic, depth, and intent center entirely on EBM and not agency or agentic practices.",
+    "reasoning_summary": "The content does not fit the Agentic Software Delivery category. It covers EBM and metrics for value delivery, but lacks any discussion of autonomous AI agents, agency, or agentic practices.",
+    "level": "Ignored"
   }
 }

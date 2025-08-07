@@ -893,13 +893,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "xGuuZ5l6fCo",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T14:45:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with the principles of technical leadership in agile environments. However, it primarily focuses on the challenges and processes rather than providing direct strategies or insights on technical leadership itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 72.55,
+    "ai_mentions": 3.6,
+    "ai_alignment": 8.5,
+    "ai_depth": 7.8,
+    "ai_intent": 7.0,
+    "ai_audience": 8.3,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content focuses on empowering agile teams to act on user feedback and adapt requirements, which relates to team leadership, fostering empowerment, and psychological safety. It addresses overcoming organizational barriers and creating a culture of trust—elements in the technical leadership domain. There's alignment with fostering continuous improvement and facilitating change, and it references industry frameworks (e.g., DoD litmus test). However, the core perspective is on empowerment and process change, not explicitly about technical leaders influencing teams through their technical expertise or direct leadership strategies (e.g., direct mentions of mentoring, servant leadership, or architectural decision-making are missing). The audience is agile coaches and practitioners, relevant to technical leadership, but the focus is more on team and organizational agility than directly on the leadership role itself. Thus, while the content is strongly related, it’s not a perfect direct match to the narrow definition.",
+    "reasoning_summary": "Content aligns with technical leadership by discussing team empowerment, feedback loops, and cultural change. However, it does not directly address leadership roles, mentoring, or servant leadership, resulting in a partial but relevant fit.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -2024,5 +2034,24 @@
     "reasoning": "The content focuses on empowering Agile teams to act on user feedback and adapt requirements rapidly, closely aligning with developer agency, feedback-driven adaptation, and elements of decentralised decision-making. It addresses structural and cultural blockers to team autonomy, referencing empowerment, adaptability, and continuous improvement. However, it does not use the term 'Agentic Engineering' directly, lacks explicit discussion of AI agency, systemic observability, or DevOps-specific automation, thus omitting some core aspects of the category. The depth is moderate, with substantial exploration of team empowerment but not the broader integration of engineering or agentic principles. The target audience (Agile practitioners and leaders) overlaps well with the category's focus on engineering leaders interested in agency. No penalties were necessary as the discussion is current and supports agentic concepts without contradiction.",
     "reasoning_summary": "While the content centers on empowering teams and adaptive change—key to Agentic Engineering—it lacks direct mention and omits AI or DevOps dimensions. Depth and intent moderately align, but the focus remains more on Agile team empowerment than the broader, integrative agentic engineering discussion.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xGuuZ5l6fCo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 32.67,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.5,
+    "ai_intent": 3.0,
+    "ai_audience": 3.6,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "There is no direct mention of agentic software delivery or autonomous AI agents. The content focuses exclusively on empowering Agile teams via human processes, user feedback, flexible contracts, and cultural empowerment. While it discusses feedback loops and autonomy, these are framed entirely as human operational or organizational improvements, not as the result of embedding AI agents, contextual intelligence, or agentic principles. There is no reference to AI agency, human-in-the-loop designs for automation, integration of AI with telemetry/backlog, or any modern engineering practice in service of agent-based delivery. The intended audience—Agile practitioners—is somewhat adjacent, but the themes, depth, and language are that of traditional (if modernized) Agile, not agentic paradigms. Therefore, only minimal alignment and relevance exist, mostly due to some conceptual parallels in autonomy and adaptiveness, but agentic software delivery is not addressed directly or thoroughly.",
+    "reasoning_summary": "Content discusses Agile team empowerment, user feedback, and process change—not agentic software delivery or AI agent integration. Only minor alignment due to themes of autonomy, but content lacks agentic focus or technical depth. Fit is weak and indirect.",
+    "level": "Ignored"
   }
 }

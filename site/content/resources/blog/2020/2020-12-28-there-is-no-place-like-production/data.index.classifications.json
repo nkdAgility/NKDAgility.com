@@ -1233,17 +1233,23 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "KUJ7jHOGqP7",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:54:32",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of real user feedback and validation in production, which aligns with the DevOps principle of delivering value through continuous feedback loops. However, it primarily focuses on product management and user feedback rather than the broader DevOps philosophy, methodologies, or practices. While it touches on aspects of collaboration and the necessity of releasing features to gather feedback, it lacks a comprehensive exploration of DevOps principles such as automation, shared accountability, and cultural shifts. Therefore, while there is some alignment with DevOps concepts, the depth and primary focus are more on product management than on DevOps itself.",
-    "level": "Secondary",
-    "reasoning_summary": "This content mainly centres on product management and the value of user feedback, only briefly touching on DevOps concepts like feedback loops. It doesn’t delve into core DevOps practices such as automation or cultural change, so it doesn’t fully fit the DevOps category. Its primary focus is on gathering and acting on user insights rather than exploring the broader DevOps methodology."
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 74.3,
+    "ai_mentions": 2.9,
+    "ai_alignment": 7.2,
+    "ai_depth": 7.7,
+    "ai_intent": 8.5,
+    "ai_audience": 7.6,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "The content focuses on releasing features to production to validate value, emphasizing feedback loops, production usage, and continuous improvement—central ideas in DevOps. It discusses automation and release, but doesn't explicitly name 'DevOps' and often frames topics in Agile or product terms. The depth of discussion is strong on why production releases matter but doesn't go deeply into DevOps culture, automation, or cross-team collaboration—more inferred than explicit. The intended reader is practitioners involved in releasing or product validation, reasonably overlapping with DevOps audiences. The signal is high: almost all content relates to getting features into production, which aligns well with DevOps principles, but does not discuss technical, process, or cultural DevOps implementation details directly.",
+    "reasoning_summary": "Content aligns with DevOps topics such as production releases, feedback loops, and delivery of value. While it shows strong conceptual fit, it lacks explicit reference to DevOps and deep exploration of DevOps practices or culture, making the fit partial but substantial.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -2037,5 +2043,24 @@
     "reasoning": "The content thoroughly advocates for rapid feedback, production releases, and validating value with real users, closely aligning with Agentic Engineering’s emphasis on feedback-driven adaptation and empirically evolving workflows. It discusses systemic observability via usage and satisfaction metrics, and touches on employee agency through satisfaction being a key measure. However, it never explicitly mentions 'Agentic Engineering' or fully explores the philosophical underpinnings of maximizing human and AI agency; AI collaboration and ethical considerations are not discussed. The piece is praxis-oriented and highly relevant for practitioners, but focus is on evidence-based management and release validation rather than the broader architecture of agency. Therefore, confidence is moderate, as the alignment and depth are present, but direct mention and full conceptual scope are lacking.",
     "reasoning_summary": "This content strongly supports validating value and fast feedback in production, echoing some Agentic Engineering themes like empirical adaptation and observability, but does not explicitly cover agentic concepts, AI collaboration, or autonomy. It aligns well with the practice, but not fully with the category’s scope.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KUJ7jHOGqP7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 36.35,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.6,
+    "ai_intent": 4.2,
+    "ai_audience": 4.6,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on the importance of production releases for validating value, using metrics like customer and employee satisfaction, and citing Evidence-Based Management. While these themes relate to modern software delivery and measurement, the content does not mention or meaningfully discuss autonomous AI agents, contextual intelligence, human-agent synergy, or agentic delivery practices. The discussion centers on evidence, value validation, and the need for real user feedback, not on proactive, intelligent agent-driven delivery. The intended audience (practitioners in agile/EBM contexts) aligns somewhat, but the core agentic principles and delivery enablement via AI agents are notably absent. No penalties applied, as the content does not contradict or undermine agentic delivery—it's simply tangential.",
+    "reasoning_summary": "Content covers modern release, feedback loops, and value validation but does not mention or discuss agentic delivery, AI agents, or context-aware intelligence. Fits adjacent agile/EBM topics rather than the specified category.",
+    "level": "Ignored"
   }
 }

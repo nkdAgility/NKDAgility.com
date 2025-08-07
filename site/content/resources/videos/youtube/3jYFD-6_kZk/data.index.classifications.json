@@ -1413,15 +1413,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "3jYFD-6_kZk",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:25:10",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps data migration, discussing common issues, best practices, and personal experiences. While it touches on the importance of planning and order in migration, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for the Common Goals category.",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 23.08,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 7.7,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses almost exclusively on technical strategies, pitfalls, and stepwise best practices for migrating from TFS to Azure DevOps. It addresses process order, data integrity, identity issues, and backup details but never discusses aligning strategy with execution or establishing shared objectives as 'Common Goals' within DevOps. There is no explicit or implicit reference to team-wide objectives, shared alignment frameworks, or strategic outcomes at the organizational level. The intent is mainly technical guidance for practitioners, not organizational or collaborative alignment. Audience overlap is partial (DevOps practitioners), but the theme is too technical and procedural for 'Common Goals'.",
+    "reasoning_summary": "This content is deeply technical, focusing on DevOps migration steps, not Common Goals. There is minimal alignment with the topic, almost no mentions, and shallow fit with the category’s intent or themes.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1948,6 +1955,25 @@
     "final_score": 18.0,
     "reasoning": "The content is predominantly a practical, step-by-step guide to Azure DevOps data migration from TFS, focused on technical processes: data clean-up, order of operations, identity alignment, and backup procedures. While it supports engineering rigor, it does not engage with the philosophy or practices that deliberately maximize human or AI agency, decentralize decision-making, or foster feedback-driven adaptation. No explicit or conceptual discussion of systemic observability, decision autonomy, or DevOps-augmented ethical agency is present. The audience overlaps partially (engineers/DevOps professionals), but the focus is technical execution rather than empowering agency. Minor penalty reductions were taken in multiple categories to reflect these tangential fits.",
     "reasoning_summary": "This content centers on Azure DevOps migration best practices, lacking any substantive discussion of Agentic Engineering principles like maximizing agency, decentralization, or feedback-driven adaptation. It is relevant for practitioners but does not address the agentic or philosophical dimension required for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3jYFD-6_kZk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 9.68,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "alignment penalized (content focused on traditional migration, not agentic delivery; topics are outdated and not relevant to AI agents or agentic practices)",
+    "final_score": 10.0,
+    "reasoning": "The content is entirely about Azure DevOps/TFS data migration, focusing on steps, order of operations, identity mapping, and disaster recovery. There are no direct or indirect references to agentic software delivery themes—no mention of AI agents, human-in-the-loop, contextual intelligence, or agent-enabled practices. The intent, depth, and audience are centered on practitioners managing traditional migrations, not those interested in outcome-focused agentic tooling. A penalty is applied for alignment due to an outdated, classic approach that doesn't align with the category's definition. Overall, the content is off-topic for Agentic Software Delivery.",
+    "reasoning_summary": "Content focuses solely on legacy Azure DevOps/TFS migration, with no discussion of agentic software delivery, AI agents, or modern contextual intelligence. It does not fit the assigned category in theme, purpose, or audience.",
     "level": "Ignored"
   }
 }

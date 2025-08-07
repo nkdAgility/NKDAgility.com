@@ -595,13 +595,23 @@
     "level": "Tertiary"
   },
   "Windows": {
+    "resourceId": "sT44RQgin5A",
     "category": "Windows",
-    "calculated_at": "2025-02-17T12:12:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions Windows in the context of its development and release cycles, particularly referencing Windows Vista, Windows 7, Windows 8, and Windows 10. However, the primary focus is on Scrum, product management, and organisational capabilities rather than a detailed discussion of the Windows operating system itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 4.411,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.3,
+    "ai_intent": 1.2,
+    "ai_audience": 6.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content does not directly mention Windows or discuss any Windows-related installation, configuration, troubleshooting, updates, or system management topics. It is solely focused on evidence-based management within Scrum, covering value areas like current value, unrealized value, ability to innovate, and time to market. Although the audience may overlap with some IT or technical practitioners who use Windows, there is no explicit or implicit connection to the Windows operating system or its ecosystem. No penalties are applied because the tone is neutral and the information is current, but the fit with the Windows category is extremely low due to the complete lack of relevant conceptual overlap.",
+    "reasoning_summary": "This content is entirely focused on Scrum's evidence-based management and does not mention or address the Windows operating system, its features, or management. It does not fit the Windows category as defined.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "resourceId": "sT44RQgin5A",
@@ -2011,6 +2021,25 @@
     "final_score": 56.0,
     "reasoning": "The content focuses on evidence-based management within Scrum, covering value delivery, metrics, and operational improvement. While topics like telemetry, feedback, innovation, and DevOps automation are discussed, there are no direct mentions of agentic engineering, human/AI agency, or ethical AI integration. The conceptual alignment exists mainly via themes of autonomy, feedback-driven improvement, and some DevOps links, but lacks thorough exploration of agentic philosophy, decision decentralization, or AI's collaborative role. The main intent is informative for practitioners and technical leaders—close to the right audience but not uniquely tailored to agentic engineering. The content is highly relevant and focused, with minimal digression.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering themes, especially around autonomy, feedback loops, innovation, and DevOps practices, but does not explicitly discuss agency maximization or AI collaboration. Relevant for practitioners aiming to improve evidence-based engineering, with some conceptual overlap.",
+    "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sT44RQgin5A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 44.76,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.85,
+    "ai_depth": 4.55,
+    "ai_intent": 4.25,
+    "ai_audience": 5.4,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content discusses evidence-based management and Scrum's four key value areas for organizational and product improvement. While it references some practices associated with modern engineering (e.g., CI/CD, telemetry) and mentions tools like DevOps, there is no explicit mention of autonomous AI agents, agency, or the integration of AI with human expertise. The depth is moderate as the content is focused and detailed about measurement and improvement, but agentic principles are not a primary or discussed theme. The audience (Scrum, Agile, and product practitioners) overlaps somewhat with the Agentic Software Delivery audience, and the content has a high signal-to-noise ratio due to its relevance to software delivery improvement. However, the lack of direct connections to agency, autonomy, and AI integration in delivery limits its fit for this category.",
+    "reasoning_summary": "Content focuses on evidence-based management in Scrum, with little or no reference to AI agent integration or agency principles. It is relevant to delivery teams, but misaligned with core agentic software delivery topics. Only a loose, partial fit.",
     "level": "Tertiary"
   }
 }

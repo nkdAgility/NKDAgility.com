@@ -693,15 +693,22 @@
     "level": "Secondary"
   },
   "Continuous Delivery": {
+    "resourceId": "8uPjXXt5lo4",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:27:24",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and Agile training experiences, focusing on common challenges faced by teams adopting Agile methodologies. While it touches on themes like improving time to market and responding to customer needs, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in the delivery process. The discussion is more about Agile frameworks rather than Continuous Delivery specifically, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 19.04,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.4,
+    "ai_audience": 2.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses heavily on agile and scrum training, discussing challenges, shared global experiences, and the benefits of scrum as an agile framework. While there are tangential references to goals like improving time-to-market and customer delight, there is no explicit or implicit discussion of Continuous Delivery principles, automation, deployment practices, or any unique concepts of Continuous Delivery. Mentions of 'continuous improvement' are tied generally to agile/organizational development, not CD-specific ideas. The primary audience is agile and scrum practitioners, but this does not align closely with the specialised Continuous Delivery audience. The content lacks depth, alignment, and discussion on this category, and there are virtually no direct mentions. Confidence is calculated proportionally very low.",
+    "reasoning_summary": "This content is centered on agile and scrum training, with no substantive discussion of Continuous Delivery principles, practices, or culture, resulting in a weak category fit. Any potential overlap is superficial and indirect.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2018,6 +2025,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on agile and scrum adoption challenges across cultures, emphasizing themes like empiricism and collaboration. While these are tangentially related to agency, the discussion does not mention or deeply explore deliberate engineering practices, developer/AI agency, systemic observability, autonomy, or ethical AI—core tenets of Agentic Engineering. The primary audience is practicing Scrum trainers or trainees, aligning somewhat with Agentic Engineering but missing the philosophical focus on maximizing human and AI agency. There’s no explicit mention or substantial exploration of agentic decision-making frameworks, ethical automation, or DevOps-infused craft.",
     "reasoning_summary": "This content centers on global scrum training experiences, highlighting shared challenges in agile transformation but doesn’t discuss the deliberate engineering practices or agency themes central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8uPjXXt5lo4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 3.045,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused on cross-cultural agile and scrum training, discussing shared challenges in adoption and organizational change, but makes no mention of AI, agents, or agentic software delivery concepts. It does not discuss proactive, context-aware intelligence, AI-human synergy, or modern engineering practices central to Agentic Software Delivery. There is no exploration of autonomy, feedback loops grounded in AI, or the integration of agentic principles. The main audience is agile and scrum practitioners/trainees, which only weakly overlaps with the agentic delivery audience if at all. Content is useful within agile coaching and training fields but does not address the category’s core topics or intent.",
+    "reasoning_summary": "Content is about agile and scrum training challenges globally, with no reference to AI, agency, or agentic software delivery. There is minimal conceptual overlap; the fit is negligible.",
     "level": "Ignored"
   }
 }

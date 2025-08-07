@@ -157,16 +157,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Software Development",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses software development methodologies and practices, which are related to discipline in terms of structured approaches and systematic processes. However, the term 'discipline' is not explicitly mentioned, and while there is some alignment with the core themes of discipline through the emphasis on systematic approaches and continuous improvement, the depth of discussion specifically on discipline is limited. Therefore, the confidence score reflects a moderate connection to the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 72.03,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.1,
+    "ai_intent": 7.5,
+    "ai_audience": 7.9,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Software Development as a systematic, holistic approach referencing iterative work, Agile, Lean, DevOps, continuous improvement, evidence-based management, and principles like adaptability and cross-functional collaboration. While the word 'discipline' is not directly used, the overall framing (e.g., 'systematic approach,' 'integration of practices and principles,' 'continuous improvement,' 'holistic view of software lifecycle') is highly aligned with the category's definition. The discussion combines methods, purpose, systemic application, and evolution of concepts within organizational and professional contexts. However, it does not explicitly discuss governance, the maturation of the discipline, or provide in-depth historical/case study perspectives. The focus remains practical and broadly conceptual rather than going deep into the evolution, structures, or explicit discipline-defining elements. Thus, the fit is strong conceptually but not maximal regarding category-defining specifics.",
+    "reasoning_summary": "Content fits the category well, describing software development as a systemic, principle-driven approach referencing Agile/DevOps/Lean, but lacks explicit discussion of discipline structure or evolution; coverage is broad yet mostly conceptual.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "resourceId": "Software Development",
@@ -3135,6 +3142,25 @@
     "final_score": 18.0,
     "reasoning": "The content discusses software development methodologies emphasizing team collaboration and quality delivery but does not reference or explore the concept of human-AI collaboration or the enhanced capabilities emerging from such partnerships, as required by the Collective Intelligence category. Terms like Agile, DevOps, and evidence-based management are mentioned within a human context only, without considering AI as a teammate or enabler. There are no direct mentions of collective intelligence, nor any substantive analysis of distributed cognition, human-AI agency, or related best practices. The audience and purpose align moderately, but the conceptual fit and depth are low since the core dimension of human-AI partnership is absent.",
     "reasoning_summary": "This content centers on human-driven software development practices and team collaboration but does not address human-AI partnerships or emergent collective capabilities with AI, making its fit to 'Collective Intelligence' minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Software Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 28.725,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.8,
+    "ai_intent": 2.5,
+    "ai_audience": 8.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content describes software development methodologies (Agile, Lean, DevOps), iterative cycles, evidence-based management, and automation. However, it does not reference, imply, or substantively discuss autonomous AI agents, contextual intelligence, agentic delivery, governance, or human-agent collaboration central to Agentic Software Delivery. The fit is weak; the closest overlap is general mentions of automation and continuous improvement, which do not satisfy the in-depth requirements or key topics set out in the category definition.",
+    "reasoning_summary": "The content addresses modern software development but lacks any direct or substantial reference to agentic practices, AI agents, or their integration with humans. Category fit is minimal, mostly due to thematic overlap around automation and improvement.",
     "level": "Ignored"
   }
 }

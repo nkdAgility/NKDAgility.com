@@ -1499,15 +1499,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "1VzbtRspOsM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:18:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile leadership and immersive learning experiences, specifically the PAL-E class, without discussing the One Engineering System framework or its principles. While it touches on collaboration and leadership practices, it does not align with the core themes of 1ES, such as standardisation and integration of software development practices across teams.",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 16.96,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 5.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is centered entirely on immersive learning for agile leaders and the PAL-E course. There is no mention—direct or indirect—of One Engineering System (1ES), nor discussion of standardising or integrating software development tools, processes, or the systematic unification of engineering practices. The main topics—agile leadership, cultural change, delegation, and experiential learning—align with leadership and agile transformation, not with 1ES. While some ideas (like cross-team collaboration and breaking down silos) could marginally connect to broader integration themes, there's no substantive exploration of unified tooling, process integration, or 1ES-specific principles. The intended audience (aspiring agile leaders) may overlap superficially with 1ES stakeholders, but there is little focus or depth on the systems integration or standardisation that uniquely define 1ES. The signal-to-noise ratio is moderate, as all content is relevant to agile leadership but irrelevant to 1ES.",
+    "reasoning_summary": "This content is focused on immersive agile leadership training and cultural transformation, not on One Engineering System. There are no direct or meaningful indirect references to the standardisation or integration of engineering systems or processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2014,5 +2021,24 @@
     "reasoning": "Direct reference to 'Agentic Engineering' is absent, reflected in the very low mentions score. The content centers on immersive learning for agile leaders, emphasizing autonomy, experimentation, empowerment, and feedback (e.g., delegation, self-organizing teams, and practical experimentation). While these themes partially align with developer agency and feedback-driven adaptation, the focus is on leadership transformation and learning environments, not deliberate engineering design or the agency of humans and intelligent systems together. Discussions of DevOps, ethical AI, or systemic observability are notably missing, reducing depth and alignment. The audience (agile leaders/practitioners) partially fits the intended demographic but lacks direct targeting of engineering roles core to Agentic Engineering. Overall, most of the content is thematically relevant to agentic practices and continuous value delivery but does not discuss frameworks, automation, or philosophical aspects fundamental to the Agentic Engineering category.",
     "reasoning_summary": "The content strongly promotes leader empowerment and practical experimentation in agile contexts—key adjacent principles to Agentic Engineering—but does not explicitly address the category's technical or philosophical underpinnings, such as system design, developer autonomy, or AI integration.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1VzbtRspOsM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 12.03,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on immersive learning for agile leadership, emphasizing human-centric leadership development, experimentation, and culture change. There are no direct or indirect references to agentic software delivery, autonomous AI agents, or integration of AI and human expertise in software delivery. The themes of agency, automation, contextual AI, or engineering practices (such as CI/CD, observability, governance frameworks for agent-agent/human collaboration) are not present. Target audience overlaps slightly (agile practitioners and leaders), but all discussion is on human/team transformation, not technology or agentic systems.",
+    "reasoning_summary": "Content is about agile leadership and immersive learning, with no mention or exploration of agentic software delivery, AI agents, or related integration. Fit with the category is extremely minimal and mostly incidental due to audience overlap.",
+    "level": "Ignored"
   }
 }

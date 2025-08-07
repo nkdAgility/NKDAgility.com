@@ -1035,16 +1035,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "h3J11t10A0g",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T13:01:25",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content discusses technical leadership as a key area in navigating software development challenges, highlighting its importance in decision-making and product delivery. However, while it mentions agile principles and their relevance, the depth of discussion on specific technical leadership strategies and practices is limited. The focus is more on general agile concepts rather than detailed technical leadership practices, which slightly reduces the overall confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 82.33,
+    "ai_mentions": 8.4,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.6,
+    "ai_intent": 8.2,
+    "ai_audience": 9.3,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 82.0,
+    "reasoning": "The content specifically names technical leadership several times and emphasizes its role in managing unpredictability in software delivery. The conceptual focus is on how strong technical leadership empowers teams to be adaptable, encourages better decision-making, and connects explicitly to agile principles. It addresses nuances like understanding complexity, facilitating adaptation through leadership, and the necessity for technical leaders to go beyond basic oversight toward product vision and context. While principles like servant leadership or hands-on agile ceremonies are not discussed in depth, the main message is highly aligned with the leadership category as defined. The content's intent is to inform and guide readers—most likely agile practitioners, leaders, and technical managers—about the synergy between technical leadership and agile, with minimal off-topic material. No penalties were needed as nothing outdated or contradictory appears.",
+    "reasoning_summary": "The content closely aligns with technical leadership in agile: it is addressed by name, with focus on its importance in dealing with uncertainty, empowering adaptation, and enabling engineering excellence, making the fit strong and relevant.",
+    "level": "Primary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -2020,5 +2027,24 @@
     "reasoning": "The content emphasizes Agile principles, technical leadership, engineering excellence, and practices like iterative development and continuous feedback. However, it doesn't directly reference Agentic Engineering or its core themes (e.g., maximizing human/AI agency, decentralizing decisions, ethical AI integration). The focus is on adaptive software development but lacks substantial exploration of agency, autonomy, or systemic observability. There’s some overlap with general engineering empowerment, but key Agentic Engineering pillars (such as explicit AI collaboration or decentralization frameworks) are missing. Audience fit is moderate, as it mainly targets technical leaders and engineers, and the signal-to-noise ratio is decent but not tightly focused on the category.",
     "reasoning_summary": "The article aligns somewhat with Agentic Engineering by discussing adaptability, leadership, and continuous improvement, but it doesn't directly address agency, decentralized decision-making, or AI collaboration, resulting in only partial category fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "h3J11t10A0g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 24.02,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.35,
+    "ai_intent": 2.8,
+    "ai_audience": 7.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "This content focuses on Agile principles, technical leadership, and engineering excellence. It discusses unpredictability in software delivery and strategies like Agile, Scrum, and continuous delivery/testing. However, it does not mention Agentic Software Delivery, nor does it discuss autonomous AI agents, contextual intelligence, agent integration with human teams, or agentic governance frameworks. The concepts discussed—while modern and relevant to high-performing teams—are rooted in traditional Agile and engineering best practices rather than the integration of proactive AI agents as per the category's definition. The intended audience (technical leaders, engineers) aligns with the category, and most content is focused and relevant for them, but not for the explicit agentic context.",
+    "reasoning_summary": "This content centers on Agile, technical leadership, and continuous engineering—not on agentic software delivery or autonomous AI agents. There is little conceptual or explicit overlap with the intended category; fit is weak and largely coincidental.",
+    "level": "Ignored"
   }
 }

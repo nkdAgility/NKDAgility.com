@@ -45,15 +45,22 @@
     "level": "Secondary"
   },
   "Beta Codex": {
+    "resourceId": "cGOa0rg_L-8",
     "category": "Beta Codex",
-    "calculated_at": "2025-04-10T14:45:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly touches on agility and the need for a streamlined process, which aligns with some principles of BetaCodex. However, it lacks direct mentions of decentralisation, human-centric approaches, or adaptive organisational cultures, which are core themes of the category. The discussion is more focused on the operational aspects of agility rather than the foundational theories of BetaCodex.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 29.786,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.7,
+    "ai_intent": 4.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on optimizing Agile practices, advocating end-to-end agility via automation, CI/CD, and short feedback loops. While it critiques bureaucracy and highlights stakeholder value, there are no direct mentions of Beta Codex or its decentralised, human-centric principles. The article does not discuss the foundational theories, organizational redesign, or human-centric leadership crucial to Beta Codex—its focus is exclusively on Agile technical process improvement, not structural organizational transformation. Target audience overlaps somewhat (agile professionals), and the intent aligns partially in spirit by challenging bureaucracy, but most examples remain within process, not organizational design.",
+    "reasoning_summary": "The article discusses Agile process improvements, automation, and feedback loops but does not mention Beta Codex or its decentralised, human-centric principles. Content partially relates but lacks direct and substantial Beta Codex alignment.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -2020,6 +2027,25 @@
     "final_score": 59.0,
     "reasoning": "The content offers a detailed exploration of end-to-end automation, short feedback loops, CI/CD, and value maximization in Agile delivery. These concepts overlap with agentic engineering, particularly around developer agency, fast feedback, and continuous value delivery. However, it never explicitly names 'Agentic Engineering,' ethical AI integration, or autonomy of intelligent systems. The emphasis is on practical Agile/DevOps improvements rather than discussing agency as a philosophical/engineering principle, giving partial but not central conceptual alignment. Depth is moderate due to concrete examples on automation, but discussions on agency, decentralization, or human/AI autonomy are indirect, making it a supporting rather than defining fit for the category.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by highlighting end-to-end automation, shortened feedback loops, and continuous delivery, paralleling key agentic practices. However, it doesn’t explicitly address agency, autonomy, or AI integration, making its fit relevant but not comprehensive.",
+    "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 40.59,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.0,
+    "ai_intent": 4.3,
+    "ai_audience": 4.9,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content focuses on Agile project delivery, automation, CI/CD, and short feedback loops. While it covers modern engineering practices (like automation, observability, and CI/CD), it does not reference or describe agentic principles—such as integration of AI agents, agency, contextual intelligence, or human-agent collaboration. The discussion remains on traditional Agile/DevOps and automation without exploring proactive, context-aware AI, governance frameworks for agents, or human-in-the-loop systems. Its audience (Agile practitioners) partially overlaps with Agentic Software Delivery advocates, but the core theme of agentic systems is absent. No direct mentions, little conceptual overlap, but moderate depth on end-to-end automation topics relevant to some agentic pre-conditions.",
+    "reasoning_summary": "Content stresses end-to-end Agile delivery, automation, and feedback loops but does not discuss autonomous AI agents or agentic delivery. It only weakly aligns by covering modern engineering practices that could enable agentic delivery, lacking deeper category fit.",
     "level": "Tertiary"
   }
 }

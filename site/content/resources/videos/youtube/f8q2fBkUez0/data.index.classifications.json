@@ -1055,16 +1055,23 @@
     "level": "Ignored"
   },
   "Decision Theory": {
+    "resourceId": "f8q2fBkUez0",
     "category": "Decision Theory",
-    "calculated_at": "2025-03-14T18:11:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses financial awareness and motivation in the context of employee-employer relationships, with some references to decision-making processes. However, it lacks a focused exploration of decision theory principles such as heuristics, biases, or decision-making frameworks. The discussion is more about financial literacy and its impact on motivation rather than a deep dive into decision-making under uncertainty.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 53.95,
+    "ai_mentions": 2.5,
+    "ai_alignment": 6.7,
+    "ai_depth": 7.8,
+    "ai_intent": 6.9,
+    "ai_audience": 8.3,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content discusses the importance of financial awareness and literacy in improving employee decision-making and accountability. It highlights how an understanding of financial implications influences choices within Agile and Scrum contexts and encourages informed decision-making for better business outcomes. There are clear references to improving 'decision-making' and references to motivation models (e.g., Dan Pink), but explicit use of the term 'decision theory' or coverage of core constructs—probability, heuristics, cognitive biases, or mathematical decision models—is lacking. The alignment is partial: the focus is on empowering employees rather than deeply exploring the mechanics, frameworks, or psychological dimensions central to decision theory. Nevertheless, references to 'decision-making under uncertainty' and organizational enablement bring the content somewhat into the domain, justifying a middling confidence score. There are no penalties—content is current, positively framed, and not satirical.",
+    "reasoning_summary": "The piece links financial awareness to improved decision-making and motivation in Agile workplaces but lacks direct engagement with decision theory principles or models. Intent and audience fit are moderate, resulting in only partial alignment with the category.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1922,6 +1929,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on employee empowerment through financial awareness, linking financial literacy with motivation, decision-making, and accountability. While there are tangential connections to autonomy and ownership—concepts present in Agentic Engineering—the discussion does not center on deliberate engineering practices, systemic observability, DevOps-infused craft, or AI integration. There are no direct mentions of Agentic Engineering, and the dominant theme is workplace culture rather than maximizing human and AI agency through engineering. Some overlap exists in advocating for informed, empowered decision-making, but the lack of focus on technical or philosophical aspects specific to Agentic Engineering significantly limits alignment and depth.",
     "reasoning_summary": "This content promotes employee agency by fostering financial awareness and ownership but does not address the intentional engineering practices or technical principles that define Agentic Engineering. Its emphasis is on workplace motivation rather than engineering-driven autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "f8q2fBkUez0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 18.564,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 2.5,
+    "ai_audience": 6.0,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content explores financial literacy within agile and organizational development, with passing references to practices like CI/CD and Scrum. However, it does not discuss autonomous AI agents, context-aware intelligence, or agentic delivery principles. Instead, it focuses on financial awareness, motivation, and decision-making. Mentions of software practices are incidental, not core. While the audience (agile/tech practitioners) overlaps somewhat, the core themes do not align with 'Agentic Software Delivery,' resulting in very low direct mentions and weak conceptual depth regarding this category.",
+    "reasoning_summary": "This content centers on financial awareness and motivation in agile settings, without substantive discussion of agentic software delivery or AI agents. Limited overlap in audience; topic and intent do not fit the category definition.",
     "level": "Ignored"
   }
 }

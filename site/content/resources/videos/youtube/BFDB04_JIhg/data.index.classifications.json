@@ -1418,15 +1418,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how Kanban supports continuous improvement. It covers practical implementation, workflow visualisation, and metric tracking, all of which are central to ongoing enhancement. The inclusion of actionable advice and real-world examples further demonstrates its relevance to Agile continuous improvement practices."
   },
   "Common Goals": {
+    "resourceId": "BFDB04_JIhg",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:33:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement and does not explicitly discuss Common Goals or their significance in Agile and DevOps. While it touches on aspects of team collaboration and continuous improvement, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 34.835,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.5,
+    "ai_intent": 4.9,
+    "ai_audience": 7.3,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on Kanban as a tool for process transparency, visualization, and continuous improvement. While these are relevant Agile themes, the article does not directly discuss Common Goals, strategic/tactical alignment, shared objectives, or frameworks like OKRs. There are indirect references to team understanding and improvement but no explicit or thorough exploration of Common Goals as foundational alignment in Agile/DevOps. The audience matches Agile teams/practitioners, and signal-to-noise is high, but due to a lack of direct and in-depth conceptual fit to Common Goals, confidence remains low.",
+    "reasoning_summary": "Mainly explores Kanban for transparency and improvement, not Common Goals. Minimal mention of alignment or shared objectives. Fit to 'Common Goals' category is weak and only tangential.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1958,6 +1965,25 @@
     "final_score": 38.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent. While there is a focus on team transparency, workflow visualization, and continuous improvement (all aligned with agency and adaptive practice), the discussion centers purely on Kanban as a process optimization tool. There's minimal engagement with human-AI agency, decentralised decision-making, or ethical AI—core to Agentic Engineering. Audience is technical (teams, Scrum Masters), which partially overlaps. The majority of content is instructional Kanban advice without deeper philosophical treatment or direct focus on maximising agency in an agentic-engineering sense.",
     "reasoning_summary": "This content is a practical guide to Kanban, with some themes (transparency, continuous improvement) tangentially aligned to Agentic Engineering, but lacks direct reference or in-depth exploration of agency, autonomy, or human/AI engineering frameworks. Fit is partial but not strong.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 11.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.8,
+    "ai_intent": 2.6,
+    "ai_audience": 2.3,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "There are no direct mentions of agentic concepts: the content only discusses Kanban as a tool for visualizing workflows, identifying bottlenecks, and supporting continuous improvement. The article is focused on traditional Agile/Lean practices and does not address autonomous AI agents, contextual intelligence, agent-human synergy, or any of the specific agentic delivery principles. Depth is shallow with respect to the category, intent is practical but not aligned with agentic software delivery, and the audience is Agile/Scrum practitioners—not those exploring autonomous or agentic AI in software delivery. The signal is focused on Kanban and unrelated to agentic software delivery, so confidence is very low.",
+    "reasoning_summary": "Content is strictly about Kanban as a visualization and improvement tool and does not align with Agentic Software Delivery, which focuses on autonomous AI agents, context-aware systems, or agentic practices. There is no significant fit.",
     "level": "Ignored"
   }
 }

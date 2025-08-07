@@ -159,15 +159,22 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Internal Developer Platform",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the Internal Developer Platform (IDP) and its role in streamlining development processes, which indirectly relates to discipline through the promotion of best practices and structured workflows. However, the primary focus is on the technical aspects of the IDP rather than discipline itself. While there are mentions of fostering a culture of collaboration and innovation, these are secondary to the main topic. The depth of discussion on how an IDP can create a sustainable development ecosystem contributes positively to the alignment with discipline, but it does not explicitly focus on discipline as a primary theme.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 54.95,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.5,
+    "ai_depth": 4.9,
+    "ai_intent": 6.2,
+    "ai_audience": 7.8,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content describes how an Internal Developer Platform (IDP) streamlines processes and supports best practices, collaboration, and CI/CD. While it hints at the systemic, principled approach and touches on continuous improvement, it primarily focuses on tools, efficiency, and workflow rather than on the field of 'Discipline' as a professional domain with governance, shared principles, or ethical standards. There are modest overlaps with discipline-related themes (such as promoting reliability, embedding best practices, and systemic improvement), but explicit discussion of the maturation, codification, or evolution of disciplines, or their governance/ethical constructs, is absent. Direct references to 'discipline' as a structured field or system are minimal. The content best serves practitioners or operational leaders, but the main intent is informative about a platform rather than a study of discipline as defined.",
+    "reasoning_summary": "The content describes the systemic and collaborative benefits of Internal Developer Platforms but stops short of explicitly framing IDPs as a field of discipline. Partial fit: discipline-adjacent, but mainly about tools and workflow efficiency.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -3122,5 +3129,24 @@
     "reasoning": "The content describes the function and benefits of an Internal Developer Platform (IDP), focusing on developer productivity, collaboration, automation, and best practices in software delivery. However, there are no direct mentions of collective intelligence or human-AI collaboration. The content discusses human team collaboration and culture but does not reference or imply AI as an active team member, joint problem-solving with AI, or emergent human-AI capabilities. There is minimal conceptual alignment with 'Collective Intelligence' as defined—it generally fits product development efficiency and collaboration, but not human-AI partnerships. The intended audience (engineers, DevOps) matches the category, but the main focus diverges.",
     "reasoning_summary": "This content centers on tools and team processes for software development but lacks any discussion or framing around collaboration between humans and AI agents. Its relevance to 'Collective Intelligence' is minimal since it does not address the key concepts that define the category.",
     "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Internal Developer Platform",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 43.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.9,
+    "ai_intent": 4.8,
+    "ai_audience": 7.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content discusses Internal Developer Platforms (IDPs) with strong emphasis on streamlining development and enabling CI/CD, automation, and operational efficiency. However, it does not directly mention agentic software delivery, AI agents, or autonomous agency. Some principles of modern engineering and context-driven delivery are present, but the text does not address contextual intelligence, integration of human and AI agents, governance, or proactive learning loops as specified in the definition. The target audience aligns with technical and organisational stakeholders relevant to agentic delivery. Thus, while conceptually adjacent, the content only partially fits the 'Agentic Software Delivery' category and lacks direct mention or thorough exploration of agentic themes.",
+    "reasoning_summary": "Discusses IDPs, automation, and CI/CD, which relate to modern delivery but lacks explicit focus on AI agency, autonomous agents, or agentic frameworks. Fit is partial and the connection to Agentic Software Delivery is indirect.",
+    "level": "Tertiary"
   }
 }

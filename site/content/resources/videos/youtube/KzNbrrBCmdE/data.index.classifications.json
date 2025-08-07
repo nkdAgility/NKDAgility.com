@@ -1418,15 +1418,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "KzNbrrBCmdE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:03:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility, without any direct mention or detailed exploration of the One Engineering System framework. While it touches on themes of adaptability and team dynamics, it does not align with the core principles of 1ES, such as integration of tools and processes or standardisation across teams.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 19.08,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 3.4,
+    "ai_audience": 6.1,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on balancing flexibility and structure in Agile teams, stressing themes of adaptation, data integrity, and context-driven decision-making. Nowhere does it mention One Engineering System (1ES) or discuss the standardization, integration, or unified practices central to 1ES. While the subject matter (agile process optimization) could be relevant for an audience interested in 1ES, there is no direct conceptual alignment or depth of discussion regarding unified engineering systems, tool integration, cross-team process standardization, or the specific challenges of implementing 1ES. The main audience (agile practitioners) might overlap but the topic itself only tangentially relates to 1ES by virtue of discussing processes—it never connects that discussion to the 1ES framework or principles.",
+    "reasoning_summary": "No mention or substantive alignment with One Engineering System. Content focuses solely on agile flexibility, not unified standardization or 1ES principles, so fit within this category is minimal and tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1930,6 +1937,25 @@
     "final_score": 39.0,
     "reasoning": "The content primarily discusses balancing flexibility and structure in agile teams and the importance of data integrity for informed decision-making. While it touches on themes like adaptability, decision-making, and team autonomy, it does not explicitly discuss Agentic Engineering or its core concepts such as maximizing human and AI agency, ethical autonomy, systemic observability, or DevOps-infused craft. There is no mention of AI, intelligent systems’ agency, or deliberate engineering practices with agentic goals. The intent is more about general agile process optimization than the philosophical or systemic aspects unique to Agentic Engineering. The audience may overlap with technical practitioners, justifying a moderate audience score. The content is focused, but only tangentially related to the category.",
     "reasoning_summary": "This agile-focused content emphasizes adaptability, decision-making, and data integrity within project teams, but it lacks explicit ties to Agentic Engineering's central themes of maximizing agency for humans and AI, ethical autonomy, or engineering practices designed with agentic intent. The relevance is mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KzNbrrBCmdE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 10.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.8,
+    "ai_audience": 5.3,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on agile team dynamics, balancing flexibility/inflexibility, and data integrity, but makes no mention of AI agents, agentic delivery, contextual intelligence, or any relevant modern engineering practices. Themes remain at a general project management/agile methodology level. There’s no reference to integration of autonomous agents, contextual intelligence, human-in-the-loop AI, or outcome-focused system evolution, which are central to the 'Agentic Software Delivery' category. Scores for direct mentions, alignment, depth, and intent are minimal. Audience match is higher since software delivery practitioners are addressed, but without relevant agentic content.",
+    "reasoning_summary": "Content discusses agile team management, flexibility, and data integrity but lacks any discussion of agentic software delivery, autonomous AI agents, or synergistic practices. Only minor conceptual overlap; fit is highly limited.",
     "level": "Ignored"
   }
 }

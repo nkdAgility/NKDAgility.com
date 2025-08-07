@@ -1504,16 +1504,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "irSqFAJNJ9c",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:13:25",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the dysfunctions of Scrum teams and does not explicitly address Agentic Agility. While it touches on themes of team dynamics and ownership, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The discussion is more about identifying poor practices rather than exploring the transformative capacity of individuals or systems in a socio-technical environment.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 55.674,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.05,
+    "ai_depth": 6.8,
+    "ai_intent": 7.5,
+    "ai_audience": 6.1,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content examines negative team behaviors (autocracy, lack of ownership, organizational constraints) that impede self-management and accountability in scrum teams—both core aspects of agentic agility. It discusses the consequences of lacking agency (e.g., autocratic leadership, dysfunctional ownership), touches on how organizational environments can stifle or enable team agency, and advocates for conditions that help teams thrive. However, the term 'agentic agility' is never directly mentioned; most discussion is at the symptom or outcome level (team dysfunction), with less explicit exploration of agency mechanics or double-loop learning. The target audience overlaps (scrum masters, coaches, consultants), but messaging focuses more on team dynamics than on in-depth models of agency. Thus, the fit is partial: it supports the category mainly through examples of agency absence and high-level advocacy for enabling environments.",
+    "reasoning_summary": "Content indirectly supports Agentic Agility by highlighting lack of agency in team dysfunction, with some discussion of environmental factors restricting adaptation and ownership. Fit is partial: discusses agency outcomes more than explicit agency or mechanisms.",
+    "level": "Tertiary"
   },
   "Hybrid Agile": {
     "resourceId": "irSqFAJNJ9c",
@@ -2010,6 +2017,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on poor Scrum team behaviors, lack of trust, autocratic leadership, and organizational barriers—all related to impediments for team autonomy and high performance. It aligns modestly with Agentic Engineering in discussing agency and team structures, but lacks explicit reference to engineering excellence, AI as collaborator, DevOps ethos, or the design of agentic environments. The depth centers on dysfunctional practices rather than the deliberate maximization of human or AI agency. The audience of practitioners and coaches partially overlaps, and the signal is reasonably focused, but the discussion remains at the team culture/process level rather than advancing agentic engineering principles.",
     "reasoning_summary": "The content describes dysfunctional behaviors in Scrum teams, touching on topics of agency and team impediments, but does not address Agentic Engineering as a deliberate discipline or design practice. The alignment is partial, with no direct references or substantial depth specific to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "irSqFAJNJ9c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 8.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses extensively on signs of dysfunction within Scrum teams, leadership styles, and Agile coaching. While it discusses high-performing teams and barriers to Agile success, it does not mention or explore AI agents, contextual intelligence, or agency in software delivery. The discussion is squarely centered on team culture, roles, and organizational policies, not on integrating autonomous systems, feedback loops involving AI, or the evolution towards agentic principles. Thus, the fit with 'Agentic Software Delivery' is minimal; only a tangential overlap exists where team performance and experimentation are mentioned, but these are not approached from an agentic perspective.",
+    "reasoning_summary": "This content is about Scrum team dysfunction, not agentic AI or autonomous delivery. It lacks references to AI agents, context-aware systems, or agentic practices, making it a poor fit for 'Agentic Software Delivery.'",
     "level": "Ignored"
   }
 }

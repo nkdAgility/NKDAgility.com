@@ -38,20 +38,21 @@
   "Principle": {
     "resourceId": "Strategy",
     "category": "Principle",
-    "calculated_at": "2025-05-06T11:17:08",
-    "ai_confidence": 51.842,
-    "ai_mentions": 2.7,
-    "ai_alignment": 5.25,
-    "ai_depth": 5.0,
-    "ai_intent": 4.85,
-    "ai_audience": 6.15,
-    "ai_signal": 5.49,
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 37.8,
+    "ai_mentions": 1.9,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.2,
+    "ai_intent": 4.9,
+    "ai_audience": 6.3,
+    "ai_signal": 5.6,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses 'strategy' as a high-level organisational approach. There are no explicit or even near-explicit direct mentions of 'principle' or core Agile/Lean/DevOps principles; instead, it focuses on how strategy aligns teams, resources, and methods. While there is indirect overlap in the sense that a well-crafted strategy may draw upon principles (such as adaptability, value delivery, and evidence-based management), the text does not discuss actionable principles, nor does it reference foundational beliefs or guiding team rules directly. Instead, it provides illustrative examples of strategy in Agile, Lean, and DevOps contexts (e.g., 'Lean Product Development strategy', 'Kanban strategy'), linking somewhat to the results of principles without examining principles themselves. Depth is moderate, as the exploration is detailed for strategy but not for principles. Intent is tangential: informative for strategy, not on principles. The audience is fairly aligned with those interested in frameworks, but the focus remains at a leadership/executive or strategic level, not practitioner-centric discussion of principles. Signal is somewhat diluted by an exclusive focus on strategy and its relation to alignment, vision, and adaptability—not on core principles. No outdated references or negative tone detected. Final confidence reflects that, at best, content only incidentally touches upon the Principles category.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content is focused on the definition, role, and application of strategy within Agile and DevOps contexts. While topics like adaptability and value delivery are referenced (which are relevant principles), the discussion lacks explicit, actionable exploration of foundational principles themselves. Instead, the focus remains consistently at the 'strategy' level—how direction and alignment are achieved—rather than delving into principles such as empiricism, self-management, or continuous improvement. There are implicit connections to principles (e.g., adaptability, value delivery) but not enough depth, frequency, or directness regarding principles to justify a strong score. The audience is aligned (organizational/Agile practitioners), and the signal-to-noise ratio is fair, as most content is relevant but not principle-centric.",
+    "reasoning_summary": "Content focuses on strategy, not principles. Mentions of principles are implicit, with little direct or deep exploration. Fit for 'Principle' is partial and indirect, lacking strong actionable discussion of foundational guiding rules.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "resourceId": "Strategy",
@@ -3176,6 +3177,25 @@
     "final_score": 21.0,
     "reasoning": "The content provides a broad overview of organizational strategy, its role in aligning teams, methods, and leadership, and touches on Agile/DevOps and evidence-based management. However, it does not directly mention or discuss collective intelligence, human-AI collaboration, or related concepts. No references are made to AI, partnership with AI agents, or socio-technical systems explicitly. While decision-making frameworks are mentioned, there is no indication these frameworks leverage both human and AI contributions as outlined in the category definition. The content is relevant for strategic leaders or practitioners in Agile/DevOps, which raises the audience score, but there is minimal alignment or depth with collective intelligence principles.",
     "reasoning_summary": "This content focuses on organizational strategy in Agile and DevOps contexts but does not address collective intelligence or human-AI collaboration. It lacks substantive alignment with the category, resulting in a low confidence score for this classification.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Strategy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 19.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.1,
+    "ai_audience": 7.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses exclusively on high-level organisational strategy and methods for goal alignment, but makes no direct or indirect reference to agentic software delivery, AI agents, or related concepts. While it briefly touches on Agile, DevOps, and evidence-based management, these are not contextualised through agentic or autonomous AI agent frameworks. There are no mentions of the integration of AI, agency, contextual intelligence, feedback loops, or human-agent collaboration that are fundamental criteria for this category. The primary audience overlaps with that of Agentic Software Delivery (technology and leadership roles), and the content is clear and focused, but it does not align conceptually or in depth with the Agentic Software Delivery definition.",
+    "reasoning_summary": "This content addresses high-level organisational strategy but does not reference or connect with agentic software delivery or autonomous AI agents. Its alignment is minimal, so the fit is limited and mostly incidental.",
     "level": "Ignored"
   }
 }

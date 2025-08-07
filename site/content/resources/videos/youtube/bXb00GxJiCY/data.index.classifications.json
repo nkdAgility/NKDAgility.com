@@ -1393,15 +1393,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "bXb00GxJiCY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:50:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 12.46,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning techniques in Scrum training, which is not directly related to the One Engineering System framework. While it discusses engagement and training methods, it does not address the principles, integration, or implementation of 1ES, nor does it provide insights into standardising engineering practices across teams.",
+    "reasoning": "The content focuses exclusively on immersive learning techniques within Scrum training and does not mention the One Engineering System (1ES). There is no discussion of standardized engineering practices, integrated tools, unified frameworks, or cross-team process alignment key to 1ES. The audience is mostly Scrum trainers and practitioners, not those exploring engineering systems at an organizational scale. While the subject matter is relevant to the improvement of learning and training in software contexts, it does not conceptually, explicitly, or in-depth address 1ES: no principles, implementations, challenges, or impact of unified systems are discussed. The content’s purpose is to improve Scrum training effectiveness at a session level, not to advance a system-wide, integrated development framework.",
+    "reasoning_summary": "This content fits poorly with the 'One Engineering System' category—no mention or alignment. It focuses on immersive Scrum training techniques, not unified engineering frameworks or process integration covered by 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1903,6 +1910,25 @@
     "final_score": 17.0,
     "reasoning": "The content centers on immersive learning in Scrum training, emphasizing reduced cognitive load, higher engagement, and hands-on methods. While it promotes learner engagement and some autonomy, it does not directly discuss Agentic Engineering or its core concepts like developer or AI agency, systemic observability, or decentralised decision-making. There are no explicit mentions of ethics, DevOps-infused craft, or feedback-driven adaptation related to engineering practice—focus is strictly on educational strategies. The audience (Scrum practitioners/trainers) marginally overlaps but the main purpose and conceptual depth are largely unrelated to Agentic Engineering as defined.",
     "reasoning_summary": "This content focuses on experiential learning in Scrum training and does not explore Agentic Engineering or its required concepts. While audience overlap is minimal, the core topic is educational technique rather than engineering agency or systemic practice.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bXb00GxJiCY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 2.98,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on immersive learning in Scrum training, emphasizing engagement, cognitive load, and retention. It does not discuss autonomous AI agents, agentic principles, integration of contextual intelligence, or software delivery strategies. There are no references to AI agency, automation, or the embedding of intelligence in systems of work. The audience is Scrum trainers and practitioners, not agentic software delivery stakeholders. Although there is a brief, tangential mention of continuous improvement, it is generic and unrelated to agentic concepts.",
+    "reasoning_summary": "Content is about immersive learning tactics in Scrum training, not agentic software delivery. No relevant discussion of AI agents, context-aware intelligence, or delivery automation. The fit is very weak and almost entirely absent.",
     "level": "Ignored"
   }
 }

@@ -698,15 +698,22 @@
     "level": "Tertiary"
   },
   "Continuous Delivery": {
+    "resourceId": "Y7Cd1aocMKM",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:29:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses digital delivery methods for Scrum training rather than Continuous Delivery practices. While it touches on aspects of Agile and training techniques, it does not explicitly address Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The focus is on training effectiveness rather than software delivery, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.7,
+    "ai_audience": 0.8,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses entirely on comparing digital versus in-person Scrum training. At no point does it explicitly or implicitly discuss software delivery cadence, automation, rapid deployment, or other principles/techniques associated with Continuous Delivery. The only marginal overlap is that digital training may touch on tools/remote collaboration, which could theoretically intersect with modern delivery practices, but this is neither explicit nor core. No mentions, concepts, or depth relevant to Continuous Delivery are present. The content targets agile practitioners but only in the context of training effectiveness, not delivery practices.",
+    "reasoning_summary": "No substantive or explicit connection to Continuous Delivery; the topic strictly covers formats and benefits of Scrum/agile training, not discipline or processes of frequent software delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2011,6 +2018,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses chiefly on comparing digital vs. in-person Scrum training, technological accessibility, and multicultural benefits. While the use of digital tools and remote collaboration is discussed, there is little to no explicit or implicit engagement with maximizing human or AI agency, decentralizing decision-making, or other core Agentic Engineering themes. The main intent is to advocate for digital training efficacy, not the deliberate design of agentic engineering practices, feedback-driven adaptation, or ethical AI collaboration in software engineering. The audience is adjacent (Agile practitioners), and there is some tangential overlap in discussing enabling technologies, but it remains focused on training effectiveness, not agentic systems or practices.",
     "reasoning_summary": "The content mainly discusses the advantages and experiences of digital Scrum training, with only indirect, limited overlap to Agentic Engineering concepts. It does not substantively address engineering for agency, decentralized decision-making, or AI-augmented collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Y7Cd1aocMKM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 11.833,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the effectiveness of digital scrum and agile training courses compared to in-person options. It discusses digital collaboration tools, remote learning, global participation, and practicalities of online delivery, but it never mentions or deeply explores agentic principles such as autonomous AI agents, contextual intelligence, synergy between AI and humans, or agentic delivery system practices. The main audience is agile practitioners or trainers, not those designing agentic delivery systems. There is minimal to no discussion on automation, intelligence, agency, or relevant modern engineering/governance practices. The very slight score reflects a minor overlap in modern digital working as context, but otherwise no substantive fit with Agentic Software Delivery.",
+    "reasoning_summary": "Content focuses on digital scrum training effectiveness, not agentic software delivery. It lacks mention or exploration of AI agent integration, context-aware intelligence, or agentic practices. Minimal alignment—topic is unrelated to the category.",
     "level": "Ignored"
   }
 }

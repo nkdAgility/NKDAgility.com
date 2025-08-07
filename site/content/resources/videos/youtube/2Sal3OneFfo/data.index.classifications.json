@@ -232,15 +232,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "2Sal3OneFfo",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:17:07",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the migration process to Azure DevOps, discussing tools and services without any explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of productivity and collaboration, it lacks a direct connection to empirical decision-making or the core themes of EBM.",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 16.71,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.6,
+    "ai_audience": 4.6,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content strictly focuses on technical and collaboration benefits of migrating to Azure DevOps, with no mention or substantive discussion of Evidence Based Management or its dimensions such as empiricism, value delivery metrics, or data-driven decision-making. There are no direct references to EBM, nor is there an emphasis on empirical practices, outcomes, or strategic measurement. The target audience (teams migrating DevOps tools) somewhat overlaps with those interested in EBM, but the content intent is about migration logistics and tool selection, not managerial decision-making informed by evidence. The signal-to-noise ratio is moderate given it stays on-topic within DevOps migration, yet the topic is tangential to EBM.",
+    "reasoning_summary": "Content centers on Azure DevOps migration logistics, not Evidence Based Management or data-driven value delivery. Intent, themes, and discussion depth do not match EBM criteria. Audience overlap is partial at best.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -1908,6 +1915,25 @@
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the practicalities of migrating to Azure DevOps, focusing on tools, process, and benefits like collaboration and workflow streamlining. There is minimal reference to agency—either human or AI—and no explicit discussion of agentic engineering concepts such as decentralised decision-making, feedback-driven adaptation, or ethical autonomy. While there is some mention of enablement and empowerment (empowering teams), these are byproducts of platform migration rather than deliberate agentic design. The content targets technical practitioners but does not deeply engage with the philosophical or systemic principles central to Agentic Engineering. No penalties are applied as the content is not outdated or contradictory.",
     "reasoning_summary": "This content focuses on migration logistics for Azure DevOps, emphasizing tool use and process efficiency. It offers little direct discussion of Agentic Engineering principles or agency, making its fit with the category only tangential at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2Sal3OneFfo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 17.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.3,
+    "ai_intent": 2.9,
+    "ai_audience": 6.4,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on migrating projects to Azure DevOps using manual or managed tools, aiming to improve collaboration and productivity. There is neither mention nor discussion of autonomous AI agents, contextual intelligence, or agentic principles. The approaches described are traditional migrations, lacking any agentic, proactive, or AI-enabled elements. The content is targeted at technical practitioners familiar with DevOps, but not at those specifically interested in agentic software delivery strategies. Signal is high for DevOps topics but not for the 'Agentic' context.",
+    "reasoning_summary": "This content covers DevOps migration processes only, with no agentic AI, autonomous agents, or contextual intelligence. It does not fit the Agentic Software Delivery category beyond vague overlap with modern development practices.",
     "level": "Ignored"
   }
 }

@@ -1455,15 +1455,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "DNCDdWjYis8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:59:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master within the Scrum framework, focusing on facilitation and team empowerment. While it touches on collaboration and team dynamics, it does not explicitly mention or align with the principles of the One Engineering System (1ES), which is centred on standardising and integrating software development practices across teams. The discussion is more about Scrum practices rather than the integration of tools and processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 10.41,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content discusses misconceptions about the Scrum Master and best practices for empowerment in Scrum. It focuses on team autonomy, facilitation, and servant leadership, but makes no mention of One Engineering System, its framework, tools, integration, or unification themes. The discussion is method-oriented for Scrum Masters, with no specific link to 1ES’s standardisation, cross-team processes, or unified tooling and methodologies. Thus, only an indirect, minimal conceptual overlap exists, and the audience focus is team-level practitioners rather than those interested in overarching engineering systems.",
+    "reasoning_summary": "Content centers on Scrum Master roles and team facilitation, not One Engineering System. There are no direct references or substantive thematic links to 1ES integration, tooling, or processes. Fit with the assigned category is very weak and indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1969,5 +1976,24 @@
     "reasoning": "The content strongly addresses core elements of agency—team autonomy, self-organisation, facilitative leadership, and collaboration. These align well with Agentic Engineering’s focus on maximising human agency in software practices. However, it does not explicitly use the term 'Agentic Engineering,' nor does it delve deeply into systemic observability, AI collaboration, or DevOps-augmented practices. The main intent is empowerment and coaching, which supports the concept, but the main audience is Scrum practitioners—somewhat overlapping but not identical. Little to no extraneous or off-topic content is present, so signal remains high.",
     "reasoning_summary": "This piece aligns well with Agentic Engineering’s emphasis on human agency and empowerment in software teams, though it is implicitly rather than explicitly framed in those terms. While it thoughtfully explores team autonomy and facilitative leadership, it lacks deep discussion on AI or systemic engineering practices.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DNCDdWjYis8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 18.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.1,
+    "ai_audience": 5.3,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on redefining the Scrum Master role, improving team autonomy, and fostering self-organisation through facilitation and coaching. However, it does not mention agentic software delivery, autonomous AI agents, or contextual intelligence. Key agentic themes like AI integration, proactive systems, or modern engineering for AI-driven delivery are absent. The alignment is minimal, as the content is strictly about human facilitation and Scrum values. No obsolete practices or contradictory tone are present. Audience partially overlaps (Scrum/Agile practitioners could be relevant), but category fit is marginal.",
+    "reasoning_summary": "This content discusses team autonomy and Scrum Master facilitation but does not cover Agentic Software Delivery, AI agents, or system intelligence. Fit is minimal and largely indirect.",
+    "level": "Ignored"
   }
 }

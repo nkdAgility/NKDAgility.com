@@ -1,9 +1,9 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-01T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-08-06T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
 $watermarkScoreLimit = 10
-$watermarkCount = 50
+$watermarkCount = 4
 
 function Get-CatalogHashtable {
     param (
@@ -822,6 +822,8 @@ function Update-ClassificationLinksInBodyContent {
     Write-InfoLog "Updated body content for classification type '$ClassificationType'."
     return $hugoMarkdown.BodyContent
 }
+
+
 
 function Get-CatalogItemsToRefreshOrGet {
     param (

@@ -1486,15 +1486,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "E2OBcBqZGoA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:48:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses decentralisation and team engagement, which are relevant to organisational agility but do not explicitly address the principles or components of the One Engineering System. There are no direct mentions of 1ES, and while it touches on collaboration and decision-making, it lacks depth in discussing integration of tools and processes or best practices specific to 1ES.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 14.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no explicit mentions of 'One Engineering System' (1ES) or any direct discussion of its principles, integration of tools, or standardisation practices. Content focuses on decentralisation, agility, team engagement, and narrative-building—concepts that are general to organisational effectiveness and agile practices but unrelated to 1ES’s unification or standardisation goals. No evidence of exploring the framework, its components, challenges, or comparisons to other methodologies. Target audience overlaps only marginally (organizational leaders/teams), but the discussion is not tailored to practitioners or decision-makers implementing unified engineering systems.",
+    "reasoning_summary": "Content discusses decentralisation and agile empowerment, not One Engineering System. No mention or substantial alignment with 1ES’s core unification or standardisation themes. Fit is very low and mostly unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1999,5 +2006,24 @@
     "reasoning": "The content explores concepts adjacent to Agentic Engineering, such as decentralised decision-making, team empowerment, engagement, and ownership. It discusses organisational agility, involvement, and narrative, echoing themes of agency and autonomy. However, it does not directly mention Agentic Engineering, nor does it reference specific engineering practices, DevOps culture, systemic observability, or ethical AI integration. Its perspective aligns mainly with organisational and cultural aspects, focusing more on human agency than the interplay between humans and intelligent systems or the intentional design of engineering environments. As a result, while conceptual alignment is moderate and the intent is relevant, depth regarding the specific domain of Agentic Engineering is limited.",
     "reasoning_summary": "This content focuses on decentralisation, team autonomy, and engagement, closely paralleling core aspects of Agentic Engineering at the organisational level. However, it falls short of directly addressing engineering practices or human-AI agency, resulting in moderate category alignment.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "E2OBcBqZGoA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 15.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.5,
+    "ai_audience": 4.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on decentralised decision-making, team empowerment, and agile culture. There is no mention of autonomous AI agents, contextual intelligence, or any software delivery processes involving AI, agency, or governance as defined by 'Agentic Software Delivery.' While themes of agility, ownership, feedback loops, and empowerment touch on modern delivery culture, these are standard agile/lean topics and do not address agentic principles or AI-driven delivery. The audience is likely practitioners or leaders in organisational contexts, which somewhat overlaps, but the subject matter is not conceptually or explicitly aligned with agentic delivery.",
+    "reasoning_summary": "The content is about agile team decentralisation and empowerment—not about AI agents or Agentic Software Delivery. There is no discussion of autonomous agents, agentic processes, or related technologies. Fit with the category is negligible.",
+    "level": "Ignored"
   }
 }

@@ -1436,15 +1436,22 @@
     "reasoning_summary": "This content is a strong match for the Scrum category, as it delves into essential Scrum practices like Sprint Planning and Daily Scrum. It highlights the significance of planning and team communication within the Scrum framework, demonstrating a solid understanding of its core principles. While it could further explore specific roles and artefacts, the discussion clearly centres on Scrum methodologies."
   },
   "Shift Left Strategy": {
+    "resourceId": "J3Z2xU5ditc",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:53:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the importance of planning within the Scrum framework, discussing various planning events and strategies. While it touches on Agile principles, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the proactive measures associated with Shift-Left practices, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 11.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 1.7,
+    "ai_audience": 5.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of planning in Agile and Scrum and debunks myths about these frameworks. There is no explicit mention or discussion of Shift-Left Strategy, nor any reference to integrating testing, security, or compliance earlier in the lifecycle. The focus is squarely on general Agile/Scrum planning practices, with some reference to large-scale coordination and roadmapping. No key Shift-Left topics are addressed. The only partial reason for some small scoring is the adjacent audience (practitioners/strategists).",
+    "reasoning_summary": "This content does not cover Shift-Left Strategy. Its exclusive focus is on Agile/Scrum planning and coordination, with no mention or treatment of shifting practices earlier in the software lifecycle. Confidence fit is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1999,6 +2006,25 @@
     "final_score": 36.0,
     "reasoning": "The content primarily discusses effective planning within Agile and Scrum, debunking myths about a lack of planning and providing practical strategies for teams. While the discussion mentions decision-making, team coordination, and large-scale planning, it does not reference agency, agentic principles, or the deliberate engineering of human/AI agency as required by the Agentic Engineering category. The focus is on practical planning rather than on decentralised decision-making frameworks, feedback-driven adaptation, or DevOps-infused craft. Therefore, alignment, conceptual depth, and intent scores are modest. There's almost no direct mention of agentic concepts, but because large-team planning and cross-team themes are discussed, there is a small degree of indirect relevance.",
     "reasoning_summary": "The content addresses planning in Agile and Scrum but lacks significant discussion of agency or deliberate engineering practices that empower human or AI participants. Its focus is practical planning strategies, with only minor indirect relevance to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "J3Z2xU5ditc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 2.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly discusses Agile and Scrum planning, focusing entirely on human-driven strategies and team coordination. There's no mention of autonomous AI agents, contextual intelligence, or synergy between agents and human expertise, which define Agentic Software Delivery. Key concepts relevant to agentic delivery—AI integration, agent autonomy, contextual feedback loops, or human-in-the-loop architectures—are completely absent. While the subject is software delivery and there is mention of large-scale coordination (e.g., Microsoft), the discussion remains within traditional Agile/Scrum paradigms. There is no conceptual or direct alignment with the target category, and the intent remains purely educational for Agile/Scrum practitioners. No penalties were applied, as the content is not outdated or critical, but the scores are extremely low as per strict definition.",
+    "reasoning_summary": "Focused on Agile/Scrum planning with no reference to agentic software delivery, autonomous agents, AI integration, or contextual intelligence. Entirely misaligned with the evaluated category.",
     "level": "Ignored"
   }
 }

@@ -1433,15 +1433,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "JNJerYuU30E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:55:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on mentorship and community within the agile practices, specifically highlighting the contributions of Jernimo Palacios. While it discusses aspects of collaboration and knowledge sharing, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around personal experiences and the agile community rather than the integration and standardisation of engineering processes, which is the core focus of 1ES.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 11.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.8,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content celebrates Jernimo Palacios' mentorship and community impact within agile and Scrum practices, emphasizing collaboration and knowledge sharing. However, it does not directly mention or discuss One Engineering System (1ES), nor does it cover topics such as the unification of tools, processes, or methodologies across teams, standardization frameworks, or integration at the engineering systems level. The focus remains on personal influence, mentorship, and community building rather than system-level engineering or standardization. Although audience overlap exists to a small extent (agile practitioners may also be interested in 1ES), the intent and conceptual alignment with 'One Engineering System' is minimal, and depth of discussion on any 1ES-relevant topic is absent.",
+    "reasoning_summary": "This content is about mentorship and community in agile/Scrum and does not address One Engineering System, its principles, integration practices, or system unification. The fit is very weak; there is no substantive overlap with the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1942,6 +1949,25 @@
     "final_score": 29.0,
     "reasoning": "The content centers on Jernimo Palacios' contributions to the Scrum and agile community, focusing on mentorship, knowledge sharing, and fostering collaboration. It emphasizes community-building, continuous improvement, and adaptability—concepts that are tangentially related to Agentic Engineering (notably developer agency and feedback-driven adaptation). However, there are no explicit or substantial discussions of agentic design, system observability, DevOps-infused craft, or AI integration. The philosophical underpinnings of maximized agency, decentralized decision-making, or automation as a discipline are absent. The primary audience (agile practitioners and community members) does overlap, but the theme remains mostly celebratory and community-focused without delving into engineering practices or agentic concepts. Scores reflect only a loose conceptual alignment and minimal depth on agentic categories.",
     "reasoning_summary": "The content highlights mentorship and community leadership within Agile but does not substantively explore Agentic Engineering themes such as developer agency, autonomy, or systemic engineering practices. Its relevance to the category is indirect and minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JNJerYuU30E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 8.931,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.15,
+    "ai_depth": 0.6,
+    "ai_intent": 0.2,
+    "ai_audience": 5.11,
+    "ai_signal": 2.01,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are zero direct references to agentic software delivery, autonomous agents, AI, or integration of contextual intelligence in software delivery. The article focuses exclusively on mentorship, agile knowledge sharing, community building, and personal growth within agile and Scrum practice. None of the category’s core topics (AI agents, agentic delivery frameworks, or synergy with autonomous systems) are discussed or even implied. The target audience overlaps with technical practitioners but all content is unrelated to agentic delivery; thus, audience and signal scores are only marginally higher. As no deprecated practices or negative tone are present, no penalties apply.",
+    "reasoning_summary": "Content focuses on agile mentorship, community, and continuous improvement with no relation to agentic software delivery concepts or autonomous AI. Fully unrelated save for remote audience alignment; overall fit is absent.",
     "level": "Ignored"
   }
 }

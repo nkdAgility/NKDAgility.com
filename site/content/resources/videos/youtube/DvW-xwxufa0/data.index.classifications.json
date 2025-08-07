@@ -1285,16 +1285,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "DvW-xwxufa0",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-14T18:18:53",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of external expertise in software development and DevOps, touching on aspects of application lifecycle management. However, it primarily focuses on self-taught learning and the limitations thereof, rather than providing a detailed exploration of the application lifecycle stages or specific ALM practices. While there are mentions of DevOps and institutional knowledge, the core themes of Application Lifecycle Management are not the primary focus.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 41.216,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.9,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses the value of external expertise and the limitations of self-taught learning in technical fields. There are brief direct mentions of 'application lifecycle management' and references to related topics (DevOps, software development). However, there is minimal in-depth exploration of ALM methodologies, stages, governance, tools, or lifecycle management processes. The alignment is partial—while the audience overlaps with those interested in ALM, and external perspective is relevant to lifecycle improvement, the main focus is personal/professional development rather than application management. The content's relevance to ALM is weak beyond a passing reference; signal is moderate because some ideas (e.g., institutional knowledge, innovation via external input) could influence lifecycle management. No penalties were needed.",
+    "reasoning_summary": "Content only briefly mentions ALM and does not substantially cover its processes, tools, or practices. Focus is on general learning and external expertise, not managing application lifecycles. Connection is weak and indirect, with only partial alignment.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1958,6 +1965,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on the value of balancing self-taught learning with external perspectives in engineering teams, referencing DevOps and continuous learning. While it discusses guidance, growing institutional knowledge, improvement, and empowerment, it does not engage with central Agentic Engineering themes: maximizing human/AI agency, ethical AI collaboration, or decentralised decision-making. No explicit mention of 'agentic engineering' or core concepts. Audience overlap exists (practitioners, leaders), and DevOps/automation is referenced, supporting modest alignment and intent. Depth is mostly at a general level with some insight about empowerment and learning, but not an intentional focus on engineering agency. Signal is moderate, with much relevant to organizational learning, but less direct engagement with philosophical/theoretical agency constructs.",
     "reasoning_summary": "This content encourages external perspectives to complement self-taught learning in software teams, referencing DevOps and improvement, but does not meaningfully discuss Agentic Engineering principles such as maximizing agency, ethical AI, or decentralized decision-making. Alignment is modest and largely indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DvW-xwxufa0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 18.92,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "There are no direct or explicit references to agentic software delivery, autonomous AI agents, or their integration with human expertise. The discussion centers on self-taught learning versus the value of external expertise in software, DevOps, and organisational learning. Concepts like feedback, team knowledge, and progress are present but never tied to AI agents, proactive intelligence, or agentic frameworks. The audience is technically aligned, but none of the core agentic delivery principles, practices, or governance forms are discussed. The content discusses learning, growth, and external guidance, but remains generic and unrelated to agentic systems or principles, resulting in minimal conceptual or depth fit and only a modest signal-to-noise ratio.",
+    "reasoning_summary": "This content focuses on the role of external expertise in balancing self-taught learning for tech teams, not on agentic software delivery or AI agent integration. Only tangentially related; very weak fit for the assigned category.",
     "level": "Ignored"
   }
 }

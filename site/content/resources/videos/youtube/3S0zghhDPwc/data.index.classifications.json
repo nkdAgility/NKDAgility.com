@@ -1465,15 +1465,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it thoroughly explores how diligence underpins quality and accountability in Agile teams. By offering practical strategies and real-world examples, it clearly demonstrates how competence is developed and maintained through standards, professionalism, and continuous improvement within Agile practices."
   },
   "One Engineering System": {
+    "resourceId": "3S0zghhDPwc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:11:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of diligence within Agile practices, focusing on quality and accountability rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it touches on some relevant themes, such as quality and adherence to standards, it does not explicitly mention or align with the core principles of 1ES, nor does it provide in-depth discussion on the framework itself.",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 16.13,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on diligence as an Agile virtue, especially around enforcing the Definition of Done, quality, and team accountability. However, there are zero direct mentions of 'One Engineering System' (1ES), its principles, integration, tooling, or unification of engineering practices. Conceptual overlap is minimal: attention to standards and process adherence could relate to some 1ES goals, but the content remains centered on generic Agile team habits, not whole-system engineering unification or standardized frameworks across organizations. The intended audience and problems discussed are narrow (Agile teams, practitioners) rather than organizational leaders focused on system-wide integration. No penalties are needed as there's no outdated or contradictory material. Confidence is low due to the superficial and indirect overlap.",
+    "reasoning_summary": "The content focuses on Agile diligence and quality within teams, with no mention or substantive discussion of One Engineering System. There is only very superficial conceptual overlap, so this is a poor fit for the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1980,6 +1987,25 @@
     "final_score": 32.0,
     "reasoning": "The content emphasizes diligence and quality in Agile practices, particularly the use of the Definition of Done, accountability, and adherence to standards. While these themes support high-quality engineering, the article focuses on personal/team discipline, not on maximizing agency (human or AI), decentralized decision-making, systemic observability, or agentic frameworks. There are no direct mentions of Agentic Engineering or its core philosophical/technical aspects. The audience (Agile practitioners) is partially aligned, but the primary subject is general Agile team effectiveness and quality, rather than the deliberate design of engineering practices for agency and autonomy as defined by Agentic Engineering.",
     "reasoning_summary": "This content discusses diligence and quality in Agile teams, centering on the Definition of Done and accountability. While useful for practitioners, it does not directly reference or deeply engage with Agentic Engineering principles, making its category alignment low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3S0zghhDPwc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 16.04,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.2,
+    "ai_audience": 4.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses exclusively on diligence in Agile teams—attention to quality, accountability, and adherence to the definition of done. It does not mention or allude to agentic software delivery, AI agents, contextual intelligence, or integration of autonomous systems with human expertise. There are no direct or indirect references to technologies or processes relevant to Agentic Software Delivery. The intent, examples, and audience are Agile practitioners, not those interested in agentic systems; thus, alignment is minimal and coincidental, not substantive or intentional. The minimal audience connection scores slightly higher as Agile practitioners could overlap with the intended category audience, but overall the topic is not about agentic trends or automation in software delivery.",
+    "reasoning_summary": "This content is about diligence in Agile, not Agentic Software Delivery. It does not discuss AI, agent integration, contextual intelligence, or related practices, so fit is very low and purely coincidental.",
     "level": "Ignored"
   }
 }

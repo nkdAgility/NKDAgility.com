@@ -37,15 +37,22 @@
     "reasoning_summary": "This content fits the Framework category as it explores how to manage multiple teams while staying agile, referencing lean principles and adaptive structures. It covers key themes like alignment, value delivery, and continuous improvement, which are central to Agile frameworks. Although it doesn’t name specific frameworks, its focus on these core concepts makes it a strong match for the category."
   },
   "Tenet": {
+    "resourceId": "Scaling",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the concept of scaling in relation to coordinating multiple teams and maintaining agility, which aligns with the tenets of Agile and Lean methodologies. It mentions key themes such as alignment, flow, value delivery, and continuous improvement, which are core to the category. However, while it touches on these tenets, it does not provide specific, actionable rules or doctrines, which limits its depth of discussion. The focus is more on the concept of scaling rather than explicitly outlining tenets, resulting in a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 76.824,
+    "ai_mentions": 3.2,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.3,
+    "ai_intent": 7.0,
+    "ai_audience": 7.4,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content describes key practices like flow efficiency, alignment, and continuous improvement, directly referencing actionable principles (e.g., 'applying lean principles,' 'focus on alignment, flow, and value delivery'). While it does not explicitly list these as 'tenets' or use the term 'tenet,' the thematic focus is on prescriptive practices essential to scaling in Agile, Lean, and related methodologies. Concepts such as decentralised teams, feedback loops, and responsiveness are all core tenets per the definition. The depth and alignment scores are high, but the explicit mention score is much lower as 'tenet' is never stated. The content targets organisational leaders or practitioners interested in scaling agile practices, matching the intended audience. There are no off-topic or filler sections, so the signal is strong.",
+    "reasoning_summary": "Content describes core Agile/Lean scaling principles (flow, alignment, feedback) as actionable practices matching 'tenet' criteria, though it never uses the term directly. Fit is strong on concepts and intent but indirect on explicit mention.",
     "level": "Secondary"
   },
   "Method": {
@@ -3128,6 +3135,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses on scaling practices for coordinating multiple teams in organizations, emphasizing alignment, flow, and value delivery—key elements of effective organizational collaboration. However, there is no mention of AI, human-AI partnerships, or collective intelligence as per the category’s definition. Concepts such as distributed cognition or AI-supported decision-making are absent. The intent and scope are organizational efficiency, not human-AI hybrid teams. Audience overlap exists, as practitioners interested in collective intelligence may also be concerned with scaling; however, the core requirements of human-AI collaboration are not addressed.",
     "reasoning_summary": "This content addresses multi-team coordination and organizational agility, but it lacks any discussion of human-AI collaboration or collective intelligence. While tangentially relevant in audience, it does not align with the core meaning of the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Scaling",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 28.65,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.9,
+    "ai_intent": 3.6,
+    "ai_audience": 4.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content thoroughly discusses scaling product delivery through multiple teams using lean principles, agility, and alignment. However, it does not mention or focus on agentic delivery or the integration of AI agents, contextual intelligence, or autonomous systems. Concepts like feedback loops and autonomy are generic and not grounded in agentic software approaches. Thus, there is only partial alignment—references to autonomy, feedback, and flow exist, but none specifically to agentic principles, AI agents, human-in-the-loop designs, or contextual intelligence, which are core to Agentic Software Delivery.",
+    "reasoning_summary": "This content centers on scaling agile delivery across teams but does not discuss agentic software, autonomous agents, or AI integration. Fit is weak and largely incidental—topics overlap only superficially with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

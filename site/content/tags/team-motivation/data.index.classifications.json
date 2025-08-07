@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Team Motivation",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses team motivation and ownership but does not explicitly address accountability as a structural mechanism. While it touches on themes of engagement and performance, it lacks a clear focus on outcome ownership or the specific roles that define accountability in work systems.",
+    "calculated_at": "2025-08-07T06:12:13",
+    "ai_confidence": 22.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 1.9,
+    "ai_audience": 6.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on team motivation, engagement, and ownership in agile contexts, emphasizing alignment and value delivery. However, it never directly addresses accountability as a systemic or structural mechanism, nor does it discuss outcome ownership, defined roles, or distinctions between accountability, responsibility, and authority. Mentions of 'ownership' focus on task engagement rather than systemic outcome ownership. There are no discussions of explicit accountabilities, organizational design, evidence-based management, or impacts of unclear accountability. The intended audience aligns with practitioners in agile systems, but the topic remains tangential to the ‘Accountability’ category as defined.",
+    "reasoning_summary": "Content focuses on motivation and engagement, not on accountability as a structural or outcome-owning mechanism. There are no direct mentions or in-depth exploration of accountability concepts, making fit to the category weak and tangential.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3116,6 +3123,25 @@
     "final_score": 16.0,
     "reasoning": "The content focuses on human team motivation, engagement, and performance in agile and DevOps contexts but does not mention AI, human-AI collaboration, or collective intelligence as defined. While it discusses concepts like collaboration and continuous improvement, these are framed exclusively around human teams. There is no explicit or implicit reference to AI agents, distributed cognition including AI, or any emergent capabilities from human-AI partnership.",
     "reasoning_summary": "This content centers solely on human team motivation in agile contexts without discussion of AI, human-AI partnership, or collective intelligence themes. It does not align with the 'Collective Intelligence' category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Team Motivation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:13",
+    "ai_confidence": 9.34,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.45,
+    "ai_intent": 1.2,
+    "ai_audience": 2.15,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses general team motivation within agile, lean, and DevOps approaches but does not mention or engage with the concepts of agentic software delivery, autonomous AI agents, contextual intelligence, or agent-driven delivery mechanisms. All alignment, depth, and intent are indirect, focusing on human factors rather than AI integration or agentic principles. The audience might overlap with those interested in agentic delivery, but the primary relevance is tangential. No penalties applied as the tone is neutral and not referencing obsolete practices.",
+    "reasoning_summary": "The content focuses on human motivation in agile/DevOps teams, not on agentic software delivery or AI integration. There is minimal conceptual alignment and no explicit discussion of agency, so fit to the category is very low.",
     "level": "Ignored"
   }
 }

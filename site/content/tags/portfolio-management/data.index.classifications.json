@@ -122,15 +122,22 @@
     "reasoning_summary": "This content is well-suited to the Capability category, as it explores how Portfolio Management enhances organisational agility and supports continuous improvement. It highlights the alignment of investments with strategic goals and the optimisation of value streams—core aspects of capability. However, it stops short of detailing specific methods for building or embedding capabilities, which slightly limits its fit."
   },
   "Model": {
+    "resourceId": "Portfolio Management",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Portfolio Management as a strategic approach that aligns investments with organisational goals, which relates to the concept of models in decision-making. It mentions frameworks for decision-making and the optimisation of value streams, aligning with the core themes of the category. However, it does not explicitly reference specific models or frameworks like the Cynefin Framework or Lean Startup principles, which limits its depth of discussion on the category. Overall, while it touches on relevant concepts, it does not delve deeply into the specific models that would strengthen its classification under 'Model'.",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 60.9,
+    "ai_mentions": 2.5,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.9,
+    "ai_intent": 6.1,
+    "ai_audience": 8.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content describes Portfolio Management as a systemic, strategic approach to aligning execution with strategy and maximising value delivery. It employs frameworks for decision-making, continuous improvement, and agility, suggesting elements of conceptual models. However, it does not directly reference portfolio management as a 'model' nor discuss classic model examples (e.g., Cynefin, Three Ways, Lean Startup). The focus is more on the practical application and benefits of Portfolio Management rather than a detailed discussion or critique of it as a model. No penalties; the content is contemporary and aligned in tone. While the theme aligns partially with the category, the direct model-based framing is limited.",
+    "reasoning_summary": "Content covers Portfolio Management as a systemic method, referencing frameworks and decision-making, but lacks explicit discussion of Portfolio Management as a model or comparative analysis of models. The fit with 'Model' is partial but thematically adjacent.",
     "level": "Secondary"
   },
   "Principle": {
@@ -3138,6 +3145,25 @@
     "final_score": 14.0,
     "reasoning": "The content discusses strategic alignment, value stream optimization, and organizational agility in a broad context but does not mention human-AI collaboration, agency, or AI team members. There are no explicit or implicit references to collective intelligence as defined, nor is there any exploration of human-AI partnership patterns, distributed cognition, or socio-technical systems. The focus is squarely on process and human teams within organizations, with no content referring to enhanced cognitive capability resulting from human-AI collaboration.",
     "reasoning_summary": "This content addresses strategic portfolio management for organizations, focusing on aligning teams, value delivery, and agility. It does not discuss or reference human-AI collaboration or any aspects of collective intelligence as defined for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Portfolio Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 13.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 2.7,
+    "ai_audience": 3.2,
+    "ai_signal": 2.65,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses Portfolio Management broadly and focuses on strategic alignment, value streams, agility, and organisational transparency. Nowhere does it mention agentic principles, AI agents, or human-AI integration. There's no discussion of agentic software delivery topics such as AI autonomy, contextual intelligence, or feedback loops involving agents. The audience and purpose somewhat overlap (organizational agility), but no substantive conceptual or direct connection to 'Agentic Software Delivery' is present.",
+    "reasoning_summary": "Content centers on traditional Portfolio Management, with no reference to agentic software delivery, AI agents, or related practices. Only minor alignment via themes like agility; overall, the fit is weak and indirect.",
     "level": "Ignored"
   }
 }

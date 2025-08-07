@@ -218,17 +218,23 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "l331AonWBuN",
     "category": "Azure DevOps",
-    "calculated_at": "2025-04-10T15:54:52",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 0,
-    "final_score": 87.0,
-    "reasoning": "The content provides a detailed account of a specific issue encountered while setting up a Build Agent in Azure DevOps (formerly TFS). It discusses permissions related to the Project Build Service and Project Collection Build Service, which are integral to Azure DevOps' build system. The mention of specific error messages and troubleshooting steps indicates a strong focus on Azure DevOps functionalities. The content aligns well with the key topics of Azure DevOps, particularly in the context of CI/CD and team workflows, while also providing practical insights into resolving common issues. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary",
-    "reasoning_summary": "This content is highly relevant to the Azure DevOps category, as it delves into troubleshooting build agent setup and permissions—core aspects of Azure DevOps workflows. By addressing specific error messages and practical solutions, it offers valuable, actionable insights for users managing CI/CD pipelines, making it a strong fit for this classification."
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 6.612,
+    "ai_mentions": 3.5,
+    "ai_alignment": 5.9,
+    "ai_depth": 6.7,
+    "ai_intent": 7.2,
+    "ai_audience": 7.6,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions (-1): Primary context is TFS rather than Azure DevOps, with no explicit references to Azure DevOps. Alignment (-1): Solution steps and API errors are specific to TFS 2015, predating Azure DevOps branding and cloud platform; relevance is partial but outdated.",
+    "final_score": 7.0,
+    "reasoning": "The post thoroughly discusses troubleshooting build agent permissions in TFS 2015, including in-depth steps for resolving a permissions error in orchestration plans and how to set up services in Visual Studio. However, it focuses solely on TFS (Team Foundation Server), not explicitly referencing Azure DevOps services, tools, or best practices. The content is technical and instructional, fitting much of the general Azure DevOps audience, as TFS is the on-premises predecessor of Azure DevOps. Still, both mentions and core alignment are penalized because the content does not address Azure DevOps features, cloud integration, or its named services. The detailed technical problem-solving is relevant for practitioners in similar MSFT build environments, but this remains an only partial conceptual fit due to era and naming.",
+    "reasoning_summary": "The article details build/error troubleshooting in TFS 2015, not Azure DevOps. While TFS underpins Azure DevOps, there are no direct mentions or focused alignment—main topic and terminology are pre-Azure DevOps. Partial fit only.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1979,6 +1985,25 @@
     "final_score": 14.0,
     "reasoning": "The content is a technical troubleshooting guide for a TFS build service permission error. It discusses detailed permission setups, specific error messages, and UI steps for TFS 2015, focusing on ensuring build agents can operate. There are no explicit or implicit references to agentic engineering principles such as systemic observability, ethical AI, or maximization of human/AI agency. The tutorial is tool-centric, lacks philosophical perspective on agency, and, while useful for TFS admins or DevOps engineers, does not align with or contribute to the Agentic Engineering category as defined. Outdated software context and absence of agency-related themes led to minor penalties.",
     "reasoning_summary": "This guide centers on resolving TFS build permissions, offering step-by-step fixes without addressing agency, engineering philosophy, or human/AI system design. It does not align with Agentic Engineering, remaining tool- and error-resolution–focused.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "l331AonWBuN",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 12.438,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.2,
+    "ai_intent": 1.6,
+    "ai_audience": 4.0,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.1,
+    "ai_penalty_details": "alignment penalized (-0.7) for referencing obsolete practices (TFS 2015 RTM, legacy build models); depth penalized (-0.6) for addressing outdated setups and not covering modern agentic concepts; intent penalized (-0.8) as the content's main purpose is troubleshooting old permission issues not relevant to agentic approaches",
+    "final_score": 12.0,
+    "reasoning": "The content is a troubleshooting guide for permission errors in TFS 2015 build orchestration, focused entirely on legacy agent/service account setups and access rights. There are no direct mentions or conceptual discussions of agentic software delivery, autonomous AI agents, contextual intelligence, or modern agentic delivery frameworks as described in the category. The guide is detailed in its walkthrough for a technical audience but is outdated, referencing legacy systems and not aligning with contemporary agentic practices. Penalties applied for outdated context, lack of agentic concepts, and an intent solely on fixing build configuration errors.",
+    "reasoning_summary": "This content addresses legacy TFS permission issues, not agentic software delivery. It lacks agentic themes, AI, or contextual intelligence, and solely details troubleshooting steps. Fit to the assigned category is minimal and outdated.",
     "level": "Ignored"
   }
 }

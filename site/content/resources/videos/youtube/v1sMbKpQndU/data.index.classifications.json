@@ -1141,15 +1141,22 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "v1sMbKpQndU",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:52:32",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile methodologies and the role of Scrum Masters, which are relevant to product delivery. However, it primarily focuses on coaching and leadership aspects rather than the end-to-end process of delivering software products. While it touches on collaboration and team dynamics, it lacks detailed discussions on deployment, testing, or specific product delivery practices.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 61.12,
+    "ai_mentions": 2.5,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.9,
+    "ai_intent": 7.2,
+    "ai_audience": 8.4,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "Direct mentions of 'Product Delivery' are absent, with focus mainly on Agile coaching and the Scrum Master role. However, the content aligns conceptually with key aspects (e.g., fostering agile mindsets, empowering teams, continuous improvement), which are critical to high-performing product delivery but not unique to it. There is moderate depth on topics like team self-organisation and influence, but little explicit exploration of delivery mechanics such as deployment, testing, or CI/CD. The main intent is to guide Scrum Masters in effective coaching rather than to cover end-to-end product delivery processes. Audience fit is strong—practitioners in Agile roles. Most content stays relevant, although it broadly covers leadership and coaching benefits rather than product delivery specifics.",
+    "reasoning_summary": "The content relates to Product Delivery through Agile principles, team empowerment, and improved collaboration, but focuses chiefly on coaching and leadership. Fit is moderate, with only indirect relevance to core product delivery practices.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1978,6 +1985,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on the Scrum Master and coaching stance, emphasizing team empowerment, self-organization, and influence over authority. While these themes relate to agency, the discussion lacks explicit reference to Agentic Engineering, misses AI/human agency interplay, DevOps practices, and systemic observability. The treatment of agency is broad and people-focused rather than integrating intelligent systems or engineering praxis, which leaves it only partially aligned with Agentic Engineering’s core definition.",
     "reasoning_summary": "This content partially aligns by discussing team empowerment and self-organization, which echo agency concepts. However, it remains squarely about Agile coaching and Scrum Masters, lacking focus on deliberate engineering practices or the integration of human and AI agency. Agentic Engineering is only tangentially referenced.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "v1sMbKpQndU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 11.857,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 1.1,
+    "ai_audience": 3.4,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content addresses Scrum Master coaching within Agile teams, focusing on leadership, influence, continuous improvement, and adaptability. However, there is no discussion of agentic software delivery, autonomous AI agents, contextual intelligence, or human-agent integration. The main focus is on human leadership and coaching without any attention to AI agency, software delivery augmentation, or systems integrating AI autonomy. The target audience shares overlap with agentic delivery themes (Agile/engineering leaders), but the content is not conceptually, directly, or deeply aligned with the category. There are no references to automation, governance of AI agents, or modern engineering for agentic delivery.",
+    "reasoning_summary": "Content focuses on human coaching, team facilitation, and agile leadership. There is no mention or discussion of agentic software delivery, AI agents, or autonomous systems. Does not match the category beyond generic context.",
     "level": "Ignored"
   }
 }

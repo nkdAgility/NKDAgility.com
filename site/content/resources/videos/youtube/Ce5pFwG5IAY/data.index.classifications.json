@@ -1413,15 +1413,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "Ce5pFwG5IAY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:54:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and the use of liberating structures within Agile practices, which are not directly related to the One Engineering System framework. While there are mentions of improving collaboration and effectiveness, these concepts are not explicitly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 15.268,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.6,
+    "ai_intent": 2.8,
+    "ai_audience": 5.3,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is solely focused on Liberating Structures as tools for Scrum Masters to improve meetings within Agile/Scrum contexts. There are no direct or indirect mentions of the One Engineering System (1ES), nor does it cover underlying principles such as standardized engineering tools, process integration, or cross-team unification. Its intent is to offer practical advice for in-meeting facilitation, not engineering-wide systems or frameworks. The audience overlaps as Scrum Masters could be stakeholders for 1ES, but signal remains low since the discussion is narrow and not related to the category's scope.",
+    "reasoning_summary": "Content focuses only on Scrum and liberating structures for meetings, with no reference to One Engineering System or its integration principles. Fit with the category is minimal and largely unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1925,6 +1932,25 @@
     "final_score": 35.0,
     "reasoning": "The content describes how Scrum Masters use liberating structures to improve meetings and engagement in Agile teams. While this supports team autonomy and purposeful practices—some overlap with agentic principles—it is centered on facilitation techniques and tools, not the deliberate design of engineering practices maximizing agency. There is minimal to no direct mention of Agentic Engineering or its defining features like systemic observability, DevOps-infused craft, or ethical AI collaboration. The focus is on interpersonal techniques rather than technical or philosophical constructs of agentic systems. Thus, conceptual alignment and depth are moderate but not strong. Audience partly overlaps (Agile practitioners, Scrum Masters), and intent is practical but tangential to the core of Agentic Engineering.",
     "reasoning_summary": "This content discusses facilitation tools (liberating structures) for Scrum Masters to enhance team engagement and meetings. While it touches on autonomy, it does not address core Agentic Engineering themes like systemic observability or ethical AI, so alignment is partial and confidence is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ce5pFwG5IAY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 7.93,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on human-centered facilitation techniques (liberating structures) for Scrum Masters, with no mention or indication of autonomous AI agents, contextual intelligence, agentic strategies, or the integration of AI and human expertise in software delivery. It aligns with traditional agile team facilitation rather than agentic principles, and lacks depth, intent, and relevance to the category. The only slight audience overlap is that some readers may be interested in modern delivery methods. No penalties were applied because the content is neither outdated nor contradictory.",
+    "reasoning_summary": "Content is about Scrum facilitation techniques, not agentic software delivery. No links to AI agents, autonomy, or contextual AI. Fit with the category is extremely minimal and indirect.",
     "level": "Ignored"
   }
 }

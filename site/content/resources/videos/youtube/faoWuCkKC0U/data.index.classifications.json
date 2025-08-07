@@ -1479,15 +1479,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "faoWuCkKC0U",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:18:25",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, which are not directly aligned with the One Engineering System framework. While there are mentions of collaboration and efficiency, these concepts are discussed in the context of Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 9.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content exclusively discusses the benefits and value of the PSPO-A course, focusing on Agile, Scrum, and product management. It does not mention One Engineering System (1ES), its principles, integration, or standardisation. No concepts align with the remit of 1ES beyond generic references to collaboration and improvement in software practices, which remain framed within Agile and Scrum contexts. The intended audience (product managers/owners) partially overlaps but with a product focus, not engineering system unification. No penalties were applied, as the material is not outdated or oppositional; however, there is no substantive fit for the evaluated category.",
+    "reasoning_summary": "This content promotes the PSPO-A course in Agile & Scrum for product managers/owners. It does not mention or discuss One Engineering System, its concepts, goals, or implementation. No alignment with the assessed category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,6 +1997,25 @@
     "final_score": 22.0,
     "reasoning": "The content strongly promotes the PSPO-A course as valuable for product managers and owners, emphasizing mastery of Agile and Scrum, collaboration, and effective product management. It does not mention or engage with Agentic Engineering, nor does it discuss the maximisation of human or AI agency, decentralised decision-making, systemic observability, or the deliberate design of engineering practices as defined by the category. The focus remains on course benefits and general Agile/Scrum practices, lacking both conceptual and depth alignment with Agentic Engineering, though the audience (product managers/owners) overlaps somewhat with the intended audience of Agentic Engineering content. No penalty was necessary as the content is not outdated or critical.",
     "reasoning_summary": "This content primarily promotes the PSPO-A course, focusing on Agile and Scrum skills for product managers and owners. It does not mention or meaningfully engage with Agentic Engineering concepts, so alignment with the category is minimal except for some overlap in target audience.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 10.16,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.3,
+    "ai_audience": 3.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content solely promotes the PSPO-A course for Agile and Scrum enhancement among product managers and owners. It makes no mention of AI agents, agentic delivery methods, contextual intelligence, or related topics. It targets an audience interested in professional development for product management, not the delivery of software via AI agents or agentic principles. The closest overlap is a general reference to 'innovation' and 'collaboration', but these are common Agile terms and not specifically tied to agentic delivery. There is neither conceptual alignment, depth, nor direct mentioning of agentic practices. The content fits best under Agile/Scrum professional training, not under Agentic Software Delivery.",
+    "reasoning_summary": "This content is a promotion for Agile/Scrum professional training, with no reference to AI agents, agentic delivery, or contextual intelligence. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

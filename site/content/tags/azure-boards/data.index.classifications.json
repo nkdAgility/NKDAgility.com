@@ -97,15 +97,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Azure Boards",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Azure Boards as a project management tool within the Azure DevOps suite, discussing its features and benefits for Agile project management. While it touches on aspects of transparency and continuous improvement, which are related to observability, it does not explicitly discuss observability principles, metrics, logs, or traces. The alignment with the core themes of observability is weak, and the depth of discussion does not provide substantial insights into observability practices or tools. Therefore, the confidence score reflects a low relevance to the category.",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 23.8,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 7.0,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is focused on Azure Boards as an Agile planning and collaboration tool. There are no direct mentions of observability or core observability concepts such as system state measurement, metrics, logs, traces, or monitoring. While the article references transparency, team performance, and real-time data, these are framed around project tracking, workflow improvement, and Agile delivery—not on technical observability or insights into system behavior. The audience (Agile/DevOps practitioners) is somewhat aligned with observability topics, and a moderate signal is present for related themes. However, the purpose and exploration lie outside the strict definition of observability, resulting in a low confidence score.",
+    "reasoning_summary": "The content is about Agile project management with Azure Boards, not observability in software systems. It lacks direct references and only partially overlaps with the category’s audience and peripheral topics. Fit with the Observability category is minimal.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3127,6 +3134,25 @@
     "final_score": 17.0,
     "reasoning": "The content exclusively discusses Azure Boards as a project and team collaboration tool within Agile and DevOps. Although it talks about transparency, communication, and collective improvement, there is no mention or exploration of human-AI collaboration or collective intelligence as defined. The focus is on human teams leveraging a digital tool, not on partnerships between humans and AI agents or emergent cognitive capabilities arising from such collaborations. The discussion remains at the level of workflow optimization among people, with no reference to shared decision-making or distributed cognition with AI, nor design patterns for human-AI teams. Thus, the alignment, depth, and intent are all low for the Collective Intelligence category, and confidence is accordingly minimal.",
     "reasoning_summary": "While Azure Boards emphasizes Agile team collaboration and workflow optimization, the content lacks any discussion of human-AI collaboration or collective intelligence, resulting in minimal alignment with the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Azure Boards",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 19.83,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 1.7,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content does not mention agentic software delivery or autonomous AI agents. Its focus is traditional Agile project management and team collaboration with Azure Boards. There is no discussion of agent integration, contextual intelligence, or human–AI collaboration—core aspects of the category. Instead, it emphasizes transparency, accountability, workflow, and Agile/Lean methodologies, all falling under conventional project tracking and process improvement. No outdated concepts or critical tone are present. The minimal overlap is the mention of integration and continuous improvement, which are not sufficient for agentic software delivery classification.",
+    "reasoning_summary": "This content is about Agile project and work management in Azure Boards. It contains no reference to agentic software delivery, AI agents, or human–AI teaming, so alignment is very low and the topic is almost entirely out of scope.",
     "level": "Ignored"
   }
 }

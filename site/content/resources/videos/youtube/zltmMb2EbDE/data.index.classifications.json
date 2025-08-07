@@ -1472,15 +1472,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "zltmMb2EbDE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:46:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on integrating Kanban with Scrum, discussing metrics and workflows specific to these methodologies. It does not address the principles or components of the One Engineering System, nor does it explore integration across teams or best practices for implementing 1ES. The discussion is centred around Agile practices rather than the standardisation and integration of engineering processes as defined by 1ES.",
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 21.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.6,
+    "ai_audience": 9.1,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses integrating Kanban into Scrum for improved metrics, workflow, and continuous improvement. However, it does not reference or align conceptually with One Engineering System (1ES) as defined. There is no mention of unified engineering platforms, standardization of tools/processes across teams, or cross-team integration at a systems level. The focus remains on blending two agile team-level methodologies, not the adoption or impact of a framework like 1ES. The audience is technical and relevant, and the signal is reasonably focused, but the key themes required for 1ES classification are missing.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It focuses on integrating Kanban with Scrum—not on cross-team integration, standardization, or 1ES principles—making only a weak and tangential connection at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,5 +1997,24 @@
     "reasoning": "The content focuses on integrating Kanban into Scrum to improve metrics, visualization, and workflow optimization—topics relating to continuous delivery, feedback loops, and some systemic observability. However, it never mentions agentic engineering, agency, ethics, or AI-related autonomy. The discussion is practical, not philosophical, and prioritizes team productivity over explicit agency maximization or ethical AI integration. The audience aligns (practitioners, teams), and while system improvement is central, it doesn’t delve into decision-making frameworks, engineering practice design, or decentralized autonomy, making overall relevance moderate.",
     "reasoning_summary": "This article provides actionable advice on Kanban-Scrum integration and continuous improvement but lacks explicit discussion of agentic engineering, autonomy, or ethical AI. While it addresses workflow visibility and data-driven improvement, it isn’t centrally focused on maximizing human or AI agency within software engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zltmMb2EbDE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 19.23,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 3.1,
+    "ai_audience": 3.0,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on integrating Kanban with Scrum to improve visibility, metrics, and continuous improvement but does not discuss agentic concepts such as autonomous AI agents, contextual intelligence, or agentic governance. There is no mention of agency, proactive intelligence, or synergies between AI and humans. Modern practices like DevOps are briefly mentioned, but only as tooling. The content's main theme is workflow improvement via metrics, which is adjacent but not part of the Agentic Software Delivery category. The audience is agile practitioners, which partially overlaps, and the content is relevant to delivery optimization, but not in an agentic sense.",
+    "reasoning_summary": "Discusses agile workflow enhancement by merging Kanban with Scrum. No reference to AI agents, agency, or agentic delivery principles. Only peripheral fit—content does not match the Agentic Software Delivery definition.",
+    "level": "Ignored"
   }
 }

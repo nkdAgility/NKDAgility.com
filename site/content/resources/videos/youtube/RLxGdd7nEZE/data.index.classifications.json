@@ -1422,16 +1422,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "RLxGdd7nEZE",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:28:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'agile' and 'scrum' at the end, but the primary focus is on systemic change in consulting engagements rather than Scrum principles or practices. While there is a conceptual alignment with the idea of change and improvement, it lacks depth in discussing Scrum-specific roles, events, or artifacts.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 48.57,
+    "ai_mentions": 2.6,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.9,
+    "ai_intent": 4.8,
+    "ai_audience": 6.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "Direct mentions of Scrum are minimal—one hyperlink at the end, in a generic course promotion. The central content explores consulting outcomes broadly, focusing on systemic change and referencing Lean and Agile principles generally. Scrum is only tangentially invoked without substantive discussion of its framework, roles, artifacts, or events. The main themes (organisational transformation, experimentation) relate to Agile philosophies in a wide sense but do not specifically or deeply connect to Scrum as defined in the category brief. The content’s intent and audience may include those interested in Scrum, yet the body is not primarily tailored to Scrum practitioners; rather, it addresses change agents at-large. Most discussion centers on consulting and transformation in general rather than evidence-based management or core Scrum practices.",
+    "reasoning_summary": "This content only briefly mentions Scrum and does not explore its core practices or principles in depth. The fit to 'Scrum' is minimal and largely incidental; main focus is on general consulting, systemic change, and Agile transformation.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1993,5 +2000,24 @@
     "reasoning": "The content centers on consulting engagements that seek 'systemic change' within organizations, emphasizing transformation of behaviors, systems, and culture for business impact. It touches on fostering experimentation and adaptive mindsets, which are adjacent to Agentic Engineering concepts like feedback-driven adaptation and autonomy. However, it lacks explicit discussion of agentic principles such as engineering practices, developer or AI agency, systemic observability, or ethical AI. There's only an implicit connection via advocacy for experimentation and transformation, without mentioning the deliberate design of engineering for augmented agency. The primary audience is practitioners interested in change and agility, which overlaps somewhat but doesn't directly target agentic engineering's primary concerns. No penalties applied, as content is recent and not contradictory.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by advocating for systemic organizational change and a culture of experimentation. However, it does not directly discuss engineering practices, human or AI agency, or decentralized decision-making, limiting its overall fit with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RLxGdd7nEZE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 19.48,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 3.6,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on systemic change as the objective of consulting engagements, referencing organisational transformation, systems, culture, and practices. It mentions agile and scrum but never discusses autonomous AI agents, contextual or agentic intelligence, or any related concepts. There is a focus on behaviour change and experimentation, but no direct or implied link to the use of AI agents in software delivery. The content is audience-aligned for transformation leaders or practitioners but is generic and doesn't reference agentic principles or technologies. No penalties applied as it is neither outdated nor contradictory.",
+    "reasoning_summary": "Content discusses consulting impact and systemic change but lacks any mention of agentic software delivery, AI agents, or related integration. Only indirect, surface-level alignment; overall, it does not fit the category.",
+    "level": "Ignored"
   }
 }

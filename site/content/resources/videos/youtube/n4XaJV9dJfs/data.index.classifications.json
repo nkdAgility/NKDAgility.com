@@ -1419,15 +1419,22 @@
     "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores essential Scrum principles like transparency, inspection, and adaptation. It goes beyond simply mentioning Scrum by delving into its core practices and artefacts, clearly demonstrating a deep understanding of how these elements help manage complexity within Scrum teams."
   },
   "Shift Left Strategy": {
+    "resourceId": "n4XaJV9dJfs",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:52:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile and Scrum principles, particularly around complexity and team dynamics, without any explicit discussion of the Shift-Left Strategy. While it touches on concepts like risk mitigation and adaptation, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 16.195,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.7,
+    "ai_audience": 4.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content centers on complexity, empiricism, and core Scrum principles such as transparency, inspection, and adaptation. There is no explicit or implicit discussion of the Shift Left Strategy; neither the term nor any of its typical practices (early integration of testing, security, or compliance) are mentioned. The overall themes relate to Scrum team effectiveness and foundational Agile methods, not specifically the proactive, early-stage focus highlighted in shift-left discourse. Depth and alignment are both low, as Shift Left is not part of the narrative. The intended audience (Agile/Scrum practitioners) marginally overlaps, but the context does not target Shift Left applications, and signal is reduced by off-focus content on product strategy, complexity education, and general process improvement.",
+    "reasoning_summary": "This content does not fit the Shift Left Strategy category. Its focus is on Scrum fundamentals and complexity, with no reference—direct or thematic—to early integration of testing, security, or compliance.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1979,6 +1986,25 @@
     "final_score": 37.0,
     "reasoning": "The content centers on complexity, empiricism, and Scrum fundamentals; it emphasizes transparency, inspection, adaptation, and continuous improvement, which resonate with feedback-driven adaptation. However, it falls short of directly addressing Agentic Engineering: there's little on developer or AI agency, ethical AI integration, systemic observability, or deliberate design maximizing human/AI autonomy. Agency is implied (in adaptation and improvement), but philosophical/principled discussion on agency or its engineered maximization is not present. The content targets Agile practitioners, matching the category’s probable audience, but is ultimately more about general Agile/Scrum practice than agentic engineering perspectives.",
     "reasoning_summary": "While the content discusses Scrum principles like transparency and adaptation—key elements of feedback-driven change—it does not delve into the deeper themes of agency, ethical AI, or engineering deliberate autonomy. Its focus is conventional Scrum, making only a modest conceptual link to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "n4XaJV9dJfs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 14.38,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.85,
+    "ai_intent": 2.3,
+    "ai_audience": 4.1,
+    "ai_signal": 2.06,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct mentions or references to Agentic Software Delivery, AI agents, or agency within software delivery in the content. The article is focused on Scrum practices, understanding complexity in Agile, and techniques such as transparency, inspection, and adaptation. It does not discuss integrating autonomous agents, contextual intelligence, or modern engineering practices linked to agentic delivery. The intent is to educate on product strategy within Scrum, and its audience matches that of Agile practitioners, but not specifically those interested in agentic approaches. The signal-to-noise ratio is moderate: it's strongly focused on Scrum and complexity, not agentic topics. Therefore, alignment, depth, and intent all score low, and confidence scores proportionally reflect the very partial thematic overlap on complexity, but not on agentic aspects.",
+    "reasoning_summary": "Content focuses on Scrum and complexity, with no reference to agentic principles, autonomous AI agents, or contextual intelligence. There is no substantive overlap with Agentic Software Delivery beyond generic themes of complexity.",
     "level": "Ignored"
   }
 }

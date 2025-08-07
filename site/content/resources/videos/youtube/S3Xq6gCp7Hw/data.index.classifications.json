@@ -566,15 +566,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "S3Xq6gCp7Hw",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:13:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a product owner in agile environments, focusing on collaboration and product value rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 8.22,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 2.7,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on the strategic and tactical impact of strong Product Owners and does not mention or discuss Test First Development, its principles, or practices. The closest overlap is in high-level discussions of collaboration and value delivery, but there is no direct or indirect alignment to defining success criteria before implementation, automated or manual test-first methods, or the key concepts listed for this category. The only slight relevance is the general emphasis on effectiveness and collaboration, which are adjacent but not specific to Test First Development.",
+    "reasoning_summary": "The content does not address Test First Development. It discusses the role and impact of Product Owners, with negligible overlap with the category’s definition or core topics.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2033,6 +2040,25 @@
     "final_score": 34.0,
     "reasoning": "Direct reference to 'Agentic Engineering' is absent. The piece focuses on product ownership and impact in Agile environments, aligning partly with considerations of agency (delegation, team autonomy), empiricism, and continuous delivery. However, it rarely addresses the deliberate engineering of human or AI agency, feedback-driven adaptation, or ethical/DevOps-infused frameworks central to Agentic Engineering. While there are touches on developer autonomy and empiricism, content is directed toward product management and team effectiveness, not systemic engineering practices aimed at maximizing agency for humans and intelligent systems. Engineering, observability, or purposeful design of sociotechnical systems for agency are not major themes. No penalties were necessary, as content is current and not critical or satirical.",
     "reasoning_summary": "The content explores product ownership and some ideas of team autonomy and empiricism within Agile but does not engage with the core principles of Agentic Engineering—such as engineering for maximal human and AI agency, systemic observability, or DevOps-infused craft—leading to only partial alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "S3Xq6gCp7Hw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 11.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.4,
+    "ai_intent": 1.5,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused entirely on the value and role of skilled product owners in Scrum and Agile contexts. It emphasizes anticipating customer needs, effective product strategy, and empiricism for competitive advantage. However, at no point does it mention or explore the integration of autonomous AI agents, agentic software delivery, or the embedding of contextual, intelligent agents in the delivery process. All themes revolve around human roles, process, and product management. There are no discussions of AI, automation, contextual intelligence, human-AI synergy, agent governance, or related agentic delivery practices. The closest overlap is a faint alignment with proactive, outcome-focused delivery, but it is strictly human-driven. No dimensions warrant penalty, and overall fit to the category is extremely weak.",
+    "reasoning_summary": "The content focuses on human-driven product ownership in Agile without referencing or aligning to Agentic Software Delivery or AI agent integration. Its fit with the category is extremely limited and indirect.",
     "level": "Ignored"
   }
 }

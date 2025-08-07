@@ -1444,15 +1444,22 @@
     "reasoning_summary": "This content is a great fit for the Scrum category, as it thoroughly explores the Product Owner’s responsibilities, required skills, and collaborative aspects within the Scrum framework. By referencing the Scrum Guide and delving into practical details, it offers valuable insights that align well with Scrum principles and practices."
   },
   "Shift Left Strategy": {
+    "resourceId": "Stln5As7Fof",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:10:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a Product Owner within the Scrum framework, discussing accountabilities, skills, and job specifications. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of collaboration and communication, these are not specifically tied to integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept.",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 5.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.6,
+    "ai_audience": 0.8,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on the Product Owner role in Scrum, hiring criteria, responsibilities, and best practices. There are no direct mentions or substantive discussions of Shift-Left Strategy concepts such as integrating testing, security, or compliance earlier in the development lifecycle. The main topics remain around product ownership, stakeholder management, and evidence-based management in the context of the Product Owner, without discussing Shift-Left principles, techniques, or tools. The alignment and depth scores are therefore minimal. No penalties were applied as the information is current and neutral in tone.",
+    "reasoning_summary": "This content does not fit the 'Shift Left Strategy' category. It discusses Product Owner roles and hiring, with no mention or application of Shift-Left concepts, proactive lifecycle integration, or related techniques.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2015,6 +2022,25 @@
     "final_score": 37.0,
     "reasoning": "The content does not directly mention Agentic Engineering or its core themes of maximizing human/AI agency, decentralization, engineering practices, or ethical autonomy. Its purpose is to guide hiring and role understanding for Product Owners in Scrum, focusing on practical role definitions and skills. There is a modest conceptual overlap with agency via empowerment, feedback loops, evidence-based techniques, and experimentation, but these are expressed in a role-based, not engineering design context. No explicit discussion of engineering practices, DevOps, AI integration, or decision frameworks links to the Agentic Engineering construct.",
     "reasoning_summary": "This content concentrates on practical aspects and competencies of Product Ownership in Scrum, with only minor tangential overlap to Agentic Engineering via empowerment, evidence-based methods, and feedback—but lacks direct focus on engineering agency, systemic design, or AI integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Stln5As7Fof",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 12.247,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.95,
+    "ai_depth": 2.2,
+    "ai_intent": 1.8,
+    "ai_audience": 2.2,
+    "ai_signal": 2.75,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on the skills, accountabilities, and practical considerations in hiring a Product Owner for Scrum teams. It deeply explores role requirements, industry trends, and core agile practices. However, there is no mention or substantive discussion of autonomous AI agents, contextual AI, agency in software delivery, or any of the agentic principles underpinning the classification definition. There is a brief reference to evidence-based management techniques, but this aligns with general agile product management rather than agentic delivery. The intended audience (hiring managers, agile coaches, Scrum practitioners) only partially overlaps with the target of Agentic Software Delivery, and the overall content is unambiguously focused on human roles, not AI agents or integration. Signal to noise is moderate given the relevance to Product Ownership, but the primary themes do not intersect with agentic delivery. No penalties are applied: content is current, neutral, and not contradictory.",
+    "reasoning_summary": "This content is tightly focused on the human role of Product Owner in Scrum, with no substantive mention of agentic software delivery, autonomous agents, or contextual intelligence. Only a slight overlap via evidence-based management. Fit is minimal.",
     "level": "Ignored"
   }
 }

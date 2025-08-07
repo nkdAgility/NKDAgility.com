@@ -639,15 +639,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "ArVDYRCKpOE",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:42:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the phrase 'fake it until you make it' within the context of Agile practices, focusing on team dynamics and learning rather than Continuous Delivery principles. While it touches on continuous learning, it does not explicitly address Continuous Delivery concepts such as automation, deployment, or rapid feedback, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 8.87,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.9,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on the limits and nuances of 'fake it till you make it' within Agile teams, emphasizing real expertise, coaching, and continuous learning. There is no explicit or implicit reference to Continuous Delivery principles, practices, toolchains, or outcomes—neither in main ideas nor theme. Audience is loosely related (Agile practitioners), but subject matter is more about team maturity and learning culture, not flow of software changes. Signal-to-noise is low for the Continuous Delivery category. No outdated or satirical tone.",
+    "reasoning_summary": "No mention or discussion of Continuous Delivery. Content is about learning culture and expertise in Agile—not software delivery practices. Does not fit the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1901,6 +1908,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on the practical and psychological aspects of 'fake it till you make it' in Agile settings, emphasizing expertise, coaching, and continuous learning. While it nods to team growth and learning environments, it lacks explicit discussion of agency, decentralisation, ethical AI, systemic observability, or DevOps-infused craft. There are no direct or even implied mentions of Agentic Engineering. The audience (Agile practitioners) partially overlaps, but the content is much more about professional development approaches than the deliberate engineering of agency for humans or intelligent systems.",
     "reasoning_summary": "The article addresses confidence, expertise, and learning in Agile teams but does not engage in the deliberate design of engineering practices or maximising agency. Its alignment with Agentic Engineering is minimal and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ArVDYRCKpOE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 12.655,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is a reflective piece on the phrase 'fake it till you make it' in Agile teams, focusing on balancing genuine expertise and learning. There is no mention or exploration of autonomous AI agents, agency, or related technological or governance frameworks. While the audience (Agile practitioners) overlaps, no Agentic Software Delivery concepts (integration of agents, context-aware intelligence, agent-human synergy, etc.) are present. Discussion remains on general team practices and learning culture, not systemic or architecture-level innovations aligned to the category.",
+    "reasoning_summary": "The article discusses learning and expertise in Agile teams but does not address agentic software delivery, AI agents, or related frameworks. The fit with the category is negligible and only overlaps in audience (Agile practitioners).",
     "level": "Ignored"
   }
 }

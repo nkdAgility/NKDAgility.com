@@ -1472,15 +1472,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it centres on building the skills and expertise needed for effective product ownership in agile settings. While it also touches on teamwork and product management, its main emphasis remains on developing professional capabilities, making it relevant to competence."
   },
   "One Engineering System": {
+    "resourceId": "6SSgETsq8IQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:38:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Professional Scrum Product Owner and the associated training course, which does not directly discuss the One Engineering System framework or its principles. While it touches on agile practices, it lacks explicit references to 1ES, integration of tools, or standardisation of processes, which are core to the category. The discussion is more about individual roles and training rather than a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 13.275,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 3.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses the Professional Scrum Product Owner course, emphasizing agile, product management, and personal/team growth. There is no reference or indirect discussion of One Engineering System (1ES), its unified engineering practices, tool standardisation, or frameworks. The core focus is on the product owner role in Scrum and the course structure, not on cross-team engineering process integration. The audience (agile practitioners, product owners) only partially overlaps with that of 1ES (engineering leaders seeking organisational standardisation). Thus, both conceptual alignment and depth are weak, resulting in low confidence for the 1ES category.",
+    "reasoning_summary": "Does not fit the One Engineering System category; content is limited to Scrum Product Owner training with no mention or discussion of 1ES, process integration, or standardisation themes. Only marginal overlap in audience. Very low confidence.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1989,6 +1996,25 @@
     "final_score": 28.0,
     "reasoning": "The content centers on the Scrum Product Owner role and how a specific course builds practical product management and agile skills. While it discusses topics like accountability, value maximisation, authority, and continuous improvement, it does not explicitly mention or deeply explore Agentic Engineering or its central themes—such as systemic observability, ethical AI integration, automation, or maximizing both human and AI agency. The philosophical aspects of agency are only lightly implied through discussions about authority and autonomy. The primary audience is agile practitioners and product owners, somewhat adjacent but not specifically targeted at audiences deeply interested in agentic practice or engineering philosophy. Overall, while relevant to agile empowerment, it lacks the direct treatment, conceptual depth, and explicit intent necessary to align strongly with the Agentic Engineering category.",
     "reasoning_summary": "The content focuses on agile product ownership and skill development, touching lightly on autonomy and accountability. It does not explicitly discuss agentic engineering principles, human/AI agency, or philosophical frameworks, making the alignment with Agentic Engineering modest at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6SSgETsq8IQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 9.991,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 1.1,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is focused exclusively on traditional Scrum Product Owner training, emphasizing agile values, modern product management, community, and coaching. It contains no mention of agentic software delivery, AI agents, autonomous systems, contextual intelligence, or related concepts. The intent and audience align with agile practitioners, but not specifically with agentic delivery. No obsolete practices or contradictions are present. There is some minor conceptual overlap in the discussion of 'modern practices,' but this does not extend to agency, AI, or context-aware autonomy. Thus, scores are very low across all dimensions.",
+    "reasoning_summary": "The content discusses agile product ownership and Scrum training without reference to agentic software delivery, AI agents, or autonomy. There is no notable conceptual or terminological overlap. Fit to the category is extremely low and largely absent.",
     "level": "Ignored"
   }
 }

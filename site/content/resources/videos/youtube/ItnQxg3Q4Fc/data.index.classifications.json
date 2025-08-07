@@ -1482,15 +1482,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "ItnQxg3Q4Fc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:26:54",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of senior leadership engagement in Agile transformations, which is not directly related to the One Engineering System framework. While it touches on systemic change and organisational transformation, it lacks explicit references to 1ES principles, components, or best practices. The focus is more on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 20.61,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 5.2,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content is centrally about the importance of senior leadership engagement in Agile and systemic transformation but does not directly mention One Engineering System (1ES), nor does it discuss standardisation or integration of tools/processes as in the 1ES framework. The only brush with related concepts is mention of the Microsoft DevOps team, but this is brief and generalized. There is no exploration of engineering systems, toolchain unification, 1ES principles, or comparative frameworks. The content targets organizational leaders in Agile transformation rather than 1ES-specific practitioners.",
+    "reasoning_summary": "Content centers on Agile leadership and transformation, with no direct discussion of One Engineering System, 1ES principles, or standardisation of engineering practices. Relevance to 1ES is highly tangential and partial at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1993,6 +2000,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on the necessity of senior leadership engagement in Agile consulting engagements for systemic organisational change and adaptability. While relevant to broader concepts underlying agency (leadership empowerment, enabling continuous adaptation), there is no direct mention of Agentic Engineering, nor are philosophical or technical aspects like developer autonomy, AI collaboration, or the deliberate design of engineering practices discussed. The emphasis is on leadership driving Agile transformation at scale, which is tangentially aligned but not central to the core themes of maximising human and AI agency within engineering practices. Depth is moderate—there is practical discussion of leadership roles but lacks exploration of technical or philosophical mechanisms for agency. Audience and signal scores are higher due to the relevance to change agents, but overall alignment is partial and lacks explicit connection.",
     "reasoning_summary": "This content highlights leadership's crucial role in Agile transformation but does not address Agentic Engineering's core ideas of maximizing human and AI agency within engineering practices. While themes of systemic change and adaptation overlap somewhat, explicit focus on agentic engineering is lacking.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ItnQxg3Q4Fc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 15.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 1.1,
+    "ai_audience": 6.5,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content exclusively discusses the crucial involvement of senior leadership in Agile transformation, focusing on systemic change and organisational alignment. There are no direct references to agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI and human expertise in software delivery contexts. The discussion does not address any agentic principles, modern engineering practices related to AI agents, or governance frameworks involving software agents. While the audience, being practitioners or executives involved in Agile, is loosely similar, the main purpose and depth are not aligned with the agentic software delivery category.",
+    "reasoning_summary": "The content centers on leadership in Agile transformation, not agentic software delivery. No references to AI agents, autonomy, or contextual intelligence; thus, fits the category only in a tangential or coincidental way.",
     "level": "Ignored"
   }
 }

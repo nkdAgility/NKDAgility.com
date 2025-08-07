@@ -100,15 +100,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Customer Feedback Loops",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 32.5,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.8,
+    "ai_audience": 4.0,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 32.0,
-    "reasoning": "The content discusses customer feedback loops, which are related to understanding user needs and improving product development. However, it does not explicitly mention observability or its core components such as metrics, logs, or traces. While there is a conceptual alignment in terms of continuous learning and improvement, the primary focus is on customer feedback rather than the internal states of a system or observability practices. The depth of discussion is moderate, but it lacks specific details on observability tools or principles.",
+    "reasoning": "The content centers on integrating customer feedback into product development processes, emphasizing the value of responsiveness and continuous learning. However, it does not reference 'observability,' nor does it discuss measurement, system states, metrics, or technical implementation relevant to the observability category. While user insights and feedback loops are related to understanding value delivery, the framing is user-focused rather than concerned with software system internals, logs, traces, or observability tools/practices. Audience is broadly aligned (development/product teams), but not specifically targeting technical observability practitioners.",
+    "reasoning_summary": "Content focuses on customer feedback and continuous learning, not system observability. It doesn't mention observability concepts, tools, or metrics for internal system state. Alignment to the category is low—fit is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3135,5 +3142,24 @@
     "reasoning": "The content outlines the importance of integrating customer feedback into product development, emphasizing continuous learning and adaptability. However, it never addresses human-AI collaboration, distributed cognition with AI agents, or any form of human-AI teaming. The described feedback loops are entirely human-centric—gathering, analyzing, and acting on user insights—with no reference to AI acting as a collaborative agent or team member. While the audience, intent, and some organizational relevance could marginally overlap with those interested in collective intelligence, the core content lacks substantive alignment with the provided definition. All dimensions receive low scores except for a moderate audience fit due to potential cross-interest with Agile and product teams.",
     "reasoning_summary": "This content centers on continuous improvement via customer feedback loops but makes no mention of human-AI collaboration or collective intelligence. The discussion is entirely human-driven, with no alignment to the category’s definition or scope.",
     "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Customer Feedback Loops",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 44.72,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.4,
+    "ai_intent": 4.2,
+    "ai_audience": 5.1,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on continuous learning via customer feedback loops, which is a relevant supporting theme in Agentic Software Delivery. However, there are no direct references to agentic concepts such as AI agents, contextual intelligence, or human-agent integration. The discussion is fairly general and does not go into the technical or architectural practices distinctive to agentic delivery (e.g., agent autonomy, synergy with domain experts, governance). The audience is likely technical or in delivery, but the fit is only partial as the primary focus is on traditional feedback mechanisms, not specifically their integration with AI agents or agentic systems.",
+    "reasoning_summary": "Content addresses feedback loops relevant to agentic delivery, but lacks discussion of autonomous agents or agentic practices. Fit is partial and indirect; emphasis is on general delivery improvement via feedback, not on agentic concepts.",
+    "level": "Tertiary"
   }
 }

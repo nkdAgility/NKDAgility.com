@@ -1455,15 +1455,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "rHFhR3o849k",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:16:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and their impact on team dynamics and organisational challenges, which is not directly related to the One Engineering System framework. While it touches on collaboration and organisational relationships, it lacks explicit references to 1ES principles, components, or implementation practices.",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 15.67,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.75,
+    "ai_depth": 2.05,
+    "ai_intent": 2.85,
+    "ai_audience": 4.15,
+    "ai_signal": 2.71,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "There are no mentions or references to One Engineering System (1ES), its principles, tools, integration, or comparative frameworks. The content is thoroughly focused on the qualities and organisational impact of a Scrum Master. While the themes touch on team integration and addressing organisational impediments, the context and framing are limited specifically to Scrum roles and practices, not to the unified standardisation, cross-team tooling, or systemic integration central to 1ES. The target audience (technical practitioners and leaders) is the only moderate overlap, as they may also be interested in 1ES. The content depth, signal, and intent do not point toward 1ES topics, leading to low confidence.",
+    "reasoning_summary": "Content is focused on the Scrum Master role, not 1ES. No mention, discussion, or conceptual alignment with One Engineering System framework, tools, or methodologies. Category fit is poor and unclear; nearly all content is out of scope.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1966,6 +1973,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on the role of the Scrum Master in enabling team agency, fostering ownership, and navigating organizational impediments—ideas tangentially aligned with Agentic Engineering, especially around team autonomy and empowerment. However, there are no explicit mentions of Agentic Engineering or core aspects such as integration of AI, feedback-driven adaptation, or DevOps-infused craft. Depth is moderate: the discussion is mainly about interpersonal/team empowerment within Scrum rather than the deliberate, systemic engineering practices or ethical AI collaboration central to Agentic Engineering. The intent is supportive of team agency but does not frame it as an engineering or philosophical pursuit. The audience fits Agile practitioners, partially overlapping with Agentic Engineering's target, and relevance is generally high, though the focus is less on engineering principles and more on organizational behavior. No penalties were warranted as the content is current and positive in tone.",
     "reasoning_summary": "This content discusses empowerment and organizational navigation by Scrum Masters, aligning modestly with Agentic Engineering themes of agency and autonomy. However, it lacks direct reference to engineering practices, AI, or DevOps, making its fit with the category partial and confidence moderate.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rHFhR3o849k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 8.319,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 1.4,
+    "ai_audience": 1.8,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on the human-centered role of the Scrum Master, discussing team fit, organisational politics, and relationship building with stakeholders. There is no discussion or mention of agentic principles—such as autonomous AI agents, contextual intelligence, integration with human expertise, or modern engineering practices like CI/CD or automated testing for agentic delivery. The intent, depth, and audience alignment are firmly rooted in traditional Scrum and team dynamics, without any reference to agentic software delivery concepts. Thus, the fit is extremely low and any minor score awarded is for general relevance to software delivery practitioners, but not the 'agentic' aspect.",
+    "reasoning_summary": "Content is about Scrum Master roles, organisational dynamics, and team effectiveness, with no mention or thematic overlap with Agentic Software Delivery or AI agents. Fit is extremely low and indirect at best.",
     "level": "Ignored"
   }
 }

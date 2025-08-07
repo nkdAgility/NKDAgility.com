@@ -523,15 +523,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "kOj-O99mUZE",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:03:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on scaling Portfolio Kanban and improving organisational workflow, with no direct mention of Test First Development principles or practices. While it discusses enhancing predictability and value delivery, these topics do not align with the core themes of Test First Development, which emphasises defining success criteria and the role of testing in the development process. The discussion lacks depth regarding any Test First methodologies, resulting in a very low confidence score.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 3.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.8,
+    "ai_audience": 7.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on scaling Kanban at the portfolio/organizational level, targeting leadership and management roles. There are no direct or indirect references to Test First Development principles, such as the definition of success criteria before implementation, automated or manual test first practices, or fast feedback loops related to Test First. The intent and subject matter align with project/portfolio management and flow optimization, not with test-oriented development. While the audience overlaps with the Test First category (technical leaders, coaches), the topical focus diverges entirely, as there is no coverage or even mention of relevant practices, making any connection highly tangential.",
+    "reasoning_summary": "This content focuses on portfolio-level Kanban, not Test First Development. No direct or conceptual alignment to defining success criteria before implementation or test-first practices. Any fit is extremely weak and indirect.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2008,5 +2015,24 @@
     "reasoning": "The content centers on applying portfolio-level Kanban to optimize organizational workflow, improve predictability, and enable data-driven decisions. While it discusses systemic workflow, decision-making, and continuous improvement, it frames these in classic Kanban/Agile managerial terms. There is little explicit engagement with the philosophical or ethical aspects of agency, nor does it meaningfully explore themes of maximizing human/AI agency, ethical AI integration, or developer autonomy central to Agentic Engineering. The course targets managerial and leadership practitioners, partially aligning with the intended audience, but most focus is on practical Kanban scaling rather than deliberate engineering design for maximizing agency. There are some surface parallels with Agentic Engineering (systemic change, decentralized decisions, value delivery), but core concepts like ethical autonomy, engineering craft, or AI as a collaborator are absent.",
     "reasoning_summary": "This content describes scaling Kanban practices at the organizational level, focusing on workflow optimization and decision-making. While it touches on themes relevant to agency, it does not deeply address Agentic Engineering's core concepts such as human/AI autonomy, ethical AI integration, or the deliberate engineering of agency.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kOj-O99mUZE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 20.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.4,
+    "ai_audience": 7.5,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses entirely on scaling Kanban at the organizational level—optimizing workflow, predictability, and decision-making—without mentioning autonomous AI agents, agency, or contextual intelligence. There is no discussion of agentic principles, AI-human collaboration, nor examples related to proactive, context-aware software delivery. While the audience (leaders, managers) aligns with the target group for agentic systems, nothing in the substance aligns with the definition of Agentic Software Delivery. Any potential overlap (such as system-wide analysis or decision-making) is handled via classic Kanban concepts, not agent-driven or agent-enhanced practices. No penalties were applied, as the material is current and not antagonistic.",
+    "reasoning_summary": "This content covers classic organizational Kanban scaling without agentic, AI-driven, or contextual intelligence themes. There is no discussion or hint of Agentic Software Delivery concepts, so fit for the category is very low.",
+    "level": "Ignored"
   }
 }

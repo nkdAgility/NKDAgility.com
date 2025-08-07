@@ -468,15 +468,22 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "ymKlRonlUX0",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:52:11",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 30,
-    "final_score": 82.0,
-    "reasoning": "The content discusses the limitations of burndown charts and critiques traditional project management approaches, aligning with the principles of empirical process control. It emphasises the need for adaptability and managing work based on observed evidence rather than fixed plans. However, while it touches on empirical concepts, the focus is more on critiquing specific tools rather than a comprehensive exploration of empirical process control principles.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 87.33,
+    "ai_mentions": 7.2,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.9,
+    "ai_intent": 8.2,
+    "ai_audience": 8.6,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The content directly references empiricism and critiques prescriptive planning tools like burndown charts in favor of adaptation, feedback, and value flow—core tenets of empirical process control. It discusses inspection (learning by doing), adaptation through just-in-time planning, and the rejection of fixed scope, aligning closely with the category definition. While explicit mentions of 'empirical process control' are limited (mentions score is moderate), the conceptual alignment and substantive depth are strong. The intent is clearly to inform Agile practitioners about moving toward more evidence-based and adaptive approaches, perfectly aligned with the audiencia and focus of this category. There are no outdated practices advocated, nor is the tone satirical or critical against empiricism itself. The signal remains high, with only a small amount focused on the drawbacks of old methods, making the discussion consistently relevant.",
+    "reasoning_summary": "Strong fit: Content advocates empiricism, adaptability, and evidence-based Agile practice. It critiques deterministic tools and promotes principles central to empirical process control. Signal, depth, and audience alignment are all high, with only moderate direct mentions.",
     "level": "Primary"
   },
   "Product Validation": {
@@ -1962,5 +1969,24 @@
     "reasoning": "The content critiques burndown charts and advocates for adaptability, empiricism, and value flow, which conceptually overlap with Agentic Engineering's emphasis on autonomy and continuous value delivery. However, it does not explicitly mention Agentic Engineering, developer agency, or the integration of human and AI autonomy. The discussion is more about Agile evolution than deliberate agentic practices or engineering philosophy. Audience and relevance are decent, but thematic and depth alignment with Agentic Engineering as defined are moderate.",
     "reasoning_summary": "The content promotes adaptability and empiricism in Agile, touching on concepts loosely related to Agentic Engineering. However, it lacks explicit reference to maximizing human or AI agency and does not address the distinct philosophical or engineering themes unique to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ymKlRonlUX0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 19.746,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 7.1,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content critiques burndown charts and traditional Agile practices, promoting adaptability, empiricism, and value flow. However, it makes no mention of AI agents, agentic delivery, or autonomous systems; discussion is limited to human practices. The underlying advocacy for modern, outcome-oriented Agile aligns slightly with agentic principles, but there are no references—direct or indirect—to agentic software delivery, contextual intelligence, or agency (as defined in the category). The primary audience is Agile practitioners and coaches, which partly overlaps. Most of the content is off-topic for Agentic Software Delivery, focusing on Agile evolution without introducing agent-centered approaches or AI integration.",
+    "reasoning_summary": "Fit is weak. The content discusses Agile adaptability and critiques old metrics but makes no mention of agentic principles or AI agents in delivery. It is only tangentially related through advocacy of modern, adaptive delivery models.",
+    "level": "Ignored"
   }
 }

@@ -2,21 +2,21 @@
   "Large Scale Agility": {
     "resourceId": "5nkzevV2xKG",
     "category": "Large Scale Agility",
-    "calculated_at": "2025-05-16T14:13:20",
-    "ai_confidence": 63.65,
-    "ai_mentions": 2.5,
-    "ai_alignment": 6.8,
-    "ai_depth": 6.7,
-    "ai_intent": 6.1,
-    "ai_audience": 8.0,
-    "ai_signal": 8.0,
+    "calculated_at": "2025-08-07T06:10:29",
+    "ai_confidence": 54.453,
+    "ai_mentions": 2.9,
+    "ai_alignment": 6.0,
+    "ai_depth": 6.8,
+    "ai_intent": 7.2,
+    "ai_audience": 6.353,
+    "ai_signal": 7.2,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 64.0,
-    "reasoning": "The content centers on the tension between team autonomy and strategic alignment within Scrum, emphasizing leadership’s responsibility for direction. While it references key concepts relevant to Large Scale Agility (alignment between teams and business objectives, leadership, organizational outcomes), it does not directly discuss scaling frameworks or enterprise Agile transformation. Its depth is moderate – focusing on principles important to large-scale concerns, but mainly within the context of single-team Scrum. Signals are high due to focused, relevant discussion, and the intended audience (leaders, Agile practitioners) matches. As it lacks explicit reference to scaling or agile at enterprise level, the confidence score and depth are moderated accordingly.",
-    "reasoning_summary": "This content thoughtfully explores how team autonomy must complement alignment to strategic goals in Scrum, highlighting leadership’s role—key for enterprise agility. However, it does not explicitly focus on scaling Agile practices across organizations, so confidence for the Large Scale Agility category is moderate.",
-    "level": "Secondary"
+    "final_score": 54.0,
+    "reasoning": "The content highlights the need to balance team autonomy with alignment to strategic goals in Scrum. While it does not directly name frameworks or discuss scaling, it addresses leadership roles and alignment, which are highly relevant to Large Scale Agility. No direct mention is made of enterprise-level transformation or cross-team working, but the themes intersect with the category, though depth is limited to discussing alignment mostly within a team/Scrum context. Audience appears to be both practitioners and leaders, and the piece is focused and purposeful.",
+    "reasoning_summary": "Partial fit: The content links team autonomy and strategic alignment in Scrum—a concept important for scaling Agile, but does not directly address larger enterprise-level scaling or frameworks. Main theme is adjacent to, but not central for, Large Scale Agility.",
+    "level": "Tertiary"
   },
   "Tenet": {
     "resourceId": "5nkzevV2xKG",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content explicitly discusses team autonomy and alignment in Scrum, focusing on the balance necessary for true agility. While it does not mention 'Agentic Engineering' directly, it closely aligns with category themes such as developer agency (emphasised autonomy), decision-making frameworks (alignment mechanisms), and delivery of value. The depth is adequate with a clear position on the topic, but it lacks specifics on AI involvement and systemic observability, so the fit is strong but not complete.",
     "reasoning_summary": "The content is strongly relevant to Agentic Engineering, emphasizing team autonomy balanced with strategic alignment. It targets practitioners and leaders, explores decision-making frameworks, and aligns well conceptually, though it doesn't directly mention AI agency or systemic observability.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5nkzevV2xKG",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:27",
+    "ai_confidence": 33.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 3.5,
+    "ai_audience": 6.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content centers on team autonomy and strategic alignment within Scrum, emphasizing the balance between self-management and leadership guidance. However, it never mentions or clearly relates to agentic software delivery, nor does it discuss AI agents or contextual intelligence. The ideas align partially in spirit (autonomy, alignment, outcomes) but lack any substantial discussion of agentic systems, AI autonomy, or integrations as required by the category. Audience and signal scores are higher, as it does address practitioners interested in delivery outcomes, but overall this is at best a tangential fit.",
+    "reasoning_summary": "Discusses team autonomy and alignment in Scrum but does not mention agentic AI, contextual intelligence, or agent integration. Thematic overlap is minor and indirect; fit to the specified category is weak and partial.",
+    "level": "Ignored"
   }
 }

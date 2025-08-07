@@ -508,16 +508,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "KD08D48Weks",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:04",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses agile approaches and the need for evidence-based practices, which aligns with empirical process control principles. However, it lacks direct mentions of key topics such as transparency, inspection, and adaptation, and does not delve deeply into the specifics of empirical process control or its implementation in Agile frameworks.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 93.24,
+    "ai_mentions": 8.8,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.6,
+    "ai_intent": 9.5,
+    "ai_audience": 9.0,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 93.0,
+    "reasoning": "The content strongly and repeatedly references empirical process control, both explicitly (e.g., 'empirically-based', 'evidence', 'inspect', 'adapt') and implicitly, making frequent use of its core principles: transparency (clear goals, outcome-based roadmaps), inspection (regular evaluation, feedback loops), and adaptation (iterative investment cycles, adapting goals and plans). It connects evidence-based portfolio management (a direct application of empirical process control at scale) to Agile and Scrum, heavily referencing Scrum.org and employing continuous improvement cycles. The depth is substantial, covering theory, application, metrics, cultural shifts, and feedback mechanisms. The intended audience is Agile practitioners and organizational decision-makers. There is little unrelated or distracting information, maximizing relevance with only minor process digressions. No outdated content or negative tone is present, so no penalties were applied.",
+    "reasoning_summary": "This content closely aligns with Empirical Process Control, thoroughly discussing principles like transparency, inspection, and adaptation in an Agile/Scrum context. Main intent and themes fully match the category definition; fit is comprehensive and clear.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2011,5 +2018,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are entirely absent, with only tangential concepts (team autonomy, bottom-up intelligence, experimentation) overlapping partially. The main purpose is portfolio and investment management through evidence-based, agile practices, not deliberate engineering for maximizing agency of humans or AI systems as defined. While it covers feedback loops, continuous adaptation, and team empowerment, it does not discuss systemic observability, DevOps-infused craft, or ethical AI integration. Audience is largely technical and management, loosely aligning. Most material is relevant but not directly agentic by the category’s strict definition.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering due to its focus on empowered teams, adaptive change, and feedback-driven cycles, but lacks direct coverage of engineering for human/AI agency, DevOps ethos, or ethical AI integration. Fit is partial and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KD08D48Weks",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 16.59,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.1,
+    "ai_intent": 1.9,
+    "ai_audience": 6.5,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content centers on evidence-based portfolio management, agile investment and feedback practices, experimentation, and alignment of work with business outcomes. It thoroughly explores empirical management, measurement, and strategic agility at the portfolio level. However, there is no mention or substantive discussion of autonomous AI agents, agentic architectures, human-agent collaboration, agentic governance, or contextual intelligence. The focus is solely on human teams, agile/lean funding, empirical feedback loops and decision making, and modern portfolio adaptations. The audience is technical/management aligned but not specifically those involved with agentic MLOps or AI-driven delivery. Some overlaps exist with outcome-focused systems, feedback, and innovation cycles, but none cross into the agentic paradigm; no AI agency, autonomy, or proactive, context-aware agent discussion appears.",
+    "reasoning_summary": "Content is thorough on agile portfolio management with human-centric feedback and value delivery, but lacks any reference to AI agents, autonomous agency, or agentic intelligence. Weak category fit; overlaps only on outcome-driven improvement concepts.",
+    "level": "Ignored"
   }
 }

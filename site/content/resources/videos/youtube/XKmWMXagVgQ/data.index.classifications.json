@@ -1496,15 +1496,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "XKmWMXagVgQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:04:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 12.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.6,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on continuous learning for product owners, discussing tools and techniques relevant to individual development rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it briefly touches on methodologies like Scrum and Agile, it does not delve into the principles or components of 1ES, nor does it provide insights into its implementation or impact on software quality and delivery timelines.",
+    "reasoning": "There are zero direct mentions of One Engineering System (1ES); the content focuses on continuous learning for product owners, with themes such as evidence-based management, A/B testing, and professional development. While some topics (e.g., evidence-based management) could exist within 1ES environments, there is no substantive discussion of 1ES principles, integration of unified tools/processes, or standardisation of engineering practices. The main intent is personal and practice improvement, not system unification or cross-team process integration. Audience (product owners) could intersect with 1ES, but the framing is not targeted to 1ES practitioners or cross-team unification efforts. The content's signal-to-noise ratio is modest since salient points are diluted by general learning advice. No penalties were applied since the content is neither obsolete nor contradictory.",
+    "reasoning_summary": "This content is about continuous learning for product owners—not about One Engineering System. No direct or indirect link to 1ES integration, tools, or principles. Only a tangential overlap in themes like evidence-based management.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2007,6 +2014,25 @@
     "final_score": 39.0,
     "reasoning": "There are no direct references to 'Agentic Engineering' or its synonymous concepts by name—the content focuses on continuous learning for product owners. While it touches on evidence-based management, hypothesis-driven engineering, and the importance of tools and autonomy, the discussion lacks explicit focus on maximising engineer or AI agency, decentralized decision-making, or ethical AI integration. The depth and intent are more about self-improvement and adopting effective practices, rather than the deliberate design of engineering systems to maximize agency. The audience (product owners) overlaps partially but is narrower than the typical target audience for Agentic Engineering. Signal-to-noise is decent but much of the content is general professional advice.",
     "reasoning_summary": "The post encourages product owners to adopt continuous learning and evidence-based practices, which tangentially aligns with Agentic Engineering’s values. However, it does not explicitly address the deliberate engineering of systems to maximize agency or the role of AI, so the alignment is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XKmWMXagVgQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 6.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content does not mention agentic concepts or AI agents in software delivery, nor does it explore synergy between AI and humans, automated contextual intelligence, or agentic system structures. It focuses solely on continuous learning for product owners, with references to evidence-based management, metrics, and Agile techniques, but these are presented in traditional human-centric ways. No mention or exploration of agentic software delivery key topics, modern agent automation, or governance frameworks. The target audience of product owners is partially aligned with delivery contexts, but the thematic and conceptual fit is absent.",
+    "reasoning_summary": "No meaningful connection to Agentic Software Delivery; focuses on traditional continuous learning and tools for product owners, not on AI agents or agentic integration in software delivery.",
     "level": "Ignored"
   }
 }

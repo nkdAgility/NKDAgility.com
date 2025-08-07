@@ -1473,15 +1473,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it centres on immersive learning to boost Scrum Masters’ practical skills. By emphasising real-world application, ongoing improvement, and hands-on assignments, it clearly prioritises the development of professional capabilities in line with Agile principles."
   },
   "One Engineering System": {
+    "resourceId": "jXk1_Iiam_M",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:20:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning in the context of Scrum training, which is not directly related to the One Engineering System framework. While it discusses team development and practical assignments, it does not address the principles, integration, or standardisation of engineering processes that are central to 1ES. The discussion is more about training methodologies rather than the integration of tools and processes across teams.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 14.86,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.65,
+    "ai_audience": 4.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content centers around immersive learning for Scrum Masters, emphasizing real-world practice, feedback, and Scrum concepts such as the Definition of Done. There are no direct mentions of One Engineering System (1ES), nor are the main ideas specifically about integrating or standardizing tools/processes across teams—the hallmarks of 1ES. While there are some elements of knowledge sharing and cross-team discussion alluded to, these are within a training context and focused on Scrum adoption, not on implementing a unified engineering system. The audience slightly overlaps (both could include technical leaders), but there is little substantive alignment with core 1ES principles or framework details. No penalties were warranted as the content is not outdated or critical; it is simply off-topic for this category.",
+    "reasoning_summary": "This content focuses on immersive learning for Scrum Masters and does not reference or align with One Engineering System concepts, integration, or standardization. Its fit with the 1ES category is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1988,5 +1995,24 @@
     "reasoning": "The content focuses on immersive learning for Scrum Masters, emphasizing applied practice, feedback loops, and knowledge sharing. These elements loosely align with feedback-driven adaptation and some aspects of developer agency (especially around team autonomy and reflection). However, there is no explicit or even implicit discussion of Agentic Engineering as defined—there is no examination of agency maximization for humans and AI, no mention of DevOps-infused craft, ethical AI collaboration, systemic observability, or decision framework engineering. The closest alignment is around continuous improvement and reinforcing practitioner autonomy in learning, but the discussion is situated strictly in the training and application of Scrum practices, not the deliberate engineering of systems or environments that maximize agentic properties. The audience is Scrum practitioners (overlapping somewhat with Agentic Engineering’s target), and the signal is relatively high since the content is focused, but the core philosophical and technical tenets of the category are missing.",
     "reasoning_summary": "While the article champions applied learning, feedback, and knowledge sharing for Scrum Masters, it does not address the deliberate engineering of agency, systemic feedback mechanisms, or the broader integration of human/AI collaboration central to Agentic Engineering. The fit is weak and mostly incidental.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jXk1_Iiam_M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 14.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 4.0,
+    "ai_signal": 3.05,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is centered on immersive learning for Scrum Masters, focusing on practical training methods, feedback, and organizational knowledge sharing within Scrum. There is no reference or discussion of autonomous AI agents, agentic principles, or contextual intelligence as required for Agentic Software Delivery. While there are mentions of continuous improvement, knowledge sharing, and feedback loops, these are strictly in the context of human-led practices and not the integration of agents or agentic frameworks. The audience is practitioners looking to enhance Scrum effectiveness—not those interested in agentic systems or AI-augmented delivery. Signal is moderately low for the topic as the discussion remains outside the category definition.",
+    "reasoning_summary": "Content focuses on human-centered immersive learning for Scrum Masters, lacking any discussion of autonomous AI agents or agentic delivery principles. It is not a fit for the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

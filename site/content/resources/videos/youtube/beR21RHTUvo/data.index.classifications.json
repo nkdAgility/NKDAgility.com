@@ -1360,16 +1360,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "beR21RHTUvo",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the challenges of using story points in Agile, which touches on decision-making and value delivery. However, it primarily focuses on the pitfalls of a specific estimation method rather than broader social technologies or frameworks that promote collaboration and continuous improvement. While there are mentions of team dynamics and the importance of value over points, the depth of discussion on social technologies as a whole is limited.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 81.12,
+    "ai_mentions": 2.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.9,
+    "ai_intent": 8.7,
+    "ai_audience": 7.6,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content discusses problems with story points in Agile (a social technology), emphasizing dysfunctional team and organizational behaviors, the impact on collaboration, value delivery, and recommends moving to flow metrics for better agility and value creation. It deeply explores how measurement frameworks influence self-organization, decision-making, and team focus, directly aligning with Social Technologies’ concern for optimizing value, fostering adaptive team practices, and organizational improvement. The main purpose is educational and aligned; while it doesn’t repeatedly use the category phrase, it thoroughly matches its core themes and audience. No penalties applied as it is current, constructive, and not undermining.",
+    "reasoning_summary": "Content closely matches Social Technologies: it analyzes how measurement methods affect collaboration, behavior, and value delivery in Agile, then advocates for adaptive, team-centric metrics—a strong thematic and conceptual fit to the category.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1964,6 +1971,25 @@
     "final_score": 29.0,
     "reasoning": "The content critiques story points and advocates for flow metrics to focus on real value delivery. While these themes intersect with system improvement and team autonomy, the discussion is not situated within the philosophical or practical frame of agentic engineering. There is no explicit mention or development of concepts like maximising human/AI agency, ethical AI integration, or decentralised decision-making. The exploration is practical and about measurement, targeting practitioners, but does not address deliberate design of engineering practices for agency — thus, only moderate conceptual overlap.",
     "reasoning_summary": "The article centers on Agile measurement approaches and advocates for flow metrics over story points. While relevant to modern engineering practice, it lacks direct discussion of maximising agency or agentic engineering principles. Overall, it only partially aligns with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "beR21RHTUvo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 8.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 1.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The article focuses on critiquing story points in Agile and advocates for flow metrics, like cycle time and throughput, as more meaningful alternatives. While this discussion aligns with some modern software delivery concerns (outcome focus, flow, empirical measurement), there are no references to autonomous AI agents, contextual intelligence, agency, governance frameworks for agents, or synergy between human and AI in delivery. The audience (Agile practitioners) is adjacent, and themes loosely align with continuous improvement and delivery outcomes, but explicit connections to Agentic Software Delivery are absent. Thus, scores are uniformly very low, with minimal partial fit due to outcome-driven, modern delivery narrative.",
+    "reasoning_summary": "Content does not fit Agentic Software Delivery; it critiques Agile story points and favors flow metrics, with no mention or exploration of AI agents, agency, or agentic system concepts. Only outcome focus slightly aligns with modern delivery principles.",
     "level": "Ignored"
   }
 }

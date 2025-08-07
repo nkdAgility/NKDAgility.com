@@ -72,15 +72,22 @@
     "level": "Ignored"
   },
   "Practice": {
+    "resourceId": "Miscellaneous",
     "category": "Practice",
-    "calculated_at": "2025-04-09T15:30:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of 'Miscellaneous' topics, which does not directly address specific practices or actionable techniques that enhance team performance. While it touches on the importance of flexibility and innovation, it lacks explicit mentions of established practices like Pair Programming or TDD. The alignment with the core themes of the category is weak, as it focuses more on the inclusion of diverse ideas rather than on consistent, repeatable actions. The depth of discussion is also limited, providing a broad overview without delving into specific practices or techniques.",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 22.23,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.8,
+    "ai_intent": 2.7,
+    "ai_audience": 7.0,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on the concept of 'miscellaneous' as a container for topics not fitting other categories. It mentions 'practices' broadly but does not discuss specific actionable techniques, habits, or repeatable actions—the hallmarks of the 'Practice' category. Discussion is theoretical, focusing on taxonomy, learning, and adaptability at a conceptual level. Audience and signal score higher since it is aimed at knowledge workers and teams in broad organisational contexts, but relevance to 'Practice' is tangential and very general.",
+    "reasoning_summary": "Content discusses unclassified topics and highlights innovation/learning but does not delve into repeatable team practices or actionable techniques. Alignment with 'Practice' is very weak and mostly incidental.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3135,6 +3142,25 @@
     "final_score": 6.0,
     "reasoning": "The content is a broad description of 'Miscellaneous' as a category in knowledge taxonomies, focusing on flexibility, inclusion of emerging topics, and adaptability in organizational learning. There is no mention or context of human-AI collaboration, AI agency, or collective intelligence concepts. While it generally discusses team adaptability and continuous learning, these are not framed in the context of AI partnership or collective cognitive capabilities. The audience is tangentially aligned as teams/organizations, but the discussion is only peripherally relevant due to the lack of any human-AI focus, hence very low scores across all dimensions.",
     "reasoning_summary": "This content does not address Collective Intelligence or human-AI collaboration. It discusses general organizational flexibility and learning, with only a tenuous, indirect fit to the category, resulting in a very low confidence of relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Miscellaneous",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 0.6,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content discusses the value of 'Miscellaneous' topics in organizational knowledge, focusing on innovation and adaptability. There are no direct or indirect mentions of agentic software delivery, autonomous AI agents, contextual intelligence, or relevant engineering practices. The content is not tailored to the target audience for Agentic Software Delivery and maintains a generic tone. No penalties applied, as the content is not outdated or critical; it simply lacks relevance to the specified category.",
+    "reasoning_summary": "The content is generic and focuses on miscellaneous topics, with no significant overlap with Agentic Software Delivery. There is no direct, indirect, or thematic alignment. The fit is minimal and largely unrelated.",
     "level": "Ignored"
   }
 }

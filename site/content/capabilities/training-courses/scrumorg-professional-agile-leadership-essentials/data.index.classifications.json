@@ -1332,15 +1332,22 @@
     "level": "Ignored"
   },
   "Internal Developer Platform": {
+    "resourceId": "CujSf0EnB7d",
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-04-10T15:54:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than discussing Internal Developer Platforms. While it touches on themes of organisational change and team dynamics, it does not explicitly mention IDPs or their components, benefits, or implementation practices. The discussion is centred around Agile methodologies and leadership roles, which are outside the scope of Internal Developer Platforms.",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 2.16,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a course on Agile leadership for managers, focusing on leadership skills, agile transformation, and organizational agility. There is no mention or discussion of Internal Developer Platforms, their components, tools, or their role in DevOps. While the audience is technical-management adjacent, the intent, concepts, and depth do not align with the Internal Developer Platform category. The signal-to-noise ratio is low for this topic, as all content is centered on Agile leadership rather than any platform or environment for development streamlining.",
+    "reasoning_summary": "This content is about Agile leadership, not Internal Developer Platforms. No relevant concepts, terminology, or focus on IDPs are present, resulting in a very weak or nonexistent category fit.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -2059,6 +2066,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on agile leadership and supporting agile teams but does not mention 'Agentic Engineering' or its core themes (developer/AI agency, sociotechnical feedback loops, DevOps ethos, or ethical AI integration). While leadership and empowerment are relevant tangentially, the discussion is broad, centering on agile transformation, frameworks, leadership culture, and certification for managers. There is minimal coverage of decentralised decision-making, systemic observability, or AI/human agency. The course's intent and outcomes align with broader agile leadership and transformation rather than the deliberate design of engineering practices for maximizing agency per the category. The most relevant connection is the potential for agile leaders to foster autonomy, yet the explicit focus on Agentic Engineering practices, principles, or systems is absent.",
     "reasoning_summary": "This workshop centers on agile leadership and organizational transformation, with little explicit tie to Agentic Engineering. Key topics like systemic developer/AI agency or ethical automation are missing, making relevance to the category low aside from loose links to autonomy and empowerment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CujSf0EnB7d",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 11.91,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused on Agile leadership training, aiming to build skills for supporting Agile adoption and transformation. There is no mention of agentic principles, autonomous AI agents, AI-human collaboration, contextual intelligence, or modern agentic delivery practices. The intent is about organizational transformation within Agile frameworks, not the deliberate integration of AI agency, grounding, or agentic governance. The audience is for Agile leaders and managers, partially relevant to those who might influence agentic software delivery but does not address the unique aspects of the Agentic Software Delivery category. The course covers leadership, value delivery, culture, professionalism, and scaling Agile, but entirely omits any discussion of agentic technologies or principles.",
+    "reasoning_summary": "This content focuses on traditional Agile leadership, not agentic software delivery. There are no references to AI agents, contextual intelligence, or agentic concepts. Audience and themes do not meaningfully align to the category.",
     "level": "Ignored"
   }
 }

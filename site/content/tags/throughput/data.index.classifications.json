@@ -49,15 +49,22 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Throughput",
     "category": "Method",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 55.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 0,
-    "final_score": 55.0,
-    "reasoning": "The content discusses throughput as a metric within Agile and Lean contexts, which aligns with the method category. However, it primarily focuses on the metric itself rather than detailing specific structured procedures or methods for achieving goals. While it mentions empirical inspection and continuous improvement, it lacks a step-by-step procedural approach typical of methods, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 58.94,
+    "ai_mentions": 2.5,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 8.4,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content explains throughput as a metric in Agile/Lean systems, discussing its uses for inspection, improvement, and related tools. While it relates to methods via empirical inspection and workflow adjustments, it does not describe a step-by-step process or detailed method usage. The alignment is partial: throughput supports and informs method adaptation, but is itself a measurement concept rather than a procedural method. The audience and signal-to-noise are high, but direct mentions and depth regarding methodical procedures are moderate. No penalties apply as the content is relevant and current.",
+    "reasoning_summary": "Content focuses on throughput as a metric supporting Agile/Lean improvement. It indirectly relates to 'Method' by enabling method adaptation via feedback, but does not detail structured procedures itself. Partial but not strong fit.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -3123,6 +3130,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on throughput as a process and performance metric in Agile/Lean, emphasizing team/system efficiency, trends, and flow analysis using analytics tools. There are no direct mentions or discussions of human-AI collaboration, collective intelligence, distributed cognition, or the emergent benefits of human-AI teaming. The context is team-level delivery and process improvement, not human-AI partnerships. Minimal conceptual overlap (empirical feedback, team decisions) is tangential and generic.",
     "reasoning_summary": "This content is primarily about measuring flow efficiency in team delivery, not human-AI collaboration or the core tenets of collective intelligence. It lacks references to human-AI partnership or emergent capabilities.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Throughput",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 21.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 4.8,
+    "ai_audience": 7.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content describes throughput as a metric for flow efficiency, relevant to Agile/Lean delivery and observability. However, it does not mention agentic delivery, autonomous AI agents, or human-AI integration. Its focus is on empirical team inspection, not agentic orchestration.",
+    "reasoning_summary": "The content relates to delivery metrics and observability but does not discuss agentic software delivery, AI agents, or human-agent collaboration. It only partially aligns with the category.",
     "level": "Ignored"
   }
 }

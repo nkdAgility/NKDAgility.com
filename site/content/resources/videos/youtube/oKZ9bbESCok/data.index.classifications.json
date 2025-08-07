@@ -1217,16 +1217,23 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "oKZ9bbESCok",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:00:18",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile methodologies and the pitfalls of say-do metrics, which are not directly related to DevOps principles. While there are some mentions of value delivery and team dynamics, the focus is on Agile practices rather than the broader DevOps philosophy, which emphasises collaboration, automation, and shared accountability across development and operations.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 42.7,
+    "ai_mentions": 1.6,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.5,
+    "ai_intent": 2.7,
+    "ai_audience": 5.8,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content primarily critiques say-do metrics within Agile and their negative impact on outcomes, value, and psychological safety. While it references Azure DevOps as an environment and draws a single example from that context, it does not meaningfully engage with DevOps principles such as automation, flow, shared accountability, or cultural shifts unique to DevOps. The focus, intent, and depth center on Agile performance metrics and value-delivery, not on DevOps philosophy or practices. Audience overlap exists, since some Agile practitioners are also potential DevOps professionals, but there is little direct benefit for a DevOps-focused reader. There are no penalties since the tone is constructive and the information is not outdated.",
+    "reasoning_summary": "Content is centered on Agile performance and team metrics, mentioning DevOps only tangentially. It does not reflect core DevOps principles or practices, so fit for the DevOps category is weak and confidence is low.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -2009,5 +2016,24 @@
     "reasoning": "Direct mentions are nearly absent—the term 'Agentic Engineering' is never referenced, nor are its signature concepts named directly. The post does align conceptually by critiquing rigid, output-driven practices in favor of outcome-orientation, transparency, and psychological safety, all indirectly resonant with agentic principles. However, it focuses more on agile metrics and psychological safety than on explicit maximisation of human/AI agency, deliberative engineering design, ethical AI, or systemic observability. Its exploration of empowerment and value-delivery runs parallel to agentic goals but lacks a direct or deep engineering-craft context (e.g., DevOps-infused craft, automation as autonomy, AI collaboration frameworks). The intent and audience both lean toward agile practitioners and leaders concerned with team metrics rather than those designing for explicit agency. The signal is strong and concise regarding its focused critique, but agentic engineering remains implicit rather than explicit.",
     "reasoning_summary": "While the content focuses on Agile pitfalls and the importance of outcomes, transparency, and psychological safety—elements tangentially related to Agentic Engineering—it does not explicitly engage with the core themes or depth of the category. Alignment is moderate and mostly indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "oKZ9bbESCok",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 19.31,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.8,
+    "ai_audience": 8.4,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on critique of say-do metrics, vanity metrics, and refocusing on outcomes in Agile, but does not mention or discuss agentic software delivery, AI agents, or any form of autonomous, proactive intelligence in the delivery process. There are references to Agile, DevOps, outcomes, and continuous improvement—adjacent themes that could, in theory, be relevant to agentic delivery, but the discussion never touches on integration of AI agents, human-agent collaboration, contextual intelligence, or any of the defining properties of the Agentic Software Delivery category. The audience is aligned (Agile practitioners, team leads, etc.), and the content is highly relevant for those interested in Agile transformation—but the fit to the category in question is very weak. No penalties were applied, as the content does not contradict or undermine the category.",
+    "reasoning_summary": "The content critiques say-do metrics and promotes outcome focus in Agile, but contains no discussion of agentic delivery, AI agents, or human–AI collaboration. The fit to 'Agentic Software Delivery' is minimal and indirect.",
+    "level": "Ignored"
   }
 }

@@ -528,15 +528,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "rEqytRyOHGI",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:12:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the pitfalls of special sprints in Agile and does not focus on Test First Development principles. While it touches on Agile practices and the importance of delivering usable products, it lacks explicit references to success criteria, testing practices, or the Test First approach. The discussion is more about Agile methodologies rather than the specific principles of Test First Development.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 27.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.8,
+    "ai_audience": 7.6,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses almost exclusively on Agile delivery, the problems with 'special sprints', and the importance of delivering usable products every sprint. While there is overlap with some Test First Development outcomes (e.g., reducing undone work, quality focus), there are no explicit mentions of Test First practices, success criteria definition, test automation, TDD/ATDD, or the distinctions central to the category. The intent and reasoning target Agile practitioners, aligning audiences, but substantial conceptual and thematic divergence remains. No penalties applied, as tone is constructive and content is not outdated.",
+    "reasoning_summary": "Although this content focuses on Agile delivery and avoiding risky 'special sprints,' it does not directly discuss or explore the principles or practices of Test First Development. The fit is tangential and partial at best.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2011,6 +2018,25 @@
     "final_score": 35.0,
     "reasoning": "This content critiques 'special sprints' in Agile, emphasizing continuous delivery, elimination of safety nets, and incremental product delivery. It references DevOps (e.g., Azure DevOps team), but does not discuss agency (human or AI), philosophical aspects of agentic practices, or relevant decision-making frameworks. There is a strong emphasis on risk reduction and continuous improvement, but the framing is practical Agile orthodoxy rather than deliberate engineering for autonomy or agency. The audience is Agile practitioners, overlapping somewhat with Agentic Engineering's target group, and the content is focused (high signal), but lacks explicit and conceptual depth in Agentic Engineering topics. Penalties applied due to no explicit agentic language and content focus being outside the deliberate design for maximising agency.",
     "reasoning_summary": "The article focuses on Agile risk management and continuous delivery, critiquing special sprints but doesn't address the engineering of human or AI agency. It aligns with some Agentic Engineering outcomes but lacks explicit references or deep conceptual fit to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rEqytRyOHGI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 14.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 3.6,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on Agile practices and the pitfalls of 'special sprints', reiterating the importance of continuous delivery and risk management within Agile frameworks. However, it contains no mention (direct or indirect) of agentic concepts such as autonomous AI agents, the integration of contextual intelligence, or synergy between human expertise and AI. The discussion is centered on cultural and process issues in Agile and Scrum, not the embedding of agentic technology or principles. Its audience is technical Agile practitioners, giving it moderate audience alignment, but there is little to no direct or conceptual overlap with Agentic Software Delivery, resulting in a low confidence score.",
+    "reasoning_summary": "This content is about Agile risk management and avoiding special sprints; it does not mention or meaningfully relate to Agentic Software Delivery or agentic principles. Only general Agile concepts are covered, so the fit is minimal.",
     "level": "Ignored"
   }
 }

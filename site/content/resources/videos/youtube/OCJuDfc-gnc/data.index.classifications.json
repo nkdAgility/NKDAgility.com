@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "OCJuDfc-gnc",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:04:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on scaling agility and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While there is a brief mention of DevOps in the context of agility, it is not a primary focus. The discussion lacks depth in DevOps practices, automation, and shared accountability, which are essential to the DevOps philosophy.",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 30.3,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.0,
+    "ai_intent": 3.9,
+    "ai_audience": 6.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content is mainly focused on scaling agile practices, Scrum, Nexus, and virtual training. DevOps is mentioned only once, briefly and generically, in a call for questions about agility and DevOps. There is no substantive discussion, no exploration of DevOps principles, practices, or culture, and no reference to automation, flow, feedback, or cross-functional collaboration as core to DevOps. Audience overlap exists (practitioners in Agile/DevOps spaces), and signal is moderately relevant due to shared concepts, but the main topic and intent are substantially disconnected from DevOps as defined here.",
+    "reasoning_summary": "Fit is weak: DevOps is mentioned only superficially, with no exploration of its principles or practices. The content focuses on Agile scaling and training, so alignment and depth for DevOps are very low.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1916,6 +1923,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses primarily on scaling agile practices, Scrum fundamentals, team collaboration, global and virtual training, and metrics. There are indirect nods to autonomy and adaptation (e.g., experimenting/inspecting/adapting), and DevOps is mentioned in passing. However, there is no direct discussion of the deliberate maximization of human and AI agency, the philosophical aspects of agency, or explicit agentic frameworks. The depth of discussion remains on practical agile scaling, not Agentic Engineering as defined. Some elements—experimentation, adaptation, and global context—somewhat align but do not reach the conceptual depth or explicit intent of the category.",
     "reasoning_summary": "This content mainly addresses agile scaling, training adaptations, and team collaboration. While adaptation and engagement are discussed, it only lightly aligns with Agentic Engineering concepts and lacks direct focus on agency, ethical AI integration, or engineering practices to maximize autonomous decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 8.529,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 1.5,
+    "ai_audience": 1.6,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused on scaling agile and Scrum practices, metrics, virtual training, and community engagement. There are no direct or indirect references to autonomous AI agents, AI-human synergy, context-aware agency, or the integration of intelligent automation in software delivery. While agile practitioners and DevOps are briefly mentioned, agentic principles (as defined by the category) are not discussed in concept, theme, or examples. The audience (agile coaches, trainers, practitioners) slightly overlaps, but the topic and intent are misaligned with Agentic Software Delivery. No penalties apply, as the content is current and not critical of the category.",
+    "reasoning_summary": "Content is about agile scaling, training, and metrics—no discussion of agentic AI, autonomy, or contextual intelligence in software delivery. Does not fit the Agentic Software Delivery category; alignment is minimal and indirect.",
     "level": "Ignored"
   }
 }

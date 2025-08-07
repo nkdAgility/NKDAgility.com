@@ -335,15 +335,22 @@
     "reasoning_summary": "This content is a strong fit for the Enterprise Agility category, as it thoroughly explores how organisations can become more adaptable and responsive to market shifts. It delves into practical strategies for building an agile culture, addresses common challenges like communication gaps, and highlights the importance of context—all central to successful agile transformations."
   },
   "Kanban": {
+    "resourceId": "omsEiYqX-Dk",
     "category": "Kanban",
-    "calculated_at": "2025-03-14T22:20:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Kanban alongside other methodologies like Agile and DevOps, but it does not delve into specific Kanban principles or practices. While it discusses the importance of organisational agility and responding to market changes, it lacks a focused exploration of Kanban's core themes such as visualisation of work, limiting WIP, or continuous improvement. The discussion is more general and does not provide substantial detail on Kanban itself, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 22.95,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 1.6,
+    "ai_audience": 7.7,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "Kanban is only briefly mentioned in a list with Agile, DevOps, and Lean as examples of approaches that support organisational agility and rapid response. The actual discussion focuses on empowerment, communication, and organisational change, rather than Kanban-specific principles, practices, or tools. There are no references to core Kanban topics like visualising workflow, WIP limits, cycle time, metrics, or continuous flow management. The target audience overlaps but the content does not address their Kanban-specific needs. Overall, the Kanban category is peripheral and not explored in depth, so confidence is low.",
+    "reasoning_summary": "Kanban is briefly mentioned along with other frameworks but not discussed. The content focuses on general agile empowerment, not Kanban principles. There is minimal alignment with the Kanban category; fit is marginal and not substantive.",
     "level": "Ignored"
   },
   "Technical Leadership": {
@@ -1988,5 +1995,24 @@
     "reasoning": "The content centers on organisational agility, empowerment, and pushing decision-making authority to those closest to the market, which aligns strongly with agency and some principles of Agentic Engineering. Key themes include team autonomy, context-driven empowerment, streamlined communication, and rapid feedback loops—each closely echoing the agentic philosophy. However, it never mentions Agentic Engineering directly, nor does it discuss engineering practices, systemic observability, AI integration, or the explicit intertwining of DevOps and ethical autonomy fundamental to the category. The depth is moderate, with practical suggestions focused on empowerment rather than technical/process engineering. The audience is a mix of practitioners and leaders typical of Agentic Engineering. Most of the content is on-topic, with minimal filler, but lacking specificity around engineering systemic agency or human-AI collaboration.",
     "reasoning_summary": "While the article thoroughly addresses team empowerment and decision decentralisation—core tenets of Agentic Engineering—it remains focused on organisational agility without delving into engineering practices, technical systems, or the AI aspects required by the category. Fit is moderate but not direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "omsEiYqX-Dk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 23.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.9,
+    "ai_audience": 6.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content thoroughly covers organisational agility through team empowerment, streamlined communication, and contextual decision-making. However, it does not mention autonomous AI agents, contextual intelligence in software delivery, or agentic principles as outlined in the classification. Its primary focus remains on agile philosophy, human-driven empowerment, and cultural change rather than integrating agency, AI, or advanced agentic practices. Therefore, mentions of the target category are minimal, alignment and depth are both partial, intent is tangential, but the practitioner audience and topic relevance provide some limited overlap.",
+    "reasoning_summary": "The content doesn't cover agentic software delivery or related AI/agent integration. It remains focused on human empowerment and agile principles, making its fit for the category very weak and mostly tangential.",
+    "level": "Ignored"
   }
 }

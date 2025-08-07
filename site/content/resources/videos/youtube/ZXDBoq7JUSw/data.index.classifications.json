@@ -1377,15 +1377,22 @@
     "reasoning_summary": "This content is a good fit for the category, as it highlights continuous learning and skill development—key aspects of competence in Agile and DevOps. The emphasis on professionalism as an ongoing process and the value of personal investment in growth further reinforce this alignment, though some points are broadly applicable to general professional development."
   },
   "One Engineering System": {
+    "resourceId": "ZXDBoq7JUSw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:10:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal development and enhancing agile skills, specifically within the context of Scrum. It does not discuss the One Engineering System framework, its principles, or its integration across teams, which are essential for alignment with the category. The mention of agile and Scrum is too peripheral to warrant a higher confidence score.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 13.27,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 3.2,
+    "ai_audience": 2.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on individual professional development—continuous learning, mindset, craftsmanship, and passion for improvement. There are no direct or indirect mentions of the One Engineering System (1ES), nor discussions around the integration, standardisation, or unification of engineering tools, processes, or frameworks at the organisational or team level. The primary intent is to encourage personal growth and advertise Agile/Scrum courses, not to inform about 1ES or related practices. Any resemblance to 1ES concepts (e.g., continuous improvement) is generic to professional growth and not tied to the system-level unification or practices required by the 1ES category. The audience is general professionals, not those explicitly interested in engineering systems. Much of the content is motivational rather than technically focused, resulting in a low signal-to-noise ratio for the purposes of this specific category.",
+    "reasoning_summary": "Content is about personal professional growth and learning, with no mention or substantive discussion of One Engineering System. Does not match the intent, topics, or audience as required by this category. Fit is minimal to non-existent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1886,6 +1893,25 @@
     "final_score": 37.0,
     "reasoning": "The content encourages continuous learning, trial and error, and care for one's craft, themes tangentially related to developer agency and professional autonomy. However, it avoids explicit or in-depth discussion of Agentic Engineering concepts: there is no mention of systemic observability, DevOps, AI collaboration, or engineering practices aimed at maximizing agency. The target audience somewhat overlaps (technical professionals), but the main focus is generic professionalism rather than the deliberate design of engineering environments. Despite the motivational tone and reference to learning Agile/Scrum, the core Agentic Engineering themes are largely absent, resulting in only moderate conceptual alignment and depth.",
     "reasoning_summary": "While the piece promotes professionalism, learning, and resilience relevant to software practitioners, it does not explicitly discuss or substantially engage Agentic Engineering themes such as maximizing human/AI agency or engineered autonomy, making the overall fit partial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZXDBoq7JUSw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 15.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.6,
+    "ai_audience": 7.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on general themes of professional development, continuous learning, and mastering one's craft. There are no explicit or implicit references to Agentic Software Delivery, AI agents, or associated engineering or governance practices. While the audience (Agile/Scrum practitioners) partially overlaps, there is no discussion of technical integration of AI agents or contextual intelligence in delivery. The content does not reflect any of the core concepts specified in the classification definition.",
+    "reasoning_summary": "Fits poorly. The content is about personal and professional growth in Agile/Scrum, not Agentic Software Delivery or AI agent integration. No relevant discussion of category concepts; audience overlap is incidental.",
     "level": "Ignored"
   }
 }

@@ -97,15 +97,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Frequent Releases",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the practice of frequent releases and its benefits for continuous delivery and team collaboration. While it touches on aspects of responsiveness and iterative improvement, it does not explicitly mention observability or its key components such as metrics, logs, or traces. The discussion lacks depth in terms of observability principles and tools, leading to a low confidence score in this category.",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 24.0,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 1.8,
+    "ai_audience": 7.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content discusses the practice and benefits of frequent releases (continuous delivery, user feedback, incremental improvements), but does not mention or directly address observability concepts such as metrics, logs, traces, system state measurement, or associated tools. While related through Agile/DevOps best practices, the focus remains on release cadence and team collaboration, not on how observability enables or informs these practices. Audience alignment is modest, as readers likely overlap with observability interests, but almost all thematic coverage is tangential, not topical.",
+    "reasoning_summary": "The content does not address observability principles or practices. It focuses on frequent release strategies, which may relate loosely to observability but lack direct or conceptual alignment with the category definition.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3132,6 +3139,25 @@
     "final_score": 18.0,
     "reasoning": "The content discusses the practice of frequent releases in the context of agile and DevOps, focusing on continuous delivery, team collaboration, and organizational responsiveness. However, it makes no reference to AI, AI agents, or human-AI collaboration. All discussion is limited to human team members (developers, testers, product owners) and organizational benefits, with no mention of enhanced outcomes arising from human-AI partnerships. As such, alignment, intent, and depth scores are low, reflecting the absence of collective intelligence themes as defined in the category.",
     "reasoning_summary": "The content is about frequent releases, team collaboration, and continuous improvement—but does not discuss human-AI partnerships or collective intelligence. Its focus on human teams and delivery practices means it lacks the required alignment for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Frequent Releases",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:58",
+    "ai_confidence": 35.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.4,
+    "ai_intent": 4.1,
+    "ai_audience": 5.3,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on the practice of frequent releases and continuous delivery, which aligns somewhat with modern delivery practices referenced in Agentic Software Delivery (like CI/CD and feedback loops). However, it never mentions or discusses autonomous AI agents, contextual intelligence, or human-AI collaboration. The discussion is generic and rooted in Agile/DevOps principles, not specifically agentic systems. The intended audience overlaps with technology practitioners, but the absence of direct references to agentic frameworks, AI agents, or human-in-the-loop designs limits both its relevance and depth for the category. No penalties were necessary, as the content is not outdated or oppositional.",
+    "reasoning_summary": "Content covers frequent releases and continuous delivery, but lacks any mention or discussion of agentic principles, autonomous AI agents, or AI-human collaboration, making fit to 'Agentic Software Delivery' weak and mostly tangential.",
     "level": "Ignored"
   }
 }

@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Large Scale Agility",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the concept of Large Scale Agility and its principles rather than specific tools or their functionalities. While it mentions frameworks like SAFe and LeSS, it does not delve into the tools that support these frameworks or how they facilitate workflows. The focus is more on methodologies and practices rather than on tools themselves, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 27.4,
+    "ai_mentions": 1.3,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.8,
+    "ai_intent": 3.6,
+    "ai_audience": 7.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on scaling agile across organizations and mentions frameworks like SAFe and LeSS but does not discuss tools, their functions, or their implementation in detail. Direct references to tools are absent. The main themes are about organizational change and agile principles at scale, not the mechanisms or software that support their execution. Alignment with the 'Tool' category is therefore weak, resulting in a low confidence score. The audience (enterprise leaders/practitioners) is somewhat aligned, but intent and content are only tangentially relevant.",
+    "reasoning_summary": "The content discusses large-scale agile frameworks and organizational transformation, not tools or their application. It only tangentially fits the 'Tool' category via high-level mention of frameworks like SAFe/LeSS, with minimal evidence of tool-centric focus.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3125,6 +3132,25 @@
     "final_score": 28.0,
     "reasoning": "The content discusses Large Scale Agility in the context of enterprise transformation and cross-team collaboration. While it references collaboration, distributed cognition, and shared understanding, it does so exclusively in the human/organizational context. There are no explicit or implicit mentions of AI agents, human-AI partnerships, or socio-technical systems involving AI collaboration. Therefore, it does not meet the definition or key topics of Collective Intelligence, as human-AI cooperation is absent.",
     "reasoning_summary": "This content focuses on scaling agile and fostering human collaboration at the enterprise level, but does not discuss human-AI partnership or collective intelligence as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Large Scale Agility",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 23.53,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.1,
+    "ai_audience": 6.2,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content never explicitly mentions agentic software delivery, autonomous agents, or related technologies. Alignment is weak, as it focuses on scaling agile across teams and organisations using frameworks like SAFe or LeSS—not on embedding AI agents or agency into delivery. There is no discussion of contextual intelligence, human-AI synergy, or governance frameworks unique to agentic delivery. The closest overlap is both are concerned with delivery transformation and outcome focus, but the approach and substance differ. The audience and relevance have partial overlap as both target organisational leaders and practitioners. Overall, the fit is minimal and mostly tangential.",
+    "reasoning_summary": "The content is about scaling agile across enterprises, not about agentic software delivery or integrating autonomous AI agents. Only very limited thematic overlap exists in the area of delivery transformation; overall, this is a poor fit.",
     "level": "Ignored"
   }
 }

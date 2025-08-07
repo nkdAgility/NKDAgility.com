@@ -343,15 +343,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "foi9MYyc1vq",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:08:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and the necessary skills for effective team guidance, with a focus on Scrum principles rather than Continuous Delivery practices. While it briefly touches on concepts like Continuous Integration, it does not delve into the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery techniques.",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 6.92,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.85,
+    "ai_intent": 2.5,
+    "ai_audience": 0.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content explores Scrum Master competencies, focusing on technical, business, and organizational mastery within Scrum. While Continuous Integration and engineering practices (such as TDD and CI) are tangentially mentioned, Continuous Delivery principles, practices, or frameworks are not discussed. The intent, alignment, and depth all center on effective Scrum Mastery, not on Continuous Delivery. No penalties are warranted, as the content is up-to-date and neutral in tone.",
+    "reasoning_summary": "The content's main focus is on Scrum Master roles and skills, with only minor, tangential references to automation (e.g., CI). It does not discuss Continuous Delivery principles or practices directly; fit with the category is minimal and indirect.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -2026,6 +2033,25 @@
     "final_score": 29.0,
     "reasoning": "Direct explicit mention or sustained discussion of Agentic Engineering is absent—the term or its aliases are not referenced. Conceptually, the article focuses on the broad mastery required of Scrum Masters, with some emphasis on technical mastery and guiding teams toward engineering practices, but does not fully address deliberate design or maximising human/AI agency. Topics like feedback-driven adaptation and decentralised decision-making are implied in Scrum, but not made central, nor are DevOps, system observability, or AI collaboration meaningfully discussed. The intent, while instructional, is aimed more at effective Scrum facilitation than at evolving engineering systems for agentic outcomes. The signal is moderate, with some tangential relevance (e.g., references to engineering practices, organisational change agents), but overall the category remains peripheral rather than focal. Audience is technical/practitioner-aligned, fitting the Agentic Engineering audience, but with less depth or directionality.",
     "reasoning_summary": "This content mainly focuses on the role of the Scrum Master and the value of different types of mastery, touching only incidentally on concepts (like technical mastery and organisational change) that overlap with Agentic Engineering. It does not directly address or foreground agency-maximising engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "foi9MYyc1vq",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 8.125,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused exclusively on the role, skills, and contextual knowledge required for Scrum Masters and does not mention or discuss agentic software delivery, AI agents, contextual intelligence, or any agentic delivery frameworks. There are some mentions of technical mastery and engineering practices (such as CI), but these are framed traditionally—without connecting to autonomy, AI agency, or augmented delivery models. There are no references to autonomous agents, human-in-the-loop systems, feedback loops driven by agentic intelligence, or any discussion of agentic principles and delivery. The target audience is Scrum practitioners, not specifically those considering agentic software delivery or modern, AI-powered engineering approaches.",
+    "reasoning_summary": "This content discusses Scrum Master skills in technical and business contexts but does not reference or align with agentic software delivery, autonomous agents, or AI-enabled delivery models. Fit with the category definition is extremely weak.",
     "level": "Ignored"
   }
 }

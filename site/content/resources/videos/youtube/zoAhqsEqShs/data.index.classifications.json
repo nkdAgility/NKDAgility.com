@@ -1472,15 +1472,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "zoAhqsEqShs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:14:49",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile consulting and personal experiences related to Agile methodologies, with no direct mention of the One Engineering System (1ES). While it touches on themes of collaboration and transformation, it does not align with the specific principles or components of 1ES, nor does it provide depth on its implementation or impact. The focus remains on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 15.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 2.7,
+    "ai_audience": 4.5,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is centered on agile consulting experiences, highlights real-world agile transformations, DevOps, and Scrum training. However, it never directly mentions One Engineering System (1ES) nor does it discuss its principles, integration of tools, or standardization of processes across teams as defined in 1ES. Its alignment is tangential: while topics like DevOps and process improvement are referenced, there is no substantive exploration of unified frameworks or comprehensive standardization. The purpose is to share success stories and promote agile training—not to investigate or explain 1ES. The audience fits a technical/organizational improvement demographic but not specifically those focused on cross-team unification under 1ES. Most content focuses on agile culture, not tool/process integration at scale.",
+    "reasoning_summary": "Content focuses on agile and DevOps transformation stories, without mention or discussion of One Engineering System (1ES) or its defining themes. Minimal alignment and no depth on standardization/integration across teams. Fit is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1983,6 +1990,25 @@
     "final_score": 39.0,
     "reasoning": "The content centers on agile consulting outcomes, detailing successes and failures in agile transformation, DevOps adoption, and holistic Scrum training with some references to feedback loops and continuous delivery. However, it does not engage directly or deeply with Agentic Engineering concepts—there's no mention of maximizing human or AI agency, ethical AI integration, systemic observability, or DevOps-infused craft beyond generic references to DevOps and continuous delivery. Developer or system agency isn't thoroughly discussed. The focus is on cultural change and broad agile practices rather than the specific, intentional engineering of agency. The audience has some overlap (practitioners, teams) but not specific to the Agentic Engineering field. Signal-to-noise is moderate: while relevant to agile and DevOps, large parts are testimonials or motivational. No penalties were needed as content is current and not contradictory.",
     "reasoning_summary": "This content is primarily about agile consulting experiences and organizational transformation. While it touches on related themes like DevOps and continuous delivery, it lacks a direct focus on the core ideas of Agentic Engineering, offering only loose conceptual alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zoAhqsEqShs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 13.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.45,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused entirely on traditional Agile consulting, Scrum training, DevOps adoption, and real-world organizational transformation stories. It makes no mention or implication of Agentic Software Delivery, autonomous AI agents, contextual intelligence, human-in-the-loop systems, or the integration of proactive AI into the delivery process. The closest overlap is ongoing references to 'continuous delivery' and 'feedback loops,' but these are not discussed in an agentic, autonomous, or AI-embedded context. The audience is somewhat aligned (tech practitioners, consultants), but the intent, discussion, and substance fundamentally do not match the Agentic Software Delivery category.",
+    "reasoning_summary": "Content covers Agile/Scrum consulting and DevOps transformation—no discussion or reference to Agentic Software Delivery, autonomous AI agents, or related concepts. Only a very weak contextual fit.",
     "level": "Ignored"
   }
 }

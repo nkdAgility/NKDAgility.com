@@ -40,21 +40,21 @@
   "Systems Thinking": {
     "resourceId": "Gp4e7gPmb-Q",
     "category": "Systems Thinking",
-    "calculated_at": "2025-06-17T15:58:51",
-    "ai_confidence": 51.15,
-    "ai_mentions": 1.4,
-    "ai_alignment": 6.9,
-    "ai_depth": 5.2,
-    "ai_intent": 6.3,
-    "ai_audience": 7.1,
-    "ai_signal": 7.4,
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 28.35,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 2.2,
+    "ai_audience": 7.0,
+    "ai_signal": 4.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 51.0,
-    "reasoning": "The content critiques traditional, routine work and advocates for a shift towards meaning and critical thinking. While it questions systemic structures (like Taylorism) and the design of work systems, it does not directly reference Systems Thinking or deeply analyze the principles, tools, or feedback loops associated with it. The alignment exists in challenging linear, reductionist approaches and highlighting interconnectedness between job design, automation, and worker dignity. However, the discussion does not use Systems Thinking terminology nor engage deeply with its frameworks; the primary focus is on dignity, meaning, and the cultural logic of work, rather than explicit organizational system mapping or methodologies. The intent loosely fits, as it encourages a holistic rethink of work systems, and the audience (organizational designers, leaders) is appropriate. Much content is on-topic, but the lack of technical discussion and Systems Thinking names or techniques limits the score.",
-    "reasoning_summary": "This content challenges conventional, reductionist job design and calls for more meaningful work, which partially aligns with Systems Thinking ideals, but lacks direct mentions or in-depth application of Systems Thinking tools or frameworks. Fit is moderate, with only tangential engagement in true Systems Thinking.",
-    "level": "Tertiary"
+    "final_score": 28.0,
+    "reasoning": "The content critiques repetitive, industrial-era work and argues for more meaningful, critical roles as automation increases. While it calls for 'systems' where humans solve problems, it does not discuss Systems Thinking principles, approaches, feedback, mapping, or holistic frameworks. There is an implicit systems-related critique (e.g., mention of 'broken systems'), but it lacks exploration of system interdependencies, feedback loops, or analytical tools, and offers no substantial discussion on organisational dynamics from a Systems Thinking perspective. The audience is partially aligned: organisational leaders or designers are implicitly addressed, but without clear Systems Thinking context.",
+    "reasoning_summary": "The content implicitly questions organisational 'systems,' but does not explore Systems Thinking ideas, methods, or analyses. It only tangentially relates to the category and lacks the necessary depth, focus, and conceptual fit.",
+    "level": "Ignored"
   },
   "Accountability": {
     "resourceId": "Gp4e7gPmb-Q",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content reflects on the effects of routine jobs on dignity and advocates for more meaningful, problem-solving work—touching on the philosophical drive behind Agentic Engineering. It does not explicitly mention Agentic Engineering or its key practices, but it philosophically aligns with developer agency and meaningful work. The exploration remains high-level without engaging engineering methods, AI collaboration, feedback loops, or system design specifics as detailed in the category definition. The audience is broad (possibly both general and technical readers) and the discussion is focused but not technical or practice-driven. No penalties applied—no outdated or satirical elements.",
     "reasoning_summary": "This piece philosophically aligns with Agentic Engineering by urging work redesign for human agency and meaning, but lacks in-depth engagement with engineering practices, explicit references, or technical audience targeting; its confidence reflects general relevance rather than direct or substantial fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Gp4e7gPmb-Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 9.11,
+    "ai_mentions": 0.18,
+    "ai_alignment": 1.44,
+    "ai_depth": 0.89,
+    "ai_intent": 1.13,
+    "ai_audience": 2.06,
+    "ai_signal": 2.42,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content critiques repetitive jobs and urges moving toward meaningful, problem-solving roles as automation (robots and AI) increases. However, there is no explicit or implicit reference to agentic software delivery or the integration of autonomous AI agents with human expertise in software delivery contexts. The discussion is broad, sociological, and philosophical about work, not software delivery practice. Audience isn't technical or domain focused, and key agentic topics (agency in delivery, feedback loops, human-in-the-loop AI, or delivery frameworks) are missing. Thus, alignment, depth, and other scores remain very low. No penalties were needed.",
+    "reasoning_summary": "The content critiques routine work and calls for more meaningful job design as automation rises, but it does not discuss agentic software delivery, autonomous agents, or integration of AI in delivery teams. Alignment with the category is very weak.",
+    "level": "Ignored"
   }
 }

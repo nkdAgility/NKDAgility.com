@@ -2,19 +2,20 @@
   "Kanban": {
     "resourceId": "-tlSlpyeb9A",
     "category": "Kanban",
-    "calculated_at": "2025-05-07T18:27:35",
-    "ai_confidence": 13.25,
-    "ai_mentions": 0.2,
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 14.7,
+    "ai_mentions": 0.3,
     "ai_alignment": 1.1,
-    "ai_depth": 1.0,
-    "ai_intent": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.7,
     "ai_audience": 5.0,
-    "ai_signal": 2.0,
+    "ai_signal": 6.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 13.0,
-    "reasoning": "The content focuses on evolving the Definition of Done, a concept more closely associated with Scrum and general Agile practices, with no direct or indirect reference to Kanban principles or practices. There is minimal alignment with Kanban's core topics, and the discussion does not address Kanban-specific methodologies or audiences. The confidence score is low due to the lack of relevant signals.",
+    "final_score": 15.0,
+    "reasoning": "The content focuses exclusively on evolving the Definition of Done (DoD), a concept central to Scrum and general Agile, not Kanban. There are no direct mentions or clear connections to Kanban principles—like visualization of workflow, WIP limits, or flow management. Instead, the guidelines center on incremental improvement of completion criteria, not the visual management, flow control, or Kanban feedback loops. Audience targeting and intent are generally agile-focused but not Kanban-specific. Signal-to-noise is reasonable, but relevance to Kanban is very low.",
+    "reasoning_summary": "Content is about evolving a team's Definition of Done, not Kanban. Lacks any mention of Kanban practices or principles, with no alignment to Kanban methodology. Does not fit this category.",
     "level": "Ignored"
   },
   "DevOps": {
@@ -3189,5 +3190,24 @@
     "reasoning": "The content never directly mentions 'Agentic Engineering' or its terminology, resulting in a low direct mentions score. However, its main themes—incremental definition of standards, empowering teams to evolve their Definition of Done at their own pace, continuous improvement, and layering in automation and telemetry—strongly align with the agentic principle of maximizing developer agency and creating adaptive environments for value delivery. The discussion is practical and focuses on team agency, autonomy, decision pacing, and continuous improvement, all of which are part of the Agentic Engineering worldview. However, it does not go deep on philosophical or ethical dimensions (e.g., explicit treatment of AI as a collaborator, decentralized decision-making structures) and is more practitioner-oriented. There are no penalties; the advice is timely and appropriate. The confidence is moderate to strong due to the high thematic alignment but is limited by the absence of explicit category references or deeper exploration of broader agentic practices or systemic concerns.",
     "reasoning_summary": "The content promotes evolving standards and empowering teams to incrementally improve their Definition of Done, aligning well with agentic engineering's focus on team agency and continual adaptation. While not explicitly about Agentic Engineering, its practical approach supports the core ideas of autonomy, improvement, and value delivery.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-tlSlpyeb9A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 27.993,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.3,
+    "ai_intent": 3.2,
+    "ai_audience": 4.7,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "There are no direct mentions of agentic principles, AI agents, or contextual intelligence. The content is focused on evolving 'Definition of Done' in software delivery, discussing practical steps like automated tests and telemetry, but it does not invoke the integration of AI agents, proactive intelligence, or agentic delivery. While aspects like automation, continuous deployment, and telemetry slightly brush up against modern software delivery topics, they are framed strictly within human/team maturity and process increments—not as part of an agentic strategy. The intent is to help practitioners improve delivery standards but does not align with agentic software delivery's core themes. Audience is software teams, which partially aligns, and the content is focused with little filler.",
+    "reasoning_summary": "This content addresses team evolution of 'Definition of Done' and modern practices, but it lacks discussion of agentic principles, AI agents, or contextual intelligence. It has little alignment with the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

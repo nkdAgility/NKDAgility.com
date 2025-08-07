@@ -1489,15 +1489,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "xIWBb8Cy_Rv",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:06:18",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on conflict resolution within Scrum teams, discussing roles and responsibilities specific to Scrum rather than the broader principles of the One Engineering System. While it touches on team dynamics, it does not address the integration or standardisation of engineering processes, which are core to 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 1.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There are no direct or indirect mentions of One Engineering System (1ES) or its core principles. Content is focused entirely on conflict resolution in Scrum Teams, facilitation, and coaching techniques. No discussion of integrated engineering frameworks, tool unification, or process standardisation, nor does it reference or align conceptually with 1ES intent, audience, or themes.",
+    "reasoning_summary": "Content is unrelated to One Engineering System. It focuses on team conflict and Scrum practices, not on integrated engineering frameworks or cross-team standardisation as defined by 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2009,6 +2016,25 @@
     "final_score": 22.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent. The content focuses on conflict resolution in Scrum teams, centering on facilitation and team dynamics rather than the design or maximization of human and AI agency. While empowerment and autonomy are lightly implied through some facilitation techniques and the Scrum Master's role, the discussion does not target systemic observability, DevOps-infused craft, ethical AI integration, or decision decentralization in the engineering sense. Depth and alignment are superficial with respect to Agentic Engineering, as the lens remains behavioral, psychological, and procedural, focusing on team fit rather than on agentic technology or engineering practices. Audience is practitioners, consistent with the category, but content focus is tangential. No penalties apply.",
     "reasoning_summary": "This content guides conflict handling within Scrum teams, emphasizing facilitation and team dynamics. It marginally touches on autonomy but does not meaningfully align with Agentic Engineering, as it deals with interpersonal processes rather than engineering agency practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xIWBb8Cy_Rv",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 10.343,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.7,
+    "ai_audience": 2.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "This content is focused on human conflict resolution, facilitation, and Scrum Master techniques in a Scrum Team. There are no direct or indirect mentions of AI agents, contextual intelligence, or agentic software delivery principles, nor discussion of autonomous systems, human-in-the-loop workflows, or integration of AI and human expertise in delivery processes. The content is highly relevant to agile facilitators and Scrum practitioners, but unrelated to agentic frameworks, software, or AI-augmented delivery concepts.",
+    "reasoning_summary": "The content discusses Scrum team conflict resolution with only human and facilitation techniques, not AI agents or agentic delivery. There is no conceptual or practical alignment with Agentic Software Delivery; the fit is very weak.",
     "level": "Ignored"
   }
 }

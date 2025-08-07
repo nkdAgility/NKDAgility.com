@@ -822,15 +822,22 @@
     "level": "Ignored"
   },
   "Scrum Master": {
+    "resourceId": "T6DrE9pN0ds",
     "category": "Scrum Master",
-    "calculated_at": "2025-04-10T14:45:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content briefly touches on user feedback and timelines, which could relate to Scrum practices, but it does not explicitly mention the Scrum Master role or its responsibilities. The discussion lacks depth and does not align with the core themes of the Scrum Master category.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 13.25,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content briefly discusses reacting to feedback and short timelines, which are concepts aligned with agile practices in general, but does not mention Scrum, the Scrum Master, or any responsibilities specific to the role. There is no depth or explicit targeting of Scrum Masters or their systemic impact—the language is entirely generic and lacks any clear focus on Scrum or its accountabilities.",
+    "reasoning_summary": "Content is general agile advice, with no mention of Scrum or Scrum Master responsibilities or impact; only minor generic alignment, so the fit for this category is extremely low.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1936,6 +1943,25 @@
     "final_score": 36.0,
     "reasoning": "The content discusses rapidly updating projects based on user feedback, which relates loosely to feedback-driven adaptation—a core aspect of Agentic Engineering. However, there is no explicit mention of Agentic Engineering, developer/AI agency, ethical considerations, or systemic practices. The discussion is brief and focuses on process speed rather than the deeper philosophical or systemic dimensions described in the category definition. The main intent is aligned somewhat with continuous improvement, but lacks breadth, depth, and explicit framing around agentic themes.",
     "reasoning_summary": "This content references quick adaptation to feedback, touching on a peripheral theme of Agentic Engineering, but lacks explicit discussion of agency, engineering practices, or philosophical context. Alignment is partial and not comprehensive.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "T6DrE9pN0ds",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 13.665,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 0.6,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses adjusting projects based on user feedback in short timelines, which hints at iterative delivery but lacks any mention of autonomous AI agents, agentic processes, contextual intelligence, or software delivery principles aligned to agentic methodologies. While user feedback and business outcome orientation are very weakly related to agentic delivery, none of the defining features or advanced practices are present. The fit is almost entirely absent except for a slight oblique reference to responsiveness.",
+    "reasoning_summary": "Content addresses user feedback and iteration but lacks any discussion of AI agents, agentic practices, or context-aware intelligence in software delivery. Minimal alignment with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

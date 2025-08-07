@@ -1100,15 +1100,22 @@
     "level": "Tertiary"
   },
   "Test First Development": {
+    "resourceId": "D1wz-J1jklQ",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:34:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, but it does not explicitly mention Test First Development or its principles. While it touches on concepts like feedback loops and iterative development, which are relevant to Test First practices, the primary focus is on deployment frequency rather than on defining success criteria or testing methodologies. Therefore, the alignment and depth of discussion are limited.",
+    "calculated_at": "2025-08-07T06:10:24",
+    "ai_confidence": 21.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 7.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses almost exclusively on frequent deployments, smaller batch sizes, technical debt, and fast feedback—core principles of DevOps and Continuous Delivery, not Test First Development. There is no direct mention (or even implied discussion) of defining success criteria before implementation, writing tests before code, or any practices (manual or automated) described in Test First Development, such as TDD, ATDD, or the evolution from manual to automated checks. The content relates peripherally via advocacy for fast feedback and quality, but these themes are generic to modern software engineering. The purpose is not to inform about Test First, but rather deployment frequency and its impact. Audience and signal scores are higher only because the content is developer-focused and remains tightly on its chosen topic without filler.",
+    "reasoning_summary": "This content does not fit 'Test First Development.' It discusses frequent deployments and code quality but never addresses Test First principles, practices, or defining success criteria before implementation. Fit is marginal and incidental.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -2025,5 +2032,24 @@
     "reasoning": "The content thoroughly discusses modern engineering practices—specifically, how frequent deployments foster faster feedback, technical debt control, and iterative value delivery. Concepts such as small batch sizes, continuous improvement, observability, and hypothesis-driven engineering strongly align with Agentic Engineering's focus on developer agency, feedback-driven adaptation, and systemic observability. The discussion addresses software engineers and technical practitioners, fitting Agentic Engineering’s target audience. However, there is only an implicit—not explicit—mention of Agentic Engineering; the terminology and certain ethical/AI aspects are not foregrounded, modestly lowering depth and direct mentions. Minor portions focus on general best practices, causing a slight dip in signal score. Overall, the content embodies the spirit and substance of Agentic Engineering, even if it does not use the term itself.",
     "reasoning_summary": "This content exemplifies Agentic Engineering by emphasizing fast feedback, developer autonomy, observability, and continuous value delivery through frequent deployments. Despite lacking explicit use of the term, its main themes and target audience align closely with the category’s philosophical core.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "D1wz-J1jklQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:23",
+    "ai_confidence": 38.5,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.2,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content thoroughly discusses frequent deployments, CI/CD, technical debt, observability, iterative development, and user feedback—some relevant to agentic software delivery's engineering practices. However, there are no explicit or implicit references to autonomous AI agents, agentic principles, or synergy between AI and humans in delivery. The main focus is on DevOps best practices, not the integration of contextual, proactive AI. Audience and purpose loosely overlap, but the fit is partial and indirect.",
+    "reasoning_summary": "Content focuses on DevOps, frequent deployments, and feedback loops—key engineering practices—but lacks agentic AI, agency, or human–AI integration. Only partial conceptual alignment; explicit agentic elements are missing.",
+    "level": "Ignored"
   }
 }

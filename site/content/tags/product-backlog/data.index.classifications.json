@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Product Backlog",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Product Backlog and its role in Agile practices, which indirectly relates to accountability through the emphasis on prioritisation and alignment with strategic goals. However, it lacks explicit mentions of accountability as a structural construct or specific roles like Product Owner or Scrum Master. The focus is more on backlog management rather than on outcome ownership or the implications of accountability in work systems.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 45.15,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.3,
+    "ai_intent": 3.2,
+    "ai_audience": 5.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content centers on Product Backlog management—explaining its strategic value, the importance of transparency, and value delivery. However, it never directly addresses accountability or outcome ownership. There is no explicit discussion of who owns backlog outcomes, structural accountabilities, or distinctions between ownership and activity. While the Product Backlog is indirectly linked to accountability in practice, this content only alludes to clarity, collaboration, and alignment, without making accountability a focus. It remains at the process/tool level, omitting discussion of accountabilities like the Product Owner or how clearly defined ownership affects performance or adaptation.",
+    "reasoning_summary": "Content discusses backlog management, priorities, and adaptability, but does not address outcome ownership or explicit accountabilities. There is only peripheral connection to accountability, so the fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -3114,6 +3121,25 @@
     "final_score": 19.0,
     "reasoning": "The content exclusively discusses practices for Product Backlog management in Agile, focusing on human team collaboration, transparency, and adaptability. There is no mention of human-AI partnerships, AI agent collaboration, or any of the key tenets of collective intelligence as defined (such as distributed human-AI cognition, emergent properties from human–AI teamwork, or socio-technical human-AI systems). Collaboration is described solely among human stakeholders. The closest related alignment is the emphasis on effective collaboration, adaptability, and value delivery, but this falls short of the required human-AI context. No signals in language or examples support fit to the target category.",
     "reasoning_summary": "This content centers on human-focused Agile backlog management and does not reference or explore human-AI collaboration or collective intelligence themes. Its focus on team alignment and value delivery is adjacent but not aligned with the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Backlog",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 17.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 4.7,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content thoroughly describes product backlog management in Agile, covering prioritization, adaptation, and collaboration. However, there is no explicit mention or discussion of agentic principles, autonomous AI agents, or context-aware intelligence. The themes and intent focus on conventional Agile best practices specifically for backlog management, not on integration of AI agents, agency, or related agentic delivery concepts. There is some conceptual overlap since backlog refinement is an area where agentic delivery methods could be applied, but this is not hinted at or discussed. Audience is technical/practitioner, which loosely aligns. Overall, fit is minimal and confidence is low, as all primary aspects of 'Agentic Software Delivery' are missing.",
+    "reasoning_summary": "Content focuses on standard Agile backlog management, not agentic software delivery. No mention of AI agents, contextual intelligence, or agentic principles. Only a partial, indirect fit with minimal overlap.",
     "level": "Ignored"
   }
 }

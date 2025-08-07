@@ -1490,16 +1490,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "5EryGepZu8o",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:09:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum principles, particularly empiricism and navigating complexity, without explicitly addressing Agentic Agility or its key themes. While there are elements of adaptability and intentionality in the context of Scrum, the focus remains on Scrum practices rather than the intentional shaping of outcomes through agency, which is central to Agentic Agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 67.17,
+    "ai_mentions": 1.3,
+    "ai_alignment": 7.8,
+    "ai_depth": 8.1,
+    "ai_intent": 7.6,
+    "ai_audience": 7.2,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "Direct mentions of 'agency' or 'agentic agility' are absent, with no explicit discussion of intentional, agentic action. However, the content emphasizes adaptation, autonomy, transparency, and responding to complexity—concepts adjacent to agency. The description of empiricism (especially adaptation) and the role of teams adjusting and navigating complexity aligns partially with the core of agentic agility, though it doesn't overtly frame these as 'agency.' The audience is primarily Agile practitioners/teams, matching the target for this category. The piece is focused and substantial—discussion is deep about empiricism, complexity, and adaptive practice, but not specifically agency-centric. Signal/noise is high: most content is directly on transparency, inspection, adaptation, and their value. Partial but not direct fit, resulting in mid-to-high (but not full) confidence.",
+    "reasoning_summary": "The content thoroughly discusses empiricism, adaptation, and complexity navigation in Scrum, aligning partially with agentic agility themes but lacks direct reference to agency or agentic action. The fit is meaningful but not explicit.",
+    "level": "Secondary"
   },
   "Product Development": {
     "category": "Product Development",
@@ -1992,6 +1999,25 @@
     "final_score": 40.0,
     "reasoning": "The content is focused on Scrum's core empiricism—transparency, inspection, and adaptation—primarily through a lens of agile product development. There are strong themes of feedback and adaptation, and some discussion of decentralised team decision-making and complexity navigation. However, explicit references to 'agency,' deliberate system engineering for agency, DevOps, or AI collaboration are absent. While the content conveys philosophical parallels with Agentic Engineering (e.g., feedback-driven evolution, team autonomy), it stops short of addressing systemic engineering practices, ethical AI, or maximising both human and machine agency as described by the category. The audience is closely aligned (agile practitioners), and the signal is focused, but depth and conceptual fit are limited by a lack of direct category scope.",
     "reasoning_summary": "The piece thoroughly explores empiricism in Scrum, emphasizing transparency, inspection, and adaptation, which overlaps with Agentic Engineering themes of feedback and team autonomy. However, it doesn't explicitly address engineering for agency across humans and intelligent systems, or systemic DevOps/AI integration, so alignment is only partial.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5EryGepZu8o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 10.512,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 1.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is a deep exploration of Scrum's foundational empiricism (transparency, inspection, adaptation), complexity, and the differences between iterative and traditional delivery, with zero mention of autonomous or agentic systems, AI, or associated governance. No content touches on integrating autonomous agents, contextual intelligence, or human-agent collaboration central to Agentic Software Delivery. The audience and concepts are firmly rooted in classic Scrum, product development, and agile coaching. There is no agentic framing, nor inference of such systems being present. The limited score is due to some generic overlap in systemic adaptation, feedback, and modern delivery themes, but it’s otherwise unrelated to the agentic category.",
+    "reasoning_summary": "The content is solely about empiricism and complexity in Scrum, with no mention or implication of autonomous agents, AI, or agentic frameworks. It does not fit the Agentic Software Delivery category except for a minor shared focus on feedback/adaptation.",
     "level": "Ignored"
   }
 }

@@ -145,15 +145,22 @@
     "reasoning_summary": "This content is a good fit for the category because it explores how product validation supports customer collaboration and ongoing improvement. It highlights the value of user feedback and experimentation within agile practices, showing practical application. However, it doesn’t delve deeply into the core principles themselves, which slightly limits its alignment."
   },
   "Artifact": {
+    "resourceId": "Product Validation",
     "category": "Artifact",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses product validation and its importance in ensuring market fit and customer value, but it does not explicitly mention specific artifacts such as Product Backlog or Sprint Backlog. While it aligns with Agile and Lean principles, the focus is more on the validation process rather than on the artifacts themselves. The discussion lacks depth regarding the structure and role of artifacts, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 21.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.8,
+    "ai_audience": 6.2,
+    "ai_signal": 3.45,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses product validation as a process, focusing on user testing, feedback, and iterative learning. It never directly mentions artifacts nor explores formal representations like Product Backlog or Increment. The intent and depth center on practice, not artifacts. While relevant for Agile practitioners, there is minimal conceptual overlap with the 'Artifact' category definition. There are no penalties, as nothing is outdated or critical in tone.",
+    "reasoning_summary": "This content is about practices and processes for validating product ideas with users, not formal artifacts. No artifacts or their structures are discussed, so it poorly fits the 'Artifact' category.",
     "level": "Ignored"
   },
   "Discipline": {
@@ -3139,6 +3146,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses entirely on human-driven product validation, emphasizing testing with real users, iterative feedback, and integration with Agile, Lean, and DevOps. However, it contains no references to AI, human-AI collaboration, or collective intelligence as defined. There are no conceptual links to human-AI partnerships or shared agency. Its audience and context (Agile, DevOps) slightly overlap with the category, but the discussion is misaligned with the core of Collective Intelligence.",
     "reasoning_summary": "This content discusses human-centered product validation without mentioning or exploring human-AI collaboration or collective intelligence themes, resulting in low alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Validation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 22.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.45,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 3.5,
+    "ai_signal": 3.95,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on product validation, user testing, and iterative feedback for customer value—key activities in agile and product management. There are no explicit mentions or substantial discussion of agentic AI, autonomous agents, context-aware systems, or synergy between AI and human expertise, which are central to Agentic Software Delivery. Discussion remains at a high-level and traditional agile/product level, without conceptual or practical alignment to proactive, intelligent agentic systems. The only tangential relevance is the feedback loop and iterative improvement, which are general engineering best practices rather than agentic delivery's deliberate, agent-focused strategy.",
+    "reasoning_summary": "The content covers agile-aligned product validation but doesn't address autonomous AI agents or agentic delivery frameworks. There is negligible alignment with Agentic Software Delivery except overlap in iterative feedback and improvement themes. Fit is minimal.",
     "level": "Ignored"
   }
 }

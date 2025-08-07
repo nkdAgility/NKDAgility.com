@@ -227,13 +227,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "-IePwtEoXdo",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T14:45:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content focuses on product discovery and validation skills, which are important components of the product delivery process. However, the primary emphasis is on validation techniques rather than the broader methodologies and practices involved in full product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 69.44,
+    "ai_mentions": 4.1,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.6,
+    "ai_intent": 7.2,
+    "ai_audience": 8.6,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content focuses on product discovery, validation, experimentation, and risk control in the context of product development, with some overlap with product delivery practices like hypothesis-driven development, metrics, and value delivery. However, the primary emphasis is on the upstream activities that precede core delivery—discovery and validation—rather than on holistic end-to-end delivery processes, deployment, QA, or release management. The audience (Product Owners, Managers, teams) and learning outcomes do intersect with product delivery concerns but favor early product definition, not the integration of all delivery phases. There is some discussion of metrics, decision-making, and value delivery that aligns with delivery, yet tools/techniques for core delivery (e.g., CI/CD, release, cross-functional collaboration in deployment) are not mentioned. Depth is strong for discovery/validation but moderate for delivery.",
+    "reasoning_summary": "Primarily focuses on discovery and validation stages upstream of product delivery; partially overlaps with product delivery on metrics, value, and decision-making, but lacks depth on delivery, deployment, or release practices.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1957,6 +1967,25 @@
     "final_score": 38.0,
     "reasoning": "The content centers on product discovery, validation, experimentation, and decision-making, intersecting partially with Agentic Engineering themes (like feedback-driven adaptation and empirical decision-making). However, it does not explicitly reference agency (human or AI), decentralized decision-making, or ethical AI integration. The focus is more on product management and pragmatic development practices, not the deliberate engineering practices or philosophy of maximizing agency. The primary audience—product managers, product owners, and teams—overlaps somewhat with that of Agentic Engineering, though the depth and alignment are modest and there are no direct mentions or in-depth exploration of core Agentic Engineering criteria.",
     "reasoning_summary": "This course on product discovery and validation aligns tangentially with Agentic Engineering through its focus on empirical learning and decision-making but lacks explicit discussion of developer/AI agency or agentic frameworks. It moderately overlaps with the target audience but falls short on depth and direct relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-IePwtEoXdo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 15.23,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.4,
+    "ai_audience": 7.6,
+    "ai_signal": 8.02,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is a skills-based course on product discovery, validation, and experimentation for product teams. There are no mentions of agentic software delivery, autonomous AI agents, their integration with humans, contextual intelligence, or any agentic delivery practices. The ideas focus on traditional product validation, prioritizing assumptions, metrics, and value delivery, but not on embedding autonomous AI agents or agency in delivery systems. Alignment and depth are minimal because the main topics do not relate to the required characteristics of agentic software delivery. The audience (product roles) might overlap with those interested in agentic delivery, and the content is focused, hence higher signal and audience alignment scores.",
+    "reasoning_summary": "Content is focused on traditional product discovery and validation skills—not on agentic software delivery, autonomous AI agents, or context-aware systems. No substantive alignment with category themes. Fit is minimal and mostly tangential.",
     "level": "Ignored"
   }
 }

@@ -1466,15 +1466,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "rPxverzgPz0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:13:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Agile Practitioner Series (APS) course and its benefits for Scrum teams, which is not directly related to the One Engineering System (1ES). While it touches on themes of organisational change and team dynamics, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system. The content is more aligned with Agile and Scrum methodologies rather than the standardisation and integration goals of 1ES.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 11.381,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 4.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the APS course for Scrum teams, focusing on organisational change and empowerment within Agile/Scrum contexts. There are no direct or conceptual references to One Engineering System (1ES), its framework, principles, or integration/unification themes. The discussion is centered solely on Agile and Scrum adoption and improvements, not on the standardisation or unification of engineering processes, nor does it mention any cross-team tooling, integrated practices, or 1ES-specific components. The audience is partly relevant as practitioners but otherwise misaligned. Signal-to-noise is moderate, as most of the content pertains to the APS course itself rather than any systemic/engineering framework.",
+    "reasoning_summary": "This content is about the APS course for Scrum teams and does not discuss, reference, or align with One Engineering System concepts or framework. No direct or conceptual links to 1ES are present, so the fit is poor.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1977,6 +1984,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on recommending the Agile Practitioner Series (APS) course for new Scrum teams, emphasizing organizational change, empowerment, and team-driven improvement. While themes like empowerment and organizational change could be relevant to Agentic Engineering, the article primarily addresses practical agile adoption, change management within teams, and practical course value. It lacks direct references or in-depth exploration of agency (in both human and AI contexts), systemic observability, DevOps culture, automation, or engineering practices aimed at maximizing agency. The audience is agile practitioners which loosely aligns with Agentic Engineering, but the tone, purpose, and content are not explicitly about the deliberate engineering of agency (human or AI) in software or systems. The discussion does not touch on AI, automation, DevOps, or ethical autonomy, and remains focused on Scrum team enablement and training, not the deeper philosophical or technical underpinnings of Agentic Engineering.",
     "reasoning_summary": "This article is focused on Scrum adoption for new teams, with some overlap in empowerment themes, but it does not directly address or deeply explore Agentic Engineering practices or philosophy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rPxverzgPz0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 7.33,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.6,
+    "ai_audience": 1.4,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on the Agile Practitioner Series (APS) course and its benefits for Scrum teams. While it covers valuable agile and Scrum practices, team empowerment, and organizational change, there are no direct references (explicit or implicit) to agentic software delivery, autonomous AI agents, contextual intelligence, or agent-enabled delivery models. Modern engineering and agentic practices are not discussed. The intended audience (new Scrum teams) doesn't overlap significantly with the highly technical and AI-integrative audience of the Agentic Software Delivery category. All dimensions score extremely low, as there is no conceptual or topical link to category-defining elements.",
+    "reasoning_summary": "The content is about training new Scrum teams using the APS course, focusing on practical Scrum skills and team empowerment. It does not discuss agentic software delivery, AI agents, or related methods; the fit is negligible and only tangential at best.",
     "level": "Ignored"
   }
 }

@@ -1,15 +1,22 @@
 {
   "DevOps": {
+    "resourceId": "wNgfCTE7C6M",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:07:28",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and Scrum practices, with only a brief mention of DevOps at the end. While it touches on collaboration and continuous delivery, which are relevant to DevOps, the main emphasis is on Scrum and user experience rather than the core principles of DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 54.23,
+    "ai_mentions": 2.4,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.5,
+    "ai_intent": 5.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content directly mentions DevOps only once, in a closing call to action. The main focus is on hypothesis-driven development, experimentation, collaboration, and continuous delivery—all adjacent to DevOps themes but framed through the lens of Agile, Scrum, and UX/product development. Collaboration, breaking silos, feedback loops, and continuous delivery do reflect some DevOps principles, but the discussion lacks direct exploration or depth on DevOps culture, automation, or shared accountability. The main intent is product-focused, though relevant for an audience that overlaps with DevOps practitioners. The content's signal-to-noise is moderate, with much being context setting for Agile/Scrum and UX rather than core DevOps.",
+    "reasoning_summary": "This content modestly aligns with DevOps through shared themes like collaboration and continuous delivery but centers on Agile, Scrum, and UX. Minimal direct DevOps discussion results in a partial category fit.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1984,5 +1991,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' are absent. However, the piece conceptually aligns on several fronts: it emphasizes hypothesis-driven development (empirical, feedback-driven), continuous delivery, and cross-disciplinary collaboration, which indirectly relate to agency maximization and adaptive change. Depth is moderate: practices like experimentation and feedback loops are discussed, but not deeply tied to the philosophical foundation of human-AI agency, systemic observability, or ethical AI. There is a DevOps and Scrum framing but no explicit treatment of AI as an agent or exploration of ethical autonomy, so core 'agentic' themes are only partially realized. Audience is technical practitioners, which fits. The content is focused, but much is standard Agile/UX strategy rather than agentic frameworks.",
     "reasoning_summary": "The content touches on elements related to Agentic Engineering—empirical improvement, continuous delivery, and collaborative practices—but lacks explicit discussion of human or AI agency, ethical autonomy, or agentic system design. It partially aligns conceptually but doesn't fully embody the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wNgfCTE7C6M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 22.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.6,
+    "ai_audience": 7.4,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on hypothesis-driven product management, small experiments, and cross-team collaboration, all within agile and continuous delivery contexts. However, it makes no direct or conceptual mention of agentic software delivery, autonomous AI agents, or related agency/AI integration and governance. Its primary themes are user-centric discovery, product strategy, and agile practices—not the embedding of context-aware AI agents or agentic workflows. While the intended audience (product teams/engineers) overlaps with agentic delivery, the piece lacks the necessary alignment, agency focus, and technical depth on AI/agent topics for a strong fit with the category.",
+    "reasoning_summary": "This content centers on hypothesis-driven product development and agile UX, not on agentic delivery or AI agent integration. It lacks direct or conceptual references to agentic principles. Fit to the category is weak and mostly incidental.",
+    "level": "Ignored"
   }
 }

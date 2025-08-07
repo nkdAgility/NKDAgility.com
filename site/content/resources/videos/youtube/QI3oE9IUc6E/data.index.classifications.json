@@ -1470,15 +1470,22 @@
     "reasoning_summary": "This content fits the competence category as it centres on how the APS course supports ongoing learning and skill improvement in Scrum. By addressing the need to remove unhelpful habits, it demonstrates a drive for higher standards and better outcomes. While the focus on competence is clear, the discussion could be strengthened with more concrete examples of how to build a culture of competence within teams."
   },
   "One Engineering System": {
+    "resourceId": "QI3oE9IUc6E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:06:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) methodology and its practices, with no direct mention or discussion of the One Engineering System (1ES). While it touches on themes of team collaboration and improvement in Scrum practices, it does not align with the core principles of 1ES, such as standardisation and integration across teams. The depth of discussion is also limited to APS without exploring broader engineering frameworks or methodologies.",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 7.495,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.8,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Applied Professional Scrum (APS), discussing mastery of Scrum fundamentals, removing unhelpful practices, and facilitating agile transformation. There is no mention of the One Engineering System (1ES), its framework, or principles. The intent is to inform and encourage Scrum adoption, with depth around Scrum practices, not about the standardisation, integration, or impact of 1ES. The audience is Scrum practitioners, not specifically those interested in unified engineering systems. There is minimal overlap in audience, as both target engineering teams, but no real alignment in content, purpose, or discussion depth. No penalties were needed as the content isn't outdated or contradictory.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It centers entirely on APS and Scrum practices, not on 1ES, its framework, or its principles. There is no overlap in intent, depth, or direct mentions; audience alignment is minimal.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1980,6 +1987,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses heavily on improving Scrum practices with Applied Professional Scrum (APS), emphasizing feedback, agility, and continuous improvement. While these are adjacent to Agentic Engineering concepts—such as enabling team autonomy and reflective practice—they remain rooted in standard Scrum/Agile coaching. The article never mentions Agentic Engineering or its unique philosophical underpinnings (decentralized decision-making, DevOps-infused craft, ethical AI). The discussion sticks to practical application of Scrum fundamentals, not the deliberate design of agency-maximizing environments or systems that involve collaboration with intelligent systems or ethical automation. The audience (Scrum practitioners/teams) overlaps somewhat with Agentic Engineering's audience, but the content never crosses into the category as strictly defined.",
     "reasoning_summary": "This piece promotes solid Scrum via APS, focusing on practical fundamentals and team improvement. While related to autonomy and feedback, it doesn't address Agentic Engineering's core principles or systemic, human-plus-AI agency. Category relevance is tangential but not direct.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QI3oE9IUc6E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on Applied Professional Scrum (APS), Scrum team practices, and agile transformation. It lacks any mention or discussion of agentic concepts: no integration of autonomous AI agents, contextual intelligence, or the modern engineering practices described in the Agentic Software Delivery category. The intent and target audience are aligned with Scrum practitioners, not specialists in AI-augmented delivery. While continuous improvement and professional practices are discussed, there is zero engagement with topics like human-AI synergy, governance frameworks, or agentic evolution in software delivery. All scores are low to reflect this, and no penalties applied since it is neither outdated nor directly contradictory.",
+    "reasoning_summary": "This content is about improving Scrum practice via APS, not Agentic Software Delivery. No mention of AI agents, agency, or integration with human expertise—partial overlap at best with the target category.",
     "level": "Ignored"
   }
 }

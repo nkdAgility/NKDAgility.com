@@ -86,16 +86,23 @@
     "reasoning_summary": "This content is a strong fit for the Practice category, as it explores Value Stream Management with a focus on process optimisation and continuous improvement. While it offers valuable insights and highlights actionable themes like enhancing flow and reducing waste, its strategic overview means it’s less about step-by-step methods and more about broader approaches, which slightly affects its alignment with hands-on practices."
   },
   "Philosophy": {
+    "resourceId": "Value Stream Management",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Value Stream Management, which aligns with the philosophical underpinnings of Lean thinking and continuous improvement. However, it primarily focuses on practical aspects and methodologies rather than exploring the foundational beliefs that shape these practices. While it touches on themes of collaboration and organisational culture, it lacks a deep philosophical exploration of the 'why' behind these concepts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 73.12,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.8,
+    "ai_depth": 8.1,
+    "ai_intent": 7.4,
+    "ai_audience": 7.0,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content discusses Value Stream Management as a strategic, holistic approach focused on concepts such as waste reduction and organisational alignment, which align with Lean and business agility philosophies. It addresses the 'why' and 'what' behind optimising organisational value flow, fostering collaboration, and enabling continuous improvement. However, explicit references to philosophy or foundational beliefs are limited, and much of the discussion remains at the conceptual and cultural level rather than explicitly unpacking the underlying philosophy or connecting directly to frameworks like Agile or DevOps at a principle level. There is a minor focus on practices (e.g., mapping, visualizing value streams), but these are framed in the context of broader values. Audience fit is moderate, aimed at organisational strategists and leaders. There is little off-topic content, leading to a solid, but not peak, confidence in classification under Philosophy.",
+    "reasoning_summary": "Content conceptualizes Value Stream Management with philosophical alignment to Lean and organisational culture, focusing on 'why' and continuous improvement, but lacks explicit philosophical depth or direct references. Philosophical fit is moderate to strong, but partial.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3148,6 +3155,25 @@
     "final_score": 15.0,
     "reasoning": "The content discusses Value Stream Management in terms of process optimization, cross-departmental collaboration, and continuous improvement. However, it does not reference AI, human-AI collaboration, or any of the essential elements central to the Collective Intelligence category. All discussion centers around human roles, organizational structure, and value delivery, with no mention of AI agents or socio-technical teams blending human and AI strengths. As such, there is minimal direct mention, alignment, or depth relevant to the category, though the audience and general collaboration theme are somewhat aligned.",
     "reasoning_summary": "This content focuses solely on human-centered process optimization and organizational collaboration, without referencing human-AI partnerships or collective intelligence concepts as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Value Stream Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 16.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.2,
+    "ai_intent": 1.9,
+    "ai_audience": 4.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly covers Value Stream Management as a holistic method to optimise value flow, efficiency, and alignment with customer outcomes. However, it makes no explicit reference to Agentic Software Delivery, autonomous AI agents, contextual intelligence, or the agentic integration of humans and AI. Its discussion remains within process optimisation, mapping, and collaboration across departments, but does not explore or hint at AI-driven or agentic paradigms. The intent, depth, and audience may partially overlap with modern software delivery professionals, but the lack of agentic discourse, autonomy, or contextual AI grounds this as only slightly relevant to the 'Agentic Software Delivery' category.",
+    "reasoning_summary": "Content discusses value flow, efficiency, and customer alignment in Value Stream Management, but entirely lacks reference to agentic AI, contextual intelligence, or autonomous agent integration. There is only an indirect and minimal fit to the category.",
     "level": "Ignored"
   }
 }

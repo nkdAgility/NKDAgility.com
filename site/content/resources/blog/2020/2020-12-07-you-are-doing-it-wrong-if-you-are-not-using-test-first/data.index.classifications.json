@@ -1505,15 +1505,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it thoroughly explores how Test First principles and TDD contribute to developer skill, learning, and professionalism. By emphasising quality, validation, and authentic progress, it clearly aligns with themes of competence and team trust, making the classification highly appropriate."
   },
   "One Engineering System": {
+    "resourceId": "yqHaiUlMNTP",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:47:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Test First principles, specifically Test Driven Development (TDD) and related methodologies, rather than discussing the One Engineering System (1ES) framework. While there are mentions of improving software quality and collaboration, these are not directly tied to the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, making it a secondary topic rather than a primary focus.",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 13.17,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 7.3,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content thoroughly discusses test-first practices in software development, specifically Test-Driven Development, Acceptance Test Driven Development, Behavior Driven Development, and their impact on quality and delivery. However, it does not mention One Engineering System (1ES) directly or indirectly, nor does it discuss the integration or standardization of tools, processes, or frameworks across teams. The focus is on individual/team-level testing practices, not organization-wide engineering system unification. While the audience overlaps (software engineers, teams), and there is high focus on relevant developer topics, the content's ideas and purpose do not align with the key themes or scope of the One Engineering System category.",
+    "reasoning_summary": "The content focuses on test-first and related testing paradigms without covering One Engineering System principles, integration, or standardization. High audience and focus scores, but minimal to no fit with the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2028,5 +2035,24 @@
     "reasoning": "The content focuses extensively on test-first practices, emphasizing validation, feedback loops, and professionalism in software development. Concepts like shortening feedback loops, automation, and professional autonomy overlap tangentially with Agentic Engineering’s principles (e.g., developer agency, feedback-driven change). However, the discussion does not explicitly mention agentic design, ethical AI collaboration, or deliberate decentralization of agency. DevOps and engineering craftsmanship are referenced as context but not analyzed through the agentic lens. Target audience (practitioners, technical) is similar, and the signal is high, but core agentic concepts receive little explicit, in-depth discussion.",
     "reasoning_summary": "This content aligns tangentially with Agentic Engineering, mainly through themes such as developer agency and feedback-driven practices, but its focus remains on test-first methods rather than deliberate engineering for human or AI agency. Explicit agentic concepts are mostly absent.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yqHaiUlMNTP",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 13.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.1,
+    "ai_intent": 1.9,
+    "ai_audience": 4.4,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is a thorough discussion about test-first and test-driven practices, quality assurance, and feedback loops in software development. While it references modern DevOps and Scrum practice, there is no mention—implicit or explicit—of agentic software delivery, AI agents, contextual intelligence, or systematic agent-human integration. The main themes are automation, professionalism, and quality through testing practice, not proactive, context-aware AI systems. Test-first and continuous delivery are important in engineering, but the topic does not substantively fit under agentic software delivery. Audience is technical, but not specifically aligned to the agentic/AI practitioner or strategist segment.",
+    "reasoning_summary": "This content is about test-first practices and automated testing in modern software delivery, not about agentic software delivery or intelligent agent integration. It only loosely touches on themes relevant to the evaluated category. Fit is poor and mostly tangential.",
+    "level": "Ignored"
   }
 }

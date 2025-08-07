@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Pragmatic Thinking",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses problem-solving and adaptability in complex environments but does not explicitly mention accountability or its structural role in work systems. While it touches on themes of performance and value delivery, it lacks a clear focus on outcome ownership or specific roles related to accountability, which diminishes its relevance to the category.",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 29.0,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.8,
+    "ai_intent": 3.6,
+    "ai_audience": 7.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content centers on pragmatic, experience-based problem-solving and continuous learning in complex environments. While it addresses valuable Agile mindsets and adaptation, it does not mention, nor conceptually align with, accountability as defined (no ownership of outcomes, no discussion of roles, structural mechanisms, or explicit responsibilities). The focus is on adaptability and practical approaches rather than clarifying or structuring accountability within work systems. Audience and signal remain somewhat aligned due to agile/organizational focus, but other dimensions score low.",
+    "reasoning_summary": "The content does not explicitly or substantially address accountability; its focus is on practical problem-solving and learning, not outcome ownership or structural accountabilities in work systems. Relevance is partial at best.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3113,6 +3120,25 @@
     "final_score": 18.0,
     "reasoning": "The content describes 'Pragmatic Thinking' in teams but makes no explicit mention of AI, human-AI collaboration, or key concepts of Collective Intelligence as defined. The discussion is focused on practical, experience-based problem-solving in teams and complex environments but is strictly within a human context. There is strong alignment with improvement and team learning, but no evidence the content addresses interaction or partnership with AI agents, shared cognition across human-AI boundaries, or distributed intelligence beyond humans. No penalties were needed; the main mismatch is thematic rather than due to tone or obsolescence.",
     "reasoning_summary": "This content focuses on human team problem-solving and practical learning, without reference to AI partnership or distributed cognition. It does not align with Collective Intelligence as defined, beyond a general emphasis on team-based adaptability.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Pragmatic Thinking",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 19.23,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.8,
+    "ai_audience": 4.1,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on practical, experience-based problem-solving but makes no direct or indirect mention of agentic software delivery, autonomous AI agents, or related practices. While it highlights adaptability and learning in complex environments—ideas also relevant to the agentic delivery context—it lacks discussion of AI integration, human-agent synergy, agent autonomy, or software delivery-specific contexts. The target audience could overlap (teams working in complex settings), but the content remains generic. Minimal alignment and depth with the provided category definition results in a low confidence score.",
+    "reasoning_summary": "The content does not address Agentic Software Delivery. It covers general problem-solving and adaptability but lacks mention of AI agents, software delivery, or agency. Fit is minimal and mostly tangential.",
     "level": "Ignored"
   }
 }

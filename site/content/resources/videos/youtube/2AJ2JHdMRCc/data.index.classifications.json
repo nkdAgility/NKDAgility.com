@@ -1474,15 +1474,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "2AJ2JHdMRCc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:33:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on DevOps, discussing its importance and role in software engineering without any explicit mention or discussion of the One Engineering System (1ES). While it touches on integration and processes, it does not align with the core themes of 1ES, such as standardisation across teams or specific best practices for implementing 1ES. The depth of discussion is also minimal regarding the principles of 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 13.95,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.3,
+    "ai_audience": 4.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on DevOps and its importance but never mentions 1ES or directly discusses framework integration, standardisation, or unification of engineering systems. Only surface alignment exists (via vague mention of processes and tools) but lacks any 1ES principles, components, or practices. The main intent is to advocate for DevOps, not unified engineering systems; target audience is technical, but not specifically 1ES practitioners. No penalties applied as there’s no outdated or undermining content.",
+    "reasoning_summary": "This content discusses DevOps broadly, with no mention or clear alignment to One Engineering System principles. Fit is minimal—content is focused on DevOps, not standardisation frameworks like 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1984,6 +1991,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on DevOps as a concept that bridges development and operations to enable continuous delivery and faster feedback. While it highlights practices like feedback loops and continuous delivery (elements that also appear in Agentic Engineering), it does not address the philosophical or systemic aspects central to Agentic Engineering, such as deliberate design for maximizing both human and AI agency or ethical AI integration. There are no explicit mentions of agency, decentralised decision-making, ethical autonomy, or AI augmentation. The discussion stays general, primarily aimed at introducing DevOps to an audience interested in Agile and Scrum. It lacks deep conceptual alignment or depth on Agentic Engineering themes.",
     "reasoning_summary": "This content describes DevOps as vital for continuous delivery and feedback in software engineering but does not engage with Agentic Engineering concepts like autonomy, agency, or AI collaboration. Its focus is practical and introductory, with limited overlap to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2AJ2JHdMRCc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 11.032,
+    "ai_mentions": 1.45,
+    "ai_alignment": 1.06,
+    "ai_depth": 0.85,
+    "ai_intent": 2.03,
+    "ai_audience": 2.57,
+    "ai_signal": 1.01,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on DevOps as a foundational practice for modern software engineering, emphasizing continuous delivery, feedback loops, and integration of development and operations. However, it does not discuss agentic principles such as autonomous AI agents, contextual intelligence, AI-human synergy, or agent frameworks. There are no direct references or implicit themes related to Agentic Software Delivery, nor are any technologies or paradigms unique to agentic delivery discussed. The audience and intent fit software delivery but not the specialized agentic context. No penalties are applied because the content is up-to-date and neutral in tone, but the relevance to the evaluated category is incidental at best.",
+    "reasoning_summary": "Content spotlights DevOps and continuous delivery but lacks agentic themes—no AI agents, agency, or contextual intelligence are mentioned. The fit with Agentic Software Delivery is minimal and largely unrelated.",
     "level": "Ignored"
   }
 }

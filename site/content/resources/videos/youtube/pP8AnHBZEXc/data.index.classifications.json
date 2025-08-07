@@ -1410,15 +1410,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "pP8AnHBZEXc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:57:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Professional Scrum Foundations class and the PSM I assessment, discussing Scrum principles and practices rather than the One Engineering System framework. While there are mentions of collaboration and team dynamics, these are framed within the context of Scrum, which is not aligned with the core themes of 1ES. The depth of discussion is centred on Scrum training rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 10.52,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.4,
+    "ai_audience": 3.0,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses Scrum training, the PSF class, and PSM I assessment, with a focus on Agile and DevOps education. There are no direct or indirect references to One Engineering System (1ES), no discussion of tool or process integration, and no mention of standardisation across teams or unification frameworks. The content centers on individual or team learning outcomes within Scrum, not cross-organizational engineering system integration. The slight positive scores for audience and signal reflect applicability to technical professionals, but the main themes do not relate to 1ES.",
+    "reasoning_summary": "Content is strictly about Scrum and Agile training; it does not address One Engineering System or its concepts. There's no fit with the category definition—no mentions, alignment, or depth for 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1928,6 +1935,25 @@
     "final_score": 24.0,
     "reasoning": "The content centers on Professional Scrum Foundations and the PSM I assessment. It gives practical tips, describes team learning dynamics, and touches on collaboration, empirical process control, and feedback. However, there are no explicit or conceptual references to agentic engineering, developer/AI agency, systemic observability, DevOps-infused craft, or ethical AI collaboration. The focus is on Scrum basics and exam preparation. The audience (practitioners) slightly overlaps, but the alignment and depth concerning agentic engineering concepts are minimal. No penalties were applied as the tone is positive and current.",
     "reasoning_summary": "The content focuses on Scrum training and assessment preparation, with only indirect overlap to Agentic Engineering. It lacks direct mention and deep exploration of agency, autonomy, or AI integration, so its fit to the category is weak and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pP8AnHBZEXc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 7.41,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Scrum training, the structure of the Professional Scrum Foundations (PSF) course, and preparation for the PSM I assessment. It is deeply rooted in traditional Scrum and Agile education, mentioning teamwork, roles, sprints, and assessment strategies. There are no explicit or implicit references to agentic software delivery, autonomous AI agents, synergy with human expertise, or any contextual intelligence grounded in software delivery systems. Modern engineering practices, proactive intelligence, or agentic principles are not discussed. The closest the content comes is indirectly discussing collaborative teamwork and process learning, but none of this aligns with the integration, governance, or proactive autonomy required for agentic software delivery. The audience (Scrum learners and practitioners) only very partially overlaps with the intended category audience, but the main content, purpose, and depth are irrelevant to Agentic Software Delivery.",
+    "reasoning_summary": "This is Scrum training content with no mention or exploration of agentic software delivery, AI agents, or contextual intelligence. It is fully unrelated to the category except for a distant connection to software delivery. Fit is minimal to none.",
     "level": "Ignored"
   }
 }

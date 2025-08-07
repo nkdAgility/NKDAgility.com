@@ -557,16 +557,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "hBw4ouNB1U0",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:07",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of metrics and visualisation in driving continuous improvement, which aligns with the principles of empirical process control. It highlights transparency and the need for data-driven decision-making, but it does not explicitly mention Agile methodologies or empirical process control as a primary focus. The discussion is somewhat general and lacks specific references to Agile frameworks or case studies, which limits its depth in this category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 83.38,
+    "ai_mentions": 6.6,
+    "ai_alignment": 9.3,
+    "ai_depth": 8.8,
+    "ai_intent": 8.5,
+    "ai_audience": 8.1,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content thoroughly explores key aspects of empirical process control, such as transparency, inspection via metrics, continuous improvement, and adaptation. It describes how teams use metrics and visual tools to inform workflow changes, directly mapping to the category. While the term 'empirical process control' is not explicitly named, the concepts are explained in-depth, with strong alignment in intent and target audience (team practitioners interested in Agile/continual improvement). No penalties are applied, as the advice is current, supportive, and fully consistent with the category definition.",
+    "reasoning_summary": "The content is strongly aligned with empirical process control principles, focusing on transparency, metrics, visualisation, and continuous improvement—core to Agile. It fits well in the category, despite lacking a direct explicit mention of the term.",
+    "level": "Primary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -2012,5 +2019,24 @@
     "reasoning": "There is no direct mention of 'Agentic Engineering' or its explicit framing. Conceptually, the content discusses metrics, visualisation, continuous improvement, and transparency—ideas somewhat relevant to Agentic Engineering, particularly around feedback-driven adaptability and system observability. However, it does not discuss maximising human or AI agency, ethical AI, decentralisation, or decision-making frameworks. The depth is moderate, focusing mainly on workflow metrics and incremental process improvement, which is partially adjacent to but not central to Agentic Engineering. The intended audience seems to be practitioners interested in process and workflow improvement, which overlaps with—yet is broader than—Agentic Engineering's target audience. The signal-to-noise ratio is fairly high, with little off-topic content, but the focus remains on workflow metrics rather than agentic practice design. No penalties were applied, as the content is not outdated nor does it contradict the framing.",
     "reasoning_summary": "This content moderately aligns with Agentic Engineering through its focus on workflow transparency, feedback, and continuous improvement, but lacks explicit discussion of agency, AI integration, or decentralised engineering design. Its fit is partial, centering on adjacent yet not core Agentic Engineering concerns.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hBw4ouNB1U0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 24.675,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.9,
+    "ai_intent": 3.1,
+    "ai_audience": 7.0,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "There are no direct references to Agentic Software Delivery, AI agents, their integration, or context-aware intelligence. The entire content centers on the use of metrics and visualizations for workflow and process improvement. While this aligns loosely with the broad goal of continuous improvement found in Agentic Software Delivery, it does not discuss autonomous agents, synergy with human expertise, or the category’s core concepts. No obsolete practices or contradictory tone were observed, so no penalties were applied. The primary topic appears to be continuous improvement via metrics, which is generic and not specific to agentic delivery. The audience is practitioners interested in workflow optimization but not specifically agentic delivery.",
+    "reasoning_summary": "Content discusses metrics and visual tools for continuous improvement without mentioning autonomous AI agents or agentic delivery concepts. There is, at best, a tangential fit, as no core category topics or strategies are addressed.",
+    "level": "Ignored"
   }
 }

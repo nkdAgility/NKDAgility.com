@@ -1418,15 +1418,22 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
+    "resourceId": "gWfr1oRgAIq",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:55:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, formulation, and examples. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 6.179,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.6,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content exclusively discusses Sprint Goals in Scrum, frameworks for crafting effective goals, and team alignment. It does not mention or describe Shift-Left Strategy, its principles, practices, or objectives. While there is some tangential relevance in proactive planning and delivering early value, nothing addresses the specific practice of moving testing, security, or compliance earlier in the SDLC. No references to tools or metrics unique to Shift-Left. Therefore, very low scores across all dimensions, with only slight overlap on audience and the proactive/intent dimension.",
+    "reasoning_summary": "This content focuses completely on crafting effective Sprint Goals in Scrum and does not discuss Shift-Left Strategy, its practices, or intended outcomes, resulting in an extremely low fit with the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1981,6 +1988,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses on goal-setting in Scrum using frameworks like SMART and OKR, with a practical orientation toward value delivery, collaboration, and accountability in agile teams. While it touches briefly on transparency, feedback, and team autonomy as secondary themes, there is no direct mention or substantive exploration of Agentic Engineering concepts such as developer agency, system observability, DevOps-infused practice, ethical AI integration, or an explicit intent to maximize human/AI agency. The alignment is thus low and the fit is marginal, as the main discussion centers on classical Scrum and team goal mechanics rather than the deliberate design or philosophy of maximizing agency in engineered systems.",
     "reasoning_summary": "This content is about crafting effective Sprint Goals in Scrum with a focus on practical frameworks and value delivery. It does not directly address Agentic Engineering, contains only tangential relevance to developer autonomy, and lacks substantive discussion of maximizing human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gWfr1oRgAIq",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused exclusively on Sprint Goal practices in Scrum, discussing frameworks like SMART and OKR, and providing examples of practical goal setting for agile teams. It does not mention or discuss AI agents, contextual intelligence, human-agent synergy, or agentic principles, nor does it allude to automation, AI governance, or modern agentic engineering practices. There are no discussions about autonomous delivery, agency, human-in-the-loop systems, or software delivery evolution by agentic means. The intended audience is agile practitioners, but not in the context of agentic software delivery. While the content is detailed, all details are off-topic for the evaluated category.",
+    "reasoning_summary": "The topic is narrowly focused on goal-setting in Scrum without any reference to agentic, AI-powered, or autonomous software delivery. Content fit with Agentic Software Delivery is minimal to nonexistent.",
     "level": "Ignored"
   }
 }

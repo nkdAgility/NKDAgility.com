@@ -261,15 +261,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "tPkqqaIbCtY",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:52:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on user engagement and product perception, which are not central to DevOps principles. While it touches on themes of communication and continuous improvement, these are framed within a product development context rather than the collaborative and automated practices of DevOps. The lack of explicit references to DevOps concepts or practices results in a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 22.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 7.4,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on user empathy, value, feedback, and continuous improvement in product development. While 'continuous improvement' and open feedback loops are mentioned—concepts that are part of DevOps—there is neither an explicit nor an implicit discussion of DevOps philosophy, practices, or cultural aspects. No direct or indirect key DevOps topics like automation, shared accountability between development and operations, or flow efficiency are addressed. The audience (product practitioners) could overlap with DevOps, but overall alignment, depth, and intent are weak for this category. No penalties applied, as the content is not critical or outdated.",
+    "reasoning_summary": "Main focus is on user-centric product development, with only light, incidental overlap to DevOps (continuous improvement, feedback). Lacks any substantive or explicit coverage of DevOps principles or practices. Poor conceptual fit.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1918,6 +1925,25 @@
     "final_score": 31.0,
     "reasoning": "The content focuses on empowering product users through empathy, value clarity, open feedback, and creating positive user relationships. While these concepts share surface parallels with Agentic Engineering—such as supporting agency and continuous improvement—they lack explicit connection to engineering practice, software development autonomy, or AI collaboration. There are no direct mentions of Agentic Engineering or related topics like developer agency, systemic observability, DevOps, engineering craft, or ethical AI. The main ideas remain at a product/customer experience level rather than deliberate engineering design for maximising human or AI agency. The depth of discussion is limited to user engagement and empowerment principles, rather than structural changes in engineering practice; audience and signal are moderately aligned but not targeted at technical or engineering practitioners. Thus, the fit is weak and confidence is low.",
     "reasoning_summary": "This content centers on empowering users and building positive product relationships through empathy and feedback. While these are related to agency, there’s little to no discussion of engineering practices, developer autonomy, or AI integration, making alignment with Agentic Engineering minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "tPkqqaIbCtY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 22.8,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 7.2,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content discusses fostering positive user relationships, empathy, continuous improvement, and open feedback in product development. However, it does not mention or reference agentic software delivery, autonomous AI agents, contextual intelligence, or the synergy between human expertise and AI agents in software delivery. It focuses more on user experience and product value, lacking any explicit or conceptual links to agentic principles or modern engineering practices foundational to this category. The signal-to-noise ratio is moderate since it stays on user/product relationship topics, but these are not directly relevant to agentic software delivery. Audience alignment is somewhat higher as practitioners interested in product and user improvement might overlap, but the lack of depth and explicit mention leads to a low confidence score.",
+    "reasoning_summary": "Content focuses on user empathy and product value, not agentic software delivery. Lacks references to AI agents, contextual intelligence, or integration with human expertise in delivery. Only a marginal, indirect fit to the category.",
     "level": "Ignored"
   }
 }

@@ -87,15 +87,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "h5TG3MbP0QY",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:24:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum training and moral obligations within Agile practices, with no direct mention of Evidence-Based Management principles or metrics. It focuses on subjective experiences and opinions rather than empirical evidence or data-informed decision-making.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 25.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.0,
+    "ai_audience": 8.1,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on moral obligation, honesty, and transparency in Agile and Scrum contexts, especially as seen in PSM 1 courses. It emphasizes ethical conduct over pragmatic compromise, but makes no explicit mention of Evidence-Based Management or its key concepts: empirical decision-making, value delivery metrics, time to market, or any data-driven approaches. While advocating for transparency is tangentially related, the primary subject is moral integrity, not EBM. The discussion addresses an Agile practitioner audience and encourages principled behavior, which slightly aligns with EBM's cultural values, but lacks alignment on actionable metrics or evidence-based practices. No penalties applied, as the tone is current and not critical of EBM.",
+    "reasoning_summary": "The topic promotes ethical behavior and transparency in Agile practice, not Evidence-Based Management. There is minimal alignment: EBM concepts or data-driven decision-making are not discussed. Fit is incidental and weak, not intentional.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -1896,6 +1903,25 @@
     "final_score": 35.0,
     "reasoning": "The content centers on integrity, transparency, and moral obligation in Agile/Scrum contexts, particularly challenging the tendency to compromise honesty due to 'real world' pressures. While these are important ethical considerations, the discussion does not engage with Agentic Engineering’s core themes—there is no mention of engineering autonomy, DevOps, decision decentralisation, human/AI agency, system observability, or technical feedback mechanisms. The exploration is focused on practitioner ethics, not the deliberate architectural or systemic design that maximises human or AI agency. There are no references to agentic frameworks, AI collaboration, or engineering practices that promote agency. The intended audience (Agile/Scrum practitioners) is somewhat aligned, but the main themes and purpose of the content do not substantially fit within the Agentic Engineering category.",
     "reasoning_summary": "The content emphasizes ethical honesty in Agile and Scrum practices but does not discuss the deliberate engineering of agency for humans or AI, nor systemic or feedback-driven practices core to Agentic Engineering. Overall, its relevance to the category is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "h5TG3MbP0QY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.4,
+    "ai_audience": 1.8,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused on the moral and ethical discussions in PSM 1 (Professional Scrum Master certification) courses—primarily transparency, honesty, and integrity within Agile and Scrum. There are no direct or indirect references to agentic software delivery, autonomous AI agents, context-aware intelligence, or any technical or infrastructural practices associated with Agentic Software Delivery. The audience is Agile/Scrum practitioners, not agentic delivery engineers or strategists. The content’s intent is to encourage ethical Scrum practices, not to discuss or promote AI integration or agentic design.",
+    "reasoning_summary": "This content is focused purely on ethics and transparency in Scrum/Agile training, not agentic delivery or AI-driven approaches. No relevant themes or mentions; fit is negligible.",
     "level": "Ignored"
   }
 }

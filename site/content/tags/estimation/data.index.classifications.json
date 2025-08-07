@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Estimation",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 30,
-    "final_score": 62.0,
-    "reasoning": "The content discusses estimation in Agile and Scrum, highlighting its role in managing uncertainty and aligning expectations, which indirectly supports accountability through improved forecasting and transparency. However, while it touches on accountability as part of a culture for high-performing teams, it does not explicitly focus on outcome ownership or structural accountabilities, which are central to the category. The discussion is more about the practice of estimation rather than a deep dive into accountability mechanisms.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 44.55,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 5.1,
+    "ai_audience": 5.6,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses primarily on estimation in Agile and Scrum, emphasizing forecasting, empirical approaches, alignment, and value delivery. While it briefly mentions that estimation 'cultivates a culture of transparency and accountability', discussion of accountability is peripheral rather than central. There is no deep exploration of structural accountabilities, roles, or outcome ownership as anchors of performance. The main purpose is mastery of estimation rather than understanding or designing accountability mechanisms. Thus, the fit with 'Accountability' is partial—mentioned as a beneficial byproduct, not a core theme.",
+    "reasoning_summary": "Accountability is referenced as a side effect of estimation practices, not as a main topic. The content’s focus is on estimation processes, not the structural mechanisms of outcome ownership or explicit accountability. The fit is limited and tangential.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -3116,6 +3123,25 @@
     "final_score": 38.0,
     "reasoning": "The content centers on estimation in Agile and Scrum, focusing on team-based collaboration, shared understanding, and leveraging collective team knowledge. However, it does not reference or discuss human-AI collaboration, human-AI teams, or any aspect of AI partnership characteristic of the Collective Intelligence category. All concepts explored (collaborative techniques, team buy-in, continuous improvement, etc.) are within the context of human teams only. While it does mention 'collective knowledge,' there is no intersection with AI, and thus only partial thematic overlap exists at a conceptual, not explicit, level. There are no penalties, as the content is neither outdated nor critical of Collective Intelligence.",
     "reasoning_summary": "The content discusses human team collaboration in estimation within Agile and Scrum, but does not involve human-AI collaboration or the emergence of collective intelligence as defined by the category. Any alignment exists only at a general, conceptual level through references to 'collective knowledge.'",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Estimation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 18.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.8,
+    "ai_audience": 6.6,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on estimation practices in Agile/Scrum contexts, discussing its empirical and collaborative aspects but does not mention AI agents, autonomy, human-AI synergy, or agentic delivery frameworks. It lacks reference to context-aware agents, agency, or the integration of intelligent systems in software delivery. The audience (Agile/Scrum practitioners) is plausible for agentic delivery, and the content is focused with little off-topic material, but the subject matter does not conceptually align with Agentic Software Delivery. No outdated or critical tones were found, so no penalties were applied.",
+    "reasoning_summary": "This content is mainly about human-driven estimation in Agile/Scrum and does not address agentic software delivery or AI agent integration. Fit is minimal and mostly incidental to the broader agentic category.",
     "level": "Ignored"
   }
 }

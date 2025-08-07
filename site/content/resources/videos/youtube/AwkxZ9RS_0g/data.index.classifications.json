@@ -475,15 +475,22 @@
     "level": "Ignored"
   },
   "Mentoring": {
+    "resourceId": "AwkxZ9RS_0g",
     "category": "Mentoring",
-    "calculated_at": "2025-04-10T15:52:43",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of real-life experiences in training, which aligns with mentoring principles. However, it primarily focuses on the trainer's perspective rather than on mentoring techniques or strategies for developing others. The discussion lacks depth in terms of specific mentoring practices or the role of a mentor in Agile environments.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 26.65,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on the synergy between consulting and training, highlighting the value of real-life experience in making training relatable and effective. However, it does not directly reference mentoring, coaching practices, skill development strategies, or the mentor-mentee relationship. While relevant to trainers and professionals seeking to improve learning experiences, it lacks the conceptual and thematic alignment necessary for the mentoring category. All key topics (mentoring roles, fostering growth, leadership guidance) are notably absent or at best, faintly implied. The main audience (trainers, consultants) partially overlaps but the content’s intent is centered solidly on training, not mentoring. Signal is moderate due to slight overlap in audience and context.",
+    "reasoning_summary": "Primarily discusses real-world consulting experience enhancing training, but makes no substantive reference to mentoring roles, relationships, or strategies. Focus is on training impact, not guidance or skill development as defined in the Mentoring category.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1980,6 +1987,25 @@
     "final_score": 26.0,
     "reasoning": "There is no direct mention of Agentic Engineering, nor are its core concepts—maximizing human or AI agency, systemic observability, or ethical AI—explored. The content focuses on bridging consulting and training through real-world examples, mainly discussing effective pedagogy and relevance, not the deliberate design of engineering practices or systems to empower agency. Even mentions of Agile, Scrum, and DevOps aim to establish practical teaching credibility, not agentic development principles. The intended audience is practitioners but not specifically those interested in agentic frameworks. Signal-to-noise ratio is low as the main discussion is tangential to the target category.",
     "reasoning_summary": "The content is focused on how consulting experience enhances training, not on the principles or themes of Agentic Engineering. It lacks both explicit references and conceptual alignment with agency or deliberate engineering design for autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AwkxZ9RS_0g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 8.25,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on how consulting experience improves Agile/Scrum/DevOps training by bringing practical examples and real-world perspective. There is no discussion of agentic software delivery, no mention of autonomous AI agents, nor any content about integration, contextual intelligence, or modern engineering for agentic delivery. The main ideas align with consulting, experiential learning, and credible training, not with the proactive, autonomous agent-driven software delivery frameworks described in the category. There is only tangential overlap in the mention of Agile, Scrum, and DevOps, but none relating to agentic principles, agency, or AI. The target audience is technical practitioners but not those focused on agentic AI delivery systems.",
+    "reasoning_summary": "This content centers on consulting-driven Agile/Scrum training, lacking any discussion of AI agents or agentic delivery. It does not fit the Agentic Software Delivery category per definition; relevance is tangential and minimal.",
     "level": "Ignored"
   }
 }

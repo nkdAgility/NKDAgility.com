@@ -1,14 +1,21 @@
 {
   "Lean": {
+    "resourceId": "S-YSqmiQ8BE",
     "category": "Lean",
-    "calculated_at": "2025-04-29T13:51:34",
-    "ai_confidence": 15.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 15.0,
-    "reasoning": "The content primarily focuses on the challenges faced by CTOs in balancing innovation and stability during digital transformation. While it touches on themes relevant to organisational efficiency and strategic transformation, it does not explicitly mention Lean principles or methodologies. The discussion lacks depth in Lean concepts such as waste reduction or continuous improvement, leading to a low confidence score in alignment with the Lean category.",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 38.995,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.0,
+    "ai_intent": 5.7,
+    "ai_audience": 8.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content discusses modernising legacy systems, focusing on balancing stability, innovation, and gradual improvement. These concepts tangentially relate to Lean themes (continuous improvement, sustainable change) but lack direct Lean terminology, principles like value stream mapping, explicit waste reduction, or Lean tools. No Lean methodologies or case studies are cited; Agile/DevOps concepts are implicit but Lean is not directly addressed. Audience fit (organisational/engineering leaders) partially overlaps with Lean. Signal-to-noise is moderate, as the discussion centers on broad strategy and best practices, not Lean-specific methods or culture.",
+    "reasoning_summary": "Content shares continuous improvement ideas relevant to Lean but lacks direct Lean references, principles, or tools. Fit is partial—related in spirit, but not in explicit Lean methodology.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -2221,6 +2228,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on modernising legacy systems, balancing stability and innovation, and gradual improvement. While it references some engineering best practices and decision-making, it does not explicitly discuss agency, system observability, ethical AI, or decentralised decision-making. There is minimal direct overlap with Agentic Engineering's core concepts, as topics like developer agency, feedback-driven adaptation, and AI as a collaborative agent are absent. The philosophical underpinnings of 'agency' and intentional design for maximising human and AI autonomy are not explored. The target audience (tech practitioners/leaders) and emphasis on informed decision-making provide some limited conceptual relevance. However, the material remains mostly general advice on legacy modernisation and does not substantially align with the nuanced principles of Agentic Engineering.",
     "reasoning_summary": "While addressing engineering best practices for legacy systems, the content does not directly explore concepts central to Agentic Engineering such as agency, systemic observability, or ethical AI integration. Its relevance is tangential and does not substantially reflect the category’s core meaning.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "S-YSqmiQ8BE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 19.751,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 6.1,
+    "ai_signal": 5.45,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content centers on modernising legacy systems by balancing stability, innovation, and gradual change. However, there are no explicit mentions of agentic software delivery, autonomous AI agents, context-aware intelligence, human-in-the-loop design, nor integration between AI agents and human experts. Some reference is made to modern engineering best practices and sustainable improvement, but these are discussed in general terms, without specific focus on agentic principles, frameworks, or outcomes. The closest alignment to the category is the reference to 'evolution from legacy delivery models,' but no evidence suggests the adoption of agentic strategies. Audience targeting is for practitioners interested in software delivery, but the main themes do not fit the category definition beyond this.",
+    "reasoning_summary": "This content discusses legacy system modernisation and engineering best practices but does not address agentic software delivery or autonomous AI agent integration. There is only partial thematic overlap, so the fit is weak and mostly tangential.",
     "level": "Ignored"
   }
 }

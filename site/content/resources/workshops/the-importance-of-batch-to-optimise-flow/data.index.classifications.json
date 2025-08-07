@@ -528,15 +528,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "kwS9oPiz-Ny",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:46:13",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on optimising flow through batch processing and does not explicitly discuss Test First Development principles, success criteria, or testing practices. While it touches on aspects of delivery and team dynamics, it lacks a direct connection to the core themes of Test First Development.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 9.326,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 1.7,
+    "ai_audience": 1.8,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused strictly on batch sizing, queuing theory, and flow in scrum teams. There are no direct mentions or substantial conceptual overlap with Test First Development. No reference to defining success criteria up front, testing practices, or automation. The workshop's intent is on optimizing workflow via batch size, not test-first principles. Audience, depth, and signal-to-noise are also low for the same reasons. No outdated or critical tone detected.",
+    "reasoning_summary": "Content solely covers batch size and flow, not Test First Development. Main themes, intent, and examples do not meaningfully address test-first success criteria or related practices. Fit is minimal and indirect at best.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2011,6 +2018,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on teaching how batching affects workflow and predictability via a hands-on exercise based on queuing theory, targeting software teams and Scrum practitioners. However, it does not directly mention Agentic Engineering or its philosophical aspects—there's no explicit focus on human/AI agency, decentralised decision-making, or engineering practices that maximise agency. While the content develops system thinking and workflow improvement (which are tangentially relevant), its intent and depth do not align significantly with the holistic, agency-maximizing framework of Agentic Engineering. There are no penalties needed as the content does not contradict or undermine the category.",
     "reasoning_summary": "This workshop addresses workflow and batch size through practical exercises for Agile teams, emphasizing predictability and flow. However, it lacks direct or conceptual engagement with Agentic Engineering themes like developer or AI agency, ethical autonomy, or agentic system design. Alignment is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kwS9oPiz-Ny",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 12.43,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.35,
+    "ai_depth": 1.25,
+    "ai_intent": 1.25,
+    "ai_audience": 5.15,
+    "ai_signal": 3.85,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on batch size, flow, and queuing theory in Scrum teams, without discussing autonomous AI agents, contextual intelligence, human-agent integration, or agentic delivery practices. All examples and exercises target traditional human workflow optimization. No mention of agentic principles, AI support in delivery, or modern agent-driven engineering practices. While relevant for software delivery practitioners seeking to improve flow and predictability, the material is unrelated to the deliberate integration of autonomous agents or organizational context as per the category definition.",
+    "reasoning_summary": "Content is batch/flow optimization for Scrum teams, not agentic delivery. No reference to autonomous agents, contextual intelligence, or human-agent synergy. Strong misalignment: topic does not match Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

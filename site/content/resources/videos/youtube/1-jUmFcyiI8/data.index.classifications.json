@@ -1170,15 +1170,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "1-jUmFcyiI8",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:33:25",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses deployment frequency and its impact on business success, without any explicit mention of Test First Development principles or practices. While it touches on concepts like feedback loops and continuous delivery, these are not directly related to the Test First approach, which focuses on defining success criteria before implementation. The discussion lacks depth in terms of Test First practices, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 32.54,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.1,
+    "ai_intent": 3.5,
+    "ai_audience": 5.5,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses heavily on deployment frequency, feedback loops, delivery metrics, and alignment with business goals, which are related to general agile/DevOps practices. While the theme of 'fast feedback' has conceptual connections with Test First principles, there is no direct discussion of defining success criteria before implementation, manual or automated testing approaches, or Test First Development methodologies like TDD or ATDD. No references are made to tests guiding design or the shift from manual to automated testing in the context of Test First. The intent and depth are thus only tangentially relevant. The audience (delivery managers, developers) somewhat overlaps, and the discussion is generally focused with few tangents, but lacks substance directly supporting the Test First category.",
+    "reasoning_summary": "The content is weakly and only tangentially related to Test First Development, focusing on deployment and feedback flow rather than on success criteria or Test First practices. Fit with the category is minimal and indirect.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -2115,5 +2122,24 @@
     "reasoning": "The content aligns with several concepts central to Agentic Engineering, including feedback-driven adaptation (fast feedback loops), systemic observability (telemetry/data collection), and developer agency (focus on optimizing team workflows and delivery). However, it doesn't directly mention 'Agentic Engineering' or deeply explore the philosophical/ethical aspects (e.g., human/AI agency, decision decentralization, or explicit DevOps ethos). The discussion is practical, aimed at practitioners, and focused on enabling autonomous continuous delivery, but lacks direct reference to AI collaboration or ethical decision frameworks. Audience fit and signal are strong, as it's for technical readers; direct mentions and depth are moderate, since the narrative orbits around but does not name Agentic Engineering.",
     "reasoning_summary": "This content strongly overlaps with Agentic Engineering's principles—feedback loops, systemic improvement, and empowerment—though it doesn't explicitly name or deeply theorize the concept. Its practical approach and technical focus make it moderately relevant to the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1-jUmFcyiI8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 41.67,
+    "ai_mentions": 0.8,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.5,
+    "ai_intent": 4.2,
+    "ai_audience": 5.0,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content discusses modern software delivery practices, emphasizing deployment frequency, stable pipelines, data-driven feedback loops, and collaboration. While aligning with some agentic-enabling outcomes (automation, telemetry, continuous delivery), it never references agentic approaches, AI agents, or human-agent integration. The intent is best-practice improvement, not agentic delivery. There is moderate alignment on CI/CD, observability, and telemetry, but no agency, autonomy, or context-aware intelligence—a core requirement for the category. Audience is suitable (delivery managers, engineers), and the content is focused, but it only partially overlaps conceptually and circumstantially.",
+    "reasoning_summary": "Content aligns with enabling practices for Agentic Software Delivery (e.g., CI/CD, feedback), but lacks direct reference to autonomous agents, agency, or their integration; fit is partial and indirect.",
+    "level": "Tertiary"
   }
 }

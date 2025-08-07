@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Employee Engagement",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses employee engagement, which is related to motivation and commitment but does not explicitly address accountability as a structural mechanism in work systems. While it touches on ownership of tasks and the importance of alignment with organisational objectives, it lacks a clear focus on outcome ownership or the specific roles that define accountability in frameworks like Scrum or Agile.",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 25.3,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on employee engagement—motivation, commitment, and connectedness to organizational goals. While there are tangential references to 'ownership of tasks' and 'delivering value,' these do not reach the structural, outcome-focused meaning of 'accountability.' There are no direct mentions of accountability, defined role-based accountabilities, or in-depth discussion about how accountability mechanisms anchor value delivery or enable self-management. The content is more aligned with organizational culture and engagement theory than outcome ownership or accountability structures. Audience and signal scores are somewhat higher due to references to team performance in work systems, but the primary intent and conceptual focus diverge from the category's definition.",
+    "reasoning_summary": "The content addresses engagement and motivation in teams, with only brief mentions of task ownership. It does not address accountability as outcome ownership in work systems, so fit with the 'Accountability' category is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3098,6 +3105,25 @@
     "final_score": 13.0,
     "reasoning": "The content is focused on human employee engagement and team performance, emphasizing motivation, commitment, and a culture of collaboration. However, it contains no explicit mention of AI, human-AI partnership, or any aspect of collective intelligence as defined. Themes like collaboration and shared purpose are present, but strictly within a human context without reference to AI, distributed cognition, or socio-technical systems. Thus, alignment and depth scores are low, and confidence is minimal.",
     "reasoning_summary": "The content centers solely on employee motivation and team dynamics among humans, lacking references to human-AI collaboration or collective intelligence. It does not fit the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Employee Engagement",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 8.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.0,
+    "ai_intent": 1.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses employee engagement, focusing on motivation, commitment, and organisational culture. There are no direct mentions of agentic software delivery or its core concepts (AI agents, agency, contextual intelligence, technical practices). The content does not reference integration of autonomous agents, modern AI-based delivery, or the synthesis of human and AI expertise. While themes of empowerment and adaptability could loosely relate to agentic thinking, there is no alignment to the practices, governance, or technology-driven outcomes central to Agentic Software Delivery. The content targets a broad organisational or HR audience, not the technical or strategy-focused groups relevant to this category. Signal-to-noise is low as the discussion remains generic, with no agentic or AI context.",
+    "reasoning_summary": "This content is about employee engagement for high-performing teams, lacking any direct or indirect link to agentic software delivery. There is no mention of AI, agents, or related principles—fit is extremely weak and mostly irrelevant.",
     "level": "Ignored"
   }
 }

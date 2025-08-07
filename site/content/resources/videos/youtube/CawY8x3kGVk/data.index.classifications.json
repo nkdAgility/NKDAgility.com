@@ -536,15 +536,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "CawY8x3kGVk",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:26:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 0.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and the myth of micromanagement, with no direct mention of Test First Development principles or practices. While it touches on Agile principles, it does not align with the core themes of Test First Development, such as success criteria, automated testing, or the role of testing in design and collaboration.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 2.53,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content centers on dispelling the micromanagement myth in Scrum and emphasizes team autonomy, empiricism, and collaboration. It does not mention Test First Development, its principles, practices, or concepts such as defining success criteria before implementation, TDD, or automated testing. Only vague indirect relevance exists in generic discussion of technical debt and developer autonomy, but these do not align with the category's definition on any material level. The content is tailored to Agile practitioners but does not address Test First Development topics or audiences specifically.",
+    "reasoning_summary": "This content is not related to Test First Development. It discusses Scrum, autonomy, and micromanagement without mentioning or aligning with Test First principles, practices, or intent. Fit is minimal and purely incidental.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2006,5 +2013,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, but the content is highly aligned conceptually: it discusses developer autonomy, decentralised decision-making, empiricism, and empowering teams—core aspects of Agentic Engineering. The piece thoroughly refutes micromanagement, emphasizing agency, trust, and collaboration in Scrum, and references technical debt in context with team autonomy. It primarily targets technical practitioners in Agile/Scrum, overlapping with Agentic Engineering's audience. No penalties are applied, as the content is up-to-date, positive, and constructive. While lacking explicit category references, the discussion embodies nearly all category-defining themes, justifying a high confidence score.",
     "reasoning_summary": "While the content doesn’t name 'Agentic Engineering', it deeply aligns by championing developer autonomy, trust, empiricism, and decentralized decision-making in Scrum. The focus on empowering teams and resisting micromanagement creates a strong conceptual fit for Agentic Engineering, especially for agile practitioners.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CawY8x3kGVk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 18.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.9,
+    "ai_audience": 5.5,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on debunking the myth that Scrum induces micromanagement, emphasizing team autonomy, collaboration, trust, and the proper application of Scrum principles. While it deeply discusses human agency and empowerment within Agile, there is no mention or conceptual alignment with autonomous AI agents, contextual intelligence, or agentic software delivery as defined in the classification. It lacks depth and references to AI, contextual intelligence, or engineering practices required for agentic delivery. The audience is Agile practitioners or Scrum teams, somewhat overlapping but not specifically targeting agentic delivery. Signal is high since the writing is on-topic for Scrum, but it is not relevant to Agentic Software Delivery.",
+    "reasoning_summary": "This content discusses team autonomy within Scrum, but does not address AI agents, contextual intelligence, or agentic delivery concepts. Its fit to the 'Agentic Software Delivery' category is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

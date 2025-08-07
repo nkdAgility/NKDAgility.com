@@ -1419,15 +1419,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "uD_5MdHKu1Q",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:40:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy and does not explicitly discuss the Shift-Left Strategy or its principles. While there are elements of continuous improvement and workflow management that could tangentially relate to early integration of processes, the core themes of the Shift-Left Strategy are not addressed, and there are no direct mentions of testing, security, or compliance integration in the software development lifecycle.",
+    "calculated_at": "2025-08-07T06:10:13",
+    "ai_confidence": 13.28,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 1.3,
+    "ai_audience": 4.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The 'Kanban Guide' does not make direct references to the Shift Left Strategy, nor does it focus on integrating processes like testing, security, or compliance earlier in the development cycle. Its main theme and intent are instead concerned with flow optimization, continuous improvement, and Kanban-centric value delivery. No techniques, metrics, or tools specifically pertaining to Shift-Left practices are described. The audience is practitioners in workflow optimization (some possible overlap), but there is minimal conceptual overlap beyond indirect reference to early risk management or proactive process thinking. Overall, the fit to Shift Left Strategy is extremely weak and largely irrelevant.",
+    "reasoning_summary": "The content is about Kanban workflow optimization, not Shift Left Strategy. No direct mentions or substantial alignment. Minimal conceptual overlap—does not discuss integrating testing, security, or compliance early. The fit is very weak and indirect.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1985,6 +1992,25 @@
     "final_score": 37.0,
     "reasoning": "The Kanban Guide describes principles and practices focused on value delivery, continuous improvement, workflow visualization, and metrics. While it emphasizes stakeholder value, transparency, and intentional workflow design, it does not explicitly refer to 'Agentic Engineering' or deeply explore maximizing human/AI agency, ethical AI, or decision decentralization. The concepts have peripheral relevance (empowerment, feedback-driven change), but key agentic topics like developer autonomy, intelligent systems collaboration, or ethical AI integration are missing. The audience (practitioners, process managers) partially overlaps. Signal is high for Kanban and workflow optimization but not agentic themes.",
     "reasoning_summary": "This content is a robust Kanban reference, focusing on workflow optimization and continuous improvement. While it tangentially overlaps Agentic Engineering's emphasis on empowerment and adaptation, it lacks explicit discussion of agency maximization, AI collaboration, or ethical considerations central to this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 7.86,
+    "ai_mentions": 0.033,
+    "ai_alignment": 1.228,
+    "ai_depth": 1.321,
+    "ai_intent": 1.103,
+    "ai_audience": 2.012,
+    "ai_signal": 2.163,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively outlines the principles and practices of Kanban for optimizing workflow and value delivery in knowledge work. It covers topics such as workflow visualization, metrics, continuous improvement, and flow management rooted in established Lean and flow theory. However, the guide makes no reference whatsoever to autonomous AI agents, contextual intelligence, synergy between humans and AI, agentic delivery practices, agency or autonomy in software systems, or modern AI-enabled engineering. The key concepts and terminology of 'Agentic Software Delivery' are entirely absent—Kanban is discussed purely as a human-managed methodology. While Kanban can be used in software delivery, the document neither discusses nor implies any agentic, autonomous, or AI-based enhancements, nor does it align with the intent, audience, or deep themes of the Agentic Software Delivery category as defined. The signal-to-noise ratio and audience alignment have moderate scores because the content is clearly meant for process-oriented technical/practitioner audiences, but otherwise, only an extremely faint conceptual connection exists.",
+    "reasoning_summary": "This Kanban Guide does not fit the Agentic Software Delivery category; it's a human-centered process reference with no mention or implication of AI agents, contextual intelligence, or agentic practices. Any overlap is superficial or historical only.",
     "level": "Ignored"
   }
 }

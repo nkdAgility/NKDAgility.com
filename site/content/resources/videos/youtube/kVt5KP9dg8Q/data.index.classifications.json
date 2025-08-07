@@ -887,13 +887,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "kVt5KP9dg8Q",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T14:45:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the challenges of implementing agile practices and the importance of quality in software delivery, which are relevant to technical leadership. However, it primarily focuses on the issues within agile environments rather than providing clear guidance or strategies for technical leadership.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 72.953,
+    "ai_mentions": 1.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.9,
+    "ai_intent": 8.3,
+    "ai_audience": 8.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content critically evaluates organizational agility beyond surface-level Agile adoption, stressing continuous delivery, quality, and reduction of bureaucratic barriers. It discusses principles like continuous improvement, quality, and agile best practices, aligning well with Technical Leadership. However, it doesn't explicitly mention 'technical leadership', coaching, or team mentorship; instead, it assumes the reader is in a position to influence or assess organizational agility. There's little about direct leadership techniques, facilitating ceremonies, or navigating team dynamics. The depth and nuance are strong, oriented toward action and systemic change, which fits technical leaders, but the absence of explicit leadership topics and terminology lowers the 'Direct Mentions' and makes the fit solid but not perfect.",
+    "reasoning_summary": "Strong fit for Technical Leadership in advocating system-wide agility and continuous improvement, but lacks direct discussion of leadership roles, coaching, or specific technical leader actions. Relevant but the link to leadership is mostly implied.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -2024,5 +2034,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are entirely absent, and terminology centers on Agile and continuous delivery rather than agency, systemic observability, or AI/human collaboration. However, strong conceptual overlap exists: themes explore engineering excellence, automation, quality, and the strategic removal of bureaucratic barriers. The advocacy for continuous delivery, seamless deployment, and feedback-driven adaptation aligns with agentic philosophies, yet without explicit linkage to 'agency' or ethical/autonomous decision-making between humans and intelligent systems. Audience is engineering-focused, matching well. The article’s depth is solid on organization-wide Agile enablement but light on explicit 'agency' concepts and AI’s role.",
     "reasoning_summary": "The content robustly addresses engineering practices that foster organizational agility, continuous delivery, and quality, aligning with some Agentic Engineering principles. Lacking direct mention of agency or human–AI dynamics, its fit is moderate, but relevance to maximizing engineering autonomy is substantial.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kVt5KP9dg8Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 30.198,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on the pitfalls of partial agile adoption, continuous delivery, and quality engineering. While it discusses engineering practices (like CI/CD, automated testing, and minimizing human intervention) that overlap with agentic delivery foundations, it never discusses or references agentic software delivery, AI agents, integration of human and AI expertise, agency, or autonomous systems—the defining elements of the category. No explicit or implicit discussion of context-aware intelligent agents, agent governance, or human-in-the-loop designs. The audience (agile/engineering leaders) is tangentially aligned, but the conceptual fit is partial at best, as the article remains in the realm of traditional agile/DevOps improvement.",
+    "reasoning_summary": "Content discusses continuous delivery and quality in agile but makes no mention of agentic software delivery, AI agents, or context-aware intelligence. Fit is low—covers some enabling practices, but not the core concepts or intent of the category.",
+    "level": "Ignored"
   }
 }

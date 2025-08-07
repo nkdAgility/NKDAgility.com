@@ -1434,15 +1434,22 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
+    "resourceId": "PmLDnMEBzBQ",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:58:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog in Agile development, focusing on hierarchy and complexity rather than integrating testing, security, or compliance earlier in the development process. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 8.496,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses heavily on product backlog design and complexity, emphasizing flatter structures and emergent practices in Agile contexts. There are no explicit mentions of Shift Left Strategy, nor are testing, security, or compliance discussed as being moved earlier in the lifecycle. The discussion centers on backlog transparency, value focus, and autonomy, which—while thematically relevant to early feedback and adaptability—does not address Shift Left principles directly or in depth. No parts are outdated or satirical, and the audience is Agile practitioners, which slightly overlaps but does not match the specific Shift Left target. Thus, minimal points are awarded in all dimensions; confidence is very low.",
+    "reasoning_summary": "This content does not fit the Shift Left Strategy category; it focuses solely on Agile backlog structure and complexity, making only a tangential connection to early practices but lacking in direct relevance or explicit alignment with Shift Left principles.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1999,5 +2006,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent. However, there is strong conceptual alignment: the article is centered on maximizing team autonomy, minimizing hierarchical rigidity, fostering cognitive diversity, and emphasizing adaptive, feedback-driven approaches—key tenets of Agentic Engineering. The discussion is deep for Agile agency and autonomy, but AI aspects, DevOps craft, observability, and explicit decision-making frameworks are not present. The content’s intent, audience, and focus are a solid match for practitioners interested in empowerment, self-organization, and complexity within software development, even though explicit agentic terminology is missing.",
     "reasoning_summary": "The article aligns conceptually with Agentic Engineering by advocating for team autonomy, adaptability, and empowerment in product backlog management. While it doesn’t explicitly discuss Agentic Engineering or AI agency, its practical focus on decentralisation and human agency in complex environments makes it a relevant—though not complete—fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PmLDnMEBzBQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 21.56,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 1.6,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content discusses backlog structure, complexity, team autonomy, and adaptive product development—areas peripherally relevant to Agentic Software Delivery. However, it does not mention AI agents, contextual intelligence, agentic practices, or integration of autonomous systems. The focus is exclusively on human and procedural aspects, without coverage of software agents or proactive intelligence. As such, conceptual alignment and depth are low; the audience (agile practitioners) aligns partially. No relevant signals about agentic systems, agent support, or governance. No penalties: the tone is contemporary, not critical of the category.",
+    "reasoning_summary": "This content focuses on backlog hierarchy and complexity management in human teams—it never addresses AI agents or agentic delivery concepts. Alignment is weak and fit is partial at best.",
+    "level": "Ignored"
   }
 }

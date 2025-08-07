@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Scrum Values",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum values, which are principles rather than tools. While it touches on aspects of team collaboration and performance, it does not explicitly mention any specific tools or their functionalities, nor does it provide a comparative analysis or best practices related to tool selection and implementation.",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on the five Scrum Values and their impact on Scrum teams. There is no mention of tools, software, mechanisms, or practical application of tools within Agile, Scrum, Lean, or DevOps practices. The core concepts and intents do not align with the 'Tool' category, as the discussion is about cultural and behavioral principles rather than mechanisms that facilitate Scrum implementation or continuous improvement. Minimal audience overlap exists (practitioners), but the subject matter is fundamentally about mindset and team culture. Thus, confidence in this content fitting 'Tool' is extremely low.",
+    "reasoning_summary": "This content is purely about Scrum Values, not tools. It does not discuss software, mechanisms, or tool use, so it falls far outside the 'Tool' category. Fit is minimal and only tangential at best.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3119,6 +3126,25 @@
     "final_score": 13.0,
     "reasoning": "The content discusses the five core Scrum Values and their role in fostering effective, collaborative human teams within Scrum. However, it does not reference collective intelligence, human-AI collaboration, or any aspect of humans working in partnership with AI agents. The focus is entirely on human collaboration and organizational culture—outside the scope of the specified category. No penalties were necessary since the tone, currency, and style are appropriate, but dimension scores remain low due to the strict exclusion of purely human-centric teamwork from the category.",
     "reasoning_summary": "This content focuses on human team values in Scrum, not on human-AI collaboration or collective intelligence as defined by the category. It discusses principles of teamwork and culture but does not address the required dimension of collaboration between humans and AI.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Scrum Values",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 13.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.8,
+    "ai_audience": 4.5,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on the foundational human values underpinning Scrum, such as commitment and respect. It contains no direct or indirect mention of autonomous AI agents, contextual intelligence, or agentic principles. Concepts like 'delivery' or 'collaboration' here refer to conventional agile teamwork, not synergistic human–AI workflows. The depth and intent focus purely on behavioural and cultural dimensions foundational to Scrum, not on integrating AI agents or hybrid agency. The audience matches in the sense of being in the software delivery space, but the content is solely about values and team culture, without technical or agentic elements. Thus, the confidence score remains low.",
+    "reasoning_summary": "This content focuses exclusively on Scrum values and team culture, with no discussion of agentic principles, AI agents, or their integration in software delivery. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

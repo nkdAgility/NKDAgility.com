@@ -1254,15 +1254,22 @@
     "level": "Ignored"
   },
   "Agile Transformation": {
+    "resourceId": "pDAL84mht3Y",
     "category": "Agile Transformation",
-    "calculated_at": "2025-04-10T15:52:21",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content explicitly discusses the importance of adaptability and the dangers of rigidity in Agile practices, aligning well with Agile transformation principles. It provides detailed strategies for fostering a culture of continuous improvement and innovation, which are key aspects of Agile transformation. However, while it touches on relevant themes, it lacks specific references to established frameworks or methodologies, which slightly lowers the depth of discussion.",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 87.95,
+    "ai_mentions": 6.5,
+    "ai_alignment": 9.5,
+    "ai_depth": 8.8,
+    "ai_intent": 9.1,
+    "ai_audience": 8.5,
+    "ai_signal": 9.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 88.0,
+    "reasoning": "The content centers on core Agile principles, addressing cultural and mindset challenges in teams—key to Agile Transformation. It advocates for continuous improvement, flexibility, and outcome focus, using practices like retrospectives and experimentation, all directly aligned with transformation themes. The discussion is substantial, targeting practitioners and leaders involved in Agile change, with very little off-topic content. 'Agile' and 'agility' are repeatedly referenced, though the phrase 'Agile Transformation' is not explicitly used. No evidence of outdated or critical tone; content is highly relevant, well-focused, and substantial for the category.",
+    "reasoning_summary": "Strong fit: the article directly discusses evolving mindsets, fostering adaptability, and continuous improvement within teams—all core Agile Transformation topics. Focus is highly relevant and aligns clearly with the category definition.",
     "level": "Primary"
   },
   "Agile Strategy": {
@@ -1979,5 +1986,24 @@
     "reasoning": "The content focuses on fostering team adaptability, experimentation, and continuous improvement, which partially aligns with the Agentic Engineering category, specifically around developer agency and feedback-driven adaptation. However, it never explicitly mentions Agentic Engineering or its unique integration with DevOps, AI collaboration, or decentralised decision-making frameworks. The discussion is moderately deep regarding philosophical and cultural aspects of agility but lacks substantial reference to engineering craft, ethical AI, or technical decision systems central to Agentic Engineering. The target audience is technical practitioners seeking improvement in workflow, matching the category’s audience. The content is focused, relevant to agency but primarily from an Agile perspective rather than an engineering or hybrid human/AI agency perspective.",
     "reasoning_summary": "The content promotes adaptability, experimentation, and continuous improvement, echoing several agentic themes like developer agency and feedback loops. However, it never directly addresses Agentic Engineering or its hallmark integration of advanced engineering practices, DevOps, or AI-human collaboration, resulting in only partial category fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pDAL84mht3Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 11.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.0,
+    "ai_intent": 2.5,
+    "ai_audience": 2.3,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused on Agile mindsets, continuous improvement, and overcoming process rigidity, but does not mention or discuss agentic software delivery, autonomous agents, or AI integration. There are no references to contextual intelligence, agent frameworks, human-AI collaboration, or engineering/technical enablers that define 'Agentic Software Delivery.' The intent is aligned generally with modern, adaptable delivery, but the conceptual fit is minimal and very superficial. Audience may overlap with those interested in new delivery models, but nothing directly addresses or implies agentic approaches.",
+    "reasoning_summary": "The content focuses on Agile adaptability, not agentic software delivery. It lacks reference to autonomous agents, AI, or agentic frameworks, so fit is very weak and only tangential at best.",
+    "level": "Ignored"
   }
 }

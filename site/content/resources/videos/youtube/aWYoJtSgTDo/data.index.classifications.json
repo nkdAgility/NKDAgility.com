@@ -1392,15 +1392,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "aWYoJtSgTDo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:07:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 11.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile and Scrum principles through the metaphor of mushroom foraging, which does not directly relate to the One Engineering System framework. While it touches on themes of environment and team dynamics, it lacks explicit references to 1ES, its components, or its implementation. The focus is on personal insights rather than a structured discussion of standardisation and integration in software development.",
+    "reasoning": "The content focuses on drawing analogies between mushroom foraging and Agile/Scrum practices, using metaphors like environment, patience, and team dynamics. At no point is 'One Engineering System' mentioned, nor are its principles, implementation challenges, or tools addressed. The main themes revolve around agility, adaptability, and continuous improvement from an Agile/Scrum perspective, not about cross-team standardisation or unified frameworks as required by 1ES. The intent is personal reflection, not guiding or informing about 1ES topics. Only a minimal fraction (continuous improvement) could conceivably relate to 1ES principles at a stretch, but this is indirect and not thematic.",
+    "reasoning_summary": "Content centers on analogies for Agile and Scrum, not on One Engineering System. Neither the core ideas, terms, nor audiences are a strong match. No direct or substantive alignment with 1ES, thus fit is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1902,6 +1909,25 @@
     "final_score": 40.0,
     "reasoning": "The content draws analogies between mushroom foraging and Agile/Scrum practices, focusing on environment, patience, and continuous improvement. While it discusses iterative learning and team awareness, it neither explicitly mentions nor substantially explores agentic engineering concepts such as developer autonomy, systemic observability, DevOps craft, or ethical human-AI agency. Its intent is to reflect on agility via metaphor, not to inform engineering practice design or maximise agency. The audience (Agile/engineering practitioners) is somewhat aligned, but the subject matter does not target or contribute to Agentic Engineering's core themes. Consequently, relevance is tangential and confidence is low.",
     "reasoning_summary": "This content uses mushroom foraging as a metaphor for Agile and Scrum, focusing on team dynamics and continuous improvement. While relevant to adaptive teamwork, it lacks direct discussion of agency, DevOps, or engineering frameworks, making alignment with Agentic Engineering minimal and mainly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "aWYoJtSgTDo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 8.381,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 1.5,
+    "ai_audience": 1.2,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not directly mention or discuss Agentic Software Delivery concepts. Its focus is analogies between mushroom foraging and Agile/Scrum team dynamics, using metaphors for environment, patience, and improvement. There is no discussion of integrating autonomous AI agents, contextual intelligence, human-AI synergy, agency, or delivery practices specific to the category. The main ideas and audience align only with general Agile teams and practitioners, not with agentic delivery topics. The content is highly metaphorical and general, with no references to modern engineering for agentic delivery, AI agents, governance, or sophisticated feedback loops. Thus, the fit is extremely weak.",
+    "reasoning_summary": "This content compares mushroom foraging to Agile/Scrum team dynamics using broad metaphors, not Agentic Software Delivery. There's no discussion of AI agents, contextual intelligence, or delivery strategies, so the fit to this category is minimal.",
     "level": "Ignored"
   }
 }

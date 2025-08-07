@@ -413,15 +413,22 @@
     "level": "Tertiary"
   },
   "Azure Pipelines": {
+    "resourceId": "2IuL2Qvvbfk",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-14T23:38:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of Product Owners in Agile development and their impact on cultural transformation within Microsoft. While it briefly mentions Azure DevOps, it does not focus on Azure Pipelines or the automation of software development processes, which are the core themes of the category. The discussion lacks specific details about pipeline configuration, CI/CD practices, or any technical aspects related to Azure Pipelines.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses entirely on the impact of Product Owners and agile transformation at Microsoft, specifically mentioning Team Foundation Server, Agile practices, cultural shifts, and leadership, but never discusses Azure Pipelines. While there is a mention of Azure DevOps, it is only in reference to cultural change and not the CI/CD pipeline features or practices. None of the content addresses the configuration, use, or discussion of Azure Pipelines or its ecosystem, nor are any technical or process details of Azure Pipelines explored. The main audience is agile practitioners and product managers, not pipeline users, and the signal-to-noise ratio is very low for the Azure Pipelines category.",
+    "reasoning_summary": "Content is about Agile/Product Owner leadership at Microsoft, not Azure Pipelines. No direct or substantive reference to pipelines, CI/CD, or related practices. Audience and purpose do not align with the Azure Pipelines category at all.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
@@ -2001,5 +2008,24 @@
     "reasoning": "The content does not explicitly reference 'Agentic Engineering' but strongly aligns with agentic principles: human agency (Product Owner vision and autonomy), feedback-driven adaptation (shortening cycles), and cultural transformation in Agile/DevOps contexts at Microsoft. The discussion stays largely at the organization and leadership level, focusing on empowering teams and decentralizing decision-making. It lacks explicit coverage of AI agency, systemic observability, or technical DevOps/engineering practices in detail, but the intent is clearly to illustrate maximizing agency for impactful value delivery. Some key agentic elements (autonomy, feedback loops, executive support, changing engineering culture) are deeply discussed; however, the term and philosophical underpinnings are implicit rather than direct.",
     "reasoning_summary": "While 'Agentic Engineering' is not named directly, this case study of Product Ownership at Microsoft strongly fits the spirit of the category—detailing visionary leadership, feedback loops, empowerment, and cultural shifts aligned with maximizing agency in engineering contexts.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2IuL2Qvvbfk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 23.91,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.7,
+    "ai_audience": 3.5,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is focused on Product Owners driving Agile transformation at Microsoft. It discusses Agile practices, culture shifts, leadership, and feedback cycles, but never mentions or clearly engages with agentic principles, autonomous AI agents, or agentic architectures. There is no discussion of AI-driven automation, contextual intelligence, or integration of AI agents and human expertise as described in the Agentic Software Delivery definition. The closest related topics are autonomy at the team level and modern engineering practices like DevOps, but these are discussed only as cultural and process improvements, not in terms of agent integration. Thus, there is minimal conceptual or thematic overlap, and the fit is very weak.",
+    "reasoning_summary": "Discusses Agile transformation, feedback cycles, and leadership, but does not address agentic principles, autonomous AI agents, or their integration. Minimal relevance to Agentic Software Delivery. Fit is tangential and partial at best.",
+    "level": "Ignored"
   }
 }

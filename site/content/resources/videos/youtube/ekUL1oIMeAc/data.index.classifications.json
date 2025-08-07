@@ -1450,15 +1450,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "ekUL1oIMeAc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:36:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support in Agile practices. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred on Scrum, which is outside the scope of 1ES, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 11.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 1.8,
+    "ai_audience": 4.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content describes a product owner undermining a Scrum team, focusing on accountability and collaboration in Agile. There is no direct or indirect reference to One Engineering System (1ES), its principles, unified tooling, or process integration. The discussion does not address systemic standardisation, cross-team alignment, or 1ES best practices—only a team-level issue. Audience overlap exists, but only as Scrum practitioners; no conceptual alignment with 1ES as defined.",
+    "reasoning_summary": "Content focuses on a Scrum team incident and product owner behavior. It does not discuss One Engineering System, unified tooling, or engineering standardisation. Minimal conceptual overlap; confidence is very low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1961,6 +1968,25 @@
     "final_score": 34.0,
     "reasoning": "The content focuses on product owner behavior in Scrum, specifically regarding accountability and support. There is no direct mention or explicit discussion of Agentic Engineering, nor sustained engagement with maximizing human or AI agency, decentralizing decision-making, or system design for agentic empowerment. The themes of team support, transparency, and collaborative spirit overlap conceptually in a broad sense but do not directly address the engineering-centric, systemic, or AI-related foundations of Agentic Engineering. The audience fit is closer, as it is aimed at Agile practitioners who might encounter agentic discourses, and the content is focused with little off-topic discussion. However, depth and explicit category alignment remain quite peripheral.",
     "reasoning_summary": "This content centers on team support and accountability within Scrum, not on the deliberate design of engineering practices that maximize agency. It doesn't explicitly address Agentic Engineering concepts, though it shares adjacent themes relevant to agile practitioners.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 15.56,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 5.0,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content narrates a Scrum team scenario focusing on a Product Owner's lack of support during a Sprint Review. It discusses accountability, collaboration, and Agile team dynamics but does not reference or explore agentic software delivery, autonomous AI agents, or the systematic integration of context-aware intelligence. No key topics (e.g., agent autonomy, AI-human synergy, or agent-governed delivery) are present, and the sole focus is a human team interaction within Agile/Scrum. No penalties applied as the content isn't outdated or satirical.",
+    "reasoning_summary": "This content centers on Scrum team roles and a Product Owner’s behavior, with no mention of AI agents, contextual intelligence, or agentic delivery. It does not fit the 'Agentic Software Delivery' category, and alignment is highly limited.",
     "level": "Ignored"
   }
 }

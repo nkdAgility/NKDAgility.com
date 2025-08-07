@@ -1181,15 +1181,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "Po58JnxjX7M",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:25:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile coaching and the importance of practical experience in Agile methodologies. While it briefly mentions DevOps as part of the author's background, it does not delve into DevOps principles or practices. The discussion lacks depth in relation to DevOps, and the core themes of collaboration, automation, and shared accountability are not explicitly addressed. Therefore, the content does not align closely with the DevOps category.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 22.375,
+    "ai_mentions": 1.4,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the qualifications and importance of hands-on experience for Agile coaches. While there is one passing mention of DevOps (in a list with Scrum and Kanban), there is no substantive discussion or exploration of DevOps principles, philosophy, or practices. The themes center on Agile coaching, practical experience, and related Agile methodologies—not DevOps-specific topics like automation, flow efficiency, shared accountability, or cultural shifts in delivery. The audience (practitioners, especially Agile coaches) is only moderately relatable to DevOps, as there is often overlap, but the core content intent and depth do not serve DevOps interests in any meaningful way.",
+    "reasoning_summary": "This content centers on Agile coaching and hands-on team experience, with only one brief mention of DevOps. It does not explore DevOps principles, practices, or philosophy, so its fit under 'DevOps' is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1953,6 +1960,25 @@
     "final_score": 29.0,
     "reasoning": "The content thoroughly discusses the importance of practical experience for Agile coaches, emphasizing credibility, empathy, and firsthand knowledge. While it highlights aspects of developer agency and team empowerment—somewhat related to Agentic Engineering's focus on human agency—it lacks explicit discussion of decentralised decision-making, AI collaboration, systemic observability, or engineering practices that maximize both human and AI agency. The DevOps mention is peripheral and not linked to agentic practices. No mention of ethical AI, observability, or systematic feedback loops is present. While some conceptual overlap (developer/team autonomy) exists, the core theme is advice for aspiring Agile coaches, not the deliberate design of agentic engineering systems or practices.",
     "reasoning_summary": "This article emphasizes the value of practical experience for Agile coaches but does not address the core principles of Agentic Engineering, such as maximizing agency, systemic observability, or AI integration. Its relevance to the category is tangential and limited at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Po58JnxjX7M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.3,
+    "ai_audience": 2.7,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively focuses on the importance of real-world experience for Agile coaches and does not mention agentic software delivery, autonomous agents, AI, contextual intelligence, or related governance and synergy topics. No direct or indirect references to agentic principles, AI agents in delivery processes, or the technical enablers listed in the category definition are present. The content's intent, themes, and audience are squarely aligned with human-centered Agile coaching rather than practices integrating AI or agentic systems. Because the fit is extremely weak (nearly nonexistent), all dimension scores are just above zero only because superficial overlap may exist: both topics relate to improving modern software delivery outcomes, but by entirely different means (human experience vs. agentic augmentation). No outdated practices or anti-category tone are evident, so no penalties applied.",
+    "reasoning_summary": "This content is about human Agile coaching and practical experience, not about Agentic Software Delivery or AI-agent integration. The topic, intent, and themes do not match the category definition. Fit is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

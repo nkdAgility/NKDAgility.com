@@ -556,15 +556,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "4zGsmQFWFpo",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:42:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses hiring practices, leadership, and organisational capability without any direct mention or focus on Test First Development principles. While it touches on roles like Scrum Masters and Product Owners, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 6.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on building organizational capability, competent leadership, and continuous learning, targeting Scrum Masters and Product Owners. There is no explicit or implicit discussion of Test First Development practices, principles, or terminology, nor references to defining success criteria before implementation, manual/automated test first strategies, or related collaboration patterns. The audience slightly overlaps with Test First (technical/team leads), but the topical fit is very weak across all scoring dimensions.",
+    "reasoning_summary": "Content is unrelated to Test First Development—no mention of test-first concepts, principles, or practices. Focus is on hiring, capability, and organizational culture, not on testing approaches or criteria-driven delivery.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2025,5 +2032,24 @@
     "reasoning": "The content primarily focuses on organizational capability, continuous learning, and hiring practices for Scrum Masters and Product Owners, but lacks explicit direct mention or framing around Agentic Engineering. While autonomy, team emergence, and value delivery are discussed, these are not tied to agency in engineering or the interplay between human and AI agency, nor do they address systemic observability, DevOps-infused craft, or ethical AI collaboration. The philosophy is somewhat aligned (promoting competence, internal leadership emergence, and continuous improvement), but discussion remains at a general agile/capability-building level, not extending to the deliberate design of agency as defined. The content is targeted at practitioners and leaders—consistent with the Agentic Engineering audience—but overall conceptual coverage is indirect and partial.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by advocating competence, internal leadership, and value delivery, but does not directly address agency, systemic engineering design, or human/AI autonomy. Its focus remains on building capability in agile, not agentic engineering specifically.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4zGsmQFWFpo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 20.487,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.45,
+    "ai_depth": 2.6,
+    "ai_intent": 2.783,
+    "ai_audience": 6.579,
+    "ai_signal": 4.662,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on organizational capability, competence, and continuous learning in Agile roles, mainly Scrum Masters and Product Owners. There are indirect touches on 'capability', 'context', and 'effectiveness', which are adjacent to themes in Agentic Software Delivery. However, there are no direct or explicit mentions of autonomous AI agents, contextual AI, human-agent synergy, or embedding proactivity and intelligence into the delivery system. The discussion is about people, hiring, growth, and leadership—not about integrating intelligent agency into systems of work or delivery processes. Modern engineering practices, governance frameworks involving AI agents, and feedback loops leveraging agents are not mentioned. The fit is weak and at best tangential, as the themes overlap only in the broad sense of building more effective teams.",
+    "reasoning_summary": "Content does not match Agentic Software Delivery: no references to AI agents, contextual intelligence, or agent-human synergy. Focus is people capability, not agentic systems. Only indirect context and capability overlap. Fit is weak and tangential.",
+    "level": "Ignored"
   }
 }

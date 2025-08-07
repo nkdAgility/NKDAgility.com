@@ -662,15 +662,22 @@
     "level": "Ignored"
   },
   "Continuous Integration": {
+    "resourceId": "EyqLSLHk_Ik",
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-14T19:05:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on team dynamics, empowerment, and collaboration within product development, with only a brief mention of DevOps and Continuous Delivery. It lacks a direct discussion on Continuous Integration principles, practices, or tools, which are essential for a higher confidence score in this category.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 25.727,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 3.9,
+    "ai_audience": 6.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "Continuous Integration is not directly mentioned or explored. The article focuses on team empowerment, collaboration, and culture in product development. While DevOps and Continuous Delivery are touched upon, CI itself is neither defined, explained, nor its practices covered. The closest mention—feedback loops and engineering excellence—remains general and lacks direct tie-in to CI's specific processes, tools, or philosophies. The majority of content revolves around motivation, leadership, and team engagement rather than the principles or implementation of CI. Thus, overall alignment, depth, mentions, and signal-to-noise are low. No explicit penalties for outdatedness or misframing were necessary.",
+    "reasoning_summary": "This content focuses on team empowerment and collaboration, not Continuous Integration. CI is neither mentioned nor conceptually explored, so the fit is weak and largely tangential to the assigned category.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -2015,5 +2022,24 @@
     "reasoning": "The content consistently emphasizes empowering software teams, decision-making autonomy, and enabling environments—a strong thematic fit for Agentic Engineering. Discussions include trust, team-level decision-making, continuous feedback, and DevOps as culture, but avoid explicit use of the term 'Agentic Engineering.' There is deep exploration of developer agency and related practices, including references to engineering excellence, feedback loops, and intent-based leadership. While it doesn't directly mention ethical AI or observability, the principles and practical approaches strongly align with maximizing human agency in engineering. The primary audience is practitioners and leaders in software/org development, matching the category. Minimal filler or off-topic content; small deductions for lack of direct terminology and minor gaps in AI/ethical discussion.",
     "reasoning_summary": "This content strongly aligns with Agentic Engineering by focusing on developer autonomy, decision-making, and empowerment within software teams. While it doesn't use the term directly or address AI agency, it thoroughly explores core themes such as feedback, DevOps culture, and engineering excellence for practitioners and leaders.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "EyqLSLHk_Ik",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 27.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.6,
+    "ai_intent": 3.2,
+    "ai_audience": 5.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content centers on empowering and motivating software teams, promoting collaboration, feedback loops, DevOps practices, and continuous learning. However, it does not reference or deeply engage with the core aspects of Agentic Software Delivery such as AI agents, human-AI integration, agency, context-aware systems, or governance frameworks for agentic delivery. Mentions of concepts like 'continuous feedback loops' and 'decision-making at the team level' are broadly relevant to modern delivery but do not indicate agentic approaches or the integration of autonomous intelligence. Audience alignment and focus on delivery teams are moderately relevant, but the thematic and conceptual links to the Agentic Software Delivery category are minor and indirect at best.",
+    "reasoning_summary": "Content focuses on team empowerment and delivery practices but lacks discussion of agentic software delivery, AI agents, or integration of contextual intelligence. Connection to the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

@@ -21,21 +21,21 @@
   "Beta Codex": {
     "resourceId": "a8GPqn01alD",
     "category": "Beta Codex",
-    "calculated_at": "2025-05-23T22:03:59",
-    "ai_confidence": 46.55,
-    "ai_mentions": 0.3,
-    "ai_alignment": 5.2,
-    "ai_depth": 5.6,
-    "ai_intent": 5.1,
-    "ai_audience": 5.0,
-    "ai_signal": 7.3,
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 63.75,
+    "ai_mentions": 0.4,
+    "ai_alignment": 7.7,
+    "ai_depth": 6.6,
+    "ai_intent": 7.2,
+    "ai_audience": 6.8,
+    "ai_signal": 7.0,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 47.0,
-    "reasoning": "The content critiques Frederick Taylor’s legacy and its persistent negative effects—hierarchy, extrinsic motivation, and rigid job design. It contrasts these with a call for 'mastery, autonomy, and outcomes,' core values of decentralised, human-centric models like BetaCodex. However, BetaCodex or its principles are not mentioned by name, and while the critique implies support for alternative models, it never elaborates on BetaCodex concepts, practices, or implementation. The depth of discussion on alternatives is shallow and speculative. The audience seems to include those considering organisation redesign, partially overlapping with BetaCodex’s target. The piece is focused but does not reference the BetaCodex framework directly, limiting alignment and intent scores. No deductions: it is not outdated, nor critical of BetaCodex.",
-    "reasoning_summary": "This content critiques traditional, Taylorist management and hints at alternatives focused on autonomy and outcomes, aligning partially with BetaCodex ideas. However, it neither explicitly references BetaCodex nor delves deeply into its principles, limiting its categorical fit.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content critiques Taylorist, hierarchical management and implicitly argues for human-centric, decentralised alternatives (mastery, autonomy, outcomes), which aligns with BetaCodex principles. However, there are no direct mentions of BetaCodex or its terminology, and the discussion remains general: it calls for a paradigm shift but doesn't directly reference decentralisation or BetaCodex-specific frameworks or case studies. The fit is conceptually strong but not explicit; depth is moderate since it offers critique and a call to action but lacks BetaCodex model details. The intent and audience fit is relevant—organizational leaders and change agents. The signal-to-noise ratio is good; nearly all content is on topic, though not all is specific to BetaCodex.",
+    "reasoning_summary": "This content critiques traditional Taylorist management and calls for human-centric, autonomous approaches, which aligns with BetaCodex principles. However, there is no direct mention and only implicit alignment, so fit is partial rather than explicit.",
+    "level": "Secondary"
   },
   "Practice": {
     "resourceId": "a8GPqn01alD",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content critiques Taylorist management and juxtaposes it with the rise of AI, hinting at themes of autonomy and agency (e.g., 'rebuild it around mastery, autonomy, and outcomes'). While these resonate with Agentic Engineering, the content doesn't explicitly discuss deliberate engineering practice, actionable frameworks, or systemic observability. There are only indirect references to maximizing human and AI agency, and the discussion is broad, philosophical, and lacks in-depth exploration of engineering practices. The intent is moderately aligned, pushing for change towards more agentic systems, but it does not directly address the methods, principles, or specifics of how such environments are engineered. Audience fit is somewhat technical but not clearly aimed at practitioners of Agentic Engineering. There is some noise: more critique of legacy management than engagement with agentic engineering practices.",
     "reasoning_summary": "This piece challenges Taylorist management and alludes to autonomy and agency in the AI age, somewhat aligning with Agentic Engineering. However, it lacks direct discussion of engineering practices and delivers only partial conceptual fit—primarily as critique and high-level reflection.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "a8GPqn01alD",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 19.37,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 3.0,
+    "ai_intent": 3.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "There are no explicit references to agentic software delivery, autonomous AI agents, or their integration with human expertise. The content critiques legacy management (Taylorism) and mentions AI/automation as a broad disruptor of repetitive work models, hinting at possible organisational evolution. However, the discussion remains conceptual and critical regarding old paradigms rather than exploring or promoting agentic delivery principles, frameworks, or software engineering practice. There are no details about AI agent autonomy, integration into software delivery, or human-in-the-loop approaches—coverage on these is only implied. Audience is broad (leaders/knowledge workers), but not specifically practitioners of agentic software delivery. Thus, fit is partial and mostly indirect.",
+    "reasoning_summary": "Content focuses on Taylorism’s flaws and the broad impact of AI on organisational design, but does not directly discuss agentic software delivery or autonomous agent integration. Fit to category is low and mostly by implication, not direct alignment.",
+    "level": "Ignored"
   }
 }

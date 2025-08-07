@@ -1467,15 +1467,22 @@
     "reasoning_summary": "This content is relevant to the category as it addresses the significance of competence and continuous learning for Product Owners, linking these to accountability and professional growth. However, it leans more towards discussing the emotional experiences of Product Owners rather than offering in-depth strategies for developing competence, which slightly limits its alignment with the category’s core focus."
   },
   "One Engineering System": {
+    "resourceId": "CdYwLGrArZU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:22:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of Product Owners within the context of a PSPO course, discussing their challenges and empowerment rather than the principles or practices of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 6.41,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There is no direct mention or discussion of One Engineering System (1ES) or its concepts. The content solely focuses on challenges Product Owners face in the context of PSPO courses and empowerment/accountability issues. It does not address 1ES themes, such as standardization, tool/process integration, or unified engineering frameworks. The intended audience is Product Owners interested in Scrum/Agile rather than those concerned with adopting or implementing 1ES. The signal-to-noise ratio is low as none of the content is relevant to the category definition, resulting in very low partial scores and an extremely low confidence.",
+    "reasoning_summary": "The content is unrelated to One Engineering System—it only discusses Product Owner challenges in Scrum. No mention or alignment with 1ES concepts. This is a clear non-fit for the assigned category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1979,5 +1986,24 @@
     "reasoning": "The content focuses on Product Owner empowerment, discussing agency and influence within the role. While aligned with some agentic themes—such as maximizing agency and promoting accountability—it lacks direct mention or exploration of Agentic Engineering, systemic DevOps practices, or human/AI collaboration. The depth is moderate, concentrating on introspective steps for Product Owners rather than broader agentic engineering frameworks. The intended audience (Product Owners in Scrum contexts) is tangentially related but not strictly overlapping with Agentic Engineering’s target. There is no substantial reference to systemic observability, DevOps craft, or ethical AI integration. Signal is moderate; much content is motivational and course-promotional rather than deeply agentic-engineering focused.",
     "reasoning_summary": "This content centers on Product Owner empowerment and agency, which touches on the spirit of Agentic Engineering. However, it does not directly discuss or deeply engage with its frameworks or core practices, making the fit partial and confidence moderate.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CdYwLGrArZU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:25",
+    "ai_confidence": 13.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 2.3,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on Product Owner empowerment within Scrum and the PSPO framework, discussing challenges faced by Product Owners and suggesting ways to boost their accountability and influence. It does not mention or explore Agentic Software Delivery concepts such as autonomous AI agents, contextual intelligence, human-agent synergy, or agentic governance. The focus is on human empowerment in traditional Agile roles, not the integration of proactive AI or systematic agentic strategies. No alignment with agency in software delivery is evident, and there are no direct or inferred references to enabling delivery through embedded intelligence or automation frameworks.",
+    "reasoning_summary": "Content is about Product Owner empowerment in Scrum, not Agentic Software Delivery. No mention or discussion of AI agents, contextual intelligence, or agentic principles. Fit is minimal and mostly unrelated.",
+    "level": "Ignored"
   }
 }

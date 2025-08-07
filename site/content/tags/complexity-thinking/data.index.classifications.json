@@ -98,15 +98,22 @@
     "reasoning_summary": "This content is a strong fit for the Philosophy category, as it delves into the theoretical aspects of Complexity Thinking and its influence on organisational behaviour and decision-making. While it does reference some practical uses, the main emphasis remains on exploring foundational ideas and their impact, aligning well with philosophical themes."
   },
   "Observability": {
+    "resourceId": "Complexity Thinking",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-08-07T06:12:13",
+    "ai_confidence": 32.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 4.2,
+    "ai_audience": 8.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 32.0,
-    "reasoning": "The content discusses Complexity Thinking, which is related to understanding systems and their dynamics, but it does not explicitly mention observability or its key components such as metrics, logs, or traces. While it aligns with Agile and Lean principles, the focus is more on managing complexity rather than on measuring and understanding internal states of systems, which is central to observability.",
+    "reasoning": "The content discusses Complexity Thinking, focusing on systems, emergence, and adaptation in organizations. While there is conceptual overlap with Observability (understanding systems, responding to feedback), the text never mentions observability, metrics, logs, traces, monitoring tools, or technical implementation. The alignment is partial at best—mainly through the idea of systemic feedback and understanding—but observability as defined is not the central theme. The audience and signal scores are higher, as it targets Agile/Lean practitioners, but the depth, mentions, and alignment with Observability are low.",
+    "reasoning_summary": "This content discusses systemic thinking and complexity, not observability. It is conceptually adjacent, but lacks explicit focus on observability principles, metrics, or tools, resulting in a weak category fit.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3155,6 +3162,25 @@
     "final_score": 36.0,
     "reasoning": "The content discusses Complexity Thinking, focusing on organisational adaptation, emergence, system interdependencies, and alignment with Agile/Lean principles. However, there is no explicit or implicit mention of human-AI collaboration, distributed cognition involving AI, or team outcomes resulting from human-AI partnerships. The scope is exclusively about human teams and systems thinking—not about collective intelligence as defined (where both humans and AI agents actively collaborate). Audience and signal scores are higher given relevance to organisational, agile, and technical practitioners, but other scores are limited by lack of human-AI focus.",
     "reasoning_summary": "The content explores systems, emergence, and adaptability in organisations, but does not address human-AI collaboration or team outcomes involving AI agents, making fit with Collective Intelligence definitions low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Complexity Thinking",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 29.44,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.4,
+    "ai_depth": 3.1,
+    "ai_intent": 2.0,
+    "ai_audience": 7.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content is focused on Complexity Thinking in organizations, discussing emergence, systems thinking, and adaptability. While it mentions continuous feedback and aligns somewhat with agile delivery, there are no explicit references to agentic software delivery, autonomous AI agents, agentic practices, or the integration of human expertise and AI agents. It does not discuss modern engineering, governance of agents, or human-in-the-loop AI. The main intent is to illuminate complexity science for improving organizational adaptability, without delving into the agentic paradigm or technical integration of AI agents. The only partial relevance is in the mention of feedback loops and system health, which overlaps with some outcome-oriented delivery concepts.",
+    "reasoning_summary": "Content focuses on complexity science and systems thinking without mention of agentic software delivery or integration of AI agents. Partial overlap exists via feedback loops, but core agentic criteria are not addressed.",
     "level": "Ignored"
   }
 }

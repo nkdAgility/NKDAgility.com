@@ -1516,16 +1516,23 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "zqMzD1PXq4s",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:50:37",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of improving efficiency and quality in software delivery. However, it lacks direct mentions of the One Engineering System framework and does not provide in-depth discussion on its specific components or implementation strategies. The focus is more on general engineering practices rather than the integration and standardisation of processes across teams.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 44.66,
+    "ai_mentions": 0.6,
+    "ai_alignment": 5.2,
+    "ai_depth": 4.8,
+    "ai_intent": 4.6,
+    "ai_audience": 7.0,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content discusses optimising engineering systems, technical debt, leadership, and process improvements, with some relevant cases (e.g. Azure DevOps). However, it never explicitly references One Engineering System (1ES), nor does it discuss unified toolsets, frameworks, or the explicit principles/components of 1ES. The main ideas align in advocating optimisation and standardisation, but stay at the level of general engineering improvement and technical excellence, not the specific 'One Engineering System' category requirements. The Azure DevOps example is aligned with efficiency/standardisation but never frames it as a 1ES adoption or describes unified engineering frameworks across teams. Audience fit is high (technical leaders/engineers), and most content is relevant, but focus is too broad/generic for strong confidence in 1ES classification.",
+    "reasoning_summary": "Content focuses on optimising systems and technical leadership, which relates to themes of 1ES, but lacks explicit references or in-depth discussion of the One Engineering System framework, so the fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
@@ -2028,5 +2035,24 @@
     "reasoning": "The content focuses on reducing chaos in engineering by optimising systems, reducing technical debt, and promoting leadership and engineering excellence. While these are adjacent to Agentic Engineering, the discussion mainly centers on productivity, technical excellence, and team empowerment without explicit reference or substantial exploration of agency (human/AI), decentralised decision-making, or agentic frameworks. No direct mention of 'Agentic Engineering' or its core themes such as ethical AI collaboration, systemic observability, or intentional design to maximise human and AI agency. The audience (engineers, leaders) overlaps, and certain aspects like feedback loops (testing improvements) align loosely. However, the fit is partial and indirect.",
     "reasoning_summary": "The content discusses system optimisation, leadership, and reducing technical debt to improve engineering outcomes. While it shares similarities with Agentic Engineering—such as empowerment and feedback loops—it lacks direct exploration of agency or intentional design practices central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zqMzD1PXq4s",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 33.065,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.4,
+    "ai_intent": 4.3,
+    "ai_audience": 5.1,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on system optimisation, technical debt, leadership, and engineering excellence within software delivery. However, it never explicitly refers to the concept of Agentic Software Delivery or key topics such as the integration of autonomous AI agents, context-aware intelligence, agent/human synergy, governance of agents, or agentic governance frameworks. Modern engineering practices (testing, CI/CD) are mentioned, but only in a general context without agentic framing. The content targets technical leaders and practitioners (partial audience overlap), and is relevant but not specifically oriented toward the purpose or substance of Agentic Software Delivery. Signal is reasonably high since most is on-topic for general software improvement, but it lacks focus on agentic topics. Therefore, the confidence score is low, reflecting only a weak partial conceptual overlap (e.g., feedback loops, optimisation, delivery transformation) not unique to agentic principles.",
+    "reasoning_summary": "Content is about optimising engineering, technical debt, and leadership in software delivery, but does not mention or align with Agentic Software Delivery, AI agents, or autonomy concepts. Fit is weak and only tangential at best.",
+    "level": "Ignored"
   }
 }

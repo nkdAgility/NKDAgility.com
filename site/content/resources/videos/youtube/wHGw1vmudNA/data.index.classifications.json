@@ -1404,16 +1404,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "wHGw1vmudNA",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:31:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'agile' and 'scrum' in the context of conflict within organisations, but it does not focus on Scrum principles, roles, or practices. The discussion is more about organisational dynamics and conflict rather than specific Scrum concepts, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 56.85,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.5,
+    "ai_depth": 6.8,
+    "ai_intent": 7.1,
+    "ai_audience": 6.4,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content analyzes unmanaged conflict in agile teams and strategies to address it, focusing on collaboration, team dynamics, continuous improvement, and leadership—topics relevant within Scrum. However, there are no explicit mentions of Scrum, its roles, events, or artifacts. The piece targets agile teams and leaders, closely related to—but not exclusive to—Scrum practitioners. The discussion is in-depth on team conflict, communication, and organizational health, which strongly overlaps with Scrum but is presented in a general agile context, not anchored to the Scrum Guide or framework. It offers practical advice applicable to Scrum teams, yet the lack of direct Scrum references and a broad framing around 'agile' rather than 'Scrum' lowers the confidence.",
+    "reasoning_summary": "Content covers agile team conflict, collaboration, and improvement—areas relevant in Scrum—but uses general agile framing with no explicit Scrum language, roles, events, or artifacts, resulting in partial category fit.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",

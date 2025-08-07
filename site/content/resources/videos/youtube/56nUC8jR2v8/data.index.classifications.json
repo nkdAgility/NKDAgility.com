@@ -1400,15 +1400,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "56nUC8jR2v8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:53:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
+    "calculated_at": "2025-08-07T06:11:48",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
     "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility, without any direct mention or focus on the One Engineering System framework. While it touches on themes of collaboration and innovation, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices. The discussion is more about challenging existing methodologies rather than implementing a unified engineering system.",
+    "ai_intent": 2.5,
+    "ai_audience": 7.8,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on challenging Taylorist management and advocating for authentic agile practices, emphasizing autonomy and creativity. There is no direct mention or explicit discussion of the One Engineering System (1ES) framework, its principles, integration of tools/processes, or standardization. Conceptually, while it discusses anti-patterns in agility and hints at improving engineering culture, it does not connect these ideas to 1ES or comparable frameworks. The primary intent is to critique misapplied agile, not to propose, compare, or analyze systematized engineering tools or methodologies as in 1ES. The audience is mostly technical or agile-inclined practitioners, similar to 1ES, but all other dimensions reflect weak fit. There is no outdated content or negative framing against standardization per se, so no penalties apply.",
+    "reasoning_summary": "Content focuses on challenging Taylorism and agile anti-patterns, not One Engineering System. It lacks 1ES framework discussion, direct terminology, or tool/process integration themes. Only a minimal, tangential fit to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1917,5 +1924,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the term itself doesn’t appear, limiting the 'mentions' score. Conceptually, the content aligns well with themes of agency, autonomy, and opposing rigid, metrics-obsessed Taylorist models—core aspects of Agentic Engineering. There’s substantial exploration of developer autonomy, creativity, and cultural shifts necessary for true agility, which overlaps strongly with systemic agency in engineering but stops short of explicit references to DevOps, AI collaboration, or radical decentralisation. The depth is decent due to the critique of Taylorism and 'agile BS,' but technical specifics, observability, or explicit design of agentic systems are light or absent. Intent serves to advocate for humane, agency-driven approaches in software development, aligning reasonably well with the category's spirit. The audience—agile practitioners, change agents, technical community—matches. The signal is good: most of the content is focused on empowerment and critiquing anti-agency patterns. No evidence of outdatedness or undermining tone, so no penalty is applied. The confidence reflects strong conceptual fit, tempered by less explicit coverage.",
     "reasoning_summary": "While Agentic Engineering is not directly mentioned, the content compellingly critiques Taylorist thinking and advocates for autonomy, creativity, and true agility—key themes in agentic practice. It aligns with the category in spirit and intent, focusing on empowering individuals and challenging rigid, anti-agency approaches.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 22.45,
+    "ai_mentions": 0.45,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.3,
+    "ai_audience": 7.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content critiques Taylorist management and explores genuine agility, autonomy, and collaboration. While it discusses autonomy and anti-micromanagement, there are no references to autonomous AI agents, agentic delivery, contextual intelligence, or modern agent-based software practices. The themes overlap tangentially (autonomy, flexibility), but all discussions are strictly organizational/cultural, not about agentic technology, AI, or software delivery integrations. The audience (agile practitioners) partially matches, and the signal mostly remains within agile transformation, but lacks the technical, agentic focus required for this category.",
+    "reasoning_summary": "The content addresses agile culture and autonomy but does not mention agentic software, AI agents, or the technical integration central to this category. It only fits tangentially through discussion of autonomy and agile principles.",
+    "level": "Ignored"
   }
 }

@@ -1341,15 +1341,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "whKX9Mn1eb8",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:36:57",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the shift-left approach in software development, which includes elements of collaboration and team dynamics, particularly in the context of quality assurance. While it touches on collaboration and continuous improvement, the primary focus is on technical practices rather than the broader social frameworks of social technologies. The mention of enhanced collaboration and team morale indicates some alignment with social technologies, but the depth of discussion primarily revolves around technical implementation rather than the underlying social methodologies.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 68.34,
+    "ai_mentions": 3.5,
+    "ai_alignment": 7.2,
+    "ai_depth": 7.4,
+    "ai_intent": 7.0,
+    "ai_audience": 6.8,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The article discusses 'shift left' in software development, emphasizing early QA involvement, continuous feedback, collaboration, and continuous improvement. While these align well with Social Technologies, the explicit use of the term and deep exploration of social frameworks are moderate. It explores collaboration and team dynamics, but much of the content is oriented around process and QA outcomes rather than focusing solely on the underlying social methodologies. Recommendations support collaboration and continuous improvement, but examples are limited, and the discussion is not as comprehensive in terms of emergent problem-solving or organizational culture change as seen in canonical Social Technologies content. The article primarily targets practitioners, with references to Agile-adjacent practices.",
+    "reasoning_summary": "Content fits the category due to focus on early collaboration, continuous feedback, and team alignment—core elements of Social Technologies. However, the emphasis is QA-focused, so coverage of broader social frameworks is partial.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {
@@ -1948,5 +1955,24 @@
     "reasoning": "The content thoroughly discusses the shift-left approach in software development, emphasizing early QA integration, continuous feedback, collaboration, and automation—elements broadly resonant with Agentic Engineering. However, it never directly references Agentic Engineering, developer/machine agency, ethical AI, or systemic observability. The conceptual overlap is moderate: advocating team empowerment and feedback-driven change fits the category’s ethos, but philosophical aspects and AI-human agency are missing. Audience fit is strong (technical/practitioner). No distraction or off-topic sections present.",
     "reasoning_summary": "This content strongly aligns with promoting autonomy and continuous improvement in engineering teams, key principles in Agentic Engineering. However, while shift-left embodies relevant practices, it stops short of explicitly engaging with agency, AI, observability, or the deeper philosophy core to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "whKX9Mn1eb8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 23.947,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.4,
+    "ai_intent": 3.8,
+    "ai_audience": 7.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on the shift-left strategy within software quality assurance, prioritizing early involvement of QA, collaboration, automation, and continuous feedback. However, it does not reference, mention, or describe agentic principles such as autonomous AI agents, embedded contextual intelligence, or human-agent synergies. While it discusses automation and modern practices (which are enabling factors for agentic delivery), there is no direct or conceptual connection to Agentic Software Delivery as defined. The depth stays at traditional human/team process improvement. The audience overlaps (practitioners/teams in software engineering), but no alignment with the category's intent or core themes is found.",
+    "reasoning_summary": "This content discusses shift-left QA practices and early testing, not agentic software delivery or AI agent integration. No relevant concepts or intent match the defined category. Fit is very low and purely incidental.",
+    "level": "Ignored"
   }
 }

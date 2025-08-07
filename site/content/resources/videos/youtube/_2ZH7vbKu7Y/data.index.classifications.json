@@ -1225,15 +1225,22 @@
     "reasoning_summary": "This content broadly explores the value of ongoing learning within organisations but doesn’t specifically address Agile, Scrum, DevOps, or Lean methods. While it highlights adaptable mindsets and a learning culture, it lacks direct links to recognised frameworks or practical guidance. The general reflections and personal stories make it best suited to the Miscellaneous category, as it doesn’t fit established methodologies."
   },
   "DevOps": {
+    "resourceId": "_2ZH7vbKu7Y",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:31:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses training and continuous learning, which are relevant to DevOps principles, particularly in fostering a culture of improvement and collaboration. However, it lacks direct mentions of DevOps practices or principles, and the focus is more on general leadership and team development rather than specific DevOps methodologies or cultural shifts.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 39.99,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.6,
+    "ai_intent": 3.9,
+    "ai_audience": 4.7,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content focuses on training, continuous learning, psychological safety, experimentation, feedback, and organizational culture—concepts that do overlap with DevOps principles. It supports fostering continuous improvement, adaptation, and system thinking, which are adjacent to DevOps culture. However, the treatment is generic and not specific to DevOps; explicit references to DevOps principles, practices (e.g., continuous delivery, automation, cross-functional collaboration), or the technological/cultural shift central to DevOps are minimal or absent. DevOps is mentioned only at the end as a topic for further exploration, not substantially discussed. Audience targeting aligns to some extent (leaders, tech teams), but the signal-to-noise ratio suffers due to generic application. No penalties applied as content isn't outdated or critical.",
+    "reasoning_summary": "This article briefly invites readers to explore DevOps but primarily addresses general team learning and organizational culture. The fit is tangential: some concepts overlap, but direct relevance to DevOps is minimal and not deeply discussed.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -2011,5 +2018,24 @@
     "reasoning": "There are no direct mentions of 'Agentic Engineering' or its key terminology; the article centers on training, learning culture, and team morale. While some concepts overlap—such as feedback loops, safe-to-fail environments, system-level improvements, and fostering autonomy—the primary theme is not about deliberate engineering practices or maximizing human and AI agency. There is little on DevOps philosophy, systemic observability, or engineering-centric frameworks. Audience and signal are relatively high due to its relevance for technical leaders/practitioners and minimal filler.",
     "reasoning_summary": "The content aligns tangentially with Agentic Engineering through themes like team autonomy and system improvement but does not engage with core concepts such as engineering practice design or AI integration. It primarily addresses learning culture, not agentic engineering principles.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_2ZH7vbKu7Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 27.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 3.3,
+    "ai_audience": 7.2,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses extensively on training, continuous learning, team culture, and adaptability in software teams. While these topics may be preconditions for agentic delivery, there are no references to autonomous AI agents, agency, contextual intelligence, or their integration in delivery processes. Modern engineering and agentic frameworks are absent. The audience (leaders and team members in tech organizations) partially overlaps, and signal is reasonable, but conceptual and depth scores are low due to lack of alignment with core agentic software delivery topics.",
+    "reasoning_summary": "The content is focused on training and learning culture—not on AI agents, contextual intelligence, or delivery processes central to Agentic Software Delivery. Fit is minimal and only tangential at best.",
+    "level": "Ignored"
   }
 }

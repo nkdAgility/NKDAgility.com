@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "76mGfF0KoD0",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:09:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the role of a Scrum Master and the use of Agile Process Simulation workshops. While it briefly mentions DevOps in the conclusion, it does not delve into the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion is more centred on Scrum practices rather than the broader DevOps philosophy, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 13.7,
+    "ai_mentions": 1.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content nearly exclusively discusses the struggles of Scrum Masters and when to use Agile Process Simulation workshops. It is focused on Scrum team dynamics, coaching, empowerment, and facilitation within the Scrum framework. There is a single mention of 'DevOps' in the closing call-to-action, but none of the substantive discussion covers any DevOps principles, practices, or characteristics as defined by the category (e.g., automation, flow efficiency, shared accountability across dev/ops/security, observability). The intent, depth, and audience context relate to Scrum/Agile, not DevOps. Thus, the confidence for DevOps classification is very low.",
+    "reasoning_summary": "DevOps is mentioned only in a closing call-to-action without substantive discussion. All main topics, intent, and themes focus on Scrum or Agile coaching, not on DevOps principles or practices. Fit with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1985,5 +1992,24 @@
     "reasoning": "Direct explicit mentions of 'Agentic Engineering' or its terminology are nearly absent; however, the content indirectly aligns with key principles such as team empowerment, autonomy, and democratized process adoption. Discussions emphasize the Scrum Master's facilitative role and the team's agency to decide how they work, matching the concept of maximizing human agency. Depth is moderate: the content explores the workshop approach and the facilitation of reflective questioning, which fosters empowerment but doesn’t substantively explore engineering practices, AI augmentation, or advanced systemic observability. Intent and audience fit are strong for agile practitioners seeking to improve team agency, yet the conversation’s scope is mostly at the process- and team-dynamics level rather than systemic engineering decisions. While relevant to agentic principles, the discussion doesn’t explicitly address or deeply investigate 'Agentic Engineering' as a distinct engineering, technical, or philosophical practice.",
     "reasoning_summary": "The content supports team empowerment and Scrum as a democratic process, aligning with some agentic principles. However, it doesn't explicitly explore Agentic Engineering concepts or delve deeply into engineering practices, so its fit within the category is moderate but not strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "76mGfF0KoD0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 10.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 3.1,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers on supporting Scrum Masters via APS workshops, team collaboration, and agile coaching. There is no discussion of agentic software delivery, autonomous AI agents, contextual intelligence, or agent/human synergy. There are no explicit or conceptual references to agentic software delivery or its subtopics such as AI-integrated workflow, observability, autonomous decision-making, or governance frameworks for agents. The audience (Scrum Masters, agile teams, consultants) is somewhat adjacent but not directly in scope for 'Agentic Software Delivery.' The signal-to-noise ratio is low since the sole focus is on agile process facilitation, with no overlap with the agentic software paradigm.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category—there are no direct or conceptual references to autonomous AI agents or agentic delivery. It covers traditional agile coaching and workshops, not agent-driven delivery approaches.",
+    "level": "Ignored"
   }
 }

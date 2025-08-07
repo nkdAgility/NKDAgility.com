@@ -1389,15 +1389,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "MDpthtdJgNk",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:47:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban as a workflow optimization tool in creative industries, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of process improvement, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle, which are central to the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 9.84,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 1.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content discusses Kanban's use in creative industries, focusing on workflow visualization, WIP limits, and continuous improvement, but makes no mention of or conceptual alignment with Shift Left Strategy. It does not discuss integrating testing, security, compliance, or early issue detection—core tenets of Shift Left. The overall intent, examples, and audience alignment are for Kanban adoption in creative domains, not software development lifecycle improvements per Shift Left definition. Minimal surface overlap is present (such as discussing 'preventing overload' or 'early identification of bottlenecks'), but none directly connect to Shift Left. No penalties applied as content isn't outdated or undermining.",
+    "reasoning_summary": "The content focuses on Kanban workflow optimization for creative industries and contains no direct, conceptual, or practical relation to Shift Left Strategy. Any fit is coincidental and indirect; thus, confidence is extremely low.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1950,6 +1957,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on applying Kanban in creative industries, emphasizing workflow optimization, flexibility, and continuous improvement. While these aspects touch on autonomy and adapting processes—concepts related to agency—there is no direct mention of agentic engineering or systematic exploration of maximizing human or AI agency. Ethical AI, DevOps-infused craft, or explicit decision-making frameworks are absent. The main intent is to help creative professionals use Kanban, with some alignment to empowering individuals, but not to the depth or breadth required for the Agentic Engineering category.",
     "reasoning_summary": "This content discusses Kanban for creative workflows, touching on individual autonomy and continuous improvement but lacking explicit or deep treatment of agentic engineering principles or practices. Its main emphasis is practical Kanban adoption, not the philosophical design of agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MDpthtdJgNk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.6,
+    "ai_intent": 1.1,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused entirely on Kanban for creative industries, workflow optimization, and practical advice about process visualization, WIP limits, and continuous improvement. There are no mentions of Agentic Software Delivery or any of its core concepts (autonomous AI agents, contextual intelligence, agency, or human-agent synergy). While there are some agile/engineering ties, there's zero indication the content is about embedded intelligent systems, agentic designs, or the evolution toward outcome-focused agent-driven delivery. All discussion remains at the level of human-driven tools, not system agency.",
+    "reasoning_summary": "This piece does not fit the Agentic Software Delivery category. It covers Kanban for creatives and workflow optimization, but offers no mention or exploration of agentic, AI, or autonomous software delivery themes.",
     "level": "Ignored"
   }
 }

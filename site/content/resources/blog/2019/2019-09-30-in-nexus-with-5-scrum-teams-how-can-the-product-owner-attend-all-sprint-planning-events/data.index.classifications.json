@@ -1081,15 +1081,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "As4R5dKsJtU",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:29:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in managing multiple Scrum teams and does not address Test First Development principles, success criteria, or testing practices. It focuses on Scrum processes rather than the Test First approach.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 6.07,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.5,
+    "ai_audience": 0.7,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on the challenges of a Product Owner attending Sprint Planning across multiple Scrum teams in a Nexus framework. There are no direct mentions or even indirect references to Test First Development, test criteria, automated or manual test-first practices, nor any principles or concepts unique to a Test First approach. The themes, purpose, and examples are centered on role delegation, backlog ownership, and communication structures in Agile at scale. The audience overlaps somewhat (Agile, Scrum practitioners) but the topic itself is not at all aligned with Test First Development.",
+    "reasoning_summary": "No link to Test First Development. The content centers on Product Owner attendance and delegation in Nexus, not test-first principles, practices, or outcomes. Not a fit for the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1998,6 +2005,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses on delegation, team structure, and communication for Product Owners managing multi-team Sprint Planning within Nexus. While some concepts, such as autonomy and flattening hierarchy, hint at agency, the discussion remains primarily on product management logistics using example structures in Azure DevOps. There is no explicit mention of engineering practices to maximise human or AI agency, nor deep conceptual exploration of engineering autonomy or feedback-driven adaptation. The perspective is pragmatic and tool/process-oriented, not philosophical or rooted in Agentic Engineering, but the audience (Scrum practitioners) and brief references to autonomy provide marginal conceptual overlap.",
     "reasoning_summary": "This content addresses process delegation and communication for Product Owners in large-scale Scrum (Nexus) settings. While it briefly discusses autonomy and team structure, it doesn't meaningfully engage with Agentic Engineering concepts, keeping its focus on pragmatic Scrum practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "As4R5dKsJtU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 17.705,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.4,
+    "ai_intent": 2.3,
+    "ai_audience": 7.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on scaling Product Owner participation across multiple Scrum teams in Nexus. It discusses delegation, role variants (Area Owner, Team Owner), and communication, but never references autonomous AI agents or agentic principles. The discussion remains anchored in human role management, not in embedding proactive, context-aware intelligence or hybrid AI-human systems. There’s no exploration of AI agency, agent/telemetry integration, or outcome-driven automation. The audience fit is fairly high, as the content is relevant to technical process practitioners, but all other dimensions—mentions, alignment, depth, intent, signal—score very low as they do not reference or develop agentic software delivery concepts.",
+    "reasoning_summary": "This content is about optimizing human Product Owner participation in scaled Scrum (Nexus) and does not reference, align with, or advance ideas of agentic software delivery or AI agent integration.",
     "level": "Ignored"
   }
 }

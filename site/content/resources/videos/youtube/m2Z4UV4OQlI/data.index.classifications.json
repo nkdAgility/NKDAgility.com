@@ -503,17 +503,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "m2Z4UV4OQlI",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:52:06",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the importance of metrics and transparency in decision-making, which aligns well with the principles of empirical process control. It highlights the need for data-driven decisions and the iterative adjustment of strategies based on observed evidence. The mention of real-world examples, such as Microsoft's stack ranking, illustrates the negative consequences of poor metrics, reinforcing the need for effective inspection and adaptation. However, while the content is focused on PAL-EBM, it does not delve deeply into the broader implications of empirical process control across Agile methodologies, which slightly limits its depth.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the category as it emphasises the value of metrics and transparency in guiding decisions, which are core aspects of empirical process control. By referencing real-world examples, it effectively demonstrates the impact of measurement on outcomes. However, its focus is mainly on PAL-EBM, so it doesn’t fully explore empirical process control across all Agile practices."
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 84.84,
+    "ai_mentions": 7.8,
+    "ai_alignment": 9.6,
+    "ai_depth": 8.8,
+    "ai_intent": 9.1,
+    "ai_audience": 8.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 85.0,
+    "reasoning": "The content deeply discusses evidence-based metrics (EBM), transparency, data-driven decision-making, and iterative adjustment—core to empirical process control. PAL-EBM is directly related, and examples illustrate inspection/adaptation (e.g., stack ranking critique, leader feedback). While 'empirical process control' isn't always named explicitly, its principles, practices, and values form the direct focus, particularly through the lens of Agile leadership. Audience targeting (leaders, Scrum Masters, Product Owners, CEOs) is strong but slightly broader than only practitioners, hence a non-maximal audience score. The discussion is focused with relevant, practical scenarios and little extraneous detail. No penalties are warranted—content is current and correctly framed.",
+    "reasoning_summary": "Content strongly aligns with empirical process control topics—transparency, metrics, adaptation, and evidence-based decision-making in Agile contexts—especially via PAL-EBM. The thematic fit is direct, substantive, and highly relevant for the category.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2009,5 +2015,24 @@
     "reasoning": "The content directly promotes the PAL-EBM class and focuses on evidence-based metrics, transparency, and the impact of measurement on organisational behaviour. There are indirect connections to Agentic Engineering, mainly in emphasizing transparency, data-driven decision-making, empowerment for leaders, and iterative adaptation. However, it lacks direct mention of Agentic Engineering or explicit invocation of developer/AI agency, decentralised decision-making, or ethical AI integration. The main focus is on leadership, metrics, and organisational learning rather than deliberate design for maximising human and AI agency. The audience is a strong fit (leaders, managers), and while signal-to-noise is fairly high, the coverage does not deeply engage with core Agentic Engineering philosophical or practical hallmarks.",
     "reasoning_summary": "The content aligns partially with Agentic Engineering by discussing transparency, feedback loops, and adaptive metrics, but its main intent is to promote evidence-based management for leaders rather than deliberate engineering for agency. The fit is indirect and more leadership/process-focused than agentic.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "m2Z4UV4OQlI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 19.65,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.75,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 5.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses exclusively on evidence-based metrics (PAL-EBM) for leadership and organisational effectiveness, without mentioning agentic software delivery, autonomous AI agents, or synergies between AI and human expertise. There are no explicit or implicit references to context-aware intelligence, agentic integration, governance frameworks for agents, or any engineering practices unique to agentic delivery. The audience—organizational leaders and Scrum practitioners—somewhat overlaps, but the main topics are leadership, measurement, and empirical management, not agentic systems. Discussion depth remains within metric effectiveness and cultural change, not technical or agentic. Overall, fit is minimal and largely tangential.",
+    "reasoning_summary": "Content is about leadership and evidence-based metrics; it does not discuss agentic software delivery, AI agency, or the required integration with software engineering, so fit is poor and at best tangential.",
+    "level": "Ignored"
   }
 }

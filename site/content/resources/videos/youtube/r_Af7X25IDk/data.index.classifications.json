@@ -929,15 +929,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:26:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile leadership and organisational change without directly addressing Test First Development principles. While it touches on concepts like continuous improvement and value delivery, it lacks explicit references to success criteria, testing practices, or the Test First approach, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 14.24,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content does not directly address Test First Development or any of its core concepts. There are no explicit mentions or relevant terminology (e.g., success criteria before implementation, TDD, ATDD, automated/manual testing as design or feedback practices). The discussion is centered on Agile transformation, empowerment, value delivery, team collaboration, and continuous improvement at a general level. While some peripheral topics (technical excellence, measuring outcomes) could intersect with environments where Test First is practiced, the content itself makes no substantive or implicit link to the principles or mechanics of Test First Development. The audience (Agile practitioners, leaders) partially overlaps, but the content's purpose, examples, and focus are not aligned with the category.",
+    "reasoning_summary": "This content is about Agile transformation, not Test First Development. There are no direct or meaningful references to Test First principles, practices, or approaches. The fit is minimal and incidental due to general Agile overlap.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -2005,5 +2012,24 @@
     "reasoning": "Direct use of 'Agentic Engineering' is absent, leading to a very low score for mentions. However, the content aligns conceptually with many key aspects—team empowerment, autonomy, continuous improvement, and value delivery—all strongly resonating with the core of Agentic Engineering but without explicit ties to system observability or deliberate human/AI agency. The discussion is practical and moderately deep, with repeated focus on autonomy and meaningful collaboration. The audience is practitioners and leaders, aligned with the category, and most sections are relevant, maintaining a strong signal-to-noise ratio. There are no penalties for outdated or contradictory content.",
     "reasoning_summary": "The content extensively covers themes such as team autonomy, value-driven product development, and continuous improvement, which conceptually overlap with Agentic Engineering. However, it lacks explicit reference or in-depth discussion of agentic frameworks, resulting in moderately strong but not definitive alignment.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "r_Af7X25IDk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 14.235,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused on Agile transformation, empowerment, and continuous improvement, with notable reference to team autonomy, leadership, and value delivery. However, there are no direct mentions or substantial discussion of autonomous AI agents or agentic delivery. There is no reference to agent-based architectures, contextual intelligence, human-agent collaboration, or governance practices for AI agents. The main themes (Agile leadership, cultural change, value focus, team disciplines) are not specific to agentic software delivery nor modern agentic practices. The content may be of tangential interest to audiences working in agentic delivery but lacks explicit conceptual alignment.",
+    "reasoning_summary": "This content focuses on Agile transformation and team empowerment, not on integrating autonomous AI agents or agentic software delivery concepts. Little alignment exists with the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

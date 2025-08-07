@@ -1456,15 +1456,22 @@
     "level": "Ignored"
   },
   "GitHub": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "GitHub",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 6.71,
     "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses architectural adaptation in software development without any direct mention of GitHub or its services. While it touches on themes relevant to software development practices, it does not align with GitHub's functionalities or methodologies, nor does it provide any specific insights into GitHub tools or collaboration features.",
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.4,
+    "ai_audience": 1.6,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on architectural adaptation and cultural approaches in software development, with no mention of GitHub, its tools, or related methodologies. While there is brief reference to DevOps (Azure DevOps specifically), this lacks any GitHub context. The audience is technical, but the topic, depth, and alignment do not fit the GitHub category per the strict definition provided.",
+    "reasoning_summary": "No direct mention or discussion of GitHub, its services, or practices. Content is about architectural adaptation and team culture, not GitHub-specific methodologies. Does not fit the GitHub category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1889,5 +1896,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' or its synonyms is absent, reflected in a low mentions score. The content aligns with some core Agentic Engineering principles: fostering adaptability, team investment, continuous improvement, and architectural health. However, it does not directly explore maximizing agency—human or AI—nor does it specifically discuss autonomy, decentralization, or ethical AI integration. Examples given, such as the Azure DevOps team's long-term transformation, resonate with DevOps ethos and incremental change, both tangential to agentic practices. The audience is technical and the discussion is focused, but the philosophical aspects (systemic observability, developer and AI agency, ethical frameworks) are only lightly implied rather than explicitly examined.",
     "reasoning_summary": "This content touches on Agentic Engineering themes like adaptability, team investment, and continuous improvement within architectural change. However, it stops short of explicitly addressing human or AI agency, ethical autonomy, or decentralization, making its fit with Agentic Engineering moderate rather than strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PNLCxB2zmUA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 23.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.4,
+    "ai_intent": 2.0,
+    "ai_audience": 6.05,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content primarily discusses architectural adaptation, incremental change, and adaptability culture in software delivery. It mentions modern DevOps practices (Azure DevOps example), but there are no direct or indirect references to agentic concepts: autonomous AI agents, agency, AI-human synergy, or governance of agent-powered workflows. The topic, while relevant to progressive delivery approaches, never addresses proactive, context-aware automation, agent orchestration, or agency in software systems. The main audience (technical leaders, dev teams) is aligned, and the content is focused with little off-topic material. However, conceptual and depth alignment with 'Agentic Software Delivery' is minimal; the content is about adaptive teams and modern architecture, not agentic delivery.",
+    "reasoning_summary": "The content details architectural and team adaptation without mentioning AI agents, agency, or agentic principles. Intent and themes only partially align; there’s no substantial fit to the category beyond general modern delivery relevance.",
+    "level": "Ignored"
   }
 }

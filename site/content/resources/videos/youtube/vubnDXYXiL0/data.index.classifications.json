@@ -1471,16 +1471,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "vubnDXYXiL0",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:27:57",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on scaling Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on concepts like adaptability and alignment, these are framed within the context of Scrum practices rather than the intentional shaping of outcomes through agency. The discussion lacks depth regarding the distinction between human and AI capabilities, and it does not explore the transformative capacity of individuals or systems in a socio-technical environment.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 41.35,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.1,
+    "ai_intent": 5.2,
+    "ai_audience": 5.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content mainly addresses how to scale Scrum, focusing on tailoring frameworks, dependency management, and iterative improvement. While it touches on adaptation, mindset evolution, and the need for teams to learn and adjust practices, it does not explicitly mention 'Agentic Agility' or discuss the concept of agency, intentional, adaptive action, autonomy, or accountability as defined in the category. The discussion of customizing frameworks, adaptability, and culture change aligns modestly with the spirit of agentic action but lacks explicit or thorough coverage of agency within Scrum or DevOps. There is no clear contrast between human and AI agency, no mention of double-loop learning, and no strategies specifically for cultivating agency. Intent is somewhat aligned since the article is about evolving and adapting frameworks, but the focus is process scaling, not agentic topics. The content is largely relevant for Agile practitioners, but not specifically targeting those interested in agency. Signal-to-noise is decent, as the content is focused. No penalties were appropriate as the tone is neutral, and nothing outdated or satirical is present.",
+    "reasoning_summary": "Content emphasizes process adaptation and mindset in scaling Scrum, but lacks explicit discussion of agency or agentic agility. Fit with category is partial and indirect, with most themes focused on frameworks rather than agentic concepts.",
+    "level": "Tertiary"
   },
   "Product Development": {
     "category": "Product Development",
@@ -1974,6 +1981,25 @@
     "final_score": 30.0,
     "reasoning": "The content centers on practical guidance for scaling Scrum through tailored frameworks, dependency management, and iterative improvement. While these areas could theoretically intersect with Agentic Engineering, the text never directly mentions or explores the philosophical aspects of maximizing agency for humans or AI. Key Agentic Engineering topics—such as developer autonomy, ethical AI, and decision-making decentralization—are absent. The focus stays largely on Scrum practices and organizational alignment. There is minimal overlap in intent or conceptual depth with Agentic Engineering as defined.",
     "reasoning_summary": "The content addresses practical scaling of Scrum, focusing on frameworks, iteration, and organizational alignment—but does not explore agency, ethical AI, or decision-making decentralization central to Agentic Engineering. Overall, relevance to the category is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vubnDXYXiL0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 11.583,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.8,
+    "ai_audience": 2.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "There are no direct references to agentic software delivery, autonomous AI agents, or the integration of contextual intelligence within delivery processes. The discussion is focused entirely on scaling Scrum via frameworks (like Nexus), practices, mindset, and dependency management, without any mention of AI, agents, or supporting agency. Although the topic is about software delivery at scale and touches on iterative improvement, alignment, and feedback loops (which are *also* themes in agentic delivery), the framing, intent, and substance are traditional Scrum/agile scaling without agentic principles. The audience (Scrum/agile practitioners and organizational change agents) mildly overlaps, but no topics uniquely specific to agentic software delivery appear.",
+    "reasoning_summary": "Content is about scaling Scrum through frameworks, dependency management, and iterative improvement, with no mention of AI agents or agentic principles; not a fit for Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

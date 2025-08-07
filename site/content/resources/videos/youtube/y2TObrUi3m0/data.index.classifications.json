@@ -1387,16 +1387,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "y2TObrUi3m0",
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:42",
-    "ai_confidence": 52.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 50,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Agile principles, which are relevant to Scrum, but it does not explicitly focus on Scrum roles, events, or artifacts. While it touches on the importance of principles in Agile, it lacks detailed discussion on Scrum-specific practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:53",
+    "ai_confidence": 37.64,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.3,
+    "ai_intent": 3.9,
+    "ai_audience": 6.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "Scrum is mentioned once superficially, alongside other topics such as DevOps and Agile. The content foregrounds Agile principles generically, not Scrum-specific roles, events, or artifacts. The main themes—adaptability, collaboration, and continuous improvement—align more with overarching Agile philosophy than with the Scrum framework itself. The depth of discussion around Scrum is minimal, with no exploration of Scrum roles, ceremonies, or artifacts. Audience and signal scores are higher since Scrum practitioners are among the target readers, and discussion of continuous improvement is somewhat relevant. However, most content is contextually about Agile in general and does not significantly explore or advance knowledge of Scrum specifically.",
+    "reasoning_summary": "The content is focused on Agile principles, not Scrum. Scrum is mentioned only in passing, with no substantive discussion of its practices or framework. The fit to the 'Scrum' category is partial and indirect at best.",
+    "level": "Ignored"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1962,5 +1969,24 @@
     "reasoning": "The content explicitly advocates focusing on Agile principles over tools, emphasizing adaptability, reflection, decision-making frameworks, and continuous improvement. It mentions decision-making frameworks and value-driven principles (which overlap with Agentic Engineering), but does not directly reference the category or its specialized topics—such as maximizing human/AI agency, ethical AI integration, or systemic observability. The depth is moderate: it explains why principles outweigh tools but remains Agile-centric without extending fully into deliberate engineering of autonomy or agentic systems. The audience (coaches, practitioners) is appropriate for Agentic Engineering concepts, and the signal is strong as content is focused and avoids filler. However, because tool-philosophy and principles are described in general Agile terms and not in the unique context or language of Agentic Engineering, alignment and depth are solid but not high, and the direct reference score is quite low.",
     "reasoning_summary": "The content centers on Agile principles as decision-making frameworks, moderately aligning with Agentic Engineering through its emphasis on autonomy, adaptability, and reflective practice. However, it stops short of discussing maximized agency, ethical AI, or systemic engineering, resulting in only partial confidence for the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "y2TObrUi3m0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 17.49,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 5.4,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on Agile principles versus tool reliance, with no mention of agentic delivery or AI agents. It aligns somewhat via advocacy for adaptability/context, but lacks concrete reference to intelligent systems, autonomy, or agent-human synergy central to Agentic Software Delivery. The discussion is about mindsets and coaching, not technical integration or governance of agents. Audience overlaps with practitioners in modern delivery but does not address those implementing agentic approaches.",
+    "reasoning_summary": "Content discusses Agile principles, not Agentic Software Delivery concepts. No mention of AI agents or autonomous systems. Overlap is indirect—fit is minimal and primarily at the level of general adaptability, not agentic specifics.",
+    "level": "Ignored"
   }
 }

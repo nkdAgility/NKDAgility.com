@@ -1314,16 +1314,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "FquWl26Uc8Y",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:03:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on technical debt and code quality, with limited discussion on social technologies or collaboration. While it mentions fostering a culture of collaboration through code reviews, this is a secondary aspect rather than a primary focus. The depth of discussion on social frameworks is minimal, and the content does not explore self-organisation or collective intelligence, which are key themes in the Social Technologies category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 51.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.9,
+    "ai_intent": 5.6,
+    "ai_audience": 7.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "The content centers on practical strategies (e.g., code reviews, testing, refactoring) to address technical debt and bad code. There is some overlap with social technologies, notably via code reviews and fostering collaboration, but discussion is mainly technical quality, not organisational frameworks or emergent collective intelligence. The points on team collaboration are present but not deeply developed—the main theme is competency and code quality rather than optimising value delivery through adaptive social processes. The audience matches (software teams), and the content is mostly relevant, but explicit discussion of Agile, self-organisation, or organisational improvement practices is limited. No penalties applied.",
+    "reasoning_summary": "Some relevant elements (team collaboration, code reviews), but focus is on code quality and technical debt, not on frameworks or principles central to Social Technologies. Partial fit; content only tangentially addresses the category's intent.",
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1918,6 +1925,25 @@
     "final_score": 36.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' or related terminology are absent—the content never discusses agency, decentralisation, observability, or AI collaboration. The narrative revolves around technical debt, code quality, and practical team habits such as code reviews, automated testing, and refactoring. While these are essential engineering themes, the discussion doesn't frame them as mechanisms for maximizing human or AI agency, nor does it connect them to philosophical or systemic concepts indicated in Agentic Engineering. The focus remains at a practical, team- and developer-level, without exploring systemic autonomy, feedback-driven adaptation, or decision-making frameworks. The audience (developers and teams) partly matches, but the thematic focus is on responsibility and craft, not agentic design, so signal-to-noise is moderate.",
     "reasoning_summary": "The content focuses on technical debt, code quality, and practical engineering habits. While it's relevant for developers, it does not address agentic practices, decentralisation, or human/AI agency, so alignment with Agentic Engineering is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FquWl26Uc8Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 17.914,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on technical debt, code quality, and strategies like code reviews, automated testing, and refactoring. There are no explicit or implied discussions of agentic principles, autonomous AI agents, or their integration with human expertise and organisational context. While modern engineering practices (like automated testing) are mentioned, these references are not in an agentic or AI-augmented delivery context but rather in traditional best practices. The audience is development practitioners, but the alignment with agentic software delivery is minimal and indirect. There is no reference to AI agency, context-aware systems, or feedback loops involving autonomous agents. The fit is marginal and mostly coincidental regarding some engineering practices.",
+    "reasoning_summary": "The content does not address agentic delivery or AI integration. It focuses on traditional code quality and technical debt management, making any fit with 'Agentic Software Delivery' minimal and incidental.",
     "level": "Ignored"
   }
 }

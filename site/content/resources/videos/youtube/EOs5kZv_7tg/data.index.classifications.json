@@ -1407,16 +1407,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "EOs5kZv_7tg",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T22:51:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Agile and Scrum in the context of a teacher's experience and enthusiasm for the Professional Agile Leadership class. However, it lacks a detailed discussion of Scrum principles, roles, or practices, which are essential for a higher confidence score. The focus is more on the teacher's qualities and the general concept of Agile rather than a deep dive into Scrum itself.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 43.32,
+    "ai_mentions": 2.3,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.6,
+    "ai_intent": 4.5,
+    "ai_audience": 6.1,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content is primarily focused on Professional Agile Leadership (PAL), not Scrum itself. Scrum is briefly mentioned as a course topic alongside Agile and DevOps, but is not discussed in detail. The content does not explicitly address the Scrum framework, roles, or events, nor does it detail Scrum-specific practices, principles, or challenges. Its intent is to praise an instructor and promote Agile/pal training with a passing mention that Scrum may be included. While the audience overlaps (leaders and strategists in Agile fields, potentially relevant for Scrum adoption), the focus and depth are not Scrum-specific. Signal-to-noise is moderate due to limited direct relevance to Scrum.",
+    "reasoning_summary": "Content focuses on Agile leadership and PAL courses, with only brief mention of Scrum as a secondary topic. Lacks Scrum-specific depth, detail, and framework discussion, making the fit partial and indirect.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1977,6 +1984,25 @@
     "final_score": 16.0,
     "reasoning": "The content spotlights Johanna's teaching approach for an Agile leadership course, focusing on passion, engagement, and transformative conversations in leadership training. While it references Agile, Scrum, Lean, and DevOps in passing, it does not discuss engineering practices, systemic observability, developer agency, or any philosophical or structural components that define Agentic Engineering. The core themes center on effective teaching, audience composition, and growth in agile leadership, not the deliberate design of workflows that maximize human or AI agency. No explicit or implicit references to agentic principles, systemic feedback loops, or ethical AI integration exist. The intended audience overlaps somewhat (leaders/decision-makers) but the focus remains instructional, not agentically philosophical or engineering-centric. Penalties not applied, as the tone and currency of the material are appropriate.",
     "reasoning_summary": "This content emphasizes engaging teaching and leadership development within Agile but does not address the principles or frameworks of Agentic Engineering. While it references related domains, it lacks substantive alignment with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 8.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.8,
+    "ai_audience": 2.3,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on Johanna's teaching style in Agile Leadership courses and her engagement with strategic audiences. It highlights her passion, experience, and ability to facilitate transformation via agile concepts. However, the text does not mention or address any aspect of agentic software delivery, autonomous AI agents, contextual intelligence, or their integration with human expertise in software delivery. The content is about agile leadership education, not software delivery mechanisms involving agentic principles, making any alignment only tangential at best. There is no discussion of AI, agency, modern engineering practices, or feedback loops tied to agentic delivery.",
+    "reasoning_summary": "Content discusses agile leadership training but contains no references to agentic software delivery or autonomous AI agents. Its alignment with the category is minimal and purely tangential. The fit is highly unclear and indirect.",
     "level": "Ignored"
   }
 }

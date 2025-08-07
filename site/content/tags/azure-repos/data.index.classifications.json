@@ -156,15 +156,22 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Azure Repos",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Azure Repos as a source control service, with a focus on collaboration and integration within the development lifecycle. While it touches on themes of discipline in terms of maintaining code quality and fostering accountability, it does not explicitly address the concept of discipline itself. The discussion is more centred on technical features and benefits rather than a deep exploration of discipline as a core theme.",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 34.35,
+    "ai_mentions": 1.7,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 2.6,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content primarily describes Azure Repos as a tool for source control management within Azure DevOps, focusing on features, integration, and benefits for collaboration and development workflows. While it uses phrasing such as 'aligns with agile principles' and mentions systemic approaches, these are broad references and do not deeply discuss Discipline as defined—there is no thorough treatment of codified knowledge, structure, or evolution of work systems as disciplines. The target audience is practitioners seeking to use a tool, not stakeholders examining the maturation or governance of Agile or DevOps as disciplines. As such, there are minimal explicit mentions, weak alignment to the category, and shallow exploration of discipline as a field.",
+    "reasoning_summary": "Content centers on a source control tool—not on the systemic principles, maturation, or structures that define a discipline. Contains surface-level, tangential references at best. Only partial and indirect fit to the assigned category.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -3106,6 +3113,25 @@
     "final_score": 17.0,
     "reasoning": "The content describes Azure Repos as a modern source control system that supports collaboration among human team members. However, there is no mention or exploration of AI involvement, human-AI partnership, or collective intelligence as defined by the category. Collaboration discussed is exclusively human, with no reference to distributed cognition with AI, AI agent design, or decision-making frameworks leveraging both human and AI capabilities. The audience is generally aligned with technical practitioners, but since the main collaborative theme is human-only, not human-AI, the alignment, depth, and mentions are all scored low, and the confidence reflects marginal association at best.",
     "reasoning_summary": "This content centers exclusively on human collaboration in source control using Azure Repos. It does not address human-AI collaboration or collective intelligence as defined by the category, resulting in very low alignment and confidence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Azure Repos",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 16.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses Azure Repos as a modern source control tool within Azure DevOps. While it references practices like CI/CD and mentions collaboration and adaptability, there are no direct or indirect references to agentic AI, autonomous agents, or contextual intelligence. The focus is on traditional source control and DevOps workflows, with no elements of agentic software delivery, proactive AI integration, or human-AI synergy. Therefore, alignment and depth regarding the category are very weak, with no penalties applied.",
+    "reasoning_summary": "The content centers on source control and DevOps, not agentic AI or software delivery with autonomous agents. Minimal conceptual overlap; does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

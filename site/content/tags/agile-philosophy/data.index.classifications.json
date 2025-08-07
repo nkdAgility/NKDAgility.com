@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Agile Philosophy",
     "category": "Framework",
-    "calculated_at": "2025-04-09T16:39:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile as a philosophy rather than focusing on specific frameworks or their implementation. While it touches on concepts relevant to Agile frameworks, such as flexibility and collaboration, it does not provide detailed discussions on any particular framework or their application in organisational contexts, which is essential for a higher confidence score in the 'Framework' category.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 27.065,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 3.0,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on Agile philosophy as an overarching mindset rather than on frameworks or structured methodologies. Frameworks such as Scrum and Kanban are briefly referenced but only to state that Agile philosophy transcends them. There is no substantive exploration of framework mechanics, adaptation, or comparison, and the main purpose is to elucidate principles of Agile as a philosophy, not as a set of practices or guidelines found within frameworks. This makes the content only tangentially aligned with the Framework category, with minimal direct references and little alignment in depth, intent, or direct audience targeting. The discussion stays at a meta-level rather than providing informative support for framework topics.",
+    "reasoning_summary": "This content centers on Agile philosophy as a mindset, not as a framework or structured methodology. References to frameworks are minimal and in contrast to the main focus, resulting in only a partial and weak fit with the Framework category.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3118,6 +3125,25 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Agile philosophy, focusing on flexibility, collaboration, and continuous improvement in organizations and teams. While it highlights cross-functional collaboration and adaptability, there is no direct mention of human-AI partnerships, AI agents, or distributed cognition involving non-human participants. The collaborative elements are entirely human-centric, lacking discussion or even tangential reference to collective intelligence as defined by human-AI teaming or enhanced socio-technical cognition. Audience targeting matches practitioners interested in team effectiveness, but the main ideas, depth, and explicit mention are far from the specific focus of the 'Collective Intelligence' category.",
     "reasoning_summary": "The content centers on human teamwork within Agile philosophy, without addressing human-AI collaboration or the enhanced socio-technical capacities required for collective intelligence. It does not align with the Collective Intelligence category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Philosophy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 22.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 5.9,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is about Agile philosophy—values, customer focus, team dynamics, adaptability—and does not mention or allude to autonomous AI agents, agentic practices, or their intelligent integration in software delivery. No discussion of agency, agentic system architectures, or modern engineering for agentic delivery. Content remains broadly relevant to software teams and value delivery, slightly aligning by focusing on adaptability and customer centricity. However, core themes of Agentic Software Delivery are absent.",
+    "reasoning_summary": "This content discusses traditional Agile values and philosophy without referencing agentic AI, autonomous systems, or context-intelligent delivery. Fit with 'Agentic Software Delivery' is minimal; general alignment is weak and indirect.",
     "level": "Ignored"
   }
 }

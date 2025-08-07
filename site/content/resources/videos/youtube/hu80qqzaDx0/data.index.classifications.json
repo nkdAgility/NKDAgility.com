@@ -1147,15 +1147,22 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "hu80qqzaDx0",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T14:45:05",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the influence of measurement on behaviour within teams, which aligns with the principles of systems thinking and organisational dynamics. However, while it touches on organisational culture and team dynamics, it does not explicitly delve into systems thinking or the broader organisational structures and processes. The depth of discussion on how metrics affect collaboration and engagement is substantial, but it lacks a comprehensive exploration of organisational physics as a whole.",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 74.95,
+    "ai_mentions": 1.3,
+    "ai_alignment": 8.2,
+    "ai_depth": 7.7,
+    "ai_intent": 8.0,
+    "ai_audience": 7.4,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 75.0,
+    "reasoning": "The content examines how performance metrics affect team behaviour, motivation, and organisational culture—bridging themes of feedback loops, system incentives, and cultural artifacts. It aligns with organisational dynamics and exhibits some systems thinking by addressing how structures (metrics, incentives) shape collective outcomes. However, direct reference to 'Organisational Physics' or systems thinking principles by name is missing, and the discussion is primarily from a practitioner perspective without deep theoretical mapping or explicit systems analysis. The target audience (leaders, managers interested in engagement/culture metrics) matches reasonably well, and most content is on-topic, but not all themes are probed in depth. No penalties applied.",
+    "reasoning_summary": "The piece aligns conceptually with Organisational Physics by exploring how measurement systems shape team behaviour and culture, reflecting key systems and dynamics, but lacks explicit systems thinking terminology and deep theoretical exploration. Partial fit.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1954,5 +1961,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' or its terminology are absent, with no mention of maximizing human or AI agency or deliberate engineering practices. The piece focuses on how performance metrics affect engagement and collaboration, touching lightly on transparency and cultural alignment. Conceptually, it shares overlap with themes of agency at a behavioural level and organizational culture, but does not address system design, feedback-driven engineering, or DevOps/AI elements critical to the category. No obsolete practices or undermining tone are present, so no penalties applied.",
     "reasoning_summary": "The content broadly discusses how performance measurement influences team engagement but does not connect to the deliberate engineering of human or AI agency. It loosely aligns with some agency-related ideas, though it lacks the systemic, engineering, or AI depth required for Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hu80qqzaDx0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 16.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 4.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on how measurement affects team engagement and collaboration, emphasizing organisational culture and metrics. There are no direct mentions or exploration of autonomous AI agents, agentic integration, or modern engineering practices essential to Agentic Software Delivery. Main themes relate to human factors and incentives, not agentic systems. While the message about 'focus on outcomes' has some conceptual tangency with outcome-based approaches seen in agentic delivery, there is no reference to humans and AI collaborating, agentic architectures, or software delivery automation. The audience appears to be practitioners interested in team effectiveness, not specifically agentic software solutions.",
+    "reasoning_summary": "This content is not about Agentic Software Delivery; it covers team metrics and engagement without any reference to AI agents, agency, or related systems. Fit with the category is low and, at best, tangential.",
+    "level": "Ignored"
   }
 }

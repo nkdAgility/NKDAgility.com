@@ -327,15 +327,22 @@
     "level": "Tertiary"
   },
   "Coaching": {
+    "resourceId": "8vu-AXJwwYk",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T01:57:34",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 32.33,
+    "ai_mentions": 2.2,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.1,
+    "ai_intent": 3.5,
+    "ai_audience": 4.0,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 32.0,
-    "reasoning": "The content discusses the role of a consultant and contrasts it with coaching, but the primary focus is on consulting rather than coaching. While it touches on themes relevant to coaching, such as fostering change and addressing organisational issues, it does not delve deeply into coaching techniques or the supportive nature of coaching. The mention of coaching is brief and secondary to the main topic of consulting.",
+    "reasoning": "The content focuses primarily on the role and value of consultants rather than coaching. Coaching is directly mentioned but mostly to contrast it with consulting. The main discussion, examples, and advice are about consulting activities: diagnosing problems, making recommendations, and enabling rapid change. While coaching is referenced as a comparison point, its techniques, purposes, or practices are not explored in depth. The content's intent and value proposition are consultant-centric, and most of the audience targeting, practical examples, and actionable advice relate to consulting, not coaching. There is minor overlap in themes (organizational change, creating impact) but not enough to align with the Coaching category.",
+    "reasoning_summary": "This content chiefly discusses consulting—contrasting it with coaching but not exploring coaching concepts, methods, or practices. Its themes and intent are consultant-centric. Fit with the Coaching category is marginal and mainly comparative, not substantive.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -2018,6 +2025,25 @@
     "final_score": 32.0,
     "reasoning": "The content centers on the role of consultants in agile transformation, focusing on identifying organisational issues, bridging leadership gaps, and driving cultural change towards agility. While it touches on themes like decentralisation and self-organisation, there is no explicit reference to Agentic Engineering's philosophy of maximising human/AI agency, systemic observability, or DevOps-infused craft. Decision-making frameworks, ethical AI integration, or feedback-driven adaptation are not addressed at depth; the piece presents a practitioner perspective on consulting within agile environments but does not connect its consulting methods to the intentional design of engineering practices for agency. Most discussion remains general about agile change and consulting value, narrowly bordering topics relevant to Agentic Engineering without truly engaging with the core concepts. There are no penalties as the content is not outdated or contradictory.",
     "reasoning_summary": "This content discusses the value of agile consulting and organisational transformation, lightly touching on themes like decentralisation and self-organisation. However, it does not meaningfully engage with Agentic Engineering's focus on maximising agency, deliberate engineering practice design, or ethical AI integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8vu-AXJwwYk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 13.64,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 2.0,
+    "ai_audience": 2.4,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There is no direct mention of agentic software delivery, AI agents, contextual intelligence, or autonomous systems. The piece focuses on human consultants' roles in agile transformation and organisational change. Themes are limited to consulting, not software delivery by agents. No depth or systematic exploration of agentic topics exists; intent is on advocating for consultants rather than exploring the integration or governance of AI agents. The audience seems to be leaders and practitioners interested in agile change, not those prioritising agentic approaches or AI/automation-enabled delivery.",
+    "reasoning_summary": "Content is about agile consulting and organisational change, lacking references to agentic software delivery, AI agents, or contextual intelligence. Does not align with the category's definition beyond distant tangential topics.",
     "level": "Ignored"
   }
 }

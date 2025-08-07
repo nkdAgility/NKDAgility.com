@@ -62,15 +62,22 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "6z97VZamnQQ",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 50,
-    "final_score": 87.0,
-    "reasoning": "The content explicitly discusses the One Engineering System (1ES) as a strategic framework aimed at unifying engineering practices across teams, which aligns closely with the core themes of strategic planning and decision-making. It provides a detailed exploration of how this strategy fosters collaboration and consistency, indicating a strong depth of discussion. The emphasis on aligning teams around common standards and the need for investment in enablement further supports its strategic focus.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 93.53,
+    "ai_mentions": 8.9,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.5,
+    "ai_intent": 9.2,
+    "ai_audience": 9.0,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content frames One Engineering System (1ES) as a strategic initiative focused on aligning tools, standards, and practices enterprise-wide. Multiple references to high-level objectives such as alignment, standardisation, and engineering excellence show strong conceptual alignment and depth. Strategy is explicitly named and described as the lens for 1ES. The discussion consistently addresses the intent of aligning teams and enabling organisational goals through systematic approaches, not just operational tactics. The audience is clearly leaders and decision-makers responsible for engineering strategy, while references and examples increase relevance and signal strength. No outdated or contradictory positions are noted.",
+    "reasoning_summary": "Content is strongly aligned with the Strategy category—explicitly discusses strategic alignment of tools and practices, long-term organisational vision, and engagement of engineering leadership. Depth and relevance to strategic planning are both high.",
     "level": "Primary"
   },
   "Practice": {
@@ -3113,5 +3120,24 @@
     "reasoning": "The content describes a unified engineering framework (1ES) to foster collaboration and promote standardization in software development processes across teams. However, it does not reference or discuss human-AI collaboration, AI agents, or the emergence of collective intelligence as defined. Collaboration is purely among humans, with no mention of AI partnership or socio-technical integration of the specific kind required for this category. The depth and conceptual alignment scores are low due to the absence of explicit or implied human-AI teaming. Mentions are minimal, with references only to collaboration in the general human context. The content is highly relevant to engineering team collaboration, but not to Collective Intelligence as rigorously defined.",
     "reasoning_summary": "This content focuses on unifying engineering tools and processes for human teams, promoting collaboration and standardization. It does not address human-AI teaming or collective intelligence concepts, so alignment to this category is minimal.",
     "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6z97VZamnQQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 41.88,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.5,
+    "ai_audience": 7.1,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "Direct mentions of Agentic Software Delivery or agentic principles are absent; the content focuses on unification, standards, enablement, and engineering cohesion for software delivery, which overlaps process-wise but lacks explicit reference to AI agents, agency, or autonomous intelligence. 1ES is about streamlining and integration at scale, supporting team autonomy within a common framework, which aligns conceptually to some agentic values (empowerment, adaptable workflows), but there's no mention of integrating AI agents, contextual intelligence, or feedback loops as described in the classification. Depth covers enablement and collaboration barriers, not agentic software. The audience (engineering leaders, practitioners) overlaps with the category. Most content is signal for modern practices but not specifically for agentic delivery.",
+    "reasoning_summary": "The content discusses unified engineering systems and scalable practices, partially aligning with agentic themes of enablement and process integration, but lacks direct reference to AI agents or agentic delivery, so fit is limited and largely conceptual.",
+    "level": "Tertiary"
   }
 }

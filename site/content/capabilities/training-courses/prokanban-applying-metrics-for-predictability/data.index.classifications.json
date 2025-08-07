@@ -955,13 +955,23 @@
     "level": "Ignored"
   },
   "Lean": {
+    "resourceId": "dnZMM8p0lC4",
     "category": "Lean",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content is primarily focused on Agile metrics and forecasting but mentions Lean methodologies in the prerequisites, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:48",
+    "ai_confidence": 36.77,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.9,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The course targets 'Lean Agile Practitioners' and mentions Lean in the audience, but the content is predominantly focused on agile metrics, flow analytics, and forecasting—not on Lean principles, waste reduction, or Lean tools. While some Lean-relevant concepts like WIP, Cycle Time, and Throughput overlap with Lean practices, they are presented in an Agile/Kanban context without explicit reference to Lean Thinking, value stream mapping, waste elimination, or Lean methodologies such as 5S or Kaizen. There is no direct discussion of Lean-specific principles, nor is Lean a focal point of the course, though the audience overlap and some tool coverage creates partial topical alignment.",
+    "reasoning_summary": "Content primarily focuses on Agile metrics and forecasting, with only minimal, indirect overlap with Lean through shared practices (e.g., flow metrics). Lean is listed in the audience, but not substantively discussed; fit for the Lean category is partial and weak.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1951,6 +1961,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses on metrics and predictability in agile and lean contexts, outlining tools like flow analytics and Monte Carlo simulation. However, it does not reference Agentic Engineering directly, nor does it explore philosophical or systemic agency, DevOps-infused craft, or the deliberate maximization of human or AI agency. Intent and depth are moderate, aligning more with project management and analytics than with agentic practices or frameworks. Audience partially overlaps (technical, managerial), and some systemic improvement is implied, but core category concepts like decentralization, feedback-driven adaptation, ethical AI, or agency design are missing.",
     "reasoning_summary": "This course centers on agile metrics and forecasting for project predictability, not on Agentic Engineering principles. While some relevant themes like decision-making and systemic improvement are present, the content does not address the philosophy or design of agency, nor does it involve AI or decentralized engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dnZMM8p0lC4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 18.45,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 4.5,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content thoroughly covers agile metrics, flow analytics, and Monte Carlo simulation for project predictability but makes no mention of agentic delivery, autonomous AI agents, or agency principles. Its primary focus is on improving predictability with data and analytics in traditional agile/lean settings, not agentic software delivery strategies. The audience (agile practitioners, managers) partially overlaps with agentic topics, but the content lacks conceptual and discussion depth in agentic software delivery. No penalties were given, as the content is neither outdated nor critical of agentic concepts.",
+    "reasoning_summary": "This course is focused on agile metrics, project predictability, and risk, not agentic software delivery. It does not mention AI agents, agency, or contextual intelligence, so category alignment is minimal.",
     "level": "Ignored"
   }
 }

@@ -988,16 +988,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "HmAIUiR8QSo",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T13:02:11",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of organisational culture, particularly in relation to quality and ethical decision-making, which aligns with the principles of systems thinking. However, it primarily focuses on individual behaviours and cultural aspects rather than a comprehensive analysis of organisational dynamics or systems thinking. The examples of Boeing and Volkswagen illustrate the impact of culture on organisational performance, but the discussion lacks depth in exploring feedback loops or emergent behaviours, which are key themes in Organisational Physics.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 53.07,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.9,
+    "ai_depth": 7.3,
+    "ai_intent": 5.8,
+    "ai_audience": 7.4,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content discusses organisational culture and leadership impact on quality, referencing Boeing and Volkswagen. While it alludes to systemic change, it never explicitly discusses systems thinking, feedback loops, or other Organisational Physics concepts. Its focus remains mostly on culture, ethics, and engineering excellence rather than holistic organisational dynamics. The audience likely overlaps, but the main purpose is not a direct match. The discussion is thorough on culture but only lightly touches relevant complexity or systems principles.",
+    "reasoning_summary": "The content relates to organisational culture and leadership’s impact on quality, aligning partly with Organisational Physics. However, it lacks explicit systems thinking, complexity, or holistic dynamic analysis, making the fit only partial.",
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2002,6 +2009,25 @@
     "final_score": 37.0,
     "reasoning": "The content primarily focuses on fostering a culture of quality, engineering excellence, and ethical decision-making in organisations, with examples from Boeing and Volkswagen. While themes like culture, technical leadership, and ethical choices align somewhat with Agentic Engineering (e.g., decentralising good judgment, encouraging individual responsibility), there is little explicit discussion of maximizing human or AI agency, DevOps-infused craft, feedback loops, or systemic observability. The main intent is to promote leadership and culture change, not to detail Agentic Engineering frameworks or practices. Audience targeting matches well (engineers/leaders), and there is minimal unrelated material, but direct mentions and deep exploration of agentic engineering concepts are weak to modest. No penalties applied since there is no outdated or critical content.",
     "reasoning_summary": "The content shares themes of engineering excellence, quality culture, and ethical leadership relevant to Agentic Engineering, but lacks direct mention and in-depth discussion of agency-driven development, AI augmentation, or DevOps. Alignment exists but is modest and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HmAIUiR8QSo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 18.81,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 3.2,
+    "ai_intent": 2.3,
+    "ai_audience": 4.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on building a culture of quality and engineering excellence, drawing lessons from Boeing and Volkswagen, with applications to software development. However, it does not discuss agentic software delivery, autonomous AI agents, or any key agentic principles. There are passing references to Agile frameworks and software development, but these are generic. The closest alignment is advocating for empirical learning and good decision-making, but there is no substantive discussion of AI agent integration, contextual intelligence, human-in-the-loop design, or agentic governance. The piece is relevant to engineering culture and technical leadership but lacks any engagement with the unique practices, systems, or outcomes of agentic delivery.",
+    "reasoning_summary": "This content focuses on fostering engineering excellence and a culture of quality, not on agentic software delivery. There are no references to autonomous AI agents or agentic practices, making the fit with the category definition weak and indirect.",
     "level": "Ignored"
   }
 }

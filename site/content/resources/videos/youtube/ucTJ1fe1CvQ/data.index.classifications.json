@@ -1506,15 +1506,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "ucTJ1fe1CvQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:23:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development and the importance of addressing assumptions, with no direct mention of the One Engineering System (1ES) framework or its principles. While it discusses methodologies related to product development, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also minimal regarding 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 16.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.4,
+    "ai_intent": 2.2,
+    "ai_audience": 5.7,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on assumptions in product development and promoting a course about better discovery, delivery, and validation practices. Nowhere does it mention One Engineering System (1ES), its principles, or goals of tool/process standardization at an organizational level. The themes—continuous improvement, empirical cycles, evidence-based practices—are generic to many development frameworks. There is conceptual overlap regarding effective collaboration and learning mindset, but the discussion is not unique or specific to 1ES. The audience (product teams, leaders) may overlap in some organizations, but the topic is centered on product validation rather than 1ES implementation or standardization. Thus, only minimal partial fit on broad alignment and depth scores, and confidence is very low.",
+    "reasoning_summary": "This content does not discuss One Engineering System or its core themes. It focuses on overcoming assumptions in product development, which is tangential to 1ES at best. Not a fit for this category except for some generic conceptual overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2018,6 +2025,25 @@
     "final_score": 33.0,
     "reasoning": "The content primarily addresses identifying and challenging assumptions in product development to avoid the Feature Factory approach. It emphasizes empirical cycles (Discovery, Delivery, Validation), continuous learning, and evidence-based decision-making, which conceptually overlap with Feedback-Driven Adaptation and some aspects of agency. However, the main focus is not on engineering practices or the philosophical approach of maximizing human and AI agency, systemic observability, or DevOps-infused craft. There is no direct mention of 'Agentic Engineering' nor explicit exploration of engineering autonomy, AI as a collaborator, or decentralized decision-making frameworks. The audience—product leaders and teams—overlaps somewhat but leans more toward product management practices than foundational engineering philosophy. While a learning mindset and experimentation are highlighted, the discussion lacks depth regarding agentic constructs or ethical AI integration.",
     "reasoning_summary": "This content centers on improving product development through challenging assumptions, experimentation, and evidence-based learning. While some themes, like adaptation and continuous improvement, tangentially relate to Agentic Engineering, the core focus is not on maximizing system or developer agency or related engineering philosophies.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ucTJ1fe1CvQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 22.326,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.4,
+    "ai_audience": 8.1,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "This content focuses on product development challenges, specifically assumption management, experimentation, and navigating complexity. While it encourages evidence-based decision-making, empirical cycles (Discovery-Delivery-Validation), and continuous improvement—concepts present in modern delivery—the content does not mention or discuss agentic software delivery, autonomous AI agents, integration of contextual intelligence, or any related key topics. No technical specifics, governance frameworks, or engineering practices tied to agentic paradigms appear. The audience (product leaders, owners, teams) somewhat overlaps with the agentic delivery audience, and content is relevant, but the fit is mostly tangential. No satire or outdated material, so no penalties.",
+    "reasoning_summary": "The content discusses modern product development and evidence-based techniques but does not address or align with Agentic Software Delivery, lacking references to AI agents, agentic principles, or related practices. Only partial thematic overlap.",
     "level": "Ignored"
   }
 }

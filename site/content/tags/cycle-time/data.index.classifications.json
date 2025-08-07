@@ -158,16 +158,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Cycle Time",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses cycle time in detail, highlighting its importance in improving efficiency and predictability, which aligns with the principles of discipline in work processes. However, while it mentions the concept of discipline indirectly through efficiency and continuous improvement, it does not explicitly focus on discipline as a primary theme, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 53.9,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.7,
+    "ai_depth": 5.9,
+    "ai_intent": 6.2,
+    "ai_audience": 6.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content explains the purpose, impact, and process implications of tracking cycle time, mentioning continuous improvement and predictability—concepts relevant to professional disciplines like Agile and Lean. However, it focuses largely on a single metric rather than the systemic, principled, or evolutionary aspects of a discipline. It does not define or discuss the field of discipline itself, governance, codified knowledge, ethical conduct, or the maturation of professional practice, nor does it present case studies or illustrate how shared principles shape practice. The target audience appears to be process-improvement practitioners, generally aligned but not specific to disciplined maturation. No penalties are warranted as content is current, not satirical or undermining. Overall, it moderately fits under 'Discipline' due to indirect connections (continuous improvement, systemic delivery), but primary focus remains on an individual tool/metric.",
+    "reasoning_summary": "This content addresses cycle time as a process metric, linking to continuous improvement and workflow efficiency—concepts related to discipline—but focuses mainly on technique rather than on structured fields or principles. Fit with 'Discipline' is moderate and indirect.",
+    "level": "Tertiary"
   },
   "Decision Making": {
     "resourceId": "Cycle Time",
@@ -3129,6 +3136,25 @@
     "final_score": 9.0,
     "reasoning": "The content focuses on the metric of cycle time, emphasizing workflow optimization, predictability, and value delivery. It discusses teamwork and systemic approaches but does not mention or describe human-AI collaboration, collective action with AI agents, or emergent capabilities from such teams—the central requirements for Collective Intelligence. There is no reference (direct or indirect) to AI involvement, distributed cognition between humans and AI, or hybrid decision-making. All discussion is general process management with human teams, excluding the central category criteria.",
     "reasoning_summary": "This content centers on workflow metrics for human teams and does not discuss human-AI collaboration or emergent collective capabilities, so it has minimal relevance to the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Cycle Time",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 23.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 1.9,
+    "ai_audience": 6.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses exclusively on the cycle time metric for delivery efficiency and process improvement, with no mention of agentic principles such as autonomous AI agents, contextual intelligence, or synergy between human and AI agents. While it touches on workflow optimization and empirical decision-making, these ideas are rooted in traditional process management and do not introduce modern agentic themes. The audience is likely practitioners or managers interested in delivery metrics, but none of the context, technologies, or governance frameworks defining Agentic Software Delivery are addressed.",
+    "reasoning_summary": "This content only discusses cycle time as a process metric, without reference to agentic principles or autonomous AI agents. The topic and intent do not align with Agentic Software Delivery, making the fit very weak and largely unrelated.",
     "level": "Ignored"
   }
 }

@@ -1343,15 +1343,22 @@
     "level": "Secondary"
   },
   "Evidence Based Management": {
+    "resourceId": "-Oo9b3G-8Zw",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:43:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 12.03,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.25,
+    "ai_intent": 1.4,
+    "ai_audience": 3.98,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on leadership and management practices, particularly in the context of Scrum and Agile methodologies. While it touches on the role of leaders and Scrum Masters, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion lacks empirical evidence or data-informed decision-making, which are central to EBM. Therefore, the alignment with the category is minimal.",
+    "reasoning": "The content focuses on leadership transformation and Scrum Master roles, not on Evidence-Based Management or its key concepts (metrics, empirical decision-making, value delivery). No explicit or implicit EBM references, measurement, or outcome management themes appear. The main audience—Scrum Masters and leaders—is only partially aligned. Content on metrics, data, or empirical strategy is fully absent; the discussion is motivational rather than evidence-driven. Thus, the fit to 'Evidence Based Management' is very weak.",
+    "reasoning_summary": "Content centres on leadership and Scrum Master roles, without discussing evidence-based management, metrics, empirical improvement, or value delivery. No conceptual or thematic overlap with EBM; fit is almost entirely missing.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -2004,6 +2011,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on leadership evolution, servant leadership, and the Scrum Master role in Agile organizations. While it aligns with topics of autonomy and modern practices, it lacks explicit discussion of agentic engineering principles such as bridging human and AI agency, DevOps, or systemic observability. There are no direct mentions of Agentic Engineering, nor is there substantial depth on decentralization, AI integration, or engineering frameworks for agency. The main intent is leadership inspiration for Scrum contexts, not agentic or system-level engineering design.",
     "reasoning_summary": "This content addresses leadership, autonomy, and modern management in Agile contexts. Although thematically adjacent, it lacks explicit and deep connections to Agentic Engineering, focusing more on human leadership than the systemic or human–AI agency central to the assessed category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-Oo9b3G-8Zw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 17.01,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 6.5,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content centers on leadership and the transition from management to servant leadership, especially for Scrum Masters. There is no mention of autonomous AI agents, contextual intelligence, agency in software delivery, or agentic principles. Its main intent is encouraging leadership philosophy, not the integration of AI agents or agentic delivery systems. The target audience (Agile leaders, Scrum Masters) overlaps somewhat with possible agentic delivery stakeholders, but the thematic alignment, direct mentions, and depth related to 'Agentic Software Delivery' are extremely minimal.",
+    "reasoning_summary": "Content discusses leadership in Agile/Scrum, with no discussion of agentic software delivery, AI agents, contextual intelligence, or supporting technologies. Topic and intent do not match the assigned category. Fit is very weak and tangential.",
     "level": "Ignored"
   }
 }

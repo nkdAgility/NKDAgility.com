@@ -87,15 +87,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "jmU91ClcSqA",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:46:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with a brief mention of Agile and Scrum. However, it lacks explicit discussions on Evidence-Based Management principles, empirical decision-making, or metrics related to value delivery, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 5.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.8,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused on the history and evolution of project management, dating to the Industrial Revolution and discussing tools like the Gantt chart. There are no explicit references to Evidence-Based Management (EBM), nor does it discuss empirical decision-making, data-driven practices, or any of the EBM key dimensions. The emphasis is on planning, tools, and general history, with only a tangential mention of Agile and Scrum courses—not grounded in EBM principles or metrics. Therefore, alignment, mentions, and depth scores remain very low. The intent is introductory and informative about project management as a concept, not about EBM or evidence-driven value delivery, making this an extremely weak fit. No penalties for outdated or critical tone required.",
+    "reasoning_summary": "The content addresses general project management history, tools, and evolution; it does not discuss evidence-based management, empirical decision-making, or related metrics. Fit to the category is extremely weak and largely incidental.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -1882,6 +1889,25 @@
     "final_score": 6.0,
     "reasoning": "The content focuses solely on the history, evolution, and core tools of traditional project management. There is no explicit mention or exploration of Agentic Engineering or any of its key principles such as developer agency, system observability, DevOps-infused craft, ethical AI, or decision-making frameworks in software engineering. The audience could overlap marginally due to the mention of Agile and Scrum, but the content is not tailored towards agentic software practitioners. Most of the discussion revolves around planning, historical context, and project management basics, which do not align conceptually with Agentic Engineering. There are no outdated references severe enough for penalty, and the tone is neutral and informative.",
     "reasoning_summary": "This content is about project management's history and tools, with no meaningful reference or alignment to Agentic Engineering principles. There is minimal conceptual overlap and no depth in discussing topics related to agency or autonomous systems.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jmU91ClcSqA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 2.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on traditional project management, its historical development, and enduring techniques such as the Gantt chart. There are no references, explicit or implicit, to agentic software delivery, AI agents, autonomous systems, contextual intelligence, or integration with modern engineering practices. No elements correspond to the required themes of agentic delivery; thus, the alignment, depth, and other dimension scores reflect minimal relevance. No penalties were necessary as the tone is neutral, and although the content is dated, it discusses project management's modernisation, not explicitly obsolete practices.",
+    "reasoning_summary": "The content exclusively discusses traditional project management and its evolution, with no mention or alignment to agentic software delivery or AI agents. There is no fit with the category definition.",
     "level": "Ignored"
   }
 }

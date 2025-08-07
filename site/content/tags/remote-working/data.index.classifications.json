@@ -121,16 +121,23 @@
     "level": "Secondary"
   },
   "Model": {
+    "resourceId": "Remote Working",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 42.0,
-    "reasoning": "The content discusses remote working as a practice that supports agile methodologies and aligns with lean principles, but it does not explicitly focus on conceptual models or frameworks. While it touches on themes of collaboration and value delivery, it lacks a detailed exploration of specific models like the Cynefin Framework or the Three Ways of DevOps, which are central to the 'Model' category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 23.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 3.3,
+    "ai_audience": 6.5,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on remote working as a practice supporting agile teams, covering tools, culture, and benefits. While it references systemic thinking and mentions 'model' contextually, it does not discuss conceptual models, frameworks, or structured representations per the category definition. No penalties applied. Scores reflect the tangential one-paragraph mention of systemic nature but lack core model content.",
+    "reasoning_summary": "Content is about remote working practices, not conceptual models or frameworks. While it mentions 'model' in passing, its core themes do not fit the 'Model' category beyond superficial alignment—fit is minimal and mostly coincidental.",
+    "level": "Ignored"
   },
   "Principle": {
     "category": "Principle",
@@ -3111,6 +3118,25 @@
     "final_score": 15.0,
     "reasoning": "The content discusses remote agile teams, focusing exclusively on human collaboration and distributed work practices. There are no references—explicit or implicit—to humans collaborating with AI agents, nor to collective intelligence as defined. Tools are mentioned, but only as passive enablers; no discussion exists about AI agency, partnership, or emergent capabilities arising from human-AI teaming. The audience (agile practitioners) is partly aligned with the category’s possible audience, but the topic itself is outside scope.",
     "reasoning_summary": "This content is about human remote agile collaboration, not human-AI team or collective intelligence. Digital collaboration tools are mentioned only as enablers, not AI partners. No evidence of human-AI teaming, so relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Remote Working",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 18.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 3.8,
+    "ai_audience": 4.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses entirely on best practices and benefits of remote work within agile teams, emphasizing collaboration, feedback loops, and distributed work culture. It does not mention or discuss autonomous AI agents, contextual intelligence, or agentic delivery concepts. There are minor overlaps (feedback loops, systems thinking) common in agile but none specific to integration of agentic AI systems or their governance. The intended audience of agile practitioners partially overlaps, but the topic does not fit the specific purpose or themes of Agentic Software Delivery.",
+    "reasoning_summary": "Content discusses distributed agile teams and remote working, not agentic delivery or AI agents. Overlap is generic (feedback, collaboration); lacks direct or conceptual alignment with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

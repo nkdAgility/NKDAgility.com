@@ -1399,15 +1399,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "HjyUeuf1IEw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:57:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are not directly related to the One Engineering System framework. While there are mentions of Agile practices, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 15.731,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.75,
+    "ai_intent": 2.4,
+    "ai_audience": 4.65,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses Agile training strategies, virtual class setups, use of tools like Teams and Mural, and concepts such as continuous forecasting and Kanban metrics. However, One Engineering System (1ES) is never named or referenced. The principles of standardizing and integrating tools and processes across organizations, core to 1ES, are not discussed. The focus is on general Agile and Scrum practices, class facilitation, and individual/team-level forecasting techniques—not on company-wide unification or the 1ES framework. No comparison, case study, or implementation of unified engineering practices is mentioned. The main audience (Agile practitioners, Scrum learners) overlaps only slightly with the 1ES audience. While there is minor mention of integrating tools for training, it is purely at the instructional delivery level and not about engineering system unification.",
+    "reasoning_summary": "No direct or substantive discussion of One Engineering System occurs. The focus remains on team-level Agile practices and training, not on standardizing or integrating engineering systems.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1916,6 +1923,25 @@
     "final_score": 24.0,
     "reasoning": "The content focuses on Agile training techniques, such as continuous forecasting, virtual class management, and use of metrics like throughput and cycle time. While it offers practical insights into adaptive planning and some team autonomy, it doesn't explicitly address agentic engineering: there's no philosophical discussion about maximizing the agency of humans or AI, nor about ethical AI integration or feedback-driven, decentralized decision-making. Audience and signal are moderate since it addresses Agile practitioners with some relevant topics, but agentic themes are only tangentially touched. No penalties were applied as the tone is current and supportive.",
     "reasoning_summary": "This content mainly covers Agile training and continuous forecasting, providing some insight into team autonomy and adaptive practices. However, it lacks direct discussion of Agentic Engineering’s philosophical focus on human/AI agency or ethical decision frameworks, resulting in only limited category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 13.37,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 2.7,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on Agile training practices, specifically virtual class management, continuous forecasting, and the use of metrics for team planning. There is no direct mention or exploration of autonomous AI agents, contextual intelligence, or agentic delivery principles. Discussion remains at the level of traditional Agile, Scrum, and Kanban practices, focusing on human-driven methods and statistical forecasting, without introducing agentic AI support or integration. The intended audience is Agile practitioners, but not those engaging in agentic frameworks or AI-powered delivery. No significant off-topic distractions, but the material is only marginally relevant to Agentic Software Delivery under the strict definition.",
+    "reasoning_summary": "Content discusses Agile training, forecasting, and metrics, not agentic concepts or AI agent integration in delivery. It matches the category definition only tangentially and lacks substantive alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

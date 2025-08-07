@@ -507,16 +507,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "b3HFBlCcomk",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:11",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Agile principles, particularly the importance of focusing on value and iterative processes, which align with empirical process control. However, it does not explicitly mention empirical process control or its key figures, and the discussion is more centred on misconceptions about speed rather than a deep exploration of empirical practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 86.03,
+    "ai_mentions": 5.7,
+    "ai_alignment": 9.3,
+    "ai_depth": 8.8,
+    "ai_intent": 9.2,
+    "ai_audience": 8.6,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content strongly aligns with Empirical Process Control principles: it stresses adaptation, iterative experimentation, feedback, and learning from evidence (as per the Zoom.ai and Sentinel project examples). While it doesn't directly name 'Empirical Process Control' often, it deeply discusses Agile's focus on evidence-based adjustment, transparency, market fit validation, and avoidance of rigid, deterministic processes—all central to the category. The intent, depth, and focus on practical examples (esp. the FBI project) are highly relevant. There are minimal off-topic sections. Audience targeting matches Agile practitioners, and there are no outdated practices or penalty triggers.",
+    "reasoning_summary": "The content thoroughly explores Agile's focus on adapting through feedback, iterative learning, and value delivery, all of which embody Empirical Process Control. It features substantial alignment, depth, and practical relevance for the category.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2020,6 +2027,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on clarifying misconceptions about Agile, emphasizing value delivery, avoidance of bureaucracy, experimentation, and iterative feedback. While these concepts tangentially touch on agency and adaptive change, they are presented strictly through an Agile lens—not through explicit discussions of 'Agentic Engineering' themes such as human/AI agency, engineering practices maximizing autonomy, systemic observability, or ethical AI collaboration. There is no direct mention or intentional exploration of Agentic Engineering's philosophical or technical distinctives. The examples given (Zoom.ai, FBI Sentinel) remain within the realm of agility versus speed, with no substantive discussion of decentralized decision-making, observability, DevOps craftsmanship, or AI-augmented autonomy. As such, the content is moderately aligned in intent and audience but does not substantively engage in Agentic Engineering as defined.",
     "reasoning_summary": "While the article promotes agility, feedback, and value-based delivery, it does not directly address or explicitly explore Agentic Engineering themes such as maximizing human or AI agency, systemic observability, or ethical AI integration. Its fit is moderate, with only tangential conceptual overlap.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "b3HFBlCcomk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 18.208,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 1.2,
+    "ai_audience": 7.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is a comprehensive exploration of what agility means in software delivery, focusing on value, iteration, and adaptation. While it references AI-driven tooling (Zoom.ai) and touches on optimization, it does not discuss agentic principles such as autonomous agents, agent/human synergy, contextual intelligence, or agentic governance. The Zoom.ai example is about product-market fit and user needs, with only passing reference to an 'AI-driven' product, not as part of a broader discussion on integration of agents into delivery. No mention is made of modern agentic practices, architectures, or governance. Thus, the core focus is Agile philosophy, not Agentic Software Delivery.",
+    "reasoning_summary": "Content explores Agile principles and misconceived links to speed but contains at most tangential references to agentic delivery or AI agents. The fit is minimal: main themes are Agile value delivery, not agentic integration or autonomy.",
     "level": "Ignored"
   }
 }

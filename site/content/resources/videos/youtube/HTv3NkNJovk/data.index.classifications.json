@@ -558,15 +558,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "HTv3NkNJovk",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:12:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile leadership and the comparison between Satya Nadella and Steve Jobs, with no direct mention of Test First Development principles or practices. While it touches on agile concepts, it does not delve into the specifics of defining success criteria, testing practices, or the role of testing in software development, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 8.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on comparing agile leadership styles between Satya Nadella and Steve Jobs, emphasizing organizational agility, decentralized decision-making, and innovation. It does not mention or discuss Test First Development, nor does it address its principles, practices, or related testing methodologies. There are no direct or indirect references to success criteria, automated/manual testing, TDD/ATDD, or test-first practices. The audience, discussion depth, and intent do not align with the Test First Development category.",
+    "reasoning_summary": "Content does not cover Test First Development at all—focus is on agile leadership, not testing practices. No fit with the category definition.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2037,5 +2044,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or equivalent terms are absent, reducing the 'mentions' score. However, the content deeply discusses themes highly aligned with the category, such as decentralised decision-making, feedback-driven adaptation, developer agency, and building systems that foster continuous value creation—key elements of Agentic Engineering. The discussion on Satya Nadella’s transformation of Microsoft emphasizes distributing authority, empiricism, and evolving practices through feedback cycles, all central to agentic principles. There is notable depth as practices are illustrated through real organizational impacts. The content is clearly aimed at agile leaders, practitioners, and strategists, which fits the Agentic Engineering audience. Nearly all content is relevant, with minimal off-topic material (i.e., closing promotional section). No penalties are necessary as the content is neither outdated nor oppositional, and the discussion remains professional and supportive. Overall, the lack of explicit terminology limits the confidence score, but conceptual and practical relevance to Agentic Engineering is strong.",
     "reasoning_summary": "This analysis compares leadership styles, highlighting practices that decentralise authority, foster adaptation, and elevate developer agency. While not explicitly referencing 'Agentic Engineering,' the discussion strongly aligns with key principles such as feedback loops, adaptive change, and agency in software organizations.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HTv3NkNJovk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 18.53,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.7,
+    "ai_audience": 5.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on agile leadership in tech giants Apple and Microsoft, contrasting Satya Nadella and Steve Jobs. It discusses decentralised decision-making, feedback loops, and organisational change, which overlap slightly with agentic themes like empowering workers and innovation. However, there is no explicit or implicit reference to the integration of AI agents, context-aware intelligence, or the explicit use of agentic software delivery concepts such as human-AI synergy, autonomous software agents, or related governance or engineering frameworks. The content is aimed at practitioners of agile and leadership but not specifically at agentic software delivery participants. Some ideas (empiricism, feedback) are tangentially related, but the core focus is not on agentic software delivery, AI-driven workflows, or associated technologies/practices.",
+    "reasoning_summary": "This content does not address Agentic Software Delivery. It focuses on agile leadership, not the integration of AI agents, human/AI collaboration, or intelligent automation. Any overlaps are generic to agile ways of working, not agentic delivery concepts.",
+    "level": "Ignored"
   }
 }

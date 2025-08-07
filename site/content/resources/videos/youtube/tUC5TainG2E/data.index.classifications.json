@@ -1437,15 +1437,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "tUC5TainG2E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:51:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the author's personal journey and relationships in becoming a Scrum training supplier for Microsoft, with no direct mention or discussion of the One Engineering System framework. While it touches on Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses a personal journey to becoming a Scrum/DevOps trainer for Microsoft, emphasizing relationships, expertise, visibility, and referrals. While Microsoft and some engineering-related terms are referenced (Scrum, DevOps, Azure DevOps), the One Engineering System framework or its concepts are never mentioned, described, or implied. There are no discussions of standardization, unified tools, process integration, or 1ES principles. The main themes focus on networking, credibility, and professional recognition, not the design or adoption of One Engineering System practices. The technical audience slight alignment comes from use of DevOps and Scrum terms, but those are not tied to 1ES. Overall relevance is very low.",
+    "reasoning_summary": "No mention or discussion of One Engineering System. The content focuses on personal professional journey and expertise in Scrum/DevOps for Microsoft, with no alignment to 1ES topics or intent. Extremely weak category fit.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1946,6 +1953,25 @@
     "final_score": 21.0,
     "reasoning": "The content primarily discusses the personal and professional journey to becoming a preferred Scrum training provider for Microsoft, emphasizing relationships, dual domain expertise (DevOps and Scrum), and client referrals. While there are explicit mentions of DevOps and the intersection of tooling and methodologies, there is no direct reference to Agentic Engineering or to engineering practices that maximize human and AI agency. The narrative is focused on career milestones and networking rather than deliberate engineering design, system observability, developer agency, or ethical AI integration. Audience targeting is moderately relevant, as it speaks to professionals in Agile and DevOps, but not specifically practitioners of Agentic Engineering. The intent and substance are not directly aligned with the core tenets or philosophy of the category, resulting in low scores for direct mentions, conceptual alignment, and depth.",
     "reasoning_summary": "This content chronicles a consultant’s journey to becoming a preferred Scrum trainer for Microsoft, focusing on relationships, reputation, and dual-disciplinary expertise. It does not address the philosophical, technical, or conceptual aspects of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "tUC5TainG2E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 15.54,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 6.3,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on the author’s journey to becoming a preferred Scrum trainer for Microsoft, emphasizing relationships, dual expertise in DevOps and Scrum, and client referrals. There are no direct mentions of Agentic Software Delivery or related key concepts such as autonomous AI agents, integration of contextual intelligence, agentic practices, or modern engineering automation via AI. The main theme is professional credibility, not the embedding of AI or proactive systems in delivery work. Audience alignment is moderate since Scrum/DevOps experts overlap with potential agentic delivery audiences, and signal-to-noise is reasonable due to the content’s narrative relevance, but the overall topical match is weak. No penalties apply as the tone is neutral and content is not outdated.",
+    "reasoning_summary": "This content is mainly about personal recognition in Scrum/DevOps training, with no substantive link to agentic software delivery or its core themes. Its fit with the 'Agentic Software Delivery' category is minimal.",
     "level": "Ignored"
   }
 }

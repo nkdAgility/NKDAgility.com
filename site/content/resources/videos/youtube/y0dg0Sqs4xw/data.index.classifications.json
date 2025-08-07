@@ -552,15 +552,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "y0dg0Sqs4xw",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:10:53",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 2.98,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
     "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the mistakes made by rookie agile consultants in implementing Scrum, focusing on the importance of understanding the framework rather than following it rigidly. While it touches on agile principles, it does not directly address Test First Development or its core concepts, such as success criteria, TDD, or ATDD. The discussion lacks depth and relevance to the Test First Development category.",
+    "ai_intent": 3.1,
+    "ai_audience": 4.2,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on agile consulting mistakes, particularly over-reliance on frameworks like Scrum, and the need for adaptability, empiricism, and understanding context. While there is an emphasis on empiricism and evidence, the discussion never mentions or explores Test First Development practices, their principles, or related testing strategies (manual or automated). There are no references to defining success criteria in test-first terms, nor to specific practices like TDD, ATDD, or acceptance criteria. The audience does overlap (practitioners, consultants), but the primary intent and themes are critical of dogmatism in agile framework application, not about Test First Development. Thus, only minimal, incidental conceptual overlap (mention of empiricism, evidence) exists, resulting in a very low confidence that this content fits the Test First Development category.",
+    "reasoning_summary": "Content focuses on agile consulting pitfalls, framework dogmatism, and empiricism—not Test First Development. No direct or substantive discussion of test-first practices, making fit for this category very weak.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2013,5 +2020,24 @@
     "reasoning": "The content discusses rookie agile consultants' pitfalls, emphasizing empiricism, adaptation to context, and transparent feedback—resonating with Agentic Engineering themes like feedback-driven adaptation and human agency. However, it doesn't reference Agentic Engineering directly, lacks explicit philosophical or systemic exploration of agency, and does not address ethical AI integration or DevOps-infused craft. Most focus is practical agile consulting, with moderate conceptual alignment, medium depth, and a technical-practitioner audience. The relevance is partial; the category's central tenets are touched upon but not comprehensively developed.",
     "reasoning_summary": "The content moderately aligns with Agentic Engineering through its focus on empiricism, adaptation, and team agency, but lacks explicit reference or deep exploration of agentic concepts, ethics, or intelligent systems. Its relevance is adjacent but not central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "y0dg0Sqs4xw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 12.35,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on mistakes made by rookie agile consultants, emphasizing empiricism, context, team buy-in, and adaptation in Scrum. However, there are no references to autonomous AI agents, agency, context-aware intelligence, or systems integrating agents and human expertise—the defining aspects of Agentic Software Delivery. The discussion is rooted in traditional human-centric agile consulting and coaching, not agentic principles. Depth and alignment are minimal since no agentic delivery topics, practices, or terminology are present. Audience overlaps somewhat with practitioners, but the topic is tangential to Agentic Software Delivery.",
+    "reasoning_summary": "The content is about agile coaching and consulting mistakes, not Agentic Software Delivery or agent-augmented practices. It lacks direct mentions, relevant themes, or conceptual fit with the agentic delivery category.",
+    "level": "Ignored"
   }
 }

@@ -903,15 +903,22 @@
     "level": "Ignored"
   },
   "Lean Startup": {
+    "resourceId": "aS9TRDoC62o",
     "category": "Lean Startup",
-    "calculated_at": "2025-03-14T22:30:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the integration of DevOps within Agile methodologies, focusing on collaboration, quality assurance, and rapid deployment. While it touches on iterative processes and feedback loops, it does not explicitly mention Lean Startup principles, such as the Minimum Viable Product (MVP) or the Build-Measure-Learn feedback loop. The discussion is more centred on operational efficiency rather than the core themes of Lean Startup, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 7.87,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.05,
+    "ai_depth": 0.82,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not explicitly mention Lean Startup, MVP, or any of its key mechanisms. It is focused exclusively on the intersection of Agile and DevOps consulting. While there is a single use of the word 'lean,' it refers to process efficiency and is unconnected to Lean Startup methodology (i.e., no MVP, Build-Measure-Learn loops, validated learning, or rapid market experiments are discussed). There are no Lean Startup concepts or audience alignment, and the purpose is not to inform or support Lean Startup practice. Minimal relevance yields a very low confidence score.",
+    "reasoning_summary": "The content is focused on Agile and DevOps integration, not Lean Startup. No Lean Startup concepts, terms, or audience are addressed. Only a generic mention of 'lean' (as in efficient processes) appears, unrelated to the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -2009,6 +2016,25 @@
     "final_score": 32.0,
     "reasoning": "The content advocates integrating DevOps within Agile for better delivery, collaboration, and quality. It touches lightly on themes like engineering excellence and feedback loops, aligning partially with Agentic Engineering’s focus on system improvement and developer empowerment. However, it does not discuss maximisation of human or AI agency, ethical AI, decentralised decision-making, or the philosophical foundation of agentic practices. While some core elements like fast feedback and autonomy are indirectly referenced, the discussion remains tool- and consulting-centric, not deeply exploring the unique tenets of Agentic Engineering.",
     "reasoning_summary": "This content advocates DevOps within Agile to improve delivery and quality, briefly referencing engineering excellence and feedback, but lacks focused discussion on maximising human or AI agency or the broader ethos of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "aS9TRDoC62o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 18.032,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 1.3,
+    "ai_audience": 1.9,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content exclusively focuses on the integration of DevOps with Agile practices, emphasizing process efficiency, collaboration, and culture shift. There are no direct references to agentic principles such as autonomous AI agents, contextual intelligence, or human-agent collaboration. The discussion remains within the traditional boundaries of human practices, DevOps consulting, and CI/CD culture. There is moderate overlap in mentioning feedback loops and modern engineering, but not in the agentic, proactive, or AI-augmented sense. Audience is technical but not tailored for those seeking agentic paradigms.",
+    "reasoning_summary": "Content covers DevOps and Agile integration, focusing on human expertise and process—not agentic delivery, AI agency, or human-AI synergy. No direct or implied alignment with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

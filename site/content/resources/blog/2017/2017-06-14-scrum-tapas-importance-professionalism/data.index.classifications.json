@@ -1342,15 +1342,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "sdlfWR5wHx7",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly touches on the importance of professionalism in software teams, which is relevant to team dynamics but lacks a direct focus on social technologies. While it mentions Scrum, it does not delve into collaboration, decision-making, or value delivery in a meaningful way. The discussion is more about team performance and engineering excellence rather than the frameworks and methodologies that promote collaboration and adaptability.",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 38.37,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 3.9,
+    "ai_intent": 3.8,
+    "ai_audience": 4.4,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Depth (-1): Discussion is brief and lacks exploration of underlying social frameworks. Intent (-1): Focuses mainly on professionalism/engineering excellence, less on collaboration or social technology principles.",
+    "final_score": 38.0,
+    "reasoning": "The content addresses the value of professionalism for effective Scrum teams, touching briefly on team quality and following principles. However, it does not meaningfully discuss self-organisation, collaboration, decision-making frameworks, or value delivery as required by the Social Technologies category. The direct references to Scrum and Nexus hint at frameworks, but the content focuses on engineering excellence and professionalism, not on the social frameworks or collaborative practices underpinning the category. The discussion is very shallow and mostly promotional, with little direct exploration of social technologies. Penalties applied for lack of depth and marginal intent alignment.",
+    "reasoning_summary": "This content primarily promotes professionalism and engineering excellence, with minimal mention of collaboration or social frameworks. It does not sufficiently engage with Social Technologies as defined, resulting in a low-to-moderate fit.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1948,6 +1955,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on the importance of professionalism and engineering excellence in Scrum teams, arguing against amateurism. While it valorizes engineering best practices, it doesn't explicitly address, reference, or strongly align with the concepts of agency, decentralised decision-making, or AI/human autonomy foundational to Agentic Engineering. Its main thrust is toward professional conduct and adherence to engineering rules, rather than the deliberate design of environments increasing agency. The audience (developers, Scrum practitioners) generally fits, but both the conceptual and depth dimensions score low due to a lack of specificity about agency and agentic frameworks. Additionally, references are somewhat outdated, justifying a penalty on intent.",
     "reasoning_summary": "This content urges professionalism and engineering excellence for Scrum teams, but does not explore agentic concepts or agency, focusing instead on general best practices. Its relevance to Agentic Engineering is minimal and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sdlfWR5wHx7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 13.62,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 2.2,
+    "ai_audience": 2.6,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Mentions: no direct reference to agentic software delivery or related terminology. Alignment: content is outdated (references a 2017 event). Audience: partially misaligned due to general Scrum focus and lack of advanced agentic content.",
+    "final_score": 14.0,
+    "reasoning": "The content centers on professionalism and engineering excellence in Scrum teams, not on the integration of autonomous agents, contextual intelligence, or agentic delivery. No direct mention or exploration of agentic software delivery is present. Instead, the focus is on traditional team practices and general engineering discipline, with references to conventional Scrum topics and a 2017 industry event. Penalties applied for outdated event reference and lack of relevant terminology or theme alignment.",
+    "reasoning_summary": "Content is about Scrum team professionalism, not agentic software delivery. No direct or thematic connection to autonomous agents or agentic principles. Fit is minimal and mostly incidental.",
     "level": "Ignored"
   }
 }

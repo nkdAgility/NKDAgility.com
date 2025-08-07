@@ -1424,15 +1424,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "_WplvWtaxtQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:21:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and training of Scrum Masters, discussing Scrum practices rather than the One Engineering System framework. While it touches on concepts of continuous improvement and team effectiveness, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 13.685,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 0.9,
+    "ai_audience": 9.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "This content focuses exclusively on immersive training for Scrum Masters and makes no references to One Engineering System (1ES), its principles, tooling, integration, or standardization. There is no conceptual alignment: the piece is about personal development, leadership, and continuous improvement within the Scrum Master role. It lacks discussion of cross-team practice standardization or the unification of engineering systems, tools, or processes, which is central to 1ES. Audience alignment is high as both target practitioners in software environments, but the topic is off-base for 1ES. Only passing relevance exists due to shared audiences; all other dimensions reflect a fundamental disconnect with the 1ES category definition.",
+    "reasoning_summary": "This content is unrelated to One Engineering System, focusing on Scrum Master training with no discussion of standardization, integrated tooling, or 1ES concepts. Intent and themes do not match the category. Audience overlap offers minimal, indirect fit only.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1938,6 +1945,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses on immersive training for Scrum Masters, emphasizing practical application, leadership, and continuous improvement in agile contexts. While it loosely references agency (team empowerment, value delivery, leadership), it does not discuss agentic engineering, deliberate engineering design for human/AI agency, or relevant systemic/ethical/DevOps practices. There are no direct mentions or in-depth conceptual exploration of agentic engineering. Alignment is partial due to shared themes of autonomy and continuous value delivery, but the discussion remains generic to agile and professional development. The content's audience (practicing Scrum Masters) overlaps, and signal is moderately strong for professional growth, not for agentic engineering itself.",
     "reasoning_summary": "This content centers on Scrum Master training and leadership in agile, with minor, indirect links to themes of agency. It does not specifically address agentic engineering, deliberate system design, or AI/human agency and thus only partially aligns with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_WplvWtaxtQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 6.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 0.6,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused exclusively on immersive training for Scrum Masters, emphasizing leadership, facilitation, and practical skills improvement. There are no explicit mentions or substantive discussions of agentic software delivery, autonomous AI agents, or integration between AI and human expertise. None of the key topics—such as AI autonomy in delivery, feedback loops driven by agents, or agent-enabled practices—are present. Audience and intent are centered on human Scrum Masters, not agentic systems. While some tangential ideas (e.g., maximizing value, continuous improvement) overlap with agile delivery principles, they do not engage with the agentic paradigm. Therefore, fit with the category is minimal.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category. It focuses solely on human Scrum Master training and leadership, with no reference to AI agents or agentic delivery models. Overlap is incidental and minimal.",
     "level": "Ignored"
   }
 }

@@ -462,13 +462,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "_MbvqRG_XNM",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:02",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 30.0,
-    "reasoning": "The content mentions the emergence of processes and practices, which aligns loosely with the concept of adaptation in empirical process control, but it does not provide a clear, primary focus on empirical process control principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 66.575,
+    "ai_mentions": 2.3,
+    "ai_alignment": 8.6,
+    "ai_depth": 6.8,
+    "ai_intent": 7.5,
+    "ai_audience": 7.8,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content aligns with empirical process control by emphasizing the emergence of processes through actual work and collaboration, reflecting empiricism's values of transparency, inspection, and adaptation. However, it makes no explicit mention of 'Empirical Process Control' or its key terms. Depth is moderate as it conveys the core idea but lacks significant elaboration. The intent focuses on practices evolving through experience, fitting the target audience of practitioners. The signal is strong, with little to no off-topic content. No penalties are applied due to absence of obsolete references, contradiction, or satire.",
+    "reasoning_summary": "The content implicitly fits Empirical Process Control by emphasizing process emergence through experience and collaboration, aligning with core principles, though lacking explicit terminology and depth for a full match.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1904,6 +1914,25 @@
     "final_score": 29.0,
     "reasoning": "The content briefly discusses emergent processes, practices, and tools in evolving environments, hinting at a hands-on, collaborative approach. However, it does not explicitly mention or deeply explore Agentic Engineering, lacks direct references to developer or AI agency, and omits core aspects such as DevOps ethos, continuous value delivery, or ethical autonomy. It is more generally about emergent practice than the deliberate design for agency. The audience and intent are tangential, possibly appealing to practitioners, but not specifically targeting those invested in agentic practices. There are no penalties since it does not reference outdated or contradictory concepts.",
     "reasoning_summary": "The content lightly references emergent practices in software development, but does not directly address or align deeply with Agentic Engineering’s focus on deliberate agency, autonomy, or ethics. Its relevance is tangential and superficial, resulting in a low fit with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_MbvqRG_XNM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 13.65,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content describes the concept of emergent practices arising from collaborative work but does not mention or discuss agentic software delivery, AI agents, or any of the key category themes. Its purpose and focus is on organic process evolution, fitting more with adaptive or emergent methods in Agile than with agentic software delivery, which requires explicit integration of autonomous AI agents and contextual intelligence. Thus, almost no direct relevance or depth regarding agentic systems is present.",
+    "reasoning_summary": "The content does not address agentic software delivery concepts, AI agents, or related themes. It focuses on emergent practices in general collaboration, making the fit to the category weak and mostly unrelated.",
     "level": "Ignored"
   }
 }

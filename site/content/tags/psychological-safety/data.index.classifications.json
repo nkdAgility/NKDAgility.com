@@ -60,16 +60,23 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "Psychological Safety",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 68.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses psychological safety as a foundational element for high-performing teams, which aligns with strategic themes of fostering innovation and adaptability. While it does not explicitly mention strategy, it connects to strategic goals such as employee engagement, resilience, and alignment with agile principles. The depth of discussion on how psychological safety impacts team performance and organisational culture contributes to a higher confidence score, but it lacks direct references to strategic frameworks or planning.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 59.15,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.5,
+    "ai_depth": 5.8,
+    "ai_intent": 5.6,
+    "ai_audience": 7.0,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content focuses on psychological safety as a foundational team concept that supports innovation, adaptability, learning, and high performance—critical qualities for achieving organisational goals. Its description recognises the link to agile principles, team adaptability, and long-term resilience, but it never explicitly frames psychological safety in terms of organisational or strategic planning, direction, or alignment. There are no direct references to strategy, strategic leadership, or the integration of psychological safety into high-level management; references remain at the cultural or team-environmental level. The audience is broad, relevant to leaders/practitioners, and the signal-to-noise ratio is high. The fit is partial: psychological safety is essential for effective strategic outcomes, but the narrative remains at the enabling/team-culture level rather than discussing high-level strategic mechanisms or planning.",
+    "reasoning_summary": "This content mainly explores psychological safety as a team and culture enabler. While foundational for strategy and innovation, it doesn't directly discuss strategy or strategic alignment, so category fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Practice": {
     "category": "Practice",
@@ -3123,6 +3130,25 @@
     "final_score": 35.0,
     "reasoning": "The content thoroughly discusses psychological safety in team settings, emphasizing collaboration, innovation, and high performance—principles that align conceptually with the foundations needed for Collective Intelligence. However, it never directly addresses human-AI collaboration, distributed cognition, or socio-technical systems as defined in the category. The text focuses on interpersonal dynamics and the human element in team function, with no mention of AI agents, collective human-AI cognitive capabilities, or decision-making that leverages both human and AI strengths. Thus, while the foundational aspects for collective intelligence are present, the main idea is not explicitly or deeply aligned with the category’s definition.",
     "reasoning_summary": "This content focuses on psychological safety in human teams, supporting open communication and collaboration essential for high performance and innovation. However, it does not discuss human-AI collaboration or collective intelligence concepts as defined, so alignment with the category is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Psychological Safety",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 18.73,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 5.6,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content thoroughly discusses psychological safety and its benefits for innovation, learning, and high-performing teams in agile and product environments. However, it makes no direct references to Agentic Software Delivery or autonomous AI agents, nor does it address their integration or core mechanisms. While psychological safety is relevant to modern delivery and change, the text lacks specific discussion of agents, context-aware AI, or agent-based delivery models. The audience and some general cultural principles overlap, but there is only partial and indirect conceptual alignment.",
+    "reasoning_summary": "The content focuses on team culture and psychological safety, not on agentic approaches or AI agents in software delivery. It only partially aligns by supporting conditions for modern delivery but lacks explicit or deep agentic links.",
     "level": "Ignored"
   }
 }

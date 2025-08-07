@@ -1330,15 +1330,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "ynIqkNbDN8I",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:36:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of unrealised value in product development and the importance of market understanding and hypothesis-driven practices. While it touches on aspects of feedback loops and deployment frequency, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance early in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 22.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.0,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on unrealised value, hypothesis-driven product management, market understanding, and feedback loops. While it briefly discusses rapid feedback (tangential to Shift Left), there is no explicit mention or in-depth exploration of Shift Left principles such as early testing, security, or compliance. Mentions are absent; depth and alignment are low with the category. No penalties apply, as tone and timeframe are appropriate.",
+    "reasoning_summary": "The content does not fit the Shift Left Strategy category. It centers on product value validation and user feedback, not on moving testing, security, or compliance earlier in the software lifecycle. Fit is unclear and mostly tangential.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1884,5 +1891,24 @@
     "reasoning": "The content focuses on hypothesis-driven development, feedback loops, and rapid value validation, which relate tangentially to agentic principles such as feedback-driven adaptation and continuous value delivery. However, there is no direct mention of 'Agentic Engineering,' developer/AI agency, or ethical AI. The framing is more about product management and evidence-based delivery, missing the philosophical and engineering-specific aspects required for full alignment. Its depth is moderate but does not substantially address core agentic engineering topics.",
     "reasoning_summary": "The article emphasizes feedback loops, hypothesis validation, and rapid value delivery, which touch on adaptive practices, but it lacks explicit focus on agency, engineering autonomy, or ethical AI integration that define Agentic Engineering. Overall, fit is partial and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ynIqkNbDN8I",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 19.65,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 3.3,
+    "ai_audience": 6.15,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on evidence-based management, unrealised value, and product development strategies such as hypothesis-driven development and rapid feedback loops. It mentions deployment frequency and continuous learning, both relevant to modern software delivery, but there are no direct or explicit references to agentic principles such as autonomous AI agents, contextual intelligence, human-AI synergy, or agent-governed systems. The intent remains generally relevant to improving software/product delivery, but it does not address the integration of agents, their agency, or governance frameworks. The audience is similar (software professionals, product managers), and the signal is high, yet core concepts of 'Agentic Software Delivery' are lacking.",
+    "reasoning_summary": "Content discusses product value, feedback loops, CI/CD, and learning, aligning peripherally with agentic delivery's outcomes focus, but lacks reference to AI agents, agency, or human-AI integration. Only a loose fit; category match is weak.",
+    "level": "Ignored"
   }
 }

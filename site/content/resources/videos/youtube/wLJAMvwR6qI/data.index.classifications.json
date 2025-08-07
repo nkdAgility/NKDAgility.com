@@ -1477,15 +1477,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "wLJAMvwR6qI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:20:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development and hypothesis-driven strategies, with no direct mention of the One Engineering System or its principles. While it discusses aspects of validation and experimentation, these topics do not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion lacks depth regarding the One Engineering System framework, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 13.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on hypothesis-driven product development practices, such as managing assumptions and running experiments. There is no mention (direct or indirect) of One Engineering System (1ES), its principles, unified tooling, process integration, or standardisation across teams. The content is aimed at product managers and product development practitioners, not specifically targeted at those implementing engineering system unification. Thus, the alignment and intent only loosely relate through general process improvement, and do not explore or address 1ES itself. No penalties were applied as the content is recent, constructive, and not critical. The confidence score is low due to absence of explicit or conceptual fit to category.",
+    "reasoning_summary": "The content is unrelated to One Engineering System, focusing instead on hypothesis-driven product development. No mention or thematic alignment with 1ES principles, integration, or standardisation is present—fit is minimal to none.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1989,5 +1996,24 @@
     "reasoning": "The content focuses on hypothesis-driven strategies, assumption prioritisation, experimentation, and critical analysis in product development—practices related to informed decision-making and adaptation. However, explicit reference to Agentic Engineering, decentralised decision autonomy, or system observability is missing. The philosophical framing around maximising agency for engineers or AI is not directly present, though the methods discussed (experimentation, critical thinking, empirical validation) conceptually overlap in encouraging autonomy and learning. The target audience aligns well with those interested in engineering practices, and the content's signal-to-noise ratio is high, maintaining relevance throughout. However, the in-depth exploration is centered on product development best practices, not the deliberate design of engineer/AI agency or ethical AI collaboration.",
     "reasoning_summary": "The content strongly discusses hypothesis-driven product development, experimentation, and decision-making—all relevant to adaptive engineering—but lacks direct or thorough connection to Agentic Engineering’s core focus on maximising agency for humans and AI.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wLJAMvwR6qI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 29.625,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.6,
+    "ai_intent": 3.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content is a detailed exploration of assumption identification, hypothesis-driven product development, and experimentation, but makes no mention of autonomy, AI agents, contextual intelligence, or agentic delivery. The focus is on critical thinking, prioritization, and testing processes, important in modern product development but not inherently agentic. There are indirect connections regarding feedback loops and learning, and superficial mention of product backlog and decision analysis but nothing about embedding, integrating, or synergizing with AI agents or agency. Audience is product professionals/practitioners, which partially overlaps. Virtually all content is on product process improvement, not agentic principles. Therefore, alignment is minimal and confidence remains low.",
+    "reasoning_summary": "The content centers on hypothesis-driven product development and critical experimentation, not on AI agents or agentic delivery. Themes and intent do not match the definition. Only weak, indirect links exist—thus, category fit is minimal.",
+    "level": "Ignored"
   }
 }

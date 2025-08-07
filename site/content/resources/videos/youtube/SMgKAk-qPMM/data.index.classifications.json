@@ -1459,15 +1459,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "SMgKAk-qPMM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:13:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and the concept of temperance within that framework. While it touches on principles relevant to software development, it does not explicitly discuss the One Engineering System (1ES) or its components, integration, or best practices. The discussion is centred around Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 12.798,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.3,
+    "ai_audience": 3.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content explicitly focuses on temperance and moderation within Agile/Scrum, emphasizing lean backlogs, WIP limits, and value-driven priorities. There is no mention or conceptual exploration of One Engineering System or its unification of tools/processes. Its main intent is to guide Agile practitioners on moderation—not on standardising or integrating engineering systems across teams. While the advice given could broadly align with underlying principles valued in integrated systems, there is no connection made to 1ES standards, frameworks, case studies, adoption challenges, or tool integration. Hence, this content does not fit the 'One Engineering System' category in any substantive way.",
+    "reasoning_summary": "This content focuses on moderation and best practices in Agile/Scrum, with no relevant discussion of One Engineering System concepts, integration, or standardisation of engineering systems. It does not align with the category definition.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1975,6 +1982,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on temperance within Agile, emphasizing moderation, lean backlogs, and limiting work in progress to maximize efficiency and value. While these themes align loosely with decentralized decision-making and continuous improvement, they do not engage with the explicit principles of Agentic Engineering such as maximizing human and AI agency, system observability, DevOps-infused craft, or ethical AI integration. There is no discussion of engineering practices that empower both humans and AI, and the narrative does not reference engineering frameworks, feedback systems, or systemic autonomy. The intended audience (Agile practitioners) overlaps somewhat, and the content is focused and relevant to practical Agile, but it falls short on direct mentions and in-depth alignment with the Agentic Engineering classification. No penalties were applied, as there is no outdated content or negative tone.",
     "reasoning_summary": "This content centers around moderation and value-focused practices in Agile but does not explicitly or deeply address Agentic Engineering themes like agency maximization, DevOps ethos, or intelligent system autonomy. It has low direct category relevance despite some tangential overlap.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 7.667,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 1.3,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively discusses moderation, backlog size, and efficiency within classic Agile/Scrum and Lean contexts—topics focused on team workflow, backlog refinement, WIP limits, and value delivery. There are no discussions, either explicit or implied, about integrating autonomous AI agents, contextual intelligence, human-AI synergy, agent governance, or any systemic agentic principles. All examples and advice are firmly rooted in human-centered, non-agentic Agile practices. Thus, there is almost no conceptual overlap with Agentic Software Delivery. Minimal alignment arises only insofar as the efficient delivery of value is a shared desired outcome.",
+    "reasoning_summary": "Content is focused on classical Agile moderation and efficiency, not on agentic principles or AI agent integration. No overlap with Agentic Software Delivery themes; fit is extremely weak and almost entirely off-category.",
     "level": "Ignored"
   }
 }

@@ -1426,15 +1426,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "F0jOj6ql330",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:26:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the personal experiences and motivations of a Scrum developer, discussing the joy and meaning derived from Scrum practices. It does not address the One Engineering System framework, its principles, or its integration with other processes, which are essential for alignment with the category. The discussion is centred around individual perspectives rather than the standardisation and integration of engineering practices.",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 5.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 1.4,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "There are zero direct mentions or references to One Engineering System (1ES), its principles, integration, or unified practices. The sole focus is on the personal rewards and subjective fulfillment gained from Scrum development work, not on system integration or standardisation. The themes center around meaning, impact, and passion in Scrum, and not on technical process alignment or cross-team tool standardisation. The content targets individuals interested in Scrum roles, without touching on audience concerns specific to 1ES such as system-wide engineering practices or frameworks. No penalties applied as the tone is neutral and there's no outdatedness; low scores and low confidence result solely from near-universal lack of alignment.",
+    "reasoning_summary": "There is no discussion or mention of One Engineering System; the content focuses solely on personal fulfillment as a Scrum developer. None of the category’s core definitions or themes are present. This content does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1936,6 +1943,25 @@
     "final_score": 33.0,
     "reasoning": "There is no explicit or even implicit mention of Agentic Engineering or its key themes such as system observability, DevOps-infused craft, or ethical AI integration. The content emphasizes purpose and meaningful work for Scrum developers, which is tangentially aligned, as agency is somewhat implicit in the concept of meaningful, creative work. However, it does not discuss deliberate engineering practices, decentralization, or human/AI agency as system-level concerns. The audience, focused on Scrum and Agile practitioners, is adjacent to Agentic Engineering's technical audience. The content maintains a relevant, motivating focus for its intended audience, but lacks signal for the evaluated category.",
     "reasoning_summary": "This content focuses on personal fulfillment and meaningful work for Scrum developers but lacks explicit discussion of Agentic Engineering concepts. Alignment is tangential, with minimal relevance to engineering practices that maximize human and AI agency. Fit for the category is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "F0jOj6ql330",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 7.61,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.55,
+    "ai_intent": 1.35,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is solely focused on the intrinsic motivations and sense of purpose of individual Scrum developers. There is no mention of autonomous AI agents, contextual intelligence, or the integration of agentic principles in software delivery. While aspects of 'finding purpose' and productivity are somewhat related to team and delivery outcomes, the entire discussion is about passion, meaning, and personal fulfillment in Scrum work, not the proactive, intelligent systems or the specific organizational strategies described in Agentic Software Delivery. None of the core topics from the Agentic category are addressed, and the content is explicitly pitched to Scrum practitioners rather than those interested in advanced AI-augmented delivery processes. No penalties applied, as there is no contradiction or outdated material. Extremely poor fit for the evaluated category.",
+    "reasoning_summary": "This content is about the personal rewards and motivations of Scrum developers, with no mention or alignment to agentic software delivery, AI agents, or the integration of contextual intelligence into delivery workflows. Very poor category fit.",
     "level": "Ignored"
   }
 }

@@ -1381,15 +1381,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "T07AK-1FAK4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:28:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, focusing on leadership and team dynamics rather than the principles or components of the One Engineering System. While it touches on aspects of Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more about personal experiences and opinions rather than a structured analysis of a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 17.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on the threat of 'fake agilists' undermining Agile practices, sharing personal experiences and best practices for identifying genuine leaders. There is no discussion or mention of One Engineering System (1ES) or the integration/standardisation of tools, frameworks, or engineering processes across teams. The main themes—trust, competence, and the importance of genuine Agile implementation—are tangential to 1ES and do not address its framework or components. The article is aimed at Agile practitioners, which partially overlaps with the 1ES audience, but all substantive content is grounded in personal opinions on Agile rather than unified system integration or 1ES-specific challenges.",
+    "reasoning_summary": "Content is unrelated to One Engineering System: no mentions, no discussion of integrated frameworks or standardisation, and all main themes center on Agile leadership quality. Fit is missing except for partial audience overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1894,6 +1901,25 @@
     "final_score": 36.0,
     "reasoning": "This content focuses mainly on warning against inauthentic Agile leadership, with emphasis on genuine experience, trust, continuous improvement, and outcomes. While it encourages agency and autonomy for teams, it does so within the conventional Agile context—lacking explicit discussion of engineering practices for maximizing human or AI agency, system observability, or DevOps-infused craft. There is no mention of Agentic Engineering as a term, nor substantial exploration of ethics, decentralized decision-making, or AI collaboration. The target audience overlaps with Agentic Engineering in that the piece addresses software teams and leaders, but conceptual and thematic match, as well as depth, remain partial. Penalizations were applied for lack of explicitness, partial conceptual fit, and superficial treatment of key Agentic Engineering elements.",
     "reasoning_summary": "The article champions authentic Agile leadership, team autonomy, and value delivery, themes adjacent to Agentic Engineering. However, it does not address core topics like deliberate engineering for agency, decentralized frameworks, or AI collaboration, resulting in only moderate confidence in category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "T07AK-1FAK4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 13.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct or implicit mentions of agentic principles, autonomous AI agents, or systemic intelligence in software delivery. The discussion is centered solely on leadership quality, certification, and authentic Agile practice, which lacks alignment with the key topics of Agentic Software Delivery. No coverage of agent integration, context-aware intelligence, or modern agentic governance. The relevance is very low and any partial tie (software delivery, focus on outcomes) is coincidental, not intentional.",
+    "reasoning_summary": "The content addresses authentic Agile leadership and warns against 'fake agilists' but does not reference agentic concepts, AI agents, or their integration into software delivery. Fit with Agentic Software Delivery is minimal and coincidental.",
     "level": "Ignored"
   }
 }

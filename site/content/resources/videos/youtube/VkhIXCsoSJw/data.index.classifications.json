@@ -1506,16 +1506,23 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "VkhIXCsoSJw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:47:57",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses automation in software development, which is relevant to improving processes but does not explicitly mention the One Engineering System (1ES) framework or its principles. While it touches on aspects like quality assurance and deployment, it lacks a direct focus on the integration and standardisation of engineering practices across teams, which is central to 1ES. The depth of discussion on 1ES-related topics is minimal, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 43.27,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.7,
+    "ai_intent": 4.0,
+    "ai_audience": 5.8,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on automation in software development, especially within Azure DevOps, highlighting transformation via testing, deployment, and validation automation. While themes of cross-team quality and process unification are present, there's no direct mention of One Engineering System (1ES), nor are 1ES's unique frameworks or principles discussed. Core concepts like tooling integration and systemic standardization (hallmarks of 1ES) are implied but not explicit or central. The strongest category overlap comes from process improvement and quality themes, but the content is mainly about adopting automation for better delivery, not a comprehensive unified system. Thus, confidence is modest, and fit is partial.",
+    "reasoning_summary": "Mainly focuses on automation in DevOps and Azure teams. Closely related to some 1ES principles (process quality, team integration), but never directly references or deeply explores 1ES frameworks. Fit is partial; core category is only indirectly addressed.",
+    "level": "Tertiary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
@@ -2013,5 +2020,24 @@
     "reasoning": "The content strongly addresses automation as a practice that empowers engineering teams and developers by giving them agency, particularly through local testing and rapid feedback, aligning well with Agentic Engineering principles. The Azure DevOps case study effectively demonstrates decision decentralization and feedback-driven adaptation, key tenets of the category. However, the piece lacks explicit reference to Agentic Engineering as a philosophy or term, and does not deeply explore ethical AI integration or the broader concept of human/AI collaboration. The main focus is process, not the integrated philosophy of agency maximization for humans and AI. The intended audience is highly aligned (developers and technical leaders), and the content is mostly signal focused on empowerment, with minimal off-topic text. No penalties applied.",
     "reasoning_summary": "This content closely aligns with Agentic Engineering's focus on developer empowerment, automation, and rapid feedback, using a real-world DevOps example. While it doesn't mention the category or delve into its philosophical aspects, it solidly reflects key agentic practices for a technical audience.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VkhIXCsoSJw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 31.78,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content comprehensively discusses modern automation practices (testing, deployment, feedback loops) using a real Azure DevOps example, but it focuses on classic automation/CI/CD rather than the integration of autonomous AI agents, agency, or intent-aware systems that define Agentic Software Delivery. There's some overlap in topics like telemetry-feedback loops and empowerement, but no direct or indirect reference to agentic principles, agent autonomy, human-in-the-loop design, or synergy between human expertise and autonomous AI agents. The audience is technical (engineers, team leads), which matches, and the focus is sustained, but depth on actual agentic approaches is low. No penalties apply: it's not outdated or satirical.",
+    "reasoning_summary": "While the article addresses advanced automation, feedback, and engineering empowerment, it does not engage with agentic principles or AI agent integration central to Agentic Software Delivery. Alignment is partial and incidental, not intentional.",
+    "level": "Ignored"
   }
 }

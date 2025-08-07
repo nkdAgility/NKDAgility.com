@@ -1294,15 +1294,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "gM0_K8u2puo",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:32:10",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 2.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the importance of frequent product releases and user feedback, which does not directly relate to Test First Development principles. While it touches on agile practices, it lacks explicit discussions on success criteria, testing methodologies, or the role of testing in the development process.",
+    "reasoning": "The content centers on the advantages of frequent product releases for market leadership. There are no direct or indirect references to Test First Development, success criteria, or testing practices. Discussion is focused on release cadence, responsiveness, and business impact—not on the pre-definition of tests or collaborative alignment on outcomes. The main themes are unrelated to Test First Development principles, and the intended audience is business/product-focused rather than practices or techniques underlying high-quality or test-first software delivery.",
+    "reasoning_summary": "The content does not address Test First Development principles, practices, or themes in any direct or conceptual way, focusing entirely on frequent releases and market leadership. It is not a fit for this category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1889,6 +1896,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on the business and product advantages of frequent releases, user feedback, and agility, all of which overlap thematically with continuous value delivery and elements of agency. However, it does not mention 'Agentic Engineering' or its core philosophical aspects. Autonomy and systemic observability are implied but not explicitly discussed, and technical or ethical dimensions and frameworks related to human or AI agency are absent. The material is informative for practitioners but largely business- and process-focused, rather than engineering-principled or agency-centered.",
     "reasoning_summary": "This content is centered on frequent product releases and adapting to user feedback, aligning somewhat with continuous value delivery. However, it lacks explicit discussion of agency, engineering principles, or systemic autonomy, resulting in only modest relevance to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gM0_K8u2puo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 24.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.4,
+    "ai_intent": 3.3,
+    "ai_audience": 6.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on agile release frequency, continuous delivery, and user feedback, but does not mention or meaningfully engage with agentic principles such as autonomous AI agents, contextual intelligence, agent/human synergy, or governance frameworks. There is indirect alignment in advocating for modern delivery practices (e.g., rapid feedback loops, user-centricity), which are prerequisites for agentic delivery, but the content stays at a general agile/product delivery level. No evidence or examples of agentic AI, autonomous systems, or explicit reference to software delivery agent design are present. Audience (product/engineering managers) and focus are somewhat compatible, but the depth and alignment with the unique agentic concept are modest.",
+    "reasoning_summary": "Content is about modern, continuous product delivery and agile practices, but does not address agentic software delivery, autonomous AI agents, or related frameworks. Fit with the category is minimal and largely incidental.",
     "level": "Ignored"
   }
 }

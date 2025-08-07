@@ -1419,15 +1419,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "Jz5uZMzPiRx",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T22:16:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of various methodologies but does not delve into its principles, roles, or practices. While it discusses agility and organisational responsiveness, it does not focus on Scrum as a framework or its specific components, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 31.31,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.1,
+    "ai_intent": 3.6,
+    "ai_audience": 4.2,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "Scrum is mentioned explicitly, but only as an example among several frameworks (SAFe, Nexus, Scrum@Scale), and not discussed in depth. The article critiques the focus on adopting named frameworks for agility, instead advocating for custom, organisation-specific processes. It positions Scrum (and similar frameworks) as tools rather than ends, with minimal exploration of their actual concepts, roles, or practices. The main audience overlaps somewhat with Scrum practitioners—those interested in organisational agility—yet the actual content is broad, focusing on agility at large, not Scrum. The signal-to-noise ratio is moderate: while the text is relevant to agility, only a minor portion is about Scrum. No penalties apply, but the overall confidence is low due to lack of conceptual depth and focus.",
+    "reasoning_summary": "Scrum is referenced, but only as an example; the content focuses on organisational agility generally, not Scrum principles or practices. Only loose alignment with the category definition, so fit is low and partial.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1989,5 +1996,24 @@
     "reasoning": "The content focuses on organisational agility and advocates for bespoke processes rather than adopting generic frameworks. While it references DevOps and criticises standardised approaches, it does not explicitly mention agentic engineering or its core themes, such as maximising agency for humans and AI, decentralised decision-making, or ethical AI integration. Its main thrust is about responsiveness and custom process-building, which partially aligns with agentic values, but lacks specific discussion of agency, observability, feedback-driven adaptation, or engineering practices fostering human or AI autonomy. The audience fit and content focus are generally relevant, but the discussion stays surface-level regarding agentic concepts and does not delve into engineering practices or philosophical dimensions of agency.",
     "reasoning_summary": "This article partially aligns with Agentic Engineering by advocating custom, adaptive processes and critiquing rigid frameworks, but it lacks explicit discussion of agency, decentralised decision-making, or autonomous engineering practices, making its fit with the category moderate at best.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Jz5uZMzPiRx",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 17.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 3.2,
+    "ai_audience": 4.4,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses organisational agility and the need for bespoke process redesign over adopting standard frameworks. However, it does not mention agentic concepts, AI agents, context-aware intelligence, or synergies between humans and agents. Key Agentic Software Delivery topics, such as autonomous AI integration or engineering practices surrounding agency, are absent. The discussion remains at a high level, focused on agility mindsets and process evolution. While the audience overlaps with those interested in software delivery transformation, the lack of direct or conceptual references to agentic delivery sharply lowers alignment and depth. No penalties applied as the content is current and not satirical.",
+    "reasoning_summary": "Content is about organisational agility and process redesign, not Agentic Software Delivery. It lacks any mention or exploration of autonomous agents, AI, or agency. Fit is poor and only tangentially related at best.",
+    "level": "Ignored"
   }
 }

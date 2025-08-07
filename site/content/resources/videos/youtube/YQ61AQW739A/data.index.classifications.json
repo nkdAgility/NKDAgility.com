@@ -3308,21 +3308,21 @@
   "Lean Thinking": {
     "resourceId": "YQ61AQW739A",
     "category": "Lean Thinking",
-    "calculated_at": "2025-07-15T17:14:18",
-    "ai_confidence": 50.386,
-    "ai_mentions": 1.8,
-    "ai_alignment": 5.75,
-    "ai_depth": 5.6,
-    "ai_intent": 5.4,
-    "ai_audience": 7.3,
-    "ai_signal": 6.2,
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 36.538,
+    "ai_mentions": 0.421,
+    "ai_alignment": 4.352,
+    "ai_depth": 4.258,
+    "ai_intent": 3.812,
+    "ai_audience": 7.009,
+    "ai_signal": 6.743,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 50.0,
-    "reasoning": "The content centers on migrating from legacy systems to modern engineering with Azure DevOps, emphasizing step-by-step improvement and eliminating blockers. While it overlaps with Lean concepts like incremental progress and the focus on blockers (broadly aligning with waste elimination), it does not directly reference Lean Thinking, Lean principles, or its core methodologies (e.g., Value Stream Mapping, 5S, Kaizen). There are strong hints of continuous improvement, but no explicit or in-depth treatment of Lean-specific topics. The intent remains primarily about engineering transformation using DevOps, though the agile, context-driven, incremental approach loosely matches Lean philosophies. Audience fit is sound, targeting practitioners and leaders interested in technical transformation, but much of the content is generalized modernization advice rather than focused exploration of Lean Thinking.",
-    "reasoning_summary": "While the content uses a stepwise, improvement-focused approach that resonates with Lean philosophies, it does not explicitly discuss Lean Thinking, its principles, or methodologies. The connection is indirect, emphasizing engineering modernization more than Lean itself.",
-    "level": "Tertiary"
+    "final_score": 37.0,
+    "reasoning": "The content focuses on engineering transformation from legacy to DevOps using modern automation, iterative change, and evidence-based practices. While themes such as continuous improvement, reducing bottlenecks/waste, and involving the whole team tangentially align with Lean Thinking, there are no direct mentions of Lean principles, terms, or core tools (like value stream mapping, 5S, or Muda). The main focus is practical DevOps and cultural transformation rather than a thorough or explicit Lean Thinking discussion. The target audience (practitioners, technical leads) is similar, and the content is focused and relevant with little off-topic info. However, the Lean fit is only partial and implicit.",
+    "reasoning_summary": "Content emphasizes DevOps and cultural transformation with only implicit references to Lean principles (e.g., eliminating manual waste, continuous improvement). No direct Lean focus or terminology; fit is partial and indirect.",
+    "level": "Ignored"
   },
   "Agentic Engineering": {
     "resourceId": "YQ61AQW739A",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content focuses on modernizing legacy engineering using Azure DevOps via a roadmap centered on gradual adoption, automation, incremental change, and fostering technical leadership. It aligns with Agentic Engineering concepts (engineering excellence, DevOps, agency, context-driven change, empirical evolution), though it never explicitly mentions 'agentic' themes or the philosophy directly. Discussions of agency and system adaptation are implied but not deeply explored, and AI collaboration/ethical autonomy aren't present. The audience (technical leaders, engineers) is a strong match, and content stays thematically relevant with little filler. Lack of explicit category reference and limited discussion depth cap the confidence score.",
     "reasoning_summary": "The content supports Agentic Engineering concepts through its focus on incremental modernization, automation, and technical leadership in software delivery. While direct references and depth are modest, the intent, approach, and audience fit Agentic Engineering principles.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "YQ61AQW739A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 34.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.8,
+    "ai_intent": 4.1,
+    "ai_audience": 6.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content details a roadmap for transforming legacy engineering to DevOps, focusing on automation, continuous delivery, culture change, and evidence-based improvement. However, it never references agentic concepts, autonomous AI agents, or context-aware agent integration. Automation here denotes typical DevOps practices—CI/CD, automated tests, and approvals—without agency, autonomy, or human-agent synergy. Governance, telemetry, and continuous feedback are discussed but only as part of standard DevOps transformation, not via proactive, context-aware AI agents. The intent and audience partially align (practitioners, engineering leads), but all substantive agentic delivery concepts are missing. Thus, conceptual and depth scores are partial, with limited intent fit and higher practical DevOps signal. No penalties applied.",
+    "reasoning_summary": "The content describes modern DevOps transformation with automation and continuous improvement but lacks any discussion of autonomous agents or agency. Only generic DevOps practices are mentioned, so fit with 'Agentic Software Delivery' is weak and mostly indirect.",
+    "level": "Ignored"
   }
 }

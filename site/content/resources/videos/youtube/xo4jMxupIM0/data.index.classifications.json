@@ -1484,15 +1484,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "xo4jMxupIM0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:21:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 12.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices and the Professional Scrum Master (PSM) immersive learning experience, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and learning, these concepts are framed within the context of Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category. Therefore, the content does not meet the criteria for a strong alignment with the One Engineering System.",
+    "reasoning": "The content is focused on immersive learning and double-loop feedback within Scrum Master training, emphasizing practical application, collaboration, and reflection. At no point does it mention or discuss One Engineering System (1ES), its principles, components, tools, integration, or standardisation. There are no references to framework unification, cross-team process standardisation, or 1ES-specific best practices. Any conceptual overlap in terms of collaboration or continuous improvement is coincidental and generic to agile practices, not unique or tailored to 1ES. Thus, there is minimal opportunity for categorical fit, and only a token signal is allotted for skills overlap.",
+    "reasoning_summary": "The content is unrelated to One Engineering System and solely discusses Scrum Master training and learning methods, with no mention of 1ES, its principles, or unification themes. Fit is minimal and coincidental, not substantive or intentional.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1997,5 +2004,24 @@
     "reasoning": "The content focuses on immersive, double-loop learning within Scrum Master training. It explores reflective practice, feedback loops, continuous improvement, and collaboration—ideas adjacent to maximizing human agency. However, it does not reference Agentic Engineering, AI, or the deliberate engineering of agency at system level. The discussion is centered on professional development and Scrum practices, not systemic engineering environments or DevOps/AI infusion. Thus, alignment and depth are present but limited regarding the category's specific meaning. Audience partially overlaps (practitioners), but intent is more developmental than engineering-focused. No penalties are justified.",
     "reasoning_summary": "While the article promotes agency, continuous feedback, and reflective learning—concepts loosely related to Agentic Engineering—it does not explicitly discuss engineering system design, AI autonomy, or agentic engineering principles. Overall, it sits adjacent to, but outside, the core focus of the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xo4jMxupIM0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 13.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 2.6,
+    "ai_audience": 2.1,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused on Scrum Master immersive training and the concept of double-loop learning, emphasizing collaboration, real-world application, and reflection. Nowhere does it mention, reference, or imply Agentic Software Delivery, AI agents, or the deliberate integration of contextual intelligence into delivery practices. Key topics like autonomous agents, human-agent synergy, or modern engineering practices related to agentic delivery are absent. Any overlap is limited to general ideas of feedback and adaptation, but these are intrinsic to Scrum itself and not specific to agentic concepts. No penalty deductions were required as the content is not outdated nor contradictory.",
+    "reasoning_summary": "This piece centers on Scrum Master training and learning methods, without reference to AI agents, contextual intelligence, or agentic delivery principles. There is minimal relevance to Agentic Software Delivery, making the fit very weak.",
+    "level": "Ignored"
   }
 }

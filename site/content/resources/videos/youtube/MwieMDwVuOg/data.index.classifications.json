@@ -1330,15 +1330,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "MwieMDwVuOg",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:36:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses scaling and agile methodologies but does not explicitly mention the Shift-Left Strategy or its principles. It focuses on organisational growth and agility rather than integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 14.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on scaling agile practices, organisational growth, simplification, and value delivery but makes no explicit mention of Shift-Left Strategy or its core principles. Topics like early integration of testing, security, or compliance are absent. No relevant case studies, metrics, or tools for Shift-Left are discussed. The audience is agile/organizational practitioners, somewhat related, but the signal for Shift-Left is extremely weak. No outdated/contradictory information or penalty triggers are present.",
+    "reasoning_summary": "The content discusses scaling and agile practices, not Shift-Left Strategy or its core principles. There are no mentions or substantial alignment, so this content only very weakly fits the assigned category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1887,6 +1894,25 @@
     "final_score": 35.0,
     "reasoning": "The content discusses sustainable scaling, focusing on value delivery, simplification, resilience, and sound agile practices. However, it stops short of engaging with the core concept of Agentic Engineering: it omits explicit mention of human/AI agency, decentralised decision-making, or agentic systems. While there are hints of engineer empowerment and systemic thinking (e.g., removing bottlenecks), there’s minimal alignment with the philosophical ideals of agency maximisation, ethical AI, or DevOps-infused craft. The audience appears to be technical and leadership stakeholders, which moderately overlaps with Agentic Engineering, but the discussion largely remains at an organisational agile practice level, without delving into deliberate agentic design. No dimension here fits tightly enough for a strong score.",
     "reasoning_summary": "This content explores sustainable agile scaling with some overlap in agency and systemic thinking but falls short of Agentic Engineering’s focus on maximising human/AI autonomy, decentralised decision-making, and ethical system design. Minor thematic alignment but not a strong fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MwieMDwVuOg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 27.95,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 9.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on agile scaling, simplification, and value delivery but makes no reference to autonomous AI agents, contextual intelligence, or agentic delivery practices. While the audience and relevance overlap with Agentic Software Delivery, the main ideas and depth do not. There is no mention of agency in software, AI integration, feedback-driven agents, or related engineering/governance concerns, and the approach is strictly human/process-centric.",
+    "reasoning_summary": "This content centers on agile scaling and organizational growth—there is no mention or exploration of agentic software, AI agents, or related concepts. Thus, fit to 'Agentic Software Delivery' is minimal and mostly incidental.",
     "level": "Ignored"
   }
 }

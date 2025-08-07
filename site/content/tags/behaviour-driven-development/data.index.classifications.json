@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Behaviour Driven Development",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 62.48,
+    "ai_mentions": 3.8,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.9,
+    "ai_intent": 6.1,
+    "ai_audience": 6.4,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 62.0,
-    "reasoning": "The content discusses Behaviour Driven Development (BDD) and its role in aligning development with business goals, which indirectly touches on accountability through shared ownership and collaboration. However, it lacks explicit discussions on structural accountabilities or specific roles like Product Owner or Scrum Master. The focus is more on collaboration and communication rather than on clearly defined outcome ownership, which is essential for a higher confidence score in the accountability category.",
+    "reasoning": "The content discusses BDD’s role in clarifying requirements, enhancing collaboration, and fostering shared ownership and accountability within teams. Direct mentions of accountability are present, but the primary emphasis is on collaboration and requirement clarity, not structural or outcome-based accountability as defined. There is moderate alignment with the category, as BDD indirectly supports team clarity and some degree of accountability, but does not discuss explicit outcome ownership, specific roles, or structural mechanisms—core aspects of the Accountability tag. The depth of coverage specifically on accountability is only moderate, with shared accountability mentioned but not explored in detail. The primary audience (teams and practitioners) overlaps with the Accountability category, but the piece is more about practice (BDD) than about system-level roles or design. Signal is decent, as content is focused and relevant but not all directly concerned with accountability.",
+    "reasoning_summary": "BDD content partially fits: it mentions shared ownership/accountability but mainly emphasizes clarity and collaboration. There is some conceptual overlap, but it lacks deep, explicit discussion of outcome-based or structural accountabilities.",
     "level": "Secondary"
   },
   "Framework": {
@@ -3112,6 +3119,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on Behaviour Driven Development as a means to enhance human collaboration, align development with business goals, and improve communication among team members. While it discusses shared understanding, collaboration, and systemic practices, it never references AI, human-AI partnership, or any aspect of collective intelligence as defined. No direct or indirect mention is made of AI agents, distributed cognition involving technology, or human-AI teaming. Thus, alignment, depth, and intent are minimal, limited to superficial overlaps like teamwork and collaboration which are insufficient for this category.",
     "reasoning_summary": "The content discusses collaborative practices in Behaviour Driven Development but does not address human-AI partnership or collective intelligence. It remains centered on human collaboration and shared understanding without any reference to AI participation or augmentation of team cognition.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Behaviour Driven Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 28.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 3.0,
+    "ai_audience": 3.4,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content provides an overview of Behaviour Driven Development (BDD), focusing on collaboration, requirement clarity, automated testing, and continuous delivery. However, it does not mention or discuss agentic software delivery, autonomous AI agents, contextual intelligence, or governance frameworks related to agentic systems. No explicit or implied connection to the integration of AI agents or agentic principles is presented. The main audience (developers/teams interested in BDD) partially overlaps but lacks targeting of agentic delivery practitioners. The signal is decent due to clear and focused writing, but the content remains outside the scope of the agentic software delivery category.",
+    "reasoning_summary": "This content focuses on Behaviour Driven Development and collaborative practices but does not address agentic software delivery, autonomous agents, or contextual AI. It only partially aligns at the process-improvement level, resulting in a low category fit.",
     "level": "Ignored"
   }
 }

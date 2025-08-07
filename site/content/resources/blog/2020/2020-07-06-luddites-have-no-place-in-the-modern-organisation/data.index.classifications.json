@@ -1510,15 +1510,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "dyxqF7lrHmn",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:52:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of Luddites in relation to organisational change and agility, without directly addressing the principles or components of the One Engineering System. While it touches on themes of cultural change and agile practices, it does not provide substantial detail on the integration of tools or processes across teams, nor does it discuss the One Engineering System framework itself.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 18.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "There is no direct mention or explicit discussion of the One Engineering System (1ES) framework. The post focuses on organisational culture, resistance to change, and agile transformation—using Microsoft’s evolution as an example—but does not explore the integration, standardisation, or principles of 1ES itself. The content is aimed at agile leaders and practitioners, which partially overlaps with the 1ES audience. However, the subject matter is more about culture and mindset than unified engineering frameworks or systematised process integration.",
+    "reasoning_summary": "Content centers on culture and resistance to change in agility, not on One Engineering System principles, processes, or integration. Only faint audience and context connection—fit is weak and mostly indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2027,5 +2034,24 @@
     "reasoning": "The content centers on organizational agility, adaptability, cultural evolution, and leadership. While there is indirect alignment with Agentic Engineering—especially around autonomy, cross-functional teams, and evolving practices—the discussion lacks explicit references or depth on maximizing human/AI agency, deliberate engineering design, DevOps integration, or feedback-driven adaptation. Little mention is made of core agentic frameworks, systemic observability, or intentional engineering practices. Therefore, fit is partial but not strong, with highest relevance on cultural and autonomy themes.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering through its focus on agile culture and team autonomy, but it lacks explicit or deep discussion of engineering practices, human/AI agency, or the deliberate design elements central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dyxqF7lrHmn",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 22.366,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 3.4,
+    "ai_audience": 7.0,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The article focuses on resistance to change in organizations, particularly regarding Agile adoption and modern leadership. It discusses cultural evolution, adaptable teams, and examples such as Microsoft, but never mentions agentic software delivery, AI agents, or any specific agentic principles. There are no discussions of autonomous AI integration, human+AI synergy, or contextual intelligence within delivery pipelines. The main thrust is organizational mindset—not the design or operation of agent-powered, context-aware delivery systems. The audience is somewhat aligned (practitioners, leaders in delivery), but all other scoring factors are only partially relevant or weakly connected to the category definition.",
+    "reasoning_summary": "Content discusses agile culture and resistance to change, lacking references to agentic software delivery, AI agents, or contextual intelligence. It does not cover agentic principles or delivery models; fit to category is weak and mostly tangential.",
+    "level": "Ignored"
   }
 }

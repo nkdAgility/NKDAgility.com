@@ -60,15 +60,22 @@
     "level": "Secondary"
   },
   "Strategy": {
+    "resourceId": "Operational Practices",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses operational practices and their role in enhancing efficiency and delivery, which indirectly ties to strategic alignment. While it mentions the importance of aligning team efforts with strategic goals, the primary focus remains on operational tactics rather than high-level strategic discussions. The depth of discussion on operational practices is significant, but it lacks a strong emphasis on overarching strategic frameworks or decision-making processes.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 72.85,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.3,
+    "ai_intent": 7.1,
+    "ai_audience": 7.7,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content discusses operational practices with several references to how these practices align with strategic goals and contribute to long-term organisational success. While the primary focus is on operational improvement, it explicitly positions these practices as vehicles for achieving strategic alignment, promoting resilience and adaptability, and tying day-to-day activities to overarching missions. The discussion touches on frameworks like Lean, Agile, and DevOps, and references systemic/long-term value, which aligns partially with the Strategy category. However, considerable portions of the content concentrate on operational methods rather than strategic frameworks or high-level planning, limiting both the directness and the depth relative to the Strategy category. No penalties applied, as there is no outdated information or contradictory stance.",
+    "reasoning_summary": "The content has a moderate-to-strong fit with 'Strategy,' mainly due to repeated links between operational practices and strategic alignment, but does not go in-depth into strategic planning or decision-making frameworks.",
     "level": "Secondary"
   },
   "Practice": {
@@ -3110,6 +3117,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses on operational efficiency via methodologies like Agile and DevOps. However, it does not discuss human-AI collaboration, AI agent design, or distributed cognition. It addresses collaboration in general, but solely among humans, without reference to AI partnership or collective intelligence. No direct mentions or substantial thematic overlap with the category occur, although the audience and signal are broadly aligned.",
     "reasoning_summary": "This content is centered on human team operational best practices, efficiency, and collaboration but does not address human-AI partnerships or collective intelligence themes, resulting in low overall alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Operational Practices",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 25.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.2,
+    "ai_intent": 2.4,
+    "ai_audience": 7.3,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses broadly on operational efficiency using methodologies like Lean, Agile, and DevOps. While these are related to modern software delivery, there's no explicit or implicit discussion of autonomous AI agents, agentic integration, or contextual intelligence. Key agentic elements like human-agent synergy, proactive intelligence, or governance frameworks for AI do not appear. The audience and relevance are somewhat close, as it targets improvement in software or operational delivery, but the main themes and depth are generic, not agentic.",
+    "reasoning_summary": "The content is general—covering operational efficiency and delivery but missing any mention or exploration of agentic software delivery, AI agents, or agency concepts. Fit is minimal and mostly tangential.",
     "level": "Ignored"
   }
 }

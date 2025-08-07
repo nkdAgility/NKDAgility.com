@@ -1429,15 +1429,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "_rJoehoYIVA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:26:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and personal experiences. While it touches on aspects of software development processes, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it discuss integration or standardisation across teams, which are core to 1ES.",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 17.2,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.7,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content provides a detailed discussion of Azure DevOps migrations, challenges, solutions, and best practices. It emphasizes the standardisation of tools and processes, which has some conceptual overlap with One Engineering System (1ES) principles, particularly in regard to unification and efficiency. However, 1ES is never directly mentioned, nor are its frameworks, components, or principles explicitly discussed. The focus is on Azure DevOps tooling rather than on a broader unified engineering system. The audience is technical, matching the likely 1ES audience, but the intent, depth, and relevance to 1ES are only partially aligned. The content would be relevant to those interested in standardised migration processes, but it doesn't address 1ES as defined.",
+    "reasoning_summary": "Content covers Azure DevOps migrations and best practices, partially aligning with standardisation themes, but never mentions or meaningfully discusses One Engineering System (1ES). Fit is partial and mostly tangential rather than explicit or thorough.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1940,6 +1947,25 @@
     "final_score": 37.0,
     "reasoning": "The content strongly focuses on practical Azure DevOps migration strategies, planning, testing, and overcoming challenges. However, it does not mention 'Agentic Engineering' directly or engage with the concept of maximizing human or AI agency, decentralized decision-making, or ethical AI integration as defined. Most discussion is about process management, technical hurdles, and best practices at a tactical (rather than philosophical or agentic) level. The article is targeted to technical professionals but remains tool-centric, without framing practices in terms of autonomy, agency, or value-driven engineering excellence. There is a passing tone of adaptability and supporting employee change, but no explicit reference to the agency of humans or intelligent systems, system observability, or AI-driven empowerment.",
     "reasoning_summary": "This content explains Azure DevOps migration best practices and challenges without referencing Agentic Engineering or related concepts. While somewhat relevant to engineering audiences, it lacks the agency-centric and philosophical focus required for strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 12.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 4.2,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on migrating to Azure DevOps, covering best practices, scenarios, and process challenges. Nowhere does it mention or suggest agentic principles or AI agent integration, nor does it discuss contextual intelligence, human-agent interaction, or autonomous AI within delivery systems. All migration advice is traditional, and while it references some modern engineering practices, these are presented generically without agentic context. Audience targeting (tech practitioners) aligns with agentic delivery’s general audience but lacks the thematic relevance. Most of the content’s substance is unrelated to the core of Agentic Software Delivery, resulting in a very low confidence score.",
+    "reasoning_summary": "This content is about Azure DevOps migration best practices, with no mention or discussion of autonomous AI agents, agentic delivery, or related concepts—so it only superficially relates to the assigned category.",
     "level": "Ignored"
   }
 }

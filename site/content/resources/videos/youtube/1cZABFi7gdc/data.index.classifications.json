@@ -1423,15 +1423,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "1cZABFi7gdc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:18:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 12.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.15,
+    "ai_depth": 1.65,
+    "ai_intent": 2.3,
+    "ai_audience": 4.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on hiring an Agile coach and does not discuss the One Engineering System framework or its principles. While it touches on Agile practices, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "reasoning": "The content focuses entirely on the process of hiring an Agile coach and factors for evaluation, such as track record and cultural fit. There is no mention—direct or implied—of One Engineering System (1ES), nor any discussion of unified engineering frameworks, tool standardization, or integration of processes at scale. The article's themes and intent revolve around individual coaching and Agile transformations, which are out of scope for the 1ES category. The only tangential overlap is the audience (organizational leaders, practitioners), and a slight focus on how coaches shape broader organizational practices, but this does not connect to 1ES principles or objectives.",
+    "reasoning_summary": "Content is focused on hiring Agile coaches and organizational agility, not One Engineering System. No discussion of standardization, integration, or 1ES framework. Alignment is negligible; fit is not present.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1934,6 +1941,25 @@
     "final_score": 29.0,
     "reasoning": "There are no direct mentions of Agentic Engineering or its defining terminology. The content focuses on hiring and evaluating Agile coaches for effective Agile transformation. While it discusses coach qualities like adaptability and fostering continuous improvement, it does not cover autonomy, systemic observability, agentic decision-making frameworks, DevOps, or AI agency, and does not integrate ethical or feedback-driven engineering practices. The appeal is mostly practical and aimed at organizational leaders making hiring decisions, not at those intentionally designing engineering systems for maximized agency. Some concepts (continuous improvement, adaptability) are tangentially related, but the core category themes are minimally represented.",
     "reasoning_summary": "The content is about selecting Agile coaches and supporting Agile transformation, with some overlap on adaptability and improvement. It does not address the deliberate engineering of agency, DevOps, or human-AI collaboration, so its alignment to 'Agentic Engineering' is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1cZABFi7gdc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 7.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.45,
+    "ai_depth": 0.35,
+    "ai_intent": 0.3,
+    "ai_audience": 4.1,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly covers hiring Agile coaches, focusing on their traits, track record, and cultural fit for Agile transformations. There are no direct mentions or substantive discussion of AI agents, autonomy, agentic integration, or contextual intelligence. The focus is on human expertise and traditional coaching, not agentic or AI-driven delivery. The intended audience (Agile leaders/practitioners) aligns to some extent, as those interested in Agentic Software Delivery may also hire coaches, but the intent, substance, and language remain exclusively non-agentic. There is a high signal-to-noise ratio, but almost zero conceptual or technical overlap with Agentic Software Delivery as defined. Scores are accordingly extremely low, resulting in minimal overall confidence.",
+    "reasoning_summary": "The content focuses exclusively on selecting Agile coaches for transformation, with no discussion of AI agents or agentic software delivery. There is almost no overlap with the category; fit is minimal and limited to audience similarity.",
     "level": "Ignored"
   }
 }

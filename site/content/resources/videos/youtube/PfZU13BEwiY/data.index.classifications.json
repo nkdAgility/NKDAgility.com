@@ -1082,15 +1082,22 @@
     "level": "Ignored"
   },
   "Throughput": {
+    "resourceId": "PfZU13BEwiY",
     "category": "Throughput",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content discusses the impact of technical debt on productivity and the delivery of features, which indirectly relates to throughput. However, it does not explicitly define or analyse throughput as a delivery metric, nor does it provide detailed insights into measuring or visualising throughput. The focus is primarily on technical debt and sustainable practices rather than throughput itself.",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 17.86,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 6.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on technical debt, its negative effects, and strategies for sustainable scaling, with emphasis on DevOps and automation. There are indirect references to delivery slowing down and productivity decline, but throughput as a metric is never directly named, discussed, or deeply explored. The discussion does not include calculating, analyzing, or forecasting throughput, nor does it provide explicit visualizations or inspect flow-based performance. Audience (practitioners and technical leads) slightly overlaps, but the fit is tangential—mentions and alignment are low, with most focus on cultural and technical change. No penalties for tone or outdatedness.",
+    "reasoning_summary": "Content discusses technical debt’s effect on delivery and efficiency, but does not mention throughput as a metric or analyze flow explicitly—any fit is indirect and minimal.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1890,5 +1897,24 @@
     "reasoning": "The content discusses strategies to manage technical debt, emphasizing sustainable architecture, DevOps, automation, and quicker feedback loops, which aligns with several Agentic Engineering themes such as DevOps-infused craft, feedback-driven adaptation, and quality as core competence. However, it stops short of expressly addressing the deliberate maximization of human and AI agency, systemic observability, or ethical autonomy. The article is chiefly a practical guide, not a philosophical discussion on agentic design, so direct references to agency and the deeper ethical or adaptive dimensions are lacking. Nonetheless, the intended technical practitioner audience, focus on DevOps, automation, and fostering innovation reflect some alignment with Agentic Engineering. No penalties were applied since content and tone are current and supportive.",
     "reasoning_summary": "The piece aligns moderately with Agentic Engineering by promoting DevOps, automation, and sustainable practices, but lacks explicit discussion of agency or ethical design. It's geared toward practitioners and quality improvement, with some thematic overlap but not full conceptual fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PfZU13BEwiY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 37.96,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 5.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on managing technical debt and scaling via sustainable architecture, DevOps, and automation. While it mentions concepts like CI/CD and automated testing (peripherally related modern engineering practices for agentic delivery), there is no direct mention or substantive discussion of agentic software delivery, AI agents, contextual intelligence, or human-AI collaboration. The primary audience—software delivery practitioners and leaders—matches, but the content’s main themes align only partially with agentic software delivery requirements. There are no penalties, as the post is current and not critical of the agentic approach.",
+    "reasoning_summary": "Content is mostly about technical debt, DevOps, and automation—not the deliberate integration of AI agents or agentic principles. Only marginal, indirect alignment with Agentic Software Delivery. Fit is minimal and mostly coincidental.",
+    "level": "Ignored"
   }
 }

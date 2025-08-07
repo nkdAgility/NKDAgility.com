@@ -1131,15 +1131,22 @@
     "reasoning_summary": "This content is a strong fit for the Enterprise Agility category, as it centres on how agility drives business predictability at an organisational level. It explores leadership, culture, and structural changes, using real-world examples like Microsoft. While team practices are mentioned, the main emphasis is on enterprise-wide transformation and continuous improvement, making the classification highly appropriate."
   },
   "Lean": {
+    "resourceId": "G1BQG2tsbYg",
     "category": "Lean",
-    "calculated_at": "2025-03-14T17:28:52",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile principles and their role in achieving predictability in business, with only brief mentions of concepts that could relate to Lean, such as continuous improvement and operational efficiencies. However, it lacks a direct discussion of Lean methodologies, tools, or principles, which diminishes its alignment with the Lean category.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 36.07,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.4,
+    "ai_intent": 2.7,
+    "ai_audience": 2.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The primary focus of the content is on Agile and predictability. Lean is listed as one possible framework alongside Scrum and Kanban, but receives only passing mention and no substantive discussion. There is no deep engagement with Lean principles (e.g. value stream mapping, the Seven Wastes, Kaizen, etc.), Lean tools, or direct conceptual alignment with Lean methodologies. The content remains squarely within the Agile perspective, even when referencing continuous improvement, and does not actively explore Lean’s unique perspective on waste elimination or value creation. The intended audience overlaps somewhat, but Lean practitioners are not the main target, and the focus is not aimed at Lean-specific cultural or methodological transformation. Little content is off-topic, but much of it is only tangentially related to Lean.",
+    "reasoning_summary": "This content is about Agile for business predictability, with Lean only mentioned superficially as an optional framework. There is no substantive treatment of Lean principles or tools, so fit with the Lean category is low and largely coincidental.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -2023,6 +2030,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on how Agile principles enhance predictability by optimizing systems, encouraging empowerment, adaptability, tailored frameworks, and feedback loops. These ideas tangentially touch on developer agency and feedback-driven adaptation, but there is little explicit or in-depth discussion of maximizing human or AI agency, ethical AI, or deliberate agentic engineering philosophy. The content targets organizational leaders and agile practitioners, aligning somewhat with the intended audience, but remains at a pragmatic, business-process level without thoroughly exploring agentic engineering concepts, decision-making frameworks, or AI collaboration. No penalties were necessary as the tone is neutral and current.",
     "reasoning_summary": "This content adopts Agile to drive predictability and business alignment, touching lightly on empowerment and feedback loops. However, it lacks explicit focus on agentic engineering principles—such as maximizing human/AI agency or ethical autonomy—limiting its alignment to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "G1BQG2tsbYg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 15.824,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 5.8,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on predictability in business enabled through Agile principles. While it discusses optimizing systems, feedback loops, and adaptability, it makes no explicit mention of autonomous AI agents, agentic design, or integrating contextual intelligence into delivery processes. The main themes align with classic Agile consulting for business predictability via team empowerment and custom frameworks, not the embedding or governance of AI agents. Even discussion of tooling, telemetry, or automation is absent. The audience (business or technical leadership interested in Agile) somewhat overlaps, but the subject matter misses the central ideas that define Agentic Software Delivery.",
+    "reasoning_summary": "Content is about improving business predictability with Agile, lacking references to autonomous AI agents or agentic frameworks. No mention of agentic software delivery concepts. Fit is weak—mostly unrelated to the target category.",
     "level": "Ignored"
   }
 }

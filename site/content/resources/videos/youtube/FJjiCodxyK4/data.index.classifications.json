@@ -1391,15 +1391,22 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "FJjiCodxyK4",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:16:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the differences between agile consulting and coaching, focusing on leadership and self-reliance rather than the Agile Product Operating Model itself. While it touches on agile principles, it lacks a direct focus on product management practices or the core themes of the APOM, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 35.47,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.5,
+    "ai_intent": 4.1,
+    "ai_audience": 6.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content centers around comparing agile consulting and coaching, with an emphasis on fostering internal leadership and sustainable transformation. While relevant to organisational agility, it does not discuss the Agile Product Operating Model explicitly, nor its essential topics like product orientation, EBM, or integration of professional Scrum with product management practices. Mentions of agile, Scrum, leadership, and transformation are present, but without direct reference to shifting from project to product, roadmapping, APOM-specific governance, or optimisation of product value. The intended audience overlaps (organisational leaders, teams), and the content focuses on the dynamics of agile adoption, but with only tangential relevance to Agile Product Operating Model as defined in the classification criteria.",
+    "reasoning_summary": "The content focuses on agile consulting versus coaching, internal leadership, and sustainable change. It lacks specific discussion of the Agile Product Operating Model or its product-focused principles, making the fit partial and mostly tangential.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -2000,6 +2007,25 @@
     "final_score": 37.0,
     "reasoning": "Direct mention of 'Agentic Engineering' is absent. However, themes of empowering internal leadership, fostering self-reliance, and sustainable change indicate some conceptual overlap with Agentic Engineering—specifically around developer/team agency. Still, these are presented generally under Agile consulting rather than the deliberate design or integration with ethical AI, DevOps, or engineering autonomy emphasized by Agentic Engineering. The discussion is moderately deep on empowerment but does not explore observability, feedback adaptation, automation, or ethical AI. The intent is relevant in encouraging self-sufficiency, but with limited reference to technical or systemic practices core to the category. Audience match is moderate due to a practitioner/leader focus, while signal-to-noise is hampered by significant promotional content and broad Agile hashtags.",
     "reasoning_summary": "The content promotes self-reliant teams and leadership empowerment, aligning partly with Agentic Engineering on the agency theme. However, it lacks direct focus on engineering practices, systemic autonomy, or AI collaboration, making its fit with the category moderate at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FJjiCodxyK4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 17.39,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.1,
+    "ai_audience": 6.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on justifying agile consulting over coaching, centering on internal leadership, team self-reliance, and sustainable change. There is no mention or implicit exploration of integrating autonomous AI agents, contextual intelligence, agentic principles, or proactive system intelligence. While the topic is aimed at practitioners and touches slightly on modern delivery, it misses any direct or conceptual connection with Agentic Software Delivery. Audience overlap is moderate, but overall relevance to agentic systems is minimal.",
+    "reasoning_summary": "Content focuses on agile consulting vs. coaching, discussing leadership and team autonomy. No mention or conceptual alignment with agentic software delivery or AI-driven autonomy. Fit with the assigned category is partial and mostly incidental.",
     "level": "Ignored"
   }
 }

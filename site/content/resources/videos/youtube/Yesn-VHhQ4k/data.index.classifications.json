@@ -1512,15 +1512,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "Yesn-VHhQ4k",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:31:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile principles and methodologies, focusing on values and principles rather than the One Engineering System framework. While it touches on concepts relevant to software development, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes. The discussion is more about Agile's adaptability and complexity rather than the unified approach that 1ES advocates.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 7.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.1,
+    "ai_intent": 1.35,
+    "ai_audience": 1.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on Agile, especially its values/principles, and the distinction between complex and complicated work. It makes no mention of One Engineering System (1ES) by name or concept. Core themes are Agile frameworks, not integration, tooling, or the standardization across teams that 1ES encompasses. No direct or conceptual alignment with 1ES topics (e.g., standardizing engineering systems, cross-team tool/process unification) is present. While the audience (software engineering teams/consultants) might overlap with 1ES, this content addresses their needs in an Agile context alone. No penalties: content is recent, neutral, and sincere.",
+    "reasoning_summary": "Content solely discusses Agile values, complex work, and Scrum. No mention or exploration of the One Engineering System nor its principles, integration, or standardization. The fit is minimal; alignment is coincidental and not substantive.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2033,5 +2040,24 @@
     "reasoning": "The content explores Agile's focus on values and principles in complex work, touching on themes like empirical process, adaptation, and team autonomy. However, it does not explicitly mention agentic engineering or focus on deliberate design to maximize human and AI agency as defined. Depth exists regarding adaptation, emergent practice, and autonomy, but core Agentic Engineering concepts (like systemic observability, ethical AI integration, or agency-maximizing frameworks) are not directly addressed. The audience is mostly Agile practitioners, aligning well with the likely audience for Agentic Engineering, and the signal is strong with little off-topic material. No penalties apply.",
     "reasoning_summary": "While this piece discusses Agile autonomy, adaptation, and empirical improvement, it only partially aligns with Agentic Engineering due to the lack of explicit focus on the deliberate maximization of human and AI agency or topics like systemic observability and ethical AI integration.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Yesn-VHhQ4k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 11.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content exclusively discusses why Agile focuses on values and principles rather than prescribed steps, centering on complexity vs. complicated work. There are no direct or indirect references to agentic approaches, autonomous AI agents, contextual intelligence, or human-AI partnership. Discussion is purely about human-centered agility, not the integration of proactive agents, so it does not align conceptually or thematically with Agentic Software Delivery. The audience is Agile practitioners, not those exploring agentic paradigms. Signal-to-noise is low for this category as all key points are out of scope for Agentic Software Delivery.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category. It discusses Agile principles, not autonomous AI agents or agentic delivery concepts, and lacks any direct or conceptual alignment with the intended topic.",
+    "level": "Ignored"
   }
 }

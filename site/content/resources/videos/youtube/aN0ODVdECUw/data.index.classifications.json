@@ -496,21 +496,21 @@
   "Frequent Releases": {
     "resourceId": "aN0ODVdECUw",
     "category": "Frequent Releases",
-    "calculated_at": "2025-07-15T17:14:55",
-    "ai_confidence": 33.853,
-    "ai_mentions": 1.2,
-    "ai_alignment": 3.5,
-    "ai_depth": 2.9,
-    "ai_intent": 3.3,
-    "ai_audience": 7.1,
-    "ai_signal": 4.9,
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 53.9,
+    "ai_mentions": 3.6,
+    "ai_alignment": 5.9,
+    "ai_depth": 6.5,
+    "ai_intent": 5.2,
+    "ai_audience": 7.2,
+    "ai_signal": 7.8,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 34.0,
-    "reasoning": "The content discusses the drawbacks of legacy systems and promotes modernization via Azure DevOps, referencing issues like 'fragile, manual releases' and 'long lead times.' However, it does not explicitly mention frequent releases, continuous delivery, or incremental improvements. The primary focus is on overcoming legacy challenges rather than diving into principles, strategies, or tools directly pertaining to Frequent Releases. While Azure DevOps is associated with enabling frequent releases in modern engineering, the episode's main ideas and calls to action center more on general modernization and removing friction. Audience targeting aligns with technical practitioners interested in DevOps, but there is little substantive or specific discussion of frequent or incremental releases.",
-    "reasoning_summary": "This content focuses on overcoming legacy system challenges with Azure DevOps, which can support frequent releases but does not directly address or deeply explore that practice. Its relevance to Frequent Releases is indirect and limited mainly to context setting.",
-    "level": "Ignored"
+    "final_score": 54.0,
+    "reasoning": "The content focuses on removing friction from legacy systems to unlock faster delivery, agility, and innovation. While improving delivery speed is discussed, the piece does not directly discuss Frequent Releases, CI/CD, continuous delivery principles, or release automation. Depth is reasonable on the friction/barriers topic, but frequent release practices are only implied, not described. Intent aligns partially, as the aim is to enable faster changes, but not in direct reference to frequent or incremental software releases. The intended audience (technical and management stakeholders) overlaps with frequent releases' audience. Most of the discussion remains broadly relevant to enabling agility, with moderate relevancy for frequent releases, hence a middling confidence score. No penalties are warranted as the content is not obsolete or contradictory.",
+    "reasoning_summary": "Content discusses removing friction and agility in delivery but does not directly address frequent releases or their supporting practices. Fit is partial; release frequency is implied via faster delivery, but not explicitly explored.",
+    "level": "Tertiary"
   },
   "Practice": {
     "resourceId": "aN0ODVdECUw",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content focuses on removing legacy system bottlenecks to enable 'engineering excellence,' referencing the pursuit of better engineering environments and flow. Azure DevOps is promoted as a tool for modernization. There is some indirect conceptual overlap with Agentic Engineering themes (developer agency, decision-making autonomy, continuous improvement), but the content primarily frames the problem as a generic DevOps/modernization challenge. Direct mentions of Agentic Engineering concepts are limited; key phrases like 'intent, clarity, and flow' suggest some philosophical alignment, but there is no deep exploration of agentic themes (agency, ethical AI, system observability). Audience is technical, but signal is diluted by a marketing tone, lack of substantive method discussion, and a focus on solving technical legacy problems rather than engineering for agency. Confidence score reflects moderate conceptual overlap but weak explicitness and depth.",
     "reasoning_summary": "This episode promotes engineering excellence by overcoming legacy systems, aligning somewhat with Agentic Engineering themes like developer autonomy and improved flow. However, it focuses more on modernization and DevOps tools than on deliberate agency maximization, resulting in only moderate relevance.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "aN0ODVdECUw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 17.834,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.6,
+    "ai_intent": 2.1,
+    "ai_audience": 5.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on overcoming friction from legacy systems to accelerate agile delivery. It never directly mentions agentic concepts or the integration of autonomous AI agents, nor does it address modern engineering practices specific to agentic delivery. While it highlights the need for continuous improvement, architectural investment, and adaptability—all adjacent to the spirit of advancing delivery methods—the discussion is framed in traditional agile and DevOps contexts without any explicit or implicit reference to agentic software delivery paradigms such as AI agents, contextual intelligence, synergy with human expertise, or agent-driven feedback loops. Audience alignment is moderate, as it targets tech practitioners and leaders, but the core concepts of agentic delivery are missing, resulting in a low overall confidence score.",
+    "reasoning_summary": "This content addresses agile delivery impeded by legacy systems and friction, but does not discuss agentic software delivery, AI agents, or associated modern agency-driven practices. Fit is weak and indirect at best.",
+    "level": "Ignored"
   }
 }

@@ -1437,15 +1437,22 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
+    "resourceId": "zSQSQPFsy-o",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:07:33",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on their complexities and challenges in implementation. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. While there are references to improving processes and understanding within Agile frameworks, these do not align with the proactive integration of testing, security, and compliance earlier in the software development lifecycle that characterises the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 1.3,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses entirely on difficulties mastering Scrum, cultural and organizational challenges, agile values, and transparency. There is no mention or discussion of Shift Left concepts—no reference to moving testing, security, or compliance earlier in the lifecycle, nor any discussion on integrating such practices for earlier feedback. The main topics remain exclusively about general Scrum mastery and agile mindsets, which are explicitly excluded by the provided category definition.",
+    "reasoning_summary": "This content does not fit the Shift Left Strategy category. It addresses Scrum mastery, culture, and agile values but makes no reference to Shift Left principles, techniques, or outcomes. Alignment is extremely low.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2000,5 +2007,24 @@
     "reasoning": "The content primarily focuses on the cultural challenges and organizational contexts affecting Scrum adoption and mastery. It frequently discusses transparency, agency, and the importance of feedback—points that closely align with Agentic Engineering principles. However, explicit direct mention of Agentic Engineering or systemic integration of human–AI agency is absent, and the conceptual depth remains mostly at the level of Scrum and agile values, not broader engineering philosophy. The discussion occasionally touches on decentralization and empowerment but does not systematically link this to engineered practices or frameworks designed to maximize both human and AI agency—core to Agentic Engineering. The main audience is practitioners and leaders in agile contexts, which slightly overlaps, but there is limited focus on engineering, automation, or AI-centric autonomy as required by the category.",
     "reasoning_summary": "The content aligns with Agentic Engineering in values like transparency, feedback, and human agency, but it centers on Scrum's adoption rather than on engineering practices that maximize human and AI agency. It is moderately relevant but lacks depth and direct conceptual fit with Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zSQSQPFsy-o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 10.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a thoughtful exploration of challenges mastering Scrum, focusing on transparency, culture, value creation, organizational barriers, and the differences between theoretical and practical Scrum. However, it does not discuss the deliberate integration of autonomous AI agents, agency-driven workflows, or any concepts specific to agentic software delivery. While it touches on continuous improvement, modern agile values, and some advanced feedback concepts, nothing aligns with agentic systems, context-aware AI, human-agent collaboration, or proactive intelligence embedded in systems. Technical audience alignment exists, but intent and main themes are not a fit for the category's definition.",
+    "reasoning_summary": "This is an agile/Scrum mastery discussion, not agentic software delivery. There are no references to AI agents, agency, or contextual intelligence. The fit is very low and largely off-category.",
+    "level": "Ignored"
   }
 }

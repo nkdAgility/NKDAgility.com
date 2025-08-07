@@ -1271,12 +1271,22 @@
     "reasoning_summary": "This content is a good fit for the category, as it explores how agile methodologies intersect with release management and organisational culture. It highlights leadership’s role, the need for transparency, and strategies for improving predictability—key aspects of agility. However, its focus is mainly on software development, so it only partially addresses broader organisational agility."
   },
   "Lean": {
+    "resourceId": "2cOXevMnGb_",
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the relationship between Agile and Lean principles, particularly in the context of software development and release planning. While Lean is a significant theme, the primary focus is on Agile methodologies, making Lean a secondary theme.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 41.983,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 5.1,
+    "ai_intent": 4.8,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content has only a few direct references to Lean (one direct comparison to lean manufacturing and a couple of conceptual links), with no substantial elaboration of Lean principles, methods, or tools. The main focus is on Agile, Scrum, release planning, and quality. Lean is used mostly as a metaphor for organizational change and process optimization (e.g., “Much like the lean movement in manufacturing…” and the discussion of predictability vs. empiricism in development) but does not deeply engage with Lean frameworks, practices (like 5S, Kanban, value stream mapping), or specific waste elimination strategies. Some overlap exists thematically around continuous improvement, quality, and efficiency, but these are presented through an Agile/Scrum lens. The audience overlap is moderate, as practitioners interested in Lean may find value, but the framing is not primarily for them. Thus, the fit is partial and mostly superficial.",
+    "reasoning_summary": "Content makes brief conceptual comparisons to Lean but focuses primarily on Agile and Scrum practices; Lean is not discussed in depth. The overlap is superficial—alignment exists but is not the intent or main theme.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -2005,5 +2015,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or its explicit language are absent, meriting a very low mentions score. However, core themes indirectly overlap: the piece emphasizes developer autonomy (e.g., 'Developers choose what they can deliver'), the need for teams to own their entire lifecycle (DevOps-infused craft), ethical alignment with decision-making authority ('decisions to cut quality need to be made by executive leadership'), and the empirical, feedback-driven nature of improvement—which mirror agentic design principles. The discussion is substantial, with repeated emphasis on continuous improvement, team agency, transparency, and system practices that resonate with agency—but without labeling or overtly tying these to 'Agentic Engineering' as a philosophy. The intended audience (agile practitioners, technical leaders) matches, and the focus is highly relevant, with minimal off-topic content. No penalties apply, as the tone is constructive and the practices are current.",
     "reasoning_summary": "The content advocates for developer autonomy, continuous improvement, and DevOps-enabled practices that conceptually align with Agentic Engineering. While it doesn't use the specific term, its focus on team agency and empirical workflow adaptation creates a strong, but indirect, fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2cOXevMnGb_",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 8.835,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 0.9,
+    "ai_audience": 1.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content thoroughly discusses agile software delivery, continuous improvement, DevOps, and modern engineering principles for predictability, but it never references autonomous AI agents, agentic intelligence, human-agent synergy, or agency concepts. All practices and strategies described are traditional human- and process-centric, not about contextual or proactive AI-driven delivery. The content aligns well with Agile, Scrum, and modern engineering, but not specifically with Agentic Software Delivery as defined. Audience and purpose match those interested in software delivery optimization, but agency/agentic topics are absent.",
+    "reasoning_summary": "This content focuses on agile delivery, predictability, and quality, with no mention of agentic software, AI agents, or agency. It does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

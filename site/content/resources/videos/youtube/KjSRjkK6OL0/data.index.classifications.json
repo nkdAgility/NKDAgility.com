@@ -375,15 +375,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "KjSRjkK6OL0",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:49:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role and effectiveness of a Scrum Master within Agile practices, with no direct mention or focus on Test First Development principles. While it touches on collaboration and team dynamics, it does not address success criteria, testing methodologies, or the importance of defining tests before implementation, which are core to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 8.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a critical overview of ineffective Scrum Master behaviours. It focuses on issues like excessive reporting, poor facilitation of Daily Scrum, and blocking team communication. There is no direct or indirect reference to Test First Development, testing principles, success criteria, or related automation/manual testing practices. Core themes around team collaboration and Agile values are present, but not in the context of Test First concepts. Therefore, the content does not align with the Test First Development category, and any overlap (like team collaboration) is merely incidental and does not address the specifics required by the classification definition.",
+    "reasoning_summary": "The content is about ineffective Scrum Masters—not about Test First Development. There are no mentions or substantial thematic links to defining tests, success criteria, or test-first principles, so the fit is extremely weak.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1908,6 +1915,25 @@
     "final_score": 18.0,
     "reasoning": "The content focuses on the behaviors and pitfalls of an ineffective Scrum Master within Agile teams. While ineffective leadership may limit developer agency (a concept relevant to Agentic Engineering), the content does not reference or discuss agentic or engineering practices, decentralized decision-making, feedback-driven adaptation, or systemic observability. The narrative is concentrated on what *not* to do and lightly hints at improving Scrum practices, but it does not delve into the deliberate engineering of agency for humans or intelligent systems. There are no mentions or thorough explorations of the core themes, philosophies, or frameworks of Agentic Engineering, nor is there any focus on ethical AI, DevOps-infused craft, or the integration of feedback loops for continuous value delivery. Audience fit is moderate as it addresses practitioners, but the signal-to-noise ratio is low given its tangential relation.",
     "reasoning_summary": "This content highlights common mistakes of ineffective Scrum Masters without exploring the design of engineering practices to maximize agency. It focuses on people behaviors, not agentic practices, and has minimal alignment with the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KjSRjkK6OL0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on ineffective patterns in Scrum Master behavior, emphasizing issues like over-reporting, poor engagement, and communication barriers. There is no mention—direct or indirect—of agentic principles, autonomous AI agents, or intelligence-embedded practices in software delivery. The main ideas do not conceptually align with Agentic Software Delivery, lacking discussion of AI integration, contextual intelligence, or feedback loops rooted in AI systems. The content targets Agile practitioners specifically in a traditional Scrum context, not those interested in modern agentic frameworks. The intent is to inform and improve Scrum practices unrelated to agentic delivery methods.",
+    "reasoning_summary": "This content does not discuss agentic software delivery or AI integration. It focuses on human Scrum Master pitfalls in classic Agile contexts, which is unrelated to the assigned category. Fit is minimal and only topical to classic Agile.",
     "level": "Ignored"
   }
 }

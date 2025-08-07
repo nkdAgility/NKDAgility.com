@@ -1466,15 +1466,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "vQBYdfLwJ3g",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:34:59",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile methodologies, discussing responsibilities, immersive learning experiences, and collaboration among product owners. It does not explicitly mention the One Engineering System or its principles, nor does it delve into the integration of tools and processes across teams, which are core themes of 1ES. The discussion is more centred on individual roles and practices rather than a unified engineering framework.",
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 19.43,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.22,
+    "ai_depth": 2.18,
+    "ai_intent": 3.18,
+    "ai_audience": 5.36,
+    "ai_signal": 2.08,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content exclusively discusses the Product Owner role, practical skills, and collaborative learning for agile leadership. It neither mentions nor conceptually aligns with One Engineering System (1ES), its frameworks, principles, or integration efforts. There is some thematic overlap with cross-team collaboration and process improvement, which is common in 1ES discussions, but the focus remains squarely on the Product Owner perspective without addressing unified engineering systems, tool integration, or standardised practices at scale. No penalty deductions were necessary as the tone is neutral and not outdated.",
+    "reasoning_summary": "The content centers on agile Product Owner practice, with no mention of One Engineering System and little conceptual or thematic overlap. Its intent and themes do not fit the category; any fit is incidental, not direct or substantial.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1977,6 +1984,25 @@
     "final_score": 32.0,
     "reasoning": "The content centers on the product owner's evolving responsibilities and practical learning within Agile, emphasizing collaborative insights and empirical practice. While it references DevOps and empirical/iterative learning, it does not explicitly discuss agentic engineering, the maximization of human or AI agency, systemic observability, ethical AI, or the engineering of agency into workflows or systems. The narrative emphasizes empowerment, learning, and influence, which aligns conceptually in a general sense, while direct mention and depth in agentic engineering are absent. The audience (Agile practitioners) somewhat overlays with the category, but much of the content is product-ownership and leadership focused rather than on engineering practices or decision-making frameworks as described by Agentic Engineering.",
     "reasoning_summary": "The content discusses product owner growth, practical skills, and collaborative learning in Agile, but lacks clear focus on deliberate engineering of agency, decentralization, or human/AI autonomy as required for Agentic Engineering. Alignment is partial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vQBYdfLwJ3g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 15.13,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.9,
+    "ai_audience": 8.1,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content exclusively discusses the Product Owner role in Agile and how to bridge theory and practice in leadership. There is no mention or substantive discussion of autonomous AI agents, contextual intelligence, agentic delivery, or agent-driven transformation. While the audience (Agile practitioners) and context (modern Agile/Scrum/DevOps) overlap with those interested in Agentic Software Delivery, the themes, intent, and depth remain tightly focused on human Product Owner skill development, not on the synergy or integration of AI agents or systematic agentic frameworks. Minimal indirect relevance to the category.",
+    "reasoning_summary": "This content focuses on Product Owner skills, leadership, and practical Agile learning with no meaningful reference to agentic software delivery or AI agents. Only a partial audience overlap makes the fit very weak.",
     "level": "Ignored"
   }
 }

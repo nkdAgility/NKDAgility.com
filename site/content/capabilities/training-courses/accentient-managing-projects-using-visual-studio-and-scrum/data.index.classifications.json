@@ -1031,13 +1031,23 @@
     "level": "Ignored"
   },
   "Cross Functional Teams": {
+    "resourceId": "QjDoUAyMmas",
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-04-10T15:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a Scrum training course which includes team-based exercises and collaborative practices, indicating a focus on team dynamics; however, it does not explicitly center on cross-functional teams as the primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 36.5,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 5.7,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The course covers aspects of Scrum and team collaboration but does not specifically define, focus on, or deeply discuss cross-functional teams or their characteristics. While a broad Scrum team audience is listed, and team collaboration is a topic, there's no explicit or in-depth exploration of cross-functional teams per se. The fit is tangential because Scrum in practice often implies cross-functionality, but the content doesn't name or delve into the structural, collaborative, or benefit-driven aspects required by the category. Most outcomes center on processes and tools (Visual Studio, backlog, sprints) rather than distinct cross-functional value or best practices.",
+    "reasoning_summary": "Content addresses Scrum and team collaboration themes but does not explicitly or deeply explore cross-functional teams. Any relevance is indirect; the main focus is on processes and tools, so fit with the category is weak and mostly tangential.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -2056,6 +2066,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on managing projects using Scrum and Visual Studio, detailing practical processes like backlog management and agile testing but does not explicitly mention or explore concepts of agentic engineering. There's no discussion of maximizing human or AI agency, ethical AI integration, feedback-driven adaptation, or decision decentralization. The main intent is pragmatic training on standard Scrum practices using tooling, aimed at practitioners. Minimal conceptual overlap exists, and the agentic dimensions are notably lacking.",
     "reasoning_summary": "This course is centered on practical Scrum and Visual Studio training, not on maximizing agency or agentic engineering principles. No direct or substantial connection to Agentic Engineering is evident.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QjDoUAyMmas",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 9.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 1.6,
+    "ai_audience": 7.7,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on managing projects with Scrum and Visual Studio. There is no explicit mention of agentic delivery concepts such as AI agents, contextual intelligence, autonomous operation, or human-agent collaboration. All key topics involve traditional Agile, Scrum, and tooling—excluding agentic technologies or approaches. Audience alignment is somewhat higher, as the course targets technical practitioners intersecting with the agentic audience, but there is minimal relevance to advanced agentic practice. There is no outdated or critical language that contradicts the category, so no penalties apply. Overall, the content does not fit the Agentic Software Delivery category beyond superficial overlap in engineering practices.",
+    "reasoning_summary": "Content is about Scrum and Visual Studio project management, not Agentic Software Delivery. No mention or discussion of AI agents, contextual intelligence, or agentic principles—fit is minimal and only peripheral.",
     "level": "Ignored"
   }
 }

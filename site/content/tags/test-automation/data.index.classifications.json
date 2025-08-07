@@ -36,16 +36,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Test Automation",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses test automation and its role in improving quality and accelerating feedback loops, which aligns with the tenet of continuous improvement and the importance of feedback loops in DevOps. However, it does not explicitly mention any specific tenets or actionable guiding rules, making it more of a general discussion on practices rather than a focused exploration of tenets.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 76.53,
+    "ai_mentions": 2.8,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.7,
+    "ai_intent": 7.8,
+    "ai_audience": 8.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content focuses on the role of test automation in improving quality, accelerating feedback loops, supporting continuous integration/delivery, and fostering continuous improvement—these are strongly aligned with tenets like feedback loops and continuous improvement in Agile and DevOps. However, it does not explicitly name 'tenet,' nor does it directly state specific organizational tenets, instead focusing on describing practices and outcomes. Still, the alignment and intent are clear, and the content targets a technical/practitioner audience. There are no penalties for outdated information or negative framing.",
+    "reasoning_summary": "Content aligns with Tenet by emphasizing feedback loops and continuous improvement, but lacks explicit mention of tenets or specific organizational rules. Strong thematic fit but indirect, making this a partially clear match for the Tenet category.",
+    "level": "Secondary"
   },
   "Method": {
     "category": "Method",
@@ -3140,6 +3147,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on test automation for software quality and accelerated feedback, highlighting team efficiency and process improvement. However, it does not discuss human-AI collaborative partnership, shared cognition, AI as team members, or emergent collective capabilities as required by the definition. The discussion centers on automation as a tool, not AI agents collaborating with humans. There are minor surface mentions of team impact and collaboration but they do not amount to the core themes of Collective Intelligence. No penalties were needed, as the content is recent and neutral in tone.",
     "reasoning_summary": "The content discusses test automation as a valuable tool for software teams but does not address human-AI partnership or the emergence of collective intelligence. It is more about process automation than collaborative intelligence involving AI agents.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Test Automation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 37.7,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.7,
+    "ai_intent": 4.2,
+    "ai_audience": 7.0,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on test automation for quality and feedback acceleration within CI/CD practices. While it covers some modern engineering practices relevant to agentic delivery, it makes no explicit mention of agentic software delivery, AI agents, context-aware intelligence, or human-agent synergy. The alignment is partial, as automated testing is a supporting discipline, but the agentic paradigm is not addressed. There is depth regarding automation’s role but not agency or embedded intelligence.",
+    "reasoning_summary": "This content emphasizes classic test automation for quality and CI/CD. It does not discuss agentic software delivery or AI agents, providing only indirect relevance. The fit is partial and supporting, not direct.",
     "level": "Ignored"
   }
 }

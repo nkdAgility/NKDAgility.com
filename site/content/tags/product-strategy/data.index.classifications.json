@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Product Strategy",
     "category": "Method",
-    "calculated_at": "2025-04-09T15:15:03",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses product strategy, which is more aligned with overarching direction rather than specific methods or structured procedures. While it touches on aspects of decision-making and team coordination, it does not delve into specific methodologies like Scrum or Kanban, nor does it provide a step-by-step approach to achieving goals within those frameworks. The focus is more on strategic vision than on the procedural aspects of methods.",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 27.925,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 10.0,
+    "ai_signal": 9.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content centers on product strategy—defining vision, goals, and direction for product efforts. It discusses frameworks, roadmaps, and long-term vision rather than the stepwise technical or procedural approaches that define 'Method.' The text even distinguishes product strategy from Agile methodologies, reinforcing that its main focus is not on methodical processes or structured procedural guidance but on overarching strategic alignment. While it briefly references feedback loops (which could be methods under some interpretations), these are mentioned only as tools serving strategic objectives, not as core procedural topics. The content is targeted at product leaders responsible for vision (aligned audience and signal), but fails to mention or substantially align with the precise meaning of 'Method.' No penalties were needed as it is up-to-date and neither critical nor satirical.",
+    "reasoning_summary": "The content focuses on strategic vision and direction (product strategy), not structured procedural approaches. It explicitly sets itself apart from 'Method,' so the fit is limited and indirect—audience and signal are high, but mentions and alignment are weak.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3134,6 +3141,25 @@
     "final_score": 13.0,
     "reasoning": "The content focuses on strategic approaches to product development, visioning, roadmaps, and value delivery within organizations. While it mentions collaborative teams and decision-making frameworks, there is no explicit reference to human-AI collaboration, AI agents as team members, or the emergence of collective intelligence as defined. The closest relevant theme is cross-functional teamwork and the use of insights, but these lack any AI context. The scores reflect low relevance and very minimal conceptual proximity to the category.",
     "reasoning_summary": "This content addresses strategic teamwork and effective product visioning but lacks any discussion of human-AI collaboration or collective intelligence. Its focus is purely on human organizational practice with no references to AI or socio-technical partnership, resulting in very low category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Strategy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 13.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.1,
+    "ai_audience": 3.5,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on product strategy—vision, roadmap, and value alignment—without reference to agentic software delivery or autonomous AI agents. It lacks topical depth on AI, agency, or contextual intelligence and targets a broad audience, not those specifically interested in agentic practices.",
+    "reasoning_summary": "Content is about general product strategy and direction, not agentic software delivery. There are no mentions of AI agents, agency, or related practices. Fit to the category is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

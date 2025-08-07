@@ -1398,15 +1398,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "c_gS0nlQD9E",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:37",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of agility and DevOps practices, which are related to social technologies, but it primarily focuses on technical aspects and operational practices rather than the underlying social frameworks. While there are mentions of collaboration and the need for continuous improvement, the depth of discussion on social technologies is limited, making it a secondary focus rather than a primary one.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 77.09,
+    "ai_mentions": 2.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.3,
+    "ai_intent": 8.1,
+    "ai_audience": 8.7,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "depth: -0.5 for relying mainly on case description and lacking in thorough social framework exploration; signal: -0.5 minor modernity concern (main example is from 2018) and some content focus on generic engineering, not uniquely social tech.",
+    "final_score": 77.0,
+    "reasoning": "The content deeply discusses the shift to DevOps and agile, using Microsoft's Azure DevOps team as a case study. There is a clear focus on how teams adapt, collaborate, and share responsibility, which aligns strongly with Social Technologies. Direct mention of 'collaborate' and references to collective practice support alignment, but there is little explicit naming of 'Social Technologies.' The piece primarily centers on practices like shortening feedback loops, devolving responsibility, and collective engineering approaches (the Combined Engineering Model), which fit the core category. The discussion is substantial, discussing structures, global teams, and evolving practices, with freshest deep example being from 2018 (mentioned as a snapshot point and that the team continues to evolve). The minor signal/noise and depth penalties reflect that the discussion veers at times into technical/ops language and uses a slightly dated example, but the major themes match the category. Audience, intent, and conceptual fit remain strong, targeting orgs and practitioners active in Agile and DevOps contexts.",
+    "reasoning_summary": "The content aligns well with 'Social Technologies' by showing how DevOps and agile teams adapt and collaborate, focusing on collective responsibility and iterative delivery. Fit is strong, though the main example is dated and there is only mild direct category mention.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {
@@ -2007,5 +2014,24 @@
     "reasoning": "The content strongly covers many core aspects of Agentic Engineering, including DevOps culture, fast feedback loops, decentralised responsibility, and continuous delivery—featuring Microsoft's Azure DevOps practices as an example. While the text does not use 'Agentic Engineering' terminology, it describes the deliberate design of engineering practices to maximize developer agency, quality, and rapid adaptation, matching the philosophy of the category. However, AI agency and ethical integration are not addressed, and the material focuses on 2018 practices with some historical framing, for which depth and mentions are penalised. The audience (Agile/DevOps/engineering teams) is well targeted, and the content is focused with minimal off-topic material.",
     "reasoning_summary": "This content fits Agentic Engineering by illustrating how DevOps practices and decentralized responsibility empower engineers and enable adaptive, feedback-driven change. It aligns with the category's intent, though it lacks explicit mention and does not directly address AI agency or the latest evolutions.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 33.894,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.9,
+    "ai_intent": 2.9,
+    "ai_audience": 5.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "1 point deducted from alignment and 1 from depth due to references to practices and models dated circa 2018, indicating some outdatedness when considering modern agentic principles.",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on DevOps, agile practices, and SRE, exploring rapid delivery, feedback loops, and team structures at Microsoft. It discusses evolution in engineering models and the need for better feedback and responsibility within teams but never mentions agentic delivery, AI agents, or agency concepts explicitly. The discussion centers on human-driven process change and DevOps best practices—no material on autonomous AI agents, integration with human expertise, or proactive system intelligence. While there is partial conceptual overlap via topics like feedback loops and continuous delivery, these are not linked to agentic approaches. An additional penalty is applied for referencing 2018 practices, which diminishes its fit with current agentic delivery advances.",
+    "reasoning_summary": "This content mainly covers agile, DevOps, and SRE cultural shifts, not agentic software delivery. It lacks reference to AI agents, agency, or context-aware autonomy. Only tangential thematic overlap, so fit with the category is low.",
+    "level": "Ignored"
   }
 }

@@ -984,15 +984,22 @@
     "level": "Ignored"
   },
   "Scrum Team": {
+    "resourceId": "Qzw3FSl6hy4",
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T18:16:32",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Product Discovery, with only brief mentions of Scrum concepts like refinement. It does not delve into the dynamics, roles, or collaboration within a Scrum Team, which are essential for a higher confidence score in this category.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 19.28,
+    "ai_mentions": 2.1,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "Direct references to the Scrum Team as defined in the Scrum Guide are almost absent. Scrum is mentioned only as a context (e.g., refinement) and not as an accountability or structure. The article discusses generic team alignment, product discovery processes, and examples from Microsoft, but does not explore the purpose, structure, or responsibilities of the Scrum Team. While 'teams' are mentioned, it is in a broad sense and not exclusive to the Scrum context. The readership is broad (anyone involved in product discovery and strategy), not targeting Scrum practitioners specifically. No dimension warrants a penalty.",
+    "reasoning_summary": "Content focuses on product discovery, mentioning Scrum only tangentially, and does not address the Scrum Team accountability, structure, or responsibilities. Fit with the 'Scrum Team' category is minimal and mostly coincidental.",
     "level": "Ignored"
   },
   "Technical Mastery": {
@@ -2005,5 +2012,24 @@
     "reasoning": "The content focuses entirely on Product Discovery within product and organizational contexts. While it references some aspects that could align tangentially with Agentic Engineering—such as team-level autonomy, alignment, and feedback loops—it lacks any direct or explicit mention of agency (human or AI), decision-making frameworks, DevOps-ethos, or the deliberate engineering of decentralised autonomy. Most discussion remains at the level of strategy, planning, and collaborative discovery without connecting to the philosophical or systemic underpinnings of Agentic Engineering. Real-world examples center on large-scale coordination and product alignment, not the maximizing of developer or system agency. There is some alignment in the encouragement of involving multiple perspectives and continuous feedback, but these techniques are not specifically characterized as maximizing human or AI agency. Audience is product-development oriented but not specifically aimed at practitioners of Agentic Engineering.",
     "reasoning_summary": "This piece covers Product Discovery’s role in aligning teams and encouraging feedback-driven, collaborative planning, but it does not address the core themes of Agentic Engineering such as maximizing human or AI agency, ethical automation, or DevOps-infused decision-making.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Qzw3FSl6hy4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 14.967,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.4,
+    "ai_intent": 2.1,
+    "ai_audience": 4.3,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is an in-depth exploration of Product Discovery: its definition, purpose, key activities, and organizational impact. It does not discuss autonomous AI agents, contextual intelligence, or underlying agentic delivery mechanisms. It focuses on team alignment, vision, user focus, and the expansion of opportunities through discovery practices. Although there is some conceptual overlap in terms of continuous feedback loops, strategic alignment, and modern product delivery, there is no mention—direct or implied—of AI-driven agency, agent integration, or the distinct modern engineering practices essential for agentic software delivery. The audience and intent are somewhat adjacent but are firmly rooted in classic product management and discovery, not in the emergent agentic paradigm.",
+    "reasoning_summary": "The content covers Product Discovery in product development, not agentic software delivery. It lacks discussion of AI agents, context-aware intelligence, or agentic practices. Fit with the category is minimal and only tangentially related.",
+    "level": "Ignored"
   }
 }

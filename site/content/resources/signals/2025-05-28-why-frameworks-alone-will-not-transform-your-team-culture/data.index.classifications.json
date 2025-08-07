@@ -40,21 +40,21 @@
   "Ability to Innovate": {
     "resourceId": "xUJ6VvudvJx",
     "category": "Ability to Innovate",
-    "calculated_at": "2025-06-03T12:22:39",
-    "ai_confidence": 37.00000000000001,
-    "ai_mentions": 0.3,
-    "ai_alignment": 3.8,
-    "ai_depth": 2.5,
-    "ai_intent": 3.0,
-    "ai_audience": 7.5,
-    "ai_signal": 4.5,
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 41.95,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.3,
+    "ai_intent": 4.2,
+    "ai_audience": 7.3,
+    "ai_signal": 8.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 37.0,
-    "reasoning": "The content primarily discusses shifting organizational culture for meaningful change but does not explicitly mention innovation. There are indirect alignments, such as emphasizing leadership commitment and empowering teams, which can facilitate innovation. However, specific innovation-focused mechanisms, metrics, or learning cycles are not explicitly addressed. The concepts and strategies proposed (vision setting, leadership support, employee empowerment) could support innovation indirectly but are not explored in that particular context. The content is largely off-focus from the innovation-centric themes explicitly outlined in the category definition.",
-    "reasoning_summary": "The content slightly aligns with the category by indirectly touching on enabling factors for innovation, like empowerment and leadership, but explicitly lacks depth, direct mentions, or targeted focus on innovation practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content critiques reliance on frameworks for culture change, highlighting vision, leadership, and team empowerment. While these are relevant preconditions for innovation, the discussion never directly addresses innovation or its measurement, nor does it explicitly contextualize change in terms of innovation outcomes or ability. There are no clear references to innovation metrics, learning cycles, experimentation, or evidence-based frameworks for innovation. The main focus is more on enablers of change than innovation itself, resulting in modest scores for alignment, depth, and intent. Audience and signal scores are high due to the fit with transformation practitioners. No penalties apply—no outdated content or contradicting tone.",
+    "reasoning_summary": "The content covers cultural change, vision, and empowerment, which are innovation enablers, but does not explicitly discuss innovation or its measurement. Fit with 'Ability to Innovate' is indirect and partial; main focus is not innovation itself.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "resourceId": "xUJ6VvudvJx",
@@ -3342,5 +3342,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, so the mentions score is very low. However, there's strong conceptual alignment with agentic principles: focus on empowering teams, decentralising decision-making, and advocating for vision over prescription, all echoing maximising agency. The discussion acknowledges the need for systemic change, leadership commitment, and empowering practitioners, matching core tenets of agentic engineering. Discussion is moderately deep, encouraging dialogue and self-reflection within teams, though it does not go into technical implementation or blend in AI agency/DevOps/observability themes. The intent fits—advocating meaningful organisational change by empowering people. Audience aligns well: practitioners, change leaders, and technical staff. Signal is high with focused, actionable content. No penalties applied as there's no outdated or contradictory material.",
     "reasoning_summary": "This content fits 'Agentic Engineering' conceptually by emphasizing team empowerment, leadership support, and system-level thinking as keys to cultural change, but lacks direct references to agentic frameworks or AI/autonomy topics. Strong alignment, intent, and audience focus yield a high moderate confidence.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xUJ6VvudvJx",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 17.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.9,
+    "ai_audience": 5.5,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content does not mention Agentic Software Delivery or related keywords at all. Its central argument critiques reliance on frameworks for culture change, arguing for vision and leadership engagement instead. There is no discussion of AI agents, contextual intelligence, agent/human synergy, or modern engineering practices. While the piece speaks to a change-oriented audience (including practitioners and leaders interested in transformation), it does not fit the agentic category themes. All dimensions are scored proportionally low except audience, as leadership and practitioners in software delivery contexts are potentially relevant.",
+    "reasoning_summary": "No content elements relate to Agentic Software Delivery or the defined agentic principles. Focuses only on vision, leadership, and team culture, not on AI, agents, or tech integration. Fit is poor and confidence is very low.",
+    "level": "Ignored"
   }
 }

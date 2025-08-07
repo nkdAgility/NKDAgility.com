@@ -1483,15 +1483,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "mZvRMHFUarM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:52:48",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to the One Engineering System framework. While it touches on project management practices, it does not explicitly mention 1ES principles, components, or integration of tools and processes across teams. The discussion lacks depth regarding the core themes of 1ES, such as standardisation and collaboration across engineering practices.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 30.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.9,
+    "ai_intent": 3.0,
+    "ai_audience": 7.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content does not directly mention or reference One Engineering System (1ES) or its framework. While it addresses process improvement (probabilistic forecasting in estimation) relevant to software engineering, it does not discuss unification, standardisation, or integration of tools/processes across teams as defined for 1ES. There are no explicit or implicit links to 1ES principles, nor considerations about tool integration or holistic engineering system standardisation. The primary audience is technical practitioners in Agile/DevOps, which partially overlaps the 1ES audience, but the core topic is estimation/forecasting methodology, not a unified engineering system or its components.",
+    "reasoning_summary": "Focuses on probabilistic forecasting in software delivery, not on 1ES, integrated tooling, or process standardisation. Does not fit the core definition of the 'One Engineering System' category beyond tangential process improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1998,5 +2005,24 @@
     "reasoning": "There are no direct mentions of Agentic Engineering or its key terminology. The main focus is probabilistic forecasting for agile teams, which slightly aligns with agentic principles like team autonomy and adaptive workflows, but crucial topics (ethical AI, developer agency as philosophy, systemic observability, AI/human agency) are either absent or tangential. The discussion is practical and process-driven, aiming to inform agile practitioners on better planning techniques, not on agency maximization. The depth and concept alignment are moderate, primarily reflecting adaptive delivery rather than deliberate engineering for increased autonomy or systemic agency. The audience is practitioners, similar to the target category, and content is focused and relevant, but lacks philosophical, DevOps, or AI agency dimensions critical for full fit.",
     "reasoning_summary": "This content discusses probabilistic forecasting to replace traditional estimation in agile teams, touching on adaptive workflows and increased team confidence. While loosely related to agentic themes like autonomy, it doesn't address engineering philosophy, AI integration, or agency maximization, resulting in only moderate alignment with Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mZvRMHFUarM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 32.645,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.8,
+    "ai_intent": 3.7,
+    "ai_audience": 5.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on replacing traditional estimation with probabilistic forecasting in Agile software delivery. While it discusses improving forecasting and planning, it does not reference agentic systems, autonomous AI agents, or human-agent integration—key elements of Agentic Software Delivery. There’s some conceptual proximity around modern delivery practices, but no direct or implied link to context-aware intelligence or autonomy in software delivery. The main ideas, purpose, and audience largely align with Agile practitioners interested in better forecasting, not specifically agentic principles.",
+    "reasoning_summary": "This content is about probabilistic forecasting in Agile, not Agentic Software Delivery. No autonomous AI agents, scenario intelligence, or agency concepts are discussed—fit is marginal and indirect at best.",
+    "level": "Ignored"
   }
 }

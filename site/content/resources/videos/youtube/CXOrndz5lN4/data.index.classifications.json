@@ -93,15 +93,22 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "CXOrndz5lN4",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T13:03:17",
-    "ai_confidence": 52.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 52.46,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.8,
+    "ai_intent": 6.1,
+    "ai_audience": 6.5,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 52.0,
-    "reasoning": "The content briefly mentions empirical learnings and the application of theories, which aligns with the principles of empirical process control. However, it lacks a direct focus on Agile methodologies, transparency, inspection, and adaptation, which are core themes of the category. The discussion is more about technical leadership and organisational culture rather than a detailed exploration of empirical process control.",
+    "reasoning": "The content touches on principles of empirical learning, adaptation, and continuous improvement, all conceptually close to Empirical Process Control. However, it never explicitly mentions 'Empirical Process Control', and only references empirical practice through phrases like 'Empirical Learning' and a general focus on iteration and adaptation. Discussions on transparency, inspection, and specific Agile frameworks (Scrum, Kanban, etc.) are merely implied, not detailed. The main focus is on technical leadership and fostering excellence, which does tangentially support empirical process principles, but the depth is moderate and much of the content is oriented toward leadership and culture-building rather than directly exploring empirical process control. The audience and signal are reasonably aligned but not tightly focused on the category.",
+    "reasoning_summary": "The content partially fits the category: it supports empirical learning, adaptation, and improvement, but does not explicitly focus on Empirical Process Control or its core Agile practices. Its link is indirect, with moderate alignment and depth.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
@@ -1979,5 +1986,24 @@
     "reasoning": "The content focuses on cultivating engineering excellence through technical leadership, continuous learning, and iterative improvement. While these themes are adjacent to Agentic Engineering topics—such as empowerment, continuous adaptation, and engineering practices—agentic concepts such as decentralised agency, observability, DevOps-infused craft, or the deliberate intertwining of human/AI autonomy are not directly mentioned or explored. The work makes indirect references to empowerment and context-driven practices, but it does not address agentic frameworks, AI augmentation, or explicit decision decentralisation. The purpose and audience somewhat align with the Agentic Engineering category by addressing technical leaders and practitioners, but the lack of depth on agentic philosophies limits overall fit. No penalties apply, as the content is timely and not oppositional.",
     "reasoning_summary": "This content aligns with themes of engineering empowerment and continuous improvement for leaders but lacks direct engagement with Agentic Engineering concepts like distributed agency, observability, or AI collaboration. The fit is partial—related but not strongly focused on the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "CXOrndz5lN4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 17.96,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.2,
+    "ai_intent": 2.4,
+    "ai_audience": 5.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content centers on technical leadership and fostering engineering excellence, focusing on cultural change, continuous improvement, learning, and collaboration. There is no mention of agentic concepts such as AI agents, proactive intelligence, or integration of humans and agents. The article discusses outcome-focused improvement and context, partially overlapping with the broader context-driven mindset of Agentic Software Delivery, but not its distinct principles (autonomy, agency, AI integration, feedback loops with agents, or agentic governance). Audience alignment is relatively high as both target engineering leaders, but the substance and intent lack direct or even strong conceptual ties to Agentic Software Delivery; depth and signal scores are low due to absence of any coverage of agentic systems, agent design, or AI governance.",
+    "reasoning_summary": "Focuses on technical leadership and engineering culture, not agentic principles. No mention of AI agents, agency, or automation in delivery, making the fit with Agentic Software Delivery minimal and largely incidental.",
+    "level": "Ignored"
   }
 }

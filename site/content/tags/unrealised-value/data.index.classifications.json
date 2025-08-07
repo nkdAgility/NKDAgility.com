@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Unrealised Value",
     "category": "Framework",
-    "calculated_at": "2025-04-09T16:43:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Ability to Innovate (A2I) and its relationship with Evidence-Based Management (EBM), but it does not focus on Agile frameworks or Lean principles, which are central to the Framework category. While it touches on themes of innovation and decision-making, it lacks direct references to specific frameworks or their implementation strategies. The discussion is more about a concept rather than a structured methodology, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 31.45,
+    "ai_mentions": 2.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.3,
+    "ai_intent": 2.9,
+    "ai_audience": 4.5,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content centers on the concept of Unrealised Value as a value area within Evidence-Based Management (EBM), but it does not directly describe or discuss any framework in terms of structure, rules, implementation strategies, or adaptation. While Unrealised Value is part of EBM (which is a framework), the text solely elaborates on the concept and its importance, rather than on EBM as a methodology or how frameworks are applied or selected. There are no explicit or frequent framework mentions, no comparison of frameworks, or integration of framework principles with Agile, DevOps, or Lean, and the focus is strictly on the topic of unrealized value as a strategic metric. Audience alignment is partial as practitioners might read this, but the content is not aimed at those deeply engaged with frameworks themselves. Overall, fit is weak and confidence is low.",
+    "reasoning_summary": "Content describes Unrealised Value as a value area but does not discuss frameworks or their structure, implementation, or adaptation. The topic is only indirectly related to frameworks, resulting in low alignment with the category definition.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3120,6 +3127,25 @@
     "final_score": 16.0,
     "reasoning": "The content details the concept of 'Unrealised Value' within Evidence‑Based Management, discussing untapped opportunities, team empowerment, and continuous improvement. However, it does not mention human-AI collaboration, collective intelligence, or AI as a team member. The focus is on human teams, value metrics, and organizational growth, with no references to distributed cognition, socio-technical systems, or human-AI partnerships. While the audience (organizational leaders, Agile practitioners) aligns with that of Collective Intelligence discussions, the content itself is almost entirely unrelated to the AI and human collaboration core to the category.",
     "reasoning_summary": "This content describes innovation and optimization in human teams, not AI-human partnerships or collective intelligence. There is no discussion of human-AI collaboration, making it mostly irrelevant to the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Unrealised Value",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 13.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 5.0,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content discusses Unrealised Value as defined in Evidence-Based Management, focusing on measuring potential value capture and fostering continuous improvement. It does not reference or align with Agentic Software Delivery concepts, such as autonomous AI integration, agentic practices, or human-agent systems. There are no mentions of AI, agents, modern engineering practices, or related governance frameworks. The audience is reasonably similar (process/optimisation focused), but the topic and depth are unrelated to agentic delivery, resulting in very low confidence for categorisation.",
+    "reasoning_summary": "This content is about measuring untapped organisational value, not about agentic software delivery or AI agents. It lacks any direct alignment to the category and only overlaps in broad themes of improvement.",
     "level": "Ignored"
   }
 }

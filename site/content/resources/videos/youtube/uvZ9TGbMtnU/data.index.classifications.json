@@ -1435,15 +1435,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "uvZ9TGbMtnU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:00:57",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile practices and the concept of special Sprints, which are not directly related to the One Engineering System framework. While it touches on themes of accountability and quality, it does not address the integration or standardisation of engineering processes, which are core to 1ES. Therefore, the confidence score reflects a very low alignment with the category.",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 12.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.25,
+    "ai_audience": 3.1,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content discusses misconceptions around 'special Sprints' in Agile, emphasizing incrementally delivering usable products and fostering accountability—principles also valued in comprehensive engineering frameworks like 1ES. However, there is no direct reference to One Engineering System or its specific unifying standards/processes. The discussion remains within the realm of Scrum/Agile mindset and delivery cadence, not unified engineering infrastructure or systematization across teams. The audience overlaps somewhat (practitioners aiming for maturity), but key 1ES topics—tool integration, standardized frameworks, cross-team collaboration—are absent.",
+    "reasoning_summary": "This content only aligns with Agile/Scrum delivery principles and does not discuss 1ES concepts, frameworks, or integration. There is no category mention or systemic focus—fit is extremely low and mostly incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1951,5 +1958,24 @@
     "reasoning": "The content centers on core Agile values—continuous improvement, accountability, and product increment delivery—aligning with some agency principles (developer autonomy, feedback). However, it never mentions 'Agentic Engineering,' nor does it explicitly discuss maximizing human or AI agency, observability, DevOps integration, or ethical AI. The depth is solid for Agile, but not for agentic topics. The intent is aligned tangentially; audience and focus fit practitioner themes relevant to Agentic Engineering, but most content stops short of philosophical discussions about agency or deliberate engineering design.",
     "reasoning_summary": "This article refutes special sprints and promotes Agile values like continuous improvement and accountability, overlapping partially with practices that support agency. However, it lacks any explicit or substantial exploration of Agentic Engineering concepts or themes.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uvZ9TGbMtnU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 11.883,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses Agile practices and debunks the idea of special Sprints, focusing on accountability, continuous improvement, and delivering usable products. It does not mention or align with Agentic Software Delivery concepts such as autonomous AI agents, contextual intelligence, or agentic—human collaboration. The intent is to clarify Agile misconceptions rather than explore agentic delivery. There is some audience overlap due to targeting Agile practitioners, but the themes, terminology, and solutions do not reference agentic strategies, governance, or AI integration. No penalties applied as it's not outdated or contradicting the category in tone.",
+    "reasoning_summary": "The content discusses Agile delivery practices and mindset, with no mention or exploration of agentic software delivery, AI agents, or related principles. It does not fit the assigned category; fit is minimal and indirect at best.",
+    "level": "Ignored"
   }
 }

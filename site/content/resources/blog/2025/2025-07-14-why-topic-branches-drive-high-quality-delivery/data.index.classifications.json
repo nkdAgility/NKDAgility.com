@@ -2927,16 +2927,21 @@
   "Method": {
     "resourceId": "O_VlmDj7n3V",
     "category": "Method",
-    "calculated_at": "2025-05-02T07:40:23",
-    "ai_confidence": 85.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": null,
-    "final_score": 85.0,
-    "reasoning": "The content very clearly discusses the implementation of topic branches, emphasizing their importance as a structured method in software development. It details how to use topic branches effectively with models like GitHub Flow and provides actionable patterns for tactical implementation, which is central to the definition of 'Method'. The discussion is deep and well-structured, covering specific practices, potential issues, and how to enhance collaboration and integration within Agile practices. The overall focus on procedures to achieve effective software delivery aligns well with the key topics of the Method category, though it touches on tools like GitHub Flow. Consequently, it reflects a strong alignment with the Method category, earning a high confidence score.",
-    "level": "Primary",
-    "reasoning_summary": "This content fits the Method category because it thoroughly explains how to use topic branches as a structured approach in software development. It offers practical guidance, discusses best practices, and addresses challenges, all of which are central to procedural methods. The focus on actionable steps and process improvement makes it a strong example of Method content."
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 91.09,
+    "ai_mentions": 7.3,
+    "ai_alignment": 9.4,
+    "ai_depth": 9.8,
+    "ai_intent": 9.2,
+    "ai_audience": 8.6,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 91.0,
+    "reasoning": "The content repeatedly and explicitly discusses branching strategies as practical, structured procedures (topic branches, GitHub Flow, Release Flow, Git Flow) for high-quality software delivery. It explains step-by-step approaches, best practices, implementation patterns, and their alignment with Agile and Continuous Delivery methods. Comparison of methods and tactical guidance are thorough, indicating deep exploration. The intent is clearly to inform technical audiences (team leads, practitioners) on procedural improvements to delivery, which aligns with the 'Method' category. There is strong conceptual alignment with the category definition, and nearly all content has high signal-to-noise, focused on methods for workflow management and delivery. No outdated or contradicting content found; all practices are current.",
+    "reasoning_summary": "The content focuses on structured, step-by-step methods (topic branching, GitHub Flow) for delivering software in Agile/DevOps, aligning deeply with the Method category. It’s procedural, thorough, and targets practitioners. Fit is very strong, confidence is high.",
+    "level": "Primary"
   },
   "Observability": {
     "resourceId": "O_VlmDj7n3V",
@@ -3148,5 +3153,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or related philosophy are absent; the content centers on practical branching strategies. Still, the themes of modularity, feedback-driven adaptation, flow, and enabling autonomy for teams closely align with the category’s intent. The text discusses technical leadership and deliberate practice but frames branching more as an enabler for agile/DevOps than as an explicit maximization of human/AI agency or ethical integration. There is some exploration of systemic observability, continuous value delivery, and team agency, though depth on these topics is moderate. The audience is largely technical leaders and practitioners—a solid match. The writing is highly focused with little filler or tangents. No penalties applied; practices are modern and positively framed. Overall, while the fit is not direct or explicit, there's substantial thematic overlap in the engineering philosophy.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by promoting practices that enhance team autonomy, adaptability, and continuous value delivery. However, it lacks explicit discussion of agentic concepts such as maximized human/AI agency or ethical considerations, focusing mainly on practical engineering strategies.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "O_VlmDj7n3V",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 25.27,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.75,
+    "ai_intent": 2.1,
+    "ai_audience": 8.0,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "There are no direct mentions of agentic concepts, AI agents, or integrations of autonomous intelligence. The focus is exclusively on Git branching strategies, modularity, CI/CD, and agile practices. While some practices (e.g., trunk-based development, continuous feedback, CI/CD) are necessary for enabling agentic delivery, none of the content addresses agency, contextual intelligence, human/AI collaboration, or any key characteristics of Agentic Software Delivery. The intent is to instruct technical teams on effective branching, not on embedding or leveraging AI agents. The content's audience—engineering practitioners—is appropriate, but there is no thematic or conceptual overlap with agentic principles beyond some underlying modern engineering practices. Signal is high due to technical focus, but relevance to the category is very low.",
+    "reasoning_summary": "Content focuses on Git branching, modern CI/CD, and agile engineering—not agentic delivery or AI integration. Lacks discussion of AI agents, contextual intelligence, or human/agent collaboration. Only minor, indirect fit on enabling practices.",
+    "level": "Ignored"
   }
 }

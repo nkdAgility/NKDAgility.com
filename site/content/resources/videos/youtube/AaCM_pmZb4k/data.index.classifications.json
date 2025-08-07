@@ -1429,15 +1429,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "AaCM_pmZb4k",
     "category": "Scrum",
-    "calculated_at": "2025-03-15T00:47:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses hierarchies of competence and control, which are not directly related to Scrum principles or practices. While there is a brief mention of 'agile' and 'scrum' at the end, the primary focus is on organisational structures rather than Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific topics, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 34.23,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.8,
+    "ai_intent": 5.5,
+    "ai_audience": 5.7,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on contrasting competence-based versus control-based hierarchies and suggests the benefits of the former for modern, agile organizations. However, there are no explicit or implicit references to Scrum, its roles, events, or artifacts. While concepts like dynamic leadership, fast feedback loops, and agility overlap with Scrum’s values, these themes are treated in a general manner without connecting them to the Scrum framework specifically. The content may appeal to audiences interested in Agile or Scrum-adjacent topics, but it does not intend to inform about, describe, or support Scrum directly. Therefore, scores for direct mentions, depth, and alignment are modest, with intent and audience slightly higher due to some relevance for organizational agility practitioners. Signal-to-noise is moderate, as the discussion is focused but generic—not Scrum-specific.",
+    "reasoning_summary": "The content discusses competence-based vs. control hierarchies in organizations, which loosely aligns with agile ideas but never references Scrum or its unique frameworks. Not a strong fit for the Scrum category.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -2001,5 +2008,24 @@
     "reasoning": "The content directly discusses the contrast between competence-based and control-based hierarchies, emphasizing decentralised decision-making, fast feedback, and adaptive leadership—closely tied to agency in engineering. It highlights how competence-driven models create dynamic, responsive organisations. However, it does not mention 'Agentic Engineering' explicitly nor reference AI collaboration or systemic observability, and doesn't deeply address DevOps or ethical AI integration. Its focus is on organisational models and the philosophical side of competence and agency, which aligns well with several but not all category aspects.",
     "reasoning_summary": "This content strongly aligns with Agentic Engineering by advocating for decentralised, competence-driven structures and faster feedback loops. While it covers agency and dynamic leadership, it does not explicitly mention AI or technical practices, making its fit substantial but not complete.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AaCM_pmZb4k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 38.24,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.6,
+    "ai_intent": 4.1,
+    "ai_audience": 4.6,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content discusses hierarchies of competence vs. control, focusing on decentralisation, real-time response, and emergent leadership, all of which partially overlap with principles underlying Agentic Software Delivery (agility, feedback loops, expertise-led decisions). However, the text does not explicitly mention AI agents, contextual intelligence, governance frameworks for agents, or autonomous systems—the crucial elements of Agentic Software Delivery. While it does reference feedback loops and agility, these are discussed solely from an organisational/human dynamics perspective. There is no treatment of agentic software, AI-human integration, or modern engineering practices central to the category. Audience and intent overlap with progressive, agile-minded practitioners, but the absence of core agentic concepts limits confidence.",
+    "reasoning_summary": "The content shares values like agility, feedback loops, and dynamic expertise, but never references AI agents, autonomy, or software delivery mechanisms. Partial alignment, but it does not sufficiently represent Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

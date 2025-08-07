@@ -1428,15 +1428,22 @@
     "reasoning_summary": "This content is a strong fit for the Scrum category, as it delves into the Product Owner’s responsibilities, referencing the Scrum Guide and emphasising backlog management, team communication, and transparency. The discussion offers meaningful insights into Scrum roles and practices, making it highly relevant for anyone interested in Scrum methodologies."
   },
   "Shift Left Strategy": {
+    "resourceId": "6cczVAbOMao",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:02:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Product Owner in managing a product backlog within the Agile framework. While it touches on proactive approaches, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around backlog management rather than integrating testing, security, or compliance early in the development process.",
+    "calculated_at": "2025-08-07T06:11:25",
+    "ai_confidence": 6.86,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.3,
+    "ai_audience": 2.1,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused solely on the role of the Product Owner in shaping and managing a lean product backlog in Agile/Scrum. There are no direct or indirect references to Shift-Left Strategy principles such as early testing, security, compliance, or proactive quality measures in the SDLC. The discussion revolves exclusively around prioritization, communication, and leadership in backlog management, not integrating processes earlier in development. The core meaning, depth, and audience fit only extremely marginally (generic Agile practitioners), and any conceptual overlap with Shift-Left Strategy is coincidental and indirect at best.",
+    "reasoning_summary": "This content does not fit the Shift Left Strategy category. It focuses on backlog management and Product Owner responsibilities in Agile, without addressing early integration of testing, security, compliance, or Shift-Left strategy principles.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1987,6 +1994,25 @@
     "final_score": 17.0,
     "reasoning": "The content centers on the role of the Product Owner in shaping and maintaining the Product Backlog within Scrum and Agile contexts. While it touches on aspects like leadership, strategy, autonomy, and lean practices, it does not explicitly discuss or align with Agentic Engineering as defined. There are no mentions of maximizing human or AI agency, systemic observability, ethical AI, or deliberate engineering practice design. The focus is on the operational importance of the Product Owner, product backlog management, and effective product leadership, lacking advanced engineering, automation, agency, or feedback-driven adaptation themes required for Agentic Engineering.",
     "reasoning_summary": "This content focuses on Product Owner responsibilities and backlog management within Agile, not on Agentic Engineering. It lacks explicit discussion of human or AI agency, deliberate engineering practices, or the broader agentic themes described in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6cczVAbOMao",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 13.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on the human role of a Product Owner in cultivating and prioritizing a product backlog within Agile/Scrum. There is no mention or implication of autonomous AI agents, agentic integration, contextual software intelligence, or any agentic software delivery concepts. The discussion is about classic Agile practice, product ownership, leadership, and best practices for backlog management with no overlaps to agentic principles, architecture, AI, or feedback loop automation. Therefore, it is weakly aligned on all core dimensions. No penalties were applied because the content is not outdated or critical; it simply lacks relevance.",
+    "reasoning_summary": "This content discusses traditional Product Owner responsibilities in Agile, with no reference to agentic software delivery, AI agents, or related concepts. The topic and intent do not fit the category beyond general backlog management.",
     "level": "Ignored"
   }
 }

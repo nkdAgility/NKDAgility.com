@@ -1457,15 +1457,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "DcwDyX1ZGUP",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:50:54",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within agile practices, discussing its importance for quality and transparency. While it touches on aspects of quality assurance, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around agile methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 16.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 5.9,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly explores the Definition of Done within Scrum and its relationship to acceptance criteria, focusing on clarity and standards in agile teams. However, there are no mentions or evident exploration of the One Engineering System (1ES) framework, its principles, or its goals regarding unifying tools, processes, or methodologies across teams. The content is targeted towards agile practitioners but does not address cross-team standardization, tool integration, or the systemic alignment emphasized by 1ES. The fit is weak: while software quality and standards are discussed, they are framed in a Scrum-specific context rather than within the 1ES paradigm.",
+    "reasoning_summary": "Content discusses Scrum’s Definition of Done and acceptance criteria, not One Engineering System. There is minimal alignment: no direct mention, conceptual overlap, or discussion of 1ES unification principles.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1971,5 +1978,24 @@
     "reasoning": "Direct mentions of Agentic Engineering are absent; the term and associated concepts are not named or directly cited. Some conceptual overlap exists around developer agency and value delivery, especially regarding the autonomy granted by Definition of Done (DoD) practices and maintaining transparency/empiricism. However, the discussion is rooted in Scrum fundamentals and quality standards, not in maximizing agency for humans or AI through deliberate engineering practices as required by Agentic Engineering: there is no exploration of ethical AI integration, automation as craft, or decentralised decision-making frameworks. The intent is to clarify practical boundaries between DoD and acceptance criteria, targeting practitioners interested in iterative delivery. Signal-to-noise is high due to practical focus; audience is moderately aligned. However, there is neither philosophical depth nor discussion of systemic observability, feedback-driven adaptation, or ethical autonomy.",
     "reasoning_summary": "This content centers on Scrum's Definition of Done and quality standards, offering practical advice for practitioners. While there are echoes of agency and value delivery, it does not address Agentic Engineering's core themes of maximized human or AI autonomy, systemic feedback, or deliberate agentic practice.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DcwDyX1ZGUP",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 11.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 2.7,
+    "ai_audience": 2.5,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on distinguishing the Definition of Done (DoD) from acceptance criteria within Agile/Scrum. It discusses quality, transparency, and value delivery—all relevant to modern software delivery—but makes no explicit reference to agentic software delivery, autonomous AI agents, or agentic principles. There's no mention of AI integration, autonomous systems, contextual intelligence, human-agent collaboration, or any of the key elements of agentic delivery from the classification. The depth is limited to process clarity and quality standards. The audience is primarily Agile practitioners or Scrum teams, overlapping somewhat, but not directly targeted at those seeking info on agentic software delivery. The signal is moderate, as it remains focused on its main topic but is wholly orthodox and traditional in its framing, not mentioning next-gen or agentic approaches.",
+    "reasoning_summary": "Content explores Definition of Done and quality in Scrum, but lacks any discussion of autonomous AI agents, contextual intelligence, or agentic delivery principles; only marginal alignment with category intent.",
+    "level": "Ignored"
   }
 }

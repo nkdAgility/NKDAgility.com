@@ -1387,16 +1387,23 @@
     "level": "Ignored"
   },
   "Competence": {
+    "resourceId": "jCqRHt8LLgw",
     "category": "Competence",
-    "calculated_at": "2025-04-10T15:54:38",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses agile practices and the importance of adapting methodologies, which indirectly relates to competence. However, it primarily focuses on specific practices like story points and team sizes rather than on the broader themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence is minimal, as it does not explore strategies for skill enhancement or the impact of competence on team dynamics.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 34.41,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 4.3,
+    "ai_intent": 3.5,
+    "ai_audience": 6.1,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "Direct mentions of competence or its synonyms (like ongoing skill development or mastery) are absent. The content instead focuses on practice- and process-level choices in Agile—story points, throughput, team sizes, and emergent architecture. While these topics can relate to competence in some contexts (e.g., team capability impacts outcomes), the author does not explicitly connect these practices to continuous learning, capability development, skill inspection/adaptation, or professionalism. The 'quality' and 'value' aspects hinted at (e.g., high-quality software, better delivery) are expressed more as outcomes of structural choices, not as evidence of competence or strategies to foster it. Most of the discussion centers around how to improve practice using process tweaks, with only peripheral, indirect relevance to the evolution or demonstration of competence per the provided definition. Audience alignment is moderate, as it reaches practitioners who care about Agile professionalism, and the content is relevant and focused; however, its conceptual and intent fit to the competence category is weak.",
+    "reasoning_summary": "This content focuses on evolving Agile practices (story points, team sizes, architecture) rather than competence, with little on skill development or professionalism. It loosely aligns but lacks direct reference or substantial discussion of competence.",
+    "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1916,5 +1923,24 @@
     "reasoning": "The content examines key agile practices like story points, team sizing, and especially emergent architecture, with an intent to improve autonomy and adaptability. It references DevOps and continuous delivery, aligning somewhat with Agentic Engineering. However, it focuses on practical agile adjustments rather than explicitly targeting the maximization of human and AI agency, ethical AI integration, or the broader systemic philosophy. While emergent architecture and team autonomy imply agentic principles, there is no explicit mention of 'Agentic Engineering'; ethical or AI elements are notably absent. The discussion remains within agile process improvement, lacking depth on ethical autonomy, co-agency, or systemic observability as core topics. The target audience is technical practitioners familiar with agile and DevOps. Overall, the fit is moderate—relevant but not directly or deeply agentic.",
     "reasoning_summary": "This content focuses on optimizing agile practices—story points, team size, and emergent architecture—with moderate conceptual overlap on developer autonomy and adaptability. However, it lacks explicit discussion of human/AI agency, ethical autonomy, or the core philosophy of Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 12.46,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.9,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on Agile practices related to story points, team sizes, and emergent architecture. There are no explicit or implicit references to agentic software delivery, autonomous AI agents, contextual intelligence, or agentic system integration. While there is general discussion of improving delivery and adaptability, this is confined to established Agile and DevOps paradigms. The intent is to address Agile methodology pain points for practitioners, not to discuss intelligent or agentic enhancements. Thus, alignment, depth, and signal are low, with only moderate audience fit due to overlap with modern delivery interests.",
+    "reasoning_summary": "Content discusses Agile techniques, not agentic delivery. No mention of AI agents or related concepts. Only tangentially relevant through delivery improvement themes. Does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

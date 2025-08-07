@@ -157,16 +157,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Customer Satisfaction",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on customer satisfaction, which is not directly related to the concept of discipline. While it discusses the importance of a customer-centric mindset and continuous improvement, these themes do not explicitly align with the core principles of discipline. The mentions of organisational culture and feedback loops are relevant but do not constitute a primary focus on discipline itself. Therefore, the confidence score reflects a low alignment with the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 42.75,
+    "ai_mentions": 0.9,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.4,
+    "ai_intent": 4.0,
+    "ai_audience": 7.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on embedding customer satisfaction into product development processes and describes a systemic approach to continuous improvement. However, it does not explicitly discuss Discipline as a field, its methodologies, or its codified principles. There is slight conceptual overlap in its attention to systematic practice and improvement, but it lacks direct references to disciplinary structures, governance, or the evolution of professional fields. The intended audience (practitioners, product managers) matches the category audience, and the content is focused, but primarily remains within the realm of organizational behavior and culture rather than Discipline itself as defined. Thus, the confidence score reflects a partial but not strong fit.",
+    "reasoning_summary": "The content discusses systemic improvement and customer focus, relating partially to discipline concepts, but lacks explicit discussion on the structure or evolution of professional disciplines. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Decision Making": {
     "resourceId": "Customer Satisfaction",
@@ -3110,6 +3117,25 @@
     "final_score": 7.0,
     "reasoning": "The content centers exclusively on customer satisfaction, focusing on user feedback loops, organizational adaptation, and product development. There is no mention or implication of human-AI collaborative patterns, collective intelligence, or hybrid cognitive systems. While customer feedback may inform human decision-making, it does not fit the specified definition of collective intelligence since it lacks reference to AI agents as active collaborators or team members. The audience is potentially product teams or organizational leaders, loosely related but not explicitly aligned with human-AI partnership practitioners.",
     "reasoning_summary": "This content discusses the importance of customer satisfaction in product development but does not reference or align with Collective Intelligence concepts involving human-AI collaboration. No mention of AI agents or team-based intelligence is present.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Customer Satisfaction",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 24.303,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.6,
+    "ai_intent": 2.7,
+    "ai_audience": 5.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content discusses customer satisfaction, product-market fit, and feedback loops but does not mention or imply Agentic Software Delivery, agents, AI, or related practices. While feedback loops are referenced, they pertain to general user feedback, not AI-grounded agentic systems, synergy between agents and humans, or intelligent delivery pipelines. No references to autonomous agents, integration with human expertise, or the specific engineering or governance aspects of agentic delivery are present. The only slight alignment is through the shared emphasis on feedback loops and value delivery (which can be components of broader agentic systems), but these are discussed generically with no distinctive agentic framing. Audience is likely practitioners or strategists in software delivery, but relevance to the specific category is minimal.",
+    "reasoning_summary": "This content focuses exclusively on customer satisfaction and user-centric delivery, without mentioning AI agents, agentic practices, or contextual intelligence. It does not fit the Agentic Software Delivery category except tangentially via general feedback loops.",
     "level": "Ignored"
   }
 }

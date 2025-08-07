@@ -1,16 +1,22 @@
 {
   "Tool": {
+    "resourceId": "Application Lifecycle Management",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 30,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) in detail, highlighting its role in managing software applications and integrating processes, tools, and people. It aligns well with the category by focusing on how ALM facilitates workflows and enhances collaboration, particularly in the context of Agile and DevOps methodologies. The mention of continuous integration and delivery practices further supports its relevance to the 'Tool' category. However, while it discusses tools in a broader sense, it does not delve into specific tools or provide a comparative analysis, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the 'Tool' category because it explores how Application Lifecycle Management (ALM) supports software development by integrating processes, people, and workflows. It also touches on Agile and DevOps practices, showing ALM’s relevance. However, it doesn’t go into detail about specific tools or compare them, which makes the fit less precise."
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 49.04,
+    "ai_mentions": 2.3,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.4,
+    "ai_intent": 4.9,
+    "ai_audience": 5.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content discusses ALM as a holistic concept integrating processes, people, and tools but focuses on the broad management framework rather than a specific tool or tools. While tools are referenced as a component supporting ALM, the primary theme is strategic process management. No direct tool overview, comparison, or detailed application is present; the discussion is at a high level, addressing workflows, integration with Agile/DevOps, and value delivery. Audience alignment is partial: readers could include technical practitioners, but much of the content is conceptual. The mention of tools is not deep or frequent enough for a high confidence in the 'Tool' category.",
+    "reasoning_summary": "Content discusses ALM as a comprehensive process framework, mentioning tools only in passing. It doesn't focus on tools, their features, or comparative analysis; thus, fit for the 'Tool' category is partial and unclear.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -3124,6 +3130,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on the processes, coordination, and collaborative aspects of Application Lifecycle Management (ALM) within organizations, mentioning how various teams and stakeholders (people, processes, tools) are integrated for better outcomes. However, it does not discuss human-AI collaboration, AI agents as teammates, distributed cognition with AI, or any specific collective intelligence dynamics between humans and AI. The main discussion is about general team collaboration and workflow improvement via ALM, often within Agile and DevOps frameworks, but strictly human-centric. There are no explicit or implicit references to AI partnership, shared cognition with AI, or any topics from the category definition (such as human-AI collaboration patterns, decision-making frameworks leveraging both human and AI strengths, etc.). Therefore, scores across most dimensions remain low, especially for direct mentions, alignment, depth, and intent.",
     "reasoning_summary": "This ALM content discusses human team coordination, tools, and processes but does not address human-AI collaboration or collective intelligence concepts. It falls outside the scope of the 'Collective Intelligence' category as defined, resulting in a low confidence score for fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Application Lifecycle Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 31.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.7,
+    "ai_depth": 2.6,
+    "ai_intent": 4.1,
+    "ai_audience": 4.6,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content thoroughly discusses Application Lifecycle Management (ALM), focusing on the coordination of software development, maintenance, and governance. While it references practices like CI/CD, feedback loops, and integration with Agile and DevOps, it does not address agentic principles such as autonomous AI agents, contextual intelligence, or human-AI synergy. There are no explicit or implicit mentions of agentic design, proactive intelligence, or AI agency, making the overlap with 'Agentic Software Delivery' only tangential. The audience is tangentially similar (software/engineering professionals), but the main topic is traditional ALM, not agent-driven delivery.",
+    "reasoning_summary": "Content focuses on traditional ALM, with no discussion of AI agents, agency, or contextual intelligence. Overlap with 'Agentic Software Delivery' is minimal and indirect; fit is weak.",
     "level": "Ignored"
   }
 }

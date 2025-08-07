@@ -393,15 +393,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "yKSkRhv_2Bs",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:45:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting an APS course related to Scrum methodology, with no direct discussion of Test First Development principles or practices. While it touches on Agile and Scrum concepts, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 11.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 3.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is exclusively focused on the APS (Agile Professional Scrum) course and its value for improving or aligning Scrum practices. It promotes Scrum training for newcomers and experienced teams, emphasizing foundational knowledge, team alignment, and agile adaptation. There are no explicit or implicit references to Test First Development concepts such as defining success criteria upfront, TDD, ATDD, automated or manual test-first practices, or feedback loops specific to testing. There’s no exploration of the relationship between testing and design, collaboration about test criteria, nor mention of the transition to automated testing practices as a Test First principle. The content targets Scrum practitioners—overlapping somewhat with the Test First audience—but its substance is unrelated to the Test First Development category requirements.",
+    "reasoning_summary": "This content is about promoting Scrum and APS courses, with no mention or substantive discussion of Test First Development practices, principles, or concepts. The topic does not fit the assigned category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1976,6 +1983,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses exclusively on the value of APS courses for teams adopting, refreshing, or aligning their Scrum practices. There are no direct mentions or substantive discussion of agentic engineering concepts—such as engineering autonomy, decentralised decision-making, or human/AI co-agency. The closest point is a general reference to teams aligning practices and improving collaboration, but this lacks the philosophical, ethical, and technical nuances of Agentic Engineering. The content targets Scrum practitioners, partially overlapping with Agentic Engineering's audience, but all depth, intent, and alignment are strictly limited to Scrum methodology promotion.",
     "reasoning_summary": "This content is primarily a promotion for APS Scrum courses, focusing on foundational Agile/Scrum practices for teams. It does not address Agentic Engineering concepts, like enhancing autonomy, agency, or co-evolution of engineering systems, and lacks any direct or conceptual discussion of those topics.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yKSkRhv_2Bs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 2.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused exclusively on promoting APS (Agile Professional Scrum) courses for teams seeking to adopt or enhance their Scrum practices. It does not mention or discuss agentic principles such as autonomous AI agents, contextual intelligence, human-agent collaboration, or modern agentic engineering and governance frameworks. No references to AI, autonomy, or intelligent agents are present, nor does the content allude to evolved delivery models embracing agentic paradigms. The primary audience is Scrum beginners or practitioners, not those pursuing cutting-edge, agentic delivery strategies. The overall lack of conceptual or direct overlap with the Agentic Software Delivery category justifies minimal scores across all dimensions and a very low confidence score.",
+    "reasoning_summary": "Content solely covers traditional Scrum training and does not reference, imply, or align with agentic software delivery concepts such as AI agents, contextual intelligence, or human-agent teaming. Fit is minimal and almost entirely absent.",
     "level": "Ignored"
   }
 }

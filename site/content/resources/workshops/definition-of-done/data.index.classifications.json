@@ -1087,16 +1087,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "IgRDk1wrh65",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T14:45:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions the concept of 'Definition of Done', which is relevant to product delivery as it relates to ensuring that increments meet quality standards. However, it lacks detailed discussion on methodologies, practices, or the end-to-end process of delivering software products. The focus is more on a specific exercise rather than a comprehensive exploration of product delivery principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 62.46,
+    "ai_mentions": 5.8,
+    "ai_alignment": 8.3,
+    "ai_depth": 7.9,
+    "ai_intent": 7.2,
+    "ai_audience": 6.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content focuses on 'Definition of Done' in agile, directly relevant to ensuring quality and completion in product delivery. It includes practical exercises and process steps, indicating depth beyond mere mention. The intent is educational for agile teams, suitable for practitioners involved in delivering software products. However, limited context on wider delivery practices lowers some scores—audience and signal—to reflect partial but meaningful relevance to the product delivery category.",
+    "reasoning_summary": "Covers Definition of Done within agile, a key product delivery concept. Provides practical and process-related detail. While focused, the scope is slightly narrower than the full delivery process. Fit is appropriate but not exhaustive.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1904,6 +1911,25 @@
     "final_score": 12.0,
     "reasoning": "The content describes the Definition of Done in agile, focusing on completeness of work, basic steps, and some exercises. There are no direct or indirect references to agentic engineering concepts such as developer agency, feedback-driven adaptation, or ethical AI involvement. The content is general agile education with no identifiable link to deliberate design of engineering agency or decentralised decision-making. No penalties applied as it is neither outdated nor critical.",
     "reasoning_summary": "This content explains agile Definition of Done, focusing on completion criteria and basic workshop exercises. It does not discuss agentic engineering concepts, developer/AI agency, or decentralised engineering practices, resulting in very low category confidence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IgRDk1wrh65",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content concerns the 'Definition of Done' in agile, with no reference to agentic software delivery, AI agents, contextual intelligence, or related themes. It is focused on traditional agile concepts, not the integration of autonomous AI agents, and provides practical exercises for understanding DoD. No penalties were applied since the content is not outdated nor critical of the agentic framing, but it does not match the Agentic Software Delivery category.",
+    "reasoning_summary": "This content covers the basics of 'Definition of Done' for agile teams, with no mention of agentic software delivery or related AI integration themes. Its topic and intent are not aligned with the assigned category.",
     "level": "Ignored"
   }
 }

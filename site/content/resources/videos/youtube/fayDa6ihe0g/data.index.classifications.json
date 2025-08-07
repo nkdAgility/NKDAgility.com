@@ -508,15 +508,22 @@
     "level": "Ignored"
   },
   "Scrum Master": {
+    "resourceId": "fayDa6ihe0g",
     "category": "Scrum Master",
-    "calculated_at": "2025-04-10T15:54:30",
-    "ai_confidence": 15.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 0.0,
-    "non_ai_confidence": 10,
-    "final_score": 15.0,
-    "reasoning": "The content primarily focuses on Scrum Product Owner training rather than the role of the Scrum Master. While it mentions Scrum, it does not discuss the responsibilities, skills, or impact of a Scrum Master, nor does it align with the key topics outlined for this category. The discussion is brief and lacks depth regarding the Scrum Master's role.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 12.6,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 2.1,
+    "ai_audience": 3.7,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on the Professional Scrum Product Owner training, not the Scrum Master role. There are no direct mentions or substantive discussion of the Scrum Master accountability. While the audience may overlap, the content focus and intent are not aligned with the Scrum Master category.",
+    "reasoning_summary": "Content focuses on Product Owner training with no direct relation to the Scrum Master role. Purpose and discussion do not fit the category definition; any alignment is tangential or incidental.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1922,6 +1929,25 @@
     "final_score": 9.0,
     "reasoning": "The content advertises a timelapse summary of a Scrum Product Owner course and provides links to further Scrum workshops. There are no direct mentions of Agentic Engineering, nor explicit discussion of maximising agency, DevOps, observability, AI collaboration, or related practices. The content’s focus is on standard Scrum training, not on the deliberate design of engineering practices or the philosophical aspects of agency. The alignment is minimal: while Scrum practices can empower agency, this content does not address such topics or audiences directly. Signal is somewhat relevant simply because Scrum is a context in which Agentic Engineering could arise, but the presentation stays at a broad, introductory, timelapse level—no substantial or nuanced exploration of agentic principles. No penalties were applied, as the content is current and non-critical.",
     "reasoning_summary": "This Scrum Product Owner course overview contains no direct references or in-depth discussion of Agentic Engineering or agency-maximising practices. Its focus is on general Scrum education, not the core themes or audience of Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 6.216,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a brief promotional overview of a Professional Scrum Product Owner training, with no direct references to agentic software delivery, autonomous AI agents, or integration between AI and human expertise. There is no exploration of agency, contextual intelligence, or relevant engineering practices. The alignment with the 'Agentic Software Delivery' category is minimal; the content is strictly focused on Scrum-based product ownership, which does not involve agentic principles or delivery methods. The intended audience is Scrum practitioners and learners, not specifically those interested in agentic software delivery. Thus, very low scores are warranted for all dimensions.",
+    "reasoning_summary": "This video is about Scrum Product Owner training and does not mention or explore agentic software delivery. Its content and purpose are unrelated to the evaluated category, resulting in very low topic fit.",
     "level": "Ignored"
   }
 }

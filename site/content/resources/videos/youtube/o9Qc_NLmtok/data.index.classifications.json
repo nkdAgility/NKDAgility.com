@@ -968,16 +968,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "o9Qc_NLmtok",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:54:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Agile and Scrum, but it primarily focuses on the immersive learning experience rather than discussing empirical process control principles. While there are elements of collaboration and feedback, which are relevant, the overall emphasis is on the course structure and benefits rather than on transparency, inspection, and adaptation as core themes of empirical process control.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 46.8,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.6,
+    "ai_intent": 4.8,
+    "ai_audience": 6.2,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content describes an 8-week immersive Scrum learning course with references to experiential, collaborative, and practical learning. While there are indirect allusions to inspection (feedback cycles) and adaptation (applying techniques in organizations), the narrative never directly discusses the principles or terminology of empirical process control. Key topics like transparency, adaptation based on evidence, and inspection processes are implicit at best. The intent is broadly Agile and Scrum-aligned, targeting practitioners, but the main focus remains on course structure and benefits, not a substantive exploration of empirical process control. Audience fit is moderate, and signal-to-noise is decent but not tightly focused on the category.",
+    "reasoning_summary": "Content is moderately aligned—touches collaborative learning and feedback (indirectly relevant), but lacks direct or deep discussion of empirical process control principles. Main focus is the course structure, not Agile evidence-based practice.",
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1986,6 +1993,25 @@
     "final_score": 16.0,
     "reasoning": "The content discusses immersive Scrum learning, focusing on course structure, blended learning, practical assignments, and collaborative feedback. There is no direct mention or conceptual focus on Agentic Engineering, agency, systemic observability, DevOps integration, or AI augmentation. Although the content targets a technically inclined audience, its main subject is educational methodology for Scrum, not engineering practices that maximize human or AI agency. Thus, the alignment, depth, and direct references to Agentic Engineering are minimal, resulting in a low confidence score.",
     "reasoning_summary": "This content describes Scrum training methods without addressing the principles or practices specific to Agentic Engineering. It lacks focus on human or AI agency and does not discuss relevant engineering frameworks, making its fit with the category minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "o9Qc_NLmtok",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:26",
+    "ai_confidence": 12.95,
+    "ai_mentions": 0.25,
+    "ai_alignment": 1.15,
+    "ai_depth": 1.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.25,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content describes an immersive Scrum learning course, focusing on blended learning, practical assignments, and collaborative feedback. It does not mention agentic software delivery, AI agents, contextual intelligence, or any associated methodologies. The intent is educational about Scrum practices rather than about integrating advanced AI or agentic systems. Audience is aligned to Agile practitioners, which is partially similar, but the overall topic is orthogonal to agentic software delivery as defined. No outdated references or tone issues detected.",
+    "reasoning_summary": "This course overview focuses on immersive Scrum learning and does not discuss agentic software delivery, AI agents, or related concepts. Fit to the category is marginal and mostly coincidental, not intentional or thematic.",
     "level": "Ignored"
   }
 }

@@ -61,16 +61,23 @@
     "level": "Secondary"
   },
   "Strategy": {
+    "resourceId": "Automated Testing",
     "category": "Strategy",
-    "calculated_at": "2025-04-09T16:27:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Automated Testing primarily as a technical practice rather than a strategic approach. While it touches on themes of organisational agility and alignment with Agile and DevOps principles, it lacks a direct focus on high-level strategic planning or decision-making. The mention of a 'shift-left strategy' is the closest reference to strategy, but it is not explored in depth or tied back to overarching organisational goals. Overall, the content is more operational in nature, focusing on implementation rather than strategic alignment.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 49.25,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.8,
+    "ai_intent": 5.1,
+    "ai_audience": 7.0,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content describes Automated Testing primarily as a practice to promote software quality, agility, and value delivery. While it references strategic alignment (e.g., 'shift-left strategy', long-term enablement, alignment with Agile/DevOps), the focus remains on operational benefits rather than high-level strategic planning. There is a partial conceptual alignment with Strategy due to mentions of systemic impact, but the discussion does not extend to leadership, decision-making frameworks, or organisational strategic planning in depth. The main audience appears to be technical or practitioner-level rather than executive strategists. Strategy is mentioned tangentially, not as the central theme, resulting in moderate scores for alignment and depth.",
+    "reasoning_summary": "Partially aligns with 'Strategy' by discussing the systemic, long-term role of Automated Testing, but focus remains operational. Content doesn’t deeply address strategic planning or decision-making, so fit is moderate and indirect, not core.",
+    "level": "Tertiary"
   },
   "Practice": {
     "category": "Practice",
@@ -3124,6 +3131,25 @@
     "final_score": 16.0,
     "reasoning": "The content describes Automated Testing in the context of software quality, delivery acceleration, and Agile/DevOps practices but never mentions or discusses Collective Intelligence or human-AI collaboration. Automated Testing is presented solely as a technical process that supports quality and workflow, not as a method for achieving enhanced cognition or decision-making through human-AI teamwork. No examples, frameworks, or discussions address human agency, distributed cognition, shared decision-making, or the emergent capabilities of human-AI partnerships. The core focus remains on tools and processes, not on socio-technical collaboration between humans and AI. Therefore, confidence and alignment scores are very low, with only some slight consideration for the broader Agile/DevOps audience overlap.",
     "reasoning_summary": "This content does not align with Collective Intelligence, as it focuses purely on technical automation in testing without discussing human-AI collaboration or emergent team cognition. Its relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Automated Testing",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 24.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 3.4,
+    "ai_audience": 4.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses entirely on automated testing as a practice to improve software quality and delivery. It does not mention or suggest use of autonomous AI agents, contextual intelligence, or agentic delivery principles. While it references modern engineering practices and themes of automation, feedback loops, and delivery acceleration, these are framed in the context of standard DevOps or Agile quality assurance rather than integration of agentic or autonomous elements. The main topics—shift-left testing, CI/CD alignment, and organizational agility through automation—do not align with the category's emphasis on AI agency, synergy between humans and autonomous agents, or governance of AI-in-the-loop. No direct or implicit references to agentic systems are present.",
+    "reasoning_summary": "This content does not fit the 'Agentic Software Delivery' category, as it covers automated testing in general rather than integration of autonomous AI agents or agentic practices. The match with agentic delivery is marginal and incidental at best.",
     "level": "Ignored"
   }
 }

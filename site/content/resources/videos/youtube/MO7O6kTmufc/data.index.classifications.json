@@ -1446,15 +1446,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "MO7O6kTmufc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:15:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on evidence-based management and metrics for project success, which does not directly address the principles or components of the One Engineering System. While it touches on aspects of project management that could relate to software development, it lacks explicit discussion on integration, standardisation, or the specific methodologies of 1ES.",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 26.17,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 3.1,
+    "ai_audience": 7.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content exclusively discusses evidence-based management, outcome definitions, and metric selection, with no mention of One Engineering System (1ES). There are no references to unified frameworks, standardisation, or integration of engineering tools/processes. While some project management and agile themes might theoretically overlap with the intended audience or broader aims of 1ES, the content is fully focused on EBM, not 1ES concepts or practices. Thus, conceptual alignment, depth, and intent scores are low; only the audience and signal scores are moderate due to targeting technical and team-level practitioners.",
+    "reasoning_summary": "The content focuses on evidence-based management and metrics, never mentioning One Engineering System. There is little conceptual or thematic overlap with 1ES, resulting in poor categorical fit except for partial audience alignment.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1960,6 +1967,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on evidence-based management, outcome clarity, and metrics in project and agile contexts. It discusses decision-making frameworks and continuous improvement—concepts tangentially related to Agentic Engineering—but lacks direct mention or explicit discussion of maximizing human/AI agency, decentralized decision-making, DevOps craft, or ethical AI integration. While iterative adaptation, empirical insights, and some decision autonomy are discussed, the philosophical and systemic aspects core to Agentic Engineering are largely absent. The core audience (agile practitioners, managers) partially overlaps but isn't an exact match for the category's focus on engineering agency. No penalties are applied as the content remains neutral, current, and constructive.",
     "reasoning_summary": "While this article discusses evidence-based management, outcomes, and iterative adaptation—conceptually adjacent to Agentic Engineering—it does not address human or AI agency, decentralized decision-making, or ethical AI practices. Its alignment with Agentic Engineering is limited and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MO7O6kTmufc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 27.538,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 3.0,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content is focused on evidence-based management (EBM) and the use of outcomes and metrics for project delivery. It mentions agile practices but contains no explicit or implicit discussion of agentic software delivery, autonomous AI agents, proactive context-aware intelligence, or the integration of AI agents with human expertise. The primary themes revolve around data-driven decision-making, metrics (leading/lagging), and iterative improvement—concepts adjacent to but distinct from agentic delivery. The target audience (agile or project delivery practitioners) aligns somewhat, but the topic, intent, and depth lack the defining elements of agency, autonomy, or AI-driven contextual intelligence. Thus, the fit to the category is limited and mostly indirect.",
+    "reasoning_summary": "Content covers evidence-based management and agile delivery, not agentic software delivery. It lacks discussion of autonomous agents, AI, or agency. There is only minimal alignment with the agentic theme—fit is weak and largely tangential.",
     "level": "Ignored"
   }
 }

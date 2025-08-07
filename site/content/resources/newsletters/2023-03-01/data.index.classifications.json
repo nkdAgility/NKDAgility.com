@@ -1351,15 +1351,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "Y8ySIcajwoP",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:20:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on an Immersion Program for experiential learning rather than discussing Evidence-Based Management. While it touches on practical applications and learning outcomes, it lacks explicit references to empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category. The discussion is more about learning formats and participant engagement than about managing for value delivery or using metrics to inform decisions.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 14.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.8,
+    "ai_audience": 4.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on immersive learning programs for Scrum training, discussing formats, experiential learning, and benefits like real-world application and retrospectives. However, it does not explicitly mention or describe Evidence Based Management (EBM) or its core topics (e.g., empirical decision-making, value metrics). While retrospectives and application could be tangential to outcome management or empirical improvement, the discussion does not measure or consider value delivery, outcome-focused metrics, or empirical management decisions. Audience may overlap with EBM’s target (practitioners, managers), but the thematic match is minimal, with no in-depth exploration or direct reference to EBM concepts, metrics, or rationale. The content is primarily a promotional or informational overview of training formats and benefits, not an article on evidence-based management practices.",
+    "reasoning_summary": "This content is about immersive Scrum learning programs, not Evidence Based Management. It lacks direct EBM mentions, concepts, outcomes, or metrics, with only weak relevance through retrospectives and applied learning. Fit is very marginal and mostly unrelated.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1982,6 +1989,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on immersive, experiential learning for Scrum and agile (mainly Product Owners, Scrum Masters, and Developers) with an emphasis on real-world application, retrospectives, and adaptation. There are surface-level parallels to maximizing learner agency through self-paced and experiential work, but the core focus is on education formats, not on the deliberate design of engineering practices for human/AI agency. Key Agentic Engineering topics—such as developer/system agency, observability, DevOps-infused craft, or ethical AI integration—are not directly expressed. The audience is technical practitioners, overlapping with Agentic Engineering's, and the content has a strong signal-to-noise ratio, but the conceptual and depth fit for this category is moderate at best.",
     "reasoning_summary": "This content discusses experiential and reflective learning formats for Agile practitioners but does not address the design of engineering practices maximizing agency. There is moderate conceptual overlap, but direct connection to Agentic Engineering is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Y8ySIcajwoP",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 5.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 0.7,
+    "ai_audience": 0.7,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on educational formats for Scrum and agile learning, particularly immersion-based experiential programs. There are no explicit references or implied connections to agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI/human expertise in delivery systems. Instead, the topic is strictly about human-centered learning approaches; thus, it does not align with the Agentic Software Delivery category. Only faint possible conceptual overlap (e.g., retrospectives, learning in context) exists, but these are standard agile practices and not agentic in nature.",
+    "reasoning_summary": "Content discusses human experiential learning and immersion programs for Scrum education, without reference to agentic software delivery, autonomous AI, or agentic principles. The fit with the category is extremely weak and mostly irrelevant.",
     "level": "Ignored"
   }
 }

@@ -1440,15 +1440,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "IU_1dJw7xk4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:47:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing its benefits and implementation steps. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The discussion is centred around Kanban and Agile methodologies, which are not directly related to the Shift-Left concept.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 21.73,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 3.6,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on transitioning from traditional project management to Kanban with an emphasis on Agile adoption, gradual workflow improvement, and continuous improvement. There is no direct mention or in-depth discussion of the Shift Left Strategy as defined (integrating testing, security, or compliance earlier in SDLC). While some themes of early identification of bottlenecks and data-driven improvement could overlap in spirit, the primary topic is Kanban implementation and change management, not Shift Left. Audience is mostly practitioners and managers interested in workflow evolution, which tangentially overlaps but isn't directly targeted at Shift Left aims or concepts.",
+    "reasoning_summary": "Content addresses Kanban adoption and workflow improvements, not the Shift Left Strategy. There are minor conceptual overlaps with early problem identification, but no direct or substantial fit to Shift Left as defined.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2006,5 +2013,24 @@
     "reasoning": "The content focuses on transitioning from traditional project management to Kanban, emphasizing observational approaches, gradual change, and continuous improvement. It touches on telemetry, team autonomy, workflow evolution, and use of metrics, which tangentially connect to Agentic Engineering themes. However, it never explicitly references agentic frameworks, the deliberate design of engineer/AI agency, or the philosophical underpinnings central to Agentic Engineering. The audience is practitioners interested in practical workflow improvement. There is slight alignment but not strong, direct thematic depth or purpose-fit for Agentic Engineering.",
     "reasoning_summary": "This content offers practical Kanban transition advice, touching on observability and incremental change relevant to Agentic Engineering. However, it stops short of explicitly addressing human/AI agency or the deliberate engineering ethos that defines the category. Alignment is partial, resulting in moderate confidence.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IU_1dJw7xk4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 11.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 2.0,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "There are zero direct mentions of agentic software delivery or its core concepts. The content focuses on transitioning from traditional project management to Kanban, emphasizing gradual change and continuous improvement within Agile frameworks, but does not address autonomous AI agents, contextual intelligence, agent governance, or any synergy between human expertise and AI agents. Topics such as metrics, incremental improvement, and DevOps tools are discussed, but always in the context of human-driven Kanban adoption, not agentic or AI-driven strategies. The audience is likely practitioners adopting Agile/Kanban, not those focused on agentic delivery. There is no reference to agency, proactive intelligence, or the embedding of AI agents in software delivery processes, and no obsolete or critical tone present.",
+    "reasoning_summary": "Content strictly discusses human-centric Kanban adoption, not agentic software delivery. No mention or exploration of AI agents, agency, or related concepts. Fit is minimal and only tangential via minor DevOps references.",
+    "level": "Ignored"
   }
 }

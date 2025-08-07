@@ -1509,15 +1509,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "RnMOINwjO84",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:02:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile decision-making and complexity in business rather than focusing on the One Engineering System framework. While it touches on concepts like adaptability and innovation, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more aligned with general business agility rather than the specific integration and standardisation of engineering processes that 1ES entails.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 17.48,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses agility, decision-making, innovation, complexity theory, and adaptive practices, referencing agile methods, continuous learning, and business process adaptation. However, it never explicitly references the One Engineering System (1ES), its framework, principles, or tool/process integration across teams. There is no reference to standardisation, unification of engineering methodologies, adoption of 1ES, or direct alignment with the audience or technical themes of 1ES. The content targets business practitioners interested in agility and innovation rather than technical engineering teams typical of 1ES discussions. While a few passing themes (e.g., standardising processes vs. adaptability) are adjacent, none directly address or conceptually align with the 1ES core definition. There are no penalty triggers present (not outdated, not satirical/critical), but overall fit is very weak.",
+    "reasoning_summary": "Content is about agile decision-making, innovation, and adaptability, not the One Engineering System. No direct mention or substantive discussion of 1ES, standardisation, or unified engineering practices. Only marginally relevant themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2023,5 +2030,24 @@
     "reasoning": "The content does not mention 'Agentic Engineering' directly or its key terminology. However, its main themes—agile decision-making, decentralizing authority, avoiding bureaucracy, and fostering emergence—align philosophically with agentic engineering principles. Discussions touch on developer agency, experimentation, and adaptive systems, though without explicit reference to human-AI collaboration or ethical autonomy. The depth is moderate as it provides concrete business and engineering examples but lacks detailed engagement with agentic frameworks, focusing more on generic agility and innovation. The intent is strongly aligned: guiding organizations towards environments that value adaptability, autonomy, and feedback, matching the category’s audience. Some tangential or generic agile advice dilutes focus but does not contradict category framing. No outdated or critical tone was found.",
     "reasoning_summary": "While the content never uses the term 'Agentic Engineering,' its emphasis on adaptive decision-making, decentralization, and continuous learning aligns closely with the category’s intent. The themes are relevant and supportive but explored at a moderate level of depth, with some general agile discussions slightly broadening the focus.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RnMOINwjO84",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 28.303,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content discusses agility, decision-making, complexity, and continuous learning, but does not explicitly mention or discuss Agentic Software Delivery or its core components like AI agents, agency, or autonomous software delivery. Concepts such as innovation in software engineering, adaptation, and evolving business models are aligned with general agility, but lack references to the integration of AI agents or agentic patterns. Tools and frameworks are named for agile decision-making, yet none are tied to agentic software or autonomous approaches. Audience is somewhat related (business and technical readers), but the topic remains tangential and lacks depth in the category's distinctive domains.",
+    "reasoning_summary": "Content covers agility, complexity, and innovation but lacks any reference to AI agents or agentic software delivery principles. Alignment is partial and indirect, so fit with the category is low and confidence is accordingly modest.",
+    "level": "Ignored"
   }
 }

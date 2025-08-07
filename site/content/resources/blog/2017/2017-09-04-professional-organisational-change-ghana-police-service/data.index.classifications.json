@@ -1206,12 +1206,22 @@
     "level": "Secondary"
   },
   "Transparency": {
+    "resourceId": "yv8bhGf1MfF",
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of a Kanban board in providing transparency and visibility within the organisational transformation of the Ghana Police Service, making transparency a significant theme, but not the primary focus.",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 56.73,
+    "ai_mentions": 2.1,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.2,
+    "ai_intent": 6.3,
+    "ai_audience": 7.8,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "Direct mentions of 'transparency' are minimal—a single explicit reference in connection with Kanban providing transparency and at-a-glance status. Conceptually, the content references themes aligned to transparency (openness, visibility of work, trust-building), especially through frameworks, servant leadership, and public accountability. However, transparency is not the focal theme; it's treated as a supporting quality of the frameworks/tools discussed (e.g., Kanban boards provide transparency), with more emphasis on transformation, leadership, and cultural change. Deeper exploration of transparency as a topic—its challenges, importance in agile, or tools that promote it—is limited. The audience (change agents in public organisations, Agile practitioners, leadership) matches the category, and most content is on-topic. No content contradicts or satirizes transparency, and there are no outdated references.",
+    "reasoning_summary": "Transparency is acknowledged (notably via Kanban boards), but is not a core topic. Content focuses on agile transformation, frameworks, and leadership, only touching on transparency as a feature rather than exploring it in depth.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -2031,6 +2041,25 @@
     "final_score": 34.0,
     "reasoning": "The content offers a substantive discussion of organisational change through servant leadership, agile frameworks, and empiricism, referencing transformation agents and empowerment. However, it does not reference 'Agentic Engineering' explicitly, nor does it directly discuss maximizing human or AI agency, systemic observability, or DevOps-infused engineering. The main focus is leadership and cultural transformation via agile methods, not the deliberate design of software development practices to enhance agency for humans or intelligent systems. The core alignment lies in the discussion of empowerment, frameworks over strict methodologies, and adaptation, which resonates tangentially but not centrally with Agentic Engineering as defined. No penalties apply, as the content isn't outdated and does not contradict the category's framing.",
     "reasoning_summary": "The content aligns partially with Agentic Engineering through its focus on empowerment, empiricism, and agile frameworks, but lacks direct discussion of maximizing human or AI agency, systemic observability, or engineering design aspects central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yv8bhGf1MfF",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 17.32,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 5.4,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content describes a large-scale organisational change at the Ghana Police Service focused on servant leadership, agile methods, Scrum, Kanban, and transformation frameworks. There is no mention of AI, intelligent agents, or agentic practices in software delivery. The main focus is on cultural, procedural, and empirical change, not on the integration of autonomous agents, contextual system intelligence, or human-AI synergy in delivery. Thus, there's negligible conceptual overlap: only tangential fit in emphasizing frameworks, empiricism, and transformation, but these are not discussed within an agentic or AI-supported context. Signal-to-noise is reasonable, but entirely off the agentic topic.",
+    "reasoning_summary": "The content focuses on agile transformation and servant leadership, not on agentic software delivery or AI agents. There is almost no alignment with the category except via loosely related process frameworks. The topic fit is minimal and indirect.",
     "level": "Ignored"
   }
 }

@@ -1047,15 +1047,22 @@
     "level": "Secondary"
   },
   "Modern Source Control": {
+    "resourceId": "GJFklM1U5Pc",
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-14T17:22:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the role and competence of Scrum Masters within agile frameworks, with only brief mentions of source control systems. While it touches on the importance of understanding modern engineering practices and tools, including source control, this is not the main focus of the discussion. The content lacks depth in exploring version control practices, methodologies, or strategies, which are central to the 'Modern Source Control' category.",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 17.504,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "Direct mention of source control and related concepts appears only in passing, as part of a broader discussion on Scrum Master competence in software environments. The content's intent, depth, and alignment focus overwhelmingly on Scrum Mastery, agile practice, and competence—barely touching upon topics like version control or modern source control practices. While there’s a brief note highlighting the need for Scrum Masters to understand source control tools (with a single example about teams not knowing how to merge code), this is not central and is not discussed with any meaningful depth. The audience is somewhat aligned, as technical practitioners could be interested, but the signal-to-noise ratio for the source control topic is low and relevance is tangential.",
+    "reasoning_summary": "The content is centered on Scrum Master competence, with only a minor, passing reference to source control. It does not explore modern source control practices or methodologies in any substantive way. Fit with the category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -2016,6 +2023,25 @@
     "final_score": 40.0,
     "reasoning": "The content focuses on the competence crisis in Scrum Master roles and emphasizes the need for deep practical experience, contextual awareness, and continuous learning in agile environments. While it references key professional practices (e.g., DevOps, value delivery, continuous improvement, modern engineering practices), it does not explicitly discuss 'Agentic Engineering,' human or AI agency, decentralised decision-making, or ethical AI. There is alignment with themes such as autonomy and continuous value delivery, but there is no direct mention of the category or a deep philosophical discussion about maximizing agency for humans and intelligent systems. The audience skews toward practitioners in agile and engineering but not specifically those interested in Agentic Engineering. The content has a moderate signal-to-noise ratio due to some tangential anecdotes and industry context.",
     "reasoning_summary": "This content offers a practitioner-focused discussion on raising standards and competence in Scrum Master roles, touching on autonomy and engineering practices. While it connects to aspects of agency and value delivery, it does not substantially engage with Agentic Engineering concepts or frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GJFklM1U5Pc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:46",
+    "ai_confidence": 16.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is an in-depth critique of Scrum Master competence and the challenges in modern Scrum practice. It emphasizes context, coaching, technical literacy, and continuous learning but never directly engages with autonomous AI agents, agentic workflows, or deliberate AI-human integration. Although it references modern engineering practices, feedback loops, and organizational change, these are presented from a human/team perspective within traditional Agile, not in the context of agentic delivery. Audience fit is moderate, as practitioners of advanced delivery would read this, but signal-to-noise is limited by focus on conventional Scrum. There are virtually no direct or conceptual links to 'Agentic Software Delivery' as defined.",
+    "reasoning_summary": "Content focuses on Scrum Master skills in classic Agile contexts. No discussion of autonomous AI agents, agentic workflows, or proactive intelligence. Only remote and partial overlap with agentic delivery concepts.",
     "level": "Ignored"
   }
 }

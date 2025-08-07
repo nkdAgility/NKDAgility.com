@@ -36,16 +36,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "System Configuration",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses system configuration in relation to organisational performance and agility, but it does not explicitly mention any specific tenets or actionable guiding rules. While it touches on concepts like adaptability and continuous improvement, these are not framed as tenets. The discussion lacks depth in terms of specific tenets from Agile, Lean, or DevOps methodologies, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 43.7,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 5.4,
+    "ai_intent": 4.0,
+    "ai_audience": 8.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses on defining system configuration, tools, and practices relevant to Agile and DevOps, emphasizing technical setup, automation, and efficiency. However, it lacks explicit discussion of tenets as actionable guiding rules/doctrines. While there are hints of tenet-related outcomes—such as continuous improvement, workflow efficiency, or collaboration—these are described as consequences or benefits of configuration, not as prescriptive doctrines. Tenets like 'flow efficiency' or 'decentralized decision-making' are not directly referenced, nor are there actionable rules given. Thus, fit for the Tenet category is partial: some links exist conceptually, but the theme is more about process/tooling than tenets themselves.",
+    "reasoning_summary": "The content mostly discusses technical setup and automation in Agile/DevOps, not explicit tenets. While benefits like continuous improvement are mentioned, specific actionable tenets are not. Fit with the Tenet category is partial and indirect.",
+    "level": "Tertiary"
   },
   "Method": {
     "category": "Method",
@@ -3100,6 +3107,25 @@
     "final_score": 9.0,
     "reasoning": "The content thoroughly covers the technical process of system configuration, automation, and related tools within Agile and DevOps contexts. However, it does not refer to or describe any form of human-AI collaboration, distributed cognition, or enhanced capabilities from human-and-AI teaming. All collaboration points refer strictly to human team efficiency, automation, and value delivery, but never to human-AI partnership, collective cognition, or shared decision-making with AI agents. There are no references—direct or indirect—to collective intelligence, AI teammates, or socio-technical systems integrating AI in the way defined by the classification. Therefore, only minimal scores are assigned, reflecting an almost total lack of category fit.",
     "reasoning_summary": "This content is focused on system setup and automation in Agile/DevOps, with no mention of human-AI teamwork or collective intelligence. It does not align with the 'Collective Intelligence' category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "System Configuration",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 25.29,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.7,
+    "ai_audience": 3.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on system configuration, infrastructure automation, and tools for reliability—key in Agile and DevOps—but does not mention or explore AI agents, contextual intelligence, or agentic principles. CI/CD is discussed purely as a practice, not agentically. There is no discussion of autonomous AI agents, agent/human synergies, feedback loops driven by agents, or agentic governance. The audience is partially aligned (technical teams), but the topic is narrowly scoped to automation and efficiency, not agentic software delivery. The content is high signal for configuration management, but not for agentic delivery, and shows no references to AI, proactivity, human-in-the-loop, or the evolution toward outcome-focused systems enabled by agentic approaches.",
+    "reasoning_summary": "Content covers automation in system configuration and Agile/DevOps practices, but lacks any discussion of AI agents, contextual intelligence, or agentic delivery. Not a fit for Agentic Software Delivery—focus remains on automation, not agency.",
     "level": "Ignored"
   }
 }

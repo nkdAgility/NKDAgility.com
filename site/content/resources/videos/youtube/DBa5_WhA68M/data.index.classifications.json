@@ -1443,15 +1443,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "DBa5_WhA68M",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:08:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 11.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.3,
+    "ai_intent": 1.4,
+    "ai_audience": 2.1,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on negotiation skills for Product Owners, which is not aligned with the principles of the One Engineering System. While it touches on aspects of collaboration and stakeholder management, it does not discuss the integration of tools, processes, or methodologies central to 1ES. The mention of negotiation does not directly relate to the standardisation or unification of engineering practices.",
+    "reasoning": "There is no mention of 'One Engineering System' (1ES) or related concepts: no discussion of integration, standardisation, or unification of engineering tools/processes. The content focuses on negotiation skills for Product Owners, referencing Scrum, leadership, and stakeholder management but not system-level engineering frameworks. There is indirect overlap with cross-team / cross-discipline communication, but this is not framed in terms of 1ES. The audience, intent, and topic do not align with the category's definition, and the main themes are Product Owner soft skills and techniques rather than system-level engineering integration or standardisation.",
+    "reasoning_summary": "Content focuses on negotiation for Product Owners, not on 1ES or system integration. No alignment with the framework, its principles, or the relevant audience. The fit is unclear and limited to generic process themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1954,6 +1961,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on negotiation skills for Product Owners, aiming to help them influence decisions and maximize product value. While it references decision-making frameworks and value delivery, it lacks any discussion of agentic engineering paradigms such as human/AI agency, systemic observability, DevOps, automation, or ethical AI. There is no direct mention of Agentic Engineering or related terminology. The audience (Product Owners, agile practitioners) could overlap with Agentic Engineering's, but the philosophical or systemic elements of agency, decentralization, or technical autonomy are not present. The content is tightly focused on interpersonal negotiation technique rather than the deliberate design or enablement of agency within engineered systems.",
     "reasoning_summary": "This content is about negotiation for Product Owners, focusing on communication and value delivery—not the design, practice, or philosophy of Agentic Engineering. It doesn’t address systemic autonomy, AI collaboration, or DevOps ethos, so relevance to Agentic Engineering is very low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DBa5_WhA68M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is entirely focused on negotiation skills for Product Owners in the context of Scrum/product management. It does not mention, describe, or even allude to Agentic Software Delivery, autonomous AI agents, or any of the specific agentic topics listed in the classification definition. There is no discussion of integrating AI agents with human expertise, contextual intelligence, agency, engineering practices for agentic systems, or outcome-focused delivery models. The only minor indirect relevance is that both negotiation and agentic delivery share a broad concern for improving outcomes/value, but this is generic and does not address agentic principles or practices. All scores are very low except for audience, as the content does speak to technical/product practitioner roles, but its content is almost completely orthogonal to the topic.",
+    "reasoning_summary": "Content is about negotiation for Product Owners; it does not mention or discuss agentic software delivery, AI agents, or related practices. There is no conceptual, thematic, or intentional alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Agile Values and Principles",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:32:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile Values and Principles, which are more philosophical in nature rather than structured methods or procedures. While it touches on aspects of Agile that could relate to methods, such as continuous improvement and team empowerment, it lacks specific step-by-step procedures or detailed discussions on methods like Scrum or Kanban. Therefore, the confidence score reflects a low alignment with the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 19.75,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 5.0,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content centers on Agile Values and Principles—the philosophical foundation of Agile—not step-by-step methods or procedures. While it references continuous improvement and process reflection, it does not detail methods, techniques, or procedural guidance. There are no direct or frequent mentions of 'method,' nor concrete descriptions of methodical approaches. Most of the discussion remains at the level of culture, values, and mindset, which is meant to be strictly excluded from the 'Method' category. The intent is to build understanding of the philosophical underpinning, not to instruct on a procedural method, so alignment and depth scores are both low. The signal-to-noise ratio is moderately high since discussion is focused, but on an off-target topic for this category.",
+    "reasoning_summary": "Content discusses Agile philosophy and values rather than procedural methods. Its focus is strategic and cultural, not methodical, so fit with the 'Method' category is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3119,6 +3126,25 @@
     "final_score": 18.0,
     "reasoning": "The content is centered around Agile Values and Principles, emphasizing human collaboration, adaptability, continuous improvement, and customer focus. However, it does not mention AI, human-AI collaboration, or collective intelligence concepts. There are strong indications of team collaboration and self-organization, but all references pertain solely to human teams and organizational agility, with no discussion of AI agency, human-AI partnerships, distributed cognition with AI, or the emergence of socio-technical capabilities involving AI agents. As such, the alignment, depth, and direct mentions are very low, though the audience and general focus on team collaboration prevent these dimensions from scoring zero.",
     "reasoning_summary": "The content thoroughly addresses Agile team collaboration but does not reference or align with human-AI partnership or collective intelligence. Its focus is exclusively on human teams and organizational agility without touching on AI or hybrid collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Values and Principles",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 16.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.7,
+    "ai_audience": 4.1,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on foundational Agile Values and Principles but makes no mention of agentic software delivery, AI agents, or the integration of autonomous systems with human expertise. Themes are generally about team agility, customer feedback, adaptability, and continuous improvement—concepts that could theoretically support agentic practices but are discussed here only in a traditional Agile context. There is no reference to AI, automation, or agentic patterns. The audience is practitioners interested in Agile basics, not specifically agentic delivery. Partial fit on continuous delivery and outcome focus, but no agentic content.",
+    "reasoning_summary": "This is a foundational Agile piece without reference to agentic software delivery, AI agents, or related integration themes. Only a minor, indirect conceptual overlap exists. The fit is minimal and largely unrelated to the specified category.",
     "level": "Ignored"
   }
 }

@@ -1408,17 +1408,23 @@
     "reasoning_summary": "This content is relevant to the leadership category as it explores how leaders can drive organisational change by challenging traditional hierarchies and encouraging adaptability. While it highlights the importance of leadership in fostering agility and cultural shifts, it doesn’t delve deeply into specific leadership methods or frameworks, which slightly limits its alignment with the category."
   },
   "Social Technologies": {
+    "resourceId": "aeNTMpquEZ5",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:42",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the need for agile transformation and critiques traditional hierarchical structures, which aligns with the principles of self-organisation and adaptability in social technologies. However, while it touches on collaboration and organisational change, it lacks detailed exploration of specific frameworks or methodologies that promote collective intelligence and transparency. The focus is more on the critique of existing structures rather than a deep dive into social technologies themselves.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the category as it highlights the importance of agile transformation and questions traditional hierarchies, both key themes in social technologies. However, it doesn’t delve into particular frameworks or methods that foster collective intelligence or transparency, focusing instead on critiquing current organisational models rather than exploring social technologies in depth."
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 91.88,
+    "ai_mentions": 6.6,
+    "ai_alignment": 9.3,
+    "ai_depth": 9.6,
+    "ai_intent": 8.7,
+    "ai_audience": 8.2,
+    "ai_signal": 9.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 92.0,
+    "reasoning": "The content extensively explores shifting from hierarchical, command-and-control organisations to decentralised and agile network-based models—a core concern of social technologies. It references collaboration, transparency, value delivery, and collective intelligence, with specific mentions of frameworks (e.g., OpenSpace Agile, network organisations) and historic influences (Follett, SAFe, Beyond Budgeting). The intent urges fundamental social-organisational transformation and targets practitioners and leaders interested in organisational agility. While not using 'social technologies' as a phrase, it conceptually aligns and deeply analyses relevant themes. There are no outdated references or contradictory tones. Minor deduction in Direct Mentions for implicit rather than explicit terminology. Overall, the content's fit is strong, and nearly every section reinforces a key aspect of the category.",
+    "reasoning_summary": "The content fits the Social Technologies category very well, exploring self-organisation, collaboration, and adaptive frameworks in depth. Themes, references, and intent strongly support the category definition, though explicit use of the term is minimal.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2018,5 +2024,24 @@
     "reasoning": "The content explicitly discusses autonomy, decentralization, and cross-functional team empowerment—core to agentic principles—but never uses 'Agentic Engineering' or its technical language. The main themes align with maximizing human agency, discussing flawed hierarchies, and promoting responsive structures tuned for adaptability and continuous change. DevOps ethos and ethical AI are not mentioned, and the discussion remains broad at the org design level, lacking technical engineering or AI-specific examples. The intended audience is transformation practitioners and leaders, adjacent to but not exactly the Agentic Engineering target. The argument and examples align conceptually, and most of the discussion focuses on relevant agency-maximizing themes, but the lack of direct technical treatment and absence of explicit software/engineering practices lowers the directness and depth scores. No dimensions were penalized.",
     "reasoning_summary": "The article strongly advocates for decentralization and human agency in organizations—closely aligned with Agentic Engineering principles—but does so in broad, organizational terms rather than detailed engineering or AI-specific contexts, leading to moderate confidence in categorical fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "aeNTMpquEZ5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 22.335,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content thoroughly discusses agile transformation, decentralised organisations, and critiques of hierarchical models, but never directly mentions, references, or explores 'Agentic Software Delivery', AI agents, or agentic integration. There are no discussions of embedding AI, contextual intelligence, human-AI synergy, or any key practices or frameworks outlined in the category definition. Some audience overlap exists with Agile practitioners, but the topic, depth, and intent are not agentic. No outdated practices or negative tone penalties were needed, as it is conceptually current and supportive of decentralised change.",
+    "reasoning_summary": "This content is focused on organisational and Agile transformation, not Agentic Software Delivery. It does not cover autonomous AI agents, agentic practices, or system integration, so the fit is minimal and only tangential.",
+    "level": "Ignored"
   }
 }

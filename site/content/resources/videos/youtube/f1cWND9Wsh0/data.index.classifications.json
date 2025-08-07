@@ -1387,15 +1387,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "f1cWND9Wsh0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:46:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
     "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The focus is on the appropriateness of a training tool rather than on integration or standardisation of engineering processes.",
+    "ai_intent": 2.5,
+    "ai_audience": 1.1,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3.0,
+    "ai_penalty_details": "All dimensions were penalized by 0.5 points due to content tone being overtly critical and dismissive (contradicts category's framing); also, no direct relevance to 1ES, and the subject matter is totally outside the scope (focuses on Scrum training tools rather than integrated engineering systems).",
+    "final_score": 8.0,
+    "reasoning": "This content is exclusively about critique of using Lego in Scrum training, not about One Engineering System (1ES). There are zero direct mentions, no thematic overlap with 1ES principles, tools, integration, or frameworks. The audience and intent are also not aligned: it's aimed at Scrum trainers, critiquing pedagogical approaches, not standardised engineering processes or system integration. The overall tone is critical and off-topic per the 1ES framing, justifying penalties on all dimensions. There is no fit with the 1ES category.",
+    "reasoning_summary": "The content critiques training tools in Scrum and makes no mention or discussion of One Engineering System or its principles—no thematic or intent alignment exists. The topic is unrelated, so this is a clear non-fit.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1898,6 +1905,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses on critiquing the use of Lego in Scrum training, emphasizing professionalism, relevant tools, and engagement of senior professionals. It critiques the effectiveness and tone of certain teaching methods in a Scrum context but does not discuss or reference agentic engineering concepts such as developer agency, system design for agency, AI collaboration, or feedback-driven adaptation. There is minimal conceptual or terminological overlap with Agentic Engineering, and the content lacks depth on topics of engineering practice, autonomy, or DevOps ethos. Its alignment and intent are only tangential, as it addresses training efficacy rather than agentic systems or philosophy.",
     "reasoning_summary": "This content critiques Lego-based Scrum training methods, focusing on professionalism and context-appropriate tools. While relevant to Scrum trainers, it does not discuss agentic engineering principles, agency, or related systems, resulting in a low fit for the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "f1cWND9Wsh0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 6.725,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 2.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content critiques the use of Lego in Scrum training, focusing on professionalism and the appropriateness of educational tools. It does not address agentic software delivery, AI, autonomous agents, contextual intelligence, or any of the category’s specific themes. There are no direct mentions of agentic principles or AI-enabled delivery, nor is there discussion of modern engineering practices, agency, or feedback loops with agents. The audience is Scrum trainers and facilitators rather than those explicitly concerned with agentic software delivery or AI integration. As such, any possible connection is extremely indirect at best, e.g., a brief nod to context in training tool selection, but this is insufficient for even partial fit.",
+    "reasoning_summary": "Content is a critique of Lego as a Scrum training tool, unrelated to agentic software delivery or AI. No discussion of autonomous agents, contextual intelligence, or agentic delivery principles. Weak or tangential fit at best.",
     "level": "Ignored"
   }
 }

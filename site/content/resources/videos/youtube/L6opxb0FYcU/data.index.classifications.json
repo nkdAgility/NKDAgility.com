@@ -1474,15 +1474,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "L6opxb0FYcU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:52:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid practices within those frameworks. It does not mention the One Engineering System (1ES) or its principles, components, or implementation strategies. The discussion is centred around Agile's flexibility and inclusivity, which, while relevant to software development, does not align with the specific focus of 1ES on standardisation and integration across teams.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 8.885,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.4,
+    "ai_audience": 2.5,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There is no mention of the One Engineering System (1ES), nor is there conceptual or thematic overlap with 1ES tenets. Content focuses exclusively on Agile/Scrum advice, inclusivity, and adapting ceremonies—not on unification, integration, or standardisation of engineering practices. No integration of tools, frameworks, or process standardisation is discussed. No relevant discussions about unified engineering systems or practices appear, and the primary audience is Agile practitioners, not those seeking 1ES knowledge. No penalty for outdatedness or contradictory tone.",
+    "reasoning_summary": "Content is centered on practical Agile and Scrum ceremony advice, inclusivity, and best practices, with no relation to One Engineering System topics, principles, or audience. Fit is extremely low and only slightly above zero due to generic references to improving processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1984,5 +1991,24 @@
     "reasoning": "The content centers around Agile and Scrum adaptation, advocating for flexibility and inclusivity versus rigid process enforcement. This aligns loosely with Agentic Engineering’s human agency themes. However, it lacks direct references to agentic engineering as a discipline or philosophical concept—no discussion of AI integration, systemic observability, or technical autonomy. The conversation is primarily about respecting humanity in Agile, not deliberate design for maximising human and AI agency. Thus, while some intent and audience overlap exists, the content is tangential and does not develop key Agentic Engineering topics in depth.",
     "reasoning_summary": "The article advances Agile's flexibility and inclusivity—a partial overlap with Agentic Engineering's human agency—but does not address agentic engineering philosophies, AI involvement, or systemic autonomy. It tangentially relates, but core category topics are missing or underdeveloped.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 6.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content strictly discusses a questionable Agile/Scrum practice (mandatory stand-ups), focusing on flexibility, team context, and inclusivity within Scrum. There is no explicit or implicit mention of agentic delivery, integration of AI agents, or any of the defining features of Agentic Software Delivery. No depth on AI, autonomy, contextual intelligence, or human/machine synergy is present; the narrowing is strictly on human-centric team practices. The content does target Agile/Scrum practitioners (some overlap with the agentic delivery audience), but the topic, terminology, and substance are unrelated. No penalties are applied, as the intent and tone are not oppositional. Final score reflects total lack of fit.",
+    "reasoning_summary": "Content is focused on human flexibility and inclusivity in Agile/Scrum, without mentioning or aligning with agentic software delivery, autonomous agents, or contextual intelligence. No fit with category beyond a general software delivery context.",
+    "level": "Ignored"
   }
 }

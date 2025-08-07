@@ -1017,13 +1017,23 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "m932F_fIGB5",
     "category": "Azure DevOps",
-    "calculated_at": "2025-04-10T15:54:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on Azure Test Plans, which is a key component of Azure DevOps. It discusses the functionalities and training related to testing within the Azure DevOps ecosystem, making it a central topic.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 96.79,
+    "ai_mentions": 9.6,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.6,
+    "ai_intent": 9.4,
+    "ai_audience": 9.5,
+    "ai_signal": 9.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 97.0,
+    "reasoning": "The content is fully focused on Azure Test Plans, a core Azure DevOps service, and covers its features, hands-on practices, and applications for Agile teams. Azure DevOps is explicitly named repeatedly, alignment is very strong, and the depth is high with coverage of real use cases and extensibility. The audience is directly QA, developer, and Scrum roles—the core Azure DevOps audience. There is no filler, off-topic, or outdated information, and all key topics are addressed, including configuration, reporting, and integration with Azure DevOps Boards. No penalties are required because the content is current, accurate, and neutral.",
+    "reasoning_summary": "This content fits the Azure DevOps category perfectly: it directly addresses Azure Test Plans within Azure DevOps, targeting practitioners with full-topic alignment, depth, and audience focus. The intent is informative and hands-on for QA in Azure DevOps.",
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -2069,6 +2079,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses on practical aspects of test management using Azure Test Plans for quality assurance. There are no direct mentions or implicit discussion of agentic engineering, developer/AI agency, or decision-making frameworks. While it targets technical teams (partial audience overlap), the primary aim is tool usage and test process training, not the deliberate design of software practices to maximize agency, observability, or ethical integration. There's minimal discussion of feedback-driven adaptation or continuous value delivery. The alignment and depth scores are accordingly low and signal modest at best; no penalties are needed as content is neither outdated nor contrary.",
     "reasoning_summary": "This training content is centered on test process and Azure Test Plans tool usage, with no exploration of agency, autonomy, or the philosophical foundations of Agentic Engineering. Its focus is practical QA for agile teams rather than the deliberate, agency-maximizing practices central to this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "m932F_fIGB5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 10.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on traditional QA practices and test management using Azure Test Plans. There is no discussion of AI agents, agentic principles, autonomous systems, or human/AI synergy. The approach is human-driven, without integration of agentic delivery concepts, contextual intelligence, or governance frameworks for AI. The audience overlaps slightly (agile, QA) but only through general software delivery, not through an agentic lens.",
+    "reasoning_summary": "Content is unrelated to Agentic Software Delivery. It discusses classic QA and test management with no mention or alignment with autonomous agents, agentic principles, or AI-driven delivery frameworks.",
     "level": "Ignored"
   }
 }

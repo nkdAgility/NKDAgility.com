@@ -634,13 +634,23 @@
     "level": "Ignored"
   },
   "Self Organisation": {
+    "resourceId": "AHschsDjL2E",
     "category": "Self Organisation",
-    "calculated_at": "2025-04-10T15:54:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content includes some elements about self-managing teams and Scrum principles, but it primarily focuses on providing an overview of Scrum for executives, making self-organisation a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 38.64,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 4.2,
+    "ai_audience": 8.8,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "Self-organisation is not directly mentioned, and while Scrum inherently promotes self-organising teams, the course's focus is on executive understanding of Scrum, its value, adoption, and executive roles. The descriptions and topics do not explicitly discuss principles, practices, or the cultivation of self-organisation as a standalone theme. Some aspects such as 'The Scrum Principles' could briefly touch on self-organisation, but it's not treated as an independent or central subject. The course is relevant to leaders (audience fit), but thematically, self-organisation is only indirectly covered.",
+    "reasoning_summary": "This content only indirectly aligns with 'Self Organisation'; it addresses broader Scrum topics for executives without specifically exploring self-organisation principles or practices. Relevant but peripheral fit.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -2059,6 +2069,25 @@
     "final_score": 19.0,
     "reasoning": "The course is focused on Scrum education for executives, covering its framework, benefits, metrics, and adoption—but it does not mention Agentic Engineering or its specific principles. There's no explicit discussion on maximizing agency, decision decentralization, developer autonomy, DevOps, AI collaboration, or ethical autonomy. While the audience may overlap, and some general agile philosophical alignment is present, the core themes of Agentic Engineering are wholly absent. The content remains at the level of Scrum overview and enterprise adoption, not at the deliberate design or philosophical practice of maximizing human/AI agency.",
     "reasoning_summary": "This course targets executives learning Scrum basics and agile adoption. It doesn't address Agentic Engineering's core themes, such as agency maximization or ethical AI, beyond very general agile principles. Overlap is minimal and surface-level.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AHschsDjL2E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 7.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.35,
+    "ai_intent": 0.5,
+    "ai_audience": 6.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused exclusively on Scrum training for executives and does not mention, reference, or align with agentic software delivery, AI agents, autonomous systems, or synergistic human/AI integration in software delivery. Its main purpose is to provide foundational knowledge and address misconceptions about Scrum, relevant only for traditional Agile transformations. The audience (executives/managers) does partially overlap with those relevant to agentic delivery, but the content is not on-topic; it does not discuss AI, autonomy, or the engineering transformations in agentic practices. There is no direct or conceptual connection to the definition or key topics. No penalties applied as the tone is neutral and not outdated – it's simply off-category.",
+    "reasoning_summary": "This content focuses strictly on classic Scrum education for executives, with no mention or exploration of agentic software delivery, AI agents, or related themes—making it a clear mismatch with the assigned category.",
     "level": "Ignored"
   }
 }

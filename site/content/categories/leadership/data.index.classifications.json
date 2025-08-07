@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Leadership",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T12:04:05",
-    "ai_confidence": 47.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 50,
-    "final_score": 47.0,
-    "reasoning": "The content discusses accountability as a component of leadership, but it does not focus explicitly on accountability as a primary theme. While it mentions fostering accountability and touches on aspects of ownership and decision-making, these are secondary to the broader discussion of leadership. The depth of discussion on accountability is moderate, but it lacks specific examples or structural accountabilities that would strengthen its alignment with the category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 38.43,
+    "ai_mentions": 3.7,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 4.4,
+    "ai_audience": 4.0,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content centers on leadership, mentioning accountability as something leaders foster, but does not explore it as a structural mechanism in work systems or address explicit role-based outcome ownership. Most discussion relates to general leadership, agility, and empowerment rather than direct analysis of accountability constructs, distinctions, or impacts within Agile/Scrum/DevOps contexts. Intent is broadly aligned but accountability is not the primary focus. No penalties apply as content is current and does not contradict the accountability framing.",
+    "reasoning_summary": "Accountability is referenced as an effect of leadership but not thoroughly explored. Main focus is leadership theory, not accountability structures, so fit is partial and tangential.",
+    "level": "Ignored"
   },
   "Framework": {
     "category": "Framework",
@@ -3105,6 +3112,25 @@
     "final_score": 22.0,
     "reasoning": "The content centers on leadership within Agile, Lean, and DevOps, focusing on human agency, team empowerment, and organizational culture. It emphasizes collaboration and decision-making but does not mention or describe human-AI partnerships, AI agent design, or socio-technical systems that leverage both human and AI capabilities. All examples and discussions revolve around human team processes rather than collective intelligence through human-AI partnership, limiting alignment and depth with the category.",
     "reasoning_summary": "The content addresses leadership and team collaboration in Agile contexts, focusing solely on human factors. It does not discuss human-AI collaboration, AI agents, or collective intelligence concepts, offering limited relevance to the 'Collective Intelligence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Leadership",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 17.47,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 5.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on general leadership themes within Agile, Lean, and DevOps contexts, such as fostering accountability, agility, and collaboration. However, there is no mention of agentic software delivery, autonomous AI agents, or integration of contextual intelligence into delivery processes. The discussion remains at a leadership and organisational culture level without referencing agentic concepts, AI agent integration, or modern engineering practices required by the category definition. The intent, alignment, and depth are thus only marginally related and peripheral to the assigned category.",
+    "reasoning_summary": "Content covers leadership in Agile/DevOps but lacks any explicit or conceptual connection to agentic software delivery, autonomous AI agents, or contextual intelligence. Its fit to the category is minimal and only overlaps at a tangential cultural level.",
     "level": "Ignored"
   }
 }

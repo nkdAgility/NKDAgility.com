@@ -693,15 +693,22 @@
     "reasoning_summary": "This content provides useful background on Agile methodologies and highlights influential figures and concepts, making it relevant to Agile discussions. However, it doesn’t specifically address how Agile is strategically implemented or aligned within organisations, which limits its fit for the Agile Strategy category. The focus remains more on history and principles than on actionable strategy."
   },
   "Continuous Delivery": {
+    "resourceId": "XhPHa1RXrWo",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:01:56",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile principles and its historical context rather than focusing on Continuous Delivery practices. While it touches on themes of adaptation and learning, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 11.21,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 1.7,
+    "ai_audience": 2.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses almost entirely on the historical and cultural evolution of Agile, human connection in business, and centering on competence gaps, empathy, and adaptation. It does not mention Continuous Delivery at all, nor does it discuss any practices, principles, or techniques specific to Continuous Delivery such as automation in deployment, rapid feedback loops, or deployment pipelines. While there are generic references to continuous improvement and learning, these are not unique to Continuous Delivery, and the overall thrust remains in the domain of core Agile principles and the culture surrounding Agile. The intended audience is broadly Agile practitioners or leaders, not specifically those involved with Continuous Delivery. The signal for Continuous Delivery is very weak, with only indirect conceptual overlaps (such as learning/adapting rapidly).",
+    "reasoning_summary": "This content does not focus on Continuous Delivery. It addresses Agile’s history, core values, and cultural reset without discussing delivery pipelines, automation, or related practices. Fit to the category is extremely minimal and indirect.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2030,6 +2037,25 @@
     "final_score": 38.0,
     "reasoning": "The content discusses Agile's history, human connection in work, competence gaps, and the importance of adaptability, empathy, and continuous improvement. While these ideas overlap conceptually with Agentic Engineering—such as team autonomy, learning, and value focus—they do not address the distinct practices, systems, or philosophies that maximize both human and AI agency. There is no discussion of DevOps, engineering craftsmanship in an agentic context, systemic observability, decentralised decision-making, or ethical AI integration. The primary focus remains on Agile's human-centric history, competence crises, and the need for continuous improvement. No explicit or direct mentions of 'Agentic Engineering' or its core terminology occur. The depth is moderate but resides mainly in historical and cultural aspects versus engineering mechanisms. The audience is technical/practitioner-aligned, but the content's signal for agentic practice is moderate at best. Penalties did not apply as the tone is not outdated or critical of agency.",
     "reasoning_summary": "This content covers Agile’s evolution, emphasizing human factors, learning, and team adaptability, which tangentially relate to Agentic Engineering. However, it lacks focus on engineering practices that maximize both human and AI agency, so its fit within the category is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XhPHa1RXrWo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 14.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 2.4,
+    "ai_audience": 3.05,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses exclusively on Agile history, the evolution of human-centric work, competence in Agile adoption, and the shortcomings of modern Agile practices. There are no mentions or substantive discussion of AI agents, autonomous software, agency, systems intelligence, or agentic integration. No topics such as engineering automation, AI-human synergy, feedback loops powered by agents, modern DevOps, or governance frameworks for agency are discussed. The audience (Agile/Scrum practitioners/leaders) partially overlaps but the subject matter never crosses into agentic software delivery domain or language. No penalties were applied since nothing is outdated or critical of 'agentic' framing, but the content is essentially a mismatch with the category.",
+    "reasoning_summary": "Content is solely about Agile’s historical foundations, competence gaps, and human connection. It never addresses agentic software delivery, AI agents, or related practices; the fit is highly tangential and weak.",
     "level": "Ignored"
   }
 }

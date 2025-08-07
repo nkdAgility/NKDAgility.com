@@ -1405,15 +1405,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "UnSs37BlBV7",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:39",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on the importance of delivering usable working products in Agile practices, with a strong emphasis on feedback loops and automation. While it touches on aspects of collaboration and iterative processes, it lacks a direct discussion on social technologies or frameworks that promote collective intelligence and decision-making. The mention of stakeholder engagement hints at collaboration but does not delve deeply into the social frameworks that underpin effective teamwork. Overall, the content aligns with some core themes of the category but does not provide sufficient depth or direct focus on social technologies.",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 66.3,
+    "ai_mentions": 0.4,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.2,
+    "ai_intent": 7.5,
+    "ai_audience": 7.0,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "Direct Mentions penalized (-0.6): the term 'social technologies' is not explicitly mentioned, nor are specific frameworks named; some critical tone toward other agile practices.",
+    "final_score": 66.0,
+    "reasoning": "The content majors on agile, iterative value delivery, feedback loops, and lean practices—all well-aligned to the social technologies category's focus on collaboration, adaptability, and continuous improvement. However, there are very few (if any) explicit references to 'social technologies,' frameworks, or methods by name (hence a significant penalty for Direct Mentions). Most of the discussion is practical (on usable products, feedback, automation), and it only indirectly refers to self-organisation or collaborative team structures. Audience fit is strong (agile practitioners), and the signal-to-noise ratio is high with little off-topic content. Depth and conceptual alignment are strong due to substantive discussion of feedback loops, lean, and value delivery. Penalties are applied for lack of direct mentions and a tone occasionally critical of 'archaic' agile practices.",
+    "reasoning_summary": "The content thoroughly discusses value delivery, feedback, and adaptation within agile—aligning with social technologies' themes. However, it lacks direct mentions of frameworks or the term, making classification fit partial rather than complete.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {
@@ -2010,5 +2017,24 @@
     "reasoning": "While the content thoroughly advocates for working software, feedback loops, and automation—important DevOps and engineering ideals—it only tangentially addresses agentic themes. There's a focus on developer autonomy and iterative delivery, but nothing on the deliberate maximization of human/AI agency, decision decentralization, or agentic frameworks. There are no direct references to Agentic Engineering, and concepts such as ethical AI integration, systemic observability, or explicit agency maximization are missing. The tone is playful and occasionally critical, warranting a small penalty for lack of seriousness and depth regarding the agentic context. The confidence score reflects that, while the piece echoes some surface-level ideas aligned with the category, it never meaningfully engages in or expands on Agentic Engineering, its philosophy, or its unique practices.",
     "reasoning_summary": "The content supports agile delivery, automation, and feedback, which aligns partially with Agentic Engineering. However, it does not explicitly discuss agentic design, human/AI agency, or systemic observability, making its relevance to the category modest and primarily incidental.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UnSs37BlBV7",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 21.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "There are no direct mentions of agentic software delivery or autonomous AI agents. The content focuses on Agile practices: delivering usable products, automation, feedback loops, and lean principles. While automation and feedback loops are touched upon (tangential overlaps), the core topics—agency, AI agent integration, contextual intelligence, or human/agent synergy—are missing. No in-depth exploration of agentic concepts or explicit connection to agentic delivery systems occurs. The purpose is to champion Agile principles, not introduce or advocate for agentic delivery. The audience (Agile practitioners, developers) has some overlap with the agentic software delivery audience, and the content is highly focused with little off-topic material.",
+    "reasoning_summary": "Content is about Agile delivery and automation, lacking explicit connection to Agentic Software Delivery. No discussion of AI agents, autonomy, or agency. Overlap is minimal, so fit to the category is weak at best and mostly tangential.",
+    "level": "Ignored"
   }
 }

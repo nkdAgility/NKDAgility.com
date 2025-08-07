@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Market Adaptability",
     "category": "Framework",
-    "calculated_at": "2025-04-09T15:34:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses market adaptability, which is a broader concept that does not focus specifically on frameworks like Agile or Lean. While it touches on themes of responsiveness and continuous learning, it lacks direct references to specific frameworks or their implementation. The discussion is more about organisational culture and strategy rather than structured methodologies, leading to a low confidence score in the Framework category.",
+    "calculated_at": "2025-08-07T06:12:18",
+    "ai_confidence": 23.3,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on the concept of market adaptability as a general organisational trait rather than discussing a specific framework or its implementation. While Agile frameworks are mentioned briefly for contrast, there is no substantial discussion of frameworks, their principles, or implementation strategies. The main ideas do not closely align with the defined category, as the emphasis is on cultural and systemic adaptability, not on structured methodologies. No penalties were necessary since the content is current and neutral in tone. Audience alignment is moderate, as organisational leaders may be a related audience, but the discussion is too abstract for practitioners seeking framework guidance.",
+    "reasoning_summary": "The content does not fit the 'Framework' category; it addresses organisational adaptability in a broad sense rather than discussing structured Agile, DevOps, or Lean frameworks, their implementation, or best practices.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3122,6 +3129,25 @@
     "final_score": 16.0,
     "reasoning": "The content focuses on organisational responsiveness and adaptation but makes no direct or indirect mention of human-AI collaboration, enhanced cognition, or collective intelligence as defined. The main themes are about cultural and strategic readiness for market shifts, continuous learning, and innovation, all in human team and organisational contexts. There are no references to AI, partnership models, or socio-technical systems involving both humans and AI. Thus, while tangential to adaptability in teams, it does not exhibit the core attributes or topics required for the 'Collective Intelligence' category.",
     "reasoning_summary": "The content addresses organisational adaptability and team culture but does not discuss human-AI collaboration or the emergence of collective intelligence. It lacks direct relevance to the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Market Adaptability",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:18",
+    "ai_confidence": 19.487,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 6.4,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on 'market adaptability' as a broad organisational capability involving culture, strategy, and feedback loops. While it mentions feedback, learning, and systemic responsiveness, it makes no mention of AI agents, agentic principles, autonomy, or the integration of human and machine intelligence specific to software delivery. No explicit references or discussion about agentic software delivery are provided. The intent and themes are only distantly related (e.g., learning loops), but there is very little conceptual overlap with the direct definition of Agentic Software Delivery. Most of the content stays general rather than discussing context-aware automation, human-in-the-loop, or modern AI engineering practices relevant to the category.",
+    "reasoning_summary": "Content is about organisational market adaptability, not agentic software delivery. No mention of AI agents, context-aware intelligence, or software delivery integration. Fit is very weak, with minimal relevance to the intended category.",
     "level": "Ignored"
   }
 }

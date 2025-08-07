@@ -24,15 +24,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Organisational Change",
     "category": "Framework",
-    "calculated_at": "2025-04-09T15:24:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses organisational change in a broad sense, focusing on agility and resilience, but does not explicitly mention any specific frameworks or methodologies related to Agile, DevOps, or Lean principles. While it touches on themes of continuous improvement and adaptability, it lacks detailed exploration of how frameworks can be implemented or compared, which is essential for a higher confidence score in the Framework category.",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 37.7,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 4.2,
+    "ai_intent": 4.5,
+    "ai_audience": 6.1,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content explores organisational change broadly, focusing on culture, mindset, and improvement but does not directly reference or discuss Agile/DevOps frameworks, structured methodologies, or implementation strategies. While it acknowledges related approaches, such as Agile Transformation and Change Management, it distinguishes itself as broader than those, avoiding explicit framework content. There is little to no direct mention of frameworks or their principles, and the content instead focuses on high-level organisational agility. Its intent and audience overlap partially with the framework category, but the concepts and details do not match core criteria for 'Framework.'",
+    "reasoning_summary": "Content covers broad organisational change and agility concepts, not frameworks. Few direct links to structured methodologies or adaptation principles, so only partial relevance to the 'Framework' category—fit is limited and indirect.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3114,6 +3121,25 @@
     "final_score": 21.0,
     "reasoning": "The content discusses organisational change with a focus on agility, resilience, and culture. However, it lacks explicit or implicit reference to human-AI collaboration, enhanced outcomes arising from human-AI teams, or collective intelligence as defined. No patterns, best practices, or examples situate AI as an agent partnering with humans. The target audience (leaders, practitioners) and some talk of collaboration slightly align, but the overall substance does not address the requisite features of collective intelligence in socio-technical (human-AI) environments.",
     "reasoning_summary": "This content centers on organisational transformation for agility but does not reference human-AI collaboration or the emergence of collective intelligence. While it addresses teamwork and adaptability, it does not align with the category's focus on human-AI partnership.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Organisational Change",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:13:23",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.3,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content thoroughly discusses the importance of organisational transformation, agility, and resilience, but makes no explicit or implicit mention of agentic concepts such as AI agents, contextual intelligence, or their integration in software delivery. Themes are broadly relevant to organisational improvement and change, which could indirectly relate to enabling agentic software delivery in a wider sense, but core topics—AI agency, autonomous systems, governance, or human-agent collaboration—are entirely absent. The target audience could include those interested in agentic delivery, but there is no fit on key conceptual or technological aspects outlined in the category definition.",
+    "reasoning_summary": "This content does not fit Agentic Software Delivery—no mention or discussion of AI agents, contextual intelligence, or agency. Focus is on general organisational agility and change, making category relevance extremely limited and indirect at best.",
     "level": "Ignored"
   }
 }

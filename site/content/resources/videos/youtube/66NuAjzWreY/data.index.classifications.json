@@ -1505,15 +1505,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "66NuAjzWreY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:16:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and its application in decision-making processes, which does not directly relate to the One Engineering System (1ES). While there are mentions of metrics and data-driven decision-making, these concepts are not aligned with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth regarding the integration of tools and processes or the impact of a unified engineering system, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 31.874,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.0,
+    "ai_intent": 3.6,
+    "ai_audience": 5.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses exclusively on Evidence-Based Management (EBM) and the thoughtful use of metrics in Agile teams. It contains no direct mention of the One Engineering System (1ES), nor does it address 1ES principles: there is no discussion of tool/process standardization, cross-team integration, or 1ES frameworks. Conceptual overlap is minor: both EBM and 1ES value data-driven decisions and organizational improvement, meaning the intent and audience are somewhat compatible. However, there is no evidence of deep 1ES content, implementation challenges, impact, or best practices. The discussion stays at the level of EBM in Agile/Scrum, not engineering system unification.",
+    "reasoning_summary": "Content deals with Evidence-Based Management in Agile, lacking mention or discussion of One Engineering System principles, frameworks, or practices. The fit is minimal; overlap exists only in a general organizational improvement theme.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2022,5 +2029,24 @@
     "reasoning": "The content is focused on Evidence-Based Management (EBM) in Agile, centering on using data to inform (not control) decisions, drive outcomes, and empower teams. It emphasizes autonomy, outcome-orientation, and measurement literacy, which align with aspects of Agentic Engineering—particularly fostering team agency and feedback-driven adaptation. However, it does not explicitly discuss Agentic Engineering, decision-making frameworks, or systemic observability, nor does it analyze AI autonomy or DevOps-infused craft. The audience (Agile/Scrum practitioners and leaders) is aligned, and the signal is high with little filler. The primary intent is relevant (empowering teams, balancing data with human judgement), but the link to Agentic practices is indirect rather than explicit or deeply explored.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering by promoting team autonomy, informed decision-making, and adaptive value delivery in Agile. While well-suited for practitioners and focused on agency, it lacks explicit Agentic Engineering terminology or deep exploration of AI, decentralized systems, or DevOps craft.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "66NuAjzWreY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 17.65,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.75,
+    "ai_intent": 2.1,
+    "ai_audience": 5.45,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses strictly on Evidence-Based Management in Agile, particularly the use of data and metrics to inform decision-making and organizational behavior. While value delivery and organizational outcomes are discussed, there is no mention or discussion of autonomous AI agents, agentic principles, or the integration of proactive, context-aware intelligence. Topics such as proactive AI, agentic synergy, modern agent-driven engineering, or governance relating to agentic delivery are entirely absent. The audience is technical/practitioner oriented (scrum/agile), which partially overlaps with Agentic Software Delivery's core audience, but the thematic gap is significant. Only very indirect, high-level parallels (such as value delivery, outcome focus) can be drawn. Depth, intent, and alignment scores remain low, as the substance is not about agentic systems or AI empowerment in delivery processes.",
+    "reasoning_summary": "This content centers on Evidence-Based Management and data-driven Agile practices, not on agentic software delivery or autonomous AI agents. There is minimal alignment or overlap with the defined category beyond shared outcome-focus themes.",
+    "level": "Ignored"
   }
 }

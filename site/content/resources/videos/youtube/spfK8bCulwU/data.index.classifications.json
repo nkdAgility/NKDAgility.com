@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "spfK8bCulwU",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:53:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on product ownership and the principles of Scrum, with only a brief mention of DevOps at the end. While it discusses collaboration and customer focus, which are relevant to DevOps, the core themes and depth of discussion do not align closely with the principles of DevOps as outlined in the classification criteria.",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 20.383,
+    "ai_mentions": 1.9,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on Product Ownership, Scrum, and team dynamics within Agile frameworks. DevOps is mentioned only once at the end with no substantive discussion or direct alignment to its philosophy, practices, or principles. There is no engagement with DevOps cultural shifts, automation, or cross-functional collaboration as defined. Intent and audience are somewhat overlapping (product/Agile practitioners may also have DevOps interests), but the fit is highly tangential. No penalties are warranted as there is no outdated practice or negative tone.",
+    "reasoning_summary": "Minimal mention of DevOps, lacking conceptual alignment and depth. Main focus is on Product Ownership and Scrum, so this content is only tangentially related to the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1960,6 +1967,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on the product owner role within Scrum and discusses balancing innovation, customer needs, and team dynamics. It touches lightly on hypothesis-driven engineering and mentions DevOps, but the primary discussion is general product ownership—not the deliberate design to maximise agency of humans and AI. There is no explicit reference to agentic engineering, and the exploration of autonomous decision-making or ethical AI collaboration is minimal. The target audience aligns moderately, being technical practitioners, but the content largely describes mainstream best practices without delving into the philosophical or structural elements that underpin agentic engineering. Although the use of data-informed decision-making and collaboration aligns tangentially with agency, these are not explored through the agentic engineering lens, resulting in modest scores for alignment and depth. Signal-to-noise ratio is moderately high since the content is focused, but mostly on Scrum and product ownership rather than agentic engineering.",
     "reasoning_summary": "This content is primarily about advanced product ownership, innovation balance, and Scrum techniques. While themes like hypothesis-driven development and collaboration are present, agentic engineering concepts are only loosely referenced, and the depth specific to agency maximization or ethical AI is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 13.33,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.1,
+    "ai_audience": 4.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on product ownership, balancing innovation, customer needs, and team dynamics, referencing Scrum and hypothesis-driven engineering. It lacks any explicit discussion of agentic software delivery, autonomous AI agents, or techno-social integration. No mention of AI, agent autonomy, contextual intelligence, or embedded agency—which are central to the category—is found. While some modern engineering concepts are referenced (hypothesis-driven engineering), these fit general agile contexts and not specifically agentic delivery. The intent, depth, and alignment are all low in relation to the category, as there is no substantive overlap with agentic software delivery or its defining principles.",
+    "reasoning_summary": "Content is about advanced product ownership and agile practices, not Agentic Software Delivery. No discussion of AI agents, contextual intelligence, or agentic integration. Only general agile themes; confidence in fit is very low.",
     "level": "Ignored"
   }
 }

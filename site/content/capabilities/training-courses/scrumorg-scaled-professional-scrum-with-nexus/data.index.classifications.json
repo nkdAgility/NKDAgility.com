@@ -366,15 +366,22 @@
     "level": "Tertiary"
   },
   "Test First Development": {
+    "resourceId": "-U-z8x8yTw9",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:35:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on scaling Scrum and the Nexus framework, with no direct mention of Test First Development principles or practices. While it discusses challenges in scaling and collaboration, it does not address success criteria, testing methodologies, or the importance of automated testing, which are core to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.6,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on scaling Scrum with the Nexus Framework and preparing for SPS certification. Nowhere are Test First Development principles, practices, or terminology mentioned. Learning objectives and course topics relate to scaling Scrum, team organization, and cross-team coordination, but do not touch on defining success criteria before implementation, test-driven practices, or the transition from manual to automated testing. While the audience contains practitioners who might be interested in TFD, no evidence suggests TFD concepts are included. Thus, conceptual alignment, depth, and mentions are extremely low.",
+    "reasoning_summary": "This content is about scaling Scrum with Nexus and does not address Test First Development themes. There is no indication of relevant concepts, terminology, or practices related to TFD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -2049,6 +2056,25 @@
     "final_score": 20.0,
     "reasoning": "The content is an advanced training course on the Nexus framework for scaling Scrum and preparing for SPS certification. There are no explicit mentions of Agentic Engineering or its associated concepts—such as engineering practices that maximize human/AI agency, feedback-driven adaptation, or systemic observability. The content focuses on team coordination, dependency management, and productivity within a scaled agile environment, but only lightly touches on autonomy (optimizing team productivity, organizing work). The core themes revolve around practical project and team structure rather than the deliberate engineering of agency or AI-augmented practices. The intended audience overlaps (developers, agile practitioners) but the course's focus is distinct from Agentic Engineering as defined.",
     "reasoning_summary": "This course is centered on scaling Scrum with Nexus, focusing on team organization and managing cross-team challenges. While the audience and agile context overlap somewhat with Agentic Engineering, the course does not address engineering practices or systemic agency maximization. Explicit alignment is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-U-z8x8yTw9",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 5.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The course content focuses strictly on scaled Scrum using the Nexus framework, covering cross-team practices and Scrum roles but does not mention agentic concepts such as AI agents, contextual intelligence, human-agent integration, or agentic delivery practices. There are no explicit or implicit references to Agentic Software Delivery. Audience partially overlaps with those interested in software delivery, but the content is out of scope for the specified category.",
+    "reasoning_summary": "Content is about scaling Scrum with Nexus, lacking any mention of AI agents or agentic delivery principles. No fit with Agentic Software Delivery; only a generic overlap in software delivery audience.",
     "level": "Ignored"
   }
 }

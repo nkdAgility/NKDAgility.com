@@ -1382,15 +1382,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "RBZFAxEUQC4",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:43:17",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'agile' and 'scrum' towards the end, but the primary focus is on the pitfalls of adopting agile practices without understanding them. While it touches on the need for organisations to develop their own unique approach to agile, it lacks a detailed discussion of Scrum principles, roles, or events. The content does not delve into the Scrum framework or its core themes, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 29.28,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 3.0,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on Agile transformation broadly, warning against shallow approaches and urging authentic, context-sensitive adoption. Despite high-level relevance to Scrum’s foundational principles (e.g., adaptation, commitment), it does not directly mention Scrum or its framework elements, roles, events, or artifacts. There is conceptual overlap around continuous improvement and iterative change, but depth is generic and covers Agile as a movement, not Scrum in particular. The target audience (organizational change leaders, general Agile practitioners) is adjacent but not Scrum-specific. Very little of the text would help someone specifically interested in Scrum, thus only partial and indirect category fit.",
+    "reasoning_summary": "Content is about Agile transformation generally, not Scrum. Some themes overlap but no direct reference to Scrum roles, events, or artifacts. Fit with Scrum is partial and indirect.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1955,5 +1962,24 @@
     "reasoning": "The content critiques superficial Agile adoption and urges commitment to context-specific Agile journeys, aligning somewhat with themes of agency, adaptation, and tailored practices. However, it never mentions Agentic Engineering explicitly or addresses its core aspects like developer agency, AI integration, ethical autonomy, or systemic observability. The discussion remains at the level of organisational transformation philosophy, with only indirect relevance to maximising human or AI agency. It is targeted at practitioners or leaders considering Agile, so audience fit is moderately aligned, but signal-to-noise is impacted by the generic and metaphorical narrative style. No penalty deductions are applied, as the tone is neither outdated nor critical of agentic principles.",
     "reasoning_summary": "This content is tangentially relevant to Agentic Engineering by promoting tailored, value-driven Agile transformation, but does not directly address agency, developer autonomy, or AI collaboration. Its fit to the category is modest, lacking explicit reference or depth on core agentic concepts.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RBZFAxEUQC4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 13.46,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused on Agile transformation pitfalls, urging organisations to avoid superficial approaches and instead commit to genuine, context-sensitive Agile adoption. Nowhere does it mention, reference, or even imply agentic software delivery concepts: there are no discussions on AI agents, proactivity, contextual intelligence, or agent–human synergy. It is exclusively about tailoring Agile methods to organisational context—a good practice, but not agentic as per the category's strict meaning. Relevant audience and signal are moderate, but conceptual and topical alignment are extremely weak.",
+    "reasoning_summary": "This content focuses on organisational Agile transformation with no references or meaningful alignment to Agentic Software Delivery; agentic/AI concepts are totally absent. Fit is minimal and almost entirely tangential.",
+    "level": "Ignored"
   }
 }

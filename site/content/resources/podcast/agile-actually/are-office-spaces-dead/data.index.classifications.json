@@ -72,16 +72,23 @@
     "level": "Ignored"
   },
   "Professional Scrum": {
+    "resourceId": "HRq1a_8gAJF",
     "category": "Professional Scrum",
-    "calculated_at": "2025-04-10T15:54:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 32.0,
-    "reasoning": "The content mentions Professional Scrum Trainers and discusses the impact of remote work on training and coaching, which is relevant to Scrum. However, it lacks a detailed exploration of Scrum principles, roles, or practices, and does not delve into the core themes of the Professional Scrum category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 47.6,
+    "ai_mentions": 3.8,
+    "ai_alignment": 5.2,
+    "ai_depth": 4.7,
+    "ai_intent": 6.3,
+    "ai_audience": 7.0,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content centers on remote work’s impact on training, coaching, and consulting, featuring hosts who are Professional Scrum Trainers. There's mention of Scrum and professional practice, but the discussion is about changing workplace dynamics, not Professional Scrum ethos. While the trainers' backgrounds lend credibility, core Professional Scrum concepts (empiricism, technical excellence, accountability, etc.) are not substantively discussed. The podcast is angled toward agile practitioners but doesn’t deeply explore Professional Scrum values, principles, or organizational impact. Thus, the fit is partial—relevant people, tangential topic.",
+    "reasoning_summary": "Content features Professional Scrum Trainers but focuses on remote work's effect on Agile professions, not Professional Scrum ethos. Some relevant overlap in audience and context, but little depth or direct alignment with Professional Scrum principles.",
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1945,6 +1952,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on remote work's effect on office life, agile coaching, and training, with a minor mention of DevOps and engineering expertise. There is no direct discussion of agentic engineering principles, agency, or deliberate design of engineering practices. The alignment is weak, with content targeting agile practitioners and trainers rather than directly addressing maximisation of human/AI agency, DevOps-ethos, or ethical integration. No penalties were needed as there is nothing outdated or contrary.",
     "reasoning_summary": "Discussion centers on remote work impacts within agile coaching and training, occasionally referencing DevOps. However, it lacks focus on agentic engineering, with minimal alignment to agency-driven engineering practices or core agentic engineering topics.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 7.64,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.4,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not mention agentic software delivery or related concepts. It is focused entirely on remote work, office space, agile coaching, and training—not on the introduction or integration of autonomous AI agents, contextual intelligence, or proactive agentic systems. There is no discussion of agency, modern agentic engineering practices, or feedback loops with agent support; it is strictly about human-driven aspects of team coaching and agile practice. The closest match is a peripheral mention of product delivery and DevOps, but without any hint at agentic principles. The intended audience (agile coaches, trainers, consultants) partially overlaps with those interested in agentic delivery, but the topic is off-target.",
+    "reasoning_summary": "This content focuses on remote work, agile coaching, and training—without referencing agentic software delivery concepts. There is no substantive match in topic, theme, or intent. Any fit with the category is purely coincidental and extremely limited.",
     "level": "Ignored"
   }
 }

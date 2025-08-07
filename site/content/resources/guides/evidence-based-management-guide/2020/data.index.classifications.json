@@ -1536,15 +1536,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into how Evidence-Based Management supports skill development and organisational growth. By focusing on continuous improvement, goal setting, and outcome measurement, it clearly emphasises building and enhancing competence within teams, making this the central theme of the discussion."
   },
   "One Engineering System": {
+    "resourceId": "Rv0ZjvwYVy5",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:10:56",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, which do not directly relate to the One Engineering System (1ES). While there are some overlapping themes regarding goal setting and performance measurement, the focus is on EBM rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 13.48,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is an extensive guide to Evidence-Based Management (EBM), focusing on value delivery, empiricism, performance measurement, and improvement experiments. There are no direct mentions of One Engineering System (1ES), nor discussion of its unification principles, frameworks, or components. While some topics (e.g., integrating measurements, improving value delivery) tangentially touch ideas that could overlap with 1ES (like efficiency, feedback, or process optimization), the core content is about empirical management, not standardizing or integrating engineering tools or systems across teams. No comparisons, best practices, or challenges tied to a unified engineering system are present. The audience overlaps slightly (organizations improving delivery), but otherwise the fit is weak.",
+    "reasoning_summary": "This EBM guide is unrelated to One Engineering System. There are no 1ES mentions, and the focus is on empirical management, not unified engineering systems. Any overlap is indirect or generic; content is almost entirely off-category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2061,5 +2068,24 @@
     "reasoning": "The content provides a thorough guide to Evidence-Based Management (EBM), focusing on empirical improvement, measurement, feedback loops, and continuous value delivery. Some concepts—like decentralisation of decision-making, experimentation, observability, and feedback-driven change—are adjacent to Agentic Engineering. However, the document never directly mentions or frames its insights in the explicit context of maximising human and AI agency, ethical autonomy, or AI as design collaborators. It does not explicitly address ethical AI, agency of intelligent systems, or philosophy of engineering autonomy. Its themes overlap (continuous adaptation, decentralised decision-making in innovation, feedback-oriented adaptation), but the explicit agentic framing and AI-component are absent. Thus, the content is generally relevant to the audience and shows conceptual overlap with systemic observability and feedback-driven engineering but lacks direct reference, full alignment, and depth on key Agentic Engineering aspects.",
     "reasoning_summary": "While the EBM Guide emphasizes empiricism, feedback, and continuous improvement—concepts aligning with Agentic Engineering's philosophy—it lacks direct, explicit discussion of agency or AI collaboration. The fit is tangential: overlapping themes exist, but the agentic focus and depth are limited.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Rv0ZjvwYVy5",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 24.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.4,
+    "ai_intent": 2.3,
+    "ai_audience": 6.8,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content is a comprehensive guide about Evidence-Based Management (EBM), emphasizing measurement, outcomes, empiricism, and continuous improvement in uncertain contexts. However, it contains no direct mention of agentic systems, autonomous AI agents, human–AI synergy, AI-grounded telemetry, autonomy boundaries, or agent governance. The content focuses on empirical and experimental practices for organizational improvement and value measurement—important in agile/DevOps contexts—but does not cover the deliberate integration or proactive intelligence of AI agents in delivery. The audience and many measured signals (CI/CD, innovation, value) are tangentially adjacent to Agentic Software Delivery practices but are not core to the agentic narrative. Thus, while some topics like telemetry, automation, and business agility overlap in spirit, the substantive integration and agency that define Agentic Software Delivery are missing.",
+    "reasoning_summary": "This content is about evidence-based management, not Agentic Software Delivery. It lacks references to AI agents, agentic systems, or human–AI integration, so the fit is weak, even if some conceptual overlap exists in measurement and delivery focus.",
+    "level": "Ignored"
   }
 }

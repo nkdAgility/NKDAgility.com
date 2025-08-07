@@ -1429,15 +1429,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "6VDaSknKBPu",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:17:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for cloud adoption in the public sector. While it touches on themes of digital transformation and business agility, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 11.367,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.5,
+    "ai_intent": 1.4,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses government 'Cloud First' policies, focusing on cloud adoption mandates, SaaS, and public sector challenges. It does not reference the One Engineering System framework or its principles, nor does it discuss standardized engineering practices, tool integrations, or unified development methodologies. The topic is adjacent (infrastructure and SaaS are relevant technologies) but does not meet the conceptual alignment, depth, or mentioning required for the 1ES category. The only loose overlap is the mention of tools (Visual Studio Team Services) and general references to business agility and digital transformation, neither of which are framed in the context of 1ES.",
+    "reasoning_summary": "The content solely discusses government cloud adoption policies and does not mention or align with the One Engineering System framework or its core themes. No substantial fit for this category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1945,6 +1952,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on the Government Cloud First policy and advocacy for cloud adoption in the public sector, with limited mention of engineering philosophy, agency, or agentic practices. There are no direct references to Agentic Engineering or its key concepts such as developer agency, feedback-driven adaptation, or AI collaboration. The audience (government IT and technical practitioners) somewhat overlaps, but the substance is largely about policy and operational cloud adoption rather than the deliberate engineering practices that maximize human or AI agency. The discussion does not address systemic observability, DevOps-ethos, ethical autonomy, or decision-making frameworks in engineering. The content remains focused on cloud policy, cultural resistance to change, and operational convenience rather than exploring the philosophical or systemic aspects echoed in Agentic Engineering.",
     "reasoning_summary": "This content centers on cloud policy in government, lacking emphasis on engineering agency, systemic feedback, or AI collaboration that defines Agentic Engineering. It offers minimal conceptual overlap, mentioning only tool adoption benefits, not the underlying agency-focused practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 7.146,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 0.8,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses solely on mandates and motivations for government cloud adoption. It lacks any discussion of autonomous AI agents, agency, integration of AI into delivery, or context-aware software systems. No direct or indirect reference to agentic principles, agent-powered workflows, or relevant supporting practices is found. The closest technical mention is SaaS or configuration as code, which are excluded as mere automation rather than agentic software delivery. Audience and intent are only very weakly aligned, as the narrative touches on digital transformation but not through the lens of agentic approaches.",
+    "reasoning_summary": "This content does not discuss Agentic Software Delivery. It only covers cloud adoption policy and reasons for public sector migration, without reference to agentic concepts, AI agents, or contextual intelligence. Fit is negligible.",
     "level": "Ignored"
   }
 }

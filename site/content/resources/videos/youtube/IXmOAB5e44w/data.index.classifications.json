@@ -21,15 +21,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "IXmOAB5e44w",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:54:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 30,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a referral program for collaborative learning, with only a brief mention of DevOps at the end. It lacks substantial discussion on DevOps principles, practices, or cultural shifts, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 14.15,
+    "ai_mentions": 1.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is a promotional message for a referral program focused on collaborative learning within classes. DevOps is only named in a closing sentence alongside Agile and Scrum, without substantive discussion or alignment with DevOps principles. Main topics are referral mechanics, community, and learning collaboration, but do not address DevOps philosophy, practices, or cultural shifts outlined in the category definition. Thus, there's only a weak connection through passing mention and indirect audience overlap (tech/interested in DevOps), but no meaningful DevOps focus or depth.",
+    "reasoning_summary": "Content is a referral promo for classes; DevOps is briefly named in closing but not discussed. It does not explore DevOps ideas, practices, or culture, so fit is minimal except for audience overlap and a superficial mention.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1906,6 +1913,25 @@
     "final_score": 8.0,
     "reasoning": "The content mainly promotes a referral program encouraging collaborative learning and community building. While there are vague references to collaboration and a cursory mention of relevant domains (Agile, Scrum, DevOps), there is no direct or substantive mention of Agentic Engineering, nor discussion of technical autonomy, AI, decentralised decision-making, or ethical/engineering practices as defined for the category. Discussion focuses on incentives and mutual benefits unrelated to engineering processes or the maximisation of human and artificial agency. The intended audience is learners and potential students, not strictly technical practitioners or strategists interested in agentic frameworks.",
     "reasoning_summary": "This referral program centers on collaborative learning and community incentives but does not discuss engineering autonomy, AI agency, or systemic practices—so it offers minimal alignment with Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IXmOAB5e44w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 2.563,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 2.1,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There is no mention or discussion of Agentic Software Delivery or any core related concepts such as AI agents, contextual intelligence, engineering practices, or governance. The content is focused solely on a referral program for collaborative class enrollment, with no connection to agentic principles, software delivery, or integration of autonomous AI and human expertise. Audience alignment is slightly higher due to the mention of Agile/Scrum/DevOps, but this is tangential and does not contribute to substantive alignment or depth.",
+    "reasoning_summary": "Content is a promotional referral program for collaborative class learning; it never references Agentic Software Delivery, AI agents, or systemic integration of intelligence. Alignment is negligible; the topic is completely unrelated to the category.",
     "level": "Ignored"
   }
 }

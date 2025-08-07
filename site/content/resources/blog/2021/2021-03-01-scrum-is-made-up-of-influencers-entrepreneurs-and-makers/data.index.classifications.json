@@ -9,13 +9,23 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "DdQ1nKvk-hv",
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions experimentation in the context of the Value Track, indicating its importance in decision-making based on data. However, the primary focus is on the roles within Scrum rather than a detailed exploration of experimentation itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 31.43,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.2,
+    "ai_intent": 3.3,
+    "ai_audience": 4.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "Direct references to experimentation occur once in passing (Value Track), emphasizing that entrepreneurs need some experimentation spirit and data-driven decisions. However, 'experimentation' is not discussed as a primary theme, nor are its techniques, purposes, or integration into Agile/Scrum explored. Main focus is on explaining skills and tracks within Scrum teams—not on hypothesis testing or continuous improvement through experimentation. The intent is team-role clarification, not an exploration of experimentation. Audience is potentially relevant, with Agile practitioners and leaders, but most content is off-topic for experimentation. No penalties are applied: the content is contemporary and not critical to the experimentation category.",
+    "reasoning_summary": "Content only briefly mentions experimentation; the primary focus is team roles, not hypothesis-driven Agile practices. Discussion of experimentation is minimal and not central, making category fit weak and partial.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1998,6 +2008,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on Scrum roles—Influencers, Entrepreneurs, and Makers—responsible for leadership, value creation, and technical delivery. While it discusses agency within roles and the importance of environments enabling empowerment and decision-making, it does not mention Agentic Engineering or explicitly align with agentic systems, feedback-driven adaptation, observability, or DevOps-infused craft. There are minor overlaps with agency and autonomy, but the philosophical and engineering practices that define Agentic Engineering are not substantively addressed. The content targets practitioners, which fits well with the audience, and stays largely on-topic, but lacks conceptual depth and direct alignment with the category.",
     "reasoning_summary": "This content examines Scrum team roles and their responsibilities, lightly touching on concepts like agency and empowerment. However, it doesn't reference Agentic Engineering or cover key topics like systemic observability, AI/autonomy, or feedback adaptation, so only partially aligns with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DdQ1nKvk-hv",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 14.426,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 2.7,
+    "ai_audience": 4.8,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct mentions or implicit references to agentic software delivery, AI, autonomous agents, or contextual intelligence. The content solely discusses human team roles in Scrum, dividing them by track (leadership, value, technical) without involving AI integration, governance frameworks for agents, human-in-the-loop AI processes, or modern agentic engineering practices. The intended audience (Scrum practitioners) overlaps partially with the target audience for agentic delivery content, but the main themes miss all critical aspects of agentic software delivery. Signal is partially relevant due to a focus on delivery teams but stays strictly within traditional Scrum concepts.",
+    "reasoning_summary": "The content discusses classic Scrum team roles (leadership, value, technical) with no mention of AI, agents, or agentic delivery concepts. Not a fit for 'Agentic Software Delivery'—it is purely human/team-focused and traditional in approach.",
     "level": "Ignored"
   }
 }

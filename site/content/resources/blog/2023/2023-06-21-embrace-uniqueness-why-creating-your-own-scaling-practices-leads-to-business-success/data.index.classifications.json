@@ -675,15 +675,22 @@
     "reasoning_summary": "This content is a strong fit for the Agile Strategy category, as it highlights the value of adapting scaling practices to an organisation’s specific needs. By focusing on customisation, ownership, and cultural factors, it reflects Agile’s emphasis on flexibility and ongoing improvement, rather than rigidly following generic frameworks."
   },
   "Continuous Delivery": {
+    "resourceId": "rMAdB_yEwWb",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:28:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of creating unique scaling practices for business success, focusing on agility and adaptability. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into topics such as automation, rapid feedback, or software quality, which are central to Continuous Delivery. The discussion is more aligned with general scaling practices rather than the specific practices and benefits of Continuous Delivery.",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 13.844,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on creating customized scaling frameworks for organizations and critiques the adoption of prebuilt solutions like SAFe or Spotify. Core themes are organizational culture, ownership, and adaptability; there is no mention or in-depth exploration of Continuous Delivery, its principles, or associated practices such as automation, deployment pipelines, or rapid software release. While themes like continuous improvement and learning are mentioned, they are addressed in the context of organizational agility and ownership—not in the context of Continuous Delivery. The audience is somewhat technical (business leaders in software), but the focal topic remains scaling practices, not disciplined software delivery. None of the main points, examples, or benefits directly link to Continuous Delivery, resulting in very low alignment and depth scores.",
+    "reasoning_summary": "The content addresses organizational scaling and custom frameworks, not Continuous Delivery. No principles, practices, or intent relate to Continuous Delivery, so alignment is minimal and fit is weak.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1991,5 +1998,24 @@
     "reasoning": "The content centers on organizations creating their own scaling practices tailored to unique culture and needs, strongly emphasizing autonomy, ownership, adaptability, and context-driven engineering—core to Agentic Engineering's principles. It highlights team empowerment and customizing methods rather than adopting rigid frameworks, fitting well with developer agency and feedback-driven adaptation. However, there’s only an implicit (not explicit) reference to engineering practices and agency, lacking specific mention of AI, engineering craft, or systemic observability—the discussion orbits Agentic Engineering themes but does not deeply explore them, nor does it mention agentic concepts directly. The audience and purpose generally align, as it targets leaders in software organizations considering how to shape their ways of working, but the piece falls short of in-depth or direct engagement with Agentic Engineering as a discipline.",
     "reasoning_summary": "This content advocates for custom, context-driven scaling practices and team empowerment within organizations, reflecting Agentic Engineering's emphasis on autonomy and tailored workflows. However, it covers these ideas implicitly, without direct reference or deep exploration of core agentic or AI engineering themes.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rMAdB_yEwWb",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 18.275,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on advocating for custom scaling practices tailored to an organization's unique culture rather than adopting standardized frameworks. It discusses agility, ownership, adaptability, and culture as important elements of successful software delivery at scale. However, it does not mention or explore agentic delivery, autonomous AI agents, or their integration with human expertise. There are no references to contextual intelligence, embedded AI agency, feedback loops enabled by agents, or modern engineering practices specific to agentic paradigms as defined. The content is geared towards business leaders and practitioners in software delivery but remains generic about 'agility' and adaptability, lacking any substance on AI, agents, or agentic delivery modes.",
+    "reasoning_summary": "The content does not fit the 'Agentic Software Delivery' category. It focuses on custom organizational scaling, agility, and culture, with no discussion of autonomous agents or AI integration in delivery. The thematic overlap is minimal and indirect.",
+    "level": "Ignored"
   }
 }

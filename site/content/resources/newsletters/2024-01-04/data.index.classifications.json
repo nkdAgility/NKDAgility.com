@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "Knb7n17SqYe",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:01:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting Scrum training courses and does not explicitly discuss Evidence-Based Management principles. While it mentions Agile methodologies, it lacks a direct connection to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more about training and personal development rather than data-informed management practices.",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused on promoting Scrum and Agile training, with no explicit mention of Evidence-Based Management (EBM) or any of its core concepts (current value, time to market, empirical decision-making, etc.). While the content briefly mentions 'continuous improvement' and promises practical training, it lacks any discussion of data, measurement, metrics, or evidence-driven decision-making. The primary intent is promotional, targeting Agile practitioners and leaders interested in training, not in EBM practices. No depth nor conceptual alignment with EBM is observed.",
+    "reasoning_summary": "This is a promotional message for Scrum training with no reference to Evidence-Based Management or its principles. The topic, intent, and themes do not fit the EBM category.",
     "level": "Ignored"
   },
   "Personal": {
@@ -1983,6 +1990,25 @@
     "final_score": 17.0,
     "reasoning": "The content is a marketing newsletter for Scrum/Agile training, with no direct references to Agentic Engineering or core conceptual framing. While it mentions themes like 'autonomy' and 'continuous improvement,' these are generic in Agile and not linked to the philosophical or systemic focus of Agentic Engineering (e.g., engineering practices that deliberately maximize agency, systemic observability, ethical AI integration). The primary focus is promoting commercial training, not exploring engineering practices or agency. Audience overlap exists (technical and practitioner), but the discussion lacks depth, direct topical fit, or mention of Agentic Engineering concepts.",
     "reasoning_summary": "This is a sales promotion for Scrum training, not a discussion of Agentic Engineering. It doesn't explore or reference agency, engineering practices, or systemic principles central to the category, so confidence in classification is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Knb7n17SqYe",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 6.86,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 2.2,
+    "ai_audience": 0.8,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is centered on promoting Scrum and Agile training with no reference to agentic principles, autonomous AI agents, contextual intelligence, or integration of AI in software delivery. It addresses traditional Scrum/Agile learning, roles, and classes for practitioners but makes no mention of embedding AI, agency, or agentic delivery concepts. The closest fit is a tangential mention of DevOps in an author credential, but it is not elaborated. There is no discussion or alignment with core Agentic Software Delivery topics or audiences. The very low scores reflect this lack of fit across all dimensions.",
+    "reasoning_summary": "The content is about Scrum and Agile training promotion, with no discussion or relevance to Agentic Software Delivery. There is no mention of AI agents, contextual intelligence, or agentic principles. Alignment is negligible and confidence is extremely low.",
     "level": "Ignored"
   }
 }

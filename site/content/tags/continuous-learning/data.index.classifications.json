@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Continuous Learning",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Continuous Learning, which is related to team improvement and adaptability but does not explicitly address accountability as a foundational mechanism in work systems. While it touches on themes of collaboration and knowledge sharing, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more about fostering a growth mindset than about clarifying who owns outcomes in a work context.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 35.25,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on growth mindset, knowledge sharing, and improvement, with no explicit or implicit discussion of accountability as defined (clarifying outcome ownership, role-based accountability, or structural mechanisms). No mention is made of distinctions between accountability and responsibility, or outcomes in systems of work. While there are passing references to value delivery and team dynamics, discussions center on cultural and personal development, not structural ownership or role-specific outcome accountability. The topic, audience, and intent are aligned with improvement and learning in work contexts, but not with accountability as its main framing.",
+    "reasoning_summary": "Content centers on learning culture and team improvement, not on accountability structures, role-based outcome ownership, or system-driven mechanisms. Only minimal indirect relevance; fit with 'Accountability' category is weak and largely tangential.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3126,5 +3133,24 @@
     "reasoning": "The content focuses on continuous learning, knowledge sharing, growth mindset, and team improvement. While there is a single mention of 'collective intelligence,' it is used in the context of general team collaboration and knowledge sharing without any reference to AI, human-AI collaboration, or the emergence of capabilities from human-AI teams—the central focus of the 'Collective Intelligence' category. The main theme is human teamwork and learning rather than human-AI partnership. There is substantial discussion around fostering better teams, reflected in reasonable scores for audience and signal-to-noise, but little direct or deep treatment of the category definition.",
     "reasoning_summary": "This content lightly references collective intelligence but centers on human team learning without involving AI, making its fit for the 'Collective Intelligence' category limited and mostly tangential.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Continuous Learning",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 21.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 5.1,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses principles of growth mindset, team learning, and continuous improvement at a general level, with no explicit mention of agentic concepts such as AI agents, contextual intelligence, or human-agent synergy. While continuous learning is an enabling capability in agentic delivery, this article makes no reference to software delivery, agency, autonomy, or the integration of AI. Its primary themes are generic and applicable across many domains. Audience alignment is moderate because the language could apply to technical practitioners, but there is little targeting or relevance specific to the agentic software delivery field.",
+    "reasoning_summary": "This content is about generic continuous learning and team improvement, lacking any discussion of agentic software delivery, AI agents, or related practices. The fit is minimal and only tangential at best.",
+    "level": "Ignored"
   }
 }

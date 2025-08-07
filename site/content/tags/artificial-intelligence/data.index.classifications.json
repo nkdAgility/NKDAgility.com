@@ -48,15 +48,22 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Artificial Intelligence",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:29:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the role of Artificial Intelligence in enhancing decision-making and efficiency within Agile and DevOps contexts. However, it primarily focuses on the benefits and applications of AI rather than detailing specific structured methods or procedures. While it mentions Agile and Lean principles, it does not provide a step-by-step procedural approach or in-depth discussion of any specific methods, which limits its alignment with the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 16.25,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.6,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content describes how AI can support Agile, DevOps, and product development by increasing efficiency, enhancing decision-making, and enabling innovation. However, it does not discuss AI as a structured, step-by-step method, nor does it delve into procedural approaches or formalised practices typical of the 'Method' category. There are only vague references to method-like benefits (e.g., streamlining workflows), but the discussion is conceptual and tool- or capability-focused, not methodologically explicit. Audience alignment is moderate since the content addresses practitioners in Agile/DevOps contexts, but the consistent lack of explicit method content leads to low scores for alignment, depth, and direct mentions.",
+    "reasoning_summary": "Content focuses on AI as an enabler for Agile/DevOps, not as a procedural method. It lacks detailed discussions of structured practices; thus, there is minimal fit with the 'Method' category definition.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3104,5 +3111,24 @@
     "reasoning": "The content discusses AI's empowering role in decision-making and team productivity within Agile and DevOps, but describes AI mainly as a tool that automates, optimizes, and enhances human work. It refers to collaboration and performance, but lacks explicit focus on human-AI partnerships, distributed cognition, or emergent capabilities of true collective intelligence. There are no direct mentions of 'collective intelligence,' and human-AI teaming is more implied than detailed. The intended audience of Agile and DevOps practitioners is consistent, and the content is generally focused, but does not substantially engage the category's deeper topics or required partnership dynamic beyond high-level synergy.",
     "reasoning_summary": "This content outlines how AI helps Agile and DevOps teams, emphasizing automation and improved decision-making. However, it does not specifically explore human-AI collaboration, shared agency, or emergent team intelligence, so its alignment with Collective Intelligence is limited.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Artificial Intelligence",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 37.113,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.4,
+    "ai_intent": 4.2,
+    "ai_audience": 7.9,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content discusses general AI advantages in software delivery and Agile/DevOps, focusing on automation, decision support, and value delivery. However, it lacks direct reference to agentic principles like autonomous AI agents, agency, or the structured integration of AI with human expertise and organisational context. The discussion is broad, not exploring the specific mechanics or modern practices of agentic delivery (contextual intelligence, agency in AI, governance, feedback loops, etc.). While the audience and relevance are generally aligned, the content is generic, providing only partial conceptual overlap.",
+    "reasoning_summary": "Content discusses general AI in delivery contexts but does not reference agentic, autonomous, or integrated AI agents as defined. Fit is partial, lacking key themes (agency, governance, agent integration) required for full category alignment.",
+    "level": "Ignored"
   }
 }

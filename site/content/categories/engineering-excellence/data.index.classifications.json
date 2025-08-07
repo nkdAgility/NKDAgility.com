@@ -36,16 +36,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Engineering Excellence",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses principles related to engineering excellence, which touches on continuous improvement and adaptability, aligning with some tenets of Agile and Lean. However, it lacks explicit actionable rules or doctrines that guide decision-making and behaviours, making it more of a general discussion on values rather than a focused exploration of tenets.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 53.55,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.1,
+    "ai_depth": 5.7,
+    "ai_intent": 6.6,
+    "ai_audience": 7.2,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content provides actionable guiding principles, particularly in its list of 'Core Principles of Engineering Excellence.' However, these are framed more generically as best practices and principles rather than explicit 'tenets' as defined by agile, DevOps, Lean, or EBM frameworks. There is brief conceptual alignment, notably in mentions of continuous improvement, collaboration, metrics, automation, and adaptability (which are close to popular tenets), but the text stops short of explicitly defining these as tenets or prescriptive doctrines. There's some depth in applying these principles contextually, but the content appears more focused on engineering culture and standards broadly than on strict methodological tenets. No outdated or critical tone issues detected.",
+    "reasoning_summary": "Content shares actionable principles akin to tenets, such as continuous improvement and adaptability, but is framed as general engineering excellence. The fit with the Tenet category is partial, lacking explicit tie-in to Agile, DevOps, Lean, or EBM tenets.",
+    "level": "Tertiary"
   },
   "Method": {
     "category": "Method",
@@ -3098,6 +3105,25 @@
     "final_score": 12.0,
     "reasoning": "The content focuses exclusively on software engineering quality, craftsmanship, technical practices, and organizational culture around technical standards. It promotes team collaboration, continuous improvement, and measurable outcomes but never mentions or discusses AI, human-AI collaboration, or any core component of collective intelligence. There are no references or frameworks involving human-AI teams, distributed cognition across human/AI agents, or the emergent socio-technical aspect required for the category. Any overlap is very indirect and limited to general statements about collaboration and data-driven improvements, which are common across software engineering discussions and do not pertain to collective intelligence as defined.",
     "reasoning_summary": "This content centers on engineering best practices and team collaboration but does not address human-AI collaboration or the dynamics of collective intelligence, making it only minimally relevant to the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Engineering Excellence",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 35.27,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.1,
+    "ai_intent": 2.5,
+    "ai_audience": 6.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content is centered on engineering best practices, emphasizing software quality, maintainability, and modern engineering principles like automation and observability. However, it does not directly reference agentic software delivery topics such as autonomous AI agents, contextual intelligence, agent-human collaboration, or agentic frameworks. Its audience overlaps (technical practitioners), but it lacks conceptual alignment and depth on the agentic themes—no mention of AI agents operating in delivery, human-in-the-loop, governance of agents, or contextual AI. Automation and observability are discussed, but only as part of broad engineering discipline, not as agentic mechanisms.",
+    "reasoning_summary": "While discussing modern engineering and automation, the content does not mention or explore autonomous AI agents, contextual intelligence, or agentic delivery specifics—partial, tangential fit at best.",
     "level": "Ignored"
   }
 }

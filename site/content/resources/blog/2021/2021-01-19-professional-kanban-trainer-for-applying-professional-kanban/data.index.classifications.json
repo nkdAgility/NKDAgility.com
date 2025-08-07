@@ -1436,15 +1436,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "ZQi3U9gnXj3",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:43:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Professional Kanban and its integration with Scrum, with no direct mention or discussion of the One Engineering System (1ES). While it touches on concepts of optimisation and flow, these are not aligned with the core principles of 1ES, which emphasises standardisation and integration across teams. The depth of discussion is limited to Kanban practices, further distancing it from the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 19.525,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 6.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on Kanban training, certification, course syllabi, and integration between Scrum and Kanban. There are no direct or indirect references to One Engineering System (1ES), its philosophy, practices, or objectives such as framework unification, tooling, or cross-team process integration. The highest alignment is with Agile and Kanban methodology practitioners—not engineers aiming for system-wide standardisation as defined by 1ES. The fit is very weak and mostly incidental due to possible interest overlap, not subject matter alignment.",
+    "reasoning_summary": "Content is about Kanban and Scrum training, not One Engineering System. No direct or conceptual ties to 1ES goals or frameworks. Does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1955,6 +1962,25 @@
     "final_score": 32.0,
     "reasoning": "The content focuses on becoming a Professional Kanban Trainer and understanding Kanban principles within Scrum contexts. While Kanban and Scrum relate to concepts like workflow visualization, empirical processes, and value flow, there is no direct mention or substantive discussion of maximizing agency (human or AI), deliberate engineering of agency, or DevOps/Ethical AI integration. The focus is primarily on certification, training logistics, and basic Kanban conceptual understanding rather than philosophical or systemic agentic engineering practices. Some indirect audience alignment exists for technical practitioners, but topics are not deeply or systematically aligned with Agentic Engineering.",
     "reasoning_summary": "This content centers on Kanban training and certification, skimming the surface of process improvement but lacking any intentional focus on human or AI agency, systemic observability, or agentic design. It only loosely aligns with Agentic Engineering through its general audience and brief process references.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZQi3U9gnXj3",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 7.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.25,
+    "ai_intent": 0.2,
+    "ai_audience": 0.25,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on Kanban and Scrum practices, certifications, and professional training. None of the key aspects of Agentic Software Delivery—such as AI agent integration, contextual intelligence, agency in AI, human-AI collaboration, or agentic engineering practices—are mentioned or implied. The discussion centers around workflows, Kanban principles, course syllabi, and trainer certification. There is no thematic overlap with agentic delivery, autonomous agents, or intelligent systems of work. The audience is practitioners interested in Kanban, with no tailoring for those exploring agentic approaches.",
+    "reasoning_summary": "This content is about Kanban training and certification, not Agentic Software Delivery. No AI/agents, contextual intelligence, or agentic principles are present. Fit is extremely low and only tangential at best.",
     "level": "Ignored"
   }
 }

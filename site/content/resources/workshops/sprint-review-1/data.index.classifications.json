@@ -1496,15 +1496,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "8gWwC3tvV_f",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:09:35",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, discussing roles, events, and facilitation techniques. While it touches on aspects of collaboration and transparency, it does not explicitly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more aligned with Scrum practices rather than the broader goals of 1ES.",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 8.08,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.95,
+    "ai_intent": 1.2,
+    "ai_audience": 1.25,
+    "ai_signal": 1.28,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content offers a comprehensive guide for running a Sprint Review using Liberating Structures, targeting Scrum teams and stakeholders. It is deeply focused on Scrum events, empirical product inspection, feedback gathering, and collaborative planning. There are no direct references to the One Engineering System (1ES), nor does the content address the 1ES principles (standardization or integration across engineering teams). Its conceptual alignment and depth relative to 1ES is minimal; it neither explores tool/process harmonization nor references unified engineering practices, focusing exclusively on team-level Scrum process facilitation.",
+    "reasoning_summary": "This content is a practical Sprint Review facilitation guide for Scrum teams and does not discuss One Engineering System concepts, integration, or standardisation across engineering practices. Fit with the category is extremely low, with only distant thematic overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2017,5 +2024,24 @@
     "reasoning": "The content provides an in-depth guide to facilitating a Sprint Review using Liberating Structures, focusing on team engagement, transparent inspection, and actionable feedback. However, it does not directly mention or deeply explore Agentic Engineering or its core philosophical aspects. It aligns somewhat with agentic principles like developer agency and feedback loops, but the focus is primarily on practical Scrum facilitation rather than the deliberate design of socio-technical systems to maximize human and AI agency. There are no direct references to AI, decision decentralization frameworks, or explicit DevOps/engineering ethos tied to agency maximization. The content is aimed at Scrum practitioners, which overlaps with the category audience, but remains tangential to Agentic Engineering's primary themes.",
     "reasoning_summary": "The workshop content encourages team participation and continuous improvement but does not directly address Agentic Engineering. Its focus remains on Scrum facilitation, only partially overlapping with concepts like autonomy and empirical adaptation, resulting in moderate confidence for fit with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8gWwC3tvV_f",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 8.184,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 2.1,
+    "ai_audience": 1.2,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a detailed, practical guide for conducting an interactive Sprint Review using Liberating Structures. It is focused entirely on facilitating human-led feedback and improvement cycles in a Scrum context. There is no mention or evidence of autonomous AI agents, agency, contextual intelligence, or systematic integration between human expertise and AI agents. The content does not describe agentic delivery practices or architectures; rather, it centers on traditional human-centric Scrum techniques. Even though feedback, inspection, and continuous improvement are present—partially shared themes with Agentic Software Delivery—those are rooted in human facilitation and not agentic, proactive, or AI-augmented processes. Audience and purpose align with Scrum practitioners, not those seeking agentic delivery frameworks or insights.",
+    "reasoning_summary": "This guide centers on human-facilitated Scrum practices (Sprint Review) with no mention of agentic delivery or autonomous AI agents. It falls far outside the Agentic Software Delivery category. Overlap is superficial and coincidental only.",
+    "level": "Ignored"
   }
 }

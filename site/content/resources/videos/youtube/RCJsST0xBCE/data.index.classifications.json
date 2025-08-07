@@ -452,17 +452,23 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "RCJsST0xBCE",
     "category": "Azure DevOps",
-    "calculated_at": "2025-04-10T15:54:41",
-    "ai_confidence": 92.0,
-    "ai_mentions": 95.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 93.0,
-    "non_ai_confidence": 20,
-    "final_score": 92.0,
-    "reasoning": "The content is a comprehensive guide focused on Azure DevOps migration tools, detailing their functionalities, usage, and best practices. It explicitly discusses various aspects of Azure DevOps, including migration processes, tool capabilities, and integration with Azure services, aligning closely with the key topics of the Azure DevOps category. The depth of discussion is significant, providing detailed instructions and insights into the migration process, which further supports a high confidence score.",
-    "level": "Primary",
-    "reasoning_summary": "This content clearly belongs in the Azure DevOps category, as it thoroughly explores migration tools, their features, and practical usage within Azure DevOps environments. The detailed guidance and focus on integration and best practices make it highly relevant for anyone seeking information or support related to Azure DevOps migration."
+    "calculated_at": "2025-08-07T06:11:49",
+    "ai_confidence": 96.265,
+    "ai_mentions": 9.7,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.8,
+    "ai_intent": 9.6,
+    "ai_audience": 9.3,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 96.0,
+    "reasoning": "The content is a comprehensive, practical guide focused completely on Azure DevOps Migration Tools, repeatedly and explicitly mentioning Azure DevOps and its services. It provides set-up steps, best practices, and technical detail exclusively for Azure DevOps practitioners or migration leads. The intent is instructive, and all advice, community notes, and troubleshooting support are strictly within the Azure DevOps context. There is no off-topic or tangential material, and no outdated info or tone issues. All six scoring dimensions are very high and well-justified given the depth and focus. No penalties warranted.",
+    "reasoning_summary": "This content is a highly focused, deep dive into using Azure DevOps Migration Tools. All themes, advice, and intent directly address the category and its audience. Fit is clear, complete, and fully aligned.",
+    "level": "Primary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1947,6 +1953,25 @@
     "final_score": 17.0,
     "reasoning": "The content focuses exclusively on practical guidance and best practices for Azure DevOps Migration Tools. There are no explicit or implicit references to agentic engineering, autonomy, or systemic approaches to maximising human or AI agency. The narrative is procedural, centered on setup, migration steps, configurations, and operational tips. While targeting a technical audience, it does not address the philosophical, organisational, or collaborative dimensions foundational to Agentic Engineering. The content is highly focused (strong signal) but not aligned conceptually or in intent.",
     "reasoning_summary": "This guide is narrowly focused on Azure DevOps migration tool usage and operations, with no connection to Agentic Engineering principles such as agency, decentralised decision-making, or human-AI collaboration. Its relevance to the Agentic Engineering category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RCJsST0xBCE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:48",
+    "ai_confidence": 7.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.15,
+    "ai_signal": 1.02,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content thoroughly discusses Azure DevOps Migration Tools, focusing on best practices, setup, and migration steps. There are no direct mentions of AI agents, autonomous software, contextual intelligence, or agentic delivery concepts. The tools described represent standard automation, not proactive, context-aware agents. The primary audience is technical practitioners involved in DevOps migrations rather than those exploring integration of AI agents with human expertise for outcome-centric delivery. The alignment and depth scores are low because there’s no discussion of agentic principles, governance of agents, or modern engineering for agent-aware delivery. Signal-to-noise ratio is high with focus on migration, but it’s off-topic regarding agentic software delivery.",
+    "reasoning_summary": "This content is about standard DevOps migration tools and processes—not about autonomous agents, contextual intelligence, or agentic software delivery. It does not fit the assigned category.",
     "level": "Ignored"
   }
 }

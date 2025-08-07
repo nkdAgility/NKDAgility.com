@@ -1479,15 +1479,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "hWDjTSSBUJh",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:07:59",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Product Backlog within Agile methodologies, specifically Scrum, without discussing the One Engineering System framework or its principles. While it touches on aspects of project management and team collaboration, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 16.93,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 4.1,
+    "ai_signal": 3.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is exclusively about Product Backlog management, refinement, and prioritization in Agile/Scrum contexts. There is no direct mention of One Engineering System (1ES), its tools, principles, or integration goals. While the article discusses standardisation and value alignment practices, these are specific to backlog practice and Agile teams, not the holistic framework, tool integration, or cross-team standardisation at the heart of 1ES. The target audience is somewhat overlapping (technical practitioners), but the focus is not on unified engineering process or broader system transformation. Depth is moderate within the topic of backlogs, but not 1ES.",
+    "reasoning_summary": "The article is about Agile Product Backlog practices, not One Engineering System. It does not mention 1ES or focus on process/tool integration across teams. The fit is minimal and only tangentially touches on standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,6 +1997,25 @@
     "final_score": 35.0,
     "reasoning": "The content thoroughly discusses Agile backlog refinement, goal alignment, and value-driven product development, but it rarely—if ever—mentions agency, human or AI autonomy, or the engineering of environments to maximize agency. While it focuses on decision sequencing and feedback in Agile, there's limited conceptual overlap with Agentic Engineering’s philosophical or systemic ambitions (e.g., decentralization, DevOps infusion, or agentic AI integration). The content is written for Agile practitioners, aligning somewhat with the category’s audience, but its primary intent is practical backlog management, not the deliberate design for agency maximization.",
     "reasoning_summary": "This article focuses on the tactical aspects of Agile backlog management and goal setting; while it touches on themes of prioritization and feedback, it does not address the philosophical or systemic concerns central to Agentic Engineering. Relevant overlap is minimal and mostly incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hWDjTSSBUJh",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 13.775,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 2.1,
+    "ai_audience": 2.9,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The article focuses entirely on traditional Agile and Scrum backlog practices. There are no mentions of AI agents, autonomous systems, agentic principles, or contextual intelligence. The concepts align with good software delivery hygiene but lack any agentic delivery framing, agency-enabled automation, or interplay between AI and human expertise. No discussion exists on engineering practices, governance, or feedback loops involving agents. The intended audience is Agile practitioners, related but not specific to agentic delivery topics.",
+    "reasoning_summary": "This content is about standard Agile backlog refinement—not Agentic Software Delivery. No references to agents, AI autonomy, or agentic context are present; therefore, fit is minimal and confidence is very low.",
     "level": "Ignored"
   }
 }

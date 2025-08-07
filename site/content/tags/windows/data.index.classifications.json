@@ -25,15 +25,22 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Windows",
     "category": "Framework",
-    "calculated_at": "2025-04-09T14:41:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Windows operating system and its role in supporting Agile and DevOps practices, but it does not focus on any specific framework or provide detailed insights into Agile methodologies. While it mentions concepts related to collaboration and continuous delivery, it lacks a primary focus on frameworks themselves, which diminishes its relevance to the category.",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 34.2,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.3,
+    "ai_intent": 2.7,
+    "ai_audience": 5.6,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on Windows OS as a platform supporting software development and DevOps practices, not a structured methodology or process framework. There are only brief, tangential mentions of concepts like frameworks, and the core definition is not met. The depth and intent revolve around technical enablement rather than the methodical guidance or adaptation that distinguishes the 'Framework' category. The audience is partially aligned (technical practitioners), but signal-to-noise is diluted due to a lack of direct framework relevance.",
+    "reasoning_summary": "The content centers on the Windows OS as an enabling platform, not on a structured methodology or framework. Minimal conceptual or intent fit with the Framework category—overall, the fit is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Tenet": {
@@ -3229,6 +3236,25 @@
     "final_score": 9.0,
     "reasoning": "The content is focused on the Windows operating system's impact on standardisation, stability, and collaboration within technical teams using Agile and DevOps. However, it never addresses human-AI partnerships, shared cognition, or any distinctive elements of collective intelligence. All discussion of collaboration refers solely to human teamwork, infrastructure, and productivity tooling. No mention, direct or indirect, is made regarding AI agent team membership, collaborative decision-making between humans and AI, or emergent intelligence from human-AI interaction. Therefore, there is very minimal relevance to the 'Collective Intelligence' category as defined.",
     "reasoning_summary": "The content discusses Windows as an enabler of human team productivity and collaboration within Agile and DevOps; however, it contains no discussion of human-AI partnerships or collective intelligence. Its relevance to the 'Collective Intelligence' category is extremely low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Windows",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 14.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is about the Windows OS in organisational DevOps contexts. It focuses on platform stability, configuration, deployment automation, and agile tool support, but does not mention or discuss agentic software delivery, autonomous AI agents, contextual intelligence, or proactive agency in systems. There is no reference to collaboration between AI agents and humans or governance of agentic processes. Discussion remains at the platform/DevOps practice level. Audience and intent are tangentially related (DevOps, engineering), but the topic is not agentic.",
+    "reasoning_summary": "Content describes Windows OS's role in DevOps/agile, not agentic delivery. No mention of AI agents, contextual intelligence, or agency. Topic does not align with the category; fit is minimal and indirect.",
     "level": "Ignored"
   }
 }

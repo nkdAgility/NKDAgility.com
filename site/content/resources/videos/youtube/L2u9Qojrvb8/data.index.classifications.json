@@ -1397,15 +1397,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "L2u9Qojrvb8",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:43:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the unique challenges and solutions in implementing DevOps practices across various organizations. While it touches on themes of adaptation and continuous improvement, it does not explicitly mention or focus on the Shift-Left Strategy, which is about integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth in addressing the core principles and techniques of the Shift-Left approach.",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 18.547,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on tailoring DevOps strategies, continuous improvement, and leveraging external expertise, but it does not mention or meaningfully discuss Shift-Left principles or techniques. There are no references to integrating testing, security, or compliance early in development—core to Shift-Left. The intent and audience are somewhat adjacent, given the general focus on DevOps and improvement initiatives. Some concepts like continuous improvement could tangentially touch on Shift-Left ideals, but only very loosely. Overall, Shift-Left is neither a key theme nor substantively addressed.",
+    "reasoning_summary": "This content is generally about unique DevOps strategies, not Shift Left. It doesn’t discuss moving testing, security, or compliance earlier in development—making its fit for the Shift Left Strategy category minimal or only incidental.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1957,5 +1964,24 @@
     "reasoning": "The content focuses on tailoring DevOps practices to unique organizational contexts, emphasizing adaptability, continuous improvement, and learning from external expertise. While it shares philosophical elements, such as autonomy and context-driven solutions, it never directly addresses agentic engineering concepts. There is no explicit discussion of maximizing human or AI agent agency, systemic observability, ethical AI, or the decision-making frameworks central to agentic engineering. The audience aligns with practitioners interested in advanced DevOps thinking, but the main themes are on practical adaptation, not deliberate design or engineering for augmented agency. No penalties were applied as the tone is professional and the content references current, relevant practices.",
     "reasoning_summary": "This content discusses adaptable, context-sensitive DevOps strategies and the benefits of continuous improvement and external coaching. However, it does not directly address the principles or themes of Agentic Engineering, such as optimizing agency, ethical AI, or systemic observability, making its alignment with the category limited.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 18.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses tailoring DevOps strategies, leveraging external expertise, continuous improvement, and adapting solutions based on organizational context. However, at no point does it mention or discuss autonomous AI agents, agentic principles, context-aware AI, or any integration of agency between humans and software delivery systems. While there is some alignment around contextual intelligence and adaptability, the core concept of Agentic Software Delivery (specifically focused on AI agent integration and agency) is absent. The audience is technical and focused on engineering culture, which partially overlaps, and there is little off-topic material, but the central themes required by the category are missing.",
+    "reasoning_summary": "Content covers unique, adaptable DevOps practices and organizational context, but lacks any discussion of AI agents, agentic integration, or agency; it does not fit the Agentic Software Delivery category beyond superficial context overlaps.",
+    "level": "Ignored"
   }
 }

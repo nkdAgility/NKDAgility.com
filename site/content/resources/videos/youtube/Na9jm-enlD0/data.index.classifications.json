@@ -1497,15 +1497,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "Na9jm-enlD0",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:51:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of consensus in product development, which is not directly related to the One Engineering System framework. While it touches on collaboration and decision-making, it lacks explicit references to 1ES principles, components, or implementation practices. The focus is on consensus rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 18.96,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.15,
+    "ai_intent": 2.45,
+    "ai_audience": 4.05,
+    "ai_signal": 4.32,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on the role of consensus in product development, with examples centered on decision-making, leadership, collaboration, and trust within teams. There are no direct mentions or discussions of One Engineering System (1ES) frameworks, principles, tool integration, or unified engineering methodologies as defined. Its audience (product owners, team leads) slightly aligns with the potential 1ES audience, but all core themes—structure, implementation, or comparison to 1ES—are absent. The discussion is relevant to collaborative practices but is not integrated with the 1ES framework.",
+    "reasoning_summary": "The content does not address One Engineering System (1ES) directly or conceptually; it focuses on consensus and product development decision-making. There is minimal audience overlap, but no substantive fit to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2007,6 +2014,25 @@
     "final_score": 39.0,
     "reasoning": "The content deeply explores consensus in product development, weighing collaboration, leadership, and timely decision-making. While themes of decision-making, trust, and agency are present, the discussion doesn't explicitly reference agentic engineering, developer/system agency, or the deliberate design of engineering practices for maximizing human and AI agency. There is little discussion on ethics, observability, DevOps culture, or systemic aspects; instead, the focus is on human consensus rather than socio-technical or agentic frameworks. The audience overlaps partially with Agentic Engineering, but the intent centers on effective product team decisions, not the broader agentic perspective.",
     "reasoning_summary": "This content thoroughly examines consensus in product development, focusing on decision-making, collaboration, and trust. However, it does not address the core ideas, terminology, or engineering practices central to Agentic Engineering, resulting in a moderate-to-low confidence of alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Na9jm-enlD0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 9.9,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a deep exploration of consensus in product development—balancing leadership, trust, and collaboration. However, it makes no direct or indirect reference to autonomous AI agents, agentic systems, contextual intelligence, or the integration of AI in delivery. There is also no discussion of agency, agent-supported practices, or synergy between AI and humans in the software delivery process, nor any reference to modern engineering practices specific to agentic delivery. The closest alignment is via general product delivery and decision-making themes, which are necessary, but nowhere does the content enter the domain of Agentic Software Delivery as strictly defined. Thus, the alignment is minimal, and confidence is extremely low.",
+    "reasoning_summary": "This article focuses on consensus in product development without referencing agentic software delivery or autonomous AI agents. There is no conceptual or practical alignment beyond generic delivery and leadership themes. Fit to this category is essentially absent.",
     "level": "Ignored"
   }
 }

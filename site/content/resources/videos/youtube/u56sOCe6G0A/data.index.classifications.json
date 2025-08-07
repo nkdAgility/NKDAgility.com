@@ -1390,15 +1390,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "u56sOCe6G0A",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses active management within a Kanban strategy, focusing on workflow optimisation and bottleneck resolution. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The discussion is more aligned with general Kanban practices rather than the specific themes of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 16.269,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is focused on Kanban workflow management, specifically the active monitoring and optimization of work items, WIP, and bottlenecks. It does not mention or imply the Shift-Left Strategy; no reference is made to early integration of testing, security, or compliance, or proactive steps in the SDLC for defect prevention. While 'proactive management' is discussed, it's strictly within the context of Kanban board usage and flow optimization—not as a shift-left quality or security practice. The primary audience is Kanban practitioners, not those exploring Shift-Left strategies. There is negligible overlap with the Shift-Left Strategy’s definition, and thus a low confidence score is warranted.",
+    "reasoning_summary": "This content discusses Kanban workflow management and optimizing flow but does not address Shift-Left Strategy concepts such as early integration of testing, security, or compliance in the SDLC. Only minor thematic overlap exists from general process improvement.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1952,5 +1959,24 @@
     "reasoning": "The content provides a focused discussion on optimizing Kanban workflows through active management, WIP limits, bottleneck resolution, and value delivery. While these practices indirectly support developer agency and continuous improvement, they are framed in standard Kanban/Lean terms without explicit reference to agentic engineering or maximizing human/AI agency. No direct mentions or philosophical exploration of agency, autonomy, ethical AI, or DevOps-Infused Craft are observed. The intent is strongly practical (improving workflows) but lacks depth relating to deliberate agentic engineering design or systemic observability as outlined in the category definition.",
     "reasoning_summary": "This piece thoroughly covers Kanban workflow optimization but does not engage in explicit agentic engineering concepts, autonomy, or AI-human collaboration. Its practical focus aligns partially with the category, but philosophical and systemic agency aspects are missing.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "u56sOCe6G0A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 23.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.5,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content exclusively discusses traditional Kanban practices, focusing on monitoring, bottleneck removal, and workflow optimization—all by humans. There are no references to AI agents, contextual intelligence, human-agent collaboration, agency, or autonomous systems. The depth, alignment, and intent are focused on classic Kanban management, not on agentic principles or AI integration. A minimal score in 'mentions' is given only for general process language intersecting with agentic concepts, but without any supporting substance. The content is aimed at practitioners of Kanban, which mildly overlaps with the target audience of Agentic Software Delivery, but the approach is entirely legacy. No penalties were required, as the content is not outdated for Kanban, nor is it critical or satirical.",
+    "reasoning_summary": "Content focuses solely on standard human-driven Kanban practices. There is no discussion of AI agents, autonomy, or agentic software delivery concepts. Thus, the fit with the Agentic Software Delivery category is very low and incidental at best.",
+    "level": "Ignored"
   }
 }

@@ -40,21 +40,21 @@
   "Technical Excellence": {
     "resourceId": "L7cngB1uzW9",
     "category": "Technical Excellence",
-    "calculated_at": "2025-06-16T10:15:55",
-    "ai_confidence": 63.6,
-    "ai_mentions": 2.7,
-    "ai_alignment": 6.3,
-    "ai_depth": 6.8,
-    "ai_intent": 7.1,
-    "ai_audience": 8.2,
-    "ai_signal": 7.9,
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 56.1,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.9,
+    "ai_depth": 6.1,
+    "ai_intent": 5.8,
+    "ai_audience": 8.0,
+    "ai_signal": 7.5,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 64.0,
-    "reasoning": "The content discusses team dysfunction, mentorship-driven change, improved collaboration, and contextual understanding between product and engineering. While it references 'engineering excellence' and touches on improved technical decision-making and feedback loops, explicit focus on core technical practices like TDD, CI/CD, or modular architecture is minimal. The primary depth is in agile mindset, empowerment, and transformation of work systems; technical excellence is mentioned as an outcome rather than the central theme. The audience is well-targeted (tech leaders, CTOs), and the signal remains strong due to references to quality and throughput. No penalties apply, as the content is current and not contradictory to the frame.",
-    "reasoning_summary": "While the content emphasizes organizational change, mentorship, and agility, it only references technical excellence as an enabled outcome—rather than substantially discussing high-level engineering practices. Its main alignment is through improved delivery and engineering engagement.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content focuses on mentorship, product management, engineering engagement, and organizational agility. 'Engineering excellence' and 'technical leadership' are mentioned, and there is some discussion of improved technical decision-making and feedback loops. However, the core exploration is centered around team structure, collaboration, and mentorship—not the deep practice or principles of technical excellence (like TDD, CI/CD, modular architecture, or emergent design). While the outcomes include 'better technical decisions' and 'engineering excellence,' these are not explored in technical depth. The intent and depth are predominantly around product/people/process transformation, with technical excellence as a secondary beneficiary, not the core topic. The primary audience is technical leaders and practitioners aligned with the category.",
+    "reasoning_summary": "The content only partially fits: while engineering excellence and technical leadership are discussed, the central focus is mentorship, alignment, and organizational change—not a deep dive into technical excellence practices or principles.",
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "resourceId": "L7cngB1uzW9",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' or many of the explicit key terms, hence a low mentions score. However, its core narrative deeply aligns with agentic engineering principles: it promotes decentralised decision-making, empowers both engineers and product owners, uses feedback to drive adaptive change, and stresses the importance of agency over top-down control. The mentorship model exemplifies deliberate design of engineering practices for autonomy and continuous improvement. Although the content focuses primarily on mentorship and organizational change, it consistently addresses how to create environments that foster technical and human agency in product development, which strongly fits the spirit of the category. The audience (tech leaders, engineers, practitioners) aligns well, and the signal-to-noise ratio is high due to its focus on relevant practices. No outdated advise or contradictory tone was found, so no penalties were applied.",
     "reasoning_summary": "The case study describes how immersive mentorship reshaped engineering and product teams to be more autonomous, adaptive, and collaborative. While the label 'Agentic Engineering' is absent, the content's themes and lessons closely align with its core principles of agency, deliberative practice, and decentralised decision-making.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "L7cngB1uzW9",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:13",
+    "ai_confidence": 31.324,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.8,
+    "ai_depth": 4.6,
+    "ai_intent": 3.5,
+    "ai_audience": 7.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content does not mention agentic software delivery or autonomous AI agents; it features a mentorship model improving product management and engineering engagement. There is some conceptual overlap with outcome-driven, adaptive systems and enhancing feedback loops, but no explicit tie to agentic delivery principles involving AI, autonomy, or proactive, context-aware agents. Main themes are organizational change, agile leadership, and people/process re-alignment. Content is aimed at technical leaders, which matches the audience, but does not address agentic integration, governance of agents, or modern engineering automation beyond standard agile/mentorship. No penalties apply, as content is current and tone is neutral or positive.",
+    "reasoning_summary": "Content focuses on mentorship driving agile change and team alignment—not on agentic software delivery or AI agents. Minor overlap via feedback loops and adaptive change exists, but core agentic concepts are missing. Fit is marginal and predominantly indirect.",
+    "level": "Ignored"
   }
 }

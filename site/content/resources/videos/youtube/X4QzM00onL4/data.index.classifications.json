@@ -78,15 +78,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "X4QzM00onL4",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:28:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile methodologies and team alignment rather than DevOps principles. While it briefly mentions collaboration and efficiency, which are relevant to DevOps, it lacks a direct discussion of DevOps as a philosophy or its core practices. The depth of discussion on DevOps is minimal, making it a secondary topic rather than a primary focus.",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 23.043,
+    "ai_mentions": 2.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 3.8,
+    "ai_audience": 6.4,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "DevOps is mentioned once at the end as a sidebar topic, but the content focuses entirely on Agile team alignment and chaos reduction. No DevOps principles, practices, cultural elements, or technical specifics are substantively discussed. The main intent, themes, and actionable strategies all orient toward Agile team management rather than cross-functional DevOps collaboration, automation, or continuous delivery. While the intended audience somewhat overlaps (i.e., Agile/DevOps practitioners), and there is minimal off-topic content, the material does not meaningfully address DevOps as a philosophy or practice. Overall, DevOps is not thematically explored beyond a superficial reference, so confidence is low.",
+    "reasoning_summary": "DevOps is mentioned only peripherally; the content focuses on Agile team alignment, not on DevOps philosophy or practices. The fit is minimal, with little alignment beyond a brief mention.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1968,6 +1975,25 @@
     "final_score": 37.0,
     "reasoning": "The content does not mention 'Agentic Engineering' or directly discuss maximizing human or AI agency. It is centered on Agile team alignment, communication, and efficiency, which are tangentially related to agency but not explicitly treated as such. While some recommendations (visual tools, transparency, collaboration) could indirectly foster autonomy, they are presented as generic Agile best practices without reference to agentic concepts or deliberate engineering for agency. There is no engagement with ethical AI, DevOps-infused craft, systemic observability, or agency-maximizing engineering practices. The target audience (Agile practitioners/team leaders) marginally overlaps, but the content focuses more on practical team management than on philosophical or systemic dimensions that define the category.",
     "reasoning_summary": "This content focuses on improving alignment and reducing chaos in Agile teams. While it encourages clarity, collaboration, and transparency—tangentially supporting agency—there is no discussion of agentic engineering, AI collaboration, or decentralized decision-making, making its fit to the category low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "X4QzM00onL4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 11.98,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused on aligning Agile teams through clear goals, communication, and visualization tools. There is no mention or exploration of agentic concepts such as autonomous AI agents, contextual intelligence, or integration of human and agent expertise. The target audience overlaps in the sense of Agile practitioners, but the topic strictly pertains to team alignment and collaboration rather than agentic software delivery. No key agentic principles, technologies, or governance topics are covered, the discussion remains at the process and human level, not systems or intelligent agents.",
+    "reasoning_summary": "This content addresses Agile team alignment and human collaboration, not the integration of autonomous AI agents or agentic delivery concepts. Only marginally relevant given the audience overlap; fit for the category is very low.",
     "level": "Ignored"
   }
 }

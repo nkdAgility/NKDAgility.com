@@ -73,15 +73,22 @@
     "reasoning_summary": "This content touches on sociotechnical themes by exploring how organisational structures and agile practices influence budgeting and team collaboration. However, its main emphasis is on forecasting and metrics, rather than a deep dive into the integration of social and technical systems. As a result, it only partially fits the sociotechnical category."
   },
   "DevOps": {
+    "resourceId": "fm9Rt6R7JZz",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:07:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on agile project management and forecasting within Scrum, which is not directly aligned with the core principles of DevOps. While it briefly touches on the transition from project-based to product-based budgeting, which could relate to DevOps, the overall discussion lacks depth in DevOps practices, automation, and collaboration. The mention of 'DevOps' is minimal and does not serve as a primary focus, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 33.56,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.8,
+    "ai_intent": 3.5,
+    "ai_audience": 6.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content is focused on agile forecasting, flow metrics, and budgeting in Scrum/agile settings. DevOps is mentioned only once, as part of a shift towards agility and DevOps, but not as a core topic. The main themes discuss agile measurement, lean budgeting, and organisational change, which marginally overlap with DevOps cultural/practical considerations, such as moving towards product-centric teams and greater predictability, but do not deeply explore DevOps-specific principles (automation, CI/CD, cross-functional ops-dev collaboration, etc.). Intent and alignment are weak, as the primary audience is those seeking to improve agile forecasting and budgeting rather than DevOps practitioners per se.",
+    "reasoning_summary": "Content is mainly about agile forecasting/budgeting, with only a brief DevOps mention and weak conceptual connection. Does not discuss DevOps principles, practices, or culture in detail. Fit to 'DevOps' is marginal and secondary to agile topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -2010,6 +2017,25 @@
     "final_score": 22.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent; the terminology and framing focus on agile forecasting, flow metrics, and budgeting methods. While product/team-centric budgeting and process adaptability slightly align with the decentralisation and continuous value ideas in Agentic Engineering, the emphasis is on practical Scrum/Agile management, not maximising agency for humans or AI. There is no exploration of ethical autonomy, developer agency, observability, or agentic decision-making frameworks. Audience and technical focus do create some partial overlap. The bulk of discussion remains about improving forecasting reliability—useful for practitioners but not substantially agentic in design or philosophy.",
     "reasoning_summary": "This content focuses on agile forecasting, metrics, and budgeting within Scrum teams. It discusses some adaptive practices and team autonomy but does not address key agentic engineering themes such as maximising human/AI agency, systemic observability, or ethical integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fm9Rt6R7JZz",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 9.27,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is a practical discussion of Agile forecasting metrics and moving from project-based to team-based budgeting. It covers Scrum, flow metrics, and budgeting but contains zero mention of agency, agentic principles, or AI agents. No contextual intelligence, autonomous software, or human/AI collaboration is discussed. The themes and depth do not align meaningfully with any key aspects of Agentic Software Delivery as defined above. No penalties applied, as the content's tone and ideas are not outdated or contradictory.",
+    "reasoning_summary": "Content discusses Agile metrics and budgeting, not Agentic Software Delivery. Lacks mention of AI agents, integration, or agency. Fit is minimal; falls outside the intended category scope.",
     "level": "Ignored"
   }
 }

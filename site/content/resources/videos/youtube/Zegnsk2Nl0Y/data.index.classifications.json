@@ -1409,15 +1409,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "Zegnsk2Nl0Y",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:49:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and agile teams, discussing its features and benefits without directly addressing the principles or components of the One Engineering System. While it touches on integration and collaboration, it does not provide a comprehensive discussion on the standardisation and unification of engineering practices as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 34.99,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.75,
+    "ai_depth": 2.95,
+    "ai_intent": 3.8,
+    "ai_audience": 8.4,
+    "ai_signal": 6.05,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content exclusively discusses Azure DevOps as a tool for Scrum and Agile teams, focusing on workflow, simplicity, collaboration, and team empowerment. There are no direct references or explicit discussions of 'One Engineering System' (1ES), nor are the principles, integration, or unified processes of 1ES explored. The alignment is partial: Azure DevOps can be part of a 1ES strategy, but this piece discusses only its local team-level benefits rather than broader standardisation, unification, or framework-level practices. The intent is clearly focused on agile enablement rather than the enterprise standardisation purpose central to 1ES. Audience targeting is strong (technical practitioners) and signal-to-noise is decent. There are no outdated practices or contradictory tones evident. Confidence is low due to near absence of connection to core 1ES concepts.",
+    "reasoning_summary": "Primarily discusses Azure DevOps benefits for agile teams with no explicit or substantial connection to One Engineering System topics. Lacks framework-level integration, standardisation, or any direct mention of 1ES. Fit is partial and indirect at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1919,6 +1926,25 @@
     "final_score": 39.0,
     "reasoning": "The content discusses how Azure DevOps supports Scrum Masters and teams by simplifying agile workflows, increasing visibility, enabling collaboration, and supporting feedback loops. While these aspects tangentially relate to team empowerment and value delivery—subthemes within Agentic Engineering—it primarily focuses on tool features, not deliberate engineering practices or systemic agency. There is no explicit discussion of engineering for human or AI agency, autonomy, ethical AI, or decision decentralization. Core philosophical aspects of Agentic Engineering (engineering autonomy, observability, AI as collaborator, DevOps-infused craft) are implied at best. The writing targets technical practitioners, which fits the category’s audience, and signal-to-noise is fair, but the match is moderate rather than strong due to lack of conceptual and depth coverage.",
     "reasoning_summary": "The content addresses team empowerment and agile flow via Azure DevOps, edges toward Agentic Engineering themes, but lacks explicit treatment of agency, engineering decisions, or AI-human collaboration. Its primary focus on tool functionality limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Zegnsk2Nl0Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 23.01,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.9,
+    "ai_intent": 1.7,
+    "ai_audience": 5.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on how Azure DevOps enhances agile workflows for Scrum Masters, highlighting simplicity, integrations, and collaboration. However, it lacks any discussion of autonomous AI agents, context-aware intelligence, or the agentic delivery paradigm. There are mentions of real-time insights and feedback loops, but these are framed within standard tooling and agile principles rather than any agentic or AI-driven approaches. The audience (agile practitioners) overlaps with Agentic Software Delivery, but the topic, themes, and intent do not address the unique aspects of AI agency, agent integration, or contextual intelligence described in the categorisation. Depth and alignment are superficial; there are no direct or indirect references to agency or autonomous agents.",
+    "reasoning_summary": "This content discusses Azure DevOps for Scrum and agile teams, but does not mention or align with agentic software delivery or autonomous AI agents. Any fit is minimal and coincidental due to vague mentions of feedback loops or insights.",
     "level": "Ignored"
   }
 }

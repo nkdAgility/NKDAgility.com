@@ -1326,16 +1326,23 @@
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
+    "resourceId": "Ca_0rw9AUlg",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:56:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile transformations and the importance of focusing on systems rather than culture, which is somewhat related to Agile principles. However, it does not explicitly mention the Agile Product Operating Model or its key topics, such as product management practices or continuous delivery. The primary focus is on cultural transformation rather than the product-oriented mindset central to APOM.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 77.486,
+    "ai_mentions": 2.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.2,
+    "ai_intent": 8.4,
+    "ai_audience": 7.8,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content addresses the importance of shifting organizational systems and structures, deeply aligning with APOM's focus on operational frameworks over mere culture change. While it never uses the explicit term 'Agile Product Operating Model' or directly discusses frameworks like EBM or business/technology roadmaps, its themes—continuous improvement, leadership roles, redefining success metrics, and system-level change—fit conceptual APOM elements. The depth of analysis is moderate-to-high and well developed through examples and actionable advice. The primary audience (organizational change agents, leaders, or agile practitioners) fits the category. The only weakness is lack of specific APOM terminology or comprehensive coverage of some APOM pillars, lowering the 'mentions' score. No obsolete practices or contrarian tone detected, so no penalties applied.",
+    "reasoning_summary": "Content strongly aligns conceptually with APOM (focus on system over culture, iterative system tweaks), though lacks direct mention of category/label or all specific APOM components. Fit is high but indirect, with substantial and relevant discussion.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1953,5 +1960,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or agency are absent, resulting in a low mentions score. However, the content's main thrust is the systemic design of organizational processes, decision-making frameworks, and empowerment—strongly aligning with developer agency and systemic adaptation. It discusses structures that enable autonomy, collaborative decision-making, and feedback-driven change, all matching agentic engineering's conceptual core. The depth is moderate: though it explores system tweaks, decision-making, and leadership's role, it does not delve deeply into technical or AI agency, nor does it analyse DevOps or automation as core competencies. The primary audience of practitioners, leaders, and organizational designers aligns well. Signal-to-noise is high, with nearly all content relevant, but lacking explicit coverage of AI or ethical agentic elements.",
     "reasoning_summary": "This content aligns well with Agentic Engineering by focusing on system changes, empowerment, and decision frameworks in organizations—core to maximizing agency. However, it does not address AI or advanced DevOps aspects, nor explicitly name 'agency,' so confidence is moderate/high but not exceptional.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 13.82,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.55,
+    "ai_depth": 2.15,
+    "ai_intent": 2.4,
+    "ai_audience": 2.25,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content addresses organizational transformation, focusing on changing systems rather than culture to achieve Agile success. There are no explicit or implicit references to agentic software delivery, autonomous AI agents, integration of contextual intelligence, or any related agentic principles. The only partial fit arises from the systemic approach to organizational change, which is a distant conceptual cousin to agentic delivery's focus on embedding intelligence into workflows. The depth is moderate for Agile/systemic change, but lacks any treatment of agentic frameworks, automation, or AI-driven practices. The intended audience (practitioners, leaders interested in transformation) only loosely overlaps with an agentic software delivery audience, but the content is not signal-rich for this category. No penalties are warranted as the content is current and neutral.",
+    "reasoning_summary": "Strong focus on systems change within Agile, but contains no discussion of agentic software delivery, AI agents, or contextual intelligence. Content is unrelated to the category definition beyond remote, generic overlaps in organizational transformation.",
+    "level": "Ignored"
   }
 }

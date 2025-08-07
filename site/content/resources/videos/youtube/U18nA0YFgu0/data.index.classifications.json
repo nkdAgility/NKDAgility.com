@@ -537,15 +537,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "U18nA0YFgu0",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:28:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the impact of wrath in Agile teams, focusing on blame and accountability rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 14.97,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 6.3,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "There is no direct mention or substantive discussion of Test First Development, its principles, test-first practices, or related concepts (e.g., TDD, criteria before implementation). The content focuses on team culture regarding blame and accountability in Agile, with no evidence of alignment to the category definition apart from being aimed at Agile practitioners. Thus, all scoring dimensions are low except audience and signal, which reflect a moderate match with an Agile/technical audience and relatively focused content.",
+    "reasoning_summary": "The content addresses team culture and accountability in Agile, not Test First Development. There are no direct mentions or extended discussion of test-first principles, so fit with the category is minimal.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1996,5 +2003,24 @@
     "reasoning": "The content focuses on psychological safety and accountability in Agile, advocating for learning from mistakes rather than blame. These ideas tangentially align with the agentic theme of empowering team members, yet there is no direct discussion of deliberate engineering practices, DevOps ethos, or human/AI agency. The depth is moderate in its treatment of team culture but lacks explicit connection to the philosophical or systemic principles of Agentic Engineering. The audience and signal scores are higher due to its focus on Agile practitioners, but overall, the fit with 'Agentic Engineering' is limited and largely indirect.",
     "reasoning_summary": "This content centers on promoting accountability and psychological safety in Agile teams. While empowerment and learning are related to agency, the discussion does not explicitly address engineering practices, systemic design for agency, or AI integration, making its alignment with Agentic Engineering moderate at best.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "U18nA0YFgu0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 19.211,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.1,
+    "ai_intent": 3.0,
+    "ai_audience": 5.3,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content directly addresses psychological safety, accountability, and learning within Agile teams, focusing on shifting from blame to a learning culture. However, it makes no mention of autonomous AI agents, contextual intelligence, modern engineering practices, or the integration of AI agents with humans—all core to Agentic Software Delivery. There's also no discussion of agentic governance, feedback loops driven by agents, or any transformation of delivery models through agentic principles. The intent and depth are centered around human team dynamics, not the agentic paradigm. Some general alignment exists in that accountability and learning are important for both agentic and traditional approaches, but the connection is indirect and lacks substance relevant to the category.",
+    "reasoning_summary": "This content focuses on Agile team culture, accountability, and learning, not on agentic principles or AI agents. There is no substantive relevance to Agentic Software Delivery beyond a tangential emphasis on adaptive teams.",
+    "level": "Ignored"
   }
 }

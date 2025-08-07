@@ -87,16 +87,23 @@
     "level": "Secondary"
   },
   "Philosophy": {
+    "resourceId": "cBWi9iKD1Sa",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Agile Product Operating Model and its principles, which touch on the philosophy of aligning organisational practices with customer value. However, it primarily focuses on practical implementations and methodologies rather than exploring the foundational beliefs or theoretical underpinnings of Agile, Lean, or DevOps philosophies. While there are mentions of concepts like Evidence-Based Management, the overall discussion leans more towards how to apply these ideas rather than a philosophical exploration of their significance.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 84.78,
+    "ai_mentions": 6.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.2,
+    "ai_intent": 8.5,
+    "ai_audience": 9.1,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 85.0,
+    "reasoning": "The content consistently references foundational beliefs (e.g., value, outcomes, product vs. project ethos, continuous learning, and transparency) that underpin agile methodologies. It discusses 'why' and 'what' through the theoretical contrast of product vs. project thinking, the importance of culture, values, and evidence-based management. It avoids detailed procedural steps, focusing instead on frameworks and philosophical underpinnings of organisational change. Mentions of Evidence-Based Management, culture, and beliefs are explicit and central. Depth is strong due to coverage of principles, models, and mindset shifts. The intent is educational and strategic, fitting audience needs (organizational leaders, strategists) aligned with philosophy over tactics. Nearly all content is signal, with little to no off-topic or technical noise.",
+    "reasoning_summary": "This content fits well in Philosophy, focusing on core beliefs, ethos, and values behind Agile Product Operating Models, with deep discussion of 'why' and conceptual alignment, not technical details or how-tos. Intent and audience match the philosophical theme.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3136,6 +3143,25 @@
     "final_score": 19.0,
     "reasoning": "The content thoroughly discusses Agile Product Operating Models, focusing on human team collaboration, outcome-driven product strategy, and evidence-based decision-making. While it explores elements like organizational learning, transparency, and distributed decision-making—topics somewhat adjacent to collective intelligence—it never mentions or explores human-AI collaboration, hybrid cognition, or the emergence of new capabilities through human-AI partnerships. No AI agency, partnership, or collaborative dynamic with AI is present. Although it emphasizes team collaboration and organizational alignment, these are solely human-centric, and there’s no intent or conceptual alignment with collective intelligence as defined (integration of human and AI strengths). Thus, the confidence in classifying this content under 'Collective Intelligence' is very low, with minimal direct relevance.",
     "reasoning_summary": "The content focuses exclusively on human-centric agile product management, with strong discussions on team collaboration and evidence-based practices. There are no mentions or implied themes of human-AI collaboration or collective intelligence as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cBWi9iKD1Sa",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 17.554,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 5.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There are no direct mentions or explicit discussion of autonomous AI agents, contextual intelligence, or agentic principles as defined in the category. The focus is on agile, product management, and Evidence-Based Management. Discussion is deep about operating models and agile governance, but lacks any references to AI, agency, human-agent collaboration, or agentic software. Audience and relevance are moderately aligned (tech leaders, agile practitioners), but content does not address agentic delivery concepts—no coverage of autonomous agents or intelligence embedded in workflows.",
+    "reasoning_summary": "Content covers agile product models and Evidence-Based Management, but does not address agentic software delivery or autonomous AI agents. Direct and conceptual fits are low; any overlap is tangential. Not a true fit to category.",
     "level": "Ignored"
   }
 }

@@ -24,16 +24,23 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Product Development",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:29",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 50,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Product Development, which incorporates Agile, Lean, and DevOps practices, but it does not focus specifically on any framework or provide detailed insights into their implementation or comparison. While it mentions the importance of collaboration and continuous improvement, it lacks a structured discussion on specific frameworks or methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 34.825,
+    "ai_mentions": 2.6,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.9,
+    "ai_intent": 3.2,
+    "ai_audience": 6.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content discusses systematic, iterative Product Development concepts and their alignment with Agile, Lean, and DevOps philosophies, but it does not directly cover specific frameworks, their guidelines, or comparative analysis as required by the Framework category. The term 'framework' is mentioned once, but as a general construct, not as a named, structured methodology with rules or principles. There is some conceptual overlap (e.g., reference to continuous improvement, adaptation, sustainable value), but the discussion remains focused on the process of Product Development as a philosophy or approach rather than as a framework. There are no direct mentions of specific frameworks, their implementation, or best practices, and the content does not target an audience explicitly seeking framework guidance.",
+    "reasoning_summary": "Mainly describes Product Development process and philosophy; lacks explicit focus on frameworks, their implementation, or comparison. Partial thematic overlap but not a direct or full fit for the Framework category.",
+    "level": "Ignored"
   },
   "Tenet": {
     "category": "Tenet",
@@ -3115,6 +3122,25 @@
     "final_score": 10.0,
     "reasoning": "The content describes foundational concepts in product development with an emphasis on practices like Agile, Lean, and DevOps, and touches on collaboration among cross-functional human teams. However, it does not mention or discuss human-AI collaboration, distributed cognition with AI, or collective intelligence as defined in the category. No references are made to AI agency, human-AI partnerships, or any frameworks enabling humans and AI to work together to enhance cognitive outcomes. The alignment and depth are minimal because the discussion is focused exclusively on human-driven collaboration with standard product and team improvement frameworks. Thus, the content has negligible fit with the Collective Intelligence category.",
     "reasoning_summary": "This content outlines general product development processes focused on human team collaboration, with no explicit or implicit reference to human-AI partnerships or collective intelligence as defined by the category. Alignment is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 24.56,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.25,
+    "ai_depth": 2.35,
+    "ai_intent": 2.6,
+    "ai_audience": 3.55,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content does not explicitly mention Agentic Software Delivery, AI agents, or autonomous systems. It discusses iterative product development, feedback loops, and practices like Agile, Lean, and DevOps, which overlap with some enabling practices for agentic delivery but lack any reference to autonomous agents, context-aware intelligence, integration of AI with human expertise, agency, or specific agentic frameworks. Intent and depth focus on general, human-driven product development rather than embedded, proactive AI support or agency. Audience is slightly aligned (practitioners/engineers), but the topic is generic and not agentic. The signal is moderately high due to relevance to modern software delivery, but content does not address key agentic themes.",
+    "reasoning_summary": "The content describes general product development using Agile/DevOps but does not mention or align with agentic delivery, autonomous agents, or AI integration. Fit is minimal; only indirect overlap exists via iterative improvement and feedback.",
     "level": "Ignored"
   }
 }

@@ -801,15 +801,22 @@
     "level": "Tertiary"
   },
   "Test First Development": {
+    "resourceId": "pErrcS8DxcQ",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:36:07",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses scaling Professional Scrum using Visual Studio Team Services, focusing on team collaboration and automation. While it touches on automation, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the core themes of Test First Development, making it a secondary topic at best.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 8.399,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 3.7,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on scaling Scrum practices using Visual Studio Team Services, discussing automation, Nexus, practical setup, and team organization. It does not mention Test First Development directly or indirectly, nor does it explore principles of defining success criteria before implementation, test-driven processes, or transitioning from manual to automated testing. There is no substantial thematic or conceptual overlap with the Test First Development category, and any automation references are about workflow/orchestration, not about testing practices or philosophies central to the category.",
+    "reasoning_summary": "Content is about Scrum scaling and tooling, not Test First Development; lacks any discussion of test-first principles, practices, or related themes. Only minimal indirect overlap through general automation. Not a fit for the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -2004,6 +2011,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on scaling Scrum with Visual Studio Team Services—discussing tooling setup, Nexus integration, and automation practices. Direct mentions of 'Agentic Engineering' or its framing are absent. Some concepts (like leveraging automation and reducing manual tasks) tangentially align with DevOps and agency, but the deep philosophical and systemic agentic principles (feedback-driven adaptation, decision decentralization, AI/human autonomy) are not addressed or explored. The main purpose is practical tooling guidance, not engineering practices maximizing agency for humans or AI. The audience is technical and overlaps with Agentic Engineering's audience, and the signal-to-noise is moderate, but the core category themes are not centrally reflected.",
     "reasoning_summary": "Although the content briefly touches on automation and orchestration in scaling Scrum, its primary focus is practical tooling rather than the core themes of Agentic Engineering, such as maximizing human and AI agency or ethical, feedback-driven engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pErrcS8DxcQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 13.7875,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 2.5,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on scaling Scrum via Visual Studio Team Services, discussing automation and orchestration for Scrum at scale. However, it never mentions agentic concepts such as autonomous AI agents, contextual intelligence, or agent/human synergy in software delivery. Automation is referenced, but only in the generic sense of process automation and orchestration (CI/CD, tool setup), not in the context of proactive, context-aware agents or systems. The depth remains at practical usage and tool configuration for Scrum/Nexus, without thematic alignment to the agentic software delivery paradigm. The primary audience is practitioners interested in Scrum scaling, not those centered on agentic delivery. Only a faint conceptual overlap appears (automation as a modern practice), but there is no substantial or explicit connection to agentic themes, rendering the overall fit weak.",
+    "reasoning_summary": "This content concerns scaling Scrum with automation in Visual Studio Team Services. It lacks any references to agentic software delivery, autonomous AI agents, or related concepts and does not fit the category except for a distant overlap on automation practices.",
     "level": "Ignored"
   }
 }

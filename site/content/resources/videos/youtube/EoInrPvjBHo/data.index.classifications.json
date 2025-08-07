@@ -1393,17 +1393,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "EoInrPvjBHo",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:09",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the role of the Product Owner in Agile, emphasising the importance of fostering team engagement, collaboration, and empowerment, which aligns well with the principles of social technologies. It highlights the negative impact of micromanagement on team dynamics and advocates for a focus on vision and value delivery, which are core themes of the category. However, while it touches on relevant topics, the primary focus is on the pitfalls of Agile Banditry rather than a comprehensive exploration of social technologies themselves.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the category as it explores how Agile Product Owners can use social technologies to boost team engagement and collaboration. It also addresses the drawbacks of micromanagement, reinforcing the value of empowerment and shared vision. However, its main emphasis is on the challenges of misapplied Agile practices, rather than providing an in-depth look at social technologies."
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 87.76,
+    "ai_mentions": 6.6,
+    "ai_alignment": 9.2,
+    "ai_depth": 8.8,
+    "ai_intent": 8.2,
+    "ai_audience": 8.8,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 88.0,
+    "reasoning": "The content explicitly discusses the dangers of micromanagement (rigid, top-down control) and advocates for Product Owners to focus on vision, value, team empowerment, and collaboration. These are core aspects of Social Technologies—enabling self-organisation, transparency, and emergent problem-solving within Agile teams. The article gives practical examples (case study, actionable steps) highlighting the shift from old, control-heavy habits to facilitation, collective intelligence, and adaptive value delivery. The discussion is substantial and explores intent, practical impact, and organisational culture. It targets practitioners in Agile, directly matching the expected audience. Minor markdown on direct mentions since the phrase 'social technologies' isn’t used, but conceptually the alignment and depth are strong. No penalties: all discussion supports the framing, it is current and relevant.",
+    "reasoning_summary": "This content directly explores key Social Technologies themes—promoting team empowerment, collaboration, and adaptive value delivery in Agile. While not named explicitly, the fit is strong. The purpose, audience, and topic all closely align to the category.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1998,5 +2004,24 @@
     "reasoning": "The content directly addresses themes of autonomy, empowerment, vision, value, and relinquishing micromanagement—central to developer agency within Agentic Engineering. The advice to shift from control to enabling self-organizing teams strongly aligns with maximizing human agency. Depth is good, focusing on principles and practical changes, but discussion on systemic observability, DevOps, or explicit agentic design is limited. The content targets Agile practitioners and product leads, matching the audience. No penalties applied since it's current and not satirical.",
     "reasoning_summary": "This content closely matches Agentic Engineering's focus on agency, empowerment, and outcome-driven practice, especially by discouraging micromanagement and supporting team autonomy. While lacking details on engineering or AI integration, its strong alignment with human agency makes it a relevant fit.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "EoInrPvjBHo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 23.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 8.3,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on Agile anti-patterns (micromanaging Product Owners) and advocates empowering teams, outcome focus, and engagement. However, it does not discuss autonomous AI agents, context-aware intelligence, agentic frameworks, or software delivery augmented by AI. There is no mention or exploration of agentic software delivery principles, nor integration of AI or automation in delivery. Audience and relevance scores are relatively higher as the target is practitioners in delivery process improvement, but there is near-zero alignment with the agentic dimension.",
+    "reasoning_summary": "The content is strictly about Agile team empowerment, not Agentic Software Delivery. It lacks discussion of AI agents, contextual intelligence, or synergy with human and organizational context, thus fit is minimal and unclear.",
+    "level": "Ignored"
   }
 }

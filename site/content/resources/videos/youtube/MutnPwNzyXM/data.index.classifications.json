@@ -1411,15 +1411,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "MutnPwNzyXM",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:23:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions 'agile' and 'scrum' towards the end, but the primary focus is on the challenges of delivering value beyond contractual obligations rather than on Scrum principles or practices. While it touches on themes of customer collaboration and value delivery, it lacks detailed discussion on Scrum roles, events, or artifacts, which are central to the category.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 30.15,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.3,
+    "ai_intent": 4.3,
+    "ai_audience": 5.5,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on flexible, value-driven consulting versus rigid contracts, which broadly resonates with agile values but does not specifically center on Scrum. There is only a direct mention of Scrum in the closing call to action (embedded in a list with agile and DevOps), not integrated into the discussion or themes. There are no direct references to Scrum frameworks, roles, events, or artifacts, nor does the content engage the core Scrum practitioner audience in a focused way; it instead speaks from a general agile or consulting perspective. Depth into Scrum is absent, and the primary intent is to share a consulting lesson rather than to inform or support Scrum-based work. The callout of agile and Scrum is superficial, leading to a low confidence of true fit.",
+    "reasoning_summary": "Scrum is mentioned only in passing; the main focus is value-driven consulting and contracts—not Scrum’s framework, roles, or practices. While tangentially relevant to agile principles, the fit to the Scrum category is weak and partial.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1982,6 +1989,25 @@
     "final_score": 32.0,
     "reasoning": "The content centers on rethinking consulting contracts in favor of flexible, value-driven relationships but does not discuss or even reference 'Agentic Engineering.' There is no direct mention, and the conceptual alignment is only partial; the text does advocate for consultant autonomy and adaptive delivery, which hints at developer agency and continuous value. However, it lacks discussion around systems design, feedback-driven adaptation, AI integration, or DevOps philosophy. The depth regarding agentic topics is shallow, intent is tangential, but the audience (technical, agile, DevOps-oriented) somewhat aligns. Signal-to-noise is moderate due to focus on client value over contractual compliance, but not on engineering agency.",
     "reasoning_summary": "This content emphasizes value-driven, adaptive consulting over rigid contracts, touching on autonomy and client needs. However, it does not engage with the core principles or terminology of Agentic Engineering, making its fit only marginal and largely tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MutnPwNzyXM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 7.38,
+    "ai_mentions": 0.15,
+    "ai_alignment": 0.65,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 2.25,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content explores value-driven consulting, flexible contracts, and a customer-centric approach, but does not mention or discuss agentic software delivery, autonomous AI agents, or related engineering practices. There is no explicit or implicit link to the integration of AI, contextual intelligence, or agency in software delivery as defined for the category. Audience and signal scores are very low due to lack of focus on technical/agentic themes or practices. No penalties are necessary as there are no contradictions or outdated statements.",
+    "reasoning_summary": "This content does not relate to agentic software delivery: it discusses agile consulting, contracts, and value delivery, not AI agents or their integration in software delivery. Minimal to no alignment with the category definition.",
     "level": "Ignored"
   }
 }

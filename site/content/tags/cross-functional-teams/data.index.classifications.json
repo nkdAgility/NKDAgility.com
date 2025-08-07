@@ -24,17 +24,23 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Cross Functional Teams",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Cross Functional Teams within the context of Agile, Lean, and DevOps, which aligns with the Framework category. However, it primarily focuses on the concept of team composition and collaboration rather than providing a structured methodology or detailed implementation strategies for frameworks. While it touches on the importance of these teams in delivering value and fostering a culture of continuous improvement, it lacks a comprehensive exploration of specific frameworks or their adaptability in various organisational contexts.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the Framework category as it explores Cross Functional Teams in Agile, Lean, and DevOps settings. However, it mainly highlights team dynamics and collaboration rather than outlining a specific framework or offering detailed implementation guidance. While it underscores the value of such teams, it doesn’t delve deeply into structured methodologies or their application across different organisations."
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 47.9,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.9,
+    "ai_intent": 4.2,
+    "ai_audience": 4.3,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content centers on the concept, structure, and benefits of Cross Functional Teams within Agile, Lean, and DevOps domains. However, it does not discuss frameworks per se (such as Scrum, SAFe, or Kanban), nor does it address guidelines or rules for implementing these teams through formally defined methodologies. There's an implicit link in how cross-functional teams support framework principles, but direct mentions of frameworks, comparisons, or best practices for adapting frameworks are lacking. The depth is decent on the team's role and value but remains conceptual, not extending to framework structure or adaptation. The intent is informative for practitioners but is more broadly about team composition than about frameworks themselves.",
+    "reasoning_summary": "This content discusses team structure in Agile and DevOps but does not specifically address or analyze frameworks. It generally aligns with framework principles but lacks direct focus on framework structure, guidelines, or adaptability.",
+    "level": "Tertiary"
   },
   "Tenet": {
     "category": "Tenet",
@@ -3122,6 +3128,25 @@
     "final_score": 18.0,
     "reasoning": "The content thoroughly explores the concept of cross-functional teams within Agile, Lean, and DevOps, focusing on human collaboration, diverse skills, and collective problem-solving. However, there are no explicit references to human-AI collaboration, AI agents, or collective intelligence as defined by this category. All collaboration discussed is among humans, with no mention of AI partnership, distributed cognition between humans and machines, or socio-technical frameworks involving AI. Because of this, the conceptual alignment and depth scores are low, despite strong relevance for Agile practitioners. The relatively high signal and audience scores reflect focus and appropriate targeting, but do not compensate for the lack of direct fit with the collective intelligence definition.",
     "reasoning_summary": "This content describes the value of cross-functional human teams in Agile settings but does not discuss human-AI collaboration or collective intelligence per the defined category, making alignment low despite relevance to the intended audience.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Cross Functional Teams",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 21.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 6.9,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is focused on the concept of cross-functional teams in Agile, Lean, and DevOps but does not directly mention Agentic Software Delivery or autonomous AI agents. While it discusses collaboration, end-to-end value delivery, and continuous improvement, it lacks any references to AI, agent integration, contextual intelligence, or modern agentic practices. Therefore, alignment and depth regarding the target category are low. The audience is somewhat relevant—practitioners and technical staff—but the topic is general Agile rather than agentic delivery. No outdated material or critical tone is present.",
+    "reasoning_summary": "The content discusses Agile cross-functional teams with no mention of agentic principles, AI agents, or contextual intelligence. Fit is weak—topic and intent only partially overlap with Agentic Software Delivery. Alignment is mostly tangential.",
     "level": "Ignored"
   }
 }

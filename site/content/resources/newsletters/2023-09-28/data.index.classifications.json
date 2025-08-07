@@ -1389,16 +1389,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "GdoDhtTM-Rn",
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:17:53",
-    "ai_confidence": 47.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 50,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are related to Scrum but not exclusively about it. While there are mentions of roles like Product Owners and references to Scrum teams, the depth of discussion on Scrum principles and practices is limited. The content does not delve into the Scrum framework, events, or empirical process control, which are core themes of the category. Therefore, while there is some alignment, it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 62.42,
+    "ai_mentions": 5.7,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.7,
+    "ai_intent": 6.1,
+    "ai_audience": 7.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The main webcast focuses on Product Ownership and Lean Product Development, with little direct discussion of Scrum principles, frameworks, or events. Scrum is mentioned explicitly in training/course listings (e.g., Scrum Masters, Scrum Teams), and some audience targeting aligns with Scrum practitioners. However, the primary webcast does not deeply explore Scrum, only referencing adjacent concepts (Product Owner role) and agile themes. Courses/support for Scrum roles (like Scrum Master and Scrum Team) raise relevance, and the secondary content supports moderate fit. There is modest conceptual alignment, but depth and direct mentions for Scrum are lacking in the primary content—it is not a sustained, in-depth discussion of Scrum per se.",
+    "reasoning_summary": "Content references Scrum and related roles (e.g., Scrum Master, Scrum Team) in course listings and audience calls but primarily focuses on Lean/Product Ownership. Scrum fit is moderate and indirect rather than central or deep.",
+    "level": "Secondary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1959,6 +1966,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on product ownership and lean product development, with some mention of actionable strategies for teams and developers. However, it does not reference agentic engineering directly or delve into maximizing human/AI agency, observability, ethical AI, or DevOps-infused craft. The intent is generic knowledge sharing relevant to lean/agile, not the design of agency-maximizing engineering practices. Only minimal surface overlap exists with the Agentic Engineering category.",
     "reasoning_summary": "This content centers on lean product development and product ownership best practices. It is broadly relevant for technical and practitioner audiences but does not address agentic engineering topics such as maximizing agency, ethical AI, or feedback-driven autonomy. Alignment is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GdoDhtTM-Rn",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 11.425,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.9,
+    "ai_audience": 2.4,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content solely discusses product ownership, lean product development, training, and agile topics. There are no explicit or implicit references to autonomous AI agents, contextual intelligence, agentic principles, or the integration of AI in delivery. All themes center on traditional product and agile practices, targeting an audience interested in lean/agile but not agentic software delivery. No obsolete practices or oppositional tone are present. The scores reflect that this is off-topic and only faintly aligned on generic delivery process relevance.",
+    "reasoning_summary": "This webcast and announcement focus entirely on product ownership, lean/agile practices, and general training, with no links to agentic software delivery, AI agent integration, or contextual intelligence. Fit is highly marginal.",
     "level": "Ignored"
   }
 }

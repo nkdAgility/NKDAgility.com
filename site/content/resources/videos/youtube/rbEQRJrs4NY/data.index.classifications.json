@@ -18,15 +18,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "rbEQRJrs4NY",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on product development and user feedback rather than DevOps principles. While it touches on the importance of user engagement and validation, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to DevOps. The mention of user feedback aligns somewhat with the feedback loops in DevOps, but the overall depth and focus do not sufficiently meet the criteria for a strong alignment with the DevOps category.",
+    "calculated_at": "2025-08-07T06:10:14",
+    "ai_confidence": 20.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 7.4,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on the importance of real user feedback in validating product assumptions and guiding value delivery, which loosely aligns with themes like continuous improvement and incorporating feedback—both valued in DevOps. However, it does not explicitly discuss DevOps philosophy, practices, or principles like automation, flow efficiency, shared accountability, or cross-functional collaboration. No direct mention of DevOps appears, and the depth is limited to product development techniques. While the content's audience may overlap with DevOps practitioners (product teams, developers), it is not targeted specifically at a DevOps audience nor does it convey core DevOps concepts.",
+    "reasoning_summary": "The content is about product development and real user feedback, not DevOps. While feedback is also valued in DevOps, there is no direct or explicit alignment with the DevOps category definition.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1889,6 +1896,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on the importance of real user feedback in product development and iterating based on empirical evidence. It aligns partially with Agentic Engineering's emphasis on feedback-driven adaptation and value delivery. However, there are no direct mentions or deep exploration of agency (human or AI), systemic observability, ethical AI, or decentralised decision-making. The main intent is product value realisation, not the philosophical or structural shifts of Agentic Engineering. Audience overlap exists for practitioners, but the focus is too generic and lacks explicit Agentic Engineering concepts, practices, or terminology.",
     "reasoning_summary": "This content emphasizes iterative learning from user feedback in product development, partially touching on empiricism, but lacks explicit discussion of agency, engineering practices, or AI collaboration central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rbEQRJrs4NY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:10",
+    "ai_confidence": 13.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.2,
+    "ai_audience": 5.5,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused on incorporating real user feedback into product development. While it mentions feedback loops and validation, there is no explicit or implicit discussion of AI agents, agentic models, or proactive, context-aware intelligence. The themes are generic to product development practices and do not address agentic integration, modern engineering practices for agentic delivery, or human–AI collaboration. Audience overlap exists as product and software teams may be interested in both topics, but direct relevance to Agentic Software Delivery is minimal.",
+    "reasoning_summary": "The article covers user feedback and value in product development but does not address agentic concepts, AI integration, or context-aware automation. It only weakly aligns with Agentic Software Delivery and is mostly off-topic for that category.",
     "level": "Ignored"
   }
 }

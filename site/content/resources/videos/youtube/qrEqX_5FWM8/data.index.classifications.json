@@ -21,15 +21,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "qrEqX_5FWM8",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:35:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on immersive learning techniques within Agile and Scrum training, with only a brief mention of DevOps at the end. While it discusses concepts like feedback loops and collaboration, which are relevant to DevOps, the main emphasis is on educational methods rather than the principles and practices of DevOps itself. Therefore, the confidence score reflects a low primary focus on DevOps.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 18.5,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content's primary focus is immersive learning in Agile and Scrum training, not DevOps philosophy or practice. The only DevOps mention is in a closing sentence, lacking elaboration on DevOps principles, practices, or culture. There are minor indirect overlaps—such as feedback loops and continuous improvement—but these are discussed in the context of Agile learning, not DevOps-specific transformation. The intent and examples target Agile trainers, practitioners, and Scrum students, with DevOps only referenced as an area of possible future discussion, not as part of the main discussion. No penalties were necessary, as the content is not critical of DevOps nor outdated.",
+    "reasoning_summary": "Content focuses on immersive Agile and Scrum learning with a single closing mention of DevOps. Lacks substantive discussion or alignment with DevOps principles, making category fit incidental and confidence low.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1979,6 +1986,25 @@
     "final_score": 35.0,
     "reasoning": "The content primarily discusses immersive learning strategies within Agile/Scrum training, focusing on experiential methods, real-world relevance, and feedback loops for professional development. While there are tangential overlaps with Agentic Engineering (feedback, agency in learning), the core agentic themes—such as engineering practices that maximize human and AI agency, decentralised decision-making, DevOps-infused craftsmanship, or ethical AI collaboration—are not directly addressed. No direct mentions or substantial conceptual alignment with Agentic Engineering are present, and the discussion does not explore technical, systemic, or philosophical aspects of agency in software engineering or value delivery. Therefore, confidence is low for this strictly defined category.",
     "reasoning_summary": "The piece centers on immersive strategies for Agile/Scrum learning, emphasizing real-world application and feedback. However, it lacks direct engagement with the deliberate engineering of agency in people or systems, so only loosely aligns with the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qrEqX_5FWM8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 7.308,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.1,
+    "ai_intent": 0.4,
+    "ai_audience": 4.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content exclusively centers on immersive learning practices in Agile and Scrum training. There are no direct or indirect references to agentic software delivery, autonomous AI agents, contextual AI integration, or related frameworks. Depth, alignment, and signal are minimal, as the article remains strictly pedagogical without technical or agentic themes. The audience is broadly relevant, as practitioners interested in Agile could overlap with those exploring agentic delivery, but there is no explicit linkage. No penalties were needed as the content is not outdated or contradictory.",
+    "reasoning_summary": "This article is about immersive learning in Agile training, not agentic software delivery. It does not address AI, autonomous agents, or any context-aware systems. No relevant alignment or mentions; fit is effectively nonexistent.",
     "level": "Ignored"
   }
 }

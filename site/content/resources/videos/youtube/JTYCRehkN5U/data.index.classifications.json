@@ -1495,15 +1495,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it delves into technical excellence, continuous improvement, and managing technical debt—all crucial for building and demonstrating skill in Agile teams. By offering practical examples and clear guidance, it emphasises how maintaining high standards directly supports trust and quality outcomes."
   },
   "One Engineering System": {
+    "resourceId": "JTYCRehkN5U",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:33:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile development and technical excellence, with no direct mention of the One Engineering System (1ES). While it discusses principles that could align with 1ES, such as quality and risk mitigation, it does not delve into the integration of tools or processes across teams, which is central to 1ES. The examples provided, including the Azure DevOps transformation, are relevant to Agile practices rather than the unified engineering framework of 1ES.",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 36.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.7,
+    "ai_intent": 3.9,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The article centers on technical excellence in Agile, highlighting concepts like Definition of Done, technical debt, and team practices using the Azure DevOps team's transformation as a case study. However, it never mentions One Engineering System (1ES) by name or refers directly to unified system principles, tooling integration, or standardized cross-team engineering frameworks as defined for the category. The Azure DevOps example comes closest but focuses on practices rather than explicit 1ES themes. The intent, depth, and audience overlap with 1ES just partially, mostly because the core message is about technical quality—not integrated, standardized engineering processes at scale. No penalties apply.",
+    "reasoning_summary": "Content discusses technical excellence in Agile (quality, debt, Definition of Done) but does not mention One Engineering System or unified frameworks. There’s only minor conceptual overlap; fit with the 'One Engineering System' category is weak and indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2013,5 +2020,24 @@
     "reasoning": "There are no direct references to 'Agentic Engineering' or explicit discussions about maximising human and AI agency. However, the content emphasizes technical excellence, iterative delivery, reducing technical debt, feedback cycles, and developer empowerment—all conceptually adjacent to agentic practices. Depth is reasonable in exploring enabling conditions (e.g. Definition of Done, continuous improvement), yet the philosophical, ethical, and AI-augmentation aspects central to Agentic Engineering are mostly absent. The audience focus on practitioners and engineering teams matches, but noise is introduced due to the lack of explicit agentic framing. No penalties apply for outdated guidance or contradictory tone.",
     "reasoning_summary": "The content aligns tangentially with Agentic Engineering through its emphasis on technical excellence, iteration, developer responsibility, and value delivery, but lacks explicit focus on maximizing human and AI agency or ethical/agentic frameworks. Fit is adjacent but not direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JTYCRehkN5U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 26.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 3.0,
+    "ai_intent": 3.3,
+    "ai_audience": 5.3,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on technical excellence, the definition of Done, reducing technical debt, and Agile delivery practices, especially using the Azure DevOps case. It aligns with modern software engineering but lacks any explicit or substantive reference to autonomous AI agents, agentic principles, contextual intelligence, or autonomous agency. While there are analogies to improving systems of work and continuous delivery, none of the key topics (AI agents, agency, human-agent synergy, governance of agentic systems) are discussed, either directly or indirectly. The intended audience (Agile/DevOps teams) somewhat overlaps with the category's target, but the substance does not demonstrate conceptual or practical application of agentic software delivery.",
+    "reasoning_summary": "Content covers technical excellence in Agile/DevOps and modern delivery but does not reference agentic principles or AI autonomy, so it does not fit the 'Agentic Software Delivery' category beyond possible distant relevance.",
+    "level": "Ignored"
   }
 }

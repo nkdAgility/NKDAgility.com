@@ -539,15 +539,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "poyC7fUGitC",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:49:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on values and practices of Agile development rather than specifically addressing Test First Development. While there are mentions of delivering working software and collaboration, these concepts do not directly align with the principles of Test First Development, such as defining success criteria or the specifics of TDD and ATDD. The content lacks depth in discussing the Test First approach, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 12.786,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.1,
+    "ai_audience": 6.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is the Agile Manifesto, which outlines general Agile principles but does not directly mention Test First Development or its practices. There is minor conceptual overlap (e.g., continuous attention to technical excellence, focus on quality), but these are not explicitly discussed in a Test First context. No principles or examples of defining tests, success criteria before code, or related practices (TDD, ATDD) appear. The main audience (software practitioners) overlaps but the content is too broad and not focused on Test First. No penalties were required, as the content is neither outdated nor contradictory.",
+    "reasoning_summary": "This content provides foundational Agile principles and values but does not address or discuss Test First Development or its practices. Conceptual overlap is minimal and indirect; fit with the category is very low.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2008,5 +2015,24 @@
     "reasoning": "The Agile Manifesto prioritizes autonomy (self-organizing teams, trusting individuals, motivated individuals with support), continuous delivery, and feedback-driven adaptation—elements aligned with Agentic Engineering. However, it does not mention 'Agentic Engineering' directly, nor does it discuss AI agency, ethics, or systemic observability explicitly. The depth is solid regarding human agency and decentralized decision-making but lacks explicit discussion of AI or ethical system co-design. The audience targets software professionals, matching the category. The signal is high but limited relative to the narrower, modern framing of Agentic Engineering.",
     "reasoning_summary": "This content strongly aligns with Agentic Engineering principles on human autonomy and continuous value delivery. However, it lacks explicit discussion of AI agency, observability, or ethical autonomy, focusing primarily on foundational Agile values and practices.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "poyC7fUGitC",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 19.43,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.85,
+    "ai_depth": 1.75,
+    "ai_intent": 2.35,
+    "ai_audience": 5.15,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The Agile Manifesto focuses on values and principles foundational to modern software development, such as collaboration, adaptability, and continuous delivery. However, it does not mention or explore agentic software delivery, autonomous AI agents, context-aware intelligence, or human-agent synergy. It predates the concept entirely. The closest thematic overlap is in continuous delivery and self-organizing teams, which are prerequisites for agentic systems, but there is no substantive alignment. Audience alignment and signal scores are relatively higher because the content is technical and cleanly relevant to practitioners, but not specifically to agentic paradigms. No penalties were needed, as there's no outdated or contradictory tone for the given context.",
+    "reasoning_summary": "This content is foundational to agile but contains virtually no explicit or conceptual coverage of Agentic Software Delivery. It partially fits only as background context for modern delivery models, not as a direct or deep discussion of the category.",
+    "level": "Ignored"
   }
 }

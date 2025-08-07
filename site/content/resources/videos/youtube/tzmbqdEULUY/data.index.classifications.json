@@ -520,15 +520,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "tzmbqdEULUY",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:40:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no direct mention or discussion of Test First Development principles. While it touches on planning and preparation, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The depth of discussion regarding Test First Development is virtually non-existent, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 3.87,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 3.0,
+    "ai_audience": 8.9,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "There are no direct mentions or implicit framing of Test First Development concepts. The content focuses entirely on minimising downtime and maximising productivity during data migration, covering planning, dry runs, and use of Git, but these are not explored through the lens of defining success criteria before implementation or the core principles of Test First. No automated or manual test-first practices, success criteria, or design/testing collaboration topics are present. While the audience could overlap with that of Test First Development (technical practitioners), all major scoring points directly related to the category's definition are essentially missing or misaligned.",
+    "reasoning_summary": "This content does not discuss Test First Development or related practices. Its focus is on data migration and productivity rather than defining tests before implementation. Alignment with the category is minimal and indirect.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1948,6 +1955,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on practical, strategic approaches to data migration, with strong emphasis on minimising downtime and maintaining engineer productivity. It highlights decentralised work practices—e.g., Git for offline collaboration—which align conceptually with agency and autonomy, but does not explicitly reference Agentic Engineering or expound upon its philosophical or systemic aspects. There is mild thematic alignment with developer agency and adaptive planning; however, the discussion lacks depth regarding decision-making frameworks, observability, AI collaboration, or value delivery as defined by Agentic Engineering. The target audience (engineering practitioners) is appropriate, but the focus is entirely operational and tool/process-centric, not on the deliberate design of engineering practices for maximising agency. Consequently, alignment and depth scores are moderate, with low direct mention. No penalties applied as the tone is supportive, current, and constructive.",
     "reasoning_summary": "This content addresses practical strategies for keeping engineers productive during data migration, with some overlap in themes of autonomy and decentralised teamwork. However, it does not explicitly discuss or deeply explore the principles or practice of Agentic Engineering, making its fit with the category only partial.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "tzmbqdEULUY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 13.576,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.5,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content solely focuses on practical data migration strategies—planning, minimising downtime, using Git, dry runs, timing, and efficient communication. While modern tooling (Git, Azure DevOps) and expert support are mentioned, there are no references (explicit or implicit) to agentic software delivery concepts: no mention of autonomous AI agents, contextual intelligence, agent/human synergy, modern agentic engineering practices, feedback loops, or governance of agent behavior. The main audience (engineering managers, ops) overlaps with agentic delivery, but the thematic and conceptual fit is very weak. There is no surface discussion of intelligent agents, agency, or systematic agent-powered delivery. Thus, the content barely aligns with the category, yielding a very low confidence score.",
+    "reasoning_summary": "The content is about practical data migration and minimising downtime—not agentic delivery. No discussion of AI agents, contextual intelligence, or agency. Minimal thematic and conceptual alignment; category fit is very weak, confidence is low.",
     "level": "Ignored"
   }
 }

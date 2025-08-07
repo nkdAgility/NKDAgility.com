@@ -24,15 +24,22 @@
     "level": "Secondary"
   },
   "DevOps": {
+    "resourceId": "uCFIW_lEFuc",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:35:43",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, which is not directly aligned with the core principles of DevOps. While there are brief mentions of collaboration and feedback loops, the focus remains on Agile methodologies rather than the broader DevOps philosophy. The depth of discussion on DevOps concepts is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 24.44,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.05,
+    "ai_intent": 2.35,
+    "ai_audience": 3.0,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is centered on Agile team dysfunction, with focus areas such as missed deliveries, feedback loops, and bureaucratic deployment processes. While the mention of 'bureaucratic deployment' and closing feedback loops tangentially relate to DevOps principles, the core themes and depth remain on Agile—not DevOps philosophy or practice. DevOps is only briefly referenced in a closing call-to-action, without explanation or exploration. The audience is primarily Agile practitioners, not DevOps specialists. Minimal alignment, shallow depth, and peripheral intent yield low confidence.",
+    "reasoning_summary": "This content is focused on Agile anti-patterns, not DevOps. It only briefly mentions DevOps in a list of related topics at the end, without substantive discussion or alignment with DevOps principles or core audience.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1999,5 +2006,24 @@
     "reasoning": "The content focuses primarily on identifying and addressing sloth in Agile teams, emphasizing issues like delivery cadence, feedback loops, empowerment, and adaptation. While these topics overlap with agency, autonomy, and feedback, the discussion is situated firmly within the context of Agile anti-patterns and does not explicitly engage with Agentic Engineering as a holistic, intentional design discipline. There is minor conceptual overlap—particularly in sections about empowerment, changing requirements, and the need for transparency—but the philosophical foundation and dual human/AI agency characteristic of Agentic Engineering is absent. The audience (Agile practitioners/team leaders) moderately aligns, but there are no direct mentions or extended discussion specifically about Agentic Engineering, leading to a medium-low confidence score.",
     "reasoning_summary": "The article indirectly touches on agency and empowerment in Agile, but its main focus is spotting and fixing team sloth—not the deliberate engineering of agency. There’s only moderate alignment to the category’s deeper principles; relevant but not central, with no explicit Agentic Engineering framing.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uCFIW_lEFuc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 13.94,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.3,
+    "ai_intent": 2.1,
+    "ai_audience": 3.4,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on agile team anti-patterns, particularly how 'sloth' manifests in process rigidity, slow feedback, and lack of adaptability. While it touches on principles tangential to agentic delivery (empowering teams, feedback loops), it contains no explicit or implicit references to integrating autonomous AI agents, agentic system design, or agent-mediated workflows. Most discussion is traditional Agile critique and advice (team empowerment, process change, feedback), not agentic delivery. No obsolete practices or adversarial tone is present, so no penalties. The target audience (Agile enthusiasts, practitioners) has a partial overlap with agentic delivery but the topic/thematic fit is poor.",
+    "reasoning_summary": "This is an Agile anti-patterns piece with no discussion of autonomous agents, agentic delivery, or AI. It does not fit the category—fit is minimal and only very indirectly related.",
+    "level": "Ignored"
   }
 }

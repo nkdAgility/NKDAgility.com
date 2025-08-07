@@ -49,15 +49,22 @@
     "reasoning_summary": "This content is a strong fit for the Tenet category, as it delves into decentralisation and adaptability—central themes in Agile and Lean thinking. It explores how these ideas shape organisational design and decision-making, highlighting collaboration and ongoing improvement. While it focuses on guiding principles rather than strict rules, its alignment with core Tenet topics is clear."
   },
   "Method": {
+    "resourceId": "Beta Codex",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:21:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Beta Codex concept, which focuses on decentralised and adaptive organisational design. While it touches on themes of agility and collaboration, it does not provide specific structured procedures or step-by-step methods that align with the 'Method' category. The discussion is more philosophical and conceptual rather than procedural, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 27.75,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.9,
+    "ai_audience": 4.5,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content centers on 'Beta Codex' as a paradigm shift and philosophy for organisational design, emphasizing decentralization, adaptability, and human-centric approaches. While it references Lean and Agile principles, it does not provide step-by-step procedures or structured methods for achieving goals. Instead, it discusses cultural and systemic attributes, empowerment, and mindsets—all characteristics of a broader framework or philosophy, not a method as narrowly defined by the category. There are no explicit descriptions of concrete techniques or actionable processes. Thus, the conceptual and intent alignment with 'Method' is weak, though the content is partially relevant to practitioners interested in organizational design.",
+    "reasoning_summary": "This content discusses Beta Codex as a philosophy for adaptive, decentralized organizations but does not describe specific methods, procedures, or step-by-step approaches that would fit the 'Method' category as defined.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3133,6 +3140,25 @@
     "final_score": 23.0,
     "reasoning": "The content centers on decentralised, human-centric organizational design (Beta Codex), emphasizing team empowerment, agility, collaboration, and adaptive culture. However, there is no mention or discussion of human-AI collaboration, AI agents, or any explicit framing around collective intelligence as defined. It purely discusses enhanced human collaboration and agility — relevant neighboring themes — but never addresses hybrid human-AI teams, distributed cognition with AI, or collective intelligence emergent from human-AI partnerships. Audience and signal are relatively high, matching practitioners interested in organizational agility, but all direct category touchpoints are absent.",
     "reasoning_summary": "While the Beta Codex content heavily promotes decentralized and agile human collaboration, it lacks any discussion of human-AI partnership or collective intelligence as strictly defined. Therefore, it is only marginally aligned and does not fit under this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Beta Codex",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 22.12,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on organisational design per the Beta Codex, emphasizing decentralization, adaptability, and human-centric practices. While agility, empowerment, and team autonomy overlap conceptually with Agentic Software Delivery, there is no mention of AI agents, contextual intelligence, software delivery processes, technical practices, or human/AI synergy. The primary intent is organisational transformation, not agentic delivery, and the audience skews organizational leaders or transformation agents, not technical practitioners. Some alignment exists due to adaptive and continuous value delivery themes, but no substantial overlap in specifics relevant to Agentic Software Delivery. No penalties applied as the information is current and not contradictory.",
+    "reasoning_summary": "This content discusses decentralised, adaptive organisational design via Beta Codex, with no mention of AI agents or software delivery. Only minor conceptual overlap exists. It does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

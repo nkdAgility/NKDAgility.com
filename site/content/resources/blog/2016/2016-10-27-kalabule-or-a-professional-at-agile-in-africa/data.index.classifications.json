@@ -1485,15 +1485,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it emphasises the value of professionalism and ongoing improvement in the software industry. By critiquing unprofessional behaviours and advocating for Agile principles, it clearly supports the theme of competence, though it could be enhanced with more actionable guidance."
   },
   "One Engineering System": {
+    "resourceId": "yUp0v2lyPX6",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:17:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the misuse of Scrum practices, which does not align with the core principles of the One Engineering System. While it touches on values relevant to software development, it lacks direct references to 1ES, integration of tools, or standardisation of processes, making it peripheral to the category.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 14.302,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 3.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on contrasting unprofessional practices ('kalabule') and professionalism in Agile within the African software industry. There is no direct mention or discussion of One Engineering System (1ES), its framework, standardization, or tool/process integration. While the piece references professionalism and industry values, it does not align conceptually with 1ES's emphasis on unification or engineering integration. No penalty was needed; the content is simply off-topic for the 1ES category.",
+    "reasoning_summary": "No direct or indirect discussion of One Engineering System principles, framework, or integration. Focus is on Agile professionalism, which is unrelated. Content does not fit the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2003,6 +2010,25 @@
     "final_score": 26.0,
     "reasoning": "The content elaborates on professionalism in Agile and denounces unprofessional 'kalabule' practices, focusing primarily on core Agile values such as courage, respect, and commitment. While it mentions 'engineering practices,' it doesn't explicitly discuss the deliberate design of engineering for maximising agency of humans or AI, ethical autonomy, or key agentic engineering topics like systemic observability, DevOps craft, or AI collaboration. The main themes are traditional Agile professionalism and values—only distantly related to Agentic Engineering's purpose. Audience is mostly technical practitioners, which aligns in part, and there is moderate thematic overlap regarding autonomy (via professionalism and values), but not enough for substantive conceptual fit.",
     "reasoning_summary": "This content centers on Agile professionalism and values, with only tangential relevance to Agentic Engineering. It lacks depth on agency, engineering design, or AI collaboration, so confidence is low for this category despite partial audience fit and minor conceptual overlap.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yUp0v2lyPX6",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 11.47,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on professionalism versus 'kalabule' (unprofessional) practices in Agile and Scrum in Africa. It emphasizes values and sound engineering but does not mention or explore autonomous AI agents, agentic delivery, or their integration into software delivery. There are no direct or indirect references to proactive, context-aware intelligence or the embedding of AI in delivery systems. The main audience is those interested in Agility and professional conduct, not specifically those focused on agentic delivery paradigms. As such, only tenuous, coincidental overlap exists with the evaluated category (perhaps in shared interest in professionalism or modern practices), but nothing explicit, deep, or thematic. Signal is low as agentic delivery is never addressed, making fit partial at best.",
+    "reasoning_summary": "This content discusses professionalism in Agile software delivery and condemns cowboy practices but never addresses AI, autonomous agents, or agentic delivery. Its topic and themes do not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

@@ -1449,15 +1449,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "QQA9coiM4fk",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:31:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on DevOps consulting and its practices, which are not directly related to the One Engineering System framework. While it touches on themes of process improvement and cultural change, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide detailed insights into integration across teams or methodologies specific to 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 23.16,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 6.8,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses exclusively on DevOps consulting—covering culture, tools, technical support, and transformation—but makes no mention of One Engineering System (1ES) or its principles. There is no exploration of standardisation or frameworks beyond general DevOps practices. While some elements like tool integration or holistic process improvement are discussed, these are within the generic DevOps context, not 1ES or any comparable unified system. The audience (technical and organisational leaders) aligns partially with 1ES, but the lack of conceptual specificity significantly weakens the fit. No penalties apply as content is current and not critical of 1ES.",
+    "reasoning_summary": "Content addresses DevOps consulting topics but never references or aligns with One Engineering System's framework, standardisation, or principles. No mention or in-depth discussion of 1ES, so the fit with this category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1959,6 +1966,25 @@
     "final_score": 37.0,
     "reasoning": "The content primarily focuses on DevOps consulting—discussing process improvement, cultural change, and tooling agnostic practices. While it does mention themes adjacent to agency (such as cultural shifts, continuous improvement, and non-prescriptive guidance), it never explicitly addresses agency, agency maximisation, the integration of human and AI agency, or decision-making frameworks oriented around agentic principles. Technical coaching is present but there's no substantial discussion on systemic observability, ethical AI integration, or decentralised decision-making. The main thrust is a practical DevOps transformation journey, not the deliberate engineering of agency for humans or intelligent systems. The target audience (teams/managers seeking DevOps consulting) partially aligns with Agentic Engineering, but the philosophical and design-oriented elements crucial to the category are largely absent.",
     "reasoning_summary": "This content is closely aligned with general DevOps coaching, emphasizing cultural and process improvements, but it only lightly touches on concepts relevant to Agentic Engineering and does not engage directly with agentic principles or human/AI agency, resulting in a low confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QQA9coiM4fk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 23.41,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.8,
+    "ai_intent": 3.05,
+    "ai_audience": 8.05,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on DevOps consulting's cultural/technical improvements, workshops, and tooling (Azure DevOps, CI/CD) but does not discuss AI agents, contextual intelligence, or agentic integration. Concepts like 'autonomous agents' and 'agentic delivery' are not referenced directly or indirectly. While there is some overlap in modern engineering practice and delivery outcomes (e.g., CI/CD, continuous improvement), the emphasis is on human expertise, not agentic synergy. Audience (technical/practitioner) aligns, and there is some noise from tangential tooling talk, but the signal is moderately on subject for DevOps, not Agentic Software Delivery.",
+    "reasoning_summary": "Content is about DevOps consulting—human-driven cultural, process, and technical change—not about Agentic Software Delivery. No mention or exploration of AI agent integration. Overall, the fit is weak and mainly tangential.",
     "level": "Ignored"
   }
 }

@@ -1132,16 +1132,23 @@
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
+    "resourceId": "agPLmBdXdbk",
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-04-10T15:54:13",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content briefly mentions the importance of tenacity in an Agile consultant, which aligns with the need for adaptability and practical problem-solving in complex environments. However, it lacks detailed discussion on specific Agile or Scrum practices, and does not provide substantial evidence or examples of pragmatic approaches, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 56.9,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.3,
+    "ai_depth": 5.0,
+    "ai_intent": 6.1,
+    "ai_audience": 8.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content focuses on tenacity as an essential trait for Agile consultants to drive change and persist through obstacles. While it references practical problem-solving and real-world challenges (aligning with pragmatic thinking), it centers on mindset and perseverance rather than directly discussing pragmatic frameworks or case studies. There is some alignment with the category in terms of intent and audience (Agile practitioners), but minimal direct mention of pragmatic thinking or evidence-based management. The discussion is motivational and practical but not deeply analytical, so depth and conceptual alignment are moderate.",
+    "reasoning_summary": "Content partially fits: It promotes real-world persistence and problem-solving for Agile consultants, aligning in spirit with pragmatic thinking, but lacks detailed strategies or depth on evidence-based or experiential methods.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1930,6 +1937,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on personal qualities (tenacity) required for Agile consultants, emphasizing persistence and change agency, but does not reference or discuss Agentic Engineering concepts such as engineering practices or maximizing agency of humans and AI in deliberate design. No direct mention of agentic methods, decentralization, DevOps, or ethical AI. Content is generally targeted at Agile practitioners, but aligns primarily on motivational aspects, not explicit agentic engineering themes.",
     "reasoning_summary": "This content highlights the importance of tenacity for Agile consultants but does not discuss or align with the core themes of Agentic Engineering, such as engineering practices, AI collaboration, or agency-maximizing frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "agPLmBdXdbk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 7.579,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not reference Agentic Software Delivery or any of its key topics (AI agents, agency, integration, contextual intelligence, modern engineering practices, or governance frameworks). Instead, it focuses narrowly on the personal trait of tenacity for Agile consultants. No mention of AI, agents, context-aware systems, or modern software delivery methodologies is made. The audience is broadly within Agile and software, but there is no intent or discussion mapping to the Agentic Software Delivery definition.",
+    "reasoning_summary": "This content is about individual consultant traits in Agile, not about agentic delivery or integrating AI agents. It does not align with the category and barely addresses any relevant themes; only the audience overlaps somewhat.",
     "level": "Ignored"
   }
 }

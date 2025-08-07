@@ -1476,15 +1476,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "cb6JpfomYRU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:16:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on becoming a Scrum Master and the application of Agile principles, which are not directly related to the One Engineering System framework. While it discusses community building and practical application, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes across teams. The discussion is more centred on personal development and Scrum methodology rather than the overarching themes of 1ES.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 7.18,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 2.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is centered on training and supporting Scrum Masters through real-world, community-based learning. There are no explicit mentions of 1ES, nor does the discussion address integration, standardization, unified toolsets, or cross-team/process unification—core to 1ES. The piece is focused purely on building confidence within the Scrum framework and does not reference principles, implementation, or comparisons of the One Engineering System. While the audience is technical (Scrum Masters/Agilists), the core themes and purpose are misaligned with the 1ES category.",
+    "reasoning_summary": "Content does not address or align with One Engineering System; it purely targets Scrum Master development, lacking integration, standardization, or cross-team engineering focus central to 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 28.0,
     "reasoning": "The content focuses on helping new Scrum Masters gain confidence through practical learning, community support, and real-world application. While it references agency at an individual level (confidence, competence, self-efficacy), it does not mention or substantially engage with the deliberate design of engineering practices, DevOps culture, or human/AI agency at a systemic level aligned with Agentic Engineering. There are no explicit or implicit references to decentralised decision-making frameworks, systemic observability, or ethical AI integration. The audience is technical and practitioner-focused, which partially overlaps, but the content’s core themes and depth remain largely outside Agentic Engineering’s domain.",
     "reasoning_summary": "This content centers on confidence- and community-building for Scrum Masters, featuring practical learning and support. It addresses individual empowerment but does not directly discuss or design for maximising agency in engineering systems or integrate agentic, DevOps, or autonomous practices as required by Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cb6JpfomYRU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 10.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.75,
+    "ai_depth": 1.55,
+    "ai_intent": 2.2,
+    "ai_audience": 2.05,
+    "ai_signal": 2.07,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is focused on practical training and community support for Scrum Masters, emphasizing real-world application, confidence-building, and peer collaboration in Agile environments. There is no mention of agentic principles, autonomous AI agents, contextual intelligence, or the integration of proactive AI or modern engineering practices as outlined in the Agentic Software Delivery category. The discussion exclusively relates to human-centered learning, coaching, and Scrum-specific practices with no reference to intelligent agents, agency, or systematic agent-based process augmentation. The intended audience—Agile practitioners/Scrum Masters—is not misaligned but the topic is not agentic. All dimensions score low due to minimal or no overlap with the classification definition.",
+    "reasoning_summary": "This content is about human learning and community support for Scrum Masters; it does not address agentic software delivery, AI agents, or related concepts. The fit with the assigned category is minimal and only tangential at best.",
     "level": "Ignored"
   }
 }

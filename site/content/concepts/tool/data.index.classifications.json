@@ -20,20 +20,21 @@
   "Application Lifecycle Management": {
     "resourceId": "Tool",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-05-06T11:16:27",
-    "ai_confidence": 38.25,
-    "ai_mentions": 1.6,
-    "ai_alignment": 4.2,
-    "ai_depth": 4.0,
-    "ai_intent": 6.5,
-    "ai_audience": 5.8,
-    "ai_signal": 4.7,
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 47.55,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.1,
+    "ai_depth": 4.9,
+    "ai_intent": 4.7,
+    "ai_audience": 4.6,
+    "ai_signal": 4.3,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 38.0,
-    "reasoning": "1) Direct Mentions (1.6): The content does not mention 'Application Lifecycle Management' or 'ALM' directly at all. It references related areas like Agile, DevOps, Lean, and examples of tools but never connects explicitly to ALM. \n\n2) Conceptual Alignment (4.2): The discussion is related in that many ALM activities involve tools like JIRA or CI/CD, but the focus is on the general role of tools in Agile/DevOps, not the management of the full application lifecycle or governance processes. There is only implicit and partial overlap with ALM—mainly at the 'tooling supports lifecycle practices' level, but the major ALM themes (governance, stages, KPIs, risk, lifecycle stages) are not actively explored.\n\n3) Depth of Discussion (4.0): The discussion goes into substantial detail on the philosophy, function, and limitations of tools in Agile/DevOps, with concrete examples (JIRA, Jenkins, Kanban, GitLab, etc.), but does not connect these to ALM's lifecycle stages, management concerns, or specific best practices in ALM. There is depth, but not on lifecycle management.\n\n4) Intent/Purpose Fit (6.5): The purpose is to explain the supporting role of tools in software practice environments, which is somewhat supportive of ALM, but not its main purpose. It's tangential rather than directly informative for ALM. The intent is primarily educational for tool usage within methodologies, not application governance or lifecycle.\n\n5) Audience Alignment (5.8): The content is directed at technical practitioners—engineers, Scrum Masters, DevOps teams—rather than ALM-specific roles (which may include IT managers, app owners, or process strategists). There is moderate audience overlap, but ALM targets a broader and more management-oriented audience.\n\n6) Signal-to-Noise Ratio (4.7): The content is focused and not filler, but the relevant 'signal' to ALM is modest: most substance is about tools' general role in methodologies, not their lifecycle governance role. Only a small fraction would be valuable in an ALM context, the rest is methodological context.\n\nNo penalties were applied: The content is up to date, not satirical, nor does it undermine ALM; it is simply not directly or strongly relevant.\n\nLevel: 'Tertiary' is used, as the relation to ALM is indirect, secondary to the focus on tool philosophy within other methodologies. This content may inform ALM practitioners in a broad sense, but it would not constitute core, secondary, or specifically targeted ALM content.",
-    "level": "Ignored"
+    "final_score": 48.0,
+    "reasoning": "The content describes tools as enablers for Agile, Lean, and DevOps methodologies, and discusses their role in collaboration, workflow, and automation. However, it doesn’t specifically focus on or discuss Application Lifecycle Management (ALM), nor does it mention ALM practices, stages, or holistic governance of software lifecycle. Examples like JIRA, Azure Boards, Jenkins, GitLab, and Value Stream Mapping are relevant to workflow, CI/CD, and optimisation, but the framing is about the general utility of tools, not about ALM as a discipline or process. There is no direct reference to ALM, its stages, or its specific frameworks. The alignment is partial due to references to software processes and tools that could play a role in ALM, but lacks explicit or in-depth discussion of ALM concepts. The intent is educational but aimed at explaining what tools are in the context of methodologies, not specifically at managing application lifecycles. Audience and signal scores reflect this limited, tangential fit.",
+    "reasoning_summary": "The content mainly explains tools for Agile, Lean, and DevOps, not ALM specifically. There are references to process support and improvement, but no focused discussion of ALM stages or governance; the fit is tangential and partial.",
+    "level": "Tertiary"
   },
   "Principle": {
     "resourceId": "Tool",
@@ -3178,6 +3179,25 @@
     "final_score": 12.0,
     "reasoning": "The content defines and discusses the role of tools in Agile, Lean, and DevOps contexts, highlighting use cases like JIRA, Jenkins, and Kanban boards. However, there are no explicit or implicit references to human-AI collaboration, emergence of collective capabilities from human-AI teamwork, or socio-technical systems involving AI agents as team members. The material centers on passive tool use and workflow support, not collaborative partnerships with AI or collective intelligence in the specified sense. Audience fit and signal are moderate due to general relevance for practitioners, but all other dimensions score very low due to lack of conceptual/substantial overlap.",
     "reasoning_summary": "This content focuses on tools supporting Agile, Lean, and DevOps practices without addressing human-AI collaboration or collective intelligence. It remains within the context of conventional teamwork and tool facilitation, not the nuanced partnership central to the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Tool",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:54",
+    "ai_confidence": 15.62,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses tools supporting Agile, Lean, and DevOps practices—primarily as enablers of workflow integration and automation. It references CI/CD and automated testing, partly aligning with agentic delivery engineering practices, but does not directly mention agentic AI agents, agency, or the embedding of contextual intelligence, which are central to Agentic Software Delivery. There is no explicit coverage of AI-driven autonomy, human-agent synergy, feedback loops, or governance frameworks for agents. The audience overlaps slightly (software practitioners), but the theme stays generic and methodological rather than agentic. There is no mention of evolving from legacy models to outcome-focused agentic frameworks.",
+    "reasoning_summary": "The content centers on traditional tool usage in Agile/DevOps, lacking any mention of autonomous agents, agentic principles, or context-aware intelligence. Fit with 'Agentic Software Delivery' is tangential, with minimal partial alignment to engineering practices only.",
     "level": "Ignored"
   }
 }

@@ -1450,15 +1450,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "221BbTUqw7Q",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:05:59",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and the APS immersive learning experience, which are not directly related to the One Engineering System framework. While it discusses principles and practices of Scrum, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding 1ES, and there are no direct mentions or relevant comparisons to the One Engineering System.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 9.526,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content comprehensively discusses key takeaways from an APS (Applied Professional Scrum) course for Scrum teams, focusing on Scrum fundamentals, overcoming early challenges, and recognizing core vs. add-on practices. There is no mention or discussion of One Engineering System (1ES); the content is tightly focused on Scrum with zero alignment to the concepts, practices, or integration methods outlined in the 1ES definition. No references to standardisation, unified tools or processes, or framework integration exist. The content targets Scrum practitioners, not the broader engineering unification audience. Thus, all dimensions score extremely low for relevance to the assigned category.",
+    "reasoning_summary": "The content is exclusively about Scrum team lessons from an APS course; it has no connection to One Engineering System, lacking direct mentions, conceptual overlap, or audience alignment. The fit is minimal and almost entirely off-category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1961,6 +1968,25 @@
     "final_score": 23.0,
     "reasoning": "The content does not explicitly mention 'Agentic Engineering' or its core concepts. It focuses primarily on principles and takeaways of Scrum as learned through the APS course. There is emphasis on understanding core Scrum fundamentals and distinguishing them from add-ons, but no deliberate discussion of engineering agency, DevOps integration, systemic observability, AI collaboration, or ethical autonomy. The target audience is Scrum practitioners, which partially overlaps with Agentic Engineering's audience, but there is little conceptual or thematic alignment. The depth stays superficial around Scrum practices rather than agency-maximizing engineering or decision frameworks.",
     "reasoning_summary": "This content centers on Scrum basics and distinguishing true practices from misconceptions after an APS course. While it is relevant for Scrum practitioners, it does not address agentic engineering, decision-making frameworks, or the empowerment of human/AI agency, making the fit to 'Agentic Engineering' very low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "221BbTUqw7Q",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 7.63,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.35,
+    "ai_intent": 0.3,
+    "ai_audience": 1.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is exclusively focused on Scrum fundamentals and the impact of the APS course—covering topics like proper role understanding, initial hurdles, and differentiating core Scrum from add-ons. There are no mentions or implications of agentic software delivery, autonomous AI agents, contextual intelligence, agent integration, or any core concept of the evaluated category. The only slight alignment is the general idea of evolving delivery approaches, but this is standard Scrum reform and not connected to anything agentic or AI-driven. The audience (Scrum practitioners) has some nominal overlap, but the topic and intent do not fit the category requirements.",
+    "reasoning_summary": "Content discusses Scrum learning and role clarification, with no coverage of agentic software delivery, AI agents, or context-aware collaboration. Fit is negligible; only peripheral overlap in audience, not substance.",
     "level": "Ignored"
   }
 }

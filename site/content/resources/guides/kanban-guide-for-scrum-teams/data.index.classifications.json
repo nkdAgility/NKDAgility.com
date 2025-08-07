@@ -1438,15 +1438,22 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
+    "resourceId": "Z3HzXH_nmmz",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:41:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban practices within the Scrum framework, discussing flow metrics and process optimisation. While it touches on aspects of feedback loops and continuous delivery, it does not explicitly address the Shift-Left Strategy or its core principles, such as early integration of testing, security, or compliance in the development lifecycle.",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 7.899,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.4,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly discusses how Scrum teams can incorporate Kanban practices to improve workflow, efficiency, and transparency. It explores flow optimization, cycle time metrics, and empirical adaptation but never directly mentions or aligns with Shift Left Strategy. Key concepts like integrating testing, security, or compliance earlier in the SDLC are not addressed, nor is the 'Shift Left' term or principles. The overlap is marginal, as some flow and feedback loop improvements could tangentially support a Shift Left culture, but they are neither explicit nor discussed as such. Thus, the content is largely out of scope for the category.",
+    "reasoning_summary": "This guide focuses on Kanban practices for Scrum teams, addressing flow and process efficiency but does not discuss or mention Shift Left Strategy, its principles, or key topics. It is mostly unrelated to the category except for minor overlap in feedback loop optimization.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2006,6 +2013,25 @@
     "final_score": 35.0,
     "reasoning": "The content is a detailed, practical guide to implementing Kanban within Scrum, focusing on flow, metrics, workflow visualization, and continuous improvement. However, while it strongly aligns with DevOps, agility, and systemic improvement, it does not address the core philosophical underpinnings of agentic engineering, such as human/AI co-agency, ethical autonomy, or deliberate decentralization of decision-making. Concepts like developer agency and continuous feedback are present but reframed as general agile/lean practices, with no explicit discussion of maximizing human and AI agency or the nuances of agentic engineering. The audience is similar (technical practitioners), and the content has some conceptual overlap, but it doesn't deeply engage with the core aims of Agentic Engineering as defined.",
     "reasoning_summary": "This guide focuses on applying Kanban within Scrum for flow optimization and transparency, aligning generally with agile and improvement. It lacks explicit treatment of agentic engineering themes like agency maximization, ethical AI, or decentralization of decision-making, resulting in only moderate relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Z3HzXH_nmmz",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 7.79,
+    "ai_mentions": 0.05,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 0.95,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "This content focuses strictly on integrating Kanban practices into Scrum Teams and optimizing flow, metrics, and empiricism in product development. There are no explicit or implicit mentions of autonomous AI agents, agency, or agentic principles. The discussion is entirely human-centric (process, boards, metrics, roles per Scrum/Kanban), with no reference to AI, software agents, contextual intelligence, or agent-governance frameworks. Although this is relevant to modern delivery, it does not cross into agentic territory. Alignment, depth, and mentions scores are correspondingly very low, as is the overall confidence.",
+    "reasoning_summary": "Content is about Kanban within Scrum, lacking any discussion of AI agents, agency, or contextual intelligence—core to Agentic Software Delivery. No clear fit with the category.",
     "level": "Ignored"
   }
 }

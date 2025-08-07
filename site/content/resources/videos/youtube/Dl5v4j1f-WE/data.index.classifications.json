@@ -1475,15 +1475,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "Dl5v4j1f-WE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:05:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal values and experiences as a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While it mentions Scrum, it does not address the One Engineering System framework, its principles, or its implementation. The discussion is more about personal philosophy than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 7.1205,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on personal values and approaches as a Professional Scrum Trainer, such as integrity, honesty, and helpfulness. It neither mentions nor addresses One Engineering System (1ES), standardization of tools, integration across teams, nor any described 1ES principles. There is no conceptual or thematic alignment: discussion centers on Scrum and trainer conduct, not on unified engineering frameworks, processes, or methodologies. The audience is Agile/Scrum practitioners rather than those concerned with 1ES-level organizational change.",
+    "reasoning_summary": "Content discusses trainer values in Scrum with no mention or discussion of One Engineering System or its core principles. The topic, intent, and themes do not fit the defined category and show only surface-level alignment (if any).",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1984,6 +1991,25 @@
     "final_score": 16.0,
     "reasoning": "The content is a personal reflection by a Professional Scrum Trainer about core values—integrity, honesty, and approachability—in their teaching and consulting practice. There are no direct references to Agentic Engineering or its key conceptual elements such as maximizing human/AI agency, ethical autonomy, systemic observability, or DevOps-infused craft. While the content touches on autonomy (in the context of personal and professional integrity) and mentions transparency, it is philosophical and values-based rather than engaging with the deliberate design of engineering practices or decision-making frameworks that define Agentic Engineering. The intent is clearly more about personal branding and promoting Scrum value alignment than about systemic or technical agency. The only marginal overlap is the emphasis on autonomy and transparency, but it lacks the depth and specifics required by the category. The audience aligns somewhat, as it targets practitioners in Agile/Scrum, but the topic stays well within the realm of personal and teaching values.",
     "reasoning_summary": "The content centers on a Scrum Trainer’s personal values and legacy, not Agentic Engineering. It presents themes of integrity and transparency but lacks substantive discussion of engineering practices or decision-making frameworks that maximize human or AI agency. Minimal alignment and explicit relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Dl5v4j1f-WE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 7.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.35,
+    "ai_intent": 0.7,
+    "ai_audience": 0.9,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content centers on personal values, integrity, and support in the role of a Scrum trainer. There are no direct mentions, references, or discussion of agentic software delivery, autonomous AI, or related topics. The closest fit is the general alignment with professional development in Agile environments, but none of the key themes or practices from the Agentic Software Delivery definition are present—no mention of AI agents, contextual intelligence, agency, or engineering practices required for this category. The audience somewhat overlaps (Agile professionals), but all content is orthogonal to the evaluated category.",
+    "reasoning_summary": "Content focuses on personal values and legacy as a Scrum Trainer; it does not address agentic principles, AI, or software delivery automation. The fit with Agentic Software Delivery is negligible and indirect.",
     "level": "Ignored"
   }
 }

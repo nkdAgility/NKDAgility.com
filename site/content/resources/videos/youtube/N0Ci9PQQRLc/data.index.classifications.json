@@ -1475,15 +1475,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it centres on the author’s growth in software engineering and DevOps, emphasising ongoing learning and skill-building. By sharing insights from both achievements and setbacks, it illustrates how competence develops over time. While personal stories are included, they serve to reinforce the main theme rather than distract from it."
   },
   "One Engineering System": {
+    "resourceId": "N0Ci9PQQRLc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:32:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps, with no explicit mention of the One Engineering System (1ES) framework or its principles. While it touches on themes of collaboration and improvement in software practices, it lacks a direct discussion of integration, standardisation, or the specific components of 1ES. The depth of discussion is limited to personal anecdotes and training philosophy, which do not align with the core topics of 1ES.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 16.93,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.15,
+    "ai_depth": 1.28,
+    "ai_intent": 0.95,
+    "ai_audience": 8.73,
+    "ai_signal": 7.36,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on a personal career journey from software engineering to Scrum training with an emphasis on practical training, real-world lessons, and continuous improvement. It references DevOps and ALM but does not mention One Engineering System (1ES) or core 1ES concepts—there are no discussions of unified engineering processes, systems integration, or standardization of practices. Discussion of DevOps and ALM is anecdotal, centering on training relevance, not integrated frameworks or systemic tooling/process alignment. The audience (software professionals, trainers, and teams) is adjacent to the 1ES target group, and the content is tangentially relevant through its focus on modern engineering practices, but it lacks any 1ES-specific intent, purpose, or depth.",
+    "reasoning_summary": "The content does not address One Engineering System. It is a personal account about software engineering, DevOps, and Scrum training—without reference to unified engineering systems or frameworks. Only tangentially relevant to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1992,5 +1999,24 @@
     "reasoning": "The content centers on how a software and DevOps practitioner uses lived experience to inform Scrum training, highlighting continuous improvement and value delivery. While these overlap with Agentic Engineering (e.g., empowerment, learning from both success and failure, striving for continuous delivery), they aren't explicitly framed as maximizing agency or as systematic design toward decentralization or human–AI collaboration. No concrete discussion appears regarding systemic observability, deliberate feedback-driven adaptation, or ethical AI integration, and the intent is more about inspirational narrative than in-depth exploration of agentic frameworks. The audience is similar—practitioners—but themes remain generic (e.g., overcoming dysfunction, learning from stories) with only partial alignment to Agentic Engineering specifics. Deductions are made for no direct mention and less explicit conceptual focus.",
     "reasoning_summary": "This content shares a trainer's journey linking software engineering and DevOps experience to Scrum training, with themes of empowerment and improvement. However, it lacks explicit focus on the deliberate, systemic design of engineering practices that define Agentic Engineering, offering only partial conceptual alignment.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "N0Ci9PQQRLc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 17.56,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.8,
+    "ai_penalty_details": "Mentions (-0.2): No direct or explicit references to agentic software delivery; Alignment (-0.3): Focus is on human experience and traditional DevOps/Scrum, no substantive exploration of agentic topics; Depth (-0.3): No discussion of autonomous AI agents, contextual intelligence, or agentic frameworks.",
+    "final_score": 18.0,
+    "reasoning": "The content is a personal narrative exploring a career journey from software engineering to Scrum and DevOps training, with emphasis on human expertise, learning from experience, and traditional improvement practices. There are no explicit or implicit mentions of agentic software delivery, autonomous AI agents, agency, contextual intelligence, or synergistic human+AI integration. It focuses on best practices in Scrum and DevOps, continuous delivery, and training grounded in real-world stories, but omits key agentic topics (AI agents in delivery, feedback loops with AI, or governance frameworks for agents). Deductions applied for lack of relevance to category definition. Thus, overall confidence in classification is very low and only partial audience/intent overlap prevents a lower score.",
+    "reasoning_summary": "This content focuses on traditional DevOps and Scrum training via personal experience, with no mention of agentic software delivery, AI agents, or related practices. There is minimal alignment, making fit with this category weak and largely incidental.",
+    "level": "Ignored"
   }
 }

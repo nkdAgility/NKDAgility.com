@@ -1512,15 +1512,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "fUj1k47pDg8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:22:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development and the importance of understanding user needs, which does not directly relate to the One Engineering System framework. While it touches on collaboration and assumptions in development, it lacks explicit discussion of 1ES principles, components, or implementation practices. The content is more aligned with general product management rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 19.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses improving product development by challenging assumptions, encouraging empirical cycles, and addressing feature factory pitfalls. However, it doesn't explicitly mention the One Engineering System (1ES), its framework, principles, or unified engineering practices. While themes of process improvement and collaboration exist, they are not conceptually aligned with 1ES’s aim of standardising and integrating engineering tools and methodologies across teams. The audience (product leaders, managers) somewhat overlaps, but the primary focus is not on 1ES’s unique characteristics. Most of the content centers around discovery, validation, and product thinking, not unified engineering system strategies.",
+    "reasoning_summary": "Content focuses on improving product development and learning practices, not on One Engineering System’s standardisation or integration frameworks. Lacks any direct or in-depth discussion of 1ES’s core concepts or terminology. Fit is minimal and incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2024,6 +2031,25 @@
     "final_score": 37.0,
     "reasoning": "There are no direct mentions of Agentic Engineering or its terminology. The content is centered on product development, challenging assumptions, experimentation, and fostering learning—aligning partially with the category's value of empirical adaptation. However, it lacks substantial focus on key aspects like developer/AI agency, autonomy, decentralised decision-making, or explicit engineering practice design. The target audience aligns with practitioners but not specifically engineers or those concerned with maximising agency in technical systems. Signal is moderate since the entire piece is focused and relevant to product development but falls short of directly addressing Agentic Engineering themes.",
     "reasoning_summary": "The content emphasizes empirical product development and challenging assumptions, which partially aligns with Agentic Engineering ideals, but it doesn't discuss developer/AI autonomy, system design, or decentralised engineering practices. Its relevance is therefore moderate but not strong.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fUj1k47pDg8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 18.67,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on assumptions in product development, empirical methods, and avoiding the feature factory mentality. There are no explicit mentions of agentic software delivery, AI agents, or the integration of autonomous systems into delivery. While themes of learning, evidence, and process improvement are present, there's no discussion of agency, contextual intelligence, or AI-driven software delivery. Audience alignment and signal are moderate due to relevance for practitioners, but overall, the content does not align with the category’s core definition or key topics.",
+    "reasoning_summary": "Content focuses on product development mindset, learning, and validation, without reference to AI agents, agency, or agentic software delivery. Thematically related to improvement, but not to agentic concepts. Fit is minimal and indirect.",
     "level": "Ignored"
   }
 }

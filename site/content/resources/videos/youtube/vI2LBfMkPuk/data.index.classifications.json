@@ -904,15 +904,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "vI2LBfMkPuk",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:15:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices and experiential learning rather than discussing Test First Development principles. While it touches on aspects of agile methodologies, it does not explicitly mention or align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 19.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.7,
+    "ai_intent": 2.8,
+    "ai_audience": 7.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses exclusively on experiential Scrum training via Minecraft, emphasizing team dynamics, managing project chaos, and learning Scrum fundamentals. There is no explicit mention of Test First Development, nor coverage of its principles, success criteria definition, or test automation practices. The main themes are self-organization, adapting to uncertainty, and team collaboration within Scrum—not the design or testing-first approaches. Only tangential alignment occurs where the content mentions planning and organizing work, but these are generic Scrum practices rather than Test First Development topics. The audience is technical learners—potentially overlapping somewhat with the Test First Development audience—but the depth, mention, and intent toward the Test First topic are minimal to non-existent.",
+    "reasoning_summary": "The content is about using Minecraft to teach Scrum basics, focusing on teamwork and handling chaos. It does not discuss Test First Development, its principles, or related testing practices. Fit with the category is minimal and indirect.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1979,6 +1986,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on experiential Scrum teaching using Minecraft to help students better understand agile principles and teamwork. While concepts like experiential learning, teamwork, and adapting to chaos are present, there are no explicit references or substantive discussion of agency, DevOps, engineering practices, systemic observability, or AI. The narrative aligns best with Scrum pedagogy, not Agentic Engineering. The main audience is learners of Scrum, and the signal-to-noise ratio is decent, but the core category themes are missing.",
     "reasoning_summary": "This content centers on experiential Scrum learning through Minecraft. Although it promotes reflective teamwork, it lacks discussion of agentic design, systemic observability, or human/AI agency central to Agentic Engineering. Its main focus is agile education, not deliberate agentic engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vI2LBfMkPuk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on experiential Scrum learning aided by Minecraft gamification. It explores the benefits of hands-on chaos to illuminate Scrum's value, with no explicit or implicit discussion of agentic software delivery, autonomous AI agents, or their integration with human expertise. There are no references to AI, contextual intelligence, agency, or engineering practices supporting agentic delivery. The intended audience is Scrum learners and trainers—not practitioners involved with agentic principles or autonomous systems in software delivery. Minimal alignment is possible only in the broad sense of discussing delivery improvement and collaboration, but not within the agentic framework.",
+    "reasoning_summary": "The content is a case study of Scrum training using Minecraft. It is not about agentic software delivery or AI agent integration. There is almost no alignment with the category—fit is minimal and largely non-existent.",
     "level": "Ignored"
   }
 }

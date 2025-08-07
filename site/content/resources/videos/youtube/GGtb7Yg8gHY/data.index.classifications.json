@@ -1458,15 +1458,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "GGtb7Yg8gHY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:28:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on conflict resolution within Agile teams, discussing strategies for managing disagreements rather than addressing the principles or components of the One Engineering System. While it touches on collaboration, it does not delve into the integration of tools or processes, nor does it provide insights into the 1ES framework or its implementation. Therefore, it lacks the necessary depth and alignment with the core themes of the One Engineering System.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 14.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 4.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on recognising and managing interpersonal team conflict within Agile/Scrum teams. There are no direct references or explicit discussions regarding One Engineering System (1ES), its principles, tools, integration, or standardisation frameworks. While it targets Agile practitioners (an overlapping but broader audience), the discussion centers solely on team dynamics, conflict, and facilitation techniques at the team level. There is no conceptual or thematic exploration of unified engineering systems, cross-team process integration, or 1ES methodologies. As a result, relevance is marginal and indirect at best, and the content does not fit the core intent or substance of the 1ES category definition.",
+    "reasoning_summary": "This content does not fit the One Engineering System category; it strictly discusses Agile team conflict and facilitation, without addressing 1ES frameworks, principles, or integration.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1970,6 +1977,25 @@
     "final_score": 26.0,
     "reasoning": "The content closely examines managing team conflict within Agile and Scrum, emphasizing psychological safety, open communication, and collaborative problem-solving. While it discusses autonomy and decision-making at the human level, there is no direct mention or meaningful engagement with 'Agentic Engineering' or its technical facets—such as maximizing both human and AI agency, observability, DevOps-infused craft, or ethical AI integration. The philosophy of agency is lightly touched through empowerment and mediation but not in the deliberate engineering context nor with system-level, AI, or DevOps integration. The audience (Scrum Masters, Agile practitioners) partially overlaps with Agentic Engineering, but the focus and intent are primarily on team harmony and conflict management rather than intentional engineering practices to enhance agency. Thus, only modest conceptual alignment and audience relevance justify a low confidence score.",
     "reasoning_summary": "The content centers on managing team conflict and fostering psychological safety in Agile teams. While related to autonomy and healthy collaboration, it does not engage with Agentic Engineering's core focus on the deliberate design of engineering practices to maximize human and AI agency, resulting in low alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GGtb7Yg8gHY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 7.42,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.25,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content centers exclusively on team conflict management within Agile teams and does not mention autonomous AI agents, contextual intelligence, or agentic principles in software delivery. There are no explicit or implicit connections to agentic software delivery themes like AI integration, feedback loops, or modern engineering with AI agents. The audience is Agile practitioners, somewhat related but not specifically targeting those interested in agentic delivery. The content is not outdated nor critical of agentic delivery, so no penalties are warranted.",
+    "reasoning_summary": "This content is unrelated to Agentic Software Delivery, focusing instead on Agile team conflict management without reference to AI agents, agency, or agentic frameworks. No mention or thematic overlap is present.",
     "level": "Ignored"
   }
 }

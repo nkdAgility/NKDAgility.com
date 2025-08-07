@@ -1115,15 +1115,22 @@
     "level": "Tertiary"
   },
   "Test First Development": {
+    "resourceId": "Cr7wjIJ8Uvb",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:32:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and agile transformation within organisations, focusing on collaboration and empowerment rather than the principles of Test First Development. While it touches on the importance of understanding processes and roles in software development, it does not explicitly mention Test First practices, success criteria, or the significance of testing methodologies. The discussion lacks depth in relation to Test First Development, making it a secondary topic rather than a primary focus.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 10.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content revolves entirely around Professional Scrum, organisational change, team empowerment, and the value of broad scrum training. There are no mentions of Test First Development, its principles, or related testing practices. Concepts like success criteria, automated or manual test-first, TDD, or ATDD are entirely absent. Discussion is purely on agile transformation through participation and understanding Scrum, not test-first approaches. No audience, intent, or signal directly matches the Test First Development category or definition.",
+    "reasoning_summary": "This content does not fit the Test First Development category. It focuses on Scrum training and organisational agility, with no discussion of test-first concepts, intent, or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -2022,5 +2029,24 @@
     "reasoning": "The content focuses on Scrum training to promote organizational agility and empowerment, referencing the breakdown of command-and-control structures and advocating for maker-driven change. Concepts like team empowerment, transparency, experimentation, and value delivery reflect strong alignment with agentic themes—especially around decentralizing decision-making and enabling developers as agents. However, the discussion mostly stays at the practical and experiential level of Scrum implementation, without directly addressing Agentic Engineering as a discipline or exploring AI agency, systemic observability, automation, or ethical frameworks. There's substantial overlap in intent and audience, but limited direct mention and somewhat superficial exploration of topics like engineering decision frameworks, systemic feedback loops, or the integration of human and AI agency. The audience is technical/practitioner-focused and the content is largely relevant, with little off-topic material.",
     "reasoning_summary": "The content aligns with Agentic Engineering through its focus on empowerment, decentralisation, and feedback-driven change in software teams via Scrum. It fits the category conceptually and by audience but lacks explicit depth on agentic engineering practices, AI agency, or technical/ethical frameworks. Overall, it's a solid but not full match.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Cr7wjIJ8Uvb",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 16.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.9,
+    "ai_audience": 4.0,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is focused on broadening Scrum adoption across an organization and emphasizes cultural, collaborative, and educational aspects of agile transformation. It discusses bounded environments, empowerment, and value delivery—concepts that are adjacent to Agentic Software Delivery. However, it never references or explores embedding AI agents, context-aware autonomy, or modern agentic engineering practices. There are no discussions about AI, agent design/governance, autonomy, or human-AI teaming. The only minor link is the language around 'change agents' and empowerment, which is metaphorical rather than technological. Audience is somewhat adjacent (org-wide change practitioners, not specifically those bringing agentic/AI methods). Almost all content is tangential or unrelated to the Agentic Software Delivery category definition.",
+    "reasoning_summary": "Content is focused on broad Scrum training and organizational agility, with no meaningful mention of AI agents, autonomy, or agentic software delivery. Only minor thematic overlap via empowerment metaphor; does not fit the category.",
+    "level": "Ignored"
   }
 }

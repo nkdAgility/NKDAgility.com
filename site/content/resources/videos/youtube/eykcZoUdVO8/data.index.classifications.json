@@ -1422,15 +1422,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "eykcZoUdVO8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:09:09",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal insights about influential figures in Agile, particularly Simon Randell, rather than discussing the One Engineering System framework or its principles. While Agile is mentioned, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementation. The discussion lacks depth regarding 1ES, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 7.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.05,
+    "ai_depth": 0.6,
+    "ai_intent": 0.75,
+    "ai_audience": 2.3,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on praising Simon Randell's influence within the Agile community, specifically his facilitation and communication skills. There are no references to One Engineering System or unified engineering processes. The themes are centered on Agile values, principles, and individual impact rather than organizational methodologies like 1ES. The discussion is personal and anecdotal, not addressing integration, standardisation, or any 1ES principles or implementations. Audience is Agile practitioners, not specifically 1ES stakeholders.",
+    "reasoning_summary": "Content is about Simon Randell’s contribution to Agile facilitation and leadership. It does not mention or discuss One Engineering System, integration, or standardisation. No fit with 1ES category; confidence is extremely low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1931,6 +1938,25 @@
     "final_score": 25.0,
     "reasoning": "The content focuses on Simon Randell's influence within Agile, emphasizing facilitation, communication, and leadership inspiration. It does not explicitly mention 'Agentic Engineering', nor does it address deliberate engineering design to maximize agency of humans and AI, systemic observability, or ethical AI integration. Discussions are limited to personal qualities, not systemic or technical practices aligning with the category. The main audience is Agile practitioners, generally relevant, but not directly aligned with Agentic Engineering as defined.",
     "reasoning_summary": "This content centers on individual influence and facilitation within Agile, offering praise and inspiration, but does not address agentic engineering practices, systemic change, or human/AI agency. Its relevance to the Agentic Engineering category is tangential and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 6.9,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.5,
+    "ai_intent": 1.8,
+    "ai_audience": 0.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content profiles a significant Agile influencer, Simon Randell, focusing on his communication and facilitation skills and inspirational impact. There is no mention or discussion of Agentic Software Delivery concepts—no reference to AI agents, integration of automation, or agentic strategies in software delivery. The core themes revolve around human leadership and learning within traditional Agile contexts, not the embedding of proactive, contextual intelligence or agentic systems. Audience is Agile practitioners, but not specifically those interested in agentic paradigms. The intent is inspirational and educational but not aligned to this category. No outdated or contradictory content found.",
+    "reasoning_summary": "This content focuses solely on human influence and leadership in Agile; there is no mention or discussion of agentic delivery, AI agents, or contextual intelligence. The fit with 'Agentic Software Delivery' is extremely low and purely incidental.",
     "level": "Ignored"
   }
 }

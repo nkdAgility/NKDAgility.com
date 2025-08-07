@@ -12,16 +12,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Increment",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Increment as a core artifact in Scrum and Agile, highlighting its role in delivering value and fostering transparency. However, it does not explicitly address accountability or outcome ownership, which are central to the category. While it touches on aspects of collaboration and alignment, these are secondary to the main focus on the Increment itself.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 49.275,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.8,
+    "ai_intent": 5.1,
+    "ai_audience": 8.3,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content focuses on the Increment as an artifact and its role in transparency, adaptation, and value delivery in Scrum/Agile. However, it does not explicitly discuss structural accountabilities, roles, or outcome ownership. Mentions and depth around accountability as defined are minimal and mostly implied (e.g., alignment and signal are above average since practitioners are the intended audience and the content is focused but without explicit reference to accountabilities). There is minor conceptual overlap regarding transparency and outcome review, but not enough to merit a strong fit.",
+    "reasoning_summary": "While the Increment supports outcome inspection, the content lacks direct discussion of accountability, roles, or outcome ownership as defined by the category. Fit is partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -3119,6 +3126,25 @@
     "final_score": 15.0,
     "reasoning": "The content focuses exclusively on the Agile/Scrum artifact 'Increment' and its role in iterative software delivery, transparency, and stakeholder collaboration. There are no mentions—or even implied discussion—of human-AI teaming, AI agents, or socio-technical human-AI collaboration. While general collaboration is discussed, it is wholly human-centric, lacking any content that aligns with the Collective Intelligence category definition.",
     "reasoning_summary": "This content describes the Agile concept of 'Increment' in purely human team contexts, with no reference to human-AI collaboration or collective intelligence. It does not fit the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Increment",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 16.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.1,
+    "ai_intent": 2.7,
+    "ai_audience": 4.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly explains the concept of Increment in Scrum/Agile, focusing on transparency, feedback, and iterative value delivery. However, it contains zero direct discussion or mention of agentic software delivery or its key themes: there is no reference to AI agents, contextual intelligence, or the synergistic integration of AI and human expertise. The themes and language are strictly traditional Agile/Scrum, with no indication of evolution toward agentic or AI-augmented practices. The audience is somewhat aligned (software delivery practitioners), but the focus and main intent do not match the Agentic Software Delivery category.",
+    "reasoning_summary": "This content is about traditional Agile Increments, not Agentic Software Delivery. It lacks references to AI agents, contextual intelligence, or agency, so only a minimal conceptual overlap exists via iterative delivery. Fit is very low.",
     "level": "Ignored"
   }
 }

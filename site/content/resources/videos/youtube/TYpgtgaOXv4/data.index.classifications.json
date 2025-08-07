@@ -1445,15 +1445,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "TYpgtgaOXv4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:14:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 11.84,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.75,
+    "ai_depth": 2.0,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product backlog management within the Agile framework, specifically Scrum, and does not discuss the One Engineering System (1ES) or its principles. While it touches on themes of transparency and team collaboration, these are not directly related to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "reasoning": "The content is exclusively focused on best practices in Agile product backlog management. It does not mention or explore the One Engineering System (1ES) by name, principle, or concept. There is no discussion of cross-team standardization, unified tooling, or engineering system-wide integrations—only team-level backlog hygiene. The audience targets Agile practitioners, not stakeholders of holistic engineering frameworks. Depth is shallow regarding 1ES fit: although process optimization and transparency are relevant to productivity, they are framed entirely within the traditional Scrum/Agile context. There is no substantial alignment or signal toward 1ES core themes as defined.",
+    "reasoning_summary": "The content is about Agile backlog management—conceptually and practically unrelated to One Engineering System. No mention or discussion of system-wide standardization, integration, or 1ES frameworks. Fit is not supported.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1957,6 +1964,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses exclusively on product backlog management in Agile environments, emphasizing transparency, team involvement, empirical data, and value delivery. While these themes have partial conceptual overlap with Agentic Engineering (such as empowerment and feedback-driven adaptation), there is no explicit mention of agentic, systemic observability, human/AI agency, DevOps, or autonomy. The discussion remains at an Agile best practices level, targeting practitioners and coaches, rather than addressing the deeper philosophical or technical aspects central to Agentic Engineering.",
     "reasoning_summary": "This content emphasizes product backlog management best practices for Agile teams, focusing on transparency, regular refinement, and team collaboration. Although these ideas touch on empowerment and adaptation, they do not directly or deeply engage core Agentic Engineering concepts like agency maximization or systemic autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TYpgtgaOXv4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on product backlog management, refinement, and Agile team practices without any explicit or implicit reference to agentic software delivery or the integration of autonomous AI agents in delivery workflows. The main ideas and intent are about human-centric process improvements, team clarity, stakeholder communication, and empirical feedback—all valuable in Agile but not in line with the agentic paradigm (no AI agents, agency, automation with context, or hybrid human-machine delivery methods). Though telemetry and data are very briefly mentioned in the context of empirical decision-making, this is a standard Agile principle, not contextual-AI-driven backlog management. Audience targeting (Agile practitioners and teams) has some overlap with agentic topics but remains focused on human roles and processes.",
+    "reasoning_summary": "This content is about human-driven agile product backlog management. It does not discuss agentic software delivery, AI agents, or automation with context. There is little to no alignment with the agentic category.",
     "level": "Ignored"
   }
 }

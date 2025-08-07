@@ -1481,15 +1481,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "AcwMGmMo7iU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:05:03",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 24.85,
     "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses collocation within Scrum teams, focusing on communication and team dynamics rather than the principles or practices of the One Engineering System. While it touches on team organisation, it does not address the integration or standardisation of engineering processes, which are core to 1ES.",
+    "ai_alignment": 3.4,
+    "ai_depth": 2.7,
+    "ai_intent": 4.0,
+    "ai_audience": 7.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "There are zero direct mentions or references to 'One Engineering System' (1ES) or its concepts of unified, standardised engineering practices and toolchains. The content is focused entirely on collocation and remote-vs-in-person work for Scrum teams—tangential to 1ES but not aligned. Though there is a brief mention of Microsoft's investments in team rooms, this is in the context of fostering team focus and well-being, not about 1ES-level systemic integration or standardisation. Little if any of the discussion addresses tool/process integration, unified frameworks, or organisation-wide systemisation that define 1ES. The purpose, audience, and themes cater to Scrum practitioners seeking advice about team setup, not decision-makers or practitioners shaping integrated engineering systems. Thus, the overall fit is minimal and mostly accidental.",
+    "reasoning_summary": "Content discusses collocation benefits for Scrum teams, not One Engineering System concepts. Mentions of team rooms are about team focus, not systemic integration. Does not align with 1ES principles, processes, or purpose.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1999,6 +2006,25 @@
     "final_score": 29.0,
     "reasoning": "There is no direct mention of 'Agentic Engineering' or explicit focus on maximizing human/AI agency, ethical autonomy, systemic observability, or DevOps-infused craft. The content discusses collocation as an agile practice primarily from the perspective of team communication, psychological wellbeing, and organizational benefits. While tangential topics like team empowerment and ownership surface, they lack in-depth conceptual alignment with the deliberate engineering for agency described in Agentic Engineering. The main audience (Scrum practitioners) overlaps, but the discussion is narrowly about collocation and team placement—not systemic engineering, feedback loops, or AI/human co-agency. Signal-to-noise is moderate, as the content stays relevant but only peripherally connects to agentic design. No penalties applied, content is current and non-contradictory.",
     "reasoning_summary": "The content addresses team collocation in Scrum, focusing on communication and team dynamics, but lacks substantial alignment or depth regarding Agentic Engineering themes like maximizing agency, deliberate engineering design, or feedback-driven systems. Relevance is peripheral and audience fit is moderate.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "AcwMGmMo7iU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 7.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses the pros and cons of collocation versus remote work in Scrum teams, focusing on human collaboration, communication efficiency, and team culture. There is no reference to agentic software delivery, autonomous AI agents, contextual intelligence, or hybrid AI-human workflows. The discussion is firmly rooted in traditional agile team practices, with no conceptual or explicit alignment to agentic principles or the integration of AI agents. The target audience may overlap with technical practitioners, but the thematic relevance to agentic delivery is nearly nonexistent.",
+    "reasoning_summary": "Content is about collocation and team setup in Scrum, with no mention or meaningful alignment to agentic software delivery, autonomous AI, or related systemic intelligence. Fit is minimal and at best tangential.",
     "level": "Ignored"
   }
 }

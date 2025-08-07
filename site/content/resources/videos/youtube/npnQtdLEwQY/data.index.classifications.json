@@ -78,15 +78,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "npnQtdLEwQY",
     "category": "Windows",
-    "calculated_at": "2025-03-14T16:50:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses technical debt and quality management in software development, with only a brief mention of Windows in the context of long release cycles. While it touches on a relevant aspect of Windows, the overall focus is not on the Windows operating system itself, nor does it provide substantial insights or guidance specific to Windows installation, configuration, or troubleshooting. The mention of Windows is secondary and does not align with the core themes of the category.",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 21.995,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.15,
+    "ai_intent": 1.9,
+    "ai_audience": 4.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "There is only a passing reference to Windows—used as a single example within a broader discussion of technical debt, quality, and software improvement. The content's main focus, depth, and intent address general software engineering topics, not specific Windows installation, configuration, troubleshooting, or management aspects. The target audience (software engineers, product managers) might overlap with Windows practitioners, but the article is not tailored to Windows users or administrators. The overwhelming majority of the content remains non-Windows-specific, with unrelated examples (Azure DevOps, general advice). Therefore, category fit is extremely low.",
+    "reasoning_summary": "The article only briefly mentions Windows as an example, without focus on Windows-specific issues or guidance. The core content centers on technical debt and software quality, not on Windows usage or management. Poor fit for the Windows category.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1972,6 +1979,25 @@
     "final_score": 38.0,
     "reasoning": "The content discusses technical debt, quality, and continuous improvement in software development. While it highlights the importance of sustainable processes and proactive improvement (which could be considered tangentially related to agency and DevOps), it stops short of explicitly addressing agentic engineering's key themes—such as human/AI agency, decentralised decision-making, or ethical/AI collaboration. Developer autonomy and systemic observability are implied but not deeply explored. The primary focus is on traditional engineering concerns and process improvement, not the deliberate maximisation of agency. Mentions of DevOps and continuous improvement offer some minor alignment, but the content does not directly reference or deeply engage with the philosophical aspects of agentic engineering.",
     "reasoning_summary": "This content covers managing technical debt and quality with some links to DevOps and process improvement, but it does not address the core philosophy or practices of Agentic Engineering. Relevant overlap is superficial; the focus stays on traditional engineering and operational efficiency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "npnQtdLEwQY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 18.726,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on technical debt, sustainable software development, and related best practices. It mentions CI/CD and DevOps, which overlap with modern engineering, but there is no direct discussion or mention of autonomous AI agents, proactive context-aware AI, agency, human-agent collaboration, or agentic intelligence in delivery. The alignment, depth, intent, and signal to noise are all low because the core themes relate only peripherally (via CI/CD and DevOps modernity) to agentic delivery. The target audience is somewhat aligned (engineering/DevOps practitioners), but that's incidental as the discussion never moves into agentic principles.",
+    "reasoning_summary": "This content centers on technical debt and quality in software delivery with only passing relevance to Agentic Software Delivery—there is no discussion of autonomous agents, agency, or AI-driven delivery, making the fit minimal.",
     "level": "Ignored"
   }
 }

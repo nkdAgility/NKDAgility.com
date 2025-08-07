@@ -78,16 +78,23 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "ks38bwDTVfM",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:23:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile methodologies and Scrum practices, which are not central to the DevOps philosophy. While there is a brief mention of DevOps in the conclusion, it is not a primary focus of the discussion. The strategies outlined are more aligned with Agile principles rather than the core themes of DevOps, such as automation, shared accountability, and continuous improvement. Therefore, the confidence score reflects a low alignment with the DevOps category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 41.557,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.9,
+    "ai_audience": 5.4,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "Direct mention of 'DevOps' appears only in the closing invitation, without substantive discussion or exploration of DevOps principles. Main content deeply discusses Agile/Scrum strategies: Definition of Done, overcommitting, and refinement, all specific to Sprint execution, not DevOps philosophy. It lists related tasks—such as deployment or addressing production issues—but doesn't frame these within DevOps concepts like automation, feedback loops, or cross-functional collaboration. Audience might overlap (tech teams), and scattered brief references (e.g., 'firewall change') could tangentially relate to DevOps-adjacent themes, yet intent and depth remain focused on Agile methodology. No penalties for outdatedness or contradiction. Final confidence is low, as this piece is squarely about Agile, not about the core or culture of DevOps.",
+    "reasoning_summary": "Content is focused on Agile/Scrum strategies rather than DevOps practices or philosophy. Aside from a closing call-out, DevOps is not explored, making fit only weakly tangential and confidence in this category low.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1993,6 +2000,25 @@
     "final_score": 30.0,
     "reasoning": "The content focuses on practical Agile strategies like Definition of Done, avoiding overcommitment, and backlog refinement to improve Sprint outcomes and team productivity. There is no explicit mention or thematic discussion of agentic concepts such as developer autonomy, intelligent system agency, or the philosophical framework of Agentic Engineering. While there are tangential hints to autonomy (clarity, avoiding overcommitment) and a brief reference to DevOps, the main focus is process mechanics and productivity rather than the deliberate design for maximizing human or AI agency. The audience is somewhat aligned (practitioners), and the signal-to-noise ratio is moderate, but robust Agentic Engineering discussions are absent.",
     "reasoning_summary": "This content offers practical Agile advice on sprint success but has minimal conceptual or direct link to Agentic Engineering. It is primarily focused on process improvement, not the deliberate maximization of human or AI agency or systemic autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ks38bwDTVfM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 1.8,
+    "ai_audience": 2.0,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on classic Agile and Scrum best practices: defining completion criteria, avoiding overcommitment, and prioritizing backlog refinement. There are no mentions of agentic concepts, AI agents, or the integration of human expertise with autonomous systems. None of the discussion covers agentic software delivery principles such as contextual intelligence, agency, feedback loops involving AI, or modern engineering practices specific to agentic delivery. The intended audience is Agile practitioners, which only partly aligns, and the focus is on human-driven workflows. There is no signal that this is about agentic, AI-driven, or autonomous delivery models.",
+    "reasoning_summary": "This content does not discuss Agentic Software Delivery. It covers Agile best practices for human teams without mention of AI agents, autonomy, or integration of contextual intelligence. Fit is not present—alignment is highly limited.",
     "level": "Ignored"
   }
 }

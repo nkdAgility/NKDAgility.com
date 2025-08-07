@@ -171,17 +171,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "21k6OgxeKjo",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:09",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the role of the Product Owner in Agile teams, highlighting issues related to collaboration, value delivery, and team dynamics. It mentions fostering collaboration and empowerment, which aligns with the core themes of Social Technologies. However, the primary focus is on identifying and combating a specific mindset rather than a broader discussion of social technologies or frameworks. The depth of discussion on the category is moderate, as it provides strategies but lacks extensive exploration of methodologies or case studies.",
-    "level": "Secondary",
-    "reasoning_summary": "This content touches on Social Technologies by exploring how Product Owners can enhance collaboration and team empowerment within Agile settings. While it addresses relevant themes, its main emphasis is on challenging a particular mindset rather than deeply analysing social technology frameworks or methodologies, making its fit with the category moderate rather than comprehensive."
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 87.02,
+    "ai_mentions": 2.4,
+    "ai_alignment": 9.3,
+    "ai_depth": 8.8,
+    "ai_intent": 9.0,
+    "ai_audience": 8.7,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "Direct mentions of 'social technologies' are absent, though related concepts—collaboration, team empowerment, value-driven delivery—are explicit and central. The discussion deeply addresses how shifting Product Owner mindset can foster collaboration, transparency, and adaptive value delivery, aligning with social technology principles in Agile contexts. The purpose, tone, and depth target practitioners seeking to optimise team dynamics, collective intelligence, and continuous improvement. The audience is practitioners, scrum masters, and product owners—well-aligned but not at the broadest organisational level. No penalties were necessary as references are current, in-line with category principles, and not satirical or critical of social technologies themselves. Signal is strong, with only minor narrative filler.",
+    "reasoning_summary": "The content matches 'Social Technologies' by focusing on collaboration, value delivery, empowerment, and adaptive team practices in Agile. Its intent and themes are highly aligned, though it lacks explicit category mentions. Fit is strong and substantive.",
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -1948,5 +1954,24 @@
     "reasoning": "The content focuses on addressing 'project management mindsets' in Product Owners within Agile teams. It discusses empowerment, collaboration, and shifting focus from tasks to value—all relevant to developer agency and empowerment. However, it does not explicitly discuss Agentic Engineering, systemic observability, AI integration, or DevOps-infused practices. The discussion is rooted in team culture and agile roles, making it conceptually proximate but not fully aligned with the sophisticated, systems-level, and AI-inclusive scope of Agentic Engineering. All mentions of agency are implicit, with developer and team empowerment as a subtext rather than a focal construct. There are no outdated references or contradictory tones to warrant penalty.",
     "reasoning_summary": "This content encourages empowerment and value-driven work in Agile teams, which aligns partially with Agentic Engineering’s focus on agency. However, it lacks direct discussion of Agentic Engineering concepts, system-level design, or AI integration, so the fit is tangential rather than central.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "21k6OgxeKjo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 16.354,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 4.0,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses project management mindsets in Product Owners within Agile teams and advocates for a more value-driven, empowered team dynamic. There are no direct or indirect mentions of agentic software delivery, autonomous AI agents, contextual intelligence, or modern engineering practices related to agentic software delivery. While the piece emphasizes empowerment, autonomy, and value delivery—qualities that are important in agentic models—these are addressed strictly from a human/team perspective, with no AI or agentic system framing. The intent is aligned with promoting better Agile practices but is off-category for agentic software delivery, which is more focused on the integration of AI agents and organizational intelligence. The audience (Agile practitioners/Product Owners) only partially aligns with agentic delivery stakeholders. The content is focused but lacks relevance to the specified category.",
+    "reasoning_summary": "The content is focused on team empowerment and value-driven Agile practice, not on agentic software delivery or autonomous AI agents. No mention or exploration of agentic technologies, so fit is minimal.",
+    "level": "Ignored"
   }
 }

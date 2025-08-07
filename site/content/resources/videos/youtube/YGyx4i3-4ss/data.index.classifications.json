@@ -1221,15 +1221,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "YGyx4i3-4ss",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:54:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on understanding user needs and collaboration rather than discussing Test First Development principles. While it touches on the importance of data-driven decisions and stakeholder engagement, it does not explicitly mention Test First practices, success criteria, or testing methodologies, which are central to the category.",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 25.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.5,
+    "ai_audience": 8.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content discusses the importance of understanding user needs, data-driven decision making, strategic planning, and stakeholder collaboration. However, there are no direct mentions of Test First Development, nor is there any discussion of writing tests before implementation, success criteria, testing practices, or the Test First mindset. While the themes of collaboration and clarifying user needs are tangentially related to the background context in which Test First might happen, there is no explicit or implicit exploration of Test First principles, automated or manual testing, or associated practices. The content is intended for a software development audience, providing moderate audience alignment, but its overall intent, alignment, and depth relative to Test First Development are minimal.",
+    "reasoning_summary": "This content does not fit the Test First Development category—it focuses on user understanding, collaboration, and strategic planning, with no mentions or discussion of Test First principles or practices. Fit is very minimal and indirect.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1959,5 +1966,24 @@
     "reasoning": "The content focuses on user understanding, data-driven decision-making, and collaboration within software development. While these topics overlap somewhat with agentic engineering, especially through themes of data-driven decisions and stakeholder collaboration, it lacks explicit discussion of maximizing human or AI agency, decentralised decision-making, systemic observability, or DevOps-infused craft. There are no direct or even indirect mentions of 'Agentic Engineering' or its distinctive concepts such as ethical AI integration, developer agency, or engineering practices that maximize agency. The primary audience—software practitioners concerned with user-centered development—mostly aligns, but the philosophical and systems-level focus characteristic of agentic engineering is missing. The overall signal is relevant for good engineering but not specifically for Agentic Engineering as defined.",
     "reasoning_summary": "This content emphasizes user-centric software development, data-driven decisions, and stakeholder collaboration. While somewhat relevant to engineering excellence, it does not address Agentic Engineering’s core focus on maximizing agency, decentralization, or ethical AI. Alignment and direct relevance are limited.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "YGyx4i3-4ss",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 21.37,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 6.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on user understanding, data-driven decisions, and stakeholder collaboration in software development. There is no mention of agentic delivery, autonomous AI agents, proactive intelligence, or any agentic principles. While the discussion is relevant to improving software delivery outcomes, it is limited to traditional practices and concepts. There is no signal or language around AI integration, agent autonomy, human-AI synergy, or evolving delivery paradigms as highlighted in the Agentic Software Delivery category definition. The audience and intent are partially relevant, as practitioners interested in improved delivery could overlap, but there is no conceptual, direct, or in-depth discussion of agentic topics.",
+    "reasoning_summary": "Content addresses user insights and collaboration but does not reference agentic delivery, AI agents, or intelligent automation. It broadly fits software delivery themes but misses all key aspects of Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

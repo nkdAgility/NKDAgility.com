@@ -1402,15 +1402,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "QO9MQIxxcoy",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:15:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on updates and bug fixes for the VSTS Sync Migration Tool, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions community contributions, it does not connect these to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 10.345,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.1,
+    "ai_audience": 3.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is entirely focused on feature updates and bug fixes in a migration tool for TFS and VSTS users. It describes technical details, community contributions, and improvements in migration capability, but does not discuss, mention, or even indirectly reference the concept of Common Goals in Agile or DevOps settings. There is no consideration of team alignment, shared objectives, OKRs, or strategy-execution connection. The audience is practitioners, but the intent and subject matter completely lack thematic or conceptual overlap with the Common Goals category.",
+    "reasoning_summary": "This content is about migration tool technical updates and does not address Common Goals. There is no discussion of team objectives, alignment, or related Agile/DevOps goal-setting themes. Category fit is minimal to nonexistent.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1943,6 +1950,25 @@
     "final_score": 15.0,
     "reasoning": "The content is an update announcement for a specific tool (VSTS Sync Migration Tool), focusing on new features, bug fixes, and community contributions. There are no direct mentions or discussions of Agentic Engineering or its core topics such as maximising human or AI agency. While there's a brief mention of DevOps (in relation to automated deployments), it is in a generic context without philosophical discussion of engineer or system agency. The main themes are tool feature updates, bugfixes, and usage improvements. The audience (technical practitioners and tool users) is somewhat aligned, but the overall emphasis is on functionality, not on agentic practices or intentional design for decentralized decision-making or adaptive feedback. The signal-to-noise ratio is moderate since the content is focused, but entirely on tool capabilities, not on the broader concepts required by the Agentic Engineering category.",
     "reasoning_summary": "This content focuses exclusively on updates and new features for a migration tool, lacking discussion of agency, system design, or agentic principles. While the audience aligns somewhat, the content itself does not meaningfully relate to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QO9MQIxxcoy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content describes updates to the VSTS Sync Migration Tool for bulk work item migration and notifications in DevOps contexts, but never discusses autonomous AI agents, agentic design, or contextual intelligence. There are no explicit or implied references to Agentic Software Delivery themes such as embedded agency, AI-human collaboration, context-aware delivery, or feedback-driven agentic systems. The audience is technical, but the overall focus is on traditional automation and migration, not agentic transformation.",
+    "reasoning_summary": "Content describes basic DevOps tooling for migration and bulk updates. No evidence of agentic software delivery, autonomous agents, or relevant design patterns. Alignment with category is very low and likely accidental.",
     "level": "Ignored"
   }
 }

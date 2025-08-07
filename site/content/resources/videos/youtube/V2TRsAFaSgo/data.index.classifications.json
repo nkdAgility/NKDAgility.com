@@ -20,20 +20,21 @@
   "DevOps": {
     "resourceId": "V2TRsAFaSgo",
     "category": "DevOps",
-    "calculated_at": "2025-05-07T19:44:22",
-    "ai_confidence": 67.6,
-    "ai_mentions": 4.2,
-    "ai_alignment": 7.6,
-    "ai_depth": 6.9,
-    "ai_intent": 7.2,
-    "ai_audience": 8.1,
-    "ai_signal": 7.3,
+    "calculated_at": "2025-08-07T06:10:28",
+    "ai_confidence": 37.4,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.5,
+    "ai_intent": 4.6,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 68.0,
-    "reasoning": "The content addresses vendor lock-in and tech stack control, which are relevant to DevOps strategy, especially regarding flexibility and modern architectures. While DevOps is mentioned in hashtags and implied in the context of migration and agility, the discussion is not deeply focused on DevOps principles or practices. The primary audience of CTOs and the emphasis on migration strategies align moderately with DevOps, but the core exploration is broader than DevOps alone.",
-    "level": "Secondary"
+    "final_score": 37.0,
+    "reasoning": "The content addresses vendor lock-in and highlights systemic issues in IT and business decision-making affecting flexibility and adaptability—topics that are tangentially relevant to DevOps' aim of improving flow and reducing constraints. However, it neither directly mentions DevOps nor explores its principles such as automation, feedback loops, or cross-functional collaboration. Depth and alignment are moderate, as recommendations emphasize open standards and modular architectures (potentially DevOps-adjacent), but without framing them within the DevOps context. The audience (organizational/technical leadership) somewhat overlaps with DevOps targets. However, overall, the discussion stays focused on overcoming vendor lock-in rather than the philosophy, culture, or principles of DevOps.",
+    "reasoning_summary": "The content is tangentially related to DevOps, touching on flexibility, system design, and decision-making, but does not explicitly mention or deeply explore DevOps principles. Fit is partial and mostly indirect.",
+    "level": "Ignored"
   },
   "Product Management": {
     "resourceId": "V2TRsAFaSgo",
@@ -3189,5 +3190,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, but the piece aligns closely with its conceptual core. The focus is on regaining control, making better choices, and enhancing flexibility in software systems—all supporting agency and autonomy. Depth is shown through actionable steps around decision-making and untangling dependencies, though it stops short of explicit engineering or AI agency discussions. The intent, audience, and signal stay relevant for practitioners seeking autonomy in tech environments.",
     "reasoning_summary": "The content closely aligns with Agentic Engineering by prioritizing organizational autonomy, adaptive choices, and systemic transparency. While it lacks direct mentions and AI-specific focus, it thoroughly explores regaining decision-making control in software systems, making it highly relevant to the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "V2TRsAFaSgo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 23.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.1,
+    "ai_intent": 2.3,
+    "ai_audience": 7.0,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content explicitly addresses vendor lock-in and methods to regain control over systems of work. While it aligns with organizational flexibility and modernization—important adjacent ideas to Agentic Software Delivery—it does not reference or discuss AI agents, agentic architectures, contextual intelligence, or human–AI collaboration. There is no mention of agentic principles, integration of autonomous agents, or engineering practices associated with agentic delivery. Its intent is practical (empowerment against vendor lock-in) and relevant for similar audiences, but lacks the thematic and conceptual depth required for the category.",
+    "reasoning_summary": "The content discusses overcoming vendor lock-in and improving systems of work, which only partially overlap with the Agentic Software Delivery category. It lacks any direct or conceptual focus on agentic principles or autonomous AI agents.",
+    "level": "Ignored"
   }
 }

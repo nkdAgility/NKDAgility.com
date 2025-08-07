@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Empirical Process Control",
     "category": "Tool",
-    "calculated_at": "2025-04-09T15:54:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Empirical Process Control as a concept within Agile, Lean, and DevOps methodologies, but it does not focus on specific tools or their functionalities. While it touches on the importance of adapting processes based on evidence, it lacks direct mentions of tools that facilitate this process. The discussion is more about the methodology and mindset rather than the tools that support these practices, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 21.0,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 5.6,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content centers on the principle of empirical process control—a mindset and foundational concept in Agile, Lean, and DevOps. It thoroughly discusses transparency, inspection, adaptation, and continuous improvement but makes no mention of tools, techniques, specific applications, or software. The focus is on a methodology or philosophical approach rather than practical or technical tool support. The alignment, depth, and intent toward the 'Tool' category are therefore low, as the discussion is general and not tool-specific. No outdated references or oppositional tone were detected, so no penalties were applied.",
+    "reasoning_summary": "This content mainly discusses a core principle, not tools or tool implementation. It aligns with methodology, not the 'Tool' category. Fit is weak and mostly unrelated to the category's definition.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3130,6 +3137,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses exclusively on Empirical Process Control within Agile, Lean, and DevOps, emphasizing decision-making based on evidence and adaptability through transparency. However, there are no explicit references to human-AI collaboration, AI agents, or collective intelligence as defined. All examples center on human teams and their adaptive practices. While the target audience aligns with practitioners interested in agility (similar to the collective intelligence audience), the core concepts (distributed cognition with AI, human-AI partnerships, etc.) are missing. There is no discussion of AI involvement, design, or synergy with human agency. The depth and intent remain confined to organizational agility, transparency, and adaptation, lacking the socio-technical, collaborative AI aspects required for a strong fit with the 'Collective Intelligence' category.",
     "reasoning_summary": "This content explores empirical process control in Agile settings, focusing on evidence-based adaptation by human teams. It does not mention or imply human-AI collaboration or collective intelligence, making it narrowly aligned with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Empirical Process Control",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 24.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 8.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content provides a strong overview of empirical process control in Agile/DevOps but does not mention or describe agentic software delivery, autonomous AI agents, or related constructs. Its themes focus on adaptation, feedback, and transparency, which are tangentially relevant to agentic delivery principles (e.g., continuous improvement, feedback loops), but there is no discussion of AI integration, agency, human/agent synergy, or agentic frameworks. Thus, the alignment and depth scores are low, with 'mentions' essentially absent. The intended audience overlaps (Agile/DevOps practitioners), which raises the audience score, but overall the signal for agentic software delivery is weak. No penalties apply as the content isn't outdated or purposefully dismissive.",
+    "reasoning_summary": "This content covers Agile empirical process control, not agentic software delivery. While related concepts like feedback loops are noted, no agentic themes or AI agent references appear, so fit is low and largely tangential.",
     "level": "Ignored"
   }
 }

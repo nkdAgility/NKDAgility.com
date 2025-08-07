@@ -1458,15 +1458,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "zs0q_zz8-JY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:28:05",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the principles of servant leadership within Scrum, which are not directly related to the One Engineering System framework. While there are mentions of team dynamics and collaboration, these concepts are not explored in the context of 1ES, nor is there any discussion on standardising or integrating software development practices across teams. Therefore, the content does not align with the core themes of the One Engineering System.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 13.03,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.08,
+    "ai_depth": 1.3,
+    "ai_intent": 1.85,
+    "ai_audience": 3.1,
+    "ai_signal": 1.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on the Scrum Master role and servant leadership—core Scrum concepts—but there is no mention or exploration of the One Engineering System (1ES), its framework, tool integration, or standardization. The main discussion is on correcting misconceptions about servant leadership in Scrum, not on unified engineering frameworks. The audience (Scrum Masters, Agile practitioners) may overlap with those interested in 1ES, but the themes, intent, and substance lack direct relevance. Thus, confidence is extremely low.",
+    "reasoning_summary": "This content is solely about the Scrum Master and servant leadership in Scrum, with no reference to One Engineering System principles, frameworks, or themes. Fit to the category is minimal and indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1971,5 +1978,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' but extensively discusses servant leadership and team empowerment within Scrum, aligning with core category themes such as developer agency and decision decentralization. The narrative dives into misconceptions and refutes authoritative models in favor of autonomy, facilitating adaptive team environments—echoing agentic principles. However, it does not reference systemic observability, DevOps, AI integration, or continuous value delivery. Its primary intent and advice focus on maximizing autonomy and agency within teams rather than broader engineering design, and the audience consists of practitioners directly aligned with the category’s target. Depth is moderate, mostly exploring one axis of agency (Scrum team roles), and signal is high as few tangents occur. No penalties apply: content is timely and not contradictory.",
     "reasoning_summary": "While the piece doesn't name Agentic Engineering, it prioritizes autonomy, empowerment, and servant leadership—strongly aligning with the category’s emphasis on maximizing agency within engineering teams. However, its focus is limited to Scrum Master practices, omitting technical and AI aspects.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "zs0q_zz8-JY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 12.398,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 2.2,
+    "ai_audience": 4.7,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content exclusively discusses the servant leadership role of the Scrum Master, addressing common misconceptions and emphasizing empowerment, autonomy, and facilitation in agile teams. There are no references to AI, autonomous agents, contextual intelligence, agentic system integration, or modern engineering/agent governance practices. The intent is squarely on clarifying Scrum Master responsibilities and not on Agentic Software Delivery. The audience is technical and agile-oriented, which partially overlaps with the target audience of the evaluated category, but all themes stay solidly within human-centric, traditional Scrum Mastership, not agentic or AI-augmented delivery. No points warrant deduction for outdatedness or contradiction.",
+    "reasoning_summary": "Content focuses on human servant leadership within Scrum, not agentic software delivery, autonomous AI, or agent integration. No substantive overlap with the Agentic Software Delivery category—fit is minimal and only peripheral at best.",
+    "level": "Ignored"
   }
 }

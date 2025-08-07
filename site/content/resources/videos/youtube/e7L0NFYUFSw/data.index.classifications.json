@@ -1456,15 +1456,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "e7L0NFYUFSw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:28:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum, a specific Agile methodology, and critiques its common misconceptions. It does not address the principles or components of the One Engineering System (1ES), nor does it explore integration or standardisation of engineering processes. The focus is on Agile practices rather than the broader framework of 1ES, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 5.08,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.35,
+    "ai_depth": 1.42,
+    "ai_intent": 0.98,
+    "ai_audience": 0.66,
+    "ai_signal": 0.47,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on debunking Scrum productivity myths, clarifying output vs. outcome, and addressing Agile expectations—never mentioning One Engineering System (1ES) or its principles. There are no references to unified engineering, process or tool integration, or standardisation across teams as defined by the 1ES framework. The discussion targets Scrum/Agile practitioners and leaders, not those seeking information on 1ES adoption or practices. Any thematic overlap (value delivery, collaboration) is incidental and does not connect to 1ES core tenets, making the fit minimal and confidence very low.",
+    "reasoning_summary": "Content is exclusively about Scrum, not One Engineering System. No mentions or discussion of 1ES principles, integration, or practices. Minimal relevance; category fit is extremely weak and almost entirely absent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1976,6 +1983,25 @@
     "final_score": 38.0,
     "reasoning": "The content critiques a popular Scrum marketing phrase, emphasizing the importance of outcomes over output and realistic expectations in Agile. While it addresses philosophical aspects like value-centricity and touches on the evolution of practices within context, it does not directly discuss Agentic Engineering principles such as the maximization of human/AI agency, systemic observability, or industry-defining frameworks. There's overlap in intent around empowering teams, but content remains focused on Agile values rather than deliberate agentic design. No direct mentions of 'Agentic Engineering' or its core topics are present. The audience targets practitioners and leaders in Agile, aligning somewhat with the category's intended readership.",
     "reasoning_summary": "This critique of the Scrum productivity myth reinforces value-driven Agile principles and team context, overlapping with Agentic Engineering themes in intention but missing direct focus on agency, autonomy, or engineering design. Some philosophical alignment is present, but core agentic topics are not explored.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "e7L0NFYUFSw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 6.532,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.15,
+    "ai_depth": 0.95,
+    "ai_intent": 1.22,
+    "ai_audience": 1.46,
+    "ai_signal": 1.002,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are no direct mentions of agentic delivery or autonomous AI integration. The content focuses exclusively on a critique of Scrum marketing and shifting from output to outcome, without addressing AI, agents, or contextual intelligence. No discussion is present regarding agentic principles, AI-human synergy, or engineering practices specific to the category. The audience overlaps in being software delivery professionals, but the themes remain tangential and category misaligned.",
+    "reasoning_summary": "Content critiques Scrum productivity claims and emphasizes value over output, but makes no reference to agentic software delivery, autonomous agents, or AI. Does not fit the evaluated category beyond a related delivery audience.",
     "level": "Ignored"
   }
 }

@@ -82,13 +82,23 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "Ig-HpUfQr3M",
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:59:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions Windows 8 in the context of product development and decision-making at Microsoft, but the primary focus is on general product management and engineering practices rather than specific Windows operating system topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:36",
+    "ai_confidence": 11.6,
+    "ai_mentions": 2.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 1.8,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content makes only a single brief, tangential reference to Windows (the Windows 8 debacle) as an analogy for product misdirection. The main theme is hypothesis-driven engineering, product development, and investment learning—not about Windows OS installation, config, or troubleshooting. No windows-specific insights or user guidance are discussed, and the target audience is general product and engineering teams, not specifically Windows administrators or users. The single Windows mention has no depth or technical relevance. No penalties applied, as the Windows reference is not outdated or critical, but is used as an illustrative failure (not a satirical dismissal).",
+    "reasoning_summary": "The content is not about Windows OS but touches on Windows 8 only as an example of poor product fit. Its themes and intent are misaligned with the Windows category definition; Windows is not a focus. Partial, shallow match only.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -2039,5 +2049,24 @@
     "reasoning": "The content never explicitly references 'Agentic Engineering' or its terminology, leading to a low direct mentions score. However, it strongly aligns with agentic concepts: embracing hypothesis-driven engineering, decentralised decision-making, rapid feedback, experimentation, learning from failure, and adapting investment strategies in pursuit of continuous value. The Azure DevOps example highlights outcome-focused work, empirical learning, and resource reallocation based on feedback. Despite not addressing AI agency or systemic observability in detail, it clearly targets engineering practitioners and managers interested in modern, empowered practices. The signal is high as most of the article focuses on iterative, learning-driven engineering, but depth is moderate because philosophical aspects and ethical AI collaboration are not discussed.",
     "reasoning_summary": "This content aligns well with Agentic Engineering by championing hypothesis-driven engineering, rapid feedback, and empowered decision-making. Though it lacks direct mentions and deeper philosophical themes, its focus on empirical learning and value-oriented practices makes it relevant for agentic practitioners.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ig-HpUfQr3M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:35",
+    "ai_confidence": 36.508,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.4,
+    "ai_intent": 3.7,
+    "ai_audience": 4.2,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "Direct mentions of agentic software delivery or agent concepts are absent. The focus is on hypothesis-driven engineering, product value, experimentation, and learning from failure. While these are agile and modern engineering practices, they do not explicitly or implicitly discuss the integration of autonomous AI agents, proactive intelligence, agency, or human-AI synergy. Examples (Azure DevOps) and real-world lessons are illustrative of hypothesis-driven approaches but stop short of contextual intelligence or agentic delivery systems. The audience aligns partially (technical/product practitioners), but main themes are tangential. There is minimal relevance to governance frameworks for agents, agentic support activities, or human-in-the-loop autonomy.",
+    "reasoning_summary": "Content focuses on hypothesis-driven engineering and evidence-based product development, not agentic software delivery. No direct or conceptual coverage of autonomous AI agents, agentic frameworks, or agent–human collaboration.",
+    "level": "Ignored"
   }
 }

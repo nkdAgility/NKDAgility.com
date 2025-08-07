@@ -1338,15 +1338,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "i_DglXgaePM",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-10T15:54:41",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content briefly mentions evidence-based management (EBM) metrics in the context of measuring progress and making informed decisions, which aligns with the category. However, the primary focus is on Agile and DevOps practices rather than a deep exploration of EBM principles. The discussion on metrics is relevant but not extensive enough to warrant a higher score.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 70.78,
+    "ai_mentions": 4.6,
+    "ai_alignment": 7.4,
+    "ai_depth": 7.1,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 71.0,
+    "reasoning": "The content directly mentions evidence-based management (EBM) metrics and advocates for outcome-focused rather than output-focused metrics. However, EBM is only discussed explicitly in one section, and while the focus on metrics, outcomes, and data-driven decision-making aligns conceptually, most of the post explores broader Agile, DevOps, and engineering excellence themes. Discussion of EBM is moderately deep, mentioning the need for meaningful metrics and their use in Agile transformations. The intended audience—practitioners and leaders pursuing Agile transformation—matches well with EBM's target group. However, significant portions focus on engineering practices and organizational culture more generally, slightly diluting the signal. No outdated info or contradictory tone was present, so no penalties applied. Overall, it's a partially strong, but not comprehensive, fit for the EBM category.",
+    "reasoning_summary": "Some explicit mention and advocacy for EBM metrics and outcome-based measurement, with moderate depth. However, the main focus is broader Agile and engineering themes, making the EBM fit partial rather than core.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1975,6 +1982,25 @@
     "final_score": 36.0,
     "reasoning": "The content explores engineering excellence and Agile practices, focusing on the importance of process, transparency, metrics, and continuous improvement. While these are tangentially related to Agentic Engineering, there are no explicit mentions of maximizing agency (human or AI), ethical AI, systemic observability, or the core philosophical framing of agentic practices. The discussion centers on quality and agility but lacks depth on autonomy, decentralization, or AI as a collaborator. Audience aligns (practitioners/engineers), and the narrative is focused, but overall the content fits more with general engineering excellence and Agile transformation than with the specific intent of Agentic Engineering.",
     "reasoning_summary": "The piece addresses engineering excellence and agility with a focus on process, learning, and improvement. However, it does not explicitly discuss maximizing agency—either human or AI—nor does it delve into ethical or philosophical aspects central to Agentic Engineering. Its fit with the category is limited to adjacent themes rather than core relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 17.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.25,
+    "ai_depth": 2.6,
+    "ai_intent": 1.4,
+    "ai_audience": 6.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on balancing engineering excellence and effective Agile processes, highlighting topics like technical skills, continuous improvement, value delivery, and outcome-focused metrics. However, it does not mention or discuss agentic software delivery, autonomous AI agents, contextual intelligence, or any of the core agentic principles. There are no references to the integration of AI agents, human-in-the-loop paradigms, or context-aware automation. The audience (Agile/DevOps practitioners) is partially aligned, and the content is generally focused and relevant to modern software delivery, but it is off-topic for the Agentic Software Delivery category. No penalties were applied as the content is current and not critical or satirical.",
+    "reasoning_summary": "Content focuses on Agile and engineering excellence, not agentic delivery. No mention of autonomous AI agents or their integration. Fit to category is minimal—core agentic topics are absent; audience overlap is the only minor link.",
     "level": "Ignored"
   }
 }

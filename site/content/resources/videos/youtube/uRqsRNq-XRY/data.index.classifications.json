@@ -1484,15 +1484,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "uRqsRNq-XRY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:26:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile practices and the concept of judgment within Agile teams, which does not directly relate to the One Engineering System framework. While it touches on collaboration and team dynamics, it lacks explicit references to 1ES principles, components, or implementation strategies. The focus is on personal experiences and opinions rather than a structured discussion on standardising engineering practices.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 15.72,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "There are no direct mentions of One Engineering System (1ES) or any implicit references to a unified, standardized engineering framework. The focus is on Agile team environment, morale, metrics, and culture, which only tangentially relates to engineering standardization. Content does not cover 1ES principles, integration, toolchain unification, or cross-team processes. The target audience is similar (agile/engineering practitioners), but the topic is off the core definition, resulting in low scores overall.",
+    "reasoning_summary": "The content does not discuss One Engineering System; it covers Agile team culture and metrics, not unified engineering frameworks or practices. Only peripheral relevance to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1996,5 +2003,24 @@
     "reasoning": "The content focuses on fostering a healthy Agile environment by minimizing harmful judgment, encouraging open dialogue, and improving morale, innovation, and continuous improvement. While these concepts support developer empowerment and adaptivity—related to some Agentic Engineering subthemes (such as feedback-driven adaptation, team autonomy, and learning culture)—there are no direct mentions of 'Agentic Engineering' or its core terminology. The depth is moderate, with a practical orientation on team dynamics and psychological safety, but lacks emphasis on engineering practices, AI collaboration, or decentralised decision frameworks. The signal is strong for Agile practitioners, and the audience generally aligns with those interested in transformation and team empowerment, but the philosophical and technological underpinnings of Agentic Engineering are mostly implicit or missing.",
     "reasoning_summary": "This article strongly supports autonomy and collaborative improvement in Agile teams—concepts adjacent to Agentic Engineering—but does not directly discuss the deliberate engineering of agency, AI integration, or systemic feedback loops. Its relevance is moderate but indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uRqsRNq-XRY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 16.991,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 1.7,
+    "ai_audience": 5.6,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content explores Agile team culture, specifically the negative impact of judgment and ways to foster a positive, innovation-friendly environment. There are no mentions or discussion of agentic principles (AI agents, contextual intelligence, human-agent collaboration, automation frameworks, etc.), nor engineering or technical practices related to autonomous agents. The intent is on Agile team psychology and metrics, not the integration or governance of AI agents or agentic systems. The closest possible link is in discussing adaptive metrics and continuous improvement, but this falls well short of the 'Agentic Software Delivery' definition. The target audience (Agile practitioners) only partially overlaps with the agentic topic’s typical readers.",
+    "reasoning_summary": "Content is about Agile team culture, judgment, and metrics—not about integrating AI agents or agentic delivery. No direct or indirect match with the category’s definition. Only superficial overlap (continuous improvement theme). Not a fit.",
+    "level": "Ignored"
   }
 }

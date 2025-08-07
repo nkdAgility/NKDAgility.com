@@ -1350,16 +1350,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "hWrztsvRPAi",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:19:37",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise but does not focus on Scrum principles, practices, or frameworks. The discussion on transparency is relevant to Agile but lacks specific references to Scrum roles, events, or artifacts, resulting in a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 56.92,
+    "ai_mentions": 5.6,
+    "ai_alignment": 6.3,
+    "ai_depth": 5.8,
+    "ai_intent": 6.2,
+    "ai_audience": 6.6,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "While the podcast content centers on transparency, precise language, and ethics within Agile teams, and the hosts are closely associated with Scrum (notably as Professional Scrum Trainers), the core discussion is not specifically Scrum-focused. Scrum is only referenced tangentially in biographies, with the main discussion using Agile as the framing context. However, Scrum topics like transparency (a pillar of Scrum) are highlighted, and audience alignment (practitioners/coaches working in Scrum contexts) is present. The relatively low depth, mentions, and conceptual specificity around Scrum keep the confidence moderate. No outdatedness nor explicit contradictions are present.",
+    "reasoning_summary": "This content discusses ethical language and transparency in Agile, referencing Scrum trainers and transparency (a Scrum value), but focuses on Agile generally. Fit with the Scrum category is partial—relevant background, not core discussion.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1920,6 +1927,25 @@
     "final_score": 30.0,
     "reasoning": "The content centers on ethical language and transparency within Agile teams, emphasizing precise communication. While transparency is tangentially related to agentic practices, there are no direct references to Agentic Engineering concepts such as deliberate design for agency, systemic observability, DevOps-infused craft, or AI integration. The discussion remains at the level of communication ethics and does not explore engineering practices or frameworks for maximising human or AI agency. The intended audience (Agile practitioners and consultants) overlaps with Agentic Engineering, but the content is mainly about communication rather than agentic methodologies. No penalties apply, as the content is not outdated or oppositional.",
     "reasoning_summary": "This content focuses on ethical communication and transparency in Agile, with minimal overlap to Agentic Engineering. It does not address engineering design, agency, or AI integration, so alignment is low despite some audience fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hWrztsvRPAi",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 7.672,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content strictly discusses ethics, precise language, and communication transparency in Agile teams but never mentions or implies agentic software delivery, autonomous AI agents, contextual intelligence, or related engineering practices. There are no references to integrating AI with delivery processes or outcome-focused agentic systems. The only tenuous link is a general mention of 'product delivery,' but without any context of autonomy, intelligence, or agents. The content is primarily targeted toward general Agile practitioners and leaders, not specifically those implementing agentic principles.",
+    "reasoning_summary": "The content discusses ethical language in Agile, not agentic delivery, AI agents, or contextual intelligence. No relevant topics or purposes align with the 'Agentic Software Delivery' category—the fit is extremely weak and purely incidental.",
     "level": "Ignored"
   }
 }

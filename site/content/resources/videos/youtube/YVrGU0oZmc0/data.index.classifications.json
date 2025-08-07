@@ -847,15 +847,22 @@
     "reasoning_summary": "This content fits the category as it explores feature flags within continuous delivery, highlighting their role in enhancing code quality and supporting incremental changes. While it addresses key elements like feedback and user involvement, it mainly centres on the practical use of feature flags rather than delving into wider software design or architectural best practices."
   },
   "Transparency": {
+    "resourceId": "YVrGU0oZmc0",
     "category": "Transparency",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 32.45,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.9,
+    "ai_intent": 4.2,
+    "ai_audience": 5.0,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 32.0,
-    "reasoning": "The content discusses feature flags and their role in continuous delivery, which indirectly relates to transparency through the emphasis on feedback and user engagement. However, it does not explicitly focus on transparency as a primary theme, nor does it delve deeply into Agile methodologies or practices that promote transparency. The mention of user feedback and monitoring does align with transparency principles, but the overall discussion is more centred on feature flags and delivery processes rather than transparency itself.",
+    "reasoning": "The content centers on feature flags and continuous delivery, providing detailed process examples (e.g., Azure DevOps), user feedback collection, and incremental rollout. Although there are elements of openness—such as public previews and telemetry loops—the article is not primarily about transparency as an Agile value. The role of visibility or fostering trust in team processes is mentioned only as a minor effect (e.g., engagement with users, feedback channels), and there are no direct references to transparency, its direct benefits, or techniques beyond the practices described for delivery optimization. The focus is on delivery safety, iteration, and user feedback, not on making work progress transparent to teams or stakeholders or explicitly improving trust/accountability. Scores reflect partial, incidental fit but not a dedicated transparency discourse.",
+    "reasoning_summary": "Transparency is only an incidental aspect here—the main focus is feature flags and delivery. User feedback and preview opt-ins touch on openness, but core themes do not address transparency as defined by the category.",
     "level": "Ignored"
   },
   "Scrum Team": {
@@ -2070,5 +2077,24 @@
     "reasoning": "The content centers on feature flags as a method for safe, feedback-driven, incremental delivery, showcasing practices such as user telemetry, adaptive releases, and developer engagement. While concepts like continuous monitoring, user collaboration, and feedback-driven adaptation align with Agentic Engineering principles (e.g., decentralizing decision-making, enabling adaptation based on evidence), there is no explicit mention or direct framing of maximizing human/AI agency. The discussion provides fair depth on telemetry, user feedback, and dev-team learning cycles but focuses more on a practical delivery method than on engineering philosophy or ethical agency. Overall, the piece is relevant and aligned, especially with systemic observability and continuous value delivery topics, but lacks explicit reference to the agentic paradigm.",
     "reasoning_summary": "This content describes feature flags as enablers of incremental delivery, continuous adaptation, and user feedback loops. While deeply aligned with observability and adaptive engineering, it doesn't directly discuss agentic principles or the maximization of human/AI agency at a philosophical level. Relevant, but not central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "YVrGU0oZmc0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 31.935,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The article explains how feature flags support incremental releases, feedback loops, and continuous delivery using Azure DevOps as an example. It discusses telemetry, monitoring, and the evolution toward outcome-driven delivery but does not reference autonomous AI agents, agentic systems, or the deliberate integration of agency, contextual intelligence, or human/AI synergy as defined for 'Agentic Software Delivery.' Instead, it stays focused on established practices (feature flags, feedback, gradual rollout) common in DevOps and modern CI/CD. While some practices overlap, the absence of agentic language, agency, or AI context means conceptual alignment and depth are moderate at best. Signals for audience and relevance are high due to focus on advanced delivery practitioners.",
+    "reasoning_summary": "Content focuses on feature flags and continuous delivery, but makes no mention of autonomous agents or agentic delivery. Overlap exists in feedback and telemetry, but agentic integration or AI is absent. Only a partial fit at the theme level.",
+    "level": "Ignored"
   }
 }

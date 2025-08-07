@@ -1349,15 +1349,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "qnGFctaLgVM",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:57:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Russell's qualifications and teaching philosophy regarding Product Ownership, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to enhancing product value and learning through case studies, these do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth on the Shift-Left approach, making it peripheral to the category.",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 4.0,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "There are no explicit mentions of Shift-Left Strategy or any direct alignment to its principles in the content. The focus is on Russell's teaching approach for Product Ownership in the PSPO course, emphasizing value maximization and product development experience, with case studies from different industries. There is no discussion of integrating testing, security, or compliance earlier in the development cycle, nor any reference to tools, techniques, or metrics related to Shift-Left. The audience is technical and related to Agile/Product, providing a slight argument for tangential relevance, but all key Shift-Left themes are absent. Scores are calibrated to reflect the near-total lack of fit.",
+    "reasoning_summary": "This content is focused on promoting a Product Ownership (PSPO) course and Russell’s expertise. It does not discuss Shift-Left Strategy, its principles, techniques, or relevant processes. No substantive or conceptual alignment with the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1907,6 +1914,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on promoting Russell as a skilled PSPO instructor, highlighting his product development background, philosophy of value maximization, and teaching strategies. While it references topics like empowerment, real-world examples, and value-driven approaches, it does not discuss the engineering philosophies, decentralization of agency, or AI/human autonomy core to Agentic Engineering. There are no explicit mentions of the category; the discussion is product ownership-centric rather than about deliberate engineering practices maximizing agency for humans or intelligent systems.",
     "reasoning_summary": "This content is a promotional endorsement for a PSPO trainer, focusing on product ownership skill development. It lacks discussion of deliberate engineering practices, human-AI agency, or the philosophical themes central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 9.801,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.9,
+    "ai_intent": 0.9,
+    "ai_audience": 2.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on promoting a specific trainer’s approach to the PSPO (Professional Scrum Product Owner) course, emphasizing product ownership skills, practical experience, and value maximization in product delivery. It does not mention or imply the use of autonomous AI agents, contextual intelligence, or agentic delivery practices. There are no references to engineering practices (CI/CD, observability, etc.), governance over AI agents, human-in-the-loop designs, or any of the other core components defined for the Agentic Software Delivery category. The content targets aspiring or current Product Owners, not engineers or strategists innovating agentic delivery processes. As such, almost all scoring dimensions are necessarily very low, apart from a moderately higher signal score due to the consistent relevance within its own topic.",
+    "reasoning_summary": "Content is about a PSPO course and product ownership, with no discussion of agentic delivery, AI agents, or related concepts. Does not fit the Agentic Software Delivery category; alignment is almost wholly absent.",
     "level": "Ignored"
   }
 }

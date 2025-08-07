@@ -42,13 +42,23 @@
     "level": "Tertiary"
   },
   "Leadership": {
+    "resourceId": "NphdCz-Fh4k",
     "category": "Leadership",
-    "calculated_at": "2025-02-18T00:10:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of a Scrum Master in guiding teams and organisations, which is a significant aspect of leadership in Agile contexts. However, the primary focus is on Scrum principles and practices rather than leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 86.93,
+    "ai_mentions": 6.5,
+    "ai_alignment": 9.3,
+    "ai_depth": 9.1,
+    "ai_intent": 8.6,
+    "ai_audience": 8.3,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The course content repeatedly references and directly discusses leadership in the Scrum context, particularly servant-leadership, behavioural shifts, and fostering team resilience. Leadership topics are central, especially regarding Scrum Master responsibilities (coaching, enabling collaboration, fostering trust, driving cultural change). The learning outcomes and course topics align closely with the Leadership category definition—covering adaptive leadership, building high-performing teams, and inspiring collaboration. Content goes beyond mere mention by discussing skills/traits, stakeholder engagement, coaching, conflict resolution, and organisational agility. Target audience (Scrum Masters, managers) fits the Leadership focus. Some content is also about Scrum mechanics more generally, so not 100% is exclusively on leadership, but leadership is both directly and conceptually central to the course.",
+    "reasoning_summary": "Content is highly aligned: leadership (especially servant-leadership) is central, with deep discussion on leading, coaching, building trust, and organisational agility. Nearly all core themes fit the Leadership category in Agile/Scrum contexts.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -2059,6 +2069,25 @@
     "final_score": 36.0,
     "reasoning": "The PSM course strongly focuses on Scrum principles, team leadership, and agile facilitation. While it touches on key ideas such as team self-management, value delivery, transparency, and empiricism, it lacks any explicit mention or in-depth exploration of Agentic Engineering. The course emphasizes practitioner-level Scrum mastery, not the purposeful design of systems maximizing human/AI agency. No content addresses concepts like systemic observability, DevOps-infused craft, ethical AI, or engineering for distributed agency. Therefore, alignment is partial and indirect; the audience is appropriate but the primary themes do not concentrate on Agentic Engineering.",
     "reasoning_summary": "This content trains Scrum Masters in agile team leadership and value delivery, with some relevance to agency and autonomy. However, it does not explicitly discuss Agentic Engineering or its systemic, engineering-focused concepts, making its fit to the category partial and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "NphdCz-Fh4k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 14.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 2.4,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses entirely on traditional Scrum Master training, covering Scrum principles, facilitation, team leadership, and agile practices—but makes no mention of agentic software delivery, autonomous AI agents, or any related key topics. There is minimal to no conceptual overlap; participants will not be exposed to context-aware, autonomous agent integration or modern agentic practices. While there is a minor mention of promoting innovation, it is within the context of Scrum teams, not agentic systems. There is no targeting of the Agentic Software Delivery audience, nor any signal that the organizational or technical context of agentic delivery is addressed.",
+    "reasoning_summary": "This is a conventional Scrum Master course with no content related to agentic delivery, AI agents, or contextual intelligence. The fit with the 'Agentic Software Delivery' category is minimal and almost entirely absent.",
     "level": "Ignored"
   }
 }

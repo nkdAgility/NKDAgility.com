@@ -258,15 +258,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "kT9sB1jIz0U",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:55:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses hierarchies of competence, respect, and collaboration in the workplace, which are not directly related to Continuous Delivery principles. While it touches on themes of continuous learning and collaboration, these concepts are presented in a general context rather than specifically addressing Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 16.65,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.6,
+    "ai_audience": 6.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on workplace competence, respect, expertise, and continuous learning, but does not mention Continuous Delivery, its principles, practices, or typical concerns. Alignment and depth are very low, as no themes, tools, or automation practices relevant to Continuous Delivery are addressed. Although 'continuous learning' is a cultural aspect that can relate indirectly, the overall intent is on general workplace culture, not disciplined software delivery. The audience slightly overlaps, as technical practitioners may be interested, but the signal-to-noise ratio is low in terms of Continuous Delivery relevance.",
+    "reasoning_summary": "The content is almost wholly unrelated to Continuous Delivery, focusing on competence and respect in the workplace rather than software delivery practices or principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1961,5 +1968,24 @@
     "reasoning": "The content discusses competence-based hierarchies, respect, expertise, and workplace collaboration. It aligns conceptually with themes of agency and autonomy, particularly around valuing expertise and fostering environments for continuous learning. However, it does not directly reference Agentic Engineering, software engineering, or AI/human agency, and lacks depth in those specific areas. Some overlap exists with decentralised decision-making and empowerment. The audience and focus are partially aligned but not exclusive to technical practitioners or those in engineering/DevOps contexts.",
     "reasoning_summary": "The content emphasizes competence, respect, and collaborative learning—ideas adjacent to agentic environments—but does not directly address Agentic Engineering or its technical/AI aspects. Its relevance is partial, with moderate conceptual overlap but missing direct or in-depth linkage to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "kT9sB1jIz0U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 14.52,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.65,
+    "ai_depth": 2.0,
+    "ai_intent": 3.05,
+    "ai_audience": 3.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content centers on competence hierarchies, respect, and expertise in workplace collaboration. It promotes continuous learning and expert consultation but never discusses autonomous AI agents, agentic delivery, or modern engineering practices. There is no mention of AI, agency, or delivery frameworks, nor is software or agentic delivery referenced directly or indirectly. The focus is organizational and human-centric without reference to contextual intelligence, feedback loops, or systemic integration of AI agents—core Agentic Software Delivery attributes. The audience and intent only partially match, as both can be relevant to organizations aiming for modern practices, but the connection is indirect and weak.",
+    "reasoning_summary": "Content discusses respect, expertise, and collaboration but does not mention AI agents, autonomy, or modern software delivery. Only minor thematic overlap exists with the category—fit is very weak and mostly incidental.",
+    "level": "Ignored"
   }
 }

@@ -1441,15 +1441,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "Bjz6SwLDIY4",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:48:56",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses the importance of continuous adaptation in business but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on flexibility and adapting to change, it lacks a focus on integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 9.445,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 0.9,
+    "ai_audience": 4.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on business adaptation, flexibility, and principle-based management in dynamic markets, but never explicitly references Shift-Left Strategy or its aspects (e.g., early testing or security in software development). Themes of adaptation and proactive change are present, but the discussion is broad and aimed at general business management rather than the specific integration of processes early in the software lifecycle. There is no mention of software development methodologies, technical integrations, or related concerns typical of Shift-Left. Thus, the confidence that this fits under Shift-Left Strategy is extremely low; scores reflect only the faint conceptual overlap with themes of moving from rigid to adaptive approaches, but not the process-specific meaning required.",
+    "reasoning_summary": "No mention or discussion of Shift-Left Strategy or its software process context; content is about broad business adaptation. Minimal relevance, and only general conceptual overlap on proactivity and flexibility.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2009,6 +2016,25 @@
     "final_score": 37.0,
     "reasoning": "The content discusses business and individual adaptation, principle-based decision-making, and empowerment—concepts adjacent to Agentic Engineering—but never specifically addresses software engineering, human or AI agency, DevOps, or ethical AI. Direct mention is absent, and the main themes focus on flexibility and change rather than intentional engineering frameworks. The target audience appears to be general business readers, with only tangential overlap to technical/agentic engineering practitioners. Some ideas around empowering teams and focusing on principles loosely connect to agency, earning modest alignment and intent scores, but the piece lacks depth or specificity regarding agentic engineering practices.",
     "reasoning_summary": "This article highlights adaptation, flexibility, and principle-driven business practices, but does not discuss Agentic Engineering, software agency, or DevOps-specific topics. Relevance to the category is limited and largely tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Bjz6SwLDIY4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 8.675,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 2.3,
+    "ai_audience": 3.8,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "alignment (-0.7) and depth (-0.8) penalized for lacking modern, AI-driven, agentic delivery specifics and not referencing any autonomous agents or related frameworks; content focuses on generic business adaptation with outdated/legacy contrast.",
+    "final_score": 9.0,
+    "reasoning": "The content discusses continuous adaptation, flexibility, principle-based decision-making, and agile mindsets in business, but never addresses autonomous agents, agentic delivery, or AI-human-organization synergy. The closest overlaps are abstract references to agility and adaptation, but these are generic business concepts. No mention is made of contextual intelligence, software delivery, agent integration, or any technical practices or governance frameworks as per the category. The intended audience is business-oriented but not focused on practitioner or technical roles relevant to Agentic Software Delivery. Penalties applied due to total absence of technical or agentic specifics, and because calls to overcome outdated practices are generic/not modern engineering-focused.",
+    "reasoning_summary": "Content is about business adaptation and agile mindsets, not Agentic Software Delivery. No discussion of AI agents, contextual intelligence, agentic frameworks, or technical integration; topics are too generic for this category. Strong non-fit.",
     "level": "Ignored"
   }
 }

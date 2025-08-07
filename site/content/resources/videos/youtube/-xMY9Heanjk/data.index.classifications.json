@@ -1165,13 +1165,23 @@
     "level": "Tertiary"
   },
   "Lean": {
+    "resourceId": "-xMY9Heanjk",
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses concepts related to Lean, such as empiricism and feedback loops, but primarily focuses on Scrum and Agile methodologies. Lean is mentioned as part of a broader discussion, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 1.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses exclusively on Scrum and Agile coaching, discussing empirical process control, team dynamics, and misconceptions about Scrum practices. There are no references to Lean, its principles, or any Lean-specific tools, methods, or waste reduction techniques. The overall alignment with Lean as defined—value, waste, continuous improvement from TPS—is extremely limited. Although empirical learning and continuous improvement are mentioned, they are positioned in the context of Agile and Scrum, not Lean. Audience and intent also target Scrum/agile practitioners, not Lean methodology users. No penalties apply as the content is neither outdated nor critical but simply off-category.",
+    "reasoning_summary": "Content centers on Scrum/Agile coaching and empirical process control; there are no Lean-specific themes, topics, or references. Fit with the Lean category is very weak and largely incidental.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -2052,5 +2062,24 @@
     "reasoning": "The content discusses challenges faced by new scrum teams, emphasizing empiricism and learning from feedback, which are tangentially aligned with Agentic Engineering (notably feedback-driven adaptation and some aspects of team autonomy). However, the discussion centers on basic agile and scrum philosophy, without directly exploring agency maximization, systemic observability, or ethical AI/collaborative autonomy. No direct mention of Agentic Engineering or its unique focus areas appears. Audience and signal scores are higher due to the practitioner orientation. No penalties are applicable, as the content is current and does not contradict the Agentic Engineering paradigm.",
     "reasoning_summary": "This content primarily addresses common agile and scrum challenges, with some alignment to feedback and team learning. It lacks direct discussion of Agentic Engineering principles like maximizing human/AI agency or systemic observability, so its relevance to the category is moderate but not strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-xMY9Heanjk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 13.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses exclusively on challenges with new Scrum teams, specifically around mindset, empiricism, coaching, and agile fundamentals. There is no mention or discussion of AI agents, contextual intelligence, agent autonomy, or systemic integration of human/machine intelligence as core to Agentic Software Delivery. Feedback loops and empiricism are discussed, but only as traditional Scrum concepts, not in the context of agentic enablement. The intended audience is agile practitioners and coaches, aligned with software delivery but not specifically agentic models. The signal is high for general agile/Scrum practice, but almost none is relevant to agentic software delivery.",
+    "reasoning_summary": "This content is about agile coaching and Scrum team development—not Agentic Software Delivery, as it lacks any discussion of autonomous AI agents, their integration, or agentic practices. Fit is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

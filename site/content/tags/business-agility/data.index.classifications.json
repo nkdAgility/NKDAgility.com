@@ -48,15 +48,22 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Business Agility",
     "category": "Method",
-    "calculated_at": "2025-04-09T16:20:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Business Agility and its importance in adapting to market changes, but it does not provide specific structured methods or step-by-step procedures. While it mentions principles from Agile, Lean, and DevOps, it lacks detailed discussions on specific methods like Scrum or Kanban, which are essential for a higher confidence score in the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 28.29,
+    "ai_mentions": 2.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.6,
+    "ai_intent": 3.8,
+    "ai_audience": 7.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on Business Agility as a concept, describing its importance, outcomes, and underlying culture. While methods (Agile, Lean, DevOps) are named, procedural details or structured step-by-step practices are missing. The intent is to inform about benefits and philosophy, not about methods. Audience fit is higher as it targets business and improvement stakeholders, possibly practitioners, but the main thrust is conceptual rather than methodical.",
+    "reasoning_summary": "The content is conceptual and strategic, not method-focused. It references methods only as part of a bigger picture, lacking specific procedures or step-by-step detail. Fit with 'Method' is low and mostly tangential.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3133,6 +3140,25 @@
     "final_score": 19.0,
     "reasoning": "The content discusses agility, adaptation, and collaboration within organizations but makes no explicit mention of collective intelligence or human-AI partnerships. The main focus is on organizational and team flexibility, Lean, DevOps, and Agile practices. While 'collaboration' is referenced generically, there is no discussion of AI agents, human-AI interaction, or the emergence of capabilities through such synergies. The alignment with 'Collective Intelligence' is thus incidental and very limited, mainly by possible indirect overlap in themes of collaboration and adaptation in socio-technical systems, but without any concrete connection to the defined category. Audience fit is partial, as the intended readers likely overlap with those interested in collective intelligence practices, but the content's purpose and depth fall well outside the scope defined for the category.",
     "reasoning_summary": "This content describes business agility with a focus on organizational adaptation and collaboration, but does not address human-AI collaboration or the emergence of collective intelligence. It remains outside the core definition of the category, with only tangential thematic links.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Business Agility",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 17.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.5,
+    "ai_audience": 7.25,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses Business Agility broadly without any direct reference to agentic software delivery, autonomous AI agents, or agentic practices. Its themes focus on agility, continuous improvement, and organisational adaptation, but do not address integration of AI agents, contextual intelligence, or human-AI collaboration in software delivery. The audience partially overlaps (organizational/tech audiences), but the fit with Agentic Software Delivery is marginal and mostly tangential.",
+    "reasoning_summary": "Content focuses on organisational agility and process improvement with no mention of agentic software delivery, AI agents, or related themes. There is little conceptual overlap, and relevance to the category is minimal and indirect.",
     "level": "Ignored"
   }
 }

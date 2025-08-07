@@ -21,21 +21,21 @@
   "Tenet": {
     "resourceId": "0A8ONYVbWlL",
     "category": "Tenet",
-    "calculated_at": "2025-05-16T14:12:24",
-    "ai_confidence": 72.375,
-    "ai_mentions": 4.8,
-    "ai_alignment": 8.6,
-    "ai_depth": 8.4,
-    "ai_intent": 7.6,
-    "ai_audience": 8.2,
-    "ai_signal": 8.0,
+    "calculated_at": "2025-08-07T06:10:21",
+    "ai_confidence": 87.25,
+    "ai_mentions": 6.2,
+    "ai_alignment": 9.5,
+    "ai_depth": 9.2,
+    "ai_intent": 9.6,
+    "ai_audience": 8.5,
+    "ai_signal": 7.8,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the actionable rule that 'accountability requires agency' within Scrum roles—a clear tenet-like doctrine. It critiques conditions where Scrum roles are stripped of real power, illustrating concrete implications (e.g., Product Owner as backlog secretary). While 'tenet' isn't explicitly named, the argument centrally addresses a specific, prescriptive organisational principle aligned with Agile/DevOps tenets. The discussion is substantial and purpose-driven, though it doesn’t enumerate multiple tenets or methodologies, slightly limiting depth and mention scores.",
-    "reasoning_summary": "This piece forcefully argues that accountability in Scrum must be paired with real agency, fitting the spirit of Agile tenets. Its actionable focus and relevant audience boost alignment and depth, even though the term 'tenet' isn't directly cited. The content is purposeful and clearly relevant to organisational practice.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content directly discusses the actionable rule that accountability in Scrum must be paired with real agency—a prescriptive tenet shaping team behavior. Multiple explicit examples link lack of power to ineffective roles, which mirrors the nature of tenets in Agile and Scrum. Strong conceptual and depth alignment are present, as the main message urges organizations to uphold specific, actionable tenets rather than mere values or labels. The intended audience is clearly Scrum practitioners, coaches, or agile leaders. Signal is high, but some narrative/advocacy elements (e.g., rhetorical questions) slightly reduce density, though content remains highly focused.",
+    "reasoning_summary": "The piece strongly fits the 'Tenet' category, advocating the actionable principle that accountability requires agency in Scrum. It explores this tenet with clear examples, aligning both in topic and intent with the category definition.",
+    "level": "Primary"
   },
   "Collaboration Tools": {
     "resourceId": "0A8ONYVbWlL",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content strongly centers on the necessity of agency in Scrum roles, directly associating accountability and empowerment. It argues that without real agency, key Scrum roles are reduced to powerless positions, making accountability meaningless. This resonates conceptually with Agentic Engineering, particularly around developer agency and feedback-driven adaptation. However, it doesn't explicitly mention 'Agentic Engineering' or delve into technical practices, ethical AI, or DevOps aspects commonly detailed in the category. Its main strength is thematic fit, targeting an audience of practitioners concerned with maximizing agency in software roles, but lacking depth on the engineering frameworks or system-level interventions typical of Agentic Engineering.",
     "reasoning_summary": "This content highlights the crucial link between agency and accountability in Scrum, echoing Agentic Engineering's core theme of empowering roles to act meaningfully. It aligns conceptually, but lacks explicit references and technical depth around agentic engineering practices or AI integration.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "0A8ONYVbWlL",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:20",
+    "ai_confidence": 26.0,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.9,
+    "ai_intent": 2.7,
+    "ai_audience": 7.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on 'agency' and accountability in Scrum roles, emphasizing the need for empowerment to fulfill responsibilities. However, it does not discuss autonomous AI agents, contextual intelligence, or integration of agentic delivery principles as defined. There are no direct mentions of 'Agentic Software Delivery,' AI, or related frameworks. The audience is aligned (Scrum practitioners, delivery roles) and signal-to-noise is decent, but the core concept is traditional agency in human roles, not the AI agentic systems described in the category definition.",
+    "reasoning_summary": "Content discusses human agency and accountability in Scrum, not Agentic Software Delivery as involving AI agents or contextual intelligence. Fit is partial and indirect; no direct references to agentic delivery or autonomous agents.",
+    "level": "Ignored"
   }
 }

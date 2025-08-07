@@ -753,15 +753,22 @@
     "level": "Ignored"
   },
   "Lean Principles": {
+    "resourceId": "eLkJ_YEhMB0",
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T20:18:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile certifications and their impact on learning rather than Lean Principles. While there are mentions of value and effectiveness, the focus is not on Lean concepts such as waste reduction or continuous improvement. The discussion lacks depth in Lean practices and does not provide relevant tools or techniques associated with Lean.",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 27.033,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on the pitfalls of Agile certifications, the importance of experience, learning, and being selected for roles based on real value. While it underlines continuous learning—conceptually adjacent to Lean's Kaizen—there is no direct or substantial discussion of Lean Principles such as waste reduction, value stream mapping, or Lean tools. The main thrust is about credentialing in Agile, not Lean thinking or its core practices. The audience (Agile practitioners) has some overlap, and there are scattered thematic links via mentions of value and learning, but Lean as a philosophy or methodology is not directly addressed.",
+    "reasoning_summary": "Content focuses on Agile certifications, not Lean Principles. Continuous learning parallels Kaizen slightly, but Lean’s philosophy or methods are not discussed. Only a minimal, indirect fit—category alignment is weak.",
     "level": "Ignored"
   },
   "Agile Transformation": {
@@ -1999,6 +2006,25 @@
     "final_score": 22.0,
     "reasoning": "The content centers on the value and limitations of Agile certifications, advocating for experience, real learning, and team-based validation. While there is some philosophical overlap with agency (e.g., emphasizing hands-on practice and authentic competence), the focus is not on the principles or systemic design required for Agentic Engineering. There are no direct mentions of agentic engineering or its core topics: decentralized decision-making, system observability, DevOps culture, or ethical AI integration. The audience—Agile professionals—somewhat overlaps, but the content doesn’t extend into the deliberate engineering of agency for humans or AI, nor does it address engineering practices, systems design, or feedback adaptation as core themes. The discussion is practical but low in conceptual and depth alignment for this category.",
     "reasoning_summary": "This content critiques Agile certifications and highlights real-world learning, but it doesn’t address the intentional engineering of human or AI agency, systemic feedback, or decentralized practices. There is minimal alignment with Agentic Engineering’s definition or focus.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "eLkJ_YEhMB0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.8,
+    "ai_intent": 1.4,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on Agile certifications, real-world learning, and team validation rather than credentials. There is no discussion of autonomous AI agents, contextual intelligence, engineering practices enabling agentic delivery, or human-AI collaboration. No direct or conceptual mentions of Agentic Software Delivery exist. The main purpose is to critique certification culture in Agile, discuss professional growth, and promote learning and mentorship, which does not align with agentic principles. While the target audience overlaps (Agile practitioners), the content is off-topic with respect to the evaluated category.",
+    "reasoning_summary": "This content is unrelated to Agentic Software Delivery. It discusses Agile certifications and learning, with no mention or thematic alignment to agentic delivery or the integration of AI agents in software delivery.",
     "level": "Ignored"
   }
 }

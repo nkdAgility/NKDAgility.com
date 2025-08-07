@@ -705,15 +705,22 @@
     "level": "Ignored"
   },
   "Team Motivation": {
+    "resourceId": "eyXbQF80i4R",
     "category": "Team Motivation",
-    "calculated_at": "2025-04-10T14:45:04",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, highlighting autonomy and collaboration, which are key aspects of team motivation. However, it lacks depth in exploring broader motivational strategies and does not explicitly address the psychological or social aspects of team dynamics.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 68.7,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.7,
+    "ai_depth": 6.8,
+    "ai_intent": 7.3,
+    "ai_audience": 7.6,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content directly explains self-organization within Scrum teams, touching on autonomy, collaborative decision-making, and the Scrum Master's supportive role—all aligned with team motivation concepts. However, 'team motivation' is not explicitly named, and the discussion, while aligned, is moderately deep but not exhaustive. The target audience and focus are relevant, but some details on impact or outcomes for motivation are implicit rather than fully elaborated.",
+    "reasoning_summary": "This content covers key aspects of team autonomy and collaboration in Scrum, which align well with Team Motivation, though the coverage is moderately deep and the term is not explicitly named.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -1972,5 +1979,24 @@
     "reasoning": "The content discusses Scrum teams' self-organization, autonomy, and collaborative decision-making, which partially align with Agentic Engineering's focus on maximizing human agency in engineering. However, it does not mention Agentic Engineering or cover it explicitly. The discussion is limited to team-level autonomy within Scrum, lacking depth on engineering practices, systemic observability, or AI augmentation. The audience is technical, focused on Scrum practitioners, which partially overlaps with Agentic Engineering’s target, though there is little reference to broader engineering context, ethical autonomy, or continuous value-oriented feedback systems.",
     "reasoning_summary": "The content moderately fits the Agentic Engineering category through its emphasis on team autonomy and collaboration in Scrum. However, it lacks references to engineering excellence, AI agency, or broader systemic practices, limiting its overall relevance and fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "eyXbQF80i4R",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 17.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.2,
+    "ai_audience": 5.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Scrum team self-organization, autonomy, and the Scrum Master's facilitation role. It does not mention or discuss AI agents, contextual intelligence, or integration of agentic principles as defined in Agentic Software Delivery. While there is high autonomy and collaboration, the context is human-centric (Scrum), not agentic-AI-centric. There is minimal conceptual overlap (team autonomy) but no depth, direct reference, or intent to discuss agentic software delivery themes.",
+    "reasoning_summary": "Focuses on human team self-organization in Scrum, with no reference or discussion of autonomous AI agents, context-aware systems, or agentic delivery. Alignment is superficial and incidental; content does not fit the category.",
+    "level": "Ignored"
   }
 }

@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Coaching",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 62.05,
+    "ai_mentions": 3.3,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 7.8,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 62.0,
-    "reasoning": "The content discusses coaching and its role in fostering self-organisation and accountability within teams. However, while it mentions accountability, it does not focus on explicit accountabilities or outcome ownership as defined in the category. The primary emphasis is on coaching as a practice rather than on accountability as a structural mechanism in work systems.",
+    "reasoning": "The content centrally discusses coaching in Agile and DevOps environments, touching on self-organisation and fostering accountability. However, accountability is present more as a byproduct of coaching rather than the main theme. While coaching can enable accountability structurally, most focus is on personal/team growth, self-management, and psychological safety—with only a brief nod to accountability mechanisms. There is no direct exploration of role-based accountability or systematic structures outlined in the guideline. The audience and intent align moderately with practitioners in work systems, but the primary thrust is on development and empowerment through coaching, not accountability structures.",
+    "reasoning_summary": "Accountability is mentioned as an effect of coaching, but not explored in depth or structurally—a partial fit. Main focus is on team/individual growth and empowerment in Agile/DevOps, not on explicit accountability mechanisms.",
     "level": "Secondary"
   },
   "Framework": {
@@ -3122,6 +3129,25 @@
     "final_score": 24.0,
     "reasoning": "The content focuses exclusively on the practice of coaching as a means of unlocking team and leadership potential in agile and DevOps contexts. While it discusses collaboration, learning, and team empowerment, it is entirely human-centered and never directly references AI, human-AI partnerships, or the emergence of collective intelligence as defined. Key features of the category (human-AI synergy, distributed cognition with AI agents, organizational design for human-AI teams) are missing. Audience and context partially overlap with Collective Intelligence (team-based, agile, socio-technical settings), but the conceptual content falls short. No penalties were required as the tone is on-topic and current.",
     "reasoning_summary": "This content is focused on human team coaching and development within agile and DevOps environments, with no mention of AI or human-AI partnership. It only loosely aligns with the 'Collective Intelligence' category, resulting in a low confidence score for classification.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Coaching",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:11",
+    "ai_confidence": 22.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 3.1,
+    "ai_audience": 6.6,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on coaching in agile/DevOps contexts, emphasizing guidance, potential, and adaptability in teams. However, there are no direct or indirect mentions of agentic software delivery, autonomous AI agents, or their integration with human expertise. The piece discusses human coaching and organizational learning without reference to embedding intelligence, agentic principles, or relevant technological frameworks. Audience and some themes overlap with those in agentic delivery, but the content is not specifically about agentic concepts, limiting its alignment and depth in this category.",
+    "reasoning_summary": "This content discusses human coaching and team development, not Agentic Software Delivery. There is no mention of autonomous AI agents or related integration; fit is weak and mostly coincidental in audience or context.",
     "level": "Ignored"
   }
 }

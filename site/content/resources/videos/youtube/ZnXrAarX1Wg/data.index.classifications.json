@@ -1253,16 +1253,23 @@
     "level": "Ignored"
   },
   "Enterprise Agility": {
+    "resourceId": "ZnXrAarX1Wg",
     "category": "Enterprise Agility",
-    "calculated_at": "2025-04-10T15:54:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of Agile consultants and their responsibilities, which is more aligned with team-level practices rather than the broader organisational context of Enterprise Agility. While it touches on themes of organisational change and the need for adaptability, it lacks a detailed exploration of frameworks, structures, or metrics that define Enterprise Agility. The discussion is more about individual consultant roles than the collective agility of an organisation.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 59.39,
+    "ai_mentions": 4.4,
+    "ai_alignment": 6.2,
+    "ai_depth": 6.6,
+    "ai_intent": 6.0,
+    "ai_audience": 7.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content highlights the role of Agile consultants in driving organisational change, advocating for approaches that influence broader organisational practices rather than just team-level coaching. It references 'organisational change' and emphasises embracing new ways of working, aligning conceptually with Enterprise Agility. However, the depth is somewhat limited: there are no explicit discussions of scaling frameworks, organisational structures, or specific enterprise-wide agility measures. The focus is more on the consultant's perspective and less on systemic enterprise transformation practices. The audience is a mix of practitioners and organisations, but the main thrust is influencing change at more than just the individual team level. The relevance and signal are reasonable, with minor advertisement/noise, but primary themes point toward meaningful organisational impact.",
+    "reasoning_summary": "Content addresses driving organisational change as an Agile consultant and encourages transformation, aligning moderately with Enterprise Agility. However, lacks deep exploration of frameworks or system-wide practices; fit is partial but above surface level.",
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1966,6 +1973,25 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Agile consulting beyond coaching—emphasizing teaching, leadership, change management, and improving team dynamics. It focuses on enabling organizational growth and successful change, not specifically on the deliberate engineering and maximization of human or AI agency, or the integration of intelligent systems. It lacks direct references to Agentic Engineering concepts such as developer agency, systemic observability, or DevOps-infused craft. There are no explicit mentions of AI, automation, decision frameworks, or engineering practices designed to maximize agency. The alignment and depth are superficial regarding the Agentic Engineering theme, and while the target audience (Agile practitioners and consultants) overlaps partially with the Agentic Engineering audience, the primary focus is on consulting approaches and organizational change, rather than agentic practices.",
     "reasoning_summary": "The content primarily addresses Agile consulting roles and organizational change, with little focus on the core principles of Agentic Engineering. There is minimal conceptual alignment, depth, or direct relevance to maximizing human or AI agency in engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZnXrAarX1Wg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 11.84,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is entirely focused on the roles and mindset of Agile consultants, mentorship, and facilitating organisational change through human-led agile practices. There are zero mentions of autonomous AI agents, agentic principles, contextual intelligence, or any aspects related to the Agentic Software Delivery definition. While it addresses evolving ways of working, all examples are human-centric (teaching, mentoring, coaching, leadership) and aligned with traditional Agile consulting. The audience is Agile consultants and practitioners rather than agentic delivery system designers. There is no overlap with the core meaning or topics of Agentic Software Delivery beyond generic references to 'new ways of working'.",
+    "reasoning_summary": "This content centers on Agile consulting, teaching, and leadership—there is no discussion of autonomous agents, contextual intelligence, or agentic delivery themes. It does not fit the Agentic Software Delivery category except in the broadest organizational change sense.",
     "level": "Ignored"
   }
 }

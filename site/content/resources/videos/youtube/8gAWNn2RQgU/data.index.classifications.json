@@ -1374,16 +1374,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T22:30:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content mentions Scrum in the context of Joanna's training capabilities but lacks detailed discussion on Scrum principles, roles, or events. While it highlights her expertise in agile leadership, it does not delve into specific Scrum practices or frameworks, resulting in a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 89.632,
+    "ai_mentions": 8.8,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.1,
+    "ai_intent": 8.8,
+    "ai_audience": 8.3,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content is centered on promoting Scrum.Org classes taught by Joanna, explicitly referencing Scrum multiple times, including roles (Scrum Master, Product Owner), framework elements (daily standups, sprint reviews, retrospectives), and principles such as empiricism, transparency, and continuous improvement. It aligns conceptually by highlighting Scrum's core components and audience (current and aspiring Scrum practitioners). The tone is strongly supportive and focuses on the value of learning and practicing Scrum appropriately. Agile and Lean are mentioned, but always within the context of supporting Scrum learning. No obsolete or contradictory information is present. Slightly broader Agile references lower the pure signal (with UX and Lean), but overall relevance to Scrum remains dominant.",
+    "reasoning_summary": "This content primarily promotes Scrum.Org training, covering Scrum roles, events, and principles. Although some Agile and Lean references exist, the main focus, purpose, and audience clearly match the Scrum category definition.",
+    "level": "Primary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1946,6 +1953,25 @@
     "final_score": 33.0,
     "reasoning": "The content spotlights an instructor's Agile teaching prowess, technical background, and training value. While it references themes like feedback loops, continuous improvement, transparency, and leadership—elements tangentially linked to Agentic Engineering—the focus remains on Scrum and Agile mastery, not the explicit design or maximization of human/AI agency or systemic engineering autonomy. There’s little direct discussion of DevOps ethos, decentralised decision-making, or human/system agency as core design goals. The detailed exploration is of teaching approach and outcomes, not of engineering practices that maximize agency.",
     "reasoning_summary": "This content emphasizes Agile training excellence and leadership but does not directly address the core principles or topics of Agentic Engineering. While some concepts overlap, the focus stays on practical Scrum and Agile skill development, not deliberate agency maximization or systemic engineering autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 7.232,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.9,
+    "ai_intent": 0.8,
+    "ai_audience": 2.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Joanna's Scrum.Org teaching approach, technical expertise, and methods for Agile and Scrum training. There is no mention or substantial discussion of integrating autonomous AI agents, contextual intelligence, agentic frameworks, or software delivery systems with agentic properties. Key elements from the Agentic Software Delivery category—such as autonomous agents, human-agent synergy, agent-grounded telemetry, or agent-driven workflow—are completely absent. Teaching backgrounds in robotics are referenced, but only as Joanna's personal history and not as relevant to AI agent integration or agentic delivery. Feedback loops and continuous improvement are discussed only in conventional Agile terms, not in the context of agentic, AI-driven delivery systems. The audience, teaching outcomes, and topical focus align with traditional Scrum and Agile training, not advanced or agentic software delivery paradigms.",
+    "reasoning_summary": "Content focuses on conventional Scrum and Agile training. No discussion of AI agents, agentic intelligence, or agent-enabled software delivery. Does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

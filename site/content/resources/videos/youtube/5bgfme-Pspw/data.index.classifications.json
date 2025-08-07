@@ -1466,15 +1466,22 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "5bgfme-Pspw",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:57:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses 'momentum' in the context of product development and team performance but does not explicitly address Agentic Agility or its key themes. While it touches on the importance of direction and collective movement, it lacks a focus on intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more aligned with general Agile practices rather than the specific concept of agency and intentionality.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 33.0,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.2,
+    "ai_intent": 3.2,
+    "ai_audience": 7.8,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses heavily on the idea of team momentum in Agile contexts, emphasizing movement, direction, and collaboration. However, it does not explicitly address agency, intentionality, autonomy, accountability, or the adaptive actions central to Agentic Agility. There is no discussion of human vs. AI agency, mechanisms enabling agency, or double-loop learning. Instead, 'momentum' is described largely as a collective, almost emergent property, without deeper analysis of how purposeful, agentic action sustains or creates it. The content's main purpose seems more promotional and motivational about Agile and Scrum support services rather than a substantive exploration of agency in agility. While the target audience is aligned with Agile practitioners, the lack of explicit reference or conceptual depth around agency means the fit is tangential at best. Hashtags and keywords increase audience alignment, but most of the content is about building and maintaining momentum, not agentic agility as defined.",
+    "reasoning_summary": "Momentum, team progress, and direction in Agile are discussed, but agency, autonomy, or intentional adaptive action are not substantially covered. The content fits the audience but misses the defining concepts of Agentic Agility, resulting in low confidence.",
     "level": "Ignored"
   },
   "Product Development": {
@@ -1963,6 +1970,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on momentum in Agile teams, emphasizing movement, direction, and collaboration, with an audience of Agile practitioners. However, there are no direct references to Agentic Engineering or its key concepts like developer agency, systemic observability, DevOps practice, or ethical AI integration. The core of the discussion centers on motivational factors and team alignment rather than the intentional design of engineering practices maximizing agency for humans or AI. Only tangential overlaps exist in concepts of team autonomy and direction, which are not discussed at a systemic or philosophical level required for Agentic Engineering, nor is there mention of relevant frameworks, feedback-driven adaptation, or continuous value delivery as defined for this category.",
     "reasoning_summary": "This content centers on Agile momentum, focusing on team direction and movement. While it lightly overlaps with themes of agency and alignment, it lacks any explicit or substantial connection to Agentic Engineering principles, thus is only marginally relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 13.142,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 2.0,
+    "ai_audience": 2.8,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively focuses on 'momentum' in Agile and Scrum teams, collaboration, and organisational direction. It references general agile product delivery practices and improvement, but does not mention or discuss agentic concepts, autonomous AI agents, contextual intelligence, or agent-enabled delivery. There is no discussion of AI, automation, engineering practices, governance frameworks, or human-in-the-loop systems characteristic of Agentic Software Delivery. The audience fit leans toward agile practitioners, but the themes, language, and purpose do not overlap with the category meaning, which requires explicit discussion about agency, agents, and their integration with delivery processes. As such, only a minimal signal is present, due to general overlap in contemporary software delivery context, but insufficient for category fit.",
+    "reasoning_summary": "This content is about momentum and collaboration in Agile teams, not Agentic Software Delivery or AI-driven delivery. No agentic principles, no AI agent discussion. Fit is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

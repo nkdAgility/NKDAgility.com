@@ -646,15 +646,22 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "ypVIcgSEvMc",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:34:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a discount offer for alumni and does not explicitly discuss the Agile Product Operating Model or its core principles. While it mentions 'Agile knowledge,' it lacks depth and direct relevance to the APOM framework, making it peripheral to the category.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 18.25,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.3,
+    "ai_audience": 7.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content promotes a discount for alumni pursuing further learning in Agile, DevOps, and Scrum. While Agile and Scrum are mentioned, there is no discussion of Agile Product Operating Model concepts, principles, or frameworks. There are no references to transitioning from project to product, integration with product management, or related APOM governance, structure, or processes. The intent is commercial (promoting a discount), not to inform or analyze APOM. Audience partially overlaps with practitioners interested in Agile, but all content is only tangentially related to APOM. Minimal direct or conceptual overlap.",
+    "reasoning_summary": "Content is a training discount offer for Agile/DevOps/Scrum alumni with no APOM concepts or discussions. Mentions of Agile are generic; no APOM principles, themes, or intent present. Fit is minimal and indirect.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1900,6 +1907,25 @@
     "final_score": 21.0,
     "reasoning": "The content centers on a promotional offer for DevOps, Agile, and Scrum courses aimed at alumni. While it mentions growth, empowerment, and skill advancement, it does not explicitly reference or deeply discuss Agentic Engineering, agency, ethical AI, or core philosophical elements integral to the category. There are no detailed explorations of developer autonomy, decision-making frameworks, or deliberate design practices supporting agentic outcomes. The audience is somewhat aligned as it targets practitioners in the domain. Overall, relevance to Agentic Engineering is tangential and mostly incidental.",
     "reasoning_summary": "This content promotes further DevOps and Agile learning but lacks direct or substantive discussion of Agentic Engineering topics. Its focus is on an alumni offer, not on deliberate engineering practices that maximize agency or ethical AI collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ypVIcgSEvMc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 7.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.5,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is promotional, focuses on an alumni discount for DevOps, Agile, and Scrum learning, and does not mention or discuss agentic software delivery or AI agents. There is no exploration of agentic integration, autonomous systems, or any defining aspects of the category. While the audience is potentially practitioners in software delivery, no conceptual or explicit linkage is made to agentic approaches. The primary intent is to motivate further enrollment in courses, not to discuss agentic practices.",
+    "reasoning_summary": "Content is a promotion for training discounts in Agile, DevOps, and Scrum. It does not mention or discuss agentic software delivery, AI agents, or related concepts. There is no substantive alignment with the assigned category.",
     "level": "Ignored"
   }
 }

@@ -1258,15 +1258,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "z18IcQhlD7I",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:46:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on establishing a Definition of Done (DoD) within a Scrum framework, which is more aligned with Agile methodologies than with DevOps principles. While it touches on aspects of quality and continuous improvement, it lacks a direct emphasis on the broader DevOps philosophy, such as collaboration between development and operations, automation, and shared accountability. The discussion is detailed but remains within the confines of Scrum practices, making DevOps a secondary theme rather than a primary focus.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 29.57,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content is primarily an in-depth guide to Definition of Done (DoD) in Scrum, focusing on quality, delivery, and transparency—all core Scrum/Agile topics. There is a single, passing mention of DevOps in the context of using a modern source control system to 'implement good DevOps practices,' but this is neither explored nor made a thematic focus. Discussions around automation and quality are framed within Scrum practice, not as part of broader DevOps philosophy (collaboration, cultural change, shared accountability, flow, observability, etc.). The main audience is Scrum practitioners. Depth, alignment, and intent scores are low, as DevOps is tangential to the content's purpose and message.",
+    "reasoning_summary": "The content is focused on Scrum and Definition of Done, not on DevOps principles or culture. It gives a single, minor mention to DevOps tools, but does not align thematically or in depth with DevOps. Fit is marginal and tangential at best.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -2008,5 +2015,24 @@
     "reasoning": "Direct mentions of Agentic Engineering or its terminology are absent; concepts like agency, autonomy, DevOps, and continuous delivery are referenced only tangentially. The focus is strictly on Definition of Done practices in Scrum, with emphasis on quality, responsibility, automation, and iterative improvement. Some overlap exists with agentic topics (developer autonomy, quality through automation), but ethical AI integration, decentralization, or systemic observability are not substantively discussed. The purpose is practitioner-oriented and targets a technical audience, but explores only traditional Scrum/Agile practices, not their deliberate design to maximize agency for humans or intelligent systems.",
     "reasoning_summary": "This material directly addresses Definition of Done in Scrum, focusing on software quality, automation, and team responsibility. While there are themes adjacent to agentic concepts, it lacks deliberate discussion of maximizing human or AI agency and doesn't explicitly relate to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 23.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.45,
+    "ai_intent": 3.8,
+    "ai_audience": 6.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content doesn't explicitly mention agentic software delivery or its key concepts (autonomous AI agents, contextual intelligence, human-agent collaboration, etc.). Instead, it focuses on how to develop and continuously improve a Definition of Done within Scrum practice, emphasizing quality and transparency. There are small references to automation (e.g., automated checks, tests, DevOps), but not in the context of autonomous, context-aware agents or their integration into delivery processes. Discussion remains at the level of Scrum roles, workshops, and standard engineering practices. There is no substantial or thematic alignment with agentic principles, nor is the purpose relevant. The audience (Scrum teams, practitioners) might overlap with agentic delivery's audience, but the topic is almost entirely unrelated beyond superficial overlaps with automation and DevOps.",
+    "reasoning_summary": "This content is squarely about basic Scrum practice, with no discussion of agentic software delivery, AI agents, or context-aware automation. Fit is poor, with only slight overlap via mentions of automation and DevOps.",
+    "level": "Ignored"
   }
 }

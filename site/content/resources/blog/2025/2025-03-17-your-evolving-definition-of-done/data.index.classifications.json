@@ -705,15 +705,22 @@
     "reasoning_summary": "This content is a strong fit for the technical leadership category. While it doesn’t use the term directly, it thoroughly explores how evolving the Definition of Done aligns technical practices with organisational goals—a key leadership concern. The discussion offers both strategic and practical guidance, making it highly relevant for technical leaders, Scrum Masters, and agile coaches aiming to drive impactful change."
   },
   "Install and Configuration": {
+    "resourceId": "5wIEg7lD_Xd",
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-17T14:31:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within Scrum practices, focusing on quality standards and team dynamics rather than installation or configuration of tools or software. While it touches on some technical practices, it does not provide actionable installation or configuration instructions, nor does it address integration or troubleshooting in a way that aligns with the category's focus.",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 23.085,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.1,
+    "ai_intent": 2.9,
+    "ai_audience": 4.7,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses almost entirely on the evolving Definition of Done (DoD) in Scrum, discussing its strategic, quality, and organisational aspects. There is no explicit or implicit guidance on installing, configuring, or implementing technical tools, platforms, or systems, nor step-by-step instructions or troubleshooting targeted toward those actions. While some configuration best practices at the process level (like using automated deployments or compliance checks) are mentioned, they serve as context for DoD quality criteria, not as direct install/configuration advice. The main intent is conceptual (process/practice/excellence), and the depth is in DoD evolution, not system setup. The target audience overlaps only slightly (technical Scrum practitioners), but the content is not intended as an install/configuration resource. Therefore, only minimal alignment and relevance to the category exist.",
+    "reasoning_summary": "Content focuses on evolving Definition of Done in Scrum, not on technical installation or configuration. While mentions of CI/CD and automation exist, they're context, not actionable setup guidance. Low fit with the install/configuration category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -2526,5 +2533,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the terminology is not explicitly referenced. However, the content exhibits moderate conceptual alignment: it discusses the evolution of practices (agency) in engineering circles, team autonomy, and integrating observability (telemetry) and experimentation for adaptive change, as well as emphasising automation and quality baked into the Definition of Done. Depth is strong via concrete examples (evolving DoD, interconnected team/org responsibilities, automation, and telemetry); however, it primarily frames these within Scrum/DoD rather than broad agentic contexts. The intent is primarily practical guidance for evolving DoD with some articulation of increased agency and decentralisation. The target audience (technical, Scrum practitioners/org leaders) closely matches the category’s focus. Signal is high due to clear, relevant focus, though some repetitive Scrum-specific detail limits full alignment to the broader philosophical scope of Agentic Engineering.",
     "reasoning_summary": "The content strongly aligns with several core Agentic Engineering themes—autonomy, feedback, observability, and continuous improvement—through the evolving Definition of Done. However, it frames these within Scrum practices rather than explicitly positioning them as part of agentic engineering philosophy.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "5wIEg7lD_Xd",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:20",
+    "ai_confidence": 35.41,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 3.7,
+    "ai_audience": 5.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the evolving Definition of Done in Scrum, focusing on integrating organisational standards, technical quality, compliance, and business outcomes. While it mentions automated practices (testing, CI/CD, telemetry), it doesn't discuss or reference autonomous AI agents, agentic design, or the proactive, context-aware intelligence central to Agentic Software Delivery. The depth and intent relate more to improving traditional Scrum and engineering practices rather than the deliberate integration of agentic approaches. There is some alignment in the mention of automation, telemetry, and shift-left practices, but these are not contextualised as agent-enabled or agency-driven. The audience is Scrum/technical practitioners, which partially overlaps. Signal-to-noise is moderate, as most content is on topic for quality delivery, but not for agentic delivery. No explicit contradictions or outdated practices are detected.",
+    "reasoning_summary": "The content focuses on Scrum's Definition of Done and evolving quality standards, touching on automation, CI/CD, and telemetry, but does not directly address agentic software delivery or AI agents. Fit with 'Agentic Software Delivery' is partial and indirect.",
+    "level": "Ignored"
   }
 }

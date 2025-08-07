@@ -1091,15 +1091,22 @@
     "level": "Secondary"
   },
   "Test First Development": {
+    "resourceId": "quFj6dy5M7E",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:37:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses building a high-performance delivery engine through competence and collaboration, with no explicit mention of Test First Development principles or practices. While it touches on Agile and continuous improvement, it lacks a focus on defining success criteria or the role of testing in the development process, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 12.51,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.7,
+    "ai_intent": 1.5,
+    "ai_audience": 5.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "There are zero direct mentions of Test First Development or its key terms (e.g., TDD, ATDD, acceptance criteria) in the title, description, or content. The focus is on competence, collaboration, and high-performance delivery with reference to Agile, DevOps, Lean, and Scrum at a high level, but none of the discussion pertains to defining success criteria before implementation or specific test-first practices. There is no exploration of test-related principles, automated/manual test-first approaches, or the impact of Test First on design, feedback, or collaboration. The intent is aligned toward team and process improvement for software delivery generally, not test-first philosophies. The target audience (delivery professionals, technical leaders) could overlap, but the content itself is not relevant to the category and has a lower signal-to-noise ratio given the lack of focus on Test First Development.",
+    "reasoning_summary": "Content discusses delivery competence, collaboration, and Agile philosophies but makes no mention of Test First Development or its practices. There is no conceptual or thematic fit; relevance is incidental and extremely limited.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -2021,5 +2028,24 @@
     "reasoning": "The content emphasizes competence, collaboration, team empowerment, continuous improvement, and value delivery—topics that overlap with Agentic Engineering. It references Agile, DevOps, Lean, and Scrum philosophies, encourages practitioner mindset, and focuses on adaptive change. However, it stops short of explicit discussion about maximizing human and AI agency, decision decentralization, or systemic observability. Direct mentions are absent, and it largely frames its advice around traditional empowerment and high-performance delivery rather than the philosophical core of Agentic Engineering. No penalties were needed as practices are current and tone is constructive.",
     "reasoning_summary": "The content encourages empowerment, continuous improvement, and high-performance delivery, aligning moderately with Agentic Engineering principles. While it references core DevOps and Agile philosophies and advocates for collaborative autonomy, it doesn't directly address maximizing human and AI agency or explicit agentic frameworks.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "quFj6dy5M7E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 28.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 8.2,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content extensively explores competence, collaboration, agile, DevOps, and continuous improvement in building high-performance software delivery teams. However, there is no mention or clear discussion of autonomous AI agents, agentic intelligence, human-AI synergy, or embedding AI agents in delivery processes. The focus is entirely on human expertise and organisational culture, not on agency or contextual AI. Thus, alignment and depth are low. Audience (practitioners, leaders in delivery) and signal-to-noise are high. No penalties apply, as the content is not outdated or satirical, just off-topic for this specific category.",
+    "reasoning_summary": "The content focuses on human competence, collaboration, and agile delivery, not agentic software delivery. It lacks discussion of AI agents, contextual intelligence, or the integration of autonomy into the software delivery process. Fit is weak.",
+    "level": "Ignored"
   }
 }

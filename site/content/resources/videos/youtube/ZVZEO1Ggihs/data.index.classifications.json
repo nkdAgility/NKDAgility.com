@@ -1014,12 +1014,22 @@
     "level": "Tertiary"
   },
   "Product Delivery": {
+    "resourceId": "ZVZEO1Ggihs",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses scaling in the context of leadership and organisational behaviour, which relates to product delivery but is not the primary focus.",
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 48.06,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.5,
+    "ai_depth": 5.9,
+    "ai_intent": 5.7,
+    "ai_audience": 7.2,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses primarily on leadership practices for scaling organizations, emphasizing empowerment, removing bottlenecks, and decision decentralization. These are indirectly connected to effective product delivery, as leadership behaviors impact team autonomy and delivery flow, but the discussion stops short of addressing product delivery methodologies or practices directly—there are no explicit references to Agile, DevOps, CI/CD, or delivery metrics. The audience (CTOs, managers) and themes are adjacent to Product Delivery but with a leadership/process culture lens. The depth is moderate: there's advice on creating conducive conditions for scaling teams, with some overlap in removing delivery friction, yet practical aspects of delivery (planning, QA, deployment) are not covered. Signal-to-noise ratio is high, as little is off-topic for scaling, but tangential regarding product delivery per se. No penalty for outdated/contradictory content. Overall, the piece is leadership-oriented with partial relevance to Product Delivery through the lens of enabling it.",
+    "reasoning_summary": "The content is leadership-centric, discussing team empowerment and removing bottlenecks for scaling—topics adjacent to Product Delivery but not directly focused on its methodologies or practical aspects. Partial and indirect fit to the category.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1895,5 +1905,24 @@
     "reasoning": "The content focuses on decentralizing decision-making, empowering teams, and fostering autonomy—directly aligning with Agentic Engineering's emphasis on human agency and decentralization. However, it does not mention agentic engineering explicitly or delve into technical practices; AI agency, systemic observability, and technical feedback mechanisms are not discussed. The depth is moderate, with detailed leadership and empowerment discussion but less on engineering philosophy or DevOps. The audience (CTOs/IT leaders) is in line with the category, and the intent is to foster environments conducive to agency, but the focus is more on cultural/leadership than on integrated human-AI systems or concrete engineering practices.",
     "reasoning_summary": "The content closely aligns with Agentic Engineering through its focus on team empowerment and decentralized decision-making but lacks explicit mention of the category, technical detail, and consideration of AI or DevOps elements. Its primary relevance is through human agency in leadership contexts.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZVZEO1Ggihs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 19.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 7.4,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses almost exclusively on leadership, empowerment, and decentralization in the context of scaling organizations. It does mention autonomous teams and decision-making at the team level, which only slightly maps to the agency concept, but it does not mention autonomous AI agents, context-aware intelligence, AI-integration, or any technical/systematic agentic software delivery models. There are no discussions of AI, engineering practices (CI/CD, observability, etc.), feedback loops involving AI, or governance frameworks for agents. The intended audience (CTOs, CIOs, IT managers) somewhat aligns with Agentic Software Delivery, but otherwise the conceptual fit is partial at best. Most of the content is off-topic for the specific category definition.",
+    "reasoning_summary": "Content is leadership-focused with minimal overlap to Agentic Software Delivery. It discusses empowering teams, not embedding AI agents or agentic systems. Only tangential fit; core category topics are absent.",
+    "level": "Ignored"
   }
 }

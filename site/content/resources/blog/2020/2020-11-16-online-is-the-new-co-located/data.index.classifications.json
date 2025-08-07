@@ -689,15 +689,22 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "QnZVgaG90q_",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:54:34",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of presence and communication in online events, which touches on organisational dynamics and the need for effective interaction among team members. However, it primarily focuses on practical advice for virtual participation rather than a deep exploration of systems thinking or organisational behaviour. The mention of co-location and communication dynamics is relevant but does not fully align with the core themes of Organisational Physics.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 35.91,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.7,
+    "ai_intent": 3.8,
+    "ai_audience": 4.4,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content primarily discusses redefining co-location in virtual/hybrid work contexts, emphasizing the role of video presence for non-verbal communication and team engagement. While it touches on group dynamics and some aspects of team communication, it does not explicitly engage with Organisational Physics concepts such as systems thinking, feedback loops, or mapping organisational dynamics. The discussion is focused on behavioral practices for online engagement rather than holistic organisational systems, adaptive complexity, or structures. No direct mention of Organisational Physics or its related theories/topics occurs. Audience is practitioners, but the relevance is tangential. Signal is reasonable but mostly about etiquette, not system interplay.",
+    "reasoning_summary": "This content is focused on etiquette and effectiveness in online meetings, not on systems thinking or holistic organisational dynamics. It only loosely relates to Organisational Physics by addressing some group behavior, but does not fit the core category definition.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -2011,6 +2018,25 @@
     "final_score": 22.0,
     "reasoning": "The content discusses the evolution of co-location and online presence, primarily focusing on the value of video for communication and engagement. While it touches on team practices and adaptation to new tech, it does not address the core philosophy, agency-maximizing practices, ethical AI integration, or decision-making frameworks central to Agentic Engineering. The intent is practical guidance for online engagement, not an exploration of agentic principles. The audience of agile practitioners overlaps somewhat but is not expressly focused on those interested in deliberate agency in engineering. There are no direct mentions of the category, and while it discusses adaptation, it lacks depth on practices that maximize human or AI agency.",
     "reasoning_summary": "This piece emphasizes online communication and the importance of video presence but does not substantially address the deliberate engineering of agency for humans or intelligent systems. Its content aligns superficially, focusing more on engagement etiquette than on agentic engineering principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QnZVgaG90q_",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 6.205,
+    "ai_mentions": 0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.5,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on redefining co-location in the context of online collaboration and video presence rather than software delivery practices, agentic AI, or automation. There are no direct mentions or discussion of agentic principles, AI agents, their integration into delivery, or any modern engineering practices grounded in AI. The intent is around team engagement and online etiquette, not the augmentation of software delivery with agency, context-aware intelligence, or human/AI synergy. The audience is broadly agile practitioners but not those interested specifically in agentic software delivery. The content signal is focused, but the topic is unrelated, leading to very low scores across all dimensions.",
+    "reasoning_summary": "The content is unrelated to Agentic Software Delivery. It focuses on remote team presence and video use, with no mention or discussion of AI agents, automation, or software delivery practices. No category fit.",
     "level": "Ignored"
   }
 }

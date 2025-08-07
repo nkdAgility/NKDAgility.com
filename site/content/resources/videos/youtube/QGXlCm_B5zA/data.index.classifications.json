@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "QGXlCm_B5zA",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:18:37",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the principles of Scrum, with only a brief mention of DevOps at the end. While it discusses aspects of team collaboration and accountability, which are relevant to DevOps, the main emphasis is on Scrum methodologies rather than the broader DevOps philosophy. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 13.68,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 1.3,
+    "ai_audience": 4.8,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused on Scrum Master development and the Advanced PSM course, emphasizing empowerment, accountability, and organizational agility—all core Scrum but only tangentially connected to DevOps. DevOps is directly named once as an afterthought in a closing remark inviting discussion. There are no substantial discussions of DevOps principles, practices, or cultural aspects. Further, there is only weak conceptual overlap (e.g., continuous learning, value delivery, tackling organizational impediments), mostly where these are generically applicable to agile and modern software delivery. The target audience (Scrum Masters, Agile practitioners) sometimes overlaps with DevOps audiences, but nothing here addresses DevOps as a philosophy or implementation directly.",
+    "reasoning_summary": "The content does not fit the DevOps category. While DevOps is mentioned once, the discussion, themes, and intent are focused fully on Scrum Master roles and training, not on DevOps principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1954,5 +1961,24 @@
     "reasoning": "There are no explicit mentions of 'Agentic Engineering' as a term, but key concepts align: the content advocates for Scrum Masters enabling autonomy and team agency (e.g., giving admin rights, not micromanaging tasks, empowering accountability). It discusses shifting from admin to strategic facilitation, resonating with agentic philosophy. However, there are no substantial discussions of system-level engineering, AI agency, DevOps craftsmanship, or ethical AI collaboration. The focus is on human team empowerment and Scrum roles, only lightly referencing DevOps. Depth is moderate: it meaningfully explores agency within a Scrum context but does not thoroughly address systemic engineering practices or the integration of AI agency. The main audience (Scrum Masters/agile practitioners) aligns, but the topic is tangential, lacking overt emphasis on the engineering practices central to Agentic Engineering. Signal is high—nearly all content is relevant to agency, but it falls short on the technical and philosophical dimensions that would firmly establish it within the category.",
     "reasoning_summary": "This content moderately fits the Agentic Engineering category by promoting team empowerment and autonomy within Scrum. While it strongly emphasizes human agency, it only lightly touches on engineering practices and DevOps, and does not discuss AI agency or systemic observability central to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QGXlCm_B5zA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 19.078,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on advanced Scrum Master practices and organizational agility, but does not address AI agents, contextual intelligence, or agentic delivery principles. While topics like autonomy, empowerment, and modern practices are mentioned, they are squarely in a human/team and Scrum context, not about autonomous agents or agentic software delivery. No substantial technological or agentic innovation relevant to the category is discussed. The only overlap is the focus on team autonomy and organizational effectiveness, which are generic to agile and not agentic software delivery.",
+    "reasoning_summary": "The content is about improving Scrum Master skills—not agentic software delivery. It lacks discussion of autonomous AI agents, systemic intelligence, or agentic frameworks. Fit is minimal; only vague overlap with team autonomy and modern agile practice.",
+    "level": "Ignored"
   }
 }

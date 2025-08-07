@@ -73,15 +73,22 @@
     "reasoning_summary": "This content clearly belongs in the Strategy category, as it explores how Agile principles can shape an organisation’s overarching direction and adaptability. It goes beyond basic methods, focusing on aligning vision with execution and addressing cultural and long-term impacts—key elements of strategic planning and decision-making."
   },
   "Practice": {
+    "resourceId": "Agile Strategy",
     "category": "Practice",
-    "calculated_at": "2025-04-09T16:34:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile Strategy, which is more focused on overarching principles and organisational alignment rather than specific actionable practices. While it touches on themes of collaboration and adaptability, it lacks direct mentions of specific practices like Pair Programming or Retrospectives, and does not provide detailed techniques for improving team performance.",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 37.4,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.6,
+    "ai_intent": 4.0,
+    "ai_audience": 6.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content discusses 'Agile Strategy' in terms of vision alignment, adaptability, collaboration, feedback loops, and cultural integration—focusing on organisational agility as a systemic capability. While it refers to some elements (feedback loops) found in practices, it stays at a higher, strategic/philosophical level and does not mention or detail consistent, repeatable actions or techniques. There are no explicit references to any of the 'Practice' key topics (pair programming, retrospectives, TDD, etc.), nor are actionable techniques described. The audience is broad (organisational leaders, strategists) rather than practitioners focused on daily practices. Overall, alignment with the Practice category is partial and indirect.",
+    "reasoning_summary": "The content is primarily about organisational agile strategy, not actionable practices. It references principles underpinning practices but lacks explicit techniques or habits, resulting in only a partial and indirect fit with the Practice category.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3131,6 +3138,25 @@
     "final_score": 30.0,
     "reasoning": "The content focuses on organisational agility, collaboration, adaptability, and alignment. However, it never explicitly references human-AI collaboration or collective intelligence between humans and AI agents. Collaboration is discussed in a general, human-team sense, not in the context of distributed cognition or socio-technical systems involving AI. The audience is well-aligned (likely Agile practitioners and strategists), and the signal is strong with little off-topic information. Due to the absence of direct or indirect mention of human-AI partnerships, the scores for direct mentions, alignment, depth, and intent remain low. No penalties were required as the content is not outdated or contradictory.",
     "reasoning_summary": "While the content centers on Agile Strategy, team collaboration, and value delivery, it does not reference or explore the concept of collective intelligence involving human-AI partnership. Its focus is on human collaboration within agile organisations rather than human-AI teaming.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Strategy",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 29.05,
+    "ai_mentions": 0.15,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.45,
+    "ai_intent": 2.9,
+    "ai_audience": 6.35,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on organizational agility and strategy, alignment, adaptability, feedback loops, and value delivery. However, there is no direct mention or discussion of AI agents, autonomous systems, or agentic concepts. While feedback loops and systemic integration are discussed, these are in a general Agile context and not specific to the deliberate integration of autonomous AI agents with human expertise. The intended audience (business/technology leaders) is somewhat overlapping, but the topic remains too generic for Agentic Software Delivery.",
+    "reasoning_summary": "This content centers on Agile strategy, adaptation, and value delivery, but lacks any reference to autonomous AI agents or agentic concepts. The fit is partial at best, with alignment only to general Agile principles, not Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

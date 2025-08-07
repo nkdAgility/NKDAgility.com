@@ -1449,15 +1449,22 @@
     "reasoning_summary": "This content fits the category as it explores the importance of competence for Scrum Masters, highlighting the need for professionalism and proven ability. While it aligns with key themes like continuous learning and quality delivery, it doesn’t go into detail about how to build or assess competence over time, making its coverage somewhat surface-level."
   },
   "One Engineering System": {
+    "resourceId": "PIoyu9N2QaM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:08:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of Scrum Masters within the Agile framework, discussing their responsibilities and the misconceptions surrounding their titles. It does not address the One Engineering System (1ES) framework, its principles, or its integration across teams, which are essential for alignment with the category. The discussion is centred on Scrum, which is a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES entails.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on differentiating the concepts of 'newbie' and 'professional' Scrum Master and the importance of professionalism in the Scrum Master role. There is no mention or discussion of One Engineering System (1ES), its tools, its standardisation goals, cross-team integration, or any related processes or challenges. The themes and intent strictly relate to Agile/Scrum practices, not the 1ES framework. Audience alignment is weak but not zero, as both topics are of interest to engineering organizations, but the fit is marginal and only at the broadest organizational improvement level. All score dimensions are low, and there is no penalty needed as the tone is neutral and neither outdated nor critical.",
+    "reasoning_summary": "This content is solely Scrum Master focused and contains no mentions, themes, or intent related to One Engineering System. Its fit with 1ES is minimal and only tangential on very broad organizational themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1960,6 +1967,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses on the distinction between 'newbie' and 'professional' Scrum Masters, primarily emphasizing professionalism, accountability, and effectiveness within Scrum teams. It touches on the importance of the role, team respect, and value delivery. However, it lacks explicit or in-depth discussion on maximising agency—either human or AI—systemic observability, DevOps practices, or the philosophical underpinnings of Agentic Engineering. No agentic or ethical AI themes are present, nor is there mention of decision-making frameworks that decentralise control or empower technical autonomy. The audience and intent modestly overlap, as both are technical/Agile professionals, but the signal-to-noise ratio is only moderate since the content consists mainly of clarifying professional attitudes, not engineering practice design.",
     "reasoning_summary": "This content discusses professional attitudes and responsibilities in the Scrum Master role but does not substantially address Agentic Engineering themes such as maximising agency, ethical AI, observability, or decentralised decision-making. Alignment is marginal and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PIoyu9N2QaM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 2.85,
+    "ai_mentions": 0.05,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.8,
+    "ai_audience": 0.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused on the distinction between 'newbie' and 'professional' Scrum Masters and stresses the importance of professionalism in Scrum roles. Nowhere does it discuss AI agents, context-aware intelligence, agentic frameworks, or synergy between AI and humans in delivery. It does not reference modern engineering practices or the evolution toward agentic delivery. The theme stays within traditional Scrum mastery and team dynamics, absent of proactive, autonomous systems. Audience is Scrum/Agile practitioners, somewhat near the category's overlap, but all other key dimensions are surface-only for Agentic Software Delivery.",
+    "reasoning_summary": "Content centers on Scrum Master roles and professionalism, not on agentic concepts, AI agents, or agent-enabled delivery. Minimal to no alignment with Agentic Software Delivery—focus and intent do not match the category definition.",
     "level": "Ignored"
   }
 }

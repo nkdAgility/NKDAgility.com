@@ -246,15 +246,22 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "TcnVsQbE8xc",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:52:40",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to product delivery, particularly in Agile methodologies. However, it primarily focuses on the responsibilities and effectiveness of the Scrum Master rather than the broader aspects of product delivery such as planning, testing, or deployment. While there are mentions of helping teams and Product Owners, the discussion lacks depth in covering the end-to-end process of delivering software products.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 62.86,
+    "ai_mentions": 3.7,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.9,
+    "ai_intent": 7.2,
+    "ai_audience": 7.7,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 63.0,
+    "reasoning": "The content promotes the PSM II course and highlights how advanced Scrum Mastery can empower teams, help product owners, and support organizational agility. Topics like feedback loops, automation, team effectiveness, and continuous improvement align with Product Delivery, but the focus is primarily on professional development and course benefits rather than a dedicated exploration of methodologies and practices in end-to-end software product delivery. Direct discussion of planning, deployment, release management, or delivery metrics is lacking. The target audience is practitioners in Scrum/agile roles, which partially aligns, but the main purpose is course advertising and skill advancement.",
+    "reasoning_summary": "The content has partial alignment: it addresses some Product Delivery topics like team effectiveness and feedback loops, but centers on course promotion and professional growth rather than the end-to-end delivery process. Relevant, but not wholly focused.",
     "level": "Secondary"
   },
   "Digital Transformation": {
@@ -1986,6 +1993,25 @@
     "final_score": 22.0,
     "reasoning": "The content is a promotional overview of the PSM II course, focusing on deepening Scrum Master skills, team facilitation, product owner support, and agile career growth. While it briefly mentions empowerment, feedback loops, and automation practices, these references are generic and oriented toward Scrum proficiency—not the deliberate engineering of agency for humans and AI, nor the philosophical underpinnings of Agentic Engineering. There is no substantive discussion of systemic observability, ethical AI integration, decision decentralization, or feedback-driven adaptation in an engineering context. The audience, context, and intent center around Scrum certification rather than agentic engineering practice, with only marginal conceptual overlap in passing mentions of empowerment and automation.",
     "reasoning_summary": "This content stays focused on promoting PSM II Scrum Master training. While it glancingly mentions empowerment and automation, it does not address the intentional design of engineering practices to maximize human and AI agency. Thus, the fit with Agentic Engineering is weak and incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TcnVsQbE8xc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 13.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.7,
+    "ai_audience": 3.1,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is a promotional overview of the PSM II course for Scrum Masters, focusing on advancing Scrum and agile team practices. No direct or conceptual discussion of Agentic Software Delivery, autonomous AI agents, or any agentic principles is present. Automation is mentioned only superficially, without reference to contextual intelligence or AI. The audience (Scrum Masters/Agile practitioners) somewhat overlaps with those interested in Agentic Software Delivery, but the content’s themes, intent, and detail are disconnected from the category definition.",
+    "reasoning_summary": "This content promotes advanced Scrum Master training but lacks any discussion of AI agents, agency, or agentic principles. It is not meaningfully aligned with 'Agentic Software Delivery.' Fit is minimal—only superficial overlap in target audience.",
     "level": "Ignored"
   }
 }

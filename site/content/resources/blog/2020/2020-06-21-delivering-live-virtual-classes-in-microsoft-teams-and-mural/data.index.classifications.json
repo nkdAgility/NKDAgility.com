@@ -1501,15 +1501,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "fyJ8PxhOEZz",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:54:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 11.73,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 1.3,
+    "ai_audience": 4.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with a strong emphasis on Scrum training. While it touches on concepts like self-organising teams and collaboration, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about practical training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "reasoning": "The content focuses on practical tips for running virtual Scrum classes using Microsoft Teams and Mural. There is no mention or significant exploration of the One Engineering System (1ES) framework, nor any discussion of process/tool unification across teams at scale. The main purpose is tutorial guidance for trainers, not engineering system standardisation or integration. Any overlap (using Teams for collaboration) is incidental and not linked to 1ES concepts, principles, or implementation. No conceptual or terminological connection is present.",
+    "reasoning_summary": "Content does not fit the One Engineering System category. No mentions or key concepts of 1ES; focus is strictly on facilitating Scrum classes via Teams/Mural, not engineering systems integration or standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2018,6 +2025,25 @@
     "final_score": 40.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent. However, the content aligns moderately with agentic themes, focusing on self-organizing teams, autonomy, and bounded environments, thereby fostering human agency in software learning contexts. The discussion gives moderate depth on enabling autonomy and self-organization, intentionally avoiding top-down control, and thus overlaps with foundational principles of Agentic Engineering concerning human agency and decentralised decision-making frameworks. Yet, it primarily emphasizes classroom facilitation and tech platform logistics rather than the deliberate engineering of software or systemic observability, DevOps-infused craft, ethical AI, or feedback-driven adaptation. Audience fit is high, as it targets practitioners keen on collaborative agile facilitation. The content is generally focused, staying on theme with practical facilitation for self-organization, but does not delve deeply into the reflective or philosophical dimensions that define Agentic Engineering at an engineering practice or system design level.",
     "reasoning_summary": "The content moderately overlaps with Agentic Engineering by emphasizing team autonomy, self-organization, and bounded environments in a training context, but lacks focus on deliberate engineering practices or systemic design for agency. Relevant but not a direct or deep fit for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "fyJ8PxhOEZz",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 8.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.35,
+    "ai_depth": 1.65,
+    "ai_intent": 1.1,
+    "ai_audience": 2.05,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is about structuring and facilitating live Scrum classes using Microsoft Teams and Mural, emphasizing safe collaboration, self-organization, and practical tech set-up. There are no explicit references to integrating autonomous AI agents, agency, contextual intelligence, or agentic principles as defined in the classification. While principles like 'bounded environments' and 'self-organising teams' are discussed, these are classic Agile and Scrum facilitation topics, not related to the deliberate embedding of agentic AI systems into software delivery. The content targets Scrum trainers and facilitators, not audiences seeking discourse in Agentic Software Delivery or AI-enabled delivery strategies.",
+    "reasoning_summary": "Content solely addresses virtual Scrum class facilitation and tech set-up with no mention of AI agency or Agentic Software Delivery principles. Fit with the category definition is absent; any overlap is superficial and coincidental.",
     "level": "Ignored"
   }
 }

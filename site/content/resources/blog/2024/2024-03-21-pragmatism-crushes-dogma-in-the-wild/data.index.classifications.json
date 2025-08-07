@@ -544,15 +544,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "mkdhLrKu8sh",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:01:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the application of Scrum and the importance of adaptability and resilience in product development. While it touches on elements of the Scrum framework, it does not explicitly mention Test First Development or its principles, such as defining success criteria or the role of testing in the development process. The focus is more on Scrum philosophy rather than the specific practices of Test First Development, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 7.86,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 4.3,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on pragmatism, adaptability, and the philosophy of Scrum, emphasizing empiricism, resilience, and team flexibility. There are no direct mentions or discussions of Test First Development, its principles, success criteria, or related testing practices. The content is thoroughly anchored in Scrum philosophy, not testing-first or criteria-first delivery. The audience is agile practitioners, but the topic and intent are not matched to Test First Development.",
+    "reasoning_summary": "Content is about Scrum, adaptability, and empiricism—not Test First Development. No relevant concepts, practices, or topics from 'Test First Development' are discussed. There is a clear misalignment with the category definition.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2013,5 +2020,24 @@
     "reasoning": "There are no explicit references to 'Agentic Engineering,' nor are concepts like agentic autonomy, AI augmentation, or ethical AI discussed. The content centers on Scrum's adaptability and philosophy over dogmatic rule-following. It marginally overlaps with agentic themes such as team empowerment, resilience, and feedback-driven adaptation but lacks significant discussion about maximizing human and AI agency, engineering frameworks, or systemic observability. The discussion is practical and moderately deep about Scrum as a philosophy but does not substantively address the engineering or agentic dimensions prescribed by the category. The target audience (practitioners) and focus on adaptation provide some minor alignment, resulting in a moderately low confidence score.",
     "reasoning_summary": "The content explores team empowerment and adaptability through Scrum but does not directly address Agentic Engineering concepts like maximizing agency or ethical AI integration. While some themes overlap, the focus is not on deliberate engineering practices, resulting in a modest confidence alignment.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mkdhLrKu8sh",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 10.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.4,
+    "ai_intent": 2.5,
+    "ai_audience": 2.3,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on practical Scrum use for team adaptability and resilience, emphasizing empiricism, flexibility, and core Scrum elements. Nowhere does it discuss autonomous AI agents, agentic integration, contextual AI, or delivery assisted by AI agency. No mention of modern engineering practices like CI/CD, governance for agents, feedback loops involving agentic learning, or any topics directly tied to 'Agentic Software Delivery.' While the target audience could overlap with practitioners interested in software delivery improvement, there is no conceptual or explicit alignment with agentic delivery as described in the definition.",
+    "reasoning_summary": "This content explores pragmatic Scrum usage for adaptability and resilience with no discussion of autonomous agents, contextual AI, or agentic delivery principles. There is no substantive or conceptual fit with Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

@@ -393,15 +393,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "Q46T5DYVKqQ",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:39:34",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 7.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context but does not explicitly mention Test First Development or its principles. While it touches on concepts like experimentation and continuous improvement, these are not directly aligned with the core themes of Test First Development, which focuses specifically on defining success criteria and testing practices. The discussion lacks depth regarding Test First methodologies such as TDD or ATDD.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 13.375,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.4,
+    "ai_intent": 1.1,
+    "ai_audience": 4.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content explores the value of empiricism, data-driven decisions, and experimentation, particularly in Agile contexts, yet makes no direct or explicit mention of Test First Development. There’s significant thematic overlap (data, experimentation, feedback), but the focus is not on defining or practicing Test First (no mention of success criteria before implementation, TDD, or specific test practices). The audience may tangentially overlap with those interested in Test First, but the discussion, intent, and specific depth strongly favor general empiricism and continuous improvement rather than the principles and actionable practices outlined for Test First Development.",
+    "reasoning_summary": "This content centers on empiricism and data-driven improvement, not on Test First Development. There’s only a weak indirect thematic overlap; key Test First concepts (defining tests first, TDD/ATDD, etc.) are missing.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1987,5 +1994,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' or its unique terminology, resulting in a low direct mentions score. However, it strongly aligns conceptually with foundational principles such as feedback-driven adaptation, empirical workflows, and the empowerment of teams to act on data, which resonates with maximizing agency. The discussion of continuous improvement, experimentation, and transparency supports a moderate depth score. Its intent clearly promotes methods that support agency and adaptive engineering, aimed at practitioners interested in agile, improvement, and evidence-based practice. Signal-to-noise is high as the majority of content is on-topic, but it lacks explicit focus on both the philosophical aspect of agency and the symbiotic human-AI angle that defines Agentic Engineering. No penalties apply, as content is current and the tone is supportive.",
     "reasoning_summary": "While the article never explicitly discusses Agentic Engineering, its deep focus on empiricism, experimentation, and data-driven adaptation closely aligns with core agentic principles. Its nuances serve agile practitioners, though it lacks direct mention of agency or AI integration strictly required for full categorization.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 24.128,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 2.6,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is focused on empiricism and data-driven decision-making within agile practices, discussing cycles of experimentation, observation, and continuous improvement. However, it does not mention or discuss AI agents, agency, human-in-the-loop, modern engineering for agentic delivery, or the integration of contextual intelligence. None of the key topics unique to Agentic Software Delivery are addressed—the alignment is only partial because empiricism is relevant to evidence-based management, which supports agentic methods, but is not exclusive to or describing them. There are no explicit or implied references to agentic tools, frameworks, autonomous operations, or proactive AI. The depth and audience alignment are moderate as agile teams are a related audience, but the category fit remains weak. No penalties were necessary as the content is neither outdated nor contradicts the framing.",
+    "reasoning_summary": "This content focuses on empiricism and continuous improvement in agile, but lacks any substantive reference to AI agents, autonomy, or agentic delivery concepts. The fit to Agentic Software Delivery is extremely limited and largely tangential.",
+    "level": "Ignored"
   }
 }

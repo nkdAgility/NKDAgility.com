@@ -85,16 +85,23 @@
     "level": "Secondary"
   },
   "Philosophy": {
+    "resourceId": "26FWeqJuu0P",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of metrics and learning in driving continuous improvement, which aligns with the philosophical underpinnings of evidence-based management and the culture of experimentation. However, it primarily focuses on the practical application of these concepts rather than exploring the foundational beliefs or theoretical frameworks behind them. The discussion lacks depth in philosophical exploration and does not explicitly mention the core themes of philosophy as defined in the category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:16",
+    "ai_confidence": 82.85,
+    "ai_mentions": 3.7,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.6,
+    "ai_intent": 8.5,
+    "ai_audience": 7.8,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content frames metrics as tools for empirical, evidence-based improvement rather than control, emphasizing philosophical themes like transparency, learning, and systemic adaptation—strongly aligning with Evidence-Based Management philosophy. It explicitly cautions against using metrics for superficial tracking, instead stressing their role in shaping culture, leadership, and decision-making (core to the 'why' and 'what'). There is significant depth (discusses intentions and impact), but also detailed discussion of specific types of metrics, slightly lowering pure philosophical focus. Direct use of 'philosophy' is absent, but terms like 'empiricism' and 'culture of learning' connect conceptually. The primary audience is leaders, teams, and strategists, closely aligned with the category's assumed audience. Overall, a partial fit—substantial philosophical framing, but detailed operational content prevents a perfect score.",
+    "reasoning_summary": "Content centers on the philosophy of using metrics for learning, leadership, and evidence-based adaptation. Strong conceptual and intent fit, but operational detail means philosophy is the framing, not the sole focus. Fit is substantial but partial.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3166,6 +3173,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on metrics for continuous improvement in Agile and DevOps teams, emphasizing evidence, feedback loops, and data-driven decision-making. However, it discusses only human teams—there is no mention or implication of AI agents, human-AI collaboration, or AI-enabled collective intelligence. Key category concepts—such as distributed cognition across humans and AIs, human-AI decision frameworks, or AI partner design—are absent. The target audience (team leads, agile practitioners) weakly overlaps, but the core theme is process improvement via empiricism, not emerging capabilities from human-AI teamwork. There are no direct or indirect references to collective intelligence as defined.",
     "reasoning_summary": "The content thoroughly explores metrics-driven improvement for human teams but does not address human-AI collaboration or emergent collective intelligence, so relevance to the category is limited despite overlapping process-improvement themes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "26FWeqJuu0P",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:16",
+    "ai_confidence": 35.847,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.8,
+    "ai_intent": 4.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on metrics- and evidence-based improvement in software delivery, with themes of feedback, empiricism, and flow. However, it never mentions or deeply explores AI agents, autonomy, agency, human-in-the-loop patterns, or specific agentic integration per the category definition. While metrics, feedback loops, and modern engineering practices are discussed and tangentially relate to agentic delivery prerequisites, the article stops short of discussing intelligent agents, context-aware automation, or deliberate orchestration between human expertise and autonomous AI. The target audience and improvement themes are partially aligned, but conceptual and intent fit are only moderate. No penalties since there is no outdatedness or contradicting tone.",
+    "reasoning_summary": "Primarily about metrics, empiricism, and flow in software delivery—important for agentic delivery, but does not discuss AI agents, agency, or human–AI integration. Only a partial and tangential fit to the category definition.",
     "level": "Ignored"
   }
 }

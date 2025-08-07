@@ -1371,15 +1371,22 @@
     "level": "Ignored"
   },
   "Beta Codex": {
+    "resourceId": "1ePkQeCVAlY",
     "category": "Beta Codex",
-    "calculated_at": "2025-04-10T15:54:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to the principles of Beta Codex. While it touches on human-centric aspects by highlighting the importance of valuing individuals over treating them as mere resources, it does not explicitly mention Beta Codex or its foundational theories. The discussion lacks depth in terms of decentralisation and adaptive organisational cultures, which are key themes of the Beta Codex. Overall, the content is more focused on efficiency concepts rather than the broader organisational design principles advocated by Beta Codex.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 34.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.55,
+    "ai_intent": 4.25,
+    "ai_audience": 5.8,
+    "ai_signal": 6.65,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content addresses Agile process improvement, contrasting resource and flow efficiency. It doesn't mention BetaCodex directly nor discuss its foundational theories, decentralisation, or human-centric design. Although the theme is tangentially relevant (as flow thinking and critique of resource efficiency are Beta Codex-adjacent), the content falls short of deep alignment with the Beta Codex category's definition. There are no case studies, explicit advocacy for decentralisation, or discussion of shifting beyond traditional hierarchy in the Beta Codex sense. Audience, signal, and intent partially overlap (e.g., targeting agility practitioners), but not the substance required for strong classification. No penalties applied.",
+    "reasoning_summary": "The content is about Agile efficiency concepts but does not mention or deeply align with Beta Codex. Lacks explicit or substantial discussion of decentralised, human-centric, or BetaCodex principles. Fit is partial and indirect.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1994,5 +2001,24 @@
     "reasoning": "The content focuses on differentiating resource efficiency and flow efficiency within Agile and Lean/DevOps contexts, emphasizing system optimization and avoidance of feature factory pitfalls. While themes such as holistic systems, sustainable work, and valuing craft are conceptually adjacent to Agentic Engineering (like valuing team autonomy and balancing systemic outcomes), there are no explicit mentions of Agentic Engineering or detailed discussions of maximizing agency, AI-human co-agency, ethical autonomy, or decision decentralization. The main intent is practical process improvement, not the philosophical exploration of agency. The audience is technical and process-focused, overlapping with Agentic Engineering’s audience, and the discussion is clear and largely relevant, but it does not directly address agentic principles. No penalties apply.",
     "reasoning_summary": "While the content explores system-level optimization and human-centric work principles in Agile, it does not explicitly cover or detail Agentic Engineering’s core focus on human/AI agency or ethical autonomy. The fit is tangential but not direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "1ePkQeCVAlY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 13.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.3,
+    "ai_audience": 7.6,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content thoroughly explains the difference between resource efficiency and flow efficiency in agile contexts, focusing on value delivery through workflow optimization. However, it makes no mention of autonomous AI agents, agentic principles, contextual intelligence, or AI-driven delivery strategies—the category’s direct criteria. Themes like system optimization and holistic work are adjacent but insufficient for 'Agentic Software Delivery' due to the complete omission of agentic elements, intelligent automation, or AI involvement in delivery processes. The audience fits (agile practitioners, coaches), and the signal-to-noise ratio is high given its focus, but scoring on direct mention, alignment, depth, and intent is extremely low due to the categorical mismatch.",
+    "reasoning_summary": "The topic centers solely on process optimization within Agile—no discussion of autonomous agents, AI, or agentic delivery. No alignment with agentic software delivery principles; fit is highly tangential and incomplete.",
+    "level": "Ignored"
   }
 }

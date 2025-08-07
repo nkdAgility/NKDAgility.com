@@ -1395,16 +1395,23 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "hij5_aP_YN4",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:57:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of agile coaching but does not delve into specific Scrum roles, events, or principles. While it touches on the importance of community and collaboration, which are relevant to Scrum, the discussion lacks depth and focus on Scrum itself, making it a secondary topic rather than a primary one.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 53.85,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.7,
+    "ai_depth": 5.2,
+    "ai_intent": 6.6,
+    "ai_audience": 8.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content very rarely mentions Scrum directly (one explicit reference as 'Scrum Trainer' and a brief discussion about 'Scrum... in complex environments'; overall, Scrum is not the primary focus). The main theme is on community, growth, and feedback for Agile coaches in general. While it occasionally references Scrum, most discussions are about Agile coaching, principles of feedback, and mindset. Concepts like retrospectives (analogically) and continuous improvement align with Scrum, but also with Agile in general. The audience (coaches/practitioners) is highly relevant and there's some moderate depth when discussing adaptation and learning from the Scrum context, but these are often generalized to Agile practice, not strictly Scrum. The signal-to-noise ratio is reasonable; the content is focused on coaching and community with relatively little digression. No penalties were applied as the tone is positive and there are no outdated or critical perspectives on Scrum.",
+    "reasoning_summary": "Content focuses on Agile coaching through community and feedback, with only minor references to Scrum. It aligns more with Agile principles than with Scrum specifically; discussion on Scrum is limited and non-central.",
+    "level": "Tertiary"
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1968,5 +1975,24 @@
     "reasoning": "The content focuses on personal growth, community, and feedback within Agile coaching. While it references key Agile concepts like continuous improvement and DevOps, it does not directly address specific agentic engineering practices or frameworks. The alignment is partial as themes of feedback, challenge, and autonomy are present, but the depth and explicit connection to maximizing human/AI agency or systemic engineering decisions are limited. The intended audience—Agile coaches—overlaps with agentic engineering's target, but the main thrust is self-improvement over deliberate engineering design. No outdated or contradictory elements found; thus, no penalties applied.",
     "reasoning_summary": "This content aligns moderately with Agentic Engineering via themes of autonomy, feedback, and growth for Agile coaches, but lacks direct discussion of engineering agency, AI collaboration, or systemic agentic practices. It has partial audience fit and some conceptual overlap, but limited explicit depth.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hij5_aP_YN4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 7.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly discusses Agile coaching, community growth, feedback loops, and continuous improvement, yet makes no mention of AI agents, autonomous delivery, or agentic frameworks. It lacks any explicit or implicit alignment with the integration of AI, agency in delivery, or modern engineering practices central to Agentic Software Delivery. The audience (Agile coaches) has some overlap with the potential audience for agentic delivery, but the focus remains firmly on human learning, not technology or agent augmentation. There is a slight relevance in discussing feedback loops and continuous improvement, but these are present strictly within the human coaching context, not the agentic paradigm.",
+    "reasoning_summary": "The content is unrelated to Agentic Software Delivery. It centers on Agile coaching, community, and feedback with no discussion of agents, AI, or autonomous delivery systems. Fit is very low and limited to generic mentions of improvement or feedback loops.",
+    "level": "Ignored"
   }
 }

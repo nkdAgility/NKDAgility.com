@@ -1180,15 +1180,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "ZrzqNfV7P9o",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:54:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the core themes of DevOps. While it mentions collaboration and teamwork, it does not discuss DevOps practices, automation, or the cultural shifts necessary for effective DevOps implementation. The emphasis is on Agile methodologies rather than the DevOps philosophy.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 7.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.8,
+    "ai_audience": 1.1,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on learning Scrum via Minecraft Education Edition, highlighting active learning and simulation of product development complexity. However, it makes no explicit or implicit mention of DevOps philosophy, principles, automation, collaboration between dev and ops, or any of the key DevOps tenets. All main content is squarely dedicated to Scrum practice and educational logistics, without reference to continuous delivery, eliminating silos, shared accountability, or workflow improvement from a DevOps perspective. Any overlap with DevOps (e.g., collaborative complex work) is incidental and not the subject or intent of the content.",
+    "reasoning_summary": "This content is exclusively about hands-on Scrum training using Minecraft, with no explicit or thematic connection to DevOps concepts, practices, or audience. It does not fit the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1949,6 +1956,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses on learning Scrum using Minecraft Education Edition as a collaborative, complex environment for hands-on experience. While it discusses engaging all team members and simulating real-world development complexity, it does not mention or deeply explore Agentic Engineering or its key themes such as human/AI agency, DevOps-infused craft, or ethical autonomy. The alignment is partial because the emphasis is on participation and complexity, which loosely connects to agency, but the content lacks direct conceptual or terminological connection to Agentic Engineering. The target audience (Scrum learners/facilitators) somewhat overlaps, but depth and alignment to Agentic Engineering's defining principles are superficial at best.",
     "reasoning_summary": "This content introduces a hands-on Scrum learning experience using Minecraft to replicate complex product development, but it makes only indirect references to agency or engineering practices central to Agentic Engineering, resulting in low to moderate category fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 7.775,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.4,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on teaching Scrum through Minecraft Education Edition as a complex, collaborative learning environment. It does not discuss autonomous AI agents, contextual intelligence, or human-agent integration. There are no explicit or implicit references to agentic delivery, agency in software, or related engineering, governance, or feedback mechanisms involving AI. The intent is educational, targeting Scrum learners and educators, not practitioners of agentic software delivery. Any alignment is extremely superficial—discussion centers only on general complexity and team product development, not on agentic principles, AI, or delivery strategies informed by agentic intelligence.",
+    "reasoning_summary": "This content is about Scrum education via Minecraft, with no discussion or mention of agentic software delivery, AI agents, or related concepts. It does not fit the category—alignment, depth, and relevance are minimal.",
     "level": "Ignored"
   }
 }

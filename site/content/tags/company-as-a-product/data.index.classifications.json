@@ -1,16 +1,22 @@
 {
   "Principle": {
+    "resourceId": "9InuUGAkHO4",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:47:30",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the 'Company as a Product' (CaaP) strategy, which aligns closely with several principles such as value delivery, continuous improvement, and adaptability. It explicitly mentions the importance of delivering value to customers and adapting organisational structures based on feedback, which are actionable principles. The depth of discussion is significant, as it elaborates on how CaaP encourages cross-functional collaboration and a culture of experimentation, reflecting a strong understanding of the principles that guide decision-making in Agile and Lean frameworks. However, while it is focused on principles, it does not delve deeply into specific Agile or Lean methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the category as it explores the 'Company as a Product' approach, highlighting key principles like value delivery, adaptability, and continuous improvement. It demonstrates a solid grasp of Agile and Lean thinking, though it doesn’t go into specific methodologies. The emphasis on actionable principles and organisational learning makes it a strong, though not exhaustive, match."
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 83.42,
+    "ai_mentions": 4.7,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.4,
+    "ai_intent": 8.3,
+    "ai_audience": 8.1,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "Direct mentions of principles like value delivery, continuous improvement, adaptability, and empiricism are implicit but not named explicitly. The content aligns with principles by advocating CaaP as a way to guide decisions towards customer value, experimentation, and learning. The discussion is deep, referencing actionable behaviours and cultural shifts, but it stays at the strategy/concept level rather than naming or parsing distinct Agile/Lean/DevOps principles. The purpose fits (guidance/influence), audience targets strategists and practitioners, and the writing is focused. No penalties for outdatedness or contradiction.",
+    "reasoning_summary": "Content aligns closely with Principles by discussing decision-guiding rules—customer focus, adaptability, continuous improvement—framing CaaP as an actionable approach. Though explicit principle names are few, the intent and detail provide a strong category fit.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3126,6 +3132,25 @@
     "final_score": 20.0,
     "reasoning": "The content describes 'Company as a Product' (CaaP) as an organisational strategy focusing on cross-functional collaboration, adaptability, and value delivery. However, it does not mention human-AI collaboration, AI agents, or socio-technical systems involving AI, which are central to the 'Collective Intelligence' category. Collaboration is discussed only between humans, not between humans and AI. While the audience and some concepts of team collaboration overlap with potential interests in Collective Intelligence, the core requirements—effective human-AI partnership and emergent capabilities from such collaboration—are absent.",
     "reasoning_summary": "This content emphasizes organizational adaptability and human cross-functional teamwork but does not reference or align with human-AI collaboration, which is central to Collective Intelligence. Its focus is on broad organizational design and culture rather than socio-technical systems involving AI partnerships.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9InuUGAkHO4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 18.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 1.4,
+    "ai_audience": 2.0,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content describes 'Company as a Product,' focusing on treating the organization as an evolving product driven by customer feedback, measurable outcomes, and continuous improvement. However, it does not mention autonomous AI agents, agentic delivery, contextual intelligence, or agentic frameworks. There are no explicit or implicit discussions of AI, agent autonomy, or related engineering practices. The alignment is limited to general organizational transformation and adaptability concepts, with some overlap in continuous improvement and outcome focus. The audience could partially overlap (organizational leaders interested in modern practices), but the content does not target agentic software delivery specifically or its technical audience. The content's signal is moderately focused but off-topic regarding the agentic aspects.",
+    "reasoning_summary": "The content focuses on evolving organizational strategy (CaaP), not on agentic software delivery or AI agents. There is minimal conceptual overlap; no agentic principles, technologies, or practices are discussed. Only a weak, partial fit.",
     "level": "Ignored"
   }
 }

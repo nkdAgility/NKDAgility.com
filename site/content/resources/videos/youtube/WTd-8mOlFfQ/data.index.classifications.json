@@ -1412,15 +1412,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "WTd-8mOlFfQ",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:19:41",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Agile practices rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.3,
+    "ai_intent": 1.5,
+    "ai_audience": 2.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content concerns common mistakes Scrum Masters make, specifically around administrative tasks and team effectiveness. It never mentions One Engineering System, nor does it discuss standards, tool/process integration, or 1ES implementation. The main theme is Scrum role clarification, not integrated engineering systems. Minor overlap might exist only via shared topics like team effectiveness, but the core intent and subject matter do not align with the One Engineering System category.",
+    "reasoning_summary": "This content is about Scrum Master role mistakes and doesn't discuss One Engineering System, unification of tools/processes, or standardisation. Its topic and intent do not fit the category; any overlap is only tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1922,6 +1929,25 @@
     "final_score": 36.0,
     "reasoning": "The content discusses the importance of Scrum Masters avoiding administrative tasks and refocusing on team effectiveness. There is a mild alignment to the Agentic Engineering category, notably in fostering team agency and autonomy by not reducing Scrum Masters to secretarial roles. However, there is no direct discussion of deliberate engineering design, systemic observability, feedback-driven adaptation, AI augmentation, or other hallmark themes of Agentic Engineering. The content is primarily advice for Scrum Masters, lacks depth in exploring engineering practices, and mentions no conceptual frameworks for maximising agency beyond basic assertions. Scoring reflects minimal direct relevance, with moderate audience and signal alignment due to targeting practitioners and maintaining relevance to professional conduct.",
     "reasoning_summary": "This article lightly touches on agency by urging Scrum Masters to avoid administrative work and focus on team effectiveness, which partially aligns with agentic principles. However, it neither explores deliberate engineering design nor discusses human/AI agency, thus only marginally fitting the Agentic Engineering category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 4.31,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 4.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively focuses on Scrum Master anti-patterns related to administrative overload and productivity within Scrum teams. There is no reference to AI, agentic principles, autonomous agents, contextual intelligence, or modern engineering practices detailed in the 'Agentic Software Delivery' definition. Mentions of automation or intelligent augmentation are entirely absent; the discourse remains confined to organizational and role-boundary advice for Scrum Masters. Thus, the content is almost entirely misaligned with the evaluated category.",
+    "reasoning_summary": "The content lacks any discussion of autonomous agents, AI integration, or contextual intelligence in software delivery. Its focus on Scrum Master duties is unrelated to 'Agentic Software Delivery.' Fit is minimal to none.",
     "level": "Ignored"
   }
 }

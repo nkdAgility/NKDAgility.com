@@ -1373,15 +1373,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "UeGdC6GRyq4",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:33:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on underemployment and a specific training programme rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on themes of personal development and empowerment, it lacks explicit references to shared objectives, strategic alignment, or frameworks like OKRs that are central to the Common Goals category.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 13.215,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 6.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content promotes a pay-later training program for underemployed individuals, focusing on personal career development and financial accessibility—not on aligning strategy and execution, shared objectives, or frameworks like OKRs in Agile/DevOps. It briefly mentions collective empowerment and success but does not discuss Common Goals as defined (i.e., in terms of team alignment, organisational objectives, or Agile practices). The closest fit is a general reference to shared trust and mutual success, but these are outside the scope and intent of Common Goals in Agile/Scrum/DevOps. Target audience is individuals, not teams/organizations; depth and direct relevance to the category are minimal.",
+    "reasoning_summary": "This content is about individual career training, not about aligning shared objectives in Agile or DevOps settings. It does not substantively relate to Common Goals as defined; fit is poor, with only superficial overlap in empowerment or success themes.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1907,6 +1914,25 @@
     "final_score": 12.0,
     "reasoning": "There are no direct references to Agentic Engineering or its terminology. The content does discuss empowerment, agency, and training for individuals, but focuses strictly on personal career growth and pay models for underemployed people. There is some overlap in emphasizing empowerment and mutual respect, but no discussion of deliberate software engineering practices, feedback loops, DevOps ethos, or integration of human/AI agency. The audience is primarily jobseekers or career changers, not engineering professionals. No obsolete references or critical tone is found, so no penalties are applied.",
     "reasoning_summary": "The content centers on empowering individuals through a trust-based training payment model but stays focused on career advancement, not the design of engineering practices or maximizing agency in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UeGdC6GRyq4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 5.953,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.345,
+    "ai_intent": 0.91,
+    "ai_audience": 1.348,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on an employment-support training program emphasizing pay-later schemes and empowerment for the underemployed. It does not reference agentic software delivery, autonomous AI agents, software delivery practices, or related governance or architecture. There are no mentions—direct or indirect—of core agentic principles, integration of AI, agency, or systems of work. The theme is career advancement for individuals (likely in or aspiring to technology), but with zero substantive or conceptual connection to software delivery, AI agency, feedback loops, or delivery system architecture. Audience targeting is jobseekers or professionals, not software engineering or DevOps practitioners.",
+    "reasoning_summary": "The content is about training and pay-later programs for the underemployed. There is no discussion or mention of agentic software delivery, autonomous AI, or related practices. It does not fit the category.",
     "level": "Ignored"
   }
 }

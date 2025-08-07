@@ -1233,17 +1233,23 @@
     "level": "Secondary"
   },
   "Value Delivery": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Value Delivery",
-    "calculated_at": "2025-04-10T15:52:26",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
-    "non_ai_confidence": 10,
-    "final_score": 87.0,
-    "reasoning": "The content explicitly discusses the principle of 'less is more' within Agile, focusing on maximising value and minimising waste, which aligns closely with the core themes of value delivery. It provides detailed strategies such as prioritising value over volume, eliminating non-essential tasks, and implementing effective sprint planning, all of which contribute to enhancing customer satisfaction and business agility. The depth of discussion is significant, covering various aspects of Agile practices that directly relate to value delivery.",
-    "level": "Primary",
-    "reasoning_summary": "This content is a strong fit for the value delivery category, as it explores how Agile’s 'less is more' mindset drives better outcomes. By highlighting strategies like prioritising high-value work, cutting unnecessary tasks, and refining sprint planning, it clearly demonstrates how these practices boost customer satisfaction and business agility—key aspects of value delivery in Agile environments."
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 86.25,
+    "ai_mentions": 7.6,
+    "ai_alignment": 9.5,
+    "ai_depth": 8.8,
+    "ai_intent": 8.6,
+    "ai_audience": 8.1,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content focuses on the Agile principle of 'less is more', linking reduced waste and focus on high-value tasks directly to value creation and delivery. It discusses value prioritisation, backlog refinement, and sprint planning—all closely tied to Value Delivery. There's conceptual alignment and substantial discussion on how these approaches increase customer value, productivity, and quality, with examples grounded in Agile frameworks. The audience is Agile/Scrum practitioners, and there is little off-topic material. While 'Value Delivery' is not named as a term, it is referenced through consistent value-centric language.",
+    "reasoning_summary": "Content is strongly aligned with 'Value Delivery'. It explores Agile practices that focus on delivering high value through prioritisation, waste reduction, and streamlined workflows. Fit is clear, with intent and discussion depth matching the category scope.",
+    "level": "Primary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1969,6 +1975,25 @@
     "final_score": 29.0,
     "reasoning": "The content centers on applying 'less is more' within Agile by streamlining tasks, improving productivity, and focusing on value. While it references themes like autonomy and continuous improvement, there are no direct or explicit mentions of Agentic Engineering concepts, human/AI agency, or ethical integration. The discussion stays at a procedural Agile practice level, with no systemic or philosophical considerations of agency, feedback-driven adaptation, or the engineering of collaborative environments for human and AI decision-making. The audience and focus (Agile practitioners) partially overlap with Agentic Engineering, but the treatment is narrow and lacks the conceptual and practical depth required for true alignment.",
     "reasoning_summary": "While this content addresses Agile productivity and value focus, it lacks explicit reference or substantial alignment with Agentic Engineering, as it does not discuss the deliberate engineering of human or AI agency, systemic observability, or ethical decision frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "V88FjP9f7_0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 18.87,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 2.1,
+    "ai_audience": 5.0,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content strictly discusses Agile principles relating to value focus, backlog refinement, and eliminating waste ('less is more') but does not mention or imply agentic software delivery, autonomous AI agents, contextual intelligence, or human-agent collaboration. It centers around human-centered Agile practices, providing no exploration of agentic principles, intelligent agents, or modern engineering required for agentic delivery. Audience is generally aligned as Agile practitioners, but there's no signal toward agentic software delivery per the category definition.",
+    "reasoning_summary": "The content focuses solely on Agile 'less is more' principles with no mention or discussion of agentic software delivery, autonomous AI agents, or their integration. There is little to no alignment with the category definition beyond general workflow optimization.",
     "level": "Ignored"
   }
 }

@@ -1437,15 +1437,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "S1hBTkbZVFM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:21:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 12.21,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 1.8,
+    "ai_audience": 3.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on hiring an Agile coach and their role in fostering collaboration and credibility within teams and leadership. While it touches on aspects of Agile practices, it does not explicitly discuss the One Engineering System framework, its principles, or its implementation. The discussion is more about Agile coaching rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "reasoning": "The content focuses exclusively on hiring Agile coaches with credibility, technical knowledge, and the ability to work with teams and leadership. There are no explicit mentions of One Engineering System (1ES), nor does it discuss the integration, standardization, or framework aspects that characterize 1ES. The audience (organizational leaders seeking Agile coaches) is only peripherally aligned. Discussion depth and signal are strictly centered on coaching, with scant thematic overlap. No penalties are applied, as the content is not critical, outdated, or contradictory; it is simply off-category.",
+    "reasoning_summary": "This content is about hiring Agile coaches and does not reference or align with One Engineering System. Its focus is unrelated to 1ES’s integration or standardization principles, resulting in a very weak category fit.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1948,6 +1955,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on hiring Agile coaches with credibility, technical knowledge, empathy, and the skills to engage both teams and leadership for successful Agile transformation. While these ideas relate to empowerment and autonomy in teams, there are no direct mentions or thorough exploration of Agentic Engineering's core principles, such as maximizing human and AI agency, systemic observability, DevOps-infused craft, or ethical AI integration. The core intent centers on hiring for cultural and technical fit, not the deliberate design of engineering practices to explicitly maximize agency. The target audience (Agile practitioners and leaders) partially overlaps, but most relevant Agentic Engineering aspects are only tangentially touched upon.",
     "reasoning_summary": "The content primarily addresses hiring Agile coaches for credibility and transformation, focusing on team trust, leadership engagement, and technical competence. While themes of empowerment and effective collaboration are present, Agentic Engineering concepts are not explicitly or deeply explored.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "S1hBTkbZVFM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 14.365,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 1.7,
+    "ai_audience": 2.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on hiring Agile coaches, focusing on trust, technical experience, communication, and empathy. There are no direct mentions of agentic software delivery, autonomous AI agents, or integration of AI with human expertise. The themes remain strictly in human coaching, traditional Agile transformation, and organizational culture, with no substantive discussion of agency, AI, or embedded intelligence. Minimal conceptual alignment exists via references to modern practices, but not in the agentic, AI-driven sense. The target audience is related but not overlapping (leaders hiring Agile coaches). Depth and signal are moderately low since the article does not approach the 'Agentic Software Delivery' domain beyond general Agile delivery concepts.",
+    "reasoning_summary": "This article is on hiring credible Agile coaches. It does not discuss agentic software delivery, autonomous AI agents, or AI-human synergy. The content only partially aligns on general Agile delivery, so the category fit is weak.",
     "level": "Ignored"
   }
 }

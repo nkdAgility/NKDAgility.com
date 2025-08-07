@@ -1465,15 +1465,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "D1dSEM9ni3C",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:12:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Scrum framework and the specifics of Sprint Planning, which are not directly related to the One Engineering System. While it discusses planning and collaboration within a Scrum team, it does not address the principles, integration, or standardisation aspects of 1ES. Therefore, it has minimal relevance to the category.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is entirely focused on practical guidance for Sprint Planning within Scrum, with no mention—explicit or implicit—of One Engineering System (1ES), its concepts (unification/standardisation), or related frameworks. The content's structure, audience, and purpose are tightly aligned with Scrum practitioners, not with 1ES implementers or stakeholders. There are no references to integrated tools, cross-team engineering standardisation, or 1ES best practices, and the discussion centers only on core Scrum facilitation and planning details.",
+    "reasoning_summary": "This content is exclusively about Scrum Sprint Planning without any reference or conceptual overlap with One Engineering System topics, making it an extremely poor fit for this category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1979,6 +1986,25 @@
     "final_score": 18.0,
     "reasoning": "The content provides a structured guide to Sprint Planning in Scrum, focusing on best practices, facilitation, and flow. While it encourages team collaboration and self-organization to some extent, it does not reference or deeply explore agentic engineering concepts such as maximizing human or AI agency, ethical AI, or systemic observability. It does not explicitly connect Sprint Planning to deliberate, philosophical engineering for agency. The audience moderately overlaps, but the scope is significantly narrower and more operational.",
     "reasoning_summary": "This Scrum Sprint Planning guide is practical and process-focused, with only minimal conceptual overlap with Agentic Engineering. It covers collaboration and decision-making but lacks explicit alignment with agentic practices or principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "D1dSEM9ni3C",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:40",
+    "ai_confidence": 7.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a conventional step-by-step guide to Sprint Planning in Scrum. There is no mention or exploration of autonomous AI agents, agentic delivery, or the strategic integration of AI with human expertise—no alignment exists with the Agentic Software Delivery definition. Topics focus exclusively on backlog refinement, team planning, and facilitation options for classic Scrum events. The only very minor overlap is indirect (e.g., discussion of telemetry or throughput charts), but these are referenced in traditional Scrum tooling context without any agentic or AI-driven framing.\n\nScores remain extremely low across all dimensions: there is no explicit mention (mentions: 0.1), no meaningful conceptual overlap (alignment/depth: ~1), and the intent/audience are fully Scrum practitioner, with no hint at agentic or AI-augmented delivery methods. There is no satire, criticism, or outdated practice requiring penalty. Overall, this content is a near-total miss for this category.",
+    "reasoning_summary": "Content is a standard Scrum Sprint Planning guide with no reference to agentic principles, AI, or autonomous delivery. There is no conceptual or thematic fit for Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

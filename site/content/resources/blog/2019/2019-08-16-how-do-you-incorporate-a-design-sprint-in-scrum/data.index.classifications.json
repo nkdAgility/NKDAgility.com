@@ -1438,15 +1438,22 @@
     "reasoning_summary": "This content is a great fit for the Scrum category, as it delves into how UX tasks can be woven into the Scrum process. It references key Scrum elements like roles, events, and Refinement, and offers practical advice on team collaboration during Sprints. The detailed discussion shows a solid grasp of Scrum, making it highly relevant to anyone interested in integrating UX within this framework."
   },
   "Shift Left Strategy": {
+    "resourceId": "MHeGFYrasBx",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:13:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum practices and the integration of UX activities within sprints, without explicitly addressing the Shift-Left Strategy. While there are elements of early involvement in the development process, the focus is on Scrum roles and methodologies rather than on integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 19.42,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 3.0,
+    "ai_audience": 6.6,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses integrating design and UX activities within Scrum sprints and backlog refinement, which indirectly aligns with early integration themes. However, it does not mention or explicitly elaborate on the Shift Left Strategy, its principles, or techniques like early testing, security, or compliance. The focus is on cross-functional development and anti-patterns such as dedicated design sprints, with the main intent being to clarify best practices in Scrum rather than advocating a Shift Left approach. No penalties apply as there are no outdated or undermining elements.",
+    "reasoning_summary": "The content's intent is integrating UX into Scrum—not explicitly Shift Left. While it shares a minor theme (early work), it lacks direct mention, principles, or depth on the Shift Left Strategy; the fit is partial and mostly incidental.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -2006,5 +2013,24 @@
     "reasoning": "Direct mention of 'Agentic Engineering' is absent, earning a very low mentions score. There is some conceptual overlap—advocating for decentralizing work, breaking down silos, and multidisciplinary teams hints at developer agency and feedback-driven adaptation. The content resists outdated Taylorist practices, values team-wide transparency, and supports collaborative design within Scrum, which are endemically agentic principles. However, it is primarily about team practice integration (especially design in Scrum) vs. an explicit, thorough treatment of maximising agency or blending with intelligent systems. The discussion focuses on human autonomy but doesn't directly engage with DevOps, observability, or ethical AI. Intent and depth both show moderate relevance; audience is professional practitioners (reasonable fit), signal is somewhat diluted by tangents into general Scrum philosophy. No content is outdated, critical, or contradictory. Hence, a mixed but positive confidence.",
     "reasoning_summary": "The content moderately aligns with Agentic Engineering by challenging rigid workflows and supporting empowered, cross-functional teams, but lacks explicit discussion of maximising agency or integrating intelligent systems. Fit is partial, focused mainly on Scrum practice adaptation.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "MHeGFYrasBx",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 15.653,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.7,
+    "ai_intent": 1.5,
+    "ai_audience": 6.7,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on integrating design and UX into Scrum, emphasizing cross-functional teams and collaborative work. However, there is no mention of AI agents, autonomous systems, or contextual intelligence in software delivery. The discussion remains within traditional team dynamics, modern Scrum practices, and the avoidant stance on siloed processes. None of the Agentic Software Delivery concepts like agency in AI, AI-human synergy, or embedded intelligence are touched on. The audience (Scrum practitioners and teams) marginally overlaps, but the purpose, themes, and discussion depth are unrelated to Agentic Software Delivery.",
+    "reasoning_summary": "The content does not address agentic principles, AI agents, or contextual intelligence in software delivery. It only covers Scrum UX practices, thus is a poor fit for the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

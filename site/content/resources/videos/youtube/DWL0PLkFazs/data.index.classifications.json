@@ -1402,15 +1402,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "DWL0PLkFazs",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:13:53",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the One Engineering System framework or its principles. While it touches on themes of connection and leadership, these are not aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
+    "calculated_at": "2025-08-07T06:11:48",
+    "ai_confidence": 10.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.3,
+    "ai_audience": 3.7,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on personal well-being, perspective, and leadership in tech rather than on standardized engineering frameworks, unified tools/processes, or the One Engineering System (1ES) directly. There is no explicit mention of 1ES or discussion of its principles, implementation, or effects. The main themes are broad and generic, not aligned with the specific core ideas of 1ES. The intended audience (tech professionals) overlaps somewhat with the 1ES audience, but the topic is tangential and lacks any substantial conceptual or structural relevance to the category. No penalties are required as there is no outdated or contradictory tone.",
+    "reasoning_summary": "This content does not fit the One Engineering System category; it focuses on health, perspective, and innovation in tech and lacks any reference or substantive alignment with unified engineering systems or 1ES topics.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1918,6 +1925,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses primarily on individual well-being, mindset, and leadership in the tech industry, emphasizing how health and perspective fuel innovation and creativity. While it briefly mentions supporting developers and fostering environments for creativity, it does not discuss deliberate engineering practices, agency maximisation (human or AI), or the systemic, technical, or philosophical foundations of agentic engineering. There is no explicit mention of Agentic Engineering, its principles, or its core topics such as decentralised decision-making, systemic observability, automation as a core craft, or ethical AI integration. The audience (tech professionals) and intent (leadership and innovation) have some overlap with Agentic Engineering, but the main themes are tangential; the alignment and depth scores are therefore modest. No penalties were necessary: the content is current, earnest, and does not contradict the agentic frame.",
     "reasoning_summary": "This piece centers on health, perspective, and leadership in tech, not on the deliberate design or philosophy of agentic engineering. While aligned audiences and tangential themes exist, it lacks direct or substantial relevance to Agentic Engineering’s key principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the relationship between well-being, perspective, and innovation in tech, with some mention of leadership and engineering mindsets. However, it makes no mention of agentic software delivery principles, AI agents, or contextual intelligence. There is no discussion of autonomous agents, human-AI synergy, or any technical, governance, or systems-of-work concepts that define agentic delivery. The audience is broadly tech-focused, not specifically practitioners in agentic delivery. No penalties were applied as there is no outdated or contradictory content, though scores are low due to complete absence of key themes.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category; it discusses leadership, innovation, and well-being in tech, but makes no reference to agentic delivery, AI agents, or relevant systems concepts.",
     "level": "Ignored"
   }
 }

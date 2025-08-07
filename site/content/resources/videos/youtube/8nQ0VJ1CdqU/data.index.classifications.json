@@ -551,15 +551,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "8nQ0VJ1CdqU",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:12:29",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges and failures of agile transformations without any direct reference to Test First Development principles. While it touches on decision-making and collaboration, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 1.4,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses root causes of agile transformation failures, focusing on top-down decision making, lack of team involvement, and the value of inclusive change processes. There are no direct or even indirect references to Test First Development, nor do principles such as defining success criteria before implementation, testing-first practices, or feedback loops via test definition appear. The emphasis is on organizational change and team engagement rather than on software testing approaches. The audience focus (agile practitioners, leaders) does not bridge the gap to Test First Development, and there is no substantive or tangential discussion of test-first concepts.",
+    "reasoning_summary": "No coverage of Test First Development. The content is entirely about agile transformation failures and inclusive change, with no direct or conceptual relation to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2030,5 +2037,24 @@
     "reasoning": "The content centers on how top-down, command-and-control structures undermine agile transformations, advocating for inclusive, bottom-up decision-making and team agency. This aligns conceptually with Agentic Engineering’s emphasis on developer agency and participatory decision frameworks. While explicit reference to 'Agentic Engineering' or associated advanced DevOps/AI topics is absent, repeated focus on agency, empowerment, and co-creation among engineering teams fits the spirit of the category. The depth focuses on real-world dynamics, resistance, and frameworks (e.g., Open Space Agile) that foster decentralization, strongly relating to the intent of maximizing human agency in software engineering. Discussion lacks detail on ethical AI, continuous delivery, observability, or specific technical practices, but the core participatory theme is sustained. The material aims at practitioners and leaders interested in effective transformation practices, making audience and signal alignment solid if not precise. No content is outdated, off-topic, or undermining the category.",
     "reasoning_summary": "The content foregrounds the importance of team involvement, agency, and bottom-up decision-making in agile, clearly aligning with Agentic Engineering’s stress on human agency and decentralised practices, even if it does not explicitly use the term or explore technical/AI-specific aspects.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "8nQ0VJ1CdqU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 12.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 3.1,
+    "ai_audience": 4.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "There are no direct references to agentic software delivery, autonomous AI agents, or contextual intelligence. The discussion is rooted in human-centric, co-created agile transformation practices and criticizes top-down decision-making, which aligns thematically with participatory approaches but not with agentic AI or machine-augmented delivery. The only tangential alignment is the advocacy for including practitioner expertise in decision-making, potentially resonant with some 'agency' concepts, but none of the core mechanisms, technology components, or governance models from 'Agentic Software Delivery' are mentioned. Audience (agile practitioners and leaders) is tangentially similar and intent is generally about effective transformation, but all core content is on classic agile, not agentic or AI-augmented delivery.",
+    "reasoning_summary": "Content focuses on co-created, collaborative agile transformations with no mention of AI agents or agentic systems. There is almost no overlap with Agentic Software Delivery beyond some shared human agency concepts; overall, the fit is poor and mostly irrelevant.",
+    "level": "Ignored"
   }
 }

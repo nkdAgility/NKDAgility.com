@@ -508,16 +508,23 @@
     "level": "Ignored"
   },
   "Scrum Master": {
+    "resourceId": "qnWVeumTKcE",
     "category": "Scrum Master",
-    "calculated_at": "2025-04-10T15:54:30",
-    "ai_confidence": 45.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Scrum mastery and references training related to Scrum, which indicates a connection to the role of the Scrum Master. However, it lacks detailed discussion on the responsibilities, techniques, or impact of the Scrum Master, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 73.1,
+    "ai_mentions": 8.6,
+    "ai_alignment": 7.9,
+    "ai_depth": 6.7,
+    "ai_intent": 8.1,
+    "ai_audience": 8.1,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "This content centers on the Scrum.org Professional Scrum Master (PSM) training, which by definition explores the Scrum Master accountability, responsibilities, and the concepts taught about the role. There is explicit reference to 'Scrum Master' and the context (Scrum.org) indicates a primary focus on educating current or aspiring Scrum Masters. The score reflects high conceptual alignment and audience fit (prospective Scrum Masters), though the publicly available description limits the evidence for great depth, as the overview doesn't indicate detailed systemic discussion. No penalty is applied as the content is current and in alignment with the intended framing.",
+    "reasoning_summary": "The content targets Scrum Master education via PSM training, directly referencing the accountability and targeting potential Scrum Masters. While depth may be limited, the topic, intent, and themes align closely with the category.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1922,6 +1929,25 @@
     "final_score": 12.0,
     "reasoning": "The content is an overview of Scrum.org's Professional Scrum Master training. There is no direct mention of 'Agentic Engineering' or its core topics—it's focused on Scrum roles, process, and certification expectations. While Scrum does enable some aspects of agency and iterative value delivery, the content doesn't explore or even reference deliberate engineering design for agency, systemic observability, or AI integration. Its discussion is too general and introductory, with no substantive connection to Agentic Engineering philosophy, practices, or audience.",
     "reasoning_summary": "This content provides a general overview of Scrum Master training focused on certification structure and key concepts. It does not discuss the deliberate engineering design, agency, or adaptive practices that define Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qnWVeumTKcE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 3.95,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content centers exclusively on the Scrum.org PSM training—its structure, concepts, and certification process. There are no direct mentions or inferred discussions on agentic software delivery, autonomous AI agents, contextual intelligence, or their integration in engineering or delivery contexts. The subject matter pertains to traditional Scrum project management practices, which are specifically excluded per the classification definition. There is no evidence of alignment with agentic principles, nor of targeting a relevant audience or covering any of the key agentic topics. Scores reflect a minimal, almost incidental relevance—general software delivery may overlap as a distant context, but the content itself does not fit the agentic category.",
+    "reasoning_summary": "The content only discusses Scrum.org's PSM training and certification, with no link to agentic software delivery, AI agents, or related principles. It does not fit the category; the content is entirely outside scope.",
     "level": "Ignored"
   }
 }

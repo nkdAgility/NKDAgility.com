@@ -24,16 +24,23 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Current Value",
     "category": "Framework",
-    "calculated_at": "2025-04-09T16:43:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Ability to Innovate (A2I) and its relationship with Evidence-Based Management (EBM), but it does not focus on Agile frameworks or Lean principles, which are central to the Framework category. While it touches on themes of innovation and decision-making, it lacks direct references to specific frameworks or their implementation strategies. The discussion is more about a concept rather than a structured methodology, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 45.3,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.2,
+    "ai_intent": 2.2,
+    "ai_audience": 5.3,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content gives an overview of 'Current Value' in Evidence-Based Management, focusing on its definition, usage, and business importance. While Evidence-Based Management can be positioned as a framework, the discussion is centered on one value area rather than the structure, principles, or comparison of frameworks. Mentions of frameworks are limited (only referencing Evidence-Based Management), conceptual alignment is weak, and the content is primarily explanatory for the concept rather than implementation guidance or best practices for frameworks. Thus, the fit to the Framework category is partial and marginal.",
+    "reasoning_summary": "Focuses on a key metric within Evidence-Based Management, not on frameworks themselves. Low alignment with framework-oriented discussion, implementation, or comparison. Category fit is marginal and mainly indirect.",
+    "level": "Tertiary"
   },
   "Tenet": {
     "category": "Tenet",
@@ -3119,6 +3126,25 @@
     "final_score": 19.0,
     "reasoning": "The content discusses 'Current Value' within Evidence-Based Management, focusing on real-time value measurement through indicators like customer satisfaction and revenue. There is no mention or implied discussion of human-AI collaboration, partnership, or emergent collective capabilities. The content emphasizes decision-making, adaptability, and continuous improvement but frames these strictly in human team and organizational contexts—AI is not referenced as a collaborator or agent. While it is relevant to Agile and product teams, its focus is value tracking rather than collaborative human-AI outcomes.",
     "reasoning_summary": "This content centers on metrics for value delivery within Evidence-Based Management and does not reference or align with human-AI collaboration, making it only tangentially relevant to the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Current Value",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 25.35,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.9,
+    "ai_audience": 8.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content discusses 'Current Value' as a metric within Evidence-Based Management, focusing on measuring real-time value delivery using customer and performance indicators. There is no direct mention of agentic software delivery, AI agents, contextual intelligence, or relevant frameworks. The discussion centers on the ongoing evaluation of value rather than the integration of agentic principles. While the content may be of interest to similar audiences (teams seeking value delivery), there is little to no overlap in concepts or intent with Agentic Software Delivery, and the connection is only tangential through the theme of continuous improvement.",
+    "reasoning_summary": "Content focuses on real-time value measurement in EBM, not agentic delivery. No discussion of AI agents, autonomy, or integration. Only very slight thematic overlap; fit to the category is negligible and not explicit.",
     "level": "Ignored"
   }
 }

@@ -217,16 +217,23 @@
     "level": "Ignored"
   },
   "Personal": {
+    "resourceId": "qgSgXAu_d6a",
     "category": "Personal",
-    "calculated_at": "2025-04-10T15:54:52",
-    "ai_confidence": 25.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 10,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily focuses on a technical issue related to OneDrive file management rather than personal reflections or experiences related to Agile, Scrum, or DevOps. While there are brief mentions of personal experiences, such as the author's setup and challenges faced, these do not align with the core themes of the Personal category. The depth of discussion is largely technical, detailing steps to resolve a specific problem without providing significant personal insights or anecdotes.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 72.3,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.1,
+    "ai_depth": 6.5,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content is presented as a personal anecdote about the author’s experience with moving OneDrive files due to space issues and preferences in partitioning. It references the author's individual setup, challenges, and workflow habits, giving a personal angle. However, its primary purpose is to give step-by-step technical instructions, with only moderate reflection or unique insight connected to the author's personal context. There is no explicit discussion of Agile, Scrum, DevOps, or business agility, and the personal insights are more about day-to-day IT habits than deeper methodological learning or transformation. The fit with the Personal category is partial—there's evident subjective reflection and real-life storytelling, but not robust alignment with Agile/DevOps personal insights or experiences.",
+    "reasoning_summary": "Personal story about solving a technical problem dominates, with some personal reflection. Lacks substantial connection to Agile, Scrum, DevOps, or business agility. Fit with 'Personal' is partial: anecdotal and subjective, but not strongly category-aligned.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1921,6 +1928,25 @@
     "final_score": 3.0,
     "reasoning": "The content is a practical tutorial focused on moving OneDrive files without re-downloading, oriented toward users and IT practitioners. It doesn't mention Agentic Engineering or agency, nor does it discuss engineering practices, decentralised decision-making, system observability, DevOps, or AI. The step-by-step nature is user-level, lacking philosophical or engineering design context, and does not address maximising human or AI agency. Minimal conceptual or terminological overlap exists.",
     "reasoning_summary": "This content is a user-level guide for moving OneDrive files and does not address Agentic Engineering principles, such as agency, decision-making frameworks, or DevOps-oriented engineering practices. Alignment with the category is negligible.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qgSgXAu_d6a",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 6.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.6,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a step-by-step personal workflow for moving OneDrive files between drives on Windows. It does not mention agentic concepts, autonomous AI, or the integration of agents with human expertise. The content is narrowly focused on end-user file management without broader context or connection to software delivery, AI, or agentic frameworks. There is very minimal alignment with the category, and no depth regarding key principles such as contextual intelligence, autonomy, or governance frameworks for agents. The target audience is Windows end users or power users, not professionals focused on agentic delivery. No penalty applies as it's not outdated nor does it contradict the category. Scoring reflects very little relevance to the category.",
+    "reasoning_summary": "The guide is about moving OneDrive files; it lacks any discussion of agentic delivery, autonomous AI, or related systems. The topic, themes, and audience do not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

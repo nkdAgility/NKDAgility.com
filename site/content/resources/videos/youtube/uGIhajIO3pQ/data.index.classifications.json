@@ -1324,15 +1324,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "uGIhajIO3pQ",
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:16:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 32.05,
+    "ai_mentions": 0.8,
+    "ai_alignment": 4.2,
+    "ai_depth": 2.7,
+    "ai_intent": 3.4,
+    "ai_audience": 5.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of a broader discussion about Agile events and community engagement. While it acknowledges Scrum as part of the Agile framework, it does not delve into specific Scrum principles, roles, or practices. The focus is more on the event and personal experiences rather than a detailed exploration of Scrum itself.",
+    "reasoning": "The content discusses Agile methodologies and an upcoming Agile conference in Scotland, focusing on innovation, community, and broad Agile principles. It never directly mentions Scrum, nor does it discuss Scrum-specific roles, events, artifacts, or the Scrum framework. The discussion remains general to Agile and addresses the broader Agile community. Therefore, direct mentions and alignment with Scrum-specific concepts are minimal, and the content does not dive into Scrum implementation, principles, or practices. The audience overlaps (tech/Agile professionals) but not strictly Scrum practitioners. No penalties are required as the tone is supportive and content is not outdated or contradictory.",
+    "reasoning_summary": "Content discusses Agile broadly, not Scrum specifically. Lacks direct Scrum references, roles, or practices. Intent, depth, and alignment with the Scrum category are weak; the fit is partial at best, mostly targeting Agile as a whole.",
     "level": "Ignored"
   },
   "Shift Left Strategy": {
@@ -1894,6 +1901,25 @@
     "final_score": 25.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' or its precise core concepts are absent. While the content references Agile methodologies, community, and innovation, it lacks discussion on engineering autonomy, systemic observability, DevOps ethos, or the deliberate maximization of human/AI agency. No explicit engagement with ethical AI integration, feedback-driven decision frameworks, or continuous value through agentic practices is found. The focus is more on promoting the Agile 2023 Scotland event, its community spirit, and industry trends, which aligns only obliquely with Agentic Engineering topics—the overlap is incidental, not intentional or deep. Audience is fairly well aligned (tech professionals), and the signal is reasonable, but little relates specifically to the category definition.",
     "reasoning_summary": "The content promotes an Agile conference and community, touching on collaboration and innovation but does not engage with Agentic Engineering themes like autonomy, DevOps-infused practices, or ethical AI. Relevance to Agentic Engineering is minimal and only indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uGIhajIO3pQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is entirely focused on promoting Agile community events, networking, and inspiration within the Scottish tech community. There is no mention or substantive discussion of agentic software delivery, autonomous AI agents, human-in-the-loop design, or any of the key required topics. Agile methods and general collaboration are highlighted but not in the agentic sense. No obsolete practices or negative tone was detected, so no penalties apply.",
+    "reasoning_summary": "Content focuses on Agile community and events, without agentic software delivery, AI agents, or relevant themes. Does not fit the category; only a minimal, coincidental link to software delivery generally.",
     "level": "Ignored"
   }
 }

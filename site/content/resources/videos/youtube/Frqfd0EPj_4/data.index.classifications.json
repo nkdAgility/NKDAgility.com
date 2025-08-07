@@ -514,15 +514,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "Frqfd0EPj_4",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:19:53",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses immersive learning in Scrum training, focusing on collaboration and real-time problem-solving rather than the principles of Test First Development. There are no direct mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 14.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.8,
+    "ai_intent": 1.5,
+    "ai_audience": 4.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on immersive learning methods in Scrum training, emphasizing collaboration, ongoing support, and application in real-world settings. There is no direct mention of Test First Development or its key methods (test criteria, TDD, ATDD, manual/automated test-first, etc.). The alignment is minimal—while continuous improvement and Scrum practices are referenced, the specific principles, purposes, and discussions described in the Test First Development category are missing. The audience (practitioners wanting Scrum training) does overlap somewhat with those interested in Test First, but this is only incidental, not intentional. The signal-to-noise ratio is low for the target category, as the content is focused almost entirely on pedagogical methods rather than test-first design, automation, or collaboration patterns specific to the category. No penalties are applied since the content is not outdated or overtly contradicting the category—it is simply off-topic.",
+    "reasoning_summary": "The content does not address Test First Development, success criteria, or related test-first practices. Its focus is on immersive Scrum training, not test-first approaches. Fit with the category is very weak and mostly incidental.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1965,6 +1972,25 @@
     "final_score": 35.0,
     "reasoning": "Direct, explicit mention of 'Agentic Engineering' is absent. The core discussion is on immersive Scrum training, focusing on ongoing support, collaboration, continuous improvement, and empowerment, which modestly aligns conceptually with developer agency and feedback-driven adaptation—key aspects of Agentic Engineering. However, the article rarely addresses the deliberate design of engineering practices or AI/human agency maximization, nor does it cover systemic observability, DevOps-Infused Craft, or ethical AI integration. The audience (Scrum trainers, Agile professionals) overlaps only somewhat with Agentic Engineering's intended focus. Signal is moderate as the content mostly stays on-topic but is much more about training efficacy than engineering practice design.",
     "reasoning_summary": "While the content highlights immersive learning and empowerment in Scrum training, direct relevance to Agentic Engineering is limited. Agency and feedback concepts appear, but there is minimal discussion of engineering practice design or AI/human agency maximization, making the category fit moderate at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 19.532,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 6.1,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses exclusively on immersive learning for Scrum and organizational change, with no direct mention or exploration of autonomous AI agents, agentic principles, or intelligent delivery systems. While both themes aspire to drive organizational transformation and continuous improvement, this content revolves around human-centered collaborative learning, peer support, and applied change in Agile/Scrum practices. Modern delivery topics such as agent-based automation, contextual telemetry, or AI integration are entirely absent. Audience overlap exists since both target practitioners and change leaders, but thematically, there's little connection to Agentic Software Delivery.",
+    "reasoning_summary": "Content is about immersive human learning in Scrum; it lacks any reference to agentic delivery, AI agents, or autonomous intelligence in software delivery. Only weak thematic overlap via organizational change and improvement. Fit is poor.",
     "level": "Ignored"
   }
 }

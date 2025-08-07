@@ -48,15 +48,22 @@
     "level": "Ignored"
   },
   "Method": {
+    "resourceId": "Organisational Physics",
     "category": "Method",
-    "calculated_at": "2025-04-09T15:23:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses a conceptual model, 'Organisational Physics', which focuses on systems thinking and organisational dynamics. While it touches on themes of decision-making and improvement, it does not provide structured, step-by-step procedures or specific methods related to Agile, Lean, or DevOps. The primary focus is on a broader conceptual framework rather than a defined method, leading to a low confidence score in the 'Method' category.",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 28.8,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.5,
+    "ai_intent": 3.6,
+    "ai_audience": 4.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on Organisational Physics as a conceptual model based on systems thinking and organisational dynamics. While it discusses frameworks, dynamics, and feedback loops, it is largely philosophical and conceptual rather than detailing a structured, step-by-step method. There is no explicit, detailed procedure or concrete set of practices that align with the 'Method' category definition. Mentions and depth are low, intent is only moderately aligned as it is more about understanding systems than teaching a procedural approach. Audience is reasonably close, addressing leaders and teams. Overall, the content does not fit the 'Method' category beyond surface conceptual overlap.",
+    "reasoning_summary": "Content is conceptual and discusses frameworks and systems thinking, not structured step-by-step methods. Fit with 'Method' is weak and indirect; lacks procedure or actionable practices. Only partial, limited alignment to category.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3114,6 +3121,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on organisational systems thinking and the interplay among people, processes, and technology, but does not explicitly mention human-AI collaboration, agency, or collective intelligence concepts as defined. There are no direct references to humans collaborating with AI as team members, nor is there exploration of human-AI decision-making, distributed cognition, or partnership patterns, which are central to the 'Collective Intelligence' category. Instead, the discussion remains at the level of general systems dynamics and organisational performance improvement, not collective intelligence as defined.",
     "reasoning_summary": "The material discusses systems thinking and organisational dynamics but lacks any explicit or implicit focus on human-AI collaboration, agency, or collective intelligence. Its core concepts do not fit under the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Organisational Physics",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 26.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 7.1,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses on systems thinking for analysing organisational dynamics. While it discusses feedback loops and adaptability—topics conceptually adjacent to those in agentic delivery—it never mentions AI agents, autonomous systems, modern engineering practices, or agentic frameworks. There’s no exploration of how AI agency is integrated with human expertise, nor any concrete discussion on software delivery methods or agentic principles. The closest connection is a shared emphasis on organisational adaptation, but this remains generic and lacks any grounding in agentic AI-driven practices. Thus, fit with the category is minimal, limited to generic systems thinking that could underlie—but does not exemplify—Agentic Software Delivery.",
+    "reasoning_summary": "Content covers general systems thinking within organisations, with no mention of AI agents, agency, or software delivery. Fit with Agentic Software Delivery is weak, limited to surface-level conceptual overlaps in adaptation and feedback, not agentic principles.",
     "level": "Ignored"
   }
 }

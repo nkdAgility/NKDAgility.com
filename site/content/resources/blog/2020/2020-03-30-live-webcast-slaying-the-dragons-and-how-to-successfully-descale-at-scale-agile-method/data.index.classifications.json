@@ -577,16 +577,23 @@
     "level": "Secondary"
   },
   "Agile Values and Principles": {
+    "resourceId": "PLxBb5FqtO-",
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T03:14:02",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 40,
-    "final_score": 42.0,
-    "reasoning": "The content briefly touches on the need for organisations to change their approach to business and hints at the importance of Agile values and principles in achieving success. However, it lacks explicit discussion of the Agile Manifesto, its core values, or the twelve principles of Agile software development. The focus is more on the challenges of scaling Agile rather than a deep exploration of Agile values themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 66.95,
+    "ai_mentions": 6.8,
+    "ai_alignment": 8.0,
+    "ai_depth": 7.7,
+    "ai_intent": 7.9,
+    "ai_audience": 6.8,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content directly references 'values and principles' as a differentiator between failing and successful scaling, emphasizing authentic transformation over copying practices. Alignment and depth are solid, as it discusses why sticking to core Agile beliefs is key. However, it only briefly elaborates on what those values and principles are, and much is left inferred or externalized to linked resources. The audience intent is mostly agile practitioners or leaders facing scaling challenges, fitting the category’s target. Signal is somewhat diminished since much content is promotive and event-driven, not deeply explicative.",
+    "reasoning_summary": "Generally fits: references Agile values/principles as critical to success, focusing on transformation over practices. Depth is moderate; details are limited, but intent, topic, and audience align with the category definition.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1978,6 +1985,25 @@
     "final_score": 30.0,
     "reasoning": "The content discusses challenges with scaling agile and highlights that true transformation is rare and connected to embracing values and principles. However, it does not explicitly mention Agentic Engineering, nor does it discuss agency (human or AI), decentralised decision-making, or technical/ethical integration. The focus is on organizational change and high-level agile principles, not on engineering practices that maximise agency or related DevOps/AI-infused techniques. Audience partially matches, but conceptual and depth alignment remain limited.",
     "reasoning_summary": "This content focuses on challenges in scaling agile and organizational transformation, without direct or strong connections to agentic engineering principles like developer/AI agency or feedback-driven DevOps. Its relevance to Agentic Engineering is limited and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "PLxBb5FqtO-",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 11.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.3,
+    "ai_intent": 1.5,
+    "ai_audience": 4.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on challenges and principles around scaling agile in organizations, with emphases on organizational change and transformation. There are no direct mentions of agentic software delivery or its core topics, such as autonomous AI agents, contextual intelligence, or AI-human synergy in delivery. Discussion is centered at a high level, lacking any references to agentic frameworks, AI integration, or relevant feedback loops. Audience targeting aligns generally with transformation and agile practitioners but not specifically with agentic delivery professionals. The content is on-topic for agile scaling but is not relevant to the agentic software delivery category.",
+    "reasoning_summary": "Content focuses on agile scaling challenges with no mention or discussion of agentic software delivery or supporting concepts like AI autonomy or context-aware systems. The fit to the category is very low and essentially indirect.",
     "level": "Ignored"
   }
 }

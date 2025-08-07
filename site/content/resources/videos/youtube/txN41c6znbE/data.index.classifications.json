@@ -9,13 +9,23 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "txN41c6znbE",
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T12:04:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the need for continuous learning and validation of assumptions within Agile practices, which aligns with the theme of experimentation. However, the primary focus is on competence and hiring practices rather than systematic experimentation techniques or hypothesis-driven methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 38.94,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.3,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "Direct mentions of 'experimenting' and 'experimentation' are minimal (one brief encouragement, little elaboration). The major themes focus on competence, hiring, certifications, and learning in Agile, with experimentation referenced only as a desirable team culture/behavior. There is no substantive or detailed exploration of experimentation methods, hypotheses, or integration into Agile workflow; examples focus on competence gaps (e.g., Scrum Masters lacking preparation), not on systematic testing of ideas. The intent is to address Agile's competence crisis, not to inform about experimentation practice. The audience is Agile practitioners, partially aligned, and some references to continuous validation and learning loops are concept-adjacent but not deeply developed. Most content is thus not tightly focused on the experimentation theme, lowering the signal-to-noise ratio for this category.",
+    "reasoning_summary": "Content centers on competence and learning in Agile, not systematic experimentation. Mentions of experimentation are sparse and not deeply developed. Only partially matches the category; fit is weak and indirect.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -2019,5 +2029,24 @@
     "reasoning": "The content critically analyzes Agile's skills gap, emphasizing competence, continuous learning, and hiring standards. While it advocates for empowered, learning-oriented teams—concepts adjacent to developer agency and feedback-driven adaptation—it does not address agentic engineering's philosophical or systemic aspects (like decentralised decision-making, ethical AI, or DevOps-infused craft). References to experimentation and empowerment show partial overlap, but there's no explicit or deep exploration of engineering for shared human/AI agency, ethical integration, or design choices maximizing agency. The audience (engineering managers/practitioners) somewhat matches, and the signal is moderately relevant but not tightly focused on agentic engineering.",
     "reasoning_summary": "This content foregrounds Agile competence, learning, and team empowerment—ideas tangential to Agentic Engineering—but lacks explicit discussion of agency-driven engineering, DevOps philosophy, or ethical AI. Some concepts overlap, but focus overall is not on agentic practices.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "txN41c6znbE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 13.849,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 4.2,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content solely focuses on examining the competence and continuous learning gap in Agile practices, particularly in hiring and training Scrum Masters. There is no reference to autonomous AI agents, contextual AI, agentic delivery, or integration of AI in software delivery. It does discuss the importance of organizational context and adaptation, but strictly in the human skills sense, not in the context of agentic intelligence or proactive AI. The audience (Agile practitioners, leaders) slightly overlaps, but the rest of the content is unrelated to Agentic Software Delivery as defined (i.e., AI-human-agent synergy). The content does not mention or explore any of the agentic principles, modern AI-centric delivery, or governance frameworks for agents. Thus, the fit is minimal and limited to a weak thematic overlap in continuous improvement and context, with little direct or conceptual alignment.",
+    "reasoning_summary": "This article is about competence gaps and continuous learning in Agile; it does not mention, imply, or discuss agentic AI or related delivery strategies. Its overall fit for the 'Agentic Software Delivery' category is negligible to none.",
+    "level": "Ignored"
   }
 }

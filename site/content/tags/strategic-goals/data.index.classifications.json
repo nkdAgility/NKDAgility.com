@@ -36,16 +36,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Strategic Goals",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses strategic goals in the context of organisational direction and alignment with business agility, which touches on themes relevant to tenets. However, it lacks explicit actionable rules or doctrines that guide decision-making and behaviours, which is essential for a higher confidence score in the 'Tenet' category. The discussion is more about the importance of strategic goals rather than specific tenets that shape practices within Agile or other methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:16",
+    "ai_confidence": 53.8,
+    "ai_mentions": 0.6,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.1,
+    "ai_intent": 6.2,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content discusses strategic goals as long-term objectives guiding agile organizations, but does not explicitly mention or detail actionable tenets. It covers alignment and decision-making, which overlap with tenet themes, yet stays general about guiding doctrines or prescriptive rules. The focus is more on vision, alignment, and setting objectives than on concrete tenets or specific organizational practices. Audience and signal are strong due to the agility context, but depth regarding 'tenet' as defined is limited.",
+    "reasoning_summary": "Fits category partially: Focused on objectives and alignment in agile, but lacks explicit, actionable tenets or prescriptive principles. Some thematic overlap, yet content does not directly discuss tenets as defined.",
+    "level": "Tertiary"
   },
   "Method": {
     "category": "Method",
@@ -3113,6 +3120,25 @@
     "final_score": 14.0,
     "reasoning": "The content discusses the definition and organizational benefits of strategic goals, focusing on alignment, agility, and collaboration among human team members. There is no mention or exploration of human-AI collaboration, collective intelligence, or AI contributions to decision-making or problem-solving. The themes are relevant to general teamwork and agility, but do not meet the core requirements of the Collective Intelligence category, as defined. Therefore, the scores are very low across all dimensions, reflecting minimal direct relevance.",
     "reasoning_summary": "This content covers strategic goal setting, team alignment, and collaboration in agile contexts, but it does not address human-AI collaboration or themes of collective intelligence, making it only minimally relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Strategic Goals",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:13",
+    "ai_confidence": 20.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.0,
+    "ai_audience": 6.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses exclusively on the concept of strategic goals in relation to organizational direction, agility, and collaboration. There are no explicit or implicit references to agentic software delivery, autonomous AI agents, context-aware intelligence, or their integration in software delivery processes. No technical depth is provided about AI, agents, or modern software engineering practices related to agentic delivery. Though the audience may overlap (organizational/tech leaders), the topic is only tangentially related, focusing on broad strategy rather than the specifics of agentic principles or practices.",
+    "reasoning_summary": "The content discusses organizational strategic goals and agility but does not address agentic software delivery, AI agents, or relevant integration; fit with the category is therefore minimal.",
     "level": "Ignored"
   }
 }

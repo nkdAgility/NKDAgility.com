@@ -1473,15 +1473,22 @@
     "reasoning_summary": "This content is a great fit for the competence category, as it thoroughly explores the Scrum Master's responsibilities, focusing on ongoing learning and skill enhancement. It also addresses how these competencies contribute to team success and organisational engagement, demonstrating a clear grasp of accountability and professional standards. The detailed discussion of tools and practices further reinforces its relevance to competence."
   },
   "One Engineering System": {
+    "resourceId": "U0h7N5xpAfY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:16:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master within the Scrum framework, discussing responsibilities, tools, and practices specific to Scrum. While it touches on organizational relationships, it does not address the principles or components of the One Engineering System (1ES), nor does it discuss integration or standardisation of engineering processes. Therefore, it does not align with the core themes of 1ES.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 23.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.2,
+    "ai_intent": 2.4,
+    "ai_audience": 7.3,
+    "ai_signal": 3.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is entirely focused on the role, practices, and development of Scrum Masters, deep-diving into Scrum principles, team effectiveness, complementary agile practices, and organizational interfacing. There are no direct mentions of the One Engineering System (1ES), nor direct or indirect discussion of unified frameworks, standardization across engineering teams, or cross-team tool/process integration that defines 1ES. While there is some overlap around advocating for organizational change and efficiency, these concepts are focused exclusively through the lens of Scrum and do not connect to the broader objectives or infrastructures of 1ES. No penalties applied, as the content is current and non-satirical.",
+    "reasoning_summary": "This content is focused exclusively on the Scrum Master role and Scrum team practices. It does not reference or address the principles, integration, or standardization required for One Engineering System. The category fit is minimal to none.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1987,6 +1994,25 @@
     "final_score": 33.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and the content is firmly focused on the role and practicalities of being a Scrum Master. While it briefly discusses maximizing team effectiveness and engaging with organizations to remove impediments—which could hint at aspects of developer agency and feedback-driven adaptation—the philosophical grounding and explicit focus on maximizing both human and AI agency are missing. The content does not discuss decision decentralization, DevOps-infused craft, or ethical AI integration. Audience alignment is moderate, as both target practitioners in engineering and transformation roles, but the primary theme stays within traditional Agile coaching and Scrum contexts. There is little signal relevant to engineering practices beyond the standard Scrum responsibilities—thus, conceptual alignment, depth, and references to agentic practices are weak.",
     "reasoning_summary": "The content explores the Scrum Master role, focusing on team effectiveness, empiricism, and organizational engagement. It offers tangential relevance to agentic principles but does not address engineering practice, human-AI agency, or systemic autonomy, resulting in limited alignment with Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "U0h7N5xpAfY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 9.43,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.85,
+    "ai_depth": 1.75,
+    "ai_intent": 1.35,
+    "ai_audience": 2.2,
+    "ai_signal": 2.18,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on the traditional role and practices of a Scrum Master—maximising team effectiveness, teaching empiricism, resolving organizational impediments—as defined by the Scrum framework. There is no mention or discussion of agentic principles, autonomous AI agents, contextual intelligence, or any related concepts from the Agentic Software Delivery category. Therefore, alignment, depth, and intent are all minimal. The intended audience (Scrum Masters, agile practitioners) overlaps marginally with the target audience for agentic delivery, but the topical focus remains on conventional Scrum roles—not on integrating AI agents or agency into software delivery. Signal-to-noise is moderate, as everything is Scrum-relevant but off-topic for agentic software delivery. There are no penalties for outdated or undermining content decisions, but there's no substantive fit either.",
+    "reasoning_summary": "Content is a comprehensive guide on the traditional Scrum Master role and does not address agentic software delivery, AI agents, or contextual intelligence. Fit is minimal and incidental; topics and intent do not match the category definition.",
     "level": "Ignored"
   }
 }

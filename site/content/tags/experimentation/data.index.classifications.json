@@ -61,15 +61,22 @@
     "level": "Secondary"
   },
   "Strategy": {
+    "resourceId": "Experimentation",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of experimentation in agile workflows, which aligns with strategic decision-making and adaptability. However, it primarily focuses on the practice of experimentation rather than explicitly tying it back to high-level strategic frameworks or organisational goals. While it mentions the significance of aligning with customer needs and organisational goals, the depth of strategic discussion is limited, making it a secondary focus rather than a primary one.",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 78.92,
+    "ai_mentions": 4.7,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.4,
+    "ai_intent": 8.2,
+    "ai_audience": 8.0,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 79.0,
+    "reasoning": "The content provides a strong conceptual and practical link between experimentation and broader organisational outcomes, discussing its strategic significance in enabling adaptability, alignment, and innovation. While 'strategy' is not named directly, the focus on embedding experimentation as a cultural foundation, its role in systemic change, and direct references to alignment with organisational goals are robustly strategic. The depth covers more than surface-level mentions, exploring intent, impact, and long-term vision. Audience and signal are high, as the content addresses leaders and practitioners aiming to align agile practices with strategic objectives. No dimensions warranted penalties; no outdated or oppositional tone is present.",
+    "reasoning_summary": "The content focuses on experimentation as a foundational, strategic practice shaping adaptive, goal-aligned organisations. Strategic themes are strong, though not every point is explicitly labelled as 'strategy.' Overall, the fit is clear and substantial.",
     "level": "Secondary"
   },
   "Practice": {
@@ -3136,6 +3143,25 @@
     "final_score": 22.0,
     "reasoning": "The content thoroughly describes experimentation in agile workflows and emphasizes hypothesis-driven practices, learning, and collaboration within human teams. However, it does not mention or implicate AI, human-AI partnership, or any of the unique features of collective intelligence as defined. The alignment and depth are limited to pure human collaboration, not extending into collective intelligence contexts. Audience and signal remain high, targeting agile practitioners and staying focused, but main conceptual fit is lacking.",
     "reasoning_summary": "The content focuses on experimentation and collaboration within human agile teams but does not reference or integrate human-AI partnerships or the principles of collective intelligence, resulting in low alignment with the target category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Experimentation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 32.13,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.6,
+    "ai_intent": 4.2,
+    "ai_audience": 5.4,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content discusses hypothesis-driven experimentation in agile workflows, focusing on continuous improvement and feedback loops. However, it makes no mention of autonomous AI agents, agentic intelligence, or their integration into software delivery, which are central to the category. The alignment and depth reflect some conceptual resonance with continuous improvement and learning (a foundation of agentic approaches), but there is no reference to agentic principles, AI, or related engineering practices. The intent is to inform agile practitioners, partially overlapping audiences but without agentic specificity. Signal-to-noise is moderate, with a focus on experimentation but not agentic software delivery.",
+    "reasoning_summary": "The content covers agile experimentation and continuous improvement—concepts loosely related but not directly aligned with Agentic Software Delivery, lacking mention of agents, AI, or contextual intelligence. Fit is partial and mostly tangential.",
     "level": "Ignored"
   }
 }

@@ -21,15 +21,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "SfjZtlimOCu",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:33:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "While the content briefly mentions DevOps in the context of Martin Hinshelwood's expertise, the primary focus is on Agile principles, particularly around language and transparency. The discussion does not delve into core DevOps themes such as collaboration, automation, or shared accountability, which are essential for a higher confidence score in this category.",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 23.52,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 3.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses almost entirely on Agile ethics, transparency, and language, not DevOps. The only mention of DevOps is in the bios, not the podcast topic. There is no substantive discussion of DevOps principles, practices, or philosophy. Mentions are superficial and lack conceptual alignment or depth. The main audience is Agile professionals, not specifically DevOps practitioners, and most content concerns Agile rather than DevOps.",
+    "reasoning_summary": "DevOps is mentioned only in a host bio; the main discussion and intent are strictly Agile-focused. The content does not meaningfully align with or explore DevOps concepts or themes. Fit is very low and only partial.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1922,6 +1929,25 @@
     "final_score": 34.0,
     "reasoning": "The content centers on ethics, language, and transparency in Agile from the perspective of experienced coaches. While some themes (transparency, DevOps, professional Scrum, and engineering) are adjacent to Agentic Engineering, they are not directly framed as maximizing agency for humans and AI nor do they address deliberate engineering design. There’s no substantial exploration of developer agency, observability, feedback-driven adaptation, or ethical AI. The depth and conceptual alignment are limited mostly to linguistic and ethical dimensions. The target audience overlaps with practitioners, but most of the discussion is not specifically about the deliberate design principles central to Agentic Engineering. No penalties were applied as the content is neither outdated nor contradictory.",
     "reasoning_summary": "The content discusses ethical language and transparency in Agile, touching on related DevOps and engineering topics. However, it does not directly address the core principles or practices of Agentic Engineering, resulting in only partial alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "SfjZtlimOCu",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 10.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.5,
+    "ai_audience": 2.1,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on ethics, language, and transparency in Agile, discussing the nuances of communication by experienced coaches. No mention or exploration of agentic software delivery, autonomous AI agents, or contextual intelligence in delivery. Key concepts, practices, or intent behind Agentic Software Delivery are not addressed; the content targets Agile professionals and consultants but remains within classic Agile/DevOps contexts, not agentic or AI-augmented delivery. Thus, only the most minimal alignment with the evaluated category.",
+    "reasoning_summary": "Content is about Agile ethics, language, and transparency, lacking any discussion of agentic software delivery or AI integration. No substantive fit to the category; relevance is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

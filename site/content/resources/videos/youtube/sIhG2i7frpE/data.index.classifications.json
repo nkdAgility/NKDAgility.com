@@ -1497,15 +1497,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "sIhG2i7frpE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:21:34",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on continuous improvement through metrics and visual tools, which does not directly address the principles or components of the One Engineering System. While it touches on themes of process improvement and collaboration, it lacks explicit discussion of 1ES, its integration, or its impact on software quality and delivery timelines.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 32.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.2,
+    "ai_intent": 3.7,
+    "ai_audience": 6.4,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content centers on using metrics and visual tools for continuous improvement and transparency within team workflows. It references process optimisation and best practices, which are conceptually adjacent to One Engineering System (1ES) ideas of standardization and continuous improvement. However, there are no direct mentions of 1ES or its terminology, nor any explicit discussion of integrated tooling, cross-team standardisation, or the 1ES framework itself. The focus is on inspiration and practical workflow guidance, not on unifying engineering systems at scale, limiting both alignment and depth. Audience is technical, and signal-to-noise is high—mostly focused on relevant process improvement—but the content is not targeted explicitly at 1ES initiatives.",
+    "reasoning_summary": "Content discusses team-level metrics and continuous improvement—not One Engineering System. No 1ES mentions or explicit integration/standardisation focus. Partial conceptual overlap, but insufficient depth or direct fit for the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2013,5 +2020,24 @@
     "reasoning": "The content focuses on metrics and visual tools (like Kanban boards) to drive continuous improvement, transparency, and informed decision-making in teams. These are conceptually adjacent to Agentic Engineering, particularly in promoting team autonomy, feedback-driven adaptation, and system inspection. However, the content never explicitly mentions 'Agentic Engineering' or directly frames the discussion around maximizing human and AI agency, nor does it explore the philosophical or ethical aspects at depth. The main themes are compatible—continuous improvement, using data for adaptation, and transparency—but the narrative does not emphasize intentional engineering of agency or AI collaboration. Audience and relevance are appropriate for practitioner/readership likely to engage in agentic practices, but there is limited direct treatment of the core category definition. No penalties are needed for obsolescence or contradiction.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering through themes of transparency, data-driven improvement, and empowering teams. However, it doesn’t address the deliberate design of agency or ethical AI integration, thus offering partial but not comprehensive relevance to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sIhG2i7frpE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 19.38,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 5.0,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on continuous improvement via metrics and visualization (e.g., Kanban boards), supporting transparency and data-driven decision-making. However, it makes no explicit reference to agentic software delivery concepts: there is no discussion of autonomous AI agents, contextual intelligence, agent integration, or synergy with human expertise as detailed in the 'Agentic Software Delivery' category. The intent and audience partially overlap (software delivery/teams), but the depth and conceptual alignment are well below the bar for agentic delivery, and there is no mention of architecture, agency, feedback loops with AI, or related practices. Thus, confidence is low, reflecting a thematic overlap with continuous improvement but not an actual fit for the specific category.",
+    "reasoning_summary": "Content centers on workflow improvement with metrics and visual tools but lacks any discussion of agentic software delivery, autonomous agents, or AI integration. Alignment is partial at best, with little relevance to the intended category.",
+    "level": "Ignored"
   }
 }

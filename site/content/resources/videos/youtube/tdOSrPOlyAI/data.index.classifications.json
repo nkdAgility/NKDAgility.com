@@ -1319,17 +1319,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "tdOSrPOlyAI",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T13:01:49",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses several key aspects of product delivery, including the importance of quality, continuous integration and delivery, and the need for collaboration and ownership within teams. It aligns well with the core themes of the category, particularly in addressing quality assurance and the integration of various practices throughout the development lifecycle. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or metrics, which slightly lowers the depth score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the category as it covers essential elements like quality, collaboration, and continuous delivery in product development. While it effectively highlights the importance of these practices, it remains at a high level and doesn’t explore detailed methodologies or metrics, which would provide greater depth. Overall, it aligns well with the category’s main themes."
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 81.14,
+    "ai_mentions": 6.9,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.3,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content strongly aligns with product delivery by focusing on quality, technical debt, shifting left, and continuous integration/delivery—key topics per definition. It explores implementation and intent is clearly to guide practitioners. Lacks some explicit 'product delivery' labels, but addresses the core themes deeply, including empowerment, feedback, team ownership, and value creation—all central to robust product delivery. The audience is engineering leaders and practitioners. Discussion is focused with little noise, some portions touching adjacent leadership but returning to delivery-centric points.",
+    "reasoning_summary": "Thoroughly covers quality, CI/CD, shifting left, and culture as critical to product delivery. While not naming 'product delivery' explicitly, core themes and actionable intent are closely aligned, making the fit strong but not maximal.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1995,5 +2001,24 @@
     "reasoning": "The content centers on 'naked agility' as a means to achieve engineering excellence, quality, and leadership. It emphasizes developer ownership, transparency, and continuous improvement—concepts related to agentic practices. However, it does not directly mention Agentic Engineering or delve deeply into maximizing both human and AI agency or decentralized decision-making. Systems-level agency (e.g., AI collaboration, ethical AI) and explicit DevOps philosophy are only implied, not elaborated. The main alignment lies in emphasizing empowerment, engineering culture, and feedback, but most topics remain general to engineering excellence rather than the distinctive themes of Agentic Engineering. The audience and intent are relevant, though mainly practitioners focused on excellence, not agency optimization per se. Signal is fair as the focus stays on improvement and empowerment, but without the unique language or frameworks of the category.",
     "reasoning_summary": "The content promotes empowerment, quality, and transparency in engineering and leadership—concepts consistent with agentic practices—but it doesn't explicitly address Agentic Engineering or its core themes like AI agency or decentralized, feedback-driven adaptation. Alignment is partial but not deeply category-specific.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:34",
+    "ai_confidence": 21.624,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 7.0,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on engineering excellence, quality, technical debt, shift-left practices, and leadership in software delivery through the lens of 'naked agility.' There are references to CI/CD and modern delivery practices; however, the text does not mention, imply, or explore the integration of autonomous AI agents, proactive context-aware intelligence, or agentic delivery concepts like agency, human-in-the-loop AI, or governance frameworks for agent interactions. The primary themes are team empowerment, culture improvement, and technical practices relevant to traditional engineering and Agile/Scrum practice, not Agentic Software Delivery. The closest overlap is general alignment with modern engineering practices (CI/CD, quality), but the content lacks any explicit or in-depth discussion of agentic principles or AI-driven delivery. Thus, fit is weak and mostly incidental.",
+    "reasoning_summary": "Content discusses engineering excellence, shift-left, and quality but not agentic software delivery or autonomous AI agents. Focus is on agile leadership, not on agentic principles. Only minor overlap on engineering practices; overall fit is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

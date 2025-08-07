@@ -67,15 +67,22 @@
     "level": "Tertiary"
   },
   "Coaching": {
+    "resourceId": "BE6E5tV8130",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T02:04:50",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, with a focus on decision-making and team dynamics. While it touches on the importance of collaboration and the role of teams, it lacks a direct focus on coaching practices, techniques, or the supportive nature of coaching. The mention of agile coaching is minimal and does not delve into the specifics of coaching methodologies or frameworks, which diminishes its relevance to the Coaching category.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 21.34,
+    "ai_mentions": 2.4,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 5.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "Direct references to 'coaching' appear only in the last section as part of promotional info (#agilecoaching, #agilecoach, etc.), not as a core topic. The main body strictly contrasts agile and waterfall as product/project management models, focusing on decision-making, iteration, customer collaboration, and decentralization, but not exploring facilitation, feedback, guidance, or coaching techniques. The target audience (agile/scrum practitioners) does overlap, but the topic focus is more on organizational structures and delivery methods than on the practice of coaching. The only tangential mention is in the consultancy description, which offers coaching as a service without discussion of what coaching entails. Thus, fit to coaching is superficial and minimal.",
+    "reasoning_summary": "Content discusses agile vs. waterfall project management models, not coaching practice. Only superficial mentions of 'coaching' in promotional context. Does not explore coaching principles, techniques, or roles; fit to Coaching is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -2035,5 +2042,24 @@
     "reasoning": "The content does not directly mention 'Agentic Engineering' or use synonymous terminology. However, it thoroughly discusses decentralization, team autonomy, empowered decision-making, and value co-creation, which are core to the Agentic Engineering philosophy. The discussion on iterative development, decision decentralization, adaptive workflows, and the contrast between command-and-control vs. empowered teams demonstrates significant alignment with the category's core concepts. The audience is clearly technical (practitioners, managers), and the content remains focused with minimal tangential information, although some sections (e.g., consultancy promotion) slightly dilute focus. There is a moderate depth to the discussion, contextualized through Agile vs. Waterfall, but it does not delve into system-level observability, automation practices, or AI integration which limits full agentic alignment and depth.",
     "reasoning_summary": "While this content does not explicitly discuss Agentic Engineering, it closely aligns with its principles through its focus on decentralization, team autonomy, and adaptive decision-making in agile vs. waterfall. The fit is strong on conceptual grounds but weaker in direct mentions and some advanced depth.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BE6E5tV8130",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 11.04,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content thoroughly contrasts agile product development with waterfall project management, focusing on themes such as decentralization, incremental delivery, and customer collaboration. However, it does not mention or discuss agentic software delivery, autonomous AI agents, contextual intelligence, or the integration of AI with human expertise—the hallmarks of the Agentic Software Delivery category. Its purpose, audience, and depth are oriented toward foundational agile versus waterfall distinctions without any linkage to AI, agency, or modern agent-enabled delivery models.",
+    "reasoning_summary": "Content does not discuss agentic software delivery or AI agents; it only compares traditional agile and waterfall models. No fit to category definition; at best, only peripheral conceptual overlap with themes of autonomy and improvement.",
+    "level": "Ignored"
   }
 }

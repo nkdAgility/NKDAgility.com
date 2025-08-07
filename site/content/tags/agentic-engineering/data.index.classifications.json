@@ -192,21 +192,21 @@
   "Customer Feedback Loops": {
     "resourceId": "Agentic Engineering",
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-07-23T12:06:35",
-    "ai_confidence": 41.75,
-    "ai_mentions": 2.3,
-    "ai_alignment": 4.8,
-    "ai_depth": 4.5,
-    "ai_intent": 4.6,
-    "ai_audience": 5.2,
-    "ai_signal": 5.0,
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 37.3,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.3,
+    "ai_intent": 3.7,
+    "ai_audience": 6.2,
+    "ai_signal": 5.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 42.0,
-    "reasoning": "The content frames 'Agentic Engineering' as a philosophy focusing on autonomy, decision decentralisation, and feedback-driven adaptation. While it does reference 'feedback' (e.g., 'feedback is fast', 'feedback-driven adaptation'), these are described in general process or team terms, not explicitly as customer feedback loops. The primary focus is on internal feedback, adaptability, and developer/system agency rather than mechanisms for collecting, integrating, or acting specifically on customer feedback. There are no explicit discussions of customer interaction, insights collection, or feedback loop practices related to end users. Thus, alignment, depth, and other factors are moderate, with some surface relevance but only indirect fit with the strict definition.",
-    "reasoning_summary": "The content touches on fast and feedback-driven workflows but centers on internal feedback, autonomy, and system outcomes—not the collection or integration of customer feedback. Its alignment with 'Customer Feedback Loops' is indirect and not the main focus.",
-    "level": "Tertiary"
+    "final_score": 37.0,
+    "reasoning": "The content centers on a broad engineering philosophy emphasizing autonomy, rapid feedback, and continuous improvement. Although 'feedback-driven adaptation' is mentioned, the feedback loop described is internal (within teams and systems) rather than directly focused on gathering and integrating customer feedback as per the category definition. There is no discussion of mechanisms for collecting, analyzing, or using customer feedback, nor tools, case studies, or integration into product backlogs. Thus, while slightly related in its advocacy for feedback, the primary themes are decentralization, developer agency, observability, and engineering excellence, not customer feedback loops.",
+    "reasoning_summary": "Content refers to feedback-driven team adaptation but lacks focus on customer feedback collection or integration into development. Its main theme is internal engineering feedback, not customer feedback loops—a partial and tangential fit at best.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "resourceId": "Agentic Engineering",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content focuses on engineering practices (including DevOps and automation), decentralised decision-making, continuous feedback, and adaptive mechanisms—all directly supporting organisational agility in dynamic environments. While it does not explicitly mention 'market adaptability,' the underlying philosophies and detailed practices (feedback, rapid change, cross-functionality, leveraging telemetry, and ethical AI) are closely conceptually aligned with the category definition. The discussion is in-depth, targeting practitioners and strategists seeking to boost adaptive capacity through modern engineering, though some portions trend more philosophical, slightly lowering signal. No penalties apply; content is current and constructive.",
     "reasoning_summary": "The content aligns well with Market Adaptability by emphasising adaptive software practices, rapid feedback, decentralisation, and DevOps principles. While market response isn't named directly, its philosophical and practical focus strongly fit the category’s intent and audience.",
     "level": "Primary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agentic Engineering",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 75.558,
+    "ai_mentions": 4.3,
+    "ai_alignment": 8.9,
+    "ai_depth": 7.85,
+    "ai_intent": 8.0,
+    "ai_audience": 8.1,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 76.0,
+    "reasoning": "The content strongly aligns conceptually with Agentic Software Delivery, emphasizing the deliberate integration of human and AI agency in software engineering, decentralization of decision-making, fast feedback, and ethical AI collaboration. Topics like observability, DevOps, and feedback-driven adaptation directly relate to agentic principles. However, while the philosophy overlaps notably, there are minimal explicit references to autonomous AI agents operating as agents within delivery processes or governance frameworks for agent/people/tool interaction. 'Agentic Engineering' as described focuses more on agency as a generalized characteristic (human and AI together) and less on the distinct practice of embedding autonomous agents, which is central to the definition. There are indirect but solid connections, with some core agentic concepts present; direct mention and deep operational specifics are less developed.",
+    "reasoning_summary": "Strong conceptual overlap with Agentic Software Delivery—focuses on human and AI agency, feedback, DevOps, and adaptation. Lacks explicit detail on autonomous AI agents and their governance, but fits the category's key themes.",
+    "level": "Secondary"
   }
 }

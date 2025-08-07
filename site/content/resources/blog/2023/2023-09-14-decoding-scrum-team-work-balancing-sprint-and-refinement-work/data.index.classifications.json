@@ -667,15 +667,22 @@
     "level": "Tertiary"
   },
   "Continuous Delivery": {
+    "resourceId": "RCMVmNzZDfV",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:55:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint and Refinement work, without addressing Continuous Delivery principles or practices. While it mentions aspects of software development, it does not discuss automation, rapid feedback, or delivery techniques that are central to Continuous Delivery.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 31.18,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.0,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 6.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content mainly discusses Scrum Team work, specifically balancing Sprint and Refinement activities, and visualising them using Azure DevOps. While there is some mention of workflow efficiency and product delivery, there is no explicit or substantial focus on Continuous Delivery principles, practices, or tools. The main themes concern managing Scrum practices—not the broader discipline of Continuous Delivery as defined (e.g., automation, rapid feedback, deployment readiness). Audience overlap exists (Scrum practitioners may care about Continuous Delivery), but the signal is mostly about process visualisation and Scrum mechanics rather than end-to-end software delivery pipeline optimization. No content is outdated or undermines CD framing, so no penalties were applied.",
+    "reasoning_summary": "Content focuses on Scrum Sprint and Refinement, with process visualisation in Azure DevOps. It does not address Continuous Delivery principles, automation, or deployment practices. Only indirect, minimal relevance; confidence is low.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1976,6 +1983,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses exclusively on practical Scrum team workflow management—specifically, balancing Sprint and Refinement work and visualizing these tasks using tools like Azure DevOps. While DevOps, team autonomy, and transparency are mentioned tangentially through tooling and visualisation, the main themes do not engage directly with the philosophical or deliberate design principles central to Agentic Engineering: there is no substantive exploration of human/AI agency, ethical AI, decentralised or feedback-driven decision-making frameworks, or practices that integrate both human and machine agency. There is no direct mention or discussion of Agentic Engineering or its foundational concepts beyond general workflow management. The audience—Scrum practitioners and product teams—does somewhat overlap with Agentic Engineering, but the content does not substantially serve the purposes or frameworks related to agency maximisation.",
     "reasoning_summary": "This article discusses practical techniques for balancing and visualizing Sprint and Refinement work in Scrum teams, focusing on workflow and productivity. It does not meaningfully address the core concerns of Agentic Engineering, such as maximising human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "RCMVmNzZDfV",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 12.97,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content provides a thorough discussion of balancing Sprint work and Refinement in Scrum using Azure DevOps boards. However, it does not discuss autonomous AI agents, contextual intelligence, or the agentic paradigm in any form. There are no references to AI, agency, proactive or context-aware intelligence, human-in-the-loop, or outcome-oriented evolution. Topics are focused on agile practices, backlog refinement, and workflow visualization for Scrum teams, which are not part of 'Agentic Software Delivery' as defined. Audience (practicing Scrum teams) could overlap minimally if agentic approaches were layered in, but such framing is absent. The only tangentially related aspect is mention of DevOps tooling and visual workflow, which is at best indirectly related.",
+    "reasoning_summary": "Focused on traditional Scrum workflow and backlog refinement, the content does not address agentic software delivery, AI agents, or contextual automation. No substantial fit with the agentic category.",
     "level": "Ignored"
   }
 }

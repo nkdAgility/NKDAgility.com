@@ -1475,15 +1475,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "b-2TDkEew2k",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:12:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses agile practices and the 'just enough and no more' philosophy, which does not directly relate to the One Engineering System framework. While it touches on optimisation and efficiency, it lacks explicit references to 1ES principles, components, or implementation strategies. The focus is on personal reflections and general agile concepts rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 26.33,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.6,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "There is no direct mention of One Engineering System (1ES). The content thoroughly explores agile principles like 'just enough and no more,' backlog management, team composition, and process optimization, but it never discusses unified toolchains, cross-team integration, standardized processes, or any elements unique to 1ES. Alignment is partial: while 1ES shares some goals such as efficiency and focus, the scope here is narrowly about general agile philosophy. Audience overlap exists (technical practitioners), but the topic is not purpose-built for the 1ES context and lacks in-depth discussion about integration, standardization, or case studies related to 1ES.",
+    "reasoning_summary": "The content is focused on agile 'just enough' practices, not on One Engineering System. It shares some thematic overlap (efficiency, process focus), but lacks 1ES-specific discussion or intent, so confidence of fit is low and only partial.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,6 +1997,25 @@
     "final_score": 40.0,
     "reasoning": "The content centers around the agile principle of doing 'just enough and no more' to optimize efficiency and focus, emphasizing backlog management, team size, refinement, and planning. However, it does not reference or directly discuss Agentic Engineering, its core concepts of maximizing human and AI agency, or agentic decision-making frameworks. While it touches on continuous improvement and decentralization, these themes are only peripherally related. The alignment, depth, and intent scores reflect that the philosophy aligns with autonomy and efficiency, but the lack of explicit mention or substantial exploration of agentic practices or the deliberate engineering of autonomy, ethics, or AI collaboration keeps confidence low.",
     "reasoning_summary": "The content advocates for agile efficiency through 'just enough' practices, which aligns loosely with autonomy, but lacks discussion on Agentic Engineering, agency maximization, or ethical AI integration. Its relevance to the category is tangential rather than direct, resulting in low confidence for classification.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "b-2TDkEew2k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 13.82,
+    "ai_mentions": 0.25,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.45,
+    "ai_intent": 2.15,
+    "ai_audience": 3.9,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on applying 'just enough and no more' to Agile practices—backlog management, team composition, refinement, and planning. It does not reference or discuss agentic or autonomous AI agents, contextual intelligence, human-agent collaboration, or any technical, architectural, or governance considerations characteristic of Agentic Software Delivery. Alignment and depth are low due to absence of relevant concepts; audience fits partially as it targets Agile practitioners but not those focused on agentic paradigms. Only incidental, generic fit to modern software delivery. No explicit references or intent related to the category.",
+    "reasoning_summary": "Content is about Agile efficiency—no discussion of autonomous agents, AI, agentic paradigms, or their integration in delivery. Very little if any fit for Agentic Software Delivery; at best, tangential relevance due to general process optimisation.",
     "level": "Ignored"
   }
 }

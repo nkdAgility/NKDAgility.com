@@ -543,15 +543,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "pU57BrP94-8",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:41:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses immersive learning in the context of Agile training and coaching, with a focus on practical application and collaboration. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or automated testing practices. The connection to Test First Development is minimal and indirect, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 9.72,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.8,
+    "ai_audience": 2.0,
+    "ai_signal": 2.32,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on immersive learning in Agile contexts, emphasizing real-world application, feedback loops, collaboration, and deep skill development. However, there are no direct or indirect mentions of Test First Development, its principles, or core practices such as TDD or defining success criteria up front. The discussion is exclusively about learning models, not the design, execution, or philosophy of test-first techniques. As such, the content is mostly unrelated, with minimal accidental overlap in topics like feedback and collaboration.",
+    "reasoning_summary": "Content is unrelated to Test First Development; its focus is immersive Agile learning, not test-first practices, principles, or success criteria. Fit is extremely low and mostly coincidental.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2001,6 +2008,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on immersive learning in Agile contexts, emphasizing practical application, feedback loops, and collaborative learning. While it hints at developer agency and feedback-driven adaptation, it does not discuss the deliberate design of engineering practices, decision decentralization, or human/AI agency at the system or cultural level, which are central to Agentic Engineering. No explicit mention of core concepts like DevOps, automation, or ethical AI, and the narrative is educational rather than engineering-practice oriented.",
     "reasoning_summary": "This content is about immersive Agile learning and feedback, with minor overlap on agency and adaptation, but lacks deliberate focus on engineering practices or decision frameworks core to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "pU57BrP94-8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 13.442,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on immersive learning and coaching in Agile contexts. There is no explicit reference to autonomous AI agents, agentic principles, or the integration of contextual intelligence into delivery. The themes are centered on human-centric experiential learning, feedback, collaboration, and skill-building within organizational contexts. While it touches on learning loops and organizational tailoring, this does not equate to the embedding of AI agents or agentic delivery models. There are no agent governance frameworks, human-in-the-loop designs involving software agents, or discussion of autonomous AI in software delivery. The target audience is Agile practitioners interested in learning and coaching, not those seeking insight into agentic software delivery.",
+    "reasoning_summary": "Content is about immersive, human-led Agile coaching and learning, not agentic software delivery or integration of AI agents. No mention or alignment with agentic concepts—fit with the category is negligible and purely incidental.",
     "level": "Ignored"
   }
 }

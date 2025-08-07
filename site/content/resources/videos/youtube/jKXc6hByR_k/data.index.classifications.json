@@ -1398,16 +1398,23 @@
     "level": "Secondary"
   },
   "Social Technologies": {
+    "resourceId": "jKXc6hByR_k",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:42",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses maximising ROI in software development, focusing on quality and expertise, which are important for value delivery. However, it lacks explicit discussions on collaboration, self-organisation, or collective intelligence, which are core themes of social technologies. While it touches on the importance of understanding team dynamics and fostering expertise, it does not delve deeply into the social frameworks or methodologies that promote collaboration and decision-making within teams.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 34.67,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.3,
+    "ai_intent": 4.0,
+    "ai_audience": 5.8,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "There are no direct mentions of social technologies or explicit focus on frameworks/methods advancing collaboration, self-organisation, or collective intelligence. The dominant themes are quality, technical expertise, ROI, and business-driven due diligence in software delivery, not team dynamics or emergent problem-solving. 'Hypothesis-driven practices' and references to team/leadership bridge tangentially align but lack exploration of underlying social frameworks or collaborative methodologies featured in the category. The audience is broadly relevant (software teams/leaders), but most content focuses on technical value and organisational investment rather than the dynamics of social technologies.",
+    "reasoning_summary": "Content mainly addresses ROI, software quality, and technical/business value—not explicit collaboration, self-organisation, or social frameworks. Partial but weak fit with category themes; social technology concepts are minimally present.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2000,5 +2007,24 @@
     "reasoning": "The content focuses on maximising ROI through quality and technical expertise in software development, touching on themes like regular reviews, hypothesis-driven practices, and treating code as an asset. While these overlap with some agentic engineering topics (continuous value, technical agency), the discussion lacks explicit references to agency (human or AI), systematic decentralisation of decision-making, or the integration of DevOps and ethical AI. There's some alignment in advocating substantial engineering practices, but the depth and intent are primarily business and quality-centric rather than exploring the philosophical and structural ambitions of Agentic Engineering. No penalties are applied.",
     "reasoning_summary": "The content moderately aligns with Agentic Engineering in advocating quality and expertise but remains business-oriented, lacking explicit focus on human or AI agency, decentralised decision-making, or DevOps philosophies central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jKXc6hByR_k",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:32",
+    "ai_confidence": 30.924,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.1,
+    "ai_intent": 3.6,
+    "ai_audience": 5.8,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content does not directly reference agentic software delivery, autonomous AI agents, or contextual intelligence. It focuses on traditional quality, technical expertise, ROI, due diligence, and general engineering excellence. While it nods to modern practices and value delivery, there is no discussion of proactive AI integration, autonomy, or agent/human synergy. Audience is partially aligned, as technical leaders are addressed, but key agentic topics are completely absent, making confidence low.",
+    "reasoning_summary": "This content discusses quality and value in software delivery but does not mention or align with agentic principles—no focus on AI agents, contextual intelligence, or agentic delivery concepts. Alignment is weak; core category themes are missing.",
+    "level": "Ignored"
   }
 }

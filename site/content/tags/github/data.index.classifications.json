@@ -108,15 +108,22 @@
     "level": "Ignored"
   },
   "Practice": {
+    "resourceId": "GitHub",
     "category": "Practice",
-    "calculated_at": "2025-04-10T10:41:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses GitHub as a platform for version control and collaboration, with a focus on its tools and features rather than specific practices. While it mentions CI/CD and team collaboration, it does not delve into actionable techniques or consistent practices that enhance team performance. The discussion is more about the tools available rather than the practices themselves, leading to a low confidence score in the 'Practice' category.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 28.1,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 5.6,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content is a descriptive overview of GitHub as a platform, focusing on tools, capabilities, and its role in supporting collaboration and workflow automation. While it tangentially mentions concepts like CI/CD and collaboration, it does not directly discuss specific, repeatable actions, techniques, or habits that teams use (i.e., Practice as defined by the category). Mentions of 'practice' are inferred rather than explicit, and the focus is on enabling tools rather than actionable team behaviours or habits. Audience fit is moderate due to the technical orientation. Signal is somewhat diluted since most of the content centers on platform features, not on the nuanced adoption or execution of any practice.",
+    "reasoning_summary": "Content describes a tool/platform (GitHub) rather than actionable practices. It focuses on features and capabilities instead of specific repeatable team techniques, so alignment with the Practice category is weak and mostly indirect.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -3107,5 +3114,24 @@
     "reasoning": "The content describes GitHub as a platform for code hosting, version control, CI/CD automation, and human team collaboration. While it highlights collaboration and DevOps, there are no explicit mentions or discussions of human-AI team-up, AI agents as teammates, or principles of collective intelligence. All references are about enabling better human-to-human collaboration, automations, or integrations with tools—not about AI augmenting human cognition in partnership. The closest relevant area is workflow automation (CI/CD), but this is framed as utility rather than intelligent collaborative agency. Given this, only a minimal baseline score is awarded for audience and signal, while alignment, depth, and intent remain very low due to no relevant content about human-AI collective intelligence.",
     "reasoning_summary": "The content strictly covers GitHub's features for human collaboration, automation, and DevOps, without addressing human-AI collaboration or collective intelligence themes. It does not fit the category beyond surface alignment with collaboration.",
     "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GitHub",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 42.15,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.7,
+    "ai_intent": 4.6,
+    "ai_audience": 6.8,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content describes GitHub as a collaborative, CI/CD-enabled development platform but does not explicitly mention agentic principles or AI agents. There are implicit touches on automation, workflow integration, and collaboration, which weakly resonate with aspects of agentic delivery (e.g., automation in CI/CD, modern dev tooling). However, there is no direct discussion of autonomous AI agents, contextual intelligence, or intentional synergy between human expertise and AI. Audience alignment is somewhat strong, as it's aimed at technical practitioners. The signal is relatively high, as the content is focused and lacks filler. Overall, this is a partial, indirect fit that falls far short of the definition and only touches adjacent ideas.",
+    "reasoning_summary": "The content covers software delivery collaboration and automation (CI/CD) but lacks explicit discussion of agentic AI agents, contextual intelligence, or systematic agent integration. It aligns weakly and incidentally—fit is low and partial.",
+    "level": "Tertiary"
   }
 }

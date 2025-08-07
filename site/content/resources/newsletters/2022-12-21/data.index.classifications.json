@@ -1278,15 +1278,22 @@
     "level": "Ignored"
   },
   "Transparency": {
+    "resourceId": "Tx-0zZJ1biI",
     "category": "Transparency",
-    "calculated_at": "2025-03-15T02:11:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions transparency in the context of training facilitation skills, which is relevant to the category. However, the primary focus is on announcements regarding trainers and upcoming classes, lacking a deeper exploration of transparency's role in Agile processes or team dynamics. The discussion does not provide substantial insights into transparency techniques or tools, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 30.164,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.4,
+    "ai_intent": 2.8,
+    "ai_audience": 7.5,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The only explicit reference to transparency is one mention in the context of a class helping Scrum Teams foster transparency—a brief, surface-level association. The main focus is on announcements, course offerings, community updates, and events. It does not explore transparency as a core theme, nor offer specific techniques, challenges, or tools related to transparency. The overall purpose is about company, training, and community growth rather than an informed discussion targeting transparency itself.",
+    "reasoning_summary": "Transparency is mentioned only once, superficially. Main content promotes training, community, and organizational news. No deep or meaningful discussion about transparency concepts, challenges, or practices. Very limited fit to the category.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1969,6 +1976,25 @@
     "final_score": 20.0,
     "reasoning": "The content is primarily a newsletter about upcoming Scrum training, trainer updates, and community growth, with no direct reference or substantive discussion of Agentic Engineering or its philosophical underpinnings. While it mentions competence, facilitation, and transparency in training, these are only tangentially related and not explored in the context of maximizing human or AI agency, systemic observability, or ethical AI integration. The target audience (Scrum practitioners, trainers) does overlap with Agentic Engineering's, but the actual material remains limited in conceptual alignment, depth, and direct relevance to the category. Thus, confidence is low.",
     "reasoning_summary": "This content focuses on training updates and community news for Scrum practitioners, with minimal alignment to Agentic Engineering. Agentic concepts, autonomy, and systemic practices are not explored, resulting in low relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Tx-0zZJ1biI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 4.204,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content announces training, community growth, and updates for a Scrum training provider. There are no direct or indirect references to agentic software delivery concepts, such as autonomous AI agents, contextual intelligence, or agent-human synergy. The entire focus is on professional development in Scrum, trainer introductions, community news, and course listings. No themes align with proactive, context-aware intelligence or the integration of AI agents. The audience overlaps with software professionals but only in the context of traditional Scrum training, not agentic delivery.",
+    "reasoning_summary": "This content is purely a promotional update about Scrum training and community news, with no concepts, terminology, or intent relating to Agentic Software Delivery. Fit is almost nonexistent except in a very general audience sense.",
     "level": "Ignored"
   }
 }

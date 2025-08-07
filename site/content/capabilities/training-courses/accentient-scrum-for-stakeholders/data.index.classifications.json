@@ -1356,16 +1356,23 @@
     "level": "Ignored"
   },
   "Continuous Improvement": {
+    "resourceId": "33qyqKjBf3T",
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-10T15:54:36",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on introducing Scrum to stakeholders, which is more about understanding the framework rather than discussing Continuous Improvement principles. While there are elements of team collaboration and transformation, the explicit mention of Continuous Improvement is minimal, and the core themes of empirical evidence, data-driven decision-making, and fostering a culture of experimentation are not adequately addressed.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:47",
+    "ai_confidence": 68.63,
+    "ai_mentions": 2.7,
+    "ai_alignment": 7.9,
+    "ai_depth": 6.8,
+    "ai_intent": 7.1,
+    "ai_audience": 7.6,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The training content for stakeholders in Scrum mentions 'continuous improvement' explicitly in learning outcomes and indirectly via Scrum practices like regular feedback, metrics, and a 'roadmap for change.' However, the primary focus is introductory Scrum, not continuous improvement philosophy. The material covers metrics and continuous learning, but exploration of continuous improvement is only a subtopic. Thus, conceptual alignment and intent are present but not dominant. Audience is relevant (stakeholders introduced to agile), but depth on continuous improvement is limited.",
+    "reasoning_summary": "While the course covers continuous improvement as a secondary topic (via roadmaps, learning, metrics), its main focus is Scrum fundamentals and stakeholder engagement, resulting in only partial fit to the 'Continuous Improvement' category.",
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -2059,6 +2066,25 @@
     "final_score": 18.0,
     "reasoning": "The content is a foundational Scrum training for stakeholders, aiming to demystify Scrum, explain roles (including stakeholder engagement), and introduce basic concepts for beginners. While some aspects like continuous improvement and feedback mechanisms tangentially relate to agency and adaptive change, the course neither mentions nor prioritizes agentic autonomy, engineering excellence, or deliberate integration of human and AI agency. There is also no discussion of DevOps ethos, ethical autonomy, or decision decentralization. The main audience (non-engineer stakeholders) and intent (principles, practical participation) do not align with the Agentic Engineering focus on engineering practices or frameworks around agency. The content is generally relevant to agile values but not to the philosophy or design principles underpinning Agentic Engineering.",
     "reasoning_summary": "This course orients stakeholders to Scrum basics and engagement, mainly for beginners. It lacks direct reference to engineering autonomy or agency, and there's little substantive overlap with Agentic Engineering principles, resulting in low confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "33qyqKjBf3T",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 11.32,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 4.02,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on Scrum basics for stakeholders and does not mention or discuss agentic delivery, AI agents, or contextual AI integration. Topics are traditional agile methods—transitioning from Waterfall to Scrum, stakeholder roles, engagement, events, and metrics—without any direct or indirect reference to agentic concepts, autonomous AI, human-AI collaboration, or advanced intelligence in delivery systems. The audience (such as product managers or auditors) might overlap with agentic domains, but content is specifically tailored for basic Scrum understanding. Depth, alignment, and signals relating to agentic frameworks are non-existent. No evidence of outdated or critical material requiring penalties.",
+    "reasoning_summary": "This content solely covers Scrum for stakeholders and does not reference agentic delivery, AI, or autonomous agents. Its purpose, themes, and discussion do not align with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

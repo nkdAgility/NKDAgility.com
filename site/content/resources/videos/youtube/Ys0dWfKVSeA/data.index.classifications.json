@@ -59,13 +59,23 @@
     "reasoning_summary": "This content fits the category as it explores key Scrum concepts like exposing organisational challenges and emphasises feedback and continuous delivery. However, it leans more on personal insights than a detailed breakdown of Scrum roles, events, or artefacts, offering a moderate rather than in-depth analysis of Scrum practices."
   },
   "Organisational Physics": {
+    "resourceId": "Ys0dWfKVSeA",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:52:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of organisational dynamics and the challenges faced by organisations in adopting Agile methodologies. It touches on systems thinking principles, such as feedback loops and the impact of organisational rules on performance, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 74.95,
+    "ai_mentions": 1.7,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.9,
+    "ai_intent": 7.3,
+    "ai_audience": 8.0,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 75.0,
+    "reasoning": "Direct mention of 'Organisational Physics' is absent, so the 'mentions' score is low. However, the article is highly aligned with the concept, as it explores Scrum as a tool for revealing systemic issues, feedback loops, and emergent behaviors—central themes of systems thinking and organisational dynamics. It repeatedly illustrates how Scrum exposes interdepartmental bottlenecks, process hurdles (like bureaucratic forms), and blockages in workflow—examples of how structures, feedback, and organisational rules impact performance. Roles, transparency, and feedback loops are discussed in depth, especially regarding their systemic impact. The narrative is consistently about how organisational systems, rather than individuals, are challenged and revealed. The audience appears to be organisational leaders and practitioners interested in process improvement, which fits the category's demographic. Intent and signal are strong—while not every paragraph explicitly names systems thinking or organisational physics, the content never veers into off-topic areas, and its main thrust is on the holistic, structural realities Scrum exposes. No penalties are applied as the content is current and aligns with the framing—there is no contradiction or outdated advice. The final confidence reflects high conceptual fit, depth, relevance, and audience targeting, with the main deduction being the near-absence of explicit category terms.",
+    "reasoning_summary": "While 'Organisational Physics' is not named, the content deeply explores systemic dynamics and feedback loops revealed by Scrum, closely aligning with the category’s definition. The fit is strong on intent, audience, and conceptual alignment, but not on explicit mention.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -2001,5 +2011,24 @@
     "reasoning": "The content thoroughly explores how Scrum increases transparency, feedback, and team adaptability, which are tangentially related to agentic engineering concepts (such as feedback-driven adaptation, reflection, and surfacing systemic obstacles). However, it makes no direct mention of 'Agentic Engineering' or specific terminology around maximizing human or AI agency, engineering excellence, system observability, ethical AI, or DevOps-infused autonomy. The focus remains on Scrum as a framework for organizational reflection and process improvement, not on the deliberate design of socio-technical systems or integration of human/AI agency. The audience is Scrum/Agile practitioners, partially overlapping but not targeting the strategic system design needed for Agentic Engineering. The content is focused and detailed but the relevance is largely indirect.",
     "reasoning_summary": "The content centers on Scrum as a process for exposing organizational issues and encouraging continuous improvement via feedback—concepts tangential to Agentic Engineering—but it does not address the category's core ideas of maximizing human and AI agency or deliberate engineering practice design.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Ys0dWfKVSeA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 13.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content provides a thoughtful and detailed exploration of Scrum as a mirror for organizational improvement and transparency. However, it lacks any direct or even indirect references to autonomous AI agents, contextual intelligence, agentic delivery practices, or synergy between AI and human roles, all essential to the Agentic Software Delivery category. Its themes sit firmly within classical Scrum and agile process improvement, focusing on human transparency and feedback loops but showing no engagement with agentic concepts or supporting technologies. The small scores for alignment and depth recognize some overlap in feedback loops and continuous improvement, but these are generic agile traits, not agentic specifics. Audience and signal are higher as it is targeted at practitioners seeking delivery improvement, but virtually all content remains outside the agentic scope.",
+    "reasoning_summary": "Content is focused entirely on traditional Scrum practices and continuous improvement, with no mention or exploration of autonomous AI agents, contextual intelligence, or agentic delivery concepts. Weak-to-no fit with 'Agentic Software Delivery.'",
+    "level": "Ignored"
   }
 }

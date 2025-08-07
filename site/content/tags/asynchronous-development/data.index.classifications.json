@@ -24,15 +24,22 @@
     "level": "Secondary"
   },
   "Framework": {
+    "resourceId": "Asynchronous Development",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Asynchronous Development, which is a collaborative approach that can be related to Agile and Lean principles. However, it does not explicitly focus on any specific framework or provide detailed implementation strategies, comparisons, or case studies related to frameworks. The mention of Lean and Agile methodologies indicates some conceptual alignment, but the primary focus is on the concept of asynchronous work rather than frameworks themselves.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 41.35,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 4.9,
+    "ai_audience": 4.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content discusses asynchronous development as a collaborative approach supporting distributed teams, and it references Agile and Lean principles. However, it does not frame asynchronous development as a structured methodology or framework—rather, it presents it as a practice or technique. There is no discussion of guidelines, rules, or structured implementation as required for the 'Framework' category. There are no direct mentions of well-known frameworks (Scrum, Kanban, SAFe) or comparisons/integration with other frameworks. The audience is generally aligned (practitioners), and the content has a focused signal-to-noise ratio. Ultimately, while there is alignment to Agile/Lean, the depth and focus on frameworks is insufficient for strong categorization as 'Framework.'",
+    "reasoning_summary": "Asynchronous development is positioned as an approach or practice rather than a framework. The content is related to Agile/Lean principles but lacks structured methodology or framework discussion, making the fit partial and weak overall.",
     "level": "Tertiary"
   },
   "Tenet": {
@@ -3120,6 +3127,25 @@
     "final_score": 25.0,
     "reasoning": "The content discusses asynchronous development for distributed teams, focusing on efficiency, flexibility, and value delivery. There is no direct mention of Collective Intelligence, nor any discussion of human-AI collaboration, complementary cognitive strengths, or AI agent roles as team members. The purpose centers on general team collaboration and process efficiency from a human perspective, without referencing AI involvement. Thus, alignment and depth scores are low, as is intent fit, though the audience and signal-to-noise are relatively high due to practitioner relevance and on-topic content about teamwork process.",
     "reasoning_summary": "This content centers on asynchronous collaboration within distributed human teams, with no mention or exploration of human-AI partnership or collective intelligence concepts. It focuses on workflow and team efficiency rather than human-AI capabilities or outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Asynchronous Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 24.23,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.85,
+    "ai_depth": 2.45,
+    "ai_intent": 2.28,
+    "ai_audience": 2.91,
+    "ai_signal": 2.82,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content discusses asynchronous development practices, focusing on distributed teams, workflows, and efficiency gains. It references relevant Agile and Lean principles but never addresses agentic software delivery, AI agents, or contextual intelligence. There is no mention of integration between AI agents and human expertise, the autonomy or boundaries of software agents, or feedback loops enabled by agentic design. The closest connection lies in enabling modern ways of working, but nothing conceptually, nor in depth, aligns with the specifics of agentic software delivery. The target audience (practitioners, teams) could overlap, but overall, the topic is tangential and purely about asynchronous team collaboration—not agentic software delivery.",
+    "reasoning_summary": "Does not fit category. Focuses on independent, asynchronous team workflows, not on agentic delivery, AI integration, or contextual intelligence. No direct references or conceptual depth related to agentic software delivery.",
     "level": "Ignored"
   }
 }

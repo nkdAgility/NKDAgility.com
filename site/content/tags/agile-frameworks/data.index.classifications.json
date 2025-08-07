@@ -120,15 +120,22 @@
     "level": "Secondary"
   },
   "Model": {
+    "resourceId": "Agile Frameworks",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Agile frameworks, which are indeed models that facilitate the implementation of Agile principles. It aligns with the category by addressing how these frameworks enhance organisational agility and value delivery. However, while it touches on the systemic nature and adaptability of Agile frameworks, it lacks a deeper exploration of specific models like the Cynefin Framework or the Three Ways of DevOps, which would strengthen its relevance to the 'Model' category. The discussion is substantial but not exhaustive, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 71.12,
+    "ai_mentions": 2.5,
+    "ai_alignment": 8.2,
+    "ai_depth": 7.9,
+    "ai_intent": 8.4,
+    "ai_audience": 8.7,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 71.0,
+    "reasoning": "The content explores Agile frameworks as methodologies that drive organisational agility, touches on core principles such as transparency, collaboration, and value delivery, and describes systemic, holistic benefits. There is implicit but not explicit model terminology; direct model references (e.g., Cynefin, specific frameworks as 'models') are limited. However, the overall conceptual alignment is strong, as frameworks like Scrum and Kanban are archetypes of conceptual models used for understanding and improving systems. The depth and relevance to the intended audience (organisational change agents, teams adopting Agile, and strategists) are high, as is the focus and relevance ratio. No outdated or contradictory language is present. Slightly lower score in 'mentions' due to lack of direct usage of the term 'model'—the rest aligns closely with the category's definition.",
+    "reasoning_summary": "Strong conceptual alignment as Agile frameworks are models guiding org agility, but no explicit use of 'model' language. Depth and intent fit well; primarily targets practitioners and strategists. Fit is strong but not absolute due to low direct mentions.",
     "level": "Secondary"
   },
   "Principle": {
@@ -3114,6 +3121,25 @@
     "final_score": 20.0,
     "reasoning": "The content describes Agile frameworks and their impact on organisational agility, collaboration, and value delivery, but it does not mention Collective Intelligence, human-AI collaboration, or the partnership of human agency with AI agents in problem-solving. Key topics such as distributed cognition between humans and AI or AI agent design are absent. The audience and signal are reasonable given this is relevant for practitioners in Agile contexts, but overall, the content is strictly about human team frameworks and does not address the central concepts of the category.",
     "reasoning_summary": "This content focuses on human collaboration and team dynamics within Agile frameworks, without discussing human-AI partnerships or the principles of Collective Intelligence. It aligns with Agile practitioners but not with the core concepts of the evaluated category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Agile Frameworks",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 20.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 8.3,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses exclusively on traditional Agile frameworks like Scrum, Kanban, and Lean, discussing their principles, roles, and benefits for organisational agility. It does not mention, describe, or imply integration of autonomous AI agents or embody any core tenets of Agentic Software Delivery—such as AI-human collaboration, contextual intelligence, or agent-driven delivery practices. The alignment and depth scores are low due to complete absence of agentic topics or context-aware AI, though the audience score is higher since both areas target practitioners in software delivery. There are no penalty deductions, as the content does not contradict the agentic category, but its relevance is very minimal.",
+    "reasoning_summary": "The content is solely about generic Agile frameworks and does not mention or align with Agentic Software Delivery concepts, such as autonomous agents or AI integration. Fit is very weak—there is only minimal overlap in intended audience.",
     "level": "Ignored"
   }
 }

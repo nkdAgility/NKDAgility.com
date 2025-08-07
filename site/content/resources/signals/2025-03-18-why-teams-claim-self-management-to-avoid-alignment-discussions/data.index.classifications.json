@@ -21,21 +21,21 @@
   "Tenet": {
     "resourceId": "UUh2trdq4D1",
     "category": "Tenet",
-    "calculated_at": "2025-05-16T14:33:01",
-    "ai_confidence": 53.43,
-    "ai_mentions": 3.9,
-    "ai_alignment": 6.1,
-    "ai_depth": 5.2,
-    "ai_intent": 6.4,
-    "ai_audience": 7.3,
-    "ai_signal": 8.5,
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 74.15,
+    "ai_mentions": 4.3,
+    "ai_alignment": 8.8,
+    "ai_depth": 7.9,
+    "ai_intent": 7.2,
+    "ai_audience": 9.1,
+    "ai_signal": 7.8,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 53.0,
-    "reasoning": "The content touches on key tenet-adjacent ideas within Agile and Scrum—namely, that self-management requires accountability, structure, and alignment with shared goals. It references frameworks (Scrum), roles (Product Owner, Scrum Master), and describes the boundaries of autonomy versus dysfunction. However, it does not directly or explicitly discuss prescriptive tenets (e.g., naming 'decentralised decision-making,' 'continuous improvement'), but rather explores a specific cultural pitfall and the principles underlying effective autonomy. The depth is moderate: it moves beyond surface mention into practical implications but doesn't go deeply into actionable tenets or broader doctrine application. Intent and audience fit are relatively strong, aiming at Agile practitioners and Scrum teams wrestling with these real-world issues. Signal-to-noise is high as the piece stays focused on the main topic.",
-    "reasoning_summary": "This content explores the importance of alignment and accountability in team autonomy, critiquing misuse of self-management. While it engages Agile principles and Scrum frameworks relevant to tenets, it mostly frames these as guiding norms without explicitly detailing formal tenets. The analysis is practical and audience-appropriate.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the misuse of self-management and strongly clarifies that autonomy in Agile (Scrum) requires accountability, shared goals, and adherence to frameworks—each an actionable, prescriptive principle. While the term 'tenet' is not directly used, several examples (e.g., alignment, accountability, adherence to Scrum, autonomy within frameworks) map to core tenets of Agile/Scrum. The main intent is corrective and prescriptive, urging proper self-management as a tenet, not abstract value. The depth is substantial, addressing the consequences of misinterpretation. Audience is practitioners/teams familiar with Agile or Scrum. Slight penalty to 'mentions' as the term 'tenet' or specific tenets are not named, but actionable rules are clear. There is little filler; most content is thematically relevant.",
+    "reasoning_summary": "Content emphasizes actionable organizational rules—requiring accountability and alignment as conditions for autonomy—clearly matching the ‘tenet’ category even though the term itself isn’t named. Fit is strong though not explicitly labeled.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "resourceId": "UUh2trdq4D1",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content discusses self-management and autonomy within Scrum teams, asserting that true autonomy demands accountability and alignment with organizational goals—not just freedom. While it addresses themes related to developer agency and responsible autonomy, it doesn't directly cite Agentic Engineering or deeply explore systemic observability or AI integration. Its focus is on the philosophical foundations of team autonomy and accountability, which aligns moderately with Agentic Engineering but is not explicitly framed in these terms. No outdated or contradictory elements found.",
     "reasoning_summary": "This piece explores the balance between autonomy and accountability in Scrum teams, emphasizing that genuine self-management aligns with shared goals. While it addresses core principles of agency and organizational alignment, it only partially intersects with Agentic Engineering’s broader scope.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UUh2trdq4D1",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 17.15,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 6.4,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on self-management, autonomy, and accountability within Scrum teams. While it discusses autonomy and team accountability—concepts somewhat adjacent to Agentic Software Delivery—it makes no direct mention of AI agents, agentic frameworks, or their integration with human expertise and systems of work. There is no discussion of agentic intelligence, context-aware systems, or any supporting engineering practices aligned with agentic delivery. The intent is clarifying misconceptions about autonomy in Scrum, targeting practitioner teams, with high signal for agile concepts but almost no alignment or depth regarding agentic delivery. There is no evidence of outdated practices or contradictory tone, so no penalties were warranted.",
+    "reasoning_summary": "Content addresses teamwork, autonomy, and accountability in Scrum—not Agentic Software Delivery. No mention or exploration of autonomous AI agents, contextual intelligence, or agentic systems, so fit is minimal and mostly tangential.",
+    "level": "Ignored"
   }
 }

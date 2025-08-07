@@ -1426,15 +1426,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "LWRAX3OyO28",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:43",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on automation and continuous delivery within a DevOps context, which, while relevant to organisational efficiency, does not explicitly discuss social technologies or their principles. The mention of team dynamics and feedback loops is present but not deeply explored in relation to collaboration or decision-making. The content lacks a strong emphasis on the social frameworks that underpin effective collaboration and value delivery, leading to a lower confidence score.",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 39.020909,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.8,
+    "ai_intent": 3.6,
+    "ai_audience": 5.2,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses almost entirely on technical automation, process reliability, and the benefits of continuous delivery within DevOps. There are only subtle, indirect touches on social frameworks (like team empowerment and protection), but nothing on collaboration, self-organisation, or decision-making frameworks. It doesn’t address organisational transparency, collective intelligence, or other hallmarks of Social Technologies. The examples are technical (speed, automation, error reduction), and audience is technical practitioners rather than facilitators or organisational strategists interested in social processes. Signal stays reasonably focused, but the intent and depth do not match the principles or frameworks underpinning Social Technologies as defined.",
+    "reasoning_summary": "Content centers on automation and reliability in DevOps with scant reference to team dynamics or collaborative frameworks. Its primary focus is technical process—not social systems—so it only partially fits the Social Technologies category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -2029,5 +2036,24 @@
     "reasoning": "The content strongly discusses automation, continuous delivery, DevOps culture, and feedback loops, which conceptually align with agentic engineering's focus on autonomy and decentralization. However, it does not make direct or explicit references to 'agentic engineering' or the philosophical framing of maximizing human and AI agency. The focus is more practical—on risk mitigation, feedback loops, consistency, and speed. The audience is technical and the discussion is deep, but the agency concept is implicit, not explicit. Coverage of empirical evolution and systemic observability is present but not foregrounded as core themes.",
     "reasoning_summary": "This article aligns well with Agentic Engineering through its focus on automation, continual feedback, and empowerment within DevOps, but lacks direct mention of agentic philosophy or explicit emphasis on maximizing human/AI agency. The fit is high on practical alignment, moderate on explicit conceptual framing.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LWRAX3OyO28",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 29.45,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.2,
+    "ai_intent": 3.1,
+    "ai_audience": 3.7,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content centers around automation in continuous delivery within a DevOps framework, discussing benefits such as reliability, feedback loops, and rapid deployments. While the article is highly relevant to modern software delivery and automation, it does not reference agentic concepts: there is no discussion of autonomous AI agents, contextual intelligence, human-in-the-loop systems, or governance frameworks for agent/human collaboration. The entire narrative uses 'automation' as a theme but equates it to deployment automation, CI/CD, and automated checks—not the deliberate integration of AI agency or autonomous agents with human expertise. Examples (like Azure DevOps and Windows teams) highlight outcomes of automation and feedback, not agentic delivery principles. Audience is technical/practitioner but not oriented specifically toward agentic design or AI-powered delivery. Thus, conceptual alignment and depth are partial at best; intent is to evangelize automation and reliability but not agentic systems. Signal-to-noise is middling as the focus remains on traditional automation benefits.",
+    "reasoning_summary": "The content emphasizes automated continuous delivery and its business benefits but makes no mention of agentic principles, AI agents, or human-AI synergy. Fits only peripherally; not a true example of Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

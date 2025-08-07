@@ -527,15 +527,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "QBX7dnUBzo8",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:08:51",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 0.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses systemic issues in Agile organisations and does not mention Test First Development or its principles. While it touches on Agile practices, it lacks any focus on testing methodologies, success criteria, or the importance of testing in the development process.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 7.42,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are no direct mentions of 'Test First Development' or its principles (TDD, ATDD, success criteria, test before code, etc). The main ideas focus on systemic issues in Agile, organizational change, metrics, and overcoming ritualistic practices, which although related to software delivery effectiveness, do not address Test First Development as a practice or methodology. The content examines Agile challenges at an organizational and coaching level and discusses continuous improvement, but without any discussion or examples relating to Test First approaches, testing strategies, or the role of tests in design or collaboration. The intended audience (Agile practitioners, coaches, executives) minimally overlaps, but the topic is far afield from the Test First category.",
+    "reasoning_summary": "Content focuses on Agile systemic issues and organizational change, not Test First Development. No discussion or mention of test-first practices, criteria, or philosophy. Fit with the category is negligible.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2013,5 +2020,24 @@
     "reasoning": "The content focuses on addressing systemic issues within Agile organizations, advocating for deeper organizational change over ritualistic Agile practices. It emphasizes measuring effectiveness, courage to enact meaningful change, and continuous improvement—concepts tangentially related to Agentic Engineering, especially systemic thinking, adaptive change, and feedback loops. However, it lacks explicit references to agency (human or AI), DevOps, ethical autonomy, or the integration of intelligent systems. Developer agency is implied in critiques of disengaged teams, but there's no substantial exploration of core Agentic Engineering themes like decentralized decision-making frameworks, DevOps-infused practices, or ethical AI collaboration. Audience targeting (Agile coaches, leaders) is moderately relevant, and the signal remains focused on organizational effectiveness, though core Agentic Engineering practices are mostly absent.",
     "reasoning_summary": "This content is mainly about organizational change and systemic improvement in Agile, with some minor overlap with Agentic Engineering’s emphasis on feedback, adaptation, and systemic thinking, but lacks direct discussion of human/AI agency or core agentic practices. Fit is limited and largely tangential.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "QBX7dnUBzo8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 16.92,
+    "ai_mentions": 0.25,
+    "ai_alignment": 1.85,
+    "ai_depth": 2.11,
+    "ai_intent": 3.14,
+    "ai_audience": 4.25,
+    "ai_signal": 3.13,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content deeply examines systemic organizational issues around Agile transformation, focusing on the need for meaningful change, courageous leadership, and measurement of effectiveness (e.g., ROI, MTTR). However, 'Agentic Software Delivery' as defined (the integration of autonomous AI agents, contextual intelligence, modern engineering practices, agency, and feedback loops) is not mentioned or substantively discussed. There are no references to autonomous agents, contextual intelligence, governance of agentic interactions, or AI-driven augmentation. Audience overlap exists (organizational leaders, coaches), but the concepts diverge. Thus, while both topics share themes of agility and deep transformation, the specific agentic angle is absent.",
+    "reasoning_summary": "The content addresses agile transformation and systemic change but does not discuss autonomous AI agents, agency, or agentic delivery principles. There is minimal alignment; fit with the 'Agentic Software Delivery' category is weak and largely incidental.",
+    "level": "Ignored"
   }
 }

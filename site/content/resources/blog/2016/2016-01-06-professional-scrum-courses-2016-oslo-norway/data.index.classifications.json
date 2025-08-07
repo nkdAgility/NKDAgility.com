@@ -1479,15 +1479,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "gS7et381AGm",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:21:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Professional Scrum courses and Agile practices, which are not directly related to the One Engineering System framework. While it mentions concepts like collaboration and quality, it does not discuss the integration of tools or processes across teams, nor does it provide insights into the principles or challenges of implementing 1ES.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 16.79,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 7.4,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions -1 (no direct reference to 1ES); Alignment -1 (content not conceptually aligned with core 1ES definition; focus is on Scrum/DevOps training, not engineering system unification)",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on advertising and describing Professional Scrum Master and Developer courses in 2016. There is no mention of the One Engineering System (1ES) by name or concept; the main topics are Scrum, DevOps practices, coaching, and technical tools like TFS/VSTS. None of the courses or summaries discuss unifying engineering practices or the principles/components of 1ES. Audience is generally correct (technical/engineering teams), as is the high signal-to-noise, but no relevant depth or alignment for the 1ES category. Deductions applied for missing direct mentions and misalignment.",
+    "reasoning_summary": "This content does not fit the 'One Engineering System' category. It describes Scrum and DevOps trainings, lacking any references or conceptual alignment to 1ES principles or framework. The fit is minimal and mostly by shared engineering audience.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1995,6 +2002,25 @@
     "final_score": 18.0,
     "reasoning": "The content promotes Professional Scrum training events from 2016 and describes Scrum Master and Developer course outlines. While DevOps, team autonomy, and quality practices are tangentially mentioned, the focus is on logistics and curriculum marketing. There is no explicit reference to Agentic Engineering or to deliberate design for maximising human/AI agency, observability, ethical AI, or related agentic decision-making philosophies. Penalties were applied for lacking direct mentions and weak conceptual alignment, as well as outdated references. The score reflects minimal but nonzero conceptual overlap via mentions of DevOps, team practices, and autonomy at a surface level.",
     "reasoning_summary": "This content focuses on promoting and describing Scrum training courses from 2016. While it briefly references DevOps and agile practices, it lacks substantive discussion of agentic engineering concepts, such as maximizing agency, observability, or AI integration; relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gS7et381AGm",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 11.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Alignment and Depth penalized - content is from 2016 and references practices and technologies that are outdated by current standards for agentic delivery.",
+    "final_score": 12.0,
+    "reasoning": "The provided content describes Scrum Master and Developer training courses from 2016, focusing on advanced Scrum, DevOps practices, and tooling like TFS and VSTS. There are no explicit or implicit mentions of Agentic Software Delivery, AI agents, or integration of contextual intelligence. While software delivery and DevOps practices are discussed, all concepts remain within traditional Scrum and Agile paradigms. Depth and alignment are both limited, as core agentic topics (e.g., AI agents, agency, context-aware automation, human-in-the-loop AI, governance of agents) are completely absent. The audience is somewhat relevant (technical practitioners in delivery), but without the agentic framing. Signal is moderate due to pure topical focus, but none of it relates to the specified category. Penalties were applied due to the content being outdated and not reflective of modern engineering practices required for agentic delivery.",
+    "reasoning_summary": "Content covers 2016 Scrum and DevOps training, with no mention or exploration of agentic software delivery, AI agents, or contextual intelligence. Entirely outside the scope of the category; fit is absent beyond legacy delivery topics.",
     "level": "Ignored"
   }
 }

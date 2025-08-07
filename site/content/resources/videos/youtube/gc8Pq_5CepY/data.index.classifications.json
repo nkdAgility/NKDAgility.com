@@ -1402,15 +1402,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "gc8Pq_5CepY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:56:10",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are not directly related to the One Engineering System framework. While there are some mentions of productivity and team dynamics, the discussion does not align with the core principles of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:42",
+    "ai_confidence": 14.285,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 2.5,
+    "ai_audience": 4.0,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct mentions or references to One Engineering System (1ES) and the content is strictly about Scrum concepts (Definition of Done vs. Acceptance Criteria, Spikes vs. Refinement, and Ad Hoc Work management). While there is a passing reference to the Azure DevOps team and productivity (which is not elaborated upon in a 1ES context), the focus and depth do not touch upon the unification of engineering tools, frameworks, or principles relevant to 1ES. The content targets a practitioner audience (Scrum teams), which partially overlaps with the 1ES audience but remains Scrum-centric without extending to integrated engineering systems. There is negligible discussion related to the challenges, benefits, or best practices of integrating and standardizing processes across teams—the hallmarks of 1ES. Thus, confidence in this content fitting the One Engineering System category is very low.",
+    "reasoning_summary": "The content is focused on Scrum practices, with no meaningful discussion or direct mention of One Engineering System or related integration themes. It does not fit the 'One Engineering System' category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1922,6 +1929,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses entirely on Scrum practices such as Definition of Done, refinement, spikes, and managing ad hoc work within a Scrum team. While these are relevant to contemporary engineering, there is no explicit or implied discussion of agentic concepts such as maximizing engineer or AI agency, ethical AI collaboration, decision decentralization, or DevOps ethos in terms of agency. The audience is likely technical practitioners (Scrum Masters, developers), aligning with possible readership, but the core content remains at the practical Scrum-process level, not extending into agentic or agency-maximizing framings. There are no penalties applied, as the tone is neutral and up-to-date.",
     "reasoning_summary": "This content addresses Scrum methods and practical team issues but does not explore or align significantly with Agentic Engineering's core themes of maximizing agency, ethical AI, or feedback-driven autonomy. Its focus is strictly on Scrum practices without a broader agentic framing.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gc8Pq_5CepY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:41",
+    "ai_confidence": 8.977,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 2.7,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "There are no direct mentions or substantial exploration of Agentic Software Delivery or its core themes (AI agents, contextual intelligence, human-agent synergy, or governance). The content strictly discusses classical Scrum practices: Definition of Done vs. acceptance criteria, spikes vs. refinement, and sprint planning relating to ad hoc work. There is a slight tangential mention of automation as a way to reduce ad hoc work, but that does not cross into agentic or AI-driven delivery. The main audience (Scrum practitioners) could potentially overlap in interests, but the topic, depth, and intent are not relevant to the Agentic Software Delivery category.",
+    "reasoning_summary": "This content is about classic Scrum techniques—not agentic or AI-augmented delivery. Lacks mention, alignment, or depth on the category. Only a passing note on automation is remotely relevant. Not a category fit.",
     "level": "Ignored"
   }
 }

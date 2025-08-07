@@ -1455,16 +1455,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "BhGThHrOc8Y",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:52:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses DevOps and its principles, focusing on tools and processes rather than the intentional shaping of outcomes through agency and agility. While it touches on collaboration and improvement, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 47.17,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.7,
+    "ai_intent": 5.2,
+    "ai_audience": 8.5,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "Direct mentions of 'agency' or 'agentic agility' are absent; the article focuses on clarifying DevOps as a mindset beyond tools rather than explicit agentic empowerment. Conceptually, the emphasis on mindset, shifting focus from tools, and fostering collaboration aligns with aspects of agency and intentional adaptation in Agile/DevOps. However, the discussion does not delve into the mechanisms of agency, autonomy, or accountability. Intent is to refocus on principles—not explicitly on agentic agility—and the deep dive into the nature of DevOps is only partially intersecting with the category's required themes. The audience (Agile/DevOps practitioners) and focused discussion provide higher scores in those dimensions, but the fit is moderate overall.",
+    "reasoning_summary": "Content aligns partially by arguing DevOps is a mindset, not just tools, echoing intentional adaptation. However, it lacks explicit discussion of agency, autonomy, or double-loop learning, so fit to 'Agentic Agility' is only moderate.",
+    "level": "Tertiary"
   },
   "Product Development": {
     "category": "Product Development",
@@ -1955,5 +1962,24 @@
     "reasoning": "The content takes a conceptual approach to DevOps, emphasizing mindset, collaboration, and continuous improvement over tooling. It closely aligns with several Agentic Engineering themes (collaboration, decentralizing decisions, feedback loops), though Agentic Engineering is not mentioned by name. Discussion touches on developer agency and systemic improvement, but lacks explicit references to AI agency, ethical autonomy, or systemic observability. The audience and intent are closely aligned with Agentic Engineering's target, though the focus is predominantly on DevOps philosophy. The discussion is substantive and avoids tool-centrism or tangential filler.",
     "reasoning_summary": "This discussion reframes DevOps as a value-driven, agency-enhancing philosophy, overlapping meaningfully with Agentic Engineering. While it doesn't directly cite all Agentic concepts (like AI autonomy), its focus on collaboration, feedback, and mindset fits the category well, especially for a practitioner audience.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BhGThHrOc8Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:21",
+    "ai_confidence": 18.13,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.35,
+    "ai_intent": 2.4,
+    "ai_audience": 5.15,
+    "ai_signal": 5.23,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused entirely on clarifying misconceptions about DevOps and stressing its value as a mindset and collaborative culture. There are no direct mentions or discussions of agentic software delivery, the integration of autonomous AI agents, contextual intelligence, or human-in-the-loop designs. While the discussion does align somewhat with modern engineering practices and values feedback loops, it does so within a general DevOps/Agile context rather than an explicitly agentic one. The audience overlaps (technical practitioners), and the content stays focused (signal), but the main concepts and purpose don't match agentic software delivery beyond thematic adjacency.",
+    "reasoning_summary": "The content explains DevOps as a mindset, with no discussion of agentic software delivery, AI agents, or autonomy. It only partially aligns on themes like feedback and engineering culture, so fit is low and confidence is minimal.",
+    "level": "Ignored"
   }
 }

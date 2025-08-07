@@ -856,16 +856,23 @@
     "level": "Ignored"
   },
   "Remote Working": {
+    "resourceId": "I3QFLrCOXnN",
     "category": "Remote Working",
-    "calculated_at": "2025-04-10T13:00:42",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content mentions a temporary change in working location and discusses the implications for meeting schedules due to a time zone shift. While it touches on aspects of remote working, such as availability and scheduling, it lacks a deeper exploration of Agile practices or strategies for effective collaboration in a remote setting. The focus is more on personal circumstances rather than the challenges and solutions associated with remote Agile teams.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 52.05,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.6,
+    "ai_depth": 3.8,
+    "ai_intent": 4.9,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content is a personal update about working remotely from a new location (Cancun), and informs clients about time zone changes. It references being available remotely and scheduling meetings over video, which indicates distributed work. However, it only tangentially touches on remote working topics—it does not discuss Agile-specific challenges, best practices, tools, or techniques for remote collaboration. There is no exploration of remote work strategies, tools, ceremonies, or team culture—just notification of practical logistics. The high audience and signal scores reflect that the message is focused and for clients who might care about distributed/remote arrangements, but the alignment and depth are limited due to lack of substantive remote working discussion.",
+    "reasoning_summary": "This is a logistical update about working remotely from another country, but does not discuss remote working strategies in Agile. Fit is mostly tangential; no depth or best practices specific to remote Agile work.",
+    "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1891,6 +1898,25 @@
     "final_score": 3.0,
     "reasoning": "The content is an update regarding a temporary change in work location and time zone. There are no direct mentions or implied concepts of Agentic Engineering, and none of the topic areas are explored. The content focuses solely on availability and scheduling; engineering practices, developer agency, or philosophical/technical elements are completely absent. Audience may overlap (clients in tech), but the subject matter is irrelevant.",
     "reasoning_summary": "This content is solely an administrative update about remote work timing and contact info and contains no discussion or relevance to Agentic Engineering principles or related topics.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "I3QFLrCOXnN",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is a personal notification about a temporary change in working location and time zone, aimed at reassuring clients about continued availability. There is no mention or discussion of agentic software delivery, AI agents, contextual intelligence, or modern engineering practices. No core concepts, terminology, or audiences of agentic software delivery are referenced; the focus is logistical and personal, not technical. All six scoring dimensions rate at or very near zero, as the content offers no relevant signal.",
+    "reasoning_summary": "Content is a time zone/work location update with no reference to agentic delivery, AI, or related practices. No alignment with the category’s definition or target audience.",
     "level": "Ignored"
   }
 }

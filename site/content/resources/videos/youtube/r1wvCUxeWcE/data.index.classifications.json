@@ -897,15 +897,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "r1wvCUxeWcE",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:21:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban methodology and workflow visualisation, which are not directly related to Continuous Delivery principles. While it touches on aspects of process improvement and team efficiency, it lacks explicit discussions on Continuous Delivery practices, automation, or rapid feedback mechanisms that are central to the category.",
+    "calculated_at": "2025-08-07T06:10:39",
+    "ai_confidence": 16.35,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.9,
+    "ai_intent": 2.0,
+    "ai_audience": 4.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content centers on practical guidance for visualizing and optimizing Kanban boards, focusing primarily on workflow visualization, board configuration, and team engagement in continuous improvement. While there are mentions of process adaptation and continuous improvement, the core concepts, practices, and principles specifically associated with Continuous Delivery—such as automated deployment, rapid feedback from production, deployment pipeline automation, or frequent releasability—are not discussed. No direct or indirect references to Continuous Delivery appear. The main audience is practitioners interested in Kanban and visual management rather than those seeking insight into Continuous Delivery. The material is only tangentially related through generic references to improvement and flow, without substantive alignment to the category definition.",
+    "reasoning_summary": "Content is about Kanban board optimization, not Continuous Delivery. It briefly mentions continuous improvement but lacks any substantial discussion or alignment with Continuous Delivery principles, intent, or practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1937,5 +1944,24 @@
     "reasoning": "The content offers practical advice on optimizing Kanban boards and encourages adaptation, teamwork, and continuous improvement. However, it does not explicitly mention or deeply explore agentic engineering concepts such as maximizing human/AI agency, decentralizing decisions, or integrating ethical AI. While it promotes team agency in refining workflows, it lacks direct reference to deliberate engineering design or philosophical aspects of agency beyond general autonomy in Kanban board management. The focus is mainly on practical Kanban board setup and process visualization, not on the broader or deeper themes defining Agentic Engineering.",
     "reasoning_summary": "This content centers on optimizing Kanban boards with practical, team-focused guidance. While it encourages adaptive processes and some autonomy, it does not directly address agentic engineering’s core themes such as deliberate agency maximization or AI integration, resulting in only moderate relevance to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "r1wvCUxeWcE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 12.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 2.4,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is an in-depth guide about Kanban board setup and workflow visualisation for process improvement. It does not reference agentic software delivery, autonomous AI agents, their integration with human expertise, or context-aware intelligence. While it promotes continuous improvement and workflow analysis, none of its themes, intent, or audience focus maps to agentic software delivery principles or practices. The content is aimed at teams/practitioners improving visualization and efficiency; there is no mention or implication of AI, automation with contextual intelligence, or agentic delivery evolution. Thus, the fit is minimal.",
+    "reasoning_summary": "This content focuses on practical Kanban workflow optimization and process adaptation, with no reference to autonomous AI, agent integration, or agentic software delivery principles. Categorization fit is very low.",
+    "level": "Ignored"
   }
 }

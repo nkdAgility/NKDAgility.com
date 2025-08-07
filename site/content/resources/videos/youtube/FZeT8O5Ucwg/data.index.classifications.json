@@ -1504,15 +1504,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "FZeT8O5Ucwg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:04:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and Scrum methodologies, discussing the challenges and misconceptions surrounding them. While it touches on themes of collaboration and improvement, it does not explicitly mention or align with the One Engineering System framework, which is centred on standardising and integrating software development practices across teams. The discussion lacks depth regarding the principles or components of 1ES, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 19.19,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 2.8,
+    "ai_audience": 5.9,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses exclusively on identifying genuine Agile practices, debunking Agile myths, and exploring cultural and historical influences on agility. There is no direct mention of One Engineering System (1ES), nor any reference to its principles of tool/process unification, standardisation across teams, or implementation challenges unique to 1ES. While some themes (like scaling practices and efficient processes) could marginally relate to systemisation, these are presented within the context of Agile, not 1ES. No exploration of integrating tools, processes, or cross-team methodologies (central to 1ES) takes place. The primary audience—practitioners aiming for true agility—only partially overlaps with the 1ES audience. Signal-to-noise is moderate due to some general software culture history and criticism of 'fake Agile,' lowering the fit.",
+    "reasoning_summary": "Content focuses on Agile authenticity and barriers, not on One Engineering System. No direct mention or substantial alignment with 1ES concepts, integration, or implementation. Overlap is minimal; fit is incidental, not intentional.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2025,5 +2032,24 @@
     "reasoning": "The content is focused on diagnosing authentic agile practices versus common misconceptions and cultural barriers. While it discusses themes like autonomy, feedback loops, and empowerment, it doesn't explicitly use the language or frameworks unique to Agentic Engineering. It remains anchored in agile/scrum cultural critique and improvement, without exploring engineering design for maximising agency (human or AI), systemic observability, or ethical autonomy. So, some core Agentic Engineering concepts are touched (empowerment, retrospectives, responsiveness), but mostly in service of authentic agile—not as an integrated engineering philosophy. The intended audience (agile practitioners, trainers) does overlap, and much content is relevant, but direct conceptual exploration and technical depth for Agentic Engineering are limited.",
     "reasoning_summary": "This content addresses genuine agile practice, empowerment, and cultural impediments but lacks direct engagement with Agentic Engineering's unique engineering-centric themes. While related and partially relevant, the core category concepts are only loosely touched.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FZeT8O5Ucwg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:43",
+    "ai_confidence": 13.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 4.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses authentic agile practices, cultural barriers, and the history of agility, but never references agentic concepts such as autonomous AI agents, contextual intelligence, or agent-human synergy. Discussion remains firmly in traditional agile and Scrum territory, focusing on iterations, feedback loops, retrospectives, and team empowerment at a human and process level. No mention is made of AI-driven agency, agentic system design, or agent-enabled delivery models. The closest parallel is some attention to feedback loops and seamless deployment, but these are presented in a traditional agile sense, not through the lens of agentic delivery. The target audience (agile practitioners, leaders) could overlap with those interested in agentic delivery, but all core elements of the Agentic Software Delivery category are missing.",
+    "reasoning_summary": "This content focuses on traditional agile practices, cultural factors, and feedback loops with no mention of agentic AI, autonomous agents, or the principles of Agentic Software Delivery. Alignment is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

@@ -1321,16 +1321,23 @@
     "level": "Ignored"
   },
   "Mentoring": {
+    "resourceId": "dQjKsWR5qfn",
     "category": "Mentoring",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 78.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the role of a Scrum Master as a mentor and coach, emphasising the importance of guiding team members and the Product Owner. It aligns well with mentoring principles by highlighting the need for continuous learning and the development of skills necessary for effective Agile practice. The depth of discussion on how Scrum Masters can mentor in technical, business, and organisational contexts further supports its relevance to the mentoring category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 84.27,
+    "ai_mentions": 7.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 9.1,
+    "ai_intent": 8.0,
+    "ai_audience": 9.2,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content explicitly situates the Scrum Master's responsibilities in the realm of mentorship, coaching, and facilitation, repeatedly referencing teaching, mentoring, and coaching roles. The article discusses in depth the skills, behaviours, and knowledge areas crucial for mentoring and developing Agile professionals and leaders—e.g., technical, business, and organisational mastery outlined as necessary for enabling and supporting others' growth, not for direct task execution. Real-world scenarios (mentoring POs, coaching developers on practices) align with the definition. The main audience is Agile practitioners/leaders, and signal-to-noise is high, as tangential content is minimal. Some technical implementation guidance is present, but always tied to the coaching/mentoring scope—the 'how' of making others effective. No penalties: content is current, supportive, and closely aligned with the category definition.",
+    "reasoning_summary": "The content fits Mentoring well—Scrum Master roles are described chiefly in terms of mentoring, coaching, and developing others, with specific techniques, audiences, and deep exploration of mentoring concepts. Direct and relevant fit; only slightly tangential.",
+    "level": "Primary"
   },
   "Value Stream Mapping": {
     "resourceId": "dQjKsWR5qfn",
@@ -2518,5 +2525,24 @@
     "reasoning": "The content repeatedly emphasizes empowering Scrum Masters and teams through deep technical, business, and organizational mastery, which connects conceptually to maximizing developer agency and feedback-driven adaptation — key aspects of Agentic Engineering. It highlights practices such as DevOps, Continuous Delivery, and self-management, yet never directly references 'Agentic Engineering' or specifically frames the discussion around human and AI agency. While it explores how mastery enables autonomy and better outcomes, the focus is on leadership and coaching within Scrum rather than the explicit integration of AI, observability, or engineering frameworks that maximize both human and AI agency. The article is aimed at technical and practitioner audiences and maintains a strong signal-to-noise ratio with little tangential detail. While overall alignment is solid and the depth is substantial, direct mention is low and the framing is somewhat adjacent rather than central to Agentic Engineering.",
     "reasoning_summary": "The discussion strongly aligns with Agentic Engineering themes—emphasizing autonomy, feedback, DevOps practices, and enabling empowered teams—though the term and the AI dimension are not directly addressed, making this a relevant but not central fit for the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dQjKsWR5qfn",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:07",
+    "ai_confidence": 18.23,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.5,
+    "ai_audience": 5.2,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on mastery areas (technical, business, organizational) for Scrum Masters. While it highlights modern practices like CI/CD, DevOps, and evidence-based management, it never discusses or even mentions agentic software delivery, autonomous AI agents, or their integration with human expertise. No agency, AI, or context-aware intelligence topics are covered. The technical mastery described aligns with advanced Scrum practices but does not cross into agentic strategies or governance of AI agents. The audience is Scrum practitioners, tangentially related, but the content’s intent remains focused on human roles and expertise—not on agentic delivery or automation. Only surface alignment exists via a few keywords (CI/CD, telemetry, etc.), but lacking any agentic perspective or depth.",
+    "reasoning_summary": "Content addresses advanced Scrum Master competencies but never references agentic delivery, AI agents, or their integration. Focus is solely on human mastery and facilitation—not on agentic software delivery principles. Fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

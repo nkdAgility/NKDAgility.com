@@ -555,15 +555,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "r9aCEFpUHWU",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:41:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role and importance of Scrum Masters in facilitating team success and product delivery, without any direct reference to Test First Development principles or practices. While it touches on aspects of product development and team dynamics, it does not address success criteria, testing methodologies, or the specific practices associated with Test First Development. Therefore, the confidence score reflects a very low alignment with the category.",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 13.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.1,
+    "ai_intent": 2.8,
+    "ai_audience": 2.1,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on the competence of Scrum Masters and their impact on team and product outcomes. While it references engineering excellence, testing, and delivery, there is no explicit mention or in-depth exploration of Test First Development or its key principles. References to testing are brief and do not outline Test First philosophies, practices (manual or automated), or success criteria. Audience and intent are practitioner-aligned but not focused on Test First Development. Signal to noise is low for this category, and the discussion is off-topic regarding the classification's definition.",
+    "reasoning_summary": "Content focuses on Scrum Master competence, not Test First Development. Testing mentioned only as a result of broader skills, not as a core practice. Does not align with Test First Development's key principles or intent.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -2027,5 +2034,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent. The content focuses on the competence of Scrum Masters, touching on engineering excellence and DevOps, which aligns somewhat with agentic principles. However, discussions of agency, decentralised decision-making, ethical AI, or system observability are minimal or missing. The main intent is to elevate the role of Scrum Masters within engineering practices, offering limited but partial overlap with core themes of Agentic Engineering. The audience of experienced technologists aligns decently, and the content is focused, but does not deeply explore agentic engineering or its systemic features.",
     "reasoning_summary": "The article discusses Scrum Master competence and its impact on team productivity, referencing engineering excellence and DevOps. While there is partial conceptual overlap, it does not directly address key Agentic Engineering topics like agency maximisation, system-level feedback, or ethical AI, resulting in moderate relevance.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "r9aCEFpUHWU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 14.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on Scrum Master competence in traditional and modern software delivery but does not mention nor discuss autonomous AI agents, agentic systems, or agentic delivery principles. Although some topics like engineering practices and DevOps are addressed, they are discussed from a human expertise and coaching perspective instead of contextual or proactive intelligence via AI agents. There is no reference to the integration of human and agentic intelligence, nor frameworks for agent governance or agent-supported delivery functions. It also lacks any direct or indirect discussion of agentic autonomy, architectural grounding, telemetry, feedback loops enabled by agents, or the evolution towards agentic delivery models. The primary audience (Scrum practitioners or Agile coaches) overlaps only marginally with the typical audience for agentic delivery topics. Overall, the fit with Agentic Software Delivery is minimal and mostly incidental—limited to very broad, conceptual adjacency around modern delivery and engineering skillsets.",
+    "reasoning_summary": "Content explores Scrum Master competence and its impact on software delivery, with no reference to AI agents, contextual intelligence, or agentic delivery models. Modern engineering/DevOps are discussed from a human coaching view. Fit with 'Agentic Software Delivery' is minimal.",
+    "level": "Ignored"
   }
 }

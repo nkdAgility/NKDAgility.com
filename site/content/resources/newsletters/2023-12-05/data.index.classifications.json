@@ -1486,15 +1486,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "-wdSJlbQQbK",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:13:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning classes and training related to Scrum and Agile methodologies, without any explicit discussion of the One Engineering System framework or its principles. While there are elements of standardisation in training approaches, the content does not address integration of tools or processes across teams, nor does it provide insights into the impact of a unified engineering system on software quality or delivery timelines.",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 5.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 7.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on Scrum, Agile, and related training journeys. There is no direct mention of One Engineering System (1ES), nor does it discuss unification or standardisation of engineering tools/processes. The main intent is to market training, not to describe or explore 1ES principles or implementations. Though the audience (technical, agile professionals) could overlap with a 1ES audience, the material does not share relevant 1ES concepts, practices, or challenges. Therefore, conceptual alignment and depth are very low; signal is moderate due to tangential relevance of process improvement. No penalties apply.",
+    "reasoning_summary": "The content is about Scrum/Agile training and does not reference or align with One Engineering System topics. No relevant 1ES themes, practices, or terminology are present, so the fit is very poor and mostly unrelated.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1996,6 +2003,25 @@
     "final_score": 22.0,
     "reasoning": "The content is focused on Scrum and Agile learning journeys, highlighting immersive training, outcome-based assignments, and continuous improvement. However, there are no direct mentions of Agentic Engineering or its philosophical tenets. While developer growth and continuous feedback are discussed, they are presented in the context of skills training, rather than as deliberate engineering design to maximise agency. Lacking are references to system observability, AI integration, decentralised decision-making, or explicit agentic practices. The intended audience overlaps somewhat with Agentic Engineering (practitioners, scrum masters, and managers), yet the alignment is incidental rather than purposeful. The material is mostly promotional, with relatively little in-depth exploration of agency maximisation or engineering philosophies tied to the category.",
     "reasoning_summary": "The content centers on Agile/Scrum training and continuous improvement but does not meaningfully address Agentic Engineering concepts such as engineering for agency, decentralised decision-making, or human-AI autonomy. Any alignment is tangential, not intentional.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "-wdSJlbQQbK",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 7.722,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 2.2,
+    "ai_audience": 1.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is promotional and focused on Scrum and Agile learning programs, including class formats, interactive experiences, and assignments aimed at outcome-based education. There are no explicit mentions of agentic software delivery concepts—no discussion of AI agents, contextual intelligence, autonomy, or their integration in the software delivery lifecycle. All themes strictly concern traditional human-led agile practices, continuous improvement, and training offers for various agile roles. No evidence for agentic principles, autonomous AI, or modern agent-based delivery models can be found. The content targets practitioners of Agile, Scrum, DevOps, and leadership but remains wholly traditional, with nothing referencing AI agency, human-in-the-loop designs, automated agent governance, or similar. Alignment, depth, and references to the evaluated category remain at or near minimum.",
+    "reasoning_summary": "Content is exclusively focused on traditional Scrum/Agile learning and class promotions, with no explicit or implicit coverage of agentic software delivery concepts or agent-AI integration. Fit is negligible; only tangential relevance to software delivery.",
     "level": "Ignored"
   }
 }

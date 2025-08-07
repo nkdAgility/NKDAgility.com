@@ -1494,15 +1494,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it explores how collecting and analysing metrics supports continuous improvement in Agile environments. By focusing on evidence-based management and measuring value delivery, it demonstrates how organisations can build and enhance their capabilities, even if the term \"competence\" isn't used directly."
   },
   "One Engineering System": {
+    "resourceId": "mK5twHwVcIg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:45:28",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-based Management within the Scrum framework, focusing on metrics for measuring value delivery in software organisations. While it touches on themes of improvement and measurement, it does not explicitly address the One Engineering System framework or its principles, components, or integration across teams. The discussion is more centred on Scrum practices rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 21.93,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.8,
+    "ai_audience": 7.3,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content centers on Evidence-based Management, focusing on agile metrics and their organisational impact. It discusses the measurement of value delivery, time-to-market, and innovation, specifically within the Scrum/EBM framework. There are zero direct mentions (or synonyms) of 'One Engineering System' or any discussion of unified toolchains, standardisation of engineering practice, or process/toolchain integration across teams—the core criteria for 1ES. The main themes and metrics detailed are important for organisational improvement but are not presented as part of, or related to, a comprehensive engineering system framework like 1ES. The purpose (guidance for EBM metric implementation) and technical/consultant audience do overlap somewhat with those for 1ES, but no explicit or implicit linkage is made. The signal-to-noise ratio is moderate: content is focused on management metrics, but doesn't align with the 1ES category requirements.",
+    "reasoning_summary": "Content is about Evidence-based Management metrics, not the One Engineering System. No discussion of standardised engineering systems or tool/process integration across teams. Only partial (audience) alignment; overall, this is a weak fit.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2022,5 +2029,24 @@
     "reasoning": "The content is centered around evidence-based management in agile software contexts, specifically about gathering and using metrics to improve organizational performance. While it clearly aligns with empiricism, value delivery, and iterative improvement foregrounded in Agentic Engineering, it does not directly discuss maximizing agency—either human or AI—nor does it substantially address system design to increase autonomy, decentralization, or ethical AI augmentation. Instead, the focus is on metrics and measurement as tools for guided change and organizational improvement. The audience overlaps (agile practitioners, consultants), and the content is highly relevant to adjacent ideas (continuous improvement, feedback), but lacks both explicit references (mentions) and thorough exploration of agentic engineering themes.",
     "reasoning_summary": "The content focuses on evidence-based management and agile metrics for organizational improvement, closely related to themes in Agentic Engineering but without explicit or in-depth coverage of agency maximization or systemic agentic practices. Relevance is moderate but not central or direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mK5twHwVcIg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 26.655,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.7,
+    "ai_intent": 1.1,
+    "ai_audience": 9.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses entirely on evidence-based management (EBM), organizational metrics, and Scrum, but never discusses agentic concepts such as autonomous AI agents, agency, agent integration, context-aware intelligence, or human-agent synergy. Metrics and measurements are discussed for improving organizational value, agility, and delivery outcomes, but without reference to agents or the architectural/engineering changes required for agentic software delivery. The audience and relevance are a close fit for those who might be interested in agentic delivery (leaders, technical consultants, agile practitioners) and there is a high signal-to-noise ratio; however, conceptually the material is quite distinct from the agentic definition provided and only aligns marginally with the broader goal of improving software delivery outcomes. There are no mentions, references, or implied discussion of agency or intelligent automation.",
+    "reasoning_summary": "This material thoroughly covers evidence-based management and agile metrics, but never addresses agentic software delivery, agency, or AI agents. The fit to the category is minimal and mostly incidental via delivery-focus and agile audience.",
+    "level": "Ignored"
   }
 }

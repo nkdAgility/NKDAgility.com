@@ -1532,15 +1532,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it explores how Evidence-Based Management supports organisational growth through continuous learning, measurement, and adaptation. By focusing on goal-setting, value measurement, and iterative improvement, it clearly aligns with the core principles of competence in Agile and DevOps, even if the term itself isn’t used often."
   },
   "One Engineering System": {
+    "resourceId": "ltc7lzhy14U",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:11:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, which are not directly related to the One Engineering System (1ES). While there are some overlaps in themes such as goal setting and measurement, the focus is on EBM rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 7.572,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is entirely focused on Evidence-Based Management (EBM) within the context of Scrum and empirical improvement. There are zero direct mentions of 'One Engineering System' (1ES), nor are 1ES principles, components, or its goals explicitly or implicitly referenced. The framework, use cases, and tools discussed all concern EBM, key value areas, experimentation, measurement, and value delivery. No discussion occurs regarding the standardization or integration of engineering tools, processes, or methodologies across teams, as required by the 1ES category definition. The content is aligned to organizations seeking to improve using EBM processes, measures, and feedback, rather than those implementing or learning about a unified system such as 1ES. Topics like tool unification, cross-team alignment via shared engineering frameworks, or detailed best practices for 1ES are absent. Audience overlap exists—those interested in organizational improvement may care about both EBM and 1ES, but the focus here is strictly EBM. Therefore, fit is extremely weak and tangential at best.",
+    "reasoning_summary": "The content is solely about Evidence-Based Management and makes no reference to One Engineering System or its key themes. There is no substantive conceptual overlap, making the fit with the category definition minimal to none.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2057,5 +2064,24 @@
     "reasoning": "Direct mentions of Agentic Engineering are absent—the term never appears. However, some adjacent topics (experimentation, feedback, decentralised goals) partially overlap with agentic principles. The guide is focused on Evidence-Based Management: it explores goal-setting, empirical loops, and measurable value delivery, offering moderate conceptual alignment with Agentic Engineering’s focus on continuous adaptation, feedback, and decentralisation. Depth is fair, especially regarding adaptive frameworks and value-centric discussions; however, it does not address agency maximisation, ethical AI, systemic observability, or developer autonomy explicitly. The guide is informative with intent aligned toward improving engineering practice but remains centered on EBM and outcome-driven agility rather than the philosophical or systemic aspects of agentic environments. Its technical-practitioner focus matches the Agentic Engineering audience moderately well, and the content stays mostly on-topic with little digression. However, the absence of direct references, along with the lack of explicit discussion on human or AI agency, decentralised decision-making frameworks, or ethical integrations, positions this as adjacent rather than core Agentic Engineering content.",
     "reasoning_summary": "This EBM Guide moderately overlaps with Agentic Engineering through themes like empirical feedback and adaptive value delivery, but it lacks any direct discussion of agency, ethical AI, or systemic autonomy. The fit is tangential and conceptual rather than explicit or targeted.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ltc7lzhy14U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:58",
+    "ai_confidence": 19.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 3.6,
+    "ai_audience": 5.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses entirely on Evidence-Based Management (EBM) for value delivery amid uncertainty, emphasizing experiments, feedback, goal-setting, and metrics (KVAs and KVMs). There are zero explicit references to agentic software delivery, autonomous AI agents, or the integration of such agents with human expertise. The mindset is empirical, but it deals with people, teams, and organizations—not AI agency or context-aware intelligence. The engineering practices mentioned are at a high level only and refer to agile/product management, not technical agentic capabilities. The audience and intent (improving value delivery, empiricism, continuous improvement) overlap somewhat with Agentic Software Delivery goals, but the means described are not agentic, and there is no systematic discussion of AI integration, agency, or related governance. Any fit is partial and coincidental.",
+    "reasoning_summary": "This is a practical guide to empirical value delivery using EBM, not agentic software delivery. It lacks mention of AI agents, agency, or autonomous intelligence, so fit with the category is minimal and only loosely aligned in continuous improvement themes.",
+    "level": "Ignored"
   }
 }

@@ -1428,15 +1428,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it explores how immersive learning, feedback, and practical application drive ongoing skill development. By emphasising real-world scenarios and collaboration, it addresses key elements of professional growth, even though the term 'competence' isn’t used often. The discussion’s depth and relevance make it highly suitable for this category."
   },
   "One Engineering System": {
+    "resourceId": "wawnGp8b2q8",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:15:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content focuses on poly immersive learning experiences and their benefits, which are unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or practices, and the discussion does not align with the core themes of integration and standardisation in software development.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 14.69,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.3,
+    "ai_audience": 6.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "No direct or indirect reference to the One Engineering System (1ES) framework appears in the content. The material centers on immersive learning, reflection, feedback, experimentation, and professional growth—none of which are discussed in the context of standardising or integrating engineering tools or processes as per 1ES. The audience (professionals interested in development) overlaps somewhat, but the subject matter, intent, and depth lack alignment. There are no obsolete or contradictory practices discussed, so no penalties are applied.",
+    "reasoning_summary": "This content focuses entirely on immersive learning and professional growth. It does not discuss One Engineering System, integration, or standardisation of engineering tools or practices. The fit is minimal and largely coincidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1939,5 +1946,24 @@
     "reasoning": "The content centers on poly immersive learning and its benefits for professional growth, emphasizing feedback, reflection, collaboration, and experimentation. While it touches on themes like continuous learning and experimentation that are tangentially related to Agentic Engineering, it never explicitly addresses engineering practices, human-machine agency, or AI ethical integration. The depth focuses on individual learning rather than organizational or systemic engineering autonomy. There's alignment in fostering agency at a personal level, but it falls short of discussing the deliberate design of engineering systems, decentralisation, or the DevOps ethos. The intended audience—learners and professionals seeking growth—somewhat overlaps but lacks a focus on software engineers or technical leaders. Signal is moderate; much content is relevant to professional growth, but not tightly focused on the Agentic Engineering domain.",
     "reasoning_summary": "This content promotes experiential, reflective learning and accountability but does not discuss the deliberate design of engineering practices or systemic agency for humans and AI. While some concepts are loosely related, the focus is on professional learning rather than Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wawnGp8b2q8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 13.353,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.55,
+    "ai_depth": 1.4,
+    "ai_intent": 2.0,
+    "ai_audience": 3.6,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content does not mention or discuss agentic software delivery or its key facets such as AI agents in delivery, contextual intelligence, or engineering practices. Its focus is on immersive learning, reflection, and feedback in professional development, which only faintly relates to feedback loops found in agentic systems. No evidence of technology, AI, or software delivery context is present. Audience may include technical professionals, but nothing is targeted specifically to those practicing or implementing agentic software delivery. The score is low due to lack of direct references, poor conceptual alignment, and minimal depth on the category.",
+    "reasoning_summary": "This content does not fit Agentic Software Delivery. It addresses immersive learning, not AI agent integration or software delivery. Any alignment is coincidental (feedback, experimentation), not specific to the category.",
+    "level": "Ignored"
   }
 }

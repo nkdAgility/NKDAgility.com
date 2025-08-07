@@ -1398,15 +1398,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "Qt1Ywu_KLrc",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:22:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating projects within Azure DevOps, detailing tools and processes without addressing the concept of Common Goals or their significance in Agile and DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 12.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 5.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is a technical, step-by-step guide for Azure DevOps project migration. There are no direct or indirect references to Common Goals, strategic alignment, or shared objectives as defined by the category. The focus is entirely on tooling, configuration, and practical troubleshooting for migration, without addressing team alignment, objectives, or organisational strategy. The audience (DevOps/tech practitioners) somewhat overlaps but the fit is very weak in terms of concept, depth, and signal. No outdated or contradictory elements were found, so no penalties are applied.",
+    "reasoning_summary": "The content is focused on technical migration steps in Azure DevOps, with no substantive discussion of Common Goals, alignment, or organisational objectives. There is only a minimal, coincidental audience overlap.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1934,6 +1941,25 @@
     "final_score": 13.0,
     "reasoning": "The content is focused entirely on the technical, step-by-step process of migrating projects within Azure DevOps. There are no direct mentions of 'Agentic Engineering' or related concepts (e.g., autonomy, feedback-driven adaptation, ethical AI integration, or maximizing agency). The main ideas revolve around tool usage, setup, troubleshooting, and configuration file management—all of which are procedural and do not touch upon the philosophical aspects or core themes of Agentic Engineering. While the target audience might overlap (technical practitioners), the piece has minimal conceptual or thematic alignment—offering only indirect hints of developer autonomy (in the sense of self-managing a migration), which are not substantive or intentional. The entire content is narrowly focused and does not sustainably touch upon any Agentic Engineering topics beyond potentially empowering the reader to execute migrations independently. No outdated information or negative tone is present, so no penalties are applied.",
     "reasoning_summary": "This guide is a technical walkthrough of Azure DevOps migration steps, with no discussion of agency, engineering philosophy, or human/AI autonomy. It does not relate to Agentic Engineering concepts and its content is outside the category's focus.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Qt1Ywu_KLrc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 5.268,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 1.3,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is a procedural guide for migrating Azure DevOps projects using existing automation tools and scripting. It focuses on tool installation, config editing, and troubleshooting migration-specific issues. There is no mention or exploration of agentic concepts such as autonomous AI agents, contextual intelligence, or human-AI collaboration; the paradigm is traditional DevOps/automation. The audience (DevOps practitioners) can overlap with Agentic Software Delivery, but the lack of alignment and depth with key category features limits confidence to a very low score.",
+    "reasoning_summary": "This is a technical walkthrough for DevOps migration using standard tools; it does not discuss agentic software delivery, autonomous AI agents, or related concepts. No significant category fit.",
     "level": "Ignored"
   }
 }

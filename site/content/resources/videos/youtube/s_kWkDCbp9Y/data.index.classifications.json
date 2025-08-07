@@ -654,15 +654,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "s_kWkDCbp9Y",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:22:25",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile coaching and the importance of understanding team context, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not delve into Continuous Delivery concepts such as automation, rapid feedback, or delivery techniques, which are essential for this category.",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 17.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 5.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content primarily focuses on the role, mindset, and techniques of Agile coaching, particularly the need to understand team context and domain expertise. While it references Agile practices, Scrum, Kanban, and continuous learning, there are no explicit mentions (direct or indirect) of Continuous Delivery, its principles, or its practices such as automation, incremental improvements, release pipelines, or feedback loops specific to software delivery. A single vague mention—'product delivery'—does not translate to a meaningful alignment or discussion of Continuous Delivery as a discipline. The depth stays on Agile coaching and situational adaptation, not on optimizing software release cycles or CD-specific tools, outcomes, or case studies. The intended audience (Agile coaches, possibly teams) has partial overlap with Continuous Delivery practitioners but the material is not centered on delivery practices.",
+    "reasoning_summary": "The content discusses Agile coaching and team context, without directly addressing Continuous Delivery principles, practices, or intent; any overlap is only marginal and coincidental, making this a poor fit for the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1939,6 +1946,25 @@
     "final_score": 26.0,
     "reasoning": "The content focuses on Agile coaching with an emphasis on understanding team context, empathy, domain knowledge, and continuous learning. While these are valuable in engineering environments, the post does not address agentic engineering concepts like systemic observability, DevOps ethos, human/AI agency, or ethical AI collaboration. The main audience—Agile coaches and practitioners—is tangentially related, but the discussion lacks explicit or deep engagement with agentic engineering principles, nor does it discuss decentralised decision-making, feedback-driven adaptation, or AI integration. No penalties were applied, as the content is current and neutral in tone.",
     "reasoning_summary": "The content centers on Agile coaching and the value of understanding team context, offering limited conceptual overlap with Agentic Engineering but lacking explicit discussion of agency, systemic feedback, or AI/human autonomy in engineering. Alignment is marginal and mostly incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "s_kWkDCbp9Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 18.185,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 8.8,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on effective Agile coaching, emphasizing domain/context awareness and empathy for teams, but never mentions autonomous AI agents, agentic principles, or software delivery scenarios involving intelligent agents. There is no discussion of agent integration, contextual intelligence powered by AI, or agent/human synergy as defined in Agentic Software Delivery. While it covers context-aware coaching—a tangential overlap—its depth and alignment to the category are minimal. The audience is close (software delivery practitioners), and some signal is present (discussion of real-world practice integration), but fundamentally, the topic is classic Agile coaching, not agentic delivery.",
+    "reasoning_summary": "This content centers on traditional Agile coaching and understanding team context. It does not address agentic software delivery or the integration of autonomous AI agents. Any fit is minimal and incidental, not substantive.",
     "level": "Ignored"
   }
 }

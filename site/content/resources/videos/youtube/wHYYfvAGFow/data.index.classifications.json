@@ -1129,15 +1129,22 @@
     "level": "Tertiary"
   },
   "Agile Product Management": {
+    "resourceId": "wHYYfvAGFow",
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T01:28:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Taylorism and its influence on traditional project management, with only a brief mention of Agile principles towards the end. While it touches on the need for a new approach in complex environments, it does not delve deeply into Agile Product Management practices or methodologies, making it more of a historical analysis rather than a focused discussion on Agile principles.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 31.36,
+    "ai_mentions": 3.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.1,
+    "ai_intent": 4.0,
+    "ai_audience": 3.7,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content mainly focuses on Taylorism, traditional project management, and the transition to Agile, but only briefly touches on Agile product management and its principles. There is little to no direct discussion about the Product Owner role, backlog prioritisation, metrics, stakeholder engagement, or the intersection of strategy and customer value as defined for 'Agile Product Management.' The material mentions Agile in broad terms as a contrast to Taylorism but does not substantively engage with product management practices or offer actionable, category-specific insights. The target audience is mixed (general, leaning toward Agile practitioners), but the thematic and direct mentions are weak for the category.",
+    "reasoning_summary": "Mostly discusses Taylorism and traditional project management, with only brief, high-level mentions of Agile and little on Agile Product Management practices. Only a weak fit for the category.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1949,6 +1956,25 @@
     "final_score": 22.0,
     "reasoning": "The content is a detailed review of Taylorism and its legacy in project management, outlining command-and-control methods and their adaptation to modern processes such as Agile. While it briefly references the need for evolved, people-centric frameworks (as in Agile), it does not explicitly or deeply address the maximisation of agency for humans or AI, systemic observability, ethical AI, or agentic engineering practices. There is no direct or explicit mention of 'Agentic Engineering,' nor is the conceptual alignment or depth sufficient. The main focus is retrospective historical analysis rather than prospective agentic practice, though the intended audience (agile practitioners and transformation leads) partly overlaps.",
     "reasoning_summary": "This content mainly analyzes Taylorism and traditional project management. While it acknowledges Agile as a people-centric evolution, it lacks direct discussion of maximizing agency, feedback-driven environments, or integrating AI — making its fit with Agentic Engineering minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wHYYfvAGFow",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 10.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.35,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses entirely on Taylorism, command-and-control management, and the evolution of traditional project management. There are zero explicit or implicit references to agentic principles, autonomous AI agents, human-AI integration, or any of the key topics associated with Agentic Software Delivery. The only adjacent topic is a brief positive mention of Agile practices, but this is neither tied to agentic concepts nor framed around AI or proactivity. There is no discussion of software delivery as it relates to AI agency, contextual intelligence, governance of agentic systems, or outcome-focused model evolution toward agentic approaches. All scoring is very low as the content is unrelated except for a slender thematic link via project management and the notion of evolution in delivery models.",
+    "reasoning_summary": "This content is about Taylorism and traditional project management—not Agentic Software Delivery. No AI, agency, or agentic integration is discussed. At best, it’s tangential via its mention of evolving delivery models, so the categorical fit is extremely low.",
     "level": "Ignored"
   }
 }

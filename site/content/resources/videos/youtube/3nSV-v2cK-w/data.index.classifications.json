@@ -1441,15 +1441,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "3nSV-v2cK-w",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:17:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 8.774,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses Agile and Scrum methodologies, focusing on team collaboration, adaptability, and delivering customer value. There is no explicit or implicit reference to One Engineering System or its core principles—no mention of unified tooling, process integration, or standardisation across teams. The alignment with 1ES is very weak: the only minor connection is a tangential focus on process improvement and team empowerment, but these relate generically to Agile, not to 1ES. The intended audience (Agile practitioners) only slightly overlaps with the 1ES audience, but the content’s primary themes are not relevant to the One Engineering System category. No points warrant penalty deductions, as the content is contemporary and neutral in tone.",
+    "reasoning_summary": "This content is about Agile mindsets and practices, with no discussion of One Engineering System’s principles, integration, or standardisation. There is minimal to no topical overlap, so it is not a fit for the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1954,5 +1961,24 @@
     "reasoning": "The content never explicitly mentions Agentic Engineering or its key terms, earning a minimal mentions score. Alignment and depth receive moderate values as themes like empowered teams, experimentation, and autonomy overlap partially with Agentic Engineering’s principles of agency and feedback loops. However, agency is not explored at a systemic or philosophical engineering level (e.g., links to AI or systemic observability are absent). The main intent focuses on Agile as a mindset for team empowerment and value delivery, somewhat relevant to Agentic Engineering, but not its central purpose. The audience matches technical practitioners and leaders. Signal is decent, with most of the content focused, but relevance to Agentic Engineering is mostly tangential. No penalties were applied as the content is up-to-date, neutral in tone, and not critical.",
     "reasoning_summary": "This content moderately overlaps with Agentic Engineering via its focus on team empowerment and adaptation in Agile, but lacks direct mention or deep exploration of agentic principles, AI, or systemic engineering practices. Its relevance is tangential rather than central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3nSV-v2cK-w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 12.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on classic Agile values: team collaboration, embracing change, retrospectives, and continuous improvement. There is no mention—direct or indirect—of agentic software delivery concepts such as autonomous AI agents, agent/human synergy, context-aware intelligence, or AI-augmented software delivery. The narrative is written for Agile practitioners but does not touch on modern agentic delivery models, governance, human-in-the-loop design, contextual AI, or advanced feedback loops. All technical depth centers on traditional Agile and Scrum, not agentic principles. The subject, audience, and purpose are mismatched for the specified category.",
+    "reasoning_summary": "Content is focused on classic Agile principles and team practices, with no mention or evidence of agentic software delivery, AI agents, or related concepts. Subject matter and themes do not match the category. Fit is not present.",
+    "level": "Ignored"
   }
 }

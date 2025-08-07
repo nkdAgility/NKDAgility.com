@@ -1026,13 +1026,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "bHwgZ_Cx99U",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses scaling teams and improving delivery processes, which are relevant to product delivery, but it primarily focuses on team dynamics and coordination rather than the end-to-end product delivery methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 82.35,
+    "ai_mentions": 6.3,
+    "ai_alignment": 8.3,
+    "ai_depth": 8.0,
+    "ai_intent": 8.1,
+    "ai_audience": 8.8,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 82.0,
+    "reasoning": "The content directly discusses realities and pitfalls of scaling teams to improve product delivery, aligning with the category's core topics like release cycles, coordination, quality, and dependencies. It explores practical practices for effective delivery, targeting technical/organizational leaders. Product delivery is referenced substantively, though not always with explicit language. Depth is strong but could engage more specific methodologies (e.g. CI/CD, metrics), and while the text is focused, some elements are more general advice or promotional. No outdated or contrary attitudes detected.",
+    "reasoning_summary": "Content fits the category by focusing on scaling's impact on product delivery efficiency, dependencies, and outcomes. It supports delivery-focused audiences with relevant, practical discussion of how team structures affect software release success.",
+    "level": "Primary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1880,5 +1890,24 @@
     "reasoning": "The content addresses effective team scaling, minimising dependencies, and enabling team independence—concepts related to agency in engineering. However, it does not directly mention 'Agentic Engineering' or related philosophical aspects. The discussion is practical and team-centric, lacking significant focus on maximising human or AI agency, DevOps-Infused Craft, or ethical AI integration. The intended audience overlaps but is not strictly agentic-focused. No outdated or contradictory elements detected.",
     "reasoning_summary": "This content covers scaling teams, reducing friction, and enabling greater independence, which indirectly aligns with agentic themes. However, it doesn’t explicitly reference Agentic Engineering principles, AI augmentation, or deep agency concepts, making the fit moderate at best.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bHwgZ_Cx99U",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 18.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.85,
+    "ai_intent": 2.1,
+    "ai_audience": 5.0,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on effective ways to scale software delivery teams by minimizing dependencies and coordination overhead. While it discusses quality, team structure, and outcomes, there is no mention—direct or indirect—of autonomous AI, agents, or agentic delivery principles. The themes revolve around agile scaling and organisational design, not the deliberate integration of autonomous agents with human expertise or context-aware intelligence. Thus, there is very low alignment, depth, or direct reference to Agentic Software Delivery. No outdated or contradictory practices were found, so no penalties are applied. Audience and signal scores are higher as the content is aimed at technical delivery leaders, a related audience.",
+    "reasoning_summary": "Content discusses scaling agile teams, not agentic software delivery. No mentions or exploration of AI agents or agency concepts. Fit to the category is very weak and only related in a tangential sense.",
+    "level": "Ignored"
   }
 }

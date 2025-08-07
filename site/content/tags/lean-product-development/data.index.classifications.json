@@ -62,16 +62,23 @@
     "reasoning_summary": "This content clearly belongs in the 'Method' category, as it thoroughly explores Lean Product Development principles and practices. By highlighting structured approaches like continuous improvement and cross-functional teamwork, it demonstrates a strong alignment with methodical frameworks, making it a great fit for this classification."
   },
   "Strategy": {
+    "resourceId": "Lean Product Development",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses Lean Product Development, which aligns with strategic goals of minimising waste and maximising learning. It highlights the importance of aligning product development with organisational objectives and emphasises systemic thinking, which is a core theme of strategy. However, while it touches on strategic alignment, the focus is more on the methodology and practices rather than a high-level strategic framework, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:13",
+    "ai_confidence": 84.1,
+    "ai_mentions": 4.5,
+    "ai_alignment": 9.0,
+    "ai_depth": 8.3,
+    "ai_intent": 8.8,
+    "ai_audience": 8.0,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content discusses Lean Product Development at a high level, emphasizing themes like aligning product development with organizational goals, continuous improvement, adaptability, Kanban as a strategic tool, and the importance of a sustainable approach—core to strategy. However, it lacks frequent explicit reference to 'strategy' or strategic planning itself, resulting in a moderate score for direct mentions. Alignment, depth, and intent receive high scores due to the clear connection to organizational goals and adaptability, both strategic concepts. The audience is broadly product and organizational leaders, matching the intended strategic audience. Content is focused on strategic themes, yielding a high signal-to-noise ratio. No penalties were needed.",
+    "reasoning_summary": "This content fits 'Strategy' well as it discusses Lean Product Development in alignment with organizational goals, adaptability, and systemic thinking—core strategic themes—though with limited explicit 'strategy' mentions. Fit is strong but not absolute.",
+    "level": "Primary"
   },
   "Practice": {
     "category": "Practice",
@@ -3148,6 +3155,25 @@
     "final_score": 19.0,
     "reasoning": "The content focuses on Lean Product Development principles such as minimising waste, maximising learning, and fostering collaboration in cross-functional teams. However, there are no explicit or implicit mentions of human-AI collaboration, AI agents, or the dynamics of human-AI partnerships as required for the Collective Intelligence category. Collaboration references pertain solely to human teams, and no aspects of distributed cognition between humans and AI, or socio-technical integration involving AI, are present. The discussion is relevant to team and organizational improvement but does not address the core concepts of collective intelligence as defined.",
     "reasoning_summary": "This content centers on Lean principles and human team collaboration without discussing human-AI partnership or collective intelligence. It is not a fit for the Collective Intelligence category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Lean Product Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 16.41,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.05,
+    "ai_depth": 2.14,
+    "ai_intent": 1.6,
+    "ai_audience": 5.12,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses strictly on Lean Product Development: eliminating waste, continuous improvement, Kanban, and iterative learning in product creation. It does not explicitly mention AI agents, agentic principles, autonomous systems, or their integration with human expertise. There is no reference to agentic delivery practices such as intelligent agents, context-aware automation, modern engineering for agentic systems, governance for agents, or human-in-the-loop design. The audience (cross-functional product teams) partly overlaps, but the conceptual and topical fit with Agentic Software Delivery is minimal—only aligning at a very high level with broad themes of continuous improvement and adaptability. No penalties were required.",
+    "reasoning_summary": "This content focuses on Lean Product Development and does not discuss agentic software delivery, autonomous AI agents, or related practices. The topical overlap is minimal, so the fit with the category is weak.",
     "level": "Ignored"
   }
 }

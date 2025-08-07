@@ -1523,15 +1523,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "Gym5-p-mNtw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:50:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile metrics and waste reduction in software development, which does not directly address the principles or components of the One Engineering System. While it touches on themes of efficiency and performance, it lacks explicit discussions on the integration of tools and processes across teams, best practices for implementing 1ES, or the impact of 1ES on software quality. The content is more aligned with general agile practices rather than the specific framework of 1ES.",
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 37.15,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.8,
+    "ai_intent": 5.0,
+    "ai_audience": 8.4,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on agile metrics, waste reduction, and ROI improvement but never directly mentions One Engineering System (1ES) or deeply explores 1ES-specific integration, unified processes, or frameworks. While there is some conceptual overlap—such as continuous feedback, metrics-driven improvement, and engineering process standardisation—the primary focus is on agile measurement and value, not on 1ES as a framework. The depth and alignment with 1ES are thus partial and indirect; the content is intended for technical or engineering audiences, which aligns with 1ES, but the discussion is mostly generic, with no explicit reference to unifying tools, processes, or concrete 1ES implementation details.",
+    "reasoning_summary": "Content discusses agile metrics and efficiency, not One Engineering System. It aligns thematically (metrics, process excellence), but lacks direct 1ES mentions or specific exploration, making fit partial and confidence low.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2035,5 +2042,24 @@
     "reasoning": "The content centers on boosting ROI using Agile metrics such as innovation rate and usage index—relevant to engineering excellence, observability, and feedback loops. However, it never explicitly mentions Agentic Engineering or its core focus on maximising human/AI agency, decision decentralisation, or ethical autonomy. The discussion is primarily about value delivery and waste reduction in agile/devops contexts, with secondary reference to developer agency and observability through telemetry. The intent is advisory for practitioners, but the thematic fit with Agentic Engineering is partial, not primary.",
     "reasoning_summary": "This piece is moderately relevant to Agentic Engineering as it emphasizes telemetry, feedback loops, and value-driven agility, but lacks direct focus on maximizing human/AI agency or the philosophical underpinnings of agentic practices. Its alignment is more with general Agile engineering excellence.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Gym5-p-mNtw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 37.632,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 5.9,
+    "ai_audience": 7.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on improving engineering ROI through agile metrics (innovation rate, product index, usage index, version adoption), continuous feedback, and agility. However, it does not mention or discuss autonomous AI agents, their integration with human expertise, or any agentic paradigms. It emphasizes data, metrics, and continuous improvement practices common in agile and DevOps, not the embedding of context-aware AI agents or their orchestration with human teams—a core distinction for Agentic Software Delivery. The audience is technical leaders and practitioners, which aligns, and the signal-to-noise is high, but the core conceptual and direct mention alignment is lacking; thus, confidence remains low.",
+    "reasoning_summary": "Content covers agile metrics and continuous improvement but does not discuss AI agents or agentic principles. The fit is partial at best—topics overlap in engineering practice, but not in agency or autonomy.",
+    "level": "Ignored"
   }
 }

@@ -60,16 +60,23 @@
     "level": "Tertiary"
   },
   "Strategy": {
+    "resourceId": "Working Agreements",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the establishment of working agreements, which are crucial for team alignment and collaboration, aligning with strategic objectives. While it does not explicitly mention 'strategy', it addresses themes of alignment, accountability, and adaptability, which are core to strategic discussions. The depth of the discussion on how these agreements foster a culture of trust and support long-term systemic change adds to its relevance, though it primarily focuses on operational aspects rather than high-level strategic planning.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 36.775,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.1,
+    "ai_intent": 3.8,
+    "ai_audience": 5.7,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content centers on working agreements as tools for team collaboration and effectiveness, mostly at the operational/team level. While it touches on themes of alignment and long-term culture, it lacks explicit discussion of organisational strategy, strategic planning, or decision-making at a leadership level. No direct mention of 'strategy' or discussion of integrating team practices with overarching objectives. The content's intent is practical and focused on norms rather than high-level strategic frameworks or planning, so its fit under the 'Strategy' category is limited.",
+    "reasoning_summary": "The content addresses team norms to improve collaboration but is operationally focused and only loosely connects to strategic alignment. It lacks direct discussion of strategic planning or high-level organisational strategy.",
+    "level": "Ignored"
   },
   "Practice": {
     "category": "Practice",
@@ -3128,6 +3135,25 @@
     "final_score": 12.0,
     "reasoning": "The content exclusively discusses human team working agreements, focusing on norms, collaboration, and accountability among people. There is no explicit or implicit reference to AI agents, human-AI collaboration, or any of the key elements that define collective intelligence as per the provided definition. The sole focus is on human-to-human team dynamics in product development. The scores reflect minimal conceptual overlap and near-zero relevance to collective intelligence involving human-AI collaboration.",
     "reasoning_summary": "This content centers entirely on human team norms and collaboration principles with no mention or implication of human-AI partnership or collective intelligence, resulting in extremely low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Working Agreements",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 18.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 4.5,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses team norms and collaboration practices central to agile teams generally but does not mention or address autonomous AI agents, contextual intelligence, or agentic principles. It is aligned to software delivery culture broadly, but not specifically to Agentic Software Delivery. No mention of AI, agency, or technical aspects unique to the category are present, and the focus is on human agreements and collaboration. Thus, only minimal alignment exists, and confidence is low.",
+    "reasoning_summary": "This content focuses on team norms and collaboration, not on agentic or AI-driven delivery. It lacks discussion of autonomous agents, contextual intelligence, or systematic integration of AI. Fit to Agentic Software Delivery is very weak and mostly incidental.",
     "level": "Ignored"
   }
 }

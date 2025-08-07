@@ -1487,15 +1487,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "vftc6m70a0w",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:14:07",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of agility and the importance of thoughtful implementation, but it does not directly mention or focus on the One Engineering System (1ES). The themes of organisational transformation and stakeholder engagement are relevant to agile practices but do not align with the specific principles and components of 1ES. There is minimal depth regarding integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "calculated_at": "2025-08-07T06:11:01",
+    "ai_confidence": 18.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.9,
+    "ai_intent": 2.3,
+    "ai_audience": 9.3,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on patience in agile adoption, inclusive decision-making, and stakeholder engagement but does not reference One Engineering System (1ES) or its core concerns: engineering integration, unified tools/processes, or 1ES best practices. No explicit or implicit mentions of 1ES are present. The main ideas align with agile transformation at a conceptual level but lack any substantive discussion about standardising or integrating engineering systems, which is central to the 1ES category. Audience slightly overlaps with 1ES practitioners but intent and depth do not match the category's requirements.",
+    "reasoning_summary": "This content addresses agile transformation, not One Engineering System. No mention of 1ES principles, integration, or standardisation. Fit is minimal and only tangential; it does not align with the core definition of the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1998,5 +2005,24 @@
     "reasoning": "The content discusses thoughtful, inclusive change in agile adoption, emphasizing organizational culture, shared decision-making, and stakeholder engagement. While these themes overlap with developer agency and some systemic aspects of 'Agentic Engineering,' there is no direct mention or significant focus on maximizing human/AI agency, DevOps, or ethical AI integration. The content is more about cultural transformation in agility rather than deliberate engineering practices that maximize agency. Some minor alignment exists via references to inclusion and democratized decision-making, but it barely touches on the core topics of agentic engineering, and depth is limited.",
     "reasoning_summary": "The content offers a cultural approach to agile transformation with emphasis on inclusivity and patience, which tangentially relates to agency but does not address the core principles or engineering practices of Agentic Engineering. Fit with the category is modest and indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "vftc6m70a0w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 13.87,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 2.4,
+    "ai_audience": 3.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on the theme of patience in agile transformation, emphasising thoughtful cultural change, inclusive decision-making, and stakeholder engagement. However, it does not mention or address agentic software delivery, autonomous AI agents, context-aware intelligence, or the integration of agency in AI-enabled delivery. There are no references to modern engineering practices, AI-human synergy, or agentic governance frameworks. The topic and intent are strictly agile transformation and change management, with no overlap in technical or conceptual aspects specific to the 'Agentic Software Delivery' category.",
+    "reasoning_summary": "Content is about patient, inclusive agile transformation—not agentic software delivery. There is no discussion of AI agents, autonomous systems, or related technical integration. Category fit is minimal.",
+    "level": "Ignored"
   }
 }

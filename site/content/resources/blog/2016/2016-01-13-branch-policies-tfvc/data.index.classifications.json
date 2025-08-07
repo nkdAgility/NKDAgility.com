@@ -1166,15 +1166,22 @@
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
+    "resourceId": "_26VFOA-vCe",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:20:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses branch policies for TFVC and does not address the Agile Product Operating Model or its principles. While it touches on aspects of development processes, it lacks a focus on product management, agile methodologies, or the transition from project to product ethos, which are central to the APOM framework.",
+    "calculated_at": "2025-08-07T06:11:40",
+    "ai_confidence": 19.879,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.9,
+    "ai_intent": 2.6,
+    "ai_audience": 6.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on technical implementation of branch policies in TFVC, which is related to source control governance. There are cursory links to product delivery processes (e.g., code review, work items, release readiness), but it does not reference or deeply align with Agile Product Operating Model principles. The discussion is technical, targeting practitioners implementing tooling, not organisational product operating structures. No explicit mention or thorough exploration of APOM; intent is narrowly about branch policy execution within TFVC, not about framework-level transformation or product-model adoption.",
+    "reasoning_summary": "Content is highly technical, describing TFVC branch policy setup. It lacks explicit or substantial connection to Agile Product Operating Model principles, audience, or intent, so the fit is only superficial and incidental.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -1964,6 +1971,25 @@
     "final_score": 34.0,
     "reasoning": "The content centers on configuring and managing branch policies in TFVC, focusing on practical implementation details (regular expressions, check-in policies, code reviews, work item linkage). There is minimal direct or explicit reference to Agentic Engineering concepts: autonomy is somewhat implied through policy-driven guardrails and user customization, but philosophical aspects of engineering for human/AI agency, feedback loops, and ethical autonomy are not discussed. The main intent is instructive, targeting developer practitioners, aligning with the technical audience. However, there is limited depth regarding the deliberate maximization of agency or systemic adaptation, and little discussion of decision frameworks, transparency, or continuous value delivery as agentic principles. The content is focused and relatively noise-free, but ultimately fits only tangentially with the Agentic Engineering definition.",
     "reasoning_summary": "While the content describes policy automation that could support developer agency, it lacks explicit focus on Agentic Engineering themes like maximizing human/AI autonomy, adaptive systems, or ethical integration. Its primary purpose is TFVC branch policy guidance, limiting category relevance.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 13.77,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 1.9,
+    "ai_audience": 5.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses solely on TFVC branch policy configuration, management, and enabling basic rules such as code reviews and branch locks. There is no mention of agentic delivery, AI agents, autonomy, or contextual intelligence. The topic is a procedural technical guide about applying conventional policy enforcement techniques in legacy TFS/TFVC environments. No reference to embedded, agent-driven automation or synergy between AI and human expertise. Audience is technical, but the subject matter does not align with agentic principles beyond basic automation.",
+    "reasoning_summary": "This content centers on TFVC branch policy management, lacking agentic software delivery concepts, AI agents, or contextual intelligence. It deals with traditional automation and does not fit the category.",
     "level": "Ignored"
   }
 }

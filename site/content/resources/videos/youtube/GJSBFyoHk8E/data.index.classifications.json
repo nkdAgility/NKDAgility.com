@@ -1452,15 +1452,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "GJSBFyoHk8E",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:39:16",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically the creation of sprint goals, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 9.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses the process of creating sprint goals within the Scrum framework, focusing on team collaboration, backlog priorities, and value delivery. Nowhere does it mention or discuss One Engineering System (1ES) or its core themes (integration of tools/process, standardized engineering, or 1ES best practices). The main ideas, audience, and purpose are centered on Agile/Scrum practitioners, not the audience or intent of the 1ES category. No penalties are warranted since the content is modern and not explicitly critical.",
+    "reasoning_summary": "This content only discusses Scrum sprint goals and does not reference or engage with One Engineering System concepts. No category fit; alignment and relevance are virtually absent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1965,6 +1972,25 @@
     "final_score": 25.0,
     "reasoning": "The content focuses on how Scrum teams create effective sprint goals by considering product strategy, tactics, and backlog priorities. While it discusses decision-making and team discussions about priorities, there are no direct references to Agentic Engineering or its central concepts, such as maximizing human/AI agency, systemic observability, or ethical AI. The connection to agency is indirect—the content mainly illustrates collaborative backlog refinement and value delivery but does not discuss the design of engineering practices that empower autonomy, leverage feedback systems, or integrate DevOps/AI practices. Audience fit is moderate as the content is aimed at agile practitioners, but overall concept alignment and depth relevant to Agentic Engineering are weak. No outdated or contradictory elements present, so no penalties are applied.",
     "reasoning_summary": "This content covers collaborative sprint goal creation in Scrum, focusing on aligning team action with product needs. While the themes of shared decision-making and value delivery are adjacent, the discussion does not meaningfully engage with Agentic Engineering principles or its specific philosophical and engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "GJSBFyoHk8E",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 10.53,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 4.3,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content exclusively discusses Sprint Goal creation within Scrum, focusing on team collaboration, product strategy, tactical prioritization, and stakeholder value. There is no mention of AI agents, autonomy, contextual intelligence, agentic principles, or technological frameworks tied to agentic software delivery. The main audience is practitioners in Agile and Scrum, not those concerned with agentic system integration or AI-driven processes. All discussion is firmly rooted in traditional Agile/Scrum processes without any references or hints at autonomous systems, human-AI collaboration, or agentic delivery model themes. The SNR is marginally higher only because it's focused and on-topic for Scrum, but with zero category relevance. No penalties are applied as the content isn't outdated or satirical.",
+    "reasoning_summary": "This content is strictly about Scrum sprint goal creation, with no mention or alignment to agentic software delivery, autonomous agents, or AI-driven delivery models. Fit for the category is negligible to none.",
     "level": "Ignored"
   }
 }

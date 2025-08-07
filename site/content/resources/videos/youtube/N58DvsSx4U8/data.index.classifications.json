@@ -527,15 +527,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "N58DvsSx4U8",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:04:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses a DevOps consulting experience, focusing on transformation and simplification of processes rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion is more about agile practices and team collaboration without a specific focus on testing strategies.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 5.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.5,
+    "ai_audience": 0.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "This content focuses extensively on DevOps transformation, large-scale process unification, and tool adoption (Azure DevOps). There are no direct or indirect references to Test First Development principles, success criteria-first mindsets, or related automated/manual test-first practices. The intent remains on engineering system unification and simplifying DevOps practices, not on testing approaches or the Test First ethos. The target audience and signals are adjacent but not aligned with Test First interests. Its themes utilize language reminiscent of Agile best practices but do not discuss Test First in general or detail.",
+    "reasoning_summary": "This story centers only on DevOps, process, and platform transformation, with no mention of Test First Development, success criteria-first, or testing approaches. It does not fit the assigned category in topic, intent, or detailed content.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1985,6 +1992,25 @@
     "final_score": 32.0,
     "reasoning": "The content tells a success story about DevOps transformation using Azure DevOps and 'One Engineering System.' While it highlights unifying teams and simplifying workflows, it focuses mainly on tools, process consolidation, and high-level consulting rather than intentionally maximizing agency for humans or AI. There is some thematic overlap—such as decentralizing complexity, collaborating across teams, and continuous improvement. However, explicit discussions on developer agency, ethical AI, or feedback-driven adaptation (central to Agentic Engineering) are absent. Tools are praised, but without concrete exploration of agency, autonomy, or the philosophical/ethical dimensions described in the classification. The content targets technical practitioners, but priorities are process efficiency, not the deliberate design for agentic empowerment or decision frameworks. No outdated practices or penalties are observed.",
     "reasoning_summary": "Although the story describes a DevOps transformation that unified teams and streamlined processes, it mainly centers on tooling and operational simplification. It lacks explicit discussion of maximizing human or AI agency essential to Agentic Engineering, resulting in only partial conceptual alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "N58DvsSx4U8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 13.156,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.7,
+    "ai_audience": 2.5,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content recounts a DevOps consulting story focused on unifying teams and streamlining processes via Azure DevOps. While it discusses improvement of software delivery and organizational change, it does not directly reference agentic principles, autonomous AI agents, or human-agent synergy. No conceptual or technical aspects related to agentic software delivery (contextual intelligence, proactive AI support, or governance of AI agents) are present. Instead, the narrative centers strictly on conventional DevOps transformation and process unification. There are superficial overlaps in target audience and outcome focus, but no substantive fit with the agentic category definition.",
+    "reasoning_summary": "Content describes a DevOps process unification story with no references to agentic software delivery, AI agents, or contextual intelligence. Only partial thematic overlap (modern delivery, outcomes), but lacks category-defining features. Fit is weak to non-existent.",
     "level": "Ignored"
   }
 }

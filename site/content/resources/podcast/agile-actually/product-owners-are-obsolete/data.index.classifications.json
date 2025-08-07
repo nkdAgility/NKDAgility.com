@@ -333,15 +333,22 @@
     "reasoning_summary": "This content centres on the distinction between product owners and product managers, referencing Agile and Scrum. While it mentions software development frameworks, its main focus is on role responsibilities rather than detailed software engineering methods. As such, it only partially fits the category, since it doesn’t deeply explore software development practices or methodologies."
   },
   "Coaching": {
+    "resourceId": "dKyRYit_4xO",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:34:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the roles of product owners and product managers, with only brief mentions of agile coaching. While it touches on relevant themes, such as the importance of roles in Agile environments, it lacks a focused discussion on coaching techniques, team dynamics, or the supportive nature of coaching. The depth of discussion on coaching is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 34.75,
+    "ai_mentions": 2.9,
+    "ai_alignment": 3.1,
+    "ai_depth": 3.9,
+    "ai_intent": 3.2,
+    "ai_audience": 4.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content centers on the roles of product owners and product managers in Agile/Scrum environments, with only tangential mentions of coaching reflected in host bios and hashtags (e.g., #agilecoach, #agilecoaching). There is no discussion of coaching practices, methods, or theory and no indication that the main discussion involves facilitating growth, giving feedback, or supporting teams beyond a surface mention of the hosts' backgrounds. Therefore, while the audience could overlap with those interested in coaching, the content's themes, intent, and depth are not aligned with the Coaching category per the strict definition.",
+    "reasoning_summary": "Discussion focuses on role differences between product owners and product managers, not on coaching itself; coaching is only cited in professional bios. Content intent and substance do not fit the Coaching category, and alignment is low.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -1928,6 +1935,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on comparing the roles of product owners and product managers in Agile/Scrum, without direct or conceptual engagement with Agentic Engineering principles. While there is a tangential link via mention of DevOps and engineering practices in the host bios, the discussion does not address agency (human or AI), feedback-driven adaptation, ethical AI, or decentralised decision-making. The main audience overlaps somewhat, but the subject matter does not explore or promote the deliberate maximising of agency in software development, resulting in low alignment, depth, and signal-to-noise scores.",
     "reasoning_summary": "This content is a discussion about product owner versus product manager roles in Agile, not about Agentic Engineering principles. While the audience overlaps with the category, the content itself does not address agency, ethical AI, or systemic engineering practices, leading to a low confidence score for this classification.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dKyRYit_4xO",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:27",
+    "ai_confidence": 2.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.1,
+    "ai_audience": 3.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content centers on comparing product owner and product manager roles within Agile/Scrum teams, focusing on human responsibilities and traditional delivery models. There is no mention of autonomous AI agents, agentic concepts, contextual intelligence, or any of the key characteristics outlined for Agentic Software Delivery. Intent and depth are very weak fits; the topic does not reference or support agentic strategies, modern engineering for agent-driven delivery, or governance of agents. The only minor alignment is a distant thematic link: both involve product development, but without the necessary AI-driven or agentic context. The audience may, theoretically, overlap with those interested in Agentic Software Delivery, but the content itself is not directed toward this category.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It lacks any discussion of AI agents, context-aware intelligence, or agentic paradigms. It is focused solely on human Agile roles (product owner vs. manager) and traditional team delivery.",
     "level": "Ignored"
   }
 }

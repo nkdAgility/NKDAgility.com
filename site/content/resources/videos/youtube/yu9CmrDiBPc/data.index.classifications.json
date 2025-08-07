@@ -1289,15 +1289,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "yu9CmrDiBPc",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:30:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, focusing on collaboration, continuous learning, and the pitfalls of relying solely on tools. It does not mention Test First Development, success criteria, or any specific testing methodologies, which are central to the category. The discussion is more about cultural aspects rather than the principles of Test First Development.",
+    "calculated_at": "2025-08-07T06:10:13",
+    "ai_confidence": 7.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 1.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on engineering culture, collaboration, DevOps, and continuous learning, with no direct or indirect mention of Test First Development, its principles, or related practices (e.g., TDD, ATDD, success criteria definition). While relevant to modern engineering practices generally, it does not address the specific concerns of Test First Development. This results in a near-zero score across all dimensions, reflecting only trace relevance given shared themes of collaboration and quality culture. The confidence score, therefore, is minimal; no penalties apply as the tone and subject remain current and not contradictory.",
+    "reasoning_summary": "The content is unrelated to Test First Development. It discusses engineering culture, DevOps, and collaboration, but makes no reference to test-first concepts, principles, or practices. Fit to the category is negligible.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1887,5 +1894,24 @@
     "reasoning": "The content does not explicitly mention 'Agentic Engineering' or frame itself in terms of maximizing both human and AI agency. It focuses on engineering culture's need to evolve alongside scaling technology, highlighting themes like collaboration, DevOps, and continuous learning, which conceptually overlap with Agentic Engineering (especially regarding developer agency, DevOps ethos, and feedback-driven adaptation). However, the depth remains moderate—it advises on cultural practices, offers philosophical viewpoints, and critiques tool-centricity, but stops short of deeply exploring deliberate agentic engineering paradigms or frameworks, systemic observability, or the integration of AI autonomy. The intent and signal are strong, focusing on relevant organizational and engineering culture audiences, but the lack of technical detail and absence of explicit agentic terminology reduce direct relevance. No penalties are applied as the content is current and respectful.",
     "reasoning_summary": "The article aligns well with Agentic Engineering on themes like cultural autonomy and DevOps, emphasizing scalable, collaborative practices. It lacks direct references or deep dives into agentic frameworks or AI agency but offers relevant insights on fostering enabling engineering environments.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yu9CmrDiBPc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 16.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.3,
+    "ai_intent": 1.8,
+    "ai_audience": 5.5,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on the importance of scaling engineering culture alongside technology and highlights practices such as collaboration, DevOps, and continuous learning. However, it does not explicitly reference agentic software delivery, AI agents, or the integration of autonomous systems with human expertise. There is no discussion of agentic principles, AI-powered delivery, contextual intelligence, or corresponding engineering practices (such as agency, agent governance, or feedback loops driven by AI agents). The audience—technical and cultural leaders—is loosely aligned, but the core themes diverge from Agentic Software Delivery and lean toward general Agile/DevOps culture. Thus, confidence for this category is low.",
+    "reasoning_summary": "The content centers on scaling engineering culture, not the integration of autonomous AI agents or agentic principles. There are no direct or conceptual links to Agentic Software Delivery, so alignment is minimal and confidence is low.",
+    "level": "Ignored"
   }
 }

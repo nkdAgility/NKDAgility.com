@@ -21,21 +21,21 @@
   "Philosophy": {
     "resourceId": "bpRR4ieKvr3",
     "category": "Philosophy",
-    "calculated_at": "2025-06-03T14:33:23",
-    "ai_confidence": 74.75,
-    "ai_mentions": 3.5,
-    "ai_alignment": 7.8,
-    "ai_depth": 7.2,
-    "ai_intent": 7.5,
-    "ai_audience": 8.0,
-    "ai_signal": 8.5,
+    "calculated_at": "2025-08-07T06:10:03",
+    "ai_confidence": 86.049,
+    "ai_mentions": 6.5,
+    "ai_alignment": 9.2,
+    "ai_depth": 8.6,
+    "ai_intent": 8.4,
+    "ai_audience": 8.1,
+    "ai_signal": 8.7,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses foundational beliefs and cultural aspects such as transparency, inspection, adaptation, and outcome-orientation, aligning well with the philosophical underpinnings of Agile, DevOps, and Evidence-Based Management. It emphasizes the importance of strategy clarity, team agency, and cultural conditions necessary for OKRs to succeed, clearly reflecting philosophical considerations rather than procedural details. However, the content also extensively covers specific practices and implementation details (e.g., OKR structure, execution cadence, and iterative refinement), which slightly dilutes the purely philosophical focus. Direct mentions of philosophy or explicitly philosophical frameworks are limited, but the conceptual alignment and depth of discussion around cultural and strategic foundations are strong. The intent is clearly supportive and informative, targeting an audience interested in strategic and cultural alignment rather than technical implementation alone. The signal-to-noise ratio is high, with minimal off-topic content. No penalties were applied as the content is current, relevant, and does not contradict the philosophical framing.",
-    "reasoning_summary": "The content strongly aligns with philosophical themes by exploring cultural foundations, strategic clarity, and outcome-driven mindsets behind OKRs, Agile, and DevOps, though it also includes detailed implementation practices.",
-    "level": "Secondary"
+    "final_score": 86.0,
+    "reasoning": "The content deeply explores the philosophical foundations behind OKRs, focusing on strategy, outcomes over outputs, transparency, team agency, culture, and continuous learning. It discusses the 'why' of OKRs, not the procedural 'how,' aligning with Philosophy as defined here. The discussion addresses foundational beliefs like outcome-orientation, empowerment, and agility as cultural philosophies, referencing Agile, Scrum, DevOps, and Evidence-Based Management as contexts informed by philosophy. While some structural/practical aspects of OKRs are briefly addressed, these are always framed around driving philosophical shifts and culture rather than techniques or step-by-step instructions. The content directly targets strategists, leaders, and change agents concerned with mindset and organizational culture.",
+    "reasoning_summary": "The content strongly fits the Philosophy category, focusing on beliefs and reasoning underpinning OKRs, strategy, and agility. It rarely discusses practical techniques, instead emphasizing intent, outcomes, and cultural foundations over processes.",
+    "level": "Primary"
   },
   "Capability": {
     "resourceId": "bpRR4ieKvr3",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content deeply aligns with Agentic Engineering themes, emphasizing team agency, feedback-driven improvement, adaptation, and transparency in engineering practice. It explicitly discusses 'agency,' autonomy, and iterative execution, resonating closely with agentic principles. While the term 'Agentic Engineering' is not directly used, substantial conceptual overlap exists—especially around empowerment, outcomes, and adaptive learning in a technical context. There is minimal mention of AI's role as a collaborator, so direct connection with the human-AI agency dynamic is light. However, engineering practice focused on agency as a core value fits strongly overall.",
     "reasoning_summary": "This content robustly fits Agentic Engineering, concentrating on team agency, feedback loops, autonomy, and adaptive practice in engineering. Although it lacks direct mention of 'Agentic Engineering' or AI collaboration, its emphasis on agency and continuous improvement strongly aligns with the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bpRR4ieKvr3",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:02",
+    "ai_confidence": 24.79,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.2,
+    "ai_intent": 2.4,
+    "ai_audience": 4.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses exclusively on implementing OKRs within agile cultures, emphasizing strategy, team agency, outcome-focus, and iterative improvement. There is discussion of autonomy and empowerment of teams, feedback loops, and links to outcomes over outputs, which are conceptually adjacent to some agentic principles (such as autonomy and continuous improvement). However, there is no meaningful discussion, mention, or exploration of autonomous AI agents, agentic integration, context-aware intelligence, or technical/engineering foundations of agentic delivery as defined by the category. Keywords like 'agency' refer to human agency within teams, not to agentic software or AI. The audience (practitioners/leaders in Agile/Scrum/DevOps) partially overlaps but the core subject, intent, and thematic weight are not matched. There is limited conceptual overlap by way of autonomy, accountability, and continuous learning, but no substantial technical or agentic software delivery content.",
+    "reasoning_summary": "This content is focused on OKRs and human team autonomy in agile settings, not on the integration of autonomous AI agents or agentic software. Only slight conceptual overlap exists; the fit with the category is very weak and indirect.",
+    "level": "Ignored"
   }
 }

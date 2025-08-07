@@ -121,16 +121,23 @@
     "reasoning_summary": "This content fits the Capability category as it explores how SRE practices, such as using SLOs and SLIs, help teams deliver value reliably and sustainably. While it leans towards practical SRE methods, its emphasis on metrics, accountability, and ongoing improvement clearly ties into building organisational capabilities."
   },
   "Model": {
+    "resourceId": "K0i7PIZARDw",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Site Reliability Engineering (SRE) and its principles, which relate to operational reliability and performance. However, it does not explicitly mention or focus on conceptual models or frameworks that inform decision-making or enhance organisational agility in Agile, DevOps, or Lean contexts. The discussion is more about practices and principles rather than the application of specific models, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 66.05,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.4,
+    "ai_intent": 7.1,
+    "ai_audience": 8.4,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content explains Site Reliability Engineering (SRE) as an ethos, aligns it with DevOps, and discusses specific practices like SLOs, SLIs, on-call procedures, circuit breakers, and resilience. While it explores SRE principles and their application, it does not dig into SRE as a conceptual model or framework in the comparative, analytical, or visual sense described in the category definition. Mentions of evidence-based management hint at model use, but the primary focus is continuous delivery and reliability engineering, not models as foundational conceptual tools for organisational decision-making. There is some overlap with the category (e.g., conceptualising SRE), thus the middle-high scores for alignment and depth, but overall the fit is partial instead of primary. The target audience, signal, and intent are solid for practitioners. No penalties apply, as content is current and well-aligned in tone.",
+    "reasoning_summary": "Partially fits 'Model' by discussing SRE practices and concepts, touching on models like SLO/SLI and evidence-based management. However, it does not focus on SRE as a conceptual or analytical model central to the category definition.",
+    "level": "Secondary"
   },
   "Principle": {
     "category": "Principle",
@@ -3113,6 +3120,25 @@
     "final_score": 13.0,
     "reasoning": "The content focuses on Site Reliability Engineering (SRE) principles and practices, emphasizing operational accountability, resilience, and continuous improvement within engineering teams. Although it highlights team collaboration, empowerment, and DevOps culture, it does not address any form of explicit human-AI collaboration, partnership, or distributed cognition involving AI agents as team members. The SRE/DevOps narrative is exclusively human-centered, stressing process and cultural aspects rather than collective intelligence as defined by synergistic human-AI teaming. No direct or indirect discussion of the emergence of capabilities through human-AI partnerships, decision frameworks involving AI, or socio-technical systems enabling collective intelligence is present.",
     "reasoning_summary": "The content is centered on human teamwork and engineering practices in SRE and DevOps, with no reference or alignment to human-AI collaboration or collective intelligence concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "K0i7PIZARDw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 30.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.2,
+    "ai_intent": 3.9,
+    "ai_audience": 7.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content thoroughly covers modern Site Reliability Engineering (SRE) practices, emphasizing automation, telemetry, feedback loops, and team empowerment. However, it does not discuss the use of autonomous AI agents, context-aware intelligence, or agentic integration with human expertise—the defining elements of Agentic Software Delivery. While there are similarities in feedback loop and CI/CD practices, the discussion is rooted in human-led operational discipline rather than the orchestration of delivery by AI agents. There's no mention or substantive exploration of agentic concepts (agency, governance of agents, human-AI collaboration) or agent-based designs. Therefore, the content is only partially—if at all—aligned with the Agentic Software Delivery category.",
+    "reasoning_summary": "This SRE-focused content emphasizes automation and resilience in software delivery but does not mention autonomous AI agents or agentic integration, making it only tangentially related (at best) to Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

@@ -191,16 +191,23 @@
     "level": "Secondary"
   },
   "Social Technologies": {
+    "resourceId": "9kZicmokyZ4",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:07",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, which aligns with the principles of decision-making and value delivery. However, while it touches on collaboration and transparency, it primarily focuses on metrics and tools rather than the broader social frameworks that underpin social technologies. The discussion lacks depth in exploring how EBM fosters collective intelligence or self-organisation, which are key themes in the Social Technologies category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 82.44,
+    "ai_mentions": 5.2,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.7,
+    "ai_intent": 8.6,
+    "ai_audience": 8.4,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 82.0,
+    "reasoning": "The content focuses on Evidence-Based Management (EBM) within Agile, a recognized social technology that promotes better decision-making, transparency, and continuous improvement. It discusses how EBM empowers teams, fosters collaboration, and drives value delivery—core aspects of Social Technologies per the definition. Although the explicit term 'Social Technologies' is absent (hence a moderate score for mentions), the conceptual and thematic alignment is strong: topics such as informed decision-making, transparency, feedback loops, and continuous improvement are central. The discussion is detailed, practical, and directed at Agile practitioners—matching the category's audience. There is little irrelevant or filler content, and no penalties applied. The confidence score reflects high, but not absolute, alignment due to the indirect referencing of the category.",
+    "reasoning_summary": "Content thoroughly explains EBM as a collaborative, decision-enhancing framework for Agile teams, matching Social Technologies’ intent and audience. Direct category mention is limited but conceptual fit and relevance are strong, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -2009,6 +2016,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on Evidence-Based Management (EBM) in Agile, emphasizing data-driven decision-making and continuous improvement for teams. While it touches on agency (empowering teams through metrics and feedback) and some aligned concepts (feedback loops, adaptive change, transparency), it does not explicitly address agentic engineering, systemic observability at a technical level, DevOps craft, or the integration of AI for augmented decision-making. Key Agentic Engineering themes such as deliberate engineering practices maximizing both human and AI agency, ethical AI integration, or infrastructure autonomy are omitted. The audience is Agile practitioners, partially overlapping, and the content is highly relevant and focused on its topic. However, it remains at the process and metrics level rather than at the engineering systems/philosophical agency level required for a high score under this classification.",
     "reasoning_summary": "While the content centers on empowerment, feedback, and data-driven improvement—key aspects of agency—it lacks explicit discussion of Agentic Engineering principles like DevOps-infused craft or AI collaboration. Its main focus is on managing Agile teams through metrics rather than engineering for agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9kZicmokyZ4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 20.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 5.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content is almost exclusively focused on evidence-based management (EBM) in Agile—not agentic software delivery. While it mentions feedback loops, measurement, and continuous improvement, it does not discuss autonomous AI agents, context-aware intelligence, human/agent collaboration, or agentic architecture. There are no explicit or implicit references to any agentic software systems, agent-supported practices, human-in-the-loop processes with AI, or modern engineering practices from an agentic perspective. The intent is informative and targets Agile practitioners, which is tangentially related. The only partial overlap exists with the discussion of feedback loops and data-driven adaptation, which are general enablers for agentic delivery but not definitive of it. Therefore, scores for direct mentions, alignment, depth, and intent are very low; audience and signal scores are higher due to overlap with relevant Agile teams.",
+    "reasoning_summary": "Content centers on evidence-based management for Agile, not agentic software delivery. It lacks references to AI agents, integration, or agentic practices, resulting in low alignment and confidence. Partial topical overlap at the level of feedback loops only.",
     "level": "Ignored"
   }
 }

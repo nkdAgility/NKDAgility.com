@@ -111,16 +111,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Product Management",
     "category": "Capability",
-    "calculated_at": "2025-04-09T16:46:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Product Management primarily as a strategic discipline focused on value delivery, which aligns with the concept of capabilities in terms of enhancing organisational performance. However, it heavily emphasises roles, responsibilities, and specific practices rather than enduring competencies or systemic capabilities. While there are mentions of evidence-based decision-making and the importance of aligning with organisational objectives, the focus remains on the tactical aspects of product management rather than cultivating capabilities over time.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 66.563,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.4,
+    "ai_intent": 8.3,
+    "ai_audience": 8.7,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content focuses on Product Management as a strategic, cross-functional discipline — not just a role — highlighting enduring patterns such as vision setting, evidence-based decisions, technical empathy, and value optimisation. It repeatedly refers to embedded processes (e.g., Product Backlog management in Scrum), continuous improvement, and business agility, all elements related to Capability. However, there is significant attention to the role/accountability (Product Owner/Product Manager), and the emphasis partially shifts toward practice and responsibilities of individuals rather than systemic, organisation-wide capability development. There is mention of techniques, but mainly as tools enabling ongoing capability rather than ends in themselves. Main audience is practitioners and leaders, and the narrative backs culture/process change over tool usage. Some signal drift occurs in clarifying boundaries of authority, which treads close to accountability rather than holistic capability, limiting maximum scores. No penalties were warranted.",
+    "reasoning_summary": "The content mostly fits 'Capability' by presenting Product Management as a systemic, enduring organisational competence, though it blends in role/accountability themes. Alignment is strong but not exclusive; some emphasis is toward responsibilities over capability development.",
+    "level": "Secondary"
   },
   "Model": {
     "category": "Model",
@@ -3117,6 +3124,25 @@
     "final_score": 19.0,
     "reasoning": "Direct mentions of 'Collective Intelligence' are absent, and there are no references to human-AI collaboration or AI as team members. The content focuses exclusively on human-centric roles (Product Manager, Product Owner) and team practices within Agile/Scrum/Evidence-Based Management, with no engagement of AI agents or augmentation. Themes such as evidence-based decision making, stakeholder alignment, and cross-functional collaboration are strong, but always among humans. The audience (practitioners, leaders) aligns with the category, and the content is relevant to team collaboration, but none of it addresses the partnership between humans and AI or discusses emergence of cognitive capabilities via such collaboration. There is no discussion of frameworks or cases blending human and AI strengths. Thus, conceptual alignment, depth, and intent are low. No penalties for tone or outdatedness apply.",
     "reasoning_summary": "The content thoroughly explores human-driven product management and cross-functional collaboration but does not address human-AI collaboration, collective intelligence, or AI augmentation, making its fit with the 'Collective Intelligence' category very low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Product Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 24.16,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.6,
+    "ai_intent": 3.2,
+    "ai_audience": 6.1,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "There is no explicit mention or discussion of Agentic Software Delivery or autonomous AI agents. The content focuses on product management, value delivery, evidence-based metrics, and collaboration within Agile/Scrum. Some indirect overlap exists in prioritisation, feedback loops, and engineering practices, but the main concepts, depth, and intent remain tied to classic product management, not the agentic paradigm. Audience (technical/strategic practitioner) and content relevancy score higher, as they could overlap. No penalty applied: nothing obsolete or contradictory. Overall, fit is weak and mainly adjacent rather than direct.",
+    "reasoning_summary": "Content is about product management, not Agentic Software Delivery. No mention or substantive alignment with AI agents or agentic delivery concepts; fit is minimal and mostly adjacent.",
     "level": "Ignored"
   }
 }

@@ -78,15 +78,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "Wk0no7MB0AM",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:30:28",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on conflict management within Agile teams, specifically from the perspective of a Scrum Master. While it briefly mentions collaboration and teamwork, which are relevant to DevOps, it does not delve into the core principles of DevOps such as automation, shared accountability, or continuous improvement. The discussion is more aligned with Agile methodologies rather than the DevOps philosophy, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 19.56,
+    "ai_mentions": 2.1,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 4.4,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The article primarily discusses conflict management within Agile teams, specifically the Scrum Master's role in facilitating healthy collaboration and de-escalating tension. DevOps is only briefly referenced in a closing call-to-engage and is not substantively discussed, nor are core DevOps principles (automation, flow efficiency, feedback loops, etc.) explored. The content is heavily aligned with Agile and Scrum audiences, not DevOps-specific practitioners, and lacks conceptual or thematic alignment with the DevOps category as defined. Thus, low scores were assigned for mentions, alignment, depth, and intent, while audience and signal are higher due to some tangential overlap (collaboration, team dynamics) but are still not directly relevant.",
+    "reasoning_summary": "This content focuses on Scrum Master conflict management in Agile, with only a passing reference to DevOps and no meaningful exploration of DevOps principles, making the fit with the DevOps category very minimal.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1952,6 +1959,25 @@
     "final_score": 29.0,
     "reasoning": "The content focuses on the role of Scrum Masters in mitigating and preventing destructive team conflicts within Agile environments. While it emphasizes healthy collaboration, communication, and team dynamics, it does not reference agentic engineering directly or cover its foundational principles such as maximizing human/AI agency, observability, ethical AI, or DevOps-infused craft. There is some indirect thematic overlap with autonomy and value delivery, but the content's main thrust is conflict resolution and team health, not the deliberate design of engineering practices to enhance agency, decision decentralization, or continuous value delivery. Audience fit is high (targeting Scrum practitioners and teams), and most of the article remains focused on relevant team and process topics.",
     "reasoning_summary": "While the article addresses team dynamics and Scrum Master roles in Agile, it doesn’t directly discuss the deliberate engineering of agency or core agentic engineering topics. Its focus is more on conflict resolution than on structuring environments for agency or continuous value.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Wk0no7MB0AM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 12.432,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on team conflict resolution, the Scrum Master’s facilitation role, and healthy team dynamics in Agile contexts. There is no mention—or even indirect suggestion—of agentic principles: no AI agents, contextual intelligence, or integration of autonomous systems into software delivery practices. The depth, intent, and audience are all oriented toward Agile team practices, not toward the integration of autonomous agency or agentic software. The few tangential overlaps (such as mentions of Agile or DevOps) do not touch on agentic software delivery themes. No penalties applied as the article's tone and content are not outdated or critical.",
+    "reasoning_summary": "Content is focused on Agile conflict management, not on Agentic Software Delivery. Lacks any discussion of AI agents, contextual intelligence, or software agent integration. Fit is minimal and indirect at best.",
     "level": "Ignored"
   }
 }

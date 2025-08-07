@@ -695,15 +695,22 @@
     "level": "Secondary"
   },
   "Continuous Delivery": {
+    "resourceId": "bpBhREVX85o",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:26:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and its role in decision-making for leadership teams, without addressing Continuous Delivery principles or practices. While it touches on agile methodologies, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback loops in the context of software delivery.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 14.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.0,
+    "ai_audience": 7.0,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses almost entirely on the role of Scrum and leadership in prioritizing valuable work. Continuous Delivery is not mentioned, discussed, or implied as a core theme. There are slight overlaps via mentions of rapid feedback, reducing time-to-market, and improving delivery, but these are generic agile benefits and not specifically tied to Continuous Delivery principles, practices, or tooling. The depth and alignment are low since Continuous Delivery is neither directly addressed nor explored. The intent and audience are more generally agile-oriented rather than specific to Continuous Delivery.",
+    "reasoning_summary": "Content discusses Scrum and leadership prioritization, not Continuous Delivery. Overlaps (e.g., feedback, time-to-market) are general agile concepts, not specific to Continuous Delivery. Main topic and themes do not fit category definition.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -2022,6 +2029,25 @@
     "final_score": 32.0,
     "reasoning": "The content explores the limits and function of Scrum for leadership teams, emphasizing feedback loops, decision-making, and empowering teams. However, it primarily discusses Scrum as an agile framework rather than deliberate agentic engineering practices. While there is some conceptual overlap (decision-making, feedback), there are no direct references to agentic engineering, human/AI agency, or DevOps-infused craft; most discussion centers on leadership responsibility and Scrum mechanics. The target audience (leaders/teams) partially overlaps with agentic engineering practitioners, but the main thrust is agile practice, not the philosophical/design aspects of maximizing agency across humans and systems.",
     "reasoning_summary": "The content centers on Scrum's role in leadership decision-making and agile feedback, touching on some agency and feedback concepts. However, it does not directly address Agentic Engineering's core themes of maximizing human or AI agency, resulting in only loose category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bpBhREVX85o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 14.74,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.2,
+    "ai_audience": 4.8,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content centers on Scrum's role in leadership decision-making, emphasizing feedback loops and agility rather than agentic software delivery. There’s no mention or discussion of AI agents, agency, contextual intelligence, or related governance, which makes it only minimally relevant. Some overlap exists in referencing modern delivery practices and outcome focus but lacks any treatment of agentic, autonomous, or AI-augmented systems.",
+    "reasoning_summary": "Primarily discusses Scrum for leadership decision-making and feedback; does not address agentic, autonomous, or AI-augmented software delivery concepts. Only minimal, tangential overlap with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

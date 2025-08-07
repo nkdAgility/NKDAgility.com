@@ -21,21 +21,21 @@
   "Principle": {
     "resourceId": "Objective Key Results",
     "category": "Principle",
-    "calculated_at": "2025-06-03T13:37:43",
-    "ai_confidence": 70.75,
-    "ai_mentions": 3.5,
-    "ai_alignment": 7.8,
-    "ai_depth": 6.5,
-    "ai_intent": 7.5,
-    "ai_audience": 8.2,
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 82.55,
+    "ai_mentions": 6.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.3,
+    "ai_intent": 8.1,
+    "ai_audience": 8.5,
     "ai_signal": 8.0,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 71.0,
-    "reasoning": "The content explores OKRs primarily as a methodology or practice for strategic goal-setting, clarity of objectives, alignment, transparency, and outcome tracking. While it does not explicitly address Agile or Lean principles directly by name or delve deeply into recognized foundational principles, it does strongly imply alignment with principles such as continuous improvement ('inspect and adapt'), customer collaboration (alignment on value), empiricism (measuring outcomes, providing evidence-based proof), value delivery (focus on outcomes and value), and adaptability (highlighting the need to stretch beyond comfort, frequent inspection). Mentions are indirect rather than explicit references to Agile or Lean principles, resulting in lower direct mention score. Conceptually, however, the content aligns relatively well with the principles listed, as the described approach clearly emphasizes iterative measurement, transparency, outcome-based planning, learning, and adaptability. The depth of principle exploration is moderate—there is some depth into intended behavior ('track outcomes frequently,' 'stretch beyond what's safe'), but no focused, explicit elaboration on core Agile principles beyond general inclusion and implications of empirical thinking or adaptability. Intent fits moderately well, clearly orienting towards actionable guidance on how to think about value-aligned outcomes rather than abstract values or philosophies alone. Audience alignment and relevance of signals are high, as the targeted audience is clearly practitioners and team leaders focusing on practical strategy execution and transparency—an audience perfectly compatible with the principle category's stated purpose. No penalties are required as the content neither contradicts nor uses outdated or deprecated practices explicitly.",
-    "reasoning_summary": "The content aligns moderately well with actionable principles by emphasizing transparency, outcomes, adaptability, and empirical inspection, though explicit Agile or Lean principle references are indirect and somewhat limited.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content does not directly mention 'principles' but discusses actionable beliefs and guiding rules about how to use OKRs—aligning with the definition. It focuses on outcomes, learning, and adaptation (core principles in Agile/Lean), offering specifics like 'align through transparency' and 'focus on what matters.' However, not every mention is directly about foundational principles—some focus on practices/applications. The core intent and audience fit well, with a strong signal-to-noise ratio and moderate direct mentions. No penalties applied as content is current and supportive.",
+    "reasoning_summary": "Content outlines actionable guiding rules and beliefs regarding OKRs, emphasizing alignment, outcome focus, and adaptation. Strongly fits the 'Principle' category per definition, despite not directly naming 'principles.' Alignment and depth are high.",
+    "level": "Primary"
   },
   "Scrum": {
     "resourceId": "Objective Key Results",
@@ -3342,5 +3342,24 @@
     "reasoning": "Direct mentions of 'Market Adaptability' are absent; the content focuses entirely on OKRs for goal alignment, transparency, and accountability. There is conceptual overlap in terms of team alignment and adaptability, but explicit reference to Agile, DevOps, or Lean is missing. The discussion touches on inspection, adaptation, and responsiveness, tangentially relating to adaptability but remains centered on OKRs as a planning and measurement tool, not methodologies or strategies for adapting to market shifts. Audience alignment and signal quality are moderately strong given general orientation to cross-functional leadership, but the main thrust is not tightly bound to Market Adaptability as strictly defined.",
     "reasoning_summary": "The content explores OKRs for strategic alignment, measurement, and accountability, which indirectly relates to adaptability, but it lacks direct discussion of methodologies (like Agile or DevOps) or explicit focus on market responsiveness as defined for this category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Objective Key Results",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:05",
+    "ai_confidence": 18.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 7.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content exclusively discusses OKRs as a strategic alignment and accountability tool. There is no mention of agentic software delivery, autonomous AI agents, software delivery processes, or human/agent integration. The concepts are strictly about planning, not delivery mechanisms, context-aware intelligence, or modern engineering practices related to agents. Partial alignment exists in the focus on outcomes and system of work, but these are not connected to agentic principles or technology. The audience (teams, strategists) may overlap, and the signal is solidly focused; however, the main substance is off-category.",
+    "reasoning_summary": "This content is about OKRs for strategy, alignment, and measurement. It does not mention agentic software delivery, AI agents, or related delivery practices, so fit with the category is minimal and mostly accidental.",
+    "level": "Ignored"
   }
 }

@@ -1494,15 +1494,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "phv_2Bv2PrA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:37:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile practices and their relevance in modern product development, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of adaptability and efficiency, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes across teams. The depth of discussion is also limited to Agile methodologies, which are not the focus of the 1ES framework.",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 18.16,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 3.6,
+    "ai_audience": 5.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "This content focuses on the value and principles of Agile practices in product development, contrasting Agile with traditional project management. There is no direct mention or discussion of One Engineering System (1ES) or its frameworks, integration of tools/processes, or related unification topics. The alignment and depth of discussion regarding 1ES is minimal, as the entire narrative centers on Agile methodologies in general rather than the specifics of engineering unification, standardisation, or 1ES adoption. The intent serves agile practitioners and those interested in agile transformation, not specifically audiences seeking 1ES-focused material. Signal-to-noise is moderate since the content stays on Agile but is irrelevant to 1ES.",
+    "reasoning_summary": "The content is about Agile practices, not about One Engineering System. There is no mention of 1ES principles or implementation. Alignment is minimal and the content does not match the category definition beyond broad methodology discussion.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2014,6 +2021,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on agile practices for managing product development complexity, highlighting adaptability, quick feedback, and value delivery, which overlap somewhat with Agentic Engineering. However, it does not explicitly address the deliberate maximisation of human or AI agency, systemic observability, ethical AI, or DevOps-infused engineering practices outlined in the category definition. There are no direct references to 'Agentic Engineering,' nor is the discussion centered on philosophical or systemic agency aspects; instead, the focus remains on broad agile concepts. The intended audience is technical practitioners, partially aligned, and while the signal is solid, most examples are standard agile rather than truly agentic.",
     "reasoning_summary": "While the article discusses agile as a means to improve adaptability and incrementally deliver value, it lacks direct ties to Agentic Engineering's core themes—like explicit agency, systemic observability, and AI collaboration. The focus is on general agile principles, not the deliberate design for human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "phv_2Bv2PrA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 16.67,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.8,
+    "ai_intent": 2.3,
+    "ai_audience": 4.6,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses agile practices, product development complexity, and the need for adaptability, but never references agentic software delivery, AI agents, or any integration of autonomy or contextual intelligence. There are no elements of agentic system design, AI-human synergy, or proactive context-aware systems discussed. The focus remains on traditional agile themes, human practitioners, and existing agile/lean methods, with no depth or mention of agentic principles as defined in the classification. Thus, alignment and depth are weak, direct mentions are absent, intent is tangential, and signal is diluted by generic agile content.",
+    "reasoning_summary": "Content focuses solely on agile practices, product complexity, and organisational change without any direct or indirect reference to agentic software delivery or autonomous AI agents. Alignment is weak; fit with the category is poor and largely accidental.",
     "level": "Ignored"
   }
 }

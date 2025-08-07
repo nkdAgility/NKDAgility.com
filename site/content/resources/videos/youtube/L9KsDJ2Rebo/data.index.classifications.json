@@ -571,15 +571,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "L9KsDJ2Rebo",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:16:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses learning methodologies in Agile and Scrum, focusing on spaced learning rather than Continuous Delivery principles. While it touches on aspects of Agile, it does not explicitly mention Continuous Delivery or its core themes, such as automation, rapid feedback, or deployment strategies.",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses spaced learning and instructional design in Agile/Scrum contexts, focusing on improved retention, real-world practice, and cohort learning. There is no mention or substantive exploration of Continuous Delivery, its principles, or related practices. The themes are strictly about educational strategies in Agile, not software delivery pipelines, automation, or deployment cycles. Thus, all dimension scores are very low, reflecting minimal-to-no fit with the Continuous Delivery category.",
+    "reasoning_summary": "This content focuses on Agile learning methods and does not discuss Continuous Delivery or its principles. There is no topic, intent, or thematic alignment. Fit is extremely weak; content is clearly off-topic for this category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1935,6 +1942,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on spaced learning for Agile and Scrum practitioners, emphasizing real-world application, ongoing support, and cohort collaboration. While these ideas touch on concepts like empowerment and practical learning environments, they do not explicitly discuss or delve into the designer's intent to maximize agency in engineering practices, systemic observability, DevOps ethos, or the interplay between human and AI agency. There are no direct references to Agentic Engineering or its key philosophical or technical aspects. The main audience (Agile/Scrum learners and trainers) is somewhat proximate to the Agentic Engineering community, resulting in above-average audience and signal scores, but the alignment and depth remain relatively low due to a lack of direct discussion on agentic practices.",
     "reasoning_summary": "This content primarily addresses spaced learning in Agile and Scrum, focusing on effective knowledge retention and application. It only tangentially relates to Agentic Engineering and does not substantially engage with agency-maximizing engineering practices, resulting in low overall confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:15",
+    "ai_confidence": 13.29,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 2.1,
+    "ai_audience": 2.7,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on spaced learning techniques in Agile and Scrum training, discussing their benefits for retention and real-world application. There is no direct mention or substantial exploration of agentic software delivery principles, such as integration of AI agents, contextual intelligence, or embedding proactivity into software systems. The theme is educational methodology, not software delivery approaches. The audience skews towards trainers, practitioners, and learners, not specifically towards those involved with agentic engineering or AI-enabled delivery models. While it encourages real-world application and continuous improvement, the context is not aligned with autonomous agents or agentic practices as defined. Therefore, the content exhibits minimal relevance to the category.",
+    "reasoning_summary": "This content is about spaced learning for Agile and Scrum, focusing on training effectiveness, not agentic software delivery. It lacks any substantial connection to autonomous agents, contextual AI, or related agentic principles.",
     "level": "Ignored"
   }
 }

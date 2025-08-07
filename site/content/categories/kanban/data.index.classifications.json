@@ -87,16 +87,23 @@
     "reasoning_summary": "This content is a great fit for the 'Practice' category because it explores Kanban as a hands-on approach to managing workflow and boosting value delivery. By highlighting practical techniques like visualising tasks and limiting work in progress, it offers actionable advice for teams. The discussion goes beyond theory, focusing on real-world application and continuous improvement, which are central to the 'Practice' theme."
   },
   "Philosophy": {
+    "resourceId": "_O7H5eH902L",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Kanban primarily as a strategy for managing work and flow, focusing on practical aspects rather than philosophical underpinnings. While it touches on Lean principles and the importance of observability, it does not delve deeply into the foundational beliefs or the 'why' behind these practices, which is essential for a strong alignment with the Philosophy category. The discussion is more about the implementation and benefits of Kanban rather than exploring its philosophical implications.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 77.4,
+    "ai_mentions": 3.8,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.3,
+    "ai_intent": 8.8,
+    "ai_audience": 8.0,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content frames Kanban as a philosophy of change, not merely a tool, emphasizing Lean principles, systems thinking, and observability. It distinguishes Kanban's evolutionary and strategic nature, aligning well with philosophical underpinnings. Though there is some discussion of practices (e.g., WIP limits, making policies explicit), these serve as philosophical examples rather than step-by-step how-tos. The depth and intent focus on the foundational beliefs driving Kanban's usage, highlighting why it works and how it shapes thinking and behaviour over procedural details. Audience is well-targeted toward strategists and leaders. The signal is strong, though some content edges toward practical explanation.",
+    "reasoning_summary": "Content discusses Kanban's philosophical foundations—change, systems thinking, Lean principles, and evidence-based improvement. Although it mentions practices, its main focus is on the 'why' and strategic guidance, making it a strong but not perfect fit for the Philosophy category.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3132,6 +3139,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on Kanban as an approach to visualizing work, managing flow, and enabling continuous improvement within organizations, emphasizing transparency, observability, and shared understanding. While there is mention of shared understanding and improved decision-making, there is no explicit or meaningful discussion of human-AI collaboration, nor any reference to AI agents, socio-technical systems involving both humans and AI, or emergent collective intelligence capabilities as defined by the category. The content is exclusively about human teams improving through Kanban, without any reference to AI involvement. Therefore, alignment and depth regarding Collective Intelligence in the human-AI context are limited.",
     "reasoning_summary": "This Kanban overview centers on human team workflows, transparency, and continuous improvement with no reference to AI partnership or human-AI collaboration. While some collective principles are mentioned (like shared understanding), it does not fit the strict definition of Collective Intelligence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_O7H5eH902L",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:55",
+    "ai_confidence": 13.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 3.0,
+    "ai_audience": 3.4,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses entirely on Kanban as a system for flow, transparency, and evolutionary improvement, but it contains no direct references to agentic principles, AI agents, autonomous systems, or human/AI synergy in delivery. The intent aligns with value delivery in software teams, and concepts like observability and feedback are loosely similar, yet there is no mention or exploration of autonomous AI agents or agentic strategies. The audience (teams interested in delivery) only partially matches, and the discussion lacks both direct and conceptual alignment with Agentic Software Delivery as defined. No penalties were necessary since the content is current and not critical of the target category.",
+    "reasoning_summary": "Content is about Kanban as a flow management method, not about agentic software delivery or autonomous AI agents. No agentic themes are present, so fit is low and mainly coincidental.",
     "level": "Ignored"
   }
 }

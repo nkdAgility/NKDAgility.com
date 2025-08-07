@@ -1408,15 +1408,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "gWTCvlUzSZo",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:52:23",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement tools, such as cameras, in team interactions. It does not discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around personal experiences and recommendations for enhancing virtual meetings, which deviates from the core themes of 1ES.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 7.42,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content does not mention One Engineering System (1ES) directly or even allude to its core concepts like process integration, tooling standardisation, or unified methodologies. The focus is narrowly on camera usage to improve Scrum Master effectiveness in remote meetings. There is a minor and tangential alignment—the audience (Scrum Masters) may be part of teams interested in engineering standardisation, but the topic and intent fall entirely outside the definition of 1ES. No core themes, components, challenges, or benefits around 1ES are present. The discussion is practical, surface-level, and unrelated to unified engineering systems.",
+    "reasoning_summary": "Content is about video/audio quality, remote team engagement, and facilitation—not One Engineering System principles, tools, or standardisation. No mention or exploration of 1ES; fit is highly tangential and overall not aligned.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1917,6 +1924,25 @@
     "final_score": 20.0,
     "reasoning": "The content focuses on the practical benefits of using high-quality cameras to improve remote Scrum team engagement through better communication and non-verbal cue recognition. It does not mention Agentic Engineering, nor does it address developer/AI agency, engineering practices, or philosophical underpinnings of agency. The central theme is tool-based team facilitation, not the deliberate design of engineering agency or decision-making frameworks. Its closest connection is an indirect emphasis on human engagement in remote work, but this falls well outside the scope of Agentic Engineering as defined. The audience (Scrum Masters) partially overlaps with Agentic Engineering’s practitioners, but the content’s purpose, depth, and topics are largely unrelated to the category.",
     "reasoning_summary": "This article is about using quality cameras for better remote Scrum facilitation and team engagement. It does not discuss agency, autonomous engineering practices, or the principles central to Agentic Engineering, so its relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "gWTCvlUzSZo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 2.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 7.3,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on the value of high-quality cameras for Scrum Masters to strengthen remote engagement, body language reading, and communication. There are no direct or indirect references to Agentic Software Delivery or its defining principles, such as integration of autonomous AI agents, contextual intelligence, feedback loops involving agents, or human-in-the-loop designs. While the audience (Scrum practitioners) somewhat overlaps, the topic is strictly about human facilitation tools and not software delivery evolution, agentic processes, or sociotechnical synergy. The content’s intent and conceptual alignment with Agentic Software Delivery are minimal and surface-level at best, as it deals exclusively with traditional/team dynamics and not intelligent agent integration or delivery transformation.",
+    "reasoning_summary": "This content does not fit Agentic Software Delivery—it discusses human facilitation tools for Scrum Masters, not agentic systems, AI integration, or contextual intelligence in software delivery. No theme, topic, or intent matches the category’s definition.",
     "level": "Ignored"
   }
 }

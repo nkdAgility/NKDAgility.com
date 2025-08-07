@@ -1103,15 +1103,22 @@
     "level": "Ignored"
   },
   "Lean": {
+    "resourceId": "UOzrABhafx0",
     "category": "Lean",
-    "calculated_at": "2025-03-14T20:44:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on product backlog management within an Agile context, specifically Scrum, with minimal direct references to Lean principles. While it touches on concepts like minimising backlog items for maximum value, which aligns with Lean's focus on waste reduction, the overall discussion is centred around Agile methodologies rather than Lean strategies. The depth of discussion on backlog management is significant, but it lacks a comprehensive exploration of Lean tools or methodologies.",
+    "calculated_at": "2025-08-07T06:11:06",
+    "ai_confidence": 31.425,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.5,
+    "ai_intent": 3.7,
+    "ai_audience": 7.3,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content centers on practical product backlog management within Scrum/Agile teams. While themes of minimizing waste and maximizing value are implied (e.g., prioritizing high-value items, removing low-value work), Lean as a methodology is neither directly mentioned nor deeply discussed. Concepts align in parts with Lean (focus on value, minimizing waste), but lack explicit Lean terminology or discussion of Lean tools/methods (e.g., value stream mapping, 5S, Kaizen, Seven Wastes). Intent is primarily Scrum and Agile improvement; Lean relevance is peripheral, not central. The audience aligns, as Lean practitioners might find value, but the focus is on Scrum/Agile professionals.",
+    "reasoning_summary": "This content mainly targets Scrum/Agile backlog management. While some ideas overlap with Lean (value focus, reducing waste), it lacks direct Lean themes or terminology. Lean fit is partial and inferred, not explicit or substantial.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1962,6 +1969,25 @@
     "final_score": 18.0,
     "reasoning": "The content focuses extensively on practical skills and techniques for effective product backlog management in Scrum teams, including prioritization, item breakdown, and stakeholder alignment. While these are important topics in Agile practice and can support team efficiency and transparency, they do not engage with the deliberate maximization of agency (of humans or AI), systemic observability, or DevOps-infused craft. There are mentions of transparency and adaptation, but these serve backlog hygiene and workflow clarity more than supporting the underlying philosophical or technical aims of Agentic Engineering. No direct mentions of agency, autonomy, feedback-driven adaptation at a systemic level, or ethical AI integration are present. The target audience of Scrum practitioners is tangentially related to Agentic Engineering's audience, but the scope remains limited to backlog management, not the broader domain of engineering for agency.",
     "reasoning_summary": "This content centers on practical Scrum backlog management, offering tips on item creation and prioritization. While relevant to Agile practitioners, it doesn't address the agency-maximizing, engineering, or systemic aspects required for Agentic Engineering classification.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "UOzrABhafx0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 11.568,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is entirely focused on backlog management within Agile/Scrum, discussing techniques for item creation, prioritization, and minimizing backlog bloat. No mention or implication is made of agentic concepts: there is no reference to AI agents, contextual intelligence, agent-driven feedback loops, synergy between AI and humans, or modern practices unique to Agentic Software Delivery. While the audience is technical and relevant in theory, topics overwhelmingly remain in classic human-driven Scrum practices without agent integration. Depth is limited to backlog practices, and no signal relates to agentic systems or proactive, autonomous systems-of-work.",
+    "reasoning_summary": "This content is traditional Scrum backlog management with no agentic, AI, or intelligent automation elements. It does not fit the Agentic Software Delivery category except possibly as very tangential audience overlap. Alignment is minimal.",
     "level": "Ignored"
   }
 }

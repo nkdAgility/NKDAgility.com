@@ -867,15 +867,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "G1N1dQ6DNEV",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:52:38",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of delivering usable products in agile iterations, which indirectly touches on aspects of technical leadership, such as fostering team morale and aligning expectations with stakeholders. However, it lacks direct mentions of technical leadership principles, strategies for mentoring, or specific agile practices. The focus is more on the consequences of neglecting product delivery rather than on guiding teams or implementing agile methodologies, which limits its alignment with the core themes of technical leadership.",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 63.79,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.7,
+    "ai_intent": 6.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content addresses important agile principles—iteration outcomes, technical debt, feedback, stakeholder trust, and morale. These are key concerns for technical leaders. However, there are only indirect references to technical leadership. The text lacks explicit discussion on technical leaders' roles, strategies, or practices (e.g., mentoring, coaching, or leadership techniques). The audience seems to be teams or possibly team leads, with concepts highly relevant to technical leadership responsibilities, but the terminology does not directly call out 'leadership' or leader actions. The depth is notable for describing problems arising from not delivering usable increments but remains largely conceptual rather than practical leadership advice. No outdated practices or negative tone are present.",
+    "reasoning_summary": "Content is highly relevant to technical leadership themes (e.g., technical debt, team morale), but does not explicitly discuss leader roles or actions. Fit is moderate: good alignment, but not a focused technical leadership guide.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -2003,5 +2010,24 @@
     "reasoning": "The content critiques teams that fail to deliver a usable product every agile iteration, emphasizing consequences such as lost trust, technical debt, lack of feedback, and diminished morale. While these concepts (trust, feedback, adaptability, and transparency) tangentially align with Agentic Engineering’s focus on decentralization and feedback-driven improvement, the main argument is built on agile best practices—not specifically the philosophical maximization of human and AI agency, structured autonomy, or systemic observability. There is little mention of decision-making frameworks, DevOps craft, or AI integration. The intent is to emphasize the importance of iterative delivery in agile (relevant to enabling agency but not unique to Agentic Engineering). The audience seems to be agile practitioners and teams. The signal is strong, but the direct conceptual alignment and depth on Agentic Engineering topics are moderate at best.",
     "reasoning_summary": "While the content emphasizes agile iteration, feedback, and trust—important for empowered teams—it does not explicitly address agentic practices, autonomy maximization, or AI collaboration. Its focus is on agile fundamentals, only indirectly intersecting with Agentic Engineering themes.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "G1N1dQ6DNEV",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 14.33,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 2.25,
+    "ai_audience": 4.15,
+    "ai_signal": 3.95,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There are no direct mentions of Agentic Software Delivery, autonomous AI agents, or related core concepts. The content focuses on the importance of delivering usable product increments in Agile, touching on trust, technical debt, adaptability, and feedback, which are general Agile principles rather than agentic approaches. It does not discuss integration with AI agents, human-in-the-loop design, contextual intelligence, or any modern engineering practices specific to agentic delivery. Its target audience (Agile practitioners) only partially overlaps, but the intent and substance are misaligned with the category definition.",
+    "reasoning_summary": "The content centers on Agile pitfalls when not delivering usable products, with no discussion of agentic or AI-driven delivery. No substantive overlap with Agentic Software Delivery; fit is minimal to none.",
+    "level": "Ignored"
   }
 }

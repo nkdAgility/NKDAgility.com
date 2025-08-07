@@ -1503,15 +1503,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "m4KNGw5p4Go",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:23:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product development strategies, experimentation, and collaboration, which are not directly related to the One Engineering System framework. While there are mentions of Agile principles, the discussion does not delve into the integration or standardisation of engineering processes as required by the 1ES category.",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 30.53,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.7,
+    "ai_audience": 8.3,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content does not explicitly mention the One Engineering System (1ES) nor closely align with its unique themes such as integration of tools, system unification, or 1ES framework principles. It focuses on experimentation, agility, and collaboration in a general product development context. No reference is made to standardization, cross-team tool/process unification, or the operational impact of 1ES. The audience is broadly relevant (product/engineering practitioners), and the content is focused without filler, but its thematic and conceptual overlap with 1ES is minimal and indirect.",
+    "reasoning_summary": "Content focuses on Agile, experimentation, and collaboration in product development, not on 1ES or unification of engineering systems. Fit is minimal—no direct or meaningful conceptual connection to 'One Engineering System' principles or methods.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2017,5 +2024,24 @@
     "reasoning": "The content discusses experimentation, agile practices, collaboration, and user value in product development. While these overlap with some aspects of Agentic Engineering—such as feedback-driven adaptation and conscious decision-making—there is little to no direct mention of agency as a central theme, nor does it explicitly discuss the deliberate design of engineering practices that maximize human or AI agency. The focus is more on practical product development, agility, and evidence-based methods than on philosophical concepts or frameworks intrinsic to Agentic Engineering. Audience alignment is moderately high (practitioners, leaders), but the depth regarding agentic themes is surface-level.",
     "reasoning_summary": "This content focuses on agile, experimentation, and collaboration in product development, which aligns partly with Agentic Engineering's feedback and adaptive practices. However, it doesn't address agency as a central theme or discuss systemic design for maximizing human/AI agency, resulting in moderate confidence for category fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "m4KNGw5p4Go",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 19.36,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 7.0,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content mainly discusses experimentation, agile, collaboration, and value-focused product development. There are no direct mentions of autonomous AI agents, agentic delivery, or contextual intelligence. The alignment and depth scores are low as the content does not discuss key agentic concepts (e.g., AI integration, agency, or agent-driven workflows). The target audience (product managers, agile practitioners) slightly overlaps but the signal-to-noise is mediocre regarding agentic software delivery. No obsolete practices or negative/contradictory framing were found.",
+    "reasoning_summary": "Content focuses on agile, experimentation, and collaboration in product development, but lacks any mention or exploration of agentic, AI-driven, or autonomous agent delivery concepts. Only slight incidental relevance to the category.",
+    "level": "Ignored"
   }
 }

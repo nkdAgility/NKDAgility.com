@@ -67,15 +67,22 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "XOaAKJpfHIo",
     "category": "Coaching",
-    "calculated_at": "2025-03-15T01:30:52",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile and DevOps, highlighting their interconnectedness and the importance of delivering value to customers. While it mentions coaching in the context of Agile, it primarily focuses on the delivery aspect rather than the coaching process itself. The discussion lacks depth on coaching techniques, building trust, or fostering a growth mindset, which are key elements of the Coaching category.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 34.657,
+    "ai_mentions": 3.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 4.8,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "Direct mentions of coaching are limited to the about section and hashtags, with minimal integration into the main content. The main focus is on explaining the relationship of DevOps and Agile for continuous delivery, not on coaching practices, techniques, or approaches. There are brief references to consultancy and coaching services, but these do not explore or discuss coaching concepts or methods. Audience fit skews toward Agile/Scrum practitioners who may be interested in coaching, but the article itself isn't targeted at the coaching audience nor does it discuss active coaching facilitation. Signal is reduced due to the dominance of DevOps/Agile integration themes, with only surface-level references to coaching.",
+    "reasoning_summary": "Content is focused on DevOps/Agile integration for value delivery, not on coaching practices. Coaching is only referenced in passing, mainly in author’s description and hashtags. Main topic does not align with 'Coaching' category.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -2026,5 +2033,24 @@
     "reasoning": "The content emphasizes DevOps and Agile practices fostering collaboration, rapid feedback, and continuous delivery—ideas broadly aligned with Agentic Engineering. However, it does not reference agentic concepts explicitly or explore agency for humans or AI, system observability, nor ethical autonomy. The discussion is practical and insightful but lacks a deliberate focus on maximizing human/AI agency or engineering philosophy. Audience and relevance are reasonable, but direct category fit is limited.",
     "reasoning_summary": "While the post aligns with several Agentic Engineering principles—like fast feedback, continuous delivery, and collaborative teams—it does not explicitly discuss agency, decision decentralization, or human/AI autonomy central to the category definition. The fit is moderate but not direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XOaAKJpfHIo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 14.93,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "Direct mentions of 'agentic' or agentic software delivery are absent. The discussion revolves around DevOps and Agile approaches to continuous delivery and customer value, but does not cover or imply topics like autonomous agents, agency, human-AI collaboration, contextual intelligence, or agent-governed workflows central to the 'Agentic Software Delivery' definition. The main ideas and depth are focused on traditional human-centered delivery processes, not proactive agent integration. Content does target practitioners but is not off-topic or negative. Its purpose, audience, and discussion are unrelated to the agentic paradigm.",
+    "reasoning_summary": "This content discusses DevOps, Agile, and continuous delivery without referencing or aligning with agentic concepts (e.g., autonomous agents, human-AI synergy). There is no fit with 'Agentic Software Delivery' as defined.",
+    "level": "Ignored"
   }
 }

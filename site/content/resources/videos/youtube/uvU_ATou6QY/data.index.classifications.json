@@ -1437,15 +1437,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "uvU_ATou6QY",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:52:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a product owner, discussing signs of failure and ownership in product management. It does not mention the One Engineering System or its principles, nor does it address integration of tools or processes across teams, which are core to the 1ES framework. The discussion is centred around personal experiences and opinions rather than the standardisation and integration of engineering practices.",
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 14.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.45,
+    "ai_intent": 2.65,
+    "ai_audience": 3.15,
+    "ai_signal": 3.55,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers around the role and challenges of being a product owner, focusing on individual responsibilities and value delivery. It neither mentions nor clearly aligns with the principles or aims of One Engineering System (integration, standardisation, or system-wide engineering practices). There is no direct reference to 1ES, its tools or methodology, nor is there substantive discussion of standardising or integrating development processes across teams, which is central to the category. The intended audience (product owners/practitioners) overlaps somewhat, but the topic doesn't approach the system-level integration or best practices 1ES targets. Most discussion is product-owner specific and operationally focused, not about wider engineering system frameworks, so relevance is minimal and confidence is very low.",
+    "reasoning_summary": "This content is focused on product owner behaviors and challenges, not engineering system integration or standardisation. There is no mention or core discussion of 1ES or related frameworks, so category fit is very weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1947,6 +1954,25 @@
     "final_score": 37.0,
     "reasoning": "The content never directly mentions 'Agentic Engineering' or its explicit terminology, resulting in a zero on direct mentions. While it discusses ownership, influence, and decision-making for product owners—concepts that tangentially overlap with agency—the focus is mainly on individual role accountability, not the deliberate system design that characterizes Agentic Engineering. Key Agentic Engineering topics such as feedback-driven adaptation, developer agency (beyond PO role), ethical AI integration, and DevOps-infused engineering culture are not addressed. Audience alignment is relatively strong, as product owners are likely readers of Agentic Engineering material, and the signal is focused but without deep category fit. The final confidence is low, reflecting a partial overlap in concepts but clear exclusion from the category's core themes.",
     "reasoning_summary": "This content centers on product owner accountability and value delivery but does not address deliberate engineering practices aimed at maximizing agency for humans and intelligent systems, as required by Agentic Engineering. Any relevance is tangential, yielding a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "uvU_ATou6QY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:05",
+    "ai_confidence": 16.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 6.7,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly explores the role and challenges of product owners, focusing on value delivery, vision, ownership, and decision-making. However, it contains no mentions of agentic, autonomous AI agents, contextual intelligence, or modern agentic delivery practices. It is not focused on or supportive of the concept of Agentic Software Delivery as defined. Discussion is centered on individual performance, not on agent-driven, autonomous, or AI-augmented team delivery. Thus, the content only aligns very superficially with the category, earning low scores for direct mentions, conceptual alignment, depth, and intent. No penalties were required, as the content is neither outdated nor critical of agentic approaches.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category; there is no discussion of agentic approaches, contextual AI, or autonomous delivery. The focus is on traditional product ownership challenges, not agent-driven practices.",
     "level": "Ignored"
   }
 }

@@ -1090,15 +1090,22 @@
     "level": "Secondary"
   },
   "Test First Development": {
+    "resourceId": "qNJ2suVslzE",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:36:48",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile methodologies and scope creep, with no direct mention of Test First Development principles or practices. While it touches on the importance of adapting to change and delivering value, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The discussion lacks depth regarding any testing practices, whether manual or automated, which are central to the Test First Development category.",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 14.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.7,
+    "ai_intent": 2.1,
+    "ai_audience": 1.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on agile responses to scope creep, emphasizing value delivery, flexibility, and embracing change. It does not mention or delve into Test First Development, test criteria, or related practices. There is no discussion of success criteria defined prior to implementation, nor any reference to test-driven or acceptance test-driven practices, collaboration between testers and developers, or automated/manual testing. The intent, audience, and most concepts are aligned with general Agile principles and value-centric delivery, not with Test First Development.",
+    "reasoning_summary": "The content does not address Test First Development concepts, practices, or intent. It focuses on agility, value, and scope creep, not test-centric approaches. Fit is minimal and indirect.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -2025,5 +2032,24 @@
     "reasoning": "The content discusses shifting from rigid scope management to emphasizing value, agility, feedback, and adaptation in software development. While these concepts overlap with agentic principles—such as developer autonomy, continuous feedback, and value delivery—the text never directly mentions 'Agentic Engineering' or the philosophical framing around maximizing agency for humans and AI. The focus is more on Agile and Lean mindsets, and practical workflow management, rather than deliberate engineering for agency, ethical AI integration, or DevOps-infused craft. The audience (practitioners, product people) is highly aligned, and the signal-to-noise ratio is high (very little off-topic filler). However, the lack of direct mention and deep exploration of agentic frameworks, decision decentralization, or systemic observability warrants moderate confidence, lowered by penalties for these omissions.",
     "reasoning_summary": "The content aligns moderately with Agentic Engineering by advocating value-driven agile practices, stakeholder feedback, and flexible planning. However, it provides limited depth on engineering deliberate agency or AI-related autonomy, making the fit partial rather than direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qNJ2suVslzE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 27.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 3.3,
+    "ai_audience": 5.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on transforming scope creep through Agile and Lean, emphasizing value delivery and adaptability. While it discusses feedback, dynamic planning, and moving away from old paradigms, there is no mention of agentic software delivery, autonomous AI agents, or embedding intelligence into delivery systems. The core topics are classic Agile, not agentic systems. Content depth is centered on agile adaptation, not agent integration or human-in-the-loop AI practices. The intended audience (teams dealing with scope creep, Agile practitioners) overlaps slightly. There is almost no noise, but the main themes do not touch on agentic software delivery core concepts.",
+    "reasoning_summary": "The content is about Agile response to scope creep, adaptation, and value, but it lacks references to agentic systems, AI-driven automation, or agent/practitioner synergy. Fit with 'Agentic Software Delivery' is minimal—conceptual overlap is indirect at best.",
+    "level": "Ignored"
   }
 }

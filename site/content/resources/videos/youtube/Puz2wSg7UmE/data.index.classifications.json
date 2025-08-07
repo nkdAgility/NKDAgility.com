@@ -1493,16 +1493,23 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "Puz2wSg7UmE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:53:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses evidence-based management and innovation metrics, which are not directly related to the One Engineering System framework. While there are mentions of software development practices, the focus is on measuring innovation rather than integrating or standardising engineering processes across teams.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:56",
+    "ai_confidence": 47.829,
+    "ai_mentions": 0.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.3,
+    "ai_intent": 6.1,
+    "ai_audience": 6.5,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content provides an in-depth discussion on measuring and improving innovation in organizations, focusing primarily on evidence-based management and related metrics such as technical debt, active branches, innovation rate, and complexity. While these topics are relevant to engineering excellence and touch on some elements (like code branching and process complexity) that a One Engineering System approach might address, the post never directly references 1ES or emphasizes its core principles: tool/process standardization, system integration, or cross-team framework adoption. There are indirect overlaps, such as advocating for unified measurement and continuous improvement, but these are broadly applicable to various agile or evidence-based practices and do not uniquely signal a focus on 1ES. Therefore, while there is moderate conceptual alignment, the lack of direct mention or framework-specific discussion significantly reduces confidence that this content is a strong fit for the One Engineering System category.",
+    "reasoning_summary": "The content aligns moderately with One Engineering System principles through its focus on engineering metrics and improvement, but lacks any direct mention or in-depth framework discussion. Fit is partial; central 1ES themes are not clearly present.",
+    "level": "Tertiary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
@@ -2011,5 +2018,24 @@
     "reasoning": "The content focuses on organizational innovation capability using evidence-based management and technical metrics (e.g., technical debt, innovation rate, complexity), aligning with continuous improvement and developer empowerment themes. However, it does not mention 'Agentic Engineering' or its philosophical aspects, nor does it address ethical AI, DevOps-infused craft, or systemic observability in depth. The core ideas of developer agency and continuous value delivery are present indirectly, justifying decent scores on alignment, depth, and intent, but direct relevance is limited by the absence of explicit references to agentic practices or frameworks.",
     "reasoning_summary": "The content closely aligns with concepts of continuous improvement, innovation, and developer empowerment, which overlap with Agentic Engineering. However, it lacks direct reference to the category and omits key philosophical concepts, resulting in moderate confidence for classification.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Puz2wSg7UmE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 33.145,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.5,
+    "ai_intent": 3.1,
+    "ai_audience": 5.4,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on evidence-based management, metrics, and continuous innovation in organizational software delivery, but does not discuss agentic software delivery, autonomous AI agents, human-agent integration, or contextual intelligence. While modern software practices and innovation are discussed at length, there is no mention of autonomous systems, agency, human-in-the-loop, or any other foundational elements that define Agentic Software Delivery. The content aligns partially with the category through references to innovation, improvement, and metrics for enabling value, but lacks any substantive or explicit connection to agentic principles.",
+    "reasoning_summary": "Content is about innovation measurement and evidence-based management in software, but does not address agentic software delivery, autonomous AI agents, or agency. Only a loose thematic alignment is present—fit is partial and indirect.",
+    "level": "Ignored"
   }
 }

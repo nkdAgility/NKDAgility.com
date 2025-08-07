@@ -1392,15 +1392,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "7p77l4PFd03",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:05:36",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Professional Scrum Master II (PSM-A) course, which is centred around Scrum practices and roles rather than the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or the principles of 1ES. The depth of discussion is limited to Scrum-specific training, making it largely irrelevant to the category.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 10.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is exclusively about advanced Scrum Master practices, facilitation, leadership, and Scrum metrics. Nowhere does it mention One Engineering System (1ES) or discuss unifying or standardizing engineering processes, tools, or frameworks across teams. Its intent, audience, and topics are strictly focused on mastering Scrum and organizational change via Scrum roles, not on implementing or comparing 1ES or similar systems. No core tenets or discussions around 1ES integration, adoption, or practice are present. Thus, almost all dimensions score very low, with slightly higher signaling for its focus on relevant audiences in engineering/agile contexts.",
+    "reasoning_summary": "Content focuses on advanced Scrum Master training and certification, with no mention or exploration of One Engineering System, its integration, or standardization practices. Does not fit the category meaning.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2059,6 +2066,25 @@
     "final_score": 32.0,
     "reasoning": "The course is targeted at Scrum Masters and covers advanced scrum practices and leadership, focusing on facilitation, conflict resolution, and metrics use. However, it does not explicitly discuss or reference Agentic Engineering, nor does it meaningfully address maximizing human and AI agency, ethical AI integration, or decentralized engineering practices. Themes such as servant leadership and change agency are tangentially related but lack explicit focus on agentic frameworks. There is minimal discussion of engineering as a discipline or philosophical aspects of agency. The strongest alignment is with the practitioner audience and relevance to organizational change agents, but the primary content is Scrum mastery, not Agentic Engineering.",
     "reasoning_summary": "This advanced Scrum Master course emphasizes leadership and facilitation but does not explicitly engage with Agentic Engineering concepts like maximizing agency or integrating AI. Its main focus is Scrum practice improvement, with limited philosophical or engineering design perspective.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7p77l4PFd03",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:37",
+    "ai_confidence": 7.081,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The course focuses on advanced Scrum Master topics such as servant leadership, conflict resolution, facilitation, measurement, and traditional Scrum roles. There are no explicit or implicit references to agentic software delivery, autonomous agents, AI integration, or practices unique to the agentic paradigm. The content strongly aligns with traditional Agile and Scrum management, not agentic systems, and contains no relevant conceptual overlap beyond general support for software process improvement. Audience is technical and practitioner-oriented but not in the context of AI or agentic delivery. No penalties as the material is not outdated or overtly critical.",
+    "reasoning_summary": "Content is advanced Scrum-focused, lacks any direct or conceptual connection to Agentic Software Delivery. No relevant mention of AI agents or agentic practices; fit is minimal to nonexistent.",
     "level": "Ignored"
   }
 }

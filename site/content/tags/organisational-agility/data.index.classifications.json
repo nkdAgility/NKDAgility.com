@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Organisational Agility",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses organisational agility, which is related to adaptability and responsiveness but does not explicitly address accountability as a foundational mechanism in work systems. While it touches on themes of collaboration and decision-making, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master.",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 29.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.9,
+    "ai_intent": 3.5,
+    "ai_audience": 5.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content broadly discusses organisational agility—adaptation, collaboration, breaking silos, and continuous improvement—but does not reference accountability, outcome ownership, or defined structural roles. There are no explicit mentions or deep conceptual ties to accountability as defined. Intent is focused on agility/culture, not on clarifying who is accountable. The closest related ideas (team cohesion, value delivery) only tangentially align.",
+    "reasoning_summary": "Content focuses on agility, adaptability, and culture, with no explicit or structural discussion of accountability. Fit is very weak and mostly tangential; accountability is not a primary or intended theme.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3118,6 +3125,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses exclusively on organisational agility, emphasizing responsiveness and adaptability at a systemic and cultural level. It details organisational practices, collaboration, and value delivery but omits any mention of AI, human-AI collaboration, or concepts unique to Collective Intelligence as defined. There are no references to AI agents, distributed cognition between humans and AI, or socio-technical systems that leverage both. The depth and alignment scores are slightly above minimal because cross-functional collaboration and breaking down silos could touch tangentially on foundations for collective intelligence but without explicit mention of the human-AI dimension, the fit is weak. The intent and signal are moderately higher since the content is well-structured and addresses audiences typically relevant to the category, but not in its collective intelligence context.",
     "reasoning_summary": "This content explores organisational agility, highlighting collaboration and adaptability, but makes no reference to human-AI partnerships or collective intelligence concepts. While some themes overlap, it does not address collective intelligence criteria and lacks any AI collaboration context.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Organisational Agility",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 22.18,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 3.0,
+    "ai_audience": 7.1,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on general organisational agility—rapid adaptation, flexibility, and continuous improvement at an organisational level. There is no mention or exploration of agentic software delivery, autonomous AI agents, or supporting engineering practices. The thematic overlap is limited to general improvement and agility, but the technology-specific and agentic aspects required for the category are missing. Audience alignment is highest due to the content being relevant to organisational leaders (a plausible subset overlap), and the intent is tangentially relevant but not directly supportive of agentic software delivery.",
+    "reasoning_summary": "The content describes general organisational agility but does not mention or align with Agentic Software Delivery themes—no discussion of AI agents, contextual intelligence, or relevant engineering practices. Any fit is superficial and indirect.",
     "level": "Ignored"
   }
 }

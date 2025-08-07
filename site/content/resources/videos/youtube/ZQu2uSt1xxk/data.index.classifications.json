@@ -1385,15 +1385,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "ZQu2uSt1xxk",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:47:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Kanban methodology and its application in workflow management, with no direct mention of the Shift-Left Strategy. While it discusses continuous improvement and metrics, these concepts are not specifically tied to integrating testing, security, or compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:10:50",
+    "ai_confidence": 8.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.3,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on teaching the principles, techniques, and benefits of Kanban, including metrics, workflow visualization, and continuous improvement. There are no explicit or implicit references to Shift-Left Strategy or its key topics, such as introducing testing, security, or compliance processes earlier in the software lifecycle. While the content discusses process improvement and early identification of bottlenecks, this is a general Kanban/Lean topic and does not constitute Shift-Left as defined. No outdated practices or negative tone detected, thus no penalties applied.",
+    "reasoning_summary": "Content centers strictly on Kanban implementation, continuous improvement, and workflow optimization, with no reference to integrating testing, security, or compliance early. Fit with the Shift Left Strategy category is very weak and mostly irrelevant.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1950,6 +1957,25 @@
     "final_score": 27.0,
     "reasoning": "Direct mentions of Agentic Engineering are absent; neither the term nor its philosophical context appears. Conceptually, some elements resonate with agentic goals—empowering teams with data-driven practices for improvement and value delivery—but the primary focus is on Kanban methods, metrics, and integration into existing workflows. The discussion is functional: improving efficiency, visualizing work, and fostering continuous improvement; there is no reference to decentralised decision-making, systemic observability at a deeper level, DevOps/engineering craft as agency, or ethical human-AI collaboration. Audience alignment is moderate as technical and practitioner audiences may overlap, but content lacks the depth, language, or focus on maximising human and AI agency, or the ethical and systemic dimensions required by the category. No significant tangential filler, but the key Agentic Engineering topics are not explored.",
     "reasoning_summary": "This content is centered on practical Kanban implementation and continuous improvement for workflow efficiency. While these overlap somewhat with agentic principles, the focus is not on deliberate engineering for maximising agency or integrating human/AI autonomy, making it a partial but weak fit for Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZQu2uSt1xxk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 11.06,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 3.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on applying professional Kanban for workflow efficiency, metrics, and continuous improvement, with no mention or exploration of autonomous AI agents, contextual intelligence, or agency as defined by Agentic Software Delivery. Its intent is to educate on Kanban practices, not agentic integration. The only partial overlap is the emphasis on continuous improvement and value delivery, which is generic to modern workflow methodologies. The target audience of agile practitioners partially overlaps, but no agentic principles or tooling are included.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It centers on Kanban implementation and continuous improvement, not on integrating autonomous AI agents or agentic principles in software delivery.",
     "level": "Ignored"
   }
 }

@@ -105,15 +105,22 @@
     "level": "Ignored"
   },
   "Evidence Based Management": {
+    "resourceId": "A1Gq5rHDvzC",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:23:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting immersive learning experiences in agile methodologies without any explicit discussion of Evidence-Based Management principles. While it mentions the importance of adaptability and innovation, it lacks direct references to empirical evidence, data-informed decision-making, or the specific metrics outlined in the EBM category. The emphasis is on training and personal development rather than on evidence-based practices.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 19.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 2.8,
+    "ai_audience": 6.6,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on promoting Agile and Scrum training, emphasizing skill-building, continuous improvement, and professional growth. There are mentions of continuous improvement and innovation but no explicit or implicit discussion of Evidence-Based Management (EBM), its metrics, empirical decision-making, or outcome management. No direct mention of EBM or its core topics appears, and there's no depth on how data or evidence influences management decisions. The target audience (practitioners, managers) could overlap with EBM, but the material itself remains generic—training/marketing material for Agile rather than EBM-specific content.",
+    "reasoning_summary": "Content promotes Agile training and improvement, not Evidence-Based Management. No mention or depth about EBM, outcome metrics, or data-driven strategy. Audience may overlap, but topic and intent do not fit the category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -1986,6 +1993,25 @@
     "final_score": 35.0,
     "reasoning": "The content is primarily a promotional announcement for agile and Scrum training programs. While it emphasizes empowering individuals, continuous improvement, and collaboration, it does not reference Agentic Engineering directly nor does it explicitly develop topics such as systemic observability, AI collaboration, or decentralized decision-making. The philosophical and practice-based aspects of maximizing both human and AI agency are absent. The audience aligns moderately as the readers are technical practitioners, but the material generally lacks substantive discussion on engineering agency or deliberate engineering design. Most content focuses on general agile skills, course logistics, and community building, with limited depth or conceptual fit to Agentic Engineering.",
     "reasoning_summary": "The content markets agile and Scrum practitioner training with a focus on empowering individuals, but lacks direct reference or deeper exploration of Agentic Engineering principles such as systemic observability or AI-human agency. Relevance is minimal and largely incidental.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "A1Gq5rHDvzC",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 16.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.25,
+    "ai_intent": 2.4,
+    "ai_audience": 4.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is an announcement and promotional piece for immersive Agile and Scrum training, focusing on human learning, collaboration, and improvement. There is no mention or substantive discussion of agentic software delivery, autonomous AI agents, agency in delivery, or advanced integration of AI with human expertise as described in the category. The main themes are traditional Agile and Scrum practices, leadership, and professional development. While a few technical and management audiences might overlap, the core concepts, intent, purpose, and depth are disconnected from the definition of Agentic Software Delivery. No penalties were applied.",
+    "reasoning_summary": "Content is focused entirely on human Agile training and skill development, with no substantive connection to agentic software delivery or autonomous agents. The fit is minimal and incidental at best.",
     "level": "Ignored"
   }
 }

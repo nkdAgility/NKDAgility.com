@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Transparency",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:19:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of transparency within agile processes but does not explicitly mention any specific tools or software that facilitate this practice. While it aligns with the themes of collaboration and continuous improvement, it lacks a focus on tools themselves, which is essential for a higher confidence score in the 'Tool' category.",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 17.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on the value of transparency within agile teams, emphasizing openness, trust, collaboration, and organizational health. There is no mention or analysis of specific tools, software, or enabling mechanisms that fit the Tool category definition. The conceptual and depth scores are low due to lack of tool-relevant themes; intent is tangential since the main purpose is to discuss a principle rather than practical tool application. While the audience is similar (agile practitioners), and the content is relevant to agile, the overall fit with the 'Tool' category is poor.",
+    "reasoning_summary": "This content discusses transparency as a principle in agile, with no reference to tools, software, or mechanisms, making it a poor fit for the 'Tool' category. The content's topic and intent do not align with the definition.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3154,6 +3161,25 @@
     "final_score": 18.0,
     "reasoning": "The content centers on the value of transparency in agile teams but does not reference AI, human-AI collaboration, or collective intelligence as defined. The descriptions of visibility, trust, and information sharing pertain solely to human team dynamics with no discussion of AI agents or socio-technical partnership. While the intended audience may overlap with those interested in collective intelligence, the core content is not conceptually or explicitly aligned with the category requirements. There are no penalties applied since the information is current, neutral in tone, and not outdated.",
     "reasoning_summary": "This content focuses strictly on human team collaboration and transparency in agile, without any discussion of human-AI partnerships or collective intelligence. It does not meet the core criteria of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Transparency",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 16.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses entirely on transparency in agile processes, covering trust, openness, and accountability within teams. There are no direct or indirect references to agentic concepts, agent-based delivery, AI, or the integration of autonomous systems with human expertise. The content is broadly relevant to agile practitioners, but aligns very minimally with Agentic Software Delivery as defined; it does not include contextual intelligence, AI agents, or hybrid workflows. There are no signs of outdated or contradictory aspects, so no penalties were applied. The final low confidence reflects near-total topic misalignment.",
+    "reasoning_summary": "Content is about openness in agile, with no reference to autonomous agents or agentic delivery. Lacks the core themes, intent, and concepts of Agentic Software Delivery. Overall fit is minimal and mostly unrelated.",
     "level": "Ignored"
   }
 }

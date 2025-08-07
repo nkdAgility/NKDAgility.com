@@ -1000,17 +1000,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "KhKFVRcdbGo",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T13:00:41",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns well with the principles of systems thinking. It explicitly mentions the need to monitor and identify systems, create metrics, and implement changes, all of which are key aspects of organisational dynamics. The depth of discussion on how to achieve engineering excellence through system optimisation further supports its relevance to the category. However, while it touches on organisational culture, it does not delve deeply into the interplay of structure and culture, which slightly lowers the overall confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a strong fit for the category, as it focuses on analysing and improving organisational systems—core elements of systems thinking and organisational dynamics. It covers monitoring, metrics, and change implementation, all crucial for engineering excellence. While it briefly mentions culture, it doesn’t explore its relationship with structure in depth, which slightly limits its alignment."
+    "calculated_at": "2025-08-07T06:10:15",
+    "ai_confidence": 74.55,
+    "ai_mentions": 3.8,
+    "ai_alignment": 8.0,
+    "ai_depth": 8.2,
+    "ai_intent": 7.2,
+    "ai_audience": 7.9,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 75.0,
+    "reasoning": "Direct mentions of 'Organisational Physics' or 'systems thinking' are absent, but conceptual focus is strong: understanding and optimising organisational systems, linking structure/culture to performance. The text thoroughly explores system elements (monitor, measure, optimise), impact on value delivery, and iterative change. Examples reference measuring, mapping, and changing org systems to enable cultural or outcome shifts—core to Organisational Physics. Audience is leaders seeking organisational system change. Signal is high: minimal off-topic or filler content. The lack of direct terminology lowers the mentions score, but overall conceptual and practical fit with Organisational Physics is strong.",
+    "reasoning_summary": "Content robustly explores system optimisation, system-culture interplay, and value delivery, all key to Organisational Physics. While lacking explicit terminology, the thematic and intent fit is strong. Fit is partial but substantial; alignment is concept-driven.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -2029,5 +2035,24 @@
     "reasoning": "The content is focused on engineering excellence, organisational systems optimisation, and fostering technical leadership. It discusses concepts like metrics, system monitoring, and continuous improvement. However, it lacks explicit reference to maximising human or AI agency, agentic frameworks, or DevOps-ethos in agency terms. Most examples are introspective about system/process improvement but don’t delve into agentic engineering's philosophical or systemic agency dimensions, nor do they discuss ethical AI, feedback-driven adaptation, or automation as core competencies—staying mostly at a high-level process/leadership narrative.",
     "reasoning_summary": "While the content supports engineering system optimisation and technical leadership, it does not meaningfully address agentic principles like maximising agency, decentralised decision-making, or human-AI collaboration central to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KhKFVRcdbGo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:11",
+    "ai_confidence": 24.3,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.2,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "There are no explicit references to agentic principles, autonomous AI agents, or context-aware intelligence. The content focuses on organisational system optimisation, cultural change, metrics, and technical leadership, which only loosely relates to themes of continuous delivery or system improvement. However, there are no discussions of human-AI collaboration, autonomous systems, modern agentic practices (like CI/CD with agency), governance, or intelligent feedback loops as defined in the Agentic Software Delivery category. Thus, alignment and depth are limited, mentions are minimal, and intent is tangential at best.",
+    "reasoning_summary": "Content is about culture and systems optimisation for engineering excellence, not agentic software delivery. No discussion of AI agents or related practices. Fit with the category is weak and largely indirect.",
+    "level": "Ignored"
   }
 }

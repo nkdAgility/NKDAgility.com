@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Value Delivery",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses value delivery and its importance in aligning product development with customer needs, but it does not explicitly mention accountability or outcome ownership. While it touches on concepts related to Agile methodologies, the primary focus is on value delivery rather than accountability as a structural mechanism. The discussion lacks depth in terms of specific roles or the impact of accountability on performance and alignment.",
+    "calculated_at": "2025-08-07T06:12:12",
+    "ai_confidence": 32.95,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.2,
+    "ai_intent": 3.7,
+    "ai_audience": 3.5,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on strategies for delivering value through iterative, customer-centered approaches and collaboration, referencing Lean and Agile concepts. However, it does not discuss structural or role-specific accountability, outcome ownership, or distinctions between responsibility and accountability. There are no explicit or substantive mentions of accountability as defined in the category. Audience is generally aligned (practitioner/teams), but the content is only tangentially related to accountability in work system contexts.",
+    "reasoning_summary": "The content centers on value delivery and improvement but does not explicitly or deeply address accountability, outcome ownership, or role-based structure. Fit with the 'Accountability' category is partial and indirect.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3160,6 +3167,25 @@
     "final_score": 14.0,
     "reasoning": "The content focuses on strategies for value delivery through iterative processes and cross-functional human team collaboration, referencing Lean and Agile. However, it does not mention AI, human-AI partnerships, or collective intelligence dynamics as defined in the category. Discussion centers solely on human teams, with no exploration of augmented cognition or collaborative AI involvement. Thus, alignment, depth, and relevance to Collective Intelligence are minimal.",
     "reasoning_summary": "This content details value delivery within Agile and Lean frameworks for human teams, with no mention or implication of human-AI collaboration or collective intelligence. Its focus and terminology do not align with the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Value Delivery",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 31.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 1.7,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses iterative, continuous value delivery, customer alignment, and Lean/Agile principles, but does not mention or substantially explore autonomous AI agents, agentic systems, or contextual intelligence. Key topics such as agent integration, proactive context-aware intelligence, or agency in software delivery are missing. The content's intent and themes focus on general improvement frameworks, not specifically agentic software delivery as strictly defined.",
+    "reasoning_summary": "The content discusses iterative value delivery and Agile culture, but does not address agentic software delivery, AI agent integration, or agency. There is minimal to no fit with the specific category beyond generic process improvement themes.",
     "level": "Ignored"
   }
 }

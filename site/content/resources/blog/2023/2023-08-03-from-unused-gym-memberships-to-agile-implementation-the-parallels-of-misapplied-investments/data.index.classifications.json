@@ -878,15 +878,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "mzVDd2JFtHO",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:52:38",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content draws an analogy between gym memberships and agile methodologies, discussing the importance of proper implementation and commitment. However, it lacks direct mentions of technical leadership principles, such as mentoring, team dynamics, or specific agile practices. While it touches on the need for collaboration and iterative progress, it does not delve deeply into the role of a technical leader in fostering these aspects, resulting in a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 61.14,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.5,
+    "ai_intent": 7.2,
+    "ai_audience": 7.9,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "Direct mentions of 'technical leadership' are absent; instead, the content uses analogies to discuss agile adoption, implementation depth, and the dangers of superficial practices. There is reasonable conceptual alignment (focus on genuine agile change, not just ritual), and the discussion touches on issues like technical debt, cross-functionality, and retrospectives. However, it does not directly address the leadership role, strategies for mentoring, or explicit practices for team orchestration that are core to 'Technical Leadership.' The primary audience appears to be practitioners or managers interested in agile, which somewhat fits the category. The signal is strong but could be more focused—for example, it lacks concrete leadership strategies, and the emphasis is on mindset versus explicit leadership techniques.",
+    "reasoning_summary": "Content aligns partially with 'Technical Leadership' by advocating genuine agile adoption and touching on technical debt and team practices, but lacks direct leadership-focused discussion, strategies, or explicit mention of leadership roles.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -2006,6 +2013,25 @@
     "final_score": 33.0,
     "reasoning": "The content discusses the superficial versus genuine adoption of agile, using a gym membership metaphor. It refers to philosophical and cultural shifts necessary for successful implementation, touching on concepts like collaboration, team diversity, and continuous adaptation. However, it does not directly mention agentic engineering, developer/AI agency, or systemic observability, and it primarily stays within the boundaries of agile transformation. The themes of empowerment and meaningful change overlap with agentic engineering, but references are indirect, with little focus on decentralised decision-making, ethical AI, or DevOps ethos.",
     "reasoning_summary": "The article offers a metaphor for genuine agile adoption but lacks direct discussion of agentic engineering, agency, or AI augmentation. Its relevance lies in the themes of real commitment and cultural shift, not in exploring agency-driven engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mzVDd2JFtHO",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 14.37,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content draws parallels between superficial agile adoption and unused gym memberships, focusing on genuine commitment in methodology adoption. There are no direct or indirect mentions of agentic principles (no reference to AI agents, agentic delivery, autonomous systems, human-in-the-loop, or contextual intelligence). The main ideas revolve around agile methodology pitfalls and effective implementation, not integration of AI or agentic software delivery. The depth, intent, and topical alignment with the required category are therefore minimal. Audience alignment is somewhat higher since both topics target software delivery professionals, but the specific focus on agentic software delivery is absent. No penalties applied, as there are no outdated or contradictory practices.",
+    "reasoning_summary": "This content centers on the pitfalls of superficial agile adoption, not agentic software delivery. It lacks discussion of AI agents, autonomy, or contextual integration, so fit with the Agentic Software Delivery category is minimal and mostly tangential.",
     "level": "Ignored"
   }
 }

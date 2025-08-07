@@ -1661,17 +1661,23 @@
     "reasoning_summary": "This content is a strong fit for the Leadership category, as it thoroughly explores leadership concepts like servant and intent-based leadership within the Scrum Master role. It challenges misconceptions, emphasises the need for influence, accountability, and mastery, and directly addresses leaders and Agile practitioners. The focus remains on leadership qualities and responsibilities, making the classification highly appropriate."
   },
   "Social Technologies": {
+    "resourceId": "f2RQh2UCwqB",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of Scrum Masters, emphasising the importance of self-organisation, team dynamics, and the need for mastery in facilitating collaboration and decision-making. However, while it touches on relevant themes, it primarily focuses on the qualifications and expectations of Scrum Masters rather than a broader discussion of social technologies as frameworks for collaboration and value delivery. The depth of discussion on social technologies is limited, leading to a moderate confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content mainly explores the responsibilities and skills required of Scrum Masters, highlighting aspects like team self-organisation and collaboration. While these are related to social technologies, the focus remains on the Scrum Master role rather than a comprehensive look at social technologies as collaborative frameworks, making the fit with the category only partial."
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 84.25,
+    "ai_mentions": 2.2,
+    "ai_alignment": 9.4,
+    "ai_depth": 9.1,
+    "ai_intent": 8.2,
+    "ai_audience": 8.7,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "Direct, explicit mentions of 'Social Technologies' as a phrase are absent, hence a low direct mentions score, but the piece extensively and deeply discusses practices and philosophies (e.g., self-organisation, servant leadership, collective intelligence, continuous improvement, team-driven selection) that are core to the category definition. The text robustly aligns with the concepts of transparency, value delivery, emergent leadership, and fostering effective team dynamics—repeatedly emphasizing how Scrum Masters are to be chosen, elevated, and enabled by their teams. The intended purpose and main themes are fully aligned: the article passionately advocates for social frameworks rather than mere process compliance, and sharply critiques superficial approaches that miss the collaborative, adaptive essence of Agile social technologies. The audience matches practitioners and decision-makers in Agile, Scrum, and DevOps settings. The content is relevant throughout, is not outdated, and does not undermine or satirize the subject; there is no filler. No penalties applied. Confidence is high because all the primary dimensions (except direct mention by name) are strongly evident.",
+    "reasoning_summary": "Content thoroughly explores core elements of social technologies—self-organisation, effective team collaboration, mastery, and leadership in Scrum—deeply and purposefully. Fit with the category is clear, even without explicit use of the term.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2340,6 +2346,25 @@
     "final_score": 40.0,
     "reasoning": "There are no direct mentions of 'Agentic Engineering' or its terminology. The content mainly advocates for Scrum Master role professionalism, emphasizing mastery, accountability, and internal team recognition over certifications. There is moderate conceptual overlap regarding developer agency, autonomy, and continuous delivery—especially in advocating that Scrum Masters earn their role by demonstrating competence and agency within a technical team. The article highlights themes like servant leadership and mastery across technical, business, and organizational domains, which somewhat aligns with agentic practices, but does not discuss deliberate engineering design for human/AI agency, ethical AI, system observability, or other core Agentic Engineering aspects. The audience fit is moderate, aimed at agile professionals but not specifically Agentic Engineering practitioners. The signal is decent—discussion is focused, though not on this category.",
     "reasoning_summary": "The discussion emphasizes Scrum Master mastery, agency, and autonomy within teams, somewhat aligning with Agentic Engineering's emphasis on human agency in complex systems. However, it lacks direct reference to agentic design, systemic observability, or AI integration, so only tangentially fits the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "f2RQh2UCwqB",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 7.29,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.85,
+    "ai_depth": 2.15,
+    "ai_intent": 1.1,
+    "ai_audience": 0.9,
+    "ai_signal": 0.64,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content centers exclusively on the competencies, selection, and expectations of the Scrum Master role, focusing on human expertise, mastery, and leadership within Agile teams. There is no mention or exploration of agentic software delivery, autonomous AI agents, contextual intelligence, embedded AI into delivery processes, or any synergy between AI and human practitioners. While some concepts like technical mastery, DevOps, and engineering practices are referenced, all are discussed as part of the human-led delivery context, not within the agentic paradigm as defined. The content does not discuss AI involvement, AI-human integration, agent design, or similar topics; nor does it engage with any of the agency, autonomy, or feedback loop themes intrinsic to Agentic Software Delivery. Therefore, fit is poor across all scoring dimensions, and no penalties were needed as there is no direct contradiction or outdated content.",
+    "reasoning_summary": "This content focuses strictly on human mastery and leadership in the Scrum Master role, with no reference to autonomous agents or agentic software delivery. There is minimal to no conceptual overlap with the category.",
     "level": "Ignored"
   }
 }

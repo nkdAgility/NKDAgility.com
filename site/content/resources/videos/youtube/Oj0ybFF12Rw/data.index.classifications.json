@@ -1427,15 +1427,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "Oj0ybFF12Rw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:44:02",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum and its scaling, particularly through the Nexus framework, which is not directly related to the One Engineering System. While it touches on concepts of scaling and methodologies, it does not address the core principles or components of 1ES, nor does it provide insights into integration across teams or best practices for implementing a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 22.93,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.6,
+    "ai_audience": 6.3,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content explores scaling Scrum and Nexus as a framework for scaling Agile practices, with focus on value delivery and teamwork. However, it does not mention the One Engineering System (1ES) directly or discuss unified engineering systems, practices, or 1ES principles. While scaling, integration, and standardization are implied (in the context of Scrum/Nexus), the core meaning of 1ES is not addressed. Audience alignment is moderate due to the technical Agile/Scrum focus, but conceptual and intent fit are weak.",
+    "reasoning_summary": "Content focuses on scaling Scrum (specifically Nexus) rather than the One Engineering System. No references to 1ES principles, unified tools, or engineering standardization. Only slight conceptual overlap, so fit is low and not direct.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1941,6 +1948,25 @@
     "final_score": 23.0,
     "reasoning": "There are zero direct mentions of Agentic Engineering, its terminology, or core philosophical concepts (agency, decentralization, DevOps, ethical AI, etc.). The discussion centers on scaling Scrum using Nexus and responding to challenges of scale, focusing on practical Scrum implementation. No significant exploration of developer or system agency, autonomous decision-making, feedback-driven adaptation, or AI integration occurs. The audience is strongly aligned with practitioners interested in iterative delivery and scaling frameworks, but the discussion is outside the boundaries of deliberately engineering human or AI agency in technical systems. Most of the signal is relevant within its Scrum context, but not for Agentic Engineering as defined.",
     "reasoning_summary": "This content focuses on scaling Scrum using Nexus, without addressing agency, autonomy, or ethical system design. While relevant for Scrum practitioners, it does not align with Agentic Engineering's core concepts or deliberate design for maximizing human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Oj0ybFF12Rw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 7.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "This content focuses on scaling Scrum and the Nexus framework, highlighting practices and perspectives around Scrum at scale. However, it does not discuss agentic principles (e.g., autonomous AI agents, contextual intelligence, human-agent collaboration) or the integration of AI-driven agency in software delivery. There is no exploration of modern engineering for agentic delivery, governance for agents, or feedback loops grounded in agentic design. The article addresses only human-driven Scrum scaling, which is explicitly excluded from the 'Agentic Software Delivery' category.",
+    "reasoning_summary": "Content is solely about human-centric Scrum scaling, not agentic delivery. There are no references to AI agents, contextual intelligence, or agency in delivery practices. The fit is minimal and mostly unrelated.",
     "level": "Ignored"
   }
 }

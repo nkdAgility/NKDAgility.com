@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "sKYVNHcf1jg",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:09:43",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses experiences and lessons learned as an agile consultant, focusing on readiness and engagement rather than core DevOps principles. While it touches on themes of continuous improvement and the importance of collaboration, it does not explicitly mention DevOps or its specific practices. The discussion is more aligned with agile methodologies than with the broader DevOps philosophy.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 17.41,
+    "ai_mentions": 1.5,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 3.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The only DevOps mention appears in a closing invitation to discuss more, not as a topic. The focus is on agile consulting challenges, particularly organizational readiness and engagement. There's no meaningful discussion of DevOps principles, practices, or culture. While the audience may overlap with DevOps practitioners, the content intent and alignment is almost exclusively agile. No penalties are warranted as content is neither outdated nor critical to DevOps.",
+    "reasoning_summary": "DevOps is only mentioned incidentally; content is about agile consulting, not DevOps philosophy or practice. Thus, confidence is very low that this fits the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1946,6 +1953,25 @@
     "final_score": 29.0,
     "reasoning": "The content is a personal reflection on consulting engagement challenges, focusing on organisational readiness, engagement, and listening. There is no direct mention of Agentic Engineering, nor discussion of maximizing human or AI agency, systemic observability, or deliberate engineering practice design. The narrative is tightly aligned with agile consulting process improvement and organisational change management, not the philosophical and technical underpinnings of Agentic Engineering. While Agile, DevOps, and continuous improvement are mentioned, they feature as context rather than exploring agentic concepts, decision-making frameworks, ethical autonomy, or developer agency. The audience (agile practitioners/consultants) modestly overlaps, but the piece does not deliver depth or focus on Agentic Engineering's core topics.",
     "reasoning_summary": "This personal account emphasizes agile consulting, readiness, and engagement, lacking direct ties to the philosophy or practices of Agentic Engineering. While agile and DevOps are referenced, they are not connected to agency maximization or deliberative engineering design, resulting in low thematic fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sKYVNHcf1jg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 12.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.6,
+    "ai_audience": 3.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is a personal story about challenges faced by an agile consultant and focuses on organisational readiness, engagement, and the challenges of effecting change. There is no explicit reference or implicit exploration of agentic software delivery, autonomous AI agents, or modern engineering practices framed around proactive agency. The main audience is agile practitioners, not specifically those interested in agentic delivery. While continuous improvement and change facilitation are mentioned, there is no discussion of contextual AI, integration of autonomous agents, governance frameworks, or related concepts. Thus, alignment, depth, and direct mention scores are minimal, with a slightly higher audience and intent score due to peripheral agile relevance.",
+    "reasoning_summary": "This content is about human consulting and organisational change in agile contexts, not agentic software delivery. No substantive mention or conceptual fit is present except for generic agile overlap; relevance to the category is minimal and superficial.",
     "level": "Ignored"
   }
 }

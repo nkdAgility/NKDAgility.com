@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Continuous Improvement",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the concept of Continuous Improvement as a principle within Agile methodologies like Lean, Scrum, and Kanban, but it does not focus on specific tools or their functionalities. While it touches on how Continuous Improvement is integrated into these frameworks, it lacks detailed discussions on specific tools that facilitate this principle, which is essential for a stronger alignment with the 'Tool' category.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 23.86,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 7.0,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content is centered on the principle and practice of continuous improvement, especially in Lean, Scrum, and Kanban. However, it does not discuss tools, techniques, or software applications facilitating continuous improvement, nor does it analyze tools or tool integration. Direct tool mentions, tool-specific guidance, or best practices for tool use are absent. The discussion focuses on methodology and cultural mindset, not enabling mechanisms or comparative analysis of tools. The intended audience is partially aligned as these are practitioners, but the core definition of the Tool category is not met.",
+    "reasoning_summary": "The content explores continuous improvement as a principle in Agile, Lean, and Scrum but lacks discussion of tools, software, or techniques that support these practices. Thus, it only partially fits the 'Tool' category.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3139,6 +3146,25 @@
     "final_score": 20.0,
     "reasoning": "The content thoroughly covers Continuous Improvement in Agile, Lean, Scrum, and Kanban, focusing on empiricism, team involvement, learning, and data-driven adaptation. However, it never mentions or describes AI agents as partners, nor does it discuss human-AI collaboration, collective cognition, or the emergence of superior capabilities from such synergy. The team/collective framing is exclusively human, without any tie to human–AI partnerships, the core subject of the 'Collective Intelligence' category.",
     "reasoning_summary": "The content addresses ongoing improvement and collaborative team learning within Agile, Lean, and Scrum, but only among humans. No references are made to human-AI partnerships or the defining aspects of Collective Intelligence required for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Continuous Improvement",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:06",
+    "ai_confidence": 18.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 6.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content provides a broad overview of continuous improvement principles in Lean, Scrum, and Kanban without reference to autonomous AI agents, agentic systems, or their specific roles in software delivery. It focuses on general cultural and process practices, not on agentic delivery or its enabling technologies. While the audience may partially overlap with the category, and there is strong relevance to business agility, there are no direct or conceptual mentions of agency, autonomy, integration of AI, governance of agents, or context-aware systems. Thus, fit is very limited and confidence is low.",
+    "reasoning_summary": "Content focuses on general continuous improvement in Lean, Scrum, and Kanban—no mention of agentic software delivery, AI agents, or agentic practices. Only minor audience overlap; category fit is very weak.",
     "level": "Ignored"
   }
 }

@@ -1481,15 +1481,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "LkphLIbmjkI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:26:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the benefits of Agile consultants over professional coaches in the context of Scrum teams. It does not mention the One Engineering System (1ES) framework, nor does it address its principles, components, or implementation. The focus is on Scrum methodology rather than the integration and standardisation of engineering processes, which is central to 1ES.",
+    "calculated_at": "2025-08-07T06:11:22",
+    "ai_confidence": 10.51,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.46,
+    "ai_intent": 1.6,
+    "ai_audience": 2.11,
+    "ai_signal": 1.13,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on the value of Agile consultants versus coaches for Scrum teams, with an emphasis on technical mentoring and understanding engineering practices. There are no direct mentions or discussion of One Engineering System or standardisation across teams. While engineering practices are referenced, the context relates only to coaching and consultancy for Scrum teams and not 1ES, making both conceptual and surface alignment very weak. The audience (Scrum teams, Agile practitioners) could overlap with that of 1ES, but nothing in the material fits the category definition, depth, or core intent. No penalties are needed as there is no outdatedness or contradictory tone.",
+    "reasoning_summary": "The content is about Agile consultants/coaches for Scrum teams, not about One Engineering System. There is no discussion of unified engineering, standardisation, or tool/process integration across organizations. Fit with the category is extremely weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1992,5 +1999,24 @@
     "reasoning": "The content focuses on why Scrum teams may benefit more from Agile consultants over coaches, emphasizing the need for technical depth, mentoring, and practical expertise for engineering success. While there are peripheral references to themes such as technical practices, mentoring, and process understanding, these are not framed around maximizing human or AI agency, nor do they address decentralization, feedback-driven adaptation, or ethical AI collaboration central to Agentic Engineering. The content does not mention Agentic Engineering directly, nor does it engage deeply with its philosophical or systemic premises. The discussion is pragmatic and centers on practical skill transfer within engineering contexts, targeting practitioners but lacking direct linkage to the broader agentic ethos or explicit DevOps/autonomous feedback loops.",
     "reasoning_summary": "The content discusses practical and technical skill-building for Scrum teams, with some overlap in areas like engineering practice and mentoring, but does not explicitly address Agentic Engineering themes such as maximizing human/AI agency or decentralized decision-making.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LkphLIbmjkI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 15.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.3,
+    "ai_intent": 1.1,
+    "ai_audience": 7.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content centers on the value of Agile consultants versus professional coaches for Scrum teams, emphasizing practical technical guidance, mentoring, and foundational engineering understanding. There is no discussion of autonomous AI agents, agentic principles, or integration of agency in software delivery, nor are any of the core concepts of 'Agentic Software Delivery' (autonomy, context-aware intelligence, AI-human synergy, governance of agents, etc.) addressed explicitly or implicitly. The target audience (Scrum/Agile practitioners) does slightly overlap, and there are minor allusions to engineering practices, but overall, the content misses the agentic theme entirely.",
+    "reasoning_summary": "The content focuses on Agile consulting versus coaching in Scrum, lacking any discussion or mention of agentic software delivery, autonomous agents, or related principles. It does not fit the category definition.",
+    "level": "Ignored"
   }
 }

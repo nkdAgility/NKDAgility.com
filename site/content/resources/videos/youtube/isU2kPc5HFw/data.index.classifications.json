@@ -1146,17 +1146,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "isU2kPc5HFw",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T14:45:09",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the author's journey with Azure DevOps, focusing on practical applications, migration strategies, and the importance of custom solutions in the context of product delivery. It touches on methodologies and practices relevant to delivering software products, such as planning, execution, and the role of tools in enhancing team capabilities. However, while it aligns with the core themes of product delivery, the primary focus is more on personal experiences and insights rather than a structured discussion of product delivery methodologies.",
-    "level": "Secondary",
-    "reasoning_summary": "This content shares personal experiences with Azure DevOps, highlighting practical uses and migration strategies that relate to product delivery. While it references relevant methodologies and tools, the main emphasis is on individual insights rather than a systematic exploration of product delivery practices, making it only partially aligned with the category."
+    "calculated_at": "2025-08-07T06:10:57",
+    "ai_confidence": 83.6,
+    "ai_mentions": 7.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.3,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.8,
+    "ai_penalty_details": "mentions (-0.5, category not explicitly named, but core technology is highly relevant); signal (-0.3, some anecdotal elements not strictly focused on category core).",
+    "final_score": 84.0,
+    "reasoning": "The content closely aligns with 'Product Delivery' via practical, detailed discussion of Azure DevOps (a core product delivery/DevOps toolset). The narrative explores migration, tool integration, optimizing workflows, team enablement, and quality—all central to product delivery. Anecdotal/personal storytelling occasionally drifts from strict practice discussion, and the phrase 'Product Delivery' is not directly named—hence minor penalties on 'mentions' and 'signal.' However, emphasis on planning, deployment, migration strategies, CI/CD practices, cross-functional enablement, and practical lessons provides strong conceptual and depth alignment. Audience targeting (practitioners, consultants, teams involved in delivery) is consistent with the category. Overall, this is a strong fit, though content is presented as a personal/professional journey rather than a formal guide.",
+    "reasoning_summary": "Content offers deep, practical insight into optimizing DevOps workflows and tool migrations—key aspects of Product Delivery—even though the category is not directly named. The fit is strong due to sustained focus on real-world delivery practices and team enablement.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1989,5 +1995,24 @@
     "reasoning": "The content is a detailed personal journey with Azure DevOps covering tools, migrations, and optimization. While it touches on empowering teams and streamlining workflows, it orients almost exclusively around technical implementation and consulting. There is virtually no mention or consideration of the foundational ideas of Agentic Engineering—such as developer/AI agency, systemic observability, or ethical autonomy. The intent is practical guidance for DevOps practitioners rather than designing for maximized agency. The audience does overlap with Agentic Engineering (engineers/consultants in DevOps), but the signal-to-noise ratio is lowered by the heavy focus on migration anecdotes and tool-specific advice, not philosophical or systemic engineering practices. Penalties applied to mentions, alignment, and depth compensate for lack of direct linkage or depth. Final confidence reflects these factors proportionately.",
     "reasoning_summary": "Although this content offers thorough, practical insights into Azure DevOps migrations and tooling, it lacks meaningful engagement with the principles of Agentic Engineering and doesn't address the deliberate design of engineering practices to maximize human or AI agency.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "isU2kPc5HFw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 17.615,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 5.6,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions and alignment penalized 1 point each due to outdated references to early TFS/VSTS, no agentic intelligence content, and content scope being limited to traditional DevOps migration and scripting practices.",
+    "final_score": 18.0,
+    "reasoning": "The content is a memoir on the evolution of Azure DevOps from TFS to the present, focusing on migration, scripting, tooling, and training. There is no explicit mention of autonomous AI agents, context-aware intelligence, or human-agent synergy. The closest topics—API integrations, custom scripting, process automation—reflect traditional DevOps but lack agentic principles (agency in AI, autonomous workflows, embedded intelligence). The content's intent (sharing DevOps lessons/tips) is moderately relevant to broader software delivery topics, but does not align with the definition of Agentic Software Delivery. A penalty is applied for referencing legacy practices and tools (early TFS, manual scripting) without connecting to modern agentic strategies. The only partial alignment is that the audience (DevOps practitioners) might be interested in agentic delivery in principle.",
+    "reasoning_summary": "This content focuses on DevOps migration, scripting, and consulting around Azure DevOps/TFS. It lacks discussion of autonomous AI agents, agency, or context-aware workflows—therefore, it fits Agentic Software Delivery only marginally, if at all.",
+    "level": "Ignored"
   }
 }

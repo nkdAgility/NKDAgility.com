@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Project Management",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content discusses project management broadly without a specific focus on accountability as a foundational mechanism. While it mentions coordinating people and processes, it does not explicitly address outcome ownership or the structural accountabilities relevant to roles like Product Owner or Scrum Master. The discussion lacks depth in exploring how accountability influences performance or aligns with organisational design patterns.",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 32.35,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.0,
+    "ai_audience": 6.2,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content provides a general overview of project management without mentioning accountability or explicitly addressing structural accountabilities, outcome ownership, or role-based accountabilities. It references some structural concepts (such as oversight, stakeholder management, and value delivery), but these are discussed within the broader context of project management practices, not in alignment with the category definition. There is no detailed exploration of accountability distinctions or direct ties to outcome/role-based ownership within modern work systems like Agile, Scrum, or DevOps. Thus, the confidence that the content meaningfully fits the 'Accountability' category is low to moderate.",
+    "reasoning_summary": "The content presents an overview of project management and its methodologies but does not directly address structural accountability or outcome ownership as defined for this category. The fit is partial and mostly incidental.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3094,6 +3101,25 @@
     "final_score": 10.0,
     "reasoning": "The content discusses general project management principles and methodologies without any reference to human-AI collaboration, team cognition, or collective intelligence in the context of humans and AI as agents. There are no mentions of collaborative patterns between AI agents and humans, no discussion of distributed cognition or socio-technical dynamics involving both. The audience is generic (project management practitioners), and the signal-to-noise ratio is low in terms of relevance to collective intelligence as defined.",
     "reasoning_summary": "This content does not address human-AI collaboration or collective intelligence themes, instead offering a generic overview of project management practices and methodologies without reference to AI agents as collaborators.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Project Management",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 9.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 3.6,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content exclusively describes general project management practices, referencing a broad swath of methodologies (Waterfall, PRINCE2, Agile) but provides no explicit mention or implication of agentic concepts, autonomous AI agents, or advanced system intelligence. There are no direct or indirect discussions of integrating AI with human expertise, contextual intelligence, agentic feedback loops, or other key factors central to Agentic Software Delivery. The intent is general knowledge rather than agentic innovation in software delivery. The audience could overlap at a high level (delivery professionals) but the topic does not address or align with the category. No penalties are needed; the mismatch is already reflected in low scores.",
+    "reasoning_summary": "This content does not address Agentic Software Delivery. It covers traditional and contemporary project management methodologies without reference to AI agents, contextual intelligence, or agent-centered practices. Fit is minimal.",
     "level": "Ignored"
   }
 }

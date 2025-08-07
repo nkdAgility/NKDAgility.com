@@ -186,15 +186,22 @@
     "level": "Ignored"
   },
   "Product Owner": {
+    "resourceId": "jCrXzgjxcEA",
     "category": "Product Owner",
-    "calculated_at": "2025-03-14T19:16:24",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Caman strategy and the use of Azure DevOps for visualisation in hybrid work environments. While it touches on Agile concepts, it does not specifically address the responsibilities or practices of a Product Owner. The discussion lacks direct mentions of backlog management, stakeholder engagement, or prioritisation strategies, which are central to the Product Owner role.",
+    "calculated_at": "2025-08-07T06:10:53",
+    "ai_confidence": 19.82,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 6.2,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content thoroughly covers practical aspects of visual workflow management and Caman strategy using Azure DevOps for hybrid teams, but does not mention or focus on the Product Owner accountability, responsibilities, strategic decision-making, or value delivery. References to Scrum are incidental (e.g., mentioning Scrum settings/states), and there is no direct targeting of the Product Owner role or audience. The intent is more tool- and process-driven rather than focused on accountability, prioritisation, or stakeholder management as defined for this category. Thus, the overall fit is weak, with a low score given only minor overlap (indirect via Scrum process mention, but not relating to the Product Owner accountability).",
+    "reasoning_summary": "Content focuses on workflow visualisation and tool use (Azure DevOps/Caman), not Product Owner accountability. No discussion of value maximisation, prioritisation, or stakeholder work—only minor, indirect Scrum references. Poor category fit.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -2004,5 +2011,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent; the content focuses on practical setup and use of Azure DevOps Caman boards. While it addresses workflow visualization, shared rules, and team autonomy in hybrid environments and touches on topics like establishing shared rules and decision impact, the presentation remains surface-level in terms of agency maximization (human or AI), ethical automation, decision-making frameworks, or feedback-driven adaptation. There's little discussion of philosophical underpinnings, engineering autonomy, or ethical design; no mention of AI or systemic observability. The audience is mostly software practitioners interested in workflow management rather than those focused on the philosophical and systemic aspects of agency in engineering. Content is clear and organized but mainly product-focused.",
     "reasoning_summary": "This content centers on practical workflow visualization and rule-setting in Azure DevOps for hybrid teams. While individual and team choice are acknowledged, it lacks explicit focus on agency maximization or Agentic Engineering principles. The match is limited and mainly operational, not philosophical.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "jCrXzgjxcEA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 12.474,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.4,
+    "ai_intent": 2.1,
+    "ai_audience": 3.3,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on workflow visualisation and using Azure DevOps and Caman boards for hybrid work management. It centers around human-driven process improvement and digital boards, not on integrating autonomous AI agents, contextual intelligence, or agentic delivery. There are no direct mentions or concepts of AI agency, context-aware systems, or governance between AI and humans. The main audience is software practitioners, but the discussion is traditional and lacks alignment with Agentic Software Delivery topics.",
+    "reasoning_summary": "Content is about collaborative workflow visualisation/tools in Azure DevOps, not agentic delivery or autonomous AI agents. No agentic concepts or intelligence discussed; fit for Agentic Software Delivery is very low and at best tangential.",
+    "level": "Ignored"
   }
 }

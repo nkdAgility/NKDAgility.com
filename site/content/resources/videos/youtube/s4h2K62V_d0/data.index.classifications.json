@@ -1129,15 +1129,22 @@
     "level": "Ignored"
   },
   "Enterprise Agility": {
+    "resourceId": "s4h2K62V_d0",
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T17:16:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on code reviews and quality assurance practices, which are more aligned with team-level agile practices rather than enterprise-level agility. While it mentions automation and practices that could contribute to efficiency, it lacks a broader discussion on organisational agility, frameworks, or cultural aspects that define Enterprise Agility.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 28.73,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.9,
+    "ai_audience": 5.7,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses almost entirely on code review automation and early defect detection, discussing practices relevant to software teams and engineering. While 'agility' and related hashtags are mentioned, and there is a small nod to value delivery for the business, there is no substantive discussion of organisational structures, enterprise-wide agility, cross-functional collaboration at scale, or leadership/metrics/culture at the enterprise level. The primary audience appears to be developers and technical leads rather than executive/organizational strategists. Minimal alignment with 'Enterprise Agility' via surface-level agile references, but lacks substantive integration with enterprise-level change, thus low overall confidence.",
+    "reasoning_summary": "Content is focused on team-level code review and automation. Only minor agile references, with no meaningful discussion of enterprise-wide agility, transformation, or culture. Fit with the 'Enterprise Agility' category is very limited and mostly tangential.",
     "level": "Ignored"
   },
   "Lean": {
@@ -2018,6 +2025,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on automation and early defect detection in code review practices, emphasizing DevOps tooling and quality. While these are related to engineering practices and continuous delivery, there is minimal direct or conceptual engagement with maximizing human or AI agency, decentralization, or systemic observability. The main themes do not explicitly address the philosophical foundations or purpose of Agentic Engineering, such as democratizing decision-making or augmenting engineer/AI agency, nor is ethical autonomy or feedback-driven adaptation a central concern. The content's audience of developers and managers partially overlaps, but its focus is standard QA, not agentic praxis.",
     "reasoning_summary": "This content primarily discusses code review automation and quality assurance. While it touches on aspects relevant to modern engineering, it does not closely align with Agentic Engineering’s core focus on agency, decentralization, or the philosophical dimensions of engineering autonomy.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "s4h2K62V_d0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 13.44,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 4.7,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on code review practices, automation, and early defect detection, emphasizing quality and using tools like pull requests, GitHub, and Azure DevOps. However, it discusses standard automation practices rather than agentic software delivery. There is no mention of autonomous AI agents, contextual intelligence, human-agent synergy, or agency. The main ideas and themes center on manual versus automated validation and code quality—not on proactive, context-aware agents embedded into systems or outcome-focused agency in delivery. Audience overlaps technically, but the content does not address agentic delivery. Surface use of automation is present, but the agentic dimension is not explored.",
+    "reasoning_summary": "Content is about automating code reviews and quality in delivery pipelines, not agentic software delivery. It lacks discussion of autonomous AI agents, contextual intelligence, or agentic principles. Fit with the category is very low and mostly tangential.",
     "level": "Ignored"
   }
 }

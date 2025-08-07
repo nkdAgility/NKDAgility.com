@@ -1494,15 +1494,22 @@
     "level": "Ignored"
   },
   "Install and Configuration": {
+    "resourceId": "3X2Oka9IrKw",
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges of scaling teams and the impact of rigid structures on innovation, which does not directly relate to installation or configuration processes. There are no explicit mentions of installation procedures, configuration best practices, or troubleshooting, leading to a very low confidence score.",
+    "calculated_at": "2025-08-07T06:10:12",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is a conceptual discussion on scaling agile teams, team empowerment, process streamlining, and fostering innovation. It never mentions or discusses installing, configuring, or integrating tools, nor does it provide step-by-step technical instructions or troubleshooting. The audience is managers and leaders, not technical practitioners seeking install/config guidance. Signal-to-noise ratio remains low for the target category, as 100% is outside the technical scope. No penalties applied as the content is current and not satirical/critical.",
+    "reasoning_summary": "Content is unrelated to install or configuration, focusing entirely on agile team scaling and innovation. Lacks technical, instructional, or tool configuration aspects required by this category. Fit is extremely poor and almost irrelevant.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -2225,5 +2232,24 @@
     "reasoning": "The content strongly focuses on empowering teams, reducing bureaucracy, and fostering innovation through practices that boost agency and adaptability—closely aligning with the intent of Agentic Engineering. It discusses streamlined processes, decentralised decision-making, and accountability, which hint at agentic principles but does not directly reference Agentic Engineering or deeply address AI integration, systemic observability, or DevOps/automation as core engineering practices. The audience and signal are well targeted at engineering leaders and practitioners interested in autonomy and agility. Some depth and practical examples are provided, but the discussion remains mostly conceptual and organisational, with minimal coverage of technical agentic engineering methods or evidence-based decision frameworks. No outdated or contradictory content is present; no penalty is applied.",
     "reasoning_summary": "This content emphasizes team empowerment, process streamlining, and agility to avoid bureaucracy while scaling—highly relevant to Agentic Engineering’s themes of maximising agency and adaptability. However, it lacks direct references and depth on technical or AI aspects central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "3X2Oka9IrKw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:13",
+    "ai_confidence": 18.9,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.8,
+    "ai_intent": 2.5,
+    "ai_audience": 5.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses agile scaling, empowerment, and avoiding bureaucracy, but does not reference agentic systems, autonomous AI agents, contextual intelligence, or agentic delivery practices. There is no mention of AI, autonomy, or agent-integration themes. The audience (organizational change/practitioners) could overlap with agentic software delivery, but the main purpose and depth are only tangential, focusing on agile values rather than agentic delivery. There are no outdated or contradictory elements, so no penalties are applied.",
+    "reasoning_summary": "The content promotes agile scaling and empowerment, but lacks any discussion of autonomous AI agents or agentic software delivery principles. The fit is minimal and indirect, with only general alignment around innovation and agility.",
+    "level": "Ignored"
   }
 }

@@ -1484,15 +1484,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "IFX3SRUlunc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:49:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on lean product development, which is not directly related to the One Engineering System. While it discusses decision-making and value creation, it does not mention the principles or components of 1ES, nor does it address integration of tools or processes across teams. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 13.52,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused entirely on lean product development, value-driven decision-making, and efficient product ownership practices. There is no explicit mention or in-depth discussion of One Engineering System or its principles (standardisation, unification, cross-team tool/process integration). Though some themes like efficient engineering practices are broadly related, the content lacks any direct or substantive connection to 1ES. The target audience (product owners, lean practitioners) only partially overlaps with the 1ES audience of engineering system implementers. The discussion, while relevant for process improvement, is not framed around framework integration or standardisation across engineering teams, nor does it discuss 1ES, its challenges, or case studies.",
+    "reasoning_summary": "This content does not align with the One Engineering System category, lacking any direct mention or deep discussion of 1ES topics. It instead focuses on lean product development concepts and methods, which are adjacent but not category-relevant.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1995,6 +2002,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on lean product development and decision-making improvement, emphasizing efficiency, value, and product ownership. However, it does not explicitly mention Agentic Engineering, nor does it discuss maximizing human or AI agency, systemic observability, DevOps culture, or ethical AI integration. While there is some conceptual overlap in empowering teams and decision-making, the depth and intent are more about lean methodology than agentic design. The audience is similar, but the signal-to-noise ratio reflects only partial relevance.",
     "reasoning_summary": "While the content shares themes like better decision-making and empowerment in engineering, it lacks direct references or substantial focus on Agentic Engineering principles, such as maximizing human/AI agency or systemic observability. Fit is partial and mostly tangential.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "IFX3SRUlunc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 11.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.4,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on Lean Product Development—emphasizing better decision-making, risk reduction, customer value, and efficient product ownership. There are no direct or indirect references to agentic software delivery, autonomous AI agents, or the integration of contextual AI support in software delivery. Modern engineering practices are mentioned only in broad terms as 'engineering practices', but these do not hint at agentic/autonomous, context-aware approaches central to the classification definition. The intent, audience, and examples remain focused on lean, not on agentic methodologies, AI agents, or human-AI synergy. No penalties were applied as the content is not outdated or contradictory, but all scores are low due to extremely partial/absent fit.",
+    "reasoning_summary": "This content addresses Lean Product Development and product ownership, not Agentic Software Delivery. There is little or no mention of autonomous AI agents, agentic principles, or relevant practices. The fit is weak and mostly irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -275,15 +275,22 @@
     "level": "Ignored"
   },
   "Product Strategy": {
+    "resourceId": "TCs2IxB118c",
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T18:13:40",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on team morale and mentorship rather than product strategy. While it touches on aspects of team engagement that could indirectly relate to product success, it lacks direct discussions on product vision, roadmapping, or market analysis, which are core to the Product Strategy category.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 27.324,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.1,
+    "ai_intent": 2.4,
+    "ai_audience": 5.0,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on the benefits of mentorship programs for team morale, engagement, and performance. While it discusses aligning employee motivation with organizational goals and includes references to product management teams, it does not address core product strategy topics like vision, roadmap development, market analysis, or strategic planning. The main themes revolve around people development, motivation, and training formats rather than methodologies or frameworks directly defining product vision or strategy. Discussions about outcomes such as improved alignment or delivery are means to higher team performance, not explorations of product strategy itself. Therefore, it only loosely aligns at a supporting level but does not substantively fit the category.",
+    "reasoning_summary": "The content centers on team morale and performance through mentorship, not on defining or developing product strategy. It only weakly aligns with the category through indirect mentions of organizational goals and product management.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -2028,6 +2035,25 @@
     "final_score": 23.0,
     "reasoning": "The content emphasizes team morale, engagement, and the value of long-term mentorship to enable autonomy, mastery, and purpose. While these themes touch on intrinsic motivation and human agency, there is no explicit reference to Agentic Engineering or its unique integration of DevOps, engineering autonomy, AI augmentation, or systemic feedback mechanisms. The discussion remains largely at the level of team motivation and organizational learning, specifically through mentorship. Technical and philosophical elements core to Agentic Engineering, such as decentralization of decision-making, observability, DevOps-infused craftsmanship, or ethical AI agency, are absent. The likely audience (team managers, HR, and line leaders) overlaps somewhat with those who might pursue Agentic Engineering, but the focus is on engagement, not the deliberate design of engineering ecosystems that foster agency for both humans and AI. As such, the confidence score is low, reflecting limited direct overlap.",
     "reasoning_summary": "This content focuses on team engagement and the benefits of long-term mentorship, spotlighting motivation and collaboration. It only indirectly relates to Agentic Engineering by discussing autonomy, but does not address the core concepts or practices specific to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "TCs2IxB118c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 6.02,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.6,
+    "ai_audience": 0.62,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on mentorship, team engagement, and intrinsic motivation—not agentic software delivery. There is no mention of AI agents, contextual intelligence, or integration with engineering practices associated with the category. While there is some overlap in discussing team performance and delivery, it is strictly from a human and organizational development angle, without reference to agentic principles or modern AI-driven delivery practices. Examples and case studies revolve solely around mentorship's impact, not autonomy of AI agents, agency, or systems integration. The audience (managers, product, engineering teams) modestly overlaps but the primary thrust is unrelated. No penalties for outdatedness or critical framing are warranted.",
+    "reasoning_summary": "This content does not discuss agentic software delivery, AI agents, or related integrations. It is about mentorship and engagement, so alignment with the category is very low and fit is not clear or direct.",
     "level": "Ignored"
   }
 }

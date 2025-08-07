@@ -1488,15 +1488,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "hz-iCoxHxxa",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:47:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile training and specific courses related to Scrum and Agile methodologies, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not address integration, standardisation, or the impact of a unified engineering system on software delivery.",
+    "calculated_at": "2025-08-07T06:11:02",
+    "ai_confidence": 9.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.95,
+    "ai_intent": 0.8,
+    "ai_audience": 3.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content solely discusses Agile, Scrum, Kanban, facilitation, evidence-based management, and related training—none of which directly reference or discuss One Engineering System (1ES), its principles, or integration frameworks. There is no mention of standardising or unifying engineering processes, no discussion of cross-team tool/process integration, and no thematic alignment with 1ES as defined. While the audience is similar (technical practitioners/leaders), the topic and intent are only loosely adjacent via general process improvement in software development, not specifically categorised under 1ES.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It covers Agile, Scrum, and related training but does not mention or reference 1ES principles, integration, or standardisation. The fit is minimal and only tangential.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1998,6 +2005,25 @@
     "final_score": 24.0,
     "reasoning": "Direct mentions of 'Agentic Engineering' or its defining concepts are virtually absent. The content advertises training on agile practices (Agile Kata, facilitation, backlog management, evidence-based management) that can loosely relate to developer agency and feedback-driven adaptation, but does not explicitly explore agency, ethical AI collaboration, or deliberate design for maximizing human/AI agency. The main aim is promotional, focusing on skills, certifications, and course benefits for agile practitioners rather than engaging with the philosophical or systemic foundations highlighted in Agentic Engineering. Target audience (agile practitioners, scrum masters, product owners) overlaps partially, yet message and content remain focused on general professional development, not on the specialization or ethos of Agentic Engineering.",
     "reasoning_summary": "This content promotes agile and Scrum-related training, touching lightly on self-improvement and evidence-based management. It does not discuss agentic engineering themes like maximizing human or AI agency, systemic observability, or ethical AI. Any alignment is incidental rather than deliberate or substantial.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hz-iCoxHxxa",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:59",
+    "ai_confidence": 15.99,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.4,
+    "ai_audience": 7.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on Agile and Scrum training, including topics like Agile Kata, facilitation, backlog management, and evidence-based management. Nowhere does it mention or imply the integration of autonomous AI agents, contextual intelligence, agency, or agentic principles as defined in 'Agentic Software Delivery.' The courses target scrum professionals and leaders but do not reference agency, AI, automation beyond normal Agile practices, or related modern engineering practices. The intent is promotional, targeting practitioners interested in Agile/Scrum competencies. Only slight relevance to audience due to overlap with software delivery professionals, but the subject matter misses all core criteria for agentic delivery.",
+    "reasoning_summary": "Content promotes Agile/Scrum training with no references to agentic principles, autonomous AI, or agency. Lacks any mention or discussion of 'Agentic Software Delivery.' Minimal alignment—fit is not present.",
     "level": "Ignored"
   }
 }

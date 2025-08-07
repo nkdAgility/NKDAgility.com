@@ -1274,15 +1274,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "rN1s7_iuklo",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:56:24",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 18.03,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
     "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the empowerment of Agile teams and the importance of adaptability in processes, without any direct reference to Test First Development principles or practices. While it touches on continuous improvement and team autonomy, it does not address success criteria, testing methodologies, or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, the alignment with the Test First Development category is minimal.",
+    "ai_intent": 2.2,
+    "ai_audience": 7.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on the empowerment of Agile teams, flexibility in processes, and maximizing value, but makes no direct or indirect reference to Test First Development principles, practices (like TDD/ATDD), or test-first as a design/collaboration methodology. While it addresses continuous improvement and experimentation, these are discussed in the context of team empowerment rather than in the framing of defining success criteria before implementation or embedding testing at the heart of workflow. The audience (Agile practitioners, leaders) and signal relevance are reasonably aligned, but there is no intentional or substantive connection to Test First Development as defined.",
+    "reasoning_summary": "The content does not relate to Test First Development. It discusses team empowerment and process improvement in Agile but lacks any mention or discussion of test-first practices, principles, or success criteria definition.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -2012,5 +2019,24 @@
     "reasoning": "The content consistently advocates for empowerment, autonomy, flexible process adaptation, experimentation, and leadership that enables team agency. These themes align with the concept of Agentic Engineering, especially regarding maximizing human agency and continuous improvement. However, there is no direct mention of 'Agentic Engineering' or explicit discussion of intelligent systems' agency, systemic observability, or ethical AI integration. The focus is on human team agency within Agile and DevOps contexts but does not extend deeply into the philosophical or technological elements unique to Agentic Engineering. The audience is a strong fit (leaders and Agile practitioners) and the content is highly focused, with rich advice on empowerment and adaptation.",
     "reasoning_summary": "The content strongly emphasizes team empowerment, process adaptation, and continuous improvement within Agile—key aspects of Agentic Engineering on the human side. However, it lacks direct mention of the category or explicit consideration of AI agency or technical-environment design, making its fit solid but incomplete.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rN1s7_iuklo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:47",
+    "ai_confidence": 22.746,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 8.0,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on empowering agile teams for flexibility, autonomy, and continuous improvement but does not mention or discuss the integration of AI agents, contextual intelligence, or agentic software delivery paradigms. There are no references to autonomous AI agents, agency, or modern engineering practices related to agentic delivery. The audience (agile practitioners/leaders) does somewhat overlap, and the signal is high due to on-topic agile empowerment, but core category definitions are absent. No penalties are applied as the content is not outdated or contradictory.",
+    "reasoning_summary": "Content describes Agile team empowerment and adaptability, not Agentic Software Delivery. Lacks references to AI agents, autonomy, or agentic paradigms, giving only partial alignment on intent and audience. Fit with the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

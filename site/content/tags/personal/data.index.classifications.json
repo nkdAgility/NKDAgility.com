@@ -84,15 +84,22 @@
     "level": "Ignored"
   },
   "Philosophy": {
+    "resourceId": "Personal",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 45.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of personal experiences and insights in fostering collaboration and psychological safety within teams, which aligns with the broader philosophical themes of Agile and Lean principles. However, it primarily focuses on personal anecdotes rather than a deep exploration of philosophical frameworks, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 57.615,
+    "ai_mentions": 2.0,
+    "ai_alignment": 6.0,
+    "ai_depth": 5.9,
+    "ai_intent": 6.1,
+    "ai_audience": 7.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "Direct references to 'Philosophy' are absent. The content discusses personal experiences and psychological safety in teams, linking indirectly to philosophical underpinnings like Agile values and Lean principles. However, focus is on the personal dimension rather than foundational beliefs or explicit exploration of philosophy. The depth and alignment are moderate, as the content references culture and personal factors that support some philosophies, but does not engage directly with theoretical frameworks or the 'why' behind methodologies. Audience and signal are above average—likely relevant to strategists and managers—but the thematic focus is only partly philosophical.",
+    "reasoning_summary": "Only partially fits the philosophy category; centers on personal/team culture and psychological safety. Philosophy is implied but not directly discussed or deeply explored. Alignment and depth are moderate, not primary.",
     "level": "Tertiary"
   },
   "Observability": {
@@ -3191,6 +3198,25 @@
     "final_score": 11.0,
     "reasoning": "The content discusses the value of personal experience and psychological safety in teams, focusing on human-to-human collaboration, shared learning, and adaptive cultures. It does not mention or address AI involvement, human-AI partnership, or any concept relating to collective intelligence as specifically defined. There is no alignment with human-AI collaborative patterns, AI agent design, or socio-technical systems involving AI. Thus, direct mentions, conceptual fit, depth, and intent are minimal.",
     "reasoning_summary": "This content centers exclusively on individual and collective human experiences within teams, with no reference to AI collaboration or human-AI partnerships, making it largely irrelevant to the 'Collective Intelligence' category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Personal",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 10.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of personal experiences and psychological safety in team settings, relating generally to collaborative culture. It does not mention, reference, or conceptually describe integration of autonomous AI agents or agentic delivery. No aspects of agency, AI, context-driven intelligence, or agentic frameworks are present. The audience is team-focused but lacks technical or agentic emphasis. Thus, the alignment and depth regarding 'Agentic Software Delivery' is minimal.",
+    "reasoning_summary": "Content centers on personal and cultural dimensions in teams, with no mention or implicit link to autonomous AI, agentic delivery, or related frameworks. There is only a generic connection to Agile/Lean, so fit with the category is very weak.",
     "level": "Ignored"
   }
 }

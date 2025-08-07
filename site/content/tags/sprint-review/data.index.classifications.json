@@ -50,17 +50,23 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Sprint Review",
     "category": "Method",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 34,
-    "non_ai_confidence": 0,
-    "final_score": 87.0,
-    "reasoning": "The content provides a detailed discussion of the Sprint Review, a specific event within the Scrum method, highlighting its structured procedures and importance in the Agile framework. It explicitly mentions the roles of the Scrum Team and stakeholders, the process of inspecting and adapting the increment, and the significance of transparency and feedback. The depth of discussion is substantial, covering how the Sprint Review fosters collaboration, accountability, and continuous improvement, which are core themes of the Method category. Overall, the content aligns closely with the category's focus on structured procedures and practices within Agile methodologies.",
-    "level": "Primary",
-    "reasoning_summary": "This content clearly fits the Method category, as it thoroughly explores the Sprint Review within Scrum, outlining its structured steps, key participants, and its role in promoting transparency and feedback. By emphasising collaboration, accountability, and continuous improvement, the discussion aligns well with the core principles and practices that define this category."
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 85.65,
+    "ai_mentions": 7.2,
+    "ai_alignment": 9.0,
+    "ai_depth": 8.6,
+    "ai_intent": 8.8,
+    "ai_audience": 8.7,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed exploration of Sprint Planning, which is a core procedural event in the Scrum method. It covers the purpose, steps, roles, planning process, and associated practices, aligning closely with the 'Method' category definition. There are explicit mentions of planning, events, and Scrum practices. While the title references Sprint Review, the body is wholly about Sprint Planning. The depth is strong, discussing both the mechanics and intent of Sprint Planning, including stakeholder engagement, formation of Sprint Goals, and specifics about preparing and running the event. The main audience appears to be Scrum practitioners and teams, aligning with the intended audience. Signal is high since the majority of content focuses on structured procedure; minor digressions into communication/marketing context do not detract materially. Penalties are not warranted: the content is not outdated, satirical, or critical of the method.",
+    "reasoning_summary": "This content thoroughly describes Sprint Planning as a procedural method in Scrum, aligning directly with the Method category. It explores purpose, steps, roles, and stakeholder engagement, making it a strong fit for this classification.",
+    "level": "Primary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -3174,6 +3180,25 @@
     "final_score": 10.0,
     "reasoning": "The content exclusively describes the mechanics and value of Sprint Planning within Scrum, focusing on human team collaboration, stakeholder communication, and maximizing value. There are no references to AI, human-AI collaboration, or the emergence of collective intelligence involving human-AI teaming. The closest thematic overlap is the emphasis on collaboration and shared understanding, but this remains solely within human teams. Therefore, alignment, depth, and mentions scores are very low, as all discussion is about human collaboration within Scrum, without the socio-technical or human-AI dimension central to Collective Intelligence. No penalties were needed since the content is not outdated or critical.",
     "reasoning_summary": "This content details Sprint Planning in Scrum with a strong focus on human team collaboration and stakeholder communication, but there is no discussion of human-AI partnership or collective intelligence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Sprint Review",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:07",
+    "ai_confidence": 7.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on traditional Scrum Sprint Planning, team roles, communication, and backlog refinement. There is no discussion of AI agents, agentic principles, or the integration of autonomous intelligence into delivery. All language and guidance is strictly within the realm of classic Scrum facilitation and stakeholder engagement, without mention or implication of agentic systems. Audience is Scrum practitioners and facilitators, not those seeking Agentic Software Delivery insights.",
+    "reasoning_summary": "This is conventional Scrum practice content with no agentic AI elements or integration. The topic, audience, and intent are all unrelated to Agentic Software Delivery. Fit is extremely poor and almost entirely absent.",
     "level": "Ignored"
   }
 }

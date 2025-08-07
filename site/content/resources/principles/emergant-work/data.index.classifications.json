@@ -1171,15 +1171,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "g4M_sdh5Fg2",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T14:45:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the DevOps principle of feedback loops. However, it lacks explicit mentions of DevOps as a philosophy or detailed discussion on its core themes, resulting in a low confidence score.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 31.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.9,
+    "ai_depth": 3.6,
+    "ai_intent": 5.1,
+    "ai_audience": 5.8,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content very loosely aligns with DevOps principles: it discusses responding to user feedback and accelerating cycles, which are common in DevOps, but does not mention DevOps directly or explore its practices, values, or cultural context. The intent and audience could be relevant for DevOps, but the description is generic and lacks depth or specificity. The content could equally fit Agile, Lean, or general process improvement contexts. There are no penalties as the content is not outdated or contradictory.",
+    "reasoning_summary": "Content hints at DevOps principles (feedback, speedy iterations), but does not mention DevOps or its unique practices. Fit is partial and mostly generic; strong alignment or depth with DevOps as defined is lacking.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1936,6 +1943,25 @@
     "final_score": 36.0,
     "reasoning": "The content briefly mentions updating work based on user feedback in short timelines, which is somewhat aligned with feedback-driven adaptation. However, there are no direct references to agentic engineering, developer or AI agency, ethical considerations, or DevOps. The discussion is superficial and focuses primarily on rapid iteration, not the deliberate design of agency. The audience could include practitioners interested in process improvement, but the relevance to Agentic Engineering is only tangential.",
     "reasoning_summary": "The content is only tangentially related to Agentic Engineering, mentioning rapid user-feedback updates but lacking any direct reference or meaningful discussion of human or AI agency, autonomy, or engineering practices specific to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "g4M_sdh5Fg2",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 11.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 2.7,
+    "ai_audience": 2.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content only mentions improving work processes with user feedback in short cycles. It does not reference AI agents, agency, or software delivery context. Lacks all core elements of 'Agentic Software Delivery': no mention of autonomy, AI integration, human-AI collaboration, or supporting engineering practices. No relevant alignment, no direct mention, and only generic process improvement intent.",
+    "reasoning_summary": "The topic is generic process improvement via user feedback, not agentic software delivery. No relevant mentions of AI agents, autonomy, or supporting practices. Only a vague, tangential fit.",
     "level": "Ignored"
   }
 }

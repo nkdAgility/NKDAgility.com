@@ -414,13 +414,23 @@
     "level": "Ignored"
   },
   "Estimation": {
+    "resourceId": "qVBmvY9STVE",
     "category": "Estimation",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content primarily focuses on training for Product Owners within Scrum, it does include mentions of Agile estimation, planning poker, and wall/affinity estimation as part of the course outline, making estimation a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 64.04,
+    "ai_mentions": 4.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.8,
+    "ai_intent": 6.7,
+    "ai_audience": 8.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The course description explicitly lists 'estimation' as a core topic, alongside backlog refinement and planning. Agile estimation techniques (like planning poker and wall/affinity estimation) are mentioned, and collaborative practices are implied through 'team-based activities.' However, estimation is not the main focus—the course covers a broad range of Scrum topics for Product Owners, with estimation only as a module (not the dominant theme). The audience closely matches the category definition. No penalties apply as there's no sign of outdated or critical content. The depth is moderate: estimation is explored practically, but not in exhaustive detail. Overall, the content partially but not thoroughly fits the 'Estimation' category.",
+    "reasoning_summary": "Estimation is clearly referenced as one of several key topics and techniques, with agile methods and collaboration mentioned, but it is not the course's sole or main focus. The fit is partial and supportive rather than comprehensive.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -2059,6 +2069,25 @@
     "final_score": 13.0,
     "reasoning": "The content focuses on Scrum fundamentals for Product Owners, covering team roles, backlog refinement, estimation, and team collaboration. However, it does not mention agentic engineering, developer or AI agency, observability, DevOps-infused craft, or ethical AI. The intent is practical Scrum training, targeting Product Owners rather than engineers. Learning outcomes center on standard Scrum practices instead of the philosophical underpinnings or specific engineering practices that maximize human/AI agency. There is minimal conceptual overlap: technical debt and team collaboration bear faint resemblance to agency, but the course does not approach them from an agentic or engineering-excellence perspective. No penalty applied, as the content is modern and neutral in tone.",
     "reasoning_summary": "This course teaches Scrum basics and Product Owner responsibilities, without covering agentic engineering concepts like human/AI autonomy, DevOps ethos, or feedback-driven engineering. Its purpose and audience only marginally overlap with the evaluated category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qVBmvY9STVE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 5.49,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.45,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The course focuses on traditional Scrum roles and practices for Product Owners, such as backlog refinement, estimation, and team collaboration. There are no mentions of AI, agents, contextual intelligence, or agentic principles. The main themes revolve around human-driven Scrum processes and do not explore integration with autonomous agents, architecture-grounded AI support, or outcome-driven feedback loops. The target audience (Product Owners, BAs, SMEs) is relevant for modern delivery, but the content remains strictly within conventional Scrum boundaries. Depth, alignment, and intent scores are all minimal since there is no discussion on Agentic Software Delivery or its criteria; no penalty is added, as the content does not contradict or undermine the category.",
+    "reasoning_summary": "This content does not fit the Agentic Software Delivery category. It strictly covers human-centric Scrum practices for Product Owners without any reference to AI agents or agentic integration, making the fit very low.",
     "level": "Ignored"
   }
 }

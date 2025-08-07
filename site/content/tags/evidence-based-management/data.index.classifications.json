@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "dN0v6E1KsNd",
     "category": "Tool",
-    "calculated_at": "2025-04-09T15:48:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Evidence-Based Management (EBM) as a strategy rather than a tool, focusing on decision-making based on evidence. While it touches on metrics and improvement, it does not provide specific tools or mechanisms that facilitate workflows or team collaboration, which are central to the 'Tool' category.",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 25.26,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.9,
+    "ai_intent": 3.0,
+    "ai_audience": 4.3,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content explicitly states EBM is not a tool, but a management strategy for improving value delivery through evidence-based decisions. There are no direct tool mentions; no discussion of features, software, or mechanisms supporting implementation. The focus remains on conceptual frameworks and leadership guidance, not tools or their use. Minor alignment exists since some may consider EBM structural guidance, but by definition, it is not discussed as a tool, nor is any tool presented for use within Agile, Lean, or DevOps contexts. The content is targeted toward leaders and practitioners but without demonstrating tool application or best practices.",
+    "reasoning_summary": "EBM is described as a management strategy, not a tool, with no discussion of software or mechanisms. Content misaligns with the 'Tool' category as per the definition, with only minor conceptual overlap. Fit is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3135,6 +3142,25 @@
     "final_score": 16.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) as an empirical approach to organizational improvement, focused on measuring value delivery and making data-driven decisions. There is no mention of human-AI collaboration, AI agents, or collective cognition. The content does not address human-AI partnerships or any socio-technical systems involving AI. While audiences may overlap with those interested in collective intelligence (product leaders, agile practitioners), the main themes are purely about human-centric measurement and continuous improvement, lacking core elements of the collective intelligence definition.",
     "reasoning_summary": "This content centers on human-driven, evidence-based decision-making in agility and value delivery. It does not mention or explore human-AI collaboration, shared cognition with AI, or other collective intelligence topics. Relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dN0v6E1KsNd",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:04",
+    "ai_confidence": 19.61,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.0,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on Evidence-Based Management (EBM) for improving delivery using metrics and data-driven decision-making. While it emphasizes outcomes and iterative improvement, it does not mention or substantively engage with agentic software delivery, the use of AI agents, or agency in delivery systems. Key agentic concepts such as autonomous AI, integration with human expertise, or context-aware intelligence are entirely absent. The audience overlaps somewhat as both target agile practitioners, but the conceptual and thematic overlap is weak. No penalties were applied as the content is neither outdated nor satirical.",
+    "reasoning_summary": "This content centers on data-driven improvement (EBM) but does not discuss AI agents, autonomy, or agentic delivery concepts—representing only a surface-level fit with the category. The connection to agentic software delivery is weak and indirect.",
     "level": "Ignored"
   }
 }

@@ -58,15 +58,22 @@
     "level": "Secondary"
   },
   "Organisational Physics": {
+    "resourceId": "A0Y-zySHXyc",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T15:52:29",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the dynamics between developers and Product Owners, touching on themes of accountability, authority, and decision-making. While it does not explicitly mention systems thinking or organisational physics, it aligns with the category's focus on organisational dynamics and the interplay of roles within a team. However, the discussion is primarily centred on interpersonal relationships rather than a broader systems perspective, which limits its depth and direct relevance to the category.",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 51.84,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.75,
+    "ai_intent": 6.2,
+    "ai_audience": 7.05,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "There are no direct mentions of 'Organisational Physics' or systems thinking terminology. The focus is on interpersonal and structural barriers to Product Owner authority, touching on accountability, stakeholder influence, and decision-making—topics relating to organisational dynamics. However, discussion stays largely at the team/process level rather than holistically addressing system interactions, feedback loops, or complexity theory. The intent is practical and applicable for practitioners or leaders seeking to improve team dynamics, which aligns with the category's audience but does not fully embrace systems thinking or deeper organisational analysis. The content presents some case-based thinking and hints at domino effects and systemic implications, but overall fit is partial as core Organisational Physics topics are not explored in full depth.",
+    "reasoning_summary": "Discusses authority, accountability, and stakeholder roles in Scrum, which partially relate to organisational dynamics, but lacks explicit systems thinking or holistic, system-level analysis. Fit to Organisational Physics is partial.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1985,6 +1992,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on social and organizational barriers affecting the authority of Product Owners in software teams, emphasizing themes like accountability, trust, and communication. However, direct reference to 'Agentic Engineering' or its core concepts—such as engineering practices that maximize human and AI agency, systemic observability, DevOps-infused craft, or ethical AI integration—is minimal to absent. While there are tangential overlaps around ownership, decision-making, and empowerment, the discussion does not explicitly address the deliberate design of engineering practices or the philosophical underpinnings central to Agentic Engineering. The focus is more on team dynamics and governance within Scrum than on technical, infrastructural, or system-level agentic approaches. Thus, confidence is low because the alignment is partial and mostly indirect.",
     "reasoning_summary": "This content addresses team dynamics and authority issues in product development, particularly for Product Owners, but does not engage substantively with Agentic Engineering’s focus on engineering practices, agency, or systems design. Alignment with the category is tangential, making overall fit fairly low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "A0Y-zySHXyc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:16",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on interpersonal, authority, and accountability issues between developers and Product Owners in a software delivery context. There is no mention—explicit or implicit—of AI, agentic systems, autonomous agents, or their integration into delivery processes. The themes address traditional team dynamics (trust, undermining authority, communication), which fall outside the definition and foundational concepts of Agentic Software Delivery. No conceptual alignment exists with agentic intelligence, AI-augmented delivery, autonomy, or governance frameworks involving AI agents. The intended audience is technical and Scrum-focused but not relevant to agentic or AI-driven evolution in delivery practices. The confidence score is low since the topic remains entirely focused on human relationships in traditional scrum teams, not on agentic delivery or AI systems.",
+    "reasoning_summary": "Content explores human authority/trust issues in Scrum teams. No alignment with agentic software delivery, autonomous AI agents, or contextual intelligence. It only discusses traditional team dynamics, not AI-driven delivery systems.",
     "level": "Ignored"
   }
 }

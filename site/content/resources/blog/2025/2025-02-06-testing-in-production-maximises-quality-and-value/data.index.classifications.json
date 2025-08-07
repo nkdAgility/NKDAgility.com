@@ -1742,16 +1742,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "_ncZFfeCrnS",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on technical aspects of audience-based deployment and continuous delivery, with limited direct discussion on social technologies or collaboration frameworks. While it touches on team dynamics and cultural shifts, these are secondary to the technical processes described. The depth of discussion on audience-based deployment strategies is significant, but it lacks a strong emphasis on the social frameworks that underpin effective collaboration and decision-making within teams.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:10:17",
+    "ai_confidence": 77.816,
+    "ai_mentions": 2.4,
+    "ai_alignment": 8.2,
+    "ai_depth": 7.8,
+    "ai_intent": 7.7,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "Direct mentions of 'social technologies' or the category's terminology are minimal, leading to a low 'mentions' score. However, the content showcases strong alignment with key themes of the category: it discusses organisational change, team autonomy, shifting to collaborative and iterative deployment practices, collective learning (progressive rollout, feedback loops), and the transformation of culture at scale (Microsoft). The article explores the rationale, cultural challenges, and deep lessons of moving from traditional silos to transparent, feedback-driven delivery—core concerns of social technologies. Case studies highlight how frameworks like ring-based and audience-based deployment support emergent problem-solving and iterative value delivery. The target audience matches practitioners and strategists in Agile/DevOps realms, and the signal is high with almost all content focused and relevant. No penalties were necessary: tone is supportive, content is current, and examples are contemporary.",
+    "reasoning_summary": "Content fits well: it details collaboration, culture change, continuous feedback, and adaptive, value-focused delivery—core aspects of social technologies—even though it rarely uses the explicit category language. Alignment, depth, and audience fit are strong.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -2382,5 +2389,24 @@
     "reasoning": "While the content does not use the phrase 'Agentic Engineering', it is conceptually well aligned with the category. The discussion focuses on maximizing developer and team agency (e.g., team autonomy, continuous delivery via audience-based deployment, progressive rollouts), systemic observability (relying on real-world telemetry, feedback loops), DevOps-infused craft (automation, feature flags), and practices that empower teams to control and adapt workflows. Depth is strong, with historical examples (Microsoft, Azure DevOps, Windows Insider) and actionable strategies. The intent is educational for practitioners and strategists seeking to evolve engineering culture, and the signal is focused, with minimal filler or tangents. While ethical AI integration is only lightly touched on and there is little explicit discussion of AI agency, the bulk of the piece is a practical guide to decentralised, feedback-driven, agentic software practices. All scores varied for calibration and reflect stronger conceptual fit than direct category mention.",
     "reasoning_summary": "This content aligns strongly with Agentic Engineering by emphasizing developer autonomy, systemic observability, continuous delivery, and feedback-driven adaptation. It offers practical guidance for decentralizing decisions and empowering technical teams, though it lacks explicit category naming and deeper ethical AI discussion.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "_ncZFfeCrnS",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 30.861,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 4.8,
+    "ai_audience": 5.7,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content is focused on advanced software delivery (progressive rollouts, audience-based deployment, observability, CI/CD), showcasing modern DevOps and cultural transformation. However, it does not discuss autonomous AI agents, agentic agency, or human-agent integration. There are strong discussions of telemetry, feedback loops, and context-aware delivery, but no explicit or conceptual invocation of agentic software delivery as defined. Its innovations are largely about human-centric automation and modern engineering culture, not the embedding of autonomous agents. Audience and intent fit partially; sophistication in delivery practices is relevant, but the 'agentic' aspect is missing.",
+    "reasoning_summary": "This content details advanced, feedback-driven delivery and audience-based deployment, but does not discuss agentic principles (AI agents or their integration). Fit is weak; content aligns with modern DevOps, not agentic software delivery.",
+    "level": "Ignored"
   }
 }

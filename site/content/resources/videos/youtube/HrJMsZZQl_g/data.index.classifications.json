@@ -1482,16 +1482,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "HrJMsZZQl_g",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:29:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams. While it discusses themes of empowerment and reflection, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion is more aligned with general Agile practices rather than the intentional shaping of outcomes as defined in the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 53.94,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.6,
+    "ai_intent": 6.8,
+    "ai_audience": 8.1,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content discusses APS courses as tools for Scrum teams to reflect, identify, and remove ineffective practices (e.g., 'barnacles'), promoting authentic adoption of Scrum. It implies adaptive action and improvement within teams—concepts related to agency—but does not directly name or deeply explore 'agility' as rooted in agency or intentional, accountable action. There is strong overlap with team empowerment and transformation, hinting at agentic agility, especially in sections about the 'Barnacle Exercise' and collective improvement, but no explicit reference to agency or its dynamics (human or AI). Audience fit and relevance are high for Agile practitioners. Overall, the fit is partial, with moderate conceptual and depth scores, but limited explicit framing within Agentic Agility.",
+    "reasoning_summary": "This content partially fits Agentic Agility: it focuses on team empowerment and adaptive improvement but lacks direct discussion of agency or its mechanisms, resulting in a moderate conceptual match but not a strong thematic alignment.",
+    "level": "Tertiary"
   },
   "Product Development": {
     "category": "Product Development",
@@ -1984,6 +1991,25 @@
     "final_score": 37.0,
     "reasoning": "The content focuses on empowering Scrum teams through APS, emphasizing agile values, authentic Scrum adoption, and removing ineffective practices. While it promotes team empowerment and improvement, it does not discuss agentic engineering, developer or AI agency, observability, systemic autonomy, or ethical integration. Absent are topics on decentralised decision-making, feedback-driven engineering, or AI augmentation. The fit is partially aligned (empowerment via Scrum), but the central concepts of Agentic Engineering are missing.",
     "reasoning_summary": "This content, while strongly advocating for team empowerment and reflective improvement in Scrum, does not engage with the core concerns of Agentic Engineering such as systemic autonomy, AI agency, or deep engineering practice design. Its focus is more on Scrum mastery than agentic principles.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HrJMsZZQl_g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 13.387,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 1.4,
+    "ai_audience": 6.7,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on the benefits of Applied Professional Scrum (APS) training for Scrum teams, exploring how APS helps teams shed ineffective practices. There are no explicit or implicit mentions of agentic software delivery, autonomous AI agents, or integration of AI with human expertise. No discussion addresses contextual intelligence, agency, or modern engineering practices related to agentic delivery. The target audience (Scrum professionals) slightly overlaps with Agentic Software Delivery but the intent, themes, and focus remain solidly on traditional Scrum mastery and agile transformation—not on embedding AI agents or proactive system intelligence.",
+    "reasoning_summary": "Content solely discusses traditional Scrum/APS training—not AI, agents, or agentic integration—so alignment with 'Agentic Software Delivery' is very low, despite some relevance for agile practitioners.",
     "level": "Ignored"
   }
 }

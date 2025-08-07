@@ -1476,15 +1476,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "nhkUm6k4Q0A",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:24:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices, with specific references to Scrum, Lean, and Agile principles. It does not discuss the One Engineering System framework, its components, or its implementation, which are essential for alignment with the category. The discussion is centred around personal coaching philosophies rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 13.785,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.7,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses agile coaching, the importance of being agnostic in choosing frameworks, and empowering teams to select and adapt practices like Scrum, Kanban, Lean, or XP. There are no direct or indirect references to One Engineering System (1ES), its principles, integration of engineering tools, or its broader organizational framework. The main audience is agile coaches and practitioners focused on team-level process agility, rather than standardized or unified engineering systems across multiple teams or divisions. While themes of collaboration and process improvement are present, they are framed at the team and coaching level rather than at the organization-wide integration and standardization required by 1ES. There is no substantive discussion of unifying processes, cross-team integration, or engineering system standardization.",
+    "reasoning_summary": "Content is focused on framework-agnostic agile coaching and team empowerment, not on system-wide integration or standardization. There are no references to One Engineering System or its key principles, making alignment with this category very weak.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1993,5 +2000,24 @@
     "reasoning": "The content focuses extensively on team empowerment, agency, and the decentralisation of decision-making—central themes within Agentic Engineering. It details how Agile coaches can foster autonomy, encourage experimentation, and enable adaptive change, which aligns with maximising human agency in engineering environments. However, it does not explicitly mention 'Agentic Engineering,' nor does it deeply discuss the integration of AI agency, system observability, automation, or ethical AI collaboration, which are critical parts of the definition. The intended audience (coaches, practitioners) strongly matches the category. Overall, the primary limitation is its lack of direct or repeated reference to the Agentic Engineering concept and limited inclusion of AI/systemic aspects.",
     "reasoning_summary": "The content strongly aligns with Agentic Engineering by centering on team autonomy, experimentation, and adaptive decision-making. Its focus is on human agency and flexible coaching, but it only lightly touches on core Agentic Engineering themes such as observability and does not address AI or automation aspects.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "nhkUm6k4Q0A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 16.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content thoroughly covers agile coaching agnosticism, empowerment of teams, and flexible frameworks (Scrum, Kanban, Lean). However, there is no explicit or implied discussion of autonomous AI agents, contextual AI, agentic strategies, or any core concepts related to Agentic Software Delivery. The text is fundamentally about human facilitation and adaptability in coaching, without mention of intelligent automation, agent autonomy, or AI-supported delivery. The closest it comes to the target category is advocacy for flexibility, decision support, and continuous improvement—all important in agentic contexts, but these are general agile themes, not agentic in the specific sense defined. No penalties were applied since the content is relevant within its intended scope but simply out of alignment with Agentic Software Delivery.",
+    "reasoning_summary": "This content focuses on agile coaching, team autonomy, and agile frameworks. It does not address or mention agentic software delivery principles, AI agents, or proactive context-aware systems, so its fit to the category is very low.",
+    "level": "Ignored"
   }
 }

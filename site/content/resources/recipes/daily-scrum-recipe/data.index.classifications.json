@@ -1493,15 +1493,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "M4qDhvrXwp-",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:14:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. While it touches on collaboration and transparency, which are relevant to engineering practices, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum-specific practices rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
+    "calculated_at": "2025-08-07T06:10:44",
+    "ai_confidence": 16.853,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 1.7,
+    "ai_audience": 6.0,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on best practices for Daily Scrum meetings within Scrum. It does not mention or discuss One Engineering System (1ES), nor does it explore topics related to tool/process integration, standardization across teams, or 1ES principles. While the discussion around collaboration, transparency, and visualization could be tangentially relevant for teams interested in systematization, the article's main audience is practitioners enhancing their Scrum process, not those seeking unified engineering systems. Very minimal alignment exists, mostly in terms of a general intent toward process improvement, but this is insufficient for strong category fit.",
+    "reasoning_summary": "Content is about Daily Scrum practices in Scrum, lacking direct or indirect reference to One Engineering System. No discussion of unified engineering frameworks, tool/process standardization, or 1ES concepts—fit is very weak and mostly absent.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2011,5 +2018,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' or its explicit terminology are absent (0.3). However, the content strongly leans towards Developer Agency and feedback-driven adaptation, stressing team ownership, transparency, and emergent practices—core tenets of Agentic Engineering. Visualisation and inspection practices (like Work Item Aging graphs, Boards, and WIP Limits) reinforce systemic observability, but the discussion focuses on optimizing Scrum rituals rather than the deliberate engineering of agency or AI augmentation. The intent (7.7) is to guide practitioners toward more adaptive, team-driven Scrum meetings, closely fitting the Agentic audience. Content stays on-topic throughout (signal 7.6) and addresses engineers and Scrum teams (audience 8.2), but coverage is primarily at the level of individual/team Scrum practices—not broader engineering frameworks or ethical autonomy. No penalties apply as the guidance is current and neutral. Overall, while the content aligns philosophically and practically with several core principles, it doesn't fully scope Agentic Engineering per its wider definition, especially in relation to AI and ethical autonomy.",
     "reasoning_summary": "The content aligns with key aspects of Agentic Engineering—developer agency, continuous feedback, transparency, and adaptive processes—but focuses primarily on Scrum team practices, not the broader framework or ethical/AI-infused aspects. Relevant and supportive, but only moderately aligned in depth and scope.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "M4qDhvrXwp-",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:41",
+    "ai_confidence": 11.457,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is a practical guide for running Daily Scrum meetings focused on team collaboration, transparency, and actionable planning. There is no mention of autonomous AI agents, agentic concepts, contextual intelligence, or modern agentic delivery practices. The discussion pertains exclusively to human team methods, visualizations, and anti-patterns within traditional Scrum. There are no references to agent support, human-in-the-loop AI, or integration of AI-based systems. The intended audience (Scrum teams, Agile practitioners) only partially overlaps with the agentic delivery audience and does not discuss outcomes, delivery systems, or agentic governance. Consequently, the content is almost entirely outside the agentic software delivery domain.",
+    "reasoning_summary": "This content is focused on human-run Scrum meetings and team practices. It lacks any discussion of agentic software delivery, AI agents, or agentic principles. There is no substantial alignment with the category—fit is highly limited or absent.",
+    "level": "Ignored"
   }
 }

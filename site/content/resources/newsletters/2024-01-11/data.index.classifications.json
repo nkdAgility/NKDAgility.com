@@ -789,15 +789,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "ZHJtz2t0uTU",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:52:08",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 25.0,
-    "reasoning": "The content primarily promotes Scrum training courses and offers a promotional deal. While it mentions 'Professional Agile Leadership' and related training, it lacks a detailed discussion on technical leadership principles, strategies, or practices. The focus is on marketing the courses rather than exploring the nuances of technical leadership in an agile context.",
+    "calculated_at": "2025-08-07T06:11:00",
+    "ai_confidence": 29.77,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.6,
+    "ai_intent": 3.0,
+    "ai_audience": 5.2,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "This content is primarily a marketing promotion for Scrum and Agile-related training courses and discounts. While it mentions topics and course titles (e.g., Professional Agile Leadership, Scrum Master, DevOps), there is no substantive discussion, guidance, or exploration of technical leadership principles, practices, or strategies as defined by the category. The intent is commercial and informational (about courses, offers, and enrollment) rather than to educate or inform on technical leadership itself. Audience partially overlaps (practitioners interested in Agile), but the content doesn’t deliver the depth or alignment expected for Technical Leadership.",
+    "reasoning_summary": "This promotional content advertises agile-related trainings (some with leadership focus) but lacks meaningful discussion on technical leadership concepts, principles, or practices. The fit with the category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1945,6 +1952,25 @@
     "final_score": 7.0,
     "reasoning": "The content is solely a sales promotion for Scrum and Agile training courses, with no direct or indirect mention of Agentic Engineering concepts. While there are references to DevOps and Evidence-Based Management as course titles, the material does not discuss agency, systemic observability, decision-making frameworks, or engineering practices that maximize agency. The primary intent is to market training, not to educate or reflect on any agentic engineering perspective. The audience is professionals interested in Agile/Scrum, overlapping slightly with Agentic Engineering's target audience, but the thematic and conceptual fit is extremely shallow.",
     "reasoning_summary": "This content is a straightforward training promotion, lacking any real discussion of Agentic Engineering themes, agency, or advanced engineering practices. It is tangentially relevant only by audience overlap, not by concept or intent.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZHJtz2t0uTU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 1.53,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.3,
+    "ai_audience": 0.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a promotion for Scrum and Agile training courses, with no mention of autonomous AI agents, contextual intelligence, or agentic delivery concepts. It focuses purely on general Scrum frameworks and course offerings, lacking any exploration of AI-driven or agentic software delivery themes as defined in the classification. There is no substantive or conceptual alignment with the Agentic Software Delivery category—the closest it comes is referencing modern Agile practices, but without any framing around AI agents or agency. Scoring is very low across all dimensions as a result.",
+    "reasoning_summary": "Content is strictly a sales pitch for Scrum and Agile training, with no references or conceptual alignment to Agentic Software Delivery. No agentic, AI, or automation themes are present. Fit is not apparent.",
     "level": "Ignored"
   }
 }

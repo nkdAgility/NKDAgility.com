@@ -1479,15 +1479,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "FNFV4mp-0pg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:02:27",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum, which is a specific Agile framework, rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 13.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.4,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content solely discusses the Scrum Master role and debunks misconceptions around micromanagement in agile teams. There is no mention of One Engineering System (1ES), nor are its principles, tools, or organizational integration discussed. The thematic focus is exclusively on the empowerment and facilitative aspects of Scrum, with secondary references to general agile leadership. The audience may overlap with those interested in systematized engineering, but the substance is not conceptually or operationally aligned with 1ES. There are no outdated references or critical/satirical tones that would warrant a penalty.",
+    "reasoning_summary": "Content is about Scrum Master roles and agile micromanagement—not about 1ES frameworks, tools, or integration. No direct or conceptual fit with One Engineering System, only very faint audience overlap.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1990,6 +1997,25 @@
     "final_score": 39.0,
     "reasoning": "The content focuses on correcting the misconception of Scrum Masters as micromanagers and emphasizes empowerment, facilitation, trust, and team autonomy—all of which conceptually align with some Agentic Engineering principles, namely maximizing human agency and decentralizing decision-making. However, it does not directly mention Agentic Engineering, discuss engineering practices, systemic observability, DevOps, or AI autonomy. The focus remains on team dynamics within Agile/Scrum, rather than deliberate engineering design or mechanisms for maximizing agency systemically for both humans and AI. Thus, while there is partial conceptual overlap, especially around empowerment and anti-micromanagement, the content lacks depth and explicit fit for the Agentic Engineering category.",
     "reasoning_summary": "While the post stresses team empowerment and facilitation, aligning in spirit with agency and autonomy, it doesn’t directly address the structural, engineering, or AI-enabled practices central to Agentic Engineering—making its fit moderate but not strong.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "FNFV4mp-0pg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 9.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content solely discusses the Scrum Master role in Agile and emphasizes non-micromanagement, empowerment, mentoring, and facilitation. There are no mentions of autonomous AI agents, agentic principles, or contextual software delivery intelligence. No topics related to agentic delivery (AI-human synergy, autonomous agent integration, modern engineering practices, or relevant governance) appear. The intended audience is Agile practitioners, which only marginally overlaps, but there is no direct or indirect relevance to agentic software delivery as defined. Scoring is lowest on mentions, alignment, and depth, as the content is purely about Scrum facilitation with no agentic context.",
+    "reasoning_summary": "This content is about Scrum Masters not micromanaging in Agile teams. It does not reference agentic software delivery, AI agents, or related concepts, and thus only very marginally fits the category definition.",
     "level": "Ignored"
   }
 }

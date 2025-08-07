@@ -1360,15 +1360,22 @@
     "level": "Ignored"
   },
   "Scrum": {
+    "resourceId": "iCDEX6oHy7A",
     "category": "Scrum",
-    "calculated_at": "2025-04-10T15:54:40",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 40,
-    "non_ai_confidence": 50,
-    "final_score": 78.0,
-    "reasoning": "The content discusses various aspects of Scrum, including roles, team dynamics, and the importance of agile principles. It features conversations about product ownership, backlog management, and the challenges of maintaining team engagement, which are all central to Scrum practices. The dialogue reflects a deep understanding of Scrum concepts, although it occasionally veers into broader agile discussions and personal anecdotes, which slightly dilutes the focus on Scrum specifically.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 72.21,
+    "ai_mentions": 2.6,
+    "ai_alignment": 8.4,
+    "ai_depth": 7.9,
+    "ai_intent": 8.1,
+    "ai_audience": 7.6,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "Direct mention of Scrum is minimal (one explicit bracketed mention in the conclusion), with the bulk of the content focusing broadly on the agile mindset, leadership, and fostering a culture of quality and improvement. There is some discussion of Scrum-related events (retrospectives), values (transparency, adaptation), and practices (continuous improvement, ownership), but these are discussed mainly in relation to general agile principles, not as deep dives into Scrum framework specifics like roles, events, or artifacts. The intent strongly aligns with fostering agility in teams, which is relevant for Scrum practitioners, and the audience is primarily technical leaders and development teams (a direct overlap). The focus is consistent and practical, minimizing tangential content. No penalties were required, as the content is not outdated, critical, or misleading regarding Scrum. However, the confidence is not higher due to the primary emphasis on agile mindset over explicit Scrum practices. Overall, the fit is relevant but not deeply specialized in Scrum.",
+    "reasoning_summary": "While the content references Scrum and touches on related practices and values, its core focus is on the agile mindset and team empowerment. This fits the Scrum audience and themes, but only partially; Scrum is not the central subject.",
     "level": "Secondary"
   },
   "Shift Left Strategy": {
@@ -1941,5 +1948,24 @@
     "reasoning": "The content closely aligns with several Agentic Engineering themes, particularly developer autonomy, continuous feedback, and fostering ownership and empowerment within teams. It focuses on leadership's role in enabling autonomy, mastery, and purpose—key facets of agency. However, it does not use the explicit terminology of 'Agentic Engineering,' nor does it directly discuss systemic observability, DevOps, or deep AI-human collaboration. The concepts match but the discussion remains primarily at the cultural/leadership and agile mindset level, rather than advancing to the broader technical and philosophical aspects central to Agentic Engineering. The intended audience (engineering leaders) is appropriate. No outdated references or contradictory tones were found.",
     "reasoning_summary": "The discussion centers on building autonomy, mastery, and purpose in development teams, which resonates with Agentic Engineering's ethos of maximizing agency. However, the focus remains on agile mindset and leadership—aligning conceptually but lacking direct, in-depth exploration of agentic engineering practices or terminology.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 18.376,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 5.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content centers on cultivating an agile mindset, team autonomy, mastery, and leadership's role in empowering teams. It discusses development culture and practices (code reviews, pair programming, retrospectives). However, it contains no mention, discussion, or conceptual use of autonomous AI agents, agentic systems, contextual intelligence, or the integration of AI and human expertise within software delivery. While empowerment and autonomy are relevant terms, they refer to human agency, not AI-driven delivery or agentic systems per the category definition. The audience (technical leaders) is partially aligned, but the signal is low concerning agentic delivery. No penalties applied since there is no outdated practice or contradictory tone. Fit is tangential at best.",
+    "reasoning_summary": "The content focuses on agile mindset, team autonomy, and leadership—not the integration of AI agents, contextual intelligence, or agentic principles in software delivery. There is no direct or indirect alignment with Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

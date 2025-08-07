@@ -1452,15 +1452,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "54-Zw2A7zEM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:24:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on distinguishing between the roles of Scrum Master and Agile Coach, which are specific to Agile methodologies rather than discussing the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to role definitions and experiences, lacking any reference to the principles or implementation of 1ES.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 10.72,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 4.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on differentiating Scrum Master and Agile Coach roles, mainly within the context of Agile adoption and organisational transformation. It never references 'One Engineering System' or related concepts such as unified tools, processes, or 1ES implementation. The themes are about experience, responsibilities, and Agile coaching depth, none of which connect to 1ES integration, standardisation, or cross-team harmonisation. The audience overlaps somewhat, as both Agile and 1ES target technical/organisational leadership, but the subject matter is off-topic for the provided category. Only minimal generic relevance exists (process improvement at large), but this is highly tangential.",
+    "reasoning_summary": "This content does not fit the 'One Engineering System' category, as it solely discusses Agile coaching and Scrum Master roles, with no mention or conceptual overlap with 1ES principles, integration, or standardisation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1962,6 +1969,25 @@
     "final_score": 12.0,
     "reasoning": "There are no direct mentions of Agentic Engineering or its key concepts. The content focuses on comparing Scrum Masters and Agile Coaches, emphasizing experience, responsibility, and organizational impact. It does not discuss the deliberate engineering of agency (human or AI) nor address systemic observability, DevOps-infused craft, or ethical autonomy. The focus is solely on human coaching and agile implementation, not on engineering practices to maximize agency. The themes are tangential at best, touching on organizational improvement and influence, but lacking any conceptual alignment with Agentic Engineering's definition and scope.",
     "reasoning_summary": "This content compares Scrum Masters and Agile Coaches but does not discuss or reflect Agentic Engineering. It lacks references to deliberate engineering of human or AI agency, systemic observability, or associated practices, making it only loosely aligned with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "54-Zw2A7zEM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content discusses the distinctions between Scrum Master and Agile Coach roles. There are no mentions of Agentic Software Delivery, autonomous AI agents, contextual intelligence, or modern agentic engineering practices. The discussion stays within traditional Agile roles and experience without reference to AI, agency, automation, or delivery transformation. Audience is Agile practitioners but not those focused on agentic or AI-augmented delivery. Thus, conceptual and direct fit with the category is extremely weak to nonexistent.",
+    "reasoning_summary": "The content compares traditional Agile roles and doesn't mention or align with Agentic Software Delivery, agent-based systems, or related practices. Fit is negligible and unrelated to the category meaning.",
     "level": "Ignored"
   }
 }

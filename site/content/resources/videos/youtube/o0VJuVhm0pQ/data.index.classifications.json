@@ -1514,16 +1514,23 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "o0VJuVhm0pQ",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:11:21",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum as a product development framework and its role in enhancing customer acquisition and retention. While it touches on themes of autonomy and the need for proactive engagement from teams, it does not explicitly address Agentic Agility or its principles. The focus is more on Scrum processes rather than the intentional shaping of outcomes through agency, adaptability, and alignment with values, which are central to Agentic Agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 67.5,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.8,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content directly explores how Scrum frameworks facilitate (but don't guarantee) value delivery, emphasizing the need for human creativity, collaboration, and intentional action. There is clear alignment to core agentic themes such as autonomy, accountability, and adaptability—especially when discussing the role of teams and leadership in identifying, prioritizing, and solving problems. The focus on empirical process control and organizational capabilities links to adaptive action and socio-technical factors. However, the term 'agency' itself or 'Agentic Agility' is not explicitly named, and topics like double-loop learning or explicit distinctions between human/AI agency are not present. The content’s main purpose is to highlight the intentional, adaptive work required from people and teams in Scrum, mostly for Agile practitioners and organizational leaders. Some promotional or general Agile statements add minor noise, but most of the content is on topic and relevant.",
+    "reasoning_summary": "Content aligns with Agentic Agility by emphasizing the necessity of intentional, adaptive action and team autonomy within Scrum, yet lacks explicit discussion of agency or double-loop learning. Fit is solid but not comprehensive.",
+    "level": "Secondary"
   },
   "Hybrid Agile": {
     "resourceId": "o0VJuVhm0pQ",
@@ -2022,6 +2029,25 @@
     "final_score": 36.0,
     "reasoning": "Direct mention of 'Agentic Engineering' is absent and the conceptual framing centers on Scrum's impact on product development, customer acquisition and retention, fast feedback, and empirical process control. While these touch on empowerment and autonomy for teams, the piece remains firmly about Scrum as a product/development framework—not the broader, philosophically driven engineering of agency for humans and intelligent systems. Ethical AI, autonomy-maximizing engineering, or the explicit systems-design aspects crucial to 'Agentic Engineering' are missing. Audience targeting (practitioners, leaders) and relevance to developers/organizations are present, and signal-to-noise is high. However, the discussion is only tangent to the agentic dimension, focusing on iterative improvement and value delivery as byproducts of Scrum rather than deliberate agency engineering.",
     "reasoning_summary": "This content is about Scrum's impact on customer-focused product development, emphasizing feedback, transparency, and team autonomy. While it touches on agency in teamwork and improvement, it does not address Agentic Engineering as a deliberate, systemic practice for maximizing human or AI agency.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "o0VJuVhm0pQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 16.96,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.1,
+    "ai_intent": 1.7,
+    "ai_audience": 5.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly explores Scrum's role in competitive markets, focusing on customer acquisition, feedback, and improvement. It explicitly avoids promising automation or proactive intelligence, correctly noting that Scrum is a framework and does not do the work itself. No mention is made of autonomous AI agents, agentic principles, contextual AI, or synergy between AI/humans; all value creation discussed is team/human-driven with supporting tools, but without references to AI agency, agentic frameworks, or governance for agent-led delivery. While observability, telemetry, and continuous delivery are discussed, they remain in the context of empirical process control and agile capability, not agentic delivery. The audience overlaps partially (e.g., agile teams, leaders), but the core topic and content lack conceptual, direct, and procedural alignment to Agentic Software Delivery as defined.",
+    "reasoning_summary": "Content centers on Scrum and agile product development, not on agentic or autonomous AI delivery. No mention or exploration of agentic principles or AI agents in the delivery process. Fit is minimal and only indirectly relates, if at all.",
     "level": "Ignored"
   }
 }

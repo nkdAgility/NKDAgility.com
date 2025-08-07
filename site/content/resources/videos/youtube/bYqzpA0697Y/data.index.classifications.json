@@ -476,15 +476,22 @@
     "level": "Ignored"
   },
   "Daily Scrum": {
+    "resourceId": "bYqzpA0697Y",
     "category": "Daily Scrum",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content does not explicitly mention the Daily Scrum or its specific practices. While it discusses themes related to team alignment and collaboration, it lacks a direct focus on the Daily Scrum event, its structure, or its role within the Scrum framework. The discussion is more about scaling and organisational growth rather than the specifics of the Daily Scrum.",
+    "calculated_at": "2025-08-07T06:10:09",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.6,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on sustainable scaling, technical debt, team alignment, and product development challenges. While Scrum is superficially mentioned via 'LeSS' and 'Nexus' frameworks, there is no mention—direct or indirect—of the Daily Scrum. None of the key discussion points specific to the Daily Scrum (such as the meeting's structure, its purpose, daily inspection, aligning on sprint goals, transparency, or best practices for conducting it) are addressed. The intent and audience are generally related to Agile process improvement at scale, not Daily Scrum practice or optimization. Signal-to-noise is low for the category as the overwhelming majority of material is outside its scope.",
+    "reasoning_summary": "This content is about scaling and general Agile/Scrum frameworks, but makes no mention of the Daily Scrum event, its structure, or its practices. No direct or indirect thematic match. Content does not fit the 'Daily Scrum' category.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -2224,5 +2231,24 @@
     "reasoning": "The content focuses on sustainable scaling in product development, emphasizing team alignment, technical debt reduction, leadership, data-driven decision-making, and efficient team structure. While it discusses optimizing team agency and leveraging DevOps and feedback loops, it does not address the deliberate design of engineering practices to specifically maximize human and AI agency, ethical AI integration, or decision decentralization as outlined in Agentic Engineering. The content is more about practical scaling and team optimization than philosophical exploration or intentional engineering for agency. There are no direct mentions of Agentic Engineering. There is decent overlap in areas like feedback-driven adaptation and alignment, but systemic observability, engineer autonomy as a principle, or ethical AI as a collaborator are only mildly implicit or missing. Audience (practitioner/leader) fits, but the depth and alignment are partial.",
     "reasoning_summary": "This content relates to effective scaling and team practices, touching lightly on agency and DevOps principles, but lacks the emphasis on intentional engineering for human/AI agency, ethical autonomy, or philosophical aspects key to Agentic Engineering. Alignment is moderate but not strong.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "bYqzpA0697Y",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:22",
+    "ai_confidence": 18.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.6,
+    "ai_audience": 5.4,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "There are no explicit mentions of agentic software, autonomous AI agents, or context-aware intelligence. The content focuses on traditional scaling challenges (alignment, technical debt, leadership) and agile frameworks, alluding to DevOps and feedback loops, but it does not discuss autonomous agency, AI, or their integration into delivery systems. The audience overlaps somewhat with the category, and the discussion is relevant to delivery and continuous improvement, but wholly lacks substantive agentic concepts, making the fit quite low.",
+    "reasoning_summary": "Content focuses on team alignment, leadership, and sustainable scaling using agile/DevOps but does not mention or discuss agentic software, AI agents, or autonomy, resulting in a very low fit for the 'Agentic Software Delivery' category.",
+    "level": "Ignored"
   }
 }

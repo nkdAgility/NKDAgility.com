@@ -1475,15 +1475,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "cbLd-wstv3o",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:54:26",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, which are not directly related to the One Engineering System framework. While there are mentions of metrics and product backlogs, these concepts do not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation of engineering practices.",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 12.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.4,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content exclusively discusses Evidence-Based Management (EBM), metrics, and methods for discovering unrealized value in product development—primarily focused on improving products via EBM, customer feedback, and continuous improvement. While related tangentially to standardized approaches, it never explicitly mentions or explores One Engineering System (1ES), its frameworks, principles, or tool integration. The audience (product owners, agile teams) aligns somewhat, but the topic, intent, and themes are outside the scope of 1ES as narrowly defined in the classification. No penalties for outdatedness or contradiction.",
+    "reasoning_summary": "Content is about discovering unrealized value using Evidence-Based Management and metrics. It does not mention or meaningfully align with One Engineering System’s principles or integration focus. Fit is minimal and tangential at best.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1989,6 +1996,25 @@
     "final_score": 36.0,
     "reasoning": "The content focuses on Evidence-Based Management and discovering unrealized value by leveraging metrics, customer feedback, and continuous improvement. While continuous improvement and some empowerment themes align superficially, there is no explicit mention or substantive discussion of agentic practices like developer/system agency, decentralised decision-making, engineering autonomy, or ethical AI collaboration. The target audience (Scrum/product professionals) partially overlaps, but the philosophical and engineering-drivenness required for Agentic Engineering is missing. The content remains firmly about value identification, not about the maximisation of human or AI agency. Therefore, scores remain low for direct mention, conceptual alignment, and depth.",
     "reasoning_summary": "This content addresses Evidence-Based Management and value discovery but lacks focus on agency, decentralised decision-making, or the engineering philosophy central to Agentic Engineering. It is relevant to product teams, but alignment with the category is low and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:52",
+    "ai_confidence": 18.37,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 4.2,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused on leveraging Evidence-Based Management (EBM) to discover unrealized value within product development. While it discusses Agile, metrics, backlog management, and continuous improvement, it does not reference or explore agentic software delivery concepts such as autonomous AI agents, context-aware intelligence, or the integration of agents into the delivery process. There is no mention of agency, proactive AI, or agentic synergy with human teams. The audience (product owners, Scrum trainers) partially overlaps but is not explicitly focused on agentic paradigms. Minimal alignment, limited to general improvement and metric-driven product development.",
+    "reasoning_summary": "Content focuses on EBM and product value discovery, not on agentic software delivery. No discussion of AI agents, autonomy, or agentic principles. Audience and methods relate more to Agile/EBM than agentic systems. Fit is low and mostly tangential.",
     "level": "Ignored"
   }
 }

@@ -86,16 +86,23 @@
     "reasoning_summary": "This content is a strong fit for the category, as it centres on self-organisation and its impact on team dynamics. It highlights key aspects like autonomy and adaptability, which are central to the theme. While it doesn’t provide detailed methods, its focus on the principles and benefits of self-organisation makes it highly relevant and appropriate for this classification."
   },
   "Philosophy": {
+    "resourceId": "Self Organisation",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses self-organisation, which is a concept that aligns with Agile, Lean, and DevOps principles. However, it primarily focuses on the practical implications and benefits of self-organisation rather than exploring the philosophical underpinnings or foundational beliefs that guide these methodologies. While there are mentions of culture, ownership, and accountability, the discussion lacks a deeper exploration of the 'why' behind these practices, which is essential for a stronger alignment with the Philosophy category.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 82.68,
+    "ai_mentions": 6.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.5,
+    "ai_intent": 9.3,
+    "ai_audience": 8.2,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content focuses on the concept of self-organisation as a foundational principle behind Agile, Lean, and DevOps, exploring its value for ownership, adaptability, and organisational culture. It addresses the 'why' and 'what' of self-organisation, notably referencing alignment with major philosophies, discussing cultural impact, and its importance for autonomy and innovation. The depth is good, elaborating on systemic effects, autonomy, and team empowerment. No technical/practical implementation instructions are given, and audience targeting appears strategic and reflective, likely appealing to leaders and theorists. Direct philosophical language is present but not extremely frequent, resulting in a somewhat moderate direct-mention score, as specific abstract philosophical frameworks are not cited. All dimensions differ slightly as per calibration safeguards. No evidence of outdated or contradictory content, thus no penalties were applied.",
+    "reasoning_summary": "The content thoroughly explores self-organisation as a core philosophy shaping Agile, Lean, and DevOps, focusing on its 'why' and cultural impact, rather than specific practices. Strong fit as philosophical content, with only moderate direct mention of philosophy.",
+    "level": "Primary"
   },
   "Observability": {
     "category": "Observability",
@@ -3137,6 +3144,25 @@
     "final_score": 20.0,
     "reasoning": "The content exclusively discusses self-organisation in human teams, focusing on autonomy, ownership, and Agile/DevOps values. There is no mention or exploration of AI involvement or human-AI collaboration—a core requirement of 'Collective Intelligence' per the category definition. Therefore, direct mentions, alignment, depth, and intent scores are all very low. The audience score is higher since it addresses an Agile/dev/ops readership, but signal is moderate because the topic, while relevant to team performance, is not specific to collective intelligence as defined herein. No penalties were applied, as the content is not outdated nor contradictory in tone.",
     "reasoning_summary": "This content examines self-organisation in human teams without reference to AI collaboration, providing only marginal alignment with ‘Collective Intelligence’ as defined. Its focus is on team autonomy, not human-AI partnership or emergent hybrid cognition.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Self Organisation",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 25.1,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.6,
+    "ai_intent": 2.2,
+    "ai_audience": 3.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on team-level self-organisation, autonomy, and empowerment—concepts related to agency but not specifically connected to Agentic Software Delivery as defined. There is no mention of AI agents, contextual intelligence, or integration of autonomous systems alongside human expertise. The discussion stays within the realm of Agile/Lean/DevOps principles but does not explore the synergy with AI agents, governance frameworks, or modern engineering practices required for agentic delivery. As such, the alignment with the category is superficial and mostly tangential, resulting in a low confidence score.",
+    "reasoning_summary": "Content discusses team self-organisation and autonomy, not the integration of autonomous AI agents in delivery. Lacks agentic intelligence, AI context, or synergy themes; thus, only minor, tangential fit to 'Agentic Software Delivery.'",
     "level": "Ignored"
   }
 }

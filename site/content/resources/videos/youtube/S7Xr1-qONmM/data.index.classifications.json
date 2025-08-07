@@ -1509,15 +1509,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "S7Xr1-qONmM",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:23:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the PSU course and its integration of UX into Scrum teams, which is focused on a specific agile framework rather than the broader principles of the One Engineering System. While there are mentions of integration and collaboration, they are not explicitly tied to the 1ES framework, and the discussion lacks depth regarding the standardisation and unification of engineering processes across teams.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 9.72,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.4,
+    "ai_intent": 0.8,
+    "ai_audience": 2.4,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers on the PSU course and its integration of UX with Scrum for enhanced product development. There are no explicit or implicit references to One Engineering System (1ES), its frameworks, standardization, or unified toolsets. None of the discussed topics directly relate to the standardization and integration of software development practices across teams, unification of tools/processes, 1ES best practices, or any challenges specific to a unified engineering system. The audience is agile practitioners/product developers, but not with reference to the 1ES framework or goals. Little content maps to 1ES, and all focus is elsewhere.",
+    "reasoning_summary": "This content does not fit the One Engineering System category. It discusses Scrum and UX integration in product development, with no reference to 1ES frameworks, standardization, or unified engineering practices.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2026,6 +2033,25 @@
     "final_score": 39.0,
     "reasoning": "The content discusses the popularity and value of the PSU course, focusing on integrating user experience with Scrum in product development. While some themes like decision-making, cross-functional collaboration, and hypothesis-driven development could conceptually relate to aspects of Agentic Engineering (e.g., feedback-driven adaptation and agency in decision-making), the primary emphasis is on bridging UX and Scrum, not the deliberate maximisation of human or AI agency, ethical autonomy, or DevOps-infused craft as defined by Agentic Engineering. There are no direct mentions or explicit references to Agentic Engineering concepts, practices, or terms. The depth is moderate, focusing on practical improvements to Scrum teams rather than the philosophical framing or engineering practices of Agentic Engineering. The audience (Scrum practitioners and agile teams) is fairly well-aligned, but the signal is diluted somewhat by generic agile/Scrum promotion. No penalties apply since the content is recent, not contradictory, nor outdated.",
     "reasoning_summary": "This content focuses on integrating user experience into Scrum product development. Although it discusses decision-making and collaboration, it does not explicitly address the core concepts of Agentic Engineering, such as maximizing human and AI agency or systemic observability.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "S7Xr1-qONmM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.4,
+    "ai_intent": 1.7,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on integrating UX into Scrum product development, improving backlog refinement, and cross-functional skills. There are no mentions or discussions on autonomous AI agents, contextual intelligence, agentic automation, or related governance/design topics central to 'Agentic Software Delivery.' Concepts like agency, AI agents, agent/human synergy, or proactive, context-aware intelligence do not appear at all, nor is there discussion on AI-augmented delivery or governance frameworks. Discussion remains rooted in traditional agile roles/practices, not agentic systems. Audience fit is partial—teams in software delivery—but not targeting those interested in agentic/AI-enhanced paradigms. Signal-to-noise is low for the category, as nearly all content is off-topic regarding agentic delivery.",
+    "reasoning_summary": "Content is about integrating UX into Scrum/product development and does not address AI agents, agentic delivery principles, or automation with contextual intelligence. No substantive match with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

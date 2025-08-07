@@ -1508,15 +1508,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "wiEH7vsfrSE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:31:41",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the implications of cost-cutting during recessions and the importance of investing in people and processes. While it touches on concepts related to business agility and effectiveness, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The focus is more on general business practices rather than the integration and standardisation of engineering processes, which is the core of the 1ES framework.",
+    "calculated_at": "2025-08-07T06:10:54",
+    "ai_confidence": 24.467,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content provides a broad argument for investing in people, agility, and effectiveness during recessions. It references agility, coaching, and process improvement, but nowhere directly mentions the One Engineering System (1ES) or its unique principles or framework. Conceptually, there is mild overlap in themes (standardisation, empowering teams, improvement), but no explicit discussion about 1ES, its tools, or unified engineering practices. There’s also no comparative analysis with other frameworks, case studies of 1ES, or implementation advice specific to 1ES. The main intent is generic business resilience, so audience alignment is only partial, and much of the content is only tangentially relevant, with moderate signal-to-noise for this category.",
+    "reasoning_summary": "The content does not reference One Engineering System, its principles, or implementation. Its focus on agility and effectiveness is broad and only loosely related, so fit with the 'One Engineering System' category is weak and largely incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2023,5 +2030,24 @@
     "reasoning": "The content never directly mentions Agentic Engineering. However, there is notable conceptual alignment with key aspects, like developer agency (empowering teams, training autonomy), feedback-driven adaptation (experimentation, continuous improvement), and decision decentralisation. The main thrust is about business agility and resilience, advocating for empowering employees, decentralised decision-making, and learning cultures—all relevant to Agentic Engineering’s core. Yet, the article steers clear of engineering-specific practices, technical DevOps concepts, or explicit human/AI agency—its discussion is high-level, focusing more on organizational agility than the deliberate engineering design that Agentic Engineering emphasizes. Audience is primarily leadership and practitioners, but not exclusively engineers. The text has significant alignment, but much is focused on agility and resilience in a business sense, with less technical depth, specificity, or philosophical engagement with agency as understood in Agentic Engineering. No contradictory tone or obsolete references were observed.",
     "reasoning_summary": "This content strongly emphasizes empowerment, decentralized decision-making, and continuous improvement, which are conceptually close to Agentic Engineering. However, it lacks technical depth and explicit engineering practice focus, making its fit partial rather than direct.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wiEH7vsfrSE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 16.51,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.75,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 3.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is focused on organizational strategies during recessions, spotlighting investment in people, agility, coaching, and continuous improvement for business resilience. However, it does not mention or develop themes around autonomous AI agents, contextual intelligence, or agentic frameworks. At best, themes like empowerment, autonomy, and continuous improvement tangentially align but are not discussed in an agentic-AI context. There are no discussions about integration of AI agents, contextual intelligence in software delivery, or agentic software systems. Thus, the fit to the 'Agentic Software Delivery' category is weak and largely accidental.",
+    "reasoning_summary": "This content is about business agility, empowerment, and resilience in recessions, without any discussion of AI agents or agentic software delivery principles. Its fit to the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

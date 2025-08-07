@@ -1386,15 +1386,22 @@
     "level": "Ignored"
   },
   "Common Goals": {
+    "resourceId": "ZxDktQae10M",
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:11:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to VSTS using specific tools and methods. While it discusses the importance of understanding migration options, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. There is minimal mention of shared objectives or alignment with organisational strategy, which are central to the Common Goals category.",
+    "calculated_at": "2025-08-07T06:11:39",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 1.8,
+    "ai_audience": 5.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is a guide on using VSTS sync migration tools for TFS to VSTS transitions. There is no explicit discussion or mention of 'Common Goals', shared objectives, or alignment of strategy and execution within Agile or DevOps. The focus is primarily on migration tactics, configuration, and tool usage for technical practitioners. While it briefly mentions Agile, DevOps, and Scrum, these are contextual and not tied to the core concept of aligning team or organizational goals. There is no substantive exploration of the significance, operationalization, or impact of Common Goals, nor of frameworks like OKRs or Product/Sprint Goals. Audience partially aligns due to the DevOps/Agile context, but the overall fit with the 'Common Goals' category is weak, with only incidental overlap due to the general Agile/DevOps framing and collaboration references.",
+    "reasoning_summary": "This content focuses entirely on technical migration tools and workflows, not on defining or operationalizing Common Goals in Agile/DevOps. Any connection to Common Goals is incidental and not explored; thus, fit with this category is very low.",
     "level": "Ignored"
   },
   "Competence": {
@@ -1927,6 +1934,25 @@
     "final_score": 21.0,
     "reasoning": "The content focuses on VSTS sync migration tools and practical guidance for TFS to VSTS migrations. While DevOps and Agile are mentioned in the author's background, the article itself does not discuss agency, engineering autonomy, feedback-driven adaptation, or deliberate agentic practice. It centers almost entirely on tool setup, usage, and migration strategies, aligning with a technical practitioner audience yet not engaging with philosophical, ethical, or systemic topics central to Agentic Engineering. There are no outdated references or critical tone present, so no penalties apply. Low scores for direct mentions, conceptual alignment, depth, and intent reflect minimal or no linkage to the category's core concerns.",
     "reasoning_summary": "This guide is technical and focused on migration tooling, addressing migration challenges for DevOps practitioners but not engaging with the themes or philosophies of Agentic Engineering. There's minimal to no alignment with agency or deliberative engineering design.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZxDktQae10M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 9.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 1.1,
+    "ai_audience": 3.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is an in-depth, practical guide for migrating from TFS to VSTS using specific tools. It discusses migration workflows, configurations, field mapping, and community support. There is no explicit reference to autonomous AI agents, agentic principles, human-AI synergy, contextual intelligence, or modern engineering practices relating to agentic delivery. Furthermore, no mention is made of embedding proactive, context-aware intelligence, or the evolution towards outcome-focused systems supported by AI agents. The purpose is to educate practitioners on migration tooling for DevOps pipelines, not on agentic software delivery or anything conceptually similar. Audience is technical but not targeting agentic delivery stakeholders.",
+    "reasoning_summary": "The content focuses solely on manual migration tooling and processes for TFS/VSTS. It does not discuss agentic principles, autonomous AI, or related strategies. It is not aligned with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

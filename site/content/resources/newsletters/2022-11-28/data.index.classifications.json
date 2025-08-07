@@ -264,15 +264,22 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "Kn3i3yGquon",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:36:18",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Agile methodologies and Scrum training, with no direct mention of Continuous Delivery principles or practices. While it discusses agility and the importance of skills in a competitive market, it does not delve into the specific themes of Continuous Delivery such as automation, incremental improvements, or rapid feedback. Therefore, it aligns very loosely with the category.",
+    "calculated_at": "2025-08-07T06:11:33",
+    "ai_confidence": 20.18,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 6.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is focused on personal and professional development for agilists, with emphasis on skills, certifications, and employability. It mentions Scrum, agility, and learning, but nowhere directly references Continuous Delivery principles, practices, or tools. The central intent is not to examine delivery pipelines or related automation, feedback loops, or quality strategies key to Continuous Delivery. Only tangential connections exist, e.g., embracing adaptation and learning, which are cultural overlaps. The target audience—technical professionals interested in Scrum and Agile—matches, but the topic is not aligned. There are no outdated/contradictory signals.",
+    "reasoning_summary": "Content is about upskilling in Agile and Scrum, not Continuous Delivery. No direct mention or depth; only mild cultural overlap. Intent and themes do not fit the designated category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1992,6 +1999,25 @@
     "final_score": 28.0,
     "reasoning": "The content centers on individual upskilling, certification, and career growth within agile and Scrum contexts. While it references agility, experimentation, and adaptation (which are agentic-adjacent), it does not directly discuss the philosophical or engineering aspects of maximizing human or AI agency, nor does it explicitly cover systemic observability, ethical AI, or agentic engineering principles. The focus is more on employability and self-promotion than the deliberate design of engineering practices for agency. The audience overlaps with Agentic Engineering (practitioners, team members), but the depth, alignment, mentions, and intent are weak fits, resulting in a low confidence score.",
     "reasoning_summary": "This content mainly promotes individual skills and certifications for career advancement in agile roles and lacks substantive ties to Agentic Engineering. Its overlap is incidental, not intentional, so the match is weak.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Kn3i3yGquon",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:34",
+    "ai_confidence": 7.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 1.5,
+    "ai_audience": 4.8,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content never explicitly mentions Agentic Software Delivery, autonomous AI agents, or core concepts such as contextual intelligence, agent integration, or governance frameworks. Instead, the focus is on general Agility, upskilling, certifications, and Scrum/Agile course promotion. Agile practitioners are the audience, which partially overlaps, but none of the advanced topics in Agentic Software Delivery are present. There is no substantial alignment or depth regarding agentic discussion, no mention of AI integration, nor examples of agent-human synergy in delivery. The only slight fit is the agile delivery context, which is adjacent but not sufficient; thus, the confidence is very low.",
+    "reasoning_summary": "Content is general Agile/career skills advice and course listings; it does not address autonomy, AI agents, or agentic delivery principles. No substantive fit with Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

@@ -1333,15 +1333,22 @@
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
+    "resourceId": "XZip9ZcLyDs",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:11:37",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and leadership development within Agile teams, which is tangentially related to Agile practices but does not directly address the Agile Product Operating Model or its core principles. The discussion lacks depth on product management integration and does not explore the transition from project to product ethos, making it only marginally relevant.",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 28.21,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 2.5,
+    "ai_intent": 3.8,
+    "ai_audience": 5.5,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on the Scrum Master career path, leadership skills, and team effectiveness within general Agile and Scrum contexts. While related concepts such as continuous improvement and agile environments are mentioned, there is no explicit discussion of the Agile Product Operating Model, its principles, or a shift from project to product mindset. The piece is aimed at practitioners interested in career progression, not APOM adoption or transformation. The alignment is partial—agile methods are present, but the APOM framework, organizational structures, governance, or product orientation are not addressed. Most discussion is about individual career growth, not product operating models or evidence-based management.",
+    "reasoning_summary": "Content focuses on Scrum Master career progression in Agile/Scrum, not on the Agile Product Operating Model. Alignment is partial: agile methods are present but APOM principles, organizational shift, and product management focus are absent. Fit is weak.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1943,6 +1950,25 @@
     "final_score": 18.0,
     "reasoning": "The content focuses on the Scrum Master role as a leadership opportunity and a career step, mainly within the context of Agile and team effectiveness. There are generic mentions of leadership, value delivery, and continuous improvement, but no explicit discussion of agentic engineering, systemic observability, DevOps, ethical AI, or deliberate engineering practices that maximize human/AI agency. Mentions of 'automation' and 'leadership' are not explored in the context of agentic engineering's philosophical or systemic frames. The audience is practitioners in Agile contexts, moderately overlapping with Agentic Engineering's audience. The signal-to-noise ratio is lowered by heavy promotion and general talk about careers and leadership rather than specific, deliberative engineering design.",
     "reasoning_summary": "This content is about career progression into the Scrum Master role, with a focus on leadership and effectiveness in Agile teams. It only loosely aligns with Agentic Engineering, lacking explicit or deep engagement with the category’s core principles or technical/philosophical themes.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XZip9ZcLyDs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:32",
+    "ai_confidence": 9.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses solely on the career progression and leadership development associated with the Scrum Master role in Agile and Scrum contexts. Nowhere does it mention or allude to autonomous AI agents, agentic software delivery strategies, contextual intelligence, or related agentic principles. All core themes, intent, and detailed discussion are anchored in traditional roles and leadership in Agile teams, without reference to any agentic or AI-driven augmentation of delivery. Hashtags and keywords reinforce the career and leadership focus, not agentic automation or delivery.",
+    "reasoning_summary": "The content is about Scrum Master career paths and leadership within Agile; it does not address agentic software delivery, AI agents, or related concepts. There is no substantive or thematic fit with the 'Agentic Software Delivery' category.",
     "level": "Ignored"
   }
 }

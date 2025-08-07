@@ -146,16 +146,23 @@
     "reasoning_summary": "This content clearly fits the 'Principle' category, as it thoroughly explores the core ideas that shape Scrum, like empiricism and self-organisation. It goes beyond surface-level definitions, illustrating how these principles influence team actions and decisions. By distinguishing principles from values and focusing on their practical impact, the discussion remains highly relevant to the category."
   },
   "Artifact": {
+    "resourceId": "peNS32Lw-sn",
     "category": "Artifact",
-    "calculated_at": "2025-04-10T13:21:29",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 30,
-    "final_score": 78.0,
-    "reasoning": "The content provides a detailed overview of Scrum, including its principles, values, and accountabilities. While it does mention artifacts, such as the Product Goal and Definition of Done, the primary focus is on the Scrum framework and its roles rather than a deep exploration of artifacts themselves. The discussion of artifacts is present but not the main emphasis, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T06:11:59",
+    "ai_confidence": 57.01,
+    "ai_mentions": 3.8,
+    "ai_alignment": 6.0,
+    "ai_depth": 6.5,
+    "ai_intent": 5.4,
+    "ai_audience": 7.6,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content covers Scrum at a foundational level, mentioning artifacts (e.g., Product Backlog, Definition of Done, Increment), but only lists them briefly under 'Artifacts', with minimal exploration or focus. The content's primary focus is the concept and principles of Scrum as a framework: empiricism, values, roles, and events. The artifact section is proportionally small, lacking in-depth discussion on role, structure, or management of Scrum artifacts. Thus, mentions, depth, and intent toward the 'Artifact' category are middling, with some relevance but not central focus. No penalties were warranted as information is current and neutral in tone.",
+    "reasoning_summary": "Lists key Scrum artifacts with brief descriptions, but focuses mostly on principles, roles, and events. The artifact topic aligns but is not central or in-depth; content only partially fits the 'Artifact' category.",
+    "level": "Tertiary"
   },
   "Discipline": {
     "category": "Discipline",
@@ -3121,6 +3128,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses exclusively on human team collaboration within Scrum—covering roles, values, events, and artifacts. There are no mentions or even conceptual references to AI agents, human-AI partnership, or human-AI shared cognition. All discussions of empiricism, self-organization, and collaboration relate to people rather than collective intelligence encompassing AI. The audience and structure are tangentially proximal, as the content targets Agile and Scrum practitioners, but direct and conceptual alignment is minimal. No penalty deductions were necessary, as the content is current and not critically framed.",
     "reasoning_summary": "The content explains Scrum as a human team framework, with thorough coverage of principles and roles but no reference or alignment to human-AI collaboration or collective intelligence concepts. Its fit to the 'Collective Intelligence' category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "peNS32Lw-sn",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 13.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 2.4,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses Scrum as a framework for adaptive, iterative, and value-driven software delivery, focusing on empiricism, collaboration, and team accountabilities. However, it does not mention or meaningfully address agentic software delivery, autonomous AI agents, contextual intelligence, or any of the defining characteristics outlined in the category definition. The focus remains on traditional Scrum principles and processes—self-organisation here refers only to team dynamics, not to AI agency or the integration of AI and human expertise in delivery contexts. No AI agent concepts, agent governance, or agentic-supported engineering practices are mentioned. Thus, the confidence for this fit is very low.",
+    "reasoning_summary": "This content covers only traditional Scrum practices and principles, without any discussion of agentic software delivery or autonomous AI agents. It does not fit the assigned category except in the broadest sense of software delivery topics.",
     "level": "Ignored"
   }
 }

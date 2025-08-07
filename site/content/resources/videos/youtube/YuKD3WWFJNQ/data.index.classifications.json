@@ -1392,12 +1392,22 @@
     "level": "Secondary"
   },
   "Beta Codex": {
+    "resourceId": "YuKD3WWFJNQ",
     "category": "Beta Codex",
-    "calculated_at": "2025-04-10T15:52:24",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 30.0,
-    "reasoning": "The content discusses engagement and communication in agile practices, but it primarily focuses on Scrum roles and events rather than the principles of BetaCodex or decentralised organisational design.",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 39.85,
+    "ai_mentions": 0.25,
+    "ai_alignment": 4.75,
+    "ai_depth": 4.6,
+    "ai_intent": 3.7,
+    "ai_audience": 4.15,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content extensively discusses engagement, communication, trust, autonomy, and flattening rigid structures within agile teams, which loosely aligns with BetaCodex values. However, it never mentions Beta Codex explicitly and stays within mainstream agile contexts (prod owners, sprint reviews, Scrum). There are references to decentralisation and human-centric team culture, but no substantive exploration, frameworks, or terminology unique to BetaCodex. The main thrust is practical team-level improvements inside agile, not a systems-level reimagining of organizational structure per BetaCodex. The article's intent, audience, and focus (primarily Scrum practitioners and product owners) signal only partial conceptual overlap and do not truly advocate for, explain, or analyze BetaCodex as such.",
+    "reasoning_summary": "Partial fit: The content addresses themes like autonomy and trust, tangentially aligning with BetaCodex principles, but never mentions BetaCodex or deeply discusses its philosophies, focusing instead on mainstream agile team practices.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -2001,5 +2011,24 @@
     "reasoning": "The content addresses team engagement, stakeholder participation, and the importance of trust, autonomy, and alignment in agile reviews. These themes touch on agency and decision-making but do not directly reference Agentic Engineering, nor do they deeply engage with its systemic, philosophical, or human+AI dimensions. No mention is made of AI, DevOps, or ethical autonomy. The depth is moderate, mostly providing practical strategies for communication and engagement rather than systemic or agentic re-engineering of practice. The intent is relevant but more aligned to engagement in agile practices rather than the deliberate maximization of agency. Audience fit is fair—targeting agile practitioners, product owners and scrum masters, which overlaps but isn't solely focused on the Agentic Engineering target audience. Overall, significant alignment with category nuances is lacking.",
     "reasoning_summary": "The content discusses enhancing engagement, autonomy, and communication in agile teams, loosely aligning with agency concepts, but does not directly address or deeply explore Agentic Engineering’s core ideas such as ethical AI, systemic agency, or value delivery. Its relevance is partial but not central.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "YuKD3WWFJNQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 14.35,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 3.6,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on increasing stakeholder engagement and breaking silence within Agile teams. It addresses themes like communication, trust, and effective sprint reviews, but does not mention or implicitly describe the integration of autonomous AI agents, agentic principles, or proactive, context-aware intelligence in systems of work. There is no discussion of agents, contextual intelligence, human/AI collaboration, or modern engineering practices associated with agentic software delivery. The content is well-aligned to traditional Agile and Scrum audiences and challenges, but lacks conceptual or thematic overlap with Agentic Software Delivery.",
+    "reasoning_summary": "This content centers on traditional Agile team engagement, not agentic delivery. No references to AI agents, contextual intelligence, or agentic practices. The fit is minimal; it does not match the topic or intent of the category.",
+    "level": "Ignored"
   }
 }

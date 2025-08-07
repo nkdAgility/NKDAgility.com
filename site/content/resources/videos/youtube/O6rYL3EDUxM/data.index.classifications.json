@@ -9,12 +9,22 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "O6rYL3EDUxM",
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T12:45:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of continuous improvement and adaptability in Agile practices, which aligns with the theme of experimentation. However, it primarily focuses on assessing Agile maturity rather than detailing specific experimentation techniques or hypothesis-driven approaches.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 53.579,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.6,
+    "ai_intent": 5.8,
+    "ai_audience": 7.7,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content is focused on differentiating real vs. fake Agile practices, using the DoD's 'Detecting Agile BS' guide and its six questions. Experimentation is mentioned explicitly only once and framed in relation to fostering a culture of continuous improvement, but the main thrust is Agile maturity self-assessment, not systematic hypothesis-driven experimentation. There are indirect references to iterating, feedback, and continuous improvement (adjacent to experimentation), but the content does not provide specific examples or in-depth discussion around experimental techniques, hypothesis testing, or structured testing of assumptions within Agile workflows. Audience alignment is strong (Agile practitioners, leaders), and the purpose is informative and action-oriented. Signal-to-noise is high as most content concerns Agile practices, though only a minor share directly references or analyzes experimentation as defined in the classification.",
+    "reasoning_summary": "The piece mentions experimentation briefly in the context of continuous improvement but mainly discusses genuine Agile practice assessment. It does not systematically explore experiment-centric practices, so fit with 'Experimentation' is partial and indirect.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -2012,5 +2022,24 @@
     "reasoning": "Direct mentions of Agentic Engineering or its vocabulary are absent, and the category is never explicitly referenced. However, there is strong conceptual overlap with themes of developer autonomy, feedback-driven adaptation, systemic improvement, and continuous value delivery—hallmarks of Agentic Engineering. The depth is moderate, with practical focus on assessing and improving Agile maturity, emphasizing empowerment and decision-making. The intent is closely aligned as the article pushes organizations toward genuine autonomy and adaptability, addressing a technical/practitioner audience typical for Agentic Engineering but falling short of Agentic Engineering's integration of human-AI collaboration or explicitly referencing DevOps ethos, observability, and AI ethics. The content is focused, but its primary context is authentic Agile adoption rather than the deliberate engineering for maximum agency across humans and intelligent systems.",
     "reasoning_summary": "This content offers practical guidance on authentic Agile adoption, strongly mirroring Agentic Engineering principles like team empowerment and continuous feedback but doesn't address system design for both human and AI agency or mention Agentic Engineering directly. It's relevant but not a precise fit.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "O6rYL3EDUxM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 12.24,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 0.7,
+    "ai_audience": 4.9,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content addresses Agile maturity, delivery practices, and continuous delivery but never references agentic concepts (AI agents, agency, contextual intelligence, or the human-agent interactions defined in Agentic Software Delivery). All examples, questions, and practical advice target classical Agile (e.g., Scrum, continuous delivery, empowerment, feedback), with no mention or implication of autonomous AI agents. The focus is on identifying genuine Agile adoption, not on integrating advanced agentic software capabilities or governance. Audience is technically adjacent but not a direct target for agentic delivery. Signal suffers from irrelevance to agentic themes. No dimension warranted penalties.",
+    "reasoning_summary": "Content focuses entirely on diagnosing and improving Agile maturity, with no mention of AI agents, agency, or agentic delivery. Lacks conceptual and intent alignment with the Agentic Software Delivery category. Fit is minimal and purely tangential.",
+    "level": "Ignored"
   }
 }

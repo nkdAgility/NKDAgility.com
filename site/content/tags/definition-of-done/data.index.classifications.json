@@ -63,15 +63,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores the Definition of Done (DoD) as a systematic approach to ensuring quality and clarity in deliverables. It stays focused on practical, step-by-step procedures and criteria, avoiding unrelated topics, and highlights both organisational and team perspectives, making it highly relevant to methodical practices."
   },
   "Strategy": {
+    "resourceId": "mAZrKmLwc3L",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) primarily as a quality assurance tool rather than a strategic framework. While it mentions transparency and alignment, it does not explicitly connect these concepts to broader organisational goals or strategic planning. The focus is more on operational practices and criteria for completion, which are tactical in nature. Therefore, while there are elements that touch on strategy, they are not the primary focus of the content.",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 32.583,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 3.1,
+    "ai_intent": 2.3,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content gives a comprehensive overview of the Definition of Done (DoD) in Scrum, focusing on team-level and operational guidance for creating and applying a DoD. It explores definition nuances, quality agreements, real-team examples, and practical steps, but does not substantially engage with high-level organisational strategy, alignment to business objectives, or strategic decision-making frameworks. Strategic themes like quality and shared understanding are present, but presented mainly as practice details or standards improvement for product increments, not as an explicit part of organisational or agile strategy. Audience focus is team/technical practitioners, not strategists or executives; while some elements (like aligning DoD to organisational quality) have slight alignment, the main focus is day-to-day practices, not strategic planning.",
+    "reasoning_summary": "Content is detailed on operational standards for DoD, but ties to high-level strategy are minimal. Focus is on implementation, not strategic planning or alignment, so fit for 'Strategy' is low and mostly incidental.",
     "level": "Ignored"
   },
   "Practice": {
@@ -3124,6 +3131,25 @@
     "final_score": 16.0,
     "reasoning": "The content fully centers on creating and applying a Definition of Done in Scrum/Agile contexts. It details human team collaboration, shared understanding, and processes for quality and delivery, but makes no direct or indirect reference to AI, human-AI collaboration, augmented cognition, or collective intelligence as defined. All collaboration described is human-to-human, not human-AI. The audience (Scrum practitioners) could overlap with a collective intelligence audience, but there is no fit on conceptual grounds, intent, or direct mention, nor is there discussion of emerging cognitive capabilities involving AI agents.",
     "reasoning_summary": "This material is strictly about human team agreement and quality standards in Agile/Scrum. It lacks any reference or relevance to human-AI collaboration or collective intelligence. Fit with the defined category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "mAZrKmLwc3L",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 19.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 3.2,
+    "ai_audience": 7.2,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content deeply covers Definition of Done (DoD) and software quality in Scrum. It makes only extremely superficial connections to modern DevOps/observability practices (e.g., mentions telemetry, automation), but never discusses or implies the integration of autonomous AI agents, context-aware intelligence, or synergy between domain experts and AI agents characteristic of Agentic Software Delivery. The primary focus is on human-driven quality standards, checklists, and teamwork. Any overlap (quality, automation, DOD workshops, telemetry) is tangential and not positioned within or even referencing agent-autonomy or agentic systems. The audience (Scrum teams, developers, quality-driven practitioners) overlaps with the potential audience for Agentic Software Delivery, but the topic, intent, mentions, and depth are largely unrelated to the agentic paradigm.",
+    "reasoning_summary": "This content focuses on Definition of Done, quality, and teamwork in Scrum, with no substantive attention to autonomous AI agents or agentic delivery. Any overlap is incidental and not informed by the agentic approach, so fit is very weak.",
     "level": "Ignored"
   }
 }

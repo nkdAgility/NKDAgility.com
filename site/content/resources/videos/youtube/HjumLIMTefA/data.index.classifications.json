@@ -1468,15 +1468,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it thoroughly explores how immersive learning in Agile training supports skill development and continuous improvement. By offering practical examples and strategies, it clearly demonstrates the link between competence and organisational change, making it highly relevant to the category."
   },
   "One Engineering System": {
+    "resourceId": "HjumLIMTefA",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:49:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning in Agile training, specifically within the context of Scrum. While it touches on themes of continuous improvement and feedback, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about training methodologies rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 15.58,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 3.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses exclusively on immersive learning in Agile training, emphasizing real-world application, feedback, and continuous improvement. It does not reference 1ES, standardization, integrated toolchains, or unifying engineering frameworks. While there are thematic surface parallels (continuous improvement, adopting learning cycles) which are tangential to the goals of 1ES, there is no substantial overlap in intent, detail, or audience targeting engineering process integration. All references and examples are anchored strictly in training effectiveness and individual/team learning cycles, not organization-wide systems integration or standardization.",
+    "reasoning_summary": "This content does not fit the 'One Engineering System' category. It centers entirely on immersive Agile learning, lacking any focus on standardizing, integrating, or unifying engineering systems at scale.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1981,6 +1988,25 @@
     "final_score": 40.0,
     "reasoning": "The content thoroughly explores immersive, feedback-driven learning in Agile contexts, aligning loosely with agentic practices (focus on feedback culture and continuous improvement). However, it lacks direct mention of Agentic Engineering or explicit discussion of human/AI agency, ethical autonomy, or DevOps-infused craft. The focus remains on human-centered adaptation, not on the deliberate design of distributed engineering agency or AI collaboration. Thus, conceptual fit is partial and depth is moderate regarding the category's definition.",
     "reasoning_summary": "This content promotes continuous improvement and feedback loops in Agile learning, showing partial conceptual overlap with Agentic Engineering. However, it lacks explicit discussion of human or AI agency, engineering autonomy, or the philosophical depth required for full alignment with the target category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "HjumLIMTefA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 11.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 4.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on immersive and feedback-driven learning in Agile training. While there is attention to feedback loops, continuous improvement, and organizational change, there is absolutely no mention of autonomous AI agents, context-aware systems, or the integration of agentic technologies. The closest linkage is the discussion of feedback cycles, which are a precondition but not a sufficient marker for agentic software delivery. The audience and motivation are Agile practitioners and trainers, not those implementing, integrating, or governing AI agents in the delivery process. No topics from the Agentic Software Delivery definition, such as domain expert/agent collaboration, agent-supported delivery tasks, contextual architecture/telemetry, or modern DevOps/agent governance, are present. Signal-to-noise is low for the target topic, no obsolete practices or negative tone. Overall, this fits only peripherally at best.",
+    "reasoning_summary": "Content centers on immersive Agile training, not on agentic delivery or AI agent integration. Minimal alignment except in general improvement cycles; no mention of agentic principles, AI, or related practices. Fit is very weak and tangential.",
     "level": "Ignored"
   }
 }

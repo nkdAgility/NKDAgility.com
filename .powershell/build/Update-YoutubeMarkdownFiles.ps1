@@ -131,7 +131,7 @@ function Update-YoutubeMarkdownFiles {
             if (-not $hugoMarkdown.FrontMatter.Contains("description")) {
                 # Update description using OpenAI if needed
                 $fullDescription = Get-UpdatedDescription -videoData $videoData
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $fullDescription -addAfter "title"
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $fullDescription
             }
             # get the Dates right
             $publishDate = $null
@@ -141,13 +141,13 @@ function Update-YoutubeMarkdownFiles {
             else {
                 $publishDate = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
             }
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishDate -addAfter "description" -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishDate -Overwrite
             # / Get the Dates right
             #ExpiryDate
             if ($videoData.status.privacyStatus -eq "private" -and -not $videoData.status.publishAt) {
                 if ($videoData.snippet.publishedAt) {
                     $ExpiryDate = $videoData.snippet.publishedAt
-                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ExpiryDate' -fieldValue $ExpiryDate  -addAfter "description" -Overwrite
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ExpiryDate' -fieldValue $ExpiryDate -Overwrite
                     Write-Host "ExpiryDate set to snippet.publishedAt: $($ExpiryDate )"
                 }
                 else {
@@ -160,27 +160,27 @@ function Update-YoutubeMarkdownFiles {
 
 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date" -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "video" -addAfter "ResourceId"
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceType'
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "ResourceId"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug" -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  $slug -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "video" -addAfter "slug"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "slug"
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
             }           
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter "aliases"
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort -Overwrite
             # if ($tags.Count -gt 0) {
             #     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
             # }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration" -Overwrite
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -Overwrite
             if ($source -eq "youtube") {
                 $priority = 0.4
             }

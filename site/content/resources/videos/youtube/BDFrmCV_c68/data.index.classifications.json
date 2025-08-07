@@ -1347,16 +1347,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "BDFrmCV_c68",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:27",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the concept of pride within Agile practices, touching on themes of decision-making and learning from failures, which are relevant to social technologies. However, it primarily focuses on individual and team behaviours rather than broader frameworks or methodologies that promote collaboration and value delivery. While there are mentions of data-driven decisions and learning from failures, the overall emphasis is more on personal and team dynamics rather than the collective intelligence and transparency that characterise social technologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 77.35,
+    "ai_mentions": 4.0,
+    "ai_alignment": 8.5,
+    "ai_depth": 7.9,
+    "ai_intent": 8.0,
+    "ai_audience": 8.1,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content explores Agile team dynamics by addressing how unchecked pride hinders collaboration, learning, and value delivery—all core to Social Technologies. It emphasizes humility, data-driven decision-making, feedback culture, and continuous improvement. There are direct mentions of Agile and some implicit reference to social frameworks (culture, feedback, team behavior), though 'social technologies' as a term is not directly used. The depth is notable in its practical focus (pitfalls, case study, behaviors to avoid), but lacks direct discussion of frameworks or explicit methods for fostering collective intelligence or emergent problem-solving. The target audience (Agile practitioners) fits perfectly. Signal remains high as the focus never strays from organizational/team implications. The confidence is strong, though just short of maximum due to absence of framework/tool specifics and only moderate direct referencing.",
+    "reasoning_summary": "This content fits Social Technologies by exploring how pride impacts Agile team collaboration, learning, and value delivery, supporting humility and continuous improvement. The focus is relevant, with a strong but not explicit connection to the category.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1981,5 +1988,24 @@
     "reasoning": "The content never directly mentions Agentic Engineering, nor does it explicitly discuss maximizing human and AI agency in engineering. Its core is Agile team culture and combating pride via data-driven, feedback-focused, and learning-centric practices. While these embody supporting principles (like hypothesis-driven work, observability through telemetry, empirical adaptation, humility, and feedback), these are discussed mainly in the context of good Agile and value delivery. The technical audience and intent somewhat align, touching on developer agency and continuous improvement. However, there is little focus on deliberate systemic design for agency or ethical AI integration, and no discussion of joint human-AI collaboration or autonomy—the hallmark of Agentic Engineering.",
     "reasoning_summary": "This content discusses Agile humility, data-driven decision-making, and continuous learning, which partially align with Agentic Engineering’s feedback and agency themes. However, it doesn’t address the deliberate design for maximizing agency or human-AI collaboration central to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BDFrmCV_c68",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 17.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses healthy team psychology in Agile (pride, data-driven learning, customer value) but never directly addresses Agentic Software Delivery topics such as autonomous AI agents, agent-human synergy, or context-aware intelligence. It references data-driven decision-making and telemetry, which are tangentially related, but does not discuss their application via agentic systems, nor does it refer to autonomy, agency, or modern AI delivery practices. Audience is moderately aligned (practicing Agile professionals), and signal-to-noise is high as the focus remains on practical Agile mindsets, but substance with respect to the agentic category is minimal.",
+    "reasoning_summary": "Content centers on Agile team mindsets, with minor overlap via data-driven decisions and telemetry, but lacks any reference to autonomous AI, agentic systems, or their integration. Not a fit for Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

@@ -1467,15 +1467,22 @@
     "level": "Ignored"
   },
   "Agentic Agility": {
+    "resourceId": "JVZzJZ5q0Hw",
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:55:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, discussing tactical aspects and immediate objectives. While it touches on themes of agility, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 36.323,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.4,
+    "ai_depth": 3.8,
+    "ai_intent": 4.7,
+    "ai_audience": 8.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on Sprint Goals in Scrum, emphasizing their tactical nature and connection to vision, goal-setting, and actionable feedback. However, it does not reference agency, autonomy, accountability, or intentionality—central to Agentic Agility. There is no discussion of adaptive action, distinguishing agency, or how agency impacts value delivery or learning loops. The audience is well-aligned, being Agile/Scrum practitioners. While the signal is high regarding Scrum topics, relevance to Agentic Agility is tangential at best. The main ideas do not match the core meaning of the category; the content remains focused on practical Scrum application, not on cultivating or examining agency as a concept or practice.",
+    "reasoning_summary": "Content explains Sprint Goals in Scrum but does not mention agency, autonomy, or adaptive action. Focus is on execution, not on the core themes of Agentic Agility. Fit with the category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Product Development": {
@@ -1968,6 +1975,25 @@
     "final_score": 23.0,
     "reasoning": "The content focuses on the tactical role of sprint goals in Scrum, highlighting the importance of clear objectives and actionable feedback. However, it does not address agentic engineering themes such as human or AI agency, decentralised decision-making, ethical AI collaboration, or systems observability. While it relates to enabling team focus and feedback-driven adaptation, it lacks the depth, terminology, and philosophical framing expected for Agentic Engineering. The intended audience aligns with Scrum practitioners, which only partially overlaps with Agentic Engineering's broader scope.",
     "reasoning_summary": "The content centers on sprint goals within Scrum, emphasizing clarity and actionable feedback for teams. While it discusses focus and adapting based on outcomes, it does not meaningfully address agency, AI collaboration, or the engineering philosophies central to Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "JVZzJZ5q0Hw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 13.603,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 4.7,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is an in-depth explanation of Sprint Goals in Scrum, focusing on tactical versus strategic levels, stakeholder feedback, and benefits of clear goals for teams. However, it makes no direct or implied references to AI agents, agentic systems, or any topics central to Agentic Software Delivery, such as integration of autonomous agents, contextual intelligence, or modern engineering automation. The discussion is purely human-centric within standard Scrum practices. Thus, there is minimal conceptual alignment, intent fit, or direct relevance—apart from targeting a vaguely related practitioner audience.",
+    "reasoning_summary": "Content is a standard Scrum coaching piece on Sprint Goals, with no mention of agentic software delivery, autonomous AI, or contextual agent integration—there is no substantive or implied fit with the assigned category.",
     "level": "Ignored"
   }
 }

@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "BRRQ1JWsHpQ",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:03:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than DevOps principles. While it briefly mentions DevOps in the conclusion, it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is more centred on agile methodologies and training strategies, which are not strictly aligned with the DevOps philosophy.",
+    "calculated_at": "2025-08-07T06:11:30",
+    "ai_confidence": 19.627,
+    "ai_mentions": 1.6,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 6.7,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is focused on practical Agile training, experimentation, Liberating Structures, group facilitation, and applying these in both in-person and virtual settings. While DevOps is briefly mentioned at the end as an area of interest ('I’m always open to conversations about... DevOps'), there are no explicit discussions on DevOps philosophy, practices, or cultural shifts. Main topics (experimentation, collaboration, engagement) do intersect conceptually with DevOps values, but only at a very high, generic level that would apply equally to Agile, Scrum, or team facilitation. No depth or detail specific to DevOps principles, practices, or journey is provided. The audience (Agile practitioners, facilitators) may overlap with DevOps audiences, but the actual content intent and messaging do not target DevOps implementation or learning. Signal-to-noise is average, as the only reference to DevOps is inviting discussion, not substantive content. No penalties applied, as there are no outdated or actively contrary elements. Fit is peripheral and minimal.",
+    "reasoning_summary": "DevOps is mentioned only in passing with no substantive discussion, examples, or depth. The content centers on agile facilitation and group engagement, not DevOps philosophy, practices, or cultural shifts, making the fit peripheral and minimal.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1956,5 +1963,24 @@
     "reasoning": "Direct mentions of 'Agentic Engineering' are absent, and while the content touches on developing practitioner agency and adaptive practices, it doesn't explicitly engage with deliberate engineering design or the philosophical aspects of agency as per the category definition. Most discussion centers around agile facilitation, experimentation, and engagement tools, with superficial links to autonomy. There's no substantial exploration of DevOps ethos, AI agency, observability, automation, or ethics. Audience is practitioners potentially interested in these topics, and content is focused, with little off-topic material.",
     "reasoning_summary": "The content primarily covers agile engagement and experimentation, with only partial and peripheral alignment to Agentic Engineering. It references some autonomy and adaptation themes but doesn't delve into agentic practices, engineering design, or the systemic aims outlined in the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 15.93,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.7,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on practical agile training, group facilitation, and applying learning in the workplace. While it touches on themes like experimentation and context and briefly mentions DevOps, there is no discussion or explicit mention of agentic software delivery, AI agents, or autonomous systems. There is no technical or conceptual alignment with the key topics of Agentic Software Delivery. The primary audience (agile practitioners, facilitators, and scrum masters) slightly overlaps, but the subject matter is general agile enablement, not about embedding AI agents or agentic frameworks. Almost all content is dedicated to traditional human-centric training and collaboration tools, and not to the integration of AI agency, intelligence, or agent-support in software delivery.",
+    "reasoning_summary": "Content focuses on agile training, facilitation, and practical engagement; it does not address agentic software delivery, AI agents, or contextual intelligence. Alignment with the category is minimal and mostly coincidental.",
+    "level": "Ignored"
   }
 }

@@ -20,20 +20,21 @@
   "DevOps": {
     "resourceId": "2mdv7QE2nIt",
     "category": "DevOps",
-    "calculated_at": "2025-05-07T14:00:24",
-    "ai_confidence": 54.7,
-    "ai_mentions": 2.2,
-    "ai_alignment": 6.7,
-    "ai_depth": 6.9,
-    "ai_intent": 5.8,
-    "ai_audience": 7.1,
-    "ai_signal": 6.3,
+    "calculated_at": "2025-08-07T06:10:04",
+    "ai_confidence": 71.3,
+    "ai_mentions": 3.8,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.6,
+    "ai_intent": 7.4,
+    "ai_audience": 8.2,
+    "ai_signal": 8.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 55.0,
-    "reasoning": "The content focuses on upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with practical steps for class libraries and web apps. There are a few direct references to Azure DevOps Migration Tools and CI/CD pipelines, but the term 'DevOps' as a philosophy or practice is not explicitly discussed. The main alignment with DevOps is indirect: the upgrade enables modern tooling, easier builds, and better integration with CI/CD, which are supportive of DevOps practices. However, the content does not explore DevOps principles such as collaboration, automation, feedback loops, or cultural shifts in depth. The depth of discussion is strong regarding technical migration steps, but not specifically about DevOps as a philosophy. The intent is to modernise engineering systems, which aligns with DevOps goals, but the primary audience is .NET developers and technical leads rather than DevOps strategists or practitioners. The signal-to-noise ratio is good, with most content relevant to project migration and modernisation, but only a moderate portion is directly relevant to DevOps. No penalties were applied, as the content is current and does not contradict the category. Overall, the confidence score reflects that while the content is tangentially related to DevOps (through enabling modern engineering practices and CI/CD), it does not directly or deeply address DevOps principles or culture.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content focuses on upgrading legacy .NET/ASP.NET projects to SDK-style for improved modern tooling, maintainability, and CI/CD pipeline integration. While 'DevOps' is named only in relation to the Azure DevOps Migration Tools, several concepts closely align with DevOps principles: automation (upgrade assistants, build improvements), building for sustainable delivery, quality (test, CI), and facilitating modernization for future readiness. There is substantial discussion of technical and process changes that increase flow efficiency, reduce silos (by preparing for modern pipelines), and encourage continuous improvement—key DevOps themes. However, the primary focus is on project conversion and engineering best practices rather than explicit DevOps philosophy or cultural transformation, and direct mentions are limited. Discussion of DevOps as a practice/theory and cross-team collaboration is implicit rather than explicit, which holds back a top score.",
+    "reasoning_summary": "The content centers on legacy .NET project modernization, featuring automation, CI/CD pipeline readiness, and process improvement—aligning well with DevOps practices, but lacks explicit, deep discussion of DevOps as a philosophy. Fit is partial but relevant.",
+    "level": "Secondary"
   },
   "Product Management": {
     "resourceId": "2mdv7QE2nIt",
@@ -3199,6 +3200,25 @@
     "final_score": 19.0,
     "reasoning": "The content is a pragmatic, step-by-step guide for upgrading legacy .NET projects to SDK-style formats. While it discusses modernizing build pipelines and tooling—which enables future engineering practices—it does not explicitly or conceptually address agentic engineering themes such as maximizing developer or AI agency, decentralized decision-making, or ethical/feedback-driven autonomy. Its focus is almost entirely on technical migration steps rather than philosophical or systemic engineering practices, with no mention of agency, feedback loops, or cross-domain collaboration between humans and AI. The content targets practitioners (developers/engineers) but stays away from deeper conceptual or purpose-driven alignment with Agentic Engineering as defined. Though modernizing builds can be a small enabler for agentic practices, this is not highlighted, nor is it the content’s main purpose.",
     "reasoning_summary": "This content primarily provides technical instructions for upgrading .NET projects, focusing on modernization for maintenance and tooling. It does not engage with the principles or themes of Agentic Engineering, such as promoting developer or AI agency, feedback-driven design, or decentralized decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2mdv7QE2nIt",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 21.34,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 1.9,
+    "ai_audience": 6.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content thoroughly covers the migration of legacy .NET and ASP.NET MVC projects to SDK-style, with focus on modernisation, CI/CD improvement, and engineering quality. However, there is no explicit or implicit mention of autonomous AI agents, agentic intelligence, contextual AI integration, or agency in delivery processes. The themes are limited to structural codebase upgrades and tooling best-practices, not the agentic delivery strategies as defined. There's moderate alignment in technical audience and modern engineering practices, but the key Agentic Software Delivery concepts—such as autonomous agents, contextual intelligence, or human-agent collaboration—are missing.",
+    "reasoning_summary": "Fits only peripherally: focuses on engineering modernization, not on autonomous AI agents, agency, or agentic delivery principles. No signals of agentic delivery concepts; thus, low confidence this content fits the category.",
     "level": "Ignored"
   }
 }

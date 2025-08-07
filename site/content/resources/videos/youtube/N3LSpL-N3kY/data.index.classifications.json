@@ -1219,16 +1219,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "N3LSpL-N3kY",
     "category": "Value Delivery",
-    "calculated_at": "2025-04-10T15:54:05",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the training paths for Product Owners, touching on the value of learning and the importance of understanding the role. However, it primarily focuses on the training methods rather than specific strategies or methodologies for delivering value to customers. While there are mentions of practical application and feedback, the overall emphasis is more on the training experience than on value delivery principles within Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:20",
+    "ai_confidence": 38.68,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.7,
+    "ai_intent": 4.8,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on comparing two Product Owner course formats—2-day and 8-week—based on learning style, depth, and practical integration, rather than discussing strategies for value delivery itself. While there are indirect links (such as references to the Agile context, learning integration, and some allusions to applying knowledge in professional settings), the main discussion is about educational format and preference, not iterative or continuous value delivery, maximizing customer value, or directly relevant Agile value practices. Mentions of value are present but only in the sense of 'value of learning' rather than 'customer or business value.' The audience aligns somewhat (Agile practitioners), and there is little off-topic content, but the conceptual alignment and depth regarding value delivery are limited and mostly tangential.",
+    "reasoning_summary": "This content primarily compares course formats for Product Owners. Though Agile, Scrum, and application in the workplace are discussed, it lacks direct focus on value delivery. Fit with Value Delivery is limited and largely indirect.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1944,6 +1951,25 @@
     "final_score": 16.0,
     "reasoning": "The content focuses on comparing the formats of Product Owner courses (2-day vs. 8-week) in terms of learning pace and style, without direct mention of Agentic Engineering or its concepts. The text lacks discussion of developer/AI agency, systemic observability, DevOps ethos, or ethical autonomy. There is minimal conceptual overlap and no depth on engineering philosophy or practices related to agency. While targeting Agile practitioners (somewhat aligned audience), the content is centered on course selection rather than engineering decisions, feedback loops, or autonomy principles. Final confidence reflects low but not zero thematic overlap due to the mention of feedback in practical learning.",
     "reasoning_summary": "This content focuses on comparing Product Owner course lengths and learning outcomes but does not discuss Agentic Engineering, developer/AI agency, or related practices. Its main purpose is course selection in Agile, resulting in very low confidence for category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:19",
+    "ai_confidence": 7.843,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on comparing delivery formats for Product Owner training (2-day vs 8-week), emphasizing learning pace, feedback, practical application, and skills integration. While it references feedback loops and integration of learning into real scenarios, it does so only in a general context of education and skill development—not in a software delivery, agentic, or AI-augmented context. There is no mention of autonomous AI agents, contextual intelligence, agentic principles, nor delivery frameworks involving agents or AI. The audience is primarily aspiring or current Product Owners rather than those focused on AI-driven agentic delivery. No obsolete practices or negative tone noted, so no penalties were applied.",
+    "reasoning_summary": "The content is strictly about Product Owner training formats, with no reference to agentic concepts or AI-mediated delivery. It does not fit the Agentic Software Delivery category, as neither the topic nor intent aligns.",
     "level": "Ignored"
   }
 }

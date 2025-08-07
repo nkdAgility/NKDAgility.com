@@ -2,21 +2,21 @@
   "Large Scale Agility": {
     "resourceId": "es3rfygczrI",
     "category": "Large Scale Agility",
-    "calculated_at": "2025-05-16T14:10:53",
-    "ai_confidence": 48.91,
-    "ai_mentions": 1.49,
-    "ai_alignment": 4.2,
-    "ai_depth": 4.51,
-    "ai_intent": 6.82,
-    "ai_audience": 5.72,
-    "ai_signal": 7.14,
+    "calculated_at": "2025-08-07T06:11:09",
+    "ai_confidence": 34.743,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.8,
+    "ai_intent": 4.7,
+    "ai_audience": 5.2,
+    "ai_signal": 5.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 49.0,
-    "reasoning": "The content strongly focuses on the necessity of cultural change for Agile or Scrum adoption, emphasizing trust, transparency, and a supportive environment. It critiques surface-level adoption via mandates or tools. However, it does not explicitly discuss scaling Agile frameworks, enterprise-level transformation, or alignment across multiple teams. Its advice is generally applicable to both team and organizational levels but lacks specific references to large scale or enterprise contexts. The audience likely includes those in leadership or transformation roles, but the message remains general rather than oriented toward large-scale change management. There are no outdated references or penalties justified.",
-    "reasoning_summary": "This content thoughtfully highlights the cultural foundations necessary for meaningful Agile adoption but lacks direct focus on scaling Agile across the enterprise. While relevant in spirit, it doesn't directly address large-scale agility frameworks or strategies.",
-    "level": "Tertiary"
+    "final_score": 35.0,
+    "reasoning": "The content focuses on agility as a mindset and cultural shift rather than mere process adoption, emphasizing trust and transparency. However, it predominantly addresses team-level culture, not enterprise scaling or cross-team alignment, frameworks, or transformation strategies. While the points about culture and genuine agility could loosely apply at scale, direct mentions and depth about scaling practices are lacking. There are no references to frameworks, enterprise transformation, or large-scale coordination.",
+    "reasoning_summary": "The content highlights the cultural aspects necessary for true agility but is framed at the team or general practice level, not the enterprise scale. Only a partial, indirect fit for Large Scale Agility as defined.",
+    "level": "Ignored"
   },
   "Tenet": {
     "resourceId": "es3rfygczrI",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content does not explicitly mention Agentic Engineering or closely related terms. However, it strongly aligns conceptually by emphasizing cultural conditions essential for developer agency, trust, transparency, and systemic observability—key aspects of Agentic Engineering. The discussion centers on enabling real agility not through mandates or tools but via supportive environments, reflecting the core philosophy. Depth is moderate, as it moves past surface-level Agile/Scrum critique to highlight the importance of agency and feedback responses, though it does not deeply explore engineering-specific practices or AI integration. The intent is supportive and informative, aimed at practitioners or change agents interested in authentic agility. Audience alignment and signal-to-noise are relatively high, focusing primarily on relevant philosophical and practical facets. No references to outdated practices or contradictory tone are present, so no penalties are applied.",
     "reasoning_summary": "While Agentic Engineering is not named, the content’s focus on trust, transparency, observability, and culture-driven agency strongly aligns with the category’s ethos. It advocates for environments that empower teams, matching Agentic Engineering’s central themes.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "es3rfygczrI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content critiques cultural issues when adopting Agile/Scrum, emphasizing trust and environment over mandates or tooling. No direct mention or thematic exploration of agentic software delivery, autonomous AI agents, or intelligent systems is present. No detailed discussion aligns with agentic principles, integration, or modern engineering practices as described in the category. The intended audience is practitioners in Agile/Scrum but not specifically those focused on agentic delivery. While the themes of observability, culture, and process are present, they lack connection to autonomous agents or systematic intelligence integration in software delivery.",
+    "reasoning_summary": "This content focuses on Agile/Scrum culture change and critiques top-down mandates. It does not discuss agentic software delivery, autonomous agents, or related integration topics; thus, it only loosely aligns with the category.",
+    "level": "Ignored"
   }
 }

@@ -1405,15 +1405,22 @@
     "reasoning_summary": "This content is a strong fit for the Scrum category, as it centres on Sprint Planning—a core Scrum event. It thoroughly explores the process, purpose, and impact of Sprint Planning, highlighting its role in team collaboration and adaptability. While it briefly mentions Kanban, the main focus remains on Scrum principles, making it highly relevant for those seeking insights into effective Scrum practices."
   },
   "Shift Left Strategy": {
+    "resourceId": "nMkit8zBxG0",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:03:08",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on sprint planning within Agile methodologies, discussing roles, processes, and the importance of alignment and flexibility. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the development lifecycle. The discussion is centred around planning and execution rather than proactive quality assurance or early integration of critical processes.",
+    "calculated_at": "2025-08-07T06:11:24",
+    "ai_confidence": 7.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.6,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly discusses sprint planning, its purpose, and its execution within Scrum and Kanban. However, there are no mentions or references to Shift Left Strategy, its concepts, or implementation in the context of moving testing, security, or compliance earlier into the cycle. The intent, audience, and main discussion all focus on general Agile, Scrum, and project management processes, not shift left principles. The signal-to-noise ratio is low for the specified category; all coverage is about planning rituals, not the proactive early-in-lifecycle integration central to Shift Left. No outdated information or critical tone is present, so no penalties applied.",
+    "reasoning_summary": "This content focuses only on sprint planning and general Agile practices, not Shift Left Strategy. There is no substantive overlap with the category definition; any relevance is incidental or indirect at best.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1965,6 +1972,25 @@
     "final_score": 32.0,
     "reasoning": "There are virtually no direct mentions of Agentic Engineering or its distinctive concepts such as maximising human or AI agency, systemic observability, or ethical AI collaboration. The content focuses on sprint planning, team alignment, flexibility, and the differences between Scrum and Kanban. While tangentially relevant (team agency, decision-making), it lacks explicit or in-depth exploration of agentic principles, DevOps-infused craft, or the ethical/AI elements crucial to the category definition. The audience is broadly technical but not targeted specifically at Agentic Engineering practitioners. Overall, little content is directly relevant to the category.",
     "reasoning_summary": "This content centers on Agile sprint planning basics, with minor nods to team agency and decision-making but lacks any substantive coverage of Agentic Engineering's core themes like autonomy, observability, DevOps infusion, or ethical AI. Its relevance is minimal and indirect.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "nMkit8zBxG0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:23",
+    "ai_confidence": 12.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 2.7,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers exclusively on traditional Sprint Planning in the context of Scrum and Kanban. There is a thorough exploration of planning meetings, backlog refinement, goals, and routine agile practices. However, there are no mentions or indications of autonomous AI agents, agentic systems, or their integration with human expertise. The discussion remains rooted in standard Agile delivery models and does not introduce modern agentic concepts, proactive AI, or autonomous feedback loops. While the target audience overlaps somewhat (Agile practitioners), the content is not focused on the principles, practices, or intent of Agentic Software Delivery. Its alignment and depth relative to the category are therefore very low.",
+    "reasoning_summary": "The content is about traditional Sprint Planning and Agile methods, with no reference to agentic concepts, autonomous AI agents, or their synergy with human teams. Category fit is minimal and only overlaps on general Agile delivery topics.",
     "level": "Ignored"
   }
 }

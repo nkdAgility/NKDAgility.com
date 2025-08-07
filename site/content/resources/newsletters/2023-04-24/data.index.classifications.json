@@ -1467,15 +1467,22 @@
     "reasoning_summary": "This content is a good fit for the competence category, as it centres on ongoing learning and skill enhancement within Agile and Scrum. It encourages professional growth and self-improvement, which are key aspects of competence. While there are some promotional elements, the main emphasis remains on developing abilities and fostering meaningful conversations about growth."
   },
   "One Engineering System": {
+    "resourceId": "6h1D_YPjPuU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:03:46",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing training opportunities and personal development rather than the One Engineering System framework. While it touches on themes of collaboration and skill enhancement, it does not explicitly mention 1ES or its principles, components, or implementation strategies.",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 6.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 0.85,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content entirely focuses on career growth, training giveaways, and advancing knowledge in Agile and Scrum. There is zero mention or clear reference to One Engineering System (1ES)—neither the term nor the concepts of unified, standardized engineering practices, system integration, or tool/process harmonization are present. Its themes are about skill development, training offers, and professional courses for Scrum roles. The content does not discuss engineering frameworks, organizational standardization, or system integration. Thus, both explicit and conceptual overlap with the 1ES category are extremely low.",
+    "reasoning_summary": "Content does not reference or align with One Engineering System. Its purpose and themes revolve around career growth in Scrum and Agile, not standardization or integration of engineering systems. Confidence is extremely low and fit is not present.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1976,6 +1983,25 @@
     "final_score": 23.0,
     "reasoning": "The content's primary focus is career growth, training opportunities, and the promotion of Scrum-related courses. While it mentions AI and the need to deliver high-value work in light of automation, it does not explicitly discuss agentic engineering nor the deliberate design of engineering practices to maximize agency. There are glancing themes around professional autonomy and upskilling, but these remain at a motivational and personal development level, not at the systemic, philosophical, or practice-centric detail of Agentic Engineering. The audience is technical but the content is largely promotional and only indirectly conceptually adjacent to the category.",
     "reasoning_summary": "This content centers on Scrum training and career development, with minimal and indirect connections to the philosophy or practices of Agentic Engineering. It does not address systemic engineering agency, AI collaboration, or decentralized autonomy in development.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "6h1D_YPjPuU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:32",
+    "ai_confidence": 7.241,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 1.2,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "This content discusses Agile, Scrum, career progression, and briefly references AI (ChatGPT) as automating repeatable work. However, it never directly addresses agentic software delivery as defined. There is no discussion of integration of autonomous AI agents, contextual intelligence, agency, or synergy between AI and human experts in software delivery. The AI mention is generic and pertains to career threat/opportunity, not to the delivery process or modern engineering practices for agentic systems. The bulk is a newsletter about training, giveaways, and events targeting Scrum practitioners. Minimal reference to AI, and none to agentic delivery concepts.",
+    "reasoning_summary": "This is a general Agile/Scrum newsletter with only a token reference to AI automating work. It doesn't address agentic software delivery concepts, making it a poor fit for the category.",
     "level": "Ignored"
   }
 }

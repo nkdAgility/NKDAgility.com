@@ -24,16 +24,23 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Acceptance Test Driven Development",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) as a methodology that enhances collaboration and quality in software development. While it touches on principles that align with Agile practices, such as collaboration and continuous improvement, it does not explicitly mention any specific frameworks like Scrum or Kanban. The focus is more on the ATDD practice itself rather than a structured framework, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:57",
+    "ai_confidence": 38.4,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.9,
+    "ai_intent": 4.0,
+    "ai_audience": 5.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on ATDD as a practice that establishes quality and collaboration in software development. While it describes ATDD as 'systematic' and foundational, it does not position it as a comprehensive framework per the category definition. There are no explicit direct mentions of frameworks or comparison to frameworks like Scrum, Kanban, etc. The discussion centers on the methodology and benefits of ATDD rather than its structure as a framework. Audience and signal-to-noise are moderately aligned, but the depth and intent are more about process improvement than framework selection or adaptation.",
+    "reasoning_summary": "The content describes a structured practice (ATDD) but does not discuss, compare, or frame it as a broad implementation framework. It partially aligns with the category’s themes, but core focus and intent are on methodology, not frameworks.",
+    "level": "Ignored"
   },
   "Tenet": {
     "category": "Tenet",
@@ -3154,6 +3161,25 @@
     "final_score": 14.0,
     "reasoning": "The content discusses ATDD as a collaborative human process, highlighting shared understanding and cross-role teamwork among stakeholders. However, there is no mention or discussion of human-AI partnerships, AI agents, or the emergence of human and AI collective capability. All focus is on human-driven collaboration, not on the enhancement or partnership with AI as specified in the Collective Intelligence definition. Therefore, while collaboration is strong, it is unrelated to human-AI collective intelligence.",
     "reasoning_summary": "This content centers on human team collaboration and shared understanding in acceptance criteria, but does not cover human-AI partnerships or collective intelligence as defined for this category. It is not a meaningful fit for 'Collective Intelligence'.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Acceptance Test Driven Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:56",
+    "ai_confidence": 28.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 8.2,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses entirely on Acceptance Test Driven Development (ATDD). It discusses collaboration, testability, business alignment, and agility, but makes no direct or indirect mention of agentic software delivery, autonomous AI agents, or intelligence-embedded systems. There is no discussion of contextual intelligence, agent-human integration, or any topic uniquely associated with 'Agentic Software Delivery.' While some themes around continuous improvement and shift-left overlap with modern delivery practices, the material remains anchored in traditional collaborative methodologies. The audience is still developers and teams, partially aligning with agentic delivery's audience, and the content is focused and relevant for ATDD itself, but not this category.",
+    "reasoning_summary": "This content is about ATDD and does not mention agentic software delivery, autonomous agents, or AI integration. Its themes loosely overlap with modern delivery but not with this category. Fit is partial, incidental, and largely irrelevant.",
     "level": "Ignored"
   }
 }

@@ -1165,15 +1165,22 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "V44iUwv0Jcg",
     "category": "Organisational Physics",
-    "calculated_at": "2025-04-10T14:45:08",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the concept of Kaizen, which relates to continuous improvement and process optimisation. However, it primarily focuses on personal and team success rather than explicitly addressing systems thinking or organisational dynamics. While there are mentions of team collaboration and communication, the depth of discussion on organisational structure, culture, and processes is limited, leading to a moderate confidence score.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 43.95,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.4,
+    "ai_intent": 7.4,
+    "ai_audience": 6.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct mentions of 'Organisational Physics' or terms like systems thinking are absent (mentions=0.7). The content focuses on Kaizen, continuous improvement, and team processes, which partially align with organisational dynamics but seldom address the holistic, systemic, or feedback-loop-centric thinking central to Organisational Physics. While there are nods to concepts like process optimisation, organisational culture, and feedback loops, these are handled mainly at the practical/tools/mindset level rather than a systemic or structural analysis. Depth is moderate: practices and mindsets are discussed, not organisational dynamics as complex systems. Intent is about improvement in teams and individuals, and while the target audience (agile practitioners, change agents) overlaps, there is little reference to broader organisational systems or theory. Most content is relevant to Kaizen and improvement; noise is minimal.",
+    "reasoning_summary": "Content focuses on Kaizen and continuous improvement, with some overlap to organisational dynamics. However, it lacks explicit systems thinking or holistic organisational analysis, offering only a partial match to Organisational Physics as defined.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1985,5 +1992,24 @@
     "reasoning": "The content centers on the philosophy of Kaizen and continuous improvement, discussing personal and team growth, process optimization, and fostering a culture of incremental change. However, it does not directly mention Agentic Engineering or explore the deliberate maximization of human and AI agency, nor does it engage with engineering autonomy, DevOps ethos, or ethical AI. The alignment is partial: while themes like empowerment and feedback-driven adaptation loosely relate, there is no clear focus on systemic observability, autonomy in engineering practices, or decision-making frameworks for software development. Audience fit and signal are moderate due to an agile/engineering-leaning target, but depth and direct relevance to Agentic Engineering are limited.",
     "reasoning_summary": "While the content shares themes of empowerment and continuous improvement, it only tangentially aligns with Agentic Engineering. It lacks focus on engineering autonomy, human/AI agency, and core agentic practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:42",
+    "ai_confidence": 11.057,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.2,
+    "ai_audience": 5.1,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content centers on Kaizen, continuous improvement, and process optimization in Agile, Kanban, team, and personal contexts. It does not mention agentic software delivery, AI agents, contextual intelligence, or system-of-work integration. There is high relevance for agile practitioners, but no discussion of agentic design, automation beyond traditional continuous improvement, or synergy between AI and humans. No penalties for outdatedness or contradictory tone. Only general process philosophy content fits tangentially, not directly.",
+    "reasoning_summary": "The content discusses Kaizen and continuous improvement for Agile teams, with no reference to AI agents, agentic delivery, or related concepts. Fit is highly tangential and does not match the core definition of Agentic Software Delivery.",
+    "level": "Ignored"
   }
 }

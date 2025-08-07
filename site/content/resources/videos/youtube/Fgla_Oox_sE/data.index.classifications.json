@@ -1423,15 +1423,22 @@
     "reasoning_summary": "This content is a good fit for the Scrum category, as it centres on the Product Owner’s responsibilities and highlights key Scrum events like Sprint reviews. While it clearly references Scrum roles and practices, it doesn’t delve deeply into the full framework, which means it’s relevant but not comprehensive."
   },
   "Shift Left Strategy": {
+    "resourceId": "Fgla_Oox_sE",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:50:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Product Owner in marketing and stakeholder engagement, with no direct mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on feedback loops and alignment, these concepts are not explicitly tied to the Shift-Left Strategy, which diminishes its relevance to the category.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 14.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.3,
+    "ai_audience": 5.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on marketing, stakeholder engagement, and alignment within Product Ownership. It does not mention nor conceptually align with Shift-Left Strategy—which centers on testing, security, or compliance early in development. No topics, techniques, or case studies specific to Shift-Left are present. Discussion depth and intent are not related to Shift-Left; the only minor overlap is a tacit shared audience (Agile practitioners), leading to a slightly higher audience score. Signal-to-noise is low regarding category relevance.",
+    "reasoning_summary": "This content does not fit the Shift-Left Strategy category; it discusses product vision marketing and engagement, not integrating processes earlier in the SDLC. No relevant Shift-Left concepts are addressed.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1982,6 +1989,25 @@
     "final_score": 13.0,
     "reasoning": "The content focuses on marketing, emotional engagement, and stakeholder alignment for Product Owners, mainly discussing communication strategies and facilitating feedback in product development. There are tangential connections to feedback loops and alignment, but no discussion of agency maximization for developers or AI, decentralized decision-making, or ethical/agentic engineering practices as defined. There are no direct or conceptual references to agentic engineering principles such as systemic observability, automation, or the DevOps ethos beyond basic collaboration and feedback. The audience is reasonably technical, but the topic centers on product role skills, not engineering paradigms.",
     "reasoning_summary": "The content centers on marketing and vision alignment for Product Owners, with an emphasis on communication and stakeholder engagement. While feedback and alignment are touched upon, there is minimal connection to agentic engineering concepts, and the main focus is not on engineering agency or deliberate agentic practice.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Fgla_Oox_sE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 17.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 6.6,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on product ownership and marketing the product vision. There are no direct or indirect references to agentic software delivery, autonomous AI agents, contextual intelligence, or any key agentic delivery principles. While there is discussion about feedback loops, backlog curation, and team/stakeholder engagement, these are presented solely through human-centric, traditional Agile practices. No modern agentic tooling, human-in-the-loop AI, or AI-driven delivery topics are explored. Audience alignment is moderately high as it targets Product Owners and Agile practitioners who might be interested in agentic frameworks, but the actual content is not about agentic delivery and does not explore relevant synergies.",
+    "reasoning_summary": "This content is about Product Ownership and vision marketing, not Agentic Software Delivery. It lacks any discussion of AI agents, agentic architecture, or modern automation. The fit to the category is minimal; only some Agile topics overlap tangentially.",
     "level": "Ignored"
   }
 }

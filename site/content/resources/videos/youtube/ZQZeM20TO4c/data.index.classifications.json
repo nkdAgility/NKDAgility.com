@@ -1366,16 +1366,23 @@
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
+    "resourceId": "ZQZeM20TO4c",
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:56:52",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the differences between agile leadership and traditional management, focusing on leadership styles rather than the Agile Product Operating Model itself. While it touches on themes of agility and empowerment, it does not explicitly mention the APOM or its principles, nor does it delve into product management practices or operational frameworks. Therefore, the confidence score reflects a low alignment with the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 41.15,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.4,
+    "ai_depth": 3.8,
+    "ai_intent": 4.5,
+    "ai_audience": 4.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content compares Agile leadership with traditional management, focusing on empowerment and adaptability—values compatible with APOM. However, it never mentions 'Agile Product Operating Model,' nor does it describe APOM principles, practices, product-oriented mindsets, roadmaps, or governance in depth. The discussion is general, centered more on leadership styles than on APOM's frameworks or transitions. Alignment is partial: it hints at transformation and adaptability but lacks references to key APOM elements like product management integration, Evidence-Based Management, or product-centric operating models. The audience overlaps but is not APOM-specific. No mention of outdated practices or negative tone, so no penalties.",
+    "reasoning_summary": "This content focuses on Agile vs traditional leadership, not on the Agile Product Operating Model. Some values align, but it lacks specific discussion of APOM principles, practices, or frameworks. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1975,5 +1982,24 @@
     "reasoning": "Direct mentions of Agentic Engineering or its core principles are absent. The content discusses empowerment, decentralised decision-making, and contrasts Agile leadership (which fosters agency) with traditional management (which limits it), moderately aligning with the conceptual foundation of Agentic Engineering. However, it does not address engineering-specific practices, DevOps, AI collaboration, observability, or ethical autonomy—the core aspects of the category. The discussion is high-level, focusing on cultural and leadership shifts rather than practical, systemic, or philosophical agentic approaches within technical domains. The intended audience (Agile practitioners, leaders) partly overlaps, but substantial focus on engineering agency is missing, limiting overall confidence.",
     "reasoning_summary": "While the content touches on empowerment and decentralised decision-making relevant to Agentic Engineering, it centers on leadership style, not engineering or systemic practices. There's moderate thematic overlap but insufficient depth or explicit alignment with the category’s core focus.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "ZQZeM20TO4c",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses differences between Agile leaders and traditional managers, focusing on empowerment, adaptability, and open communication. There is no direct or indirect mention of agentic software delivery, autonomous AI agents, or integration of contextual intelligence in software delivery. The subject is general Agile leadership versus conventional management, unrelated to AI agent integration, modern engineering practices for agentic delivery, or feedback loops relevant to autonomous systems of work. Audience targets leaders or consultants interested in Agile, not technical or agentic delivery practitioners. No penalties were required since there are no outdated or contradictory statements, but scores are low due to lack of category relevance.",
+    "reasoning_summary": "Content compares Agile and traditional management styles. It does not mention or align with agentic software delivery or AI-enabled delivery systems. The topic is Agile leadership, not agentic principles, making it a poor fit for the category.",
+    "level": "Ignored"
   }
 }

@@ -1445,15 +1445,22 @@
     "level": "Primary"
   },
   "One Engineering System": {
+    "resourceId": "sxXzOFn7iZI",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:19:54",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 11.14,
     "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing Agile methodologies and practices without any direct reference to the One Engineering System (1ES). While it touches on aspects of standardisation and integration in Agile contexts, it does not delve into the principles or components of 1ES, nor does it provide insights on its implementation or impact. Therefore, the content does not align well with the category.",
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 2.1,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is entirely focused on the hiring and role of Agile coaches, covering qualities, teaching, mentoring, and inspiration in the context of Agile and Scrum but never once mentions One Engineering System (1ES) or related concepts (standardisation, unified tools, cross-team integration). It does not discuss the integration or standardization of engineering practices, nor does it explore frameworks, tooling, or system-wide standardization. Its audience is practitioners who hire or work with Agile coaches, which could tangentially overlap with the intended 1ES audience, but the thematic and conceptual connection to 1ES is nearly nonexistent.",
+    "reasoning_summary": "Content is solely about Agile coaching and team transformation, with no mention of One Engineering System or standardised, integrated engineering frameworks. There is negligible conceptual alignment: this does not fit the One Engineering System category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1959,5 +1966,24 @@
     "reasoning": "The content discusses the qualities and impact of Agile coaches, focusing on their ability to teach, mentor, and inspire teams to adopt Agile methodologies. While it mentions themes like autonomy and continuous improvement, these are presented at a team transformation level for Agile practice rather than within the explicit context of Agentic Engineering. There is little or no direct reference to maximizing human or AI agency, DevOps-infused craft, observability, systemic feedback mechanisms, or ethical autonomy. The audience overlap is moderate, as Agile practitioners and those interested in organizational change may benefit, but the content is not targeting Agentic Engineering specifically. Depth and alignment are accordingly moderate: the content is thorough on Agile coaching but does not extend into deliberate design of agentic engineering environments or the integration of AI/automation as collaborators. Signal is fairly high due to relevant and focused content, though much of it is standard Agile coaching discourse, not directly addressing the philosophical or systemic focus of Agentic Engineering.",
     "reasoning_summary": "This resource centers on hiring and leveraging Agile coaches, emphasizing teaching, mentoring, and inspiring Agile teams. It shows moderate overlap with Agentic Engineering concepts (like autonomy and continuous improvement), but lacks explicit or deep connections to system agency, DevOps craft, observability, or human–AI collaboration.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sxXzOFn7iZI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.2,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused exclusively on the human coaching dimension of Agile and does not mention or explore agentic software delivery, AI agents, contextual intelligence, or the integration of autonomous systems. There are no references to AI, automation, or agentic principles. The description and entire discussion are about hiring and evaluating Agile coaches, their teaching, mentoring, and leadership skills for human team transformation—far from the definition of Agentic Software Delivery. The audience may intersect weakly (organizational leaders in software), but the topic, intent, and substance are disconnected from the defined category.",
+    "reasoning_summary": "The article does not discuss Agentic Software Delivery or AI agents. Its focus is entirely on human Agile coaching, with no conceptual or practical overlap with the category. The fit is extremely poor and only marginally connects via the general domain.",
+    "level": "Ignored"
   }
 }

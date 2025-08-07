@@ -888,15 +888,22 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "2ASLFX2i9_g",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:52:28",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile practices and the importance of backlog management, sprint planning, and prioritisation, which are relevant to technical leadership. However, it lacks direct mentions of leadership roles or strategies for mentoring teams, which are crucial for a higher confidence score. The depth of discussion on Agile practices is substantial, but it does not fully explore the broader implications of technical leadership.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 72.983,
+    "ai_mentions": 2.2,
+    "ai_alignment": 8.4,
+    "ai_depth": 7.7,
+    "ai_intent": 7.3,
+    "ai_audience": 7.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "Direct references to 'technical leadership' are absent, resulting in a low direct mentions score. However, the content is conceptually aligned with technical leadership by discussing backlog management, prioritization, and lean product practices, which are all leadership responsibilities in agile teams. It addresses how teams can be guided to avoid common pitfalls and improve productivity. The depth of discussion is moderate, focusing on practices and their impacts, but lacks explicit references to mentoring, team dynamics, servant leadership, or technical decision-making. The intent is informative, targeting practitioners and team leads, but stops short of explicitly addressing leaders or their guiding role. Signal is slightly diluted by general agile advice rather than leadership-specific guidance. No penalties applied.",
+    "reasoning_summary": "Content aligns with technical leadership concepts—prioritization, lean practices, value delivery—but lacks explicit discussion of leadership roles or advanced mentoring. It's a partial fit: relevant but not fully focused on technical leadership themes.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -2010,6 +2017,25 @@
     "final_score": 35.0,
     "reasoning": "The content discusses lean practices, backlog grooming, value delivery, and feedback loops within Agile and Scrum. While these topics overlap with agentic principles (e.g., prioritisation for productivity, frequent feedback), it never references agentic engineering or agency, nor does it address decision decentralisation, ethical AI, or systemic observability. The focus is practical agile mechanics, not the deeper philosophical or structural concerns of Agentic Engineering. Thus, conceptual alignment and depth are moderate, audience is well-aligned (technical practitioners), but direct mentions and overall fit are weak.",
     "reasoning_summary": "This content focuses on practical agile methods like backlog grooming, value delivery, and lean practices within Scrum, showing moderate overlap with Agentic Engineering themes. However, it does not address agency, ethical AI, or systemic observability, making the fit partial but not strong.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2ASLFX2i9_g",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:08",
+    "ai_confidence": 12.91,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 5.4,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on Agile anti-patterns, particularly excessive backlog and feature bloat, promoting prioritization, value orientation, and lean thinking. While the discussion emphasizes efficient, high-value delivery and feedback use, it lacks any mention of agentic principles, autonomous AI agents, or the integration of proactive intelligence into delivery systems. The depth is limited to standard Agile practices with no conceptual alignment to Agentic Software Delivery. Audience fit is slightly higher as both domains appeal to delivery improvement practitioners, but overall category fit is very weak.",
+    "reasoning_summary": "Content is about avoiding overload in Agile teams by prioritizing, with no mention of agentic principles, AI agents, or delivery automation. It aligns with conventional Agile practices and not Agentic Software Delivery. Fit is minimal and indirect.",
     "level": "Ignored"
   }
 }

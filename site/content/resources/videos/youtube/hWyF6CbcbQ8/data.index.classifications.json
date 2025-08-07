@@ -786,15 +786,22 @@
     "level": "Secondary"
   },
   "Evidence Based Management": {
+    "resourceId": "hWyF6CbcbQ8",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:59:31",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on the importance of assessing data needs and utilising tools, it does not explicitly mention Evidence-Based Management or its core themes. The discussion lacks depth in relation to empirical decision-making or metrics that align with EBM principles.",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 16.67,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 2.4,
+    "ai_audience": 5.7,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on DevOps data migration strategies, emphasizing technical choices (full vs. selective migration), data integrity, and team coordination. There is no mention of Evidence-Based Management, nor are its concepts, frameworks, or key metrics (such as current value, empirical decision-making, or outcome management) discussed. The main intent is operational guidance for migration, not management decision-making via evidence or metrics. The audience is technical, possibly operations leads, but not decision-makers responsible for EBM topics. While there is advice about assessing needs and testing, these remain at the best-practices level rather than advocating or exemplifying empirical management or value delivery assessment.",
+    "reasoning_summary": "This content does not fit Evidence Based Management; it discusses DevOps migration tactics and data integrity without mention or application of evidence-driven management practices or metrics. Any alignment is superficial and indirect.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1911,6 +1918,25 @@
     "final_score": 33.0,
     "reasoning": "The content focuses on practical aspects of data integrity in DevOps migrations, discussing strategies for full and selective data transfer, tool usage, and team communication. While it supports autonomy and team readiness in decision-making, it does not explicitly discuss Agentic Engineering or its philosophical foundations—such as maximising agency for humans or AI, engineering practices for agency, or feedback-driven adaptation. The intent and depth are moderately aligned due to mention of team readiness and process decisions, but agentic themes are not the content's main focus. Audience and signal are slightly higher, as DevOps practitioners are a partially overlapping audience, and content remains focused. No penalties were required, as content is up to date and neutral in tone.",
     "reasoning_summary": "The content is relevant to DevOps practitioners but only tangentially relates to Agentic Engineering. While it touches on autonomy and informed decision-making, it lacks direct or in-depth discussion around maximising agency for humans or AI, engineering philosophy, or agentic practices.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hWyF6CbcbQ8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:38",
+    "ai_confidence": 13.92,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 4.4,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused entirely on data integrity and tactical considerations during DevOps migrations, assessing methods for data transfer and team readiness. It does not mention, imply, or discuss agentic principles, autonomous AI agents, or contextual intelligence. While it is targeted at a technical/software-delivery audience, none of the topics or recommendations overlap with Agentic Software Delivery as defined. There is no agency, AI involvement, or reference to embedding intelligent agents. Signal-to-noise is moderate as it stays largely on the stated theme, but that theme is not the category target.",
+    "reasoning_summary": "The content does not fit the Agentic Software Delivery category, lacking any mention or alignment with autonomous agents, contextual intelligence, or agentic principles. Its focus is on DevOps data migration—not agentic delivery concepts.",
     "level": "Ignored"
   }
 }

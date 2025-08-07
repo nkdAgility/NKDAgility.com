@@ -208,15 +208,22 @@
     "level": "Tertiary"
   },
   "Transparency": {
+    "resourceId": "Tt8SPr3xJER",
     "category": "Transparency",
-    "calculated_at": "2025-04-10T14:45:04",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of user interaction and feedback in Agile development, which aligns with the core themes of transparency. It highlights the need for clear communication and visibility of work progress, particularly in the context of user involvement and stakeholder engagement. However, while it touches on transparency, it primarily focuses on identifying non-agile practices rather than providing a comprehensive exploration of transparency itself, which slightly limits its depth.",
+    "calculated_at": "2025-08-07T06:10:37",
+    "ai_confidence": 62.64,
+    "ai_mentions": 1.5,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.8,
+    "ai_intent": 5.3,
+    "ai_audience": 8.4,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "mentions (-0.5: no direct reference to 'transparency'); intent (-1.0: purpose is detection/critique more than advancing transparency); signal (-0.5: content is occasionally tangential toward tooling and general agile BS detection)",
+    "final_score": 63.0,
+    "reasoning": "The content only implicitly relates to transparency: it discusses indicators for genuine agile but rarely ties them directly to openness or visibility, nor does it use the term 'transparency.' There is decent conceptual overlap, especially around user feedback, visibility of process, and exposing work to stakeholders. Discussion depth on transparency is moderate due to detailed questioning about feedback and visibility practices, but overall focus is critique/detection of fake agile, not building transparency. Audience focus is strong alignment (executives, managers in DoD/Agile), but much is not purpose-written to deepen understanding of transparency per se. Several points about communication and team interactions support the category, but much of the content is more generalized agile vetting. No antiquated or critical tone beyond what is noted. Deductions applied for lack of explicit transparency focus and some drift to tool-specific/general agile points.",
+    "reasoning_summary": "Content relates indirectly to transparency via Agile signals like feedback and process visibility. However, it doesn’t explicitly discuss transparency or make it a central theme, resulting in only a partial fit.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -2021,5 +2028,24 @@
     "reasoning": "The document focuses on distinguishing genuine agile practices from superficial implementations in DoD settings, emphasizing real user feedback, automation, and cross-functional collaboration. While it overlaps with Agentic Engineering concepts such as continuous value delivery, DevOps culture, and developer autonomy, it does not mention or frame these practices in the context of maximising human or AI agency. The intent is evaluative, targeting identification of agile authenticity rather than engineering for agency. Penalties were applied for missing explicit references, limited philosophical depth, and intent not directly tied to Agentic Engineering's definition.",
     "reasoning_summary": "While the content demonstrates themes like developer autonomy, DevOps culture, and continuous adaptation, its primary focus is on identifying authentic agile—not the explicit design for maximising agency. Strong topical alignment but limited direct relevance to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Tt8SPr3xJER",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 21.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 3.9,
+    "ai_audience": 6.8,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.1,
+    "ai_penalty_details": "mentions (-0.5): No explicit or implicit mention of agentic software delivery, only general Agile; alignment (-0.3): Outdated reference (2018) and no agent/AI topics; depth (-0.3): Only general Agile/DevOps, no depth on agentic principles.",
+    "final_score": 22.0,
+    "reasoning": "The content is focused on detecting genuine Agile practices within DoD projects, emphasizing values, principles, key tools, process questions, and Agile culture. While it discusses modern engineering practices (CI/CD, automation, DevSecOps), it does not reference autonomous AI agents, contextual intelligence, agentic governance, or synergy between AI and human expertise. There are no agentic concepts, architectures integrating agent-based systems, or feedback loops involving agent-driven learning. Its audience aligns loosely with agentic delivery (technical and program leaders), but the main intent is Agile authenticity, not agentic delivery. Slight deduction for outdated references and no mention of agentic/AI systems.",
+    "reasoning_summary": "Content addresses Agile authenticity, not agentic software delivery. No reference to autonomous AI agents, context-aware intelligence, or agentic principles. Only minor overlap via DevOps tooling and automation. Fit is tangential and limited.",
+    "level": "Ignored"
   }
 }

@@ -1513,15 +1513,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "KvZbBwzxSu4",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:24:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content discusses the importance of vision, goals, and decision-making in organisations, but it does not explicitly mention the One Engineering System or its principles. While there are themes of alignment and empowerment that could relate to 1ES, the focus is primarily on leadership and organisational culture rather than the integration and standardisation of engineering processes.",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 28.41,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.1,
+    "ai_intent": 3.5,
+    "ai_audience": 6.0,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content discusses leadership, vision, goals, and evidence-based management but never mentions One Engineering System (1ES) or any of its unique principles, frameworks, tool integrations, or standardization approaches. Themes of alignment, autonomy, and continuous improvement are present, which overlap with 1ES objectives, but the focus remains on management philosophy and team empowerment rather than unified engineering systems. There are no case studies, technical detail, or explicit links to 1ES concepts, tools, or implementation challenges. The audience overlaps (software/organizational leaders), and there's solid signal around organizational alignment and quality, but detail and alignment to 1ES are indirect and generic.",
+    "reasoning_summary": "Content centers on leadership, vision, and evidence-based management with minimal alignment to One Engineering System. No direct or in-depth reference to 1ES principles, tools, or standardization. Fit is marginal and indirect.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2030,5 +2037,24 @@
     "reasoning": "The content discusses themes of team empowerment, autonomy, intent-based leadership, and evidence-based management, which conceptually align with Agentic Engineering. However, it does not directly reference the category or its terminology, nor does it cover aspects such as AI agency, DevOps-infused craft, or explicit engineering practice design. Instead, the focus is on organizational leadership and empowerment frameworks, with moderate depth into feedback-driven adaptation and agency but little on systemic observability or ethical AI. The intended audience aligns with those interested in engineering agency and autonomy, and the piece is focused and relevant. Because of the lack of direct references and partial coverage, the confidence score is moderate-to-strong.",
     "reasoning_summary": "This content aligns with Agentic Engineering in its advocacy for team autonomy, evidence-based decision-making, and intent-based leadership, but lacks direct mention of the category or key topics like AI agency and engineering practice design. Relevance is moderate-to-high but not exhaustive.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "KvZbBwzxSu4",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:43",
+    "ai_confidence": 22.886,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "There are no direct mentions of agentic software delivery, AI agents, or their integration with human expertise. The content focuses on vision, goals, evidence-based management, leadership, and autonomy, but these are framed in human and organizational terms, not via AI agency. While themes of empowerment, autonomy, and evidence-based practice have conceptual overlap with the 'agency' encouraged by agentic delivery, there is no reference to context-aware AI, agent autonomy in delivery, or technologies like CI/CD, automated testing, or human-in-the-loop AI. The audience overlap is moderate, as both discuss organizational effectiveness and team empowerment, but the content never addresses technical or agentic software strategies, so alignment and depth are low. The bulk is on leadership models that fit traditional human organizations, not agentic AI-powered delivery. Thus, the confidence score is low and fit is tangential.",
+    "reasoning_summary": "Content focuses on human leadership, vision, and evidence-based management, not agentic software delivery with AI agents. Key concepts of the category are missing; fit is marginal and indirect.",
+    "level": "Ignored"
   }
 }

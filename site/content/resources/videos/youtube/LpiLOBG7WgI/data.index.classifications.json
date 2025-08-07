@@ -1433,15 +1433,22 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
+    "resourceId": "LpiLOBG7WgI",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:56:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on managing feedback during Sprint reviews in an Agile context, which does not directly address the Shift-Left Strategy. While it touches on aspects of stakeholder engagement and adaptability, it lacks explicit discussions on integrating testing, security, or compliance earlier in the development process, which are core to the Shift-Left concept.",
+    "calculated_at": "2025-08-07T06:11:13",
+    "ai_confidence": 16.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.1,
+    "ai_audience": 4.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on handling harsh feedback during Sprint Reviews in Agile. It discusses techniques for stakeholder engagement, root cause analysis, and iterating on feedback, but does not mention or embody Shift-Left practices. There is no explicit or conceptual link to integrating testing, security, or compliance activities earlier in the development process; nor are any Shift-Left methodologies or metrics discussed. The audience is Agile practitioners, somewhat overlapping with the Shift-Left audience, but all themes revolve around Sprint Reviews, not earlier lifecycle interventions.",
+    "reasoning_summary": "The content centers on Sprint Review feedback, with no explicit or significant conceptual relation to Shift Left Strategy. Its topics, purpose, and examples fit Agile retrospectives, not early-lifecycle interventions as defined in Shift-Left.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1995,5 +2002,24 @@
     "reasoning": "The content centers on Agile team responses to harsh Sprint Review feedback—root cause analysis, stakeholder engagement, and strategic decision-making (halt, pivot, persevere). These practices loosely intersect with feedback-driven adaptation and team autonomy. However, the article does not explicitly address agentic engineering concepts—such as deliberate system design to maximize agency, systemic observability, ethical AI, or DevOps-infused craft. There is no philosophical discussion of agency (human or AI), nor any references to decentralization, engineering as a means to maximize autonomy, decision-making frameworks, or explicit references to Agentic Engineering. The main focus is pragmatic, surface-level Agile team dynamics, with some alignment to feedback and adaptation but lacking the deeper agentic framing, technical or ethical integration, and means by which both humans and intelligent systems’ agency is deliberately maximized. No penalties apply—the article is current, supportive, and aimed at Agile practitioners, but it doesn’t advance the core category concepts in depth or intent.",
     "reasoning_summary": "This content addresses Agile team approaches to handling Sprint Review feedback, emphasizing adaptation and team reflection. While it involves feedback-driven practices and team autonomy, it does not explicitly explore or advance core Agentic Engineering principles around maximizing human or AI agency, ethical integration, or deliberate engineering design.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LpiLOBG7WgI",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:17",
+    "ai_confidence": 11.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 5.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on techniques for handling negative Sprint Review feedback within traditional Agile/Scrum methods—root cause analysis, stakeholder engagement, and team adaptation. There is no mention or implication of AI agents, autonomous systems, agentic delivery principles, or proactive intelligence technologies in software delivery, nor does it discuss synergy with AI, agent support in delivery processes, or the evolution toward outcome-focused agentic strategies. The language, audience, and intent fit generic Agile coaching rather than agentic software delivery. Minimal alignment exists only in the shared goal of delivering business outcomes adaptively, but specifics remain traditional.",
+    "reasoning_summary": "Content focuses on Agile/Scrum team responses to feedback, without reference to AI agents, agency, or agentic delivery principles. Only surface similarity is in adaptive delivery; otherwise, does not fit the 'Agentic Software Delivery' category.",
+    "level": "Ignored"
   }
 }

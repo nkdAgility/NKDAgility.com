@@ -1482,15 +1482,22 @@
     "level": "Tertiary"
   },
   "One Engineering System": {
+    "resourceId": "XdzGxK1Yzyc",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:45:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Product Owner within Agile and Scrum frameworks, which are not directly related to the One Engineering System. While there are mentions of alignment and value maximisation, these concepts are not explored in the context of 1ES principles or its integration across teams. The discussion lacks depth regarding the One Engineering System and does not provide insights into its components or implementation challenges.",
+    "calculated_at": "2025-08-07T06:11:27",
+    "ai_confidence": 13.26,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.3,
+    "ai_intent": 1.4,
+    "ai_audience": 5.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused solely on the role and importance of the Product Owner in Scrum, with no direct or indirect mention of One Engineering System (1ES), its principles, components, or integration themes. The discussion mainly describes accountabilities and strategic aspects within Scrum. There is no substantive alignment with 1ES topics such as unified engineering frameworks, standardisation, integrated toolchains, or cross-team process harmonisation. Intent is mainly to educate Scrum/Agile practitioners rather than to discuss engineering integration or systematisation at scale. Minimal relevance to the stated audience or intent of the One Engineering System category.",
+    "reasoning_summary": "Content is about the Product Owner role in Scrum, not on One Engineering System. No direct mentions or thematic overlap; does not discuss 1ES principles, frameworks, or integration. Fit to the category is minimal to none.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1992,6 +1999,25 @@
     "final_score": 27.0,
     "reasoning": "The content focuses on the role and accountabilities of the product owner in Scrum. While there is discussion about accountability, maximising value, and aligning teams, it lacks direct mention or exploration of agentic engineering, developer or system agency, DevOps practices, observability, or ethical AI. Its main audience is Agile practitioners, partially aligning with the Agentic Engineering audience, but conceptual coverage is mild at best and mostly indirect. There are no signals of deliberate engineering practice design, decentralisation, or human/AI agency maximisation. No penalties apply since the tone and references are current and straightforward.",
     "reasoning_summary": "The article highlights the product owner's accountability and strategic alignment in Scrum. However, it does not address the agentic engineering focus on maximising human or AI agency, engineering practice design, or DevOps-infused autonomy, resulting in low category alignment.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "XdzGxK1Yzyc",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:25",
+    "ai_confidence": 14.34,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.35,
+    "ai_depth": 1.3,
+    "ai_intent": 2.25,
+    "ai_audience": 4.7,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content thoroughly explains the Product Owner's role in Scrum, focusing on maximizing value, accountability, and strategic alignment. However, there are no mentions (direct or indirect) of agentic principles, autonomous AI agents, contextual intelligence, or integration of AI and human expertise in software delivery. The themes, intent, and audience align with traditional Agile/Scrum roles, but not with Agentic Software Delivery. The discussion depth is notable for Scrum/accountability but irrelevant to the agentic paradigm. No obsolete practices or contradictory tone are present.",
+    "reasoning_summary": "This content is focused on Scrum's Product Owner role, not on Agentic Software Delivery or related agentic concepts. The fit is highly partial and indirect at best.",
     "level": "Ignored"
   }
 }

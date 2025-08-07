@@ -1,14 +1,21 @@
 {
   "Tool": {
+    "resourceId": "Technical Debt",
     "category": "Tool",
-    "calculated_at": "2025-04-09T14:53:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses technical debt and its management, which indirectly relates to tools and practices that can help mitigate it. However, it lacks explicit mentions of specific tools or a detailed exploration of how tools facilitate the management of technical debt. The focus is more on the concept of technical debt itself rather than on tools that support Agile or DevOps practices.",
+    "calculated_at": "2025-08-07T06:12:14",
+    "ai_confidence": 36.9,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.9,
+    "ai_intent": 3.2,
+    "ai_audience": 2.8,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content is a general discussion about technical debt, its causes, and its impact on software development. While it briefly mentions 'investing in better tools and practices,' the core focus is not on tools, tool usage, features, integration, or tool-driven workflows. There are no direct references to specific tools, software, or technical implementations that align with the Tool category's definition. Most of the content is about principles and outcomes, not about mechanisms for managing technical debt via tools.",
+    "reasoning_summary": "Content is mainly about the concept, causes, and effects of technical debt, with only a brief, non-specific mention of tools. It does not fit the Tool category, as defined, except tangentially.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -3140,6 +3147,25 @@
     "final_score": 7.0,
     "reasoning": "The content focuses exclusively on managing technical debt, team efficiency, and sustainable development practices, but makes no mention or implication of human-AI collaboration, human agency in partnership with AI, or collective intelligence principles. There is no reference to augmented team cognition, AI team members, or any socio-technical human-AI teaming context. The intended audience is software and Agile teams, which occasionally overlaps with audiences interested in collective intelligence, but the topic does not address any aspect of human-AI collaboration or enhanced capabilities arising from such partnerships.",
     "reasoning_summary": "This content is strictly about managing technical debt in software teams and does not address human-AI collaboration or collective intelligence. There is no discussion of collective problem-solving between humans and AI, making its fit with the category very low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Technical Debt",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:16",
+    "ai_confidence": 17.9,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 3.0,
+    "ai_intent": 3.6,
+    "ai_audience": 5.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on understanding, preventing, and addressing technical debt in software engineering. It highlights practices like code quality, refactoring, sustainable velocity, and organisational agility, which are valuable but largely generic to modern software delivery. There is no mention of autonomous AI agents, contextual intelligence, agency, or any integration of agentic strategies. The audience is somewhat aligned, as both target practitioners concerned with delivery practices. However, the main ideas, depth, and intent are tangential: the text does not discuss agentic enablers, governance, or the distinct principles outlined in the Agentic Software Delivery category. No penalty was warranted as there is no outdated or undermining tone.",
+    "reasoning_summary": "Content discusses technical debt in software delivery but makes no reference to AI agents, agency, or agentic principles. The fit is at best tangential, lacking direct or conceptual ties to Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

@@ -1346,16 +1346,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "7O-LmzmxUkE",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:52:24",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Scrum events and their purpose, which relates to collaboration and decision-making within teams. However, it primarily focuses on the mechanics of Scrum rather than the broader principles of social technologies. While it touches on themes of transparency and team dynamics, it lacks a comprehensive exploration of social frameworks or methodologies that promote collective intelligence and continuous improvement.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 91.68,
+    "ai_mentions": 6.7,
+    "ai_alignment": 9.3,
+    "ai_depth": 9.0,
+    "ai_intent": 9.2,
+    "ai_audience": 8.9,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 92.0,
+    "reasoning": "The content directly addresses the essence of Scrum events, emphasizing their role in fostering empiricism, adaptation, transparency, stakeholder engagement, and team empowerment—all core aspects of Social Technologies. The discussion moves beyond superficial references, thoroughly exploring Scrum's facilitation of collaboration, collective intelligence, and value delivery. The intent is educational and supportive, firmly aligned with the category’s audience (Agile/Scrum practitioners, teams, and organizational change agents). Mentions of collaboration, transparency, adaptation, and stakeholder engagement are explicit if not always under the formal label of 'Social Technologies.' The content does not wander into technical tool focus or unrelated themes, maintaining a strong signal to noise ratio. No penalties were applied, as the content is relevant, current, and aligned in tone.",
+    "reasoning_summary": "This content thoroughly explores Scrum events as frameworks for collaboration, inspection, adaptation, and transparency—demonstrating strong alignment with Social Technologies in both theme and intent. Highly relevant for Agile and DevOps practitioners.",
+    "level": "Primary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1982,6 +1989,25 @@
     "final_score": 38.0,
     "reasoning": "The content focuses on clarifying common misconceptions about Scrum events, emphasizing their value for inspection, adaptation, and progress, as well as stakeholder engagement and empiricism. However, it does not directly address Agentic Engineering or its key concepts (developer agency, system observability, ethical AI integration, etc.). While there is a thematic overlap in terms of advocacy for team empowerment and adaptation, the discussion remains squarely within the realm of Scrum practice, not the broader engineering philosophy highlighted by Agentic Engineering. There are no explicit references or in-depth explorations of maximizing human or AI agency, deliberate engineering design, or ethical/AI-related considerations required for strong alignment with the category.",
     "reasoning_summary": "The content explains Scrum events as purposeful and adaptive, promoting team engagement and empiricism, but it does not directly connect to Agentic Engineering's emphasis on deliberate engineering practices, maximizing agency, or integration of AI/ethics. Overlap is tangential rather than substantial.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "7O-LmzmxUkE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:07",
+    "ai_confidence": 12.96,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 2.4,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content explicitly discusses Scrum events, empiricism, and Agile misconceptions but never mentions Agentic Software Delivery or its core concepts such as autonomous AI agents, contextual intelligence, or agency. There's a loose thematic similarity in discussing adaptability and outcome orientation, but the content fails to address integration of AI, human-in-the-loop design, telemetry, agent governance, or other agentic principles listed in the definition. Its main focus is correcting Scrum event misconceptions, not AI-driven software delivery innovations. The audience is Agile practitioners, somewhat overlapping but not tailored for those interested in agentic delivery strategies. There are no references to outdated or contradictory practices, so no penalties were applied. Thus, the confidence score is low.",
+    "reasoning_summary": "Content only covers traditional Scrum event practices and empiricism—not agentic/software delivery or AI agent integration. Does not fit the Agentic Software Delivery category beyond generic adaptability themes. Fit is minimal.",
     "level": "Ignored"
   }
 }

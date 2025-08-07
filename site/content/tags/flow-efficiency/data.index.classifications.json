@@ -62,15 +62,22 @@
     "reasoning_summary": "This content clearly aligns with the 'Method' category, as it explores flow efficiency through the lens of Lean principles and Agile practices. It focuses on optimising work processes, minimising waste, and addressing bottlenecks—core elements of methodical improvement—even though it stops short of outlining step-by-step procedures."
   },
   "Strategy": {
+    "resourceId": "Flow Efficiency",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses flow efficiency in the context of optimising work throughput and aligns with Lean principles, which are strategic in nature. However, while it touches on organisational goals and continuous improvement, it lacks explicit discussions on high-level strategic planning or decision-making frameworks, which are central to the Strategy category.",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 64.48,
+    "ai_mentions": 1.5,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.7,
+    "ai_intent": 6.1,
+    "ai_audience": 7.5,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "Direct mentions of 'strategy' or strategic planning are absent; however, the content discusses flow efficiency as an approach that enables organisations to respond faster to market changes and sustain value delivery—concepts aligning with high-level strategy. The Lean principles mentioned support the idea of strategic alignment, yet the discussion focuses more on operational benefits and system optimisation, not directly on organisational strategy setting or alignment with larger objectives. The audience is likely practitioners and improvement leaders, fitting a strategic context, and most of the content is focused without much off-topic information. There is a moderate, not strong, fit for the 'Strategy' category because while the systemic and long-term improvement aspects signal strategic thinking, explicit links to strategic alignment or decision-making frameworks are missing.",
+    "reasoning_summary": "The content touches on strategic themes (systemic improvement, adaptability, Lean alignment) but mainly describes an operational concept. Fit with 'Strategy' is moderate, as it lacks explicit links to organisational strategic direction or planning.",
     "level": "Secondary"
   },
   "Practice": {
@@ -3142,6 +3149,25 @@
     "final_score": 14.0,
     "reasoning": "The content on 'Flow Efficiency' discusses optimization of work throughput, minimization of waste, and fostering team collaboration and continuous improvement. However, there are no direct mentions or implicit references to human-AI collaboration, agency, or enhanced cognitive outcomes through human-AI partnerships. The focus remains solely on general team efficiency and Lean principles, without intersection with the core concepts of Collective Intelligence as defined—especially the role of AI as an active collaborating agent with humans. The audience aligns somewhat in terms of practitioners interested in organizational improvement, but the central themes and intent do not address collective intelligence in a human-AI context.",
     "reasoning_summary": "The content focuses on optimizing team processes and Lean efficiency but does not address human-AI collaboration or the emergence of enhanced outcomes from such partnerships, so it has minimal relevance to Collective Intelligence.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Flow Efficiency",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 32.85,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.7,
+    "ai_intent": 3.5,
+    "ai_audience": 5.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on flow efficiency in value streams, lean principles, and process optimization but does not mention AI agents, agency, or the integration of contextual intelligence as defined in Agentic Software Delivery. It targets a similar audience (process/engineering teams) and discusses delivery improvement, but there are no direct or implied references to proactive, autonomous agents, human-AI integration, or modern 'agentic' capabilities (such as human-in-the-loop, agent role in governance, or contextual decision-making). The fit is partial at best, relying only on thematic overlap in delivery and improvement, not on agentic principles.",
+    "reasoning_summary": "The content discusses lean flow, organizational throughput, and continuous improvement in software delivery but lacks any mention of AI agents or agentic principles. It partially aligns on themes of delivery optimization but does not fit the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

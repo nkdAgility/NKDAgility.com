@@ -1313,21 +1313,21 @@
   "Organisational Culture": {
     "resourceId": "qhb8uB5HUSo",
     "category": "Organisational Culture",
-    "calculated_at": "2025-07-15T17:14:54",
-    "ai_confidence": 62.425,
+    "calculated_at": "2025-08-07T06:10:03",
+    "ai_confidence": 83.93,
     "ai_mentions": 6.2,
-    "ai_alignment": 7.7,
-    "ai_depth": 6.9,
-    "ai_intent": 7.6,
-    "ai_audience": 6.1,
-    "ai_signal": 5.5,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.7,
+    "ai_intent": 8.1,
+    "ai_audience": 8.4,
+    "ai_signal": 8.6,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 62.0,
-    "reasoning": "The content explicitly references 'culture' and 'team culture' as crucial aspects of NKD Agility’s guide for CTOs. While it mentions coaching, clarity, confidence, and adaptation—which relate to agile cultural traits—the main focus is on supporting tech leaders to manage change holistically. Only brief points are dedicated to culture, lacking detailed exploration of cultural transformation, leadership cultural impact, or actionable strategies for organisational culture evolution. The target audience (CTOs/tech leaders) aligns with organisational culture topics but also broadly covers technical and leadership aspects beyond culture alone. No penalties applied—content is current, positive, and not contradicting the category.",
-    "reasoning_summary": "This content references organisational culture as an important factor for tech leaders but offers minimal depth or dedicated discussion on cultural transformation. Its primary aim is leadership support, touching on culture among several focus areas.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content makes explicit reference to 'culture as a catalyst', emphasizing organisational culture’s role in enabling team resilience, adaptability, and continuous improvement—prime concerns of the category. Leadership’s influence on culture is targeted toward CTOs, and the piece discusses strategic aspects (e.g., coaching, purpose, team autonomy) that shape culture in Agile/DevOps contexts. The depth is high: the article moves beyond mere mention, illustrating real transformation of team practices, values, and mindsets. Audience alignment is strong (executive/technology leaders) and the bulk of the text is relevant, with minimal filler. There are no outdated practices or critical/undermining tones warranting penalties.",
+    "reasoning_summary": "Strong fit: The article centers on organisational culture’s impact on leadership, agility, and continuous improvement for tech leaders. It provides substantial, relevant discussion directly aligned with the category’s intent and audience.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "resourceId": "qhb8uB5HUSo",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content targets CTOs and emphasizes clarity, confidence, culture, and adaptive change—closely echoing agentic themes like systemic observability, evidence-based decision-making, and empowering leadership. However, 'Agentic Engineering' is never mentioned directly, and concepts like developer/AI agency, ethical AI, or concrete engineering practices are only alluded to (e.g., references to evolving systems, decision-making with evidence, and aligning teams). There are no overt signals about technical implementation, deliberate engineering design, or ethical integration of AI. The intent is on supportive leadership in tech environments, matching audience and philosophy but lacking strong specificity. No penalty applies, as the content is current and non-contradictory. Scoring reflects strong alignment and moderate depth on agentic philosophy, but weaker on explicitness and technical depth.",
     "reasoning_summary": "The content aligns well with Agentic Engineering in its focus on adaptive, evidence-informed leadership and fostering agency in CTOs. While core topics like clarity and team adaptation match the category, explicit mentions and deep engineering specifics are limited, resulting in moderate confidence.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qhb8uB5HUSo",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:03",
+    "ai_confidence": 34.14,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.0,
+    "ai_depth": 2.2,
+    "ai_intent": 2.9,
+    "ai_audience": 6.6,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content targets CTOs and discusses leadership amid tech disruption, emphasizing clarity, evidence, and culture in technology adoption. While it references value streams, feedback loops, and continuous improvement—topics loosely adjacent to Agentic Software Delivery—it never mentions autonomous AI agents, their integration with human expertise, or proactive, contextualized AI in delivery systems. The main focus is leadership, organizational clarity, and coaching, not embedded agency or agentic systems. No obsolete practices or contradictory tone warrant penalties. The fit is weak and mostly incidental; partial conceptual overlap on systems thinking and feedback loops but missing explicit or deep engagement with agentic principles.",
+    "reasoning_summary": "This content targets tech leaders and advocates for evidence, clarity, and culture, with partial overlap on feedback loops and systems thinking. However, it lacks any substantial discussion of autonomous agents or agentic delivery models.",
+    "level": "Ignored"
   }
 }

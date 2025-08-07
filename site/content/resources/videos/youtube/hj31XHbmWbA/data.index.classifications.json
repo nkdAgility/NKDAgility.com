@@ -21,15 +21,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "hj31XHbmWbA",
     "category": "DevOps",
-    "calculated_at": "2025-04-10T15:52:27",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily discusses Agile methodologies and the importance of reflective learning, which are not central to the DevOps philosophy. While there are some overlapping themes, such as iterative improvement and data-driven decision-making, the focus remains on Agile rather than the broader DevOps principles. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "calculated_at": "2025-08-07T06:11:04",
+    "ai_confidence": 23.67,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 3.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on reflective learning and data-driven improvement within Agile contexts, referencing Steve Jobs' quote. While some concepts like continuous improvement, feedback, and adaptation are loosely related to DevOps, explicit references to DevOps, collaboration across development and operations, or core DevOps principles (e.g., automation, flow efficiency, shared accountability) are absent. The piece is firmly focused on Agile teams, missing the integration or cultural aspects specific to DevOps. Audience may overlap (practitioners), but intent, depth, and alignment with DevOps are weak.",
+    "reasoning_summary": "The content discusses reflective learning in Agile, not DevOps. It lacks DevOps principles like automation or cross-functional collaboration and is not directly targeted at a DevOps audience. Fit for the DevOps category is minimal and incidental.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -1931,5 +1938,24 @@
     "reasoning": "The content uses Steve Jobs' quote to advocate reflective learning and adaptive decision-making for Agile teams. It discusses analyzing past outcomes, testing assumptions, and iterative improvement, which partially aligns with feedback-driven adaptation and reflective agency aspects of Agentic Engineering. However, it does not explicitly reference agentic engineering or its core constructs such as systemic observability, ethical AI collaboration, developer/AI agency, or DevOps ethos. The main theme is general agile improvement through hindsight and adaptation, not the deliberate design of engineering environments attuned to maximising human and AI agency. There is no mention of decentralised decision-making, AI integration, or autonomy frameworks. The audience is likely Agile practitioners, which has some overlap, and the content is relevant and focused but remains tangential to the deeper, philosophical aspects of Agentic Engineering.",
     "reasoning_summary": "This content links reflective learning and adaptation in Agile with Steve Jobs’ perspective but only lightly touches on concepts central to Agentic Engineering. It’s relevant for agile practitioners, yet lacks sufficient focus or depth on enabling agency or engineering practices that define the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "hj31XHbmWbA",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:03",
+    "ai_confidence": 19.937,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 2.1,
+    "ai_audience": 5.9,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content discusses reflective learning in Agile, inspired by Steve Jobs, focusing on analyzing past experiences, making data-driven decisions, continuous testing, and iterative improvement. However, there is no explicit mention or discussion of autonomous AI agents, agentic practices, human-agent collaboration, contextual intelligence, modern engineering practices (such as CI/CD, observability for AI agents), or governance relevant to Agentic Software Delivery. The audience is Agile practitioners, which may overlap with Agentic Software Delivery but the core subject is not aligned. The topic lightly aligns via themes of adaptation and feedback, but lacks agentic-specific content.",
+    "reasoning_summary": "The content focuses on Agile reflective practices and adaptation, with no mention or exploration of agentic AI, autonomous agents, or Agentic Software Delivery principles. Any alignment is superficial; the fit is low.",
+    "level": "Ignored"
   }
 }

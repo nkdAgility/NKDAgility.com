@@ -87,16 +87,23 @@
     "level": "Secondary"
   },
   "Philosophy": {
+    "resourceId": "Scrum Master",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, detailing specific practices and technical skills rather than exploring the philosophical underpinnings of Agile methodologies. While it briefly touches on concepts like 'social technology' and 'empirical decision-making', these are not explored in a philosophical context. The discussion lacks depth in terms of how these roles influence broader cultural aspects or decision-making philosophies within organisations.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:01",
+    "ai_confidence": 71.7,
+    "ai_mentions": 6.6,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.4,
+    "ai_intent": 7.2,
+    "ai_audience": 7.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content examines the Scrum Master's role, emphasizing philosophical dimensions—change agency, empiricism, social technology, self-management, and continuous improvement—linked to Agile and Lean thinking. Concepts like empiricism, value delivery, and transformation reflect foundational philosophies guiding Scrum. There is strong conceptual alignment and substantive engagement with organizational and cultural aspects. However, it also includes discussion of specific mastery areas (Technical, Business, Organizational) and mentions various practices (TDD, CI/CD, SOLID), which partially dilute the philosophical focus. The main intent is to clarify the Scrum Master's deeper purpose but some content edges towards describing skills and expectations rather than abstract philosophy. Audience is mainly progressive practitioners and leaders interested in the 'why' of Scrum, matching philosophical intent. Signal-to-noise is high but not perfect due to partial deviation into practices.",
+    "reasoning_summary": "The content largely explores the philosophical foundations of the Scrum Master role—emphasizing empiricism, change agency, and culture—but partially overlaps with specific practices and skillsets, leading to a strong but not perfect category fit.",
+    "level": "Secondary"
   },
   "Observability": {
     "category": "Observability",
@@ -3132,6 +3139,25 @@
     "final_score": 18.0,
     "reasoning": "The evaluated content centers exclusively on the human Scrum Master role, focusing on their multidimensional mastery (technical, business, organizational) within Scrum. It articulates the Scrum Master's responsibilities, stances, and impact on team effectiveness. However, there are no mentions (explicit or implicit) of AI agents, human-AI partnership, or emergent cognitive capabilities resulting from such collaboration. The content addresses collective (human-only) teamwork and improvement but does not engage with or reference the unique properties or patterns of collective intelligence as specifically defined for this category. While the audience and some concepts overlap with those interested in socio-technical systems or team effectiveness, the overall relevance to 'Collective Intelligence' per the definition is minimal.",
     "reasoning_summary": "This content is focused on the role and expertise of the Scrum Master as a human team facilitator within Scrum, without discussing human-AI collaboration or the emergent properties of collective intelligence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Scrum Master",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 36.1,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.6,
+    "ai_intent": 2.9,
+    "ai_audience": 4.3,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content thoroughly describes the Scrum Master role in terms of technical, business, and organizational mastery, with references to modern software delivery concepts like CI/CD and observability. However, it does not discuss autonomous AI agents, contextual intelligence, agency in AI, or the integration of agentic principles central to Agentic Software Delivery. The discussion remains focused on human facilitation and leadership without referencing automated or agentic augmentation. Thus, alignment and depth are only partial, and direct mentions are minimal.",
+    "reasoning_summary": "Content details Scrum Master accountability and agile mastery but does not discuss autonomous AI agents, agency, or agentic delivery principles. Lacks key agentic software delivery concepts; fit is minimal and indirect.",
     "level": "Ignored"
   }
 }

@@ -1385,15 +1385,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "00V7BJJtMT0",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T16:07:42",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on their similarities and the importance of rapid feedback loops. While it touches on concepts relevant to software development processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 13.08,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.3,
+    "ai_audience": 4.6,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "Nowhere in the content is Shift-Left Strategy mentioned, nor are its principles, techniques, or benefits directly addressed. The discussion focuses generically on DevOps and Agile, with emphasis on feedback loops and systems thinking, but lacks any coverage of integrating testing, security, or compliance earlier in the lifecycle. There is no explicit or implicit focus on shift-left methods, tools, metrics, or any unique shift-left discussions. Audience may overlap as practitioners, but the topic remains unrelated.",
+    "reasoning_summary": "Content is about Agile and DevOps similarities, not about Shift-Left Strategy. No direct or conceptual relevance to shifting testing, security, or compliance earlier in the lifecycle. Only passing mentions of feedback loops, not shift-left concepts.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1949,5 +1956,24 @@
     "reasoning": "The content focuses on comparing DevOps and Agile, emphasizing shared principles like rapid feedback, systems thinking, and continuous improvement. While it addresses elements relevant to Agentic Engineering—such as systemic observability and feedback-driven adaptation—it stops short of explicit discussion about maximizing human and AI agency, decision-making frameworks, or ethical AI integration. The main intent is comparative and educational for practitioners, aligning moderately with Agentic Engineering audiences but lacking direct mention of the category or in-depth conceptual exploration of agentic practices. Most of the content remains general, with the relevancy primarily found in overlaps around engineering autonomy and systems thinking.",
     "reasoning_summary": "While the content covers systems thinking and feedback loops central to Agentic Engineering, it lacks explicit reference or deep exploration of maximizing human and AI agency. Its main focus is distinguishing Agile and DevOps for practitioners, offering moderate but not comprehensive relevance to Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "00V7BJJtMT0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 13.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 5.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content explains Agile and DevOps, drawing comparisons and highlighting shared principles like rapid feedback and systems thinking. However, it never mentions, nor implies, the integration of autonomous AI agents, contextual intelligence, agency, or human-agent collaboration, which are core to Agentic Software Delivery. Topics such as automation, proactive context-aware AI, or modern agentic delivery practices (e.g., AI-in-the-loop, agent deployment or governance) are absent. The intended audience (software practitioners, consultants) matches the Agentic Software Delivery audience, but the content's purpose and emphasis do not align with agentic principles. Signal-to-noise is moderate, but the substantive focus is off-topic for this category.",
+    "reasoning_summary": "Content focuses on Agile vs DevOps, lacking discussion of autonomous agents, agency, or AI in delivery. No mention or implication of Agentic Software Delivery principles; fit is very weak and largely unrelated.",
+    "level": "Ignored"
   }
 }

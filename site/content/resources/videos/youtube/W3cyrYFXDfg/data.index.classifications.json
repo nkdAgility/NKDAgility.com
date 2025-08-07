@@ -1500,15 +1500,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it thoroughly explores how training and ongoing skill development are essential for managers moving into agile leadership roles. By emphasising continuous learning and its positive effects on leadership and team performance, the discussion clearly centres on building and demonstrating competence."
   },
   "One Engineering System": {
+    "resourceId": "W3cyrYFXDfg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:16:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile leadership and training for managers, which does not directly discuss the One Engineering System framework or its principles. While there are mentions of leadership and management practices, they do not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "calculated_at": "2025-08-07T06:11:11",
+    "ai_confidence": 13.29,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 5.4,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on agile leadership development and evidence-based management for managers, with no reference to One Engineering System (1ES), its tools, processes, or integration frameworks. There are no direct or indirect mentions of 1ES, its principles, goals, or related challenges. Concepts like integration, standardization, or unified engineering systems are absent. The audience (technical leaders/managers) partially aligns, but the content is off-topic regarding the One Engineering System category.",
+    "reasoning_summary": "Content does not address One Engineering System. No mentions, alignment, or depth regarding 1ES integration, framework, or processes. Main focus is agile leadership and management—not standardizing engineering systems.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -2014,5 +2021,24 @@
     "reasoning": "The content centers on agile and evidence-based leadership training for managers, emphasizing delegation, autonomy, data-driven decisions, and servant leadership. These themes loosely align with aspects of Agentic Engineering, such as empowering agency and continuous value delivery. However, the discussion lacks direct references to Agentic Engineering concepts (e.g., systemic observability, DevOps-infused craft, or AI collaboration) and does not focus on the deliberate engineering or design of environments maximizing human/AI agency. Instead, its primary intent is to support personal leadership transitions. The target audience (technical and managerial practitioners) overlaps but is not precisely the engineering/DevOps focus of Agentic Engineering.",
     "reasoning_summary": "This content primarily addresses agile leadership and evidence-based management training for managers, with some general alignment to Agentic Engineering via its themes of empowerment, delegation, and data-driven improvement. However, it does not cover the deliberate engineering of agency or address core agentic practices.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "W3cyrYFXDfg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 13.65,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 5.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on agile leadership and evidence-based management, emphasizing human leadership development, delegation, servant leadership, and measurement-driven decision making for managers. It makes no direct reference to agentic software delivery, autonomous AI agents, contextual system intelligence, or the integration of AI with delivery processes—core requirements for this category. The focus is entirely on human leadership competencies and management techniques, with only tangential mention of autonomy (in the context of human teams). There is no discussion of engineering practices, AI governance, agency, or synergy between autonomous agents and human experts. The overall audience is technical management, but the subject matter is not relevant to agentic software delivery.",
+    "reasoning_summary": "The content is about human leadership and evidence-based management in agile, not about agentic software delivery. No mention or discussion of AI agents, contextual intelligence, or related practices. Fit with the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

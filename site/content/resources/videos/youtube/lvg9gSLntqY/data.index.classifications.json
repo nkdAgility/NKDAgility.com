@@ -320,16 +320,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "lvg9gSLntqY",
     "category": "Technical Leadership",
-    "calculated_at": "2025-04-10T15:54:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments, which is tangentially related to technical leadership but does not focus on guiding development teams or agile best practices. While it mentions Agile and Scrum, it lacks depth in discussing technical leadership principles, mentoring, or fostering team dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 41.65,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.9,
+    "ai_depth": 4.8,
+    "ai_intent": 5.5,
+    "ai_audience": 6.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content critiques traditional project management in favor of adaptive, Agile-based approaches for complex environments. There is conceptual overlap with Agile practices, but it never addresses technical leadership, team guidance, or leadership-specific principles. It targets practitioners seeking alternatives to standard PM and implies a practitioner audience, but lacks depth and explicit connection to technical leadership, servant leadership, team coaching, or the facilitation of agile processes. The focus is comparative (PM vs Agile in complexity), not on the leadership required to implement or guide Agile teams. No penalities were applied as the content is neither outdated nor critical in tone, but fit with the assigned category is tangential; leadership is implied at most.",
+    "reasoning_summary": "Content compares traditional PM and Agile in complex environments but doesn't discuss technical leadership, team guidance, or relevant leadership principles. Fit with 'Technical Leadership' is only tangential; main focus is adaptive methodology rather than leadership.",
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1939,6 +1946,25 @@
     "final_score": 20.0,
     "reasoning": "The content does not directly mention Agentic Engineering or related core concepts such as developer agency, system observability, DevOps practices, or ethical AI integration. Its main focus is on the limitations of traditional project management in complex environments and a brief endorsement of Agile and Scrum as superior alternatives. There is no substantive discussion on decentralised decision-making, continuous value delivery, or engineering autonomy. The only slight alignment is the broad advocacy for adaptability (Agile) in complex work, yet without linking it to the philosophy or systemic practice described by Agentic Engineering. The intended readers—Agile practitioners and consultants—overlap somewhat with the Agentic Engineering audience, but the content’s scope is narrower and misses the distinctiveness of the category.",
     "reasoning_summary": "The content discusses why traditional project management fails in complexity and briefly suggests Agile as an alternative, but it does not directly address or explore Agentic Engineering concepts like developer agency or system-driven autonomy. The relevance to the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "lvg9gSLntqY",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:28",
+    "ai_confidence": 7.58,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content analyzes the limitations of traditional project management in complex environments and suggests Agile as an alternative. However, it does not mention or discuss agentic software delivery, autonomous AI agents, contextual intelligence, or modern agent-oriented practices. There is no coverage of AI integration, agency, human-agent collaboration, or feedback loops involving agentic systems. The target audience (agile consultants, teams in complex domains) aligns to those interested in related innovations, but the topic itself is off the Agentic Software Delivery category. The discussion is entirely pre-agentic, focusing narrowly on the project management/Agile dichotomy rather than advances involving software delivery agents.",
+    "reasoning_summary": "The content only discusses why traditional project management falters in complex environments and recommends Agile. It does not mention, reference, or align with Agentic Software Delivery or its key themes, so fit is negligible.",
     "level": "Ignored"
   }
 }

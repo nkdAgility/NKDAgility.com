@@ -12,15 +12,22 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Test First Development",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of defining success criteria and clarity in the development process, which indirectly relates to accountability. However, it does not explicitly address accountability as a structural construct or discuss roles like Product Owner or Scrum Master. The focus is more on testing practices rather than on outcome ownership or accountability in work systems.",
+    "calculated_at": "2025-08-07T06:12:09",
+    "ai_confidence": 19.95,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 3.8,
+    "ai_audience": 5.0,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content on Test First Development focuses primarily on test practices, with some indirect relevance to clarity and alignment of outcomes, but it does not directly discuss accountability as a structural mechanism, outcome ownership, or role-based accountabilities. There are no explicit distinctions between accountability, responsibility, or authority. Mentions of product owners are brief and only in the context of collaboration, not accountability. No substantial exploration of how accountability shapes behaviour or delivery is present. The audience partially overlaps with those interested in accountability, but the fit is weak and mostly tangential to the category definition.",
+    "reasoning_summary": "This content primarily covers testing and collaboration, not outcome ownership or explicit accountabilities in work systems. Any alignment with 'Accountability' is indirect and minimal.",
     "level": "Ignored"
   },
   "Framework": {
@@ -3105,6 +3112,25 @@
     "final_score": 13.0,
     "reasoning": "The content discusses Test First as a practice that enhances collaboration within software teams by promoting clarity, feedback, and shared understanding. However, it does not explicitly reference Collective Intelligence or human-AI partnerships, nor does it address AI at all. Collaboration is framed exclusively among humans (developers, testers, designers, product owners), with no mention of AI or emergence of human-AI capabilities. The focus is on process and automation, not on the socio-technical themes core to Collective Intelligence. Therefore, alignment, depth, and mention scores are low, although the content is highly focused and relevant to its intended audience (software engineering practitioners).",
     "reasoning_summary": "The content centers on human team collaboration and test practices, with no mention or implication of human-AI partnership or collective intelligence concepts as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Test First Development",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:00",
+    "ai_confidence": 31.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 4.4,
+    "ai_audience": 4.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content thoroughly discusses modern engineering practices focused on Test First development. It highlights automation, feedback loops, and collaboration. However, it does not mention AI agents, agentic delivery, contextual intelligence, or the synergy between autonomous AI and human expertise. While relevant to practices required for agentic delivery (e.g., automated testing, CI/CD), the material never references agency, AI, or agent frameworks, and none of the key agentic dimensions are directly addressed. Overall, this piece aligns partially with foundational engineering practices necessary for agentic systems but is not explicitly or deeply aligned with Agentic Software Delivery as a strategy.",
+    "reasoning_summary": "This content covers modern testing and automation but does not discuss autonomous AI agents, agentic delivery, or contextual intelligence. It partially fits agentic engineering prerequisites, but direct relevance to Agentic Software Delivery is minimal.",
     "level": "Ignored"
   }
 }

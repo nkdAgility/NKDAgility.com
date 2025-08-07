@@ -1446,15 +1446,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "2KovKxNpZpg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:58:25",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum principles and practices, which are not directly related to the One Engineering System framework. While it discusses aspects of agile methodologies, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category.",
+    "calculated_at": "2025-08-07T06:11:31",
+    "ai_confidence": 7.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.9,
+    "ai_intent": 1.2,
+    "ai_audience": 1.6,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content deeply discusses Scrum's principles and warns against mechanical application, but it never mentions One Engineering System (1ES) nor addresses topics like unified tooling, process integration, or standardised engineering systems. Alignment is weak, as the focus is strictly on Scrum culture and core Agile principles rather than any integrated, cross-team engineering methodology. There is no conceptual or practical overlap with the definition of 'One Engineering System;' the only tangential link is a general concern for better engineering practices, not specific to 1ES topics or audience.",
+    "reasoning_summary": "Content focuses solely on Scrum principles and agile values; there are no explicit or implicit references to One Engineering System. The topic, intent, and themes do not fit the assigned category even partially.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1961,5 +1968,24 @@
     "reasoning": "The content centers on core Scrum principles—empiricism, transparency, and value delivery—urging a move away from ritual and toward empowered, outcomes-driven teams. There is good thematic overlap with Agentic Engineering in valuing autonomy and outcome focus, but no direct mention of agentic concepts, DevOps, AI collaboration, or explicit systemic observability. The discussion is limited to human agency within Scrum and omits broader integration of intelligent systems or ethical autonomy critical to Agentic Engineering. Score reflects partial but incomplete fit; no penalties were warranted.",
     "reasoning_summary": "While the article strongly supports team empowerment and continuous improvement—ideas aligned with Agentic Engineering—it stays grounded in Scrum human-centered principles and doesn't address system/human co-agency or the broader philosophical aims of Agentic Engineering.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "2KovKxNpZpg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:08",
+    "ai_confidence": 7.33,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.35,
+    "ai_intent": 0.35,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "This content centers entirely on the foundational principles of Scrum, critique of ritualistic practices, and advice to focus on value. It never mentions or even implies agentic software delivery, autonomous AI agents, contextual intelligence, or agentic engineering. The articulation is all about human team behaviors and agile culture, not integration of agency, automation, or AI in delivery. The audience is Agile/Scrum practitioners, with no shift toward agentic or AI-driven delivery practices. Thus, all scores are extremely low except audience (as some Agile professionals could overlap with the agentic SD audience), and signal (as it's focused but off-topic). No penalties were applied.",
+    "reasoning_summary": "Entirely about Scrum’s human-centric principles and avoiding ritualism; does not discuss agentic delivery, AI, or autonomous agents. No alignment with the Agentic Software Delivery category’s definition or intent.",
+    "level": "Ignored"
   }
 }

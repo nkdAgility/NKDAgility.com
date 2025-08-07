@@ -73,15 +73,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it explores how market share shapes organisational strategy, guiding decisions and resource allocation. By linking product development to market needs and highlighting the strategic impact of market share, it clearly addresses key themes relevant to strategic planning and execution."
   },
   "Practice": {
+    "resourceId": "Market Share",
     "category": "Practice",
-    "calculated_at": "2025-04-09T15:33:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses market share and its importance for competitive advantage, but it does not explicitly mention any specific practices or actionable techniques that teams can use to improve their effectiveness or collaboration. While it touches on themes of value delivery and responsiveness, it lacks depth in discussing specific practices like pair programming or retrospectives, which are central to the 'Practice' category.",
+    "calculated_at": "2025-08-07T06:12:10",
+    "ai_confidence": 38.55,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.7,
+    "ai_intent": 4.2,
+    "ai_audience": 7.8,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the concept of 'market share' as a metric and a strategic goal. While it describes how understanding and seeking to expand market share can foster agility, adaptability, and value delivery, it does not detail any specific, repeatable actions or techniques that teams routinely apply. No actionable practices are discussed (e.g., retrospectives, TDD, stand-ups, estimation methods); the discussion is conceptual and strategic rather than practical and prescriptive. The intended audience seems practitioners, but the emphasis remains on business outcomes and strategic imperatives, not on daily team practices that fall under this category.",
+    "reasoning_summary": "The content discusses market share as a business concept and strategy, not as a specific team practice or repeatable technique. It does not describe actionable habits or methods, so fit for the Practice category is weak and mostly indirect.",
     "level": "Ignored"
   },
   "Philosophy": {
@@ -3112,6 +3119,25 @@
     "final_score": 11.0,
     "reasoning": "The content exclusively discusses strategies for understanding and expanding market share within organizations. It emphasizes team adaptability, value delivery, and continuous improvement but does not mention AI, human-AI collaboration, or any aspect of Collective Intelligence as defined. There are no explicit or implicit references to human-AI partnerships, cognitive augmentation via collaboration, or socio-technical constructs involving AI agents. The main audience is likely business or product strategists. The signal is fully focused on market share, but completely unrelated to the required category.",
     "reasoning_summary": "This content centers on market share strategies in business, with no reference to human-AI collaboration or Collective Intelligence themes, making its relevance to the category negligible.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Market Share",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:02",
+    "ai_confidence": 9.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content exclusively discusses market share in the context of product and organisational competitive advantage. There are no explicit references to AI agents, agentic delivery, or the integration of contextual intelligence in software delivery as defined by the category. None of the key topics are addressed directly or in a related way; all references are generic to business strategy, value delivery, and agility. The intent and audience do not fit the category, and there is no signal indicating agentic practices or technologies.",
+    "reasoning_summary": "This is a generic market share/business strategy piece with no link to Agentic Software Delivery, AI agents, or contextual intelligence. The topic, intent, and themes do not match the category at all.",
     "level": "Ignored"
   }
 }

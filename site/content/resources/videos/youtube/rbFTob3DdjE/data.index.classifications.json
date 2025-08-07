@@ -1440,15 +1440,22 @@
     "level": "Ignored"
   },
   "One Engineering System": {
+    "resourceId": "rbFTob3DdjE",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:53:39",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, specifically from a Scrum Master's perspective. While it discusses collaboration and engagement, it does not directly address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration of tools and processes across teams. The discussion is more about personal experiences and recommendations regarding digital tools rather than the standardisation and unification of engineering practices that 1ES entails.",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 5.5,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "There are no direct mentions of One Engineering System (1ES), its framework, principles, integration, or standardized processes. The content focuses exclusively on using digital whiteboards to support agile collaboration, particularly for Scrum teams, discussing features, practical tips, and facilitator perspectives. While digital whiteboards could theoretically be part of a standardized engineering system, there is no discussion of tool integration across teams or alignment with 1ES principles. The intent is to share practical advice about tool use in agile settings, not to address unification, standardization, or 1ES methodologies. The audience (agile/Scrum practitioners) marginally overlaps with those who might be interested in 1ES, but all signals remain indirect and minor. The fit is highly partial and mostly coincidental.",
+    "reasoning_summary": "Content focuses on digital whiteboards for agile team collaboration, not on One Engineering System principles, frameworks, or integration. No direct or significant indirect relation to 1ES. Fit is minimal and largely incidental.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1951,6 +1958,25 @@
     "final_score": 34.0,
     "reasoning": "The content primarily discusses digital whiteboards as collaboration tools for agile teams, offering practical advice for facilitation and team engagement. While it mentions concepts like team engagement and participation, it does not directly reference or sufficiently engage with Agentic Engineering principles including decentralised decision-making, observability, ethical AI integration, or maximising human and AI agency. The focus is on tools and workflow tips rather than deliberate engineering practice design intended to maximise agency. As a result, direct mentions are almost absent, and conceptual alignment/depth hover around the lower-mid range. The intended audience (practitioners, scrum masters) coincides with the category's typical audience, and the content stays focused, but the signal is primarily about practical usage rather than agentic philosophy.",
     "reasoning_summary": "While the article effectively targets agile practitioners and offers focused guidance on digital whiteboards, it only lightly aligns with Agentic Engineering. Key themes like maximising agency, decentralised decision-making, or ethical AI are not explicitly addressed.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "rbFTob3DdjE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:18",
+    "ai_confidence": 8.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on digital whiteboards supporting agile collaboration, without mentioning or exploring AI agents, agency, contextual intelligence, automation, or any agentic software delivery principles. Its themes, intent, and target audience are centered on agile practitioners seeking to improve team engagement using collaboration tools. There are zero references or concept alignment to agentic software delivery as defined. No outdated practices or negative framing warranting penalties. Signal is low for relevance to the target category.",
+    "reasoning_summary": "The article is about digital whiteboards for agile collaboration, not agentic software delivery. No AI agents, agency, contextual intelligence, or agentic practices are discussed. Therefore, fit is extremely low, with only minimal indirect audience overlap.",
     "level": "Ignored"
   }
 }

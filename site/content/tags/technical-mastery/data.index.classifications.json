@@ -48,16 +48,23 @@
     "level": "Secondary"
   },
   "Method": {
+    "resourceId": "Technical Mastery",
     "category": "Method",
-    "calculated_at": "2025-04-09T14:51:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Technical Mastery in the context of software craftsmanship and engineering practices, which indirectly relates to methods used in Agile and DevOps. However, it primarily focuses on the broader concept of mastery rather than specific structured procedures or methods. While it mentions methodologies and tools, it lacks detailed discussions on specific methods like Scrum or Kanban, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:12:16",
+    "ai_confidence": 44.75,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 5.2,
+    "ai_intent": 4.3,
+    "ai_audience": 7.1,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content discusses technical excellence, practices, and continuous improvement, aligning tangentially with 'Method.' It briefly mentions engineering practices and methodologies but focuses more on overarching qualities than step-by-step procedures or methods. Depth into any named method (e.g., Scrum, Kanban) or explicit procedural frameworks is lacking. Alignment is partial: the intent fits quality and best practices but is not method-centric. Mentions of 'methodologies' and 'engineering practices' are not elaborated into specific method discussions. The audience is likely practitioners interested in methods, but most examples refer to general professionalism, not structured methods.",
+    "reasoning_summary": "The content only partially fits the 'Method' category, mentioning methods and practices generally without detailing structured procedures. The main focus is technical excellence, not methods, so confidence is moderate.",
+    "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -3122,6 +3129,25 @@
     "final_score": 18.0,
     "reasoning": "The content centers on human technical excellence in software craftsmanship and engineering within Agile and DevOps, but does not mention, discuss, or imply human-AI partnership, distributed cognition, or collective intelligence as defined. Collaboration references are solely among humans and relate to shared technical practices. There is no discussion of AI agency, human-AI teaming, or socio-technical systems involving AI. Thus, the alignment and depth with 'Collective Intelligence' are very weak, and only audience and some relevance to collaboration yield higher partial credit.",
     "reasoning_summary": "The content focuses on human technical skills and engineering practices without reference to human-AI collaboration or collective intelligence. It does not fit the target category except for some general relevance to teamwork in technical domains.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Technical Mastery",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:15",
+    "ai_confidence": 30.84,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.4,
+    "ai_intent": 3.1,
+    "ai_audience": 9.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content discusses software craftsmanship, architecture, engineering practices, Agile, and DevOps. While these are adjacent topics required for agentic delivery, there are no explicit mentions or in-depth explorations of AI agents, agency, contextual intelligence, or the integration of autonomous agents with human expertise. The closest overlap is the mention of modern engineering practices (e.g. automated testing, CI) and empowerment of teams, but these do not go into the agentic dimension. The target audience is well-aligned, as both speak to technical practitioners and organizations seeking excellence. However, the intent and main focus are clearly about skill mastery and not agentic software delivery per se.",
+    "reasoning_summary": "The content is focused on software craftsmanship and engineering practices, not on the integration of autonomous agents or agentic strategies. It aligns only peripherally. Fit is partial but not strong for Agentic Software Delivery.",
     "level": "Ignored"
   }
 }

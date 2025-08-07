@@ -1195,15 +1195,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "LMmKDlcIvWs",
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-14T19:41:19",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban as a workflow strategy and does not specifically mention Azure DevOps or its functionalities. While it briefly references 'DevOps' in a general context, it lacks a focus on Azure DevOps services, CI/CD pipelines, or any related best practices, resulting in a very low confidence score.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 4.105,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 0.9,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is an overview of Kanban as a workflow strategy, detailing mechanics, visualization, and continuous improvement. Azure DevOps is only mentioned once, generically, as a possible digital tool for visualization (\"digital tools like JIRA or DevOps\")—but without any detail, direct mention of Microsoft Azure DevOps specifically, or coverage of relevant service features (Boards, Repos, Pipelines, Test Plans, Artifacts). There is no functional discussion of Azure DevOps tools, methodologies, integrations, or best practices. The primary audience may overlap (practitioners interested in workflows or DevOps), but the content, intent, and depth are not substantively aligned with the Azure DevOps category definition.",
+    "reasoning_summary": "Aside from a brief reference to 'DevOps' as a tool, the content is entirely focused on Kanban and workflow improvement, not on Azure DevOps functionalities. It does not fit the required category except for a very tenuous, offhand mention.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1967,6 +1974,25 @@
     "final_score": 33.0,
     "reasoning": "The content explains Kanban as a flexible strategy for workflow optimization and continuous improvement, focusing on visual management, metrics, and incremental change. While it promotes agency and feedback-driven adaptation in process improvement, it does not directly address agentic engineering concepts such as human/AI agency, ethical AI integration, or decision-making autonomy. The discussion is practical and relevant to practitioners, but lacks explicit reference or deep conceptual alignment with the broader philosophy of Agentic Engineering as defined (e.g., decentralised decisions, DevOps-infused craft, or AI collaboration). No outdated or negative tone is observed, so no penalties apply.",
     "reasoning_summary": "The content aligns partially with agentic engineering via its focus on continuous improvement and team agency but lacks explicit coverage of human/AI autonomy, decision frameworks, or ethical AI integration central to the category. Relevance is moderate, but fit is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LMmKDlcIvWs",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 10.18,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.7,
+    "ai_audience": 3.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content thoroughly explores Kanban as a method for workflow visualization and continuous improvement, but it never directly references Agentic Software Delivery, autonomous AI agents, or related concepts. There is no discussion of contextual AI, agent integration, or the synergy between AI agents and human experts. While there are references to tooling (e.g., JIRA, DevOps), these are only mentioned as general workflow visualisation aids without any agentic framing. The audience is broadly relevant to software delivery and process improvement practitioners but not specifically to those exploring autonomous AI integration. The content is focused, but entirely on Kanban—none of the key 'Agentic Software Delivery' topics are present.",
+    "reasoning_summary": "This is an in-depth Kanban overview without mention of autonomous agents, contextual AI, or agentic delivery. No substantive overlap with Agentic Software Delivery; only superficial relevance through improvement methods.",
     "level": "Ignored"
   }
 }

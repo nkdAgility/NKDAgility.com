@@ -1337,16 +1337,23 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "LoRDIqNuwD-",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T15:54:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, which are methodologies within Agile practices. While it touches on collaboration in the context of Scrum, it lacks a direct focus on the broader themes of social technologies such as self-organisation, collective intelligence, and transparency. The discussion is more about the technical integration of Scrum and Continuous Delivery rather than the social frameworks that underpin effective collaboration and decision-making. Therefore, while there are relevant elements, they are not the primary focus, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 58.39,
+    "ai_mentions": 2.1,
+    "ai_alignment": 7.3,
+    "ai_depth": 5.7,
+    "ai_intent": 7.5,
+    "ai_audience": 8.2,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.1,
+    "ai_penalty_details": "mentions penalized 0.5 for only implicit category references, depth penalized 0.6 for limited substantive discussion and outdated reference (2017 event)",
+    "final_score": 58.0,
+    "reasoning": "The content discusses how Scrum and Continuous Delivery work together, implicitly referencing key collaboration and value delivery frameworks of Social Technologies. While Scrum is directly named, the category itself is not. The alignment with Social Technologies is present since Scrum and CD are both frameworks enhancing adaptability and value delivery, but the depth is limited due to the brevity and lack of thorough exploration within the excerpt—the main content is a video, not detailed here, and some references (e.g., Agile in Africa 2017) are outdated. The audience is practitioners in Agile/DevOps, matching the category. The signal is high but includes event promotion and playlist links, slightly diluting focus. Penalties are applied for outdated content and lack of explicit category mention. Final confidence reflects a moderate but not full alignment with Social Technologies.",
+    "reasoning_summary": "The content fits Social Technologies reasonably well, focusing on Scrum and Continuous Delivery and their collaborative roles, though lacks depth and explicit references. Fit is partial but relevant, with outdated elements slightly lowering confidence.",
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1943,6 +1950,25 @@
     "final_score": 25.0,
     "reasoning": "The content is an overview of how Scrum and Continuous Delivery work together, primarily targeting agile and DevOps practitioners. It mentions practices related to continuous value delivery and workflow integration, which slightly aligns with Agentic Engineering concepts. However, it does not directly mention Agentic Engineering, developer/AI agency, or systemic observability, nor does it address the philosophical or ethical elements central to Agentic Engineering. The discussion is brief and practical, without substantive depth on engineering for agency or autonomy. Penalties were applied for lack of depth and for being more process-focused than agency-focused.",
     "reasoning_summary": "This content is a basic overview on integrating Scrum with Continuous Delivery. It is relevant to agile practitioners but doesn't address the agency, autonomy, or engineering philosophy required for Agentic Engineering. Alignment is weak, with little depth or explicit fit.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "LoRDIqNuwD-",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 19.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.9,
+    "ai_audience": 6.2,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Penalized mentions (-0.8) and depth (-1.2) for referencing only general continuous delivery and Scrum practices without any discussion of agentic software delivery or autonomous AI agent integration; content is also outdated (2017 event mention).",
+    "final_score": 19.0,
+    "reasoning": "The content focuses solely on the integration of Scrum and Continuous Delivery in an Agile context, with no references to agentic software delivery or autonomous AI agents. Key topics such as contextual intelligence, AI agents, or human-agent collaboration are absent. The content is somewhat outdated due to a 2017 event mention, further reducing its alignment. Audience partially matches, as practitioners interested in modern delivery may overlap, but the core agentic themes are entirely missing.",
+    "reasoning_summary": "This video discusses Scrum and Continuous Delivery in Agile software, not Agentic Software Delivery. It lacks references to AI agents, contextual intelligence, or agency, and is also outdated. Only a very partial, indirect fit at best.",
     "level": "Ignored"
   }
 }

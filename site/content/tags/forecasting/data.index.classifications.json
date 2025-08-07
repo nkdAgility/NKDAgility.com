@@ -87,16 +87,23 @@
     "reasoning_summary": "This content is a great fit for the 'Practice' category, as it delves into forecasting within Agile and Scrum, highlighting practical methods that boost team performance and value delivery. By focusing on empirical data and its impact on transparency and improvement, it clearly addresses actionable techniques central to effective practices, making it highly relevant to the category."
   },
   "Philosophy": {
+    "resourceId": "Forecasting",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the practice of forecasting within Agile and Scrum, discussing empirical data and metrics rather than exploring the philosophical underpinnings of these methodologies. While it touches on themes of transparency and accountability, which are relevant to the broader cultural aspects of organisations, it does not delve into the foundational beliefs or the 'why' behind Agile practices. The discussion is more procedural and technical, lacking a deep philosophical exploration.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T06:11:58",
+    "ai_confidence": 45.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 4.8,
+    "ai_audience": 6.7,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content discusses forecasting in Agile and Scrum, emphasizing data-driven practices and cultural outcomes like transparency and continuous improvement. While some philosophical aspects (decision-making, resilience, organisational agility) are broadly referenced, the focus is largely practical—on techniques, processes, and outcomes rather than delving deeply into the 'why' and foundational principles. There are no explicit or direct references to philosophy, Agile values, or core theoretical frameworks; instead, the narrative leans toward applied concepts and how forecasting practices improve results. Audience fit and signal are moderate since the content appeals to practitioners concerned with team outcomes and improvement, not to those seeking philosophical exploration. No penalties apply as the content isn't outdated or contrary.",
+    "reasoning_summary": "The content is mainly focused on forecasting as a practical discipline in Agile and Scrum, with some indirect mention of philosophical outcomes. The topic is only partially aligned with the 'Philosophy' category and lacks depth in foundational or theoretical discussion.",
+    "level": "Tertiary"
   },
   "Observability": {
     "category": "Observability",
@@ -3133,6 +3140,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses exclusively on data-driven forecasting in Agile/Scrum using empirical metrics. There are no direct or indirect references to human-AI collaboration, partnership, or collective intelligence as defined. The themes discussed—including empirical data, cycle time, and value delivery—center on enhancing human team effectiveness and process optimization within Agile frameworks, but omit any mention of AI, AI agents, or sociotechnical collaboration. Alignment, depth, and intent scores are low because none of the specifically required concepts—such as distributed cognition, human-AI collaboration patterns, or collective team intelligence—are addressed, nor is there any audience targeting practitioners interested in human-AI teaming. Signal-to-noise is slightly higher reflecting the content’s focus, but wholly unrelated to the Collective Intelligence category.",
     "reasoning_summary": "This content is about empirical forecasting for Agile teams, emphasizing data analysis for process improvement. It does not discuss human-AI collaboration, distributed cognition, or any dimension of collective intelligence as defined by the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Forecasting",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:58",
+    "ai_confidence": 37.6,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.7,
+    "ai_intent": 3.6,
+    "ai_audience": 4.1,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on forecasting within Agile and Scrum, highlighting the use of empirical data, process improvement, and continuous delivery. It does not reference agentic concepts, AI agents, contextual intelligence, or human-agent collaboration. The main topics are traditional Agile forecasting, cycle time, and value delivery, which, while compatible with agentic delivery, do not explicitly address its core premises. Depth and signal are moderate as much is relevant to adaptive delivery but lacks mention of autonomous systems or governance frameworks. Audience is partially relevant (practitioners/teams), but there is minimal direct or conceptual fit for Agentic Software Delivery.",
+    "reasoning_summary": "This content discusses Agile forecasting using data-driven methods but does not address agentic principles, AI agents, or integration between agents and humans. Fit is low, as the topic is on traditional process improvement rather than agentic software delivery.",
     "level": "Ignored"
   }
 }

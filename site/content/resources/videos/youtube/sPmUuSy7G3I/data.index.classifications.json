@@ -1,14 +1,21 @@
 {
   "DevOps": {
+    "resourceId": "sPmUuSy7G3I",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:13:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Scrum, which is a specific Agile methodology, rather than the broader principles of DevOps. While it briefly mentions the importance of aligning with business goals and data-driven decision-making, these concepts are not explored in the context of DevOps practices or culture. The discussion lacks depth in terms of DevOps principles such as automation, shared accountability, and continuous improvement, leading to a low confidence score for alignment with the DevOps category.",
+    "calculated_at": "2025-08-07T06:11:36",
+    "ai_confidence": 13.24,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.3,
+    "ai_audience": 3.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is almost entirely focused on Scrum planning, prioritisation, backlog management, and data-driven iteration. While there is a single mention of 'DevOps' inviting further conversation, there is no discussion, principle, or theme aligned with DevOps philosophy, practices, or cultural concepts. None of the key DevOps topics—such as automation, cross-functional collaboration, shared accountability, continuous delivery, or feedback loops in software delivery—are addressed in substance. The article is aimed at Scrum practitioners, not inherently at a DevOps-oriented audience. The signal for DevOps is almost entirely absent and off-topic given the explicit classification definition.",
+    "reasoning_summary": "This content is focused on Scrum planning and backlog management, not on DevOps principles or practices. Only a brief, off-topic mention of DevOps appears. The classification fit is very low and largely irrelevant to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1994,6 +2001,25 @@
     "final_score": 32.0,
     "reasoning": "The content discusses Scrum planning, value, backlog management, and data-driven iteration. It lightly touches on adaptive processes but does not make direct reference to Agentic Engineering or its philosophical underpinnings. There is some indirect overlap with feedback-driven adaptation and decision-making frameworks, but core themes such as maximising human and AI agency, systemic observability, ethical AI integration, or DevOps-infused craft are absent. The main intent is practical Scrum guidance rather than deliberate engineering for increased agency. The audience is generally aligned (Scrum/Agile/DevOps practitioners), but the depth and directness regarding Agentic Engineering are limited.",
     "reasoning_summary": "This content focuses on Scrum planning and backlog management, with light, indirect overlap to Agentic Engineering through iterative, data-driven improvement. However, it lacks direct reference or substantial exploration of core Agentic Engineering concepts, so classification fit is low.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 13.41,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.5,
+    "ai_audience": 4.6,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "This content focuses exclusively on Scrum planning, backlog management, and Agile practices, emphasizing business alignment, iteration, and data-driven prioritisation. There are no direct or indirect references to agentic software delivery, AI agents, context-aware automation, or the integration of autonomy into software delivery. The discussion is limited to traditional Scrum techniques, lacking any exploration of agentic principles, AI-driven workflow augmentation, or the shift to agentic models as defined by the category. As such, the conceptual and thematic alignment is very low, with the only slight overlap being general references to data use and iterative learning, which are generic Agile concerns rather than agentic-specific practices. The audience may include those interested in modern delivery, but nothing signals targeting professionals in agentic software delivery.",
+    "reasoning_summary": "Content discusses standard Scrum planning and backlog strategies with no reference to autonomous agents or agentic delivery. Does not fit the Agentic Software Delivery category. Overlap is minimal and only at the level of general Agile values.",
     "level": "Ignored"
   }
 }

@@ -1406,15 +1406,22 @@
     "level": "Ignored"
   },
   "Social Technologies": {
+    "resourceId": "sdIPSpbeA9w",
     "category": "Social Technologies",
-    "calculated_at": "2025-04-10T13:00:42",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits in reducing human error and enhancing efficiency. While it touches on aspects of team dynamics and the importance of feedback, it does not explicitly address the core themes of social technologies such as collaboration, decision-making, or value delivery within organisations. The discussion lacks depth in exploring how social technologies can foster collective intelligence or transparency, leading to a low confidence score in this category.",
+    "calculated_at": "2025-08-07T06:10:19",
+    "ai_confidence": 34.1,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.7,
+    "ai_depth": 3.9,
+    "ai_intent": 3.7,
+    "ai_audience": 7.8,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content is focused on the benefits of automation in software development, with concrete examples of how automation reduces human error and increases efficiency. While it briefly mentions team dynamics and the human element, the main themes are technical automation—not social frameworks, collaboration, decision-making, or the interplay of social technologies as defined. There's limited discussion of self-organisation, transparency, or emergent problem-solving facilitated by social technologies. The audience (software practitioners) aligns somewhat, but the discussion lacks depth and conceptual focus on the category. No penalties applied, as there's no satire, contradiction, or outdated practice referenced.",
+    "reasoning_summary": "Content centers on technical automation benefits, not on frameworks or methods for collaboration or organisational culture. Only minimal and tangential relevance to Social Technologies. The match is partial and largely incidental rather than intentional.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -2007,5 +2014,24 @@
     "reasoning": "The content emphasizes automation as a means to reduce human error and improve software development processes, aligning partially with Agentic Engineering through its focus on better engineering outcomes and faster feedback loops. However, it lacks explicit mention of maximising human or AI agency, decentralised decision-making, or the ethical/autonomy aspects central to Agentic Engineering. The discussion focuses on efficiency and reliability but stops short of addressing the deliberate design of practices to enhance mutual agency between humans and AI. The audience is practitioners, which matches, and the content is strongly relevant but falls short in depth and conceptual alignment to the precise domain of Agentic Engineering.",
     "reasoning_summary": "This article effectively argues for automation to reduce error in software development, resonating with some agentic principles like rapid feedback and process improvement. However, it misses core Agentic Engineering themes, such as mutual human-AI agency, systemic observability, and ethical integration, thus only partially fits the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sdIPSpbeA9w",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:18",
+    "ai_confidence": 19.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 5.1,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on the importance of automation in software delivery, primarily highlighting reduction of human error and improved reliability through automated tools and CI/CD practices. While it discusses modern engineering and the reduction of manual steps (which is foundational to agentic practices), it lacks direct or explicit mention of autonomous AI agents, contextual intelligence, agentic system design, or governance. The automation described is traditional and largely tool-based, not agentic by definition. There's no discussion about AI operating proactively in delivery contexts, no human-in-the-loop agentic design, or how autonomous decisions are reached. The advice and stories, while insightful, remain surface-level in relation to agentic delivery and do not reference synergy between AI agents and experts, feedback loops for autonomous intelligence, or governance of agentic systems.",
+    "reasoning_summary": "Content promotes automation in software delivery but lacks direct or conceptual focus on agentic principles, autonomous AI agents, or contextual intelligence, thus only partially aligns with the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

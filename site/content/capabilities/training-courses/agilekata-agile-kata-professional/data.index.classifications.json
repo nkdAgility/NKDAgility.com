@@ -1371,15 +1371,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "p62cJsAjQNw",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:00:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Agile Kata and its application in agile transformations, which deviates from the core principles of the One Engineering System. While it mentions agile processes and cultural shifts, it does not discuss the integration or standardisation of engineering practices across teams, nor does it provide insights into the One Engineering System framework itself.",
+    "calculated_at": "2025-08-07T06:11:35",
+    "ai_confidence": 20.39,
+    "ai_mentions": 0.11,
+    "ai_alignment": 1.96,
+    "ai_depth": 2.04,
+    "ai_intent": 2.21,
+    "ai_audience": 4.39,
+    "ai_signal": 2.67,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The course focuses exclusively on the Agile Kata pattern for process improvement and agile transformation. There is no mention—explicit or implicit—of One Engineering System (1ES), integrated tooling, or the standardization of engineering systems across teams. All discussion and learning outcomes are about the Agile Kata as a pattern or coaching tool, not about unifying engineering practices or tools at scale. While it targets technical teams (giving a moderate audience score), the intent, depth, and conceptual focus are not aligned with core 1ES principles.",
+    "reasoning_summary": "Content teaches Agile Kata for agile transformation; no reference to 1ES or unified engineering systems. Focus is entirely on Agile Kata, with minimal thematic overlap. Category fit is weak and mostly irrelevant.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1954,6 +1961,25 @@
     "final_score": 32.0,
     "reasoning": "The course centers on the Agile Kata, focusing on process improvement, business agility, and agile transformation, targeting agile teams, coaches, and leaders. However, there are no direct references to Agentic Engineering or concepts such as developer or AI agency, systemic observability, ethical AI, or DevOps-infused craft. The themes only weakly touch on decentralization and feedback-driven adaptation, with no explicit philosophical framing or technical discussion aligned with Agentic Engineering. Thus, conceptual and depth scores are modest, while audience and signal are higher due to relevance to technical practitioners.",
     "reasoning_summary": "This course teaches Agile Kata for process and business agility improvement but lacks Agentic Engineering's emphasis on human/AI agency, engineering practices, or ethical autonomy. Its content aligns more with general agile transformation than the specific themes of this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "p62cJsAjQNw",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:44",
+    "ai_confidence": 9.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.15,
+    "ai_depth": 0.85,
+    "ai_intent": 2.1,
+    "ai_audience": 2.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The course content is focused exclusively on the 'Agile Kata' pattern for process improvement and agile transformation. There are no direct or indirect mentions of agentic software delivery, AI agents, contextual intelligence, or integration of human expertise with autonomous systems. The course audience is agile teams and leaders, which is somewhat parallel to the intended audience for Agentic Software Delivery, but the themes and topics are unrelated. The course appears rooted in traditional agile and process improvement approaches, not in the proactive, intelligence-driven systems or agentic principles defined by the classification. Thus, only minimal scores are warranted across all dimensions, reflecting a near-total lack of fit.",
+    "reasoning_summary": "Content is on agile transformation via the Agile Kata pattern, with no discussion of AI agents or agentic software delivery. No mention or conceptual overlap exists; intent, themes, and practices do not match the agentic category.",
     "level": "Ignored"
   }
 }

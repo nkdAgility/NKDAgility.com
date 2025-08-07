@@ -21,21 +21,21 @@
   "Tenet": {
     "resourceId": "9EP_gF2nD19",
     "category": "Tenet",
-    "calculated_at": "2025-05-16T20:20:14",
-    "ai_confidence": 39.44,
-    "ai_mentions": 1.2,
-    "ai_alignment": 4.0,
-    "ai_depth": 4.3,
-    "ai_intent": 5.2,
-    "ai_audience": 7.2,
-    "ai_signal": 6.8,
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 53.25,
+    "ai_mentions": 2.7,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.1,
+    "ai_intent": 6.9,
+    "ai_audience": 8.1,
+    "ai_signal": 8.3,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 39.0,
-    "reasoning": "The content critiques environment-based branching and recommends feature flags and progressive rollouts, which align with concepts like flow efficiency and fast feedback in DevOps/Agile. However, it never directly mentions tenets or frames its advice as actionable organizational rules. The discussion is surface-level, focusing on tactics rather than deeply exploring doctrinal principles or their application. Its main intent is practical, not doctrinal. The audience is practitioners, overlapping with 'Tenet,' but the focus is branching strategy rather than explicit tenets. Signal is good but a portion is critique rather than prescriptive rule discussion. No penalties are warranted, but overall the piece only partially fits the 'Tenet' category.",
-    "reasoning_summary": "While the content echoes principles like flow efficiency and improved feedback, it speaks in terms of tactics (branching, feature flags) rather than explicit tenets. It's relevant for practitioners but doesn't deeply discuss foundational rules or doctrines, resulting in only a moderate fit for the 'Tenet' category.",
-    "level": "Ignored"
+    "final_score": 53.0,
+    "reasoning": "The content critiques environment-based branching and advocates for practices like feature flags and progressive rollouts to improve delivery speed and feedback loops. This aligns with tenets such as 'flow efficiency', reducing silos, and feedback emphasis, matching core principles in DevOps/Agile. However, it does not label these as 'tenets', nor does it explicitly name them as guiding rules; the discussion revolves around recommended practices rather than stated doctrines. There is moderate conceptual alignment and reasonable depth as the guidance translates to actionable rules, but the language is less formal. Audience and signal-to-noise are high due to targeted, practical advice. No penalties apply.",
+    "reasoning_summary": "Content recommends actionable practices (feature flags, fast feedback) aligned with Agile/DevOps tenets, though it doesn’t explicitly frame them as such. Fit is partial: core tenet themes are present but not formally named or detailed as doctrines.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "resourceId": "9EP_gF2nD19",
@@ -3342,5 +3342,24 @@
     "reasoning": "The content never directly mentions 'Agentic Engineering,' resulting in a low 'mentions' score. However, it aligns reasonably well with the category: it argues against traditional, rigid branching strategies that impede agency, emphasizes continuous delivery, faster feedback loops, and recommends progressive rollouts and observability—practices that maximize developer agency and support adaptive, feedback-driven engineering. The exploration isn't deep into theory but substantiates claims by linking branching strategy to systemic impact on team autonomy and feedback, and the intent is closely aligned—encouraging autonomy, empowerment, and improved engineering outcomes. The audience is technical, fitting the category. There’s strong focus, little noise, and no outdated or contradictory tone; penalties are not applicable.",
     "reasoning_summary": "The content advocates for branching and delivery strategies that empower developers and promote fast feedback, aligning closely with Agentic Engineering's themes on agency and adaptive practices, though it lacks explicit references to the category.",
     "level": "Secondary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "9EP_gF2nD19",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:08",
+    "ai_confidence": 21.36,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 2.5,
+    "ai_audience": 5.1,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses modern engineering practices (feature flags, progressive rollouts, and observability) that support fast software delivery, but there is no explicit or implicit discussion of autonomous AI agents, agentic principles, or human-AI synergy. The topic is narrowly focused on branching strategy and deployment mechanics, lacking any substantive alignment with or depth in the Agentic Software Delivery category. There are no outdated practices referenced or a contradicting tone, so no penalties apply. Audience fit is partial since it targets engineering teams, a plausible but not exclusive Agentic Software Delivery audience. Overall, the topic is related to accelerating software delivery but not to agentic or autonomous methods.",
+    "reasoning_summary": "This content focuses solely on code branching strategies and modern deployment (feature flags), with no discussion of AI agents or agentic delivery. It does not fit the Agentic Software Delivery category beyond very tangential tooling relevance.",
+    "level": "Ignored"
   }
 }

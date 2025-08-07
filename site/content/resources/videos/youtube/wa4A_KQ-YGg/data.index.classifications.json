@@ -1438,15 +1438,22 @@
     "level": "Secondary"
   },
   "One Engineering System": {
+    "resourceId": "wa4A_KQ-YGg",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:16:03",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive training courses related to Agile and Scrum, with no direct mention or discussion of the One Engineering System framework. While it touches on training methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to training formats and does not provide insights into the principles or impact of a unified engineering system.",
+    "calculated_at": "2025-08-07T06:11:38",
+    "ai_confidence": 9.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content describes immersive and flipped learning approaches for Agile training but does not mention 'One Engineering System' (1ES) or discuss any unification or standardisation of engineering tools or processes. None of the main themes (training format, educational strategy, or learning outcomes) aligns with the category's framework for integrated engineering systems. The primary audience is Agile practitioners, but the whole discussion is about improving training delivery and has no focus on 1ES principles, technical system integration, or methodology unification. There is no signal of relevance to 1ES except in the broadest sense that education touches engineering teams, but this indirectness does not meet the definition for inclusion.",
+    "reasoning_summary": "This content discusses immersive Agile training methods but does not mention or align with the One Engineering System framework, its principles, or defining topics. There is no relevant fit with the category's intent or themes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1948,6 +1955,25 @@
     "final_score": 35.0,
     "reasoning": "The content focuses on immersive training, flipped learning, and applying Agile concepts through interactive assignments. While it discusses themes like practitioner agency (by having learners apply knowledge in real settings), it does not reference or deeply explore core Agentic Engineering ideas—such as the deliberate design of engineering practices to maximize human and AI agency, or DevOps-infused craft. There are minor tangential connections in supporting individual autonomy in learning, but the emphasis is educational method rather than systemic engineering or agentic practice. No outdated or contradictory tone exists, so no penalties were applied.",
     "reasoning_summary": "The content introduces interactive and practical Agile training but focuses on educational methods rather than on the deliberate engineering of systems for human and AI agency. Relevant audience but limited alignment with Agentic Engineering.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "wa4A_KQ-YGg",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:29",
+    "ai_confidence": 13.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 2.2,
+    "ai_audience": 1.5,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on immersive Agile training, flipped learning, real-world assignments, and interactive sessions, without any explicit or implicit mention of autonomous AI agents, contextual intelligence, or agentic delivery frameworks. The primary theme is educational approach enhancement for Agile, not software delivery optimization via agentic methods or agent-human synergy in delivery systems. None of the content's examples or goals addresses technological, architectural, or agentic transformation of delivery models. The target audience is Agile practitioners interested in learning formats rather than agentic system implementers. There is minimal accidental overlap in transformative or outcome-driven concepts but irrelevant to the category’s agentic focus.",
+    "reasoning_summary": "This content describes immersive Agile training methods but does not address agentic software delivery, AI agents, or related methodologies. Its focus is education, not delivery strategies, so it does not fit the assigned category.",
     "level": "Ignored"
   }
 }

@@ -1425,15 +1425,22 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
+    "resourceId": "qWHCBUwpOZk",
     "category": "Shift Left Strategy",
-    "calculated_at": "2025-03-17T15:46:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on improving workflow within a Kanban strategy, discussing practices such as identifying blockages and reducing waiting times. While these practices may indirectly relate to efficiency in software development, they do not explicitly address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance. The discussion lacks direct mentions of Shift-Left principles, and the depth of content does not explore the core themes associated with the category.",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 18.32,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 2.5,
+    "ai_audience": 4.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Kanban workflow improvements such as identifying blockages, reducing waiting times, and visualizing costs. While these practices are relevant to value delivery and process improvement, they do not directly or explicitly discuss Shift Left Strategy. There is no mention of integrating testing, security, compliance, or proactive issue detection earlier in the software lifecycle. The main themes remain within Kanban's operational improvement domain, not shift-left-specific techniques or philosophies. The intent is to improve process efficiency but not by moving critical processes earlier, which is central to Shift Left. The audience might overlap (process improvers), but the topic fit is weak.",
+    "reasoning_summary": "Content is about Kanban workflow improvement and does not address Shift Left Strategy or moving testing/security earlier in development. Fit to category is weak and not direct; little to no conceptual or thematic overlap.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
@@ -1990,5 +1997,24 @@
     "reasoning": "The content discusses Kanban workflow improvement, emphasizing value flow, workflow visualization, and stakeholder involvement. While some conceptual overlap exists with Agentic Engineering (continuous improvement and empowering teams), there are no explicit mentions of agency, autonomy, or AI integration. Depth is limited to practical Kanban examples, omitting references to ethical autonomy, developer agency, or DevOps-infused craft. The primary intent is pragmatic process improvement rather than exploring the philosophical or structural aspects of maximizing human/AI agency. The audience is technical and process-focused, partially overlapping but not specifically targeted at Agentic Engineering proponents. The content remains highly relevant to improving workflows but is only tangentially related to Agentic Engineering.",
     "reasoning_summary": "The content aligns with Agentic Engineering in its focus on workflow improvement and team empowerment, but it lacks explicit discussion of agency, AI collaboration, or ethical autonomy. It is practical, not philosophical, making its fit with the category limited and mostly indirect.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "qWHCBUwpOZk",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:55",
+    "ai_confidence": 10.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused on improving Kanban workflows using human practices and visualization. There is no mention of autonomous AI agents, contextual intelligence, or the integration of agentic capabilities. All techniques described are manual, process-driven, and centered on stakeholder engagement, process visualization, and classic Kanban optimization. The audience is closely aligned (process and delivery practitioners) but core topics required for Agentic Software Delivery—such as autonomous agents, human-in-the-loop AI, or agent-supported delivery—are missing. The signal-to-noise ratio is moderate since all content is process-improvement-focused but none relates to the agentic paradigm.",
+    "reasoning_summary": "This content focuses on human-driven Kanban workflow improvements. It lacks references to AI agents, automation, or agentic software delivery concepts, and thus does not fit the Agentic Software Delivery category.",
+    "level": "Ignored"
   }
 }

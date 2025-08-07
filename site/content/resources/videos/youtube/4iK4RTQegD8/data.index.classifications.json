@@ -20,20 +20,21 @@
   "DevOps": {
     "resourceId": "4iK4RTQegD8",
     "category": "DevOps",
-    "calculated_at": "2025-05-07T18:55:02",
-    "ai_confidence": 74.6,
-    "ai_mentions": 6.7,
-    "ai_alignment": 8.2,
-    "ai_depth": 7.8,
-    "ai_intent": 7.5,
-    "ai_audience": 8.0,
-    "ai_signal": 7.3,
+    "calculated_at": "2025-08-07T06:10:04",
+    "ai_confidence": 37.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.0,
+    "ai_depth": 3.7,
+    "ai_intent": 3.5,
+    "ai_audience": 7.2,
+    "ai_signal": 7.8,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 75.0,
-    "reasoning": "The content directly references DevOps as a key part of its modernisation strategy and targets technical leaders, aligning well with the category. However, DevOps is presented alongside other approaches, and the discussion is more promotional than deeply analytical. The focus is relevant but not exclusively or deeply centred on DevOps principles.",
-    "level": "Secondary"
+    "final_score": 37.0,
+    "reasoning": "The content discusses modernising legacy systems with a focus on incremental change, process bottlenecks, and flow of work. These themes partially align with DevOps principles such as process optimisation and a holistic approach, but DevOps is never mentioned directly, and the discussion never addresses key DevOps concepts like automation, collaboration across dev/ops teams, or cultural shifts. The main intent is not explicit DevOps advocacy but general strategy for legacy systems. The audience is relevant, and the focus is high, but the lack of direct references, full conceptual alignment, and depth into DevOps-specific practices limits confidence substantially.",
+    "reasoning_summary": "Partial fit: The content overlaps with DevOps ideas (process, incremental change, flow), but never addresses DevOps explicitly or deeply. Its focus is general legacy modernisation, not a direct or thorough DevOps discussion.",
+    "level": "Ignored"
   },
   "Product Management": {
     "resourceId": "4iK4RTQegD8",
@@ -3189,5 +3190,24 @@
     "reasoning": "Direct references to 'Agentic Engineering' or its terminology are minimal; the term is never used, and discussion is high-level. Conceptually, the content lightly aligns by focusing on understanding systemic bottlenecks, incremental change, and empowering teams. However, it treats these in a general transformation context—not as deliberate engineering for maximising agency (human or AI), not specific DevOps/AI/ethics touchpoints, and no frameworks for decentralised decision-making. It's aimed at practitioners dealing with legacy systems and indirectly supports agency (control over change), but lacks depth about intentional design of socio-technical systems or agentic practices per se. Audience and focus are relatively relevant, but content does not advance philosophical or engineered agency principles. No penalties were applied as the advice is modern and the tone is neutral-positive throughout.",
     "reasoning_summary": "While the content values incremental, human-centric change and process insight in legacy modernisation, it only tangentially aligns with Agentic Engineering. It lacks explicit attention to engineering for agency or integration of advanced DevOps or AI-augmented practices essential to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4iK4RTQegD8",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:16",
+    "ai_confidence": 16.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 6.6,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content extensively discusses legacy system modernization strategy, focusing on organizational processes, incremental change, and automation. However, it never mentions or meaningfully explores agentic principles, AI agents, or proactive intelligence in software delivery. Key topics such as the role of agency, synergy with human experts, contextual intelligence, governance frameworks for AI agents, or agent-driven delivery techniques are absent. The content’s intent is aligned with business-driven modernization, but without any explicit or implicit reference to agentic software delivery concepts, frameworks, or practices. Its audience (leaders and decision-makers) is somewhat aligned but the content fails to bridge into agentic delivery or AI-augmented practices.",
+    "reasoning_summary": "This content addresses legacy system modernization strategies, not agentic software delivery or AI agents. There's no discussion of autonomous AI, contextual intelligence, or agent-based practices—so alignment with the category is low.",
+    "level": "Ignored"
   }
 }

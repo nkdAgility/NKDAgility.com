@@ -490,15 +490,22 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "VBf7KL90jRm",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T14:45:02",
-    "ai_confidence": 85.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 30,
-    "final_score": 85.0,
-    "reasoning": "The content explicitly discusses empirical process control within the context of Scrum, highlighting the key principles of transparency, inspection, and adaptation. It aligns well with the core themes of the category, providing a solid overview of how these principles are applied in practice. However, while it covers the essential aspects, it lacks detailed examples or case studies that would enhance the depth of discussion.",
+    "calculated_at": "2025-08-07T06:10:49",
+    "ai_confidence": 89.7,
+    "ai_mentions": 9.2,
+    "ai_alignment": 9.6,
+    "ai_depth": 8.7,
+    "ai_intent": 9.0,
+    "ai_audience": 8.7,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content directly and repeatedly mentions 'Empirical Process Control,' and thoroughly defines its main principles: transparency, inspection, and adaptation in Scrum. The alignment with the category is very high, as it centers on agile concepts and intended audiences (practitioners, teams). Depth is strong, giving clear connections between theory and practice, though it doesn't provide a deep multi-paragraph analysis or case studies. The purpose is precisely to inform about empirical process control, with little tangential content or noise. All six scores reflect this close fit, and there are no signals for penalty.",
+    "reasoning_summary": "This content is directly and tightly aligned with 'Empirical Process Control,' discussing its key principles and Agile context, with little irrelevant material. The fit is strong but not exhaustive or deeply detailed.",
     "level": "Primary"
   },
   "Product Validation": {
@@ -1951,5 +1958,24 @@
     "reasoning": "The content discusses Empirical Process Control using Scrum as an example, focusing on transparency, inspection, and adaptation. While these ideas resonate with feedback-driven adaptation and some philosophical underpinnings of Agentic Engineering, the content does not explicitly mention agentic principles, developer or AI agency, DevOps-specific practices, or ethical considerations. Its main focus is on Scrum's empirical nature, not on maximizing human or AI agency through engineered practices. The audience is likely practitioners interested in process improvement, partially overlapping with Agentic Engineering's audience but lacking advanced or systemic considerations.",
     "reasoning_summary": "The content partially aligns with Agentic Engineering by highlighting transparency, inspection, and adaptation, yet lacks explicit discussion of agency, DevOps practices, or AI integration. Its focus remains on general Scrum process control rather than agentic design principles.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "VBf7KL90jRm",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:45",
+    "ai_confidence": 12.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.05,
+    "ai_intent": 1.4,
+    "ai_audience": 7.3,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is entirely focused on empirical process control in Scrum—transparency, inspection, adaptation—but does not mention autonomous AI agents, contextual intelligence, or agentic practices. Its themes align with traditional Scrum, not agentic delivery. No outdated/contradictory elements present. High audience and signal scores reflect relevance to delivery practitioners but main topics are not a fit for agentic delivery.",
+    "reasoning_summary": "Content discusses Scrum's empirical process control, focusing on transparency, inspection, and adaptation, but does not mention autonomous agents, contextual intelligence, or agentic principles. Fit with Agentic Software Delivery is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

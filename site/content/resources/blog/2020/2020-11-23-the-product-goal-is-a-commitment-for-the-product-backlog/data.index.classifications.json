@@ -915,13 +915,23 @@
     "level": "Ignored"
   },
   "Transparency": {
+    "resourceId": "sVDzuTFDLSJ",
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which is related to transparency in terms of providing focus and clarity for the Scrum Team. However, the primary focus is on the Product Goal itself rather than a broader discussion on transparency as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T06:11:46",
+    "ai_confidence": 77.65,
+    "ai_mentions": 8.4,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 8.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content directly mentions transparency as a function of the Product Goal, specifically stating its role in ensuring transparency and focus. However, the main focus is on defining and implementing Product Goal as a Scrum commitment, with only a brief, explicit tie-in to transparency. Conceptually, it aligns well (highlighting visibility, shared understanding, and openness), but the in-depth discussion centers around the mechanics of Product Goal, not how transparency is fostered. There is no critique or outdated advice, and the intended audience (Scrum teams/practitioners) aligns well. Most of the content signal remains relevant to transparency, though it leans toward Product Goal mechanics.",
+    "reasoning_summary": "Transparency is acknowledged and linked to Product Goal, but the primary focus is on Product Goal definition and examples, with transparency as a related benefit, not a deep dive. Partial but solid fit.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -2004,6 +2014,25 @@
     "final_score": 22.0,
     "reasoning": "The content is focused on the Scrum Product Goal as defined in the 2020 Scrum Guide. While it addresses the importance of having clear, measurable objectives to drive team focus and value, it does not explicitly reference Agentic Engineering or its key principles such as maximising human and AI agency, systemic observability, DevOps ethos, or ethical integration of intelligent systems. The discussion is operational and managerial, not philosophical or systemic in the sense required by Agentic Engineering. No direct or indirect references connect the Product Goal to decentralised decision-making, empirical feedback loops, or engineering practices oriented toward autonomy and agency. The intended audience overlaps (Scrum practitioners and software professionals), but the thematic and conceptual fit falls short.",
     "reasoning_summary": "This content explains the Scrum Product Goal and its use in guiding software teams towards clear objectives. It lacks any discussion of agency, DevOps practices, or AI integration, and does not align with Agentic Engineering's concepts. Overall, it is only tangentially relevant.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:45",
+    "ai_confidence": 7.05,
+    "ai_mentions": 0.05,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.15,
+    "ai_intent": 2.0,
+    "ai_audience": 1.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses solely on the definition and use of Product Goal in the Scrum framework, with no references—explicit or implied—to agentic software delivery, AI agents, contextual intelligence, or the integration of autonomous systems and human expertise. The discussion centers on agile team practices and guidance for clear, strategic objectives, which is valuable but unrelated to the integration of agentic principles. No key terminology, concepts, or themes match those required for the category. No penalties were applied since the content is not outdated or critical in tone.",
+    "reasoning_summary": "The content discusses Product Goal in Scrum, not agentic software delivery or AI agent integration. There's no conceptual overlap or intent match with the category, so fit is minimal.",
     "level": "Ignored"
   }
 }

@@ -75,15 +75,22 @@
     "level": "Ignored"
   },
   "DevOps": {
+    "resourceId": "xOcL_hqf1SM",
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:23:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Agile coaching, discussing frameworks like Scrum and Kanban, which are methodologies rather than DevOps principles. While there is a brief mention of DevOps in the conclusion, it is not a primary focus. The discussion lacks depth in DevOps concepts such as automation, shared accountability, or continuous improvement, which are central to the DevOps philosophy.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 19.6,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.6,
+    "ai_intent": 2.3,
+    "ai_audience": 5.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses overwhelmingly on Agile coaching, frameworks like Scrum and Kanban, and skills for Agile leaders. DevOps is only mentioned once in a closing call to engage in discussion, without explanation or exploration of its principles, practices, or culture. No DevOps-specific topics such as automation, flow, feedback loops, or cross-functional collaboration are covered. The intent, alignment, and depth are not sufficient for inclusion in the DevOps category, as the mention is peripheral and not substantive.",
+    "reasoning_summary": "DevOps is mentioned only superficially; the content is centered fully on Agile coaching, not on DevOps principles or practices. Thus, the fit is weak and limited to a passing reference.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1963,6 +1970,25 @@
     "final_score": 32.0,
     "reasoning": "This content centers on essential knowledge for Agile coaches, focusing on frameworks (Scrum, Kanban, Lean), technical skills, and reflective practice. While continuous learning and adaptation are emphasized, there is no direct mention or detailed discussion of Agentic Engineering, developer/AI agency, systemic observability, or the philosophical underpinnings of agentic practices. The discussion remains high-level and practical for Agile coaching without delving into design of engineering systems for agency or explicitly referencing decentralised decision-making, ethical AI collaboration, or feedback-driven engineering. The audience, tone, and some references to continuous delivery and DevOps do align somewhat, but conceptual fit and depth are limited.",
     "reasoning_summary": "The content offers practical guidance for Agile coaches on frameworks, principles, and continuous learning. While related to adaptive environments and improvement, it does not engage directly with Agentic Engineering's core themes or philosophy, resulting in low conceptual alignment and confidence for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "xOcL_hqf1SM",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:10",
+    "ai_confidence": 9.782,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on knowledge areas for Agile coaches, such as frameworks (Scrum, Kanban, Lean), technical expertise, and continuous learning. There are no explicit or implicit references to Agentic Software Delivery, AI agents, contextual intelligence, or their integration with human expertise. The discussion remains at the level of traditional Agile coaching principles and technical knowledge, with no mention of autonomy, agency, governance frameworks for agents, or modern agentic delivery practices. The closest fit is the generic mention of DevOps and technical skills, but these are not discussed in an agentic or AI-integrated context. Audience is adjacent (Agile practitioners), but the substance and purpose are unrelated to the category definition.",
+    "reasoning_summary": "This post is about traditional Agile coaching and skills—not Agentic Software Delivery. It does not mention AI agents, autonomy, or contextual intelligence, making its relevance to the assigned category extremely low.",
     "level": "Ignored"
   }
 }

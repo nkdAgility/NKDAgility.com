@@ -98,15 +98,22 @@
     "level": "Ignored"
   },
   "Observability": {
+    "resourceId": "Modern Source Control",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 11.75,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 6.8,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on version control and branching strategies in software development, which are not directly related to observability. While it touches on themes of collaboration and accountability, it lacks explicit discussions on metrics, logs, traces, or tools that enhance observability. The content does not delve into the principles or best practices of observability, nor does it address its impact on team performance or product quality.",
+    "reasoning": "The content focuses on source control, versioning, and branching, which are foundational to software development but do not directly address observability as defined—no mentions of metrics, logs, traces, or the understanding of system states. There are tangential themes, like transparency or accountability, but the intent and main substance are unrelated to observability in the context of Agile/DevOps. The audience overlaps, as technical practitioners in software teams may care about both topics, and the content is highly signal-focused for its stated theme, but lacks alignment, mention, or depth with respect to observability.",
+    "reasoning_summary": "The content centers on source control and branching strategies, with no substantive link to observability topics, intent, or principles; fit for the observability category is minimal and mostly incidental.",
     "level": "Ignored"
   },
   "Capability": {
@@ -3118,6 +3125,25 @@
     "final_score": 2.0,
     "reasoning": "The content focuses exclusively on best practices for modern source control, including version control systems, branching strategies, and their impact on collaboration and CI/CD. There are no explicit or implicit references to OKRs, their structure, strategic alignment, measurement principles, or integration within agility frameworks. No mention is made of John Doerr, outcome-based objectives, or related theory. The main alignment is that both topics might be of interest to technical or agile teams, but the content remains wholly outside the OKR domain as defined.",
     "reasoning_summary": "This content is about version control and branching in software development, with no connection to OKRs. There are no explicit mentions, structural alignment, or discussion of outcome-based measurement. The subject and intent do not fit the OKR category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "Modern Source Control",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:12:03",
+    "ai_confidence": 24.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 3.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content addresses modern source control, version control, and branching strategies—important in software delivery practices, but it does not mention agentic principles, AI agents, contextual intelligence, or agent/human synergy. While CI/CD and feedback loops are referenced, these are not explicitly linked to the integration of autonomous agents, governance frameworks, or proactive intelligence as stipulated in the category definition. The content focuses on best practices for managing code rather than embedding autonomous agency or AI support in delivery. The audience partially overlaps (practitioners in software delivery), but the core topic remains outside the intended category scope.",
+    "reasoning_summary": "This content covers software delivery best practices in source control and CI/CD, but does not discuss agentic principles, AI agents, or contextual intelligence. It aligns only tangentially with the Agentic Software Delivery category.",
     "level": "Ignored"
   }
 }

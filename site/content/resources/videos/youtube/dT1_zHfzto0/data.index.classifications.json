@@ -400,15 +400,22 @@
     "level": "Ignored"
   },
   "Test First Development": {
+    "resourceId": "dT1_zHfzto0",
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:30:55",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Scrum adoption and the challenges organisations face, without any direct mention or exploration of Test First Development principles. While it touches on agile methodologies, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
+    "calculated_at": "2025-08-07T06:11:12",
+    "ai_confidence": 6.74,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.9,
+    "ai_intent": 0.9,
+    "ai_audience": 0.8,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on organisational challenges in Scrum adoption, holistic change, and agile mindset but does not mention Test First Development or its core principles such as defining success criteria before implementation, TDD, ATDD, or test first collaboration. Direct mention and thematic overlap with Test First are negligible, and any possible connection (e.g., quality, cadence, customer focus) is indirect and not explored in the Test First context. The intended audience may overlap with those interested in Test First practices, but the discussion is not about testing approaches or their integration in Scrum or organisational change.",
+    "reasoning_summary": "Content is about organisational Scrum adoption and the agile mindset, not Test First Development. No mention or clear alignment with Test First principles or practices. Fit is minimal, with only a tangential possible audience overlap.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1973,6 +1980,25 @@
     "final_score": 33.0,
     "reasoning": "The content critiques organisational Scrum adoption failures and emphasises the importance of holistic change, agile mindset, and management buy-in. While themes such as continuous improvement and organisational agility relate tangentially to Agentic Engineering, there is no direct discussion of maximizing human or AI agency, nor explicit reference to observability, DevOps-infused craft, or ethical AI. The content focuses on transformation success factors at the organisational level, but only weakly overlaps with the defining facets of Agentic Engineering. No penalties were applied as there is no obsolete content or contradictory tone.",
     "reasoning_summary": "This content addresses organisational transformation in Scrum and advocates for mindset and holistic change, but only touches the edges of Agentic Engineering. It doesn't engage with maximising human or AI agency or specialised engineering practices central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "dT1_zHfzto0",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:11:14",
+    "ai_confidence": 13.05,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 3.55,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses heavily on challenges of Scrum adoption, emphasizing holistic organizational change and agile mindset, but does not reference autonomous AI agents, contextual intelligence, or modern agentic practices. None of the discussed improvements involve AI agents, agentic delivery systems, or governance of autonomous tools. The audience (practitioners/managers) partially overlaps, but the topic is squarely about classic Scrum transformation, not about embedding context-aware intelligence or autonomous agency into delivery. There are no direct mentions or implied coverage of Agentic Software Delivery's core topics such as AI agents, telemetry-driven refinement, or human-in-the-loop AI. The signal is moderately focused, but not relevant to the category.",
+    "reasoning_summary": "Content is about Scrum adoption and organizational change, not Agentic Software Delivery. No discussion of AI agents or agentic principles; fit is minimal and almost entirely indirect.",
     "level": "Ignored"
   }
 }

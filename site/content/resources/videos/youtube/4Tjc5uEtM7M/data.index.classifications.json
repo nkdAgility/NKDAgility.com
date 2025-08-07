@@ -788,15 +788,22 @@
     "level": "Secondary"
   },
   "Evidence Based Management": {
+    "resourceId": "4Tjc5uEtM7M",
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:58:22",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the practical aspects of migrating to Azure DevOps, discussing challenges, expertise, and tools without any explicit mention of Evidence-Based Management principles or metrics. While it touches on the need for expertise and planning, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence in management practices.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 13.23,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 1.2,
+    "ai_audience": 3.7,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on the practical and tactical aspects of migrating to Azure DevOps, including challenges, skill gaps, and the value of hiring experts. There is no explicit or implicit discussion of evidence-based management, empirical measurement, or strategic use of data/metrics in making management decisions. The content primarily targets technical teams and managers facing migration, with the purpose of providing advice and promoting expertise. Only minimal conceptual overlap exists if one considers that empirical observation informs advice, but this does not extend to any formal or direct EBM themes like outcome metrics, value delivery, or data-driven management frameworks.",
+    "reasoning_summary": "Content does not discuss evidence-based management or data-informed decision making; focus is on technical migration strategy and expertise. No alignment with category intent or themes. Fit is poor and only incidental at best.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1937,6 +1944,25 @@
     "final_score": 22.0,
     "reasoning": "The content focuses on Azure DevOps migration strategies, emphasizing expertise, tooling, and problem-solving in specific technical scenarios. There is minimal to no mention of agentic engineering concepts: developer agency, agency-maximizing practices, ethical AI, or decentralised decision-making. While internal empowerment is touched on (e.g., training teams), this is not developed within the philosophical or systemic agency framework of Agentic Engineering. Core discussion revolves around migration tactics and expert consultancy, not the deliberate design of work systems or the maximization of human/AI agency as described in Agentic Engineering.",
     "reasoning_summary": "This content is focused on practical Azure DevOps migration with emphasis on technical complexity and external expertise, offering little conceptual or explicit connection to Agentic Engineering themes of agency, systemic practices, or AI integration.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "4Tjc5uEtM7M",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 13.88,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on best practices, complexities, and the need for expertise in migrating to Azure DevOps. It discusses tool use and migration strategy but never mentions autonomous AI agents, agency, contextual intelligence, or agentic principles. There is no reference to human-AI teaming, modern agentic delivery practices, or AI-powered automation. The intent is instructive but entirely within the scope of traditional migration and DevOps skill transfer, not Agentic Software Delivery. Audience (technical practitioners) partially overlaps, but only tangentially.",
+    "reasoning_summary": "This content addresses Azure DevOps migration using traditional methods and expert consultancy. It lacks any discussion of autonomous AI agents, agentic delivery, or the integration of contextual intelligence—so only fits the category in the broadest technical sense.",
     "level": "Ignored"
   }
 }

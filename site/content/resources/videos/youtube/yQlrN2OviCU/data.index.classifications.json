@@ -1434,15 +1434,22 @@
     "reasoning_summary": "This content is a strong fit for the competence category, as it explores how peer feedback and immersive learning contribute to skill development in Scrum. By emphasising continuous improvement and collaboration, it reflects core Agile values. While it could more directly reference competence as a principle, the focus on practical growth and learning clearly supports the category."
   },
   "One Engineering System": {
+    "resourceId": "yQlrN2OviCU",
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:48:50",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which does not align with the core principles of the One Engineering System. While it discusses aspects of collaboration and learning, it does not address the integration of tools, processes, or methodologies specific to 1ES. The mention of Scrum is secondary and does not contribute to a discussion on standardising engineering practices.",
+    "calculated_at": "2025-08-07T06:10:48",
+    "ai_confidence": 13.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 2.5,
+    "ai_audience": 3.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused exclusively on peer feedback in immersive Scrum and Agile training—not on the One Engineering System (1ES). There are no direct or indirect mentions of 1ES principles, tools, integration standards, or frameworks. Although collaboration and continuous improvement are touched on, they are in the general sense of Agile/Scrum learning environments, not as part of any unified or standardized cross-team engineering system. No discussion of system-level tool/process integration, 1ES implementation, or comparison to similar frameworks is present. The content’s intent is educational for Scrum practitioners and trainers, not those seeking insight into comprehensive engineering process integration. While the audience may incidentally overlap (Agile engineers), the topic and themes do not align with 1ES, and the signal is nearly entirely off-topic for this category.",
+    "reasoning_summary": "Content focuses on immersive learning and peer feedback in Scrum—no discussion of One Engineering System, integration, or unified engineering frameworks. Main themes, intent, and depth are unrelated to 1ES. Only weak, tangential alignment at most.",
     "level": "Ignored"
   },
   "Agentic Agility": {
@@ -1947,6 +1954,25 @@
     "final_score": 38.0,
     "reasoning": "The content is focused on immersive learning and peer feedback in Scrum training, with an emphasis on autonomy, self-management, and continuous improvement. While these themes are conceptually adjacent to Agentic Engineering (specifically, developer agency and feedback-driven adaptation), the article does not explicitly address the deliberate design of engineering practices, systemic observability, DevOps, or ethical AI integration. There is no mention of agentic frameworks, automation, or combining human and intelligent system agency, and no direct or indirect reference to Agentic Engineering by name. The primary audience overlaps to a degree (Scrum practitioners), and signal is reasonably high, but the content remains primarily about feedback's role in agile learning, not on maximising agency within engineered systems.",
     "reasoning_summary": "While the content aligns with some aspects of agentic thinking—such as autonomy and feedback—it lacks substantive discussion of engineering principles, system design, or human/AI agency central to Agentic Engineering. Its focus is on peer learning, making strong alignment partial at best.",
+    "level": "Ignored"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "yQlrN2OviCU",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T06:10:51",
+    "ai_confidence": 7.522,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 0.5,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively discusses peer feedback within immersive Scrum and Agile training. It centers on human processes, continuous improvement, and learning, with no mention or discussion of autonomous AI agents, agentic intelligence, agent/human synergy, or enabling technologies (e.g., CI/CD, telemetry, governance frameworks). There are no references to embedding AI, context-aware systems, nor any of the core concepts or terminology tied to Agentic Software Delivery. Even modern engineering practices supporting agentic delivery are absent. Content intent, audience, and focus are firmly within Scrum/agile experiential learning, not agent-enabled delivery.",
+    "reasoning_summary": "Content focuses only on peer feedback in Agile/Scrum training, lacking any discussion of agentic software delivery, autonomous agents, or AI integration—there is no fit to the assigned category.",
     "level": "Ignored"
   }
 }
