@@ -2,8 +2,14 @@
 title: Why a Shared Definition of Done Is the Secret to Consistent, Predictable Quality in Agile Teams
 short_title: Shared Definition of Done in Agile Teams
 description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams—and stakeholders—can trust.
+tldr: When teams lack a shared definition of done, quality and predictability suffer, leading to confusion, hidden risks, and technical debt. Aligning on a clear, organisation-wide standard ensures consistent delivery, builds trust, and reduces production risks. Development managers should prioritise creating and enforcing a common definition of done to achieve reliable outcomes and true agility.
 date: 2025-05-14T07:00:00Z
-weight: 145
+lastmod: 2025-05-14T07:00:00Z
+weight: 75
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: n-id2x9wLhg
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,45 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
 aliases:
-- /resources/n-id2x9wLhg
-- /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams-n-id2x9wLhg
-- /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
-- /resources/videos/2-why-every-team-needs-a-shared-definition-of-done
+  - /resources/n-id2x9wLhg
+  - /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams-n-id2x9wLhg
+  - /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
+  - /resources/videos/2-why-every-team-needs-a-shared-definition-of-done
 aliasesArchive:
-- /resources/videos/2-why-every-team-needs-a-shared-definition-of-done
-- 2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
-- /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
-- why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams-n-id2x9wLhg
+  - /resources/videos/2-why-every-team-needs-a-shared-definition-of-done
+  - 2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
+  - /resources/videos/why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
+  - why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams-n-id2x9wLhg
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
-- Scrum
+  - Engineering Excellence
+  - Product Development
+  - Technical Leadership
 tags:
-- Software Development
-- Definition of Done
-- Product Delivery
-- Team Collaboration
-- Operational Practices
-- Value Delivery
-- Team Performance
-- Technical Mastery
-- Social Technologies
-- Pragmatic Thinking
-- Engineering Practices
+  - Software Development
+  - Definition of Done
+  - Product Delivery
+  - Team Collaboration
+  - Operational Practices
+  - Value Delivery
+  - Team Performance
+  - Technical Mastery
+  - Social Technologies
+  - Pragmatic Thinking
+  - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:51:36Z
   short_title: 2025-07-07T16:44:14Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:32:22Z
 videoId: n-id2x9wLhg
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/n-id2x9wLhg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCTOi3CWzlfYYWF1R5o931XWnSN9A
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

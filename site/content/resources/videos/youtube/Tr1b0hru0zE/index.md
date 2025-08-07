@@ -2,8 +2,14 @@
 title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over'
 short_title: DevOps for Modernising Legacy Systems
 description: Unlock legacy system agility—discover how DevOps transforms slow, brittle tech into fast, scalable, and change-ready platforms without starting from scratch.
+tldr: DevOps enables organisations to modernise legacy systems without starting from scratch by introducing automation, continuous integration and deployment, and observability, which make change safer and more routine. These practices reduce bottlenecks, lower the cost of change, and help teams deliver improvements continuously. Development managers should focus on identifying friction points and adopting DevOps practices to make ongoing system improvements achievable and sustainable.
 date: 2025-06-02T06:00:00Z
-weight: 190
+lastmod: 2025-06-02T06:00:00Z
+weight: 210
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: Tr1b0hru0zE
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 aliases:
-- /resources/Tr1b0hru0zE
-- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
-- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
+  - /resources/Tr1b0hru0zE
+  - /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+  - /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
 aliasesArchive:
-- /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
-- 9-the-role-of-devops-in-legacy-system-modernization
-- /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
-- devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+  - /resources/videos/9-the-role-of-devops-in-legacy-system-modernization
+  - 9-the-role-of-devops-in-legacy-system-modernization
+  - /resources/videos/devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
+  - devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Software Development
-- Operational Practices
-- Engineering Practices
-- Pragmatic Thinking
-- Technical Mastery
-- Product Delivery
-- Digital Transformation
-- Market Adaptability
+  - Software Development
+  - Operational Practices
+  - Engineering Practices
+  - Pragmatic Thinking
+  - Technical Mastery
+  - Product Delivery
+  - Digital Transformation
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T20:13:52Z
   short_title: 2025-07-07T16:43:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:29:01Z
 videoId: Tr1b0hru0zE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Tr1b0hru0zE/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLAVn8ga5Jcn-LD4KMP6U1PeYvlUiQ
 duration: 85
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

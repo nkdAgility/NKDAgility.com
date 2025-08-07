@@ -1,36 +1,43 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
+short_title: Visual Studio ALM, TFS, and Scrum Expertise
 description: Expert consulting and onsite training available in Visual Studio ALM, TFS, and Scrum, including project migration, course delivery, and backlog-driven engagements worldwide.
+tldr: An experienced consultant and trainer in Visual Studio ALM, TFS, and Scrum is unexpectedly available for onsite engagements in February due to a client postponement. He offers flexible, value-focused training and consulting for development teams, with rapid setup and a proven track record across Europe and the USA. If you need expert support in these areas next month, consider reaching out to fill this short-term availability.
+date: 2015-01-21
+lastmod: 2015-01-21
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: za3YB57XYl0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11120
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-01-21
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: need-expert-visual-studio-alm-tfs-scrum
+slug: do-you-need-an-expert-in-visual-studio-alm-tfs-or-scrum
 aliases:
-- /resources/za3YB57XYl0
+  - /resources/za3YB57XYl0
 aliasesArchive:
-- /blog/need-expert-visual-studio-alm-tfs-scrum
-- /need-expert-visual-studio-alm-tfs-scrum
-- /do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
-- /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
-- /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
-- /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
-- /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-tags: []
+  - /blog/need-expert-visual-studio-alm-tfs-scrum
+  - /need-expert-visual-studio-alm-tfs-scrum
+  - /do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
+  - /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
+  - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
+  - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
+  - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-260-5-5.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:20:12Z
-concepts: []
+  tldr: 2025-08-07T13:25:49Z
+  short_title: 2025-08-07T13:25:49Z
+ResourceImportId: 11120
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-260-5-5.png
 
 ---
 Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!

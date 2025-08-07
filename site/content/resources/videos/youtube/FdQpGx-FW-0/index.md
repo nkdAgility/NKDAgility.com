@@ -2,8 +2,14 @@
 title: 7 harbingers of the Agile apocalypse - Judgement
 short_title: 'Judgment in Agile: Rigid vs. Principle-Driven'
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
+tldr: Rigid, judgmental application of Agile frameworks stifles creativity and innovation, turning teams into rule-followers instead of problem-solvers. True agility comes from empowering teams with autonomy, transparency, and principles rather than enforcing one-size-fits-all rules. Development managers should focus on fostering a culture of openness and continuous learning, allowing teams to adapt practices to their unique needs.
 date: 2023-10-20T11:00:13Z
+lastmod: 2023-10-20T11:00:13Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: FdQpGx-FW-0
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-harbingers-of-the-agile-apocalypse-judgement
 aliases:
-- /resources/FdQpGx-FW-0
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/judgement-7-harbingers-agile-apocalypse
+  - /resources/FdQpGx-FW-0
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+  - /resources/videos/judgement-7-harbingers-agile-apocalypse
 aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/judgement!-7-harbingers-agile-apocalypse
-- /resources/judgement!-7-harbingers-agile-apocalypse
-- /resources/videos/judgement-7-harbingers-agile-apocalypse
-- 7-harbingers-of-the-agile-apocalypse-judgement
+  - /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+  - /resources/7-harbingers-of-the-agile-apocalypse-judgement
+  - /resources/videos/judgement!-7-harbingers-agile-apocalypse
+  - /resources/judgement!-7-harbingers-agile-apocalypse
+  - /resources/videos/judgement-7-harbingers-agile-apocalypse
+  - 7-harbingers-of-the-agile-apocalypse-judgement
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agnostic Agile
-- Agile Transformation
-- Software Development
-- Agile Philosophy
-- Agile Values and Principles
-- Business Agility
-- Pragmatic Thinking
-- Organisational Agility
-- Beta Codex
+  - Agnostic Agile
+  - Agile Transformation
+  - Software Development
+  - Agile Philosophy
+  - Agile Values and Principles
+  - Business Agility
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Change Management
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:08:33Z
   short_title: 2025-07-07T17:52:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:06Z
 videoId: FdQpGx-FW-0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
 duration: 535
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

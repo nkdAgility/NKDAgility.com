@@ -1,40 +1,47 @@
 ---
 title: 'Big Scrum: All you need and not enough'
+short_title: 'Big Scrum: Scaling Agile for Large Teams'
 description: Explores how to scale Scrum effectively by applying agile values, fostering professional teams, and adapting processes to fit unique organisational needs for large-scale agility.
+tldr: Scaling Scrum requires truly professional teams who embody agile values and strong engineering practices, not just following processes superficially. Off-the-shelf frameworks do not fit every organization, so adapting Scrum to your unique context is essential. Focus on building skilled teams, fostering effective communication, and adopting only the practices that support your specific scaling needs.
 date: 2015-07-01
+lastmod: 2015-07-01
 weight: 305
-slug: big-scrum-all-you-need-and-not-enough
-aliases:
-- /resources/yCJ5ERuJHUU
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: yCJ5ERuJHUU
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImportId: 11361
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
+slug: big-scrum-all-you-need-and-not-enough
+aliases:
+  - /resources/yCJ5ERuJHUU
 aliasesArchive:
-- /blog/big-scrum-all-you-need-and-not-enough
-- /big-scrum-all-you-need-and-not-enough
-- /big-scrum--all-you-need-and-not-enough
-- /blog/big-scrum--all-you-need-and-not-enough
-- /resources/blog/big-scrum-all-you-need-and-not-enough
+  - /blog/big-scrum-all-you-need-and-not-enough
+  - /big-scrum-all-you-need-and-not-enough
+  - /big-scrum--all-you-need-and-not-enough
+  - /blog/big-scrum--all-you-need-and-not-enough
+  - /resources/blog/big-scrum-all-you-need-and-not-enough
+layout: blog
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
-- Scaling
-- Professional Scrum
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Transformation
-preview: clip_image003-3-3.png
+  - Software Development
+  - Scaling
+  - Professional Scrum
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:16:56Z
+  tldr: 2025-08-07T13:24:36Z
+  short_title: 2025-08-07T13:24:41Z
+ResourceImportId: 11361
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image003-3-3.png
 
 ---
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.

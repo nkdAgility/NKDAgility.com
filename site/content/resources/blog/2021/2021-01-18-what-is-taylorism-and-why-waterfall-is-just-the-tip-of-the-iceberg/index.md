@@ -2,46 +2,53 @@
 title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
 short_title: What Is Taylorism and Its Impact Beyond Waterfall
 description: Explores how Taylorism shaped modern management, leading to rigid hierarchies, bureaucracy, and dehumanising work practices that persist beyond Waterfall methodologies.
+tldr: Traditional management practices like Waterfall are just symptoms of deeper, outdated Tayloristic approaches that treat people as replaceable cogs, stifle innovation, and create disengaged teams. These practices persist through rigid hierarchies, siloed departments, best practices, and incentive systems that work against autonomy, mastery, and purpose. To improve outcomes and employee engagement, development managers should move toward cross-functional teams, empower those closest to the work to define practices, and focus on intrinsic motivators rather than outdated control mechanisms.
 date: 2021-01-18
+lastmod: 2021-01-18
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wYwQygBrmgx
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
-- /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /resources/wYwQygBrmgx
-- /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /resources/wYwQygBrmgx
+  - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliasesArchive:
-- /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+  - /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+  - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Lean
+  - Lean
 tags:
-- Organisational Physics
-- Sociotechnical Systems
-- Organisational Culture
-- Agile Philosophy
-- Complexity Thinking
-- Organisational Psychology
-- Pragmatic Thinking
+  - Organisational Physics
+  - Sociotechnical Systems
+  - Organisational Culture
+  - Agile Philosophy
+  - Complexity Thinking
+  - Organisational Psychology
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:04Z
   short_title: 2025-07-07T17:57:37Z
+  tldr: 2025-08-07T13:10:27Z
 ResourceImportId: 45392
 AudioNative: true
 creator: Martin Hinshelwood

@@ -2,8 +2,14 @@
 title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
 short_title: Immersive Agile Leadership Training Journey
 description: Explores a shift from intensive workshops to ongoing, immersive agile leadership training, enabling leaders to apply skills, build relationships, and drive team success.
+tldr: Switching from traditional two-day workshops to shorter, regular agile leadership modules helps managers absorb information better, apply new skills in real time, and build stronger relationships with trainers. This immersive approach supports continuous growth and adaptation, making it easier for leaders to transition to agile practices. Consider adopting or supporting ongoing, modular training to empower your teams and improve leadership effectiveness.
 date: 2023-07-13T12:06:17Z
-weight: 665
+lastmod: 2023-07-13T12:06:17Z
+weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: OWvCS3xb7pQ
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 aliases:
-- /resources/OWvCS3xb7pQ
-- /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
-- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+  - /resources/OWvCS3xb7pQ
+  - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+  - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
 aliasesArchive:
-- /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
-- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
-- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
-- transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+  - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+  - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+  - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+  - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+  - transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 source: youtube
 layout: video
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agile Transformation
-- Continuous Learning
-- Personal
-- Agile Leadership
-- Organisational Agility
-- Organisational Change
+  - Organisational Agility
+  - Agile Transformation
+  - Continuous Learning
+  - Personal
+  - Agile Leadership
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T13:10:41Z
   short_title: 2025-07-07T17:53:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:58Z
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

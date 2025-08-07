@@ -1,38 +1,45 @@
 ---
 title: Upgrading to TFS 2015 in production - DONE
+short_title: Upgrading TFS to 2015 in Production Guide
 description: Step-by-step guide to upgrading a production TFS server to TFS 2015, including backup strategies, configuration tips, and handling common issues during installation.
+tldr: A production upgrade to TFS 2015 was completed smoothly for a customer with careful backups and preparation, despite some non-standard configurations. Key points include the need for sufficient disk space due to significant schema changes, ensuring all permissions and credentials are ready, and verifying backups before proceeding. With TFS 2010 support ending soon, managers should plan upgrades to TFS 2015 to benefit from new features and ongoing support.
+date: 2015-04-29
+lastmod: 2015-04-29
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: lJiwJaztYBO
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11308
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-04-29
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done
 aliases:
-- /resources/lJiwJaztYBO
+  - /resources/lJiwJaztYBO
 aliasesArchive:
-- /blog/upgrading-to-tfs-2015-in-production-done
-- /upgrading-to-tfs-2015-in-production-done
-- /upgrading-to-tfs-2015-in-production
-- /upgrading-to-tfs-2015-in-production---done
-- /blog/upgrading-to-tfs-2015-in-production---done
-- /resources/blog/upgrading-to-tfs-2015-in-production-done
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
+  - /blog/upgrading-to-tfs-2015-in-production-done
+  - /upgrading-to-tfs-2015-in-production-done
+  - /upgrading-to-tfs-2015-in-production
+  - /upgrading-to-tfs-2015-in-production---done
+  - /blog/upgrading-to-tfs-2015-in-production---done
+  - /resources/blog/upgrading-to-tfs-2015-in-production-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-22-22.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:19:49Z
-concepts: []
+  tldr: 2025-08-07T13:25:17Z
+  short_title: 2025-08-07T13:25:18Z
+ResourceImportId: 11308
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---
 I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.

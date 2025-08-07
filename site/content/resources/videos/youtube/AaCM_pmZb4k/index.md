@@ -2,8 +2,14 @@
 title: What are the hierarchies of competence vs control?  Why does this matter?
 short_title: Hierarchies of Competence vs Control Explained
 description: Explains the differences between competence-based and control-based hierarchies, their impact on decision-making, and why competence-driven models suit today’s fast-changing markets.
+tldr: Traditional hierarchies based on control slow down decision-making and often promote people beyond their competence, while hierarchies based on competence allow the most capable individuals to lead in real time, enabling faster and more effective responses to market changes. Shifting to a competence-based structure can create a more agile, engaged, and market-responsive organisation. Development managers should consider moving away from rigid top-down models and foster dynamic leadership based on expertise to improve speed and adaptability.
 date: 2023-04-13T14:25:06Z
+lastmod: 2023-04-13T14:25:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: AaCM_pmZb4k
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 aliases:
-- /resources/AaCM_pmZb4k
-- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/videos/what-are-hierarchies-of-competence-vs-control
+  - /resources/AaCM_pmZb4k
+  - /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+  - /resources/videos/what-are-hierarchies-of-competence-vs-control
 aliasesArchive:
-- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-hierarchies-of-competence-vs-control
-- /resources/videos/what-are-hierarchies-of-competence-vs-control-
-- /resources/what-are-hierarchies-of-competence-vs-control-
-- /resources/videos/what-are-hierarchies-of-competence-vs-control
-- what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+  - /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+  - /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+  - /resources/what-are-hierarchies-of-competence-vs-control
+  - /resources/videos/what-are-hierarchies-of-competence-vs-control-
+  - /resources/what-are-hierarchies-of-competence-vs-control-
+  - /resources/videos/what-are-hierarchies-of-competence-vs-control
+  - what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Competence
-- Sociotechnical Systems
-- Organisational Agility
+  - Competence
+  - Sociotechnical Systems
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:13:15Z
   short_title: 2025-07-07T17:55:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:43Z
 videoId: AaCM_pmZb4k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

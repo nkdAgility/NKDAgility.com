@@ -4,36 +4,41 @@ short_title: Coding Was Never the Software Bottleneck
 description: AI exposes that coding was never the main bottleneck in software delivery; real constraints are in system flow, team practices, and organisational culture, not code writing.
 tldr: AI writing code is not the real game-changer; coding was never the main bottleneck in software delivery. The real constraints are in poor system design, handoffs, unclear requirements, and lack of built-in quality, which AI will only make more visible. To benefit from AI, focus on improving flow, building quality in from the start, and making teams accountable for outcomes rather than output.
 date: 2025-09-01T09:00:00Z
+lastmod: 2025-09-01T09:00:00Z
 weight: 100
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: IO5EHjiHhTf
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: are-we-still-pretending-coding-was-the-bottleneck
 aliases:
-- /resources/IO5EHjiHhTf
+  - /resources/IO5EHjiHhTf
 concepts:
-- Principle
+  - Principle
 categories:
-- DevOps
-- Product Development
-- Engineering Excellence
+  - DevOps
+  - Product Development
+  - Engineering Excellence
 tags:
-- Software Development
-- Pragmatic Thinking
-- Value Delivery
-- Agentic Engineering
-- Operational Practices
-- Sociotechnical Systems
-- Organisational Agility
-- Organisational Physics
-- Product Delivery
-- Social Technologies
-- Team Performance
-- Flow Efficiency
-- Technical Excellence
-- Systems Thinking
-- Continuous Improvement
+  - Software Development
+  - Pragmatic Thinking
+  - Value Delivery
+  - Agentic Engineering
+  - Operational Practices
+  - Sociotechnical Systems
+  - Organisational Agility
+  - Organisational Physics
+  - Product Delivery
+  - Social Technologies
+  - Team Performance
+  - Flow Efficiency
+  - Technical Excellence
+  - Systems Thinking
+  - Continuous Improvement
 Watermarks:
   description: 2025-06-06T15:13:01Z
   short_title: 2025-07-07T16:43:06Z

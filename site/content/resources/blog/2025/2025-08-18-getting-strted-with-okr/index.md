@@ -4,36 +4,41 @@ short_title: Getting Started with Objectives & Key Results
 description: Learn how to successfully implement OKRs by aligning clear strategy, fostering transparency, empowering teams, focusing on outcomes, and establishing iterative execution practices.
 tldr: OKRs only work when there is a clear strategy, a culture of transparency and adaptation, empowered teams, and a focus on outcomes over output. They help connect strategy to execution but require ongoing review, learning, and refinement to be effective. Before adopting OKRs, ensure your leadership, culture, and processes support these foundations or the framework will not deliver real value.
 date: 2025-08-18T09:00:00Z
+lastmod: 2025-08-18T09:00:00Z
 weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: bpRR4ieKvr3
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: getting-started-with-objectives-key-results
 aliases:
-- /resources/bpRR4ieKvr3
+  - /resources/bpRR4ieKvr3
 concepts:
-- Strategy
+  - Practice
 categories:
-- Product Development
-- Product Management
-- Leadership
+  - Product Development
+  - Product Management
+  - Leadership
 tags:
-- Objective Key Results
-- Common Goals
-- Strategic Goals
-- Agile Strategy
-- Organisational Agility
-- Product Strategy
-- Continuous Improvement
-- Empirical Process Control
-- Organisational Change
-- Value Delivery
-- Organisational Culture
-- Pragmatic Thinking
-- Social Technologies
-- Metrics and Learning
-- Enterprise Agility
+  - Objective Key Results
+  - Common Goals
+  - Strategic Goals
+  - Agile Strategy
+  - Organisational Agility
+  - Product Strategy
+  - Continuous Improvement
+  - Empirical Process Control
+  - Organisational Change
+  - Value Delivery
+  - Organisational Culture
+  - Pragmatic Thinking
+  - Social Technologies
+  - Metrics and Learning
+  - Enterprise Agility
 Watermarks:
   description: 2025-06-03T15:33:08Z
   short_title: 2025-07-07T16:43:08Z

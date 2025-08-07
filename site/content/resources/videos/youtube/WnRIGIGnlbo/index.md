@@ -2,8 +2,14 @@
 title: How to Stop Chasing Tech Hype and Start Making Smarter, Evidence-Based Decisions
 short_title: How to Evaluate New Tech Effectively
 description: Tired of chasing tech hype? Discover how disciplined, evidence-based decisions drive real agility and lasting competitive advantage for your organisation.
+tldr: Chasing every new technology trend wastes resources, demoralises teams, and creates technical debt. Instead, use structured, evidence-based frameworks to evaluate tech choices based on strategic fit, ROI, team capability, and timing. Make disciplined decision-making a repeatable part of your process so you lead with intent rather than react to hype.
 date: 2025-05-30T06:00:31Z
+lastmod: 2025-05-30T06:00:31Z
 weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: WnRIGIGnlbo
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: how-to-stop-chasing-tech-hype-and-start-making-smarter-evidence-based-decisions
 aliases:
-- /resources/WnRIGIGnlbo
-- /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - /resources/WnRIGIGnlbo
+  - /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
 aliasesArchive:
-- /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
-- 3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - /resources/videos/3-how-to-evaluate-new-tech-without-wasting-time-or-budget
+  - 3-how-to-evaluate-new-tech-without-wasting-time-or-budget
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Decision Making
-- Pragmatic Thinking
+  - Decision Making
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-07-24T15:15:30Z
   short_title: 2025-07-24T15:15:31Z
+  tldr: 2025-08-07T12:29:12Z
 videoId: WnRIGIGnlbo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WnRIGIGnlbo/maxresdefault.jpg
 duration: 72
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Not every shiny object deserves your attention or your budget. Yet, if you’re anything like me, you know the feeling when the next big thing is lighting up your inbox. The industry chatter is relentless. Your team is eager to experiment. A competitor just shipped something with it, and suddenly, you’re left holding the bag—wondering if you’re risking irrelevance by not jumping in.

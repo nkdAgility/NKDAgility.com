@@ -2,8 +2,14 @@
 title: 'Transforming Agile Training into Action: Experimentation and Engagement in the Workplace'
 short_title: Transforming Agile Training into Action
 description: Explores practical ways to apply agile training at work, using experimentation, group engagement techniques, and virtual tools to boost collaboration and real-world impact.
+tldr: Agile training is most effective when participants actively experiment with new tools and techniques in their own work environments, adapting them to fit their team’s context. Techniques like "One, Two, Four, All" foster inclusive engagement and help turn group ideas into actionable plans, even in virtual settings. Development managers should encourage their teams to try these approaches and create safe spaces for sharing, which leads to better collaboration and practical results.
 date: 2023-04-24T07:00:03Z
-weight: 1000
+lastmod: 2023-04-24T07:00:03Z
+weight: 805
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BRRQ1JWsHpQ
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 aliases:
-- /resources/BRRQ1JWsHpQ
-- /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
-- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
+  - /resources/BRRQ1JWsHpQ
+  - /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
+  - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 aliasesArchive:
-- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
-- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
-- /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
-- /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
-- transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
+  - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
+  - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+  - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+  - /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
+  - transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Team Collaboration
-- Pragmatic Thinking
-- Continuous Learning
+  - Team Motivation
+  - Team Collaboration
+  - Pragmatic Thinking
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:13:06Z
   short_title: 2025-07-07T17:55:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:18Z
 videoId: BRRQ1JWsHpQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

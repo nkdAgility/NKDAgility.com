@@ -2,8 +2,14 @@
 title: Overview of 'applying flow metrics for Scrum' course.
 short_title: Applying Flow Metrics for Scrum Course Overview
 description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
+tldr: The "Applying Flow Metrics for Scrum" course teaches Scrum teams how to use Kanban metrics to improve value delivery, transparency, and continuous improvement. Key benefits include better visibility into workflow, data-driven decision-making, and more predictable outcomes for stakeholders. Development managers should consider this course if their teams need to deliver value more consistently and want practical tools for ongoing improvement.
 date: 2024-02-19T07:00:09Z
+lastmod: 2024-02-19T07:00:09Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: NeGch-lQkPA
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: overview-of-'applying-flow-metrics-for-scrum'-course
 aliases:
-- /resources/NeGch-lQkPA
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
+  - /resources/NeGch-lQkPA
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 aliasesArchive:
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
-- /resources/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
-- overview-of-applying-flow-metrics-for-scrum-course-
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-- overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
+  - /resources/overview-of-applying-flow-metrics-for-scrum-course
+  - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+  - /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
+  - overview-of-applying-flow-metrics-for-scrum-course-
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+  - overview-of-applying-flow-metrics-for-scrum-course
+  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Pragmatic Thinking
-- Throughput
-- Software Development
-- Team Performance
-- Agile Planning
-- Value Delivery
-- Agile Frameworks
+  - Social Technologies
+  - Operational Practices
+  - Pragmatic Thinking
+  - Throughput
+  - Software Development
+  - Team Performance
+  - Agile Planning
+  - Value Delivery
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:05:42Z
   short_title: 2025-07-07T17:49:43Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:39Z
 videoId: NeGch-lQkPA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

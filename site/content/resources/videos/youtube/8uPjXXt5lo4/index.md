@@ -2,8 +2,14 @@
 title: What is the most valuable thing you have learned through training people?
 short_title: Universal Challenges in Agile and Scrum Training
 description: Training people worldwide reveals that organisations face similar challenges when adopting agile and scrum, highlighting the universal nature of change and shared solutions.
+tldr: The most valuable lesson from training people worldwide is that teams everywhere face the same core challenges when adopting agile and Scrum, regardless of culture or location. Shared experiences in training help participants realize their problems are not unique, which builds confidence and accelerates learning. Development managers should leverage global perspectives and proven Scrum practices to address common issues and drive improvement in their teams.
 date: 2023-02-07T07:00:06Z
+lastmod: 2023-02-07T07:00:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 8uPjXXt5lo4
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-most-valuable-thing-you-have-learned-through-training-people
 aliases:
-- /resources/8uPjXXt5lo4
-- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+  - /resources/8uPjXXt5lo4
+  - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 aliasesArchive:
-- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
-- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
-- what-is-the-most-valuable-thing-you-have-learned-through-training-people
+  - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+  - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+  - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+  - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+  - what-is-the-most-valuable-thing-you-have-learned-through-training-people
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Personal
+  - Software Development
+  - Agile Frameworks
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Personal
 Watermarks:
   description: 2025-05-07T13:14:13Z
   short_title: 2025-07-07T17:56:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:32Z
 videoId: 8uPjXXt5lo4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

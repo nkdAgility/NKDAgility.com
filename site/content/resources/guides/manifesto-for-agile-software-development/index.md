@@ -2,54 +2,61 @@
 title: Manifesto for Agile Software Development
 short_title: Manifesto for Agile Software Development
 description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
+tldr: Focus on delivering working software quickly by prioritizing people, collaboration, and adaptability over rigid processes and documentation. Encourage frequent releases, open communication, and continuous improvement to meet customer needs and respond to change. Empower teams and foster a culture of trust and reflection to drive better results.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 author:
-- Kent Beck
-- Mike Beedle
-- Arie van Bennekum
-- Alistair Cockburn
-- Ward Cunningham
-- Martin Fowler
-- James Grenning
-- Jim Highsmith
-- Andrew Hunt
-- Ron Jeffries
-- Jon Kern
-- Brian Marick
-- Robert C. Martin
-- Steve Mellor
-- Ken Schwaber
-- Jeff Sutherland
-- Dave Thomas
+  - Kent Beck
+  - Mike Beedle
+  - Arie van Bennekum
+  - Alistair Cockburn
+  - Ward Cunningham
+  - Martin Fowler
+  - James Grenning
+  - Jim Highsmith
+  - Andrew Hunt
+  - Ron Jeffries
+  - Jon Kern
+  - Brian Marick
+  - Robert C. Martin
+  - Steve Mellor
+  - Ken Schwaber
+  - Jeff Sutherland
+  - Dave Thomas
 ResourceId: poyC7fUGitC
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: manifesto-for-agile-software-development
 aliases:
-- guides/manifesto-for-agile-software-developmen/
-- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
-- /resources/poyC7fUGitC
+  - guides/manifesto-for-agile-software-developmen/
+  - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+  - /resources/poyC7fUGitC
 aliasesArchive:
-- guides/manifesto-for-agile-software-developmen/
-- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+  - guides/manifesto-for-agile-software-developmen/
+  - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 layout: guide
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Values and Principles
-- Agile Philosophy
-- Agile Transformation
-- Software Development
-- Value Delivery
-- Working Software
-- Agile Frameworks
-- Agile Planning
-- Organisational Agility
-- Product Delivery
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Agile Transformation
+  - Software Development
+  - Value Delivery
+  - Working Software
+  - Team Motivation
+  - Agile Frameworks
+  - Agile Planning
+  - Organisational Agility
+  - Product Delivery
 card:
   button:
     content: Learn More
@@ -58,10 +65,11 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:11Z
   short_title: 2025-07-07T16:40:34Z
+  tldr: 2025-08-07T12:46:01Z
 resourceTypes: guide
 references:
-- title: Manifesto for Agile Software Development
-  url: https://agilemanifesto.org/
+  - title: Manifesto for Agile Software Development
+    url: https://agilemanifesto.org/
 recommendedContent: 
 creator: Martin Hinshelwood
 

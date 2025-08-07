@@ -2,30 +2,38 @@
 title: Luddites have no place in the modern organisation
 short_title: Luddites and Organisational Agility
 description: Explores how resistance to change and outdated mindsets hinder organisational agility, stressing the need for adaptable, forward-thinking teams in modern business.
+tldr: To build a modern, adaptable software organization, you need to hire people open to change and innovation and be willing to let go of those who resist new ways of working. Cultural resistance from "Luddites" will slow or undermine your agile evolution, as seen in Microsoft's transformation under Satya Nadella. Review your hiring and team composition to ensure you have the right people to support continuous learning and agility.
 date: 2020-07-06
+lastmod: 2020-07-06
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: dyxqF7lrHmn
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
-- /resources/dyxqF7lrHmn
+  - /resources/dyxqF7lrHmn
 aliasesArchive:
-- /blog/luddites-have-no-place-in-the-modern-organisation
-- /luddites-have-no-place-in-the-modern-organisation
-- /resources/blog/luddites-have-no-place-in-the-modern-organisation
+  - /blog/luddites-have-no-place-in-the-modern-organisation
+  - /luddites-have-no-place-in-the-modern-organisation
+  - /resources/blog/luddites-have-no-place-in-the-modern-organisation
 layout: blog
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Organisational Change
-- Organisational Agility
-- Organisational Culture
+  - Organisational Change
+  - Organisational Agility
+  - Organisational Culture
+  - Enterprise Agility
 Watermarks:
   description: 2025-05-07T13:15:31Z
   short_title: 2025-07-07T17:57:55Z
+  tldr: 2025-08-07T13:11:17Z
 ResourceImportId: 44507
 creator: Martin Hinshelwood
 resourceTypes: blog

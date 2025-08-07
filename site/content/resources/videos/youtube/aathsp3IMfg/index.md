@@ -2,8 +2,14 @@
 title: What does your dream agile consulting week look like?
 short_title: Dream Agile Consulting Week with APS
 description: Discover how the Applied Professional Scrum (APS) approach helps teams identify and remove ineffective practices, strengthen core Scrum principles, and drive agile transformation.
+tldr: Applied Professional Scrum (APS) helps teams focus on delivering a working product every iteration and identify unhelpful practices that slow them down. The "Barnacle Exercise" is a practical tool for teams to shed unnecessary habits and create a clear roadmap for agile transformation. Development managers should consider APS to build more effective, authentic Scrum teams and drive continuous improvement.
 date: 2023-04-11T07:00:00Z
+lastmod: 2023-04-11T07:00:00Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: aathsp3IMfg
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-does-your-dream-agile-consulting-week-look-like
 aliases:
-- /resources/aathsp3IMfg
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+  - /resources/aathsp3IMfg
+  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
 aliasesArchive:
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
-- what-does-your-dream-agile-consulting-week-look-like
+  - /resources/what-does-your-dream-agile-consulting-week-look-like
+  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+  - /resources/what-does-your-dream-agile-consulting-week-look-like-
+  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+  - what-does-your-dream-agile-consulting-week-look-like
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-tags:
-- Scrum Master
+  - Product Development
+tags: []
 Watermarks:
   description: 2025-07-07T17:55:57Z
   short_title: 2025-07-07T17:55:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:44Z
 videoId: aathsp3IMfg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

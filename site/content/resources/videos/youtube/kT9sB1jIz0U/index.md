@@ -2,8 +2,14 @@
 title: 'Embracing Hierarchies of Competence: How Respect and Expertise Transform Workplaces'
 short_title: Hierarchies of Competence in the Workplace
 description: Explores how valuing expertise and respect over authority fosters collaboration, continuous learning, and better outcomes in modern workplaces through competence-based hierarchies.
+tldr: Prioritising respect and expertise over authority creates a workplace where skilled team members are valued, leading to better collaboration, more innovative solutions, and a culture of continuous learning. Recognising and leveraging individual strengths helps teams solve complex problems more effectively. Development managers should foster environments that reward competence and encourage knowledge sharing to drive team and organisational success.
 date: 2023-05-03T09:30:09Z
-weight: 690
+lastmod: 2023-05-03T09:30:09Z
+weight: 450
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: kT9sB1jIz0U
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
 aliases:
-- /resources/kT9sB1jIz0U
-- /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
-- /resources/videos/why-i-love-hierarchies-of-competence
+  - /resources/kT9sB1jIz0U
+  - /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
+  - /resources/videos/why-i-love-hierarchies-of-competence
 aliasesArchive:
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
-- why-i-love-hierarchies-of-competence
-- /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
-- embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
+  - /resources/videos/why-i-love-hierarchies-of-competence
+  - /resources/why-i-love-hierarchies-of-competence
+  - why-i-love-hierarchies-of-competence
+  - /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
+  - embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Competence
+  - Competence
 Watermarks:
   description: 2025-05-07T13:12:45Z
   short_title: 2025-07-07T17:55:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:38Z
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,32 +1,35 @@
 ---
 title: Team Foundation Server 2013 is production ready
 description: Team Foundation Server 2013 is stable for production use, addressing past update issues with improved agility, technical debt management, and enhanced ALM features.
+date: 2013-07-23
+lastmod: 2013-07-23
+weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: HxDL5HRMiX4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9917
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-23
-weight: 390
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-2013-is-production-ready
 aliases:
-- /resources/HxDL5HRMiX4
+  - /resources/HxDL5HRMiX4
 aliasesArchive:
-- /blog/team-foundation-server-2013-is-production-ready
-- /team-foundation-server-2013-is-production-ready
-- /resources/blog/team-foundation-server-2013-is-production-ready
-tags:
-- Technical Debt
+  - /blog/team-foundation-server-2013-is-production-ready
+  - /team-foundation-server-2013-is-production-ready
+  - /resources/blog/team-foundation-server-2013-is-production-ready
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Technical Debt
 Watermarks:
   description: 2025-05-12T14:23:37Z
-concepts: []
+ResourceImportId: 9917
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

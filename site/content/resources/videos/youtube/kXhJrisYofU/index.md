@@ -2,8 +2,14 @@
 title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 short_title: Rethinking Budgeting to Maximise Value
 description: Explores the limitations of traditional budgeting and explains how flexible, value-driven approaches like Beyond Budgeting can improve agility, innovation, and resource use.
+tldr: Traditional annual budgeting creates rigidity, discourages innovation, and often leads to missed opportunities and wasted resources. Adopting a more flexible, value-driven approach like Beyond Budgeting allows teams to allocate funds dynamically, respond quickly to changing needs, and focus on delivering real value. Development managers should consider shifting to iterative funding models to maximise impact and avoid costly missed opportunities.
 date: 2024-12-09T06:30:00Z
+lastmod: 2024-12-09T06:30:00Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: kXhJrisYofU
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 aliases:
-- /resources/kXhJrisYofU
-- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
-- /resources/videos/agile-budgeting-for-predictable-costs
+  - /resources/kXhJrisYofU
+  - /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+  - /resources/videos/agile-budgeting-for-predictable-costs
 aliasesArchive:
-- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
-- /resources/videos/agile-budgeting-for-predictable-costs
-- /resources/agile-budgeting-for-predictable-costs
-- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+  - /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+  - /resources/videos/agile-budgeting-for-predictable-costs
+  - /resources/agile-budgeting-for-predictable-costs
+  - rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Business Agility
-- Organisational Agility
-- Pragmatic Thinking
-- Value Delivery
-- Market Adaptability
-- Enterprise Agility
-- Agile Strategy
+  - Value Delivery
+  - Business Agility
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Project Management
+  - Market Adaptability
+  - Enterprise Agility
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T12:56:51Z
   short_title: 2025-07-07T17:47:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:08Z
 videoId: kXhJrisYofU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

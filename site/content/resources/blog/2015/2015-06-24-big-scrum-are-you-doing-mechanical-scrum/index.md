@@ -1,39 +1,46 @@
 ---
 title: 'Big Scrum: Are you doing mechanical Scrum'
+short_title: Mechanical vs Professional Scrum Explained
 description: Explores the difference between mechanical and Professional Scrum, highlighting the importance of values, principles, and technical excellence for effective Agile teams.
+tldr: Many organizations adopt Scrum hoping for rapid productivity gains but are disappointed when they only follow the motions without embracing its core values and technical excellence. True effectiveness and faster delivery come from practicing Professional Scrum, which means living the principles and focusing on quality, not just the framework. Development managers should ensure their teams go beyond mechanical Scrum and invest in building a professional culture to achieve real results.
 date: 2015-06-24
+lastmod: 2015-06-24
 weight: 325
-slug: big-scrum-are-you-doing-mechanical-scrum
-aliases:
-- /resources/8wFtoutYII0
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 8wFtoutYII0
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImportId: 11355
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
+slug: big-scrum-are-you-doing-mechanical-scrum
+aliases:
+  - /resources/8wFtoutYII0
 aliasesArchive:
-- /blog/big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum--are-you-doing-mechanical-scrum
-- /blog/big-scrum--are-you-doing-mechanical-scrum
-- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+  - /blog/big-scrum-are-you-doing-mechanical-scrum
+  - /big-scrum-are-you-doing-mechanical-scrum
+  - /big-scrum--are-you-doing-mechanical-scrum
+  - /blog/big-scrum--are-you-doing-mechanical-scrum
+  - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-preview: clip_image001-1-1.png
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:16:57Z
+  tldr: 2025-08-07T13:24:55Z
+  short_title: 2025-08-07T13:24:55Z
+ResourceImportId: 11355
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image001-1-1.png
 
 ---
 Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.

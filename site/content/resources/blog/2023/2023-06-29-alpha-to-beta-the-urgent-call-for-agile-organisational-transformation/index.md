@@ -2,49 +2,57 @@
 title: The Urgent Call for Agile Organisational Transformation
 short_title: Agile Organisational Transformation
 description: Explores why traditional hierarchical organisations struggle in fast-changing markets and argues for agile, decentralised structures to boost adaptability and innovation.
+tldr: Traditional hierarchical structures are holding back organisations from adapting to today’s fast-changing markets, leading to slow responses and missed opportunities. Superficial agile transformations fail because they do not address deep-rooted command-and-control habits, causing apathy and repeated failure. To stay competitive, leaders should drive genuine organisational change by adopting decentralised, network-based models and commit to ongoing organisational refactoring and hygiene.
 date: 2023-06-29
+lastmod: 2023-06-29
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aeNTMpquEZ5
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-urgent-call-for-agile-organisational-transformation
 aliases:
-- /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /the-urgent-call-for-agile-organisational-transformation
-- /blog/the-urgent-call-for-agile-organisational-transformation
-- /resources/aeNTMpquEZ5
-- /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /the-urgent-call-for-agile-organisational-transformation
+  - /blog/the-urgent-call-for-agile-organisational-transformation
+  - /resources/aeNTMpquEZ5
+  - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 aliasesArchive:
-- /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /the-urgent-call-for-agile-organisational-transformation
-- /blog/the-urgent-call-for-agile-organisational-transformation
-- /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+  - /the-urgent-call-for-agile-organisational-transformation
+  - /blog/the-urgent-call-for-agile-organisational-transformation
+  - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 layout: blog
 concepts:
-- Ethos
+  - Strategy
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agile Transformation
-- Business Agility
-- Change Management
-- Enterprise Agility
-- Organisational Change
-- Digital Transformation
-- Sociotechnical Systems
-- Market Adaptability
-- Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Beta Codex
-- Agile Philosophy
-- Agile Strategy
+  - Social Technologies
+  - Agile Transformation
+  - Business Agility
+  - Change Management
+  - Enterprise Agility
+  - Organisational Change
+  - Digital Transformation
+  - Sociotechnical Systems
+  - Market Adaptability
+  - Organisational Agility
+  - Organisational Culture
+  - Organisational Physics
+  - Beta Codex
+  - Agile Philosophy
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:11:07Z
   short_title: 2025-07-07T17:54:14Z
+  tldr: 2025-08-07T13:02:40Z
 ResourceImportId: 49485
 AudioNative: true
 creator: Martin Hinshelwood

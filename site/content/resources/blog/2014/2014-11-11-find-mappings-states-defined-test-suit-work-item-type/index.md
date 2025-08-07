@@ -1,40 +1,47 @@
 ---
 title: Could not find mappings for all states defined in 'Test Suit' work item type
+short_title: Fixing State Mapping Errors in Test Suite Work Items
 description: Explains how to resolve TFS 2013.3 errors caused by case-sensitive state names in custom Test Suite work items, affecting older clients and process configurations.
+tldr: After upgrading to TFS 2013.3, users may see errors related to state mappings in Test Suite work items, often due to case sensitivity issues in custom process templates, such as using "In process" instead of "In Process." The problem can be fixed by correcting the state names to match the expected casing or by adding a custom process configuration override. This mainly affects older clients, so updating users to the latest version is also a recommended solution.
+date: 2014-11-11
+lastmod: 2014-11-11
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tAug7ZHHqTM
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10899
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-11-11
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: find-mappings-states-defined-test-suit-work-item-type
+slug: could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 aliases:
-- /resources/blog/could-not-find-mappings-for-all-states-defined-in-test-suit-work-item-type
-- /resources/tAug7ZHHqTM
+  - /resources/blog/could-not-find-mappings-for-all-states-defined-in-test-suit-work-item-type
+  - /resources/tAug7ZHHqTM
 aliasesArchive:
-- /blog/find-mappings-states-defined-test-suit-work-item-type
-- /find-mappings-states-defined-test-suit-work-item-type
-- /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
-- /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
-- /resources/blog/find-mappings-states-defined-test-suit-work-item-type
-- /resources/blog/could-not-find-mappings-for-all-states-defined-in-test-suit-work-item-type
-tags:
-- Troubleshooting
-- Install and Configuration
-- Software Development
-- System Configuration
+  - /blog/find-mappings-states-defined-test-suit-work-item-type
+  - /find-mappings-states-defined-test-suit-work-item-type
+  - /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
+  - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
+  - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
+  - /resources/blog/could-not-find-mappings-for-all-states-defined-in-test-suit-work-item-type
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:20:47Z
-concepts: []
+  tldr: 2025-08-07T13:26:39Z
+  short_title: 2025-08-07T13:26:41Z
+ResourceImportId: 10899
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 After upgrading to TFS 2013.3 you get some reports of errors in MTM from your users. Specifically they get a "Could not find mappings for all states defined in 'Test Suit' work item type" error when connecting. I have also seen "TF400860: TestManagement: Version 19, MinVersion: 19" in some cases in the web access.

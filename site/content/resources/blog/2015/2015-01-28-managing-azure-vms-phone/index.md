@@ -1,36 +1,43 @@
 ---
 title: Managing your Azure VM's with your Phone
+short_title: Manage Azure VMs from Your Phone
 description: Control and monitor your Azure virtual machines and cloud services from your phone. Start, stop, group, and track VMs easily to save time and manage resources on the go.
+tldr: Mobile Azure Manager lets you easily start and stop Azure virtual machines and cloud services from your phone, saving time and reducing costs, especially when managing multiple VMs for training or development. Key features include managing individual VMs or groups, quick access to core information, and responsive support, though cost estimates may be inaccurate. Busy managers can use this app to efficiently control Azure resources on the go and avoid unnecessary cloud expenses.
+date: 2015-01-28
+lastmod: 2015-01-28
+weight: 940
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: N-rk9OlMyUm
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11152
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-01-28
-weight: 940
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: managing-azure-vms-phone
+slug: managing-your-azure-vm's-with-your-phone
 aliases:
-- /resources/blog/managing-your-azure-vm-s-with-your-phone
-- /resources/N-rk9OlMyUm
+  - /resources/blog/managing-your-azure-vm-s-with-your-phone
+  - /resources/N-rk9OlMyUm
 aliasesArchive:
-- /blog/managing-azure-vms-phone
-- /managing-azure-vms-phone
-- /managing-your-azure-vm's-with-your-phone
-- /blog/managing-your-azure-vm's-with-your-phone
-- /resources/blog/managing-azure-vms-phone
-- /resources/blog/managing-your-azure-vm-s-with-your-phone
-tags: []
+  - /blog/managing-azure-vms-phone
+  - /managing-azure-vms-phone
+  - /managing-your-azure-vm's-with-your-phone
+  - /blog/managing-your-azure-vm's-with-your-phone
+  - /resources/blog/managing-azure-vms-phone
+  - /resources/blog/managing-your-azure-vm-s-with-your-phone
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-7-7.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:20:07Z
-concepts: []
+  tldr: 2025-08-07T13:25:41Z
+  short_title: 2025-08-07T13:25:42Z
+ResourceImportId: 11152
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-7-7.png
 
 ---
 I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.

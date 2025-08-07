@@ -2,43 +2,50 @@
 title: 'Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness'
 short_title: Balancing Lean Product Backlog and Future Needs
 description: Explores how to maintain a lean, transparent product backlog that balances current needs with future readiness, enabling teams to adapt and maximise product value.
+tldr: Keep your product backlog minimal but sufficient, ensuring it is clear and transparent for all stakeholders while also considering future needs to avoid surprises. Regularly review and reflect on completed work and unexpected issues to refine your backlog and adapt to changing circumstances. Aim for a balance that supports both current priorities and readiness for what lies ahead.
 date: 2023-08-24
+lastmod: 2023-08-24
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wXQXA_aHLS1
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
-- /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
-- /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
-- /resources/wXQXA_aHLS1
-- /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /resources/wXQXA_aHLS1
+  - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliasesArchive:
-- /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
-- /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
-- /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
+  - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Management
-- Product Development
-- Lean
+  - Product Management
+  - Product Development
+  - Lean
 tags:
-- Product Backlog
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Product Owner
-- Product Delivery
+  - Product Backlog
+  - Agile Planning
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Product Delivery
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:09:54Z
   short_title: 2025-07-07T17:53:24Z
+  tldr: 2025-08-07T13:00:49Z
 ResourceImportId: 49523
 AudioNative: true
 creator: Martin Hinshelwood

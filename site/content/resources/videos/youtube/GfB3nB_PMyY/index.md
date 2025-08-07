@@ -2,8 +2,14 @@
 title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 short_title: Immersive Learning in Agile and Scrum Training
 description: Explains how immersive learning combines Agile and Scrum theory with hands-on practice, real-world scenarios, and expert guidance to boost skills, confidence, and teamwork.
+tldr: Immersive learning combines theory with hands-on, real-world practice, making Agile and Scrum training more effective and directly applicable to daily challenges. Experienced trainers provide tailored advice, immediate feedback, and practical simulations, which boost confidence and competence while fostering valuable peer connections. For development managers seeking impactful training, prioritize immersive programs led by seasoned professionals to ensure your teams can confidently apply what they learn on the job.
 date: 2024-02-09T07:00:06Z
+lastmod: 2024-02-09T07:00:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: GfB3nB_PMyY
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-immersive-learning-bridging-theory-and-experience
 aliases:
-- /resources/GfB3nB_PMyY
-- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
-- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+  - /resources/GfB3nB_PMyY
+  - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
+  - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
+  - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 aliasesArchive:
-- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
-- /resources/the-power-of-immersive-learning-bridging-theory-and-experience
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
-- the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
+  - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
+  - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
+  - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+  - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+  - the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Competence
+  - Pragmatic Thinking
+  - Competence
 Watermarks:
   description: 2025-05-07T13:05:54Z
   short_title: 2025-07-07T17:49:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:03Z
 videoId: GfB3nB_PMyY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

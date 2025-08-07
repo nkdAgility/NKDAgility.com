@@ -2,8 +2,14 @@
 title: How Do You Know How Long It Takes to Deliver Value?
 short_title: Measuring and Improving Time to Market
 description: Explains how Agile teams can measure and improve Time to Market using key metrics like lead time, cycle time, and time to fix to deliver value to customers faster.
+tldr: Measuring and improving Time to Market is essential for delivering value quickly and staying competitive. Key metrics like lead time, cycle time, time to pivot, time to learn, and time to fix help teams identify bottlenecks and make better decisions. Focus on streamlining processes, automating tasks, gathering fast feedback, and building cross-functional teams to reduce delivery times and ensure you are delivering what customers need most.
 date: 2024-01-26T11:00:51Z
+lastmod: 2024-01-26T11:00:51Z
 weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: xaIDtZcoVXE
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-do-you-know-how-long-it-takes-to-deliver-value
 aliases:
-- /resources/xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+  - /resources/xaIDtZcoVXE
+  - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+  - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 aliasesArchive:
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+  - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+  - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+  - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+  - how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 source: internal
 layout: video
 concepts:
-- Model
+  - Model
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Time to Market
-- Customer Focus
-- Ability to Innovate
-- Continuous Improvement
-- Evidence Based Leadership
-- Flow Efficiency
-- Working Software
-- Agile Strategy
-- Agile Product Management
-- Evidence Based Management
-- Operational Practices
-- Software Development
-- Pragmatic Thinking
-- Product Delivery
-- Current Value
+  - Metrics and Learning
+  - Time to Market
+  - Customer Focus
+  - Social Technologies
+  - Ability to Innovate
+  - Continuous Improvement
+  - Evidence Based Leadership
+  - Flow Efficiency
+  - Working Software
+  - Agile Strategy
+  - Agile Product Management
+  - Evidence Based Management
+  - Operational Practices
+  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:10Z
   short_title: 2025-07-07T17:50:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:34Z
 videoId: xaIDtZcoVXE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
 short_title: Azure DevOps Caman Boards for Hybrid Teams
 description: Learn how to use Azure DevOps to set up and customise Caman boards for clear workflow visualisation, shared rules, and effective work management in hybrid teams.
+tldr: Using Azure DevOps to implement a Caman strategy helps hybrid teams visualise and manage work more effectively by establishing shared workflow rules, customising boards and columns, and tracking key metrics like lead and cycle time. Involving the whole team in defining and refining these rules improves transparency and reduces local optimisations that can harm overall flow. Development managers should ensure their teams collaborate on workflow setup in Azure DevOps and regularly review it to optimise efficiency and clarity.
 date: 2024-03-29T16:42:17Z
+lastmod: 2024-03-29T16:42:17Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: jCrXzgjxcEA
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 aliases:
-- /resources/jCrXzgjxcEA
-- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
-- /resources/videos/kanban-with-azure-devops
+  - /resources/jCrXzgjxcEA
+  - /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+  - /resources/videos/kanban-with-azure-devops
 aliasesArchive:
-- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
-- /resources/videos/kanban-with-azure-devops
-- /resources/kanban-with-azure-devops
-- mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+  - /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+  - /resources/videos/kanban-with-azure-devops
+  - /resources/kanban-with-azure-devops
+  - mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Azure DevOps
-- Operational Practices
-- Software Development
+  - Azure DevOps
+  - Operational Practices
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:05:22Z
   short_title: 2025-07-07T17:49:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:59Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

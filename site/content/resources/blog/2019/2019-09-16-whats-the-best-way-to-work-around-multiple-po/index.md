@@ -2,35 +2,43 @@
 title: What's the best way to work around multiple PO?
 short_title: Working With Multiple Product Owners in Scrum
 description: Guidance on addressing issues with multiple Product Owners in Scrum, highlighting the need for clear backlog ownership and accountability to ensure value delivery.
+tldr: If multiple people are acting as Product Owners but are not providing clear direction or attending key meetings, your team lacks true ownership of the product backlog and value delivery. This leads to wasted effort on features that may not matter, with industry data showing up to 65 percent of time spent on the wrong work. Raise this issue with management and ensure someone is clearly accountable for prioritizing and validating work, even if it means temporarily assigning the role until a suitable Product Owner is found.
 date: 2019-09-16
+lastmod: 2019-09-16
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: KIG3LzjF3zK
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: what's-the-best-way-to-work-around-multiple-po
 aliases:
-- /resources/blog/what-s-the-best-way-to-work-around-multiple-po
-- /resources/KIG3LzjF3zK
+  - /resources/blog/what-s-the-best-way-to-work-around-multiple-po
+  - /resources/KIG3LzjF3zK
 aliasesArchive:
-- /blog/whats-the-best-way-to-work-around-multiple-po
-- /whats-the-best-way-to-work-around-multiple-po
-- /what's-the-best-way-to-work-around-multiple-po-
-- /blog/what's-the-best-way-to-work-around-multiple-po-
-- /resources/blog/whats-the-best-way-to-work-around-multiple-po
-- /resources/blog/what-s-the-best-way-to-work-around-multiple-po
+  - /blog/whats-the-best-way-to-work-around-multiple-po
+  - /whats-the-best-way-to-work-around-multiple-po
+  - /what's-the-best-way-to-work-around-multiple-po-
+  - /blog/what's-the-best-way-to-work-around-multiple-po-
+  - /resources/blog/whats-the-best-way-to-work-around-multiple-po
+  - /resources/blog/what-s-the-best-way-to-work-around-multiple-po
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Management
-- Product Development
+  - Scrum
+  - Product Management
+  - Product Development
 tags:
-- Agile Product Management
-- Product Owner
+  - Social Technologies
+  - Agile Product Management
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:16:11Z
   short_title: 2025-07-07T17:58:28Z
+  tldr: 2025-08-07T13:13:02Z
 ResourceImportId: 39853
 creator: Martin Hinshelwood
 resourceTypes: blog

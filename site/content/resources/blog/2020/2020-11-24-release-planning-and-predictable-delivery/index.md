@@ -2,48 +2,55 @@
 title: Release planning and predictable delivery
 short_title: Release Planning and Predictable Delivery
 description: Explores how agile teams can achieve predictable software delivery through quality focus, effective release planning, and continuous improvement, despite inherent uncertainty.
+tldr: Predictable delivery and agile release planning are not incompatible, but achieving them requires a shift in mindset, a focus on continuous quality, and embracing transparency. Key actions include making quality non-negotiable, refining backlog items to be small and clear, ensuring teams own the full delivery process, and minimizing dependencies. Development managers should prioritize building working software in regular increments, stop accumulating technical debt, and foster a culture of continuous improvement to improve delivery predictability.
 date: 2020-11-24
-weight: 200
+lastmod: 2020-11-24
+weight: 175
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: 2cOXevMnGb_
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: release-planning-and-predictable-delivery
 aliases:
-- /blog/release-planning-and-predictable-delivery
-- /release-planning-and-predictable-delivery
-- /resources/2cOXevMnGb_
-- /resources/blog/release-planning-and-predictable-delivery
+  - /blog/release-planning-and-predictable-delivery
+  - /release-planning-and-predictable-delivery
+  - /resources/2cOXevMnGb_
+  - /resources/blog/release-planning-and-predictable-delivery
 aliasesArchive:
-- /blog/release-planning-and-predictable-delivery
-- /release-planning-and-predictable-delivery
-- /resources/blog/release-planning-and-predictable-delivery
+  - /blog/release-planning-and-predictable-delivery
+  - /release-planning-and-predictable-delivery
+  - /resources/blog/release-planning-and-predictable-delivery
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+  - Product Development
+  - Scrum
+  - Technical Leadership
 tags:
-- Software Development
-- Increment
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Working Software
-- Product Delivery
-- Value Delivery
-- Operational Practices
-- Agile Frameworks
-- Empirical Process Control
-- Professional Scrum
-- Release Management
-- Technical Debt
-- Agile Transformation
+  - Software Development
+  - Increment
+  - Agile Planning
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Working Software
+  - Product Delivery
+  - Value Delivery
+  - Operational Practices
+  - Agile Frameworks
+  - Empirical Process Control
+  - Professional Scrum
+  - Release Management
+  - Technical Debt
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:15:21Z
   short_title: 2025-07-07T17:57:47Z
+  tldr: 2025-08-07T13:10:58Z
 ResourceImportId: 9714
 creator: Martin Hinshelwood
 resourceTypes: blog

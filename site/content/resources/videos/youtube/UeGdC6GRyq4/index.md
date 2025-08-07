@@ -2,8 +2,14 @@
 title: Under employed - 30% upfront, balance when you are employed
 short_title: 'Underemployed Training: 30% Upfront, Pay Balance After Employment'
 description: 'Explains a pay-later training programme for the underemployed: pay 30% upfront, with the balance due only after securing suitable employment and career advancement.'
+tldr: A new training program offers underemployed professionals affordable access by requiring only 30% upfront payment, with the balance due after securing suitable employment. The approach is built on trust, focuses on practical upskilling, and encourages networking and a positive mindset to turn underemployment into a career springboard. Development managers can consider this model to support team members’ growth while minimizing financial barriers.
 date: 2023-06-14T07:00:18Z
+lastmod: 2023-06-14T07:00:18Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: UeGdC6GRyq4
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: under-employed-30-upfront-balance-when-you-are-employed
 aliases:
-- /resources/UeGdC6GRyq4
-- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+  - /resources/UeGdC6GRyq4
+  - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
+  - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 aliasesArchive:
-- /resources/videos/under-employed-upfront-balance-when-you-are-employed
-- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
-- under-employed-30-upfront-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+  - /resources/videos/under-employed-upfront-balance-when-you-are-employed
+  - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
+  - /resources/under-employed-30-upfront-balance-when-you-are-employed
+  - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+  - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+  - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+  - under-employed-30-upfront-balance-when-you-are-employed
+  - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:39Z
   short_title: 2025-07-07T17:54:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:49Z
 videoId: UeGdC6GRyq4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,53 +2,60 @@
 title: You want speed, adaptability, resilience
 short_title: Speed, Adaptability, Resilience & Agency
 description: Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.
+tldr: Investing in Agile, Scrum, Kanban, and DevOps will not deliver real speed, adaptability, or resilience unless your teams have the agency to truly own their work and outcomes. Without empowering people to take responsibility, you risk superficial processes and disengaged teams. To achieve genuine agility, ensure your system supports team and individual ownership, not just frameworks.
 date: 2025-05-11T15:30:29+01:00
+lastmod: 2025-05-11T15:30:29+01:00
 weight: 385
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: 5UaIfaLclWB
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: you-want-speed-adaptability-resilience
 aliases:
-- /resources/5UaIfaLclWB
+  - /resources/5UaIfaLclWB
 source: LinkedIn
 layout: signal
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Leadership
-- Technical Leadership
-- Product Development
+  - Leadership
+  - Technical Leadership
+  - Product Development
 tags:
-- Agentic Agility
-- Organisational Agility
-- Team Motivation
-- Agile Philosophy
-- Business Agility
-- Organisational Culture
-- Agile Leadership
-- Pragmatic Thinking
-- Social Technologies
-- Agile Values and Principles
-- Value Delivery
-- Product Delivery
-- Agentic Engineering
-- Agile Strategy
-- Self Organisation
+  - Agentic Agility
+  - Organisational Agility
+  - Team Motivation
+  - Agile Philosophy
+  - Business Agility
+  - Organisational Culture
+  - Agile Leadership
+  - Pragmatic Thinking
+  - Social Technologies
+  - Agile Values and Principles
+  - Value Delivery
+  - Product Delivery
+  - Agentic Engineering
+  - Agile Strategy
+  - Self Organisation
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992
-  post_id: "7327354418876628992"
-  post_date: 2025-05-11T14:30:29Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992
+    post_id: "7327354418876628992"
+    post_date: 2025-05-11T14:30:29Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:51Z
   short_title: 2025-07-07T16:44:19Z
+  tldr: 2025-08-07T12:32:34Z
 
 ---
 You want speed, adaptability, resilience.

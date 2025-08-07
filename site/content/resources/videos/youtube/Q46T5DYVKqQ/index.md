@@ -2,8 +2,14 @@
 title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
 short_title: Data-Driven Decision Making with Empiricism
 description: Learn how using empirical, data-driven methods can improve decision-making, foster continuous improvement, and build trust through transparent, evidence-based actions.
+tldr: Using data to guide decisions helps teams make better choices, improve continuously, and build trust with stakeholders. The key is to ensure access to relevant data, act deliberately, and monitor results in a cycle of experimentation and learning. Development managers should foster a culture where decisions are based on evidence, not assumptions, and regularly review outcomes to adapt and improve.
 date: 2023-08-17T07:00:09Z
-weight: 1000
+lastmod: 2023-08-17T07:00:09Z
+weight: 710
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Q46T5DYVKqQ
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 aliases:
-- /resources/Q46T5DYVKqQ
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/what-is-empiricism
+  - /resources/Q46T5DYVKqQ
+  - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+  - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+  - /resources/videos/what-is-empiricism
 aliasesArchive:
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/what-is-empiricism
-- /resources/what-is-empiricism
-- harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+  - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+  - /resources/videos/what-is-empiricism
+  - /resources/what-is-empiricism
+  - harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Evidence Based Leadership
-- Decision Making
-- Metrics and Learning
-- Experimentation
-- Empirical Process Control
-- Pragmatic Thinking
-- Agile Philosophy
-- Continuous Improvement
+  - Empirical Process Control
+  - Evidence Based Leadership
+  - Decision Making
+  - Metrics and Learning
+  - Experimentation
+  - Pragmatic Thinking
+  - Agile Philosophy
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:10:09Z
   short_title: 2025-07-07T17:53:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:00Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

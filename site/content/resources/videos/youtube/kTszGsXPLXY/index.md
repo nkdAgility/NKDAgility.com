@@ -2,8 +2,14 @@
 title: Getting started with Kanban.
 short_title: Getting Started with Kanban
 description: Learn how to launch a Kanban pilot, define workflows, use metrics like cycle time and throughput, and foster continuous improvement for better team productivity.
+tldr: Kanban helps teams improve workflow and productivity by visualizing work, setting clear processes, and using metrics like cycle time and throughput to drive continuous improvement. Start with a small, willing team, define and visualize your workflow, and use data to identify and address bottlenecks. Begin with a pilot, focus on collaboration and regular feedback, and use metrics to build credibility and guide ongoing enhancements.
 date: 2024-02-14T07:00:19Z
+lastmod: 2024-02-14T07:00:19Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: kTszGsXPLXY
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: getting-started-with-kanban
 aliases:
-- /resources/kTszGsXPLXY
-- /resources/videos/getting-started-with-kanban
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
-- /resources/videos/getting-started-with-kanban.
+  - /resources/kTszGsXPLXY
+  - /resources/videos/getting-started-with-kanban
+  - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+  - /resources/videos/getting-started-with-kanban.
 aliasesArchive:
-- /resources/videos/getting-started-with-kanban-
-- /resources/getting-started-with-kanban
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
-- /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
-- getting-started-with-kanban-
-- /resources/videos/getting-started-with-kanban
-- getting-started-with-kanban
-- /resources/videos/getting-started-with-kanban.
+  - /resources/videos/getting-started-with-kanban-
+  - /resources/getting-started-with-kanban
+  - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+  - /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+  - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+  - getting-started-with-kanban-
+  - /resources/videos/getting-started-with-kanban
+  - getting-started-with-kanban
+  - /resources/videos/getting-started-with-kanban.
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Kanban
+  - Product Development
+  - Kanban
 tags:
-- Definition of Workflow
-- Operational Practices
-- Continuous Improvement
-- Cycle Time
+  - Definition of Workflow
+  - Operational Practices
+  - Continuous Improvement
+  - Cycle Time
 Watermarks:
   description: 2025-05-07T13:05:46Z
   short_title: 2025-07-07T17:49:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:45Z
 videoId: kTszGsXPLXY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

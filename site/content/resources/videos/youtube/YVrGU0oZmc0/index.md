@@ -2,8 +2,14 @@
 title: 'Unlocking Continuous Delivery: How Feature Flags Transform Software Development'
 short_title: Feature Flags for Continuous Delivery
 description: Explains how feature flags enable safe, incremental software releases, support continuous delivery, and use user feedback to improve features before full rollout.
+tldr: Feature flags enable teams to release new features incrementally, gather user feedback early, and quickly respond to issues, supporting safer and more frequent deployments. Real-world examples like Azure DevOps show that this approach allows for controlled rollouts, continuous monitoring, and ongoing improvements based on user input. Development managers should consider adopting feature flags to improve delivery speed, reduce risk, and ensure features better meet user needs.
 date: 2025-01-16T06:45:00Z
+lastmod: 2025-01-16T06:45:00Z
 weight: 405
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: YVrGU0oZmc0
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 aliases:
-- /resources/YVrGU0oZmc0
-- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+  - /resources/YVrGU0oZmc0
+  - /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
+  - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
 aliasesArchive:
-- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
-- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
-- unlocking-continuous-delivery-how-feature-flags-transform-software-development
+  - /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
+  - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+  - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+  - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+  - unlocking-continuous-delivery-how-feature-flags-transform-software-development
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Frequent Releases
-- Technical Excellence
-- Working Software
-- Release Management
-- Continuous Delivery
-- Product Delivery
-- Value Delivery
-- Deployment Frequency
-- Deployment Strategies
-- Pragmatic Thinking
-- Customer Focus
-- Continuous Improvement
-- Azure DevOps
-- Operational Practices
+  - Software Development
+  - Frequent Releases
+  - Technical Excellence
+  - Working Software
+  - Release Management
+  - Continuous Delivery
+  - Product Delivery
+  - Value Delivery
+  - Deployment Frequency
+  - Deployment Strategies
+  - Pragmatic Thinking
+  - Customer Focus
+  - Product Validation
+  - Continuous Improvement
+  - Azure DevOps
 Watermarks:
   description: 2025-05-07T12:49:57Z
   short_title: 2025-07-07T17:46:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:30Z
 videoId: YVrGU0oZmc0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: Unlock the Power of Effective Backlog Management with our new course from Scrum.org
 short_title: Effective Scrum Product Backlog Management
 description: Learn essential Scrum Product Backlog management skills, including stakeholder engagement and data-driven decision-making, to boost team effectiveness and project success.
+tldr: A new Scrum.org course helps teams master effective product backlog management by deepening understanding of product goals, improving stakeholder engagement, and enabling data-driven decisions. Taught by experienced trainers, the course blends theory with practical application to boost project success. Consider enrolling your team or requesting tailored training to address backlog and stakeholder challenges.
 date: 2023-10-09
-weight: 790
+lastmod: 2023-10-09
+weight: 600
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 author: MrHinsh
 ResourceId: 2G_gVI5phMC
 ResourceImport: false
@@ -11,27 +17,28 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/2G_gVI5phMC
+  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/2G_gVI5phMC
 aliasesArchive:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Product Backlog
-- Agile Product Management
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Product Owner
+  - Product Backlog
+  - Agile Product Management
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:08:59Z
   short_title: 2025-07-07T17:52:34Z
+  tldr: 2025-08-07T12:58:55Z
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
 resourceTypes: newsletter
 

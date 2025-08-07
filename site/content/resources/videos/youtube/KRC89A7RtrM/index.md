@@ -1,41 +1,41 @@
 ---
+title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 description: Learn how to configure Team Foundation Server (TFS) permissions and access levels to enable full feature access and improve team collaboration and project management.
 date: 2014-01-15T14:55:37Z
-ResourceId: KRC89A7RtrM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
+lastmod: 2014-01-15T14:55:37Z
 weight: 1000
-ResourceContentOrigin: AI
-tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.1
+  changefreq: monthly
+ResourceId: KRC89A7RtrM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
+aliases:
+  - /resources/KRC89A7RtrM
+aliasesArchive:
+  - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
+  - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+  - /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+  - /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
+  - unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
+source: youtube
+layout: video
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:22:31Z
-concepts: []
-title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 videoId: KRC89A7RtrM
-source: youtube
 url: /resources/videos/:slug
-slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
-layout: video
-aliases:
-- /resources/KRC89A7RtrM
-- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-aliasesArchive:
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-- /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
-- unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,38 +1,41 @@
 ---
 title: I messed up my work items from Excel! What now?
 description: Guidance on recovering from accidental bulk changes to TFS work items via Excel, including finding affected items, restoring data, and preventing future issues.
+date: 2012-02-25
+lastmod: 2012-02-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: jZw9emMhGRh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4609
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: i-messed-up-my-work-items-from-excel-what-now
 aliases:
-- /resources/jZw9emMhGRh
+  - /resources/jZw9emMhGRh
 aliasesArchive:
-- /blog/i-messed-up-my-work-items-from-excel-what-now
-- /i-messed-up-my-work-items-from-excel-what-now
-- /i-messed-up-my-work-items-from-excel--what-now-
-- /blog/i-messed-up-my-work-items-from-excel--what-now-
-- /resources/blog/i-messed-up-my-work-items-from-excel-what-now
-tags:
-- Troubleshooting
-- Azure DevOps
-- Pragmatic Thinking
-- Software Development
+  - /blog/i-messed-up-my-work-items-from-excel-what-now
+  - /i-messed-up-my-work-items-from-excel-what-now
+  - /i-messed-up-my-work-items-from-excel--what-now-
+  - /blog/i-messed-up-my-work-items-from-excel--what-now-
+  - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Azure DevOps
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:20Z
-concepts: []
+ResourceImportId: 4609
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---
 When you do a lot of editing in Excel you will sometimes make mistakes. If you are in the unfortunate situation that ended up publishing back changes to 100+ work items that you did not want to change then you can be in a world of hurt. I have a customer who has done just that and I thought some guidance on how to fix (mitigate) this situation will help everyone.

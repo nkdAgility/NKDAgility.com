@@ -1,34 +1,37 @@
 ---
 title: Installing Visual Studio 2010 on Windows 8
 description: Step-by-step guide to installing Visual Studio 2010 on Windows 8 using a virtual machine, including tips for compatibility, performance, and Team Foundation Server use.
+date: 2012-06-01
+lastmod: 2012-06-01
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 9182z5AEKd6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5388
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-01
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2010-on-windows-8
 aliases:
-- /resources/9182z5AEKd6
+  - /resources/9182z5AEKd6
 aliasesArchive:
-- /blog/installing-visual-studio-2010-on-windows-8
-- /installing-visual-studio-2010-on-windows-8
-- /resources/blog/installing-visual-studio-2010-on-windows-8
-tags:
-- Windows
-- Install and Configuration
+  - /blog/installing-visual-studio-2010-on-windows-8
+  - /installing-visual-studio-2010-on-windows-8
+  - /resources/blog/installing-visual-studio-2010-on-windows-8
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-8-8.png
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:59Z
-concepts: []
+ResourceImportId: 5388
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---
 As I [have mentioned before I run all of my heavy weight software in a VM](http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/). That is one of the reasons that I love Windows 8… I can run Hyper-V. I want to be able to reinstall my local computer quickly, and to get back up and running fast.

@@ -1,41 +1,44 @@
 ---
 title: Reserve an Agent for a special build in Team Foundation Server 2012
 description: Explains how to reserve a build agent in Team Foundation Server 2012 using custom activities, agent tagging, and workflow changes to ensure reliable, isolated build execution.
+date: 2013-04-04
+lastmod: 2013-04-04
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: SrsgdgZeWGm
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9359
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-04-04
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
-- /resources/SrsgdgZeWGm
+  - /resources/SrsgdgZeWGm
 aliasesArchive:
-- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-- /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-- /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-tags:
-- Software Development
-- Install and Configuration
-- System Configuration
-- Continuous Integration
-- Azure DevOps
-- Azure Pipelines
-- Pragmatic Thinking
-- Technical Mastery
-- Troubleshooting
+  - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+  - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+  - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-11-11.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Continuous Integration
+  - Azure DevOps
+  - Azure Pipelines
+  - Pragmatic Thinking
+  - Technical Mastery
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:06:42Z
-concepts: []
+ResourceImportId: 9359
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---
 By the time you hit the AgentScope activity in a TF Build workflow you are already running on the agent and if you have things you need to configure you need to figure out some way to reserve an agent before you get there.

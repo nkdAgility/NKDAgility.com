@@ -1,36 +1,39 @@
 ---
 title: 'Project Server 2013 Issue - TF294012: Cannot access the following enterprise project'
 description: Explains how to resolve the TF294012 error in Project Server 2013 by switching from SharePoint to Project Server permission mode for Team Foundation Server integration.
+date: 2012-11-02
+lastmod: 2012-11-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: B7vlHTIj_jT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9138
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-11-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliases:
-- /resources/B7vlHTIj_jT
+  - /resources/B7vlHTIj_jT
 aliasesArchive:
-- /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-- /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-- /project-server-2013-issue
-- /project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
-- /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
-- /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-tags:
-- Troubleshooting
+  - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
+  - /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
+  - /project-server-2013-issue
+  - /project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
+  - /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
+  - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-8-8.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:15Z
-concepts: []
+ResourceImportId: 9138
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-8-8.png
 
 ---
 When you try to map an individual Enterprise Project to a specific Team Project you get a TF294012: Cannot access the following enterprise project error that you can’t resolve.

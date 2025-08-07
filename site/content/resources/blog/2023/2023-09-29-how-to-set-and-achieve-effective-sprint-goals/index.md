@@ -2,47 +2,54 @@
 title: How to Set and Achieve Effective Sprint Goals
 short_title: Effective Sprint Goals in Scrum
 description: Learn how to define, craft, and achieve effective Sprint Goals in Scrum, using frameworks like SMART and OKR to align teams, deliver value, and improve accountability.
+tldr: Sprint Goals are essential for guiding teams toward delivering real value each Sprint, acting as a clear commitment that balances detail and big-picture alignment. Effective Sprint Goals are collaboratively crafted, reviewed by stakeholders, and should be specific, measurable, and relevant to the product vision. Development managers should ensure their teams focus on creating meaningful Sprint Goals that drive value and accountability, using frameworks like SMART or OKR as needed.
 date: 2023-09-29
-weight: 665
+lastmod: 2023-09-29
+weight: 720
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 contributors:
-- name: Ralph Jocham
-  external: https://www.scrum.org/ralph-jocham
+  - name: Ralph Jocham
+    external: https://www.scrum.org/ralph-jocham
 ResourceId: gWfr1oRgAIq
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: how-to-set-and-achieve-effective-sprint-goals
 aliases:
-- /blog/how-to-set-and-achieve-effective-sprint-goals
-- /how-to-set-and-achieve-effective-sprint-goals
-- /resources/gWfr1oRgAIq
-- /resources/blog/how-to-set-and-achieve-effective-sprint-goals
+  - /blog/how-to-set-and-achieve-effective-sprint-goals
+  - /how-to-set-and-achieve-effective-sprint-goals
+  - /resources/gWfr1oRgAIq
+  - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 aliasesArchive:
-- /blog/how-to-set-and-achieve-effective-sprint-goals
-- /how-to-set-and-achieve-effective-sprint-goals
-- /resources/blog/how-to-set-and-achieve-effective-sprint-goals
+  - /blog/how-to-set-and-achieve-effective-sprint-goals
+  - /how-to-set-and-achieve-effective-sprint-goals
+  - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 layout: blog
 concepts:
-- Practice
+  - Practice
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Software Development
-- Scrum Team
-- Professional Scrum
-- Agile Product Management
-- Agile Planning
-- Agile Frameworks
-- Product Delivery
-- Team Performance
-- Value Delivery
-- Pragmatic Thinking
-- Working Software
+  - Software Development
+  - Scrum Team
+  - Professional Scrum
+  - Agile Product Management
+  - Agile Planning
+  - Agile Frameworks
+  - Product Delivery
+  - Team Performance
+  - Value Delivery
+  - Pragmatic Thinking
+  - Working Software
 Watermarks:
   description: 2025-05-07T13:09:09Z
   short_title: 2025-07-07T17:52:45Z
+  tldr: 2025-08-07T12:59:20Z
 ResourceImportId: 50115
 AudioNative: true
 creator: Martin Hinshelwood

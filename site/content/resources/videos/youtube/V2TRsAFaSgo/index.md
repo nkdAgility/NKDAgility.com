@@ -2,8 +2,14 @@
 title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
 short_title: Breaking Free from Vendor Lock-In
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
+tldr: Vendor lock-in from legacy contracts and proprietary systems limits your team’s ability to adapt, often forcing you to work around outdated decisions and maintain inflexible vendor models. To regain control, identify your real constraints, map dependencies, and enable transparent decision-making that prioritises your business needs. Focus on building flexibility into your systems and processes rather than simply replacing tools, and start by challenging existing assumptions and mapping where you are truly locked in.
 date: 2025-05-19T06:00:00Z
-weight: 435
+lastmod: 2025-05-19T06:00:00Z
+weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: V2TRsAFaSgo
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 aliases:
-- /resources/V2TRsAFaSgo
-- /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
-- /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
+  - /resources/V2TRsAFaSgo
+  - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
+  - /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
 aliasesArchive:
-- /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
-- 7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
-- /resources/videos/7-breaking-vendor-lock-in.-how-to-regain-control-over-your-tech-stack
-- /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
-- breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
+  - /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
+  - 7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
+  - /resources/videos/7-breaking-vendor-lock-in.-how-to-regain-control-over-your-tech-stack
+  - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
+  - breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T20:44:16Z
   short_title: 2025-07-07T16:44:07Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:32:05Z
 videoId: V2TRsAFaSgo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/V2TRsAFaSgo/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB05ovsBHZnXeNh_vVF3uBe0tQCCA
 duration: 110
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

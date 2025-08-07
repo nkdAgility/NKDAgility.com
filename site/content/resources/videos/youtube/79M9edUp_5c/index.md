@@ -2,8 +2,14 @@
 title: 'Embracing Asynchronous Communication: Transform Your Collaboration and Boost Productivity'
 short_title: Embracing Asynchronous Communication
 description: Discover how asynchronous communication improves team collaboration, flexibility, and productivity by enabling thoughtful, documented interactions without time constraints.
+tldr: Asynchronous communication increases flexibility, reduces pressure, and improves collaboration by allowing team members to contribute on their own schedules and providing clear documentation. Shifting away from constant meetings can boost productivity and lead to more thoughtful input. Development managers should set clear expectations, use the right tools, and balance async work with occasional check-ins to get the most benefit.
 date: 2023-09-26T07:00:02Z
-weight: 1000
+lastmod: 2023-09-26T07:00:02Z
+weight: 875
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 79M9edUp_5c
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 aliases:
-- /resources/79M9edUp_5c
-- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
-- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
+  - /resources/79M9edUp_5c
+  - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
+  - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
+  - /resources/videos/5-tools-that-scrum-masters-love-part-4
 aliasesArchive:
-- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
-- /resources/5-tools-that-scrum-masters-love-part-4
-- embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
+  - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
+  - /resources/videos/5-tools-that-scrum-masters-love-part-4
+  - /resources/5-tools-that-scrum-masters-love-part-4
+  - embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Asynchronous Development
+  - Asynchronous Development
 Watermarks:
   description: 2025-05-07T13:09:19Z
   short_title: 2025-07-07T17:52:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:42Z
 videoId: 79M9edUp_5c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

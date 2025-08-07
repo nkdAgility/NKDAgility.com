@@ -1,37 +1,40 @@
 ---
 title: 'Project Server 2013 Issue - TF294003: Cannot access the following PWA instance'
 description: Explains how to resolve TF294003 errors when connecting Team Foundation Server 2012 to Project Server 2013 by updating the TFS service account permissions.
+date: 2012-11-02
+lastmod: 2012-11-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YXA8oHuhkaD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9096
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-11-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliases:
-- /resources/YXA8oHuhkaD
+  - /resources/YXA8oHuhkaD
 aliasesArchive:
-- /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /project-server-2013-issue
-- /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
-- /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
-- /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-tags:
-- Troubleshooting
-- Install and Configuration
+  - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+  - /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+  - /project-server-2013-issue
+  - /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
+  - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
+  - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-6-6.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:17Z
-concepts: []
+ResourceImportId: 9096
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-6-6.png
 
 ---
 When you try to call the binding command to map a Team Project Collection in Team Foundation Server 2012 to a Project Server 2013 Web Instance you can get a “TF294003” error.

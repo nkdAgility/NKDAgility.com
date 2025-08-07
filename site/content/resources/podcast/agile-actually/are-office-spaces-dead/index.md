@@ -2,8 +2,14 @@
 title: Are office spaces dead
 short_title: Are Office Spaces Dead? Remote Work Impact
 description: Explores how remote work is changing office life, training, coaching, and consulting, with insights from experienced agile coaches and professional Scrum trainers.
+tldr: Martin and Simon discuss whether traditional office work is obsolete, highlighting how remote work has changed the effectiveness of agile training, coaching, and consulting. They share that remote approaches can be surprisingly effective, challenging assumptions about in-person work. Development managers should consider how remote options might enhance team learning and consulting outcomes.
 date: 2023-06-01
-weight: 1000
+lastmod: 2023-06-01
+weight: 915
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: HRq1a_8gAJF
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: are-office-spaces-dead
 aliases:
-- /resources/HRq1a_8gAJF
+  - /resources/HRq1a_8gAJF
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:59Z
   short_title: 2025-07-07T17:54:55Z
+  tldr: 2025-08-07T13:04:26Z
 resourceTypes: podcast
 
 ---

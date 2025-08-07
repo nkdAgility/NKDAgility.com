@@ -2,8 +2,14 @@
 title: How Do You Know the Value Currently Delivered in Your Organization?
 short_title: Measuring Value Delivered with Evidence-Based Management
 description: Learn how Evidence-Based Management helps organisations measure delivered value using key metrics like customer satisfaction, employee engagement, and product usage data.
+tldr: Evidence-Based Management helps organizations measure and improve the value they deliver by using key metrics like customer satisfaction, employee engagement, revenue per employee, product cost ratio, and customer usage. This approach enables clearer goals, better decisions, and ongoing improvement by relying on data instead of assumptions. Start small with relevant metrics, involve your team, and regularly review results to drive meaningful change.
 date: 2024-01-23T11:00:05Z
+lastmod: 2024-01-23T11:00:05Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 5qtS7DYGi5Q
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-do-you-know-the-value-currently-delivered-in-your-organization
 aliases:
-- /resources/5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+  - /resources/5qtS7DYGi5Q
+  - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+  - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 aliasesArchive:
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+  - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+  - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+  - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+  - how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Evidence Based Leadership
-- Decision Making
-- Evidence Based Management
-- Current Value
-- Continuous Improvement
-- Ability to Innovate
-- Pragmatic Thinking
-- Operational Practices
-- Customer Focus
-- Metrics and Learning
-- Customer Satisfaction
-- Value Delivery
+  - Evidence Based Leadership
+  - Decision Making
+  - Evidence Based Management
+  - Current Value
+  - Continuous Improvement
+  - Ability to Innovate
+  - Pragmatic Thinking
+  - Operational Practices
+  - Social Technologies
+  - Customer Focus
+  - Metrics and Learning
+  - Customer Satisfaction
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:06:19Z
   short_title: 2025-07-07T17:50:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:50Z
 videoId: 5qtS7DYGi5Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
 duration: 37
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
 short_title: Patience and Inclusivity in Agile Transformation
 description: Explores the importance of patience in agile adoption, highlighting inclusive decision-making, stakeholder engagement, and thoughtful organisational change for lasting impact.
+tldr: Rushing into agile practices without fully understanding their impact can lead to shallow adoption and missed opportunities. True transformation requires involving your team in decision-making, aligning organisational and individual goals, and using inclusive tools to support cultural change. Take a deliberate, thoughtful approach to implementing agile and seek expert guidance if needed to ensure lasting results.
 date: 2023-12-04T08:39:06Z
+lastmod: 2023-12-04T08:39:06Z
 weight: 800
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vftc6m70a0w
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 aliases:
-- /resources/vftc6m70a0w
-- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
-- /resources/videos/7-virtues-of-agile-chastity
+  - /resources/vftc6m70a0w
+  - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+  - /resources/videos/7-virtues-of-agile-chastity
 aliasesArchive:
-- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
-- /resources/videos/7-virtues-of-agile-chastity
-- /resources/7-virtues-of-agile-chastity
-- embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+  - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+  - /resources/videos/7-virtues-of-agile-chastity
+  - /resources/7-virtues-of-agile-chastity
+  - embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
-tags: []
+  - Leadership
+tags:
+  - Enterprise Agility
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:07:19Z
   short_title: 2025-07-07T17:51:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:51Z
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

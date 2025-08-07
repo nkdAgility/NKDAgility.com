@@ -1,32 +1,35 @@
 ---
 title: Allow user to change the region for Windows Live ID billing
 description: Explains the challenges users face when unable to change the billing region for Windows Live ID, affecting access to Microsoft services after moving countries.
+date: 2011-10-01
+lastmod: 2011-10-01
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: v_DNTz1r6-H
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3830
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-10-01
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: allow-user-to-change-the-region-for-windows-live-id-billing
 aliases:
-- /resources/v_DNTz1r6-H
+  - /resources/v_DNTz1r6-H
 aliasesArchive:
-- /blog/allow-user-to-change-the-region-for-windows-live-id-billing
-- /allow-user-to-change-the-region-for-windows-live-id-billing
-- /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
-tags: []
+  - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
+  - /allow-user-to-change-the-region-for-windows-live-id-billing
+  - /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:05Z
-concepts: []
+ResourceImportId: 3830
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-2-2.png
 
 ---
 ![img_33742_microsoft-windows-live-logo_450x360](images/img_33742_microsoft-windows-live-logo_450x360-1-1.jpg "img_33742_microsoft-windows-live-logo_450x360")Recently I was burned rather heavily be Microsoft Billing due to their inability to change the region (country) of an account. Yes, you heard me right, there is NO way to change your billing region and the ONLY solution Microsoft can offer is to create a new account.

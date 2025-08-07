@@ -2,8 +2,14 @@
 title: Why Resilience Demands More Than Survival
 short_title: Why Resilience Demands More Than Survival
 description: True organisational resilience means improving technical health—like testing, automation, and architecture—beyond just surviving incidents or following Agile rituals.
+tldr: True resilience in software teams means improving technical health after setbacks, not just surviving them. Key practices include strengthening automated tests, CI/CD, observability, and architecture, while avoiding superficial Agile claims. Leaders should prioritize system health and sustainable delivery, making resilience a shared responsibility and ongoing investment.
 date: 2025-06-12
-weight: 215
+lastmod: 2025-06-12
+weight: 130
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 author: MrHinsh
 ResourceId: X2BzJPMloRw
 ResourceImport: false
@@ -11,21 +17,23 @@ ResourceType: newsletters
 ResourceContentOrigin: human
 slug: why-resilience-demands-more-than-survival
 aliases:
-- /resources/X2BzJPMloRw
+  - /resources/X2BzJPMloRw
 layout: newsletter
 concepts: []
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Operational Practices
-- Software Development
-- Technical Excellence
-- Technical Mastery
-- Pragmatic Thinking
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Technical Excellence
+  - Technical Mastery
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:02Z
   short_title: 2025-07-07T16:43:31Z
+  tldr: 2025-08-07T12:11:16Z
 resourceTypes: newsletter
 
 ---

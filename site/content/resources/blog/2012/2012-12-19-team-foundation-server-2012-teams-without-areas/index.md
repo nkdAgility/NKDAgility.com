@@ -1,37 +1,40 @@
 ---
 title: Teams without areas using a team field in TFS
 description: Explains how to configure TFS to manage teams using a custom team field instead of area paths, enabling flexible team-product assignments and streamlined backlogs.
+date: 2012-12-19
+lastmod: 2012-12-19
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 5IipWQTVLEo
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9188
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-12-19
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: team-foundation-server-2012-teams-without-areas
+slug: teams-without-areas-using-a-team-field-in-tfs
 aliases:
-- /resources/5IipWQTVLEo
+  - /resources/5IipWQTVLEo
 aliasesArchive:
-- /blog/team-foundation-server-2012-teams-without-areas
-- /team-foundation-server-2012-teams-without-areas
-- /teams-without-areas-using-a-team-field-in-tfs
-- /blog/teams-without-areas-using-a-team-field-in-tfs
-- /resources/blog/team-foundation-server-2012-teams-without-areas
-tags:
-- Software Development
-- Azure DevOps
-- Install and Configuration
+  - /blog/team-foundation-server-2012-teams-without-areas
+  - /team-foundation-server-2012-teams-without-areas
+  - /teams-without-areas-using-a-team-field-in-tfs
+  - /blog/teams-without-areas-using-a-team-field-in-tfs
+  - /resources/blog/team-foundation-server-2012-teams-without-areas
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-16-16.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Azure DevOps
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:04Z
-concepts: []
+ResourceImportId: 9188
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---
 Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.

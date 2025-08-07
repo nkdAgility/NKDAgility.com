@@ -2,8 +2,14 @@
 title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 short_title: Cultivating Patience in Agile Teams
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
+tldr: Patience is essential for agile teams to build trust, avoid blame, and support growth, leading to better collaboration and outcomes. Leaders should set realistic expectations, encourage open communication, and model patient behavior to foster a healthy team environment. Take time to invest in team development and celebrate progress to enable long-term success.
 date: 2023-12-08T11:00:09Z
+lastmod: 2023-12-08T11:00:09Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 4p5xeJZXvcE
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 aliases:
-- /resources/4p5xeJZXvcE
-- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
-- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
-- /resources/videos/-shorts-7-virtues-of-agile-patience
+  - /resources/4p5xeJZXvcE
+  - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+  - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
+  - /resources/videos/-shorts-7-virtues-of-agile-patience
 aliasesArchive:
-- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
-- /resources/videos/-shorts-7-virtues-of-agile-patience
-- /resources/-shorts-7-virtues-of-agile-patience
-- cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+  - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
+  - /resources/videos/-shorts-7-virtues-of-agile-patience
+  - /resources/-shorts-7-virtues-of-agile-patience
+  - cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Team Motivation
-- Organisational Culture
-- Team Collaboration
-- Team Performance
+  - Team Motivation
+  - Organisational Culture
+  - Team Collaboration
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:07:07Z
   short_title: 2025-07-07T17:51:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:30Z
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

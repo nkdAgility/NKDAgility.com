@@ -2,8 +2,14 @@
 title: How good is the APSPO course in helping leaders determine product direction and Why?
 short_title: APSPOA Course for Product Direction & Leadership
 description: Explores how the APSPOA course equips product owners and leaders with tools and techniques to shape product direction and develop key Agile leadership skills.
+tldr: The APSPO course does not directly tell leaders how to set product direction, but it provides valuable tools and frameworks that help them identify gaps and strengthen their approach. It highlights six key roles for product owners, encouraging a balance between customer focus, innovation, collaboration, and decisive leadership. Leaders should use the course to broaden their skills and continuously improve their product ownership capabilities.
 date: 2023-03-22T07:00:17Z
+lastmod: 2023-03-22T07:00:17Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: nTxn_izPBFQ
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 aliases:
-- /resources/nTxn_izPBFQ
-- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+  - /resources/nTxn_izPBFQ
+  - /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+  - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 aliasesArchive:
-- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+  - /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+  - /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+  - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+  - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+  - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+  - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+  - how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Owner
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:13:35Z
   short_title: 2025-07-07T17:56:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:19Z
 videoId: nTxn_izPBFQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

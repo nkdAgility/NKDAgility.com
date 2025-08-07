@@ -2,8 +2,14 @@
 title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
 short_title: Telemetry in the Definition of Done
 description: Stop flying blind after release—learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
+tldr: Shipping software without telemetry leaves teams guessing about usage, performance, and user behavior, which prevents learning and improvement. Teams that make telemetry a core part of their Definition of Done catch issues early, validate outcomes with real data, and make better decisions. To deliver real value, define telemetry needs upfront, automate data collection, review feedback regularly, and act on what you learn.
 date: 2025-06-11T06:45:00Z
-weight: 225
+lastmod: 2025-06-11T06:45:00Z
+weight: 200
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: Nj4BIom2Jeg
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,44 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
 aliases:
-- /resources/Nj4BIom2Jeg
-- /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done-Nj4BIom2Jeg
-- /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
-- /resources/videos/6-telemetry-as-part-of-done
+  - /resources/Nj4BIom2Jeg
+  - /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done-Nj4BIom2Jeg
+  - /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
+  - /resources/videos/6-telemetry-as-part-of-done
 aliasesArchive:
-- /resources/videos/6-telemetry-as-part-of-done
-- 6-telemetry-as-part-of-done-Nj4BIom2Jeg
-- /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
-- stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done-Nj4BIom2Jeg
+  - /resources/videos/6-telemetry-as-part-of-done
+  - 6-telemetry-as-part-of-done-Nj4BIom2Jeg
+  - /resources/videos/stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
+  - stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done-Nj4BIom2Jeg
 source: youtube
 layout: video
 concepts:
-- Observability
+  - Observability
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Product Development
+  - Engineering Excellence
+  - DevOps
 tags:
-- Metrics and Learning
-- Customer Focus
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Definition of Done
-- Technical Mastery
-- Product Delivery
-- Current Value
+  - Metrics and Learning
+  - Customer Focus
+  - Software Development
+  - Operational Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Definition of Done
+  - Technical Mastery
+  - Product Delivery
+  - Current Value
 Watermarks:
   description: 2025-05-07T19:44:58Z
   short_title: 2025-07-07T16:43:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:11:21Z
 videoId: Nj4BIom2Jeg
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Nj4BIom2Jeg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBgp0NBhnpxnYEAD20FJlWRozI5gQ
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

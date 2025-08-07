@@ -2,8 +2,14 @@
 title: 'Why Agile Success Lies in Principles, Not Tools: A Shift in Focus'
 short_title: 'Agile Success: Principles Over Tools'
 description: Agile success depends on core principles like adaptability and collaboration, not just tools or frameworks. Focusing on principles leads to better decisions and lasting results.
+tldr: Focusing on Agile principles rather than tools leads to better decision-making, consistency, and long-term team success. Overreliance on tools can create rigid, ineffective processes, while principles support adaptability and collaboration. Development managers should reflect on whether their teams are prioritising principles and consider shifting their focus to foster continuous improvement.
 date: 2023-05-03T07:00:33Z
-weight: 1000
+lastmod: 2023-05-03T07:00:33Z
+weight: 760
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: y2TObrUi3m0
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
 aliases:
-- /resources/y2TObrUi3m0
-- /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
+  - /resources/y2TObrUi3m0
+  - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
+  - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 aliasesArchive:
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
-- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
-- what-should-have-been-way-more-popular-in-agile-than-it-currently-is
-- /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-- why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
+  - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
+  - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+  - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+  - what-should-have-been-way-more-popular-in-agile-than-it-currently-is
+  - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
+  - why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Values and Principles
-- Agile Philosophy
-- Agnostic Agile
-- Software Development
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Agnostic Agile
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:47Z
   short_title: 2025-07-07T17:55:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:41Z
 videoId: y2TObrUi3m0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

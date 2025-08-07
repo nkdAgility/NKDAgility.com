@@ -2,27 +2,34 @@
 title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
 short_title: How Robots and AI Restore Human Dignity
 description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and meaningful tasks.
+tldr: AI and automation are not threats to jobs but are removing repetitive, dehumanising work, allowing people to focus on creative and meaningful tasks. Organisations that cling to outdated management practices like bonuses, rigid hierarchies, and output-based measures risk becoming obsolete, while those that foster autonomy and purpose will thrive. Development managers should embrace AI to elevate human potential and shift their teams toward work that requires critical thinking and innovation.
 date: 2025-05-19T09:00:00Z
+lastmod: 2025-05-19T09:00:00Z
 weight: 645
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: F0yVBj8Tx8H
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 aliases:
-- /resources/F0yVBj8Tx8H
+  - /resources/F0yVBj8Tx8H
 aliasesArchive:
-- /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
-- /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
+  - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
+  - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 concepts:
-- Philosophy
+  - Philosophy
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Organisational Agility
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:06Z
   short_title: 2025-07-07T16:44:06Z
+  tldr: 2025-08-07T12:32:03Z
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

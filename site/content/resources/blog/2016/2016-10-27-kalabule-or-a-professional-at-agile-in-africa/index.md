@@ -2,28 +2,36 @@
 title: Kalabule or a Professional at Agile in Africa
 short_title: Professionalism vs Kalabule in Agile Africa
 description: Explores the contrast between unprofessional "kalabule" practices and true professionalism in Agile software development, emphasising core values and industry standards.
+tldr: Many software teams in Africa still operate unprofessionally, delivering poor results and blaming management, but customers should demand regular delivery of working software that meets their needs. Adopting true professionalism requires more than just following Scrum rituals or engineering practices; it means embracing values like courage, focus, commitment, respect, and openness. Development managers should lead by example and foster these values to raise industry standards and deliver better outcomes.
 date: 2016-10-27
+lastmod: 2016-10-27
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: yUp0v2lyPX6
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
-- /resources/yUp0v2lyPX6
+  - /resources/yUp0v2lyPX6
 aliasesArchive:
-- /blog/kalabule-or-a-professional-at-agile-in-africa
-- /kalabule-or-a-professional-at-agile-in-africa
-- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
+  - /blog/kalabule-or-a-professional-at-agile-in-africa
+  - /kalabule-or-a-professional-at-agile-in-africa
+  - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Scrum Values
+  - Scrum Values
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:16:40Z
   short_title: 2025-07-07T17:58:55Z
+  tldr: 2025-08-07T13:24:08Z
 ResourceImportId: 11642
 creator: Martin Hinshelwood
 resourceTypes: blog

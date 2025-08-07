@@ -1,38 +1,41 @@
 ---
 title: 'Guidance: A Branching strategy for Scrum Teams'
 description: Explains an effective branching strategy for Scrum teams, covering best practices, common pitfalls, and step-by-step guidance for managing code, releases, and bug fixes.
+date: 2010-04-14
+lastmod: 2010-04-14
+weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: kxyZ3s8u340
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 50
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-14
-weight: 430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: guidance-a-branching-strategy-for-scrum-teams
 aliases:
-- /resources/kxyZ3s8u340
+  - /resources/kxyZ3s8u340
 aliasesArchive:
-- /blog/guidance-a-branching-strategy-for-scrum-teams
-- /guidance-a-branching-strategy-for-scrum-teams
-- /guidance--a-branching-strategy-for-scrum-teams
-- /blog/guidance--a-branching-strategy-for-scrum-teams
-- /resources/blog/guidance-a-branching-strategy-for-scrum-teams
-tags:
-- Software Development
-- Modern Source Control
-- Operational Practices
-- Release Management
+  - /blog/guidance-a-branching-strategy-for-scrum-teams
+  - /guidance-a-branching-strategy-for-scrum-teams
+  - /guidance--a-branching-strategy-for-scrum-teams
+  - /blog/guidance--a-branching-strategy-for-scrum-teams
+  - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-visual-studio-2010-128-link-18-18.png
+  - Scrum
+tags:
+  - Software Development
+  - Modern Source Control
+  - Operational Practices
+  - Release Management
 Watermarks:
   description: 2025-05-13T15:22:11Z
-concepts: []
+ResourceImportId: 50
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!

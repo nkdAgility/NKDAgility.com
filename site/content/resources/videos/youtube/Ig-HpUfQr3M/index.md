@@ -2,8 +2,14 @@
 title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 short_title: Maximising Product Value with Hypothesis-Driven Engineering
 description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, measuring outcomes, and learning from failure to guide investment decisions.
+tldr: Focusing on hypothesis-driven engineering helps teams maximise product value by testing ideas with small experiments, measuring outcomes, and quickly adapting based on real customer feedback. The Azure DevOps team’s experience showed that even costly initiatives can provide critical learning, allowing resources to be redirected before larger losses occur. Development managers should encourage rapid experimentation and validation at all levels to ensure investments deliver real value and support agility.
 date: 2024-12-11T06:30:00Z
+lastmod: 2024-12-11T06:30:00Z
 weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: Ig-HpUfQr3M
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
 aliases:
-- /resources/Ig-HpUfQr3M
-- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
-- /resources/videos/monitoring-and-measuring-for-success
+  - /resources/Ig-HpUfQr3M
+  - /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
+  - /resources/videos/monitoring-and-measuring-for-success
 aliasesArchive:
-- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
-- /resources/videos/monitoring-and-measuring-for-success
-- /resources/monitoring-and-measuring-for-success
-- maximising-product-value-the-power-of-hypothesis-driven-engineering
+  - /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
+  - /resources/videos/monitoring-and-measuring-for-success
+  - /resources/monitoring-and-measuring-for-success
+  - maximising-product-value-the-power-of-hypothesis-driven-engineering
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Customer Focus
-- Value Delivery
-- Experimentation
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Agile Product Management
-- Organisational Agility
-- Business Agility
-- Product Discovery
-- Product Validation
-- Metrics and Learning
+  - Customer Focus
+  - Value Delivery
+  - Experimentation
+  - Hypothesis Driven Development
+  - Pragmatic Thinking
+  - Agile Product Management
+  - Organisational Agility
+  - Business Agility
+  - Product Discovery
+  - Product Validation
+  - Metrics and Learning
+  - Lean Product Development
 Watermarks:
   description: 2025-05-07T12:56:46Z
   short_title: 2025-07-07T17:47:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:01Z
 videoId: Ig-HpUfQr3M
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
 duration: 501
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

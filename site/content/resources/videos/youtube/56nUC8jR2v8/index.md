@@ -2,8 +2,14 @@
 title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Workplace'
 short_title: Challenging Taylorism for True Agility
 description: Explores how outdated Taylorist management limits creativity and true agility, offering ways to spot and overcome ineffective agile practices for better teamwork and innovation.
+tldr: Many organizations still follow outdated management styles that prioritize efficiency over creativity, which stifles innovation and true agility. Overemphasis on metrics, lack of team autonomy, and rigid processes are signs of this problem and can lead to superficial agile adoption. Development managers should focus on fostering genuine collaboration, flexibility, and a culture that values creativity to achieve real agility.
 date: 2020-06-24T17:48:17Z
-weight: 1000
+lastmod: 2020-06-24T17:48:17Z
+weight: 715
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 56nUC8jR2v8
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
 aliases:
-- /resources/56nUC8jR2v8
+  - /resources/56nUC8jR2v8
 aliasesArchive:
-- /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
-- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
-- challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
+  - /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
+  - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+  - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+  - challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-05-07T13:15:33Z
   short_title: 2025-07-07T17:57:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:21Z
 videoId: 56nUC8jR2v8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
 short_title: Empowering Teams to Tailor Processes
 description: Explains why empowering teams to adapt their processes boosts agility, reduces waste, and fosters innovation, using real-world examples and practical steps for organisations.
+tldr: Empowering teams to adapt their processes to their specific needs leads to greater value, less waste, and more innovation, while rigid, one-size-fits-all processes can cause delays, unnecessary costs, and frustration. Development managers should assess whether their teams have the freedom to experiment, minimize bureaucracy, and focus on delivering customer value rather than just following procedures. To achieve true agility, encourage teams to tailor their ways of working and continuously improve based on what they learn.
 date: 2024-07-26T06:45:00Z
+lastmod: 2024-07-26T06:45:00Z
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 5H9rOGhTB88
 ResourceImport: true
 ResourceType: videos
@@ -11,52 +17,50 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 aliases:
-- /resources/5H9rOGhTB88
-- /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
+  - /resources/5H9rOGhTB88
+  - /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
+  - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
 aliasesArchive:
-- /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-- /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
-- /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
-- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
-- empowering-teams-to-tailor-their-processes-a-path-to-true-agility
+  - /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
+  - /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
+  - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
+  - /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
+  - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
+  - empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Leadership
-- Lean
+  - Product Development
+  - Leadership
+  - Lean
 tags:
-- Agile Strategy
-- Agile Transformation
-- Organisational Agility
-- Agile Philosophy
-- Self Organisation
-- Team Motivation
-- Pragmatic Thinking
-- Agile Values and Principles
-- Agile Leadership
-- Operational Practices
-- Organisational Culture
-- Team Performance
-- Business Agility
-- Continuous Improvement
-- Agnostic Agile
+  - Agile Strategy
+  - Agile Transformation
+  - Organisational Agility
+  - Agile Philosophy
+  - Self Organisation
+  - Team Motivation
+  - Pragmatic Thinking
+  - Agile Values and Principles
+  - Agile Leadership
+  - Operational Practices
+  - Organisational Culture
+  - Team Performance
+  - Change Management
+  - Business Agility
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:02:28Z
   short_title: 2025-07-07T17:48:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:39Z
 videoId: 5H9rOGhTB88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
 duration: 488
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

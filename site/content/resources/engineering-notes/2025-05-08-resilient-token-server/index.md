@@ -2,36 +2,43 @@
 title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
 short_title: Building a Resilient Token Server for Fault Tolerance
 description: Explains how to engineer a robust, fault-tolerant token counting server using FastAPI and PowerShell, covering error handling, retries, fallbacks, and resilient workflows.
+tldr: Aiming for a resilient, fast, and fault-tolerant token counting system, the author replaced fragile server restarts with a batch-wide server lifecycle, added retry logic for transient failures, and implemented a local fallback to ensure uninterrupted processing. These changes improved reliability, reduced downtime, and provided clear logs for troubleshooting. Development managers should focus on building systems that handle real-world failures gracefully, prioritize flow, and include observability and fallback mechanisms from the start.
 date: 2025-05-08T09:00:00Z
-weight: 260
+lastmod: 2025-05-08T09:00:00Z
+weight: 255
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: mjsboLP-N9P
 ResourceImport: false
 ResourceType: engineering-notes
 ResourceContentOrigin: human
 slug: building-a-resilient-token-server-engineering-for-flow-fault-tolerance-and-speed
 aliases:
-- /resources/mjsboLP-N9P
+  - /resources/mjsboLP-N9P
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Pragmatic Thinking
-- Software Development
-- Technical Mastery
-- Operational Practices
-- Troubleshooting
-- Personal
-- Continuous Improvement
-- Engineering Practices
-- Working Software
-- Technical Excellence
-- Site Reliability Engineering
-- System Configuration
+  - Pragmatic Thinking
+  - Software Development
+  - Technical Mastery
+  - Operational Practices
+  - Troubleshooting
+  - Personal
+  - Continuous Improvement
+  - Engineering Practices
+  - Working Software
+  - Technical Excellence
+  - Site Reliability Engineering
+  - System Configuration
 Watermarks:
   description: 2025-05-07T12:49:10Z
   short_title: 2025-07-07T16:44:24Z
+  tldr: 2025-08-07T12:32:42Z
 
 ---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.

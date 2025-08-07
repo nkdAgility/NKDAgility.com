@@ -2,41 +2,48 @@
 title: Professional Organisational Change at the Ghana Police Service
 short_title: Professional Organisational Change Ghana Police
 description: Explores the Ghana Police Service’s shift to a modern, professional model using servant leadership, agile frameworks, and strategic change to restore public trust and effectiveness.
+tldr: The Ghana Police Service is undergoing a major transformation to address long-standing issues by adopting a clear vision, a strategic framework based on Scrum, and empowering change agents across the organization. Top leadership, including the IGP and the President, are fully committed, and the approach emphasizes servant leadership, transparency, and adapting frameworks like Kanban to fit unique team needs. Development managers should note that lasting change requires a flexible framework rather than rigid methodologies, with leadership focused on enabling teams rather than controlling them.
 date: 2017-09-04
+lastmod: 2017-09-04
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: yv8bhGf1MfF
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: professional-organisational-change-at-the-ghana-police-service
 aliases:
-- /resources/yv8bhGf1MfF
+  - /resources/yv8bhGf1MfF
 aliasesArchive:
-- /blog/professional-organisational-change-ghana-police-service
-- /professional-organisational-change-ghana-police-service
-- /professional-organisational-change-at-the-ghana-police-service
-- /blog/professional-organisational-change-at-the-ghana-police-service
-- /resources/blog/professional-organisational-change-ghana-police-service
+  - /blog/professional-organisational-change-ghana-police-service
+  - /professional-organisational-change-ghana-police-service
+  - /professional-organisational-change-at-the-ghana-police-service
+  - /blog/professional-organisational-change-at-the-ghana-police-service
+  - /resources/blog/professional-organisational-change-ghana-police-service
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Leadership
-- Scrum
+  - Leadership
+  - Scrum
 tags:
-- Agile Leadership
-- Change Management
-- Organisational Change
-- Pragmatic Thinking
-- Agile Transformation
-- Organisational Agility
-- Sociotechnical Systems
-- Digital Transformation
-- Organisational Culture
-- Organisational Physics
+  - Change Management
+  - Agile Leadership
+  - Organisational Change
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Organisational Agility
+  - Sociotechnical Systems
+  - Digital Transformation
+  - Organisational Culture
+  - Organisational Physics
 Watermarks:
   description: 2025-05-07T13:16:28Z
   short_title: 2025-07-07T17:58:42Z
+  tldr: 2025-08-07T13:13:36Z
 ResourceImportId: 12011
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -1,35 +1,38 @@
 ---
 title: Installing Visual Studio Team Foundation Server Service Pack 1
 description: Step-by-step guide to installing Visual Studio Team Foundation Server 2010 Service Pack 1, including troubleshooting tips for common installation errors and solutions.
+date: 2011-03-10
+lastmod: 2011-03-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LpdTshxayAB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-03-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
-- /resources/LpdTshxayAB
+  - /resources/LpdTshxayAB
 aliasesArchive:
-- /blog/installing-visual-studio-team-foundation-server-service-pack-1
-- /installing-visual-studio-team-foundation-server-service-pack-1
-- /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
-tags:
-- Install and Configuration
-- Windows
-- Troubleshooting
-- System Configuration
+  - /blog/installing-visual-studio-team-foundation-server-service-pack-1
+  - /installing-visual-studio-team-foundation-server-service-pack-1
+  - /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - Troubleshooting
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:10:58Z
-concepts: []
+ResourceImportId: 8
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [![vs2010logo](images/Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb-14-14.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!

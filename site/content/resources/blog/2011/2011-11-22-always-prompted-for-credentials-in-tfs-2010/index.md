@@ -1,37 +1,40 @@
 ---
 title: Always prompted for credentials in TFS 2010?
 description: Explains why TFS 2010 repeatedly prompts for credentials and how to resolve it by configuring your domain as an intranet site in Internet Explorer settings.
+date: 2011-11-22
+lastmod: 2011-11-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: fESk_RDaaIB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4071
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: always-prompted-for-credentials-in-tfs-2010
 aliases:
-- /resources/fESk_RDaaIB
+  - /resources/fESk_RDaaIB
 aliasesArchive:
-- /blog/always-prompted-for-credentials-in-tfs-2010
-- /always-prompted-for-credentials-in-tfs-2010
-- /always-prompted-for-credentials-in-tfs-2010-
-- /blog/always-prompted-for-credentials-in-tfs-2010-
-- /resources/blog/always-prompted-for-credentials-in-tfs-2010
-tags:
-- Troubleshooting
-- Install and Configuration
-- Windows
-preview: metro-visual-studio-2005-128-link-6-6.png
+  - /blog/always-prompted-for-credentials-in-tfs-2010
+  - /always-prompted-for-credentials-in-tfs-2010
+  - /always-prompted-for-credentials-in-tfs-2010-
+  - /blog/always-prompted-for-credentials-in-tfs-2010-
+  - /resources/blog/always-prompted-for-credentials-in-tfs-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:09:52Z
-concepts: []
+ResourceImportId: 4071
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)

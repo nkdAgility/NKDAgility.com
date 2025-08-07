@@ -2,8 +2,14 @@
 title: How does the APS course help people apply scrum effectively?
 short_title: Applying Professional Scrum (APS) Course Guide
 description: Explains how the APS course uses practical exercises and simulations to help people understand, apply, and improve scrum practices in real-world organisational settings.
+tldr: The APS course uses hands-on simulations to help participants deeply understand scrum, recognize common dysfunctions in traditional and current agile practices, and learn how to apply scrum effectively even within organizational constraints. It highlights how traditional mindsets and policies can block team success and shows the value of aligning with scrum principles for better problem-solving and outcomes. Managers are encouraged to attend so they can see firsthand how their decisions impact teams and identify changes needed to support effective scrum adoption.
 date: 2023-01-18T08:57:16Z
+lastmod: 2023-01-18T08:57:16Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: grJFd9-R5Pw
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-the-aps-course-help-people-apply-scrum-effectively
 aliases:
-- /resources/grJFd9-R5Pw
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
+  - /resources/grJFd9-R5Pw
+  - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
 aliasesArchive:
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
-- how-does-the-aps-course-help-people-apply-scrum-effectively
+  - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
+  - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
+  - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
+  - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
+  - how-does-the-aps-course-help-people-apply-scrum-effectively
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Team Performance
-- Professional Scrum
-- Sociotechnical Systems
-- Agile Transformation
-- Agile Planning
-- Scrum Master
+  - Social Technologies
+  - Software Development
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Team Performance
+  - Professional Scrum
+  - Sociotechnical Systems
+  - Agile Transformation
+  - Agile Planning
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:14:32Z
   short_title: 2025-07-07T17:57:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:10Z
 videoId: grJFd9-R5Pw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
 duration: 416
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

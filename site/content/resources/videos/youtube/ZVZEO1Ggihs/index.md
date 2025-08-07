@@ -2,8 +2,14 @@
 title: 'Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling'
 short_title: Leadership for Sustainable Organisational Growth
 description: Effective scaling depends on strong leadership—empowering teams, removing bottlenecks, and decentralising decisions to enable sustainable organisational growth.
+tldr: Successful scaling in software development depends more on effective leadership than on technical solutions. Empowering teams, removing bottlenecks, and decentralising decision-making are key to sustainable growth. Development managers should focus on shaping leadership behaviours to create an environment where teams can scale effectively.
 date: 2025-02-24T10:12:43Z
-weight: 640
+lastmod: 2025-02-24T10:12:43Z
+weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: ZVZEO1Ggihs
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
 aliases:
-- /resources/ZVZEO1Ggihs
-- /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
-- /resources/videos/the-role-of-leadership-in-scalable-product-development
+  - /resources/ZVZEO1Ggihs
+  - /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
+  - /resources/videos/the-role-of-leadership-in-scalable-product-development
 aliasesArchive:
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
-- /resources/videos/the-role-of-leadership-in-scalable-product-development
-- unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
+  - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+  - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+  - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+  - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+  - /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
+  - /resources/videos/the-role-of-leadership-in-scalable-product-development
+  - unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Scaling
-- Agile Leadership
-- Enterprise Agility
-- Large Scale Agility
-- Organisational Agility
-- Organisational Culture
-- Sociotechnical Systems
+  - Social Technologies
+  - Scaling
+  - Agile Leadership
+  - Enterprise Agility
+  - Large Scale Agility
+  - Organisational Agility
+  - Organisational Culture
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T12:49:27Z
   short_title: 2025-07-07T17:46:09Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:51Z
 videoId: ZVZEO1Ggihs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZVZEO1Ggihs/maxresdefault.jpg
 duration: 77
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

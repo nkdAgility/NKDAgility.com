@@ -1,35 +1,38 @@
 ---
 title: Changing the Team Project Collection of the Team Build Controller
 description: Explains how to reconfigure a Team Build Controller in TFS 2010 to connect to a different Team Project Collection using the Administration Console and Build Service settings.
+date: 2010-07-05
+lastmod: 2010-07-05
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: n7Y4Ij-CPvp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 35
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-07-05
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: changing-the-team-project-collection-of-the-team-build-controller
 aliases:
-- /resources/n7Y4Ij-CPvp
+  - /resources/n7Y4Ij-CPvp
 aliasesArchive:
-- /blog/changing-the-team-project-collection-of-the-team-build-controller
-- /changing-the-team-project-collection-of-the-team-build-controller
-- /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
-tags:
-- Install and Configuration
-- Software Development
-- System Configuration
-preview: metro-SSWLogo-128-link-6-6.png
+  - /blog/changing-the-team-project-collection-of-the-team-build-controller
+  - /changing-the-team-project-collection-of-the-team-build-controller
+  - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:21:45Z
-concepts: []
+ResourceImportId: 35
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-6-6.png
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

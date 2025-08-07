@@ -2,8 +2,14 @@
 title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
 short_title: Azure DevOps Migration Tools Guide
 description: Learn how to use Azure DevOps Migration Tools for efficient, large-scale migrations, including setup, configuration, best practices, and community support for troubleshooting.
+tldr: Azure DevOps Migration Tools enable experienced teams to move work items and related data between environments efficiently, supporting features like syncing changes during migration and extensive customization. For best results, set up a dedicated environment, migrate open work items first, use date-based queries for updates, and monitor API performance. Engage with the active open-source community for support and improvements to ensure a smooth migration.
 date: 2019-10-17T19:16:03Z
-weight: 1000
+lastmod: 2019-10-17T19:16:03Z
+weight: 645
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: RCJsST0xBCE
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 aliases:
-- /resources/RCJsST0xBCE
+  - /resources/RCJsST0xBCE
 aliasesArchive:
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+  - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+  - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+  - /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+  - mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Azure DevOps
-- Install and Configuration
-- Software Development
-- System Configuration
+  - Azure DevOps
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-07T13:16:04Z
   short_title: 2025-07-07T17:58:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:52Z
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

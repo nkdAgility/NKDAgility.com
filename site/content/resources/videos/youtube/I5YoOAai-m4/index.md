@@ -2,8 +2,14 @@
 title: Agile Coach Versus Professional Coach
 short_title: Agile Coach vs Professional Coach Explained
 description: Compares Agile coaches, who offer deep expertise in Agile methods and drive team innovation, with professional coaches, who focus on guiding teams using existing knowledge.
+tldr: An Agile coach offers deep expertise in Agile methods and brings new tools and perspectives that can significantly boost team effectiveness, while a professional coach helps teams work through challenges they already understand. For teams aiming to improve their Agile practices and innovate, bringing in an Agile coach provides added value beyond general coaching. Consider engaging an Agile coach if your goal is to advance Agile and Scrum capabilities within your organisation.
 date: 2023-06-26T11:00:14Z
-weight: 665
+lastmod: 2023-06-26T11:00:14Z
+weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: I5YoOAai-m4
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-coach-versus-professional-coach
 aliases:
-- /resources/I5YoOAai-m4
-- /resources/videos/agile-coach-versus-professional-coach-I5YoOAai-m4
+  - /resources/I5YoOAai-m4
+  - /resources/videos/agile-coach-versus-professional-coach-I5YoOAai-m4
 aliasesArchive:
-- /resources/videos/agile-coach-versus-professional-coach
-- /resources/agile-coach-versus-professional-coach-2
-- /resources/agile-coach-versus-professional-coach
-- agile-coach-versus-professional-coach-I5YoOAai-m4
+  - /resources/videos/agile-coach-versus-professional-coach
+  - /resources/agile-coach-versus-professional-coach-2
+  - /resources/agile-coach-versus-professional-coach
+  - agile-coach-versus-professional-coach-I5YoOAai-m4
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:16Z
   short_title: 2025-07-07T17:54:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:54Z
 videoId: I5YoOAai-m4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

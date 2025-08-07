@@ -2,52 +2,59 @@
 title: We hear self-managing teams so often it become a cliché
 short_title: Self-Management in Scrum Teams Explained
 description: Explains how true self-management in Scrum requires active, disciplined effort from Product Owners, Scrum Masters, and Developers, not chaos or lack of structure.
+tldr: Self-management is essential for all Scrum roles, not just developers, and involves active, disciplined work in how Product Owners, Scrum Masters, and Developers fulfill their responsibilities. Scrum requires clear alignment and adaptive discipline, not a loose or chaotic approach. Development managers should ensure their teams understand and practice self-management as a structured, intentional process rather than mistaking it for a lack of direction.
 date: 2025-05-09T15:30:39+01:00
+lastmod: 2025-05-09T15:30:39+01:00
 weight: 310
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: FqiyqqNxjFS
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: we-hear-self-managing-teams-so-often-it-become-a-cliché
 aliases:
-- /resources/FqiyqqNxjFS
+  - /resources/FqiyqqNxjFS
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Social Technologies
-- Software Development
-- Scrum Team
-- Self Organisation
-- Professional Scrum
-- Pragmatic Thinking
-- Team Collaboration
-- Agile Product Management
-- Agile Philosophy
-- Organisational Agility
-- Product Delivery
-- Agile Frameworks
-- Team Motivation
-- Sociotechnical Systems
+  - Social Technologies
+  - Software Development
+  - Scrum Team
+  - Self Organisation
+  - Professional Scrum
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Agile Product Management
+  - Agile Philosophy
+  - Organisational Agility
+  - Product Delivery
+  - Agile Frameworks
+  - Team Motivation
+  - Sociotechnical Systems
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7326629685818179584
-  post_id: "7326629685818179584"
-  post_date: 2025-05-09T14:30:39Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7326629685818179584
+    post_id: "7326629685818179584"
+    post_date: 2025-05-09T14:30:39Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:54Z
   short_title: 2025-07-07T16:44:22Z
+  tldr: 2025-08-07T12:32:38Z
 
 ---
 We hear “self-managing teams” so often it’s become a cliché.

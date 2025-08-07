@@ -1,44 +1,44 @@
 ---
+title: A Step-by-Step Guide to Installing TFS 2013 on Windows Server 2012 R2
 description: Learn how to install Team Foundation Server 2013 on Windows Server 2012 R2, covering VM setup, system requirements, domain joining, SQL options, and step-by-step configuration.
 date: 2014-01-14T17:18:19Z
-ResourceId: U7wIQk1pus0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
+lastmod: 2014-01-14T17:18:19Z
 weight: 1000
-ResourceContentOrigin: AI
-tags:
-- Windows
-- Install and Configuration
-- System Configuration
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.1
+  changefreq: monthly
+ResourceId: U7wIQk1pus0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
+aliases:
+  - /resources/U7wIQk1pus0
+aliasesArchive:
+  - /resources/videos/install-tfs-basic
+  - /resources/videos/install-tfs-2013-basic
+  - /resources/install-tfs-2013-basic
+  - /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
+  - a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
+source: youtube
+layout: video
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:37Z
-concepts: []
-title: A Step-by-Step Guide to Installing TFS 2013 on Windows Server 2012 R2
 videoId: U7wIQk1pus0
-source: youtube
 url: /resources/videos/:slug
-slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
-layout: video
-aliases:
-- /resources/U7wIQk1pus0
-- /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
-- /resources/videos/install-tfs-2013-basic
-aliasesArchive:
-- /resources/videos/install-tfs-basic
-- /resources/videos/install-tfs-2013-basic
-- /resources/install-tfs-2013-basic
-- /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
-- a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

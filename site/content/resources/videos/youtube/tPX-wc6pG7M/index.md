@@ -2,8 +2,14 @@
 title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
 short_title: Engagement Drives Value in Agile Teams
 description: Explores how decentralising decision-making, fostering autonomy, and building a shared vision in agile teams can boost engagement and unlock greater organisational value.
+tldr: Organisations deliver the most value when they focus on engaging their teams, not just managing them. Empowering people through decentralised decision-making, inclusivity, and clear principles leads to higher morale, innovation, and better results. Development managers should prioritise creating an environment where everyone feels trusted, aligned with the vision, and motivated to contribute.
 date: 2023-09-28T10:27:47Z
-weight: 690
+lastmod: 2023-09-28T10:27:47Z
+weight: 550
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: tPX-wc6pG7M
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 aliases:
-- /resources/tPX-wc6pG7M
-- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-- /resources/videos/5-october-2023-agile-leader-webinar
+  - /resources/tPX-wc6pG7M
+  - /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+  - /resources/videos/5-october-2023-agile-leader-webinar
 aliasesArchive:
-- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-- /resources/videos/5-october-2023-agile-leader-webinar
-- /resources/5-october-2023-agile-leader-webinar
-- unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+  - /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+  - /resources/videos/5-october-2023-agile-leader-webinar
+  - /resources/5-october-2023-agile-leader-webinar
+  - unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 source: youtube
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Leadership
+  - Leadership
 tags:
-- Employee Engagement
-- Organisational Culture
-- Agile Philosophy
-- Sociotechnical Systems
-- Self Organisation
-- Social Technologies
-- Agile Leadership
-- Agile Strategy
-- Beta Codex
-- Organisational Agility
-- Organisational Change
-- Organisational Psychology
-- Team Motivation
-- Value Delivery
+  - Organisational Culture
+  - Employee Engagement
+  - Agile Philosophy
+  - Sociotechnical Systems
+  - Self Organisation
+  - Social Technologies
+  - Agile Values and Principles
+  - Agile Leadership
+  - Agile Strategy
+  - Beta Codex
+  - Organisational Agility
+  - Organisational Change
+  - Organisational Psychology
+  - Team Motivation
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:09:12Z
   short_title: 2025-07-07T17:52:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:26Z
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

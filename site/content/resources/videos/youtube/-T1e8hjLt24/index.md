@@ -2,8 +2,14 @@
 title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%'
 short_title: Continuous Learning for Top 10% Success
 description: Explains how continuous learning helps you stay relevant, seize new opportunities, and grow personally and professionally through reading, community, and experimentation.
+tldr: Continuous learning is essential for staying relevant and competitive in software development, as it helps you adapt to rapid changes, seize new opportunities, and grow personally. Regular reading, exploring diverse topics, engaging with the community, experimenting with new tools, and reflecting on what you learn are key habits. Make time for ongoing learning to maintain your edge and open up more opportunities for your team and yourself.
 date: 2023-12-19T11:00:00Z
+lastmod: 2023-12-19T11:00:00Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: -T1e8hjLt24
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 aliases:
-- /resources/-T1e8hjLt24
-- /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
-- /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
-- /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
+  - /resources/-T1e8hjLt24
+  - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
+  - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
+  - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 aliasesArchive:
-- /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-
-- /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
-- /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
-- /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
-- stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
+  - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-
+  - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
+  - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
+  - /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
+  - stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Competence
+  - Competence
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:06:47Z
   short_title: 2025-07-07T17:50:36Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:55Z
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

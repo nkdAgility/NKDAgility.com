@@ -2,8 +2,14 @@
 title: Does 'starting with why' - Simon Sinek - really matter?
 short_title: Does 'Starting with Why' Matter in Agile?
 description: Explores how defining purpose and starting with 'why' boosts motivation, engagement, and success in Agile teams, drawing on insights from Simon Sinek and Dan Pink.
+tldr: Starting with a clear purpose is essential for Agile teams because it boosts motivation, engagement, and alignment. Focusing on intrinsic motivators like autonomy, mastery, and purpose leads to better results than relying on financial incentives. Development managers should ensure their teams understand the broader vision and regularly connect daily work to that purpose for sustained success.
 date: 2023-10-19T08:22:23Z
+lastmod: 2023-10-19T08:22:23Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: sAKCLQ38GzA
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: does-'starting-with-why'-simon-sinek-really-matter
 aliases:
-- /resources/sAKCLQ38GzA
-- /resources/videos/does-starting-with-why-simon-sinek-really-matter
+  - /resources/sAKCLQ38GzA
+  - /resources/videos/does-starting-with-why-simon-sinek-really-matter
 aliasesArchive:
-- /resources/videos/does-starting-with-why-simon-sinek-really-matter
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
-- does-starting-with-why-simon-sinek-really-matter
+  - /resources/videos/does-starting-with-why-simon-sinek-really-matter
+  - /resources/does-starting-with-why-simon-sinek-really-matter
+  - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+  - /resources/does-'starting-with-why'-simon-sinek-really-matter-
+  - does-starting-with-why-simon-sinek-really-matter
 source: internal
 layout: video
-concepts:
-- Strategy
+concepts: []
 categories:
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Team Motivation
-- Agile Philosophy
-- Organisational Agility
+  - Team Motivation
+  - Agile Philosophy
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:08:39Z
   short_title: 2025-07-07T17:52:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:18Z
 videoId: sAKCLQ38GzA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

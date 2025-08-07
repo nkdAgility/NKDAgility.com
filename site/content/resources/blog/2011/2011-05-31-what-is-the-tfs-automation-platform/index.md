@@ -1,34 +1,37 @@
 ---
 title: What is the Tfs Automation Platform
 description: A platform for automating Team Foundation Server tasks, enabling scheduled, event-driven, and on-demand workflows, with extensible package and Visual Studio integration.
+date: 2011-05-31
+lastmod: 2011-05-31
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: AavdFKxGJg9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3373
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-05-31
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: what-is-the-tfs-automation-platform
 aliases:
-- /resources/AavdFKxGJg9
+  - /resources/AavdFKxGJg9
 aliasesArchive:
-- /blog/what-is-the-tfs-automation-platform
-- /what-is-the-tfs-automation-platform
-- /resources/blog/what-is-the-tfs-automation-platform
-tags:
-- Software Development
-- Internal Developer Platform
-preview: metro-visual-studio-2010-128-link-2-2.png
+  - /blog/what-is-the-tfs-automation-platform
+  - /what-is-the-tfs-automation-platform
+  - /resources/blog/what-is-the-tfs-automation-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:51Z
-concepts: []
+ResourceImportId: 3373
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-2-2.png
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb2-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif)The TFS Automation Platform is a project that will be developed initially as the [TFS Iteration Automation](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) project for the Rangers, but which has a grander  vision to solve a need for customers to have things just happen within TFS.

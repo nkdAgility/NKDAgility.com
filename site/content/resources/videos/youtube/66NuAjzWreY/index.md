@@ -2,8 +2,14 @@
 title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 short_title: Evidence-Based Management in Agile
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
+tldr: Evidence-Based Management helps you use data to guide decisions and understand team behaviors, but it should inform rather than control actions. Define clear outcomes, choose metrics that align with those goals, and use data as a conversation starter to uncover challenges and drive improvement. Regularly review metrics with your teams to stay aligned and focus on delivering real value, not just hitting targets.
 date: 2024-09-11T13:36:29Z
+lastmod: 2024-09-11T13:36:29Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 66NuAjzWreY
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-evidence-based-management-in-agile-inform-don-t-control
 aliases:
-- /resources/66NuAjzWreY
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
+  - /resources/66NuAjzWreY
+  - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+  - /resources/videos/introduction-to-evidence-based-management
 aliasesArchive:
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
-- mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
+  - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+  - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
+  - /resources/videos/introduction-to-evidence-based-management
+  - /resources/introduction-to-evidence-based-management
+  - mastering-evidence-based-management-in-agile-inform-dont-control
+  - /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
 source: internal
 layout: video
 concepts:
-- Model
+  - Model
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Evidence Based Management
-- Decision Making
-- Evidence Based Leadership
-- Metrics and Learning
-- Operational Practices
-- Pragmatic Thinking
-- Customer Focus
-- Value Delivery
+  - Evidence Based Management
+  - Decision Making
+  - Evidence Based Leadership
+  - Metrics and Learning
+  - Operational Practices
+  - Pragmatic Thinking
+  - Social Technologies
+  - Customer Focus
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:58:34Z
   short_title: 2025-07-07T17:48:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:05Z
 videoId: 66NuAjzWreY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg
 duration: 414
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

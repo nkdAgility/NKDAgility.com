@@ -2,8 +2,14 @@
 title: Why Your Definition of Done Is the Secret Weapon for Real Business Impact and Agile Growth
 short_title: Definition of Done for Business Impact in Agile
 description: Transform your definition of done into a strategic advantage—deliver real value, reduce risk, and drive business impact with every sprint.
+tldr: A strong definition of done is crucial for delivering real business value, not just completing tasks. When done means features are live, usable, and measured for impact, teams deliver value faster, reduce risk, and become more adaptable. Make your definition of done visible, connect it to measurable outcomes, and continuously refine it to drive growth and true agility.
 date: 2025-06-18T06:45:00Z
-weight: 205
+lastmod: 2025-06-18T06:45:00Z
+weight: 155
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: V8Qpo-Gh6CE
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
 aliases:
-- /resources/V8Qpo-Gh6CE
-- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth-V8Qpo-Gh6CE
-- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
-- /resources/videos/7-done-is-a-strategic-lever-not-a-technical-checkbox
+  - /resources/V8Qpo-Gh6CE
+  - /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth-V8Qpo-Gh6CE
+  - /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
+  - /resources/videos/7-done-is-a-strategic-lever-not-a-technical-checkbox
 aliasesArchive:
-- /resources/videos/7-done-is-a-strategic-lever-not-a-technical-checkbox
-- 7-done-is-a-strategic-lever-not-a-technical-checkbox-V8Qpo-Gh6CE
-- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
-- why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth-V8Qpo-Gh6CE
+  - /resources/videos/7-done-is-a-strategic-lever-not-a-technical-checkbox
+  - 7-done-is-a-strategic-lever-not-a-technical-checkbox-V8Qpo-Gh6CE
+  - /resources/videos/why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
+  - why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth-V8Qpo-Gh6CE
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Technical Leadership
-- Product Management
+  - Product Development
+  - Engineering Excellence
+  - Scrum
 tags:
-- Definition of Done
-- Customer Focus
-- Value Delivery
-- Organisational Agility
-- Product Delivery
-- Operational Practices
-- Market Adaptability
-- Business Agility
-- Pragmatic Thinking
-- Agile Strategy
-- Agile Product Management
-- Professional Scrum
-- Agile Philosophy
-- Social Technologies
-- Software Development
+  - Definition of Done
+  - Customer Focus
+  - Value Delivery
+  - Organisational Agility
+  - Product Delivery
+  - Operational Practices
+  - Market Adaptability
+  - Business Agility
+  - Pragmatic Thinking
+  - Agile Product Management
+  - Professional Scrum
+  - Agile Strategy
+  - Agile Philosophy
+  - Social Technologies
+  - Software Development
 Watermarks:
   description: 2025-05-07T19:36:10Z
   short_title: 2025-07-07T16:43:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:11:02Z
 videoId: V8Qpo-Gh6CE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/V8Qpo-Gh6CE/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDui5h5I3gHwPFYNXQ5KAURLXRLeA
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

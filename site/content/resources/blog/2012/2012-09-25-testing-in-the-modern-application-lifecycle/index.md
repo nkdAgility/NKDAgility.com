@@ -1,37 +1,40 @@
 ---
 title: Testing in the modern application lifecycle
 description: Explores challenges and solutions for manual testing in agile software development, focusing on tracking, automation, actionable bugs, and integrated test management tools.
+date: 2012-09-25
+lastmod: 2012-09-25
+weight: 400
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: o-EY2NAQQSe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8829
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-25
-weight: 400
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: testing-in-the-modern-application-lifecycle
 aliases:
-- /resources/o-EY2NAQQSe
+  - /resources/o-EY2NAQQSe
 aliasesArchive:
-- /blog/testing-in-the-modern-application-lifecycle
-- /testing-in-the-modern-application-lifecycle
-- /resources/blog/testing-in-the-modern-application-lifecycle
-tags:
-- Software Development
-- Working Software
-- Product Delivery
-- Pragmatic Thinking
-- Technical Mastery
+  - /blog/testing-in-the-modern-application-lifecycle
+  - /testing-in-the-modern-application-lifecycle
+  - /resources/blog/testing-in-the-modern-application-lifecycle
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: metro-test-icon-7-7.png
+  - Engineering Excellence
+tags:
+  - Software Development
+  - Working Software
+  - Product Delivery
+  - Pragmatic Thinking
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:07:30Z
-concepts: []
+ResourceImportId: 8829
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-test-icon-7-7.png
 
 ---
 Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.

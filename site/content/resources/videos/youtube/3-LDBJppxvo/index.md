@@ -2,8 +2,14 @@
 title: The Importance of Delivering Working Software Every Iteration
 short_title: Delivering Working Software Every Iteration
 description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
+tldr: Delivering working software to real users every iteration is essential for true agility because it enables rapid feedback, validates assumptions early, and maximizes value for stakeholders. Key practices include starting with a minimal viable product, prioritizing user stories for value, involving stakeholders regularly, automating testing and deployment, and fostering continuous improvement. To ensure your team is truly Agile, focus on releasing usable software each iteration and use real user feedback to guide development and avoid wasted effort.
 date: 2024-06-26T06:45:00Z
-weight: 355
+lastmod: 2024-06-26T06:45:00Z
+weight: 370
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 3-LDBJppxvo
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-importance-of-delivering-working-software-every-iteration
 aliases:
-- /resources/3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+  - /resources/3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
 aliasesArchive:
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
-- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+  - /resources/the-importance-of-delivering-working-software-every-iteration
+  - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+  - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+  - the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Working Software
-- Product Delivery
-- Customer Focus
-- Agile Strategy
-- Value Delivery
-- Operational Practices
-- Customer Feedback Loops
-- Product Validation
-- Agile Planning
-- Minimum Viable Product
-- Empirical Process Control
-- Pragmatic Thinking
-- Increment
-- Agile Frameworks
+  - Value Delivery
+  - Software Development
+  - Working Software
+  - Product Delivery
+  - Customer Focus
+  - Agile Strategy
+  - Operational Practices
+  - Customer Feedback Loops
+  - Product Validation
+  - Agile Planning
+  - Minimum Viable Product
+  - Empirical Process Control
+  - Pragmatic Thinking
+  - Increment
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:02:47Z
   short_title: 2025-07-07T17:49:09Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:17Z
 videoId: 3-LDBJppxvo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

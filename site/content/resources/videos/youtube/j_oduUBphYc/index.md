@@ -2,8 +2,14 @@
 title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
 short_title: Modernising Legacy Systems Securely
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
+tldr: Modernising legacy systems is essential for security, but rushing the process can create new risks; instead, map your workflows, embed security throughout development, empower teams, and focus on maintainability and compliance. Treat security as an ongoing mindset, not a one-time task, and continuously adapt as threats evolve. Start by assessing how work and security practices flow in your organisation before making changes.
 date: 2025-05-12T06:00:00Z
-weight: 480
+lastmod: 2025-05-12T06:00:00Z
+weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: j_oduUBphYc
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 aliases:
-- /resources/j_oduUBphYc
-- /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
-- /resources/videos/6-security-compliance-in-legacy-system-modernization
+  - /resources/j_oduUBphYc
+  - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
+  - /resources/videos/6-security-compliance-in-legacy-system-modernization
 aliasesArchive:
-- /resources/videos/6-security-compliance-in-legacy-system-modernization
-- 6-security-compliance-in-legacy-system-modernization
-- /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
-- modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
+  - /resources/videos/6-security-compliance-in-legacy-system-modernization
+  - 6-security-compliance-in-legacy-system-modernization
+  - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
+  - modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Uncategorized
+  - Engineering Excellence
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T20:59:00Z
   short_title: 2025-07-07T16:44:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:32:32Z
 videoId: j_oduUBphYc
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/j_oduUBphYc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLC9GdU6Uu93vQ2nm8zM-COxVCvE6Q
 duration: 94
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

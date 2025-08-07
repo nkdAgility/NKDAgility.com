@@ -2,8 +2,14 @@
 title: Can you align DevOps and Software Engineering Teams Through Scrum?
 short_title: Aligning DevOps and Engineering Teams with Scrum
 description: Explores how Scrum can align DevOps and software engineering teams by fostering transparency, feedback, and engineering excellence in Agile software development.
+tldr: Scrum can effectively align DevOps and software engineering teams by promoting transparency, regular delivery of usable products, and continuous feedback. Achieving this alignment requires discipline and integrating DevOps practices into Scrum workflows. Development managers should focus on embedding these practices to drive better collaboration and higher-quality outcomes.
 date: 2023-06-16T14:30:05Z
+lastmod: 2023-06-16T14:30:05Z
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: Fg90Nit7Q9Q
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: can-you-align-devops-and-software-engineering-teams-through-scrum
 aliases:
-- /resources/Fg90Nit7Q9Q
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+  - /resources/Fg90Nit7Q9Q
+  - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 aliasesArchive:
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
-- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
-- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+  - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+  - /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
+  - can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 source: internal
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:33Z
   short_title: 2025-07-07T17:54:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:38Z
 videoId: Fg90Nit7Q9Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
 duration: 36
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

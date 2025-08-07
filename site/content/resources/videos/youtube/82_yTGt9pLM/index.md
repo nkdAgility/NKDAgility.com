@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Consulting: Transform Your Organisation with Diverse Strategies and Continuous Learning'
 short_title: Unlocking Agile Consulting Strategies
 description: Explains Agile consulting by highlighting diverse strategies, continuous learning, and practical ways to help organisations improve collaboration, value delivery, and adaptability.
+tldr: Agile consulting helps organisations improve by offering a range of strategies beyond a single framework, focusing on real-world challenges and maximising value through better feedback and collaboration. Success depends on engaging people at all levels, understanding the current state through interviews and reports, and fostering continuous learning and internal change. Development managers should consider diverse approaches and invest in building skills and relationships to drive meaningful transformation.
 date: 2023-06-17T07:30:02Z
-weight: 690
+lastmod: 2023-06-17T07:30:02Z
+weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 82_yTGt9pLM
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliases:
-- /resources/82_yTGt9pLM
-- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
-- /resources/videos/agile-consulting-services-overview
+  - /resources/82_yTGt9pLM
+  - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+  - /resources/videos/agile-consulting-services-overview
 aliasesArchive:
-- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
-- /resources/videos/agile-consulting-services-overview
-- /resources/agile-consulting-services-overview
-- unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+  - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+  - /resources/videos/agile-consulting-services-overview
+  - /resources/agile-consulting-services-overview
+  - unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Strategy
-- Organisational Agility
-- Organisational Change
-- Pragmatic Thinking
+  - Agile Strategy
+  - Organisational Agility
+  - Organisational Change
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:11:32Z
   short_title: 2025-07-07T17:54:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:36Z
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

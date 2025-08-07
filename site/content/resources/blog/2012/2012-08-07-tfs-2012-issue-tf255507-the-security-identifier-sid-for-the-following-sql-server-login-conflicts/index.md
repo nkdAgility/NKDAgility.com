@@ -1,39 +1,41 @@
 ---
 title: 'TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts'
 description: Explains how to resolve the TF255507 SID conflict error in TFS 2012 caused by server renaming, including SQL commands to fix login issues in SQL Server 2012.
+date: 2012-08-07
+lastmod: 2012-08-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xEMKWWn-mv3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7074
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
 aliases:
-- /resources/blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
-- /resources/xEMKWWn-mv3
+  - /resources/xEMKWWn-mv3
 aliasesArchive:
-- /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
-- /tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
-- /tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
-- /blog/tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
-- /resources/blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
-tags:
-- Install and Configuration
-- Troubleshooting
-- Windows
-- System Configuration
+  - /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+  - /tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+  - /tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
+  - /blog/tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
+  - /resources/blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-3-3.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Troubleshooting
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:22Z
-concepts: []
+ResourceImportId: 7074
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-3-3.png
 
 ---
 ### Issue

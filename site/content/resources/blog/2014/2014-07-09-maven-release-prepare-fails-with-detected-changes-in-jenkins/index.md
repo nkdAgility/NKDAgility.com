@@ -1,34 +1,37 @@
 ---
 title: Maven release prepare fails with detected changes in Jenkins
 description: Explains how to fix Maven release prepare failures in Jenkins with TFS by using .tfignore files to exclude generated files like release.properties from source control.
+date: 2014-07-09
+lastmod: 2014-07-09
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: gtoRjWgSmKe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10579
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-07-09
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
-- /resources/gtoRjWgSmKe
+  - /resources/gtoRjWgSmKe
 aliasesArchive:
-- /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-- /maven-release-prepare-fails-with-detected-changes-in-jenkins
-- /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+  - /maven-release-prepare-fails-with-detected-changes-in-jenkins
+  - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: naked-alm-jenkins-logo-9-9.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:21:31Z
-concepts: []
+ResourceImportId: 10579
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-alm-jenkins-logo-9-9.png
 
 ---
 If you are using Team Explorer Everywhere 2012 or 2013 your Maven release prepare fails with detected changes, however it worked when you were using SVN.

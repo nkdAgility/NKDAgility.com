@@ -2,8 +2,14 @@
 title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
 short_title: Continuous Improvement with Metrics & Visuals
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
+tldr: Continuous improvement relies on using the right metrics and clear visual tools to identify patterns, increase transparency, and drive meaningful workflow changes. Teams should focus on measuring what truly matters and ensure their visualisations support understanding and collaboration. Regularly reviewing and adjusting processes based on these insights is essential for ongoing success.
 date: 2024-08-19T06:45:02Z
+lastmod: 2024-08-19T06:45:02Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: hBw4ouNB1U0
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliases:
-- /resources/hBw4ouNB1U0
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+  - /resources/hBw4ouNB1U0
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+  - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 aliasesArchive:
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+  - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+  - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+  - unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Improvement
-- Operational Practices
-- Metrics and Learning
-- Continuous Learning
+  - Continuous Improvement
+  - Operational Practices
+  - Empirical Process Control
+  - Metrics and Learning
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:02:04Z
   short_title: 2025-07-07T17:48:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:38Z
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -1,40 +1,43 @@
 ---
 title: In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain
 description: Step-by-step guide to upgrading Team Foundation Server 2008 to 2010, including in-place upgrade, build server update, and migrating to a new domain with key troubleshooting tips.
+date: 2011-04-19
+lastmod: 2011-04-19
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: LSYjtifbvOt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-04-19
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliases:
-- /resources/LSYjtifbvOt
+  - /resources/LSYjtifbvOt
 aliasesArchive:
-- /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-- /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-- /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-tags:
-- Install and Configuration
-- Windows
-- Software Development
-- Troubleshooting
-- System Configuration
-- Release Management
-- Azure DevOps
-- Technical Mastery
-preview: metro-visual-studio-2010-128-link-24-24.png
+  - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+  - /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+  - /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - Software Development
+  - Troubleshooting
+  - System Configuration
+  - Release Management
+  - Azure DevOps
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:10:55Z
-concepts: []
+ResourceImportId: 5
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-24-24.png
 
 ---
 [![vs2010logo](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_thumb-22-22.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_2.png)I had a particularly complicated upgrade this time that required me to do two things:

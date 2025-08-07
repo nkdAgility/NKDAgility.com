@@ -2,8 +2,14 @@
 title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
 short_title: 'Agile Scotland 2023: Event Highlights & Impact'
 description: Explore how Agile 2023 in Scotland brings together tech professionals to share insights, foster collaboration, and highlight Agile’s impact on the local tech community.
+tldr: Agile 2023 in Scotland is a growing event that brings together passionate Agile professionals to share knowledge, connect with thought leaders, and discuss the latest trends in Agile practices. The conference highlights the importance of community, collaboration, and continuous learning in driving innovation within the tech sector. Development managers should consider engaging with local Agile events to gain fresh insights and foster a culture of improvement in their teams.
 date: 2023-06-28T07:00:21Z
+lastmod: 2023-06-28T07:00:21Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: uGIhajIO3pQ
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 aliases:
-- /resources/uGIhajIO3pQ
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+  - /resources/uGIhajIO3pQ
+  - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 aliasesArchive:
-- /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
-- agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+  - /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+  - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+  - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+  - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+  - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+  - agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:13Z
   short_title: 2025-07-07T17:54:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:48Z
 videoId: uGIhajIO3pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

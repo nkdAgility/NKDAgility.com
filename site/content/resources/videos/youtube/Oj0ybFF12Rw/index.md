@@ -2,8 +2,14 @@
 title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 short_title: 'Scaling Scrum: Pragmatic or Defeatist?'
 description: Examines whether the belief that Scrum can't scale is practical or defeatist, highlighting Nexus as a proven approach for scaling Scrum to deliver greater value.
+tldr: The idea that Scrum cannot be scaled is a misconception; frameworks like Nexus show that Scrum can be effectively scaled to deliver greater value. Key recommendations include understanding Nexus, starting with a single team, and scaling thoughtfully while adapting as you go. Development managers should explore scaling options rather than dismissing them, as successful scaling is both possible and beneficial.
 date: 2023-10-09T14:30:08Z
-weight: 790
+lastmod: 2023-10-09T14:30:08Z
+weight: 565
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Oj0ybFF12Rw
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: quotes-don't-scale-scrum-pragmatic-or-defeatist
 aliases:
-- /resources/Oj0ybFF12Rw
-- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
-- /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
+  - /resources/Oj0ybFF12Rw
+  - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
+  - /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
 aliasesArchive:
-- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
-- /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
-- /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-- /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-- quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
-- /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
+  - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
+  - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
+  - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+  - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+  - quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
+  - /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:08:55Z
   short_title: 2025-07-07T17:52:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:51Z
 videoId: Oj0ybFF12Rw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

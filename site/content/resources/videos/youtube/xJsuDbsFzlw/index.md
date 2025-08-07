@@ -2,8 +2,14 @@
 title: 'Unlocking the Power of Sprint Planning: Transform Your Agile Approach for Success'
 short_title: Unlocking the Power of Sprint Planning
 description: Learn how effective Sprint planning boosts Agile team performance, with practical workshops, coaching, feedback, and adaptable methods for continuous improvement.
+tldr: Effective Sprint planning can transform your team's Agile approach by building shared understanding, enabling hands-on practice with real-time coaching, and fostering continuous improvement through feedback. As teams gain confidence, they should adapt Sprint planning to fit their unique needs and culture. Consider structured workshops with flexible delivery to empower your team to run impactful Sprint planning sessions independently.
 date: 2023-06-29T07:00:19Z
-weight: 610
+lastmod: 2023-06-29T07:00:19Z
+weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: xJsuDbsFzlw
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 aliases:
-- /resources/xJsuDbsFzlw
-- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
+  - /resources/xJsuDbsFzlw
+  - /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+  - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
 aliasesArchive:
-- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-- /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
-- unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+  - /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+  - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+  - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+  - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
+  - unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Pragmatic Thinking
-- Agile Product Management
-- Agile Planning Tools
-- Software Development
-- Agile Planning
+  - Pragmatic Thinking
+  - Agile Product Management
+  - Agile Planning Tools
+  - Software Development
+  - Agile Planning
+  - Coaching
 Watermarks:
   description: 2025-05-07T13:11:06Z
   short_title: 2025-07-07T17:54:14Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:37Z
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

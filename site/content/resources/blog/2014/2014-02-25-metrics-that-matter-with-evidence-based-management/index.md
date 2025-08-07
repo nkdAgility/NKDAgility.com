@@ -1,49 +1,52 @@
 ---
 title: Metrics that matter with evidence-based management
 description: Explains how evidence-based management uses reliable metrics and KPIs at team and organisational levels to drive better decisions, value delivery, and process improvement.
+date: 2014-02-25
+lastmod: 2014-02-25
+weight: 315
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: ezNZJBiEwYA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10367
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-02-25
-weight: 315
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: metrics-that-matter-with-evidence-based-management
 aliases:
-- /resources/ezNZJBiEwYA
+  - /resources/ezNZJBiEwYA
 aliasesArchive:
-- /blog/metrics-that-matter-with-evidence-based-management
-- /metrics-that-matter-with-evidence-based-management
-- /resources/blog/metrics-that-matter-with-evidence-based-management
-tags:
-- Decision Making
-- Evidence Based Management
-- Evidence Based Leadership
-- Metrics and Learning
-- Ability to Innovate
-- Trend Analysis
-- Value Delivery
-- Continuous Improvement
-- Pragmatic Thinking
-- Operational Practices
-- Software Development
-- Empirical Process Control
-- Product Delivery
-- Working Software
-- Organisational Agility
+  - /blog/metrics-that-matter-with-evidence-based-management
+  - /metrics-that-matter-with-evidence-based-management
+  - /resources/blog/metrics-that-matter-with-evidence-based-management
+layout: blog
+concepts:
+  - Strategy
 categories:
-- Engineering Excellence
-- Product Management
-preview: nakedalm-agility-index-24-24.png
+  - Engineering Excellence
+  - Product Management
+tags:
+  - Decision Making
+  - Evidence Based Management
+  - Evidence Based Leadership
+  - Metrics and Learning
+  - Ability to Innovate
+  - Trend Analysis
+  - Value Delivery
+  - Continuous Improvement
+  - Pragmatic Thinking
+  - Operational Practices
+  - Software Development
+  - Empirical Process Control
+  - Product Delivery
+  - Working Software
+  - Organisational Agility
 Watermarks:
   description: 2025-05-12T14:22:13Z
-concepts:
-- Strategy
+ResourceImportId: 10367
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-agility-index-24-24.png
 
 ---
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.

@@ -2,37 +2,44 @@
 title: Open-source with VSTS or TFS and Github for better DevOps
 short_title: 'Open Source DevOps: Sync VSTS/TFS with GitHub'
 description: Learn how to automate code synchronisation between VSTS/TFS and GitHub, enabling seamless DevOps workflows for open-source projects with flexible configuration options.
+tldr: You can use VSTS or TFS for full DevOps and agile capabilities while keeping your open-source code on Github by setting up automated two-way synchronization between the platforms. This approach lets you manage private work and processes in VSTS, then publish selected branches to Github for public access and contributions. Set up automated builds in VSTS to sync code in both directions, using personal tokens for authentication, so you get the best of both tools without extra manual effort.
 date: 2016-05-10
+lastmod: 2016-05-10
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: LWHiaHn3CWF
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: open-source-with-vsts-or-tfs-and-github-for-better-devops
 aliases:
-- /resources/LWHiaHn3CWF
+  - /resources/LWHiaHn3CWF
 aliasesArchive:
-- /blog/open-source-vsts-tfs-github-better-devops
-- /open-source-vsts-tfs-github-better-devops
-- /open-source-with-vsts-or-tfs-and-github-for-better-devops
-- /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
-- /resources/blog/open-source-vsts-tfs-github-better-devops
+  - /blog/open-source-vsts-tfs-github-better-devops
+  - /open-source-vsts-tfs-github-better-devops
+  - /open-source-with-vsts-or-tfs-and-github-for-better-devops
+  - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
+  - /resources/blog/open-source-vsts-tfs-github-better-devops
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
+  - DevOps
 tags:
-- Azure DevOps
-- Continuous Integration
-- Install and Configuration
-- Software Development
-- Modern Source Control
-- Pragmatic Thinking
-- GitHub
+  - Azure DevOps
+  - Install and Configuration
+  - Software Development
+  - Modern Source Control
+  - Continuous Integration
+  - Pragmatic Thinking
+  - GitHub
 Watermarks:
   description: 2025-05-07T13:16:44Z
   short_title: 2025-07-07T17:58:58Z
+  tldr: 2025-08-07T13:24:13Z
 ResourceImportId: 11491
 creator: Martin Hinshelwood
 resourceTypes: blog

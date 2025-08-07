@@ -1,37 +1,40 @@
 ---
 title: Active Directory Groups not Syncing with Team Foundation Server 2010
 description: Explains why Active Directory groups may not sync with Team Foundation Server 2010, how to diagnose sync issues, and steps to resolve identity synchronisation problems.
+date: 2010-07-07
+lastmod: 2010-07-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Rfu6uP301x2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 32
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-07-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
-- /resources/Rfu6uP301x2
+  - /resources/Rfu6uP301x2
 aliasesArchive:
-- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-- /active-directory-groups-not-syncing-with-team-foundation-server-2010
-- /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-tags:
-- Software Development
-- Troubleshooting
-- Windows
-- Install and Configuration
-- System Configuration
-preview: metro-SSWLogo-128-link-7-7.png
+  - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+  - /active-directory-groups-not-syncing-with-team-foundation-server-2010
+  - /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Troubleshooting
+  - Windows
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:21:40Z
-concepts: []
+ResourceImportId: 32
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-7-7.png
 
 ---
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.

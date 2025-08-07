@@ -2,51 +2,58 @@
 title: Without Delivery, There Is No Value
 short_title: Without Delivery, There Is No Value
 description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, adaptation, and continuous improvement.
+tldr: Value in software is only realised when products are delivered to users, so frequent releases are essential to validate assumptions, gather feedback, and adapt quickly. Delaying delivery increases costs, risks, and missed opportunities, while research shows that teams releasing often are more successful and resilient. Development managers should prioritise short feedback loops and empower teams to release working software regularly to maximise value and minimise waste.
 date: 2025-02-10T09:00:00
+lastmod: 2025-02-10T09:00:00
 weight: 180
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: UfdnQrxv5iF
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: without-delivery-there-is-no-value
 aliases:
-- /resources/UfdnQrxv5iF
+  - /resources/UfdnQrxv5iF
 aliasesArchive:
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery--there-is-no-value
-- /blog/without-delivery--there-is-no-value
+  - /without-delivery-no-value
+  - /blog/without-delivery-no-value
+  - /without-delivery--there-is-no-value
+  - /blog/without-delivery--there-is-no-value
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
-- Scrum
+  - Product Development
+  - Engineering Excellence
+  - Scrum
 tags:
-- Software Development
-- Deployment Frequency
-- Working Software
-- Market Adaptability
-- Customer Focus
-- Operational Practices
-- Frequent Releases
-- Value Delivery
-- Product Delivery
-- Continuous Delivery
-- Empirical Process Control
-- Release Management
-- Time to Market
-- Pragmatic Thinking
-- Increment
+  - Software Development
+  - Deployment Frequency
+  - Working Software
+  - Market Adaptability
+  - Customer Focus
+  - Operational Practices
+  - Frequent Releases
+  - Value Delivery
+  - Product Delivery
+  - Continuous Delivery
+  - Empirical Process Control
+  - Release Management
+  - Time to Market
+  - Pragmatic Thinking
+  - Increment
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
-  post_date: 2025-06-17T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
+    post_date: 2025-06-17T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:40Z
   short_title: 2025-07-07T17:46:37Z
+  tldr: 2025-08-07T12:39:48Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,8 +2,14 @@
 title: How Much of An Impact can Scrum Have in a DevOps Environment?
 short_title: Scrum’s Impact in DevOps Environments
 description: Explores how integrating Scrum with DevOps boosts software delivery by improving collaboration, automation, speed, and product quality in modern development teams.
+tldr: Combining Scrum and DevOps creates a powerful approach that boosts speed, collaboration, and product quality in software development. Scrum provides structure and problem-solving strategies, while DevOps brings automation and efficient delivery. Development managers should consider integrating both to maximize team performance and deliver better products faster.
 date: 2023-06-15T14:45:02Z
+lastmod: 2023-06-15T14:45:02Z
 weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: LiKE3zHuOuY
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 aliases:
-- /resources/LiKE3zHuOuY
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+  - /resources/LiKE3zHuOuY
+  - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 aliasesArchive:
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+  - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+  - /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+  - how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:36Z
   short_title: 2025-07-07T17:54:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:42Z
 videoId: LiKE3zHuOuY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
 duration: 29
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

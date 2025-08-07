@@ -2,8 +2,14 @@
 title: Why I love heirarchies of competence
 short_title: Hierarchies of Competence in Leadership
 description: Explores how competence-based hierarchies foster effective leadership and decision-making by valuing expertise over authority, leading to more informed, holistic outcomes.
+tldr: Competence-based hierarchies improve decision-making by prioritising expertise over authority, encouraging teams to defer to those with proven knowledge. This approach leads to more effective solutions and a more engaged team. Development managers should consider shifting their leadership style to focus on recognising and leveraging competence within their teams.
 date: 2023-05-03T09:30:08Z
-weight: 840
+lastmod: 2023-05-03T09:30:08Z
+weight: 645
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: WVNiLx3QHLg
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-i-love-heirarchies-of-competence
 aliases:
-- /resources/WVNiLx3QHLg
-- /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
-- /resources/videos/why-i-love-heirarchies-of-competence
-- /resources/videos/why-i-love-hierarchies-of-competence
+  - /resources/WVNiLx3QHLg
+  - /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
+  - /resources/videos/why-i-love-heirarchies-of-competence
+  - /resources/videos/why-i-love-hierarchies-of-competence
 aliasesArchive:
-- /resources/videos/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence-2
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
-- why-i-love-heirarchies-of-competence-WVNiLx3QHLg
+  - /resources/videos/why-i-love-heirarchies-of-competence
+  - /resources/why-i-love-heirarchies-of-competence
+  - /resources/why-i-love-hierarchies-of-competence-2
+  - /resources/videos/why-i-love-hierarchies-of-competence
+  - /resources/why-i-love-hierarchies-of-competence
+  - why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags:
-- Competence
+  - Competence
 Watermarks:
   description: 2025-05-07T13:12:46Z
   short_title: 2025-07-07T17:55:31Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:39Z
 videoId: WVNiLx3QHLg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

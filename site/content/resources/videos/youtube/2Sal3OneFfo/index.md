@@ -2,8 +2,14 @@
 title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and Productivity'
 short_title: Seamless Migration to Azure DevOps
 description: Learn how to migrate projects to Azure DevOps using self-service or managed tools, ensuring accurate data transfer, improved collaboration, and streamlined development workflows.
+tldr: Migrating to Azure DevOps can boost your team's collaboration and productivity by centralising project management and scaling with your needs. You can choose between self-service migration tools or a managed import service, both designed to ensure a smooth and accurate transition. Careful planning and assessment are essential for a successful migration, so consider expert support to avoid common pitfalls and maximise the benefits.
 date: 2024-09-03T09:57:36Z
+lastmod: 2024-09-03T09:57:36Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 2Sal3OneFfo
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 aliases:
-- /resources/2Sal3OneFfo
-- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
-- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
-- /resources/videos/azure-devops-migration-services-part-1
+  - /resources/2Sal3OneFfo
+  - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
+  - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
+  - /resources/videos/azure-devops-migration-services-part-1
 aliasesArchive:
-- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
-- /resources/videos/azure-devops-migration-services-part-1
-- /resources/azure-devops-migration-services-part-1
-- seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
+  - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
+  - /resources/videos/azure-devops-migration-services-part-1
+  - /resources/azure-devops-migration-services-part-1
+  - seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
+  - DevOps
 tags: []
 Watermarks:
   description: 2025-05-07T12:58:37Z
   short_title: 2025-07-07T17:48:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:09Z
 videoId: 2Sal3OneFfo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

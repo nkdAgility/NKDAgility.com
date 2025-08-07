@@ -2,8 +2,14 @@
 title: Why is Johanna a great teacher for the Professional Agile Leadership - Essentials course?
 short_title: Why Johanna Excels in Agile Leadership Training
 description: Highlights Johanna’s passion, deep experience, and engaging teaching style in the Professional Agile Leadership course, fostering dynamic learning for leaders and decision-makers.
+tldr: Johanna is an engaging and passionate instructor for the Professional Agile Leadership course, bringing extensive real-world experience with organizational leaders. Her sessions are dynamic due to both her enthusiasm and the active participation of decision-makers in the class, leading to valuable discussions and practical insights. Consider enrolling in the course or reaching out for a conversation to enhance your agile leadership skills and drive transformation in your organization.
 date: 2023-07-26T04:03:17Z
+lastmod: 2023-07-26T04:03:17Z
 weight: 765
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: EOs5kZv_7tg
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 aliases:
-- /resources/EOs5kZv_7tg
-- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+  - /resources/EOs5kZv_7tg
+  - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 aliasesArchive:
-- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
-- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
-- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
-- why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+  - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+  - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+  - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+  - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+  - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+  - why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:35Z
   short_title: 2025-07-07T17:53:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:48Z
 videoId: EOs5kZv_7tg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
 duration: 131
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

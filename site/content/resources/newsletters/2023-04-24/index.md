@@ -2,8 +2,14 @@
 title: 'May 2023 NKDAgility: Leveling up giveaway of Professional Scrum'
 short_title: May 2023 NKDAgility Professional Scrum Giveaway
 description: Explore how to future-proof your career with Agile and Scrum, plus details on a giveaway for Professional Scrum training to help you advance your skills in 2023.
+tldr: AI is automating routine work, so development managers and teams need to focus on building higher-value skills to stay competitive. NKD Agility is offering a giveaway for advanced Scrum training to help professionals level up, and encourages managers to invest in ongoing coaching, mentoring, and skills development. To take advantage, nominate yourself or a colleague for the course via LinkedIn, or explore available training options to future-proof your team's capabilities.
 date: 2023-04-24
+lastmod: 2023-04-24
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 author: MrHinsh
 ResourceId: 6h1D_YPjPuU
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum
 aliases:
-- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-- /resources/6h1D_YPjPuU
+  - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+  - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+  - /resources/6h1D_YPjPuU
 aliasesArchive:
-- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+  - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+  - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:08Z
   short_title: 2025-07-07T17:55:49Z
+  tldr: 2025-08-07T13:06:20Z
 resourceTypes: newsletter
 
 ---

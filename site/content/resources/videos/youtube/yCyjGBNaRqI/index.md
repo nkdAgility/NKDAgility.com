@@ -2,8 +2,14 @@
 title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 short_title: How Happy Teams Create Exceptional Products
 description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher-quality, more impactful products in agile organisations.
+tldr: Happy, engaged teams are essential for building exceptional products; when people have autonomy, opportunities for growth, and a clear sense of purpose, their motivation and output improve significantly. Managers should empower decision-making, invest in skill development, and clearly communicate the vision to foster this environment. Prioritising team well-being leads to better products and more satisfied customers, so focus on creating a culture where your teams can thrive.
 date: 2024-05-10T06:45:01Z
+lastmod: 2024-05-10T06:45:01Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: yCyjGBNaRqI
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 aliases:
-- /resources/yCyjGBNaRqI
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
+  - /resources/yCyjGBNaRqI
+  - /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+  - /resources/videos/nkd-agility-mission-and-purpose
 aliasesArchive:
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
-- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+  - /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+  - /resources/videos/nkd-agility-mission-and-purpose
+  - /resources/nkd-agility-mission-and-purpose
+  - unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 source: youtube
 layout: video
 concepts: []
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Team Motivation
-- Employee Engagement
-- Organisational Culture
-- Team Performance
-- Agile Leadership
-- Agile Philosophy
-- Organisational Psychology
-- Team Collaboration
-- Self Organisation
+  - Organisational Culture
+  - Team Motivation
+  - Employee Engagement
+  - Team Performance
+  - Agile Leadership
+  - Agile Philosophy
+  - Organisational Psychology
+  - Team Collaboration
+  - Self Organisation
 Watermarks:
   description: 2025-05-07T13:02:53Z
   short_title: 2025-07-07T17:49:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:27Z
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

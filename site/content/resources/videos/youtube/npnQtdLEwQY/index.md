@@ -2,8 +2,14 @@
 title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 short_title: Navigating Technical Debt for Quality & Efficiency
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
+tldr: Technical debt is the cost of future rework from prioritising speed over good design, and it is distinct from poor quality, which often causes bigger productivity losses. Long release cycles and mislabeling poor quality as technical debt can lead to unsustainable practices and higher costs. Development managers should set clear quality standards, encourage regular refactoring, and adopt continuous improvement to reduce technical debt, improve efficiency, and deliver better products.
 date: 2024-12-19T06:00:00Z
-weight: 205
+lastmod: 2024-12-19T06:00:00Z
+weight: 145
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: npnQtdLEwQY
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 aliases:
-- /resources/npnQtdLEwQY
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
+  - /resources/npnQtdLEwQY
+  - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+  - /resources/videos/managing-technical-debt-to-minimize-costs
 aliasesArchive:
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
-- /resources/managing-technical-debt-to-minimize-costs
-- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+  - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+  - /resources/videos/managing-technical-debt-to-minimize-costs
+  - /resources/managing-technical-debt-to-minimize-costs
+  - navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - Technical Leadership
+  - Product Development
 tags:
-- Technical Debt
-- Pragmatic Thinking
-- Software Development
-- Technical Mastery
-- Engineering Practices
+  - Technical Debt
+  - Pragmatic Thinking
+  - Software Development
+  - Technical Mastery
+  - Engineering Practices
 Watermarks:
   description: 2025-05-07T12:56:38Z
   short_title: 2025-07-07T17:47:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:48Z
 videoId: npnQtdLEwQY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

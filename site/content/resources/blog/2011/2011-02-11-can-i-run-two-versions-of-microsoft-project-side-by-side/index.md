@@ -1,35 +1,38 @@
 ---
 title: Can I run two versions of Microsoft Project side-by-side?
 description: Running multiple Microsoft Project versions on one PC is possible but not recommended due to file association issues, compatibility problems, and potential data errors.
+date: 2011-02-11
+lastmod: 2011-02-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: BPWVrzpIhxt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 13
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-02-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side
 aliases:
-- /resources/BPWVrzpIhxt
+  - /resources/BPWVrzpIhxt
 aliasesArchive:
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-- /can-i-run-two-versions-of-microsoft-project-side-by-side
-- /can-i-run-two-versions-of-microsoft-project-side-by-side-
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
-- /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-tags:
-- Windows
-preview: nakedalm-logo-128-link-5-5.png
+  - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
+  - /can-i-run-two-versions-of-microsoft-project-side-by-side
+  - /can-i-run-two-versions-of-microsoft-project-side-by-side-
+  - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
+  - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T15:11:09Z
-concepts: []
+ResourceImportId: 13
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-5-5.png
 
 ---
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)

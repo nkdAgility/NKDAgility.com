@@ -2,8 +2,14 @@
 title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
 short_title: £20 Referral Program for Collaborative Learning
 description: Earn £20 credit for each friend you refer to our classes. Both you and your referral get rewards, supporting collaborative learning and building a stronger community.
+tldr: A new referral program offers £20 rewards for both you and your colleagues when you invite them to join classes, encouraging collaborative learning and community building. By sharing a unique code, you both receive discounts or credits, making professional development more cost-effective. Visit the website to get your code and start inviting your team to enhance learning together.
 date: 2023-06-15T07:00:06Z
-weight: 1000
+lastmod: 2023-06-15T07:00:06Z
+weight: 930
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: IXmOAB5e44w
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlock-£20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 aliases:
-- /resources/IXmOAB5e44w
-- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
+  - /resources/IXmOAB5e44w
+  - /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+  - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
 aliasesArchive:
-- /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
-- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
-- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
-- unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
+  - /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
+  - /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+  - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
+  - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
+  - unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+  - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T13:11:37Z
   short_title: 2025-07-07T17:54:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:44Z
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

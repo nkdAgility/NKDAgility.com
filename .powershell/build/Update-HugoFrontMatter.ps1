@@ -9,6 +9,10 @@ $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
 $shortTitleDateWatermark = [DateTime]::Parse("2025-07-06T09:00:00Z")
+$tldrDateWatermark = [DateTime]::Parse("2025-07-06T09:00:00Z")
+
+$expensiveUpdatesWatermark = (Get-Date).ToUniversalTime().AddYears(-10)
+
 
 # Date by which we remove all Aliases
 $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
@@ -16,9 +20,9 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 Start-TokenServer
 
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 10
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -41,98 +45,99 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
-    #=================description=================
-
-    # if ( -not $hugoMarkdown.FrontMatter.abstract -or $hugoMarkdown.FrontMatter.abstract -match "no specific details provided") {
-    #     # Generate a new description using OpenAI
-    #     $abstractPromptText = Get-Prompt -PromptName "content-abstract.md" -Parameters @{
-    #         title   = $hugoMarkdown.FrontMatter.Title
-    #         content = $hugoMarkdown.BodyContent
-    #     }
-    #     $abstract = Get-OpenAIResponse -Prompt $abstractPromptText
-    #     # Update the description in the front matter
-    #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract
-    # }
 
 
-
-    # Safely handle missing descriptionUpdate
-   
-    $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
-    $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
-    if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
-        try {
-            # Generate a new description using OpenAI
-            $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
-                title    = $hugoMarkdown.FrontMatter.Title
-                abstract = "none"
-                content  = $hugoMarkdown.BodyContent
-            }
-            $description = Get-OpenAIResponse -Prompt $promptText
-            $description = ($description -replace '\r', '').Trim()
-            
-            # Update the description in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
-        }
-        catch {
-            throw "Error generating description: $_"
-        }
-       
-    }        
-
-    $tldrUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.TLDR
-    $tldrUpdateDate = if ($tldrUpdateString) { [DateTime]::Parse($tldrUpdateString) } else { [DateTime]::MinValue }
-    if (-not $hugoMarkdown.FrontMatter.tldr -or $tldrUpdateDate -lt $tldrDateWatermark) {
-        try {
-            # Generate a new description using OpenAI
-            $promptText = Get-Prompt -PromptName "content-tldr.md" -Parameters @{
-                title    = $hugoMarkdown.FrontMatter.Title
-                abstract = "none"
-                content  = $hugoMarkdown.BodyContent
-            }
-            $tldr = Get-OpenAIResponse -Prompt $promptText
-            # Update the description in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tldr' -fieldValue $tldr -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.tldr' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
-        }
-        catch {
-            throw "Error generating tldr: $_"
-        }
-       
-    }        
-
-
-    $shortTitleUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.short_title
-    $shortTitleUpdateDate = if ($shortTitleUpdateString) { [DateTime]::Parse($shortTitleUpdateString) } else { Get-Date }
-    if (-not $hugoMarkdown.FrontMatter.short_title -or $shortTitleUpdateDate -lt $shortTitleDateWatermark) {
-        try {
-            # Generate a new description using OpenAI
-            $promptText = Get-Prompt -PromptName "content-short-title.md" -Parameters @{
-                maxchars = 40
-                title    = $hugoMarkdown.FrontMatter.Title
-                abstract = $hugoMarkdown.FrontMatter.description
-                slug     = $hugoMarkdown.FrontMatter.slug
-                content  = $hugoMarkdown.BodyContent
-            }
-            $shortTitle = Get-OpenAIResponse -Prompt $promptText
-            # Update the short_title in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'short_title' -fieldValue $shortTitle -Overwrite
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.short_title' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
-        }
-        catch {
-            throw "Error generating short_title: $_"
-        }
-       
-    }
-
-
+    #=================DATES=================
     if (-not $hugoMarkdown.FrontMatter.date) {
         $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date
     }
+    switch ($ResourceType) {
+        { $_ -in @("case-studies", "blog", "signals", "newsletters", "guides", "engineering-notes", "videos", "podcast") } { 
+            if (-not $hugoMarkdown.FrontMatter.lastmod) {
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'lastmod' -fieldValue $hugoMarkdown.FrontMatter.date
+            }
+        }
+        default { 
+            # do nothing
+        } 
+    }
+    #=================/DATES=================
 
-   
+
+
+    if ([datetime]::Parse($hugoMarkdown.FrontMatter.date) -gt $expensiveUpdatesWatermark) {
+        ## Expensive Commands that should only be run on recent content
+        #=================description=================
+        $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
+        $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
+        if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
+            try {
+                # Generate a new description using OpenAI
+                $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
+                    title    = $hugoMarkdown.FrontMatter.Title
+                    abstract = "none"
+                    content  = $hugoMarkdown.BodyContent
+                }
+                $description = Get-OpenAIResponse -Prompt $promptText
+                $description = ($description -replace '\r', '').Trim()
+            
+                # Update the description in the front matter
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -Overwrite
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+            }
+            catch {
+                throw "Error generating description: $_"
+            }
+       
+        }
+ 
+        ## TLDR
+        $tldrUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.TLDR
+        $tldrUpdateDate = if ($tldrUpdateString) { [DateTime]::Parse($tldrUpdateString) } else { [DateTime]::MinValue }
+        if (-not $hugoMarkdown.FrontMatter.tldr -or $tldrUpdateDate -lt $tldrDateWatermark) {
+            try {
+                # Generate a new description using OpenAI
+                $promptText = Get-Prompt -PromptName "content-tldr.md" -Parameters @{
+                    title    = $hugoMarkdown.FrontMatter.Title
+                    abstract = "none"
+                    content  = $hugoMarkdown.BodyContent
+                }
+                $tldr = Get-OpenAIResponse -Prompt $promptText
+                # Update the description in the front matter
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tldr' -fieldValue $tldr -Overwrite
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.tldr' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+            }
+            catch {
+                throw "Error generating tldr: $_"
+            }
+       
+        }        
+
+        ## Short Title
+        $shortTitleUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.short_title
+        $shortTitleUpdateDate = if ($shortTitleUpdateString) { [DateTime]::Parse($shortTitleUpdateString) } else { Get-Date }
+        if (-not $hugoMarkdown.FrontMatter.short_title -or $shortTitleUpdateDate -lt $shortTitleDateWatermark) {
+            try {
+                # Generate a new description using OpenAI
+                $promptText = Get-Prompt -PromptName "content-short-title.md" -Parameters @{
+                    maxchars = 40
+                    title    = $hugoMarkdown.FrontMatter.Title
+                    abstract = $hugoMarkdown.FrontMatter.description
+                    slug     = $hugoMarkdown.FrontMatter.slug
+                    content  = $hugoMarkdown.BodyContent
+                }
+                $shortTitle = Get-OpenAIResponse -Prompt $promptText
+                # Update the short_title in the front matter
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'short_title' -fieldValue $shortTitle -Overwrite
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.short_title' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+            }
+            catch {
+                throw "Error generating short_title: $_"
+            }
+       
+        }
+    }
 
     #=================ResourceId=================
     $ResourceId = $null;
@@ -327,6 +332,34 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
     $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
+    # =================SITEMAP===================
+    $sitemap = [ordered]@{
+        filename   = "sitemap.xml"
+        priority   = $hugoMarkdown.FrontMatter.sitemap?.priority ?? 0
+        changefreq = "weekly"
+    }
+    $sitemap.priority = [math]::Round((1000 - $hugoMarkdown.FrontMatter.weight) / 999, 1)
+    switch ($ResourceType) {
+        { $_ -in @("videos", "podcast") } { 
+            $sitemap.priority = $sitemap.priority - 0.2
+            $sitemap.changefreq = "monthly"   
+        }
+        { $_ -in @("blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles") } { 
+            $sitemap.priority = $sitemap.priority - 0.1
+            $sitemap.changefreq = "weekly"
+        }
+        { $_ -in @("case-studies") } { 
+            $sitemap.changefreq = "monthly"
+        }
+        default { 
+            # Do nothing
+            $sitemap.priority = $sitemap.priority - 0.4
+            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+        }
+    }
+    $sitemap.priority = [math]::Max([math]::Round($sitemap.priority, 1), 0.1)
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'sitemap' -fieldValue $sitemap -Overwrite
+    # =================/SITEMAP===================
     # =================CONTENT===================
     switch ($ResourceType) {
         "blog" { 
@@ -369,7 +402,9 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'abstract'
     $list += 'tldr'
     $list += 'date'
+    $list += 'lastmod'
     $list += 'weight'
+    $list += 'sitemap'
     $list += 'author'
     $list += 'contributors'
     $list += 'ResourceId'

@@ -2,8 +2,14 @@
 title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
+tldr: Traditional two-day Scrum training is ineffective for lasting change because participants retain little and struggle to apply what they learn. Immersive learning, with shorter sessions spread over time, hands-on assignments, and ongoing feedback, leads to better retention, practical application, and continuous improvement. Development managers should consider adopting immersive training formats to drive real, sustainable transformation in their teams and organizations.
 date: 2024-05-08T06:45:02Z
+lastmod: 2024-05-08T06:45:02Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: VOUmfpB-d88
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-training-the-power-of-immersive-learning-in-scrum
 aliases:
-- /resources/VOUmfpB-d88
-- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
+  - /resources/VOUmfpB-d88
+  - /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+  - /resources/videos/nkd-agility-training-approach
 aliasesArchive:
-- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
-- /resources/nkd-agility-training-approach
-- transforming-training-the-power-of-immersive-learning-in-scrum
+  - /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+  - /resources/transforming-training-the-power-of-immersive-learning-in-scrum
+  - /resources/videos/nkd-agility-training-approach
+  - /resources/nkd-agility-training-approach
+  - transforming-training-the-power-of-immersive-learning-in-scrum
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Continuous Learning
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Frameworks
-- Software Development
-- Coaching
-- Continuous Improvement
-- Team Collaboration
-- Competence
+  - Continuous Learning
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Software Development
+  - Coaching
+  - Continuous Improvement
+  - Team Collaboration
+  - Competence
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:02:55Z
   short_title: 2025-07-07T17:49:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:31Z
 videoId: VOUmfpB-d88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
 duration: 430
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

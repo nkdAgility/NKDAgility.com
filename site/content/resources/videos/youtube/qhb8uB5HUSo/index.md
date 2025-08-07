@@ -4,7 +4,12 @@ short_title: How NKD Agility Helps CTOs Lead Change
 description: Struggling with tech change? Discover how clarity, evidence, and culture can futureproof your team—no chasing trends, just smart leadership.
 tldr: CTOs should focus on what matters by making work systems visible, using evidence to guide decisions, and fostering a resilient, adaptable culture rather than chasing every new trend. Building clarity, confidence, and the right team habits enables better alignment with business goals and reduces stress. Consider partnering with an experienced coach to help navigate change and build a system that evolves with your needs.
 date: 2025-07-18T06:00:00Z
-weight: 365
+lastmod: 2025-07-18T06:00:00Z
+weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: qhb8uB5HUSo
 ResourceImport: true
 ResourceType: videos
@@ -12,21 +17,22 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: futureproof-leadership-how-ctos-can-cut-through-the-noise-and-lead-with-clarity-confidence-and-culture
 aliases:
-- /resources/qhb8uB5HUSo
-- /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - /resources/qhb8uB5HUSo
+  - /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
 aliasesArchive:
-- /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
-- 10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - /resources/videos/10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
+  - 10-how-nkd-agility-helps-you-stay-ahead-without-losing-your-mind
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Business Agility
-- Agile Leadership
+  - Organisational Culture
+  - Business Agility
+  - Agile Leadership
 Watermarks:
   description: 2025-07-24T15:12:10Z
   short_title: 2025-07-24T15:12:10Z
@@ -36,11 +42,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qhb8uB5HUSo/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAPQaUb5Z0N0mb6KpKB_KbJsAytHQ
 duration: 75
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 You don’t have to chase change. You just need the right guide.

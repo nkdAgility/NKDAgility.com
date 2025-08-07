@@ -1,35 +1,38 @@
 ---
 title: Visual Studio 2010 Overview - Code Management and Build
 description: Explains branching, merging, and build strategies in Visual Studio 2010, including integration with Team Foundation Server and new tools for code management and ALM.
+date: 2012-01-31
+lastmod: 2012-01-31
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: 1hC0IZyRA0c
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4182
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-31
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: visual-studio-2010-overview-code-management-build
+slug: visual-studio-2010-overview-code-management-and-build
 aliases:
-- /resources/1hC0IZyRA0c
+  - /resources/1hC0IZyRA0c
 aliasesArchive:
-- /blog/visual-studio-2010-overview-code-management-build
-- /visual-studio-2010-overview-code-management-build
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---code-management-and-build
-- /blog/visual-studio-2010-overview---code-management-and-build
-- /resources/blog/visual-studio-2010-overview-code-management-build
+  - /blog/visual-studio-2010-overview-code-management-build
+  - /visual-studio-2010-overview-code-management-build
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---code-management-and-build
+  - /blog/visual-studio-2010-overview---code-management-and-build
+  - /resources/blog/visual-studio-2010-overview-code-management-build
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:38Z
-concepts: []
+ResourceImportId: 4182
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 code-management-and-build

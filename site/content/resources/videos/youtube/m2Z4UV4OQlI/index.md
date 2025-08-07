@@ -2,8 +2,14 @@
 title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 short_title: Why PAL-EBM Metrics Matter for Organizations
 description: Learn how evidence-based metrics drive organisational success, avoid negative behaviours, and enable transparent, data-driven decisions for leaders and teams at all levels.
+tldr: The PAL-EBM class helps leaders and teams understand how to use metrics effectively to drive organizational success by focusing on real data, transparency, and the human impact of measurement. Participants learn through real-world stories why some metrics fail, how to avoid negative behaviors like those seen with Microsoft's stack ranking, and how to foster strategic conversations that lead to better outcomes. Leadership teams are encouraged to take the class together to align on measuring success, iteratively strategize, and make informed decisions that support long-term goals.
 date: 2024-01-27T07:00:19Z
+lastmod: 2024-01-27T07:00:19Z
 weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: m2Z4UV4OQlI
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 aliases:
-- /resources/m2Z4UV4OQlI
-- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course
+  - /resources/m2Z4UV4OQlI
+  - /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+  - /resources/videos/why-do-you-recommend-the-pal-ebm-course
 aliasesArchive:
-- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course-
-- /resources/why-do-you-recommend-the-pal-ebm-course-
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course
-- the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+  - /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+  - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+  - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
+  - /resources/why-do-you-recommend-the-pal-ebm-course-
+  - /resources/videos/why-do-you-recommend-the-pal-ebm-course
+  - the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Product Management
-- Product Development
+  - Leadership
+  - Product Management
+  - Product Development
 tags:
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Metrics and Learning
-- Pragmatic Thinking
-- Ability to Innovate
-- Operational Practices
-- Agile Leadership
-- Organisational Agility
+  - Decision Making
+  - Evidence Based Leadership
+  - Evidence Based Management
+  - Metrics and Learning
+  - Pragmatic Thinking
+  - Transparency
+  - Value Delivery
+  - Empirical Process Control
+  - Ability to Innovate
+  - Operational Practices
+  - Agile Leadership
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:06:09Z
   short_title: 2025-07-07T17:50:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:32Z
 videoId: m2Z4UV4OQlI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

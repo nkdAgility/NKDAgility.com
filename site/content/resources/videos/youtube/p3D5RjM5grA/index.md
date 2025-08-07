@@ -2,8 +2,14 @@
 title: 'Transforming Management into Agile Leadership: The Power of Virtual Training'
 short_title: Agile Leadership Through Virtual Training
 description: Explores how virtual training supports the shift from traditional management to agile leadership, highlighting benefits like flexibility, engagement, and cultural diversity.
+tldr: Virtual agile leadership training offers significant benefits, including fostering true leadership over traditional management, encouraging team self-organisation, and focusing on value delivery. Small, diverse virtual classes enable deeper engagement, richer learning, and cost-effective, flexible participation using effective technology. Development managers should consider virtual training to upskill teams, broaden perspectives, and support continuous learning in an evolving agile landscape.
 date: 2020-04-25T02:29:57Z
-weight: 640
+lastmod: 2020-04-25T02:29:57Z
+weight: 445
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: p3D5RjM5grA
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
 aliases:
-- /resources/p3D5RjM5grA
+  - /resources/p3D5RjM5grA
 aliasesArchive:
-- /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
-- transforming-management-into-agile-leadership-the-power-of-virtual-training
+  - /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
+  - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+  - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+  - /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
+  - transforming-management-into-agile-leadership-the-power-of-virtual-training
 source: youtube
 layout: video
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agile Leadership
-- Social Technologies
-- Agile Transformation
+  - Agile Leadership
+  - Team Collaboration
+  - Social Technologies
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:15:46Z
   short_title: 2025-07-07T17:58:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:01Z
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

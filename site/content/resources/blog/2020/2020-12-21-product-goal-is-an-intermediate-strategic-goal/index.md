@@ -2,48 +2,55 @@
 title: Product Goal is an Intermediate Strategic Goal
 short_title: Product Goal as an Intermediate Strategic Goal
 description: Explains how product goals serve as intermediate strategic goals, guiding agile organisations through uncertainty using experimentation, outcomes, and data-driven discovery.
+tldr: Product Goals serve as intermediate steps that help teams evaluate and adapt progress toward broader strategic objectives, especially in uncertain environments. Focusing on outcomes over outputs, investing in discovery through flexible team allocation, and running hypothesis-driven experiments are key to delivering real value. Development managers should shift away from traditional project management and factory-style practices, adopting a data-driven, experimental approach to stay competitive and responsive.
 date: 2020-12-21
+lastmod: 2020-12-21
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: PjYSLMnBHhI
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
-- /blog/product-goal-is-an-intermediate-strategic-goal
-- /product-goal-is-an-intermediate-strategic-goal
-- /resources/PjYSLMnBHhI
-- /resources/blog/product-goal-is-an-intermediate-strategic-goal
+  - /blog/product-goal-is-an-intermediate-strategic-goal
+  - /product-goal-is-an-intermediate-strategic-goal
+  - /resources/PjYSLMnBHhI
+  - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 aliasesArchive:
-- /blog/product-goal-is-an-intermediate-strategic-goal
-- /product-goal-is-an-intermediate-strategic-goal
-- /resources/blog/product-goal-is-an-intermediate-strategic-goal
+  - /blog/product-goal-is-an-intermediate-strategic-goal
+  - /product-goal-is-an-intermediate-strategic-goal
+  - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 layout: blog
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Management
-- Product Development
-- Leadership
+  - Product Management
+  - Product Development
+  - Leadership
 tags:
-- Agile Strategy
-- Business Agility
-- Continuous Improvement
-- Decision Making
-- Evidence Based Leadership
-- Organisational Agility
-- Hypothesis Driven Development
-- Evidence Based Management
-- Pragmatic Thinking
-- Experimentation
-- Value Delivery
-- Customer Focus
-- Ability to Innovate
-- Agile Product Management
-- Common Goals
+  - Empirical Process Control
+  - Agile Strategy
+  - Business Agility
+  - Continuous Improvement
+  - Decision Making
+  - Evidence Based Leadership
+  - Organisational Agility
+  - Hypothesis Driven Development
+  - Evidence Based Management
+  - Pragmatic Thinking
+  - Experimentation
+  - Value Delivery
+  - Customer Focus
+  - Ability to Innovate
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:15:10Z
   short_title: 2025-07-07T17:57:41Z
+  tldr: 2025-08-07T13:10:42Z
 ResourceImportId: 45309
 AudioNative: true
 creator: Martin Hinshelwood

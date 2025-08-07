@@ -2,8 +2,14 @@
 title: 7 harbingers of the Agile apocalypse- War
 short_title: 'Agile Conflict: From Debate to Destructive War'
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
+tldr: Unchecked conflict in agile teams can escalate from healthy debate to destructive infighting, undermining collaboration and progress. Leaders must foster open communication, empathy, and clear conflict resolution processes to keep disagreements constructive and aligned with shared goals. Proactively managing conflict is essential to prevent team dysfunction and support ongoing innovation and growth.
 date: 2023-10-19T13:00:46Z
+lastmod: 2023-10-19T13:00:46Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: wHGw1vmudNA
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-harbingers-of-the-agile-apocalypse-war
 aliases:
-- /resources/wHGw1vmudNA
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-war
-- /resources/videos/war-7-harbingers-agile-apocalypse
+  - /resources/wHGw1vmudNA
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-war
+  - /resources/videos/war-7-harbingers-agile-apocalypse
 aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-war
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-war
-- /resources/7-harbingers-of-the-agile-apocalypse-war
-- /resources/videos/war!-7-harbingers-agile-apocalypse
-- /resources/war!-7-harbingers-agile-apocalypse
-- /resources/videos/war-7-harbingers-agile-apocalypse
-- 7-harbingers-of-the-agile-apocalypse-war
+  - /resources/videos/-harbingers-of-the-agile-apocalypse-war
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-war
+  - /resources/7-harbingers-of-the-agile-apocalypse-war
+  - /resources/videos/war!-7-harbingers-agile-apocalypse
+  - /resources/war!-7-harbingers-agile-apocalypse
+  - /resources/videos/war-7-harbingers-agile-apocalypse
+  - 7-harbingers-of-the-agile-apocalypse-war
 source: internal
 layout: video
 concepts: []
 categories:
-- Technical Leadership
-- Product Development
+  - Technical Leadership
+  - Product Development
 tags:
-- Agile Philosophy
-- Agile Leadership
-- Organisational Agility
-- Social Technologies
+  - Agile Philosophy
+  - Agile Leadership
+  - Organisational Agility
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:08:37Z
   short_title: 2025-07-07T17:52:17Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:15Z
 videoId: wHGw1vmudNA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

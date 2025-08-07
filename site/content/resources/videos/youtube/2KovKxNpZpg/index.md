@@ -2,8 +2,14 @@
 title: 'Beyond the Rituals: Embracing the Core Principles of Scrum for True Agile Success'
 short_title: Core Principles of Scrum for Agile Success
 description: Explores how focusing on Scrum’s core principles—empiricism, transparency, and value delivery—leads to true agile success, beyond just following rituals or practices.
+tldr: Focusing on Scrum rituals instead of its core principles—empiricism, transparency, and delivering value—can hinder true agile success. Overemphasis on mechanics leads to misplaced priorities, reduced creativity, and lower team engagement. Development managers should encourage open dialogue, support experimentation, and regularly assess whether practices are truly delivering value, adapting or discarding those that do not.
 date: 2023-04-28T09:30:00Z
-weight: 640
+lastmod: 2023-04-28T09:30:00Z
+weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 2KovKxNpZpg
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 aliases:
-- /resources/2KovKxNpZpg
-- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
-- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
-- /resources/videos/pet-peeve-in-scrum
+  - /resources/2KovKxNpZpg
+  - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
+  - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
+  - /resources/videos/pet-peeve-in-scrum
 aliasesArchive:
-- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
-- /resources/videos/pet-peeve-in-scrum
-- /resources/pet-peeve-in-scrum
-- beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
+  - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
+  - /resources/videos/pet-peeve-in-scrum
+  - /resources/pet-peeve-in-scrum
+  - beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Agile Product Management
-- Empirical Process Control
-- Professional Scrum
-- Transparency
-- Agile Frameworks
-- Software Development
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
+  - Software Development
+  - Agile Product Management
+  - Empirical Process Control
+  - Transparency
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:12:52Z
   short_title: 2025-07-07T17:55:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:51Z
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: The Power of Technical Excellence in Agile Development
 short_title: Technical Excellence in Agile Development
 description: Explores how technical excellence in Agile development reduces risk, prevents technical debt, and boosts product quality and delivery speed through strong engineering standards.
+tldr: Technical excellence is essential for delivering a usable, high-quality product at the end of every iteration, which reduces risk and enables faster, more valuable feature delivery. The Azure DevOps team at Microsoft dramatically increased their output by focusing on paying down technical debt and establishing a strong Definition of Done. Development managers should prioritize technical excellence, avoid sacrificing quality for speed, and ensure their teams have a clear Definition of Done to maximize value and stay competitive.
 date: 2024-06-27T06:45:00Z
-weight: 150
+lastmod: 2024-06-27T06:45:00Z
+weight: 180
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: JTYCRehkN5U
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-technical-excellence-in-agile-development
 aliases:
-- /resources/JTYCRehkN5U
-- /resources/videos/the-power-of-technical-excellence-in-agile-development
-- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+  - /resources/JTYCRehkN5U
+  - /resources/videos/the-power-of-technical-excellence-in-agile-development
+  - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
 aliasesArchive:
-- /resources/videos/the-power-of-technical-excellence-in-agile-development
-- /resources/the-power-of-technical-excellence-in-agile-development
-- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
-- /resources/the-critical-role-of-technical-excellence-in-agile-software-development
-- the-power-of-technical-excellence-in-agile-development
+  - /resources/videos/the-power-of-technical-excellence-in-agile-development
+  - /resources/the-power-of-technical-excellence-in-agile-development
+  - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+  - /resources/the-critical-role-of-technical-excellence-in-agile-software-development
+  - the-power-of-technical-excellence-in-agile-development
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Engineering Excellence
-- Product Development
-- Technical Leadership
+  - Engineering Excellence
+  - Product Development
+  - Scrum
 tags:
-- Software Development
-- Definition of Done
-- Product Delivery
-- Technical Debt
-- Technical Mastery
-- Value Delivery
-- Working Software
-- Engineering Practices
-- Pragmatic Thinking
-- Operational Practices
-- Technical Excellence
-- Competence
+  - Software Development
+  - Definition of Done
+  - Product Delivery
+  - Technical Debt
+  - Technical Mastery
+  - Value Delivery
+  - Working Software
+  - Engineering Practices
+  - Pragmatic Thinking
+  - Operational Practices
+  - Technical Excellence
+  - Competence
 Watermarks:
   description: 2025-05-07T13:02:46Z
   short_title: 2025-07-07T17:49:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:13Z
 videoId: JTYCRehkN5U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

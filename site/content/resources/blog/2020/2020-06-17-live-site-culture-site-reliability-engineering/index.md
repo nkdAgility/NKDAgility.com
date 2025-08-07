@@ -2,34 +2,41 @@
 title: Live Site Culture & Site Reliability Engineering
 short_title: Live Site Culture & Site Reliability Engineering
 description: Explores how agile teams use DevOps and Site Reliability Engineering to deliver high-quality software rapidly, with insights from Microsoft’s Azure DevOps team practices.
+tldr: To stay competitive in a fast-changing market, teams must adopt DevOps and continuous delivery, shifting from infrequent releases to deploying updates daily. This requires faster feedback, shared responsibility for quality and operations, and new ways of working, as shown by Microsoft's Azure DevOps team. Development managers should consider evolving their team structures and practices to support rapid, customer-focused delivery.
 date: 2020-06-17
+lastmod: 2020-06-17
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: c_gS0nlQD9E
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: live-site-culture-site-reliability-engineering
 aliases:
-- /resources/c_gS0nlQD9E
+  - /resources/c_gS0nlQD9E
 aliasesArchive:
-- /blog/live-site-culture-site-reliability-engineering
-- /live-site-culture-site-reliability-engineering
-- /live-site-culture-&-site-reliability-engineering
-- /blog/live-site-culture-&-site-reliability-engineering
-- /resources/blog/live-site-culture-site-reliability-engineering
+  - /blog/live-site-culture-site-reliability-engineering
+  - /live-site-culture-site-reliability-engineering
+  - /live-site-culture-&-site-reliability-engineering
+  - /blog/live-site-culture-&-site-reliability-engineering
+  - /resources/blog/live-site-culture-site-reliability-engineering
 layout: blog
 concepts: []
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Frequent Releases
-- Deployment Frequency
-- Software Development
+  - Frequent Releases
+  - Deployment Frequency
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:38Z
   short_title: 2025-07-07T17:58:01Z
+  tldr: 2025-08-07T13:11:32Z
 ResourceImportId: 44414
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,8 +2,14 @@
 title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
 short_title: Mastering Prioritisation for Product Owners
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
+tldr: Product Owners play a crucial role in ensuring resources are spent wisely by prioritising the most valuable work, aligning development with business goals, and maintaining stakeholder trust through clear communication. Effective prioritisation maximises value delivery, keeps teams focused, and adapts to changing needs. Development managers should support Product Owners in understanding users, collaborating closely, and staying flexible to drive successful outcomes.
 date: 2023-11-27T11:00:56Z
-weight: 1000
+lastmod: 2023-11-27T11:00:56Z
+weight: 890
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: xLUsgKWzkUM
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
 aliases:
-- /resources/xLUsgKWzkUM
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
-- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+  - /resources/xLUsgKWzkUM
+  - /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+  - /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 aliasesArchive:
-- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
-- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
-- /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
-- mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+  - /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+  - /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
+  - mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Product Owner
-- Agile Product Management
-- Product Delivery
-- Value Delivery
-- Product Backlog
+  - Product Owner
+  - Agile Product Management
+  - Product Delivery
+  - Value Delivery
+  - Personal
+  - Product Backlog
 Watermarks:
   description: 2025-05-07T13:07:29Z
   short_title: 2025-07-07T17:51:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:11Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

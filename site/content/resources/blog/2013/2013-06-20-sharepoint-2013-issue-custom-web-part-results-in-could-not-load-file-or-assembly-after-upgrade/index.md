@@ -1,37 +1,40 @@
 ---
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
 description: Explains how to resolve SharePoint 2013 errors loading custom web parts after upgrading from 2010, using site reset or SharePoint Designer to remove missing assemblies.
+date: 2013-06-20
+lastmod: 2013-06-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: dOYcFVzZg42
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9905
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 aliases:
-- /resources/dOYcFVzZg42
+  - /resources/dOYcFVzZg42
 aliasesArchive:
-- /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-- /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-- /sharepoint-2013-issue
-- /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-- /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-- /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-tags:
-- Troubleshooting
-- Install and Configuration
+  - /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+  - /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+  - /sharepoint-2013-issue
+  - /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+  - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+  - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-8-8.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:14Z
-concepts: []
+ResourceImportId: 9905
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-8-8.png
 
 ---
 After an upgrade of a SharePoint 2010 content database to SharePoint 2013 you may get an error message “Could not load file or assembly ‘MyCustomWebPart, Version=1.0.0.0, Culture=neutral, Public Token=6912jju2191j213ggv10’ or one of its dependants. The system cannot find the file specified” when you try to access a page.

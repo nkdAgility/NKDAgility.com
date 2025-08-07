@@ -1,37 +1,40 @@
 ---
 title: 'TFS Integration Tools–Issue: AnalysisProvider not found'
 description: Explains how to resolve the "AnalysisProvider not found" error in TFS Integration Tools by updating the .NET Framework version from 3.5 to 4.0 and recompiling.
+date: 2012-07-12
+lastmod: 2012-07-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8A-nFDUhe2o
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6136
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: tfs-integration-toolsissue-analysisprovider-not-found
+slug: tfs-integration-tools–issue-analysisprovider-not-found
 aliases:
-- /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
-- /resources/8A-nFDUhe2o
+  - /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
+  - /resources/8A-nFDUhe2o
 aliasesArchive:
-- /blog/tfs-integration-toolsissue-analysisprovider-not-found
-- /tfs-integration-toolsissue-analysisprovider-not-found
-- /tfs-integration-tools–issue--analysisprovider-not-found
-- /blog/tfs-integration-tools–issue--analysisprovider-not-found
-- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
-- /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
-tags:
-- Troubleshooting
+  - /blog/tfs-integration-toolsissue-analysisprovider-not-found
+  - /tfs-integration-toolsissue-analysisprovider-not-found
+  - /tfs-integration-tools–issue--analysisprovider-not-found
+  - /blog/tfs-integration-tools–issue--analysisprovider-not-found
+  - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
+  - /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:46Z
-concepts: []
+ResourceImportId: 6136
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-3-3.png
 
 ---
 When you are trying to load your custom Adapter you receive a message stating that it does not exist.

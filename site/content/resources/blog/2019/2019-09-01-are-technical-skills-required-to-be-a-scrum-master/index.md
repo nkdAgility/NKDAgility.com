@@ -2,37 +2,44 @@
 title: Are technical skills required to be a Scrum Master?
 short_title: Are Technical Skills Needed for Scrum Masters?
 description: Technical skills are not required to be a Scrum Master, but understanding technical, business, and organisational contexts helps Scrum Masters better support their teams.
+tldr: Technical skills are not strictly required to be a Scrum Master, but having a solid understanding of technical, business, and organizational contexts makes a Scrum Master much more effective. Mastery in these areas helps Scrum Masters better support their teams, guide Product Owners, and drive meaningful organizational change. Development managers should ensure their Scrum Masters are equipped with broad contextual knowledge to maximize team and business value.
 date: 2019-09-01
+lastmod: 2019-09-01
 weight: 275
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: foi9MYyc1vq
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
-- /resources/foi9MYyc1vq
+  - /resources/foi9MYyc1vq
 aliasesArchive:
-- /blog/are-technical-skills-required-to-be-a-scrum-master
-- /are-technical-skills-required-to-be-a-scrum-master
-- /are-technical-skills-required-to-be-a-scrum-master-
-- /blog/are-technical-skills-required-to-be-a-scrum-master-
-- /resources/blog/are-technical-skills-required-to-be-a-scrum-master
+  - /blog/are-technical-skills-required-to-be-a-scrum-master
+  - /are-technical-skills-required-to-be-a-scrum-master
+  - /are-technical-skills-required-to-be-a-scrum-master-
+  - /blog/are-technical-skills-required-to-be-a-scrum-master-
+  - /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
+  - Scrum
+  - Technical Leadership
 tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Pragmatic Thinking
-- Software Development
-- Agile Frameworks
-- Competence
+  - Scrum Master
+  - Professional Scrum
+  - Scrum Team
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Frameworks
+  - Competence
 Watermarks:
   description: 2025-05-07T13:16:13Z
   short_title: 2025-07-07T17:58:30Z
+  tldr: 2025-08-07T13:13:06Z
 ResourceImportId: 39894
 creator: Martin Hinshelwood
 resourceTypes: blog

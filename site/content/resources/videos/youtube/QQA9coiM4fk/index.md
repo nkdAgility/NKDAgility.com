@@ -2,8 +2,14 @@
 title: DevOps Consulting Overview
 short_title: DevOps Consulting Overview
 description: Explore how expert DevOps consulting drives cultural change, process improvement, technical troubleshooting, and tailored solutions for efficient, reliable software delivery.
+tldr: DevOps consulting focuses on driving real improvement by aligning culture, processes, and tools to deliver better software faster and more reliably. Key outcomes include tailored workshops, leadership alignment, and hands-on technical support across various platforms, not just Microsoft. To get the most value, approach DevOps as an ongoing journey of cultural and operational change rather than a one-time tool implementation.
 date: 2023-06-16T07:00:14Z
+lastmod: 2023-06-16T07:00:14Z
 weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: QQA9coiM4fk
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: devops-consulting-overview
 aliases:
-- /resources/QQA9coiM4fk
-- /resources/videos/devops-consulting-overview
+  - /resources/QQA9coiM4fk
+  - /resources/videos/devops-consulting-overview
 aliasesArchive:
-- /resources/videos/devops-consulting-overview
-- /resources/devops-consulting-overview
-- /resources/videos/devops-consulting-overview-
-- /resources/devops-consulting-overview-
-- devops-consulting-overview
+  - /resources/videos/devops-consulting-overview
+  - /resources/devops-consulting-overview
+  - /resources/videos/devops-consulting-overview-
+  - /resources/devops-consulting-overview-
+  - devops-consulting-overview
 source: internal
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:34Z
   short_title: 2025-07-07T17:54:36Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:40Z
 videoId: QQA9coiM4fk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

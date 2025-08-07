@@ -2,8 +2,14 @@
 title: What is the one thing that no Agile team can survive?
 short_title: Culture of Contempt in Agile Teams
 description: Explores how a culture of contempt undermines Agile teams, its causes, impact on morale and productivity, and practical steps leaders can take to build a positive, inclusive culture.
+tldr: No Agile team can survive a culture of contempt, which arises when team input is ignored and decisions are made without their involvement, leading to low morale and poor productivity. Leaders must foster open communication, include teams in decision-making, and address disconnects to build a positive, engaged workforce. If change is not possible, individuals may need to seek healthier environments to maintain well-being and performance.
 date: 2023-10-17T11:00:23Z
+lastmod: 2023-10-17T11:00:23Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: c0ncdBixyfo
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-one-thing-that-no-agile-team-can-survive
 aliases:
-- /resources/c0ncdBixyfo
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+  - /resources/c0ncdBixyfo
+  - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
 aliasesArchive:
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
-- what-is-the-one-thing-that-no-agile-team-can-survive
+  - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+  - /resources/what-is-the-one-thing-that-no-agile-team-can-survive
+  - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
+  - /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
+  - what-is-the-one-thing-that-no-agile-team-can-survive
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Organisational Culture
-- Employee Engagement
-- Personal
-- Sociotechnical Systems
-- Team Motivation
+  - Team Motivation
+  - Organisational Culture
+  - Employee Engagement
+  - Personal
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:08:41Z
   short_title: 2025-07-07T17:52:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:23Z
 videoId: c0ncdBixyfo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

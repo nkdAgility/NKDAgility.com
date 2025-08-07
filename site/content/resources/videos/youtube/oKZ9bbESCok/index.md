@@ -2,8 +2,14 @@
 title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 short_title: 'Say-Do Metrics: Risks and Outcome Focus in Agile'
 description: Explains the risks of using say-do metrics in Agile, highlighting how they encourage vanity metrics, harm psychological safety, and shift focus from outcomes to outputs.
+tldr: Relying on say-do metrics, which compare what teams promise to what they deliver, often leads to manipulated data, vanity metrics, and a focus on outputs instead of real value. This undermines psychological safety, encourages gaming the system, and disconnects leadership from actual progress. Development managers should shift their focus to measuring outcomes and value delivered, foster transparency, and create an environment where teams can be honest and adapt to change.
 date: 2024-01-05T07:00:28Z
+lastmod: 2024-01-05T07:00:28Z
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: oKZ9bbESCok
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
 aliases:
-- /resources/oKZ9bbESCok
-- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+  - /resources/oKZ9bbESCok
+  - /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+  - /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
 aliasesArchive:
-- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
-- say-do-metrics-avoiding-agile-banditry-in-your-organization
+  - /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+  - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
+  - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
+  - /resources/5-kinds-of-agile-bandits-say-do-metrics
+  - /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+  - say-do-metrics-avoiding-agile-banditry-in-your-organization
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Focus
-- Agile Philosophy
-- Value Delivery
-- Transparency
-- Metrics and Learning
-- Software Development
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Psychological Safety
-- Evidence Based Management
-- Team Performance
-- Pragmatic Thinking
+  - Organisational Culture
+  - Customer Focus
+  - Agile Philosophy
+  - Value Delivery
+  - Transparency
+  - Metrics and Learning
+  - Software Development
+  - Agile Strategy
+  - Agile Transformation
+  - Agile Values and Principles
+  - Psychological Safety
+  - Evidence Based Management
+  - Team Performance
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:37Z
   short_title: 2025-07-07T17:50:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:27Z
 videoId: oKZ9bbESCok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

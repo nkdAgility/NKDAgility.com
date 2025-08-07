@@ -2,8 +2,14 @@
 title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
 short_title: 'Jernimo Palacios: Mentorship in Agile Community'
 description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
+tldr: Jernimo Palacios has played a key role in advancing agile practices in Spain by sharing his expertise, building a collaborative community, and mentoring others. His openness and support have helped many navigate agile challenges and encouraged continuous improvement and knowledge sharing. Development managers should foster similar mentorship and collaboration within their teams to drive growth and adaptability.
 date: 2023-05-04T07:00:07Z
-weight: 1000
+lastmod: 2023-05-04T07:00:07Z
+weight: 755
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: JNJerYuU30E
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 aliases:
-- /resources/JNJerYuU30E
-- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
-- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
-- /resources/videos/most-influential-person-in-agile-jernimo-palacios
+  - /resources/JNJerYuU30E
+  - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+  - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
+  - /resources/videos/most-influential-person-in-agile-jernimo-palacios
 aliasesArchive:
-- /resources/videos/most-influential-person-in-agile-jernimo-palacios
-- /resources/videos/most-influential-person-in-agile-jerónimo-palacios
-- /resources/most-influential-person-in-agile-jerónimo-palacios
-- most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
-- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
-- celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+  - /resources/videos/most-influential-person-in-agile-jernimo-palacios
+  - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
+  - /resources/most-influential-person-in-agile-jerónimo-palacios
+  - most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
+  - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
+  - celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Mentoring
-- Personal
-- Coaching
-- Continuous Learning
+  - Mentoring
+  - Personal
+  - Coaching
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:12:44Z
   short_title: 2025-07-07T17:55:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:35Z
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: Scrum is like communism, it doesn't work. Myth 5.
 short_title: 'Scrum and Governance: Debunking the Myth'
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
+tldr: Scrum does not mean abandoning governance; instead, it requires teams to balance agility with necessary regulatory and organizational standards. Applying "just enough governance" ensures compliance and quality without stifling innovation, especially in regulated or complex environments. Development managers should regularly review and adapt governance practices to support both compliance and Agile delivery.
 date: 2023-10-26T07:00:29Z
-weight: 690
+lastmod: 2023-10-26T07:00:29Z
+weight: 735
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: kORUKHu-64A
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scrum-is-like-communism-it-doesn't-work-myth-5
 aliases:
-- /resources/kORUKHu-64A
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
+  - /resources/kORUKHu-64A
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-5
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
-- scrum-is-like-communism-it-doesnt-work-myth-5-
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
-- scrum-is-like-communism-it-doesnt-work-myth-5
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
+  - /resources/scrum-is-like-communism-it-doesnt-work-myth-5
+  - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+  - /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+  - scrum-is-like-communism-it-doesnt-work-myth-5-
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
+  - scrum-is-like-communism-it-doesnt-work-myth-5
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:08:20Z
   short_title: 2025-07-07T17:52:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:44Z
 videoId: kORUKHu-64A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

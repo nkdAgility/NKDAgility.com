@@ -1,37 +1,40 @@
 ---
 title: 'TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure'
 description: Explains how to resolve TFS Integration Tools check-in failures (TF10141), covering conflict identification, manual resolution steps, and handling workspace issues.
+date: 2012-08-22
+lastmod: 2012-08-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: BPBvfH-1wzW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7402
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliases:
-- /resources/BPBvfH-1wzW
+  - /resources/BPBvfH-1wzW
 aliasesArchive:
-- /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-- /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-- /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-- /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+  - /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+  - /tfs-integration-tools
+  - /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+  - /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+  - /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-12-12.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:07:57Z
-concepts: []
+ResourceImportId: 7402
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-12-12.png
 
 ---
 If you encounter a TFS check-in failure conflict type and you try the first option of “Retry the action”.

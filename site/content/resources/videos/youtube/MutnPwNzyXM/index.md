@@ -2,8 +2,14 @@
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 short_title: Rethinking the Statement of Work
 description: Explores why focusing solely on contracts can miss client needs, and how flexible, value-driven consulting builds stronger relationships and delivers lasting results.
+tldr: Focusing strictly on the statement of work often fails to address clients' real problems, leading to temporary fixes and dissatisfaction. Building trust, adapting to actual needs, and prioritising value over rigid contract terms result in better outcomes and lasting change. Development managers should emphasise relationships and flexibility to deliver solutions that truly matter to clients.
 date: 2023-06-22T07:00:15Z
-weight: 1000
+lastmod: 2023-06-22T07:00:15Z
+weight: 860
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: MutnPwNzyXM
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 aliases:
-- /resources/MutnPwNzyXM
-- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+  - /resources/MutnPwNzyXM
+  - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+  - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 aliasesArchive:
-- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
-- rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+  - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+  - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+  - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+  - rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Customer Focus
-- Pragmatic Thinking
-- Personal
+  - Customer Focus
+  - Pragmatic Thinking
+  - Personal
 Watermarks:
   description: 2025-05-07T13:11:22Z
   short_title: 2025-07-07T17:54:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:20Z
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

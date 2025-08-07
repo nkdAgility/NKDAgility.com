@@ -1,41 +1,44 @@
 ---
 title: Execute Tests with Release Management for Visual Studio 2013
 description: Learn how to automate test execution during deployments using Release Management for Visual Studio 2013, including setup steps, environment tips, and common issues.
+date: 2014-01-27
+lastmod: 2014-01-27
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: Jpm_MxV4e3G
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10342
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-01-27
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: execute-tests-release-management-visual-studio-2013
+slug: execute-tests-with-release-management-for-visual-studio-2013
 aliases:
-- /resources/Jpm_MxV4e3G
+  - /resources/Jpm_MxV4e3G
 aliasesArchive:
-- /blog/execute-tests-release-management-visual-studio-2013
-- /execute-tests-release-management-visual-studio-2013
-- /execute-tests-with-release-management-for-visual-studio-2013
-- /blog/execute-tests-with-release-management-for-visual-studio-2013
-- /resources/blog/execute-tests-release-management-visual-studio-2013
-tags:
-- Release Management
-- Software Development
-- Install and Configuration
-- Azure DevOps
-- Automated Testing
-- Product Delivery
-- Test Automation
+  - /blog/execute-tests-release-management-visual-studio-2013
+  - /execute-tests-release-management-visual-studio-2013
+  - /execute-tests-with-release-management-for-visual-studio-2013
+  - /blog/execute-tests-with-release-management-for-visual-studio-2013
+  - /resources/blog/execute-tests-release-management-visual-studio-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-7-7.png
+  - Uncategorized
+tags:
+  - Release Management
+  - Software Development
+  - Install and Configuration
+  - Azure DevOps
+  - Automated Testing
+  - Product Delivery
+  - Test Automation
 Watermarks:
   description: 2025-05-12T14:22:23Z
-concepts: []
+ResourceImportId: 10342
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
 Last week I was onsite with a customer who was trying to do automated release and test with Lab Management. I showed him a better way by execute Tests with Release Management for Visual Studio 2013.

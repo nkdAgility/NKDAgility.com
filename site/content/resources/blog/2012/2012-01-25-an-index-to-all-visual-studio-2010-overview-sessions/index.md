@@ -1,34 +1,37 @@
 ---
 title: Visual Studio 2010 Overview Webcasts
 description: Series of webcasts providing high-level overviews of Visual Studio 2010 and Team Foundation Server features, including ALM, testing, code management, and daily workflows.
+date: 2012-01-25
+lastmod: 2012-01-25
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _EPy7wea5xE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4128
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-25
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: an-index-to-all-visual-studio-2010-overview-sessions
+slug: visual-studio-2010-overview-webcasts
 aliases:
-- /resources/_EPy7wea5xE
+  - /resources/_EPy7wea5xE
 aliasesArchive:
-- /blog/an-index-to-all-visual-studio-2010-overview-sessions
-- /an-index-to-all-visual-studio-2010-overview-sessions
-- /visual-studio-2010-overview-webcasts
-- /blog/visual-studio-2010-overview-webcasts
-- /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/an-index-to-all-visual-studio-2010-overview-sessions
+  - /an-index-to-all-visual-studio-2010-overview-sessions
+  - /visual-studio-2010-overview-webcasts
+  - /blog/visual-studio-2010-overview-webcasts
+  - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:40Z
-concepts: []
+ResourceImportId: 4128
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

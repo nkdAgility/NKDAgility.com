@@ -1,40 +1,43 @@
 ---
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
 description: Step-by-step guide to upgrading Team Foundation Server 2012 to Update 1, including prerequisites, backup, disk space, configuration, troubleshooting, and build server setup.
+date: 2012-12-31
+lastmod: 2012-12-31
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: -X57bQlULtp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9211
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-12-31
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: upgrading-to-team-foundation-server-2012-update-1-in-production-done
+slug: upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 aliases:
-- /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
-- /resources/-X57bQlULtp
+  - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+  - /resources/-X57bQlULtp
 aliasesArchive:
-- /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
-- /upgrading-to-team-foundation-server-2012-update-1-in-production-done
-- /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
-- /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
-- /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
-tags:
-- Software Development
-- Install and Configuration
-- System Configuration
-- Windows
-- Troubleshooting
+  - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+  - /upgrading-to-team-foundation-server-2012-update-1-in-production-done
+  - /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
+  - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
+  - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-15-15.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Windows
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:01Z
-concepts: []
+ResourceImportId: 9211
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---
 Although many of my customers have been having a go at installing Visual Studio Team Foundation Server 2012 Update 1 themselves one or two have had issues. While these issues are easily resolved it is sometimes nice to have someone else who has done the same thing a bunch of times take the rains.

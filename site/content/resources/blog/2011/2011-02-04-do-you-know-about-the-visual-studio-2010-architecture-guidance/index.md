@@ -1,34 +1,37 @@
 ---
 title: Do you know about the Visual Studio 2010 Architecture Guidance?
 description: Provides practical samples, checklists, and hands-on labs to help developers and architects use Visual Studio 2010 Ultimate’s architecture modelling tools effectively.
+date: 2011-02-04
+lastmod: 2011-02-04
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _88PkXdkKu8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 16
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-02-04
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
-- /resources/_88PkXdkKu8
+  - /resources/_88PkXdkKu8
 aliasesArchive:
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance-
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
-- /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
-tags: []
-preview: metro-visual-studio-2010-128-link-4-4.png
+  - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+  - /do-you-know-about-the-visual-studio-2010-architecture-guidance
+  - /do-you-know-about-the-visual-studio-2010-architecture-guidance-
+  - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
+  - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:12Z
-concepts: []
+ResourceImportId: 16
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---
 [![image](images/Do-you-know-about-the-Visual-Studio-2010_E583-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_E583-image_2.png)

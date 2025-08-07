@@ -1,32 +1,35 @@
 ---
 title: Calculating the Rank of your blog posts or pages
 description: Explains how to calculate and rank blog posts or pages using data like comments, social shares, and Google PageRank to identify popular or underperforming content.
+date: 2010-09-10
+lastmod: 2010-09-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DrHRcRNSIRX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 26
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: calculating-the-rank-of-your-blog-posts-or-pages
 aliases:
-- /resources/DrHRcRNSIRX
+  - /resources/DrHRcRNSIRX
 aliasesArchive:
-- /blog/calculating-the-rank-of-your-blog-posts-or-pages
-- /calculating-the-rank-of-your-blog-posts-or-pages
-- /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
-tags: []
+  - /blog/calculating-the-rank-of-your-blog-posts-or-pages
+  - /calculating-the-rank-of-your-blog-posts-or-pages
+  - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-11-11.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:32Z
-concepts: []
+ResourceImportId: 26
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-11-11.png
 
 ---
 ![WeeManWithQuestions](images/e72c59b050ae_D1D8-WeeManWithQuestions_-9-9.png)I had an idea to have blog posts, or Rules listed not in date order, or an arbitrary order, but in some sort of calculated order. For this I would need to get data from somewhere and I fancied using; Number of Comments, Number of Trackbacks, Reddit, Digg, FriendFeed Twitter and Google Page rank. In this sample I use the term Rangler as a cross between Wrangler and Rank, but they are really Data Collectors.

@@ -1,9 +1,9 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-01T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
-$watermarkScoreLimit = 10
-$watermarkCount = 50
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-08-06T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
+$watermarkScoreLimit = 30
+$watermarkCount = 1
 
 function Get-CatalogHashtable {
     param (
@@ -823,6 +823,8 @@ function Update-ClassificationLinksInBodyContent {
     return $hugoMarkdown.BodyContent
 }
 
+
+
 function Get-CatalogItemsToRefreshOrGet {
     param (
         [Parameter(Mandatory = $true)]
@@ -867,7 +869,7 @@ function Get-CatalogItemsToRefreshOrGet {
             $CatalogFromCache.GetEnumerator() |
             ForEach-Object { $_.Value } |
             Where-Object { 
-                $_.final_score -gt $watermarkScoreLimit -and 
+                ($_.final_score -gt $watermarkScoreLimit -or -not $_.PSObject.Properties['reasoning_summary']) -and 
                 [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
             } |
             Sort-Object { [DateTimeOffset]$_.calculated_at } |

@@ -2,45 +2,52 @@
 title: Too much refinement wastes time
 short_title: Too Much Backlog Refinement Wastes Time
 description: Balancing backlog refinement prevents wasted effort and chaos. Aim for just enough detail so developers can plan sprints confidently without over-preparing or guessing.
+tldr: Too much backlog refinement wastes time, while too little causes confusion and delays. Aim for just enough detail so developers can start work confidently without needing constant clarification. If Sprint Planning is about making commitments rather than figuring things out, your refinement process is working well.
 date: 2025-04-29T15:30:43+01:00
+lastmod: 2025-04-29T15:30:43+01:00
 weight: 345
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 2GV6voRFhjH
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: too-much-refinement-wastes-time
 aliases:
-- /resources/2GV6voRFhjH
+  - /resources/2GV6voRFhjH
 source: LinkedIn
 layout: signal
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Product Backlog
-- Software Development
-- Agile Planning
-- Backlog Refinement
-- Operational Practices
-- Pragmatic Thinking
-- Definition of Ready
-- Agile Product Management
+  - Product Backlog
+  - Software Development
+  - Agile Planning
+  - Backlog Refinement
+  - Operational Practices
+  - Pragmatic Thinking
+  - Definition of Ready
+  - Agile Product Management
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7323005822538600449
-  post_id: "7323005822538600449"
-  post_date: 2025-04-29T14:30:43Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7323005822538600449
+    post_id: "7323005822538600449"
+    post_date: 2025-04-29T14:30:43Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:09Z
   short_title: 2025-07-07T16:44:36Z
+  tldr: 2025-08-07T12:33:05Z
 
 ---
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.

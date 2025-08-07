@@ -2,8 +2,14 @@
 title: Momentum
 short_title: Momentum in Agile Product Delivery
 description: Explains how momentum—team movement with clear direction—drives success in Agile product delivery, fostering collaboration, progress, and high performance.
+tldr: Momentum in product delivery means not just moving quickly but ensuring everyone is aligned and moving in the same direction, which is essential for achieving shared goals. Teams with strong momentum can inspire and pull others along, making a real difference between stagnation and progress. To build and sustain this momentum, consider investing in Agile and Scrum training or coaching to foster collaboration and continuous improvement.
 date: 2023-05-16T07:00:02Z
-weight: 1000
+lastmod: 2023-05-16T07:00:02Z
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 5bgfme-Pspw
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: momentum
 aliases:
-- /resources/5bgfme-Pspw
-- /resources/videos/momentum-5bgfme-Pspw
+  - /resources/5bgfme-Pspw
+  - /resources/videos/momentum-5bgfme-Pspw
 aliasesArchive:
-- /resources/videos/momentum
-- /resources/momentum-2
-- /resources/momentum
-- momentum-5bgfme-Pspw
+  - /resources/videos/momentum
+  - /resources/momentum-2
+  - /resources/momentum
+  - momentum-5bgfme-Pspw
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:27Z
   short_title: 2025-07-07T17:55:14Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:07Z
 videoId: 5bgfme-Pspw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
 duration: 59
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

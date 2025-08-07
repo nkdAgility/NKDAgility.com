@@ -2,8 +2,14 @@
 title: No go zone for Agile consultants
 short_title: No Go Zone for Agile Consultants
 description: Explores the broader role of Agile consultants beyond coaching, highlighting the need for teaching, leadership, and driving real organisational change for client success.
+tldr: Agile consultants should go beyond coaching by actively teaching, guiding, and sometimes directing clients to try new approaches rather than just supporting existing methods. The real value lies in driving meaningful change and growth for organizations, not just prolonging engagements. Development managers should expect Agile consultants to challenge the status quo and encourage experimentation to achieve better results.
 date: 2023-05-10T09:30:14Z
+lastmod: 2023-05-10T09:30:14Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZnXrAarX1Wg
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: no-go-zone-for-agile-consultants
 aliases:
-- /resources/ZnXrAarX1Wg
-- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+  - /resources/ZnXrAarX1Wg
+  - /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 aliasesArchive:
-- /resources/videos/no-go-zone-for-agile-consultants
-- /resources/no-go-zone-for-agile-consultants
-- /resources/videos/no-go-zone-for-agile-consultants-
-- /resources/no-go-zone-for-agile-consultants-
-- no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+  - /resources/videos/no-go-zone-for-agile-consultants
+  - /resources/no-go-zone-for-agile-consultants
+  - /resources/videos/no-go-zone-for-agile-consultants-
+  - /resources/no-go-zone-for-agile-consultants-
+  - no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:33Z
   short_title: 2025-07-07T17:55:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:17Z
 videoId: ZnXrAarX1Wg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

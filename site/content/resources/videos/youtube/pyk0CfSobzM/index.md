@@ -2,8 +2,14 @@
 title: How does a Scrum team estimate what can be delivered in a Sprint?
 short_title: How Scrum Teams Estimate Sprint Deliverables
 description: Scrum teams estimate Sprint deliverables by assessing the size and complexity of backlog items, focusing on shared understanding rather than predicting exact timeframes.
+tldr: Scrum teams do not precisely estimate what can be delivered in a Sprint; instead, they focus on understanding the size and complexity of backlog items to make informed guesses. This approach acknowledges the unpredictability of creative work and the high level of uncertainty in software development. Managers should allow flexibility in Sprint goals and use estimation tools to foster shared understanding rather than to set rigid deadlines.
 date: 2023-06-01T07:00:31Z
+lastmod: 2023-06-01T07:00:31Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: pyk0CfSobzM
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 aliases:
-- /resources/pyk0CfSobzM
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+  - /resources/pyk0CfSobzM
+  - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 aliasesArchive:
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-- how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+  - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+  - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+  - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+  - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+  - how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:58Z
   short_title: 2025-07-07T17:54:55Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:24Z
 videoId: pyk0CfSobzM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

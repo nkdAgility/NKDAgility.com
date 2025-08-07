@@ -2,8 +2,14 @@
 title: 2-day PSPO Versus 8-week PSPO
 short_title: 2-day vs 8-week PSPO Course Comparison
 description: Compares 2-day and 8-week Product Owner courses, highlighting differences in learning pace, depth, practical application, and how each suits different learning styles.
+tldr: Both the 2-day and 8-week Product Owner courses provide the same core knowledge, practical insights, and a recognized credential, but differ in pace and depth. The 2-day option offers fast, focused learning, while the 8-week course allows for deeper integration with real work and ongoing feedback. Choose the format that best fits your team's learning style and how you want to apply new skills on the job.
 date: 2023-06-07T07:00:14Z
-weight: 1000
+lastmod: 2023-06-07T07:00:14Z
+weight: 900
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: N3LSpL-N3kY
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 2-day-pspo-versus-8-week-pspo
 aliases:
-- /resources/N3LSpL-N3kY
-- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+  - /resources/N3LSpL-N3kY
+  - /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 aliasesArchive:
-- /resources/videos/-day-pspo-versus-week-pspo
-- /resources/videos/2-day-pspo-versus-8-week-pspo
-- /resources/2-day-pspo-versus-8-week-pspo
-- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+  - /resources/videos/-day-pspo-versus-week-pspo
+  - /resources/videos/2-day-pspo-versus-8-week-pspo
+  - /resources/2-day-pspo-versus-8-week-pspo
+  - 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:48Z
   short_title: 2025-07-07T17:54:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:06Z
 videoId: N3LSpL-N3kY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

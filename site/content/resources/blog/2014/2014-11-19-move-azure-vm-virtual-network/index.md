@@ -1,36 +1,43 @@
 ---
 title: Move your Azure VM to a Virtual Network
+short_title: Move Azure VM to a Virtual Network
 description: Learn how to move an Azure virtual machine to a virtual network by deleting the VM, preserving its disks, and recreating it within the desired network for proper connectivity.
+tldr: If you need to move an existing Azure VM to a virtual network, you cannot do it directly; you must delete the VM (keeping the disks), create a new virtual network in the correct region, and then redeploy the VM using the existing disks and attach it to the new network. This process allows your VM, such as a domain controller, to communicate with other machines in the same network. Plan your network setup before VM deployment to avoid this manual migration.
+date: 2014-11-19
+lastmod: 2014-11-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nTSBTp1_gBy
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10874
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-11-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: move-azure-vm-virtual-network
+slug: move-your-azure-vm-to-a-virtual-network
 aliases:
-- /resources/nTSBTp1_gBy
+  - /resources/nTSBTp1_gBy
 aliasesArchive:
-- /blog/move-azure-vm-virtual-network
-- /move-azure-vm-virtual-network
-- /move-your-azure-vm-to-a-virtual-network
-- /blog/move-your-azure-vm-to-a-virtual-network
-- /resources/blog/move-azure-vm-virtual-network
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/move-azure-vm-virtual-network
+  - /move-azure-vm-virtual-network
+  - /move-your-azure-vm-to-a-virtual-network
+  - /blog/move-your-azure-vm-to-a-virtual-network
+  - /resources/blog/move-azure-vm-virtual-network
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-8-8.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:20:42Z
-concepts: []
+  tldr: 2025-08-07T13:26:29Z
+  short_title: 2025-08-07T13:26:30Z
+ResourceImportId: 10874
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-8-8.png
 
 ---
 When I first completed [configuring a DC in Azure for AAD integrated Release Management](http://nkdagility.com/configuring-dc-azure-aad-integrated-release-management/) I did not add my virtual machine to a virtual network. And I really should have and in the usual poopyness that is servers you can't move it. You effectively need to delete your VM leaving the disks and create a new machine definition that is correctly configured.

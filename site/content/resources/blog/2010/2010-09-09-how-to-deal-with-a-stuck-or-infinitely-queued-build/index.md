@@ -1,36 +1,39 @@
 ---
 title: How to deal with a stuck or infinitely queued build
 description: Learn how to identify, troubleshoot, and resolve stuck or infinitely queued builds in Team Foundation Build, including tips for monitoring and restarting build services.
+date: 2010-09-09
+lastmod: 2010-09-09
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: gfvOPIZKbEI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 27
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-09
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliases:
-- /resources/gfvOPIZKbEI
+  - /resources/gfvOPIZKbEI
 aliasesArchive:
-- /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-- /how-to-deal-with-a-stuck-or-infinitely-queued-build
-- /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-tags:
-- Software Development
-- Troubleshooting
-- Azure Pipelines
-- Azure DevOps
-preview: metro-SSWLogo-128-link-11-11.png
+  - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+  - /how-to-deal-with-a-stuck-or-infinitely-queued-build
+  - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Troubleshooting
+  - Azure Pipelines
+  - Azure DevOps
 Watermarks:
   description: 2025-05-13T15:11:33Z
-concepts: []
+ResourceImportId: 27
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-11-11.png
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

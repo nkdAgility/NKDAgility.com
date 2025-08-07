@@ -2,37 +2,44 @@
 title: The Sprint Goal is a commitment for the Sprint Backlog
 short_title: Sprint Goal as Commitment in Scrum Sprints
 description: Explains how the Sprint Goal guides Scrum teams by providing a clear, shared objective for each Sprint, ensuring focus, transparency, and alignment with the Product Goal.
+tldr: The Sprint Goal is a clear, single objective for each Sprint that guides the team’s focus and aligns their work toward the Product Goal. It is set during Sprint Planning, helps teams adapt their work as needed without losing sight of the main purpose, and should be specific to your business context. Ensure your Product Owner proposes a meaningful Sprint Goal for each Sprint to keep the team aligned and working toward valuable outcomes.
 date: 2020-11-27
+lastmod: 2020-11-27
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 99LDtXqmRu5
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
-- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /resources/99LDtXqmRu5
-- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /resources/99LDtXqmRu5
+  - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliasesArchive:
-- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+  - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Planning
-- Agile Frameworks
-- Professional Scrum
-- Software Development
-- Agile Product Management
+  - Software Development
+  - Agile Planning
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:15:20Z
   short_title: 2025-07-07T17:57:46Z
+  tldr: 2025-08-07T13:10:55Z
 ResourceImportId: 45088
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,8 +2,14 @@
 title: 30% Discount for Existing Alumni Overview
 short_title: 30% Discount for Existing Alumni
 description: A 30% discount is offered to alumni, recognising their dedication and supporting continued growth in DevOps, Agile, and Scrum skills through further learning opportunities.
+tldr: Existing alumni are being offered a 30 percent discount on future courses to recognize their dedication and support their continued growth in Agile and DevOps. This offer aims to help committed professionals deepen their expertise, transition to consultant roles, and stay competitive. Take advantage of this opportunity to further develop your skills and advance your career.
 date: 2023-06-09T11:00:46Z
-weight: 1000
+lastmod: 2023-06-09T11:00:46Z
+weight: 900
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ypVIcgSEvMc
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 30-discount-for-existing-alumni-overview
 aliases:
-- /resources/ypVIcgSEvMc
-- /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+  - /resources/ypVIcgSEvMc
+  - /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 aliasesArchive:
-- /resources/videos/-discount-for-existing-alumni-overview
-- /resources/videos/30-discount-for-existing-alumni-overview
-- /resources/30-discount-for-existing-alumni-overview
-- 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+  - /resources/videos/-discount-for-existing-alumni-overview
+  - /resources/videos/30-discount-for-existing-alumni-overview
+  - /resources/30-discount-for-existing-alumni-overview
+  - 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:42Z
   short_title: 2025-07-07T17:54:43Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:55Z
 videoId: ypVIcgSEvMc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

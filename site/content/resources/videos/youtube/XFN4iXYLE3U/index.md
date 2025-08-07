@@ -2,8 +2,14 @@
 title: Why Limiting Work in Progress is Key to Success in Kanban
 short_title: Limiting Work in Progress in Kanban
 description: Limiting work in progress in Kanban helps teams focus, spot bottlenecks, maintain quality, and deliver value efficiently by ensuring a sustainable, manageable workflow.
+tldr: Limiting work in progress is essential for effective Kanban because it helps teams focus, exposes bottlenecks, and supports a sustainable pace, leading to higher quality and faster delivery. Teams that set and adjust WIP limits based on capacity see improved productivity and less stress. To get the benefits, involve your team in setting WIP limits and regularly review them to keep your workflow smooth and predictable.
 date: 2024-07-22T06:00:19Z
+lastmod: 2024-07-22T06:00:19Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: XFN4iXYLE3U
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
 aliases:
-- /resources/XFN4iXYLE3U
-- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
-- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
-- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-wip-is-key-to-success
+  - /resources/XFN4iXYLE3U
+  - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
+  - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
+  - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-wip-is-key-to-success
 aliasesArchive:
-- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
-- "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
-- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
-- /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
-- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-wip-is-key-to-success
-- why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
+  - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
+  - "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
+  - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
+  - /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
+  - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-wip-is-key-to-success
+  - why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
+  - Lean
 tags:
-- Operational Practices
-- Agile Frameworks
-- Software Development
-- Throughput
-- Pragmatic Thinking
-- Flow Efficiency
-- Lean Principles
-- Lean Thinking
+  - Operational Practices
+  - Agile Frameworks
+  - Software Development
+  - Throughput
+  - Pragmatic Thinking
+  - Flow Efficiency
+  - Lean Principles
+  - Lean Thinking
 Watermarks:
   description: 2025-05-07T13:02:31Z
   short_title: 2025-07-07T17:48:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:45Z
 videoId: XFN4iXYLE3U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

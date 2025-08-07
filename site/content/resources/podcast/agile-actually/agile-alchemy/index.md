@@ -2,8 +2,14 @@
 title: Agile Alchemy
 short_title: 'Agile Alchemy: Language and Transparency'
 description: This podcast discusses why precise language and transparency are essential in agile practices, highlighting how word choice impacts communication and team effectiveness.
+tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is crucial for transparency and effective communication in Agile teams. They highlight that clarity in words and context leads to better collaboration and outcomes. Development managers should ensure their teams prioritize clear communication to avoid misunderstandings and improve Agile practices.
 date: 2023-12-19
+lastmod: 2023-12-19
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: i2XYfDpX46l
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: agile-alchemy
 aliases:
-- /resources/i2XYfDpX46l
+  - /resources/i2XYfDpX46l
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:06:50Z
   short_title: 2025-07-07T17:50:39Z
+  tldr: 2025-08-07T12:54:59Z
 resourceTypes: podcast
 
 ---

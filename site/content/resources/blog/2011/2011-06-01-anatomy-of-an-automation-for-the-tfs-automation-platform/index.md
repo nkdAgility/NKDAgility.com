@@ -1,35 +1,38 @@
 ---
 title: Anatomy of an Automation for the Tfs Automation Platform
 description: Explains how to build, install, configure, and run automations for TFS, covering plugin deployment, activation, settings, UI integration, and job processing steps.
+date: 2011-06-01
+lastmod: 2011-06-01
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 5naWQQ14MHe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3361
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-01
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform
 aliases:
-- /resources/5naWQQ14MHe
+  - /resources/5naWQQ14MHe
 aliasesArchive:
-- /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-- /anatomy-of-an-automation-for-the-tfs-automation-platform
-- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
-- Internal Developer Platform
+  - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+  - /anatomy-of-an-automation-for-the-tfs-automation-platform
+  - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:49Z
-concepts: []
+ResourceImportId: 3361
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

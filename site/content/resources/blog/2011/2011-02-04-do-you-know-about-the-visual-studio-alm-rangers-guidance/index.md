@@ -1,34 +1,37 @@
 ---
 title: Do you know about the Visual Studio ALM Rangers Guidance?
 description: Overview of official Visual Studio 2010 ALM Rangers guidance, including solutions, projects, and resources to help users get the most from Visual Studio tools.
+date: 2011-02-04
+lastmod: 2011-02-04
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: X_Bw0WdCwEc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 15
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-02-04
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliases:
-- /resources/X_Bw0WdCwEc
+  - /resources/X_Bw0WdCwEc
 aliasesArchive:
-- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
-- /do-you-know-about-the-visual-studio-alm-rangers-guidance
-- /do-you-know-about-the-visual-studio-alm-rangers-guidance-
-- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
-- /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
-tags: []
-preview: metro-visual-studio-2010-128-link-3-3.png
+  - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
+  - /do-you-know-about-the-visual-studio-alm-rangers-guidance
+  - /do-you-know-about-the-visual-studio-alm-rangers-guidance-
+  - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
+  - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:14Z
-concepts: []
+ResourceImportId: 15
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)

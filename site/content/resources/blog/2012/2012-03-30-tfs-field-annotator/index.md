@@ -1,32 +1,35 @@
 ---
 title: TFS Field Annotator
 description: Track and view the change history of specific fields in TFS Work Items, showing who made edits and when, with support for multiple field selection and easy setup.
+date: 2012-03-30
+lastmod: 2012-03-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Nb7mmrBQDyM
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5061
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-03-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-field-annotator
 aliases:
-- /resources/Nb7mmrBQDyM
+  - /resources/Nb7mmrBQDyM
 aliasesArchive:
-- /blog/tfs-field-annotator
-- /tfs-field-annotator
-- /resources/blog/tfs-field-annotator
-tags: []
+  - /blog/tfs-field-annotator
+  - /tfs-field-annotator
+  - /resources/blog/tfs-field-annotator
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-cloud-azure-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:07Z
-concepts: []
+ResourceImportId: 5061
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-cloud-azure-link-4-4.png
 
 ---
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…

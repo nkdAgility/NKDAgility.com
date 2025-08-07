@@ -2,8 +2,14 @@
 title: What is the difference between a newbie scrum master and a professional Scrum Master?
 short_title: Newbie vs Professional Scrum Master Explained
 description: Explores why the distinction between 'newbie' and 'professional' Scrum Master is misleading, emphasising the role’s responsibilities, professionalism, and value in Agile teams.
+tldr: There is no real distinction between a newbie and a professional Scrum Master; once someone takes on the role and is accountable for the team's effectiveness, they are expected to act professionally and add value. The key is to fully embrace the responsibilities, focus on improving team productivity, and avoid ineffective practices. Development managers should ensure Scrum Masters are empowered to take the role seriously and support their ongoing learning.
 date: 2023-04-06T07:00:08Z
+lastmod: 2023-04-06T07:00:08Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: PIoyu9N2QaM
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 aliases:
-- /resources/PIoyu9N2QaM
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+  - /resources/PIoyu9N2QaM
+  - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+  - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 aliasesArchive:
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
-- /resources/transform-your-software-team-with-expert-product-development-mentoring
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
-- what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+  - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+  - /resources/transform-your-software-team-with-expert-product-development-mentoring
+  - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+  - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+  - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+  - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+  - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+  - what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Master
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:13:20Z
   short_title: 2025-07-07T17:56:01Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:50Z
 videoId: PIoyu9N2QaM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
 duration: 363
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

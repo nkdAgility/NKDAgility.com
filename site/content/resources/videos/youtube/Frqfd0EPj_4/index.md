@@ -2,8 +2,14 @@
 title: 'The Future of Scrum Training: Immersive Learning for Lasting Change'
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, collaborative learning methods in Scrum training enable ongoing support, real-world application, and lasting organisational change over traditional courses.
+tldr: Immersive learning is more effective than traditional Scrum training because it provides ongoing support, real-time problem solving, and peer collaboration over several weeks, helping participants apply new skills in real situations. This approach leads to gradual, sustainable change and builds confidence through shared learning and continuous improvement. Development managers should consider immersive learning to achieve lasting transformation in their teams and organizations.
 date: 2023-11-23T08:30:06Z
+lastmod: 2023-11-23T08:30:06Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Frqfd0EPj_4
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-future-of-scrum-training-immersive-learning-for-lasting-change
 aliases:
-- /resources/Frqfd0EPj_4
-- /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
-- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
+  - /resources/Frqfd0EPj_4
+  - /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
+  - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
 aliasesArchive:
-- /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
-- /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
-- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
-- /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
-- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
-- the-future-of-scrum-training-immersive-learning-for-lasting-change
+  - /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
+  - /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
+  - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
+  - /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
+  - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
+  - the-future-of-scrum-training-immersive-learning-for-lasting-change
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Team Performance
-- Agile Frameworks
-- Agile Transformation
-- Social Technologies
+  - Software Development
+  - Team Performance
+  - Organisational Agility
+  - Social Technologies
+  - Agile Frameworks
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:07:36Z
   short_title: 2025-07-07T17:51:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:28Z
 videoId: Frqfd0EPj_4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

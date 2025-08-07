@@ -1,34 +1,37 @@
 ---
 title: Guide to ChangeServerId says mostly harmless
 description: Explains when and why to use ChangeServerId in TFS, potential issues from duplicate GUIDs, and how to resolve errors using RegisterDB after cloning or upgrading servers.
+date: 2013-03-06
+lastmod: 2013-03-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: hoewU67YJfb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9249
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
-- /resources/hoewU67YJfb
+  - /resources/hoewU67YJfb
 aliasesArchive:
-- /blog/guide-to-changeserverid-says-mostly-harmless
-- /guide-to-changeserverid-says-mostly-harmless
-- /resources/blog/guide-to-changeserverid-says-mostly-harmless
-tags:
-- Troubleshooting
-- Install and Configuration
-- System Configuration
+  - /blog/guide-to-changeserverid-says-mostly-harmless
+  - /guide-to-changeserverid-says-mostly-harmless
+  - /resources/blog/guide-to-changeserverid-says-mostly-harmless
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:57Z
-concepts: []
+ResourceImportId: 9249
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

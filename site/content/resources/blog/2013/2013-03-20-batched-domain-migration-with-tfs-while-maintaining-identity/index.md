@@ -1,36 +1,39 @@
 ---
 title: Batched domain migration with TFS while maintaining Identity
 description: Explains how to batch migrate users between domains in TFS 2012 while preserving user identities, avoiding duplicates, and maintaining traceability during the process.
+date: 2013-03-20
+lastmod: 2013-03-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vzIIFAI5ygR
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9324
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
-- /resources/vzIIFAI5ygR
+  - /resources/vzIIFAI5ygR
 aliasesArchive:
-- /blog/batched-domain-migration-with-tfs-while-maintaining-identity
-- /batched-domain-migration-with-tfs-while-maintaining-identity
-- /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
-tags:
-- Troubleshooting
-- Software Development
-- System Configuration
-- Install and Configuration
+  - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+  - /batched-domain-migration-with-tfs-while-maintaining-identity
+  - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
+  - System Configuration
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:48Z
-concepts: []
+ResourceImportId: 9324
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---
 If you are moving from one domain to another, but you have lots of users you may do a batched domain migration with Visual Studio 2012 Team Foundation Server. Make suer that you read all of the fine print and don't get caught with duplicate Identities and no traceability.

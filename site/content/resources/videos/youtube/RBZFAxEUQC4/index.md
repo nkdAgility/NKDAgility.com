@@ -2,8 +2,14 @@
 title: '7 deadly sins of Agile: Lust'
 short_title: '7 Deadly Sins of Agile: Lust'
 description: Explores why Agile transformation requires genuine commitment and adaptation, warning against quick fixes and emphasising the need for a tailored, organisation-specific approach.
+tldr: Agile transformation is not a quick fix or something that can be bought off the shelf; it requires genuine commitment, adaptation, and alignment with your organisation’s unique context. Many companies make the mistake of seeking instant results or copying generic models, which often leads to disappointment. Development managers should focus on building a tailored Agile journey through ongoing learning, experimentation, and a willingness to evolve.
 date: 2023-10-12T07:00:12Z
+lastmod: 2023-10-12T07:00:12Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: RBZFAxEUQC4
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-lust
 aliases:
-- /resources/RBZFAxEUQC4
-- /resources/videos/7-deadly-sins-of-agile-lust
-- /resources/videos/lust-7-deadly-sins-of-agile
+  - /resources/RBZFAxEUQC4
+  - /resources/videos/7-deadly-sins-of-agile-lust
+  - /resources/videos/lust-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-lust
-- /resources/videos/7-deadly-sins-of-agile-lust
-- /resources/7-deadly-sins-of-agile-lust
-- /resources/videos/lust!-7-deadly-sins-of-agile
-- /resources/lust!-7-deadly-sins-of-agile
-- /resources/videos/lust-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-lust
+  - /resources/videos/-deadly-sins-of-agile-lust
+  - /resources/videos/7-deadly-sins-of-agile-lust
+  - /resources/7-deadly-sins-of-agile-lust
+  - /resources/videos/lust!-7-deadly-sins-of-agile
+  - /resources/lust!-7-deadly-sins-of-agile
+  - /resources/videos/lust-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-lust
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Philosophy
-- Agile Transformation
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:08:51Z
   short_title: 2025-07-07T17:52:29Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:42Z
 videoId: RBZFAxEUQC4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

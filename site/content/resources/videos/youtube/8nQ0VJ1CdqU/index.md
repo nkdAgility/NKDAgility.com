@@ -2,8 +2,14 @@
 title: Why did so many of the early agile transformations fail?
 short_title: Why Early Agile Transformations Failed
 description: Early agile transformations often failed due to top-down decisions, lack of team involvement, and misalignment between leadership and those doing the work.
+tldr: Many agile transformations fail because decisions are made top-down without involving the teams who do the actual work, leading to poor fit and lack of buy-in. Teams have the best understanding of their environment and should be included in selecting and shaping agile solutions to ensure success. To improve outcomes, involve your teams in decision-making from the start rather than imposing off-the-shelf frameworks.
 date: 2023-02-06T07:00:02Z
-weight: 750
+lastmod: 2023-02-06T07:00:02Z
+weight: 625
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 8nQ0VJ1CdqU
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-did-so-many-of-the-early-agile-transformations-fail
 aliases:
-- /resources/8nQ0VJ1CdqU
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+  - /resources/8nQ0VJ1CdqU
+  - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 aliasesArchive:
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
-- why-did-so-many-of-the-early-agile-transformations-fail
+  - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+  - /resources/why-did-so-many-of-the-early-agile-transformations-fail
+  - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
+  - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+  - why-did-so-many-of-the-early-agile-transformations-fail
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Leadership
+  - Product Development
+  - Leadership
+  - Technical Leadership
 tags:
-- Pragmatic Thinking
-- Software Development
-- Agile Transformation
-- Team Collaboration
-- Agile Leadership
-- Agile Strategy
-- Change Management
-- Decision Making
-- Organisational Culture
-- Sociotechnical Systems
-- Beta Codex
+  - Change Management
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Transformation
+  - Team Collaboration
+  - Agile Leadership
+  - Agile Strategy
+  - Decision Making
+  - Organisational Culture
+  - Sociotechnical Systems
+  - Beta Codex
 Watermarks:
   description: 2025-05-07T13:14:14Z
   short_title: 2025-07-07T17:56:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:34Z
 videoId: 8nQ0VJ1CdqU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?
 short_title: Why Scrum Teams Need Agile Consultants
 description: Explains why Scrum teams benefit more from Agile consultants than professional coaches, focusing on the need for technical guidance, mentoring, and practical expertise.
+tldr: Scrum teams benefit more from Agile consultants than professional coaches because consultants provide the technical and practical guidance teams often lack, especially in the early stages. Teams need help understanding what they do not know and how to apply effective engineering practices, not just support in finding their own solutions. Development managers should consider bringing in Agile consultants to build foundational knowledge and accelerate team capability.
 date: 2023-06-26T07:00:07Z
+lastmod: 2023-06-26T07:00:07Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: LkphLIbmjkI
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 aliases:
-- /resources/LkphLIbmjkI
-- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+  - /resources/LkphLIbmjkI
+  - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 aliasesArchive:
-- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
-- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
-- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
-- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
-- why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+  - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+  - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+  - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+  - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+  - why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:17Z
   short_title: 2025-07-07T17:54:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:59Z
 videoId: LkphLIbmjkI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
 duration: 340
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

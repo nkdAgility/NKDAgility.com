@@ -2,8 +2,14 @@
 title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
 short_title: Real-World Scrum Training at Great Calm
 description: Explores how practical, real-world Scrum training at Great Calm improved team collaboration, alignment, and continuous improvement across the organisation.
+tldr: Great Calm improved team alignment and agility by investing in Scrum training led by a trainer with real engineering experience, which fostered open dialogue and practical learning. The training is expected to enhance communication, align teams with business goals, and empower them to own their processes. Development managers should consider similar real-world-focused training to drive meaningful change and continuous improvement in their teams.
 date: 2017-07-27T18:16:30Z
-weight: 610
+lastmod: 2017-07-27T18:16:30Z
+weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: Fm24oKNN--w
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 aliases:
-- /resources/Fm24oKNN--w
+  - /resources/Fm24oKNN--w
 aliasesArchive:
-- /resources/videos/nkdagility-healthgrades-interview-cjsingh
-- /resources/nkdagility-healthgrades-interview-cjsingh
-- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
-- transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+  - /resources/videos/nkdagility-healthgrades-interview-cjsingh
+  - /resources/nkdagility-healthgrades-interview-cjsingh
+  - /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+  - transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 source: youtube
 layout: video
 concepts: []
 categories:
-- Technical Leadership
-- Product Development
+  - Technical Leadership
+  - Product Development
 tags:
-- Agile Frameworks
-- Team Performance
-- Agile Product Management
-- Social Technologies
-- Software Development
-- Continuous Improvement
-- Organisational Agility
-- Team Collaboration
-- Agile Transformation
+  - Team Collaboration
+  - Agile Frameworks
+  - Team Performance
+  - Organisational Agility
+  - Agile Product Management
+  - Social Technologies
+  - Software Development
+  - Continuous Improvement
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:16:32Z
   short_title: 2025-07-07T17:58:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:13:43Z
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

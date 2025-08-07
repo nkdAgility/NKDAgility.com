@@ -1,42 +1,45 @@
 ---
 title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
 description: After migrating TFS 2012/2013 servers, Scheduled Backups may fail with TF400998 errors due to outdated server references. Disabling and resetting resolves the issue.
+date: 2013-06-19
+lastmod: 2013-06-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _XqGOC9TbpP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9904
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
-- /resources/blog/tfs-2012.3-issue-scheduled-backups-gives-a-tf400998-when-reconfigured
-- /resources/_XqGOC9TbpP
+  - /resources/blog/tfs-2012.3-issue-scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /resources/_XqGOC9TbpP
 aliasesArchive:
-- /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue
-- /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /resources/blog/tfs-2012.3-issue-scheduled-backups-gives-a-tf400998-when-reconfigured
-tags:
-- Troubleshooting
-- System Configuration
-- Windows
-- Software Development
-- Install and Configuration
+  - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  - /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  - /tfs-2012-3-issue
+  - /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  - /resources/blog/tfs-2012.3-issue-scheduled-backups-gives-a-tf400998-when-reconfigured
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: puzzle-issue-problem-128-link-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - System Configuration
+  - Windows
+  - Software Development
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:17Z
-concepts: []
+ResourceImportId: 9904
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: puzzle-issue-problem-128-link-3-3.png
 
 ---
 After a server migration Scheduled Backups gives a TF400998 when you try to reconfigure it. You may also see timeouts and errors when trying to add Team Foundation Console Users.

@@ -2,8 +2,14 @@
 title: Understanding the True Role of a Scrum Master
 short_title: Understanding the True Role of a Scrum Master
 description: Explains the true responsibilities of a Scrum Master, how to maximise team effectiveness, teach Scrum principles, and address organisational challenges for better outcomes.
+tldr: The true role of a Scrum Master is to maximize the effectiveness of the Scrum team, which may differ from how organizations define the job. Key to success are teaching the team Scrum principles and empiricism, using complementary practices, and actively working with the wider organization to remove obstacles. Development managers should ensure Scrum Masters are empowered to focus on these priorities and invest in ongoing training to drive both team and organizational improvement.
 date: 2023-11-28T07:00:15Z
+lastmod: 2023-11-28T07:00:15Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: U0h7N5xpAfY
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: understanding-the-true-role-of-a-scrum-master
 aliases:
-- /resources/U0h7N5xpAfY
-- /resources/videos/understanding-the-true-role-of-a-scrum-master
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
+  - /resources/U0h7N5xpAfY
+  - /resources/videos/understanding-the-true-role-of-a-scrum-master
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
 aliasesArchive:
-- /resources/videos/understanding-the-true-role-of-a-scrum-master
-- /resources/understanding-the-true-role-of-a-scrum-master
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
-- /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
-- understanding-the-true-role-of-a-scrum-master
+  - /resources/videos/understanding-the-true-role-of-a-scrum-master
+  - /resources/understanding-the-true-role-of-a-scrum-master
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+  - /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
+  - understanding-the-true-role-of-a-scrum-master
 source: internal
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Scrum Master
-- Pragmatic Thinking
-- Software Development
-- Scrum Team
-- Empirical Process Control
-- Professional Scrum
-- Agile Frameworks
-- Team Performance
+  - Scrum Master
+  - Pragmatic Thinking
+  - Software Development
+  - Scrum Team
+  - Empirical Process Control
+  - Professional Scrum
+  - Agile Frameworks
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:07:28Z
   short_title: 2025-07-07T17:51:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:05Z
 videoId: U0h7N5xpAfY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg
 duration: 233
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

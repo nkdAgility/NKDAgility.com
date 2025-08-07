@@ -2,8 +2,14 @@
 title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
 short_title: Pitfalls of Agile Burndown Charts
 description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
+tldr: Relying on burndown charts leads to excessive upfront planning, false confidence, and wasted effort, as most plans quickly become outdated and only a fraction of features are actually used. Instead, focus on minimal, just-in-time planning and continuous flow to adapt quickly, reduce overhead, and deliver real value. Encourage your teams to plan only what is needed for the next day, adjust daily, and prioritize delivering value over maintaining detailed charts.
 date: 2024-01-09T11:00:51Z
+lastmod: 2024-01-09T11:00:51Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: P2UnYGAqJMI
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 aliases:
-- /resources/P2UnYGAqJMI
-- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
-- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
+  - /resources/P2UnYGAqJMI
+  - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
+  - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 aliasesArchive:
-- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
-- the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
+  - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+  - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
+  - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
+  - the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Agile Transformation
-- Agile Planning
-- Software Development
-- Agile Frameworks
-- Agile Values and Principles
-- Continuous Improvement
+  - Personal
+  - Agile Planning
+  - Agile Philosophy
+  - Agile Transformation
+  - Software Development
+  - Agile Frameworks
+  - Agile Values and Principles
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:06:31Z
   short_title: 2025-07-07T17:50:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:15Z
 videoId: P2UnYGAqJMI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

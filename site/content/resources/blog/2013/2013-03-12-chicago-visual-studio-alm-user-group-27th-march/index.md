@@ -1,32 +1,35 @@
 ---
 title: Chicago Visual Studio ALM User Group 27th March
 description: Demonstration of new Visual Studio 2012 Update 2 features, including Kanban columns, work item tags, and managing teams without areas, at a Chicago user group.
+date: 2013-03-12
+lastmod: 2013-03-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Zfdh9rvKZbG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9275
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: chicago-visual-studio-alm-user-group-27th-march
 aliases:
-- /resources/Zfdh9rvKZbG
+  - /resources/Zfdh9rvKZbG
 aliasesArchive:
-- /blog/chicago-visual-studio-alm-user-group-27th-march
-- /chicago-visual-studio-alm-user-group-27th-march
-- /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-tags: []
+  - /blog/chicago-visual-studio-alm-user-group-27th-march
+  - /chicago-visual-studio-alm-user-group-27th-march
+  - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-UserGroup-128-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:06:54Z
-concepts: []
+ResourceImportId: 9275
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-UserGroup-128-2-2.png
 
 ---
 It has been a while since I was at the [Visual Studio ALM User Group in Chicago](http://chicagoalmug.org/). This time I will be giving a demonstration of the new Work Item Tracking features of Visual Studio 2012 Update 2 which includes Kanban Columns & Work Item Tags as well as a peek at Teams without Areas.

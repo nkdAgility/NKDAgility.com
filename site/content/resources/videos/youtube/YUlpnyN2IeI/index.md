@@ -2,8 +2,14 @@
 title: Best Scrum advice you ever received?
 short_title: 'Best Scrum Advice: Be Flexible, Not Dogmatic'
 description: Emphasises the importance of flexibility and pragmatism in Scrum, encouraging teams to adapt frameworks to their context rather than rigidly following prescribed rules.
+tldr: The most valuable Scrum advice is to avoid rigidly following every rule and instead adapt Scrum principles to fit your team's unique context. Flexibility and continuous improvement are more important than strict adherence to the framework, so use Scrum as a guide and modify it as needed to maximize value and innovation. Encourage your teams to experiment and iterate, focusing on what works best for your organization.
 date: 2023-06-05T07:00:20Z
+lastmod: 2023-06-05T07:00:20Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: YUlpnyN2IeI
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: best-scrum-advice-you-ever-received
 aliases:
-- /resources/YUlpnyN2IeI
-- /resources/videos/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+  - /resources/YUlpnyN2IeI
+  - /resources/videos/best-scrum-advice-you-ever-received
+  - /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
 aliasesArchive:
-- /resources/videos/best-scrum-advice-you-ever-received
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
-- best-scrum-advice-you-ever-received
+  - /resources/videos/best-scrum-advice-you-ever-received
+  - /resources/best-scrum-advice-you-ever-received-2
+  - /resources/best-scrum-advice-you-ever-received
+  - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+  - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+  - /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+  - best-scrum-advice-you-ever-received
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Planning
-- Agile Philosophy
-- Organisational Agility
-- Agile Frameworks
-- Agile Transformation
+  - Software Development
+  - Pragmatic Thinking
+  - Empirical Process Control
+  - Agile Planning
+  - Agile Philosophy
+  - Organisational Agility
+  - Agile Frameworks
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:11:53Z
   short_title: 2025-07-07T17:54:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:16Z
 videoId: YUlpnyN2IeI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

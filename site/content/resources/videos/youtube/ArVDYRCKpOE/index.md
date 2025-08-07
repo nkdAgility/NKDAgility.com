@@ -2,8 +2,14 @@
 title: 'Quotes: Fake it until you make it'
 short_title: Fake It Till You Make It in Agile Teams
 description: Explores when "fake it till you make it" works or fails in Agile teams, stressing the need for real expertise, coaching, and continuous learning over mere pretence.
+tldr: '"Fake it till you make it" can help build confidence and support learning in Agile teams, but it is not a replacement for real expertise and should not be used in roles that require proven skills. Use this approach only to bridge minor knowledge gaps and encourage learning by doing, while ensuring experts handle critical tasks and mentor others. Focus on creating a culture of continuous learning and valuing genuine expertise.'
 date: 2023-10-11T15:00:13Z
+lastmod: 2023-10-11T15:00:13Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ArVDYRCKpOE
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: quotes-fake-it-until-you-make-it
 aliases:
-- /resources/ArVDYRCKpOE
-- /resources/videos/quotes-fake-it-until-you-make-it
+  - /resources/ArVDYRCKpOE
+  - /resources/videos/quotes-fake-it-until-you-make-it
 aliasesArchive:
-- /resources/videos/quotes-fake-it-until-you-make-it
-- /resources/quotes-fake-it-until-you-make-it
-- /resources/videos/quotes,-fake-it-until-you-make-it
-- /resources/quotes,-fake-it-until-you-make-it
-- quotes-fake-it-until-you-make-it
+  - /resources/videos/quotes-fake-it-until-you-make-it
+  - /resources/quotes-fake-it-until-you-make-it
+  - /resources/videos/quotes,-fake-it-until-you-make-it
+  - /resources/quotes,-fake-it-until-you-make-it
+  - quotes-fake-it-until-you-make-it
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Competence
 Watermarks:
   description: 2025-05-07T13:08:52Z
   short_title: 2025-07-07T17:52:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:46Z
 videoId: ArVDYRCKpOE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,45 +2,51 @@
 title: Kanban Guide for Scrum Teams
 short_title: Kanban Guide for Scrum Teams
 description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
+tldr: Combining Kanban with Scrum helps teams improve the flow of work, increase transparency, and make better use of feedback loops by tracking key metrics like work in progress, cycle time, work item age, and throughput. By visualizing workflow, limiting work in progress, actively managing tasks, and regularly inspecting and adapting processes, teams can deliver value more predictably and efficiently. Development managers should consider integrating Kanban practices into their Scrum teams to optimize delivery and continuously improve team performance.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author:
-- Steve Porter
-- Yuval Yeret
-- Daniel Vacanti
+  - Steve Porter
+  - Yuval Yeret
+  - Daniel Vacanti
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: kanban-guide-for-scrum-teams
 aliases:
-- /guides/Kanban-Guide-for-Scrum-Teams.html
-- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-- /resources/Z3HzXH_nmmz
+  - /guides/Kanban-Guide-for-Scrum-Teams.html
+  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+  - /resources/Z3HzXH_nmmz
 aliasesArchive:
-- /guides/Kanban-Guide-for-Scrum-Teams.html
-- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+  - /guides/Kanban-Guide-for-Scrum-Teams.html
+  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 layout: guide
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
+  - Product Development
 tags:
-- Definition of Workflow
-- Service Level Expectation
-- Software Development
-- Flow Efficiency
-- Operational Practices
-- Metrics and Learning
-- Transparency
-- Value Delivery
-- Agile Frameworks
-- Empirical Process Control
-- Throughput
-- Cycle Time
-- Scrum Team
-- Pragmatic Thinking
-- Team Performance
+  - Definition of Workflow
+  - Social Technologies
+  - Service Level Expectation
+  - Software Development
+  - Flow Efficiency
+  - Operational Practices
+  - Metrics and Learning
+  - Transparency
+  - Value Delivery
+  - Agile Frameworks
+  - Empirical Process Control
+  - Throughput
+  - Cycle Time
+  - Lean Principles
+  - Scrum Team
 card:
   button:
     content: Learn More
@@ -49,17 +55,18 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:08Z
   short_title: 2025-07-07T16:40:34Z
+  tldr: 2025-08-07T12:46:33Z
 resourceTypes: guide
 references:
-- title: The Kanban Guide for Scrum Teams on Scrum.org
-  url: https://scrum.org/resources/kanban-guide-scrum-teams
-- title: Work can flow across the Sprint boundary
-  url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
-- title: No Estimates and is it advisable for a Scrum Team to adopt it?
-  url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+  - title: The Kanban Guide for Scrum Teams on Scrum.org
+    url: https://scrum.org/resources/kanban-guide-scrum-teams
+  - title: Work can flow across the Sprint boundary
+    url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+  - title: No Estimates and is it advisable for a Scrum Team to adopt it?
+    url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
 recommendedContent:
-- collection: practices
-  path: _practices/service-level-expectation-sle.md
+  - collection: practices
+    path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
 
 ---

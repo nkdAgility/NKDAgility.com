@@ -1,35 +1,38 @@
 ---
 title: Visual Studio 2010 Overview - Introduction
 description: Overview of how Visual Studio 2010 supports Application Lifecycle Management (ALM), highlighting key features and demos for developers and testers.
+date: 2012-01-25
+lastmod: 2012-01-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2d6IQ5TVE-_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4131
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-overview-introduction
 aliases:
-- /resources/2d6IQ5TVE-_
+  - /resources/2d6IQ5TVE-_
 aliasesArchive:
-- /blog/visual-studio-2010-overview-introduction
-- /visual-studio-2010-overview-introduction
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---introduction
-- /blog/visual-studio-2010-overview---introduction
-- /resources/blog/visual-studio-2010-overview-introduction
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/visual-studio-2010-overview-introduction
+  - /visual-studio-2010-overview-introduction
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---introduction
+  - /blog/visual-studio-2010-overview---introduction
+  - /resources/blog/visual-studio-2010-overview-introduction
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:43Z
-concepts: []
+ResourceImportId: 4131
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.

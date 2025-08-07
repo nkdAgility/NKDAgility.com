@@ -1,34 +1,37 @@
 ---
 title: Do you know that every user story should have an owner?
 description: Assigning an owner to each user story in Scrum ensures clear responsibility, better communication, and accountability throughout the sprint for both teams and stakeholders.
+date: 2010-03-17
+lastmod: 2010-03-17
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: OOCAnXLzP9r
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 61
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-17
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-that-every-user-story-should-have-an-owner
 aliases:
-- /resources/OOCAnXLzP9r
+  - /resources/OOCAnXLzP9r
 aliasesArchive:
-- /blog/do-you-know-that-every-user-story-should-have-an-owner
-- /do-you-know-that-every-user-story-should-have-an-owner
-- /do-you-know-that-every-user-story-should-have-an-owner-
-- /blog/do-you-know-that-every-user-story-should-have-an-owner-
-- /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
-tags: []
+  - /blog/do-you-know-that-every-user-story-should-have-an-owner
+  - /do-you-know-that-every-user-story-should-have-an-owner
+  - /do-you-know-that-every-user-story-should-have-an-owner-
+  - /blog/do-you-know-that-every-user-story-should-have-an-owner-
+  - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-SSWLogo-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:22:29Z
-concepts: []
+ResourceImportId: 61
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-4-4.png
 
 ---
 ![RulestoBetter](images/4190b47a081e_B7FB-RulestoBetter_-3-3.gif)When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint.

@@ -1,32 +1,35 @@
 ---
 title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
 description: Describes an account suspension caused by LinkedIn's Outlook 2010 connector triggering automated activity, and how LinkedIn support quickly resolved the issue.
+date: 2010-04-28
+lastmod: 2010-04-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4lmIuDVmx2V
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 47
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
-- /resources/4lmIuDVmx2V
+  - /resources/4lmIuDVmx2V
 aliasesArchive:
-- /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
-- /linkedin-woopsie-with-the-outlook-2010-social-media-connector
-- /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
-tags: []
+  - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+  - /linkedin-woopsie-with-the-outlook-2010-social-media-connector
+  - /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:22:02Z
-concepts: []
+ResourceImportId: 47
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-4-4.png
 
 ---
 ![linkedin-logo](images/LinkedInAccountSuspended_F8E0-linkedin-logo_-2-2.jpg)I have always used the LinkedIn toolbar for Outlook to sort out, upload and sync my contacts. Because of this I have over 2000 contacts in my contacts list that I sync with my phone, Plaxo, live, Google and others.

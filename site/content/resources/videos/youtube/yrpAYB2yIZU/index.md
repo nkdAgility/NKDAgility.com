@@ -1,46 +1,46 @@
 ---
+title: 'Mastering Domain Controller Migration: A Step-by-Step Guide to Seamless Active Directory Transfers'
 description: Learn how to safely migrate Active Directory roles to a new domain controller, including setup, role transfer, and decommissioning the old server for minimal disruption.
 date: 2014-01-16T20:22:36Z
-ResourceId: yrpAYB2yIZU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
+lastmod: 2014-01-16T20:22:36Z
 weight: 1000
-ResourceContentOrigin: AI
-tags:
-- Windows
-- System Configuration
-- Install and Configuration
-- Troubleshooting
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.1
+  changefreq: monthly
+ResourceId: yrpAYB2yIZU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+aliases:
+  - /resources/yrpAYB2yIZU
+aliasesArchive:
+  - /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
+  - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
+  - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
+  - /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
+  - /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+  - mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+source: youtube
+layout: video
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - System Configuration
+  - Install and Configuration
+  - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:22:30Z
-concepts: []
-title: 'Mastering Domain Controller Migration: A Step-by-Step Guide to Seamless Active Directory Transfers'
 videoId: yrpAYB2yIZU
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
-layout: video
-aliases:
-- /resources/yrpAYB2yIZU
-- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
-- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
-aliasesArchive:
-- /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
-- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
-- /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
-- /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
-- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
-- mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

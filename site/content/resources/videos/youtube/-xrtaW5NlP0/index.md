@@ -2,8 +2,14 @@
 title: Why is Kanban such a popular approach for people in creative industries?
 short_title: 'Kanban for Creative Teams: Workflow & Efficiency'
 description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
+tldr: Kanban is popular in creative industries because it adapts to existing workflows, reduces chaos, and helps teams align on priorities without stifling creativity. It improves efficiency by visualising work, shortening cycle times, and encouraging collective decision-making. Development managers should consider mapping their team's current process with Kanban to enhance collaboration and deliver creative work more predictably.
 date: 2023-08-25T07:00:00Z
+lastmod: 2023-08-25T07:00:00Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: -xrtaW5NlP0
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 aliases:
-- /resources/-xrtaW5NlP0
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+  - /resources/-xrtaW5NlP0
+  - /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 aliasesArchive:
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+  - /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+  - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
+  - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+  - why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Kanban
+  - Kanban
 tags:
-- Operational Practices
-- Cycle Time
-- Flow Efficiency
+  - Operational Practices
+  - Cycle Time
+  - Flow Efficiency
 Watermarks:
   description: 2025-05-07T13:09:51Z
   short_title: 2025-07-07T17:53:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:45Z
 videoId: -xrtaW5NlP0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
 duration: 245
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

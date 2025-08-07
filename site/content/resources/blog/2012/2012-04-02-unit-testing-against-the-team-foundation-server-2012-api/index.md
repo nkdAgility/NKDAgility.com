@@ -1,36 +1,39 @@
 ---
 title: Unit Testing against the Team Foundation Server 2012 API
 description: Explains how to unit test applications against the Team Foundation Server 2012 API, focusing on handling authentication for automated and unattended test scenarios.
+date: 2012-04-02
+lastmod: 2012-04-02
+weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: eizpccdEtUL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5112
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-04-02
-weight: 610
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
-- /resources/eizpccdEtUL
+  - /resources/eizpccdEtUL
 aliasesArchive:
-- /blog/unit-testing-against-the-team-foundation-server-2012-api
-- /unit-testing-against-the-team-foundation-server-2012-api
-- /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
-tags:
-- Technical Excellence
-- Software Development
-- Engineering Practices
-- Technical Mastery
+  - /blog/unit-testing-against-the-team-foundation-server-2012-api
+  - /unit-testing-against-the-team-foundation-server-2012-api
+  - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Engineering Excellence
+tags:
+  - Technical Excellence
+  - Software Development
+  - Engineering Practices
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:09:04Z
-concepts: []
+ResourceImportId: 5112
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 I have been working a lot recently with the new Team Foundation Service (TFS Preview) that Microsoft is providing in Azure. I was building an application called TFS Field Annotate that allows you to spelunk a fields changes. One of the problems I ran into is how to Unit Test this. I have been doing a lot of work in Test Driven Development (TDD) recently and after running a Bowling Kata (thanks David Starr) for the last month I don’t want to work any other way.

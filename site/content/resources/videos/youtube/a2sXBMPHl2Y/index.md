@@ -2,8 +2,14 @@
 title: How can companies derive greater benefits from training by investing in a private training course?
 short_title: Benefits of Private Agile & DevOps Training
 description: Private training courses offer companies a safe, tailored environment for open discussion, deeper learning, and team-specific insights in Agile, Scrum, and DevOps practices.
+tldr: Private training courses offer companies a safe environment for open discussion, enabling teams to address real challenges and discover untapped capabilities within their organisation. These sessions foster candid conversations and provoke valuable insights that often lead to meaningful change. Development managers should consider private training to unlock deeper team engagement and drive more effective Agile and DevOps adoption.
 date: 2023-05-05T07:00:01Z
-weight: 680
+lastmod: 2023-05-05T07:00:01Z
+weight: 560
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: a2sXBMPHl2Y
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 aliases:
-- /resources/a2sXBMPHl2Y
-- /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+  - /resources/a2sXBMPHl2Y
+  - /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+  - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 aliasesArchive:
-- /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-- /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
-- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
-- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
-- how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+  - /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+  - /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+  - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+  - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+  - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+  - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+  - how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:41Z
   short_title: 2025-07-07T17:55:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:32Z
 videoId: a2sXBMPHl2Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

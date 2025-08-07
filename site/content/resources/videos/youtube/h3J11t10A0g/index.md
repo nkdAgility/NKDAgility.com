@@ -2,8 +2,14 @@
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 short_title: Navigating Software Unpredictability with Agile
 description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
+tldr: Software development is inherently unpredictable, often leading to missed deadlines and budget overruns, but this can be managed by focusing on strong technical leadership and engineering excellence. Relying on a single best practice is a mistake; instead, adopting Agile principles like iterative development, continuous delivery, feedback, and testing helps teams adapt and deliver value. Development managers should foster these capabilities to navigate complexity and drive better project outcomes.
 date: 2024-12-02T06:00:00Z
-weight: 220
+lastmod: 2024-12-02T06:00:00Z
+weight: 200
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: h3J11t10A0g
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 aliases:
-- /resources/h3J11t10A0g
-- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-- /resources/videos/escaping-the-deadline-death-spiral
+  - /resources/h3J11t10A0g
+  - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+  - /resources/videos/escaping-the-deadline-death-spiral
 aliasesArchive:
-- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-- /resources/videos/escaping-the-deadline-death-spiral
-- /resources/escaping-the-deadline-death-spiral
-- navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+  - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+  - /resources/videos/escaping-the-deadline-death-spiral
+  - /resources/escaping-the-deadline-death-spiral
+  - navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Engineering Excellence
-- Technical Leadership
+  - Product Development
+  - Technical Leadership
+  - Engineering Excellence
 tags:
-- Software Development
-- Pragmatic Thinking
+  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:56:57Z
   short_title: 2025-07-07T17:47:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:21Z
 videoId: h3J11t10A0g
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

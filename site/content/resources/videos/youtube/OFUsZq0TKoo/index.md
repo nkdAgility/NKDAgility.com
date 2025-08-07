@@ -2,8 +2,14 @@
 title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
 short_title: Transform Your Product Development with Structured Learning
 description: Learn how structured learning in product development boosts user value, reduces waste, fosters collaboration, and encourages creativity through evidence-based practices.
+tldr: A structured learning course in product development can help your teams better understand user needs through experimentation, reduce waste by making evidence-based decisions, and improve collaboration with stakeholders using data-driven discussions. The course also encourages creative problem-solving and provides practical tools you can apply immediately. Consider investing in this training to boost user value, efficiency, and team alignment.
 date: 2024-08-27T07:07:18Z
+lastmod: 2024-08-27T07:07:18Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: OFUsZq0TKoo
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 aliases:
-- /resources/OFUsZq0TKoo
-- /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
-- /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
+  - /resources/OFUsZq0TKoo
+  - /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
+  - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 aliasesArchive:
-- /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
-- /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
-- /resources/what-you-will-be-able-to-do-after-the-ppdv-course
-- transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
+  - /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
+  - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
+  - /resources/what-you-will-be-able-to-do-after-the-ppdv-course
+  - transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Pragmatic Thinking
-- Product Discovery
-- Value Delivery
+  - Pragmatic Thinking
+  - Product Discovery
+  - Value Delivery
+  - Hypothesis Driven Development
 Watermarks:
   description: 2025-05-07T12:58:43Z
   short_title: 2025-07-07T17:48:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:19Z
 videoId: OFUsZq0TKoo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

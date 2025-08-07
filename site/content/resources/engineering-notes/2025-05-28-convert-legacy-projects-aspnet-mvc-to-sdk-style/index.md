@@ -2,32 +2,39 @@
 title: Convert Legacy Projects and ASP.NET MVC Apps to SDK-Style with Confidence
 short_title: Convert Legacy .NET and ASP.NET MVC to SDK-Style
 description: Learn how to upgrade legacy .NET and ASP.NET MVC projects to SDK-style for easier builds, modern tooling, and future readiness, including tips for class libraries and web apps.
+tldr: Upgrading legacy .NET projects to SDK-style makes your codebase easier to maintain, improves build and CI/CD integration, and prepares you for future .NET upgrades. Converting class libraries is straightforward and highly recommended, while web apps require more care and are best handled with the MSBuild.SDK.SystemWeb package if you want SDK-style; otherwise, you can leave them in the old format. Start by converting class libraries now to simplify your engineering system and reduce technical debt.
 date: 2025-05-29T09:00:00Z
-weight: 345
+lastmod: 2025-05-29T09:00:00Z
+weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 2mdv7QE2nIt
 ResourceImport: false
 ResourceType: engineering-notes
 ResourceContentOrigin: human
 slug: convert-legacy-projects-and-asp-net-mvc-apps-to-sdk-style-with-confidence
 aliases:
-- /resources/2mdv7QE2nIt
+  - /resources/2mdv7QE2nIt
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Install and Configuration
-- Software Development
-- Pragmatic Thinking
-- Technical Mastery
-- System Configuration
-- Engineering Practices
-- Operational Practices
-- Troubleshooting
-- Application Lifecycle Management
+  - Install and Configuration
+  - Software Development
+  - Pragmatic Thinking
+  - Technical Mastery
+  - System Configuration
+  - Engineering Practices
+  - Operational Practices
+  - Troubleshooting
+  - Application Lifecycle Management
 Watermarks:
   description: 2025-05-07T15:00:14Z
   short_title: 2025-07-07T16:43:54Z
+  tldr: 2025-08-07T12:29:17Z
 
 ---
 I’ve been working with a customer who, like many, is stuck in the past. They were on Team Foundation Version Control (TFVC), and the backbone of their application is .NET 4.5. This creates real problems for modern engineering practices because many new tools just won’t work, so I am moving to Git, and as part of that looking to ensure that their setup is future ready. I also need to do something with all those peskie legacy DLLs that are scattered around the solution. One of the key upgrades I was looking at is moving to SDK-style projects. This is a big deal because it’s the future of .NET development, and it’s a lot easier to work with than the old project format.

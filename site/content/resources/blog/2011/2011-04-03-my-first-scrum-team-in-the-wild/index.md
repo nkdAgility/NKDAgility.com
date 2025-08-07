@@ -1,46 +1,49 @@
 ---
 title: My first Scrum team in the wild
 description: A real-world account of guiding a new Scrum team through their first sprint, covering estimation, story points, sprint planning, and handling unfinished work.
+date: 2011-04-03
+lastmod: 2011-04-03
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: ov2kV0DI9xR
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9892
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-04-03
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: my-first-scrum-team-in-the-wild
 aliases:
-- /resources/ov2kV0DI9xR
+  - /resources/ov2kV0DI9xR
 aliasesArchive:
-- /blog/my-first-scrum-team-in-the-wild
-- /my-first-scrum-team-in-the-wild
-- /resources/blog/my-first-scrum-team-in-the-wild
-tags:
-- Software Development
-- Professional Scrum
-- Scrum Team
-- Team Performance
-- Agile Product Management
-- Agile Frameworks
-- Agile Planning
-- Estimation
-- Product Delivery
-- Pragmatic Thinking
-- Team Collaboration
-- Working Software
-- Agile Transformation
-- Product Backlog
+  - /blog/my-first-scrum-team-in-the-wild
+  - /my-first-scrum-team-in-the-wild
+  - /resources/blog/my-first-scrum-team-in-the-wild
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-logo-128-link-6-6.png
+  - Scrum
+tags:
+  - Software Development
+  - Professional Scrum
+  - Scrum Team
+  - Team Performance
+  - Agile Product Management
+  - Agile Frameworks
+  - Agile Planning
+  - Estimation
+  - Product Delivery
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Working Software
+  - Agile Transformation
+  - Product Backlog
 Watermarks:
   description: 2025-05-13T15:10:56Z
-concepts: []
+ResourceImportId: 9892
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-6-6.png
 
 ---
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!

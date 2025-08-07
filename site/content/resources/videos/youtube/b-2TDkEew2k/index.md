@@ -2,8 +2,14 @@
 title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
 short_title: Agile Efficiency with Just Enough and No More
 description: Explores how applying the "just enough and no more" principle in agile practices boosts efficiency, reduces waste, and helps teams focus on delivering real value.
+tldr: Applying the principle of "just enough and no more" across backlog management, team size, refinement, and planning helps teams stay focused, efficient, and adaptable. Prioritising value, embracing simplicity, and iterating regularly reduces wasted effort and maximises productivity. Development managers should encourage teams to do only what is necessary to deliver value and continuously improve.
 date: 2023-12-05T11:00:27Z
+lastmod: 2023-12-05T11:00:27Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: b-2TDkEew2k
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 aliases:
-- /resources/b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
+  - /resources/b-2TDkEew2k
+  - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+  - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+  - /resources/videos/-shorts-7-virtues-of-agile-temperance
 aliasesArchive:
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
-- mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+  - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+  - /resources/videos/-shorts-7-virtues-of-agile-temperance
+  - /resources/-shorts-7-virtues-of-agile-temperance
+  - mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Agile Values and Principles
+  - Operational Practices
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Transformation
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:07:15Z
   short_title: 2025-07-07T17:51:17Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:42Z
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

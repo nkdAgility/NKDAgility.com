@@ -1,34 +1,37 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
 description: Explores the benefits and challenges of migrating GeeksWithBlogs from SubText to WordPress, focusing on features, user needs, SEO, and community involvement.
+date: 2011-02-16
+lastmod: 2011-02-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: INzImndgeUG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9895
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-02-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: should-geekswithblogs-move-to-the-wordpress-platform
 aliases:
-- /resources/INzImndgeUG
+  - /resources/INzImndgeUG
 aliasesArchive:
-- /blog/should-geekswithblogs-move-to-the-wordpress-platform
-- /should-geekswithblogs-move-to-the-wordpress-platform
-- /should-geekswithblogs-move-to-the-wordpress-platform-
-- /blog/should-geekswithblogs-move-to-the-wordpress-platform-
-- /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
-tags: []
+  - /blog/should-geekswithblogs-move-to-the-wordpress-platform
+  - /should-geekswithblogs-move-to-the-wordpress-platform
+  - /should-geekswithblogs-move-to-the-wordpress-platform-
+  - /blog/should-geekswithblogs-move-to-the-wordpress-platform-
+  - /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:07Z
-concepts: []
+ResourceImportId: 9895
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-4-4.png
 
 ---
 [![](https://s3.amazonaws.com/uploads.uservoice.com/logo/subdomain/48516/original/gwb_small.gif?1274098879)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)

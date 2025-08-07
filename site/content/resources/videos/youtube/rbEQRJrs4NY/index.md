@@ -2,8 +2,14 @@
 title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
 short_title: Unlocking Product Value with User Feedback
 description: Real user feedback is essential in product development to validate assumptions, guide improvements, and ensure your product delivers real value to its target audience.
+tldr: Product value is only proven when real users interact with your product, so early and ongoing user feedback is essential to validate assumptions and guide development. Engaging users early, testing with prototypes or MVPs, and iterating based on feedback help ensure your product meets real needs and delivers genuine value. Prioritise getting your product in front of users quickly to maximise impact and avoid wasted effort.
 date: 2025-02-07T07:52:12Z
-weight: 1000
+lastmod: 2025-02-07T07:52:12Z
+weight: 865
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: rbEQRJrs4NY
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
 aliases:
-- /resources/rbEQRJrs4NY
-- /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
-- /resources/videos/from-assumption-to-real-value-user-test
+  - /resources/rbEQRJrs4NY
+  - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
+  - /resources/videos/from-assumption-to-real-value-user-test
 aliasesArchive:
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/videos/from-assumption-to-real-value-user-test
-- /resources/from-assumption-to-real-value-user-test
-- /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
-- unlocking-product-value-why-real-user-feedback-is-your-best-asset
+  - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+  - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+  - /resources/videos/from-assumption-to-real-value-user-test
+  - /resources/from-assumption-to-real-value-user-test
+  - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
+  - unlocking-product-value-why-real-user-feedback-is-your-best-asset
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Focus
+  - Product Validation
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T12:49:45Z
   short_title: 2025-07-07T17:46:43Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:39:58Z
 videoId: rbEQRJrs4NY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

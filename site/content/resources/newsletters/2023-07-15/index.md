@@ -2,8 +2,14 @@
 title: Agile 2023 The Scotland Experiance with Lyssa Adkins & NKDAgility
 short_title: Agile 2023 Scotland Experience with Lyssa Adkins
 description: Join agile experts in Edinburgh for keynotes, workshops, networking, and coaching. Explore new agile ideas, games, and training for teams, Scrum Masters, and leaders.
+tldr: Agile 2023 Scotland offers keynotes, workshops, and networking to inspire new ideas for your teams and organization, with NKDAgility providing free consulting and coaching at their booth. Attendees can access immersive Scrum training, learn about double-loop learning, and participate in games and discussions. Consider attending on June 24–25 in Edinburgh to connect with peers, gain practical insights, and receive a £100 discount with code TALK23.
 date: 2023-07-15
-weight: 1000
+lastmod: 2023-07-15
+weight: 805
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author: MrHinsh
 ResourceId: x0sJSqJhVRG
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: agile-2023-the-scotland-experiance-with-lyssa-adkins-nkdagility
 aliases:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/x0sJSqJhVRG
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/x0sJSqJhVRG
 aliasesArchive:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:37Z
   short_title: 2025-07-07T17:53:54Z
+  tldr: 2025-08-07T13:01:52Z
 preview: nkdagility-agile-2023-Scotland-Experiance.png
 resourceTypes: newsletter
 

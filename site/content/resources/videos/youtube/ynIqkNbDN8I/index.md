@@ -2,8 +2,14 @@
 title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 short_title: Unlocking Unrealised Value in Product Development
 description: Explains how identifying and validating unrealised value, understanding user needs, and rapid feedback loops can enhance product development and maximise user impact.
+tldr: Unrealised value, or the features your users need but you have not built or identified yet, is often overlooked but crucial for product success. To unlock this value, focus on understanding your users, validate assumptions with small experiments before full development, and increase deployment frequency to speed up feedback and learning. Make it a priority to continuously learn from your market and adapt your product strategy to stay relevant and maximise impact.
 date: 2025-02-11T06:00:40Z
-weight: 750
+lastmod: 2025-02-11T06:00:40Z
+weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ynIqkNbDN8I
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 aliases:
-- /resources/ynIqkNbDN8I
-- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
-- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+  - /resources/ynIqkNbDN8I
+  - /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+  - /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 aliasesArchive:
-- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
-- unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+  - /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+  - /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+  - /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+  - unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Customer Focus
-- Unrealised Value
-- Evidence Based Management
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Continuous Learning
-- Decision Making
-- Deployment Frequency
-- Evidence Based Leadership
-- Experimentation
-- Frequent Releases
-- Hypothesis Driven Development
-- Market Adaptability
-- Metrics and Learning
+  - Customer Focus
+  - Unrealised Value
+  - Evidence Based Management
+  - Agile Product Management
+  - Agile Strategy
+  - Business Agility
+  - Continuous Learning
+  - Decision Making
+  - Deployment Frequency
+  - Evidence Based Leadership
+  - Experimentation
+  - Frequent Releases
+  - Hypothesis Driven Development
+  - Market Adaptability
+  - Metrics and Learning
 Watermarks:
   description: 2025-05-07T12:49:39Z
   short_title: 2025-07-07T17:46:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:39:43Z
 videoId: ynIqkNbDN8I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ynIqkNbDN8I/maxresdefault.jpg
 duration: 527
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

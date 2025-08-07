@@ -2,8 +2,14 @@
 title: 'Transform Your Agile Training: The Power of Immersive Learning for Lasting Impact'
 short_title: Immersive Learning for Agile and Scrum Training
 description: Explores how immersive learning in Agile and Scrum boosts retention and real-world application by using spaced sessions, practical assignments, and collaborative feedback.
+tldr: Immersive learning in Agile training connects theory directly to participants' real work, leading to better retention and practical application compared to traditional classroom methods. Spreading sessions over time, using real assignments, and fostering peer feedback help teams apply new concepts and drive meaningful change in their organizations. Consider adopting this approach to make Agile training more relevant and impactful for your teams.
 date: 2023-06-08T07:00:30Z
-weight: 790
+lastmod: 2023-06-08T07:00:30Z
+weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: qrEqX_5FWM8
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 aliases:
-- /resources/qrEqX_5FWM8
-- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
+  - /resources/qrEqX_5FWM8
+  - /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
+  - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 aliasesArchive:
-- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
-- /resources/overview-of-the-8-week-immersive-learning-experience
-- transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
+  - /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
+  - /resources/videos/overview-of-the-8-week-immersive-learning-experience
+  - /resources/overview-of-the-8-week-immersive-learning-experience
+  - transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Continuous Learning
-- Software Development
+  - Pragmatic Thinking
+  - Continuous Learning
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:47Z
   short_title: 2025-07-07T17:54:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:03Z
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

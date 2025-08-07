@@ -2,8 +2,14 @@
 title: What is Scrum?
 short_title: What is Scrum?
 description: Scrum is a framework that helps teams organise and adapt to complex, changing tasks by enabling collaboration and shared goals in uncertain environments.
+tldr: Scrum is a framework that helps teams organize around shared goals and is especially effective for tackling complex, unpredictable work where you learn as you go. It is designed to help teams navigate tasks that are novel or constantly changing, making it ideal for software development environments. Consider exploring Scrum further to boost your team's productivity and adaptability.
 date: 2023-05-19T07:00:31Z
-weight: 1000
+lastmod: 2023-05-19T07:00:31Z
+weight: 815
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: o-wVeh3CIVI
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-scrum
 aliases:
-- /resources/o-wVeh3CIVI
-- /resources/videos/what-is-scrum-o-wVeh3CIVI
+  - /resources/o-wVeh3CIVI
+  - /resources/videos/what-is-scrum-o-wVeh3CIVI
 aliasesArchive:
-- /resources/videos/what-is-scrum
-- /resources/what-is-scrum-3
-- /resources/what-is-scrum-2
-- /resources/videos/what-is-scrum-
-- /resources/what-is-scrum-
-- what-is-scrum-o-wVeh3CIVI
+  - /resources/videos/what-is-scrum
+  - /resources/what-is-scrum-3
+  - /resources/what-is-scrum-2
+  - /resources/videos/what-is-scrum-
+  - /resources/what-is-scrum-
+  - what-is-scrum-o-wVeh3CIVI
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
+  - Agile Frameworks
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:20Z
   short_title: 2025-07-07T17:55:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:58Z
 videoId: o-wVeh3CIVI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

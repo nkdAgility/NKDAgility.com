@@ -2,8 +2,14 @@
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 short_title: Evaluating and Adjusting Direction in Agile Teams
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
+tldr: Regularly evaluating your direction at every level—developer, product owner, and organization—is essential to avoid wasted effort and ensure you are building the right things for your users. Key insights include aligning work with the product vision, listening to feedback, and being willing to pivot based on data rather than sticking to outdated plans. Make time for honest retrospectives and be ready to change course when needed to achieve better outcomes.
 date: 2024-01-20T07:00:00Z
+lastmod: 2024-01-20T07:00:00Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 17qTGonSsbM
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
 aliases:
-- /resources/17qTGonSsbM
-- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+  - /resources/17qTGonSsbM
+  - /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+  - /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
 aliasesArchive:
-- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
-- the-importance-of-evaluating-direction-are-you-heading-the-right-way
+  - /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+  - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+  - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+  - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+  - /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+  - the-importance-of-evaluating-direction-are-you-heading-the-right-way
 source: internal
 layout: video
 concepts:
-- Principle
+  - Strategy
 categories:
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Continuous Improvement
+  - Social Technologies
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:06:25Z
   short_title: 2025-07-07T17:50:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:02Z
 videoId: 17qTGonSsbM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

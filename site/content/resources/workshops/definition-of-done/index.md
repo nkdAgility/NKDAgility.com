@@ -2,29 +2,34 @@
 title: Definition of Done
 short_title: Definition of Done in Agile Projects
 description: Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.
+tldr: The Definition of Done (DoD) clarifies when work is truly complete, ensuring shared understanding and consistent quality across the team. Key steps include aligning on what "done" means, using exercises to explore the concept, and applying it to increments of work. Development managers should ensure their teams have a clear, agreed-upon DoD to improve delivery consistency and product quality.
 date: 2024-09-17
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: IgRDk1wrh65
 ResourceImport: false
 ResourceType: workshops
 ResourceContentOrigin: Human
 slug: definition-of-done
 aliases:
-- /workshops/Definition-Of-Done.html
-- /learn/agile-delivery-kit/workshops/Definition-Of-Done
-- /learn/agile-delivery-kit/workshops/definition-of-done/
-- /resources/IgRDk1wrh65
+  - /workshops/Definition-Of-Done.html
+  - /learn/agile-delivery-kit/workshops/Definition-Of-Done
+  - /learn/agile-delivery-kit/workshops/definition-of-done/
+  - /resources/IgRDk1wrh65
 aliasesArchive:
-- /workshops/Definition-Of-Done.html
-- /learn/agile-delivery-kit/workshops/Definition-Of-Done
-- /learn/agile-delivery-kit/workshops/definition-of-done/
+  - /workshops/Definition-Of-Done.html
+  - /learn/agile-delivery-kit/workshops/Definition-Of-Done
+  - /learn/agile-delivery-kit/workshops/definition-of-done/
 layout: workshop
 concepts:
-- Method
+  - Method
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Definition of Done
+  - Definition of Done
 card:
   button:
     content: Learn More
@@ -33,6 +38,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:00Z
   short_title: 2025-07-07T17:48:12Z
+  tldr: 2025-08-07T12:48:54Z
 resourceTypes: workshop
 creator: Martin Hinshelwood
 

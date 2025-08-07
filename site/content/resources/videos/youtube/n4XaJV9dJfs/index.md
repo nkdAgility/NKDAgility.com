@@ -2,8 +2,14 @@
 title: 'Mastering Complexity in Scrum: Transform Your Team with Agile Product Strategy Insights'
 short_title: Mastering Complexity in Scrum and Agile Strategy
 description: Learn how understanding complexity, empiricism, and key Scrum principles like transparency, inspection, and adaptation can boost Agile team effectiveness and product strategy.
+tldr: Understanding and managing complexity is essential for Scrum teams to plan and execute effectively, especially as unpredictability increases. Emphasizing transparency, inspection, and adaptation helps teams navigate complex work, improve processes, and foster continuous improvement. Consider investing in training or discussions that deepen your team's grasp of these principles to boost effectiveness.
 date: 2023-11-15T07:00:28Z
-weight: 690
+lastmod: 2023-11-15T07:00:28Z
+weight: 395
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: n4XaJV9dJfs
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 aliases:
-- /resources/n4XaJV9dJfs
-- /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
-- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
+  - /resources/n4XaJV9dJfs
+  - /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
+  - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
 aliasesArchive:
-- /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
-- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
-- /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
-- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
-- mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
+  - /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
+  - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+  - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+  - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
+  - mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Complexity Thinking
-- Pragmatic Thinking
-- Software Development
-- Empirical Process Control
-- Agile Transformation
-- Transparency
+  - Empirical Process Control
+  - Personal
+  - Complexity Thinking
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Transformation
+  - Transparency
 Watermarks:
   description: 2025-05-07T13:07:51Z
   short_title: 2025-07-07T17:51:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:00Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

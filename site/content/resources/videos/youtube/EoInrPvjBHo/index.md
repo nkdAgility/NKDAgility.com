@@ -2,8 +2,14 @@
 title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 short_title: Overcoming Agile Banditry for Product Owners
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
+tldr: Product Owners who micromanage and focus on rigid task planning undermine team engagement and product success. Shifting to a focus on vision, value, and outcomes while empowering teams leads to higher motivation, better collaboration, and improved results. Development managers should encourage Product Owners to let go of detailed control, trust their teams, and prioritize clear goals and customer value.
 date: 2024-01-10T07:00:11Z
+lastmod: 2024-01-10T07:00:11Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: EoInrPvjBHo
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-overcome-agile-banditry-a-product-owner-s-journey
 aliases:
-- /resources/EoInrPvjBHo
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+  - /resources/EoInrPvjBHo
+  - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+  - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 aliasesArchive:
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
-- how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
+  - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+  - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+  - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+  - /resources/5-kinds-of-agile-bandits-product-owner-bandits
+  - how-to-overcome-agile-banditry-a-product-owners-journey
+  - /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Transformation
-- Pragmatic Thinking
-- Software Development
-- Team Performance
-- Agile Planning
-- Agile Values and Principles
-- Team Collaboration
-- Agile Leadership
-- Agile Strategy
-- Product Delivery
-- Self Organisation
-- Agile Product Management
+  - Social Technologies
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Software Development
+  - Team Performance
+  - Agile Planning
+  - Agile Values and Principles
+  - Team Collaboration
+  - Agile Leadership
+  - Agile Strategy
+  - Product Delivery
+  - Self Organisation
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:06:30Z
   short_title: 2025-07-07T17:50:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:11Z
 videoId: EoInrPvjBHo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

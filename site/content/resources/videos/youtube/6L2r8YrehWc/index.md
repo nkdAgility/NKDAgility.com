@@ -2,8 +2,14 @@
 title: Why the Scrum Master’s True Power Lies in Influence, Not Authority
 short_title: Scrum Master Influence vs Authority
 description: Explains why a Scrum Master leads through influence, not authority, focusing on building trust, fostering team effectiveness, and supporting agile collaboration.
+tldr: The Scrum Master’s effectiveness comes from their ability to influence and build trust within the team, not from formal authority. By consistently providing value and fostering a collaborative environment, they help teams thrive and drive continuous improvement. Development managers should focus on supporting Scrum Masters in developing their leadership and relationship-building skills rather than granting them traditional authority.
 date: 2023-09-15T07:00:06Z
-weight: 610
+lastmod: 2023-09-15T07:00:06Z
+weight: 425
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 6L2r8YrehWc
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliases:
-- /resources/6L2r8YrehWc
-- /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
-- /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+  - /resources/6L2r8YrehWc
+  - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
+  - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
 aliasesArchive:
-- /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
-- /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
-- /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
-- /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
-- why-the-scrum-masters-true-power-lies-in-influence-not-authority
-- /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
+  - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
+  - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+  - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+  - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+  - why-the-scrum-masters-true-power-lies-in-influence-not-authority
+  - /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Scrum Team
-- Scrum Master
-- Professional Scrum
-- Software Development
-- Agile Leadership
-- Team Performance
+  - Scrum Team
+  - Scrum Master
+  - Professional Scrum
+  - Software Development
+  - Agile Leadership
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:09:30Z
   short_title: 2025-07-07T17:53:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:59Z
 videoId: 6L2r8YrehWc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

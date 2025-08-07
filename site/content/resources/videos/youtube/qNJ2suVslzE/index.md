@@ -2,8 +2,14 @@
 title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
 short_title: Transforming Scope Creep with Agile Value
 description: Learn how to turn scope creep into an advantage by adopting Agile methods, focusing on value delivery, and adapting to changing requirements in dynamic markets.
+tldr: Scope creep is often a sign that traditional fixed-scope approaches are failing in today’s fast-changing market. Focusing on delivering customer value, embracing flexible planning, and actively seeking feedback helps teams adapt and succeed. Development managers should shift from rigid scope management to Agile practices that prioritize value and responsiveness to change.
 date: 2024-12-04T06:00:00Z
+lastmod: 2024-12-04T06:00:00Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: qNJ2suVslzE
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 aliases:
-- /resources/qNJ2suVslzE
-- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
-- /resources/videos/taming-scope-creep-with-agile
+  - /resources/qNJ2suVslzE
+  - /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+  - /resources/videos/taming-scope-creep-with-agile
 aliasesArchive:
-- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
-- /resources/videos/taming-scope-creep-with-agile
-- /resources/taming-scope-creep-with-agile
-- transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+  - /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+  - /resources/videos/taming-scope-creep-with-agile
+  - /resources/taming-scope-creep-with-agile
+  - transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Agile Planning
-- Agile Product Management
-- Agile Strategy
-- Agile Values and Principles
-- Business Agility
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Market Adaptability
-- Product Delivery
-- Agile Philosophy
-- Agile Transformation
-- Working Software
+  - Agile Planning
+  - Agile Product Management
+  - Agile Strategy
+  - Agile Values and Principles
+  - Business Agility
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Software Development
+  - Value Delivery
+  - Market Adaptability
+  - Product Delivery
+  - Agile Philosophy
+  - Agile Transformation
+  - Working Software
 Watermarks:
   description: 2025-05-07T12:56:54Z
   short_title: 2025-07-07T17:47:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:16Z
 videoId: qNJ2suVslzE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw
 duration: 259
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

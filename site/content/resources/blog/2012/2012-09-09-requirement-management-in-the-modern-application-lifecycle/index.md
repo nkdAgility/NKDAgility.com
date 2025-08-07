@@ -1,36 +1,39 @@
 ---
 title: Requirement management in the modern application lifecycle with TFS
 description: Explains how Team Foundation Server supports requirement management in modern app development, including traceability, integration, and partner tools for agile and compliance needs.
+date: 2012-09-09
+lastmod: 2012-09-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xCKZmk2o5Me
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8700
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: requirement-management-in-the-modern-application-lifecycle
 aliases:
-- /resources/xCKZmk2o5Me
+  - /resources/xCKZmk2o5Me
 aliasesArchive:
-- /blog/requirement-management-in-the-modern-application-lifecycle
-- /requirement-management-in-the-modern-application-lifecycle
-- /requirement-management-in-the-modern-application-lifecycle-with-tfs
-- /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
-- /resources/blog/requirement-management-in-the-modern-application-lifecycle
-tags:
-- Software Development
-- Application Lifecycle Management
+  - /blog/requirement-management-in-the-modern-application-lifecycle
+  - /requirement-management-in-the-modern-application-lifecycle
+  - /requirement-management-in-the-modern-application-lifecycle-with-tfs
+  - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
+  - /resources/blog/requirement-management-in-the-modern-application-lifecycle
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-requirements-icon-14-14.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Application Lifecycle Management
 Watermarks:
   description: 2025-05-13T15:07:41Z
-concepts: []
+ResourceImportId: 8700
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-requirements-icon-14-14.png
 
 ---
 Managing requirements is hard and no single tool can tell you how to achieve that within your organisation. To that end, Visual Studio 2012 TFS stays out of the “where do your requirements come from” world and firmly in the “i have my requirements.. .what now?” world and indeed the tools built on top of the requirement management system stay in one niche.

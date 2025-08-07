@@ -2,8 +2,14 @@
 title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
 short_title: Poly Immersive Learning for Growth
 description: Explores how poly immersive learning enhances professional growth through real-world feedback, reflection, collaboration, and practical application for lasting impact.
+tldr: Poly immersive learning experiences help teams adapt to complexity by encouraging learning from real-world feedback, fostering collaboration, and providing time for reflection. They reinforce knowledge through structured assignments and practical experiments, which build habits of continuous improvement. Development managers should integrate these approaches to drive ongoing learning and accountability within their teams.
 date: 2023-07-13T12:20:07Z
-weight: 1000
+lastmod: 2023-07-13T12:20:07Z
+weight: 815
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: wawnGp8b2q8
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 aliases:
-- /resources/wawnGp8b2q8
-- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
-- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+  - /resources/wawnGp8b2q8
+  - /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+  - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
 aliasesArchive:
-- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
-- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
-- /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
-- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
-- unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+  - /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+  - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+  - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+  - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+  - unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Continuous Learning
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:10:38Z
   short_title: 2025-07-07T17:53:55Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:54Z
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

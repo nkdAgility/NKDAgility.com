@@ -2,8 +2,14 @@
 title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
 short_title: Hidden Costs of Weak Delivery & Definition of Done
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
+tldr: Cutting corners on quality and having a weak definition of done leads to hidden costs like rework, production risks, and lost trust. A clear, shared, and enforceable definition of done ensures every increment is truly usable, reliable, and aligned with business goals. Make your definition of done visible, evidence-based, and strictly enforced to improve delivery outcomes and build stakeholder confidence.
 date: 2025-05-21T06:00:00Z
+lastmod: 2025-05-21T06:00:00Z
 weight: 130
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: xxdg6WPNcDc
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 aliases:
-- /resources/xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
-- /resources/videos/3-the-cost-of-weak-definitions-of-done
+  - /resources/xxdg6WPNcDc
+  - /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
+  - /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
+  - /resources/videos/3-the-cost-of-weak-definitions-of-done
 aliasesArchive:
-- /resources/videos/3-the-cost-of-weak-definitions-of-done
-- 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
-- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
-- stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
+  - /resources/videos/3-the-cost-of-weak-definitions-of-done
+  - 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
+  - /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
+  - /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results
+  - stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-teams-results-xxdg6WPNcDc
 source: youtube
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Engineering Excellence
-- Product Development
-- Technical Leadership
+  - Engineering Excellence
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Definition of Done
-- Technical Mastery
-- Product Delivery
-- Pragmatic Thinking
-- Technical Debt
-- Operational Practices
-- Professional Scrum
-- Value Delivery
-- Team Performance
-- Engineering Practices
-- Organisational Agility
-- Working Software
-- Increment
+  - Software Development
+  - Definition of Done
+  - Technical Mastery
+  - Product Delivery
+  - Pragmatic Thinking
+  - Technical Debt
+  - Operational Practices
+  - Professional Scrum
+  - Value Delivery
+  - Team Performance
+  - Engineering Practices
+  - Organisational Agility
+  - Working Software
+  - Increment
 Watermarks:
   description: 2025-05-07T20:36:57Z
   short_title: 2025-07-07T16:44:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:31:58Z
 videoId: xxdg6WPNcDc
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
 duration: 60
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: "July 2023 NKDAgility: Introducing NKD Agility's Next Generation of Agile Practitioners: Transforming Work, Building Success, and Achieving Greatness in the 21st Century!"
 short_title: NKD Agility Next Generation Agile Training
 description: NKD Agility offers immersive, multi-week agile training to build practical skills in Scrum, leadership, and continuous improvement for modern workplace success.
+tldr: NKD Agility is launching multi-week immersive learning programs to develop agile practitioners with practical skills in Scrum, leadership, and product ownership, combining training, coaching, and real-world application. These experiences focus on collaboration, adaptability, and continuous improvement to help teams deliver better results and foster innovation. Development managers can explore upcoming classes, take advantage of alumni and referral discounts, and consider private training for their teams.
 date: 2023-06-29
-weight: 480
+lastmod: 2023-06-29
+weight: 445
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 author: MrHinsh
 ResourceId: A1Gq5rHDvzC
 ResourceImport: false
@@ -11,24 +17,25 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: july-2023-nkdagility-introducing-nkd-agility's-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
-- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-- /resources/A1Gq5rHDvzC
+  - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+  - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+  - /resources/A1Gq5rHDvzC
 aliasesArchive:
-- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+  - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+  - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Continuous Learning
-- Competence
-- Organisational Agility
+  - Continuous Learning
+  - Competence
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:11:09Z
   short_title: 2025-07-07T17:54:16Z
+  tldr: 2025-08-07T13:02:42Z
 resourceTypes: newsletter
 
 ---

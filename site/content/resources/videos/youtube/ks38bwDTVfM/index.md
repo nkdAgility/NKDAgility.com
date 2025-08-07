@@ -2,8 +2,14 @@
 title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Success"
 short_title: 3 Essential Agile Strategies for Sprint Success
 description: 'Learn three key Agile strategies: define clear completion criteria, avoid overcommitting in Sprints, and prioritise backlog refinement for better team productivity.'
+tldr: To improve your team's Sprint outcomes, clearly define what "done" means for every task, avoid overcommitting by leaving room for technical debt and unexpected issues, and make backlog refinement a regular priority to catch blockers early. These steps help align expectations, reduce surprises, and create a smoother workflow. Review your current practices and adjust to ensure these strategies are in place.
 date: 2023-11-16T07:00:16Z
-weight: 330
+lastmod: 2023-11-16T07:00:16Z
+weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: ks38bwDTVfM
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-agile-3-essential-strategies-to-boost-your-team's-sprint-success
 aliases:
-- /resources/ks38bwDTVfM
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
+  - /resources/ks38bwDTVfM
+  - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+  - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+  - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
 aliasesArchive:
-- /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
-- mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
+  - /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
+  - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+  - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+  - /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+  - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+  - mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+  - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
+  - Engineering Excellence
 tags:
-- Agile Planning
-- Team Performance
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Operational Practices
-- Agile Product Management
-- Team Collaboration
+  - Agile Planning
+  - Team Performance
+  - Software Development
+  - Pragmatic Thinking
+  - Personal
+  - Agile Frameworks
+  - Operational Practices
+  - Agile Product Management
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:07:49Z
   short_title: 2025-07-07T17:51:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:56Z
 videoId: ks38bwDTVfM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

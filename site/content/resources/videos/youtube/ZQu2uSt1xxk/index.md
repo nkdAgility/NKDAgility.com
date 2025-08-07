@@ -2,8 +2,14 @@
 title: Overview of Applying Professional Kanban course.
 short_title: Applying Professional Kanban Course Overview
 description: Learn how to implement Kanban in any workflow, use key metrics and visualisations, and drive continuous improvement for better project management and value delivery.
+tldr: The Applying Professional Kanban course teaches how to integrate Kanban into any workflow to improve efficiency, identify bottlenecks, and drive continuous improvement using data and visualizations. Key outcomes include better workflow management, data-driven decision-making, and increased value delivery to stakeholders. Development managers should consider this course to optimize their team's processes and deliver more value quickly.
 date: 2024-02-21T07:00:11Z
+lastmod: 2024-02-21T07:00:11Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZQu2uSt1xxk
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: overview-of-applying-professional-kanban-course
 aliases:
-- /resources/ZQu2uSt1xxk
-- /resources/videos/overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/videos/overview-of-applying-professional-kanban-course.
+  - /resources/ZQu2uSt1xxk
+  - /resources/videos/overview-of-applying-professional-kanban-course
+  - /resources/videos/overview-of-applying-professional-kanban-course-1
+  - /resources/videos/overview-of-applying-professional-kanban-course.
 aliasesArchive:
-- /resources/videos/overview-of-applying-professional-kanban-course-
-- /resources/overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/overview-of-applying-professional-kanban-course-1
-- overview-of-applying-professional-kanban-course-
-- /resources/videos/overview-of-applying-professional-kanban-course
-- overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course.
+  - /resources/videos/overview-of-applying-professional-kanban-course-
+  - /resources/overview-of-applying-professional-kanban-course
+  - /resources/videos/overview-of-applying-professional-kanban-course-1
+  - /resources/overview-of-applying-professional-kanban-course-1
+  - overview-of-applying-professional-kanban-course-
+  - /resources/videos/overview-of-applying-professional-kanban-course
+  - overview-of-applying-professional-kanban-course
+  - /resources/videos/overview-of-applying-professional-kanban-course.
 source: internal
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
+  - Agile Frameworks
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:05:40Z
   short_title: 2025-07-07T17:49:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:34Z
 videoId: ZQu2uSt1xxk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

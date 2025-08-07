@@ -2,8 +2,14 @@
 title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 short_title: Embrace Simplicity for Continuous Delivery
 description: Explains how simplifying complex software and committing to change enables continuous delivery, highlighting the need for cultural shift, resilience, and ongoing improvement.
+tldr: Complexity is not a valid excuse for avoiding continuous delivery; with organisational commitment and a willingness to modernise, even legacy systems can be transformed for faster, more reliable releases. Key steps include honestly assessing your product, investing in ongoing improvement, and addressing technical debt rather than ignoring warning signs. Leaders should prioritise resources and foster a culture that values continuous improvement to avoid costly failures and achieve lasting delivery success.
 date: 2025-02-27T07:00:10Z
+lastmod: 2025-02-27T07:00:10Z
 weight: 255
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: DsvMKLto30o
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 aliases:
-- /resources/DsvMKLto30o
-- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+  - /resources/DsvMKLto30o
+  - /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+  - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
 aliasesArchive:
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/performance-engineering-for-optimal-user-experience
-- /resources/performance-engineering-for-optimal-user-experience
-- nkd-agility-your-partner-in-developing-engineering-excellence
-- /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
-- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-- embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+  - /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+  - /resources/videos/performance-engineering-for-optimal-user-experience
+  - /resources/performance-engineering-for-optimal-user-experience
+  - nkd-agility-your-partner-in-developing-engineering-excellence
+  - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+  - /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+  - embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 source: internal
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Pragmatic Thinking
-- Continuous Delivery
-- Continuous Improvement
-- Frequent Releases
-- Operational Practices
-- Product Delivery
+  - Software Development
+  - Pragmatic Thinking
+  - Continuous Delivery
+  - Continuous Improvement
+  - Frequent Releases
+  - Operational Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:49:24Z
   short_title: 2025-07-07T16:45:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:36Z
 videoId: DsvMKLto30o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

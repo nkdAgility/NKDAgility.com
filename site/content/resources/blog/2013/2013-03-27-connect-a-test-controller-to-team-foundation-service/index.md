@@ -1,32 +1,35 @@
 ---
 title: Connect a Test Controller to Team Foundation Service
 description: Explains how to install and configure a Test Controller to connect with Team Foundation Service for automated deployment and testing in cloud-based environments.
+date: 2013-03-27
+lastmod: 2013-03-27
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: D5NhnVpHAwD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9348
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-27
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: connect-a-test-controller-to-team-foundation-service
 aliases:
-- /resources/D5NhnVpHAwD
+  - /resources/D5NhnVpHAwD
 aliasesArchive:
-- /blog/connect-a-test-controller-to-team-foundation-service
-- /connect-a-test-controller-to-team-foundation-service
-- /resources/blog/connect-a-test-controller-to-team-foundation-service
-tags:
-- Install and Configuration
+  - /blog/connect-a-test-controller-to-team-foundation-service
+  - /connect-a-test-controller-to-team-foundation-service
+  - /resources/blog/connect-a-test-controller-to-team-foundation-service
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:43Z
-concepts: []
+ResourceImportId: 9348
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?

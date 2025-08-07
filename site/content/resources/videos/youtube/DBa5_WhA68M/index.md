@@ -2,8 +2,14 @@
 title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 short_title: Negotiation Skills for Product Owners
 description: Learn key negotiation skills for Product Owners to manage stakeholders, balance priorities, and maximise product value through effective communication and decision-making.
+tldr: Strong negotiation skills are essential for Product Owners to balance stakeholder demands, technical realities, and leadership requests, ensuring the product delivers maximum value. Key techniques include active listening, asking probing questions, and guiding others to see the bigger picture, which helps avoid unnecessary features and maintain focus. Development managers should encourage Product Owners to build these skills through training, reflection, and coaching to improve outcomes and stakeholder relationships.
 date: 2023-12-13T07:00:07Z
+lastmod: 2023-12-13T07:00:07Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: DBa5_WhA68M
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
 aliases:
-- /resources/DBa5_WhA68M
-- /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/DBa5_WhA68M
+  - /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 aliasesArchive:
-- /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
-- /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
-- the-art-of-negotiation-for-product-owners-essential-skills-to-master
+  - /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+  - /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
+  - the-art-of-negotiation-for-product-owners-essential-skills-to-master
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Owner
-- Value Delivery
+  - Product Owner
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:07:01Z
   short_title: 2025-07-07T17:50:49Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:19Z
 videoId: DBa5_WhA68M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
 duration: 330
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

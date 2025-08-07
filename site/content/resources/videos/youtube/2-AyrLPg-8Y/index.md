@@ -2,8 +2,14 @@
 title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
 short_title: Evidence-Based Management for Agile Leaders
 description: Discover how evidence-based management empowers Agile leaders to make data-driven decisions, foster continuous improvement, and boost team performance and collaboration.
+tldr: Evidence-based management helps Agile leaders make better decisions by using data on team performance, customer satisfaction, and product quality, leading to continuous improvement and stronger collaboration. Real-world examples show that adopting EBM can improve delivery times, morale, and outcomes. Development managers should invest in EBM training, encourage data-driven practices, and support experimentation to drive team success.
 date: 2023-11-29T11:00:03Z
+lastmod: 2023-11-29T11:00:03Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 2-AyrLPg-8Y
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile
 aliases:
-- /resources/2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
+  - /resources/2-AyrLPg-8Y
+  - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
+  - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
 aliasesArchive:
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
-- transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
+  - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+  - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
+  - transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 source: youtube
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
+  - Product Development
 tags:
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Continuous Learning
-- Pragmatic Thinking
-- Continuous Improvement
-- Competence
-- Agile Leadership
-- Operational Practices
+  - Personal
+  - Software Development
+  - Decision Making
+  - Evidence Based Leadership
+  - Evidence Based Management
+  - Continuous Learning
+  - Pragmatic Thinking
+  - Competence
+  - Organisational Culture
+  - Continuous Improvement
+  - Agile Leadership
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:07:24Z
   short_title: 2025-07-07T17:51:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:59Z
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
 short_title: Empowering Agile Teams by Teaching the Why
 description: Explores how teaching the reasons behind Agile practices boosts team engagement, collaboration, and continuous improvement, helping teams adapt and thrive with Scrum.
+tldr: Helping teams understand the reasons behind Agile practices is key to real engagement and lasting change. When team members grasp the value and purpose of what they do, they collaborate better, adapt more easily, and drive continuous improvement. Development managers should focus on explaining the "why" behind processes to empower teams and boost performance.
 date: 2023-04-27T07:00:31Z
-weight: 1000
+lastmod: 2023-04-27T07:00:31Z
+weight: 745
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: xuNNZnCNVWs
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why
 aliases:
-- /resources/xuNNZnCNVWs
-- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
-- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+  - /resources/xuNNZnCNVWs
+  - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+  - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 aliasesArchive:
-- /resources/videos/-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
-- 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
-- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
-- empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+  - /resources/videos/-critical-skill-for-a-scrum-master-and-why
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
+  - /resources/1-critical-skill-for-a-scrum-master-and-why-
+  - 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
+  - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
+  - empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
+  - Leadership
 tags:
-- Coaching
-- Software Development
-- Scrum Master
-- Agile Transformation
-- Social Technologies
-- Agile Frameworks
-- Organisational Agility
+  - Coaching
+  - Software Development
+  - Scrum Master
+  - Agile Transformation
+  - Social Technologies
+  - Agile Frameworks
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:12:58Z
   short_title: 2025-07-07T17:55:42Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:01Z
 videoId: xuNNZnCNVWs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

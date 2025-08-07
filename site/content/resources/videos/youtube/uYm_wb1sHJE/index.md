@@ -2,8 +2,14 @@
 title: What is the Sprint Review workshop and how will it help organisations?
 short_title: Sprint Review Workshop Explained
 description: Explains the Sprint Review workshop, detailing its role in Agile teams for stakeholder engagement, market alignment, and continuous product improvement through practical guidance.
+tldr: The Sprint Review workshop helps teams align product development with stakeholder needs, adapt to market changes, and drive continuous improvement. It offers practical guidance on running effective reviews, boosting stakeholder engagement, and turning feedback into actionable improvements. Development managers should consider this workshop to enhance team performance and ensure products deliver real value.
 date: 2023-06-30T07:00:18Z
+lastmod: 2023-06-30T07:00:18Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: uYm_wb1sHJE
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 aliases:
-- /resources/uYm_wb1sHJE
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+  - /resources/uYm_wb1sHJE
+  - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+  - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 aliasesArchive:
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
-- what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+  - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+  - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+  - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+  - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+  - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+  - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+  - what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Sprint Review
-- Software Development
-- Agile Planning
-- Pragmatic Thinking
-- Team Performance
+  - Sprint Review
+  - Software Development
+  - Product Delivery
+  - Agile Planning
+  - Pragmatic Thinking
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:11:04Z
   short_title: 2025-07-07T17:54:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:33Z
 videoId: uYm_wb1sHJE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
 duration: 158
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

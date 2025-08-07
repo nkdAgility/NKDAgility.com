@@ -1,35 +1,38 @@
 ---
 title: Move your Active Directory domain to another server
 description: Learn how to transfer an Active Directory domain to a new server, including moving FSMO roles and the Global Catalogue, to ensure domain services remain functional.
+date: 2014-01-20
+lastmod: 2014-01-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: koQQ-rllpsw
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10334
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-01-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: move-your-active-directory-domain-to-another-server
 aliases:
-- /resources/koQQ-rllpsw
+  - /resources/koQQ-rllpsw
 aliasesArchive:
-- /blog/move-your-active-directory-domain-to-another-server
-- /move-your-active-directory-domain-to-another-server
-- /resources/blog/move-your-active-directory-domain-to-another-server
-tags:
-- System Configuration
-- Windows
-- Install and Configuration
+  - /blog/move-your-active-directory-domain-to-another-server
+  - /move-your-active-directory-domain-to-another-server
+  - /resources/blog/move-your-active-directory-domain-to-another-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-server-instances_thumb-2-2.png
+  - Uncategorized
+tags:
+  - System Configuration
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:26Z
-concepts: []
+ResourceImportId: 10334
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-server-instances_thumb-2-2.png
 
 ---
 I was trying to install TFS 2013 yesterday and I found that my local demo domain was not working. After a little investigation It looks like I was running Windows Server 2012 R2 Preview and it had just expired.

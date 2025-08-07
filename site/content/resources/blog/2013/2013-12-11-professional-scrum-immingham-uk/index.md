@@ -1,40 +1,43 @@
 ---
 title: Professional Scrum in Immingham, UK
 description: Summary of a multi-team Professional Scrum training at DFDS Seaways in Immingham, UK, highlighting co-located learning, cross-team collaboration, and agile best practices.
+date: 2013-12-11
+lastmod: 2013-12-11
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: b-WImy6z9no
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10301
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-12-11
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: professional-scrum-immingham-uk
+slug: professional-scrum-in-immingham-uk
 aliases:
-- /resources/b-WImy6z9no
+  - /resources/b-WImy6z9no
 aliasesArchive:
-- /blog/professional-scrum-immingham-uk
-- /professional-scrum-immingham-uk
-- /professional-scrum-in-immingham,-uk
-- /blog/professional-scrum-in-immingham,-uk
-- /professional-scrum-in-immingham--uk
-- /blog/professional-scrum-in-immingham--uk
-- /resources/blog/professional-scrum-immingham-uk
-tags:
-- Software Development
-- Team Collaboration
-- Agile Frameworks
-- Team Performance
+  - /blog/professional-scrum-immingham-uk
+  - /professional-scrum-immingham-uk
+  - /professional-scrum-in-immingham,-uk
+  - /blog/professional-scrum-in-immingham,-uk
+  - /professional-scrum-in-immingham--uk
+  - /blog/professional-scrum-in-immingham--uk
+  - /resources/blog/professional-scrum-immingham-uk
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-6-6.png
+  - Scrum
+tags:
+  - Software Development
+  - Team Collaboration
+  - Agile Frameworks
+  - Team Performance
 Watermarks:
   description: 2025-05-12T14:22:49Z
-concepts: []
+ResourceImportId: 10301
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---
 As my first engagement as naked ALM Consulting in the UK I got to work with the fantastic team at DFDS Seaways and teach the Professional Scrum course from Scrum.org.

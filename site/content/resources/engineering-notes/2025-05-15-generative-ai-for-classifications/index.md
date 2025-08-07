@@ -2,30 +2,37 @@
 title: How I Used Generative AI to Transform Site Tagging and Categories
 short_title: Generative AI for Automated Site Tagging
 description: Explains how generative AI and PowerShell scripts automate and improve blog post tagging and categorisation in Hugo, with human oversight and transparent audit trails.
+tldr: Migrating a large, legacy blog to Hugo enabled the use of generative AI for automated tagging and categorisation, significantly improving content discoverability and editorial consistency while reducing manual effort. The system combines AI-driven suggestions with human oversight, using multi-factor scoring, penalty logic, and transparent reasoning to ensure quality and accountability. Development managers considering similar automation should maintain human control over final decisions and leverage AI to streamline, not replace, editorial processes.
 date: 2025-05-15T09:00:00Z
-weight: 400
+lastmod: 2025-05-15T09:00:00Z
+weight: 470
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: oRStCAqLAY4
 ResourceImport: false
 ResourceType: engineering-notes
 ResourceContentOrigin: human
 slug: how-i-used-generative-ai-to-transform-site-tagging-and-categories
 aliases:
-- /resources/oRStCAqLAY4
+  - /resources/oRStCAqLAY4
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
+  - Uncategorized
 tags:
-- Artificial Intelligence
-- Personal
-- Software Development
-- Technical Mastery
-- Transparency
-- Pragmatic Thinking
-- Agentic Engineering
+  - Artificial Intelligence
+  - Personal
+  - Software Development
+  - Technical Mastery
+  - Transparency
+  - Pragmatic Thinking
+  - Agentic Engineering
 Watermarks:
   description: 2025-05-07T13:48:01Z
   short_title: 2025-07-07T16:44:11Z
+  tldr: 2025-08-07T12:32:16Z
 
 ---
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.

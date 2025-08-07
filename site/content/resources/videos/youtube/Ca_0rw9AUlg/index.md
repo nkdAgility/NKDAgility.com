@@ -2,8 +2,14 @@
 title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
 short_title: Focus on System Change, Not Agile Transformation
 description: Explains why lasting organisational change comes from adjusting systems—rules, processes, and structures—rather than trying to directly transform culture.
+tldr: Focusing on changing organizational culture directly does not work because culture is an outcome of the underlying system, such as rules, processes, and decision-making structures. To achieve real and lasting change, development managers should make small, targeted adjustments to these systems, monitor the impact on team behavior, and iterate as needed. Leaders must support and model these changes, as system tweaks drive the cultural shifts that Agile aims for.
 date: 2024-01-21T07:00:06Z
+lastmod: 2024-01-21T07:00:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Ca_0rw9AUlg
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliases:
-- /resources/Ca_0rw9AUlg
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+  - /resources/Ca_0rw9AUlg
+  - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+  - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
 aliasesArchive:
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
-- theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+  - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+  - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+  - /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+  - /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+  - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+  - theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+  - /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags:
-- Organisational Change
-- Systems Thinking
-- Organisational Physics
-- Organisational Agility
-- Sociotechnical Systems
-- Agile Philosophy
+  - Organisational Physics
+  - Organisational Change
+  - Systems Thinking
+  - Organisational Agility
+  - Sociotechnical Systems
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:06:24Z
   short_title: 2025-07-07T17:50:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:59Z
 videoId: Ca_0rw9AUlg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
 duration: 195
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

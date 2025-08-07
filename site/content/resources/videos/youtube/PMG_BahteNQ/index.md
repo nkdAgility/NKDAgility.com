@@ -4,7 +4,12 @@ short_title: Automate CI/CD Deployments in Azure DevOps
 description: Still deploying manually? Discover why automation isn’t optional—protect your business, avoid disaster, and deliver value with modern engineering practices.
 tldr: Manual deployments put your business at serious risk due to inevitable human error, as shown by real-world failures that have caused massive financial losses. Automation of builds, deployments, tests, and quality checks is now the minimum standard for professional software development, enabling faster, safer, and more reliable releases. To protect your business and deliver value consistently, eliminate manual steps and automate every part of your delivery pipeline as soon as possible.
 date: 2025-08-11T07:00:00Z
+lastmod: 2025-08-11T07:00:00Z
 weight: 185
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: PMG_BahteNQ
 ResourceImport: true
 ResourceType: videos
@@ -12,34 +17,34 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: still-deploying-manually-why-automation-is-the-bare-minimum-for-modern-engineering-and-your-business-survival
 aliases:
-- /resources/PMG_BahteNQ
-- /resources/videos/5-automate-everything-the-power-of-ci-cd-in-azure-devops
+  - /resources/PMG_BahteNQ
+  - /resources/videos/5-automate-everything-the-power-of-ci-cd-in-azure-devops
 aliasesArchive:
-- /resources/videos/5-automate-everything-the-power-of-ci-cd-in-azure-devops
-- 5-automate-everything-the-power-of-ci-cd-in-azure-devops
+  - /resources/videos/5-automate-everything-the-power-of-ci-cd-in-azure-devops
+  - 5-automate-everything-the-power-of-ci-cd-in-azure-devops
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Azure DevOps
-- Operational Practices
-- Software Development
-- Technical Mastery
-- Frequent Releases
-- Engineering Practices
-- Product Delivery
-- Azure Pipelines
-- Release Management
-- Continuous Delivery
-- Technical Excellence
-- Deployment Strategies
-- Value Delivery
-- Deployment Frequency
-- Pragmatic Thinking
+  - Azure DevOps
+  - Operational Practices
+  - Software Development
+  - Technical Mastery
+  - Frequent Releases
+  - Engineering Practices
+  - Product Delivery
+  - Azure Pipelines
+  - Continuous Delivery
+  - Release Management
+  - Technical Excellence
+  - Deployment Strategies
+  - Value Delivery
+  - Deployment Frequency
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-07-24T15:10:12Z
   short_title: 2025-07-24T15:10:13Z
@@ -49,11 +54,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/PMG_BahteNQ/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLD5O0xRPKD1Q_f_XzwjoVm1JLiSIQ
 duration: 516
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 If you’re still deploying manually, you’re not just behind the curve—you’re actively putting your business at risk. I’ve seen this play out time and again, and the consequences can be catastrophic. Let me be clear: manual deployments are not a sign of professionalism or diligence. They’re a sign that your engineering practices are stuck in the past, and the risks you’re taking are simply unacceptable.

@@ -2,8 +2,14 @@
 title: Agile leader versus traditional manager
 short_title: Agile Leader vs Traditional Manager
 description: Compares traditional managers’ focus on control and delegation with Agile leaders’ emphasis on empowerment, open communication, and adaptability to market change.
+tldr: Traditional managers focus on control and task delegation, which can limit communication and slow decision-making. Agile leaders, on the other hand, empower teams, encourage open communication, and help organizations adapt quickly to change. Consider shifting from traditional management to Agile leadership to drive growth and market responsiveness.
 date: 2023-05-02T09:30:14Z
+lastmod: 2023-05-02T09:30:14Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZQZeM20TO4c
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-leader-versus-traditional-manager
 aliases:
-- /resources/ZQZeM20TO4c
-- /resources/videos/agile-leader-versus-traditional-manager
-- /resources/videos/agile-leader-vs-traditional-manager
+  - /resources/ZQZeM20TO4c
+  - /resources/videos/agile-leader-versus-traditional-manager
+  - /resources/videos/agile-leader-vs-traditional-manager
 aliasesArchive:
-- /resources/videos/agile-leader-versus-traditional-manager
-- /resources/agile-leader-versus-traditional-manager
-- /resources/agile-leader-vs-traditional-manager
-- /resources/videos/agile-leader-vs-traditional-manager
-- agile-leader-versus-traditional-manager
+  - /resources/videos/agile-leader-versus-traditional-manager
+  - /resources/agile-leader-versus-traditional-manager
+  - /resources/agile-leader-vs-traditional-manager
+  - /resources/videos/agile-leader-vs-traditional-manager
+  - agile-leader-versus-traditional-manager
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agile Leadership
+  - Agile Leadership
 Watermarks:
   description: 2025-05-07T13:12:48Z
   short_title: 2025-07-07T17:55:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:43Z
 videoId: ZQZeM20TO4c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

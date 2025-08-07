@@ -2,8 +2,14 @@
 title: Why Cost-Cutting During Recessions Is Counterproductive
 short_title: Why Cost-Cutting in Recessions Fails
 description: Cutting costs during recessions can harm long-term business success. Investing in people, agility, and continuous improvement builds resilience and drives future growth.
+tldr: Cutting costs during a recession, especially in areas like agile coaching and training, may offer short-term savings but undermines long-term business resilience and growth. Companies that invest in efficiency, team empowerment, and continuous improvement during downturns are better positioned to outperform competitors when the market recovers. Instead of layoffs and rigid controls, focus on building a culture of learning and value creation to ensure your organization thrives through uncertainty.
 date: 2024-07-04T06:45:04Z
+lastmod: 2024-07-04T06:45:04Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: wiEH7vsfrSE
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-cost-cutting-during-recessions-is-counterproductive
 aliases:
-- /resources/wiEH7vsfrSE
-- /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
-- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
+  - /resources/wiEH7vsfrSE
+  - /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
+  - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
 aliasesArchive:
-- /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
-- /resources/why-cost-cutting-during-recessions-is-counterproductive
-- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
-- /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
-- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
-- why-cost-cutting-during-recessions-is-counterproductive
+  - /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
+  - /resources/why-cost-cutting-during-recessions-is-counterproductive
+  - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+  - /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+  - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
+  - why-cost-cutting-during-recessions-is-counterproductive
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Business Agility
-- Organisational Agility
-- Market Adaptability
-- Continuous Improvement
-- Enterprise Agility
-- Sociotechnical Systems
-- Pragmatic Thinking
+  - Business Agility
+  - Organisational Agility
+  - Market Adaptability
+  - Continuous Improvement
+  - Enterprise Agility
+  - Sociotechnical Systems
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:02:41Z
   short_title: 2025-07-07T17:49:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:04Z
 videoId: wiEH7vsfrSE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg
 duration: 1046
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

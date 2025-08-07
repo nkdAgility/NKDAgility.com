@@ -1,36 +1,39 @@
 ---
 title: Upgrading your Process Template in Team Foundation Server
 description: Explains methods for upgrading process templates in Team Foundation Server, comparing pros and cons of each approach, and highlighting risks, data integrity, and best practices.
+date: 2011-07-28
+lastmod: 2011-07-28
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: o6VvFIPoyTU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3717
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-07-28
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+slug: upgrading-your-process-template-in-team-foundation-server
 aliases:
-- /resources/o6VvFIPoyTU
+  - /resources/o6VvFIPoyTU
 aliasesArchive:
-- /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-- /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-- /upgrading-your-process-template-in-team-foundation-server
-- /blog/upgrading-your-process-template-in-team-foundation-server
-- /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-tags:
-- Software Development
-- Install and Configuration
+  - /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+  - /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+  - /upgrading-your-process-template-in-team-foundation-server
+  - /blog/upgrading-your-process-template-in-team-foundation-server
+  - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-4-4.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:10:21Z
-concepts: []
+ResourceImportId: 3717
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---
 Upgrading your Process Template in Team Foundation Server regardless of the version is pretty hard to achieve. Think of it like changing your mind on the blueprints of a building after you have finished construction. If you are making a small change, like adding a field, then this will be easy. But if you want to fundamentally change the structure of your work items and their workflow then you are looking at a bigger and much more complicated solution.

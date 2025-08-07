@@ -1,37 +1,40 @@
 ---
 title: SSRS vs SCVMM - The Kerberos token dispute
 description: Explains Kerberos authentication issues when SSRS and SCVMM run on the same server with different service accounts, causing SPN conflicts and token errors in Active Directory.
+date: 2011-12-29
+lastmod: 2011-12-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: o4bErdW-aL2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4104
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-12-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute
 aliases:
-- /resources/o4bErdW-aL2
+  - /resources/o4bErdW-aL2
 aliasesArchive:
-- /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
-- /ssrs-vs-scvmm-the-kerberos-token-dispute
-- /ssrs-vs-scvmm---the-kerberos-token-dispute
-- /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
-- /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
-tags:
-- Troubleshooting
-- System Configuration
-- Install and Configuration
-- Windows
+  - /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
+  - /ssrs-vs-scvmm-the-kerberos-token-dispute
+  - /ssrs-vs-scvmm---the-kerberos-token-dispute
+  - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
+  - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - System Configuration
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:09:47Z
-concepts: []
+ResourceImportId: 4104
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I have been  working with one of my colleagues, Bryon, over the holidays in order to install both TFS and Lab management at a customer. Now that customer has some awesome hardware, but insisted on a physical TFS server. The DL320 with 18 cores, 42GB RAM and 2TB of storage make a pretty fast TFS server, but we did run into a couple of problems. The solution to the first problem caused the second problem.

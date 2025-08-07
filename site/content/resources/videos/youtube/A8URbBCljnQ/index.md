@@ -2,8 +2,14 @@
 title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 short_title: Mastering Remote Work for Agile Teams
 description: Practical strategies for remote Agile teams, covering communication, tool selection, value delivery, team dynamics, gamification, and integrating UX into software development.
+tldr: Remote work requires strong communication, the right tools, and a focus on delivering value, even when teams are not co-located. Improving feedback loops, observing team dynamics through activities like games, and integrating UX early in Agile processes all help teams collaborate better and build the right products. Development managers should prioritize open communication, continuous process improvement, and shared accountability for user experience to help their teams thrive in a digital environment.
 date: 2020-04-10T18:30:42Z
+lastmod: 2020-04-10T18:30:42Z
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: A8URbBCljnQ
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 aliases:
-- /resources/A8URbBCljnQ
+  - /resources/A8URbBCljnQ
 aliasesArchive:
-- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
-- /resources/27th-march-2020-office-hours-ask-me-anything
-- mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+  - /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+  - /resources/videos/27th-march-2020-office-hours-ask-me-anything
+  - /resources/27th-march-2020-office-hours-ask-me-anything
+  - mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Pragmatic Thinking
-- Team Collaboration
-- Remote Working
-- Agile Product Management
-- Agile Transformation
-- Backlog Refinement
-- Market Adaptability
-- Product Delivery
-- Scrum Team
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Remote Working
+  - Agile Product Management
+  - Agile Transformation
+  - Backlog Refinement
+  - Market Adaptability
+  - Product Delivery
+  - Scrum Team
 Watermarks:
   description: 2025-05-07T13:15:53Z
   short_title: 2025-07-07T17:58:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:16Z
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

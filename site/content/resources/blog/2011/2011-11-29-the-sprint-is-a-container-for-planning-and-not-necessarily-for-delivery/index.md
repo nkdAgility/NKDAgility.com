@@ -1,43 +1,46 @@
 ---
 title: The Sprint is a container for Planning and not necessarily for Delivery
 description: Explains how Scrum Sprints are primarily for planning, not fixed delivery, and discusses aligning delivery schedules, continuous deployment, and improving software quality.
+date: 2011-11-29
+lastmod: 2011-11-29
+weight: 230
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: 6USQKO75YgH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4092
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-29
-weight: 230
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliases:
-- /resources/6USQKO75YgH
+  - /resources/6USQKO75YgH
 aliasesArchive:
-- /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
-- /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
-- /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
-tags:
-- Continuous Delivery
-- Product Delivery
-- Software Development
-- Pragmatic Thinking
-- Technical Excellence
-- Working Software
-- Frequent Releases
-- Deployment Frequency
-- Engineering Practices
-- Operational Practices
-- Technical Mastery
+  - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+  - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+  - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-logo-128-link-2-2.png
+  - Engineering Excellence
+tags:
+  - Continuous Delivery
+  - Product Delivery
+  - Software Development
+  - Pragmatic Thinking
+  - Technical Excellence
+  - Working Software
+  - Frequent Releases
+  - Deployment Frequency
+  - Engineering Practices
+  - Operational Practices
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:09:49Z
-concepts: []
+ResourceImportId: 4092
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 I have been told time and again in the office that Scrum is an inflexible platform for developing software as it is way too prescriptive. This is far from reality and represents an invalid interpretation in the rules of the game. This fault lies not with those that have been turned away from the light, but with the fanatics that have brandished the burning torch and pitchfork at your door chanting "that is not Scrum because...".

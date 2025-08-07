@@ -2,8 +2,14 @@
 title: 'Stop Chasing Trends: How Real Agility and DevOps Build Resilient, Adaptable Teams'
 short_title: DevOps and Agile for Sustainable Adaptability
 description: Stop chasing trends—build real agility. Discover how DevOps and agile create resilient teams, smoother delivery, and sustainable adaptability.
+tldr: Focusing on real agility and DevOps means building adaptable teams and resilient systems, not just adopting the latest tools or trends. Key outcomes include smoother delivery, better feedback, and teams that can handle change without disruption. Prioritise embedding adaptability into your culture and processes so your teams can lead rather than react to change.
 date: 2025-06-27T06:00:23Z
+lastmod: 2025-06-27T06:00:23Z
 weight: 275
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: RGSGuURMqA0
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,42 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-chasing-trends-how-real-agility-and-devops-build-resilient-adaptable-teams
 aliases:
-- /resources/RGSGuURMqA0
-- /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
+  - /resources/RGSGuURMqA0
+  - /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
 aliasesArchive:
-- /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
-- 7-how-devops-agile-enable-sustainable-adaptability
+  - /resources/videos/7-how-devops-agile-enable-sustainable-adaptability
+  - 7-how-devops-agile-enable-sustainable-adaptability
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- DevOps
-- Product Development
-- Leadership
+  - DevOps
+  - Product Development
+  - Leadership
 tags:
-- Market Adaptability
-- Organisational Agility
-- Team Performance
-- Product Delivery
-- Software Development
-- Team Collaboration
-- Operational Practices
-- Pragmatic Thinking
-- Social Technologies
-- Change Management
+  - Market Adaptability
+  - Organisational Agility
+  - Team Performance
+  - Product Delivery
+  - Software Development
+  - Team Collaboration
+  - Organisational Change
+  - Operational Practices
+  - Pragmatic Thinking
+  - Social Technologies
+  - Change Management
 Watermarks:
   description: 2025-07-24T15:14:18Z
   short_title: 2025-07-24T15:14:18Z
+  tldr: 2025-08-07T12:10:46Z
 videoId: RGSGuURMqA0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RGSGuURMqA0/maxresdefault.jpg
 duration: 77
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 You don’t have to chase every new trend if you’ve built agility into your core. I see so many organisations scrambling to keep up with the latest frameworks, tools, or buzzwords—believing that if they just adopt the next big thing, they’ll finally be “agile.” But here’s the truth: when your systems are genuinely adaptable and your teams know how to respond to change, you’re not playing catch-up. You’re ready. You’re leading.

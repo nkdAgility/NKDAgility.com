@@ -1,32 +1,35 @@
 ---
 title: Scottish Visual Studio 2010 Launch event with Jason Zander
 description: Microsoft’s Edinburgh event features Jason Zander presenting Visual Studio 2010 updates, including Windows, Web, Cloud, and ALM tools for developers and testers.
+date: 2010-03-31
+lastmod: 2010-03-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6uW7o7pk9WZ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 57
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
 aliases:
-- /resources/6uW7o7pk9WZ
+  - /resources/6uW7o7pk9WZ
 aliasesArchive:
-- /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-- /scottish-visual-studio-2010-launch-event-with-jason-zander
-- /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-tags: []
+  - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+  - /scottish-visual-studio-2010-launch-event-with-jason-zander
+  - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:22:22Z
-concepts: []
+ResourceImportId: 57
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 ![image](images/ScottishVisualStudio2010Launcheventwith_125AE-image_-2-2.png)_Microsoft are hosting a launch event for Visual Studio 2010 on **Friday 16th April in Edinburgh**. The have managed to convince one of the head honchos from the Visual Studio product team to come to Scotland. With [Scott Guthrie last week in Glasgow](http://blog.hinshelwood.com/archive/2010/03/29/scott-guthrie-in-glasgow.aspx) and now [**Jason Zander**](http://blogs.msdn.com/jasonz/), Global General Manager for Visual Studio will be arriving in Edinburgh for the Launch event._

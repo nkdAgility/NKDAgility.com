@@ -2,53 +2,60 @@
 title: A better way than staggered iterations for delivery
 short_title: Better Alternatives to Staggered Iterations
 description: Explains why staggered iterations harm software delivery, increasing technical debt, and recommends cross-functional teams, test-first, and working software each sprint.
+tldr: Staggered iterations slow feedback, increase technical debt, and reduce software quality, making delivery less agile and more expensive. Instead, form cross-functional teams that deliver working software every iteration, integrate all required work including testing into each sprint, and automate as much as possible. Shift away from staged handoffs to continuous, team-owned delivery to improve value and quality.
 date: 2020-12-10
-weight: 155
+lastmod: 2020-12-10
+weight: 175
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: DOMFzBBMzfq
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /a-better-way-than-staggered-iterations-for-delivery
-- /resources/DOMFzBBMzfq
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+  - /blog/a-better-way-than-staggered-iterations-for-delivery
+  - /a-better-way-than-staggered-iterations-for-delivery
+  - /resources/DOMFzBBMzfq
+  - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 aliasesArchive:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /a-better-way-than-staggered-iterations-for-delivery
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+  - /blog/a-better-way-than-staggered-iterations-for-delivery
+  - /a-better-way-than-staggered-iterations-for-delivery
+  - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 layout: blog
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Scrum
-- Product Development
+  - Engineering Excellence
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Increment
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Working Software
-- Product Delivery
-- Team Performance
-- Technical Excellence
-- Product Developer
-- Agile Frameworks
+  - Software Development
+  - Increment
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Engineering Practices
+  - Operational Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Working Software
+  - Product Delivery
+  - Team Performance
+  - Technical Excellence
+  - Product Developer
+  - Agile Frameworks
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/better-way-staggered-iterations-delivery
-  post_date: 2021-01-10T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/better-way-staggered-iterations-delivery
+    post_date: 2021-01-10T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T13:15:16Z
   short_title: 2025-07-07T17:57:44Z
+  tldr: 2025-08-07T13:10:49Z
 ResourceImportId: 9915
 AudioNative: true
 creator: Martin Hinshelwood

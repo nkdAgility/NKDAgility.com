@@ -2,8 +2,14 @@
 title: What is the Single Most Valuable Outcome a Consulting Engagement Can Produce?
 short_title: Systemic Change as the Key Consulting Outcome
 description: The most valuable outcome of a consulting engagement is achieving systemic change—transforming organisational behaviours, systems, and culture for lasting business impact.
+tldr: The most valuable outcome of a consulting engagement is achieving systemic change that leads to lasting improvements in how the organization operates. This enables teams to work faster and respond to the market more effectively, but it requires overcoming resistance to change and fostering a culture of experimentation. Development managers should focus on building an environment where people are willing to try new approaches and continuously evolve.
 date: 2023-06-20T07:00:10Z
+lastmod: 2023-06-20T07:00:10Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: RLxGdd7nEZE
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 aliases:
-- /resources/RLxGdd7nEZE
-- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+  - /resources/RLxGdd7nEZE
+  - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 aliasesArchive:
-- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
-- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
-- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
-- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
-- what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+  - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+  - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+  - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+  - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+  - what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:11:28Z
   short_title: 2025-07-07T17:54:31Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:29Z
 videoId: RLxGdd7nEZE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
 duration: 134
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

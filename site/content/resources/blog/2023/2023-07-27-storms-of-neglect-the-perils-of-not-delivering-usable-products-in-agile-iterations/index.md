@@ -2,46 +2,53 @@
 title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
 short_title: Perils of Not Delivering Usable Agile Products
 description: Failing to deliver a usable product each agile iteration leads to lost trust, technical debt, poor adaptability, misaligned expectations, low morale, and lack of feedback.
+tldr: If teams do not deliver a usable product at the end of each iteration, trust with stakeholders erodes, technical debt grows, adaptability slows, and expectations become misaligned. This also leads to lower team morale and a lack of feedback, making it hard to improve or stay on track. To avoid these issues, ensure every iteration results in a usable product so you maintain trust, alignment, and the ability to adapt quickly.
 date: 2023-07-27
-weight: 305
+lastmod: 2023-07-27
+weight: 320
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: G1N1dQ6DNEV
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
-- /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /resources/G1N1dQ6DNEV
-- /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /resources/G1N1dQ6DNEV
+  - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliasesArchive:
-- /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+  - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Increment
-- Agile Product Management
-- Empirical Process Control
-- Pragmatic Thinking
-- Software Development
-- Working Software
-- Product Delivery
-- Value Delivery
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Agile Values and Principles
-- Transparency
+  - Increment
+  - Agile Product Management
+  - Empirical Process Control
+  - Pragmatic Thinking
+  - Software Development
+  - Working Software
+  - Product Delivery
+  - Value Delivery
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Transformation
+  - Agile Values and Principles
+  - Transparency
 Watermarks:
   description: 2025-05-07T13:10:34Z
   short_title: 2025-07-07T17:53:51Z
+  tldr: 2025-08-07T13:01:45Z
 ResourceImportId: 49502
 AudioNative: true
 creator: Martin Hinshelwood

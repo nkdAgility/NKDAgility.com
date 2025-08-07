@@ -2,8 +2,14 @@
 title: 'Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead'
 short_title: Rethinking Sprint Planning Without Burndowns
 description: Explains why burndown charts hinder agile teams, highlighting the pitfalls of detailed upfront planning and advocating for minimal, adaptive Sprint planning and continuous flow.
+tldr: Relying on burndown charts leads to excessive upfront planning, which is ineffective given the high uncertainty and frequent changes in software development. Instead, start each Sprint with only enough planning to begin work, then reassess and adjust daily to stay flexible and focused on delivering value. Shift your team’s approach to minimal, just-in-time planning to reduce overhead and respond better to change.
 date: 2024-01-09T07:00:05Z
-weight: 665
+lastmod: 2024-01-09T07:00:05Z
+weight: 655
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BtHASX2lgGo
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 aliases:
-- /resources/BtHASX2lgGo
-- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+  - /resources/BtHASX2lgGo
+  - /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+  - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 aliasesArchive:
-- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
-- /resources/5-kinds-of-agile-bandits-planning-bandits
-- rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+  - /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+  - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+  - /resources/5-kinds-of-agile-bandits-planning-bandits
+  - rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Pragmatic Thinking
-- Agile Planning
-- Software Development
+  - Personal
+  - Pragmatic Thinking
+  - Agile Planning
+  - Software Development
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:06:32Z
   short_title: 2025-07-07T17:50:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:17Z
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

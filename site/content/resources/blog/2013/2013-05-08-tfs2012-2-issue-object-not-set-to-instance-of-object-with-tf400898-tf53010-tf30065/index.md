@@ -1,43 +1,46 @@
 ---
 title: 'TFS2012.2 - Issue: Object not set to instance of object with TF400898, TF53010 & TF30065'
 description: Explains causes and solutions for "Object reference not set to an instance of an object" errors (TF400898, TF53010, TF30065) in TFS 2012.2, fixed in Update 3.
+date: 2013-05-08
+lastmod: 2013-05-08
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aTblgfZ5dUo
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9899
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-05-08
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 aliases:
-- /resources/blog/tfs2012.2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-- /resources/aTblgfZ5dUo
+  - /resources/blog/tfs2012.2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
+  - /resources/aTblgfZ5dUo
 aliasesArchive:
-- /blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-- /tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-- /tfs2012-2
-- /tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898,-tf53010-&-tf30065
-- /blog/tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898,-tf53010-&-tf30065
-- /tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898--tf53010-&-tf30065
-- /blog/tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898--tf53010-&-tf30065
-- /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-- /resources/blog/tfs2012.2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-tags:
-- Troubleshooting
-- Software Development
-- Install and Configuration
-- Windows
+  - /blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
+  - /tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
+  - /tfs2012-2
+  - /tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898,-tf53010-&-tf30065
+  - /blog/tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898,-tf53010-&-tf30065
+  - /tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898--tf53010-&-tf30065
+  - /blog/tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898--tf53010-&-tf30065
+  - /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
+  - /resources/blog/tfs2012.2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: puzzle-issue-problem-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:06:29Z
-concepts: []
+ResourceImportId: 9899
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: puzzle-issue-problem-128-link-4-4.png
 
 ---
 You may get an exception when working with Areas or Teams in Team Foundation Server 2012.2 that results in an Object not set to instance of object with TF51011, TF400898, TF53010 & TF30065 errors.

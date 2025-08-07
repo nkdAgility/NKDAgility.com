@@ -1,37 +1,40 @@
 ---
 title: Are you doing Scrum? Really?
 description: Explains recent changes to Scrum aimed at reducing rigidity, clarifying core practices, and providing a checklist to help teams assess if they are truly following Scrum.
+date: 2011-11-19
+lastmod: 2011-11-19
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: X1Hm4PJt0CV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4049
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-19
-weight: 530
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: are-you-doing-scrum-really
 aliases:
-- /resources/X1Hm4PJt0CV
+  - /resources/X1Hm4PJt0CV
 aliasesArchive:
-- /blog/are-you-doing-scrum-really
-- /are-you-doing-scrum-really
-- /are-you-doing-scrum--really-
-- /blog/are-you-doing-scrum--really-
-- /resources/blog/are-you-doing-scrum-really
-tags:
-- Agile Frameworks
-- Software Development
-- Professional Scrum
+  - /blog/are-you-doing-scrum-really
+  - /are-you-doing-scrum-really
+  - /are-you-doing-scrum--really-
+  - /blog/are-you-doing-scrum--really-
+  - /resources/blog/are-you-doing-scrum-really
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-3-3.png
+  - Scrum
+tags:
+  - Agile Frameworks
+  - Software Development
+  - Professional Scrum
 Watermarks:
   description: 2025-05-13T15:09:55Z
-concepts: []
+ResourceImportId: 4049
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---
 [![PSM Front Logo 1](images/Scrum.org-Logo_500x118_thumb-4-4.png "PSM Front Logo 1")](http://blog.hinshelwood.com/files/2011/11/Scrum.org-Logo_500x118.png)This week I was at the ALM Summit in Redmond. There was a very interesting talk from David Starr of Scrum.org going over the recent changes in Scrum. These changes are, I think, designed to battle the things that have made Scrum unpalatable to many people.

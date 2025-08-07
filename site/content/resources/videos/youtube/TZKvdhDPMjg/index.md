@@ -2,8 +2,14 @@
 title: One thing a client can do to ensure a successful Agile consulting engagement
 short_title: Ensuring Success in Agile Consulting Engagements
 description: Encouraging clients to embrace provocation and critical questioning helps drive mindset shifts, enabling more effective Agile consulting and lasting organisational change.
+tldr: The most important thing a client can do for a successful Agile consulting engagement is to be open to being challenged and provoked to rethink their current ways of working. Allowing consultants to question established practices helps uncover hidden issues and drives meaningful change. Development managers should encourage honest dialogue and introspection to enable real improvement and agility.
 date: 2023-05-05T07:00:10Z
-weight: 790
+lastmod: 2023-05-05T07:00:10Z
+weight: 670
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: TZKvdhDPMjg
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 aliases:
-- /resources/TZKvdhDPMjg
-- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
-- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
-- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+  - /resources/TZKvdhDPMjg
+  - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+  - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+  - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 aliasesArchive:
-- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
-- /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
-- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
-- one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
-- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+  - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+  - /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+  - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+  - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+  - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+  - one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+  - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:40Z
   short_title: 2025-07-07T17:55:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:29Z
 videoId: TZKvdhDPMjg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

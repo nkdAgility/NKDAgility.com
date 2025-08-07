@@ -2,8 +2,14 @@
 title: How to Choose the Right Agile Coach for Your Business Success
 short_title: How to Choose the Right Agile Coach
 description: Learn how to select an Agile coach who is adaptable, experienced across frameworks, and focused on your business needs, ensuring tailored solutions and continuous improvement.
+tldr: To get the most value from Agile coaching, choose someone who is adaptable, experienced across multiple frameworks, and committed to continuous learning rather than a coach who only uses one method. A versatile coach will tailor their approach to your team's unique needs and challenges, leading to better outcomes. When hiring, ask about their experience with different industries and how they customize solutions so you get guidance that truly fits your business.
 date: 2023-11-24T11:00:52Z
-weight: 840
+lastmod: 2023-11-24T11:00:52Z
+weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: vXCIf3eBJfs
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-choose-the-right-agile-coach-for-your-business-success
 aliases:
-- /resources/vXCIf3eBJfs
-- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
-- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
+  - /resources/vXCIf3eBJfs
+  - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
+  - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
+  - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
 aliasesArchive:
-- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
-- /resources/how-to-choose-the-right-agile-coach-for-your-business-success
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
-- how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
+  - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
+  - /resources/how-to-choose-the-right-agile-coach-for-your-business-success
+  - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
+  - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
+  - how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agnostic Agile
-- Agile Transformation
+  - Agnostic Agile
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:07:32Z
   short_title: 2025-07-07T17:51:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:22Z
 videoId: vXCIf3eBJfs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
 duration: 35
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

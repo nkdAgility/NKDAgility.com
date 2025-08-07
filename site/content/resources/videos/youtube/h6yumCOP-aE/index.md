@@ -2,8 +2,14 @@
 title: 3 best ways to wreck Kanban. Don't have a working agreement.
 short_title: 'Kanban Failure: No Working Agreement'
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
+tldr: Not having a working agreement causes chaos, misalignment, and inefficiency in teams using Kanban or similar frameworks. Clear agreements on roles, goals, processes, and workflows are essential for team alignment and success. Development managers should ensure their teams regularly create and review working agreements to avoid confusion and improve outcomes.
 date: 2024-03-01T07:00:17Z
+lastmod: 2024-03-01T07:00:17Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: h6yumCOP-aE
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 3-best-ways-to-wreck-kanban-don't-have-a-working-agreement
 aliases:
-- /resources/h6yumCOP-aE
-- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
+  - /resources/h6yumCOP-aE
+  - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 aliasesArchive:
-- /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
-- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
-- /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
-- 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
-- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
-- 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
+  - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+  - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+  - /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+  - /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+  - 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+  - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+  - 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Working Agreements
-- Team Performance
-- Pragmatic Thinking
-- Team Collaboration
+  - Team Collaboration
+  - Operational Practices
+  - Working Agreements
+  - Team Performance
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:31Z
   short_title: 2025-07-07T17:49:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:16Z
 videoId: h6yumCOP-aE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
 duration: 302
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

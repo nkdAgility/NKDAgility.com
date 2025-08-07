@@ -1,45 +1,48 @@
 ---
 title: Searching for self-organisation
 description: Explores the challenges and benefits of self-organising teams, highlighting key factors like team accountability, identity, size, and consistency for effective collaboration.
+date: 2013-07-31
+lastmod: 2013-07-31
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: EjoEHTWiJtf
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9741
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-31
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: searching-for-self-organisation
 aliases:
-- /resources/EjoEHTWiJtf
+  - /resources/EjoEHTWiJtf
 aliasesArchive:
-- /blog/searching-for-self-organisation
-- /searching-for-self-organisation
-- /resources/blog/searching-for-self-organisation
-tags:
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Social Technologies
-- Self Organisation
-- Organisational Agility
-- Team Performance
-- Agile Philosophy
-- Sociotechnical Systems
-- Organisational Culture
-- Scrum Team
-- Pragmatic Thinking
+  - /blog/searching-for-self-organisation
+  - /searching-for-self-organisation
+  - /resources/blog/searching-for-self-organisation
+layout: blog
+concepts: []
 categories:
-- Leadership
-- Scrum
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Leadership
+  - Scrum
+tags:
+  - Agile Values and Principles
+  - Team Collaboration
+  - Team Motivation
+  - Social Technologies
+  - Self Organisation
+  - Organisational Agility
+  - Team Performance
+  - Agile Philosophy
+  - Sociotechnical Systems
+  - Organisational Culture
+  - Scrum Team
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-12T14:23:30Z
-concepts: []
+ResourceImportId: 9741
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.

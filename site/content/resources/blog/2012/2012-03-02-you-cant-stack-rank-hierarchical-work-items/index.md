@@ -1,37 +1,40 @@
 ---
 title: You can't stack rank hierarchical work items?
 description: Explains why stack ranking hierarchical work items is challenging in agile software development, highlighting issues with ordering, parent-child links, and best practices.
+date: 2012-03-02
+lastmod: 2012-03-02
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: u9Eh1rXDhGE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4773
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-03-02
-weight: 530
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: you-cant-stack-rank-hierarchical-work-items
+slug: you-can't-stack-rank-hierarchical-work-items
 aliases:
-- /resources/blog/you-can-t-stack-rank-hierarchical-work-items
-- /resources/u9Eh1rXDhGE
+  - /resources/blog/you-can-t-stack-rank-hierarchical-work-items
+  - /resources/u9Eh1rXDhGE
 aliasesArchive:
-- /blog/you-cant-stack-rank-hierarchical-work-items
-- /you-cant-stack-rank-hierarchical-work-items
-- /you-can't-stack-rank-hierarchical-work-items-
-- /blog/you-can't-stack-rank-hierarchical-work-items-
-- /resources/blog/you-cant-stack-rank-hierarchical-work-items
-- /resources/blog/you-can-t-stack-rank-hierarchical-work-items
-tags:
-- Software Development
+  - /blog/you-cant-stack-rank-hierarchical-work-items
+  - /you-cant-stack-rank-hierarchical-work-items
+  - /you-can't-stack-rank-hierarchical-work-items-
+  - /blog/you-can't-stack-rank-hierarchical-work-items-
+  - /resources/blog/you-cant-stack-rank-hierarchical-work-items
+  - /resources/blog/you-can-t-stack-rank-hierarchical-work-items
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-14-14.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:13Z
-concepts: []
+ResourceImportId: 4773
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---
 At the MVP Summit I was appalled by the number of people who asked questions about new features for supporting hierarchical _tasks_! I shared a disgusted look with [Peter Provost](https://www.linkedin.com/in/peterprovost/) and we had a quick (and I mean really quick) conversation that resulted in this post. it really comes down to one thing:

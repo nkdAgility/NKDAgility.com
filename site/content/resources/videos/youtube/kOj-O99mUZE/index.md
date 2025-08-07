@@ -2,8 +2,14 @@
 title: Overview of the 'scaling with portfolio Kanban' course
 short_title: Scaling with Portfolio Kanban Course Overview
 description: Learn how to apply Kanban at the organisational level to optimise workflow, improve predictability, and make data-driven decisions across multiple teams and projects.
+tldr: The "Scaling Portfolio Kanban" course helps development leaders move from team-level to organization-wide workflow management, enabling better visibility, predictability, and value delivery across multiple teams. Key outcomes include improved forecasting, data-driven decision-making, and optimized flow of high-value projects. If your current workflow lacks predictability or efficiency, consider applying these Kanban strategies to drive measurable improvement.
 date: 2024-02-22T07:00:26Z
+lastmod: 2024-02-22T07:00:26Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: kOj-O99mUZE
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: overview-of-the-'scaling-with-portfolio-kanban'-course
 aliases:
-- /resources/kOj-O99mUZE
-- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course
+  - /resources/kOj-O99mUZE
+  - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
+  - /resources/videos/overview-of-scaling-with-portfolio-kanban-course
 aliasesArchive:
-- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
-- /resources/overview-of-scaling-with-portfolio-kanban-course-
-- overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course
+  - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
+  - /resources/overview-of-the-scaling-with-portfolio-kanban-course
+  - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
+  - /resources/overview-of-scaling-with-portfolio-kanban-course-
+  - overview-of-the-scaling-with-portfolio-kanban-course
+  - /resources/videos/overview-of-scaling-with-portfolio-kanban-course
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Scaling
-- Agile Frameworks
-- Portfolio Management
+  - Operational Practices
+  - Scaling
+  - Agile Frameworks
+  - Portfolio Management
 Watermarks:
   description: 2025-05-07T13:05:38Z
   short_title: 2025-07-07T17:49:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:30Z
 videoId: kOj-O99mUZE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

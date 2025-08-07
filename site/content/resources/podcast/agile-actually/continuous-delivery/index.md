@@ -2,8 +2,14 @@
 title: Continuous Delivery
 short_title: Continuous Delivery
 description: This podcast discusses the role of precise language and transparency in Agile, highlighting how word choice impacts communication, delivery, and team effectiveness.
+tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is crucial for transparency and effective communication in Agile environments. They highlight that clarity in terminology directly impacts team alignment and delivery outcomes. Development managers should ensure their teams use clear, shared language to avoid misunderstandings and improve collaboration.
 date: 2023-11-23
-weight: 1000
+lastmod: 2023-11-23
+weight: 855
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: pGqagcI_q5y
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: continuous-delivery
 aliases:
-- /resources/pGqagcI_q5y
+  - /resources/pGqagcI_q5y
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:07:37Z
   short_title: 2025-07-07T17:51:34Z
+  tldr: 2025-08-07T12:56:30Z
 resourceTypes: podcast
 
 ---

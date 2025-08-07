@@ -2,8 +2,14 @@
 title: Are Your Teams Empowered to Change Requirements Based on User Feedback? If Not, You’re Probably Not Very Agile
 short_title: Empowering Teams to Adapt Requirements Agilely
 description: Empowering teams to adapt requirements based on user feedback is key to true agility. Learn why backlog updates and team engagement drive better, user-focused products.
+tldr: Empowering teams to update or delete requirements based on user feedback is essential for true agility and delivering maximum value. Regularly engaging with the product team, keeping the backlog dynamic, and being willing to pivot or remove features ensures your product stays relevant and user-focused. Review your processes to make sure your teams have the authority and support to make these changes.
 date: 2024-07-17T06:45:01Z
+lastmod: 2024-07-17T06:45:01Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: qRHzl4PieKA
 ResourceImport: true
 ResourceType: videos
@@ -11,52 +17,50 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 aliases:
-- /resources/qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+  - /resources/qRHzl4PieKA
+  - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+  - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
 aliasesArchive:
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
-- are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
+  - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+  - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+  - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+  - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+  - are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+  - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Focus
-- Product Backlog
-- Agile Strategy
-- Business Agility
-- Customer Feedback Loops
-- Team Collaboration
-- Value Delivery
-- Working Software
-- Organisational Agility
-- Software Development
-- Empirical Process Control
-- Product Delivery
-- Team Performance
-- Agile Frameworks
-- Continuous Improvement
+  - Customer Focus
+  - Product Backlog
+  - Value Delivery
+  - Agile Strategy
+  - Business Agility
+  - Customer Feedback Loops
+  - Team Collaboration
+  - Working Software
+  - Organisational Agility
+  - Software Development
+  - Empirical Process Control
+  - Product Delivery
+  - Team Performance
+  - Agile Frameworks
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:02:34Z
   short_title: 2025-07-07T17:48:59Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:52Z
 videoId: qRHzl4PieKA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
 duration: 59
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

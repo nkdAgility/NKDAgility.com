@@ -1,40 +1,42 @@
 ---
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
 description: Provides ALM consulting, training, and assessments across Scotland, UK, and Europe, specialising in lean-agile, TFS, Visual Studio, Scrum, and process improvement.
+date: 2013-11-11
+lastmod: 2013-11-11
+weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: ETl5K8OQ9kV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10226
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-11-11
-weight: 390
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: alm-consulting-scotland-uk-scandinavia-europe
+slug: alm-consulting-in-scotland-uk-scandinavia-amp-europe
 aliases:
-- /resources/blog/alm-consulting-in-scotland-uk-scandinavia-amp-europe
-- /resources/ETl5K8OQ9kV
+  - /resources/ETl5K8OQ9kV
 aliasesArchive:
-- /blog/alm-consulting-scotland-uk-scandinavia-europe
-- /alm-consulting-scotland-uk-scandinavia-europe
-- /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
-- /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
-- /resources/blog/alm-consulting-in-scotland-uk-scandinavia-amp-europe
-tags:
-- Software Development
-- Application Lifecycle Management
+  - /blog/alm-consulting-scotland-uk-scandinavia-europe
+  - /alm-consulting-scotland-uk-scandinavia-europe
+  - /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+  - /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+  - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+  - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+  - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
+  - /resources/blog/alm-consulting-in-scotland-uk-scandinavia-amp-europe
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Application Lifecycle Management
 Watermarks:
   description: 2025-05-12T14:22:52Z
-concepts: []
+ResourceImportId: 10226
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, that's me started ALM Consulting in Scotland, UK & Europe as naked ALM Consulting – Martin Hinshelwood. As I write this I am on a train on my way to my first engagement in the north of England is what looks to be and awesome group of folks to talk a little Scrum and Team Foundation Build.

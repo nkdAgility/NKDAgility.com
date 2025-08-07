@@ -2,8 +2,14 @@
 title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 short_title: 'Azure DevOps Migration: Lessons & Insights'
 description: Personal experiences and lessons on using Azure DevOps, covering its evolution, migration strategies, custom tools, and practical advice for optimising DevOps workflows.
+tldr: Azure DevOps has evolved from TFS to a powerful, flexible platform that can transform team workflows, but successful adoption and migration require careful planning and sometimes custom solutions. Key lessons include the importance of assessing your environment, choosing the right migration tools, and leveraging expert guidance for complex needs. Development managers should ensure their teams are trained and consider consulting support to maximize the benefits and scalability of Azure DevOps.
 date: 2024-07-31T09:21:03Z
-weight: 665
+lastmod: 2024-07-31T09:21:03Z
+weight: 635
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: isU2kPc5HFw
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 aliases:
-- /resources/isU2kPc5HFw
-- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
+  - /resources/isU2kPc5HFw
+  - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+  - /resources/videos/talk-us-through-your-experience-with-azure-devops
 aliasesArchive:
-- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/talk-us-through-your-experience-with-azure-devops
-- the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+  - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+  - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+  - /resources/videos/talk-us-through-your-experience-with-azure-devops
+  - /resources/talk-us-through-your-experience-with-azure-devops
+  - the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 source: internal
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
+  - DevOps
 tags:
-- Azure DevOps
-- Software Development
-- Pragmatic Thinking
-- Personal
+  - Azure DevOps
+  - Software Development
+  - Pragmatic Thinking
+  - Product Delivery
+  - Technical Mastery
+  - Personal
 Watermarks:
   description: 2025-05-07T13:02:24Z
   short_title: 2025-07-07T17:48:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:28Z
 videoId: isU2kPc5HFw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

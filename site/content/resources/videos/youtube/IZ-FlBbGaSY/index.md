@@ -2,8 +2,14 @@
 title: Building a culture of Quality
 short_title: Building a Culture of Quality
 description: Explores how fostering a culture of quality and engineering excellence across teams leads to better, safer products, highlighting the impact of leadership and shared values.
+tldr: A culture of quality cannot be built by one person; it requires everyone in the organization to demonstrate and model technical excellence and leadership. Focusing only on revenue, as seen in Boeing's decline, undermines quality and can lead to dangerous outcomes, while a strong culture of quality leads to better, safer products. Development managers should prioritize building and reinforcing engineering excellence and technical leadership across teams, using frameworks and tools as enablers rather than solutions.
 date: 2024-11-22T07:00:08Z
-weight: 150
+lastmod: 2024-11-22T07:00:08Z
+weight: 165
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: IZ-FlBbGaSY
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: building-a-culture-of-quality
 aliases:
-- /resources/IZ-FlBbGaSY
-- /resources/videos/building-a-culture-of-quality
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+  - /resources/IZ-FlBbGaSY
+  - /resources/videos/building-a-culture-of-quality
+  - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 aliasesArchive:
-- /resources/videos/building-a-culture-of-quality
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- building-a-culture-of-quality
+  - /resources/videos/building-a-culture-of-quality
+  - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+  - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+  - building-a-culture-of-quality
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Engineering Excellence
-- Technical Leadership
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Technical Excellence
-- Engineering Practices
-- Product Delivery
-- Software Development
-- Value Delivery
-- Working Software
-- Azure Pipelines
+  - Technical Excellence
+  - Engineering Practices
+  - Product Delivery
+  - Software Development
+  - Value Delivery
+  - Working Software
 Watermarks:
   description: 2025-05-07T12:57:08Z
   short_title: 2025-07-07T17:47:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:47Z
 videoId: IZ-FlBbGaSY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,37 +1,40 @@
 ---
 title: 'Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012'
 description: Installing Office 2013 on a system with Visual Studio 2012 RC can cause C++ runtime errors. Apply the July 2012 update to resolve compatibility issues and restore functionality.
+date: 2012-07-17
+lastmod: 2012-07-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ScEwWPyBqLw
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6288
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 aliases:
-- /resources/ScEwWPyBqLw
+  - /resources/ScEwWPyBqLw
 aliasesArchive:
-- /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
-- /office-2013-issue-installing-office-2013-breaks-visual-studio-2012
-- /office-2013-issue--installing-office-2013-breaks-visual-studio-2012
-- /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
-- /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
-tags:
-- Troubleshooting
-- Install and Configuration
-- Windows
+  - /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
+  - /office-2013-issue-installing-office-2013-breaks-visual-studio-2012
+  - /office-2013-issue--installing-office-2013-breaks-visual-studio-2012
+  - /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
+  - /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:08:35Z
-concepts: []
+ResourceImportId: 6288
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-4-4.png
 
 ---
 After installing Office 2013 on a machine with Visual Studio 2012 you get a “The procedure entry point \_Atomic_fetch_sub_4 could not be located in the dynamic link library c:Program Files (x86)Microsoft Visual Studio 11.0Common7IDEdevenv.exe” error when trying to load Visual Studio 2012.

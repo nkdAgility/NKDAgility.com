@@ -1,37 +1,40 @@
 ---
 title: Guidance - Branching for each Sprint
 description: Explains how using a separate version control branch for each sprint in Scrum improves code stability, release management, and team collaboration over using labels.
+date: 2010-04-08
+lastmod: 2010-04-08
+weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: hPGpt57lpYZ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 56
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-08
-weight: 330
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: guidance-branching-for-each-sprint
 aliases:
-- /resources/hPGpt57lpYZ
+  - /resources/hPGpt57lpYZ
 aliasesArchive:
-- /blog/guidance-branching-for-each-sprint
-- /guidance-branching-for-each-sprint
-- /guidance
-- /guidance---branching-for-each-sprint
-- /blog/guidance---branching-for-each-sprint
-- /resources/blog/guidance-branching-for-each-sprint
+  - /blog/guidance-branching-for-each-sprint
+  - /guidance-branching-for-each-sprint
+  - /guidance
+  - /guidance---branching-for-each-sprint
+  - /blog/guidance---branching-for-each-sprint
+  - /resources/blog/guidance-branching-for-each-sprint
+layout: blog
+concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
-- Modern Source Control
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Software Development
+  - Modern Source Control
 Watermarks:
   description: 2025-05-13T15:22:19Z
-concepts: []
+ResourceImportId: 56
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!

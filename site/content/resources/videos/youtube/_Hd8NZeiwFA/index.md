@@ -2,8 +2,14 @@
 title: Why the Concept of a "Junior Scrum Master" is a Misguided Myth
 short_title: The Myth of the Junior Scrum Master
 description: Explains why the Scrum Master role requires experience and competence, debunking the myth of a "junior" Scrum Master and highlighting the need for proven skills in Agile teams.
+tldr: The idea of a "junior Scrum Master" is misleading because the role demands significant experience, technical knowledge, and the ability to navigate complex team and organisational dynamics. Assigning this responsibility to inexperienced team members undermines both individual growth and team effectiveness. Development managers should ensure that Scrum Masters are chosen based on proven competence and relevant experience, not as entry-level positions.
 date: 2025-02-24T07:26:46Z
+lastmod: 2025-02-24T07:26:46Z
 weight: 600
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: _Hd8NZeiwFA
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 aliases:
-- /resources/_Hd8NZeiwFA
-- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
-- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
+  - /resources/_Hd8NZeiwFA
+  - /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+  - /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
 aliasesArchive:
-- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
-- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
-- why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+  - /resources/_gyzx59-AJk
+  - /resources/videos/_gyzx59-AJk
+  - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+  - /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
+  - why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
+  - Scrum
+  - Technical Leadership
 tags:
-- Competence
-- Scrum Master
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
+  - Competence
+  - Scrum Master
+  - Social Technologies
+  - Agile Frameworks
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:49:31Z
   short_title: 2025-07-07T17:46:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:57Z
 videoId: _Hd8NZeiwFA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
 duration: 618
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

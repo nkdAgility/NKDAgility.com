@@ -1,34 +1,37 @@
 ---
 title: What about hosting the Tfs Automation Platform
 description: Explores options for hosting the TFS Automation Platform, comparing server-side and client-only setups, and discusses impacts on functionality, resilience, and multi-user support.
+date: 2011-05-31
+lastmod: 2011-05-31
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: je145Y3qB7P
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3365
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-05-31
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: what-about-hosting-the-tfs-automation-platform-2
+slug: what-about-hosting-the-tfs-automation-platform
 aliases:
-- /resources/je145Y3qB7P
+  - /resources/je145Y3qB7P
 aliasesArchive:
-- /blog/what-about-hosting-the-tfs-automation-platform-2
-- /what-about-hosting-the-tfs-automation-platform-2
-- /what-about-hosting-the-tfs-automation-platform
-- /blog/what-about-hosting-the-tfs-automation-platform
-- /resources/blog/what-about-hosting-the-tfs-automation-platform-2
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/what-about-hosting-the-tfs-automation-platform-2
+  - /what-about-hosting-the-tfs-automation-platform-2
+  - /what-about-hosting-the-tfs-automation-platform
+  - /blog/what-about-hosting-the-tfs-automation-platform
+  - /resources/blog/what-about-hosting-the-tfs-automation-platform-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:53Z
-concepts: []
+ResourceImportId: 3365
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:

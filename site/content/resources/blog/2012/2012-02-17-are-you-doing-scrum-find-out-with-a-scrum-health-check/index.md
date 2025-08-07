@@ -1,34 +1,37 @@
 ---
 title: Are you doing Scrum? Find out with a Scrum Health Check!
 description: Assess your team's Scrum practices with a quick health check to identify improvement areas, track progress, and ensure alignment with Scrum principles and goals.
+date: 2012-02-17
+lastmod: 2012-02-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: sd5d5KYoXsO
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4406
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliases:
-- /resources/sd5d5KYoXsO
+  - /resources/sd5d5KYoXsO
 aliasesArchive:
-- /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
-- /are-you-doing-scrum-find-out-with-a-scrum-health-check
-- /are-you-doing-scrum--find-out-with-a-scrum-health-check-
-- /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
-- /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
-tags: []
+  - /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
+  - /are-you-doing-scrum-find-out-with-a-scrum-health-check
+  - /are-you-doing-scrum--find-out-with-a-scrum-health-check-
+  - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
+  - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:25Z
-concepts: []
+ResourceImportId: 4406
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 I posted before about [how you know that you are doing Scrum, or not](http://blog.hinshelwood.com/are-you-doing-scrum-really/), but how do you! This is something that has been banded about both in the Scrum.org community and within Northwest Cadence for a while and we have come to the conclusion that we need to check!

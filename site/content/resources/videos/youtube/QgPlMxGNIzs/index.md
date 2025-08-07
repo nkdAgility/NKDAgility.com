@@ -2,8 +2,14 @@
 title: How do you think Agile is evolving since its inception in 2001?
 short_title: How Agile Is Evolving Since 2001
 description: Explores how Agile has shifted from top-down management to decentralised decision-making, highlighting ongoing challenges and the move towards true organisational agility.
+tldr: Agile has evolved since 2001, but many organizations still rely on top-down management rather than empowering teams to make decisions. The next major shift will be moving beyond just adopting frameworks like Scrum to building true agile capabilities across leadership, partners, and teams, focusing on adaptability and customer value. Development managers should revisit agile principles and work to remove barriers that prevent teams from responding quickly to change.
 date: 2023-02-15T07:00:07Z
+lastmod: 2023-02-15T07:00:07Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: QgPlMxGNIzs
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 aliases:
-- /resources/QgPlMxGNIzs
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+  - /resources/QgPlMxGNIzs
+  - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 aliasesArchive:
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+  - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
+  - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+  - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+  - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+  - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+  - how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Agile Philosophy
-- Agile Values and Principles
+  - Software Development
+  - Agile Frameworks
+  - Social Technologies
+  - Agile Transformation
+  - Organisational Agility
+  - Agile Philosophy
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:14:05Z
   short_title: 2025-07-07T17:56:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:20Z
 videoId: QgPlMxGNIzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

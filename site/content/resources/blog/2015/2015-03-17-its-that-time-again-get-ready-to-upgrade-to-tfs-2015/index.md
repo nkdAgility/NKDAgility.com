@@ -1,36 +1,43 @@
 ---
 title: It's that time again; get ready to upgrade to TFS 2015
+short_title: Upgrade to Team Foundation Server 2015
 description: Plan your upgrade to Team Foundation Server 2015 as support for TFS 2010 ends soon. Prepare for major schema changes, lengthy upgrades, and new feature access.
+tldr: Mainstream support for TFS 2010 ends in July 2015, so you should start planning your upgrade to TFS 2015 now. The upgrade will be complex and time-consuming due to major schema changes, especially for large databases, so run a trial upgrade in a recovery environment to estimate the effort required. Begin preparations early to avoid downtime and ensure continued support for your development teams.
+date: 2015-03-17
+lastmod: 2015-03-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 7gr-fTIcGUp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11241
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-03-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+slug: it's-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
-- /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /resources/7gr-fTIcGUp
+  - /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
+  - /resources/7gr-fTIcGUp
 aliasesArchive:
-- /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
-- /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
-- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
-tags: []
+  - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+  - /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+  - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+  - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+  - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+  - /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:19:55Z
-concepts: []
+  tldr: 2025-08-07T13:25:24Z
+  short_title: 2025-08-07T13:25:25Z
+ResourceImportId: 11241
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---
 With the release of Team Foundation Server 2015 CTP you should be starting to plan your upgrade strategy. It's going to be a tough one but you should get ready to upgrade to TFS 2015 now.

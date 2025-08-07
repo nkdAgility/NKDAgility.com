@@ -1,33 +1,36 @@
 ---
 title: The new normal of the modern application lifecycle
 description: Explores how rapid technological change, consumer expectations, and agile practices are reshaping software development, IT roles, and business relevance in the digital era.
+date: 2012-10-10
+lastmod: 2012-10-10
+weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: 4xvg8avKMPA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8885
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-10-10
-weight: 505
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
-- /resources/4xvg8avKMPA
+  - /resources/4xvg8avKMPA
 aliasesArchive:
-- /blog/the-new-normal-of-the-modern-application-lifecycle
-- /the-new-normal-of-the-modern-application-lifecycle
-- /resources/blog/the-new-normal-of-the-modern-application-lifecycle
-tags:
-- Software Development
+  - /blog/the-new-normal-of-the-modern-application-lifecycle
+  - /the-new-normal-of-the-modern-application-lifecycle
+  - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-new-normal-icon-28-28.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:07:29Z
-concepts: []
+ResourceImportId: 8885
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-new-normal-icon-28-28.png
 
 ---
 The new normal for software development is the theme for the keynote at the [Visual Studio Launch Roadshows](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/) that I will be speaking at this week I have been doing a little research.

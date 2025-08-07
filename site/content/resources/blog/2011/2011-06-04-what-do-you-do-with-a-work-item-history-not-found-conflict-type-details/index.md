@@ -1,34 +1,37 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
 description: Explains how missing or non-consecutive work item revision history during TFS migrations causes conflicts, and details troubleshooting steps and unresolved backlog issues.
+date: 2011-06-04
+lastmod: 2011-06-04
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: XOt3b4gzyH8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3460
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-04
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
-- /resources/XOt3b4gzyH8
+  - /resources/XOt3b4gzyH8
 aliasesArchive:
-- /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-- /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+  - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+  - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:39Z
-concepts: []
+ResourceImportId: 3460
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-4-4.png
 
 ---
 ![](images/image_thumb-1-1.png)

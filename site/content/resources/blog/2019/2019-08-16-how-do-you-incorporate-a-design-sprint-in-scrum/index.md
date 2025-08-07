@@ -2,33 +2,41 @@
 title: How do you incorporate a Design Sprint in Scrum?
 short_title: Incorporating Design Sprints into Scrum
 description: Explains how to integrate Design Sprint activities within Scrum by embedding design and UX work into regular sprints and backlog refinement, avoiding separate design sprints.
+tldr: Design Sprints should not be treated as separate or special sprints in Scrum; instead, design and UX work should be integrated into regular sprints as part of the team's ongoing activities or handled during backlog refinement for future work. All team members should collaborate on these tasks, leveraging individual skills without creating silos or specialist-only phases. Development managers should ensure design activities are visible, collaborative, and aligned with sprint goals, using communities of practice to share knowledge across teams.
 date: 2019-08-16
+lastmod: 2019-08-16
 weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: MHeGFYrasBx
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
-- /resources/MHeGFYrasBx
+  - /resources/MHeGFYrasBx
 aliasesArchive:
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
-- /how-do-you-incorporate-a-design-sprint-in-scrum
-- /how-do-you-incorporate-a-design-sprint-in-scrum-
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
-- /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
+  - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+  - /how-do-you-incorporate-a-design-sprint-in-scrum
+  - /how-do-you-incorporate-a-design-sprint-in-scrum-
+  - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
+  - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Product Developer
+  - Software Development
+  - Social Technologies
+  - Agile Frameworks
+  - Product Developer
 Watermarks:
   description: 2025-05-07T13:16:15Z
   short_title: 2025-07-07T17:58:32Z
+  tldr: 2025-08-07T13:13:11Z
 ResourceImportId: 39682
 creator: Martin Hinshelwood
 resourceTypes: blog

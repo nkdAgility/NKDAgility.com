@@ -2,46 +2,53 @@
 title: Pragmatism crushes Dogma in the wild
 short_title: Pragmatism vs Dogma in Scrum and Adaptability
 description: Explores how practical use of Scrum fosters adaptability and resilience in teams, highlighting the value of flexibility over rigid rules in complex product development.
+tldr: Practical use of Scrum in a mentoring program showed that teams succeed by focusing on adaptability and resilience rather than rigidly following rules. Key insights include the importance of making work visible, inspecting progress, and quickly adapting to change, as outlined in the Scrum Guide. Development managers should prioritize flexibility within Scrum’s essential guardrails to help teams handle real-world challenges effectively.
 date: 2024-03-21
+lastmod: 2024-03-21
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: mkdhLrKu8sh
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
-- /blog/pragmatism-crushes-dogma-in-the-wild
-- /pragmatism-crushes-dogma-in-the-wild
-- /resources/mkdhLrKu8sh
-- /resources/blog/pragmatism-crushes-dogma-in-the-wild
+  - /blog/pragmatism-crushes-dogma-in-the-wild
+  - /pragmatism-crushes-dogma-in-the-wild
+  - /resources/mkdhLrKu8sh
+  - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 aliasesArchive:
-- /blog/pragmatism-crushes-dogma-in-the-wild
-- /pragmatism-crushes-dogma-in-the-wild
-- /resources/blog/pragmatism-crushes-dogma-in-the-wild
+  - /blog/pragmatism-crushes-dogma-in-the-wild
+  - /pragmatism-crushes-dogma-in-the-wild
+  - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Planning
-- Empirical Process Control
-- Organisational Agility
-- Agile Frameworks
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Pragmatic Thinking
-- Team Performance
-- Agile Transformation
-- Product Delivery
-- Scrum Master
-- Agile Philosophy
-- Market Adaptability
+  - Empirical Process Control
+  - Agile Planning
+  - Organisational Agility
+  - Agile Frameworks
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Pragmatic Thinking
+  - Team Performance
+  - Agile Transformation
+  - Product Delivery
+  - Scrum Master
+  - Agile Philosophy
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T13:05:24Z
   short_title: 2025-07-07T17:49:27Z
+  tldr: 2025-08-07T12:52:04Z
 ResourceImportId: 51362
 AudioNative: true
 creator: Martin Hinshelwood

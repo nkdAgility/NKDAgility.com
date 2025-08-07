@@ -2,36 +2,43 @@
 title: Professional Scrum Training for the Ghana Police Service
 short_title: Professional Scrum Training for Ghana Police
 description: Professional Scrum training introduced Ghana Police officers to Agile methods, using hands-on sprints to support organisational change and collaboration in policing.
+tldr: The Ghana Police Service began grassroots Scrum training with its first Professional Scrum Foundations classes, introducing officers with little IT experience to agile practices through hands-on software sprints. Key outcomes included increased engagement, practical understanding of Scrum, and improved alignment between training and police work after adjusting the approach based on feedback. For future success, ensure participants receive clear pre-class communication about objectives and context, especially when introducing agile methods to non-technical teams.
 date: 2017-10-30
+lastmod: 2017-10-30
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: ozXMaDX0lvp
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: professional-scrum-training-for-the-ghana-police-service
 aliases:
-- /resources/ozXMaDX0lvp
+  - /resources/ozXMaDX0lvp
 aliasesArchive:
-- /blog/professional-scrum-training-ghana-police-service
-- /professional-scrum-training-ghana-police-service
-- /professional-scrum-training-for-the-ghana-police-service
-- /blog/professional-scrum-training-for-the-ghana-police-service
-- /resources/blog/professional-scrum-training-ghana-police-service
+  - /blog/professional-scrum-training-ghana-police-service
+  - /professional-scrum-training-ghana-police-service
+  - /professional-scrum-training-for-the-ghana-police-service
+  - /blog/professional-scrum-training-for-the-ghana-police-service
+  - /resources/blog/professional-scrum-training-ghana-police-service
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Professional Scrum
-- Software Development
-- Pragmatic Thinking
-- Agile Transformation
+  - Agile Frameworks
+  - Professional Scrum
+  - Software Development
+  - Pragmatic Thinking
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:16:27Z
   short_title: 2025-07-07T17:58:41Z
+  tldr: 2025-08-07T13:13:33Z
 ResourceImportId: 12095
 creator: Martin Hinshelwood
 resourceTypes: blog

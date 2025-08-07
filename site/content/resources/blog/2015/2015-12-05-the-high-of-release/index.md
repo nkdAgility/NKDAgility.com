@@ -2,30 +2,40 @@
 title: The High of Release
 short_title: Microsoft Web-Based Release Management
 description: Overview of Microsoft’s new web-based Release Management tools for building flexible, integrated DevOps pipelines in VSTS and TFS, supporting diverse deployment options.
+tldr: Microsoft’s new web-based Release Management tools let teams build flexible, integrated release pipelines in VSTS or TFS without being locked into specific deployment tools. The focus is on orchestration and integration, allowing you to use your preferred technologies like Chef, Puppet, Docker, or PowerShell. These tools are now in public preview, so consider evaluating them to streamline your release process and support cloud or on-premises deployments.
 date: 2015-12-05
-weight: 480
+lastmod: 2015-12-05
+weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: akntzjbRQe2
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: the-high-of-release
 aliases:
-- /resources/akntzjbRQe2
+  - /resources/akntzjbRQe2
 aliasesArchive:
-- /blog/the-high-of-release
-- /the-high-of-release
-- /resources/blog/the-high-of-release
+  - /blog/the-high-of-release
+  - /the-high-of-release
+  - /resources/blog/the-high-of-release
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Release Management
-- Software Development
+  - Product Delivery
+  - Release Management
+  - Azure Pipelines
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:16:55Z
   short_title: 2025-07-07T17:59:06Z
+  tldr: 2025-08-07T13:24:33Z
 ResourceImportId: 11398
 creator: Martin Hinshelwood
 resourceTypes: blog

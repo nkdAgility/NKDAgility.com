@@ -2,8 +2,14 @@
 title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
 short_title: 'DevOps Is More Than Tools: Embracing Its Value'
 description: Explains why DevOps is a mindset focused on collaboration and continuous improvement, not just tools, and highlights its true value in modern software development practices.
+tldr: DevOps is not just about tools like Azure DevOps but is a broader idea focused on improving engineering systems through collaboration, agility, and continuous improvement. Shifting your team's mindset from tool selection to embracing DevOps principles will lead to better performance and product quality. Focus on how DevOps concepts can enhance your processes rather than relying solely on specific tools.
 date: 2023-06-07T07:00:02Z
+lastmod: 2023-06-07T07:00:02Z
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: BhGThHrOc8Y
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: devops-demystified-why-it's-more-than-just-tools-and-how-to-embrace-its-true-value
 aliases:
-- /resources/BhGThHrOc8Y
-- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
-- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/BhGThHrOc8Y
+  - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
+  - /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 aliasesArchive:
-- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools-
-- devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
-- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+  - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+  - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools-
+  - devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
+  - /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 source: youtube
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:49Z
   short_title: 2025-07-07T17:54:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:07Z
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

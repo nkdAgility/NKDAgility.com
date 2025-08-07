@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
 short_title: Agile Training & Continuous Forecasting Strategies
 description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
+tldr: Continuous forecasting in Agile, supported by metrics and tools like Monte Carlo simulations, enables teams to plan flexibly and adapt quickly rather than committing to a full sprint plan upfront. Virtual training with interactive tools and follow-up sessions has improved learning and engagement. Development managers should consider adopting continuous forecasting and leveraging available training resources to enhance team performance and responsiveness.
 date: 2020-05-21T05:26:17Z
-weight: 1000
+lastmod: 2020-05-21T05:26:17Z
+weight: 675
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: HjyUeuf1IEw
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 aliases:
-- /resources/HjyUeuf1IEw
+  - /resources/HjyUeuf1IEw
 aliasesArchive:
-- /resources/videos/th-may-office-hours-ask-me-anything
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
-- /resources/20th-may-2020-office-hours-ask-me-anything
-- /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-- unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
+  - /resources/videos/th-may-office-hours-ask-me-anything
+  - /resources/videos/20th-may-2020-office-hours-ask-me-anything
+  - /resources/20th-may-2020-office-hours-ask-me-anything
+  - /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
+  - unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:43Z
   short_title: 2025-07-07T17:58:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:42Z
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

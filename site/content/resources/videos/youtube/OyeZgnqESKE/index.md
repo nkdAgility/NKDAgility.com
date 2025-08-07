@@ -2,8 +2,14 @@
 title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
 short_title: Immersive Learning for Engaged Scrum Students
 description: Explores how immersive, hands-on learning keeps Scrum students engaged and excited, supporting continuous improvement, real-world application, and ongoing team growth.
+tldr: Immersive learning keeps Scrum students engaged by making each session a hands-on journey of discovery, allowing them to apply new concepts in real time and reflect on their experiences. Spreading content over multiple sessions helps teams assimilate knowledge, experiment safely, and continuously improve through feedback. Development managers should break training into manageable pieces, encourage experimentation, and foster regular feedback to maintain excitement and drive ongoing growth.
 date: 2024-02-01T07:00:09Z
+lastmod: 2024-02-01T07:00:09Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: OyeZgnqESKE
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged
 aliases:
-- /resources/OyeZgnqESKE
-- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
-- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+  - /resources/OyeZgnqESKE
+  - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
+  - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 aliasesArchive:
-- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
-- /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
-- why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
+  - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
+  - /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+  - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+  - why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Motivation
+  - Team Motivation
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:03Z
   short_title: 2025-07-07T17:50:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:22Z
 videoId: OyeZgnqESKE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OyeZgnqESKE/maxresdefault.jpg
 duration: 38
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -1,32 +1,35 @@
 ---
 title: Yorkhill Ice Bucket Challenge
 description: A personal account of taking the ALS Ice Bucket Challenge to support Yorkhill Children's Charity, highlighting a family’s experience with childhood brain surgery and fundraising.
+date: 2014-08-24
+lastmod: 2014-08-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: dALLwF2kL-U
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10682
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-08-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: yorkhill-ice-bucket-challenge
 aliases:
-- /resources/dALLwF2kL-U
+  - /resources/dALLwF2kL-U
 aliasesArchive:
-- /blog/yorkhill-ice-bucket-challenge
-- /yorkhill-ice-bucket-challenge
-- /resources/blog/yorkhill-ice-bucket-challenge
-tags: []
+  - /blog/yorkhill-ice-bucket-challenge
+  - /yorkhill-ice-bucket-challenge
+  - /resources/blog/yorkhill-ice-bucket-challenge
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: yorkhill-ice-bucket-challange-5-5.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:18Z
-concepts: []
+ResourceImportId: 10682
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---
 Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als-ice-bucket-challenge.aspx) took the ALS Ice Bucket Challenge. He was challenged by [Brian Harry](http://blogs.msdn.com/b/bharry/archive/2014/08/19/als-ice-bucket-challenge.aspx) who was in turn by [Adam Cogan](https://www.youtube.com/watch?v=P_4FM9laAl0). As I know all three of these folks it was only a matter of time before I got nominated. My torturer of the day is Buck. Really… how bad can it be? I did Tough Mudder this weekend my favourite obstacle is [Arctic Enema](https://toughmudder.co.uk/obstacles/arctic-enema) :p!!

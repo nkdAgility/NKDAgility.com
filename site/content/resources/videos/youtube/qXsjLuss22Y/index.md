@@ -2,8 +2,14 @@
 title: What is a product goal?
 short_title: What is a Product Goal?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
+tldr: A sprint goal is a specific, tactical objective that guides a Scrum team’s work during each sprint, connecting daily efforts to the broader product goal and vision. It provides a clear, tangible focus for the team and enables actionable stakeholder feedback at sprint reviews. Development managers should ensure every sprint has a well-defined goal to drive alignment, motivation, and meaningful progress.
 date: 2023-05-30T11:00:40Z
-weight: 840
+lastmod: 2023-05-30T11:00:40Z
+weight: 730
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: qXsjLuss22Y
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-product-goal
 aliases:
-- /resources/qXsjLuss22Y
-- /resources/videos/what-is-a-product-goal-qXsjLuss22Y
+  - /resources/qXsjLuss22Y
+  - /resources/videos/what-is-a-product-goal-qXsjLuss22Y
 aliasesArchive:
-- /resources/what-is-a-product-goal
-- /resources/videos/what-is-a-product-goal-
-- /resources/what-is-a-product-goal-
-- /resources/videos/what-is-a-product-goal
-- what-is-a-product-goal-qXsjLuss22Y
+  - /resources/what-is-a-product-goal
+  - /resources/videos/what-is-a-product-goal-
+  - /resources/what-is-a-product-goal-
+  - /resources/videos/what-is-a-product-goal
+  - what-is-a-product-goal-qXsjLuss22Y
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Agile Product Management
+  - Software Development
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:12:02Z
   short_title: 2025-07-07T17:54:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:32Z
 videoId: qXsjLuss22Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

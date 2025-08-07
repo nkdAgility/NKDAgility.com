@@ -1,37 +1,40 @@
 ---
 title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
 description: Step-by-step guide to upgrading from TFS 2010 RC to RTM, including backup, uninstall, install, configuration, SharePoint and build server updates, and post-upgrade testing.
+date: 2010-04-12
+lastmod: 2010-04-12
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wGdSgbWfpEB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 53
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-12
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliases:
-- /resources/wGdSgbWfpEB
+  - /resources/wGdSgbWfpEB
 aliasesArchive:
-- /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
-- /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
-- /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
-tags:
-- Install and Configuration
-- Software Development
-- System Configuration
-- Azure DevOps
-- Windows
-preview: metro-visual-studio-2010-128-link-36-36.png
+  - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+  - /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+  - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Software Development
+  - System Configuration
+  - Azure DevOps
+  - Windows
 Watermarks:
   description: 2025-05-13T15:22:15Z
-concepts: []
+ResourceImportId: 53
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-36-36.png
 
 ---
 ![vs2010alm](images/09437a6f5f9c_A38D-vs2010alm_-34-34.png)Today is the big day, with the Launch of Visual Studio 2010 already done in Asia, and rolling around the world towards us, we are getting ready for the RTM.

@@ -2,8 +2,14 @@
 title: Introducing the Professional Product Validation and Discovery Workshop from Scrum.org
 short_title: Professional Product Validation Workshop
 description: Learn practical skills in product validation, customer discovery, and team collaboration to create customer-focused products, guided by an expert Scrum.org trainer.
+tldr: Scrum.org is offering a workshop led by Dr. Joanna Plaskonka to help teams validate product ideas, discover real customer needs, and improve collaboration. Attendees will gain practical skills in customer-centric development, rapid prototyping, and market discovery to build products that truly resonate with users. Consider enrolling to equip your team with proven techniques for delivering successful, customer-focused products.
 date: 2024-07-17
+lastmod: 2024-07-17
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author: MrHinsh
 ResourceId: w5rxdL8YHNa
 ResourceImport: false
@@ -11,27 +17,28 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
-- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-- /resources/w5rxdL8YHNa
+  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+  - /resources/w5rxdL8YHNa
 aliasesArchive:
-- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 layout: newsletter
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Product Discovery
-- Product Validation
-- Customer Focus
-- Agile Product Management
-- Value Delivery
-- Product Delivery
+  - Product Discovery
+  - Product Validation
+  - Customer Focus
+  - Value Delivery
+  - Agile Product Management
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:02:35Z
   short_title: 2025-07-07T17:49:00Z
+  tldr: 2025-08-07T12:50:54Z
 resourceTypes: newsletter
 
 ---

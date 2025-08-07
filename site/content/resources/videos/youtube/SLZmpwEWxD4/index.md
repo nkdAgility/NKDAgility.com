@@ -2,8 +2,14 @@
 title: The Importance of Visualizing Your Work in a Kanban Strategy
 short_title: Visualizing Work in Kanban for Team Alignment
 description: Explains how visualising work in Kanban boosts team clarity, transparency, and alignment, and offers steps to define workflows, avoid misalignment, and improve collaboration.
+tldr: Visualizing work in Kanban is essential for team clarity, transparency, and accountability, but its real value comes from aligning everyone on shared workflows and rules. Teams should collaboratively define what gets visualized, map out each workflow stage, and document these agreements to avoid misalignment and inefficiencies. Prioritize team alignment over optimization, and consider using flow metrics and workshops to continuously improve your process.
 date: 2024-03-07T07:00:10Z
+lastmod: 2024-03-07T07:00:10Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: SLZmpwEWxD4
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-importance-of-visualizing-your-work-in-a-kanban-strategy
 aliases:
-- /resources/SLZmpwEWxD4
-- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+  - /resources/SLZmpwEWxD4
+  - /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+  - /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
 aliasesArchive:
-- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
-- the-importance-of-visualizing-your-work-in-a-kanban-strategy
+  - /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+  - /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+  - /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+  - /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+  - /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+  - the-importance-of-visualizing-your-work-in-a-kanban-strategy
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Software Development
-- Operational Practices
-- Team Performance
-- Agile Frameworks
-- Pragmatic Thinking
+  - Team Collaboration
+  - Social Technologies
+  - Software Development
+  - Operational Practices
+  - Team Performance
+  - Agile Frameworks
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:26Z
   short_title: 2025-07-07T17:49:29Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:08Z
 videoId: SLZmpwEWxD4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
 duration: 267
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

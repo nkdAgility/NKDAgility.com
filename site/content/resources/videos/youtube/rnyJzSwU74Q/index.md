@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
 short_title: Empirical Models for Agile Project Success
 description: Explains how empirical Agile models improve project outcomes by increasing visibility, enabling change, reducing risk, and delivering value incrementally throughout development.
+tldr: Agile methods significantly increase project success rates, especially for larger teams, by maintaining ongoing visibility, enabling flexibility, reducing operational risk, and delivering value incrementally. Unlike traditional models, Agile allows for regular feedback and adaptation, which keeps projects aligned with customer needs and reduces wasted effort. Development managers should consider adopting empirical Agile practices to improve outcomes and stakeholder satisfaction.
 date: 2022-10-12T17:08:59Z
-weight: 1000
+lastmod: 2022-10-12T17:08:59Z
+weight: 670
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: rnyJzSwU74Q
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
 aliases:
-- /resources/rnyJzSwU74Q
-- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
-- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+  - /resources/rnyJzSwU74Q
+  - /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+  - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 aliasesArchive:
-- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
-- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
-- unlocking-agile-success-how-empirical-models-transform-project-outcomes
+  - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+  - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+  - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+  - /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+  - unlocking-agile-success-how-empirical-models-transform-project-outcomes
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Software Development
-- Value Delivery
-- Product Delivery
-- Empirical Process Control
-- Pragmatic Thinking
-- Working Software
-- Agile Transformation
-- Agile Frameworks
+  - Software Development
+  - Empirical Process Control
+  - Value Delivery
+  - Product Delivery
+  - Pragmatic Thinking
+  - Agile Philosophy
+  - Agile Transformation
+  - Agile Frameworks
+  - Working Software
 Watermarks:
   description: 2025-05-07T13:14:42Z
   short_title: 2025-07-07T17:57:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:40Z
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

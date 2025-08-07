@@ -1,35 +1,38 @@
 ---
 title: Not just happy, but ecstatic
 description: A consultant reflects on a successful Microsoft Dynamics deployment, improved build automation, and positive client feedback, inspiring interest in future UK and European projects.
+date: 2011-09-16
+lastmod: 2011-09-16
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: C7FpzXTFpU_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3783
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-16
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: not-just-happy-but-ecstatic
 aliases:
-- /resources/C7FpzXTFpU_
+  - /resources/C7FpzXTFpU_
 aliasesArchive:
-- /blog/not-just-happy-but-ecstatic
-- /not-just-happy-but-ecstatic
-- /not-just-happy,-but-ecstatic
-- /blog/not-just-happy,-but-ecstatic
-- /not-just-happy--but-ecstatic
-- /blog/not-just-happy--but-ecstatic
-- /resources/blog/not-just-happy-but-ecstatic
-tags: []
+  - /blog/not-just-happy-but-ecstatic
+  - /not-just-happy-but-ecstatic
+  - /not-just-happy,-but-ecstatic
+  - /blog/not-just-happy,-but-ecstatic
+  - /not-just-happy--but-ecstatic
+  - /blog/not-just-happy--but-ecstatic
+  - /resources/blog/not-just-happy-but-ecstatic
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:12Z
-concepts: []
+ResourceImportId: 3783
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.

@@ -1,35 +1,38 @@
 ---
 title: TF200035 Sync error for identity with TFS 2010
 description: Details troubleshooting a TF200035 sync error in TFS 2010, covering Active Directory issues, machine account permissions, domain compatibility, and possible workarounds.
+date: 2012-02-12
+lastmod: 2012-02-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: gX9PNx9Qnrt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4309
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tf200035-sync-error-for-identity-with-tfs-2010
 aliases:
-- /resources/gX9PNx9Qnrt
+  - /resources/gX9PNx9Qnrt
 aliasesArchive:
-- /blog/tf200035-sync-error-for-identity-with-tfs-2010
-- /tf200035-sync-error-for-identity-with-tfs-2010
-- /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
-tags:
-- Windows
-- Troubleshooting
-- Software Development
-- System Configuration
+  - /blog/tf200035-sync-error-for-identity-with-tfs-2010
+  - /tf200035-sync-error-for-identity-with-tfs-2010
+  - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Troubleshooting
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:29Z
-concepts: []
+ResourceImportId: 4309
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

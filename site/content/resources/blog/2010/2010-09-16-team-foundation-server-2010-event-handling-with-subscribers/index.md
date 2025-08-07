@@ -1,36 +1,39 @@
 ---
 title: Team Foundation Server 2010 Event Handling with Subscribers
 description: Explains how to create and deploy server-side event subscribers in Team Foundation Server 2010 using the ISubscriber interface to handle and process TFS events.
+date: 2010-09-16
+lastmod: 2010-09-16
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: FzwWmNio6fH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 25
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-16
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-2010-event-handling-with-subscribers
 aliases:
-- /resources/FzwWmNio6fH
+  - /resources/FzwWmNio6fH
 aliasesArchive:
-- /blog/team-foundation-server-2010-event-handling-with-subscribers
-- /team-foundation-server-2010-event-handling-with-subscribers
-- /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
-tags:
-- Software Development
-- Windows
-- Technical Mastery
-- Install and Configuration
+  - /blog/team-foundation-server-2010-event-handling-with-subscribers
+  - /team-foundation-server-2010-event-handling-with-subscribers
+  - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Windows
+  - Technical Mastery
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:11:30Z
-concepts: []
+ResourceImportId: 25
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-4-4.png
 
 ---
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.

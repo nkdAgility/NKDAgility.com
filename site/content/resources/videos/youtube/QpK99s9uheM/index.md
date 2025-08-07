@@ -2,8 +2,14 @@
 title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
 short_title: From Control to Collaboration in Agile PM
 description: Explores how project managers can shift from control to collaboration, adopt agile mindsets, embrace uncertainty, and foster team empowerment for project success.
+tldr: Project managers need to move from controlling every detail to supporting and collaborating with their teams to succeed with agile approaches. Embracing uncertainty, focusing on outcomes instead of outputs, and fostering open communication are key to this shift. To thrive, managers should let go of the need to have all the answers, encourage continuous learning, and be patient as their teams adapt.
 date: 2023-05-24T07:00:23Z
-weight: 1000
+lastmod: 2023-05-24T07:00:23Z
+weight: 815
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: QpK99s9uheM
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 aliases:
-- /resources/QpK99s9uheM
-- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
-- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
-- /resources/videos/is-a-scrum-master-an-agile-project-manager
+  - /resources/QpK99s9uheM
+  - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
+  - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
+  - /resources/videos/is-a-scrum-master-an-agile-project-manager
 aliasesArchive:
-- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
-- /resources/videos/is-a-scrum-master-an-agile-project-manager-
-- /resources/is-a-scrum-master-an-agile-project-manager-
-- /resources/videos/is-a-scrum-master-an-agile-project-manager
-- from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
+  - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
+  - /resources/videos/is-a-scrum-master-an-agile-project-manager-
+  - /resources/is-a-scrum-master-an-agile-project-manager-
+  - /resources/videos/is-a-scrum-master-an-agile-project-manager
+  - from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Values and Principles
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Agile Values and Principles
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:12:14Z
   short_title: 2025-07-07T17:55:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:48Z
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

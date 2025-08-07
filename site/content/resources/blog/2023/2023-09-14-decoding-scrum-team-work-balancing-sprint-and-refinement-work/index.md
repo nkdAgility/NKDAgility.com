@@ -2,46 +2,53 @@
 title: 'Decoding Scrum Team Work: Balancing Sprint and Refinement Work'
 short_title: Balancing Sprint Work and Refinement in Scrum
 description: Explains how Scrum teams can balance Sprint work and Refinement, with strategies and visual tools to track, manage, and visualise both for better workflow and product delivery.
+tldr: Scrum teams need to balance Sprint work, which delivers direct value to stakeholders, with Refinement, which prepares the backlog for future Sprints. Using tools like Azure DevOps to visualise and track both types of work helps teams plan better, avoid unnecessary effort, and stay ready for challenges. Development managers should ensure both work types are visible and managed to improve team efficiency and product outcomes.
 date: 2023-09-14
+lastmod: 2023-09-14
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: RCMVmNzZDfV
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
-- /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work--balancing-sprint-and-refinement-work
-- /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
-- /resources/RCMVmNzZDfV
-- /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
+  - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
+  - /resources/RCMVmNzZDfV
+  - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliasesArchive:
-- /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work--balancing-sprint-and-refinement-work
-- /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
-- /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
+  - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
+  - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Scrum Team
-- Agile Frameworks
-- Team Performance
-- Product Backlog
-- Agile Planning
-- Pragmatic Thinking
-- Product Delivery
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Scrum Team
+  - Agile Frameworks
+  - Team Performance
+  - Product Backlog
+  - Agile Planning
+  - Pragmatic Thinking
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:09:32Z
   short_title: 2025-07-07T17:53:05Z
+  tldr: 2025-08-07T13:00:03Z
 ResourceImportId: 49783
 AudioNative: true
 creator: Martin Hinshelwood

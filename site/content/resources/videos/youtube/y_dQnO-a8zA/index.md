@@ -2,8 +2,14 @@
 title: 'Engineering Culture That Thrives: How to Build Teams Ready for Change, Not Just the Next Fire Drill'
 short_title: Building a Culture That Adapts to Change
 description: Is your engineering culture built to thrive on change? Discover how to create resilient, adaptive teams that stay ahead in a fast-moving tech world.
+tldr: Engineering teams need a culture that embraces and adapts to change, not just one that reacts to emergencies or chases trends. The most effective teams learn quickly, reflect on their practices, and align with business goals, making continuous improvement and evidence-based decisions part of their routine. Development managers should focus on building a learning culture that expects and measures adaptation, ensuring teams remain resilient and relevant as technology evolves.
 date: 2025-06-20T06:00:51Z
-weight: 285
+lastmod: 2025-06-20T06:00:51Z
+weight: 270
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: y_dQnO-a8zA
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,46 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: engineering-culture-that-thrives-how-to-build-teams-ready-for-change-not-just-the-next-fire-drill
 aliases:
-- /resources/y_dQnO-a8zA
-- /resources/videos/6-building-a-culture-that-adapts-to-changenot-just-reacts
+  - /resources/y_dQnO-a8zA
+  - /resources/videos/6-building-a-culture-that-adapts-to-changenot-just-reacts
 aliasesArchive:
-- /resources/videos/6-building-a-culture-that-adapts-to-changenot-just-reacts
-- 6-building-a-culture-that-adapts-to-changenot-just-reacts
+  - /resources/videos/6-building-a-culture-that-adapts-to-changenot-just-reacts
+  - 6-building-a-culture-that-adapts-to-changenot-just-reacts
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Technical Leadership
-- Leadership
-- Product Development
+  - Technical Leadership
+  - Leadership
+  - Product Development
 tags:
-- Organisational Culture
-- Organisational Agility
-- Continuous Learning
-- Business Agility
-- Social Technologies
-- Change Management
-- Pragmatic Thinking
-- Organisational Change
-- Agile Leadership
-- Agile Philosophy
-- Continuous Improvement
-- Market Adaptability
-- Team Collaboration
-- Sociotechnical Systems
-- Enterprise Agility
+  - Organisational Culture
+  - Organisational Agility
+  - Social Technologies
+  - Continuous Learning
+  - Business Agility
+  - Sociotechnical Systems
+  - Change Management
+  - Pragmatic Thinking
+  - Organisational Change
+  - Agile Leadership
+  - Agile Philosophy
+  - Continuous Improvement
+  - Market Adaptability
+  - Team Collaboration
+  - Enterprise Agility
 Watermarks:
   description: 2025-07-24T15:14:34Z
   short_title: 2025-07-24T15:14:35Z
+  tldr: 2025-08-07T12:10:59Z
 videoId: y_dQnO-a8zA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y_dQnO-a8zA/maxresdefault.jpg
 duration: 74
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Change is the Only Constant: Why Your Engineering Culture Must Evolve

@@ -2,40 +2,47 @@
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 short_title: Market Responsiveness and Organisational Agility
 description: Explores why true organisational agility means building custom processes to respond quickly to market changes, not just adopting popular frameworks or hybrid models.
+tldr: The main point is that true organisational agility is about responding to market changes faster than competitors, not about adopting specific frameworks like SAFe or Scrum. Successful companies build processes tailored to their unique needs rather than copying others, and relying on outdated rules or hybrid models slows adaptation. Development managers should focus on creating flexible, custom processes that enable rapid response and continuous adaptation to stay competitive.
 date: 2023-09-07
+lastmod: 2023-09-07
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Jz5uZMzPiRx
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
-- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /resources/Jz5uZMzPiRx
-- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+  - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+  - /resources/Jz5uZMzPiRx
+  - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliasesArchive:
-- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+  - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+  - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Organisational Agility
-- Business Agility
-- Enterprise Agility
-- Market Adaptability
-- Organisational Change
-- Pragmatic Thinking
+  - Organisational Agility
+  - Business Agility
+  - Enterprise Agility
+  - Market Adaptability
+  - Organisational Change
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:09:38Z
   short_title: 2025-07-07T17:53:10Z
+  tldr: 2025-08-07T13:00:15Z
 ResourceImportId: 49732
 AudioNative: true
 creator: Martin Hinshelwood

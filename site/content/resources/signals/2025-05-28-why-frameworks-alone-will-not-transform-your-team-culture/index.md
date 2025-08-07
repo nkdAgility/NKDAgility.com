@@ -2,52 +2,59 @@
 title: Why Frameworks Alone will-not Transform Your Team Culture
 short_title: Frameworks Alone Won't Change Team Culture
 description: Explains why frameworks alone can't shift team culture, emphasizing clear vision, leadership commitment, and empowering teams to drive meaningful organizational change.
+tldr: Relying on frameworks alone will not change your team culture; the main barriers are existing habits and lack of true commitment. Real transformation requires a clear vision, visible leadership support, and active involvement from everyone to identify and address obstacles. As a development manager, focus on building shared understanding and genuine engagement rather than just rolling out new processes.
 date: 2025-05-28T15:30:50+01:00
+lastmod: 2025-05-28T15:30:50+01:00
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: xUJ6VvudvJx
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: why-frameworks-alone-will-not-transform-your-team-culture
 aliases:
-- /resources/xUJ6VvudvJx
+  - /resources/xUJ6VvudvJx
 source: LinkedIn
 layout: signal
 concepts:
-- Philosophy
+  - Philosophy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Organisational Culture
-- Change Management
-- Organisational Change
-- Agile Philosophy
-- Agile Strategy
-- Sociotechnical Systems
-- Agile Leadership
-- Organisational Agility
-- Beta Codex
-- Social Technologies
-- Agile Transformation
-- Business Agility
-- Pragmatic Thinking
-- Team Motivation
-- Enterprise Agility
+  - Organisational Culture
+  - Change Management
+  - Organisational Change
+  - Agile Philosophy
+  - Agile Strategy
+  - Sociotechnical Systems
+  - Agile Leadership
+  - Organisational Agility
+  - Beta Codex
+  - Social Technologies
+  - Agile Transformation
+  - Business Agility
+  - Pragmatic Thinking
+  - Team Motivation
+  - Enterprise Agility
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333515101389455360
-  post_id: "7333515101389455360"
-  post_date: 2025-05-28T14:30:50Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7333515101389455360
+    post_id: "7333515101389455360"
+    post_date: 2025-05-28T14:30:50Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:42Z
   short_title: 2025-07-07T16:43:54Z
+  tldr: 2025-08-07T12:29:19Z
 
 ---
 If you're waiting for a framework to shift your culture, you're already on the wrong path.

@@ -2,8 +2,14 @@
 title: What is a product backlog?
 short_title: What is a Product Backlog?
 description: A product backlog is a prioritised list of features, tasks, or improvements that guides Agile teams in planning, collaboration, and delivering product value efficiently.
+tldr: A product backlog is a prioritized list of features or improvements that guides the development team and fosters collaboration. It should be flexible, clearly understood by everyone involved, and regularly pruned to stay lean and effective. Development managers should ensure their teams maintain a focused and well-understood backlog to maximize productivity and alignment.
 date: 2023-05-18T07:00:16Z
-weight: 1000
+lastmod: 2023-05-18T07:00:16Z
+weight: 810
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: _Eer3X3Z_LE
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-product-backlog
 aliases:
-- /resources/_Eer3X3Z_LE
-- /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
+  - /resources/_Eer3X3Z_LE
+  - /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
 aliasesArchive:
-- /resources/videos/what-is-a-product-backlog
-- /resources/what-is-a-product-backlog-2
-- /resources/videos/what-is-a-product-backlog-
-- /resources/what-is-a-product-backlog-
-- what-is-a-product-backlog-_Eer3X3Z_LE
+  - /resources/videos/what-is-a-product-backlog
+  - /resources/what-is-a-product-backlog-2
+  - /resources/videos/what-is-a-product-backlog-
+  - /resources/what-is-a-product-backlog-
+  - what-is-a-product-backlog-_Eer3X3Z_LE
 source: internal
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
+  - Product Development
 tags:
-- Product Backlog
-- Software Development
+  - Product Backlog
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:22Z
   short_title: 2025-07-07T17:55:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:59Z
 videoId: _Eer3X3Z_LE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: Understanding the Power of Kanban in Scrum
 short_title: Kanban Integration in Scrum Explained
 description: Explains how integrating Kanban with Scrum boosts transparency, limits work in progress, and improves workflow, helping teams identify bottlenecks and deliver value efficiently.
+tldr: Kanban is not a replacement for Scrum but a complementary strategy that increases transparency, helps teams visualize workflow, and manage work in progress, leading to better focus and faster feedback. Integrating Kanban with Scrum enables teams to identify bottlenecks, improve efficiency, and consistently meet sprint goals. Development managers should consider adding Kanban boards and WIP limits to their Scrum process to enhance team performance and value delivery.
 date: 2024-08-05T06:45:00Z
+lastmod: 2024-08-05T06:45:00Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: PaUciBmqCsU
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: understanding-the-power-of-kanban-in-scrum
 aliases:
-- /resources/PaUciBmqCsU
-- /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
-- /resources/videos/understanding-the-power-of-kanban-in-scrum
-- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+  - /resources/PaUciBmqCsU
+  - /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+  - /resources/videos/understanding-the-power-of-kanban-in-scrum
+  - /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
 aliasesArchive:
-- /resources/videos/understanding-the-power-of-kanban-in-scrum
-- /resources/understanding-the-power-of-kanban-in-scrum
-- /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
-- /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
-- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
-- understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+  - /resources/videos/understanding-the-power-of-kanban-in-scrum
+  - /resources/understanding-the-power-of-kanban-in-scrum
+  - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
+  - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
+  - /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+  - understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Transparency
-- Agile Frameworks
-- Operational Practices
-- Software Development
+  - Value Delivery
+  - Transparency
+  - Agile Frameworks
+  - Operational Practices
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:02:18Z
   short_title: 2025-07-07T17:48:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:10Z
 videoId: PaUciBmqCsU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -1,34 +1,37 @@
 ---
 title: Database corruption in TFS 2005 causes TF246017 during upgrade
 description: Explains how database corruption in TFS 2005 can cause TF246017 errors during upgrade, and details using DBCC CHECKDB to diagnose and repair the issue.
+date: 2010-09-29
+lastmod: 2010-09-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YVhqKOWo2QQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 24
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliases:
-- /resources/YVhqKOWo2QQ
+  - /resources/YVhqKOWo2QQ
 aliasesArchive:
-- /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
-- /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
-- /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
-tags:
-- Troubleshooting
-- Software Development
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+  - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+  - /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:11:28Z
-concepts: []
+ResourceImportId: 24
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 ![ErrorOcurred](images/UpgradingTFS2005toTFS2010_10E2E-ErrorOcurred_-2-2.jpg)Today I was on-site to do a test upgrade of TFS 2005 to TFS 2010 and we encountered an error that would have caused major delays while we investigated and perhaps requiring additional help from Microsoft.

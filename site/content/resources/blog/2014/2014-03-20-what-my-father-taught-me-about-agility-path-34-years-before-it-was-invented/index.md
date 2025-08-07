@@ -1,21 +1,19 @@
 ---
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
 description: Explores how evidence-based management uses data-driven practices to improve organisational agility, value delivery, and decision-making in both business and software contexts.
+date: 2014-03-20
+lastmod: 2014-03-20
+weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: gYcZPh6B2eg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10446
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-03-20
-weight: 440
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+slug: what-my-father-taught-me-about-evidence-based-management-34-years-before-it-was-invented
 aliases:
-  - /resources/blog/what-my-father-taught-me-about-evidence-based-management-34-years-before-it-was-invented
   - /resources/gYcZPh6B2eg
 aliasesArchive:
   - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
@@ -24,6 +22,11 @@ aliasesArchive:
   - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
   - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
   - /resources/blog/what-my-father-taught-me-about-evidence-based-management-34-years-before-it-was-invented
+layout: blog
+concepts:
+  - Strategy
+categories:
+  - Product Management
 tags:
   - Decision Making
   - Evidence Based Leadership
@@ -37,18 +40,17 @@ tags:
   - Organisational Agility
   - Software Development
   - Operational Practices
-categories:
-  - Product Management
-preview: nakedalm-agility-index-7-7.png
-Watermarks:
-  description: 2025-05-12T14:22:06Z
-concepts:
-  - Strategy
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/what-my-father-taught-me-about-evidence-based-management-34-years-it-was-invented
----
+Watermarks:
+  description: 2025-05-12T14:22:06Z
+ResourceImportId: 10446
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-agility-index-7-7.png
 
+---
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.
 
 ![john-hinshelwood-agility-path](images/john-hinshelwood-agility-path-4-4.jpg)In the 1990's my father (John Hinshelwood) was a regional director of a large estate agency (realtor) in the UK. For many years he worked from a single shop in Glasgow running his own business. In 1988 he sold his business to a large Insurance company that was trying to get its ailing Estate Agency business to turn a profit. It was failing at this task, however it was not long before my father's talent for detail was noticed and within a few short months was appointed a directorship. Using evidence-based practices he turned a lossmaking business into a profiting business for over 5 years. Three months after he left they were making a loss again! They had not changed to embrace Evidence-based Management as an organisation and without my father's stewardship they slumped back into the old ways.

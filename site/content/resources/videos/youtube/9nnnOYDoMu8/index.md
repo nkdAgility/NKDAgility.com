@@ -2,8 +2,14 @@
 title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery'
 short_title: '“Done” Means Live: Real Value in Software Delivery'
 description: Discover why “done” means live in production—not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
+tldr: Work is only truly done when it is live in production and delivering value to users, not just when code is written, tested, or demoed. Teams often mistake internal milestones for real progress, which delays learning and frustrates stakeholders; real feedback and value come only from live usage and telemetry. Development managers should redefine “done” as live in production, invest in automation to shorten release cycles, and focus on measuring and celebrating actual user impact.
 date: 2025-05-07T11:46:58Z
+lastmod: 2025-05-07T11:46:58Z
 weight: 95
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: 9nnnOYDoMu8
 ResourceImport: true
 ResourceType: videos
@@ -11,52 +17,50 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 aliases:
-- /resources/9nnnOYDoMu8
-- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
-- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
-- /resources/videos/1-done-means-in-production-not-just-code-complete
+  - /resources/9nnnOYDoMu8
+  - /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
+  - /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+  - /resources/videos/1-done-means-in-production-not-just-code-complete
 aliasesArchive:
-- /resources/videos/1-done-means-in-production-not-just-code-complete
-- 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
-- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
-- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
-- why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
+  - /resources/videos/1-done-means-in-production-not-just-code-complete
+  - 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
+  - /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+  - /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+  - why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Value Delivery
-- Customer Focus
-- Software Development
-- Professional Scrum
-- Team Performance
-- Operational Practices
-- Pragmatic Thinking
-- Continuous Delivery
-- Working Software
-- Personal
-- Product Delivery
-- Agile Philosophy
-- Increment
-- Metrics and Learning
-- Deployment Frequency
+  - Customer Focus
+  - Value Delivery
+  - Software Development
+  - Professional Scrum
+  - Team Performance
+  - Operational Practices
+  - Pragmatic Thinking
+  - Continuous Delivery
+  - Working Software
+  - Personal
+  - Product Delivery
+  - Agile Philosophy
+  - Increment
+  - Metrics and Learning
+  - Deployment Frequency
 Watermarks:
   description: 2025-05-10T14:13:51Z
   short_title: 2025-07-07T16:44:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:32:46Z
 videoId: 9nnnOYDoMu8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9nnnOYDoMu8/maxresdefault.jpg
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

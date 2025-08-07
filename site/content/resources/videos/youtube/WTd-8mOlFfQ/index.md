@@ -2,8 +2,14 @@
 title: 'Part 2: Common Mistakes that Scrum Masters Make'
 short_title: Common Mistakes Scrum Masters Make
 description: Explains why Scrum Masters should avoid taking on administrative tasks, highlighting the importance of focusing on team effectiveness rather than acting as a team secretary.
+tldr: Scrum Masters often fall into the trap of handling administrative tasks for their teams, which distracts from their real role of improving team effectiveness. Taking on these duties can undermine both the Scrum Master’s impact and the team’s growth. Focus on enabling the team rather than doing their work for them, and avoid becoming the team’s secretary.
 date: 2023-07-07T14:00:33Z
-weight: 790
+lastmod: 2023-07-07T14:00:33Z
+weight: 605
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: WTd-8mOlFfQ
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: part-2-common-mistakes-that-scrum-masters-make
 aliases:
-- /resources/WTd-8mOlFfQ
-- /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
-- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
-- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
+  - /resources/WTd-8mOlFfQ
+  - /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+  - /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+  - /resources/videos/common-mistakes-that-scrum-masters-make-part-2
 aliasesArchive:
-- /resources/videos/part-common-mistakes-that-scrum-masters-make
-- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
-- /resources/part-2-common-mistakes-that-scrum-masters-make-2
-- /resources/part-2-common-mistakes-that-scrum-masters-make
-- /resources/common-mistakes-that-scrum-masters-make-part-2
-- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
-- /resources/common-mistakes-that-scrum-masters-make-part-2-
-- part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
-- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
+  - /resources/videos/part-common-mistakes-that-scrum-masters-make
+  - /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+  - /resources/part-2-common-mistakes-that-scrum-masters-make-2
+  - /resources/part-2-common-mistakes-that-scrum-masters-make
+  - /resources/common-mistakes-that-scrum-masters-make-part-2
+  - /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
+  - /resources/common-mistakes-that-scrum-masters-make-part-2-
+  - part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+  - /resources/videos/common-mistakes-that-scrum-masters-make-part-2
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Master
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:10:57Z
   short_title: 2025-07-07T17:54:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:20Z
 videoId: WTd-8mOlFfQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

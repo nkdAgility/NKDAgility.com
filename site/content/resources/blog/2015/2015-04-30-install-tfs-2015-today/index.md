@@ -1,36 +1,43 @@
 ---
 title: Install TFS 2015 today
+short_title: Install and Configure TFS 2015 Guide
 description: Step-by-step guide to installing and configuring TFS 2015, including system requirements, installation options, and setup of SQL Server and build agents.
+tldr: If your team is still using TFS 2010 or earlier, you need to upgrade soon as support ends in July; TFS 2015 offers a streamlined installation, reduced setup time, and improved features, including a new build system. The Basic Server option makes it easy to get started with minimal configuration, and you can use SQL Express or your own SQL Server. Plan to upgrade to TFS 2015 now to ensure continued support and take advantage of the latest improvements.
+date: 2015-04-30
+lastmod: 2015-04-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: v-m2PYvEaWx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11286
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-04-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: install-tfs-2015-today
 aliases:
-- /resources/v-m2PYvEaWx
+  - /resources/v-m2PYvEaWx
 aliasesArchive:
-- /blog/install-tfs-2015-today
-- /install-tfs-2015-today
-- /resources/blog/install-tfs-2015-today
-tags:
-- Install and Configuration
-- Windows
-- System Configuration
-- Software Development
+  - /blog/install-tfs-2015-today
+  - /install-tfs-2015-today
+  - /resources/blog/install-tfs-2015-today
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-11-11.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - System Configuration
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:19:42Z
-concepts: []
+  tldr: 2025-08-07T13:25:09Z
+  short_title: 2025-08-07T13:25:10Z
+ResourceImportId: 11286
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---
 It has been a while since I had to install, configure, or upgrade TFS. Most of my customers have been moving to Visual Studio Online (VSO) which is effectively TFS in the cloud, and that requires "migration" of data rather than "upgrade". Although there are [great reasons to pick VSO over TFS, even for enterprise](http://nkdagility.com/benefits-visual-studio-online-enterprise/), many companies have a cultural issue with the cloud and are not ready to go there yet. For this we still have TFS and all of its fantastic features are updated and improved for 2015.

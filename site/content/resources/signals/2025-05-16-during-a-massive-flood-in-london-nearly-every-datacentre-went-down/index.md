@@ -2,38 +2,44 @@
 title: During a massive flood in London, nearly every datacentre went down."
 short_title: 'London Flood: Datacentre Resilience Lessons'
 description: A London flood shut down most datacentres, but Rackspace stayed online by regularly live-testing failures, proving true resilience comes from practising real-world recovery.
+tldr: Rackspace was the only London datacentre to stay online during a major flood because they regularly tested their backup systems by simulating real failures. Practising failure recovery under controlled but challenging conditions built true resilience in their operations. Development managers should regularly test their systems and teams under realistic failure scenarios to ensure they can recover when it matters most.
 date: 2025-05-16T15:30:31+01:00
-weight: 335
+lastmod: 2025-05-16T15:30:31+01:00
+weight: 320
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 8SSU0fALhd8
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: during-a-massive-flood-in-london-nearly-every-datacentre-went-down
 aliases:
-- /resources/8SSU0fALhd8
+  - /resources/8SSU0fALhd8
 source: LinkedIn
 layout: signal
 concepts:
-- Practice
+  - Practice
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Pragmatic Thinking
-- Operational Practices
+  - Pragmatic Thinking
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7329166367629144068
-  post_id: "7329166367629144068"
-  post_date: 2025-05-16T14:30:31Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7329166367629144068
+    post_id: "7329166367629144068"
+    post_date: 2025-05-16T14:30:31Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:48Z
   short_title: 2025-07-07T16:44:09Z
+  tldr: 2025-08-07T12:32:09Z
 
 ---
 During a massive flood in London, nearly every datacentre went down.

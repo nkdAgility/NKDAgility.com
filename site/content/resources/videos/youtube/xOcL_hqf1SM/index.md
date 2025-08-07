@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
 short_title: Essential Knowledge for Agile Coaches
 description: Discover the essential knowledge areas for Agile coaches, including frameworks, principles, technical skills, and practical steps to support and guide Agile teams effectively.
+tldr: Effective Agile coaching relies on a deep understanding of both frameworks like Scrum, Kanban, and Lean, and the principles behind them, along with strong technical knowledge. Continuous learning, community engagement, and practical experimentation are key to improving coaching skills and supporting teams. Development managers should prioritize ongoing education and active involvement to help their teams succeed with Agile.
 date: 2023-11-15T11:01:00Z
-weight: 665
+lastmod: 2023-11-15T11:01:00Z
+weight: 445
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: xOcL_hqf1SM
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-success-the-essential-knowledge-every-coach-needs
 aliases:
-- /resources/xOcL_hqf1SM
-- /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+  - /resources/xOcL_hqf1SM
+  - /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 aliasesArchive:
-- /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
-- unlocking-agile-success-the-essential-knowledge-every-coach-needs
+  - /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+  - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+  - unlocking-agile-success-the-essential-knowledge-every-coach-needs
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Frameworks
-- Software Development
-- Agile Transformation
+  - Agile Frameworks
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:07:50Z
   short_title: 2025-07-07T17:51:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:58Z
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

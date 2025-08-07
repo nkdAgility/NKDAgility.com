@@ -2,48 +2,55 @@
 title: DOD has made it illegal to do waterfall
 short_title: DOD Bans Waterfall, Mandates Agile Development
 description: The US Department of Defence now requires agile, iterative software development, ending mandatory waterfall methods and influencing global government IT practices.
+tldr: The US Department of Defense has updated its procurement rules to require agile, iterative development instead of traditional waterfall methods, following high-profile failures like the FBI’s Sentinel project. Agile approaches have proven to deliver higher success rates, lower costs, and reduced risk, and these changes are now influencing government and vendor practices across the US and UK. Development managers working with government clients should adopt agile methods to align with new regulations and improve project outcomes.
 date: 2018-05-01
-weight: 360
+lastmod: 2018-05-01
+weight: 320
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: dnmT3QDhGxx
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
-- /resources/dnmT3QDhGxx
+  - /resources/dnmT3QDhGxx
 aliasesArchive:
-- /blog/dod-has-made-it-illegal-to-do-waterfall
-- /dod-has-made-it-illegal-to-do-waterfall
-- /resources/blog/dod-has-made-it-illegal-to-do-waterfall
+  - /blog/dod-has-made-it-illegal-to-do-waterfall
+  - /dod-has-made-it-illegal-to-do-waterfall
+  - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Business Agility
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Working Software
-- Operational Practices
-- Agile Transformation
-- Product Delivery
-- Agile Philosophy
-- Agile Product Management
-- Digital Transformation
-- Continuous Improvement
-- Agile Frameworks
-- Agile Planning
+  - Value Delivery
+  - Business Agility
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Software Development
+  - Working Software
+  - Operational Practices
+  - Agile Transformation
+  - Product Delivery
+  - Agile Philosophy
+  - Agile Product Management
+  - Digital Transformation
+  - Continuous Improvement
+  - Agile Frameworks
+  - Agile Planning
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T13:16:17Z
   short_title: 2025-07-07T17:58:34Z
+  tldr: 2025-08-07T13:13:13Z
 ResourceImportId: 10204
 creator: Martin Hinshelwood
 resourceTypes: blog

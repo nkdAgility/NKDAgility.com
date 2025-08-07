@@ -2,8 +2,14 @@
 title: What is a common mistake made by rookie agile consultants?
 short_title: Common Mistakes by Rookie Agile Consultants
 description: Rookie agile consultants often mistake strict adherence to frameworks like Scrum for success, overlooking the need for context, team buy-in, and empirical adaptation.
+tldr: Rookie agile consultants often make the mistake of rigidly applying frameworks like Scrum without understanding or addressing the unique needs and goals of each team, believing that simply following the rules will guarantee success. This dogmatic approach overlooks the importance of context, empiricism, and helping teams understand the purpose behind agile practices. Development managers should ensure agile adoption is tailored to their team's specific challenges and objectives, focusing on continuous learning and adaptation rather than just process compliance.
 date: 2023-02-17T07:00:30Z
+lastmod: 2023-02-17T07:00:30Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: y0dg0Sqs4xw
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliases:
-- /resources/y0dg0Sqs4xw
-- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
+  - /resources/y0dg0Sqs4xw
+  - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliasesArchive:
-- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
-- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
-- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
-- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
-- what-is-a-common-mistake-made-by-rookie-agile-consultants
+  - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
+  - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
+  - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
+  - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
+  - what-is-a-common-mistake-made-by-rookie-agile-consultants
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Pragmatic Thinking
+  - Agile Values and Principles
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:14:03Z
   short_title: 2025-07-07T17:56:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:15Z
 videoId: y0dg0Sqs4xw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
 duration: 114
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

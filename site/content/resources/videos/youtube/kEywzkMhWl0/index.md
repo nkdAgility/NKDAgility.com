@@ -2,8 +2,14 @@
 title: One critical skill for a Scrum Master and why?
 short_title: One Critical Skill for a Scrum Master
 description: Teaching is the key skill for Scrum Masters, enabling teams to understand Agile principles, embrace change, and achieve deeper engagement and lasting transformation.
+tldr: The most important skill for a Scrum Master is effective teaching, especially helping teams understand the reasons behind Agile practices rather than just the mechanics. When Scrum Masters focus on teaching the 'why,' teams become more engaged, motivated, and open to change. Development managers should encourage Scrum Masters to develop strong teaching abilities to drive successful Agile transformation.
 date: 2023-04-25T07:00:15Z
-weight: 665
+lastmod: 2023-04-25T07:00:15Z
+weight: 495
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: kEywzkMhWl0
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: one-critical-skill-for-a-scrum-master-and-why
 aliases:
-- /resources/kEywzkMhWl0
-- /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
-- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+  - /resources/kEywzkMhWl0
+  - /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
+  - /resources/videos/one-critical-skill-for-a-scrum-master-and-why
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 aliasesArchive:
-- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
-- /resources/1-critical-skill-for-a-scrum-master-and-why
-- /resources/one-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
-- one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
+  - /resources/videos/one-critical-skill-for-a-scrum-master-and-why
+  - /resources/1-critical-skill-for-a-scrum-master-and-why
+  - /resources/one-critical-skill-for-a-scrum-master-and-why
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
+  - /resources/1-critical-skill-for-a-scrum-master-and-why-
+  - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+  - one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Scrum Master
-- Agile Transformation
-- Professional Scrum
+  - Scrum Master
+  - Agile Transformation
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:13:02Z
   short_title: 2025-07-07T17:55:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:10Z
 videoId: kEywzkMhWl0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

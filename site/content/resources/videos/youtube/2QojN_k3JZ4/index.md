@@ -2,8 +2,14 @@
 title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
 short_title: Definition of Done in Agile Teams
 description: Explores how Agile teams can clarify and align on the true meaning of "done" to ensure quality, reduce rework, and meet leadership expectations through clear definitions.
+tldr: Many Agile teams misunderstand what "done" really means, leading to gaps in quality and unmet expectations. Clearly defining "done" with input from both leadership and the team ensures consistent quality, reduces rework, and builds trust with stakeholders. Development managers should regularly review and refine their team's definition of done to align with evolving business needs and maintain high standards.
 date: 2023-12-07T11:00:05Z
+lastmod: 2023-12-07T11:00:05Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 2QojN_k3JZ4
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 aliases:
-- /resources/2QojN_k3JZ4
-- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
-- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
+  - /resources/2QojN_k3JZ4
+  - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+  - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+  - /resources/videos/-shorts-7-virtues-of-agile-diligence
 aliasesArchive:
-- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
-- /resources/-shorts-7-virtues-of-agile-diligence
-- bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+  - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+  - /resources/videos/-shorts-7-virtues-of-agile-diligence
+  - /resources/-shorts-7-virtues-of-agile-diligence
+  - bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
+  - Leadership
 tags:
-- Definition of Done
-- Software Development
-- Working Software
+  - Definition of Done
+  - Software Development
+  - Working Software
+  - Personal
 Watermarks:
   description: 2025-05-07T13:07:10Z
   short_title: 2025-07-07T17:51:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:34Z
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

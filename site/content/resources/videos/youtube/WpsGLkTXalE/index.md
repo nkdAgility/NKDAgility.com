@@ -2,8 +2,14 @@
 title: 'Breaking the Silence: How to Combat the Hidden Dangers in Agile Teams'
 short_title: Combatting Silence in Agile Teams
 description: Explores the risks of unspoken issues in Agile teams, detailing how silence harms communication, trust, and value delivery, and offers strategies to foster open dialogue.
+tldr: Silence in Agile teams can lead to poor communication, lack of accountability, and misleading commitments, which undermine value delivery, erode trust, and stall growth. Managers should actively foster open communication, model vulnerability, and set clear expectations to prevent these issues. Prioritising honest dialogue and celebrating those who speak up will help teams deliver better results and maintain a healthy, agile culture.
 date: 2023-11-10T06:45:01Z
-weight: 1000
+lastmod: 2023-11-10T06:45:01Z
+weight: 715
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: WpsGLkTXalE
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 aliases:
-- /resources/WpsGLkTXalE
-- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
-- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
-- /resources/videos/7-signs-of-the-agile-apocalypse-silence
+  - /resources/WpsGLkTXalE
+  - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
+  - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
+  - /resources/videos/7-signs-of-the-agile-apocalypse-silence
 aliasesArchive:
-- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
-- /resources/videos/7-signs-of-the-agile-apocalypse-silence
-- /resources/7-signs-of-the-agile-apocalypse-silence
-- breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
+  - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
+  - /resources/videos/7-signs-of-the-agile-apocalypse-silence
+  - /resources/7-signs-of-the-agile-apocalypse-silence
+  - breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Leadership
-- Agile Philosophy
-- Organisational Culture
-- Social Technologies
-- Psychological Safety
-- Team Motivation
+  - Team Collaboration
+  - Personal
+  - Agile Leadership
+  - Agile Transformation
+  - Agile Philosophy
+  - Organisational Culture
+  - Social Technologies
+  - Psychological Safety
+  - Team Motivation
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:07:57Z
   short_title: 2025-07-07T17:51:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:12Z
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

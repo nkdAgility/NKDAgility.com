@@ -2,8 +2,14 @@
 title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
 short_title: The Importance of Competence in Organizations
 description: Explores how fostering competence, continuous learning, and well-being in organisations leads to happier teams, better products, and sustainable growth.
+tldr: Competence is crucial for building successful products and teams, so organizations should invest in continuous learning, experimentation, and employee well-being to foster engagement and growth. Happy, skilled employees are more productive, innovative, and likely to stay, while neglecting competence leads to mediocrity and high turnover. Development managers should prioritize hiring for skills, support ongoing training, and recognize achievements to create a thriving, high-performing team.
 date: 2024-10-15T06:45:00Z
+lastmod: 2024-10-15T06:45:00Z
 weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: I9avUDYFw-E
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 aliases:
-- /resources/I9avUDYFw-E
-- /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
-- /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+  - /resources/I9avUDYFw-E
+  - /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+  - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 aliasesArchive:
-- /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
-- /resources/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
-- /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
-- /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
-- the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+  - /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+  - /resources/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+  - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+  - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+  - the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Competence
-- Continuous Improvement
+  - Competence
+  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T12:57:30Z
   short_title: 2025-07-07T17:47:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:33Z
 videoId: I9avUDYFw-E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
 duration: 112
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

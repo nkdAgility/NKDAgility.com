@@ -2,8 +2,14 @@
 title: Is Your Project Ecosystem Truly Agile?
 short_title: Is Your Project Ecosystem Truly Agile?
 description: Explains why true agility requires end-to-end automation and short feedback loops, not just Agile teams, to maximise value and efficiency for stakeholders in project delivery.
+tldr: Having Agile development teams is not enough if your deployment processes remain slow and bureaucratic, as this creates delays, reduces value, and frustrates teams. Automating deployment and testing, implementing CI/CD pipelines, and shortening feedback loops are essential to achieving true end-to-end agility and maximizing stakeholder value. Review your current processes for bottlenecks, start automating where possible, and involve stakeholders early and often to ensure your entire project ecosystem is genuinely Agile.
 date: 2024-07-31T06:45:01Z
+lastmod: 2024-07-31T06:45:01Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: cGOa0rg_L-8
 ResourceImport: true
 ResourceType: videos
@@ -11,52 +17,50 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-your-project-ecosystem-truly-agile
 aliases:
-- /resources/cGOa0rg_L-8
-- /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
-- /resources/videos/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+  - /resources/cGOa0rg_L-8
+  - /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+  - /resources/videos/is-your-project-ecosystem-truly-agile
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
 aliasesArchive:
-- /resources/videos/is-your-project-ecosystem-truly-agile
-- /resources/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
-- is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+  - /resources/videos/is-your-project-ecosystem-truly-agile
+  - /resources/is-your-project-ecosystem-truly-agile
+  - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+  - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+  - is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- DevOps
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Business Agility
-- Enterprise Agility
-- Organisational Agility
-- Working Software
-- Operational Practices
-- Agile Strategy
-- Pragmatic Thinking
-- Product Delivery
-- Deployment Frequency
-- Team Collaboration
-- Continuous Improvement
-- Release Management
-- Agile Planning
-- Continuous Delivery
+  - Software Development
+  - Business Agility
+  - Enterprise Agility
+  - Organisational Agility
+  - Working Software
+  - Operational Practices
+  - Agile Strategy
+  - Pragmatic Thinking
+  - Product Delivery
+  - Deployment Frequency
+  - Team Collaboration
+  - Continuous Improvement
+  - Release Management
+  - Agile Planning
+  - Continuous Delivery
 Watermarks:
   description: 2025-05-07T13:02:25Z
   short_title: 2025-07-07T17:48:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:30Z
 videoId: cGOa0rg_L-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

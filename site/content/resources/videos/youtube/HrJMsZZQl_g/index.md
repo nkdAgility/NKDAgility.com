@@ -2,8 +2,14 @@
 title: When is an APS course appropriate for a scrum team?
 short_title: When Is an APS Course Right for Scrum Teams
 description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping them identify and remove ineffective practices to improve Agile performance.
+tldr: An APS course is valuable for Scrum teams that want to deepen their understanding of core Scrum principles and shed ineffective practices that may have accumulated over time. It helps teams focus on delivering a working product each iteration and provides practical exercises, like the Barnacle Exercise, to identify and remove process inefficiencies. Consider APS if your team needs to realign with authentic Scrum practices and drive meaningful agile transformation.
 date: 2023-10-12T08:32:45Z
+lastmod: 2023-10-12T08:32:45Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: HrJMsZZQl_g
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
 aliases:
-- /resources/HrJMsZZQl_g
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
+  - /resources/HrJMsZZQl_g
+  - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 aliasesArchive:
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
-- when-is-an-aps-course-appropriate-for-a-scrum-team
+  - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
+  - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
+  - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+  - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
+  - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
+  - when-is-an-aps-course-appropriate-for-a-scrum-team
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
+  - Social Technologies
+  - Agile Frameworks
+  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:08:50Z
   short_title: 2025-07-07T17:52:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:40Z
 videoId: HrJMsZZQl_g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

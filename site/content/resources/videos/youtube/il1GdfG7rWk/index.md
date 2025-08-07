@@ -2,8 +2,14 @@
 title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
 short_title: Mastering Product Backlog Management
 description: Learn the core skills and best practices for effective product backlog management, including risk, value, sizing, learning, and refinement to maximise product delivery.
+tldr: Effective product backlog management is critical for delivering value, and product owners remain accountable even when delegating tasks. Focus on managing risk, maximizing value, sizing items for quick delivery, and embracing learning through iteration; regular refinement and clear communication with the team and stakeholders are essential. Review your backlog often, break down large or risky items, and seek help if needed to ensure your team delivers the right outcomes efficiently.
 date: 2023-12-18T07:00:15Z
+lastmod: 2023-12-18T07:00:15Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: il1GdfG7rWk
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-product-backlog-management-essential-skills-for-product-owners
 aliases:
-- /resources/il1GdfG7rWk
-- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
+  - /resources/il1GdfG7rWk
+  - /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 aliasesArchive:
-- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
-- mastering-product-backlog-management-essential-skills-for-product-owners
+  - /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+  - /resources/mastering-product-backlog-management-essential-skills-for-product-owners
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
+  - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+  - mastering-product-backlog-management-essential-skills-for-product-owners
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
-- Scrum
+  - Product Development
+  - Product Management
+  - Scrum
 tags:
-- Product Backlog
-- Product Owner
-- Agile Planning
-- Professional Scrum
-- Value Delivery
-- Agile Product Management
-- Backlog Refinement
-- Product Delivery
-- Pragmatic Thinking
-- Agile Planning Tools
-- Software Development
+  - Product Backlog
+  - Product Owner
+  - Agile Planning
+  - Professional Scrum
+  - Value Delivery
+  - Agile Product Management
+  - Backlog Refinement
+  - Product Delivery
+  - Pragmatic Thinking
+  - Agile Planning Tools
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:06:52Z
   short_title: 2025-07-07T17:50:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:03Z
 videoId: il1GdfG7rWk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
 duration: 387
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

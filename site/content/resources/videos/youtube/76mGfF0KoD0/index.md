@@ -2,8 +2,14 @@
 title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
 short_title: When to Use Agile Process Simulation Workshop
 description: Learn when to use an Agile Process Simulation workshop to support struggling Scrum Masters, improve team dynamics, and foster collaborative, effective Scrum adoption.
+tldr: If your Scrum Master is struggling with the team, first assess whether the issue is with their approach or deeper team dynamics. An Agile Process Simulation workshop can help by engaging the team in open dialogue and tailored learning, empowering them to decide if Scrum fits their needs. Prioritize collaboration and self-discovery over imposing solutions to achieve better team outcomes.
 date: 2023-04-05T07:00:03Z
-weight: 640
+lastmod: 2023-04-05T07:00:03Z
+weight: 465
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 76mGfF0KoD0
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 aliases:
-- /resources/76mGfF0KoD0
-- /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+  - /resources/76mGfF0KoD0
+  - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+  - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
 aliasesArchive:
-- /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
-- is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+  - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+  - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+  - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+  - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+  - is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Software Development
-- Scrum Master
-- Scrum Team
-- Team Performance
+  - Software Development
+  - Scrum Master
+  - Organisational Culture
+  - Scrum Team
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:13:22Z
   short_title: 2025-07-07T17:56:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:56Z
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,35 +1,38 @@
 ---
 title: 'A change for the better #3 - SSW to Northwest Cadence'
 description: Reflects on lessons learned at SSW in software process, technology, and communication, and details a career move to an ALM consultant role at Northwest Cadence in Seattle.
+date: 2010-09-07
+lastmod: 2010-09-07
+weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: a_PdCAmRAp9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 28
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-07
-weight: 390
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-change-for-the-better-3
 aliases:
-- /resources/a_PdCAmRAp9
+  - /resources/a_PdCAmRAp9
 aliasesArchive:
-- /blog/a-change-for-the-better-3
-- /a-change-for-the-better-3
-- /a-change-for-the-better--3---ssw-to-northwest-cadence
-- /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
-- /resources/blog/a-change-for-the-better-3
-tags:
-- Software Development
+  - /blog/a-change-for-the-better-3
+  - /a-change-for-the-better-3
+  - /a-change-for-the-better--3---ssw-to-northwest-cadence
+  - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
+  - /resources/blog/a-change-for-the-better-3
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-nwc-128-link-2-2.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:21:33Z
-concepts: []
+ResourceImportId: 28
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-nwc-128-link-2-2.png
 
 ---
 Over the last 11 months, I have worked for a fantastic group of people at SSW and on a fantastic array of projects. However, the time has now come to specialise in one specific area. I have worked with Visual Studio ALM since its launch in 2005 and more recently with Scrum and the Professional Scrum Developer course that launched in April. Therefore, to this end I am leaving my job as a Solution Architect at [SSW](http://ssw.com.au) for an ALM Consultant role at [Northwest Cadence](http://nwcadence.com).   

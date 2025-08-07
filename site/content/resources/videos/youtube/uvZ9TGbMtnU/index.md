@@ -2,8 +2,14 @@
 title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
 short_title: Ditching Special Sprints for True Agile Delivery
 description: Explains why relying on special Sprints undermines Agile, and advocates for continuous improvement, accountability, and delivering usable products each Sprint.
+tldr: Relying on special Sprints like Sprint Zero or bug fix Sprints undermines true Agile practices by encouraging risky behavior, diluting focus, and creating a false sense of security. Teams should instead prioritize delivering a usable product at the end of every Sprint, foster accountability, and integrate quality assurance into regular work. Development managers should avoid safety nets and focus on continuous improvement and value delivery each Sprint.
 date: 2024-01-04T12:14:45Z
+lastmod: 2024-01-04T12:14:45Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: uvZ9TGbMtnU
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliases:
-- /resources/uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+  - /resources/uvZ9TGbMtnU
+  - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+  - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 aliasesArchive:
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
-- ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+  - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+  - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
+  - ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Increment
-- Agile Transformation
-- Working Software
-- Software Development
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Planning
-- Agile Values and Principles
+  - Software Development
+  - Increment
+  - Social Technologies
+  - Agile Transformation
+  - Working Software
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Agile Planning
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:06:38Z
   short_title: 2025-07-07T17:50:27Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:34Z
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

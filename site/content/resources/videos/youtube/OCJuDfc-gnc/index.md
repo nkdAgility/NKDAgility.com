@@ -2,8 +2,14 @@
 title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
 short_title: Scaling Agility in the Future of Work
 description: Explores practical strategies for scaling agile practices, key metrics, virtual training adaptations, and global insights to navigate change in the evolving future of work.
+tldr: Scaling agility is about more than just expanding frameworks like Scrum or Nexus; it requires focusing on core practices, using meaningful metrics, and adapting to new ways of working such as virtual training. Key insights include the importance of revisiting Scrum fundamentals, tailoring metrics to your context, and leveraging technology for effective remote collaboration. Development managers should prioritize continuous learning, experiment with virtual tools, and stay open to sharing experiences to navigate the challenges of scaling in today’s changing work environment.
 date: 2020-03-25T16:17:15Z
-weight: 1000
+lastmod: 2020-03-25T16:17:15Z
+weight: 730
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: OCJuDfc-gnc
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 aliases:
-- /resources/OCJuDfc-gnc
+  - /resources/OCJuDfc-gnc
 aliasesArchive:
-- /resources/videos/th-march-office-hours-ask-me-anything
-- /resources/videos/25th-march-2020-office-hours-ask-me-anything
-- /resources/25th-march-2020-office-hours-ask-me-anything
-- /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
-- scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+  - /resources/videos/th-march-office-hours-ask-me-anything
+  - /resources/videos/25th-march-2020-office-hours-ask-me-anything
+  - /resources/25th-march-2020-office-hours-ask-me-anything
+  - /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+  - scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:16:01Z
   short_title: 2025-07-07T17:58:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:37Z
 videoId: OCJuDfc-gnc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

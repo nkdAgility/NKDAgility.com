@@ -1,35 +1,42 @@
 ---
 title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
+short_title: Upgrading Surface Pro 2 to Windows 10 Preview
 description: A first-hand account of upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring Microsoft’s shift to agile development and continuous delivery for Windows.
+tldr: Microsoft is shifting Windows development to a continuous delivery model, releasing new features every four weeks and seeking direct user feedback through the Windows 10 Technical Preview. This approach, inspired by the success of agile practices in other Microsoft teams, aims to avoid past mistakes by involving users early and often, though it requires technical expertise and a willingness to handle potential issues. Development managers should consider encouraging technically skilled team members to participate in preview programs to help shape future releases and provide valuable feedback.
+date: 2014-10-02
+lastmod: 2014-10-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: yn8SQ53TMaP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10746
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: agility-windows-10-upgrading-surface-pro-2
+slug: agility-and-windows-10-upgrading-my-surface-pro-2
 aliases:
-- /resources/yn8SQ53TMaP
+  - /resources/yn8SQ53TMaP
 aliasesArchive:
-- /blog/agility-windows-10-upgrading-surface-pro-2
-- /agility-windows-10-upgrading-surface-pro-2
-- /agility-and-windows-10--upgrading-my-surface-pro-2
-- /blog/agility-and-windows-10--upgrading-my-surface-pro-2
-- /resources/blog/agility-windows-10-upgrading-surface-pro-2
-tags:
-- Windows
+  - /blog/agility-windows-10-upgrading-surface-pro-2
+  - /agility-windows-10-upgrading-surface-pro-2
+  - /agility-and-windows-10--upgrading-my-surface-pro-2
+  - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
+  - /resources/blog/agility-windows-10-upgrading-surface-pro-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-12-12.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-12T14:21:11Z
-concepts: []
+  tldr: 2025-08-07T13:27:17Z
+  short_title: 2025-08-07T13:27:18Z
+ResourceImportId: 10746
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-12-12.png
 
 ---
 You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.

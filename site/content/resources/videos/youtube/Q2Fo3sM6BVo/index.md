@@ -2,8 +2,14 @@
 title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 short_title: Scrum Values, Roles, Artifacts, and Events
 description: Explains Scrum’s core values, roles, artifacts, and events, highlighting how they support teamwork, transparency, and adaptability in managing complex projects.
+tldr: Scrum is a flexible framework that helps teams deliver value through transparency, clear roles, and structured events, all grounded in trust and five core values. Key elements include defined accountabilities, essential artifacts for decision-making, and regular events to inspect and adapt work. To get the most from Scrum, focus on building trust, maintaining transparency, and continuously improving team processes.
 date: 2022-10-18T16:13:02Z
-weight: 690
+lastmod: 2022-10-18T16:13:02Z
+weight: 460
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: Q2Fo3sM6BVo
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 aliases:
-- /resources/Q2Fo3sM6BVo
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- /resources/videos/the-scrum-framework
+  - /resources/Q2Fo3sM6BVo
+  - /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+  - /resources/videos/the-scrum-framework
 aliasesArchive:
-- /resources/videos/the-scrum-framework
-- /resources/videos/the-scrum-framework!
-- /resources/the-scrum-framework!
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+  - /resources/videos/the-scrum-framework
+  - /resources/videos/the-scrum-framework!
+  - /resources/the-scrum-framework!
+  - /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+  - unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 source: youtube
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Professional Scrum
-- Software Development
-- Agile Product Management
-- Team Performance
-- Agile Planning
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Product Management
+  - Team Performance
+  - Organisational Agility
+  - Agile Planning
 Watermarks:
   description: 2025-05-07T13:14:41Z
   short_title: 2025-07-07T17:57:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:38Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

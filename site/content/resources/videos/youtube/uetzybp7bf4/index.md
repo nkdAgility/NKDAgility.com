@@ -2,8 +2,14 @@
 title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 short_title: Empowering Teams with Financial Insights
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
+tldr: Giving your teams clear financial insights and ownership over their work leads to better decision-making and higher returns. When teams understand both the value they create and the costs involved, they align their efforts with business goals and are more motivated to improve. Start sharing financial context and encourage team-level profit and loss analysis to drive accountability and smarter product decisions.
 date: 2024-12-12T06:30:00Z
+lastmod: 2024-12-12T06:30:00Z
 weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: uetzybp7bf4
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 aliases:
-- /resources/uetzybp7bf4
-- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-- /resources/videos/building-a-culture-of-continuous-improvement
+  - /resources/uetzybp7bf4
+  - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+  - /resources/videos/building-a-culture-of-continuous-improvement
 aliasesArchive:
-- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-- /resources/videos/building-a-culture-of-continuous-improvement
-- /resources/building-a-culture-of-continuous-improvement
-- empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+  - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+  - /resources/videos/building-a-culture-of-continuous-improvement
+  - /resources/building-a-culture-of-continuous-improvement
+  - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Management
-- Leadership
-- Product Development
+  - Product Management
+  - Leadership
+  - Product Development
 tags:
-- Value Delivery
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:56:45Z
   short_title: 2025-07-07T17:47:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:58Z
 videoId: uetzybp7bf4
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
+tldr: Trying to do too many tasks at once reduces team productivity due to context switching and leads to slower delivery and burnout. Focusing on finishing work before starting new tasks, limiting work in progress, and prioritizing by business value helps teams deliver faster and more predictably. Development managers should ensure their teams complete current work before taking on new tasks to maximize efficiency and business impact.
 date: 2024-01-31T14:26:11Z
+lastmod: 2024-01-31T14:26:11Z
 weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 8aIUldVDtGw
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: stop-starting-and-start-finishing-the-key-to-team-success
 aliases:
-- /resources/8aIUldVDtGw
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing
+  - /resources/8aIUldVDtGw
+  - /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+  - /resources/videos/stop-starting-and-start-finishing
 aliasesArchive:
-- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing!
-- /resources/stop-starting-and-start-finishing!
-- /resources/videos/stop-starting-and-start-finishing
-- stop-starting-and-start-finishing-the-key-to-team-success
+  - /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+  - /resources/stop-starting-and-start-finishing-the-key-to-team-success
+  - /resources/videos/stop-starting-and-start-finishing!
+  - /resources/stop-starting-and-start-finishing!
+  - /resources/videos/stop-starting-and-start-finishing
+  - stop-starting-and-start-finishing-the-key-to-team-success
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Lean
-- Product Management
+  - Product Development
+  - Lean
+  - Product Management
 tags:
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Cycle Time
-- Lean Principles
-- Team Performance
-- Flow Efficiency
-- Lean Thinking
-- Throughput
-- Agile Product Management
-- Software Development
-- Product Delivery
+  - Cycle Time
+  - Product Delivery
+  - Operational Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Lean Principles
+  - Team Performance
+  - Flow Efficiency
+  - Lean Thinking
+  - Throughput
+  - Lean Product Development
+  - Social Technologies
+  - Agile Product Management
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:27Z
 videoId: 8aIUldVDtGw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,34 +1,37 @@
 ---
 title: Configuring a PowerShell Adapter for the TFS Integration Platform
 description: Explains how to set up and configure a PowerShell adapter in the TFS Integration Platform to automate source control migrations, with custom scripts for each change type.
+date: 2011-06-23
+lastmod: 2011-06-23
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: gzuPSzbixBn
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3652
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-23
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configuring-a-powershell-adapter-for-the-tfs-integration-platform
 aliases:
-- /resources/gzuPSzbixBn
+  - /resources/gzuPSzbixBn
 aliasesArchive:
-- /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
-- /configuring-a-powershell-adapter-for-the-tfs-integration-platform
-- /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
-tags:
-- Install and Configuration
-- Software Development
-- System Configuration
+  - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+  - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
+  - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:10:30Z
-concepts: []
+ResourceImportId: 3652
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![](images/image_thumb-1-1.png)

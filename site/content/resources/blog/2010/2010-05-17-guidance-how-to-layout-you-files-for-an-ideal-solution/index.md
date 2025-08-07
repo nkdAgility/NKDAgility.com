@@ -1,36 +1,39 @@
 ---
 title: 'Guidance: How to layout you files for an Ideal Solution'
 description: Learn best practices for organising solution and project files in version control, including folder structure, naming conventions, and branching for maintainable code.
+date: 2010-05-17
+lastmod: 2010-05-17
+weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: qHU7H_raZge
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 42
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-05-17
-weight: 505
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
 aliases:
-- /resources/qHU7H_raZge
+  - /resources/qHU7H_raZge
 aliasesArchive:
-- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-- /guidance-how-to-layout-you-files-for-an-ideal-solution
-- /guidance--how-to-layout-you-files-for-an-ideal-solution
-- /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
-- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-tags:
-- Software Development
-- Modern Source Control
+  - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+  - /guidance-how-to-layout-you-files-for-an-ideal-solution
+  - /guidance--how-to-layout-you-files-for-an-ideal-solution
+  - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
+  - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-11-11.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Modern Source Control
 Watermarks:
   description: 2025-05-13T15:21:57Z
-concepts: []
+ResourceImportId: 42
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---
 ![vs2010alm](images/7129adaece20_EC32-vs2010alm_-10-10.png)Creating a solution and having it maintainable over time is an art and not a science. I like being pedantic and having a place for everything, no matter how small.

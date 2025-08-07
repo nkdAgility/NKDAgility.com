@@ -2,8 +2,14 @@
 title: 3 core practices of Kanban. Actively managing work items in a workflow.
 short_title: Actively Managing Work in Kanban Workflows
 description: Explains how to actively manage Kanban workflows by monitoring work in progress, resolving bottlenecks, and optimising flow for greater efficiency and value delivery.
+tldr: Actively managing your Kanban workflow is essential for keeping work moving efficiently; this involves regularly reviewing your board, adjusting work in progress limits, and quickly addressing bottlenecks or blocked items. Monitoring for aging or stuck tasks and using data to optimize flow helps prevent delays and maximize team productivity. Development managers should ensure their teams are not just visualizing work but actively engaging with and improving the workflow.
 date: 2024-02-26T14:06:47Z
+lastmod: 2024-02-26T14:06:47Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: u56sOCe6G0A
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 aliases:
-- /resources/u56sOCe6G0A
-- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
+  - /resources/u56sOCe6G0A
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
 aliasesArchive:
-- /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
-- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
-- /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-- /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
-- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
-- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
+  - /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+  - /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+  - /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+  - 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+  - 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
-- Flow Efficiency
-- Operational Practices
-- Throughput
-- Pragmatic Thinking
+  - Agile Frameworks
+  - Software Development
+  - Flow Efficiency
+  - Operational Practices
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:35Z
   short_title: 2025-07-07T17:49:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:26Z
 videoId: u56sOCe6G0A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

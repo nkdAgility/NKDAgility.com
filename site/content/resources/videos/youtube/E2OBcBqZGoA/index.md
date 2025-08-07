@@ -2,8 +2,14 @@
 title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value in Any Organisation'
 short_title: Decentralising Teams to Maximise Agility & Value
 description: Explores how decentralising decision-making boosts team agility, engagement, and innovation, helping organisations of any size maximise value and adapt to change.
+tldr: Decentralising decision-making empowers teams to respond faster, innovate more, and feel greater ownership, which leads to higher value delivery. Involving team members in shaping the organisation’s goals and connecting their skills to outcomes boosts engagement and collaboration. Development managers should focus on pushing responsibility to teams and fostering a shared sense of purpose to maximise results.
 date: 2023-09-28T11:09:12Z
-weight: 1000
+lastmod: 2023-09-28T11:09:12Z
+weight: 820
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: E2OBcBqZGoA
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 aliases:
-- /resources/E2OBcBqZGoA
-- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
-- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
-- /resources/videos/05-october-2023-agile-leadership-webinar
+  - /resources/E2OBcBqZGoA
+  - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
+  - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+  - /resources/videos/05-october-2023-agile-leadership-webinar
 aliasesArchive:
-- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
-- /resources/videos/05-october-2023-agile-leadership-webinar
-- /resources/05-october-2023-agile-leadership-webinar
-- unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
+  - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+  - /resources/videos/05-october-2023-agile-leadership-webinar
+  - /resources/05-october-2023-agile-leadership-webinar
+  - unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Beta Codex
-- Social Technologies
-- Team Motivation
-- Organisational Culture
-- Pragmatic Thinking
-- Organisational Agility
-- Organisational Change
-- Value Delivery
+  - Beta Codex
+  - Social Technologies
+  - Team Motivation
+  - Organisational Culture
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Organisational Change
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:09:11Z
   short_title: 2025-07-07T17:52:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:23Z
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

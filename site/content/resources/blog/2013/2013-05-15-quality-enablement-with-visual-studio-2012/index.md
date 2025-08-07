@@ -1,48 +1,51 @@
 ---
 title: Quality enablement with Visual Studio 2012
 description: Explores how Visual Studio 2012 supports continuous quality enablement, automated testing, and rapid delivery in modern software development for higher user satisfaction.
+date: 2013-05-15
+lastmod: 2013-05-15
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: YcLApPV4Zgj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9487
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-05-15
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: quality-enablement-with-visual-studio-2012
 aliases:
-- /resources/YcLApPV4Zgj
+  - /resources/YcLApPV4Zgj
 aliasesArchive:
-- /blog/quality-enablement-with-visual-studio-2012
-- /quality-enablement-with-visual-studio-2012
-- /resources/blog/quality-enablement-with-visual-studio-2012
-tags:
-- Continuous Delivery
-- Software Development
-- Continuous Improvement
-- Engineering Practices
-- Frequent Releases
-- Release Management
-- Shift Left Strategy
-- Technical Excellence
-- Value Delivery
-- Application Lifecycle Management
-- Working Software
-- Operational Practices
-- Product Delivery
-- Pragmatic Thinking
-- Technical Mastery
+  - /blog/quality-enablement-with-visual-studio-2012
+  - /quality-enablement-with-visual-studio-2012
+  - /resources/blog/quality-enablement-with-visual-studio-2012
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-- DevOps
-preview: nakedalm-experts-visual-studio-alm-18-18.png
+  - Engineering Excellence
+  - DevOps
+tags:
+  - Continuous Delivery
+  - Software Development
+  - Continuous Improvement
+  - Engineering Practices
+  - Frequent Releases
+  - Release Management
+  - Shift Left Strategy
+  - Technical Excellence
+  - Value Delivery
+  - Application Lifecycle Management
+  - Working Software
+  - Operational Practices
+  - Product Delivery
+  - Pragmatic Thinking
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:06:25Z
-concepts: []
+ResourceImportId: 9487
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---
 In the modern application lifecycle one of the key messages is one of quality enablement. Quality will be the key differentiator between you and your competitors over the next few years and the old excuses are just that… old.

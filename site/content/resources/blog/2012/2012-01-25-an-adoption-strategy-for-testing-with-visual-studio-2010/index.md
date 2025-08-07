@@ -1,32 +1,35 @@
 ---
 title: An adoption strategy for testing with Visual Studio 2010
 description: Guidance on adopting Visual Studio 2010 test tools, including Microsoft Test Manager, hands-on labs, and agile training to improve collaboration and software quality.
+date: 2012-01-25
+lastmod: 2012-01-25
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: InqupQ5d983
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4223
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-25
-weight: 530
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
-- /resources/InqupQ5d983
+  - /resources/InqupQ5d983
 aliasesArchive:
-- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-- /an-adoption-strategy-for-testing-with-visual-studio-2010
-- /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-tags: []
+  - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+  - /an-adoption-strategy-for-testing-with-visual-studio-2010
+  - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:41Z
-concepts: []
+ResourceImportId: 4223
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 Its hard for developers to work with testers and its hard for testers to work with developers. There are many tools out there to help teams break down those barriers between them and I really like both the features and workflow of Microsoft Test Manager (MTM). While I am not a tester, I am a developer and the rich bugs that are produced by MTM help me reproduce that evasive bug and improves my relationship with what should be my teammates.

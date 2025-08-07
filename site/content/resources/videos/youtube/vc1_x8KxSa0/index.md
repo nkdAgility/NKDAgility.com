@@ -4,7 +4,12 @@ short_title: 'Culture Shift: Legacy Mindset to Modern Practice'
 description: Ditch the Big Bang rewrite. Discover why sustainable, in-place change drives true engineering excellence and lasting transformation in your teams.
 tldr: Big Bang rewrites of legacy systems usually fail due to high costs, delays, and unchanged team mindsets, while incremental in-place improvements deliver ongoing value and reduce risk. Sustainable change comes from building a culture of continuous improvement and engineering excellence, where teams refactor and modernise systems piece by piece. Development managers should focus on fostering this culture and invest in gradual, disciplined transformation rather than risky all-at-once rewrites.
 date: 2025-09-08T06:00:00Z
+lastmod: 2025-09-08T06:00:00Z
 weight: 155
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: vc1_x8KxSa0
 ResourceImport: true
 ResourceType: videos
@@ -12,33 +17,34 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-big-bang-rewrites-fail-how-sustainable-change-and-engineering-excellence-transform-legacy-systems
 aliases:
-- /resources/vc1_x8KxSa0
-- /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
+  - /resources/vc1_x8KxSa0
+  - /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
 aliasesArchive:
-- /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
-- 9-culture-shift-from-legacy-mindset-to-modern-practice
+  - /resources/videos/9-culture-shift-from-legacy-mindset-to-modern-practice
+  - 9-culture-shift-from-legacy-mindset-to-modern-practice
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Engineering Excellence
-- Technical Leadership
-- DevOps
+  - Engineering Excellence
+  - Technical Leadership
+  - DevOps
 tags:
-- Software Development
-- Organisational Culture
-- Continuous Improvement
-- Sociotechnical Systems
-- Organisational Agility
-- Continuous Learning
-- Pragmatic Thinking
-- Team Collaboration
-- Change Management
-- Digital Transformation
-- Business Agility
-- Organisational Change
-- Engineering Practices
+  - Organisational Culture
+  - Software Development
+  - Continuous Improvement
+  - Technical Mastery
+  - Organisational Change
+  - Organisational Agility
+  - Continuous Learning
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Change Management
+  - Digital Transformation
+  - Business Agility
+  - Sociotechnical Systems
+  - Engineering Practices
 Watermarks:
   description: 2025-07-24T14:48:31Z
   short_title: 2025-07-24T14:48:31Z
@@ -48,11 +54,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vc1_x8KxSa0/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAZ5bxP5lppMgpy3CqWGZTcmuZwYw
 duration: 380
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Moving from Legacy Mindset to Engineering Excellence: Why Big Bang Rewrites Fail and Sustainable Change Wins

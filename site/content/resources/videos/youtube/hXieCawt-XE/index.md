@@ -2,8 +2,14 @@
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 short_title: Mastering Kanban for Workflow Efficiency
 description: Learn how Kanban’s pull-based system boosts workflow efficiency by visualising tasks, setting WIP limits, managing bottlenecks, and enabling continuous process improvement.
+tldr: Kanban helps teams improve workflow efficiency by visualizing work, setting work-in-progress limits, and focusing on continuous improvement. Key practices include mapping out workflow stages, actively managing bottlenecks, and making waiting states visible to prevent overload. To get results, set clear WIP limits, monitor flow regularly, and address issues as they arise to keep work moving smoothly.
 date: 2024-03-05T07:00:18Z
+lastmod: 2024-03-05T07:00:18Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: hXieCawt-XE
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 aliases:
-- /resources/hXieCawt-XE
-- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less-do-more-with-pull-in-kanban
+  - /resources/hXieCawt-XE
+  - /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+  - /resources/videos/work-less-do-more-with-pull-in-kanban
 aliasesArchive:
-- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less,-do-more-with-pull-in-kanban
-- /resources/work-less,-do-more-with-pull-in-kanban
-- /resources/videos/work-less-do-more-with-pull-in-kanban
-- mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+  - /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+  - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+  - /resources/videos/work-less,-do-more-with-pull-in-kanban
+  - /resources/work-less,-do-more-with-pull-in-kanban
+  - /resources/videos/work-less-do-more-with-pull-in-kanban
+  - mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Operational Practices
-- Continuous Improvement
-- Lean Principles
-- Software Development
-- Flow Efficiency
-- Throughput
-- Lean Thinking
-- Agile Frameworks
-- Pragmatic Thinking
+  - Operational Practices
+  - Continuous Improvement
+  - Lean Principles
+  - Software Development
+  - Flow Efficiency
+  - Throughput
+  - Lean Thinking
+  - Agile Frameworks
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:29Z
   short_title: 2025-07-07T17:49:31Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:12Z
 videoId: hXieCawt-XE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: What is the most common mistake in sprint planning?
 short_title: Most Common Mistake in Sprint Planning
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
+tldr: The most common mistake in sprint planning is failing to define a clear and tangible sprint goal, which is essential for guiding the team's immediate work and connecting it to the broader product vision. A well-defined sprint goal provides focus, enables actionable stakeholder feedback, and helps the team understand and meet expectations. Development managers should ensure every sprint has a concrete goal that can be evaluated at the sprint review to drive progress and alignment.
 date: 2023-05-25T14:00:20Z
+lastmod: 2023-05-25T14:00:20Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: JVZzJZ5q0Hw
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-most-common-mistake-in-sprint-planning
 aliases:
-- /resources/JVZzJZ5q0Hw
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+  - /resources/JVZzJZ5q0Hw
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
 aliasesArchive:
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
-- what-is-the-most-common-mistake-in-sprint-planning
+  - /resources/what-is-the-most-common-mistake-in-sprint-planning
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+  - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+  - what-is-the-most-common-mistake-in-sprint-planning
 source: internal
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Product Delivery
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Social Technologies
+  - Agile Frameworks
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:12:11Z
   short_title: 2025-07-07T17:55:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:43Z
 videoId: JVZzJZ5q0Hw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

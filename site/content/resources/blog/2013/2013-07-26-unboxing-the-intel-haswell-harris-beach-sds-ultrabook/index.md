@@ -1,34 +1,37 @@
 ---
 title: 'Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook'
 description: Hands-on unboxing and first impressions of Intel’s Haswell Harris Beach SDS Ultrabook, highlighting hardware specs, sensors, Windows 8.1 setup, and developer features.
+date: 2013-07-26
+lastmod: 2013-07-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: D-CZSgtpLGe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9918
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-- /resources/D-CZSgtpLGe
+  - /resources/D-CZSgtpLGe
 aliasesArchive:
-- /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-tags: []
+  - /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+  - /unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+  - /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+  - /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+  - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: Web-Intel-Metro-icon-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:23:33Z
-concepts: []
+ResourceImportId: 9918
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: Web-Intel-Metro-icon-4-4.png
 
 ---
 I was contacted just over a week ago and asked if I would like to review the new developer Ultrabook from Intel, a “Harris Beach SDS Ultrabook SDP - PVT2 ISV”. Geek stuff, wohoo… (composure) … Why sure, I would love to review your new device.

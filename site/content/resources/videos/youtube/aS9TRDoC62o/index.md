@@ -2,8 +2,14 @@
 title: If a client hasn't considered DevOps consulting as part of their Agile Consulting needs, why should they?
 short_title: Why DevOps Consulting Complements Agile
 description: DevOps consulting enhances Agile by improving collaboration, accelerating delivery, and ensuring quality, making software development more efficient and resilient.
+tldr: Relying on Agile alone limits your team's ability to deliver quality software quickly and efficiently; integrating DevOps consulting breaks down silos, accelerates time to market, and embeds quality from the start. DevOps is more than tools, it is a culture shift that harmonizes development and operations, enabling continuous improvement and resilient deployments. To maximize Agile's benefits, development managers should invest in DevOps consulting to create a truly high-performing, adaptable software delivery process.
 date: 2023-08-21T07:00:01Z
+lastmod: 2023-08-21T07:00:01Z
 weight: 220
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: aS9TRDoC62o
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliases:
-- /resources/aS9TRDoC62o
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
-- /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/aS9TRDoC62o
+  - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+  - /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliasesArchive:
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
-- /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
-- /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
-- if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+  - /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
+  - /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
+  - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+  - if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+  - /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- DevOps
-- Engineering Excellence
-- Technical Leadership
+  - DevOps
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
+  - Software Development
+  - Operational Practices
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:09:58Z
   short_title: 2025-07-07T17:53:27Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:56Z
 videoId: aS9TRDoC62o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
 duration: 198
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

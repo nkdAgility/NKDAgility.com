@@ -2,8 +2,14 @@
 title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 short_title: Unpacking Assumptions in Product Development
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
+tldr: Many teams focus on delivering features quickly but often overlook the assumptions behind what users truly need, leading to wasted effort and misaligned products. The PPD V course helps product teams identify and challenge these assumptions through structured discovery, experimentation, and validation, fostering better collaboration and evidence-based decisions. Consider investing in approaches that prioritise learning and user value over simply shipping features.
 date: 2024-08-13T07:14:40Z
+lastmod: 2024-08-13T07:14:40Z
 weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: fUj1k47pDg8
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 aliases:
-- /resources/fUj1k47pDg8
-- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+  - /resources/fUj1k47pDg8
+  - /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+  - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 aliasesArchive:
-- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
-- unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+  - /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+  - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+  - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
+  - unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Product Discovery
-- Product Validation
+  - Customer Focus
+  - Value Delivery
+  - Product Validation
+  - Product Discovery
 Watermarks:
   description: 2025-05-07T13:02:11Z
   short_title: 2025-07-07T17:48:36Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:51Z
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,37 +1,40 @@
 ---
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
 description: Highlights new features in Visual Studio 2013 Team Foundation Server, including agile portfolio management, enhanced team collaboration, and web-based test management.
+date: 2013-06-26
+lastmod: 2013-06-26
+weight: 740
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: V5OQtr0U1IS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9677
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-26
-weight: 740
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: get-visual-studio-2013-team-foundation-server-while-its-hot
+slug: what's-new-in-visual-studio-2013-team-foundation-server-preview
 aliases:
-- /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
-- /resources/V5OQtr0U1IS
+  - /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
+  - /resources/V5OQtr0U1IS
 aliasesArchive:
-- /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-- /get-visual-studio-2013-team-foundation-server-while-its-hot
-- /what's-new-in-visual-studio-2013-team-foundation-server-preview
-- /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
-- /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-- /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
-tags:
-- Software Development
+  - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+  - /get-visual-studio-2013-team-foundation-server-while-its-hot
+  - /what's-new-in-visual-studio-2013-team-foundation-server-preview
+  - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
+  - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+  - /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-14-14.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:06:04Z
-concepts: []
+ResourceImportId: 9677
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---
 Steve Ballmer just announced the Visual Studio 2013 Go-Live preview at the Build summit not more than an hour ago so get Visual Studio 2013 Team Foundation Server while its hot! Remember that this Preview is covered by a Go-Live licence and is fully supported for production use.

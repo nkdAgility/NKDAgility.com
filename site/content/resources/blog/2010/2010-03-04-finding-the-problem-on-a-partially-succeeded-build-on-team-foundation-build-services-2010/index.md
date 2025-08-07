@@ -1,35 +1,38 @@
 ---
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
 description: Learn how to diagnose and resolve partially succeeded builds in Team Foundation Build Services 2010 by tracing test failures, identifying code issues, and managing bugs.
+date: 2010-03-04
+lastmod: 2010-03-04
+weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: YBExXvBtNAN
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 66
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-04
-weight: 490
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 aliases:
-- /resources/YBExXvBtNAN
+  - /resources/YBExXvBtNAN
 aliasesArchive:
-- /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-- /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-- /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-tags:
-- Software Development
-- Troubleshooting
-- Pragmatic Thinking
-preview: metro-visual-studio-2010-128-link-8-8.png
+  - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+  - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+  - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+layout: blog
+concepts: []
 categories:
-- Scrum
+  - Scrum
+tags:
+  - Software Development
+  - Troubleshooting
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:22:37Z
-concepts: []
+ResourceImportId: 66
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

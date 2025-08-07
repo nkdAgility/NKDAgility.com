@@ -2,8 +2,14 @@
 title: 'Story Points: A Ghost of Agile Past'
 short_title: Story Points vs Flow Metrics in Agile
 description: Explores the problems with story points in Agile, their impact on team behaviour, and why flow metrics offer a better way to measure progress and deliver real value.
+tldr: Story points have become a source of dysfunction in Agile teams, shifting focus from delivering value to hitting arbitrary targets and enabling misleading comparisons between teams. These issues are worsened when contracts tie performance to story point delivery, leading to counterproductive behaviors. Development managers should move away from story points and instead adopt flow metrics like cycle time and throughput, which provide more accurate, value-focused insights into team performance.
 date: 2023-12-29T07:00:14Z
+lastmod: 2023-12-29T07:00:14Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: beR21RHTUvo
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: story-points-a-ghost-of-agile-past
 aliases:
-- /resources/beR21RHTUvo
-- /resources/videos/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
+  - /resources/beR21RHTUvo
+  - /resources/videos/story-points-a-ghost-of-agile-past
+  - /resources/videos/5-ghosts-of-agile-past-story-points
 aliasesArchive:
-- /resources/videos/story-points-a-ghost-of-agile-past
-- /resources/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
-- /resources/5-ghosts-of-agile-past-story-points
-- story-points-a-ghost-of-agile-past
+  - /resources/videos/story-points-a-ghost-of-agile-past
+  - /resources/story-points-a-ghost-of-agile-past
+  - /resources/videos/5-ghosts-of-agile-past-story-points
+  - /resources/5-ghosts-of-agile-past-story-points
+  - story-points-a-ghost-of-agile-past
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Flow Efficiency
-- Value Delivery
-- Throughput
-- Agile Philosophy
-- Metrics and Learning
+  - Flow Efficiency
+  - Value Delivery
+  - Throughput
+  - Product Delivery
+  - Agile Philosophy
+  - Metrics and Learning
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:45Z
   short_title: 2025-07-07T17:50:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:51Z
 videoId: beR21RHTUvo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,40 +2,47 @@
 title: 'Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service'
 short_title: Organisational Change in the Ghana Police Service
 description: NKD Agility helped the Ghana Police Service drive organisational change using Scrum, enabling continuous improvement, transparency, and local ownership across all levels.
+tldr: The Ghana Police Service partnered with NKD Agility to drive real organisational change by embedding Scrum and evidence-based management, moving from rigid command structures to a system that enabled learning and adaptation at all levels. Key outcomes included new digital capabilities delivered every sprint, cross-functional teams taking ownership of change, and a national backlog created by officers themselves. The main takeaway is that transformation succeeded because change was practised through structured experimentation, not just planned or mandated, and development managers should focus on enabling systems that let teams drive and sustain their own improvements.
 date: 2025-06-10
+lastmod: 2025-06-10
 weight: 395
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: br0iGV9tHS5
 ResourceImport: false
 ResourceType: case-studies
 ResourceContentOrigin: human
 slug: enabled-organisational-change-in-the-ghana-police-service
 aliases:
-- /resources/br0iGV9tHS5
+  - /resources/br0iGV9tHS5
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Social Technologies
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
-- Organisational Change
-- Change Management
-- Agile Leadership
-- Continuous Improvement
-- Empirical Process Control
-- Ability to Innovate
-- Professional Scrum
-- Agile Strategy
-- Enterprise Agility
-- Sociotechnical Systems
-- Operational Practices
+  - Social Technologies
+  - Agile Transformation
+  - Organisational Agility
+  - Agile Frameworks
+  - Organisational Change
+  - Change Management
+  - Agile Leadership
+  - Continuous Improvement
+  - Empirical Process Control
+  - Ability to Innovate
+  - Professional Scrum
+  - Agile Strategy
+  - Enterprise Agility
+  - Sociotechnical Systems
+  - Operational Practices
 Watermarks:
   description: 2025-06-17T09:44:06Z
   short_title: 2025-07-07T16:43:35Z
+  tldr: 2025-08-07T12:11:26Z
 
 ---
 ## Client Context

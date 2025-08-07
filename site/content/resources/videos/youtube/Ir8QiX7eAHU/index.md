@@ -2,8 +2,14 @@
 title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
 short_title: 'Kanban WIP Limits: Managing Workflow Effectively'
 description: Explains how setting and adjusting Work-In-Progress (WIP) limits in Kanban helps teams manage workflow, prevent bottlenecks, and improve productivity and collaboration.
+tldr: Setting work-in-progress (WIP) limits is essential for an effective Kanban strategy because it prevents overload, exposes bottlenecks, and improves workflow. The optimal WIP limit for each stage should be found through experimentation and regular adjustment, aiming for a balance that maximizes flow without causing idle time or bottlenecks. Start small, monitor results, and adjust limits as needed to boost team productivity and collaboration.
 date: 2024-03-06T07:00:17Z
+lastmod: 2024-03-06T07:00:17Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Ir8QiX7eAHU
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-key-to-a-kanban-strategy-understanding-wip-limits
 aliases:
-- /resources/Ir8QiX7eAHU
-- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits-what-critical-factors-affect-them
+  - /resources/Ir8QiX7eAHU
+  - /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
+  - /resources/videos/wip-limits-what-critical-factors-affect-them
 aliasesArchive:
-- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits!-what-critical-factors-affect-them-
-- /resources/wip-limits!-what-critical-factors-affect-them-
-- /resources/videos/wip-limits-what-critical-factors-affect-them
-- the-key-to-a-kanban-strategy-understanding-wip-limits
+  - /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
+  - /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
+  - /resources/videos/wip-limits!-what-critical-factors-affect-them-
+  - /resources/wip-limits!-what-critical-factors-affect-them-
+  - /resources/videos/wip-limits-what-critical-factors-affect-them
+  - the-key-to-a-kanban-strategy-understanding-wip-limits
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
+  - Kanban
 tags:
-- Flow Efficiency
-- Software Development
-- Operational Practices
-- Throughput
-- Agile Frameworks
+  - Flow Efficiency
+  - Software Development
+  - Operational Practices
+  - Throughput
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:05:27Z
   short_title: 2025-07-07T17:49:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:10Z
 videoId: Ir8QiX7eAHU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
 duration: 464
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -1,38 +1,41 @@
 ---
 title: 'TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number'
 description: Explains how to use the TFS 2010 API to set the starting Work Item ID by programmatically creating and deleting items, avoiding ID conflicts with other systems.
+date: 2010-10-20
+lastmod: 2010-10-20
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: rRCNKBm5xct
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 21
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-10-20
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
-- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system.id-at-a-predefined-number
-- /resources/rRCNKBm5xct
+  - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system.id-at-a-predefined-number
+  - /resources/rRCNKBm5xct
 aliasesArchive:
-- /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
-- /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
-- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system.id-at-a-predefined-number
-tags:
-- Software Development
-- Windows
+  - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+  - /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+  - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
+  - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
+  - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+  - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system.id-at-a-predefined-number
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-5-5.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Windows
 Watermarks:
   description: 2025-05-13T15:11:23Z
-concepts: []
+ResourceImportId: 21
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-5-5.png
 
 ---
 This week my customer had a requirement to have all new work items created to have an ID greater than 40,000. They have another system that stores tickets and they don’t want any conflict.

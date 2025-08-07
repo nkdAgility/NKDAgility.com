@@ -1,32 +1,35 @@
 ---
 title: Commit to Visual Studio ALM on Area51
 description: Details the progress of the Visual Studio ALM StackExchange proposal on Area51, outlining voting, commitment stages, and how users can help launch the community.
+date: 2010-08-15
+lastmod: 2010-08-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: czqyZFQxRrp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 31
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-08-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: commit-to-visual-studio-alm-on-area51
 aliases:
-- /resources/czqyZFQxRrp
+  - /resources/czqyZFQxRrp
 aliasesArchive:
-- /blog/commit-to-visual-studio-alm-on-area51
-- /commit-to-visual-studio-alm-on-area51
-- /resources/blog/commit-to-visual-studio-alm-on-area51
-tags: []
+  - /blog/commit-to-visual-studio-alm-on-area51
+  - /commit-to-visual-studio-alm-on-area51
+  - /resources/blog/commit-to-visual-studio-alm-on-area51
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:21:38Z
-concepts: []
+ResourceImportId: 31
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)

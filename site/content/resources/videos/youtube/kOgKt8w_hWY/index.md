@@ -2,8 +2,14 @@
 title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous Improvement'
 short_title: How DevOps Transforms Enterprise Collaboration
 description: Explores how DevOps enhances enterprise collaboration, continuous improvement, automation, and customer focus to drive cultural and operational transformation.
+tldr: DevOps can transform enterprise software teams by fostering collaboration, encouraging continuous improvement, and enabling automation, which together lead to faster delivery and higher quality. Focusing on a customer-centric approach helps teams respond quickly to feedback and market changes. Development managers should prioritize building a culture that supports these principles to drive meaningful organizational change.
 date: 2020-06-16T12:16:52Z
-weight: 1000
+lastmod: 2020-06-16T12:16:52Z
+weight: 620
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: kOgKt8w_hWY
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 aliases:
-- /resources/kOgKt8w_hWY
+  - /resources/kOgKt8w_hWY
 aliasesArchive:
-- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
-- /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
-- /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
-- transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
+  - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+  - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+  - /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
+  - transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- DevOps
+  - DevOps
+  - Engineering Excellence
 tags:
-- Social Technologies
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:15:39Z
   short_title: 2025-07-07T17:58:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:34Z
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg
 duration: 35
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

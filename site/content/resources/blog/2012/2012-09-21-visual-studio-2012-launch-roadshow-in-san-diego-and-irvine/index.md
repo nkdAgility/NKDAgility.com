@@ -1,34 +1,37 @@
 ---
 title: Visual Studio 2012 Launch RoadShows around the World
 description: Global Visual Studio 2012 launch events featuring keynotes on IT consumerisation and agile development, with sessions in the UK, US, and Netherlands.
+date: 2012-09-21
+lastmod: 2012-09-21
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: HtT5KwXieea
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8834
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-21
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+slug: visual-studio-2012-launch-roadshows-around-the-world
 aliases:
-- /resources/HtT5KwXieea
+  - /resources/HtT5KwXieea
 aliasesArchive:
-- /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /visual-studio-2012-launch-roadshows-around-the-world
-- /blog/visual-studio-2012-launch-roadshows-around-the-world
-- /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-tags: []
+  - /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+  - /visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+  - /visual-studio-2012-launch-roadshows-around-the-world
+  - /blog/visual-studio-2012-launch-roadshows-around-the-world
+  - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-event-icon-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:07:34Z
-concepts: []
+ResourceImportId: 8834
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-icon-3-3.png
 
 ---
 Unless you have been living under a rock you might have noticed [a little launch event](http://www.microsoft.com/visualstudio) recently. Well to complement the launch Microsoft is running a bunch of Visual Studio 2012 Launch RoadShows around the world:

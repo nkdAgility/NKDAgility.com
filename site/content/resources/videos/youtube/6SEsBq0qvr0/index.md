@@ -2,8 +2,14 @@
 title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
 short_title: Acceptance Criteria vs Definition of Done
 description: Stop confusing acceptance criteria with definition of done—learn the crucial difference to boost quality, speed, and trust in your agile delivery.
+tldr: Acceptance criteria specify what each backlog item must do, while the definition of done sets the minimum quality standards for all work. Confusing the two leads to missed requirements, technical debt, and loss of trust. Make both explicit and review them regularly to ensure faster delivery and consistent quality.
 date: 2025-07-02T06:45:00Z
-weight: 220
+lastmod: 2025-07-02T06:45:00Z
+weight: 150
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: 6SEsBq0qvr0
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
 aliases:
-- /resources/6SEsBq0qvr0
-- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
-- /resources/videos/9-definition-of-done-vs-acceptance-criteria
+  - /resources/6SEsBq0qvr0
+  - /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+  - /resources/videos/9-definition-of-done-vs-acceptance-criteria
 aliasesArchive:
-- /resources/videos/9-definition-of-done-vs-acceptance-criteria
-- 9-definition-of-done-vs-acceptance-criteria
-- /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
-- acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+  - /resources/videos/9-definition-of-done-vs-acceptance-criteria
+  - 9-definition-of-done-vs-acceptance-criteria
+  - /resources/videos/acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
+  - acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
 source: youtube
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Engineering Excellence
-- Scrum
+  - Product Development
+  - Scrum
+  - Engineering Excellence
 tags:
-- Software Development
-- Product Delivery
-- Definition of Done
-- Operational Practices
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Planning
-- Value Delivery
+  - Software Development
+  - Product Delivery
+  - Definition of Done
+  - Operational Practices
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Agile Planning
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T19:18:41Z
   short_title: 2025-07-07T16:43:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:10:40Z
 videoId: 6SEsBq0qvr0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/6SEsBq0qvr0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDOXnTpAy0-cbxLma7o8SDsZP662A
 duration: 70
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

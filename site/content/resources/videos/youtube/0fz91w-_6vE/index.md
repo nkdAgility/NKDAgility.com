@@ -2,8 +2,14 @@
 title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
 short_title: Unlocking Value in DevOps Consulting
 description: Explains how a DevOps consultant identifies and resolves technical and process bottlenecks, driving continuous improvement and value delivery within organisations.
+tldr: As a DevOps consultant, my main focus is helping teams rethink how they deliver value by identifying and addressing both technical and process bottlenecks, such as slow builds or approval delays. I do this by asking targeted questions and encouraging teams to examine their workflows, which leads to continuous improvement and better customer outcomes. Development managers should regularly review their processes to spot and resolve the biggest sources of delay.
 date: 2023-05-02T07:00:00Z
+lastmod: 2023-05-02T07:00:00Z
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 0fz91w-_6vE
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliases:
-- /resources/0fz91w-_6vE
-- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+  - /resources/0fz91w-_6vE
+  - /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+  - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
 aliasesArchive:
-- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
-- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
-- unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+  - /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+  - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
+  - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
+  - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+  - unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 source: youtube
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags:
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Operational Practices
-- Product Delivery
+  - Pragmatic Thinking
+  - Software Development
+  - Value Delivery
+  - Operational Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:12:49Z
   short_title: 2025-07-07T17:55:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:45Z
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: Worst trait in unskilled scrum masters?
 short_title: Worst Traits in Unskilled Scrum Masters
 description: Highlights the most damaging traits of unskilled Scrum Masters, such as micromanagement and bossiness, and contrasts them with effective, facilitative Scrum leadership.
+tldr: The worst traits in unskilled Scrum Masters are acting like a boss, micromanaging, and allocating all work, which go against the true role of a Scrum Master as a facilitator who empowers and guides teams. Effective Scrum Masters enable self-organization and foster a supportive environment rather than controlling every detail. Development managers should ensure their Scrum Masters focus on facilitation and team empowerment, not command and control.
 date: 2023-04-26T07:00:00Z
-weight: 690
+lastmod: 2023-04-26T07:00:00Z
+weight: 385
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: -pW6YDYEO20
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: worst-trait-in-unskilled-scrum-masters
 aliases:
-- /resources/-pW6YDYEO20
-- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+  - /resources/-pW6YDYEO20
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 aliasesArchive:
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
-- worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters
+  - /resources/worst-trait-in-unskilled-scrum-masters
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters-
+  - /resources/worst-trait-in-unskilled-scrum-masters-
+  - worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Technical Leadership
+  - Scrum
 tags:
-- Scrum Master
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:13:01Z
   short_title: 2025-07-07T17:55:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:09Z
 videoId: -pW6YDYEO20
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

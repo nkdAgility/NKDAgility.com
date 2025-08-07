@@ -2,8 +2,14 @@
 title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
 short_title: Understanding Kanban for Transparency & Improvement
 description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency and efficiency.
+tldr: Kanban is a tool that helps teams visualize their workflow, track key metrics, and identify bottlenecks, leading to greater transparency and continuous improvement without changing existing processes. By starting with a simple board, setting work-in-progress limits, and regularly reviewing metrics, teams can quickly spot issues and make data-driven improvements. Development managers should consider implementing Kanban to gain clearer insights into team performance and drive ongoing process enhancements.
 date: 2024-06-24T06:48:02Z
+lastmod: 2024-06-24T06:48:02Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BFDB04_JIhg
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 aliases:
-- /resources/BFDB04_JIhg
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/videos/introduction-to-kanban
+  - /resources/BFDB04_JIhg
+  - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
+  - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+  - /resources/videos/introduction-to-kanban
 aliasesArchive:
-- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/videos/introduction-to-kanban
-- /resources/introduction-to-kanban
-- understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
+  - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+  - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+  - /resources/videos/introduction-to-kanban
+  - /resources/introduction-to-kanban
+  - understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
 source: internal
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Operational Practices
-- Transparency
-- Continuous Improvement
-- Software Development
-- Agile Frameworks
-- Flow Efficiency
-- Definition of Workflow
-- Pragmatic Thinking
+  - Operational Practices
+  - Transparency
+  - Continuous Improvement
+  - Software Development
+  - Agile Frameworks
+  - Flow Efficiency
+  - Definition of Workflow
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:02:49Z
   short_title: 2025-07-07T17:49:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:21Z
 videoId: BFDB04_JIhg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
 duration: 37
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

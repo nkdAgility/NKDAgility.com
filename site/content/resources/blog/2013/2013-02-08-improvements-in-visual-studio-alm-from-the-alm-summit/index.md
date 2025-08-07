@@ -1,34 +1,37 @@
 ---
 title: Improvements in Visual Studio ALM from the ALM Summit
 description: Highlights new Visual Studio ALM features from the ALM Summit, including Git support, web-based test management, Kanban swim lanes, and flexible work item tagging.
+date: 2013-02-08
+lastmod: 2013-02-08
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: E9mwcXKPJ0C
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9239
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-02-08
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: improvements-in-visual-studio-alm-from-the-alm-summit
 aliases:
-- /resources/E9mwcXKPJ0C
+  - /resources/E9mwcXKPJ0C
 aliasesArchive:
-- /blog/improvements-in-visual-studio-alm-from-the-alm-summit
-- /improvements-in-visual-studio-alm-from-the-alm-summit
-- /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
-tags:
-- Software Development
-- Application Lifecycle Management
+  - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
+  - /improvements-in-visual-studio-alm-from-the-alm-summit
+  - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-6-6.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Application Lifecycle Management
 Watermarks:
   description: 2025-05-13T15:06:59Z
-concepts: []
+ResourceImportId: 9239
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---
 There were many new improvements in Visual Studio ALM that were announced at this years ALM Summit event that I can only pick a few to highlight as my favourites. [Brian Harry did the keynote](http://channel9.msdn.com/Events/ALM-Summit/ALM-Summit-3/Building-an-Engineering-Organization-for-Continuous-Delivery) on the second day and almost immediately announced Visual Studio 2012.2 CTP 2  and a bunch of new features some of which were made available in TF Service ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) immediately.

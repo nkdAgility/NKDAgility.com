@@ -2,8 +2,14 @@
 title: 'Mastering Scrum: Effective Planning and Prioritisation for Agile Success'
 short_title: Scrum Planning and Prioritisation Guide
 description: Learn how to plan and prioritise effectively in Scrum by aligning with business goals, assessing value and risk, and keeping a lean, focused product backlog.
+tldr: Effective Scrum planning and prioritisation require aligning work with business goals, regularly communicating with stakeholders, and keeping the product backlog lean and focused on near-term priorities. Use a simple value, risk, and size formula to help order backlog items, and continuously adjust based on customer data and outcomes. Keep your backlog manageable and iterate often to ensure your team delivers meaningful results that support business objectives.
 date: 2023-03-24T07:00:30Z
-weight: 665
+lastmod: 2023-03-24T07:00:30Z
+weight: 425
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: sPmUuSy7G3I
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-scrum-effective-planning-and-prioritisation-for-agile-success
 aliases:
-- /resources/sPmUuSy7G3I
-- /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
+  - /resources/sPmUuSy7G3I
+  - /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
+  - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
 aliasesArchive:
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-- how-does-a-scrum-team-plan-and-prioritize-work-effectively
-- /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
-- mastering-scrum-effective-planning-and-prioritisation-for-agile-success
+  - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
+  - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+  - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+  - how-does-a-scrum-team-plan-and-prioritize-work-effectively
+  - /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
+  - mastering-scrum-effective-planning-and-prioritisation-for-agile-success
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Product Management
-- Scrum
+  - Product Development
+  - Product Management
+  - Scrum
 tags:
-- Product Backlog
-- Agile Planning
-- Agile Product Management
-- Product Delivery
-- Agile Frameworks
-- Pragmatic Thinking
-- Customer Focus
+  - Product Backlog
+  - Agile Planning
+  - Agile Product Management
+  - Product Delivery
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:13:32Z
   short_title: 2025-07-07T17:56:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:15Z
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

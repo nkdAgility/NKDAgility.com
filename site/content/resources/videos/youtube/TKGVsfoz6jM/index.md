@@ -2,8 +2,14 @@
 title: CTO Leadership Isn’t About Knowing Everything—It’s About Knowing What Matters Most
 short_title: From FOMO to Focus for CTOs
 description: 'CTOs: Stop chasing every trend. Learn to filter noise, focus on what matters, and lead with clarity for real impact in your tech organization.'
+tldr: CTOs do not need to keep up with every new technology or trend; effective leadership is about identifying and focusing on what truly matters for your business and teams. By mapping how value flows through your organization and filtering out distractions, you can make better decisions and lead with clarity. Prioritize understanding your key constraints and empower your teams to deliver value rather than trying to know everything yourself.
 date: 2025-06-13T06:00:24Z
+lastmod: 2025-06-13T06:00:24Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: TKGVsfoz6jM
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: cto-leadership-isn-t-about-knowing-everything-it-s-about-knowing-what-matters-most
 aliases:
-- /resources/TKGVsfoz6jM
-- /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - /resources/TKGVsfoz6jM
+  - /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
 aliasesArchive:
-- /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
-- 5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - /resources/videos/5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
+  - 5-from-fomo-to-focus-making-peace-with-not-knowing-it-all
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags: []
 Watermarks:
   description: 2025-07-24T15:14:49Z
   short_title: 2025-07-24T15:14:50Z
+  tldr: 2025-08-07T12:11:11Z
 videoId: TKGVsfoz6jM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TKGVsfoz6jM/maxresdefault.jpg
 duration: 77
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly—every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.

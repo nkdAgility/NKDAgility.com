@@ -1,33 +1,36 @@
 ---
 title: TFS Event Handler for Team Foundation Server 2010
 description: Explains how to create and customise event handlers for Team Foundation Server 2010, covering supported events for version control, builds, work items, and test management.
+date: 2010-07-07
+lastmod: 2010-07-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _WmwS96RyDS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 33
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-07-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-for-team-foundation-server-2010
 aliases:
-- /resources/_WmwS96RyDS
+  - /resources/_WmwS96RyDS
 aliasesArchive:
-- /blog/tfs-event-handler-for-team-foundation-server-2010
-- /tfs-event-handler-for-team-foundation-server-2010
-- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
-tags:
-- Software Development
+  - /blog/tfs-event-handler-for-team-foundation-server-2010
+  - /tfs-event-handler-for-team-foundation-server-2010
+  - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-3-3.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:21:44Z
-concepts: []
+ResourceImportId: 33
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-3-3.png
 
 ---
 I am looking at re-working the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler and I was hoping that you would help me decide what handlers to build!

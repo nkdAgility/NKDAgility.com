@@ -2,8 +2,14 @@
 title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
 short_title: Product Owner vs Project Manager in Agile
 description: Explains the key differences between Product Owners and Project Managers in Scrum, and how agile roles, team structures, and metrics impact organisational effectiveness.
+tldr: Product Owners focus on delivering product value and prioritising work based on user needs, while Project Managers concentrate on delivering projects on time and within budget; this distinction is key as organisations move to agile ways of working. Adopting Scrum impacts not just teams but also organisational structure, leadership style, and how value is delivered, requiring a shift from traditional hierarchies to empowered, cross-functional teams. As teams mature, they should move beyond story points to optimise flow and continuous delivery, so managers should support this evolution to improve agility and responsiveness.
 date: 2020-04-14T19:09:07Z
+lastmod: 2020-04-14T19:09:07Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZPRvjlp9i0A
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 aliases:
-- /resources/ZPRvjlp9i0A
+  - /resources/ZPRvjlp9i0A
 aliasesArchive:
-- /resources/videos/th-april-office-hours-ask-me-anything
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
-- /resources/14th-april-2020-office-hours-ask-me-anything
-- /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
-- navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
+  - /resources/videos/th-april-office-hours-ask-me-anything
+  - /resources/videos/14th-april-2020-office-hours-ask-me-anything
+  - /resources/14th-april-2020-office-hours-ask-me-anything
+  - /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
+  - navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
+  - Market Adaptability
+  - Software Development
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:15:48Z
   short_title: 2025-07-07T17:58:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:08Z
 videoId: ZPRvjlp9i0A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

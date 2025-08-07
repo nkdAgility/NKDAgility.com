@@ -4,7 +4,12 @@ short_title: Visibility, Metrics, and Flow in DevOps
 description: Stop guessing—start making data-driven decisions in Azure DevOps. Discover tools, tips, and insights to make your work visible and your delivery predictable.
 tldr: Relying on gut feeling leads to mediocre results, so making work visible with real data is essential for improvement. Azure DevOps provides a strong data foundation but its built-in metrics and visualisations are basic; using tools like Flow Viz or Actionable Agile Metrics gives deeper insights and actionable flow data. To drive better outcomes, move from guesswork to evidence-based decisions by leveraging these tools to make your team’s work and bottlenecks visible.
 date: 2025-08-25T06:00:00Z
-weight: 120
+lastmod: 2025-08-25T06:00:00Z
+weight: 220
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: fvSZSSSjnyI
 ResourceImport: true
 ResourceType: videos
@@ -12,35 +17,35 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-guessing-how-to-make-work-visible-and-drive-real-improvement-with-azure-devops-flow-metrics
 aliases:
-- /resources/fvSZSSSjnyI
-- /resources/videos/7-visibility-metrics-and-flow
+  - /resources/fvSZSSSjnyI
+  - /resources/videos/7-visibility-metrics-and-flow
 aliasesArchive:
-- /resources/videos/7-visibility-metrics-and-flow
-- 7-visibility-metrics-and-flow
+  - /resources/videos/7-visibility-metrics-and-flow
+  - 7-visibility-metrics-and-flow
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
-- Engineering Excellence
-- Technical Leadership
+  - DevOps
+  - Engineering Excellence
+  - Kanban
 tags:
-- Azure DevOps
-- Flow Efficiency
-- Time to Market
-- Metrics and Learning
-- Operational Practices
-- Team Performance
-- Product Delivery
-- Value Delivery
-- Software Development
-- Transparency
-- Pragmatic Thinking
-- Lead Time
-- Cycle Time
-- Technical Mastery
-- Continuous Improvement
+  - Azure DevOps
+  - Software Development
+  - Flow Efficiency
+  - Time to Market
+  - Transparency
+  - Metrics and Learning
+  - Pragmatic Thinking
+  - Operational Practices
+  - Team Performance
+  - Product Delivery
+  - Value Delivery
+  - Lead Time
+  - Cycle Time
+  - Technical Mastery
+  - Continuous Improvement
 Watermarks:
   description: 2025-07-24T14:49:14Z
   short_title: 2025-07-24T14:49:15Z
@@ -50,11 +55,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/fvSZSSSjnyI/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBv1On-uLT1olHCP2GKp4FGmFtQxw
 duration: 481
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 If you’re building products at any scale—whether you’re a small startup or a sprawling enterprise—one thing has become abundantly clear to me over the years: you simply cannot make good decisions without evidence. I’ve seen too many teams, and too many organisations, fall into the trap of “gut feel” decision-making. It’s seductive, but it’s also a fast track to mediocrity. Evidence-based management isn’t just a buzzword; it’s the foundation for real, sustainable improvement.

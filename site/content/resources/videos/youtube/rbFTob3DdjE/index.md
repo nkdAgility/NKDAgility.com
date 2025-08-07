@@ -2,8 +2,14 @@
 title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
 short_title: Digital Whiteboards for Agile Team Collaboration
 description: Explores how digital whiteboards boost agile team collaboration, engagement, and organisation, offering practical tips for effective use in remote and hybrid work settings.
+tldr: Digital whiteboards are essential for effective team collaboration, especially in remote or hybrid agile environments, as they boost engagement, visual communication, and flexibility. Choosing the right tool, setting clear objectives, encouraging participation, and keeping sessions organised are key to maximising their value. Development managers should adopt and actively leverage digital whiteboards to enhance team alignment and productivity.
 date: 2023-09-19T07:00:21Z
-weight: 1000
+lastmod: 2023-09-19T07:00:21Z
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: rbFTob3DdjE
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 aliases:
-- /resources/rbFTob3DdjE
-- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
-- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
-- /resources/videos/5-tools-that-scrum-masters-love-part-2
+  - /resources/rbFTob3DdjE
+  - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+  - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
+  - /resources/videos/5-tools-that-scrum-masters-love-part-2
 aliasesArchive:
-- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
-- /resources/videos/5-tools-that-scrum-masters-love-part-2
-- /resources/5-tools-that-scrum-masters-love-part-2
-- unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+  - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
+  - /resources/videos/5-tools-that-scrum-masters-love-part-2
+  - /resources/5-tools-that-scrum-masters-love-part-2
+  - unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Collaboration
-- Remote Working
+  - Team Collaboration
+  - Software Development
+  - Remote Working
 Watermarks:
   description: 2025-05-07T13:09:27Z
   short_title: 2025-07-07T17:53:01Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:56Z
 videoId: rbFTob3DdjE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

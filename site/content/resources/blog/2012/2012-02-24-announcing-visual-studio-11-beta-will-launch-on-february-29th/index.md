@@ -1,31 +1,34 @@
 ---
 title: Announcing Visual Studio 11 Beta will launch on February 29th
 description: Visual Studio 11 Beta and Team Foundation Server Beta will be available from 29 February, with full Microsoft support for production use and guidance on going live.
+date: 2012-02-24
+lastmod: 2012-02-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: oP62ZJrRzkU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4560
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliases:
-- /resources/oP62ZJrRzkU
+  - /resources/oP62ZJrRzkU
 aliasesArchive:
-- /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
-- /announcing-visual-studio-11-beta-will-launch-on-february-29th
-- /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
-tags: []
+  - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
+  - /announcing-visual-studio-11-beta-will-launch-on-february-29th
+  - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:22Z
-concepts: []
+ResourceImportId: 4560
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Its that time again where the Visual Studio and team Foundation Server teams are pushing out their next version of their tools, Visual Studio 11. [Steven & Lori Borg](http://nwcadence.com) teamed up to present a video on [why you would want to Go-Live with Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). I used the Go-Live with many companies with the Visual Studio 2010 launch with no problems. Its as safe as a “RTM” product from most other teams.

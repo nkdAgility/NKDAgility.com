@@ -2,8 +2,14 @@
 title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
 short_title: Aligning Organisations for Agile Product Management
 description: Learn how to align teams, stakeholders, and processes for effective agile product management by fostering shared goals, clear communication, and evidence-based practices.
+tldr: Successfully adopting agile product management requires more than dropping old project management methods; organisations must clearly define and communicate a shared vision, focus on delivering real value, and validate progress with the right metrics. Engaging all teams and stakeholders in the goal-setting process and using evidence-based and hypothesis-driven approaches are key to aligning efforts and maximising value. Development managers should prioritise cross-team collaboration and ensure everyone understands and is invested in the common objective to achieve better outcomes.
 date: 2024-05-06T13:29:40Z
+lastmod: 2024-05-06T13:29:40Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: ZcMcVL7mNGU
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 aliases:
-- /resources/ZcMcVL7mNGU
-- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
-- /resources/videos/product-management-mentor-program-final
+  - /resources/ZcMcVL7mNGU
+  - /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+  - /resources/videos/product-management-mentor-program-final
 aliasesArchive:
-- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
-- /resources/videos/product-management-mentor-program-final
-- /resources/product-management-mentor-program-final
-- bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+  - /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+  - /resources/videos/product-management-mentor-program-final
+  - /resources/product-management-mentor-program-final
+  - bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Agile Strategy
-- Common Goals
-- Agile Product Management
-- Value Delivery
-- Agile Philosophy
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Customer Focus
+  - Agile Strategy
+  - Common Goals
+  - Agile Product Management
+  - Value Delivery
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:05:13Z
   short_title: 2025-07-07T17:49:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

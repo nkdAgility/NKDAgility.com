@@ -2,8 +2,14 @@
 title: Why is Lego a shit idea for a scrum trainer - Part 3
 short_title: Lego vs Minecraft for Realistic Scrum Training
 description: Explores why Lego may oversimplify Scrum training, contrasting it with Minecraft’s ability to reflect real-world complexity and collaboration in agile learning environments.
+tldr: Lego is avoided in Scrum training because its simplicity fails to reflect the real complexity and chaos of software development, while Minecraft is sometimes used for specific scenarios to better simulate overwhelming and collaborative environments. The choice of tool should support realistic learning experiences and evoke the pressures teams actually face. Focus on selecting training tools that mirror real-world challenges rather than just simplifying concepts.
 date: 2023-10-05T07:00:04Z
-weight: 1000
+lastmod: 2023-10-05T07:00:04Z
+weight: 835
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: AJ8-c0l7oRQ
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 aliases:
-- /resources/AJ8-c0l7oRQ
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+  - /resources/AJ8-c0l7oRQ
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 aliasesArchive:
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+  - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+  - why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:09:01Z
   short_title: 2025-07-07T17:52:36Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:59Z
 videoId: AJ8-c0l7oRQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: "Product Ownership vs. Product Management: Busting the Myth That They're Separate Roles"
 short_title: Product Ownership vs Product Management Explained
 description: Explains why product ownership and product management are deeply connected in Scrum, clarifying their roles, focus on value delivery, and the need for agile adaptation.
+tldr: Product ownership and product management are not separate roles; effective product ownership is a form of product management focused on maximizing value in short, iterative cycles. Organizations should avoid diluting the product owner role with unrelated tasks and instead ensure alignment with strategic goals and market needs. Development managers should treat product ownership as a core accountability within product management, prioritize value delivery, and foster adaptability to stay competitive.
 date: 2024-08-01T06:45:01Z
+lastmod: 2024-08-01T06:45:01Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: XF-yQmPdUME
 ResourceImport: true
 ResourceType: videos
@@ -11,50 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: product-ownership-vs-product-management-busting-the-myth-that-they're-separate-roles
 aliases:
-- /resources/XF-yQmPdUME
-- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/the-product-owners-role-in-maximizing-value
-- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
+  - /resources/XF-yQmPdUME
+  - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+  - /resources/videos/the-product-owners-role-in-maximizing-value
+  - /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
 aliasesArchive:
-- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/the-product-owner's-role-in-maximizing-value
-- /resources/the-product-owner's-role-in-maximizing-value
-- /resources/videos/the-product-owners-role-in-maximizing-value
-- product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
+  - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+  - /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+  - /resources/videos/the-product-owner's-role-in-maximizing-value
+  - /resources/the-product-owner's-role-in-maximizing-value
+  - /resources/videos/the-product-owners-role-in-maximizing-value
+  - product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+  - /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Agile Product Management
-- Pragmatic Thinking
-- Professional Scrum
-- Agile Frameworks
-- Software Development
-- Product Owner
-- Product Delivery
-- Value Delivery
-- Agile Planning
-- Organisational Agility
-- Agile Strategy
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Agile Frameworks
+  - Software Development
+  - Product Owner
+  - Product Delivery
+  - Value Delivery
+  - Strategic Goals
+  - Agile Planning
+  - Organisational Agility
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:02:20Z
   short_title: 2025-07-07T17:48:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:14Z
 videoId: XF-yQmPdUME
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
 duration: 601
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

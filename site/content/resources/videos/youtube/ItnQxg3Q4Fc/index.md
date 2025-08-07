@@ -2,8 +2,14 @@
 title: Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?
 short_title: Senior Leadership Engagement in Agile Success
 description: Active senior leadership engagement is essential for successful Agile transformation, enabling systemic change, faster adaptation, and organisation-wide alignment.
+tldr: Active involvement from senior leadership is essential for successful Agile transformation because systemic change and faster market response require alignment and participation at all levels. Without leadership engagement, teams face barriers to adaptability and meaningful change. Development managers should ensure senior leaders are directly involved to enable organisation-wide transformation and maximise the value of Agile initiatives.
 date: 2023-06-23T07:00:11Z
+lastmod: 2023-06-23T07:00:11Z
 weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: ItnQxg3Q4Fc
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 aliases:
-- /resources/ItnQxg3Q4Fc
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+  - /resources/ItnQxg3Q4Fc
+  - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+  - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 aliasesArchive:
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-- why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+  - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+  - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+  - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+  - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+  - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+  - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+  - why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Organisational Agility
-- Organisational Change
-- Agile Leadership
-- Agile Transformation
-- Enterprise Agility
-- Organisational Culture
-- Change Management
-- Agile Strategy
-- Business Agility
+  - Agile Strategy
+  - Organisational Agility
+  - Organisational Change
+  - Agile Leadership
+  - Agile Transformation
+  - Enterprise Agility
+  - Organisational Culture
+  - Change Management
+  - Business Agility
 Watermarks:
   description: 2025-05-07T13:11:20Z
   short_title: 2025-07-07T17:54:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:15Z
 videoId: ItnQxg3Q4Fc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
 duration: 285
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

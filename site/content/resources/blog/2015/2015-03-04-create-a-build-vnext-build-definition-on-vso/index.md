@@ -1,43 +1,50 @@
 ---
 title: Create a Build vNext build definition
+short_title: Create a Build vNext Definition on VSO
 description: Step-by-step guide to creating a Build vNext build definition in Visual Studio Online, covering task setup, options, triggers, variables, and build configuration.
+tldr: Microsoft's new Build vNext system for TFS and VSO is more modular and user-friendly, offering a wide range of out-of-the-box build and deployment tasks, improved configuration options, and better auditability of changes. It currently supports only Git repositories and continuous integration triggers, with plans for greater extensibility and additional features in the future. Development managers should consider evaluating Build vNext in test environments to prepare for its eventual adoption and to explore its enhanced flexibility and control.
+date: 2015-03-04
+lastmod: 2015-03-04
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: ey-p-MBUzgQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11047
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-03-04
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: create-a-build-vnext-build-definition-on-vso
+slug: create-a-build-vnext-build-definition
 aliases:
-- /resources/ey-p-MBUzgQ
+  - /resources/ey-p-MBUzgQ
 aliasesArchive:
-- /blog/create-a-build-vnext-build-definition-on-vso
-- /create-a-build-vnext-build-definition-on-vso
-- /create-a-build-vnext-build-definition
-- /blog/create-a-build-vnext-build-definition
-- /resources/blog/create-a-build-vnext-build-definition-on-vso
-tags:
-- Software Development
-- Azure Pipelines
-- Azure DevOps
-- Continuous Integration
-- Install and Configuration
-- Azure Repos
-- Modern Source Control
-- Windows
-- Internal Developer Platform
+  - /blog/create-a-build-vnext-build-definition-on-vso
+  - /create-a-build-vnext-build-definition-on-vso
+  - /create-a-build-vnext-build-definition
+  - /blog/create-a-build-vnext-build-definition
+  - /resources/blog/create-a-build-vnext-build-definition-on-vso
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-26-26.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Azure Pipelines
+  - Azure DevOps
+  - Continuous Integration
+  - Install and Configuration
+  - Azure Repos
+  - Modern Source Control
+  - Windows
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-12T14:20:02Z
-concepts: []
+  tldr: 2025-08-07T13:25:35Z
+  short_title: 2025-08-07T13:25:36Z
+ResourceImportId: 11047
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---
 I am going to show how to create a Build vNext build definition on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alfa of the service available for that program and I have been giving it a spin.

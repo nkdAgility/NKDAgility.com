@@ -2,33 +2,41 @@
 title: Should the Scrum Master always remove impediments?
 short_title: Should the Scrum Master Always Remove Impediments?
 description: Explains when a Scrum Master should remove impediments, focusing on team self-sufficiency, true impediments, and supporting team growth within Scrum practices.
+tldr: The Scrum Master is responsible for removing impediments, but should only step in when the team cannot resolve the issue themselves. Their focus should be on enabling the team to handle similar problems independently in the future, building self-sufficiency. Development managers should encourage Scrum Masters to coach teams rather than always solving problems for them.
 date: 2019-09-23
-weight: 640
+lastmod: 2019-09-23
+weight: 605
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: xPJL0I4sjDJ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: should-the-scrum-master-always-remove-impediments
 aliases:
-- /resources/xPJL0I4sjDJ
+  - /resources/xPJL0I4sjDJ
 aliasesArchive:
-- /blog/should-the-scrum-master-always-remove-impediments
-- /should-the-scrum-master-always-remove-impediments
-- /should-the-scrum-master-always-remove-impediments-
-- /blog/should-the-scrum-master-always-remove-impediments-
-- /resources/blog/should-the-scrum-master-always-remove-impediments
+  - /blog/should-the-scrum-master-always-remove-impediments
+  - /should-the-scrum-master-always-remove-impediments
+  - /should-the-scrum-master-always-remove-impediments-
+  - /blog/should-the-scrum-master-always-remove-impediments-
+  - /resources/blog/should-the-scrum-master-always-remove-impediments
 layout: blog
 concepts: []
 categories:
-- Scrum
+  - Scrum
+  - Technical Leadership
 tags:
-- Scrum Team
-- Scrum Master
-- Professional Scrum
-- Software Development
+  - Scrum Team
+  - Scrum Master
+  - Professional Scrum
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:16:09Z
   short_title: 2025-07-07T17:58:27Z
+  tldr: 2025-08-07T13:12:59Z
 ResourceImportId: 39856
 creator: Martin Hinshelwood
 resourceTypes: blog

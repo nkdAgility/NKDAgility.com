@@ -1,32 +1,35 @@
 ---
 title: Free training at Northwest Cadence
 description: Learn about free online training sessions from Northwest Cadence, including interactive Coffee Talks on ALM, TFS 2010, and quality assurance, suitable for UK developers.
+date: 2011-01-04
+lastmod: 2011-01-04
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: uZaKwlACVT_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 19
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-01-04
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: free-training-at-northwest-cadence
 aliases:
-- /resources/uZaKwlACVT_
+  - /resources/uZaKwlACVT_
 aliasesArchive:
-- /blog/free-training-at-northwest-cadence
-- /free-training-at-northwest-cadence
-- /resources/blog/free-training-at-northwest-cadence
-tags: []
+  - /blog/free-training-at-northwest-cadence
+  - /free-training-at-northwest-cadence
+  - /resources/blog/free-training-at-northwest-cadence
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-event-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:21Z
-concepts: []
+ResourceImportId: 19
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-3-3.png
 
 ---
 **[![NWCadence-Logo](images/d8a99e5b9476_9304-NWCadence-Logo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-d8a99e5b9476_9304-NWCadence-Logo_2.png)**

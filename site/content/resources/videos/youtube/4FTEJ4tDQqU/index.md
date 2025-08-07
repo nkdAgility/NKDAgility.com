@@ -2,8 +2,14 @@
 title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
 short_title: From Developer to Agile Advocate
 description: A personal account of moving from traditional project management to Agile, highlighting lessons learned with Scrum and DevOps to improve teamwork, processes, and culture.
+tldr: The author describes moving from traditional project management to Agile, highlighting that real change comes from rethinking processes and focusing on people rather than just adopting new tools. Key insights include the importance of simplifying workflows, avoiding unnecessary bureaucracy, and empowering teams through Agile and Scrum principles. Development managers should focus on enabling team autonomy and streamlining processes to unlock better results.
 date: 2023-03-02T07:00:01Z
+lastmod: 2023-03-02T07:00:01Z
 weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 4FTEJ4tDQqU
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 aliases:
-- /resources/4FTEJ4tDQqU
-- /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
+  - /resources/4FTEJ4tDQqU
+  - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+  - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
 aliasesArchive:
-- /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
-- from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+  - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+  - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+  - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+  - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
+  - from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Personal
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Philosophy
+  - Software Development
+  - Organisational Agility
+  - Personal
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:13:51Z
   short_title: 2025-07-07T17:56:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:54Z
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

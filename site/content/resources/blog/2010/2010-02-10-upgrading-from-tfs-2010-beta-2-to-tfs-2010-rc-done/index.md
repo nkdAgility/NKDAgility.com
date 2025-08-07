@@ -1,34 +1,37 @@
 ---
 title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
 description: Step-by-step guide to upgrading from TFS 2010 Beta 2 to TFS 2010 RC, including best practices, troubleshooting tips, and post-upgrade checks for developers.
+date: 2010-02-10
+lastmod: 2010-02-10
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: dg9tlise6Bd
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 70
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-02-10
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 aliases:
-- /resources/dg9tlise6Bd
+  - /resources/dg9tlise6Bd
 aliasesArchive:
-- /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-- /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-- /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-tags:
-- Install and Configuration
-- System Configuration
-preview: metro-visual-studio-2010-128-link-3-3.png
+  - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+  - /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+  - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:43Z
-concepts: []
+ResourceImportId: 70
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.

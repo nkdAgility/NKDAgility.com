@@ -2,8 +2,14 @@
 title: 'Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood'
 short_title: Agile Leadership and Transformation Webcast
 description: Learn practical Agile leadership and transformation strategies from Dr. Joanna Płaskonka and Martin Hinshelwood, including expert insights, Q&A, and actionable guidance.
+tldr: This 18-minute webcast with Dr. Joanna Płaskonka and Martin Hinshelwood offers practical strategies and expert insights on Agile leadership and successful transformation, blending academic and real-world perspectives. Attendees can engage in a live Q&A and gain actionable takeaways to improve Agile initiatives in their organizations. Sign up to secure your spot and consider upcoming training classes tailored for leaders seeking to deepen their Agile expertise.
 date: 2023-10-01
-weight: 665
+lastmod: 2023-10-01
+weight: 465
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 author: MrHinsh
 ResourceId: 9YRzr3RR2Da
 ResourceImport: false
@@ -11,23 +17,25 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-płaskonka-martin-hinshelwood
 aliases:
-- /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
-- /resources/newsletters/exclusive-webcast-2-agile
-- /resources/9YRzr3RR2Da
+  - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
+  - /resources/newsletters/exclusive-webcast-2-agile
+  - /resources/9YRzr3RR2Da
 aliasesArchive:
-- /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
-- /resources/newsletters/exclusive-webcast-2-agile
+  - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
+  - /resources/newsletters/exclusive-webcast-2-agile
 layout: newsletter
 concepts: []
 categories:
-- Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Agile Transformation
-- Agile Leadership
-- Organisational Agility
+  - Agile Transformation
+  - Agile Leadership
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:09:07Z
   short_title: 2025-07-07T17:52:43Z
+  tldr: 2025-08-07T12:59:08Z
 resourceTypes: newsletter
 
 ---

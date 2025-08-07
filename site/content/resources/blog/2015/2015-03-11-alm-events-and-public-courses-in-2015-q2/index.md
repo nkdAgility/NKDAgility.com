@@ -1,32 +1,39 @@
 ---
 title: ALM Events and public courses in 2015 Q2
+short_title: ALM Events & Public Courses Q2 2015
 description: Schedule of public courses and events on Visual Studio ALM, TFS, DevOps, and Scrum in 2015 Q2, including live online training and key industry conferences.
+tldr: A new schedule of public and online courses covering Visual Studio ALM, TFS, DevOps, and Scrum is now available for the next few months, including both live online and in-person options. Key offerings include DevOps and Scrum Master training, project management with TFS, and TFS administration, with additional appearances at major industry events. Development managers interested in upskilling their teams or themselves should consider booking early, as more sessions may be added if demand is high.
+date: 2015-03-11
+lastmod: 2015-03-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ag9EVTamt5M
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11248
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-03-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
-- /resources/ag9EVTamt5M
+  - /resources/ag9EVTamt5M
 aliasesArchive:
-- /blog/alm-events-and-public-courses-in-2015-q2
-- /alm-events-and-public-courses-in-2015-q2
-- /resources/blog/alm-events-and-public-courses-in-2015-q2
-tags: []
+  - /blog/alm-events-and-public-courses-in-2015-q2
+  - /alm-events-and-public-courses-in-2015-q2
+  - /resources/blog/alm-events-and-public-courses-in-2015-q2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-event-icon-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:19:57Z
-concepts: []
+  tldr: 2025-08-07T13:25:28Z
+  short_title: 2025-08-07T13:25:29Z
+ResourceImportId: 11248
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-icon-1-1.png
 
 ---
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.

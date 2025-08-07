@@ -1,36 +1,39 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
 description: Learn about the free Microsoft-supported TFS 2013 Update 2 RC upgrade event, key new features like tag management, and how to register before the deadline.
+date: 2014-02-20
+lastmod: 2014-02-20
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: VV_h0xkmY8J
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10381
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-02-20
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: team-foundation-server-2013-update-2-rc-coming-ready
+slug: team-foundation-server-2013-update-2-rc-is-coming-are-you-ready
 aliases:
-- /resources/VV_h0xkmY8J
+  - /resources/VV_h0xkmY8J
 aliasesArchive:
-- /blog/team-foundation-server-2013-update-2-rc-coming-ready
-- /team-foundation-server-2013-update-2-rc-coming-ready
-- /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
-- /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
-- /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
-- /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
-- /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
-tags: []
+  - /blog/team-foundation-server-2013-update-2-rc-coming-ready
+  - /team-foundation-server-2013-update-2-rc-coming-ready
+  - /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
+  - /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
+  - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
+  - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
+  - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:22:15Z
-concepts: []
+ResourceImportId: 10381
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---
 While naked ALM Consulting can help you install and configure TFS you may want to take advantage of the upcoming TFS Upgrade Weekend from Microsoft for free.

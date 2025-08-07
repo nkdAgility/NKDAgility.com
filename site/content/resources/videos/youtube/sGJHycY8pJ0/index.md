@@ -4,7 +4,12 @@ short_title: Open Guide to Kanban Launch Event
 description: Unlock better flow and real value with the Open Guide to Kanban—a practical, community-driven resource for teams in any industry. Join the movement!
 tldr: The Open Guide to Kanban is a collaborative, community-driven resource that makes Kanban accessible and practical for all teams, focusing on real-world value rather than rigid rules or jargon. It encourages managers and teams to start small, visualize work, and continuously improve by contributing to and adapting the guide. Managers should engage directly with their teams, use the guide to enhance visibility and flow, and participate in the community to solve real problems together.
 date: 2025-07-03T05:22:41Z
+lastmod: 2025-07-03T05:22:41Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: sGJHycY8pJ0
 ResourceImport: true
 ResourceType: videos
@@ -12,25 +17,26 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: the-open-guide-to-kanban-unlocking-collaborative-flow-and-real-world-value-for-every-team
 aliases:
-- /resources/sGJHycY8pJ0
-- /resources/videos/open-guide-to-kanban-launch-event
+  - /resources/sGJHycY8pJ0
+  - /resources/videos/open-guide-to-kanban-launch-event
 aliasesArchive:
-- /resources/videos/open-guide-to-kanban-launch-event
-- open-guide-to-kanban-launch-event
+  - /resources/videos/open-guide-to-kanban-launch-event
+  - open-guide-to-kanban-launch-event
 source: youtube
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Operational Practices
-- Value Delivery
-- Lean Principles
-- Project Management
+  - Software Development
+  - Agile Frameworks
+  - Operational Practices
+  - Value Delivery
+  - Lean Product Development
+  - Lean Principles
+  - Project Management
 Watermarks:
   description: 2025-07-24T15:13:25Z
   short_title: 2025-07-24T15:13:27Z
@@ -40,11 +46,8 @@ url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sGJHycY8pJ0/maxresdefault.jpg
 duration: 4538
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 The Open Guide to Kanban: A New Chapter in Collaborative Flow

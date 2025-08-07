@@ -1,41 +1,44 @@
 ---
 title: Quality enablement to achieve predictable delivery
 description: Explains how defining quality standards, acceptance criteria, and automation in software delivery leads to predictable outcomes, fewer bugs, and improved team performance.
+date: 2013-07-24
+lastmod: 2013-07-24
+weight: 315
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: Qvzmat4E5NB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9737
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-24
-weight: 315
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
-- /resources/Qvzmat4E5NB
+  - /resources/Qvzmat4E5NB
 aliasesArchive:
-- /blog/quality-enablement-to-achieve-predictable-delivery
-- /quality-enablement-to-achieve-predictable-delivery
-- /resources/blog/quality-enablement-to-achieve-predictable-delivery
-tags:
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Engineering Practices
-- Working Software
-- Value Delivery
-- Continuous Delivery
-- Technical Excellence
+  - /blog/quality-enablement-to-achieve-predictable-delivery
+  - /quality-enablement-to-achieve-predictable-delivery
+  - /resources/blog/quality-enablement-to-achieve-predictable-delivery
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-experts-professional-scrum-2-2.png
+  - Engineering Excellence
+tags:
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
+  - Engineering Practices
+  - Working Software
+  - Value Delivery
+  - Continuous Delivery
+  - Technical Excellence
 Watermarks:
   description: 2025-05-12T14:23:36Z
-concepts: []
+ResourceImportId: 9737
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---
 You need quality enablement to achieve predictable delivery for your organisation which takes effort to achieve.

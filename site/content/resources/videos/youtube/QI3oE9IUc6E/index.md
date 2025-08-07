@@ -2,8 +2,14 @@
 title: How effectively does an APS prepare a team to do a solid, professional Scrum?
 short_title: How APS Prepares Teams for Professional Scrum
 description: Explains how Applied Professional Scrum (APS) helps teams master Scrum by focusing on fundamentals, removing unhelpful practices, and enabling effective agile transformation.
+tldr: The Applied Professional Scrum (APS) course helps teams focus on delivering a working product every iteration and sheds unhelpful habits that slow progress. Through practical exercises like the "Barnacle Exercise," teams identify and remove outdated practices, leading to more effective Scrum adoption. Development managers should consider APS to build teams that consistently deliver value and embody true Scrum principles.
 date: 2023-08-12T07:00:10Z
+lastmod: 2023-08-12T07:00:10Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: QI3oE9IUc6E
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 aliases:
-- /resources/QI3oE9IUc6E
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+  - /resources/QI3oE9IUc6E
+  - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+  - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 aliasesArchive:
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
-- how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+  - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+  - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
+  - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+  - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+  - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+  - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+  - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+  - how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
-- Professional Scrum
+  - Agile Frameworks
+  - Software Development
+  - Product Delivery
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:10:13Z
   short_title: 2025-07-07T17:53:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:09Z
 videoId: QI3oE9IUc6E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg
 duration: 315
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

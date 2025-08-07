@@ -2,8 +2,14 @@
 title: If you could teach just one thing about Scrum, what would it be?
 short_title: 'Empiricism: The Core of Scrum'
 description: The most important aspect of Scrum is empiricism—using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
+tldr: The most important thing to teach about Scrum is the principle of empiricism, which means making work transparent, inspecting progress frequently, and adapting based on what is learned. This approach helps teams navigate complex, uncertain environments where traditional project management falls short. Focus on building your team's ability to learn and adapt quickly, as Scrum reveals problems but does not solve them for you.
 date: 2023-02-27T07:00:01Z
+lastmod: 2023-02-27T07:00:01Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 5EryGepZu8o
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 aliases:
-- /resources/5EryGepZu8o
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+  - /resources/5EryGepZu8o
+  - /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 aliasesArchive:
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+  - /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+  - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+  - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+  - /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+  - if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Empirical Process Control
-- Professional Scrum
-- Agile Transformation
-- Agile Philosophy
-- Sensemaking
-- Agile Planning
-- Agile Product Management
-- Software Development
+  - Empirical Process Control
+  - Market Adaptability
+  - Professional Scrum
+  - Agile Transformation
+  - Agile Philosophy
+  - Sensemaking
+  - Agile Planning
+  - Agile Product Management
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:13:56Z
   short_title: 2025-07-07T17:56:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:02Z
 videoId: 5EryGepZu8o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
 duration: 204
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

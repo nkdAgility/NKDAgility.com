@@ -1,35 +1,42 @@
 ---
 title: 'NDC London 2014: Why TFS no longer sucks and VSO is awesome'
+short_title: TFS and VSO Improvements at NDC London 2014
 description: Overview of improvements in Team Foundation Server (TFS) and Visual Studio Online (VSO), including updated features, cloud integration, and streamlined release management.
+tldr: Team Foundation Server has significantly improved since 2012, and Visual Studio Online now offers a streamlined, cloud-based experience that eliminates many previous pain points. Recent demos showed that setup is fast, workflows are smoother, and release management is much easier, though some minor technical issues can still occur. Development managers should consider revisiting TFS and VSO for modern, efficient project and release management.
+date: 2014-12-10
+lastmod: 2014-12-10
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: Lz8JHBC_e2Z
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10980
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-12-10
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 aliases:
-- /resources/Lz8JHBC_e2Z
+  - /resources/Lz8JHBC_e2Z
 aliasesArchive:
-- /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-- /ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-- /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
-- /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
-- /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-tags:
-- Software Development
+  - /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+  - /ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+  - /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
+  - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
+  - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:20:31Z
-concepts: []
+  tldr: 2025-08-07T13:26:14Z
+  short_title: 2025-08-07T13:26:15Z
+ResourceImportId: 10980
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 I was in London last week to do a talk on why TFS no longer sucks entitled “[Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/)”. I had a tone of preparatory work to do too make the demos smooth. The great god Murphy was however not smiling, but he was not angry. Some errors occurred, but no blue screens.

@@ -2,8 +2,14 @@
 title: How does scrum help leadership teams pick the most valuable work to focus on?
 short_title: How Scrum Supports Leadership Decision-Making
 description: Scrum highlights issues and provides feedback for leadership teams but does not select valuable work; leaders must set priorities and use scrum to validate decisions.
+tldr: Scrum does not help leadership teams choose the most valuable work; it highlights issues and provides feedback to inform decision-making, but leaders must set priorities based on business understanding. Agile frameworks like Scrum are most effective when leaders have a clear vision and use them to validate ideas, improve feedback loops, and optimize delivery. Leadership should focus on defining strategic goals, while Scrum helps teams deliver and refine solutions that align with those goals.
 date: 2023-02-10T07:15:02Z
+lastmod: 2023-02-10T07:15:02Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: bpBhREVX85o
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 aliases:
-- /resources/bpBhREVX85o
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+  - /resources/bpBhREVX85o
+  - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 aliasesArchive:
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-- how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+  - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+  - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+  - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+  - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+  - how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:09Z
   short_title: 2025-07-07T17:56:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:25Z
 videoId: bpBhREVX85o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

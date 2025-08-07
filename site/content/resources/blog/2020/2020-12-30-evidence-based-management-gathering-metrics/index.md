@@ -2,52 +2,59 @@
 title: 'Evidence-based Management: Gathering the metrics'
 short_title: 'Evidence-Based Management: Key Metrics Guide'
 description: Explains how to gather key metrics for evidence-based management in software organisations, focusing on value delivery, time to market, and ability to innovate.
+tldr: 'Evidence-based Management helps software organizations focus on delivering real value by tracking metrics in three areas: current value, time to market, and ability to innovate. Traditional measures like on-time and on-budget delivery miss customer value, so organizations should gather and regularly review these agile-focused metrics to guide improvement. Start collecting baseline data now and reassess quarterly to track progress and demonstrate the impact of agile investments.'
 date: 2020-12-30
+lastmod: 2020-12-30
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: mK5twHwVcIg
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: evidence-based-management-gathering-the-metrics
 aliases:
-- /blog/evidence-based-management-gathering-metrics
-- /evidence-based-management-gathering-metrics
-- /evidence-based-management--gathering-the-metrics
-- /blog/evidence-based-management--gathering-the-metrics
-- /resources/mK5twHwVcIg
-- /resources/blog/evidence-based-management-gathering-metrics
+  - /blog/evidence-based-management-gathering-metrics
+  - /evidence-based-management-gathering-metrics
+  - /evidence-based-management--gathering-the-metrics
+  - /blog/evidence-based-management--gathering-the-metrics
+  - /resources/mK5twHwVcIg
+  - /resources/blog/evidence-based-management-gathering-metrics
 aliasesArchive:
-- /blog/evidence-based-management-gathering-metrics
-- /evidence-based-management-gathering-metrics
-- /evidence-based-management--gathering-the-metrics
-- /blog/evidence-based-management--gathering-the-metrics
-- /resources/blog/evidence-based-management-gathering-metrics
+  - /blog/evidence-based-management-gathering-metrics
+  - /evidence-based-management-gathering-metrics
+  - /evidence-based-management--gathering-the-metrics
+  - /blog/evidence-based-management--gathering-the-metrics
+  - /resources/blog/evidence-based-management-gathering-metrics
 layout: blog
 concepts:
-- Model
+  - Model
 categories:
-- Product Management
-- Product Development
-- Scrum
+  - Product Management
+  - Product Development
+  - Scrum
 tags:
-- Customer Focus
-- Evidence Based Management
-- Metrics and Learning
-- Ability to Innovate
-- Agile Product Management
-- Continuous Improvement
-- Operational Practices
-- Evidence Based Leadership
-- Software Development
-- Value Delivery
-- Decision Making
-- Pragmatic Thinking
-- Current Value
-- Time to Market
-- Agile Frameworks
+  - Social Technologies
+  - Customer Focus
+  - Evidence Based Management
+  - Metrics and Learning
+  - Ability to Innovate
+  - Agile Product Management
+  - Continuous Improvement
+  - Operational Practices
+  - Evidence Based Leadership
+  - Software Development
+  - Value Delivery
+  - Decision Making
+  - Pragmatic Thinking
+  - Current Value
+  - Time to Market
 Watermarks:
   description: 2025-05-07T13:15:07Z
   short_title: 2025-07-07T17:57:39Z
+  tldr: 2025-08-07T13:10:38Z
 ResourceImportId: 10528
 AudioNative: true
 creator: Martin Hinshelwood

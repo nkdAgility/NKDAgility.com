@@ -2,8 +2,14 @@
 title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
 short_title: Navigating Agile Learning in Uncertain Times
 description: Explores adapting agile learning to remote environments, emphasising flexibility, flow, gamification, and community support during uncertain times.
+tldr: Adapting to remote work and uncertainty, agile learning now emphasizes flexibility in teaching, flow management to help teams handle remote challenges, and gamified tools for better engagement. Building a strong, interactive community and gathering feedback are key to effective virtual learning. Managers should support team adaptability and encourage participation in collaborative, skill-building opportunities.
 date: 2020-04-01T16:26:05Z
-weight: 1000
+lastmod: 2020-04-01T16:26:05Z
+weight: 805
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: xaLNCbr9o3Y
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 aliases:
-- /resources/xaLNCbr9o3Y
+  - /resources/xaLNCbr9o3Y
 aliasesArchive:
-- /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
-- navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+  - /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
+  - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+  - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+  - /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+  - navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:55Z
   short_title: 2025-07-07T17:58:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:22Z
 videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

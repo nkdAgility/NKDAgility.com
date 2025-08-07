@@ -2,8 +2,14 @@
 title: How to Measure Your Organization's Ability to Improve Value Through Innovation
 short_title: Measuring and Improving Innovation Capability
 description: Learn how to assess and improve your organisation’s innovation capability using evidence-based management and key metrics like technical debt, innovation rate, and complexity.
+tldr: To improve your organization's ability to deliver value, focus on measuring and enhancing your capacity for innovation using evidence-based management and key metrics like active branches, technical debt, innovation rate, and complexity overhead. Regularly monitor these metrics, set clear innovation goals, and foster a culture of continuous improvement to identify bottlenecks and drive better outcomes. Take action by simplifying processes, managing technical debt, and increasing time spent on new features to boost your team's innovation and long-term success.
 date: 2024-01-25T11:00:18Z
+lastmod: 2024-01-25T11:00:18Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: Puz2wSg7UmE
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-measure-your-organization's-ability-to-improve-value-through-innovation
 aliases:
-- /resources/Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+  - /resources/Puz2wSg7UmE
+  - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+  - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+  - /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 aliasesArchive:
-- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
-- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+  - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+  - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+  - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+  - how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+  - /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 source: internal
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Ability to Innovate
-- Entrepreneurship
-- Evidence Based Leadership
-- Evidence Based Management
-- Continuous Improvement
-- Decision Making
-- Metrics and Learning
-- Business Agility
-- Pragmatic Thinking
+  - Ability to Innovate
+  - Entrepreneurship
+  - Evidence Based Leadership
+  - Evidence Based Management
+  - Continuous Improvement
+  - Decision Making
+  - Social Technologies
+  - Metrics and Learning
+  - Business Agility
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:13Z
   short_title: 2025-07-07T17:50:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:37Z
 videoId: Puz2wSg7UmE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
 duration: 54
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

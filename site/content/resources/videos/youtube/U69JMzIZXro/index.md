@@ -1,45 +1,45 @@
 ---
+title: 'Mastering TFS Installation on a Single Server: A Step-by-Step Guide for Beginners'
 description: Learn how to install and configure Team Foundation Server (TFS) on a single server, including SQL Server setup, TFS installation, and creating your first team project.
 date: 2014-01-15T13:38:13Z
-ResourceId: U69JMzIZXro
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
+lastmod: 2014-01-15T13:38:13Z
 weight: 1000
-ResourceContentOrigin: AI
-tags:
-- Install and Configuration
-- System Configuration
-- Windows
-- Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.1
+  changefreq: monthly
+ResourceId: U69JMzIZXro
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
+aliases:
+  - /resources/U69JMzIZXro
+aliasesArchive:
+  - /resources/videos/installing-tfs-standard
+  - /resources/videos/installing-tfs-2013-standard
+  - /resources/installing-tfs-2013-standard
+  - /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
+  - mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
+source: youtube
+layout: video
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Windows
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:22:33Z
-concepts: []
-title: 'Mastering TFS Installation on a Single Server: A Step-by-Step Guide for Beginners'
 videoId: U69JMzIZXro
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
-layout: video
-aliases:
-- /resources/U69JMzIZXro
-- /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
-- /resources/videos/installing-tfs-2013-standard
-aliasesArchive:
-- /resources/videos/installing-tfs-standard
-- /resources/videos/installing-tfs-2013-standard
-- /resources/installing-tfs-2013-standard
-- /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
-- mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

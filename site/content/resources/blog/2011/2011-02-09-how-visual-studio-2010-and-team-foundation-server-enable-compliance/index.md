@@ -1,36 +1,39 @@
 ---
 title: How Visual Studio 2010 and Team Foundation Server enable Compliance
 description: Explains how Visual Studio 2010 and Team Foundation Server support compliance by enabling traceability, audit trails, and linking code changes to requirements and tests.
+date: 2011-02-09
+lastmod: 2011-02-09
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: gUB-uq9tH-d
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 14
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-02-09
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-visual-studio-2010-and-team-foundation-server-enable-compliance
 aliases:
-- /resources/gUB-uq9tH-d
+  - /resources/gUB-uq9tH-d
 aliasesArchive:
-- /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-- /how-visual-studio-2010-and-team-foundation-server-enable-compliance
-- /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Software Development
-- Product Delivery
+  - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+  - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
+  - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-30-30.png
+  - Uncategorized
+tags:
+  - Application Lifecycle Management
+  - Azure DevOps
+  - Software Development
+  - Product Delivery
 Watermarks:
   description: 2025-05-13T15:11:11Z
-concepts: []
+ResourceImportId: 14
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---
 [![Visual Studio 2010 ALM with the word Audit stamped accross it](images/Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_thumb-5-29-29.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_2.png)

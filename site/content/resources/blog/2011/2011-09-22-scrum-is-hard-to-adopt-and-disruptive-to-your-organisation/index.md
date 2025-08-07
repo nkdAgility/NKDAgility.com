@@ -1,38 +1,41 @@
 ---
 title: Scrum is hard to adopt and disruptive to your organisation
 description: Explains why adopting Scrum is challenging and disruptive, highlighting the need for training, mentoring, and dedication for successful organisational change and Agile adoption.
+date: 2011-09-22
+lastmod: 2011-09-22
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: TRgmAScsBJs
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3789
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-22
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 aliases:
-- /resources/TRgmAScsBJs
+  - /resources/TRgmAScsBJs
 aliasesArchive:
-- /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
-- /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
-- /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
-tags:
-- Software Development
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Frameworks
-- Product Delivery
+  - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+  - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+  - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+layout: blog
+concepts: []
 categories:
-- Scrum
-- Product Management
-preview: nakedalm-experts-professional-scrum-4-4.png
+  - Scrum
+  - Product Management
+tags:
+  - Software Development
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Product Delivery
 Watermarks:
   description: 2025-05-13T15:10:10Z
-concepts: []
+ResourceImportId: 3789
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---
 Before the "[Professional Scrum Foundations](http://www.scrum.org/professionalscrumfoundations/)" course ever existed I was tasked with delivering a practical Scrum foundation course for our customers. I came up with a 2 day “Scrum Foundation” course that included lots of practical exercises and leveraged the existing [Scrum Open](http://www.scrum.org/scrumopen/) exam. But why would you want it and is that all you need?

@@ -2,8 +2,14 @@
 title: 'Modernising Legacy Systems: A Practical, Low-Risk Strategy for Real Business Transformation'
 short_title: 'Modernising Legacy Systems: Low-Risk Strategy'
 description: Struggling with legacy systems? Discover why modernisation is a strategy, not a gamble—reduce risk, boost efficiency, and future-proof your business today.
+tldr: Modernising legacy systems should be a strategic, low-risk process focused on understanding both technical and workflow bottlenecks, not a risky full replacement. Incremental changes, targeted automation, and addressing process issues often deliver the best results while minimising disruption. Development managers should map how work flows through their systems, prioritise fixes that offer the most value, and shift from reactive firefighting to proactive improvement.
 date: 2025-06-09T06:00:00Z
-weight: 240
+lastmod: 2025-06-09T06:00:00Z
+weight: 335
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 4iK4RTQegD8
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,39 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
 aliases:
-- /resources/4iK4RTQegD8
-- /resources/videos/modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
-- /resources/videos/10-how-nkd-agility-helps-you-modernize-without-disrupting-business
+  - /resources/4iK4RTQegD8
+  - /resources/videos/modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
+  - /resources/videos/10-how-nkd-agility-helps-you-modernize-without-disrupting-business
 aliasesArchive:
-- /resources/videos/10-how-nkd-agility-helps-you-modernize-without-disrupting-business
-- 10-how-nkd-agility-helps-you-modernize-without-disrupting-business
-- /resources/videos/modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
-- modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
+  - /resources/videos/10-how-nkd-agility-helps-you-modernize-without-disrupting-business
+  - 10-how-nkd-agility-helps-you-modernize-without-disrupting-business
+  - /resources/videos/modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
+  - modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Engineering Excellence
-- DevOps
+  - Product Development
 tags:
-- Digital Transformation
-- Software Development
-- Market Adaptability
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Change Management
-- Organisational Agility
+  - Digital Transformation
+  - Software Development
+  - Market Adaptability
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Change Management
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T19:54:52Z
   short_title: 2025-07-07T16:43:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:11:32Z
 videoId: 4iK4RTQegD8
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/4iK4RTQegD8/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCr7WnpZZkXj6DDbocSm0IErlL4jg
 duration: 75
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

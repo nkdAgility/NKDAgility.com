@@ -2,8 +2,14 @@
 title: How to Achieve Predictability in Business through Agile Principles
 short_title: Achieving Business Predictability with Agile
 description: Learn how Agile principles help businesses improve predictability by addressing challenges, optimising systems, aligning goals, and adapting to change for consistent results.
+tldr: Predictability in software development is achieved by aligning teams around clear goals, optimizing systems, and adopting Agile principles that balance planning with adaptability. Key insights include the importance of well-defined processes, empowering teams to make decisions, and tailoring Agile frameworks to fit your unique business needs, as seen in Microsoft’s transformation. To improve predictability, focus on continuous improvement, effective communication, and collaboration both within teams and with customers.
 date: 2024-10-08T10:33:32Z
+lastmod: 2024-10-08T10:33:32Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: G1BQG2tsbYg
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-achieve-predictability-in-business-through-agile-principles
 aliases:
-- /resources/G1BQG2tsbYg
-- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
+  - /resources/G1BQG2tsbYg
+  - /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+  - /resources/videos/outcome-increased-business-predictability
 aliasesArchive:
-- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-- /resources/outcome-increased-business-predictability
-- how-to-achieve-predictability-in-business-through-agile-principles
+  - /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+  - /resources/how-to-achieve-predictability-in-business-through-agile-principles
+  - /resources/videos/outcome-increased-business-predictability
+  - /resources/outcome-increased-business-predictability
+  - how-to-achieve-predictability-in-business-through-agile-principles
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Business Agility
-- Pragmatic Thinking
-- Agile Planning
-- Agile Strategy
-- Organisational Agility
-- Market Adaptability
-- Agile Transformation
-- Agile Values and Principles
-- Operational Practices
-- Organisational Physics
-- Agile Philosophy
-- Enterprise Agility
+  - Business Agility
+  - Pragmatic Thinking
+  - Agile Planning
+  - Agile Strategy
+  - Organisational Agility
+  - Market Adaptability
+  - Agile Transformation
+  - Agile Values and Principles
+  - Operational Practices
+  - Organisational Physics
+  - Agile Philosophy
+  - Enterprise Agility
 Watermarks:
   description: 2025-05-07T12:57:36Z
   short_title: 2025-07-07T17:47:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:43Z
 videoId: G1BQG2tsbYg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
 duration: 1259
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: What do people love most about the 4-day training format?
 short_title: Benefits of the 4-Day Training Format
 description: The 4-day training format offers shorter, well-paced sessions with breaks, allowing participants to absorb content, reflect, and return with deeper understanding and questions.
+tldr: The four-day training format, which spreads sessions over four half-days instead of two full days, is popular because it prevents exhaustion, allows time for reflection, and leads to deeper learning and better questions. Participants appreciate the breaks between sessions, which help them absorb and internalize content more effectively. Consider adopting this format to improve engagement and learning outcomes in your team's training programs.
 date: 2023-05-11T12:00:02Z
+lastmod: 2023-05-11T12:00:02Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 3XsOseKG57g
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-do-people-love-most-about-the-4-day-training-format
 aliases:
-- /resources/3XsOseKG57g
-- /resources/videos/what-do-people-love-most-about-the-4-day-training-format
+  - /resources/3XsOseKG57g
+  - /resources/videos/what-do-people-love-most-about-the-4-day-training-format
 aliasesArchive:
-- /resources/videos/what-do-people-love-most-about-the-day-training-format
-- /resources/videos/what-do-people-love-most-about-the-4-day-training-format
-- /resources/what-do-people-love-most-about-the-4-day-training-format
-- /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
-- /resources/what-do-people-love-most-about-the-4-day-training-format-
-- what-do-people-love-most-about-the-4-day-training-format
+  - /resources/videos/what-do-people-love-most-about-the-day-training-format
+  - /resources/videos/what-do-people-love-most-about-the-4-day-training-format
+  - /resources/what-do-people-love-most-about-the-4-day-training-format
+  - /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
+  - /resources/what-do-people-love-most-about-the-4-day-training-format-
+  - what-do-people-love-most-about-the-4-day-training-format
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T13:12:32Z
   short_title: 2025-07-07T17:55:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:15Z
 videoId: 3XsOseKG57g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3XsOseKG57g/maxresdefault.jpg
 duration: 121
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

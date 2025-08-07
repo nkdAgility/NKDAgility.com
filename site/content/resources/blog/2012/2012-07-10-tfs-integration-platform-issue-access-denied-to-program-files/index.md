@@ -1,37 +1,40 @@
 ---
 title: 'TFS Integration Tools – Issue: Access denied to Program Files'
 description: Explains how to fix an "Access Denied" error when TFS Integration Tools cannot write log files to Program Files, including permission changes and retry steps.
+date: 2012-07-10
+lastmod: 2012-07-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wzTZxQrjbzO
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6113
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: tfs-integration-platform-issue-access-denied-to-program-files
+slug: tfs-integration-tools-–-issue-access-denied-to-program-files
 aliases:
-- /resources/blog/tfs-integration-tools-issue-access-denied-to-program-files
-- /resources/wzTZxQrjbzO
+  - /resources/blog/tfs-integration-tools-issue-access-denied-to-program-files
+  - /resources/wzTZxQrjbzO
 aliasesArchive:
-- /blog/tfs-integration-platform-issue-access-denied-to-program-files
-- /tfs-integration-platform-issue-access-denied-to-program-files
-- /tfs-integration-tools-–-issue--access-denied-to-program-files
-- /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
-- /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
-- /resources/blog/tfs-integration-tools-issue-access-denied-to-program-files
-tags:
-- Troubleshooting
+  - /blog/tfs-integration-platform-issue-access-denied-to-program-files
+  - /tfs-integration-platform-issue-access-denied-to-program-files
+  - /tfs-integration-tools-–-issue--access-denied-to-program-files
+  - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
+  - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
+  - /resources/blog/tfs-integration-tools-issue-access-denied-to-program-files
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-1-1.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:48Z
-concepts: []
+ResourceImportId: 6113
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-1-1.png
 
 ---
 You get a Unauthorised Access Exception when the TFS Integration Platform tries to write a file to the ‘C:Program Files (x86)Microsoft Team Foundation Server Integration Tools2768.txt’ folder.

@@ -1,33 +1,36 @@
 ---
 title: Working within a single Team Project with Team Foundation Server 2012
 description: Explains how to organise teams, products, and projects within a single Team Project in Team Foundation Server 2012, covering design, security, and workflow considerations.
+date: 2013-04-08
+lastmod: 2013-04-08
+weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: mV9NzUQYyjY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9431
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-04-08
-weight: 630
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
-- /resources/mV9NzUQYyjY
+  - /resources/mV9NzUQYyjY
 aliasesArchive:
-- /blog/working-within-a-single-team-project-with-team-foundation-server-2012
-- /working-within-a-single-team-project-with-team-foundation-server-2012
-- /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
-tags:
-- Software Development
+  - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
+  - /working-within-a-single-team-project-with-team-foundation-server-2012
+  - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-5-5.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:06:40Z
-concepts: []
+ResourceImportId: 9431
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---
 Working within a single Team Project with Team Foundation Server 2012 provides a lot of benefits. There are however many design consideration for working within a single team project and we need to consider all of the complexities that is entails.

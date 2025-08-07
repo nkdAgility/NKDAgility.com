@@ -2,8 +2,14 @@
 title: 'Essential Skills Every Agile Consultant Needs: Mastering Domain Knowledge, Active Listening, and Honest Communication'
 short_title: Essential Skills for Agile Consultants
 description: 'Covers key skills for agile consultants: mastering domain knowledge, practising active listening, and communicating honestly to drive transparency and effective organisational change.'
+tldr: Agile consultants are most effective when they understand the business domain, actively listen to all team members to uncover gaps in transparency, and communicate difficult truths honestly, even to leadership. These skills help build trust and drive meaningful change. Development managers should ensure consultants are empowered to ask tough questions and share candid feedback to improve team performance.
 date: 2023-04-14T07:00:24Z
-weight: 1000
+lastmod: 2023-04-14T07:00:24Z
+weight: 815
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: gImXmxjn_1g
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 aliases:
-- /resources/gImXmxjn_1g
-- /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
+  - /resources/gImXmxjn_1g
+  - /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
+  - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 aliasesArchive:
-- /resources/videos/what-are-top-tips-for-a-new-agile-consultant
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
-- /resources/what-are-3-top-tips-for-a-new-agile-consultant-
-- what-are-3-top-tips-for-a-new-agile-consultant
-- /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
-- essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
+  - /resources/videos/what-are-top-tips-for-a-new-agile-consultant
+  - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
+  - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
+  - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
+  - what-are-3-top-tips-for-a-new-agile-consultant
+  - /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
+  - essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:14Z
   short_title: 2025-07-07T17:55:55Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:40Z
 videoId: gImXmxjn_1g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

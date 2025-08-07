@@ -1,45 +1,48 @@
 ---
 title: Release Management with Team Foundation Server 2012
 description: Explains how to automate and streamline software release management using Team Foundation Server 2012, Lab Management, and Octopus, focusing on build, deployment, and quality.
+date: 2013-04-24
+lastmod: 2013-04-24
+weight: 340
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: GqwYV8fekzQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9468
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-04-24
-weight: 340
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: release-management-with-team-foundation-server-2012
 aliases:
-- /resources/GqwYV8fekzQ
+  - /resources/GqwYV8fekzQ
 aliasesArchive:
-- /blog/release-management-with-team-foundation-server-2012
-- /release-management-with-team-foundation-server-2012
-- /resources/blog/release-management-with-team-foundation-server-2012
-tags:
-- Working Software
-- Release Management
-- Product Delivery
-- Software Development
-- Operational Practices
-- Deployment Strategies
-- Technical Excellence
-- Deployment Frequency
-- Frequent Releases
-- Continuous Delivery
-- Application Lifecycle Management
-- Pragmatic Thinking
+  - /blog/release-management-with-team-foundation-server-2012
+  - /release-management-with-team-foundation-server-2012
+  - /resources/blog/release-management-with-team-foundation-server-2012
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-- DevOps
-preview: nakedalm-experts-visual-studio-alm-8-8.png
+  - Engineering Excellence
+  - DevOps
+tags:
+  - Working Software
+  - Release Management
+  - Product Delivery
+  - Software Development
+  - Operational Practices
+  - Deployment Strategies
+  - Technical Excellence
+  - Deployment Frequency
+  - Frequent Releases
+  - Continuous Delivery
+  - Application Lifecycle Management
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:06:34Z
-concepts: []
+ResourceImportId: 9468
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---
 Northwest Cadence has been working hard with customers to improve their release management in Team Foundation Server 2012. While on the surface it looks like TFS 2012 has little in the way of support for release management, you would be wrong. There are many features in Team Foundation Server, many of them added in TFS 2010 that can aid you in creating a release management strategy.

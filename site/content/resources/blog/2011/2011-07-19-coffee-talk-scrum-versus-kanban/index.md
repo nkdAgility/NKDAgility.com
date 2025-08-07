@@ -1,35 +1,38 @@
 ---
 title: 'Coffee Talk: Scrum versus Kanban'
 description: Learn the key differences and similarities between Scrum and Kanban, and discover which agile framework best suits your software development needs. Recording available.
+date: 2011-07-19
+lastmod: 2011-07-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1VmIrtnFKy7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3688
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-07-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban
 aliases:
-- /resources/1VmIrtnFKy7
+  - /resources/1VmIrtnFKy7
 aliasesArchive:
-- /blog/coffee-talk-scrum-versus-kanban
-- /coffee-talk-scrum-versus-kanban
-- /coffee-talk--scrum-versus-kanban
-- /blog/coffee-talk--scrum-versus-kanban
-- /resources/blog/coffee-talk-scrum-versus-kanban
-tags:
-- Software Development
+  - /blog/coffee-talk-scrum-versus-kanban
+  - /coffee-talk-scrum-versus-kanban
+  - /coffee-talk--scrum-versus-kanban
+  - /blog/coffee-talk--scrum-versus-kanban
+  - /resources/blog/coffee-talk-scrum-versus-kanban
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-event-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:24Z
-concepts: []
+ResourceImportId: 3688
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-1-1.png
 
 ---
 ![Coffee Talk: Scrum versus Kanban ](images/1475243493-2.png)

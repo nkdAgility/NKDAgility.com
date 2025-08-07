@@ -2,31 +2,38 @@
 title: 'Round up for 2017 and beyond: Agility, DevOps, and Everything In-between'
 short_title: 2017 Agile and DevOps Conference Highlights
 description: Summary of 2017 conferences, talks, and training on Agile, DevOps, Scrum, and team leadership, with insights from global workshops and upcoming course details.
+tldr: The author reflects on a busy year of speaking at global conferences and delivering workshops focused on Agile, Scrum, and DevOps, noting that training provides more lasting value to clients than consulting. Key insights include the importance of stepping out of comfort zones, sharing practical knowledge to empower teams, and prioritizing structured, engaging training. Development managers should consider investing in team training to build internal capability and drive better outcomes.
 date: 2017-11-28
-weight: 480
+lastmod: 2017-11-28
+weight: 495
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: J0HjcdNvqGW
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
-- /resources/J0HjcdNvqGW
+  - /resources/J0HjcdNvqGW
 aliasesArchive:
-- /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
+  - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
+  - /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
+  - /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
+  - /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
+  - /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
+  - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
+  - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:24Z
   short_title: 2025-07-07T17:58:40Z
+  tldr: 2025-08-07T13:13:29Z
 ResourceImportId: 12146
 creator: Martin Hinshelwood
 resourceTypes: blog

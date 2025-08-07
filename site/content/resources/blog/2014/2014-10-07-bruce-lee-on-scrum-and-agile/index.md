@@ -1,33 +1,40 @@
 ---
 title: Bruce Lee on Scrum and Agile
+short_title: Bruce Lee’s Philosophy for Scrum and Agile
 description: Explores how Bruce Lee’s philosophy applies to Scrum and Agile, emphasising adaptability, simplicity, and creating flexible, tailored processes for continuous improvement.
+tldr: Scrum and Agile should be seen as flexible tools, not rigid frameworks; their value lies in simplicity, adaptability, and directness. Teams should learn and master the principles but avoid being constrained by them, instead tailoring processes to fit their unique needs. Focus on using these methods to continuously improve and better serve your customers.
+date: 2014-10-07
+lastmod: 2014-10-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: mDZ9tLsZEI-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10800
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: bruce-lee-on-scrum-and-agile
 aliases:
-- /resources/mDZ9tLsZEI-
+  - /resources/mDZ9tLsZEI-
 aliasesArchive:
-- /blog/bruce-lee-on-scrum-and-agile
-- /bruce-lee-on-scrum-and-agile
-- /resources/blog/bruce-lee-on-scrum-and-agile
-tags:
-- Agile Philosophy
+  - /blog/bruce-lee-on-scrum-and-agile
+  - /bruce-lee-on-scrum-and-agile
+  - /resources/blog/bruce-lee-on-scrum-and-agile
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-professional-scrum-2-2.png
+  - Uncategorized
+tags:
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-12T14:21:09Z
-concepts: []
+  tldr: 2025-08-07T13:27:11Z
+  short_title: 2025-08-07T13:27:11Z
+ResourceImportId: 10800
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.

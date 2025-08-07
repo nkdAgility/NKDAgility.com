@@ -2,8 +2,14 @@
 title: Navigating the Complex World of Azure DevOps Data Migration
 short_title: Azure DevOps Data Migration Guide
 description: Learn key steps, common pitfalls, and best practices for migrating data from legacy TFS systems to Azure DevOps, including identity alignment, database cleanup, and backups.
+tldr: Migrating to Azure DevOps is complex, especially with legacy systems, but careful planning and attention to detail can prevent most issues. Key steps include importing legacy data before upgrades, aligning user identities to avoid workflow disruptions, cleaning up databases to meet size limits, and strictly following Microsoft’s backup procedures. Development managers should prioritize preparation and sequencing to ensure a smooth migration and minimize risks.
 date: 2024-07-31T12:00:49Z
+lastmod: 2024-07-31T12:00:49Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 3jYFD-6_kZk
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-complex-world-of-azure-devops-data-migration
 aliases:
-- /resources/3jYFD-6_kZk
-- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+  - /resources/3jYFD-6_kZk
+  - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
+  - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 aliasesArchive:
-- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-- navigating-the-complex-world-of-azure-devops-data-migration
+  - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
+  - /resources/navigating-the-complex-world-of-azure-devops-data-migration
+  - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+  - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+  - navigating-the-complex-world-of-azure-devops-data-migration
 source: internal
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags:
-- Azure DevOps
-- Software Development
-- Troubleshooting
-- Pragmatic Thinking
-- Install and Configuration
+  - Azure DevOps
+  - Software Development
+  - Troubleshooting
+  - Pragmatic Thinking
+  - Install and Configuration
 Watermarks:
   description: 2025-05-07T13:02:21Z
   short_title: 2025-07-07T17:48:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:21Z
 videoId: 3jYFD-6_kZk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

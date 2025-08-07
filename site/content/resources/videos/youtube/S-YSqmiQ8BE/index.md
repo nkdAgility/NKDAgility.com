@@ -2,8 +2,14 @@
 title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
 short_title: 'Legacy System Modernisation: Stability vs Innovation'
 description: Learn how to modernise legacy systems by balancing stability and innovation, managing technical debt, and adopting gradual, sustainable improvements for long-term success.
+tldr: Balancing stability and innovation in legacy systems is challenging, as rapid changes can cause technical debt and confusion, while inaction leads to stagnation. Gradual, collaborative modernisation focused on engineering best practices allows for progress without disrupting what works. Consider incremental improvements to maintain resilience and competitiveness while modernising.
 date: 2025-04-14T06:00:33Z
-weight: 480
+lastmod: 2025-04-14T06:00:33Z
+weight: 250
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: S-YSqmiQ8BE
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 aliases:
-- /resources/S-YSqmiQ8BE
-- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
-- /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
+  - /resources/S-YSqmiQ8BE
+  - /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+  - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
 aliasesArchive:
-- /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-- /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
-- the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-- /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
-- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
-- navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+  - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+  - /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
+  - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
+  - the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+  - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
+  - /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+  - navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Engineering Excellence
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T12:49:14Z
   short_title: 2025-07-07T16:44:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:33:43Z
 videoId: S-YSqmiQ8BE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S-YSqmiQ8BE/maxresdefault.jpg
 duration: 93
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

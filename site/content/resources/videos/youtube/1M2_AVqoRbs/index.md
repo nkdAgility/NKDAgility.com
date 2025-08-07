@@ -2,8 +2,14 @@
 title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and Value'
 short_title: Transforming Technical Debt for Innovation
 description: Explores how addressing technical debt boosts innovation, team morale, and value delivery by enabling agile development, better products, and proactive organisational growth.
+tldr: Technical debt is more than just a cost; it represents missed opportunities for innovation and value. Allowing technical debt to accumulate slows delivery, increases maintenance costs, and lowers team morale, while proactively addressing it empowers teams, improves agility, and enhances value delivery. Make technical debt management a regular part of your workflow and educate stakeholders to unlock your team's full potential.
 date: 2024-11-20T16:53:31Z
+lastmod: 2024-11-20T16:53:31Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 1M2_AVqoRbs
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 aliases:
-- /resources/1M2_AVqoRbs
-- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
-- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
-- /resources/videos/technical-debt-costs-you-more-than-you-think
+  - /resources/1M2_AVqoRbs
+  - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+  - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
+  - /resources/videos/technical-debt-costs-you-more-than-you-think
 aliasesArchive:
-- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
-- /resources/videos/technical-debt-costs-you-more-than-you-think
-- /resources/technical-debt-costs-you-more-than-you-think
-- transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+  - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
+  - /resources/videos/technical-debt-costs-you-more-than-you-think
+  - /resources/technical-debt-costs-you-more-than-you-think
+  - transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
+  - Technical Debt
+  - Software Development
+  - Personal
 Watermarks:
   description: 2025-05-07T12:57:13Z
   short_title: 2025-07-07T17:47:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:59Z
 videoId: 1M2_AVqoRbs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

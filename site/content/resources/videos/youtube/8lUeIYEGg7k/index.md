@@ -2,8 +2,14 @@
 title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
 short_title: Scaling Agile Across Multiple Teams
 description: Learn effective strategies for scaling agile across multiple teams, managing dependencies, avoiding common pitfalls, and maintaining agility as your organisation grows.
+tldr: Scaling agile across multiple teams introduces complexity and risks slowing down delivery, so it is crucial to choose a scaling approach that fits your organisation’s unique context. Key to success are mapping dependencies, proactively addressing communication pitfalls, and maintaining speed in delivering value as you grow. Consider a tailored, hands-on strategy to preserve agility and empower your teams as you scale.
 date: 2025-02-26T06:00:08Z
+lastmod: 2025-02-26T06:00:08Z
 weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 8lUeIYEGg7k
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 aliases:
-- /resources/8lUeIYEGg7k
-- /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
-- /resources/videos/how-to-scale-agile-beyond-a-single-team
+  - /resources/8lUeIYEGg7k
+  - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+  - /resources/videos/how-to-scale-agile-beyond-a-single-team
 aliasesArchive:
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
-- /resources/videos/how-to-scale-agile-beyond-a-single-team
-- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
-- mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+  - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+  - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
+  - /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+  - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+  - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
+  - /resources/videos/how-to-scale-agile-beyond-a-single-team
+  - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+  - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+  - mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 source: internal
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
+  - Product Development
 tags:
-- Scaling
-- Large Scale Agility
-- Pragmatic Thinking
+  - Scaling
+  - Large Scale Agility
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:25Z
   short_title: 2025-07-07T16:45:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:42Z
 videoId: 8lUeIYEGg7k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8lUeIYEGg7k/maxresdefault.jpg
 duration: 75
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

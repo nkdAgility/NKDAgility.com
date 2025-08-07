@@ -1,37 +1,40 @@
 ---
 title: 'Coffee Talk: Introduction to Scrum - webcast event this Friday!'
 description: Learn the basics of Scrum, including its key roles and processes, with practical tips for adoption. Ideal for those new to agile or seeking to improve team performance.
+date: 2011-08-16
+lastmod: 2011-08-16
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ThIUwJr1ff_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3728
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-08-16
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
-- /resources/ThIUwJr1ff_
+  - /resources/ThIUwJr1ff_
 aliasesArchive:
-- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
-- /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
-- /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
-tags:
-- Software Development
-- Professional Scrum
-- Agile Frameworks
+  - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+  - /coffee-talk-introduction-to-scrum-webcast-event-this-friday
+  - /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+  - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+  - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-event-128-link-2-2.png
+  - Scrum
+tags:
+  - Software Development
+  - Professional Scrum
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-13T15:10:20Z
-concepts: []
+ResourceImportId: 3728
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-2-2.png
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-3-3.png "NWC tagline logo_transparent")

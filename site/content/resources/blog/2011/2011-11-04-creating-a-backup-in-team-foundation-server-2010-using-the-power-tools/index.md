@@ -1,36 +1,39 @@
 ---
 title: Creating a backup in Team Foundation Server 2010 using the Power Tools
 description: Step-by-step guide to backing up Team Foundation Server 2010 with Power Tools, including required permissions, common errors, and troubleshooting backup issues.
+date: 2011-11-04
+lastmod: 2011-11-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 9fVxqpOPzX8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4025
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
-- /resources/9fVxqpOPzX8
+  - /resources/9fVxqpOPzX8
 aliasesArchive:
-- /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-- /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-- /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-tags:
-- Troubleshooting
-- System Configuration
-- Install and Configuration
-- Windows
-- Software Development
+  - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+  - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+  - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - System Configuration
+  - Install and Configuration
+  - Windows
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:57Z
-concepts: []
+ResourceImportId: 4025
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?

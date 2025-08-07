@@ -1,44 +1,47 @@
 ---
 title: 'Adventures in Scrum: Lesson 1 – The failed Sprint'
 description: Explores common pitfalls in early Scrum adoption, highlighting why full team involvement in sprint planning is crucial and lessons learned from a failed first sprint.
+date: 2010-03-15
+lastmod: 2010-03-15
+weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: OG5mmVtH9nU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 63
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-15
-weight: 750
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: adventures-in-scrum-lesson-1-the-failed-sprint
+slug: adventures-in-scrum-lesson-1-–-the-failed-sprint
 aliases:
-- /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
-- /resources/OG5mmVtH9nU
+  - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
+  - /resources/OG5mmVtH9nU
 aliasesArchive:
-- /blog/adventures-in-scrum-lesson-1-the-failed-sprint
-- /adventures-in-scrum-lesson-1-the-failed-sprint
-- /adventures-in-scrum--lesson-1-–-the-failed-sprint
-- /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
-- /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
-tags:
-- Scrum Team
-- Software Development
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Professional Scrum
-- Team Performance
-- Scrum Master
+  - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
+  - /adventures-in-scrum-lesson-1-the-failed-sprint
+  - /adventures-in-scrum--lesson-1-–-the-failed-sprint
+  - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
+  - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-SSWLogo-128-link-1-1.png
+  - Scrum
+tags:
+  - Scrum Team
+  - Software Development
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Team Performance
+  - Scrum Master
 Watermarks:
   description: 2025-05-13T15:22:32Z
-concepts: []
+ResourceImportId: 63
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-1-1.png
 
 ---
 I recently had a conversation with a product owner that wanted to have the Scrum team broken up into smaller units so that less time was wasted on the Scrum Ceremonies! Their complaint was around the need in Scrum to have the entire “Team” (7+-2) involved in the sizing of the work during the “Sprint Planning Meeting”.

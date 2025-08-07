@@ -2,8 +2,14 @@
 title: 'Unlocking User Insights: The Key to Meaningful Software Development'
 short_title: Unlocking User Insights in Software Development
 description: Explores how deeper user understanding, data-driven decisions, and stakeholder collaboration lead to more effective, user-centred software development and strategic planning.
+tldr: To deliver real value, development managers need to go beyond what users say and use data to understand their true needs, avoid copying competitors without clear alignment to user goals, and foster strong collaboration with stakeholders. Focus on evidence-based decisions and ongoing engagement to ensure your team builds solutions that genuinely matter. Make it a priority to regularly question assumptions and validate user needs with data and stakeholder input.
 date: 2024-08-09T05:39:57Z
+lastmod: 2024-08-09T05:39:57Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: YGyx4i3-4ss
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-user-insights-the-key-to-meaningful-software-development
 aliases:
-- /resources/YGyx4i3-4ss
-- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
-- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
-- /resources/videos/ppdv-course-overview
+  - /resources/YGyx4i3-4ss
+  - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
+  - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
+  - /resources/videos/ppdv-course-overview
 aliasesArchive:
-- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
-- /resources/videos/ppdv-course-overview
-- /resources/ppdv-course-overview
-- unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
+  - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
+  - /resources/videos/ppdv-course-overview
+  - /resources/ppdv-course-overview
+  - unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Focus
-- Product Discovery
+  - Product Discovery
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:02:15Z
   short_title: 2025-07-07T17:48:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:04Z
 videoId: YGyx4i3-4ss
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

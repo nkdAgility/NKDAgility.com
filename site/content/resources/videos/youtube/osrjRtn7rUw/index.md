@@ -4,7 +4,12 @@ short_title: 'CTO Peer Pressure: Evidence-Based Choices'
 description: Stop chasing tech trends. Learn how evidence, visibility, and clarity empower tech leaders to make confident, strategic decisions—beyond the hype.
 tldr: Chasing technology trends because competitors do is not a real strategy; instead, focus on making your systems visible, use evidence to guide decisions, and choose tools that fit your actual needs. This approach helps you defend your roadmap with confidence and creates sustainable results for your teams and business. Prioritise clarity and alignment over hype to lead effectively and avoid unnecessary complexity.
 date: 2025-07-04T06:00:44Z
+lastmod: 2025-07-04T06:00:44Z
 weight: 370
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: osrjRtn7rUw
 ResourceImport: true
 ResourceType: videos
@@ -12,23 +17,25 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-chasing-tech-hype-how-evidence-based-decisions-empower-real-leadership
 aliases:
-- /resources/osrjRtn7rUw
-- /resources/videos/8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
+  - /resources/osrjRtn7rUw
+  - /resources/videos/8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
 aliasesArchive:
-- /resources/videos/8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
-- 8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
+  - /resources/videos/8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
+  - 8-cto-peer-pressure-when-everyone-else-is-doing-it-should-you
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Technical Leadership
+  - Technical Leadership
 tags:
-- Pragmatic Thinking
-- Decision Making
-- Evidence Based Leadership
-- Product Strategy
-- Agile Strategy
+  - Evidence Based Leadership
+  - Pragmatic Thinking
+  - Decision Making
+  - Metrics and Learning
+  - Product Strategy
+  - Agile Strategy
+  - Decision Theory
 Watermarks:
   description: 2025-07-24T15:13:09Z
   short_title: 2025-07-24T15:13:10Z
@@ -38,11 +45,8 @@ url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/osrjRtn7rUw/maxresdefault.jpg
 duration: 67
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 I’ve lost count of the number of times I’ve sat in a boardroom and heard, “Our competitor is moving to Kubernetes—why aren’t we?” The pressure is palpable. Executives want to know why we’re not following the herd. Vendors are relentless, armed with glossy case studies and promises of transformation. It’s all too easy to start doubting your own roadmap when every headline screams about the latest trend.

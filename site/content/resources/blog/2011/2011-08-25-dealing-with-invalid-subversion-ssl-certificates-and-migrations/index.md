@@ -1,34 +1,37 @@
 ---
 title: 'Subversion to TFS 2010: Dealing with invalid Subversion SSL certificates and migrations'
 description: Explains how invalid Subversion SSL certificates can block SVN to TFS 2010 migrations, causing connection errors, and details steps to resolve certificate issues.
+date: 2011-08-25
+lastmod: 2011-08-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: OqcEk7HmSwT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3736
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-08-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliases:
-- /resources/OqcEk7HmSwT
+  - /resources/OqcEk7HmSwT
 aliasesArchive:
-- /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
-tags:
-- Troubleshooting
+  - /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
+  - /dealing-with-invalid-subversion-ssl-certificates-and-migrations
+  - /subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
+  - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
+  - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:10:18Z
-concepts: []
+ResourceImportId: 3736
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

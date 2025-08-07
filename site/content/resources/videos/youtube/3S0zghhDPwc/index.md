@@ -2,8 +2,14 @@
 title: 'The Overlooked Virtue of Agility: Diligence'
 short_title: 'The Overlooked Virtue of Agility: Diligence'
 description: Explores why diligence—consistent attention to quality and standards—is vital in Agile teams, how it’s often overlooked, and practical steps to foster it for lasting success.
+tldr: Diligence, or consistently following through on quality standards like the definition of done, is often overlooked in Agile teams but is essential for reliable delivery and long-term success. Without diligence, teams risk inconsistent quality and increased rework, while a strong focus on it leads to better products and faster delivery over time. Development managers should ensure the definition of done is clear, visible, and enforced, and foster a culture of accountability and perseverance to make diligence a team habit.
 date: 2023-12-07T07:00:02Z
+lastmod: 2023-12-07T07:00:02Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 3S0zghhDPwc
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-overlooked-virtue-of-agility-diligence
 aliases:
-- /resources/3S0zghhDPwc
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
+  - /resources/3S0zghhDPwc
+  - /resources/videos/the-overlooked-virtue-of-agility-diligence
+  - /resources/videos/7-virtues-of-agile-diligence
 aliasesArchive:
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/7-virtues-of-agile-diligence
-- the-overlooked-virtue-of-agility-diligence
+  - /resources/videos/the-overlooked-virtue-of-agility-diligence
+  - /resources/the-overlooked-virtue-of-agility-diligence
+  - /resources/videos/7-virtues-of-agile-diligence
+  - /resources/7-virtues-of-agile-diligence
+  - the-overlooked-virtue-of-agility-diligence
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Definition of Done
-- Software Development
-- Agile Transformation
-- Operational Practices
-- Competence
-- Agile Values and Principles
-- Product Delivery
+  - Definition of Done
+  - Software Development
+  - Operational Practices
+  - Competence
+  - Agile Values and Principles
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:07:11Z
   short_title: 2025-07-07T17:51:14Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:36Z
 videoId: 3S0zghhDPwc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
 duration: 119
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

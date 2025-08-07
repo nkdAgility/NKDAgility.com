@@ -1,35 +1,38 @@
 ---
 title: Installing TFS 2013 from scratch is easy
 description: Step-by-step guide to installing and configuring TFS 2013 using Basic or Standard options, including SQL setup, SharePoint integration, and reporting features overview.
+date: 2014-01-17
+lastmod: 2014-01-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: VfADNDpkNbe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10332
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-01-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: installing-tfs-2013-scratch-easy
+slug: installing-tfs-2013-from-scratch-is-easy
 aliases:
-- /resources/VfADNDpkNbe
+  - /resources/VfADNDpkNbe
 aliasesArchive:
-- /blog/installing-tfs-2013-scratch-easy
-- /installing-tfs-2013-scratch-easy
-- /installing-tfs-2013-from-scratch-is-easy
-- /blog/installing-tfs-2013-from-scratch-is-easy
-- /resources/blog/installing-tfs-2013-scratch-easy
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/installing-tfs-2013-scratch-easy
+  - /installing-tfs-2013-scratch-easy
+  - /installing-tfs-2013-from-scratch-is-easy
+  - /blog/installing-tfs-2013-from-scratch-is-easy
+  - /resources/blog/installing-tfs-2013-scratch-easy
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:28Z
-concepts: []
+ResourceImportId: 10332
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

@@ -2,8 +2,14 @@
 title: '7 deadly sins of Agile: Gluttony'
 short_title: '7 Deadly Sins of Agile: Gluttony'
 description: Explores how Agile teams can avoid overloading backlogs, Sprints, and products by focusing on prioritisation, value delivery, and lean, effective practices.
+tldr: Excessive backlog items, overambitious sprint plans, and unnecessary product features can slow teams down and reduce focus. Regularly prioritise and trim the backlog, set realistic sprint goals, and remove unused features to keep the team agile and deliver real value. Focus on quality and relevance rather than quantity to improve productivity and morale.
 date: 2023-10-11T11:35:09Z
-weight: 505
+lastmod: 2023-10-11T11:35:09Z
+weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 2ASLFX2i9_g
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-gluttony
 aliases:
-- /resources/2ASLFX2i9_g
-- /resources/videos/7-deadly-sins-of-agile-gluttony
-- /resources/videos/gluttony-7-deadly-sins-of-agile
+  - /resources/2ASLFX2i9_g
+  - /resources/videos/7-deadly-sins-of-agile-gluttony
+  - /resources/videos/gluttony-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-gluttony
-- /resources/videos/7-deadly-sins-of-agile-gluttony
-- /resources/7-deadly-sins-of-agile-gluttony
-- /resources/videos/gluttony!-7-deadly-sins-of-agile
-- /resources/gluttony!-7-deadly-sins-of-agile
-- /resources/videos/gluttony-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-gluttony
+  - /resources/videos/-deadly-sins-of-agile-gluttony
+  - /resources/videos/7-deadly-sins-of-agile-gluttony
+  - /resources/7-deadly-sins-of-agile-gluttony
+  - /resources/videos/gluttony!-7-deadly-sins-of-agile
+  - /resources/gluttony!-7-deadly-sins-of-agile
+  - /resources/videos/gluttony-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-gluttony
 source: internal
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Pragmatic Thinking
-- Software Development
-- Agile Planning
-- Agile Product Management
-- Operational Practices
-- Product Delivery
-- Team Performance
-- Customer Focus
-- Product Backlog
+  - Pragmatic Thinking
+  - Software Development
+  - Lean Principles
+  - Agile Planning
+  - Agile Product Management
+  - Operational Practices
+  - Product Delivery
+  - Team Performance
+  - Customer Focus
+  - Product Backlog
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:08:54Z
   short_title: 2025-07-07T17:52:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:50Z
 videoId: 2ASLFX2i9_g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
 duration: 412
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

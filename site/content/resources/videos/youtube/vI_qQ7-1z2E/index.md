@@ -2,8 +2,14 @@
 title: Is a PSM II certification validation of your skills, or does it develop your skill and capability as a Scrum Master?
 short_title: 'PSM II: Skill Development for Scrum Masters'
 description: Explains how the PSM II course focuses on developing advanced Scrum Master skills, facilitation techniques, and accountability, rather than just validating knowledge.
+tldr: The PSM II course is designed to develop your skills and capabilities as a Scrum Master, not just validate what you already know. The class focuses on advanced facilitation techniques and deepens your understanding of Scrum Master accountability to the team, Product Owner, and organization. If you want to grow as a Scrum Master and apply practical tools with your teams, attending the course is recommended over just taking the assessment.
 date: 2023-04-17T07:00:17Z
+lastmod: 2023-04-17T07:00:17Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vI_qQ7-1z2E
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 aliases:
-- /resources/vI_qQ7-1z2E
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+  - /resources/vI_qQ7-1z2E
+  - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+  - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 aliasesArchive:
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
-- is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+  - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+  - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+  - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+  - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+  - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+  - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+  - is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Master
-- Competence
-- Agile Frameworks
-- Continuous Learning
-- Professional Scrum
-- Pragmatic Thinking
+  - Scrum Master
+  - Competence
+  - Agile Frameworks
+  - Continuous Learning
+  - Professional Scrum
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:13Z
   short_title: 2025-07-07T17:55:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:37Z
 videoId: vI_qQ7-1z2E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
 duration: 330
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

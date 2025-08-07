@@ -2,8 +2,14 @@
 title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
 short_title: Impact of Incompetent Scrum Masters on ROI
 description: Incompetent Scrum Masters reduce team performance and ROI by lacking key skills. Learn how to measure their impact using innovation, usage, and delivery metrics.
+tldr: Hiring Scrum Masters without the right skills leads to poor returns because they fail to drive team focus, innovation, and product quality. Key metrics like innovation rate, on-product index, usage index, and installed version index reveal how much value your teams actually deliver, often much less than assumed. To improve ROI, measure these metrics regularly and hold Scrum Masters accountable for tangible progress.
 date: 2024-10-22T07:00:08Z
-weight: 250
+lastmod: 2024-10-22T07:00:08Z
+weight: 300
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: EMJyUOy2gP4
 ResourceImport: true
 ResourceType: videos
@@ -11,50 +17,48 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 aliases:
-- /resources/EMJyUOy2gP4
-- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+  - /resources/EMJyUOy2gP4
+  - /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+  - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 aliasesArchive:
-- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+  - /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+  - /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+  - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+  - /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+  - the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Metrics and Learning
-- Software Development
-- Scrum Team
-- Competence
-- Scrum Master
-- Pragmatic Thinking
-- Team Performance
-- Customer Focus
-- Evidence Based Leadership
-- Current Value
-- Agile Product Management
-- Decision Making
-- Operational Practices
-- Product Delivery
-- Value Delivery
+  - Product Delivery
+  - Metrics and Learning
+  - Software Development
+  - Scrum Team
+  - Competence
+  - Scrum Master
+  - Pragmatic Thinking
+  - Team Performance
+  - Customer Focus
+  - Evidence Based Leadership
+  - Current Value
+  - Agile Product Management
+  - Decision Making
+  - Operational Practices
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:57:27Z
   short_title: 2025-07-07T17:47:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:26Z
 videoId: EMJyUOy2gP4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
 duration: 491
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

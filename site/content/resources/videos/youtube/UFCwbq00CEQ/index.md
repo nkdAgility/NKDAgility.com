@@ -2,8 +2,14 @@
 title: 'Ditch the Agile Bandit Mentality: How to Prioritise Value Over Estimates for Team Success'
 short_title: Prioritising Value Over Estimates in Agile
 description: Explores why focusing on value delivery and psychological safety leads to better Agile team outcomes than fixating on estimates, output metrics, or blame culture.
+tldr: Focusing on estimates instead of value delivery can harm team morale and undermine Agile principles. Shifting attention to outcomes, fostering psychological safety, and using metrics that reflect real customer impact lead to better products and a more engaged team. Development managers should prioritise value and team well-being over tracking estimates to achieve lasting success.
 date: 2024-01-05T11:00:32Z
+lastmod: 2024-01-05T11:00:32Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: UFCwbq00CEQ
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
 aliases:
-- /resources/UFCwbq00CEQ
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+  - /resources/UFCwbq00CEQ
+  - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
+  - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 aliasesArchive:
-- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
-- ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
+  - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+  - /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
+  - ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Focus
-- Agile Values and Principles
-- Agile Philosophy
-- Software Development
-- Pragmatic Thinking
-- Psychological Safety
-- Team Motivation
-- Team Performance
-- Agile Transformation
-- Agile Strategy
-- Social Technologies
-- Agile Leadership
-- Business Agility
-- Team Collaboration
+  - Organisational Culture
+  - Customer Focus
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Software Development
+  - Pragmatic Thinking
+  - Psychological Safety
+  - Team Motivation
+  - Team Performance
+  - Personal
+  - Social Technologies
+  - Agile Transformation
+  - Agile Strategy
+  - Agile Leadership
+  - Business Agility
 Watermarks:
   description: 2025-05-07T13:06:36Z
   short_title: 2025-07-07T17:50:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:25Z
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
 short_title: Professional Agile Leadership for Scrum Masters
 description: Explains how the Professional Agile Leadership – Essentials course helps experienced Scrum Masters gain leadership skills, understand organisational challenges, and broaden their impact.
+tldr: The Professional Agile Leadership - Essentials course helps experienced Scrum Masters understand leadership perspectives and challenges, preparing them to move from team-level to broader organizational leadership. It equips them with new insights and language to better serve and influence at multiple levels. Consider this course if you are looking to expand your impact beyond your current Scrum Master role.
 date: 2023-07-27T07:00:04Z
+lastmod: 2023-07-27T07:00:04Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 7R9_bYOswhk
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 aliases:
-- /resources/7R9_bYOswhk
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+  - /resources/7R9_bYOswhk
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 aliasesArchive:
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
-- why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+  - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2
+  - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+  - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+  - why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
-- Scrum
+  - Leadership
+  - Scrum
 tags:
-- Scrum Master
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:10:33Z
   short_title: 2025-07-07T17:53:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:44Z
 videoId: 7R9_bYOswhk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg
 duration: 143
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

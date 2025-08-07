@@ -1,39 +1,42 @@
 ---
 title: Issue [ TFS 2012.2 ] Detaching collection fails on SnapshotIdentities with object reference not set to an instance of an object
 description: Explains how detaching a Team Project Collection in TFS 2012.x can fail due to orphaned identities, causing a NullReferenceException, and outlines steps for diagnosis and support.
+date: 2013-06-24
+lastmod: 2013-06-24
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1jIPsnnKuNK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9661
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-24
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
+slug: issue-tfs-2012-2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 aliases:
-- /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-- /resources/1jIPsnnKuNK
+  - /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
+  - /resources/1jIPsnnKuNK
 aliasesArchive:
-- /blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-- /tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-- /issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-- /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-- /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-- /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-tags:
-- Troubleshooting
-- Software Development
-- System Configuration
+  - /blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
+  - /tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
+  - /issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
+  - /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
+  - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
+  - /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: puzzle-issue-problem-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:08Z
-concepts: []
+ResourceImportId: 9661
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: puzzle-issue-problem-128-link-2-2.png
 
 ---
 When you try to detach a Team Project Collection in Team Foundation Server the process fails on SnapshotIdentities with an "object reference not set to an instance of an object" error. While this does not inhibit the execution of TFS there is likely a good reason that you wanted to detach and found this issue.

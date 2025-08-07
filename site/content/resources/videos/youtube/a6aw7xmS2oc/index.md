@@ -2,8 +2,14 @@
 title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
 short_title: Key Strategies for Product Owner Success
 description: Learn how product owners can boost team success by connecting work to value, making evidence-based decisions, and improving time to market through agile practices.
+tldr: Product owners should connect their teams to the value they create by clearly communicating vision and goals, and foster evidence-based decision-making using data and user feedback rather than intuition. Focusing on metrics like time to market and balancing innovation with maintenance helps teams deliver better results faster. Encourage regular dialogue and rapid prototyping to keep teams engaged and responsive to user needs.
 date: 2023-09-20T07:00:00Z
-weight: 1000
+lastmod: 2023-09-20T07:00:00Z
+weight: 695
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: a6aw7xmS2oc
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 aliases:
-- /resources/a6aw7xmS2oc
-- /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
-- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+  - /resources/a6aw7xmS2oc
+  - /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+  - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 aliasesArchive:
-- /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
-- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
-- /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
-- harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+  - /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+  - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+  - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+  - harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Customer Focus
-- Agile Product Management
-- Product Owner
-- Value Delivery
+  - Evidence Based Management
+  - Customer Focus
+  - Agile Product Management
+  - Product Owner
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:09:26Z
   short_title: 2025-07-07T17:53:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:54Z
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

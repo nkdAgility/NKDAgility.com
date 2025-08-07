@@ -2,29 +2,36 @@
 title: Many organisations are lured to SAFe by the song of the Sirens
 short_title: The Siren Song of SAFe in Organisations
 description: Explores how organisations adopt SAFe for agility but risk rigid bureaucracy, highlighting the need for genuine business evolution over prescriptive frameworks.
+tldr: Many organisations adopt SAFe hoping for quick agility but end up replacing old rigid processes with new ones, without addressing real business challenges or fostering true innovation. SAFe often reinforces bureaucracy and stifles the adaptability needed in today’s fast-changing environment. Development managers should focus on evolving their organisations for genuine business agility rather than relying on prescriptive frameworks.
 date: 2020-07-01
+lastmod: 2020-07-01
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kmQceaX7e-O
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
-- /resources/kmQceaX7e-O
+  - /resources/kmQceaX7e-O
 aliasesArchive:
-- /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-- /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-- /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+  - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+  - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+  - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agnostic Agile
+  - Agnostic Agile
 Watermarks:
   description: 2025-05-07T13:15:32Z
   short_title: 2025-07-07T17:57:56Z
+  tldr: 2025-08-07T13:11:19Z
 ResourceImportId: 44502
 creator: Martin Hinshelwood
 resourceTypes: blog

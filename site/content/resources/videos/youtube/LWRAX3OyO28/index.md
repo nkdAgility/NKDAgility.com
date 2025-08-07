@@ -2,8 +2,14 @@
 title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 short_title: Continuous Delivery Automation Benefits
 description: Explains how automation in continuous delivery improves software reliability, reduces risk, and enables faster, safer deployments through consistent, rapid feedback loops.
+tldr: The main benefit of continuous delivery is the automation it brings, which increases consistency, reliability, and risk mitigation in software deployments. Real-world examples like Azure DevOps and Windows teams show that automation shortens feedback loops, reduces errors, and enables faster, higher-quality releases without increasing team size. Development managers should focus on embedding automation throughout their delivery process to protect the business and empower teams to deliver better software more efficiently.
 date: 2024-12-06T06:00:00Z
+lastmod: 2024-12-06T06:00:00Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: LWRAX3OyO28
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 aliases:
-- /resources/LWRAX3OyO28
-- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-- /resources/videos/the-power-of-continuous-delivery
+  - /resources/LWRAX3OyO28
+  - /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+  - /resources/videos/the-power-of-continuous-delivery
 aliasesArchive:
-- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-- /resources/videos/the-power-of-continuous-delivery
-- /resources/the-power-of-continuous-delivery
-- unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+  - /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+  - /resources/videos/the-power-of-continuous-delivery
+  - /resources/the-power-of-continuous-delivery
+  - unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 source: youtube
 layout: video
 concepts: []
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Continuous Delivery
-- Software Development
-- Frequent Releases
-- Product Delivery
-- Technical Excellence
-- Operational Practices
-- Deployment Frequency
-- Engineering Practices
-- Pragmatic Thinking
-- Value Delivery
-- Working Software
+  - Continuous Delivery
+  - Software Development
+  - Frequent Releases
+  - Product Delivery
+  - Technical Excellence
+  - Operational Practices
+  - Engineering Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Deployment Frequency
+  - Working Software
 Watermarks:
   description: 2025-05-07T12:56:52Z
   short_title: 2025-07-07T17:47:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:11Z
 videoId: LWRAX3OyO28
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

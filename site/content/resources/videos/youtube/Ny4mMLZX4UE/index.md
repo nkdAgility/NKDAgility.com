@@ -4,7 +4,12 @@ short_title: Building Quality In with TDD and Automation
 description: Stop testing quality in—start building it in. Learn how shifting left, automation, and fast feedback loops drive engineering excellence in modern teams.
 tldr: Relying on testers to catch issues late in the process increases costs, slows feedback, and undermines product trust; instead, quality should be built in from the start by moving tests and feedback as close to the engineer as possible. Key practices include automating builds and tests, adopting continuous integration and delivery, using test-driven development, and incrementally improving code quality. Development managers should focus on empowering engineers to own quality, relentlessly shortening feedback loops, and making incremental improvements to achieve faster, more reliable releases.
 date: 2025-08-18T06:00:00Z
+lastmod: 2025-08-18T06:00:00Z
 weight: 155
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: Ny4mMLZX4UE
 ResourceImport: true
 ResourceType: videos
@@ -12,35 +17,35 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-testing-quality-in-how-shifting-left-builds-better-software-faster
 aliases:
-- /resources/Ny4mMLZX4UE
-- /resources/videos/6-building-quality-innot-inspecting-it-later
+  - /resources/Ny4mMLZX4UE
+  - /resources/videos/6-building-quality-innot-inspecting-it-later
 aliasesArchive:
-- /resources/videos/6-building-quality-innot-inspecting-it-later
-- 6-building-quality-innot-inspecting-it-later
+  - /resources/videos/6-building-quality-innot-inspecting-it-later
+  - 6-building-quality-innot-inspecting-it-later
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- DevOps
-- Product Development
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Software Development
-- Shift Left Strategy
-- Engineering Practices
-- Technical Mastery
-- Technical Excellence
-- Automated Testing
-- Operational Practices
-- Test First Development
-- Continuous Delivery
-- Test Automation
-- Azure DevOps
-- Value Delivery
-- Product Delivery
-- Team Performance
-- Pragmatic Thinking
+  - Engineering Practices
+  - Software Development
+  - Technical Mastery
+  - Shift Left Strategy
+  - Technical Excellence
+  - Automated Testing
+  - Operational Practices
+  - Continuous Delivery
+  - Test Automation
+  - Value Delivery
+  - Product Delivery
+  - Test First Development
+  - Team Performance
+  - Pragmatic Thinking
+  - Continuous Integration
 Watermarks:
   description: 2025-07-24T15:09:42Z
   short_title: 2025-07-24T15:09:43Z
@@ -50,11 +55,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ny4mMLZX4UE/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCWsJzPr_lUtXaQb9o83cYJ2ydRkw
 duration: 605
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 In my experience working with organisations of all shapes and sizes, I see a recurring pattern that undermines engineering excellence: teams are still testing quality in, rather than building it in from the start. This isn’t just a technical quirk—it’s a fundamental flaw that ripples through your entire delivery process, inflating costs, slowing feedback, and eroding trust in your product.

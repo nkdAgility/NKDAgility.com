@@ -2,8 +2,14 @@
 title: What Does a Poor Product Backlog Look Like?
 short_title: What Does a Poor Product Backlog Look Like?
 description: Learn how to recognise a poor product backlog in Agile and Scrum, including signs like lack of order, unclear priorities, and confusion among team members and stakeholders.
+tldr: A poor product backlog is disorganised, lacks clear priorities, and confuses both teams and stakeholders. A strong backlog is clearly ordered and understood by everyone, aligning team efforts with business goals. Review your backlog regularly to ensure clarity and shared understanding across your team.
 date: 2023-06-19T13:01:31Z
-weight: 1000
+lastmod: 2023-06-19T13:01:31Z
+weight: 795
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: JqVrh-g-0f8
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-does-a-poor-product-backlog-look-like
 aliases:
-- /resources/JqVrh-g-0f8
-- /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+  - /resources/JqVrh-g-0f8
+  - /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 aliasesArchive:
-- /resources/videos/what-does-a-poor-product-backlog-look-like
-- /resources/what-does-a-poor-product-backlog-look-like
-- /resources/videos/what-does-a-poor-product-backlog-look-like-
-- /resources/what-does-a-poor-product-backlog-look-like-
-- what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+  - /resources/videos/what-does-a-poor-product-backlog-look-like
+  - /resources/what-does-a-poor-product-backlog-look-like
+  - /resources/videos/what-does-a-poor-product-backlog-look-like-
+  - /resources/what-does-a-poor-product-backlog-look-like-
+  - what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 source: internal
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
+  - Product Development
 tags:
-- Product Backlog
-- Software Development
+  - Product Backlog
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:11:29Z
   short_title: 2025-07-07T17:54:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:31Z
 videoId: JqVrh-g-0f8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
 duration: 42
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 20% Discount!'
 short_title: Master Scrum in 2024 with NKDAgility – 20% Off
 description: Advance your Agile skills in 2024 with expert-led Scrum training, hands-on practice, and a 20% discount. Suitable for Product Owners, Scrum Masters, and Agile leaders.
+tldr: NKDAgility is offering a 20 percent discount on expert-led Scrum training courses until March 31, 2024, aimed at helping teams and leaders improve efficiency, adaptability, and leadership skills through hands-on, practical learning. Participants gain deep Scrum knowledge, personalized feedback, and access to a community of practitioners. Development managers should consider enrolling themselves or their teams soon to take advantage of the limited-time offer and boost project success in 2024.
 date: 2024-01-04
-weight: 690
+lastmod: 2024-01-04
+weight: 715
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author: MrHinsh
 ResourceId: Knb7n17SqYe
 ResourceImport: false
@@ -11,22 +17,23 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: unlock-your-potential-in-2024-master-scrum-with-nkdagility-exclusive-20-discount
 aliases:
-- /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
-- /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
-- /resources/Knb7n17SqYe
+  - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+  - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+  - /resources/Knb7n17SqYe
 aliasesArchive:
-- /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
-- /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+  - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+  - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Professional Scrum
-- Software Development
+  - Professional Scrum
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:06:41Z
   short_title: 2025-07-07T17:50:30Z
+  tldr: 2025-08-07T12:54:40Z
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
 resourceTypes: newsletter
 

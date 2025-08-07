@@ -1,48 +1,51 @@
 ---
 title: Standard Environments for Automated Deployment and Testing
 description: Explains how to set up and use Standard Environments in Visual Studio 2012 TFS for automated software deployment and testing, enabling consistent, repeatable pipelines.
+date: 2013-03-17
+lastmod: 2013-03-17
+weight: 565
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: Xmo3nfcFGmv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9308
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-17
-weight: 565
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: standard-environments-for-automated-deployment-and-testing
 aliases:
-- /resources/Xmo3nfcFGmv
+  - /resources/Xmo3nfcFGmv
 aliasesArchive:
-- /blog/standard-environments-for-automated-deployment-and-testing
-- /standard-environments-for-automated-deployment-and-testing
-- /resources/blog/standard-environments-for-automated-deployment-and-testing
-tags:
-- Software Development
-- Technical Excellence
-- Technical Mastery
-- Operational Practices
-- Engineering Practices
-- Install and Configuration
-- System Configuration
-- Continuous Integration
-- Release Management
-- Application Lifecycle Management
-- Automated Testing
-- Continuous Delivery
-- Test Automation
-- Product Delivery
-- Internal Developer Platform
+  - /blog/standard-environments-for-automated-deployment-and-testing
+  - /standard-environments-for-automated-deployment-and-testing
+  - /resources/blog/standard-environments-for-automated-deployment-and-testing
+layout: blog
+concepts: []
 categories:
-- DevOps
-- Engineering Excellence
-preview: nakedalm-experts-visual-studio-alm-17-17.png
+  - DevOps
+  - Engineering Excellence
+tags:
+  - Software Development
+  - Technical Excellence
+  - Technical Mastery
+  - Operational Practices
+  - Engineering Practices
+  - Install and Configuration
+  - System Configuration
+  - Continuous Integration
+  - Release Management
+  - Application Lifecycle Management
+  - Automated Testing
+  - Continuous Delivery
+  - Test Automation
+  - Product Delivery
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:06:52Z
-concepts: []
+ResourceImportId: 9308
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---
 Standard Environments in Visual Studio 2012 Team Foundation Server make it possible to have an automated deployment of your software to a development or QA environment. You can then have a bunch of automated tests run in those environments, collecting data all the while.

@@ -2,36 +2,43 @@
 title: How do you make a good Forecast?
 short_title: How to Make Reliable Agile Forecasts
 description: Explains how to create reliable forecasts in agile projects by using flow metrics like cycle time and throughput, and shifting from project-based to team-based budgeting.
+tldr: To make better forecasts in agile projects, shift from using metrics like story points and velocity to flow-based metrics such as cycle time, throughput, and work in process, which improve predictability by encouraging smaller, more manageable work items. For budgeting and staffing, calculate team costs per sprint and extrapolate for annual needs, moving from project-based to team-based budgeting. Involve stakeholders early in this transition to address concerns and ensure smoother adoption.
 date: 2019-09-09
+lastmod: 2019-09-09
 weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: fm9Rt6R7JZz
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: how-do-you-make-a-good-forecast
 aliases:
-- /resources/fm9Rt6R7JZz
+  - /resources/fm9Rt6R7JZz
 aliasesArchive:
-- /blog/how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast-
-- /blog/how-do-you-make-a-good-forecast-
-- /resources/blog/how-do-you-make-a-good-forecast
+  - /blog/how-do-you-make-a-good-forecast
+  - /how-do-you-make-a-good-forecast
+  - /how-do-you-make-a-good-forecast-
+  - /blog/how-do-you-make-a-good-forecast-
+  - /resources/blog/how-do-you-make-a-good-forecast
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Management
-- Product Development
+  - Scrum
+  - Product Management
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Software Development
-- Throughput
-- Forecasting
-- Metrics and Learning
+  - Pragmatic Thinking
+  - Software Development
+  - Throughput
+  - Forecasting
+  - Metrics and Learning
 Watermarks:
   description: 2025-05-07T13:16:12Z
   short_title: 2025-07-07T17:58:29Z
+  tldr: 2025-08-07T13:13:04Z
 ResourceImportId: 39852
 creator: Martin Hinshelwood
 resourceTypes: blog

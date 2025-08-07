@@ -1,36 +1,43 @@
 ---
 title: Microsoft Surface 3 unable to boot from USB
+short_title: Surface 3 USB Boot Issue and BOOTME Fix
 description: Explains how to resolve Microsoft Surface 3 boot issues by renaming the USB drive to "BOOTME", a required but undocumented step for successful USB booting.
+tldr: A Microsoft Surface 3 may not boot from USB unless the USB drive is specifically named "BOOTME," which is not documented in standard Microsoft instructions or created by default recovery tools. The author spent weeks troubleshooting failed recovery attempts and found that renaming the USB drive resolved the issue immediately. Development managers should ensure any bootable USB for Surface 3 devices is labeled "BOOTME" to avoid wasted time during critical recovery situations.
+date: 2014-11-24
+lastmod: 2014-11-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: a3t-_ypf_UJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10907
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-11-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: microsoft-surface-3-unable-boot-usb
+slug: microsoft-surface-3-unable-to-boot-from-usb
 aliases:
-- /resources/a3t-_ypf_UJ
+  - /resources/a3t-_ypf_UJ
 aliasesArchive:
-- /blog/microsoft-surface-3-unable-boot-usb
-- /microsoft-surface-3-unable-boot-usb
-- /microsoft-surface-3-unable-to-boot-from-usb
-- /blog/microsoft-surface-3-unable-to-boot-from-usb
-- /resources/blog/microsoft-surface-3-unable-boot-usb
-tags:
-- Troubleshooting
-- Windows
+  - /blog/microsoft-surface-3-unable-boot-usb
+  - /microsoft-surface-3-unable-boot-usb
+  - /microsoft-surface-3-unable-to-boot-from-usb
+  - /blog/microsoft-surface-3-unable-to-boot-from-usb
+  - /resources/blog/microsoft-surface-3-unable-boot-usb
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Windows
 Watermarks:
   description: 2025-05-12T14:20:40Z
-concepts: []
+  tldr: 2025-08-07T13:26:26Z
+  short_title: 2025-08-07T13:26:27Z
+ResourceImportId: 10907
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-5-5.png
 
 ---
 Recently I had a crash of Windows 10 and while usually you can boot into recovery mode, Windows was uncooperative. This was when I found my Microsoft Surface 3 unable to boot from USB!

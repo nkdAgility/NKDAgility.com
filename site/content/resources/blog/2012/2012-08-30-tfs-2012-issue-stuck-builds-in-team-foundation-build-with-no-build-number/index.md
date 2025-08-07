@@ -1,39 +1,42 @@
 ---
 title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number'
 description: Explains how to resolve stuck builds in TFS 2012 where no build number is assigned, caused by IIS multiple site bindings, with steps to fix via web.config settings.
+date: 2012-08-30
+lastmod: 2012-08-30
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: NARdkNvqUei
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7760
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-30
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 aliases:
-- /resources/NARdkNvqUei
+  - /resources/NARdkNvqUei
 aliasesArchive:
-- /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-- /tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-- /tfs-2012
-- /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
-- /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
-- /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-tags:
-- Troubleshooting
-- Software Development
-- System Configuration
-- Windows
+  - /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+  - /tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+  - /tfs-2012
+  - /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
+  - /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
+  - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-7-7.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
+  - System Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:07:46Z
-concepts: []
+ResourceImportId: 7760
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-7-7.png
 
 ---
 When you queue a build you never get a build number and the build never completes. [![image](images/image_thumb109-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image110.png)  

@@ -2,8 +2,14 @@
 title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 short_title: The Real Scope of a Product Owner
 description: Explores the full responsibilities of a Product Owner in Agile, highlighting strategic decision-making, value maximisation, and the importance of market insight and relationships.
+tldr: The Product Owner role goes far beyond managing the backlog, requiring strategic decision-making, budget accountability, and proactive leadership to maximize product value and stay ahead of the market. Success depends on strong relationships, deep market understanding, and continuous learning, not just training. Development managers should ensure Product Owners have the authority, information, and support needed to drive product direction and deliver real business impact.
 date: 2023-11-27T06:46:47Z
+lastmod: 2023-11-27T06:46:47Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 2_CowcUpzAA
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-real-scope-of-a-product-owner-beyond-the-backlog
 aliases:
-- /resources/2_CowcUpzAA
-- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+  - /resources/2_CowcUpzAA
+  - /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
 aliasesArchive:
-- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
-- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
-- the-real-scope-of-a-product-owner-beyond-the-backlog
+  - /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+  - /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+  - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
+  - the-real-scope-of-a-product-owner-beyond-the-backlog
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
-- Scrum
+  - Product Management
+  - Product Development
+  - Scrum
 tags:
-- Product Owner
-- Agile Product Management
-- Pragmatic Thinking
-- Software Development
+  - Product Owner
+  - Agile Product Management
+  - Social Technologies
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:07:30Z
   short_title: 2025-07-07T17:51:29Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:19Z
 videoId: 2_CowcUpzAA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg
 duration: 317
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

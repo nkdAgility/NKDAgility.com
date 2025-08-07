@@ -2,8 +2,14 @@
 title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward'
 short_title: Tackling Technical Debt Without Halting Progress
 description: Struggling with technical debt? Discover practical ways to tackle legacy systems, boost team morale, and deliver value—without grinding to a halt.
+tldr: Technical debt slows teams down and hurts morale, but stopping all work to fix it is unrealistic. The most effective approach is to make technical debt visible, prioritize high-impact improvements, and embed continuous improvement into daily workflows. Development managers should focus on changing team practices and decision-making so that managing technical debt becomes a natural, ongoing part of delivering value.
 date: 2025-05-26T06:00:00Z
-weight: 115
+lastmod: 2025-05-26T06:00:00Z
+weight: 95
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: p3Agu-9sZnA
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 aliases:
-- /resources/p3Agu-9sZnA
-- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
-- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
+  - /resources/p3Agu-9sZnA
+  - /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+  - /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
 aliasesArchive:
-- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
-- 8-reducing-technical-debt-while-keeping-systems-running
-- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
-- how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+  - /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
+  - 8-reducing-technical-debt-while-keeping-systems-running
+  - /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+  - how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Engineering Excellence
-- DevOps
-- Technical Leadership
+  - Technical Leadership
+  - Engineering Excellence
+  - Product Development
 tags:
-- Technical Debt
-- Software Development
-- Pragmatic Thinking
-- Technical Mastery
-- Operational Practices
-- Engineering Practices
+  - Technical Debt
+  - Software Development
+  - Pragmatic Thinking
+  - Technical Mastery
+  - Operational Practices
+  - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:29:03Z
   short_title: 2025-07-07T16:43:59Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:29:29Z
 videoId: p3Agu-9sZnA
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/p3Agu-9sZnA/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDHQrPLPkg43P5Q18udZAZ6RbpUCg
 duration: 142
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Unlocking Continuous Improvement: How Metrics and Visual Tools Transform Your Workflow'
 short_title: Continuous Improvement with Metrics & Visual Tools
 description: Learn how using key metrics and visual tools like Kanban boards drives continuous workflow improvement, transparency, and informed decision-making in teams.
+tldr: Using clear metrics and visual tools helps teams identify improvement areas, increase transparency, and make better decisions. Regularly reviewing processes, experimenting with small changes, and focusing on relevant, actionable data are key to ongoing improvement. Development managers should ensure their teams use these practices to drive meaningful and continuous workflow enhancements.
 date: 2024-08-15T07:04:39Z
+lastmod: 2024-08-15T07:04:39Z
 weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: sIhG2i7frpE
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 aliases:
-- /resources/sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-- /resources/videos/improving-workflow-with-kanban
+  - /resources/sIhG2i7frpE
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+  - /resources/videos/improving-workflow-with-kanban
 aliasesArchive:
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-- /resources/videos/improving-workflow-with-kanban
-- /resources/improving-workflow-with-kanban
-- unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+  - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+  - /resources/videos/improving-workflow-with-kanban
+  - /resources/improving-workflow-with-kanban
+  - unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Lean
+  - Product Development
+  - Lean
 tags:
-- Continuous Improvement
-- Continuous Learning
-- Operational Practices
-- Metrics and Learning
-- Lean Principles
-- Pragmatic Thinking
-- Transparency
+  - Continuous Improvement
+  - Continuous Learning
+  - Operational Practices
+  - Transparency
+  - Metrics and Learning
+  - Lean Principles
+  - Pragmatic Thinking
+  - Flow Efficiency
 Watermarks:
   description: 2025-05-07T13:02:08Z
   short_title: 2025-07-07T17:48:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:46Z
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

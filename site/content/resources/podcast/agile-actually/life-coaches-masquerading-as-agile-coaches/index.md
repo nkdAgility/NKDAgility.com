@@ -2,8 +2,14 @@
 title: Life coaches masquerading as Agile Coaches
 short_title: Life Coaches Posing as Agile Coaches
 description: Examines the rise of life coaches claiming to be Agile Coaches, the controversy around their qualifications, and the impact on organisations seeking genuine Agile expertise.
+tldr: The podcast discusses concerns about life coaches presenting themselves as Agile Coaches without the necessary Agile experience or credentials, which can mislead organizations. True Agile Coaches typically have extensive hands-on Agile practice and formal training. Development managers should verify the background and expertise of Agile Coaches before engaging them to ensure effective support for their teams.
 date: 2023-04-01
-weight: 840
+lastmod: 2023-04-01
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: lcekkOc8X02
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: life-coaches-masquerading-as-agile-coaches
 aliases:
-- /resources/lcekkOc8X02
+  - /resources/lcekkOc8X02
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:26Z
   short_title: 2025-07-07T17:56:07Z
+  tldr: 2025-08-07T13:07:02Z
 resourceTypes: podcast
 
 ---

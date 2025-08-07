@@ -2,44 +2,51 @@
 title: David thought he already knew Scrum
 short_title: Relearning Scrum Fundamentals
 description: Discover why experienced Scrum practitioners often misunderstand core principles, and how revisiting Scrum fundamentals restores clarity, agility, and effective practice.
+tldr: Even experienced teams often fall into old habits and misunderstand Scrum, leading to ineffective practices that only look agile on the surface. Regularly revisiting the fundamentals and purpose of Scrum helps prevent complacency and ensures real improvement. Consider challenging your team's understanding of Scrum to maintain true agility and drive meaningful change.
 date: 2025-05-26T15:30:28+01:00
+lastmod: 2025-05-26T15:30:28+01:00
 weight: 500
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: qpdjJhtaABE
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: david-thought-he-already-knew-scrum
 aliases:
-- /resources/qpdjJhtaABE
+  - /resources/qpdjJhtaABE
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Professional Scrum
-- Competence
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Agile Values and Principles
+  - Software Development
+  - Professional Scrum
+  - Competence
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Empirical Process Control
+  - Agile Values and Principles
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7332790235598094336
-  post_id: "7332790235598094336"
-  post_date: 2025-05-26T14:30:28Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7332790235598094336
+    post_id: "7332790235598094336"
+    post_date: 2025-05-26T14:30:28Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:47Z
   short_title: 2025-07-07T16:43:57Z
+  tldr: 2025-08-07T12:29:25Z
 
 ---
 David thought he already knew Scrum. Four hours into the class, he realised he didn’t.

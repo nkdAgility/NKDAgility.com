@@ -1,36 +1,39 @@
 ---
 title: 'TFS Preview - Issue: TF400898 The underlying connection was closed'
 description: Explains the TF400898 error in TFS Preview, its causes, troubleshooting steps, and how a bug in the version control subsystem led to file loss and its resolution.
+date: 2012-08-16
+lastmod: 2012-08-16
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 0O-R50XIwUP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7161
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-16
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliases:
-- /resources/0O-R50XIwUP
+  - /resources/0O-R50XIwUP
 aliasesArchive:
-- /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /tfs-preview
-- /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
-- /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
-- /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-tags:
-- Troubleshooting
+  - /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+  - /tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+  - /tfs-preview
+  - /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
+  - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
+  - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:13Z
-concepts: []
+ResourceImportId: 7161
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-4-4.png
 
 ---
 When you try to do a “Get” from TFS Preview you receive a “underlying connection was closed” and often a TF400898.

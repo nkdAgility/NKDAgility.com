@@ -1,32 +1,35 @@
 ---
 title: Configure features in Team Foundation Server 2013
 description: Learn how to enable and configure new features in Team Foundation Server 2013 after upgrading, including using the built-in wizard and handling process template issues.
+date: 2013-06-26
+lastmod: 2013-06-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: MbkXNCfuEU2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9912
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configure-features-in-team-foundation-server-2013
 aliases:
-- /resources/MbkXNCfuEU2
+  - /resources/MbkXNCfuEU2
 aliasesArchive:
-- /blog/configure-features-in-team-foundation-server-2013
-- /configure-features-in-team-foundation-server-2013
-- /resources/blog/configure-features-in-team-foundation-server-2013
-tags:
-- Install and Configuration
+  - /blog/configure-features-in-team-foundation-server-2013
+  - /configure-features-in-team-foundation-server-2013
+  - /resources/blog/configure-features-in-team-foundation-server-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:05Z
-concepts: []
+ResourceImportId: 9912
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

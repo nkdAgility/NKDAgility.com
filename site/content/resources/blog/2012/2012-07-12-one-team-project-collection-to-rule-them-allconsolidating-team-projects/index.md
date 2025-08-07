@@ -1,38 +1,41 @@
 ---
 title: One Team Project Collection to rule them all - Consolidating Team Projects
 description: Step-by-step guide to consolidating multiple Team Projects and Collections in TFS 2012 using the TFS Integration Platform, covering migration, mapping, and troubleshooting.
+date: 2012-07-12
+lastmod: 2012-07-12
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xzuqsTxb7UD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6109
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-12
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects
+slug: one-team-project-collection-to-rule-them-all-consolidating-team-projects
 aliases:
-- /resources/xzuqsTxb7UD
+  - /resources/xzuqsTxb7UD
 aliasesArchive:
-- /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /one-team-project-collection-to-rule-them-all
-- /one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-tags:
-- Software Development
-- Install and Configuration
-- Troubleshooting
+  - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
+  - /one-team-project-collection-to-rule-them-allconsolidating-team-projects
+  - /one-team-project-collection-to-rule-them-all
+  - /one-team-project-collection-to-rule-them-all---consolidating-team-projects
+  - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
+  - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-10-10.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:44Z
-concepts: []
+ResourceImportId: 6109
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---
 Following on from last weeks successful [Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) I finished off the last of the 20-30 Team Project Process Template migration/upgrades to a customised form on the Visual Studio Scrum 2.0. We only added a couple of fields, but we also defined a process and strategy for use of the Template within the organisation.

@@ -1,36 +1,39 @@
 ---
 title: 'Project Server 2013 Issue – TF294026: The following work item field does not exist'
 description: Explains how to resolve the TF294026 error in Project Server 2013 and TFS 2012 by adding missing work item fields required for integration with Scrum templates.
+date: 2012-11-02
+lastmod: 2012-11-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zTaVoXPnTVP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9103
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-11-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+slug: project-server-2013-issue-–-tf294026-the-following-work-item-field-does-not-exist
 aliases:
-- /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /resources/zTaVoXPnTVP
+  - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+  - /resources/zTaVoXPnTVP
 aliasesArchive:
-- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
-- /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
-- /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-tags:
-- Troubleshooting
+  - /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+  - /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+  - /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+  - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+  - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:14Z
-concepts: []
+ResourceImportId: 9103
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-3-3.png
 
 ---
 When you try to upload the default field mappings for Project Server 2013 integration with Team Foundation Server 2012 you can encounter a TF294026: The following work item field does not exist error.

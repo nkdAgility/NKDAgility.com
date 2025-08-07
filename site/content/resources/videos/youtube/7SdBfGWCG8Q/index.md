@@ -2,8 +2,14 @@
 title: The Power of Building Relationships Through Immersive Learning in Scrum
 short_title: Building Relationships Through Immersive Scrum
 description: Explores how immersive learning in Scrum fosters strong peer relationships, enhancing collaboration, trust, and long-term growth for practitioners beyond the classroom.
+tldr: Immersive learning in Scrum is most effective when it fosters strong relationships among participants, leading to greater trust, support, and shared success. These connections provide diverse perspectives, valuable feedback, and ongoing collaboration that extend well beyond the training itself. Development managers should encourage team members to actively build and maintain these relationships during and after immersive learning experiences to maximize long-term growth and continuous improvement.
 date: 2024-02-06T07:00:03Z
+lastmod: 2024-02-06T07:00:03Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 7SdBfGWCG8Q
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-building-relationships-through-immersive-learning-in-scrum
 aliases:
-- /resources/7SdBfGWCG8Q
-- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
-- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+  - /resources/7SdBfGWCG8Q
+  - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
+  - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
+  - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 aliasesArchive:
-- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
-- the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
+  - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
+  - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
+  - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+  - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+  - the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Team Collaboration
-- Team Performance
-- Scrum Team
-- Coaching
-- Social Technologies
+  - Team Collaboration
+  - Team Performance
+  - Scrum Team
+  - Coaching
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:05:58Z
   short_title: 2025-07-07T17:49:55Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:12Z
 videoId: 7SdBfGWCG8Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
 duration: 38
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

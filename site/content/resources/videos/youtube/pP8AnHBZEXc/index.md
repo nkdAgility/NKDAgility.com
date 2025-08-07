@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
 short_title: Professional Scrum Foundations & PSM I Guide
 description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
+tldr: The Professional Scrum Foundations class offers hands-on, team-based learning to build practical Scrum skills and prepare for the PSM I assessment, with a focus on clear roles, transparency, and empirical process control. Participants who take the assessment soon after the class and use provided resources are more likely to succeed. Investing in this training can improve team collaboration and Agile adoption across your organisation.
 date: 2020-05-28T05:34:33Z
-weight: 1000
+lastmod: 2020-05-28T05:34:33Z
+weight: 810
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: pP8AnHBZEXc
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 aliases:
-- /resources/pP8AnHBZEXc
+  - /resources/pP8AnHBZEXc
 aliasesArchive:
-- /resources/videos/th-may-office-hours-ask-me-anything
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
-- /resources/27th-may-2020-office-hours-ask-me-anything
-- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-- unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+  - /resources/videos/th-may-office-hours-ask-me-anything
+  - /resources/videos/27th-may-2020-office-hours-ask-me-anything
+  - /resources/27th-may-2020-office-hours-ask-me-anything
+  - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+  - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:42Z
   short_title: 2025-07-07T17:58:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:40Z
 videoId: pP8AnHBZEXc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

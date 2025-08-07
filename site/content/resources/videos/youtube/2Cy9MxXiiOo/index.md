@@ -2,8 +2,14 @@
 title: What is a sprint goal?
 short_title: What Is a Sprint Goal in Scrum?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
+tldr: A sprint goal is a clear, tactical objective that guides the Scrum team’s work during each sprint, connecting daily efforts to the broader product vision. It provides a concrete focus for the team, enables actionable stakeholder feedback at sprint reviews, and helps maintain alignment and motivation. Development managers should ensure each sprint has a well-defined, tangible goal to drive progress and gather meaningful feedback.
 date: 2023-05-31T11:00:01Z
-weight: 1000
+lastmod: 2023-05-31T11:00:01Z
+weight: 780
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 2Cy9MxXiiOo
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-sprint-goal
 aliases:
-- /resources/2Cy9MxXiiOo
-- /resources/videos/what-is-a-sprint-goal-2Cy9MxXiiOo
+  - /resources/2Cy9MxXiiOo
+  - /resources/videos/what-is-a-sprint-goal-2Cy9MxXiiOo
 aliasesArchive:
-- /resources/videos/what-is-a-sprint-goal
-- /resources/what-is-a-sprint-goal-2
-- /resources/videos/what-is-a-sprint-goal-
-- /resources/what-is-a-sprint-goal-
-- what-is-a-sprint-goal-2Cy9MxXiiOo
+  - /resources/videos/what-is-a-sprint-goal
+  - /resources/what-is-a-sprint-goal-2
+  - /resources/videos/what-is-a-sprint-goal-
+  - /resources/what-is-a-sprint-goal-
+  - what-is-a-sprint-goal-2Cy9MxXiiOo
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Software Development
-- Agile Product Management
+  - Software Development
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:12:00Z
   short_title: 2025-07-07T17:54:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:28Z
 videoId: 2Cy9MxXiiOo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
 duration: 47
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

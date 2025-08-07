@@ -2,8 +2,14 @@
 title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 short_title: Embracing Automation in Software Development
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
+tldr: Embracing automation in testing, deployment, and validation is essential for faster, more reliable software delivery and increased team confidence. The Azure DevOps team drastically reduced feedback loops and technical debt by shifting to automated, efficient testing and empowering developers with local testing tools. Prioritizing automation and quality builds trust both within teams and with customers, so development managers should focus on automating as much as possible to enable continuous delivery and rapid improvement.
 date: 2025-01-14T06:45:00Z
+lastmod: 2025-01-14T06:45:00Z
 weight: 315
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: VkhIXCsoSJw
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 aliases:
-- /resources/VkhIXCsoSJw
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+  - /resources/VkhIXCsoSJw
+  - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+  - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 aliasesArchive:
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
-- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+  - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+  - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+  - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
+  - embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- DevOps
-- Product Development
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Software Development
-- Technical Excellence
-- Engineering Practices
-- Operational Practices
-- Product Delivery
-- Automated Testing
-- Continuous Delivery
-- Deployment Frequency
-- Pragmatic Thinking
-- Technical Mastery
-- Test Automation
-- Azure DevOps
-- Market Adaptability
-- Flow Efficiency
-- Value Delivery
+  - Software Development
+  - Technical Excellence
+  - Engineering Practices
+  - Operational Practices
+  - Product Delivery
+  - Automated Testing
+  - Continuous Delivery
+  - Deployment Frequency
+  - Pragmatic Thinking
+  - Technical Mastery
+  - Test Automation
+  - Azure DevOps
+  - Market Adaptability
+  - Flow Efficiency
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:49:59Z
   short_title: 2025-07-07T17:47:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:34Z
 videoId: VkhIXCsoSJw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

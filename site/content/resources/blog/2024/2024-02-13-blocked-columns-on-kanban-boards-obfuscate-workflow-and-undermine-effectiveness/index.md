@@ -2,39 +2,47 @@
 title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
 short_title: Blocked Columns Obscure Kanban Workflow
 description: Using Blocked columns on Kanban boards hides workflow issues, causes task stagnation, and reduces transparency. Use tags to indicate blockages and maintain clarity.
+tldr: Using Blocked columns on Kanban boards hides the true status of work, encourages team disengagement, and leads to stale tasks and inflated work-in-progress limits. Instead, teams should tag blocked items within their current workflow stage and provide clear context, which maintains transparency and accountability. Managers should avoid Blocked columns and use tags or annotations to highlight issues without disrupting the flow or losing critical information.
 date: 2024-02-13
+lastmod: 2024-02-13
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 contributors:
-- name: Will Seele
-  external: https://www.linkedin.com/in/wjseele/
+  - name: Will Seele
+    external: https://www.linkedin.com/in/wjseele/
 ResourceId: 7JJaRr4g-KA
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
-- /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-- /resources/7JJaRr4g-KA
-- /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /resources/7JJaRr4g-KA
+  - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliasesArchive:
-- /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-- /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+  - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Kanban
+  - Kanban
 tags:
-- Operational Practices
-- Flow Efficiency
-- Azure DevOps
-- Software Development
-- Transparency
+  - Empirical Process Control
+  - Operational Practices
+  - Flow Efficiency
+  - Azure DevOps
+  - Software Development
+  - Transparency
 Watermarks:
   description: 2025-05-07T13:05:52Z
   short_title: 2025-07-07T17:49:48Z
+  tldr: 2025-08-07T12:52:50Z
 ResourceImportId: 51208
 AudioNative: true
 creator: Martin Hinshelwood

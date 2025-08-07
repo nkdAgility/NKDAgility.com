@@ -2,8 +2,14 @@
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
 short_title: Building Organizational Capability Beyond Agile
 description: Explores why building organisational capability, competence, and continuous learning is more effective than focusing solely on Agile roles, frameworks, or labels.
+tldr: Focusing only on Agile as a label limits organizational growth; instead, prioritize building real capability, hiring and promoting competent people from within, and fostering continuous learning. Many teams struggle because key roles are filled by underqualified individuals, often due to poor hiring practices and a lack of investment in development. To improve effectiveness and value delivery, hire for potential, promote proven team members, and create a culture where learning and leadership are central.
 date: 2024-10-11T06:45:00Z
+lastmod: 2024-10-11T06:45:00Z
 weight: 400
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 4zGsmQFWFpo
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: focusing-beyond-agile-building-true-capability-in-organizations
 aliases:
-- /resources/4zGsmQFWFpo
-- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+  - /resources/4zGsmQFWFpo
+  - /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
+  - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
 aliasesArchive:
-- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
-- /resources/where-are-we-now-and-where-do-we-need-to-go-next
-- focusing-beyond-agile-building-true-capability-in-organizations
+  - /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
+  - /resources/focusing-beyond-agile-building-true-capability-in-organizations
+  - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+  - /resources/where-are-we-now-and-where-do-we-need-to-go-next
+  - focusing-beyond-agile-building-true-capability-in-organizations
 source: internal
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Competence
-- Continuous Learning
-- Scrum Master
-- Organisational Culture
-- Pragmatic Thinking
-- Sociotechnical Systems
+  - Competence
+  - Social Technologies
+  - Continuous Learning
+  - Scrum Master
+  - Organisational Culture
+  - Pragmatic Thinking
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T12:57:33Z
   short_title: 2025-07-07T17:47:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:38Z
 videoId: 4zGsmQFWFpo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg
 duration: 547
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

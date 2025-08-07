@@ -2,8 +2,14 @@
 title: What is empiricism and why is it so critical to great Agile?
 short_title: 'Empiricism in Agile: Why It Matters'
 description: Explains how empiricism—continuous observation, inspection, and adaptation—drives Agile success by enabling teams to respond effectively to real project data and feedback.
+tldr: Empiricism is essential to Agile because it drives teams to observe real project data, inspect outcomes, and adapt quickly, ensuring alignment with changing needs. Key practices like transparency, regular feedback loops, and continuous improvement help teams stay responsive and deliver real value. Development managers should foster a culture of inspection and adaptation, using data and feedback to guide decisions and refine both processes and product backlogs.
 date: 2023-08-30T07:00:05Z
+lastmod: 2023-08-30T07:00:05Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 7UZsdsD23rs
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 aliases:
-- /resources/7UZsdsD23rs
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+  - /resources/7UZsdsD23rs
+  - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 aliasesArchive:
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+  - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+  - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
+  - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+  - what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Empirical Process Control
-- Software Development
-- Agile Transformation
-- Agile Frameworks
-- Pragmatic Thinking
-- Metrics and Learning
-- Professional Scrum
-- Agile Product Management
-- Agile Philosophy
-- Agile Planning
-- Team Performance
-- Customer Focus
+  - Empirical Process Control
+  - Software Development
+  - Agile Transformation
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Metrics and Learning
+  - Professional Scrum
+  - Agile Product Management
+  - Agile Philosophy
+  - Agile Planning
+  - Team Performance
+  - Value Delivery
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:09:47Z
   short_title: 2025-07-07T17:53:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:34Z
 videoId: 7UZsdsD23rs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg
 duration: 330
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

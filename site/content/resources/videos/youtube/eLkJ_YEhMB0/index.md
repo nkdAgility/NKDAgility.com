@@ -2,8 +2,14 @@
 title: Overcoming the Ghost of Agile Certifications
 short_title: Overcoming the Ghost of Agile Certifications
 description: Explores the limits of Agile certifications, emphasising real-world experience, continuous learning, and team validation over credentials for true professional growth.
+tldr: Agile certifications are often overvalued and can distract from real learning and practical experience; passing an exam does not make someone an expert or guarantee they can deliver value. True capability comes from hands-on work, team recognition, and continuous learning, not just credentials. Development managers should prioritize real-world skills and team impact over certifications when hiring or developing Agile professionals.
 date: 2024-01-02T07:00:20Z
+lastmod: 2024-01-02T07:00:20Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: eLkJ_YEhMB0
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: overcoming-the-ghost-of-agile-certifications
 aliases:
-- /resources/eLkJ_YEhMB0
-- /resources/videos/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
+  - /resources/eLkJ_YEhMB0
+  - /resources/videos/overcoming-the-ghost-of-agile-certifications
+  - /resources/videos/5-ghosts-of-agile-past-3-questions
 aliasesArchive:
-- /resources/videos/overcoming-the-ghost-of-agile-certifications
-- /resources/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
-- /resources/5-ghosts-of-agile-past-3-questions
-- overcoming-the-ghost-of-agile-certifications
+  - /resources/videos/overcoming-the-ghost-of-agile-certifications
+  - /resources/overcoming-the-ghost-of-agile-certifications
+  - /resources/videos/5-ghosts-of-agile-past-3-questions
+  - /resources/5-ghosts-of-agile-past-3-questions
+  - overcoming-the-ghost-of-agile-certifications
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
-- Personal
+  - Software Development
+  - Personal
 Watermarks:
   description: 2025-05-07T13:06:43Z
   short_title: 2025-07-07T17:50:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:46Z
 videoId: eLkJ_YEhMB0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

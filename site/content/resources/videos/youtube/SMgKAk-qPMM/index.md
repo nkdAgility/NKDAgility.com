@@ -2,8 +2,14 @@
 title: 'Temperance in Agile: Why Less is More'
 short_title: 'Temperance in Agile: Why Less is More'
 description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
+tldr: Focusing on just enough work and keeping your backlog, planning, and team size lean helps your team deliver more value and avoid waste or burnout. Prioritize only high-impact tasks, limit work in progress, and avoid over-refining or over-planning. Say no to non-essential work, balance short-term wins with long-term goals, and seek coaching if you struggle to maintain this balance.
 date: 2023-12-05T07:00:10Z
+lastmod: 2023-12-05T07:00:10Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: SMgKAk-qPMM
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: temperance-in-agile-why-less-is-more
 aliases:
-- /resources/SMgKAk-qPMM
-- /resources/videos/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
+  - /resources/SMgKAk-qPMM
+  - /resources/videos/temperance-in-agile-why-less-is-more
+  - /resources/videos/7-virtues-of-agile-temperance
 aliasesArchive:
-- /resources/videos/temperance-in-agile-why-less-is-more
-- /resources/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-- /resources/7-virtues-of-agile-temperance
-- temperance-in-agile-why-less-is-more
+  - /resources/videos/temperance-in-agile-why-less-is-more
+  - /resources/temperance-in-agile-why-less-is-more
+  - /resources/videos/7-virtues-of-agile-temperance
+  - /resources/7-virtues-of-agile-temperance
+  - temperance-in-agile-why-less-is-more
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Software Development
-- Agile Philosophy
-- Agile Planning
-- Product Backlog
-- Agile Frameworks
-- Agile Transformation
-- Value Delivery
-- Product Delivery
-- Agile Values and Principles
+  - Operational Practices
+  - Software Development
+  - Agile Philosophy
+  - Agile Planning
+  - Product Backlog
+  - Agile Frameworks
+  - Agile Transformation
+  - Value Delivery
+  - Product Delivery
+  - Agile Values and Principles
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T13:07:16Z
   short_title: 2025-07-07T17:51:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:44Z
 videoId: SMgKAk-qPMM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

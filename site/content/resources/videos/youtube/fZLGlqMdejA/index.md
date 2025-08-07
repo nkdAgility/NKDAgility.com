@@ -2,8 +2,14 @@
 title: '7 Deadly Sins of Agile: Greed'
 short_title: '7 Deadly Sins of Agile: Greed'
 description: Explores how greed in Agile leads to overwork and reduced value, offering strategies for value-driven delivery, balanced sprints, team trust, and effective leadership.
+tldr: Focusing on resource utilisation over value in Agile leads to busywork, burnout, and reduced innovation, undermining true productivity. Teams should prioritise delivering customer value, balance workloads, and foster open communication and trust to enable creativity and continuous improvement. Development managers should shift from maximising activity to nurturing a value-driven, healthy Agile culture that supports learning and adaptation.
 date: 2023-10-11T12:00:36Z
+lastmod: 2023-10-11T12:00:36Z
 weight: 415
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: fZLGlqMdejA
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-greed
 aliases:
-- /resources/fZLGlqMdejA
-- /resources/videos/7-deadly-sins-of-agile-greed
-- /resources/videos/greed-7-deadly-sins-of-agile
+  - /resources/fZLGlqMdejA
+  - /resources/videos/7-deadly-sins-of-agile-greed
+  - /resources/videos/greed-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-greed
-- /resources/videos/7-deadly-sins-of-agile-greed
-- /resources/7-deadly-sins-of-agile-greed
-- /resources/videos/greed!-7-deadly-sins-of-agile
-- /resources/greed!-7-deadly-sins-of-agile
-- /resources/videos/greed-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-greed
+  - /resources/videos/-deadly-sins-of-agile-greed
+  - /resources/videos/7-deadly-sins-of-agile-greed
+  - /resources/7-deadly-sins-of-agile-greed
+  - /resources/videos/greed!-7-deadly-sins-of-agile
+  - /resources/greed!-7-deadly-sins-of-agile
+  - /resources/videos/greed-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-greed
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- Pragmatic Thinking
-- Value Delivery
-- Flow Efficiency
-- Software Development
-- Agile Values and Principles
-- Team Performance
-- Agile Product Management
-- Agile Leadership
-- Organisational Agility
+  - Agile Philosophy
+  - Agile Strategy
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Flow Efficiency
+  - Software Development
+  - Agile Values and Principles
+  - Team Performance
+  - Value Delivery
+  - Agile Product Management
+  - Agile Leadership
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:08:53Z
   short_title: 2025-07-07T17:52:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:48Z
 videoId: fZLGlqMdejA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

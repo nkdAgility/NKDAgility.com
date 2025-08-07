@@ -1,32 +1,35 @@
 ---
 title: The evolution of naked ALM with Pagelines DMS for Wordpress
 description: Explores migrating from Pagelines Framework to Pagelines DMS on WordPress, highlighting improved customisation, drag-and-drop editing, and streamlined site management.
+date: 2013-08-27
+lastmod: 2013-08-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: csMYp4a7yBd
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9964
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-08-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
-- /resources/csMYp4a7yBd
+  - /resources/csMYp4a7yBd
 aliasesArchive:
-- /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-- /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-- /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-tags: []
+  - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+  - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+  - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-pagelines-11-11.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:23:21Z
-concepts: []
+ResourceImportId: 9964
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-pagelines-11-11.png
 
 ---
 The evolution of naked ALM with Pagelines DMS for Wordpress is a story of successful change. All you have to do is learn to compromise and aspire to the easy 80%.

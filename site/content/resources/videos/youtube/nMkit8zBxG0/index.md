@@ -2,8 +2,14 @@
 title: What is Sprint Planning?
 short_title: What is Sprint Planning?
 description: Sprint planning is a collaborative session where teams define and align on goals, tasks, and priorities for the next sprint, ensuring clarity and focus for effective delivery.
+tldr: Sprint planning is a team meeting to align on what will be accomplished in the next sprint, ensuring everyone understands the goals and priorities, including new features, technical debt, and unexpected work. It provides clarity, flexibility, and a shared sense of direction, whether you use Scrum or Kanban. Make sure your team uses sprint planning to regularly evaluate priorities and maintain alignment for better outcomes.
 date: 2023-05-24T14:00:36Z
+lastmod: 2023-05-24T14:00:36Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: nMkit8zBxG0
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-sprint-planning
 aliases:
-- /resources/nMkit8zBxG0
-- /resources/videos/what-is-sprint-planning
+  - /resources/nMkit8zBxG0
+  - /resources/videos/what-is-sprint-planning
 aliasesArchive:
-- /resources/videos/what-is-sprint-planning
-- /resources/what-is-sprint-planning
-- /resources/videos/what-is-sprint-planning-
-- /resources/what-is-sprint-planning-
-- what-is-sprint-planning
+  - /resources/videos/what-is-sprint-planning
+  - /resources/what-is-sprint-planning
+  - /resources/videos/what-is-sprint-planning-
+  - /resources/what-is-sprint-planning-
+  - what-is-sprint-planning
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Agile Planning
-- Agile Product Management
-- Product Delivery
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Planning
+  - Social Technologies
+  - Agile Product Management
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:12:13Z
   short_title: 2025-07-07T17:55:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:46Z
 videoId: nMkit8zBxG0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

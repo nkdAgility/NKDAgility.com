@@ -2,8 +2,14 @@
 title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
 short_title: 'Combatting Famine in Agile: Stakeholder Engagement'
 description: Explores how lack of stakeholder feedback in Agile harms team morale and alignment, and offers practical ways to boost engagement and maintain effective collaboration.
+tldr: A lack of stakeholder feedback in Agile leads to disengagement, low team morale, and misalignment with business goals. Regular check-ins, fostering a feedback culture, involving the product owner, and visualizing progress help keep stakeholders engaged and teams motivated. Development managers should prioritize active stakeholder involvement to ensure team purpose and deliver better results.
 date: 2023-10-31T07:00:18Z
-weight: 665
+lastmod: 2023-10-31T07:00:18Z
+weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: k4F9DSE99Ok
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 aliases:
-- /resources/k4F9DSE99Ok
-- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
-- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
-- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
+  - /resources/k4F9DSE99Ok
+  - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
+  - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
+  - /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
-- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
-- /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
-- combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
+  - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
+  - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
+  - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
+  - /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
+  - combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Product Management
-- Software Development
-- Agile Frameworks
+  - Agile Product Management
+  - Software Development
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:08:12Z
   short_title: 2025-07-07T17:51:59Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:33Z
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

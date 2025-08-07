@@ -2,8 +2,14 @@
 title: Why is Satya Nadella a better example of agile leadership than Steve Jobs?
 short_title: 'Satya Nadella vs Steve Jobs: Agile Leadership'
 description: Compares Satya Nadella’s and Steve Jobs’s leadership, highlighting Nadella’s agile approach that fosters innovation, decentralised decision-making, and lasting organisational change.
+tldr: Satya Nadella is a stronger example of agile leadership than Steve Jobs because he built a culture of innovation and empowered teams across Microsoft, rather than centralizing decision-making and innovation in one person. Nadella decentralized authority, focused on meaningful metrics that drive customer value, and fostered continuous improvement and collaboration throughout the organization. Development managers should consider enabling team autonomy and aligning incentives with customer outcomes to drive sustainable innovation.
 date: 2023-02-01T07:00:10Z
+lastmod: 2023-02-01T07:00:10Z
 weight: 465
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: HTv3NkNJovk
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 aliases:
-- /resources/HTv3NkNJovk
-- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+  - /resources/HTv3NkNJovk
+  - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 aliasesArchive:
-- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
-- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
-- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
-- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
-- why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+  - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+  - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+  - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
+  - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
+  - why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 source: internal
 layout: video
 concepts:
-- Discipline
+  - Discipline
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Agile Philosophy
-- Organisational Culture
-- Organisational Change
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Agile Leadership
+  - Empirical Process Control
+  - Value Delivery
+  - Agile Strategy
+  - Agile Transformation
+  - Business Agility
+  - Agile Philosophy
+  - Organisational Culture
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T13:14:18Z
   short_title: 2025-07-07T17:56:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:43Z
 videoId: HTv3NkNJovk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
 duration: 487
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

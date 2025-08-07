@@ -1,38 +1,41 @@
 ---
 title: 'Windows 8 Issue: Local network is detected as public'
 description: Explains why Windows 8 may label Hyper-V virtual networks as public, causing connectivity issues, and provides steps to manually set them as private for proper access.
+date: 2012-08-02
+lastmod: 2012-08-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ws3mtPZiqjo
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6924
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-8-issue-local-network-is-detected-as-public
 aliases:
-- /resources/Ws3mtPZiqjo
+  - /resources/Ws3mtPZiqjo
 aliasesArchive:
-- /blog/windows-8-issue-local-network-is-detected-as-public
-- /windows-8-issue-local-network-is-detected-as-public
-- /windows-8-issue--local-network-is-detected-as-public
-- /blog/windows-8-issue--local-network-is-detected-as-public
-- /resources/blog/windows-8-issue-local-network-is-detected-as-public
-tags:
-- Troubleshooting
-- Windows
-- Install and Configuration
-- System Configuration
+  - /blog/windows-8-issue-local-network-is-detected-as-public
+  - /windows-8-issue-local-network-is-detected-as-public
+  - /windows-8-issue--local-network-is-detected-as-public
+  - /blog/windows-8-issue--local-network-is-detected-as-public
+  - /resources/blog/windows-8-issue-local-network-is-detected-as-public
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Windows
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:29Z
-concepts: []
+ResourceImportId: 6924
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-5-5.png
 
 ---
 When you are running hyper-v you get the option to create private virtual switches to compartmentalise your network coms. if however you are using Windows 8 it may define those networks as “Public Networks” and tighten up your security so much that you cant communicate with other computers.

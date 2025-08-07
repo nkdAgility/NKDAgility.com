@@ -2,8 +2,14 @@
 title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
 short_title: Mastering Your Kanban Board
 description: Learn how to design, review, and adapt Kanban boards to accurately visualise workflows, identify bottlenecks, and support continuous improvement in team processes.
+tldr: A Kanban board should accurately reflect your real workflow, not an idealised version, so regularly review and adapt its columns to match how work actually moves through your team. Involve your team in these updates to spot bottlenecks and improve efficiency. The key takeaway is to use your board as a tool for ongoing improvement rather than aiming for perfection.
 date: 2024-08-16T07:04:15Z
+lastmod: 2024-08-16T07:04:15Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: r1wvCUxeWcE
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 aliases:
-- /resources/r1wvCUxeWcE
-- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
-- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
-- /resources/videos/kanban-boards
+  - /resources/r1wvCUxeWcE
+  - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
+  - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+  - /resources/videos/kanban-boards
 aliasesArchive:
-- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
-- /resources/videos/kanban-boards
-- /resources/kanban-boards
-- mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
+  - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+  - /resources/videos/kanban-boards
+  - /resources/kanban-boards
+  - mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:02:07Z
   short_title: 2025-07-07T17:48:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:45Z
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

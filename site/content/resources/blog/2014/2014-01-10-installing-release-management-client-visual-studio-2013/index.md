@@ -1,36 +1,39 @@
 ---
 title: Installing Release Management Client for Visual Studio 2013
 description: Step-by-step guide to downloading, installing, and configuring the Release Management Client for Visual Studio 2013, including setup tips and troubleshooting advice.
+date: 2014-01-10
+lastmod: 2014-01-10
+weight: 900
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: FuoEoqFDuqx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10321
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-01-10
-weight: 900
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: installing-release-management-client-visual-studio-2013
+slug: installing-release-management-client-for-visual-studio-2013
 aliases:
-- /resources/FuoEoqFDuqx
+  - /resources/FuoEoqFDuqx
 aliasesArchive:
-- /blog/installing-release-management-client-visual-studio-2013
-- /installing-release-management-client-visual-studio-2013
-- /installing-release-management-client-for-visual-studio-2013
-- /blog/installing-release-management-client-for-visual-studio-2013
-- /resources/blog/installing-release-management-client-visual-studio-2013
-tags:
-- Install and Configuration
-- Software Development
-- System Configuration
+  - /blog/installing-release-management-client-visual-studio-2013
+  - /installing-release-management-client-visual-studio-2013
+  - /installing-release-management-client-for-visual-studio-2013
+  - /blog/installing-release-management-client-for-visual-studio-2013
+  - /resources/blog/installing-release-management-client-visual-studio-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:41Z
-concepts: []
+ResourceImportId: 10321
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 With the addition of the new Release Management Client for Visual Studio 2013 to the Visual Studio ALM roundup many folks are going to be giving it a go. If you might remember some of my post during the preview days of this tool there were some issue with installing it. It looks like Microsoft has gotten most of them sorted out and I can now get everything installed.

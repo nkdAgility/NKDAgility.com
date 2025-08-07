@@ -1,35 +1,38 @@
 ---
 title: I spell it as Favourite and you as Favorite
 description: Explains the differences between British and American English spelling, and shows how to switch language settings in Word and PowerPoint using macros for correct spellcheck.
+date: 2012-08-27
+lastmod: 2012-08-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nIpxDPFtjBE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7735
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+slug: i-spell-it-as-favourite-and-you-as-favorite
 aliases:
-- /resources/nIpxDPFtjBE
+  - /resources/nIpxDPFtjBE
 aliasesArchive:
-- /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-- /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-- /i-spell-it-as-favourite-and-you-as-favorite
-- /blog/i-spell-it-as-favourite-and-you-as-favorite
-- /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-tags:
-- Miscellaneous
+  - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+  - /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+  - /i-spell-it-as-favourite-and-you-as-favorite
+  - /blog/i-spell-it-as-favourite-and-you-as-favorite
+  - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-6-6.png
+  - Uncategorized
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:07:51Z
-concepts: []
+ResourceImportId: 7735
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-6-6.png
 
 ---
 On of the issues that we have had in the office recently is that the rest of the Office, through no fault of their own, speaks and uses American English. I however along with the majority of the English speaking world use British English.

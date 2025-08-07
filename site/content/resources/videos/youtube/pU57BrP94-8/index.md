@@ -2,8 +2,14 @@
 title: How will the immersive learning experience help coach people on the job?
 short_title: Immersive Learning for On-the-Job Agile Coaching
 description: Immersive learning enables on-the-job coaching by combining real-world assignments, collaborative feedback, and practical application for deeper, sustained Agile skill development.
+tldr: Immersive learning spreads Agile training over several weeks, allowing participants to apply lessons directly to their work and receive valuable feedback in each session. This approach leads to deeper understanding, practical skill development, and stronger collaboration among team members. Development managers should consider immersive learning to foster real-world growth and continuous improvement within their teams.
 date: 2023-08-08T07:00:22Z
+lastmod: 2023-08-08T07:00:22Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: pU57BrP94-8
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliases:
-- /resources/pU57BrP94-8
-- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+  - /resources/pU57BrP94-8
+  - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliasesArchive:
-- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+  - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+  - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
+  - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+  - how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Learning
-- Pragmatic Thinking
+  - Social Technologies
+  - Continuous Learning
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:10:22Z
   short_title: 2025-07-07T17:53:41Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:25Z
 videoId: pU57BrP94-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Navigating the TFS to Azure DevOps Migration: Overcoming Compatibility Concerns with Confidence'
 short_title: TFS to Azure DevOps Migration Guide
 description: Guidance on migrating from TFS on-premises to Azure DevOps, addressing compatibility, customisations, code security, and best practices for a smooth transition.
+tldr: Migrating from TFS on-premises to Azure DevOps is generally straightforward, with most compatibility concerns affecting older on-prem versions rather than the cloud. Key considerations include planning for the loss of unsupported customisations, ensuring code security during the transition, and evaluating how existing extensions will work in Azure DevOps. To ensure a smooth migration, assess your current setup, identify potential gaps, and proactively address customisation needs.
 date: 2024-11-06T05:45:03Z
+lastmod: 2024-11-06T05:45:03Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: qpo4Ru1VVZE
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 aliases:
-- /resources/qpo4Ru1VVZE
-- /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
-- /resources/videos/devops-migration-compatibility-problems
+  - /resources/qpo4Ru1VVZE
+  - /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
+  - /resources/videos/devops-migration-compatibility-problems
 aliasesArchive:
-- /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
-- /resources/videos/devops-migration-compatibility-problems
-- /resources/devops-migration-compatibility-problems
-- navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
+  - /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
+  - /resources/videos/devops-migration-compatibility-problems
+  - /resources/devops-migration-compatibility-problems
+  - navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:57:23Z
   short_title: 2025-07-07T17:47:41Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:17Z
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

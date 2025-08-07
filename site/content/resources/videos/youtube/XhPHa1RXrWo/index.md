@@ -2,8 +2,14 @@
 title: 'Agile is Not New: A Journey Back to the Basics'
 short_title: 'Agile’s Roots: Returning to Core Principles'
 description: Explores Agile’s historical roots, the loss of human connection in business, the impact of competence gaps, and why a return to core Agile principles is needed today.
+tldr: Agile is rooted in centuries-old practices focused on human connection and adaptability, but mass production and Taylorism shifted work toward efficiency at the cost of empathy and craftsmanship. The Agile movement aimed to restore these values, yet many organizations now face a competence gap, hiring for Agile roles without ensuring the necessary skills, which leads to disappointing results. Development managers should prioritize building real competence and continuous learning in their teams to realize Agile’s true benefits and prepare for a coming reset that emphasizes value, empathy, and adaptability over rigid processes.
 date: 2024-10-10T15:48:56Z
+lastmod: 2024-10-10T15:48:56Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: XhPHa1RXrWo
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-is-not-new-a-journey-back-to-the-basics
 aliases:
-- /resources/XhPHa1RXrWo
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
+  - /resources/XhPHa1RXrWo
+  - /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+  - /resources/videos/the-intention-of-agile-and-scrum
 aliasesArchive:
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/the-intention-of-agile-and-scrum
-- agile-is-not-new-a-journey-back-to-the-basics
+  - /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+  - /resources/agile-is-not-new-a-journey-back-to-the-basics
+  - /resources/videos/the-intention-of-agile-and-scrum
+  - /resources/the-intention-of-agile-and-scrum
+  - agile-is-not-new-a-journey-back-to-the-basics
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
+  - Product Development
 tags:
-- Competence
-- Agile Philosophy
-- Agile Product Management
-- Software Development
-- Agile Planning
-- Business Agility
-- Pragmatic Thinking
+  - Competence
+  - Agile Philosophy
+  - Agile Product Management
+  - Software Development
+  - Agile Planning
+  - Business Agility
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:57:35Z
   short_title: 2025-07-07T17:47:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:40Z
 videoId: XhPHa1RXrWo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
 duration: 659
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,47 +2,54 @@
 title: Why Organisations Believe Their Software Is Too Complex for CD
 short_title: Software Complexity Myths in Continuous Delivery
 description: Many organisations cite software complexity as a barrier to continuous delivery, but real obstacles are technical debt and lack of investment in quality and automation.
+tldr: Software complexity is often used as an excuse to avoid continuous delivery, but real-world examples like Microsoft’s Azure DevOps team show that even large, complex systems can achieve frequent releases by investing in quality practices and addressing technical debt. The main barrier is not complexity but the willingness to make necessary improvements. Development managers should focus on fixing underlying issues rather than blaming complexity.
 date: 2025-02-24T10:51:31+00:00
+lastmod: 2025-02-24T10:51:31+00:00
 weight: 205
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: T-sHn-OUIvR
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: why-organisations-believe-their-software-is-too-complex-for-cd
 aliases:
-- /resources/T-sHn-OUIvR
+  - /resources/T-sHn-OUIvR
 source: LinkedIn
 layout: signal
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Software Development
-- Technical Mastery
-- Frequent Releases
-- Product Delivery
-- Continuous Delivery
-- Pragmatic Thinking
-- Value Delivery
-- Operational Practices
-- Engineering Practices
-- Technical Excellence
+  - Software Development
+  - Technical Mastery
+  - Frequent Releases
+  - Product Delivery
+  - Continuous Delivery
+  - Pragmatic Thinking
+  - Value Delivery
+  - Operational Practices
+  - Engineering Practices
+  - Technical Excellence
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299742737925300224
-  post_id: "7299742737925300224"
-  post_date: 2025-02-24T10:51:31Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7299742737925300224
+    post_id: "7299742737925300224"
+    post_date: 2025-02-24T10:51:31Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:45Z
   short_title: 2025-07-07T17:46:08Z
+  tldr: 2025-08-07T12:35:50Z
 
 ---
 Every organisation claims their software is too complex for continuous delivery. It’s not. Complexity is an excuse, not a blocker.

@@ -2,44 +2,51 @@
 title: US Department of Defence and the History of Waterfall Delivery
 short_title: US DoD Shift from Waterfall to Agile
 description: Explores the US Department of Defence’s shift from traditional waterfall delivery to lean-agile methods, highlighting new procurement rules and the need for true agility.
+tldr: The US Department of Defence has moved away from traditional waterfall delivery and now requires lean-agile approaches in its procurement rules, recognizing that agility is essential for complex, high-stakes projects. This shift is now mandated, not just recommended, showing that even large, regulated organizations can make the change. Development managers should reconsider stage-gate processes and focus on enabling real agility rather than clinging to outdated controls.
 date: 2025-06-08T15:30:25+01:00
+lastmod: 2025-06-08T15:30:25+01:00
 weight: 545
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: mlGmtc4ZqJM
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: us-department-of-defence-and-the-history-of-waterfall-delivery
 aliases:
-- /resources/mlGmtc4ZqJM
+  - /resources/mlGmtc4ZqJM
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Organisational Agility
-- Software Development
-- Enterprise Agility
-- Organisational Change
-- Business Agility
-- Agile Strategy
-- Agile Transformation
-- Product Delivery
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Software Development
+  - Enterprise Agility
+  - Organisational Change
+  - Business Agility
+  - Agile Strategy
+  - Agile Transformation
+  - Product Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7337501265146355712
-  post_id: "7337501265146355712"
-  post_date: 2025-06-08T14:30:25Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7337501265146355712
+    post_id: "7337501265146355712"
+    post_date: 2025-06-08T14:30:25Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:40Z
   short_title: 2025-07-07T16:43:39Z
+  tldr: 2025-08-07T12:11:33Z
 
 ---
 For years, the US Department of Defence was the poster child for waterfall delivery. Locked gates, stage-based approvals, and delivery dates that existed more on paper than in production.

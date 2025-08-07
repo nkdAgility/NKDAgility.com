@@ -1,50 +1,57 @@
 ---
 title: Create a Release Management pipeline for Professional Developers
+short_title: Create Release Management Pipeline for Devs
 description: Step-by-step guide to building an automated Release Management pipeline for professional developers, covering build, deployment, environment setup, and parameterisation.
+tldr: This guide walks through setting up an automated release management pipeline using TFS/VSO and Azure, showing how to build, deploy, and parameterize a legacy web app across multiple feedback environments. Key takeaways include the importance of automating builds and releases, using environment-specific parameters, and streamlining approvals for smoother deployments. Development managers should consider investing time upfront to automate and parameterize their pipelines, as this reduces manual errors and accelerates feedback cycles.
+date: 2014-12-04
+lastmod: 2014-12-04
+weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: WYBOx1X0R-3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10970
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-12-04
-weight: 430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: create-release-management-pipeline-professional-developers
+slug: create-a-release-management-pipeline-for-professional-developers
 aliases:
-- /resources/WYBOx1X0R-3
+  - /resources/WYBOx1X0R-3
 aliasesArchive:
-- /blog/create-release-management-pipeline-professional-developers
-- /create-release-management-pipeline-professional-developers
-- /create-a-release-management-pipeline-for-professional-developers
-- /blog/create-a-release-management-pipeline-for-professional-developers
-- /resources/blog/create-release-management-pipeline-professional-developers
-tags:
-- Software Development
-- Azure Pipelines
-- Continuous Delivery
-- Operational Practices
-- Pragmatic Thinking
-- Azure DevOps
-- Release Management
-- Product Delivery
-- Install and Configuration
-- Application Lifecycle Management
-- Deployment Strategies
-- Technical Excellence
-- Working Software
-- System Configuration
-- Technical Mastery
+  - /blog/create-release-management-pipeline-professional-developers
+  - /create-release-management-pipeline-professional-developers
+  - /create-a-release-management-pipeline-for-professional-developers
+  - /blog/create-a-release-management-pipeline-for-professional-developers
+  - /resources/blog/create-release-management-pipeline-professional-developers
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-- DevOps
-preview: nakedalm-experts-visual-studio-alm-46-46.png
+  - Engineering Excellence
+  - DevOps
+tags:
+  - Software Development
+  - Azure Pipelines
+  - Continuous Delivery
+  - Operational Practices
+  - Pragmatic Thinking
+  - Azure DevOps
+  - Release Management
+  - Product Delivery
+  - Install and Configuration
+  - Application Lifecycle Management
+  - Deployment Strategies
+  - Technical Excellence
+  - Working Software
+  - System Configuration
+  - Technical Mastery
 Watermarks:
   description: 2025-05-12T14:20:36Z
-concepts: []
+  tldr: 2025-08-07T13:26:17Z
+  short_title: 2025-08-07T13:26:19Z
+ResourceImportId: 10970
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.

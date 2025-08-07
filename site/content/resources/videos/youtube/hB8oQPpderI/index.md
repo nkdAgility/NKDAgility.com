@@ -2,8 +2,14 @@
 title: One limitation of reading a book vs attending a course
 short_title: One Limitation of Reading a Book
 description: Reading a book offers knowledge but lacks real-time interaction, discussion, and collaborative learning found in courses, limiting engagement and shared understanding.
+tldr: Reading books provides valuable knowledge, but they cannot answer your questions or offer interactive discussions like a course can. Courses enable active engagement, idea exchange, and collaborative learning, which are essential for deeper understanding and team growth. Consider supplementing reading with interactive training to maximize learning and team performance.
 date: 2023-05-08T09:30:10Z
-weight: 840
+lastmod: 2023-05-08T09:30:10Z
+weight: 745
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: hB8oQPpderI
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: one-limitation-of-reading-a-book-vs-attending-a-course
 aliases:
-- /resources/hB8oQPpderI
-- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
-- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
+  - /resources/hB8oQPpderI
+  - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+  - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+  - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 aliasesArchive:
-- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/one-limitation-of-a-book-versus-a-scrum-course
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
-- /resources/one-limitation-of-a-book-versus-a-scrum-course-
-- one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
+  - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+  - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
+  - /resources/one-limitation-of-a-book-versus-a-scrum-course
+  - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
+  - /resources/one-limitation-of-a-book-versus-a-scrum-course-
+  - one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+  - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:38Z
   short_title: 2025-07-07T17:55:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:25Z
 videoId: hB8oQPpderI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

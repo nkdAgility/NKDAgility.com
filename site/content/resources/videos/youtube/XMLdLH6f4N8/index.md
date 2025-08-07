@@ -2,8 +2,14 @@
 title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolutionise Your Team's Dynamics"
 short_title: Transforming Chaos into Collaboration
 description: Explores how adopting a shared framework and structured communication can turn team chaos into collaboration, boosting trust, engagement, and continuous improvement.
+tldr: Introducing a common framework and structured backlog helped transform a chaotic team environment into one marked by better collaboration, clearer communication, and increased trust. Teams benefited from a shared language, improved confidence, and more effective problem-solving, while regular feedback channels boosted morale and engagement. Development managers should consider adopting structured frameworks and open communication practices to drive positive change and sustain team momentum.
 date: 2017-07-28T11:55:30Z
-weight: 1000
+lastmod: 2017-07-28T11:55:30Z
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: XMLdLH6f4N8
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team's-dynamics
 aliases:
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
-- /resources/XMLdLH6f4N8
+  - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
+  - /resources/XMLdLH6f4N8
 aliasesArchive:
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
+  - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
+  - /resources/nkdagility-healthgrades-interview-katherine-maddox
+  - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+  - transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+  - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Social Technologies
-- Organisational Culture
-- Organisational Agility
+  - Social Technologies
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:16:30Z
   short_title: 2025-07-07T17:58:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:13:39Z
 videoId: XMLdLH6f4N8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

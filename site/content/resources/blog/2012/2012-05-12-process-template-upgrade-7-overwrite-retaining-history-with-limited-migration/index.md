@@ -1,40 +1,43 @@
 ---
 title: 'Process Template Upgrade #7 – Rename Work Items and Import new ones'
 description: Step-by-step guide to upgrading TFS process templates by renaming and importing work item types, preserving data, updating fields, categories, configs, and reports.
+date: 2012-05-12
+lastmod: 2012-05-12
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8bwduNxH7WG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5277
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-05-12
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+slug: process-template-upgrade-7-–-rename-work-items-and-import-new-ones
 aliases:
-- /resources/blog/process-template-upgrade-7-rename-work-items-and-import-new-ones
-- /resources/8bwduNxH7WG
+  - /resources/blog/process-template-upgrade-7-rename-work-items-and-import-new-ones
+  - /resources/8bwduNxH7WG
 aliasesArchive:
-- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
-- /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
-- /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /resources/blog/process-template-upgrade-7-rename-work-items-and-import-new-ones
-tags:
-- Software Development
-- Install and Configuration
-- Azure DevOps
-- Troubleshooting
-- System Configuration
+  - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+  - /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+  - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
+  - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
+  - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+  - /resources/blog/process-template-upgrade-7-rename-work-items-and-import-new-ones
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Azure DevOps
+  - Troubleshooting
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:02Z
-concepts: []
+ResourceImportId: 5277
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…

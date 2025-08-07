@@ -2,8 +2,14 @@
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
 short_title: "Connecting the Dots: Steve Jobs' Agile Wisdom"
 description: Explores how reflecting on past experiences, as Steve Jobs advised, guides Agile teams in making informed, adaptive decisions and continuous improvements.
+tldr: Steve Jobs’ idea that you can only connect the dots looking backward highlights the value of learning from past experiences in Agile environments. Development managers should regularly reflect on previous outcomes, use data to inform decisions, and remain flexible to adapt strategies as new information emerges. Encourage your teams to balance lessons from the past with ongoing validation and iterative improvement to stay effective in a changing landscape.
 date: 2023-10-13T11:00:40Z
-weight: 1000
+lastmod: 2023-10-13T11:00:40Z
+weight: 705
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: hj31XHbmWbA
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: quotes-you-can't-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 aliases:
-- /resources/hj31XHbmWbA
-- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
-- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
-- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
-- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
+  - /resources/hj31XHbmWbA
+  - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+  - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+  - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+  - /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 aliasesArchive:
-- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
-- /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
-- /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
-- /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
-- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
-- quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
-- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
+  - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+  - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+  - /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
+  - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
+  - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+  - quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+  - /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:08:47Z
   short_title: 2025-07-07T17:52:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:34Z
 videoId: hj31XHbmWbA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

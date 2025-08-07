@@ -1,47 +1,50 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
 description: Explains the risks of the pick-n-mix branching anti-pattern in source control, its impact on code quality, and recommends feature branching and toggles for stability.
+date: 2014-07-14
+lastmod: 2014-07-14
+weight: 205
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: IVl4r4gpkQ6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10649
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-07-14
-weight: 205
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: avoid-pick-n-mix-branching-anti-pattern
+slug: avoid-the-pick-n-mix-branching-anti-pattern
 aliases:
-- /resources/IVl4r4gpkQ6
+  - /resources/IVl4r4gpkQ6
 aliasesArchive:
-- /blog/avoid-pick-n-mix-branching-anti-pattern
-- /avoid-pick-n-mix-branching-anti-pattern
-- /avoid-the-pick-n-mix-branching-anti-pattern
-- /blog/avoid-the-pick-n-mix-branching-anti-pattern
-- /resources/blog/avoid-pick-n-mix-branching-anti-pattern
-tags:
-- Pragmatic Thinking
-- Release Management
-- Technical Excellence
-- Technical Mastery
-- Modern Source Control
-- Operational Practices
-- Software Development
-- Engineering Practices
-- Product Delivery
-- Technical Debt
-- Working Software
-- Continuous Delivery
-- Troubleshooting
+  - /blog/avoid-pick-n-mix-branching-anti-pattern
+  - /avoid-pick-n-mix-branching-anti-pattern
+  - /avoid-the-pick-n-mix-branching-anti-pattern
+  - /blog/avoid-the-pick-n-mix-branching-anti-pattern
+  - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-experts-visual-studio-alm-4-4.png
+  - Engineering Excellence
+tags:
+  - Pragmatic Thinking
+  - Release Management
+  - Technical Excellence
+  - Technical Mastery
+  - Modern Source Control
+  - Operational Practices
+  - Software Development
+  - Engineering Practices
+  - Product Delivery
+  - Technical Debt
+  - Working Software
+  - Continuous Delivery
+  - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:21:28Z
-concepts: []
+ResourceImportId: 10649
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.
