@@ -47,7 +47,7 @@ If your teams are stuck gaming metrics, stuck behind theatre, or just stuck — 
 
 As usual newsletter subscribers will receive exclusive insights and resources and the current focus is on **breaking the estimation trap** that’s holding back so many teams. These are preview posts that are not yet published on the main site.
 
-## Hilight Preview Post: **The Estimation Trap** (Publishes in 46 days)
+## Preview Highlight Post: **The Estimation Trap** (Publishes in 46 days)
 
 If you're still tracking estimate vs actual to manage delivery, you're not managing delivery. You're performing theatre.
 
