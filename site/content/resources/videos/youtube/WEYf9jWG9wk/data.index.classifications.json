@@ -1169,13 +1169,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Personal",
-    "calculated_at": "2025-02-13T19:52:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of feature delivery and experimentation in software development without personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 86.36,
+    "ai_mentions": 6.8,
+    "ai_alignment": 9.2,
+    "ai_depth": 9.5,
+    "ai_intent": 8.8,
+    "ai_audience": 8.9,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content begins with a clear personal framing ('In my journey through...'), discussing individual observations and interpretations on Agile-adjacent practices (experimentation, small features, continuous improvement). Examples and insights are personal and reflective rather than technical or theoretical. It elaborates how the author perceives the value of small experiments, linking this to learning, risk reduction, and customer value, which are aligned with the 'Personal' category's focus on experience and unique perspective. The discussion is deep (with structured arguments and anecdotal evidence), maintains focus on the individual's point of view, and targets practitioners interested in real-world, personal learnings. There are few direct mentions of 'Personal' outside the framing, but the tone and intent are both reflective and subjective, not strictly educational or technical; all content is on-topic and relevant to the intended audience.",
+    "reasoning_summary": "This content fits the 'Personal' category as it centers on the author's reflections and insights derived from experience, not technical exposition. Its purpose, themes, and examples all align with the category definition and are clearly subjective.",
+    "level": "Primary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1199,13 +1209,23 @@
     "level": "Tertiary"
   },
   "Value Stream Management": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-13T19:52:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of conducting small experiments in software development, focusing on feature delivery rather than the principles or practices of Value Stream Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 60.843,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.0,
+    "ai_depth": 5.8,
+    "ai_intent": 6.5,
+    "ai_audience": 7.1,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content discusses improving software feature delivery via small experiments, continuous improvement, and customer feedback, which aligns conceptually with several Value Stream Management principles (flow, learning, customer value, reduced waste). However, there are no direct mentions of Value Stream Management, value streams, or explicit mapping or metric discussion. The depth is moderate, focusing on a specific case study and practice shift rather than VSM frameworks or tools. The intent is relevant but not squarely focused on VSM, as it centers on delivery tactics rather than end-to-end stream optimization. The audience appears to be practitioners interested in process improvements, moderately fitting VSM's target readers. The signal-to-noise ratio is strong—most content is on-topic for lean/agile flow, though not exclusively on VSM.",
+    "reasoning_summary": "The content discusses principles like flow, experimentation, and customer focus central to Value Stream Management, but lacks explicit references, frameworks, or deep discussion, making VSM fit partial and mostly conceptual.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1220,13 +1240,23 @@
     "level": "Tertiary"
   },
   "Technical Excellence": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T19:52:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of conducting small experiments in feature delivery, which is more aligned with product management and customer feedback rather than specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 68.9,
+    "ai_mentions": 3.7,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.7,
+    "ai_intent": 7.5,
+    "ai_audience": 8.0,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content focuses on breaking features into small experiments, continuous improvement, risk reduction, and rapid delivery—closely related to Agile and lean product development. However, it does not mention core technical practices (TDD, CI/CD, modular architecture) or reference 'technical excellence' by name. Depth and alignment are high due to its reflection on process changes that improve quality and adaptability, but it focuses more on process/mindset than explicit engineering practices underpinning technical excellence, limiting direct fit. The target audience is practitioners in software, so audience alignment is strong, and most content is on-topic.",
+    "reasoning_summary": "Content aligns with technical excellence via discussion of continuous improvement and adaptive delivery, but lacks explicit mention or deep exploration of engineering practices like TDD or CI/CD. Fit is partial; more process/mindset than direct technical excellence.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1238,13 +1268,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-13T19:52:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the increase in feature delivery through experimentation rather than the management of the application lifecycle stages or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 56.9,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.3,
+    "ai_intent": 7.2,
+    "ai_audience": 7.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "Direct references to Application Lifecycle Management (ALM) are absent. The core subject—using experiments and smaller features to boost delivery and learning—strongly aligns with agile and iterative software development, focusing on process improvement and customer centricity. While these are indirect elements of ALM, the content discusses only a part of the lifecycle (feature delivery, experimentation, feedback) and not holistic governance, toolsets, ALM metrics, change/risk management, or full-stage oversight typical of ALM frameworks. Audience/focus is appropriate for practitioners involved in modern development practices, and the discussion is relevant, but the explicit scope is narrower than comprehensive ALM.",
+    "reasoning_summary": "Content fits partially—focuses on iterative delivery and experimentation, which align with aspects of Application Lifecycle Management, but lacks direct mentions, overarching ALM processes, tools, governance, or full lifecycle coverage.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

@@ -12,13 +12,23 @@
     "level": "Secondary"
   },
   "Engineering Excellence": {
+    "resourceId": "napm9Qz4WTz",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:05:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and UX integration, which are not directly related to engineering excellence or software craftsmanship practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:40",
+    "ai_confidence": 53.41,
+    "ai_mentions": 0.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.4,
+    "ai_intent": 6.2,
+    "ai_audience": 8.0,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content focuses primarily on integrating UX with Scrum, highlighting team collaboration, user-centricity, and managing UX work within agile frameworks. While these topics support improved software outcomes, there is little explicit mention of engineering excellence concepts such as coding standards, CI/CD, or technical quality. The alignment and depth are partial; the audience—Scrum professionals and UX practitioners—partly overlaps with those interested in engineering excellence, but the main thrust is UX integration rather than direct exploration of high engineering standards. The signal-to-noise ratio is high with relevant Agile/UX content, but not centrally on engineering excellence.",
+    "reasoning_summary": "The content supports better software outcomes via UX-Scrum integration but does not directly address engineering excellence topics. Fit is partial and tangential, with only some overlap in themes and intent.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -42,12 +52,22 @@
     "level": "Tertiary"
   },
   "Leadership": {
+    "resourceId": "napm9Qz4WTz",
     "category": "Leadership",
-    "calculated_at": "2025-02-18T00:05:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and UX integration, with no clear emphasis on leadership practices.",
+    "calculated_at": "2025-08-07T09:27:30",
+    "ai_confidence": 23.56,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 7.1,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "There are no explicit mentions of 'leadership' or leader roles, nor are leadership frameworks or behaviors discussed. The course content centers on Scrum/UX integration, collaboration, and user-centricity. While aspects like team collaboration and cross-functionality relate tangentially to leader-run environments, the core content does not discuss leadership strategies, decision-making at a leader level, or cultural transformation driven by leaders. Most of the outcomes are aimed at practitioners and teams rather than leaders. The audience includes Product Owners and Scrum Masters, but the topic is about process and UX, not leadership development.",
+    "reasoning_summary": "Content focuses on integrating UX with Scrum, not leadership. Lacks explicit leadership discussion or practices; only tangential connection via team collaboration. Fit with the Leadership category is minimal and partial.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -153,13 +173,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "napm9Qz4WTz",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and the integration of UX practices, which deviates from the core principles of software craftsmanship and engineering excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:32",
+    "ai_confidence": 42.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.9,
+    "ai_intent": 4.2,
+    "ai_audience": 7.5,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on integrating UX practices into Scrum, emphasizing teamwork, value delivery, and user-centricity. While technical excellence is implied via integrating processes, there is only a minor focus on Software Engineering practices (e.g., code quality, architecture, DevOps, clean code), which are central to Technical Mastery. The audience is mostly practitioners, but the curriculum targets UX integration and cross-functional collaboration—not strong technical depth. Thus, the alignment and depth scores are moderate, and explicit mentions of core Technical Mastery topics are almost absent.",
+    "reasoning_summary": "The content is mainly about UX integration in Scrum rather than software craftsmanship or engineering excellence. It only aligns lightly with Technical Mastery, as technical practices are not a main focus.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "napm9Qz4WTz",
@@ -916,13 +946,23 @@
     "level": "Tertiary"
   },
   "Empirical Process Control": {
+    "resourceId": "napm9Qz4WTz",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the integration of User Experience (UX) practices in Scrum and does not explicitly discuss empirical process control principles or practices, making it not relevant enough to the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:43",
+    "ai_confidence": 45.25,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 5.3,
+    "ai_audience": 8.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "Direct mentions are minimal; 'empirical process control' is not named. Conceptually, some practices—like experimentation, hypothesis testing, continuous learning, and evidence-based validation—are aligned with empirical process control, but these are embedded within a larger focus on UX integration. Depth is moderate; the discussion stays at the practice level for integration of UX into Scrum, which does touch on some core empirical mechanisms such as feedback loops and adaptation, though not explicitly or thoroughly. Intent is UX/Scrum integration rather than explicitly fostering empirical process control, but audience alignment and signal are high since this is aimed squarely at Agile and Scrum practitioners. No penalties applied as the content is not obsolete or contradictory.",
+    "reasoning_summary": "The course aligns partially with empirical process control through practices like experimentation and adaptation but does not explicitly focus on these principles. Its main purpose is UX/Scrum integration, with only moderate conceptual overlap.",
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",

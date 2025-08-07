@@ -1111,12 +1111,22 @@
     "level": "Secondary"
   },
   "Decision Theory": {
+    "resourceId": "kTszGsXPLXY",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-12T05:09:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics in Agile environments, without a clear focus on decision-making processes or theories.",
+    "calculated_at": "2025-08-07T09:26:34",
+    "ai_confidence": 24.74,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 1.7,
+    "ai_audience": 8.0,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content is a practical guide to starting a Kanban pilot, focusing on workflow visualization, metrics (cycle time, throughput), and continuous improvement. There is no explicit or even implicit mention of Decision Theory, heuristics, or decision-making under uncertainty. While some metric discussions could loosely relate to data-driven decisions, the depth does not extend to decision theory principles or frameworks. The intent is operational rather than theoretical. Audience overlap exists, as Agile/DevOps professionals could benefit from decision theory concepts, but the content is not targeted to decision-making theory. Most content is focused and relevant to Kanban and Agile audiences without decision theory framing.",
+    "reasoning_summary": "This content is a Kanban implementation guide, not a decision theory discussion. Its focus is on practical workflow, metrics, and team engagement, with only vague, unintentional alignment to decision theory concepts.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1177,13 +1187,23 @@
     "level": "Secondary"
   },
   "Agile Product Management": {
+    "resourceId": "kTszGsXPLXY",
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T05:09:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics, without a clear focus on Agile Product Management principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:24",
+    "ai_confidence": 53.3,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.0,
+    "ai_depth": 4.8,
+    "ai_intent": 5.6,
+    "ai_audience": 7.5,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "Direct mentions of Agile Product Management or its specific concepts are sparse—the focus is primarily Kanban as a general workflow method. Some connections exist with Agile-adjacent ideas (continuous improvement, stakeholder engagement, metrics/feedback, and use of Kanban in DevOps contexts), but there is limited discussion of product ownership, product value maximization, backlog prioritization, or other Agility-driven product management practices. The content’s audience could overlap with product managers transitioning to Agile, but is more general (all teams wanting productivity gains). Most depth is technical/process (workflow, metrics) not strategic product management. There is some relevance (agility, improvement, stakeholder engagement, data-driven change), but the primary theme remains Kanban process—not Agile product management. No penalties; content is recent and not critical.",
+    "reasoning_summary": "The content focuses on Kanban process setup and team productivity, touching on Agile/continuous improvement themes but offering limited direct discussion of Agile product management or product value topics. Fit is partial and secondary.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1216,12 +1236,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "kTszGsXPLXY",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T05:09:29",
+    "calculated_at": "2025-08-07T09:26:29",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 0.0,
+    "ai_signal": 0.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban principles and practices, including tools like JIRA and Azure DevOps, which are directly related to Agile methodologies.",
+    "reasoning": "The content directly discusses Kanban, which is a recognized Agile framework. It thoroughly applies Kanban principles, terminologies, and practices and also references DevOps. Therefore, it is strictly excluded from the Miscellaneous category per the definition. There are no penalties applied; all scores are zero since the content is fully outside the scope of Miscellaneous.",
+    "reasoning_summary": "Content is about Kanban, a formal Agile framework, and is strictly excluded from Miscellaneous. No alignment with the category.",
     "level": "Ignored"
   },
   "DevOps": {
@@ -1249,13 +1279,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "kTszGsXPLXY",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T05:09:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics, without a clear focus on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:32",
+    "ai_confidence": 44.375,
+    "ai_mentions": 0.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 6.1,
+    "ai_intent": 5.6,
+    "ai_audience": 6.5,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct reference to 'business agility' is absent, hence very low score for mentions. The content is primarily an introductory guide to implementing Kanban—it covers workflow definition, use of metrics, and continuous improvement, all of which conceptually support business agility. However, it frames Kanban at the team/process level rather than at a holistic organizational/business agility perspective. Depth is moderate: the guide addresses continuous improvement, stakeholder engagement, and fostering a culture open to change, which are partial fits. Intent is somewhat aligned, as it seeks to help teams become more responsive, but the main purpose is Kanban setup, not business agility as a primary topic. Audience seems aimed at team leads or practitioners, not specifically decision-makers or strategists focused on enterprise business agility. Signal-to-noise is fairly high; most material is relevant to workflow improvement but not always explicitly about agile business transformation. No penalties apply, as the content is current, not satirical or critical.",
+    "reasoning_summary": "This content supports concepts underlying business agility, such as continuous improvement and adaptability, but is mostly Kanban-focused, with little direct or deep discussion of broader business agility themes. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

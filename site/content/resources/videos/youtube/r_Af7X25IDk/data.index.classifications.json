@@ -25,13 +25,23 @@
     "reasoning_summary": "This content is a strong fit for the social technologies category, as it explores Agile leadership, collaboration, and team empowerment—key aspects of how people interact and work together. While it doesn’t directly reference social technologies, its focus on communication and leadership strategies closely aligns with the category’s core themes, making the classification appropriate."
   },
   "Engineering Excellence": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T11:11:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile change and practices rather than focusing on engineering excellence or software craftsmanship.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:21",
+    "ai_confidence": 62.43,
+    "ai_mentions": 3.6,
+    "ai_alignment": 7.8,
+    "ai_depth": 6.9,
+    "ai_intent": 6.8,
+    "ai_audience": 8.5,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content occasionally references engineering excellence topics—technical debt, continuous improvement, technical excellence, and quality measures—stronger in the 'How Are We Organising Our Work?' and 'Path Forward' sections. However, most of the content centers on Agile transformation at the organisational and leadership level, focusing more on empowerment, Agile mindsets, product ownership, and collaboration—which, while tangentially related to engineering excellence, are not exclusively aligned with software craftsmanship or engineering process standards. There is some surface coverage of relevant practices (refactoring, CI/CD, metrics, technical debt), but the thrust prioritizes leadership, change management, and organisational agility more than in-depth engineering technicalities. Audience is technical/Agile practitioners, so fit is moderate. No outdated info nor contradiction, so no penalties applied.",
+    "reasoning_summary": "The content partially fits, covering some engineering excellence themes (technical debt, continuous improvement), but its main focus is on Agile transformation and team empowerment, with limited depth on core engineering best practices.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -136,12 +146,22 @@
     "level": "Primary"
   },
   "Windows": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and leadership rather than anything related to the Windows operating system.",
+    "calculated_at": "2025-08-07T09:27:24",
+    "ai_confidence": 2.15,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.8,
+    "ai_audience": 2.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions of Windows or its features. The entire content is focused on Agile transformation, leadership, DevOps, and organisational change, without any reference to Windows installation, configuration, troubleshooting, or related administration. Thematically, the alignment is extremely low, with only the broad IT context providing the faintest tangential relevance. The audience may include IT professionals, which slightly increases audience and signal scores, but the fit remains almost nonexistent. No penalty for outdatedness or tone was required, as the material was current and positive.",
+    "reasoning_summary": "Content is about Agile and DevOps transformation, with zero mention or discussion of Windows. It does not match the Windows category as defined, fit is extremely weak, and confidence is minimal.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -173,13 +193,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:23:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and change management but does not focus on the entire application lifecycle management or its stages.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:27",
+    "ai_confidence": 57.7,
+    "ai_mentions": 0.6,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.3,
+    "ai_intent": 6.1,
+    "ai_audience": 6.4,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content strongly centers on Agile transformation, empowerment, collaboration, and continuous improvement. While overlapping with some ALM concepts (team empowerment, change management, value delivery), there's only implicit alignment with ALM; key ALM topics like lifecycle stages, governance, ALM tools, and formal metrics/KPIs are mostly absent or glossed over. The main focus is Agile culture/mindset—not end-to-end application management. Mentions of supporting disciplines (technical debt, continuous delivery) touch ALM but remain within an Agile/process context, not explicit software lifecycle management. The audience (Agile practitioners/leaders) partially matches ALM's. No outdated references or contrarian tone are present so no penalties apply. The partial fit yields a moderate confidence score.",
+    "reasoning_summary": "The content addresses Agile practices, leadership, and value delivery that intersect with ALM, but lacks direct or thorough discussion of ALM's full lifecycle, tools, or governance. Fit is only partial; focus is broader Agile transformation, not formal ALM.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -313,13 +343,23 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T12:23:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leading agile change and practices without a direct focus on customer retention or related strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:30",
+    "ai_confidence": 47.47,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.5,
+    "ai_intent": 5.2,
+    "ai_audience": 7.1,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on Agile transformation, team empowerment, and value delivery in changing markets. While it discusses delivering value, continuous improvement, and product outcomes—topics tangentially related to customer retention—it does not explicitly discuss customer retention, engagement, or minimizing churn. The main theme centers on organizational agility and team practices, with only indirect relevance to customer retention strategies. There is a slight overlap—specifically in references to value delivery and product ownership—but there are no direct mentions or in-depth explorations of retention, satisfaction measurement, or feedback loops. Thus, the fit is at best partial.",
+    "reasoning_summary": "Content covers Agile transformation and value delivery but does not directly discuss customer retention concepts or strategies. Fit is partial and mostly tangential, with only indirect relevance to the category.",
+    "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",

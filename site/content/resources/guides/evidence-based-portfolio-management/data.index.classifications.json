@@ -1122,13 +1122,23 @@
     "level": "Ignored"
   },
   "Decision Theory": {
+    "resourceId": "KD08D48Weks",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-12T14:00:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices rather than decision-making processes in uncertain environments.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:28",
+    "ai_confidence": 74.801,
+    "ai_mentions": 2.9,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.5,
+    "ai_intent": 7.8,
+    "ai_audience": 8.2,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 75.0,
+    "reasoning": "Direct mentions of 'decision theory' or explicit terminology are limited; the terms 'decisions,' 'bets,' and 'evidence' appear, but classic decision theory models or terminology are not overt. However, the conceptual alignment is strong—core content is centered on decision-making under uncertainty, use of experimentation as a tool for updating beliefs, measuring outcomes, frequent evaluation, and adapting based on feedback, which reflects fundamental decision theory principles like iterative evaluation in uncertain environments and making investment decisions based on evidence rather than conjecture. Depth is considerable: The content moves well beyond surface-level reference into process definitions (investment cycles, feedback loops, experiment framing), describes cost-benefit approaches, updating goals, and balancing risk. The intent is to improve organizational decision-making in complex environments, aligning directly with the spirit of decision theory. The target audience—organizational leaders and agile practitioners concerned with portfolio-level strategy—overlaps closely with those interested in decision theory applications. Signal-to-noise is high, with dense exposition of relevant decision processes, though some descriptive Agile/EBM implementation detail slightly diffuses focus. No tone, currency, or critique penalties apply. Overall, central ideas, solutions, and frameworks champion the process of making informed choices under uncertainty, which is at the heart of decision theory—even if not always couched in academic terms.",
+    "reasoning_summary": "The content thoroughly discusses evidence-based investment and iterative decision-making under uncertainty, core to decision theory, especially as applied to strategy in Agile environments. Fit is strong though not always explicit in terminology.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "resourceId": "KD08D48Weks",
@@ -1150,13 +1160,23 @@
     "level": "Primary"
   },
   "Lean": {
+    "resourceId": "KD08D48Weks",
     "category": "Lean",
-    "calculated_at": "2025-02-12T14:00:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices without a clear focus on Lean methodologies or principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:28:11",
+    "ai_confidence": 82.574,
+    "ai_mentions": 7.2,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.5,
+    "ai_intent": 8.1,
+    "ai_audience": 8.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The document explicitly references the application of lean (and agile) principles to portfolio management. It discusses key Lean concepts—waste reduction, small batch investments, reducing work-in-progress, focusing on value, and continuous improvement (experimentation, regular feedback, adaptiveness). Terminology such as 'reducing waste', 'eliminating non-value-adding activities', rapid feedback cycles, and 'value stream-based organizations' ties to Lean's core definitions. However, the content is primarily branded as 'evidence-based portfolio management', with a strong grounding in Scrum and Agile, and only indirectly and moderately references Lean as a named approach, resulting in a slightly lower mention score. The content demonstrates a deep alignment with Lean's objectives of maximizing value, minimizing waste, process improvement, and frequent inspection/adaptation. The target audience fits Lean's: organizational strategists, leaders, and practitioners. There are no significant off-topic sections, filler, or outdated information. No penalties were needed. Overall, the fit is strong and clear, but with some Lean references implied more than directly named or explicated in classic Lean tool terms.",
+    "reasoning_summary": "The content closely aligns with Lean on waste reduction, continuous improvement, rapid feedback, and value focus, but explicitly names Lean only moderately and mainly frames discussion via evidence-based management. Strong Lean fit, but partial in naming.",
+    "level": "Primary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1168,13 +1188,23 @@
     "level": "Ignored"
   },
   "Flow Efficiency": {
+    "resourceId": "KD08D48Weks",
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T14:00:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices for achieving business agility, rather than focusing on flow efficiency or optimising work throughput.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:32",
+    "ai_confidence": 72.01,
+    "ai_mentions": 2.4,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.9,
+    "ai_intent": 7.3,
+    "ai_audience": 7.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content on evidence-based portfolio management (EBM-PM) frequently aligns with principles of flow efficiency—especially the emphasis on limiting work in progress (WIP), reducing multitasking, using Lean/Agile principles, and optimizing team throughput. Key passages explicitly discuss eliminating excess WIP and finishing work faster by focusing on fewer items, resonating with value stream flow efficiency. However, explicit, repeated use of the term 'flow efficiency' is limited: direct mentions are minimal and most discussion is at a portfolio/system level rather than at the terminology or metric-level focus common in classic flow efficiency cases (e.g., cycle/lead time, bottleneck analysis, Kanban boards). There is some discussion of continuous improvement loops, capacity management, and empirical feedback, all foundational to flow, but framed under the umbrella of portfolio/investment agility rather than specifically managing and measuring flow in detail. The audience targeting (agile leaders, executives, teams) matches well, and the intent supports portfolio-level throughput, but some content is broader (goal measurement, investment cycles, business agility) than flow efficiency per se, slightly diluting the overall signal. No penalties were necessary, as the practices and framing are up-to-date and not critical of flow efficiency concepts.",
+    "reasoning_summary": "Content aligns with flow efficiency via strong themes of WIP reduction, team throughput, and Lean/Agile application, but flow efficiency is not the exclusive focus. Fit is substantive but indirect; key topics are present though direct/explicit references are limited.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "resourceId": "KD08D48Weks",
@@ -1208,13 +1238,23 @@
     "level": "Secondary"
   },
   "Systems Thinking": {
+    "resourceId": "KD08D48Weks",
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-12T14:00:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices rather than Systems Thinking principles or applications.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:28:15",
+    "ai_confidence": 46.18,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.7,
+    "ai_intent": 4.6,
+    "ai_audience": 6.2,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content provides a comprehensive discussion of evidence-based portfolio management in agile contexts, focusing on iterative, feedback-driven approaches and organizational adaptation. While it explores interdependencies, feedback loops, continual learning, and high-level organizational complexity, it never directly mentions 'Systems Thinking' or any of its key frameworks (e.g., causal loop diagrams, Cynefin, SSM). The discussion orbits the periphery of Systems Thinking, reflecting some key principles (e.g., focusing on value, holistic organization goals, tackling complexity, use of iterative feedback), but it is not explicitly framed around foundational Systems Thinking concepts, nor does it delve into techniques for mapping/analyzing systems or interconnectivity in the classical sense. The main purpose is to describe agile-based portfolio investment management, not to educate on Systems Thinking specifically. The primary audience (agile leaders, managers, teams) is similar to that targeted by Systems Thinking materials, and the content is highly focused and relevant to agile business change. However, the lack of direct citation, frameworks, or explicit mapping to Systems Thinking results in only partial, implicit conceptual overlap.",
+    "reasoning_summary": "The content addresses organizational complexity, interdependencies, and iterative adaptation, aligning partially with Systems Thinking concepts, yet lacks explicit references, frameworks, or depth specific to Systems Thinking as defined.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "resourceId": "KD08D48Weks",

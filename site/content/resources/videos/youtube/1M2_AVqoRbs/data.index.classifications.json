@@ -1101,13 +1101,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Personal",
-    "calculated_at": "2025-02-13T19:48:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications for value delivery, lacking personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 81.225,
+    "ai_mentions": 7.9,
+    "ai_alignment": 8.8,
+    "ai_depth": 8.6,
+    "ai_intent": 8.1,
+    "ai_audience": 8.3,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content is deeply informed by the author's personal perspective, explicitly using 'I believe' and 'when I reflect on my experiences…', offering subjective insight into technical debt's impact on team morale, innovation, and value. Concrete anecdotes about team struggles and practical strategies drawn from personal experience (such as reviewing debt regularly or fostering open communication) align with the 'Personal' category definition. The content avoids abstract theory or technical analysis, focusing instead on personal interpretation, team observations, and tailored advice to Agile practitioners wrestling with similar issues. Direct use of first-person framing and a clear orientation toward sharing learned lessons bolster personal alignment. The only caveats are that while the article is highly reflective, there could be even deeper anecdotal narratives or more explicit stories; however, the overall thematic and intent fit the Personal category strongly with sustained focus.",
+    "reasoning_summary": "This content is strongly Personal, grounded in the author's reflections and personal insights into managing technical debt, sharing subjective experiences and lessons relevant to Agile, Scrum, and DevOps practitioners.",
+    "level": "Primary"
   },
   "Product Delivery": {
     "resourceId": "1M2_AVqoRbs",
@@ -1129,13 +1139,23 @@
     "level": "Secondary"
   },
   "Market Adaptability": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-13T19:48:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its impact on delivering value, without a clear focus on market adaptability strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:45",
+    "ai_confidence": 73.633,
+    "ai_mentions": 4.7,
+    "ai_alignment": 8.2,
+    "ai_depth": 7.7,
+    "ai_intent": 7.8,
+    "ai_audience": 7.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "The content discusses technical debt in the context of boosting innovation, agile development, and adaptability to market change. It links quality and continuous improvement to a team's ability to respond rapidly, explicitly referencing enhanced agility and adaptability as key outcomes of tackling technical debt. However, while themes of market adaptability, agility, and responsiveness are present, the main focus is on engineering practice reform. Direct mentions of 'Market Adaptability' are implicit but not explicit, and some strategies cited (like refactoring and stakeholder education) are addressed more from an internal process/value delivery standpoint than from direct market response. The alignment is strong but not perfect, and the depth reflects solid but not exhaustive exploration of the topic's market-facing dimension.",
+    "reasoning_summary": "The content aligns well with Market Adaptability by connecting technical debt management to improved agility, innovation, and value delivery. However, it approaches the topic mainly from an internal process and engineering perspective rather than explicit market adaptation.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1150,12 +1170,22 @@
     "level": "Ignored"
   },
   "Decision Theory": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-13T19:48:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications for value delivery, without a focus on decision-making processes or uncertainty.",
+    "calculated_at": "2025-08-07T09:25:45",
+    "ai_confidence": 29.55,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.7,
+    "ai_depth": 2.9,
+    "ai_intent": 3.2,
+    "ai_audience": 6.6,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on technical debt, quality, and team empowerment in Agile contexts. It discusses decision-making at a high level (e.g., prioritizing technical debt, educating stakeholders) but does not mention Decision Theory or its frameworks, heuristics, or probabilistic analysis. There is no direct exploration of decision-making under uncertainty or usage of decision science tools. The alignment with Decision Theory is tangential, as decisions are discussed only as a part of technical practices. The audience fits practitioners who could benefit if Decision Theory were covered, but the focus is mostly technical and cultural, not theoretical or analytical. No penalties were applied as tone and currency were appropriate.",
+    "reasoning_summary": "The content focuses on managing technical debt in Agile, with only tangential links to decision-making processes. It does not explore Decision Theory, its frameworks, or core topics, so the fit with the category is weak and indirect.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -1180,13 +1210,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-13T19:48:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical debt and its implications for value delivery, without directly addressing the stages or practices of Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:25:42",
+    "ai_confidence": 63.71,
+    "ai_mentions": 2.4,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.9,
+    "ai_intent": 7.1,
+    "ai_audience": 7.7,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "Direct category mentions are absent—the topic is technical debt in agile/dev teams, not ALM per se; however, technical debt management is an important topic within ALM since it impacts maintainability, quality, and lifecycle sustainability. Alignment is moderate-high as strategies discussed (e.g., prioritising technical debt, incorporating it into sprints, stakeholder communication) are adjacent to lifecycle management, though the lens is product/team-focused rather than governance across the entire lifecycle. Depth is respectable with actionable strategies and consequences explored, but there is no mention of ALM frameworks, stages, or formal best practices. The intent is to improve delivery and innovation by addressing technical debt, fitting an ALM interest group but without explicit lifecycle framing. The audience appears to be practitioners and leaders—roughly matching the category's targets. Signal is good; the content is focused throughout, though peripherally targeted. No penalties were necessary as the content is neither outdated nor contradictory.",
+    "reasoning_summary": "The content focuses on technical debt and quality in agile teams, which aligns with aspects of ALM but doesn’t directly cover its core practices or stages. The fit is partial: relevant to ALM, but not a primary or explicit match.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

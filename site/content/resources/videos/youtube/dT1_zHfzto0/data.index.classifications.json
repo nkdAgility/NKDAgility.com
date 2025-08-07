@@ -12,13 +12,23 @@
     "level": "Secondary"
   },
   "Engineering Excellence": {
+    "resourceId": "dT1_zHfzto0",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T17:16:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and organisational changes rather than engineering practices or software craftsmanship.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:23",
+    "ai_confidence": 63.37,
+    "ai_mentions": 1.8,
+    "ai_alignment": 7.2,
+    "ai_depth": 7.4,
+    "ai_intent": 6.2,
+    "ai_audience": 6.7,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 63.0,
+    "reasoning": "While the content discusses Scrum adoption challenges, mindset, and organisational change, it does not directly address key engineering excellence themes like code quality, CI/CD, technical debt, or software craftsmanship. Discussion of continuous improvement and customer value provides limited conceptual overlap. No direct mention of 'engineering excellence'; main thrust is at an organisational and team process adoption level. The intended audience is partially technical, but focus is more on change management than engineering practices.",
+    "reasoning_summary": "Partial fit: The piece focuses on holistic Scrum adoption, agile mindset, and organisational change—not core engineering practices. There's limited relevance to engineering excellence, mostly through continuous improvement and delivery cadence.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -391,12 +401,22 @@
     "level": "Secondary"
   },
   "Flow Efficiency": {
+    "resourceId": "dT1_zHfzto0",
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges organizations face with Scrum adoption rather than focusing on flow efficiency principles or practices.",
+    "calculated_at": "2025-08-07T09:26:16",
+    "ai_confidence": 23.46,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.7,
+    "ai_audience": 8.1,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content critiques common failures in Scrum adoption, focusing on mindset and holistic change rather than only team-level implementation. While it mentions continuous improvement and delivery cadence, it never directly discusses flow efficiency, bottlenecks, throughput, value stream, WIP limits, cycle/lead time, or related metrics/tools. The main intent is broader agile mindset adoption, not directly optimizing workflow. It is written for Scrum/Agile practitioners, matching the likely audience, and is highly focused with little off-topic noise. However, discussion relevant to flow efficiency is tangential at best.",
+    "reasoning_summary": "The content broadly addresses Scrum challenges and the need for holistic, organisational change, but does not directly discuss or deeply explore flow efficiency, its metrics, or optimisation of throughput. Fit is only tangential.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -604,13 +624,23 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "dT1_zHfzto0",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on customer retention strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:51",
+    "ai_confidence": 56.837,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.6,
+    "ai_intent": 6.1,
+    "ai_audience": 8.3,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses why many organizations fail with Scrum, focusing on the need for holistic, organization-wide change and agile mindset. While customer-centricity and regular delivery of value are mentioned, the main theme addresses agile transformation pitfalls, not explicit customer retention strategies. Only limited references relate to engaging customers by delivering value, lacking detailed exploration of retention metrics, feedback loops, or concrete retention techniques. The audience fits practitioners/leaders interested in agile success. Signal is reasonably focused but not always on customer retention. No penalties applied as the information is current and not critical in tone.",
+    "reasoning_summary": "The piece stresses holistic agile adoption for delivering value to customers, but does not focus in depth on customer retention strategies, metrics, or feedback. Partial and indirect fit with the category, mostly via alignment to delivering ongoing customer value.",
+    "level": "Tertiary"
   },
   "Continuous Delivery": {
     "resourceId": "dT1_zHfzto0",
@@ -986,13 +1016,23 @@
     "level": "Secondary"
   },
   "Empirical Process Control": {
+    "resourceId": "dT1_zHfzto0",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal opinions on the success rate of organizations using Scrum and critiques a focus on mechanisms rather than holistic changes, which does not centralize on empirical process control principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:26",
+    "ai_confidence": 69.27,
+    "ai_mentions": 2.5,
+    "ai_alignment": 7.2,
+    "ai_depth": 7.0,
+    "ai_intent": 7.3,
+    "ai_audience": 8.4,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "Direct, explicit references to 'Empirical Process Control' are absent, but Ken Schwaber—a core figure—and key related themes (adapting, inspection, continuous improvement, mindset, holistic change) strongly align with empirical principles in Scrum. The primary focus is on why Scrum implementations fail, mainly due to a lack of organizational mindset and embracing change, and outlines practices like continuous improvement, management buy-in, and regular adaptation, all of which are central to empirical process control. However, the text does not deeply analyze empirical process control per se and occasionally uses adjacent concepts (like mindset and holistic change) without always tying them explicitly back to transparency, inspection, and adaptation as defined. The audience is practitioners and leaders involved in Agile/Scrum implementations, consistent with the category's scope. No penalties are warranted—no outdated/contradictory content is present. The confidence score is partial but significant due to strong conceptual alignment and pragmatic recommendations, even though explicit terminology and deep theoretical exploration are somewhat lacking.",
+    "reasoning_summary": "Content emphasizes the need for continuous improvement, organizational adaptation, and mindset over mere process—highly aligned with empirical process control principles, though explicit terminology/depth are moderate, making the fit substantial but not complete.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",

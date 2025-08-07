@@ -12,13 +12,23 @@
     "level": "Secondary"
   },
   "Engineering Excellence": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T17:11:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of doing less work for more value, which is not directly related to engineering excellence or software craftsmanship.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:33",
+    "ai_confidence": 66.98,
+    "ai_mentions": 1.3,
+    "ai_alignment": 7.8,
+    "ai_depth": 6.7,
+    "ai_intent": 7.0,
+    "ai_audience": 8.2,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content explicitly links 'less is more' to Agile principles that improve quality and productivity—core concerns of Engineering Excellence. It discusses practices like backlog refinement and focusing on value, which are conceptually aligned but addresses process efficiency more than deep engineering standards (e.g., code, automation). There are implicit connections to engineering excellence—improved quality, reduced waste, and enhanced output—but no direct mention of engineering practices such as coding standards, code reviews, or technical debt. The depth is moderate: the article explores strategic focus and workflow optimization but does not delve deeply into technical craftsmanship or established engineering metrics. The intended audience appears to be Agile teams and practitioners, which aligns well, though it's slightly more process-focused than practitioner-centric engineering content. No penalties applied: the content is reasonably current and supportive of the category.",
+    "reasoning_summary": "The topic strongly aligns with engineering excellence themes (quality, productivity, process improvement), but focuses more on Agile process efficiency than deep technical practices. Fit is good but not complete; engineering aspects are mostly implicit.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -45,13 +55,23 @@
     "level": "Tertiary"
   },
   "Leadership": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:11:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of 'less is more' without a clear focus on leadership practices or strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:19",
+    "ai_confidence": 44.797,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.4,
+    "ai_depth": 3.9,
+    "ai_intent": 5.0,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content centers on Agile principles about focus and value delivery ('less is more'), but does not explicitly discuss leadership roles, behaviors, or frameworks. Leadership is implied in the sense of guiding team priorities, but the main ideas revolve around team-level Agile practices like backlog refinement and sprint focus. There are no direct references to leaders, leadership decision-making, or the cultural/organizational change aspects typical of Leadership as defined in the classification. The intent and audience moderately overlap, as Scrum Masters, product owners, or team leads may be interested, but the depth of leadership coverage is shallow.",
+    "reasoning_summary": "Only superficial fit for Leadership: the content focuses on Agile team practices, not on leadership roles, approaches, or frameworks. Any leadership link is indirect or implied, so confidence in this category is low.",
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -163,13 +183,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and concepts such as 'less is more' and maximizing work value, which do not directly address software craftsmanship or technical practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:19",
+    "ai_confidence": 59.6,
+    "ai_mentions": 2.1,
+    "ai_alignment": 6.4,
+    "ai_depth": 5.8,
+    "ai_intent": 6.7,
+    "ai_audience": 7.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content focuses on 'less is more' in Agile, emphasizing value, productivity, and quality. While it references improvement in product quality and streamlined workflows, it lacks explicit coverage of core Technical Mastery topics like software engineering practices, clean code, or technical debt. The discussion centers on prioritization, workflow optimization, and team focus, with only indirect reference to engineering excellence. The target audience is likely Agile practitioners and teams, somewhat overlapping with the category, but intent and alignment are partial since the emphasis is on Agile mindset/adoption rather than explicit technical craftsmanship. Depth is limited to high-level concepts with little substantive exploration of architecture, code quality, or DevOps.",
+    "reasoning_summary": "This content partially fits 'Technical Mastery' by highlighting Agile practices for quality and value but lacks direct focus on core engineering or software craftsmanship topics, resulting in only moderate conceptual and intent alignment.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "V88FjP9f7_0",
@@ -1358,13 +1388,23 @@
     "level": "Ignored"
   },
   "Strategic Goals": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of 'less is more' without articulating clear long-term objectives or strategic goals.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:26:36",
+    "ai_confidence": 63.75,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 5.5,
+    "ai_intent": 6.1,
+    "ai_audience": 6.4,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content focuses on Agile's 'less is more' principle, emphasizing value delivery, waste reduction, and workflow optimization. While these ideas align with strategic focus in Agile, the content does not specifically discuss long-term organizational objectives, frameworks for strategic goal-setting, or their measurement. The closest it gets to the category is in the concluding note about 'strategic focus,' but strategic goals as defined (long-term objectives, competitive advantage, evidence-based management) are not directly explored. The audience is Agile practitioners, which is reasonably aligned, and the content signal is strong, but lack of explicit or deep discussion on strategic goal-setting frameworks and long-term orientation prevents a higher score.",
+    "reasoning_summary": "The content aligns partially by stressing strategic focus in Agile, but it lacks explicit discussion of long-term objectives or strategic goal-setting frameworks. Fit is partial; the main emphasis is on operational value and workflow efficiency, not on formal strategic goals.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "resourceId": "V88FjP9f7_0",

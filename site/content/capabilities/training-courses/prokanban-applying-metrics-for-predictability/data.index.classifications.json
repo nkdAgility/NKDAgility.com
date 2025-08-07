@@ -42,13 +42,23 @@
     "level": "Tertiary"
   },
   "Leadership": {
+    "resourceId": "dnZMM8p0lC4",
     "category": "Leadership",
-    "calculated_at": "2025-02-18T00:01:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting rather than leadership practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:49",
+    "ai_confidence": 42.016,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 4.0,
+    "ai_intent": 4.0,
+    "ai_audience": 6.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses squarely on metrics, analytics, and forecasting techniques in agile/lean projects. While executives and managers are mentioned in the target audience, leadership as a concept is not directly referenced or substantively discussed. There is no exploration of adaptive leadership styles, strategic leadership responsibilities, or frameworks guiding leaders in transformation. The intent is practical (how to use metrics for prediction), not about leadership behaviors or philosophy. The audience partially overlaps with leadership roles, but the main content is technical/managerial. Signal-to-noise ratio is fair; content stays on topic but not on leadership per se.",
+    "reasoning_summary": "The content provides agile metric and analytics guidance, relevant to some leaders but not explicitly about leadership practices, strategies, or frameworks. Its alignment with the Leadership category is partial and tangential.",
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -577,12 +587,22 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "dnZMM8p0lC4",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting for project management, rather than strategies for customer retention.",
+    "calculated_at": "2025-08-07T09:27:39",
+    "ai_confidence": 14.25,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 2.0,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on agile metrics, flow analytics, project predictability, and risk management, aiming to improve forecasting and decision-making in agile projects. Nowhere does it reference customer retention, satisfaction, engagement, or user-centric strategies. Metrics discussed pertain to process efficiency, not continuous value delivery or minimising churn. Audience is general agile practitioners, not specifically oriented towards customer-centric roles or retention topics. Thus, fit with the customer retention category is minimal and only tangential if metrics are ever indirectly used for customer experience outcomes.",
+    "reasoning_summary": "Content is about agile metrics for predictability, risk, and project flow—not customer retention. No mention of retention, engagement, or user-centric evolution. Fit with category is negligible and only possible through extremely indirect links.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
@@ -725,13 +745,23 @@
     "level": "Ignored"
   },
   "Transparency": {
+    "resourceId": "dnZMM8p0lC4",
     "category": "Transparency",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on agile metrics and forecasting, which does not directly address the theme of transparency in Agile processes.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:54",
+    "ai_confidence": 51.421,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.3,
+    "ai_intent": 5.1,
+    "ai_audience": 8.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "The content centers on agile metrics, flow analytics, and predictability. While these tools (like CFDs, WIP, cycle time) are strongly associated with increasing visibility in Agile, the explicit focus is on predictability and risk management, not transparency as a primary intent. Transparency is certainly touched via outcomes like 'data-driven decisions' and by teaching tools commonly used to create visible progress. However, there are no direct or frequent mentions of transparency, nor an in-depth discussion of its role, practices, or challenges as a major topic. The course is highly relevant for practitioners where transparency is a baseline value, but it is not the stated or core theme.",
+    "reasoning_summary": "Content focuses on metrics and predictability, with transparency an implicit but not explicit or central theme. It aligns partially with the category via tools fostering visibility, but lacks depth or direct discussion specific to transparency.",
+    "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -1134,13 +1164,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "dnZMM8p0lC4",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting in a course format, with no clear connection to the stages or practices of application lifecycle management.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T09:27:52",
+    "ai_confidence": 42.108,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.8,
+    "ai_intent": 3.9,
+    "ai_audience": 7.1,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on agile metrics, project predictability, and risk management through flow analytics and Monte Carlo simulations. While these practices can play a supporting role in Application Lifecycle Management (ALM), the course's core material is aimed at project management and improvement of project flow, with no direct mention of software application lifecycle stages, ALM tools, governance frameworks, or integrating Agile/DevOps in ALM. The depth of metrics discussion is solid, but it's applied to generic project contexts, not the management of application lifecycles. Thus, there is a partial but not strong conceptual overlap with ALM, mainly in performance measurement and risk management, but it lacks explicit ALM discussion, frameworks, or tooling.",
+    "reasoning_summary": "The course addresses agile/project metrics and risk management, which are somewhat relevant to ALM, but does not directly discuss managing software applications across their lifecycle. The fit is partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
