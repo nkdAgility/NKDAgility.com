@@ -5,7 +5,7 @@ description: Is your engineering culture built to thrive on change? Discover how
 tldr: Engineering teams need a culture that embraces and adapts to change, not just one that reacts to emergencies or chases trends. The most effective teams learn quickly, reflect on their practices, and align with business goals, making continuous improvement and evidence-based decisions part of their routine. Development managers should focus on building a learning culture that expects and measures adaptation, ensuring teams remain resilient and relevant as technology evolves.
 date: 2025-06-20T06:00:51Z
 lastmod: 2025-06-20T06:00:51Z
-weight: 285
+weight: 270
 sitemap:
   filename: sitemap.xml
   priority: 0.5

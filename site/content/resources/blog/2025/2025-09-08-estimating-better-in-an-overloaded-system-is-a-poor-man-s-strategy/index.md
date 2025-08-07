@@ -21,8 +21,8 @@ concepts:
   - Practice
 categories:
   - Product Development
-  - Kanban
   - Engineering Excellence
+  - Kanban
 tags:
   - Flow Efficiency
   - Software Development

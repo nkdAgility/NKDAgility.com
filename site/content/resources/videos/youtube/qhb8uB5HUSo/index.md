@@ -5,10 +5,10 @@ description: Struggling with tech change? Discover how clarity, evidence, and cu
 tldr: CTOs should focus on what matters by making work systems visible, using evidence to guide decisions, and fostering a resilient, adaptable culture rather than chasing every new trend. Building clarity, confidence, and the right team habits enables better alignment with business goals and reduces stress. Consider partnering with an experienced coach to help navigate change and build a system that evolves with your needs.
 date: 2025-07-18T06:00:00Z
 lastmod: 2025-07-18T06:00:00Z
-weight: 365
+weight: 330
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.5
   changefreq: monthly
 ResourceId: qhb8uB5HUSo
 ResourceImport: true

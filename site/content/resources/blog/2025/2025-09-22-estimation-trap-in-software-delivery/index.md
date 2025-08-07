@@ -39,9 +39,9 @@ tags:
   - Evidence Based Leadership
   - Agile Strategy
   - Metrics and Learning
+  - Pragmatic Thinking
   - Decision Making
   - Evidence Based Management
-  - Pragmatic Thinking
   - Operational Practices
   - Software Development
   - Value Delivery

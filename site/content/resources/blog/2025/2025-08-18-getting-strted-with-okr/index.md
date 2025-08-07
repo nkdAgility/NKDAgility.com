@@ -18,7 +18,7 @@ slug: getting-started-with-objectives-key-results
 aliases:
   - /resources/bpRR4ieKvr3
 concepts:
-  - Strategy
+  - Practice
 categories:
   - Product Development
   - Product Management

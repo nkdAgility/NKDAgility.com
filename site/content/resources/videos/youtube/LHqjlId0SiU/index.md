@@ -45,10 +45,10 @@ tags:
   - Professional Scrum
   - Business Agility
   - Market Adaptability
-  - Agile Strategy
   - Social Technologies
   - Agile Product Management
   - Agile Transformation
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T18:57:16Z
   short_title: 2025-07-07T16:43:15Z

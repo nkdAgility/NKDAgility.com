@@ -5,10 +5,10 @@ description: Stop guessing—start making data-driven decisions in Azure DevOps.
 tldr: Relying on gut feeling leads to mediocre results, so making work visible with real data is essential for improvement. Azure DevOps provides a strong data foundation but its built-in metrics and visualisations are basic; using tools like Flow Viz or Actionable Agile Metrics gives deeper insights and actionable flow data. To drive better outcomes, move from guesswork to evidence-based decisions by leveraging these tools to make your team’s work and bottlenecks visible.
 date: 2025-08-25T06:00:00Z
 lastmod: 2025-08-25T06:00:00Z
-weight: 120
+weight: 220
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.6
   changefreq: monthly
 ResourceId: fvSZSSSjnyI
 ResourceImport: true
@@ -29,19 +29,19 @@ concepts:
 categories:
   - DevOps
   - Engineering Excellence
-  - Technical Leadership
+  - Kanban
 tags:
   - Azure DevOps
   - Software Development
   - Flow Efficiency
   - Time to Market
+  - Transparency
   - Metrics and Learning
   - Pragmatic Thinking
   - Operational Practices
   - Team Performance
   - Product Delivery
   - Value Delivery
-  - Transparency
   - Lead Time
   - Cycle Time
   - Technical Mastery

@@ -29,10 +29,10 @@ concepts:
 categories:
   - Technical Leadership
 tags:
+  - Evidence Based Leadership
   - Pragmatic Thinking
   - Decision Making
   - Metrics and Learning
-  - Evidence Based Leadership
   - Product Strategy
   - Agile Strategy
   - Decision Theory

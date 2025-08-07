@@ -2,13 +2,13 @@
 title: 'Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence'
 short_title: Engineering Excellence Consulting in EST
 description: 'Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery'
-tldr: Martin Hinshelwood is now available in Eastern Standard Time to help North American based software teams improve engineering excellence by addressing issues like harmful estimation practices and metric gaming. Key insights include the dangers of focusing on estimate accuracy, which leads to fear and hidden problems, and the benefits of shifting to evidence-based delivery systems that prioritize real value and flow. Development managers are encouraged to book a free 30-minute call to identify and address delivery bottlenecks and move beyond ineffective rituals.
+tldr: Martin Hinshelwood is now available in Eastern Standard Time to help North American based software teams improve engineering excellence. Development managers are encouraged to book a free 30-minute call to identify and address delivery bottlenecks and move beyond ineffective rituals.
 date: 2025-08-07T09:00:00Z
 lastmod: 2025-08-07T09:00:00Z
-weight: 1000
+weight: 155
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.7
   changefreq: weekly
 author: MrHinsh
 ResourceId: WEqwDQVsOIa
@@ -23,8 +23,18 @@ aliasesArchive:
 layout: newsletter
 concepts: []
 categories:
-  - Uncategorized
-tags: []
+  - Product Development
+  - Engineering Excellence
+  - Technical Leadership
+tags:
+  - Software Development
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Delivery
+  - Metrics and Learning
+  - Value Delivery
+  - Empirical Process Control
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T12:48:55Z
   tldr: 2025-08-07T13:15:42Z

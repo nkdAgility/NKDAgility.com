@@ -32,18 +32,18 @@ categories:
   - Product Development
 tags:
   - Technical Excellence
+  - Value Delivery
   - Software Development
+  - Continuous Improvement
   - Product Delivery
   - Pragmatic Thinking
   - Market Adaptability
   - Technical Mastery
   - Azure DevOps
-  - Value Delivery
   - Continuous Learning
   - Operational Practices
   - Organisational Agility
   - Engineering Practices
-  - Continuous Improvement
   - Empirical Process Control
   - Team Performance
 Watermarks:

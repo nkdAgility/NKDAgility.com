@@ -32,6 +32,7 @@ categories:
 tags:
   - Azure DevOps
   - Software Development
+  - Pragmatic Thinking
   - Operational Practices
   - Application Lifecycle Management
   - Transparency

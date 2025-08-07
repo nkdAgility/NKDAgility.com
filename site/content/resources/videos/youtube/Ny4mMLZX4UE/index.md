@@ -38,11 +38,11 @@ tags:
   - Technical Excellence
   - Automated Testing
   - Operational Practices
-  - Test First Development
   - Continuous Delivery
   - Test Automation
   - Value Delivery
   - Product Delivery
+  - Test First Development
   - Team Performance
   - Pragmatic Thinking
   - Continuous Integration

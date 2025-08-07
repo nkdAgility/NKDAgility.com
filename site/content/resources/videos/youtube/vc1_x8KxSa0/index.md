@@ -31,8 +31,8 @@ categories:
   - Technical Leadership
   - DevOps
 tags:
-  - Software Development
   - Organisational Culture
+  - Software Development
   - Continuous Improvement
   - Technical Mastery
   - Organisational Change

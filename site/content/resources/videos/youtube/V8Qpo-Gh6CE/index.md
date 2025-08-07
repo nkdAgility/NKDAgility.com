@@ -44,9 +44,9 @@ tags:
   - Market Adaptability
   - Business Agility
   - Pragmatic Thinking
-  - Agile Strategy
   - Agile Product Management
   - Professional Scrum
+  - Agile Strategy
   - Agile Philosophy
   - Social Technologies
   - Software Development

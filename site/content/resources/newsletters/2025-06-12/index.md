@@ -25,6 +25,7 @@ categories:
   - Technical Leadership
 tags:
   - Operational Practices
+  - Product Delivery
   - Software Development
   - Technical Excellence
   - Technical Mastery

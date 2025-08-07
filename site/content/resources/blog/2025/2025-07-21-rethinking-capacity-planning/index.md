@@ -29,6 +29,7 @@ categories:
   - Product Development
   - Lean
 tags:
+  - Empirical Process Control
   - Flow Efficiency
   - Lean Principles
   - Lean Thinking
@@ -43,7 +44,6 @@ tags:
   - Portfolio Management
   - Product Delivery
   - Systems Thinking
-  - Team Performance
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z

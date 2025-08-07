@@ -5,10 +5,10 @@ description: Is legacy tech slowing your team? Discover how removing friction un
 tldr: Legacy systems are only a problem when they create friction that slows delivery, increases fragility, and blocks innovation. The real issue is not system age but lack of ongoing maintenance and improvement, which leads to bottlenecks for both engineers and management. To accelerate agile delivery, focus on identifying and removing friction points, prioritising continuous improvement, and communicating the value of these efforts to the business.
 date: 2025-07-14T06:00:00Z
 lastmod: 2025-07-14T06:00:00Z
-weight: 315
+weight: 230
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ResourceId: aN0ODVdECUw
 ResourceImport: true
