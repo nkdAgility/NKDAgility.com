@@ -869,7 +869,7 @@ function Get-CatalogItemsToRefreshOrGet {
             $CatalogFromCache.GetEnumerator() |
             ForEach-Object { $_.Value } |
             Where-Object { 
-                $_.final_score -gt $watermarkScoreLimit -and 
+                ($_.final_score -gt $watermarkScoreLimit -or -not $_.PSObject.Properties['reasoning_summary']) -and 
                 [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
             } |
             Sort-Object { [DateTimeOffset]$_.calculated_at } |
