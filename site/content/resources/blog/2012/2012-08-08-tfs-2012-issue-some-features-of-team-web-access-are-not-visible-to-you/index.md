@@ -1,36 +1,39 @@
 ---
 title: 'TFS 2012 Issue: Some features of Team Web Access are not visible to you'
 description: Explains why some Team Web Access features in TFS 2012 may be hidden due to licence restrictions and how to assign users to the correct access groups for full functionality.
+date: 2012-08-08
+lastmod: 2012-08-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: bqwr6oBwO6C
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7094
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliases:
-- /resources/bqwr6oBwO6C
+  - /resources/bqwr6oBwO6C
 aliasesArchive:
-- /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
-- /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
-- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-tags:
-- Troubleshooting
-- Install and Configuration
+  - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+  - /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+  - /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+  - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+  - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:19Z
-concepts: []
+ResourceImportId: 7094
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-5-5.png
 
 ---
 The first time you log into TFS 2012 you may see the message “Some features of Team Web Access are not visible to you” and once you check out the details you see that “In order to use all the features of Team Web Access, you must have the correct license and configuration. For more information”.

@@ -1,35 +1,38 @@
 ---
 title: Visual Studio 2010 Overview - Microsoft Test Manager
 description: Covers using Microsoft Test Manager with Visual Studio 2010 and TFS to create, run, and manage manual and automated tests, including real-time test data collection.
+date: 2012-01-31
+lastmod: 2012-01-31
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6a-Qtjtf94G
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4189
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-31
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-overview-microsoft-test-manager
 aliases:
-- /resources/6a-Qtjtf94G
+  - /resources/6a-Qtjtf94G
 aliasesArchive:
-- /blog/visual-studio-2010-overview-microsoft-test-manager
-- /visual-studio-2010-overview-microsoft-test-manager
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---microsoft-test-manager
-- /blog/visual-studio-2010-overview---microsoft-test-manager
-- /resources/blog/visual-studio-2010-overview-microsoft-test-manager
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/visual-studio-2010-overview-microsoft-test-manager
+  - /visual-studio-2010-overview-microsoft-test-manager
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---microsoft-test-manager
+  - /blog/visual-studio-2010-overview---microsoft-test-manager
+  - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:37Z
-concepts: []
+ResourceImportId: 4189
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:

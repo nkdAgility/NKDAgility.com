@@ -1,35 +1,38 @@
 ---
 title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
 description: Learn how to grant users or groups access to TFS 2012 diagnostic activity logs for troubleshooting without full admin rights, using command-line permission settings.
+date: 2013-09-24
+lastmod: 2013-09-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8N31NtGZFyB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10002
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-09-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+slug: granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 aliases:
-- /resources/8N31NtGZFyB
+  - /resources/8N31NtGZFyB
 aliasesArchive:
-- /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-- /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-- /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
-- /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
-- /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-tags:
-- Troubleshooting
+  - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+  - /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+  - /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+  - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+  - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:23:05Z
-concepts: []
+ResourceImportId: 10002
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 In TFS 2012 the product team added a way to get to the tbl_Command information without needing to connect directly to the SQL Server and having access to the tables. This was an awesome add as being able to diagnose server issues and troubleshoot user reported problems makes us a little more efficient.

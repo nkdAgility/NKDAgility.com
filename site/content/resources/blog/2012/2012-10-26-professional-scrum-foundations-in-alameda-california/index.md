@@ -1,41 +1,44 @@
 ---
 title: Professional Scrum Foundations in Alameda, California
 description: Covers a two-day, hands-on Scrum.org course in Alameda, teaching Scrum principles, teamwork, and practical software delivery for all roles in the development process.
+date: 2012-10-26
+lastmod: 2012-10-26
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: If3c0gr1udB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8981
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-10-26
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-scrum-foundations-in-alameda-california
 aliases:
-- /resources/If3c0gr1udB
+  - /resources/If3c0gr1udB
 aliasesArchive:
-- /blog/professional-scrum-foundations-in-alameda-california
-- /professional-scrum-foundations-in-alameda-california
-- /professional-scrum-foundations-in-alameda,-california
-- /blog/professional-scrum-foundations-in-alameda,-california
-- /professional-scrum-foundations-in-alameda--california
-- /blog/professional-scrum-foundations-in-alameda--california
-- /resources/blog/professional-scrum-foundations-in-alameda-california
-tags:
-- Agile Frameworks
-- Professional Scrum
-- Software Development
-- Pragmatic Thinking
-- Product Delivery
+  - /blog/professional-scrum-foundations-in-alameda-california
+  - /professional-scrum-foundations-in-alameda-california
+  - /professional-scrum-foundations-in-alameda,-california
+  - /blog/professional-scrum-foundations-in-alameda,-california
+  - /professional-scrum-foundations-in-alameda--california
+  - /blog/professional-scrum-foundations-in-alameda--california
+  - /resources/blog/professional-scrum-foundations-in-alameda-california
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Scrum
+tags:
+  - Agile Frameworks
+  - Professional Scrum
+  - Software Development
+  - Pragmatic Thinking
+  - Product Delivery
 Watermarks:
   description: 2025-05-13T15:07:21Z
-concepts: []
+ResourceImportId: 8981
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 Professional Scrum Foundations is my favourite course to teach as it balances fun and learning with practical experience.The [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course is from [Scrum.org](http://scrum.org) and, over two days covers all of the core concepts of Scrum.

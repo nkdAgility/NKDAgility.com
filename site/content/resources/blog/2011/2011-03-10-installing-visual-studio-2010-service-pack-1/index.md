@@ -1,34 +1,37 @@
 ---
 title: Installing Visual Studio 2010 Service Pack 1
 description: Step-by-step guide to downloading and installing Visual Studio 2010 Service Pack 1, including update requirements, download size, install times, and troubleshooting tips.
+date: 2011-03-10
+lastmod: 2011-03-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tZ9fOZUusrh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9893
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-03-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2010-service-pack-1
 aliases:
-- /resources/tZ9fOZUusrh
+  - /resources/tZ9fOZUusrh
 aliasesArchive:
-- /blog/installing-visual-studio-2010-service-pack-1
-- /installing-visual-studio-2010-service-pack-1
-- /resources/blog/installing-visual-studio-2010-service-pack-1
-tags:
-- Install and Configuration
-- Windows
-preview: metro-visual-studio-2010-128-link-13-13.png
+  - /blog/installing-visual-studio-2010-service-pack-1
+  - /installing-visual-studio-2010-service-pack-1
+  - /resources/blog/installing-visual-studio-2010-service-pack-1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:11:02Z
-concepts: []
+ResourceImportId: 9893
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-13-13.png
 
 ---
 [![vs2010logo_thumb[1]](images/Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_thumb-11-11.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. This post seams almost redundant as I had no problems, but I think that is as valuable to other thinking of installing the Service Pack as all the problems that we sometimes get.

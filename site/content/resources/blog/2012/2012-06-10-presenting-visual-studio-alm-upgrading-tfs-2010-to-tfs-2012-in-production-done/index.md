@@ -1,37 +1,40 @@
 ---
 title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done
 description: Covers presenting Visual Studio ALM features and the process of upgrading from TFS 2010 to TFS 2012, including benefits, challenges, and key considerations for organisations.
+date: 2012-06-10
+lastmod: 2012-06-10
+weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: XVaSDKBKQvb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5432
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-10
-weight: 390
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+slug: presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 aliases:
-- /resources/blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /resources/XVaSDKBKQvb
+  - /resources/blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-done
+  - /resources/XVaSDKBKQvb
 aliasesArchive:
-- /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
-- /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
-- /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /resources/blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-done
-tags:
-- Software Development
+  - /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+  - /presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+  - /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
+  - /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
+  - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+  - /resources/blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-8-8.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:08:55Z
-concepts: []
+ResourceImportId: 5432
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---
 I was actually a little surprised by one of my customers this week. I was there to help them finalise their deployment of TFS 2010 (that they were currently using only for Source Control) and to present the features to them and ended up upgrading them to TFS 2012 as well!

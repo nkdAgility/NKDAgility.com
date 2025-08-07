@@ -1,37 +1,40 @@
 ---
 title: 'TFS Integration Tools - Issue: Sequence contains no elements'
 description: Explains how to resolve the "Sequence contains no elements" error in TFS Integration Tools by removing outdated TFS 2008 adapter files to prevent plugin loading issues.
+date: 2012-08-22
+lastmod: 2012-08-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 0vuwjXdRGyv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7377
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-integration-tools-issue-sequence-contains-no-elements
 aliases:
-- /resources/0vuwjXdRGyv
+  - /resources/0vuwjXdRGyv
 aliasesArchive:
-- /blog/tfs-integration-tools-issue-sequence-contains-no-elements
-- /tfs-integration-tools-issue-sequence-contains-no-elements
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--sequence-contains-no-elements
-- /blog/tfs-integration-tools---issue--sequence-contains-no-elements
-- /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/tfs-integration-tools-issue-sequence-contains-no-elements
+  - /tfs-integration-tools-issue-sequence-contains-no-elements
+  - /tfs-integration-tools
+  - /tfs-integration-tools---issue--sequence-contains-no-elements
+  - /blog/tfs-integration-tools---issue--sequence-contains-no-elements
+  - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-3-3.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:08:02Z
-concepts: []
+ResourceImportId: 7377
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-3-3.png
 
 ---
 According to [TFS Integration Tools – March 2012 Release](http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/tfs-integration-tools-march-2012-release.aspx) there was a fix for “Resolving VC namespace conflicts results in System.InvalidOperationException: Sequence contains no elements” in the March release. I am using the March release and:

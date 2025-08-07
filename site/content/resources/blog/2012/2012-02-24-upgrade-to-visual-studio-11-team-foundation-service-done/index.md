@@ -1,34 +1,37 @@
 ---
 title: Upgrade to Visual Studio 11 Team Foundation Service - Done
 description: Explains migrating source control and work item tracking to Visual Studio 11 Team Foundation Service, highlighting cloud benefits, limitations, and steps for a smooth upgrade.
+date: 2012-02-24
+lastmod: 2012-02-24
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: qZoGIj62YP4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4573
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-24
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrade-to-visual-studio-11-team-foundation-service-done
 aliases:
-- /resources/qZoGIj62YP4
+  - /resources/qZoGIj62YP4
 aliasesArchive:
-- /blog/upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service
-- /upgrade-to-visual-studio-11-team-foundation-service---done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
-- /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
-tags: []
+  - /blog/upgrade-to-visual-studio-11-team-foundation-service-done
+  - /upgrade-to-visual-studio-11-team-foundation-service-done
+  - /upgrade-to-visual-studio-11-team-foundation-service
+  - /upgrade-to-visual-studio-11-team-foundation-service---done
+  - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
+  - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:21Z
-concepts: []
+ResourceImportId: 4573
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.

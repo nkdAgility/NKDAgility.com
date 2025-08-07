@@ -1,35 +1,38 @@
 ---
 title: Woops I installed Windows 8 instead of Windows 8 Pro!
 description: Explains how to identify if you installed Windows 8 instead of Windows 8 Pro, the missing features, and how to upgrade to Pro without reinstalling the system.
+date: 2012-08-02
+lastmod: 2012-08-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: smxSz0q9Dlk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6938
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: woops-i-installed-windows-8-instead-of-windows-8-pro
 aliases:
-- /resources/smxSz0q9Dlk
+  - /resources/smxSz0q9Dlk
 aliasesArchive:
-- /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
-- /woops-i-installed-windows-8-instead-of-windows-8-pro
-- /woops-i-installed-windows-8-instead-of-windows-8-pro-
-- /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
-- /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
-tags:
-- Windows
-preview: nakedalm-windows-logo-7-7.png
+  - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+  - /woops-i-installed-windows-8-instead-of-windows-8-pro
+  - /woops-i-installed-windows-8-instead-of-windows-8-pro-
+  - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
+  - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T15:08:28Z
-concepts: []
+ResourceImportId: 6938
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-7-7.png
 
 ---
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.

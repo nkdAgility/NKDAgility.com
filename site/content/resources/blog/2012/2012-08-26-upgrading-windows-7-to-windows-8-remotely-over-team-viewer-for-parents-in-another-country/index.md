@@ -1,33 +1,36 @@
 ---
 title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country
 description: Step-by-step guide to upgrading a remote Windows 7 PC to Windows 8 using TeamViewer, including tips for handling compatibility, reboots, and helping family abroad.
+date: 2012-08-26
+lastmod: 2012-08-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ks6r6mfVUxy
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7712
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
-- /resources/Ks6r6mfVUxy
+  - /resources/Ks6r6mfVUxy
 aliasesArchive:
-- /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-- /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-- /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-tags:
-- Windows
+  - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+  - /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+  - /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-15-15.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T15:07:53Z
-concepts: []
+ResourceImportId: 7712
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-15-15.png
 
 ---
 Do you have parents that could not install an application let alone and operating system? Do they live in a country other than the one that you are currently in? Well mine do and the thing that helps me most in helping them is a little app called Team Viewer.

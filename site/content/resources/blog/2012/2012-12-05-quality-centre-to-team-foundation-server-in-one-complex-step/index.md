@@ -1,34 +1,37 @@
 ---
 title: Quality Centre to Team Foundation Server in one complex step
 description: Compares tools for migrating or synchronising data from HP Quality Centre to Team Foundation Server, outlining features, limitations, and best options for each approach.
+date: 2012-12-05
+lastmod: 2012-12-05
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: c2QQURpbvrm
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9170
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-12-05
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
 aliases:
-- /resources/c2QQURpbvrm
+  - /resources/c2QQURpbvrm
 aliasesArchive:
-- /blog/quality-centre-to-team-foundation-server-in-one-complex-step
-- /quality-centre-to-team-foundation-server-in-one-complex-step
-- /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
-tags:
-- Application Lifecycle Management
-- Software Development
+  - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
+  - /quality-centre-to-team-foundation-server-in-one-complex-step
+  - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-7-7.png
+  - Uncategorized
+tags:
+  - Application Lifecycle Management
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:07:06Z
-concepts: []
+ResourceImportId: 9170
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
 We have had a large number of customers over the years that desperately want to move from Quality Centre (now HP ALM) to… well… anything else to be honest. The current leader in the ALM space just happens to be my favourite tool, Team Foundation Server, and so I am continuously on the lookout for tools that can help us migrate from whatever the customer is using to Team Foundation Server.

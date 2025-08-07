@@ -1,34 +1,37 @@
 ---
 title: Using multiple email alias with your existing Microsoft ID
 description: Learn how to add, manage, and switch multiple email aliases on a single Microsoft ID, simplifying account access and reducing the need for multiple Microsoft accounts.
+date: 2014-04-16
+lastmod: 2014-04-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 3drabM1j0WE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10496
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-04-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: using-multiple-email-alias-existing-microsoft-id
+slug: using-multiple-email-alias-with-your-existing-microsoft-id
 aliases:
-- /resources/3drabM1j0WE
+  - /resources/3drabM1j0WE
 aliasesArchive:
-- /blog/using-multiple-email-alias-existing-microsoft-id
-- /using-multiple-email-alias-existing-microsoft-id
-- /using-multiple-email-alias-with-your-existing-microsoft-id
-- /blog/using-multiple-email-alias-with-your-existing-microsoft-id
-- /resources/blog/using-multiple-email-alias-existing-microsoft-id
-tags: []
+  - /blog/using-multiple-email-alias-existing-microsoft-id
+  - /using-multiple-email-alias-existing-microsoft-id
+  - /using-multiple-email-alias-with-your-existing-microsoft-id
+  - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
+  - /resources/blog/using-multiple-email-alias-existing-microsoft-id
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-7-7.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:58Z
-concepts: []
+ResourceImportId: 10496
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-7-7.png
 
 ---
 Did you know that you can have multiple email alias associated with an existing Microsoft ID (formally Live ID). The first thing that you should do if you receive a new email address, wither corporate or personal, is associate it with your current Microsoft ID.

@@ -1,33 +1,36 @@
 ---
 title: Upgrading from TFS 2008 to TFS 2010 Overview
 description: Guides the upgrade from TFS 2008 to TFS 2010, covering technical steps, process template migration, challenges, and best practices for a smooth transition.
+date: 2012-07-31
+lastmod: 2012-07-31
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: sN8_s0-PGBm
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6905
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-31
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-from-tfs-2008-to-tfs-2010-overview
 aliases:
-- /resources/sN8_s0-PGBm
+  - /resources/sN8_s0-PGBm
 aliasesArchive:
-- /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-- /upgrading-from-tfs-2008-to-tfs-2010-overview
-- /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-tags:
-- Software Development
+  - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
+  - /upgrading-from-tfs-2008-to-tfs-2010-overview
+  - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:08:32Z
-concepts: []
+ResourceImportId: 6905
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 I have not thought about an upgrade from TFS 2008 to TFS 2010 is quite a while as most if not all of my customers have already made the move to 2010. However one of my colleagues asked if I had done one recently and well… not in a while.

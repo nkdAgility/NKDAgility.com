@@ -1,34 +1,37 @@
 ---
 title: Project of Projects with team Foundation Server 2010
 description: Guidance on structuring projects in Team Foundation Server 2010 using Areas, Iterations, source code organisation, work item queries, and build naming for clarity and scalability.
+date: 2011-01-04
+lastmod: 2011-01-04
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: qiY3IH2aMYV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 18
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-01-04
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: project-of-projects-with-team-foundation-server-2010
 aliases:
-- /resources/qiY3IH2aMYV
+  - /resources/qiY3IH2aMYV
 aliasesArchive:
-- /blog/project-of-projects-with-team-foundation-server-2010
-- /project-of-projects-with-team-foundation-server-2010
-- /resources/blog/project-of-projects-with-team-foundation-server-2010
-tags:
-- Software Development
-- Azure DevOps
+  - /blog/project-of-projects-with-team-foundation-server-2010
+  - /project-of-projects-with-team-foundation-server-2010
+  - /resources/blog/project-of-projects-with-team-foundation-server-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-8-8.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Azure DevOps
 Watermarks:
   description: 2025-05-13T15:11:19Z
-concepts: []
+ResourceImportId: 18
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---
 It is pretty much [accepted that you should use Areas](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.

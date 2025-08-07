@@ -1,36 +1,39 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
 description: Guide to installing and running Android 2.2 (Froyo) on the HTC HD2, including setup steps, troubleshooting tips, and advice for optimising performance and battery life.
+date: 2010-09-02
+lastmod: 2010-09-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pEjQq9m7081
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 29
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-09-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
-- /resources/blog/running-android-2.2-frodo-on-your-hd2
-- /resources/pEjQq9m7081
+  - /resources/blog/running-android-2.2-frodo-on-your-hd2
+  - /resources/pEjQq9m7081
 aliasesArchive:
-- /blog/running-android-2-2-frodo-on-your-hd2
-- /running-android-2-2-frodo-on-your-hd2
-- /running-android-2-2-(frodo)-on-your-hd2
-- /blog/running-android-2-2-(frodo)-on-your-hd2
-- /resources/blog/running-android-2-2-frodo-on-your-hd2
-- /resources/blog/running-android-2.2-frodo-on-your-hd2
-tags: []
+  - /blog/running-android-2-2-frodo-on-your-hd2
+  - /running-android-2-2-frodo-on-your-hd2
+  - /running-android-2-2-(frodo)-on-your-hd2
+  - /blog/running-android-2-2-(frodo)-on-your-hd2
+  - /resources/blog/running-android-2-2-frodo-on-your-hd2
+  - /resources/blog/running-android-2.2-frodo-on-your-hd2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-android-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:21:35Z
-concepts: []
+ResourceImportId: 29
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-android-1-1.png
 
 ---
 ![image](images/RunningAndroid2.2FroDoonyourHD2_89C9-image_-6-6.png)While my HD2 was away getting fixed I had to slum it using an Android phone from Vodafone. It was a small cheap Vodafone 845 running Android 2.1 and you know what… I loved it.

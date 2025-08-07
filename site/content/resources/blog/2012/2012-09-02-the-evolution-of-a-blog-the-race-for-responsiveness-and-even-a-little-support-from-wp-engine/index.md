@@ -1,36 +1,39 @@
 ---
 title: The evolution of a blog, the race for responsiveness and even a little support from WP Engine
 description: Covers migrating a WordPress blog to improve speed and reliability, comparing hosts, plugin choices, and the impact of WP Engine’s support and performance features.
+date: 2012-09-02
+lastmod: 2012-09-02
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6-_05CBAsbh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8617
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-02
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliases:
-- /resources/6-_05CBAsbh
+  - /resources/6-_05CBAsbh
 aliasesArchive:
-- /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /blog/the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /blog/the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+  - /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-9-9.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:43Z
-concepts: []
+ResourceImportId: 8617
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-9-9.png
 
 ---
 [![WPEngine-Logo-300x125](images/WPEngine-Logo-300x125_thumb-11-11.jpg "WPEngine-Logo-300x125")](http://www.shareasale.com/r.cfm?b=394686&u=687520&m=41388&urllink=&afftrack=)You may have noticed a little down time today. Thanks to the folks who emails to let me now of problems, some I was already on top of… others needed a good poking. The downtime was due to me moving my hosting provider. This blog has had a few homes over the years (my goodness…6 years!) and as it has grown so it has slowed. My site is image heavy and I also make poor choice of plugins in favour of features. It has been a constant annoyance for me that my blog has had abysmal loading times of late.

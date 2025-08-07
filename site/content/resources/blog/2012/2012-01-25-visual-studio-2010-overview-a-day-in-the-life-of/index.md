@@ -1,39 +1,42 @@
 ---
 title: Visual Studio 2010 Overview - A day in the life of ... Plan, Code & Test
 description: Explore how developers, testers, and managers use Visual Studio 2010 and TFS for planning, coding, testing, bug fixes, and sprint management in real project workflows.
+date: 2012-01-25
+lastmod: 2012-01-25
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: oXATaMW00Ct
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4142
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-25
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-overview-a-day-in-the-life-of
 aliases:
-- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of-...-plan-code-test
-- /resources/oXATaMW00Ct
+  - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of-...-plan-code-test
+  - /resources/oXATaMW00Ct
 aliasesArchive:
-- /blog/visual-studio-2010-overview-a-day-in-the-life-of
-- /visual-studio-2010-overview-a-day-in-the-life-of
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
-- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of-...-plan-code-test
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/visual-studio-2010-overview-a-day-in-the-life-of
+  - /visual-studio-2010-overview-a-day-in-the-life-of
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
+  - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
+  - /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+  - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+  - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
+  - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of-...-plan-code-test
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:44Z
-concepts: []
+ResourceImportId: 4142
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

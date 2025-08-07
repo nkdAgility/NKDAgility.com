@@ -1,35 +1,38 @@
 ---
 title: Upgrading from the TFS 2013 Preview to TFS 2013 RC
 description: Step-by-step guide to upgrading from TFS 2013 Preview to TFS 2013 RC, covering prerequisites, trial upgrades, installation, configuration, and best practices.
+date: 2013-09-09
+lastmod: 2013-09-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: WlTNhsC5jek
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10041
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-09-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliases:
-- /resources/WlTNhsC5jek
+  - /resources/WlTNhsC5jek
 aliasesArchive:
-- /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
-- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
-- /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
-tags:
-- Software Development
-- Install and Configuration
-- Windows
-- System Configuration
+  - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+  - /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+  - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:23:10Z
-concepts: []
+ResourceImportId: 10041
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

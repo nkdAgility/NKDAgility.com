@@ -1,33 +1,36 @@
 ---
 title: Even Scrum should have detailed Task descriptions
 description: Scrum tasks should include detailed descriptions so anyone can complete them, ensuring project continuity if team members are unavailable or leave unexpectedly.
+date: 2010-04-28
+lastmod: 2010-04-28
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 7J9zEPmBq-C
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 46
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-28
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: even-scrum-should-have-detailed-task-descriptions
 aliases:
-- /resources/7J9zEPmBq-C
+  - /resources/7J9zEPmBq-C
 aliasesArchive:
-- /blog/even-scrum-should-have-detailed-task-descriptions
-- /even-scrum-should-have-detailed-task-descriptions
-- /resources/blog/even-scrum-should-have-detailed-task-descriptions
-tags:
-- Software Development
+  - /blog/even-scrum-should-have-detailed-task-descriptions
+  - /even-scrum-should-have-detailed-task-descriptions
+  - /resources/blog/even-scrum-should-have-detailed-task-descriptions
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-sharepoint-128-link-1-1.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:03Z
-concepts: []
+ResourceImportId: 46
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 ![RulestoBetter](images/SSWScrumRuleDoyou_E91A-RulestoBetter_-5-5.gif)When you create tasks in Scrum you are doing this within a time box and you tend to add only the information you need to remember what the task is. And the entire Team was at the meeting and were involved in the discussions around the task, so why do you need more?

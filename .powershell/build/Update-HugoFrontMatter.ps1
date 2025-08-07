@@ -66,8 +66,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
 
 
-
-    if ($hugoMarkdown.FrontMatter.date -gt $expensiveUpdatesWatermark) {
+    if ([datetime]::Parse($hugoMarkdown.FrontMatter.date) -gt $expensiveUpdatesWatermark) {
         ## Expensive Commands that should only be run on recent content
         #=================description=================
         $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description

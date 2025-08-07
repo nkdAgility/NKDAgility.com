@@ -1,7 +1,7 @@
 ---
-title: "Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence"
+title: 'Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence'
 short_title: Engineering Excellence Consulting in EST
-description: "Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery"
+description: 'Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery'
 tldr: Martin Hinshelwood is now available in Eastern Standard Time to help North American based software teams improve engineering excellence by addressing issues like harmful estimation practices and metric gaming. Key insights include the dangers of focusing on estimate accuracy, which leads to fear and hidden problems, and the benefits of shifting to evidence-based delivery systems that prioritize real value and flow. Development managers are encouraged to book a free 30-minute call to identify and address delivery bottlenecks and move beyond ineffective rituals.
 date: 2025-08-07T09:00:00Z
 lastmod: 2025-08-07T09:00:00Z
@@ -30,8 +30,8 @@ Watermarks:
   tldr: 2025-08-07T13:15:42Z
   short_title: 2025-08-07T13:15:43Z
 resourceTypes: newsletter
----
 
+---
 # Now in EST. Ready to Raise the Bar?
 
 For the next six months, I’m operating in **Eastern Standard Time (EST)**. That means **real-time access** for organisations in the **US and Mexico** looking to raise the bar in **engineering excellence and technical leadership**.

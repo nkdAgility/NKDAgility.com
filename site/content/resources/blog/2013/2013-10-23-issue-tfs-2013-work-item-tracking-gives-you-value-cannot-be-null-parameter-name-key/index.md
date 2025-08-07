@@ -1,37 +1,40 @@
 ---
 title: 'Issue [ TFS 2013 ] Value cannot be null. Parameter name: key'
 description: Explains how a missing required Team Field in customised TFS 2013 work item templates causes "Value cannot be null" errors, and how to resolve it by making the field mandatory.
+date: 2013-10-23
+lastmod: 2013-10-23
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: XGBjZzEb6D0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10221
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-10-23
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+slug: issue-tfs-2013-value-cannot-be-null-parameter-name-key
 aliases:
-- /resources/blog/issue-tfs-2013-value-cannot-be-null.-parameter-name-key
-- /resources/XGBjZzEb6D0
+  - /resources/blog/issue-tfs-2013-value-cannot-be-null.-parameter-name-key
+  - /resources/XGBjZzEb6D0
 aliasesArchive:
-- /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
-- /issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
-- /issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
-- /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
-- /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
-- /resources/blog/issue-tfs-2013-value-cannot-be-null.-parameter-name-key
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+  - /issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+  - /issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
+  - /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
+  - /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+  - /resources/blog/issue-tfs-2013-value-cannot-be-null.-parameter-name-key
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:22:55Z
-concepts: []
+ResourceImportId: 10221
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

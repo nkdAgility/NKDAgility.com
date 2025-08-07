@@ -1,35 +1,38 @@
 ---
 title: Upgrading to Team Foundation Server 2013
 description: Step-by-step guide to upgrading to Team Foundation Server 2013, including backup, installation, configuration, validation, and estimated upgrade times for various scenarios.
+date: 2013-06-26
+lastmod: 2013-06-26
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ni5lk4V30pb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9907
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-26
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2013
 aliases:
-- /resources/Ni5lk4V30pb
+  - /resources/Ni5lk4V30pb
 aliasesArchive:
-- /blog/upgrading-to-team-foundation-server-2013
-- /upgrading-to-team-foundation-server-2013
-- /resources/blog/upgrading-to-team-foundation-server-2013
-tags:
-- Software Development
-- Install and Configuration
-- System Configuration
-- Windows
+  - /blog/upgrading-to-team-foundation-server-2013
+  - /upgrading-to-team-foundation-server-2013
+  - /resources/blog/upgrading-to-team-foundation-server-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:06:01Z
-concepts: []
+ResourceImportId: 9907
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

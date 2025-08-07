@@ -1,38 +1,41 @@
 ---
 title: TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear
 description: Explains why nesting tasks in TFS 2012 Agile Planning Tools causes parent tasks to disappear, and recommends using nested Product Backlog Items instead for proper visibility.
+date: 2012-10-14
+lastmod: 2012-10-14
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YhKqO4gdGiv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8936
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-10-14
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 aliases:
-- /resources/YhKqO4gdGiv
+  - /resources/YhKqO4gdGiv
 aliasesArchive:
-- /blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
-- /tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
-- /tfs-2012-agile-planning-tools-issue
-- /tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
-- /blog/tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
-- /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
-tags:
-- Software Development
-- Agile Planning Tools
-- Product Backlog
+  - /blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
+  - /tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
+  - /tfs-2012-agile-planning-tools-issue
+  - /tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
+  - /blog/tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
+  - /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-8-8.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Agile Planning Tools
+  - Product Backlog
 Watermarks:
   description: 2025-05-13T15:07:27Z
-concepts: []
+ResourceImportId: 8936
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-8-8.png
 
 ---
 You should use nested PBI’s and never nested Tasks when you are using the Visual Studio 2012 Team Foundation Server Agile Planning Tools and here is why.

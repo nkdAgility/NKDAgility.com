@@ -1,36 +1,39 @@
 ---
 title: Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x
 description: Step-by-step guide to safely upgrade from MSF for Agile 4 to Visual Studio Scrum 2.x process templates in TFS, including handling customisations and preserving work items.
+date: 2013-04-22
+lastmod: 2013-04-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tT1kPVxzv3D
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9456
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-04-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 aliases:
-- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2.x
-- /resources/tT1kPVxzv3D
+  - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2.x
+  - /resources/tT1kPVxzv3D
 aliasesArchive:
-- /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2.x
-tags:
-- Software Development
-- Install and Configuration
-- Pragmatic Thinking
+  - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
+  - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
+  - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
+  - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2.x
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:06:35Z
-concepts: []
+ResourceImportId: 9456
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x can be a daunting and scary task. While you do need to be careful it is relatively simple to achieve safely.

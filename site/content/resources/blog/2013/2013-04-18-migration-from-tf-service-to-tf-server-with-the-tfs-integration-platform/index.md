@@ -1,33 +1,36 @@
 ---
 title: Migration from TF Service to TF Server with the TFS Integration Platform
 description: Guide to migrating data from Team Foundation Service to Team Foundation Server using the TFS Integration Platform, including user and work item mapping steps.
+date: 2013-04-18
+lastmod: 2013-04-18
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: M3QCV-Dusfq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9443
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-04-18
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 aliases:
-- /resources/M3QCV-Dusfq
+  - /resources/M3QCV-Dusfq
 aliasesArchive:
-- /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-- /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-- /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-tags:
-- Software Development
-- Install and Configuration
+  - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+  - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+  - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:39Z
-concepts: []
+ResourceImportId: 9443
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

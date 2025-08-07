@@ -1,31 +1,34 @@
 ---
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 description: Learn how to use Microsoft Test Manager, Visual Studio 2010, and TFS for software testing, test management, bug tracking, and automated test workflows in this remote course.
+date: 2011-09-07
+lastmod: 2011-09-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: SPcXGSE8VUI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3776
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
-- /resources/SPcXGSE8VUI
+  - /resources/SPcXGSE8VUI
 aliasesArchive:
-- /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-- /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-- /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-tags: []
+  - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+  - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+  - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:15Z
-concepts: []
+ResourceImportId: 3776
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.

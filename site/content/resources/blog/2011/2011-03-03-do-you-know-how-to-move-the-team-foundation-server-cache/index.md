@@ -1,34 +1,37 @@
 ---
 title: Do you know how to move the Team Foundation Server cache
 description: Learn how to safely move the Team Foundation Server cache to a new drive, update permissions, and configure web.config for better storage management and performance.
+date: 2011-03-03
+lastmod: 2011-03-03
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aF0H8q5h-Yg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9894
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-03-03
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
-- /resources/aF0H8q5h-Yg
+  - /resources/aF0H8q5h-Yg
 aliasesArchive:
-- /blog/do-you-know-how-to-move-the-team-foundation-server-cache
-- /do-you-know-how-to-move-the-team-foundation-server-cache
-- /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
-tags:
-- Install and Configuration
-- Windows
-- System Configuration
+  - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
+  - /do-you-know-how-to-move-the-team-foundation-server-cache
+  - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:11:05Z
-concepts: []
+ResourceImportId: 9894
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [![question mark](images/Do-you-know-how-to-move-the-Team-Foundat_DD94-ErrorOcurred1_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-how-to-move-the-Team-Foundat_DD94-ErrorOcurred1_2.jpg)There are a number of reasons why you may want to change the folder that you store the TFS Cache. It can take up “some” amount of room so moving it to another drive can be beneficial. This is the source control Cache that TFS uses to cache data from the database.

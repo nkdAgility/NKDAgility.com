@@ -1,35 +1,38 @@
 ---
 title: Why you need to tag your build servers in TFS
 description: Tagging build servers in TFS helps manage dependencies, assign builds to suitable agents, and streamline workflows across teams and regions for reliable automation.
+date: 2010-06-14
+lastmod: 2010-06-14
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: TCVlqzWwtNc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 40
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-06-14
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: why-you-need-to-tag-your-build-servers-in-tfs
 aliases:
-- /resources/TCVlqzWwtNc
+  - /resources/TCVlqzWwtNc
 aliasesArchive:
-- /blog/why-you-need-to-tag-your-build-servers-in-tfs
-- /why-you-need-to-tag-your-build-servers-in-tfs
-- /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
-tags:
-- Azure DevOps
-- Software Development
-- Pragmatic Thinking
-preview: metro-SSWLogo-128-link-10-10.png
+  - /blog/why-you-need-to-tag-your-build-servers-in-tfs
+  - /why-you-need-to-tag-your-build-servers-in-tfs
+  - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Azure DevOps
+  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:21:53Z
-concepts: []
+ResourceImportId: 40
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-10-10.png
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

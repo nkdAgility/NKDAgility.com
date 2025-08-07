@@ -1,36 +1,39 @@
 ---
 title: Using Corporate ID's with Visual Studio 2012 Team Foundation Service
 description: Explains how to set up and manage custom domain Live IDs for corporate authentication in Visual Studio 2012 Team Foundation Service using Live Custom Domains.
+date: 2012-02-21
+lastmod: 2012-02-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Cx5_dJr48V5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4474
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: using-corporate-ids-with-visual-studio-11-team-foundation-service
+slug: using-corporate-id's-with-visual-studio-2012-team-foundation-service
 aliases:
-- /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
-- /resources/Cx5_dJr48V5
+  - /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
+  - /resources/Cx5_dJr48V5
 aliasesArchive:
-- /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
-- /using-corporate-ids-with-visual-studio-11-team-foundation-service
-- /using-corporate-id's-with-visual-studio-2012-team-foundation-service
-- /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
-- /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
-- /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
-tags: []
+  - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
+  - /using-corporate-ids-with-visual-studio-11-team-foundation-service
+  - /using-corporate-id's-with-visual-studio-2012-team-foundation-service
+  - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
+  - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
+  - /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:23Z
-concepts: []
+ResourceImportId: 4474
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 ![](images/image_thumb1.png)It has been noted by a few that there is currently no way to corporately control Live ID's and their use with Visual Studio 2012 Team Foundation Service. These folks are only partially right as there is a work around, which I use myself. I have had a custom Live ID for the last 10 years and for the last few I have used the Live Custom Domain service to provide a little consistency and to make sure that I do not get any… erroneous users entering the fray.

@@ -1,37 +1,40 @@
 ---
 title: Professional Scrum Foundations in Salt Lake City, Utah
 description: Covers hands-on experiences teaching the Professional Scrum Foundations course in Salt Lake City, highlighting teamwork, agile practices, and real-world Scrum challenges.
+date: 2012-03-26
+lastmod: 2012-03-26
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: f7cHTAGDbeh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4980
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-03-26
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
-- /resources/f7cHTAGDbeh
+  - /resources/f7cHTAGDbeh
 aliasesArchive:
-- /blog/professional-scrum-foundations-in-salt-lake-city-utah
-- /professional-scrum-foundations-in-salt-lake-city-utah
-- /professional-scrum-foundations-in-salt-lake-city,-utah
-- /blog/professional-scrum-foundations-in-salt-lake-city,-utah
-- /professional-scrum-foundations-in-salt-lake-city--utah
-- /blog/professional-scrum-foundations-in-salt-lake-city--utah
-- /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
-tags:
-- Software Development
+  - /blog/professional-scrum-foundations-in-salt-lake-city-utah
+  - /professional-scrum-foundations-in-salt-lake-city-utah
+  - /professional-scrum-foundations-in-salt-lake-city,-utah
+  - /blog/professional-scrum-foundations-in-salt-lake-city,-utah
+  - /professional-scrum-foundations-in-salt-lake-city--utah
+  - /blog/professional-scrum-foundations-in-salt-lake-city--utah
+  - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-8-8.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:11Z
-concepts: []
+ResourceImportId: 4980
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---
 This week I have been filling in for [David Starr](http://elegantcode.com/author/dstarr/) at a customer and it has been an experience. David had a family emergency and tapped me of all people to take the gig from him. So not only did [Northwest Cadence](http://blog.hinshelwood.com) have to rearrange my schedule to make sure that I could do this, but I had to brave Salt Lake City and Utah…

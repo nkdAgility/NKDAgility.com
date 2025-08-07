@@ -1,32 +1,35 @@
 ---
 title: Introduction to Visual Studio 11
 description: Overview of Visual Studio 11 features, including Team Foundation Server integration, web UI improvements, team management tools, and Azure-hosted TFS preview demos.
+date: 2012-02-17
+lastmod: 2012-02-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: jo0zeQr1paY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4393
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: introduction-to-visual-studio-11
 aliases:
-- /resources/jo0zeQr1paY
+  - /resources/jo0zeQr1paY
 aliasesArchive:
-- /blog/introduction-to-visual-studio-11
-- /introduction-to-visual-studio-11
-- /resources/blog/introduction-to-visual-studio-11
-tags: []
+  - /blog/introduction-to-visual-studio-11
+  - /introduction-to-visual-studio-11
+  - /resources/blog/introduction-to-visual-studio-11
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:26Z
-concepts: []
+ResourceImportId: 4393
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).

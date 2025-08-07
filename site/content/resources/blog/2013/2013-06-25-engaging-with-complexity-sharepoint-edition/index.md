@@ -1,38 +1,41 @@
 ---
 title: Engaging with complexity - SharePoint Edition
 description: Step-by-step guide to consolidating and upgrading multiple SharePoint 2010 sites to SharePoint 2013, including database migration, firewall setup, and user mapping.
+date: 2013-06-25
+lastmod: 2013-06-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Lzmlul_Elhj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9909
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
-- /resources/Lzmlul_Elhj
+  - /resources/Lzmlul_Elhj
 aliasesArchive:
-- /blog/engaging-with-complexity-sharepoint-edition
-- /engaging-with-complexity-sharepoint-edition
-- /engaging-with-complexity
-- /engaging-with-complexity---sharepoint-edition
-- /blog/engaging-with-complexity---sharepoint-edition
-- /resources/blog/engaging-with-complexity-sharepoint-edition
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
+  - /blog/engaging-with-complexity-sharepoint-edition
+  - /engaging-with-complexity-sharepoint-edition
+  - /engaging-with-complexity
+  - /engaging-with-complexity---sharepoint-edition
+  - /blog/engaging-with-complexity---sharepoint-edition
+  - /resources/blog/engaging-with-complexity-sharepoint-edition
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:06:07Z
-concepts: []
+ResourceImportId: 9909
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-2-2.png
 
 ---
 I have been working with a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen. Just to pile on the complexity they also threw a SharePoint consolidation at me so I caught that as well.

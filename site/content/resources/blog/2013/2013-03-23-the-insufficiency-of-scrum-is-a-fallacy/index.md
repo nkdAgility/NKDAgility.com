@@ -1,39 +1,42 @@
 ---
 title: The Insufficiency of Scrum is a fallacy
 description: Scrum alone does not cause project failure; lacking strong engineering practices and effective retrospectives leads to technical debt and poor Agile outcomes.
+date: 2013-03-23
+lastmod: 2013-03-23
+weight: 230
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: n9OhtpbJs0-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9338
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-23
-weight: 230
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy
 aliases:
-- /resources/n9OhtpbJs0-
+  - /resources/n9OhtpbJs0-
 aliasesArchive:
-- /blog/the-insufficiency-of-scrum-is-a-fallacy
-- /the-insufficiency-of-scrum-is-a-fallacy
-- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
-tags:
-- Software Development
-- Agile Frameworks
-- Technical Debt
-- Engineering Practices
-- Pragmatic Thinking
-- Team Performance
+  - /blog/the-insufficiency-of-scrum-is-a-fallacy
+  - /the-insufficiency-of-scrum-is-a-fallacy
+  - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-- Scrum
-preview: nakedalm-experts-professional-scrum-3-3.png
+  - Engineering Excellence
+  - Scrum
+tags:
+  - Software Development
+  - Agile Frameworks
+  - Technical Debt
+  - Engineering Practices
+  - Pragmatic Thinking
+  - Team Performance
 Watermarks:
   description: 2025-05-13T15:06:45Z
-concepts: []
+ResourceImportId: 9338
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---
 The insufficiency of Scrum is a fallacy perpetrated by teams that don’t step up their practices in concert with their planning and don't really want to make it work anyway. You can fail doing Kanban, XP, Merise and SSADM just as easily unless you have good engineering practices as well.

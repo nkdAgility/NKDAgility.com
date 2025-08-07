@@ -1,34 +1,37 @@
 ---
 title: The value of an independent Scotland for me
 description: Personal reflections on Scottish independence, exploring self-determination, media bias, economic control, immigration, and the long-term value for future generations.
+date: 2014-07-13
+lastmod: 2014-07-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kmgdXtKVzGS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10655
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-07-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-value-of-an-independent-scotland
 aliases:
-- /resources/kmgdXtKVzGS
+  - /resources/kmgdXtKVzGS
 aliasesArchive:
-- /blog/the-value-of-an-independent-scotland
-- /the-value-of-an-independent-scotland
-- /the-value-of-an-independent-scotland-for-me
-- /blog/the-value-of-an-independent-scotland-for-me
-- /resources/blog/the-value-of-an-independent-scotland
-tags: []
+  - /blog/the-value-of-an-independent-scotland
+  - /the-value-of-an-independent-scotland
+  - /the-value-of-an-independent-scotland-for-me
+  - /blog/the-value-of-an-independent-scotland-for-me
+  - /resources/blog/the-value-of-an-independent-scotland
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-yes-scotland-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:30Z
-concepts: []
+ResourceImportId: 10655
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-yes-scotland-128-link-1-1.png
 
 ---
 For the last wee while some of you may have noticed some news coverage about Scottish independence. This post is about the value of an independent Scotland for me, so if you are not interested in politics then move along. It will all be over in a few months and you will likely never have to hear about it outside of history again.

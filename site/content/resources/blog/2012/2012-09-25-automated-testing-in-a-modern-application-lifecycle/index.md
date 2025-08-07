@@ -1,42 +1,45 @@
 ---
 title: Automated Testing in a modern application lifecycle
 description: Explains the role of automated testing in modern software development, covering types, integration, benefits, challenges, and tools for maintaining code quality.
+date: 2012-09-25
+lastmod: 2012-09-25
+weight: 565
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: IOUOjgnp-hB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8868
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-25
-weight: 565
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
-- /resources/IOUOjgnp-hB
+  - /resources/IOUOjgnp-hB
 aliasesArchive:
-- /blog/automated-testing-in-a-modern-application-lifecycle
-- /automated-testing-in-a-modern-application-lifecycle/
-- /automated-testing-in-a-modern-application-lifecycle
-- /resources/blog/automated-testing-in-a-modern-application-lifecycle
-tags:
-- Automated Testing
-- Software Development
-- Engineering Practices
-- Test Automation
-- Technical Mastery
-- Working Software
-- Technical Excellence
-- Operational Practices
-- Product Delivery
+  - /blog/automated-testing-in-a-modern-application-lifecycle
+  - /automated-testing-in-a-modern-application-lifecycle/
+  - /automated-testing-in-a-modern-application-lifecycle
+  - /resources/blog/automated-testing-in-a-modern-application-lifecycle
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: metro-automated-test-icon-4-4.png
+  - Engineering Excellence
+tags:
+  - Automated Testing
+  - Software Development
+  - Engineering Practices
+  - Test Automation
+  - Technical Mastery
+  - Working Software
+  - Technical Excellence
+  - Operational Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-13T15:07:32Z
-concepts: []
+ResourceImportId: 8868
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-automated-test-icon-4-4.png
 
 ---
 If we are building software in a modern application lifecycle there is no way that we would be able to deliver modern applications without some form of automated testing. Automated testing is the one thing that makes sure that we are able to deliver working software that meets the quality bar while still keeping the cycle time at an acceptable level.

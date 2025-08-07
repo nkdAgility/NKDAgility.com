@@ -1,37 +1,40 @@
 ---
 title: Who broke the build?
 description: Explains the importance of passing builds, common causes of build failures, how to identify issues and responsible users, and best practices for build ownership.
+date: 2010-03-29
+lastmod: 2010-03-29
+weight: 380
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: SVgPQgwftag
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 59
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-29
-weight: 380
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: who-broke-the-build
 aliases:
-- /resources/SVgPQgwftag
+  - /resources/SVgPQgwftag
 aliasesArchive:
-- /blog/who-broke-the-build
-- /who-broke-the-build
-- /who-broke-the-build-
-- /blog/who-broke-the-build-
-- /resources/blog/who-broke-the-build
-tags:
-- Software Development
-- Continuous Integration
-- Troubleshooting
-preview: metro-visual-studio-2010-128-link-10-10.png
+  - /blog/who-broke-the-build
+  - /who-broke-the-build
+  - /who-broke-the-build-
+  - /blog/who-broke-the-build-
+  - /resources/blog/who-broke-the-build
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
+tags:
+  - Software Development
+  - Continuous Integration
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:23Z
-concepts: []
+ResourceImportId: 59
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-10-10.png
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

@@ -1,37 +1,40 @@
 ---
 title: Creating a WIT Adapter for the TFS Integration Platform for a source with no history
 description: Explains how to build a TFS Integration Platform Work Item Tracking (WIT) adapter for a source system without history, covering versioning, field mapping, and error handling.
+date: 2011-06-02
+lastmod: 2011-06-02
+weight: 675
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: bSv-E4Y5zk0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3408
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-02
-weight: 675
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 aliases:
-- /resources/bSv-E4Y5zk0
+  - /resources/bSv-E4Y5zk0
 aliasesArchive:
-- /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-- /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-- /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-tags:
-- Software Development
-- Troubleshooting
-- Pragmatic Thinking
-- System Configuration
-- Technical Mastery
-preview: metro-visual-studio-2005-128-link-4-4.png
+  - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+  - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+  - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Troubleshooting
+  - Pragmatic Thinking
+  - System Configuration
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:10:46Z
-concepts: []
+ResourceImportId: 3408
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.

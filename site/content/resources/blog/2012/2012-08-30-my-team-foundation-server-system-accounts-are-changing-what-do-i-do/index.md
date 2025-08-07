@@ -1,36 +1,39 @@
 ---
 title: My Team Foundation Server system accounts are changing? What do I do?
 description: Learn how to update expiring Team Foundation Server service accounts, including steps for TFS, Build, SharePoint, and SQL, to prevent service disruptions.
+date: 2012-08-30
+lastmod: 2012-08-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: GJOGgre5lz-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8031
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliases:
-- /resources/GJOGgre5lz-
+  - /resources/GJOGgre5lz-
 aliasesArchive:
-- /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
-- /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
-- /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-tags:
-- Troubleshooting
-- Install and Configuration
-- System Configuration
+  - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
+  - /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
+  - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
+  - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
+  - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:48Z
-concepts: []
+ResourceImportId: 8031
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 If you have multiple service accounts for TFS 2012 and you are in a corporation chances are that two things are true:

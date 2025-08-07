@@ -1,33 +1,36 @@
 ---
 title: Customise the colours in Team Foundation Server 2013 Agile Planning Tools
 description: Learn how to change work item colours in TFS 2013 Agile Planning Tools by editing the Process Configuration XML file and updating hex colour codes for each item type.
+date: 2013-06-27
+lastmod: 2013-06-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2kvi44Dp0xl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9682
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliases:
-- /resources/2kvi44Dp0xl
+  - /resources/2kvi44Dp0xl
 aliasesArchive:
-- /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-- /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-- /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+  - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+  - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:56Z
-concepts: []
+ResourceImportId: 9682
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 If you want to customise the colours in Team Foundation Server 2013 Agile Planning Tools you need to download and edit the Process Configuration file that tells TFS how to configure many of the features in the Web Access.

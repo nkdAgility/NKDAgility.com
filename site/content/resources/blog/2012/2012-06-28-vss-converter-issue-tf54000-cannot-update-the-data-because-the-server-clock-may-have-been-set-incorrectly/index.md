@@ -1,35 +1,38 @@
 ---
 title: 'VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly'
 description: Explains the TF54000 error during VSS to TFS migration, its cause due to server time sync issues, and provides a simple workaround to resume the migration process.
+date: 2012-06-28
+lastmod: 2012-06-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: dyEMgbMXhgq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6127
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+slug: vss-converter-–-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 aliases:
-- /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-- /resources/dyEMgbMXhgq
+  - /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+  - /resources/dyEMgbMXhgq
 aliasesArchive:
-- /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-- /vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-- /vss-converter-–-issue--tf54000--cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-- /blog/vss-converter-–-issue--tf54000--cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-- /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
-tags:
-- Troubleshooting
+  - /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+  - /vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+  - /vss-converter-–-issue--tf54000--cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+  - /blog/vss-converter-–-issue--tf54000--cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+  - /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:52Z
-concepts: []
+ResourceImportId: 6127
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ### Issue

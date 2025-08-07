@@ -1,36 +1,39 @@
 ---
 title: 'TFS Integration Tools – Issue: Error occurred during the code review of change group'
 description: Explains causes and solutions for the "Error occurred during the code review of change group" in TFS Integration Tools, including common triggers and recommended workarounds.
+date: 2012-07-11
+lastmod: 2012-07-11
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: De3YYSzEfJk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6117
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-11
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+slug: tfs-integration-tools-–-issue-error-occurred-during-the-code-review-of-change-group
 aliases:
-- /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
-- /resources/De3YYSzEfJk
+  - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+  - /resources/De3YYSzEfJk
 aliasesArchive:
-- /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
-- /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
-- /tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
-- /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
-- /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
-tags:
-- Troubleshooting
+  - /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+  - /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+  - /tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
+  - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
+  - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-2-2.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:47Z
-concepts: []
+ResourceImportId: 6117
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-2-2.png
 
 ---
 As part of the Migration process the TFS Integration Platform does a whole bunch of checks to make sure that what is being written in indeed what we want to write and what the destination is excepting. as a result, on occasion you will get a “Error occurred during the code review of change group”.

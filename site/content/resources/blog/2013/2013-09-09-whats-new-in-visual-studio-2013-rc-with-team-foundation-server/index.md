@@ -1,37 +1,40 @@
 ---
 title: What's new in Visual Studio 2013 and TFS 2013 RC
 description: Overview of new features in Visual Studio 2013 and TFS 2013 RC, including Team Explorer updates, agile tools, test management, charting, and improved collaboration.
+date: 2013-09-09
+lastmod: 2013-09-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _YCdFNYKYcM
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10019
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-09-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+slug: what's-new-in-visual-studio-2013-and-tfs-2013-rc
 aliases:
-- /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
-- /resources/_YCdFNYKYcM
+  - /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
+  - /resources/_YCdFNYKYcM
 aliasesArchive:
-- /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-- /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-- /what's-new-in-visual-studio-2013-and-tfs-2013-rc
-- /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
-- /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-- /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
-tags:
-- Software Development
+  - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+  - /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+  - /what's-new-in-visual-studio-2013-and-tfs-2013-rc
+  - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
+  - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+  - /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-13-13.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:23:09Z
-concepts: []
+ResourceImportId: 10019
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---
 As you may have noticed the Visual Studio team has just put out a Release Candidate to the log awaited Visual Studio 2013 and TFS 2013.

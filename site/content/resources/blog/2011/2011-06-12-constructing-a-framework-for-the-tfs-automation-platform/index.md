@@ -1,34 +1,37 @@
 ---
 title: Constructing a framework for the TFS Automation Platform
 description: Outlines the structure and components of a framework for the TFS Automation Platform, detailing its architecture, plugin management, and development approach.
+date: 2011-06-12
+lastmod: 2011-06-12
+weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: w6AaB_5-1gr
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3641
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-12
-weight: 330
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: constructing-a-framework-for-the-tfs-automation-platform
 aliases:
-- /resources/w6AaB_5-1gr
+  - /resources/w6AaB_5-1gr
 aliasesArchive:
-- /blog/constructing-a-framework-for-the-tfs-automation-platform
-- /constructing-a-framework-for-the-tfs-automation-platform
-- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
-tags:
-- Software Development
-- Platform Engineering
-- Internal Developer Platform
+  - /blog/constructing-a-framework-for-the-tfs-automation-platform
+  - /constructing-a-framework-for-the-tfs-automation-platform
+  - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Platform Engineering
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:31Z
-concepts: []
+ResourceImportId: 3641
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

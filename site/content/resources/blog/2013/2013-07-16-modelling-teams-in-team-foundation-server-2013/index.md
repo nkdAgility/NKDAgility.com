@@ -1,33 +1,36 @@
 ---
 title: Modelling Teams in Team Foundation Server 2013
 description: Guidance on structuring teams, areas, iterations, source control, and security in Team Foundation Server 2013 to support project management and reporting needs.
+date: 2013-07-16
+lastmod: 2013-07-16
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Km0aNB0A6C1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9777
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-16
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: modelling-teams-in-team-foundation-server-2013
 aliases:
-- /resources/Km0aNB0A6C1
+  - /resources/Km0aNB0A6C1
 aliasesArchive:
-- /blog/modelling-teams-in-team-foundation-server-2013
-- /modelling-teams-in-team-foundation-server-2013
-- /resources/blog/modelling-teams-in-team-foundation-server-2013
-tags:
-- Software Development
+  - /blog/modelling-teams-in-team-foundation-server-2013
+  - /modelling-teams-in-team-foundation-server-2013
+  - /resources/blog/modelling-teams-in-team-foundation-server-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-6-6.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:23:43Z
-concepts: []
+ResourceImportId: 9777
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---
 Do you know what to do with Areas, Iteration, Teams, Source Control, and Security when modelling Teams in Team Foundation Server 2013?

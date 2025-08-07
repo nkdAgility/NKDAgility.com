@@ -1,38 +1,41 @@
 ---
 title: Can you really commit to delivering work?
 description: Explores why Scrum shifted from "commitment" to "forecasting" work delivery, highlighting the risks of overpromising and the benefits of transparency in Agile teams.
+date: 2011-11-26
+lastmod: 2011-11-26
+weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: uvzKTaweOnW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4089
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-26
-weight: 750
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: can-you-really-commit-to-delivering-work
 aliases:
-- /resources/uvzKTaweOnW
+  - /resources/uvzKTaweOnW
 aliasesArchive:
-- /blog/can-you-really-commit-to-delivering-work
-- /can-you-really-commit-to-delivering-work
-- /can-you-really-commit-to-delivering-work-
-- /blog/can-you-really-commit-to-delivering-work-
-- /resources/blog/can-you-really-commit-to-delivering-work
-tags:
-- Software Development
-- Professional Scrum
-- Forecasting
-- Pragmatic Thinking
+  - /blog/can-you-really-commit-to-delivering-work
+  - /can-you-really-commit-to-delivering-work
+  - /can-you-really-commit-to-delivering-work-
+  - /blog/can-you-really-commit-to-delivering-work-
+  - /resources/blog/can-you-really-commit-to-delivering-work
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-5-5.png
+  - Scrum
+tags:
+  - Software Development
+  - Professional Scrum
+  - Forecasting
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:09:51Z
-concepts: []
+ResourceImportId: 4089
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---
 [![PST Logo 2](images/PST-Logo-2_thumb-8-8.png "PST Logo 2")](http://blog.hinshelwood.com/files/2011/11/PST-Logo-2.png) There has been a subtle but targeted change in the wording used as part of Scrum. There has bee a move away from commitment towards forecasting what will be completed. Why is this happening and what does it mean to my team?

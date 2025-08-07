@@ -1,37 +1,40 @@
 ---
 title: Combining Scrum, TFS2010 and Email to keep everyone in the loop
 description: Explains how to integrate Scrum, TFS 2010, and email to share task details, maintain history, and keep all stakeholders informed throughout project workflows.
+date: 2010-04-28
+lastmod: 2010-04-28
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aU3PspgaeEN
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 48
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-28
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliases:
-- /resources/aU3PspgaeEN
+  - /resources/aU3PspgaeEN
 aliasesArchive:
-- /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
-- /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
-- /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-tags:
-- Software Development
+  - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:05Z
-concepts: []
+ResourceImportId: 48
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 ![RulestoBetter](images/SSWScrumRuleDoyouknow_D4DD-RulestoBetter_-3-3.gif)Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email.

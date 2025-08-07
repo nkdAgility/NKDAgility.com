@@ -1,33 +1,36 @@
 ---
 title: Install Release Management 2013
 description: Step-by-step guide to installing and configuring Release Management 2013, including Server, Client, and Deployment Agent for Visual Studio and Team Foundation Server.
+date: 2014-02-03
+lastmod: 2014-02-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1m73SCOy0k9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10353
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-02-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: install-release-management-2013
 aliases:
-- /resources/1m73SCOy0k9
+  - /resources/1m73SCOy0k9
 aliasesArchive:
-- /blog/install-release-management-2013
-- /install-release-management-2013
-- /resources/blog/install-release-management-2013
-tags:
-- Install and Configuration
+  - /blog/install-release-management-2013
+  - /install-release-management-2013
+  - /resources/blog/install-release-management-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-1-1.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:20Z
-concepts: []
+ResourceImportId: 10353
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---
 Just recently I have been doing a lot of work in Release Management 2013 and noticed the lack of documentation. I have done a number of installs and documented them is posts like [Installing Release Management Client for Visual Studio 2013](http://nkdagility.com/installing-release-management-client-visual-studio-2013/ "Installing Release Management Client for Visual Studio 2013") and [Installing Release Management Server for TFS 2013](http://nkdagility.com/installing-release-management-server-tfs-2013/ "http://nkdagility.com/installing-release-management-server-tfs-2013/") however there is always things that don’t quite join up. I often have to head off an fix problems or get support as part of my posts an while I almost always blog those issues there is no joined up experience.

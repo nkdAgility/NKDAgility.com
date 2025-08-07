@@ -1,34 +1,37 @@
 ---
 title: Flashing your Windows Phone 6 for Dummies
 description: Step-by-step guide to safely flashing custom ROMs on Windows Phone 6 devices, including key terms, risks, tools, and links to resources for the HTC HD2.
+date: 2010-06-17
+lastmod: 2010-06-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1tC2VKI3OMf
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 38
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-06-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: flashing-your-windows-phone-6-for-dummies
 aliases:
-- /resources/1tC2VKI3OMf
+  - /resources/1tC2VKI3OMf
 aliasesArchive:
-- /blog/flashing-your-windows-phone-6-for-dummies
-- /flashing-your-windows-phone-6-for-dummies
-- /resources/blog/flashing-your-windows-phone-6-for-dummies
-tags:
-- Windows
-- Install and Configuration
+  - /blog/flashing-your-windows-phone-6-for-dummies
+  - /flashing-your-windows-phone-6-for-dummies
+  - /resources/blog/flashing-your-windows-phone-6-for-dummies
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:21:51Z
-concepts: []
+ResourceImportId: 38
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 ![image](images/FlashingyourHTCHD2withWindow.5forDummies_A588-image_-1-1.png)

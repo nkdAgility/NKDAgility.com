@@ -1,37 +1,40 @@
 ---
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
 description: Step-by-step guide to upgrading TFS 2010 to TFS 2012, migrating VSS data, consolidating process templates, and resolving common issues during team project integration.
+date: 2012-06-30
+lastmod: 2012-06-30
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: XIuPwzheKMA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5702
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-30
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliases:
-- /resources/XIuPwzheKMA
+  - /resources/XIuPwzheKMA
 aliasesArchive:
-- /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
-- /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
-- /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
-tags:
-- Troubleshooting
-- Install and Configuration
-- Software Development
-- System Configuration
-- Release Management
-- Pragmatic Thinking
+  - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+  - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+  - /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Software Development
+  - System Configuration
+  - Release Management
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:08:49Z
-concepts: []
+ResourceImportId: 5702
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects

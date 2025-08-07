@@ -1,32 +1,35 @@
 ---
 title: Visual Studio ALM MVP of the Year 2011
 description: Recognition for contributions to the Visual Studio ALM community, including sharing Team Foundation Server solutions, blogging, and collaborating on key projects.
+date: 2011-03-06
+lastmod: 2011-03-06
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: EN9cabHmNmb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-03-06
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
-- /resources/EN9cabHmNmb
+  - /resources/EN9cabHmNmb
 aliasesArchive:
-- /blog/visual-studio-alm-mvp-of-the-year-2011
-- /visual-studio-alm-mvp-of-the-year-2011
-- /resources/blog/visual-studio-alm-mvp-of-the-year-2011
-tags: []
+  - /blog/visual-studio-alm-mvp-of-the-year-2011
+  - /visual-studio-alm-mvp-of-the-year-2011
+  - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-award-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:04Z
-concepts: []
+ResourceImportId: 9
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-award-link-2-2.png
 
 ---
 [![trophy](images/Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_2.jpg)

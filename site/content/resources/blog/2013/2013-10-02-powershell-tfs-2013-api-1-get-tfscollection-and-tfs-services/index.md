@@ -1,37 +1,40 @@
 ---
 title: 'PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services'
 description: Learn how to use PowerShell to connect to TFS 2013, import required assemblies, and access core TFS services like Work Item Store, Version Control, and project settings.
+date: 2013-10-02
+lastmod: 2013-10-02
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kaEC07NAXT7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10149
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-10-02
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 aliases:
-- /resources/kaEC07NAXT7
+  - /resources/kaEC07NAXT7
 aliasesArchive:
-- /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
-- /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
-- /powershell-tfs-2013-api--1
-- /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
-- /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
-- /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
-tags:
-- Software Development
-- Install and Configuration
+  - /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+  - /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+  - /powershell-tfs-2013-api--1
+  - /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+  - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+  - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-powershell-logo-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:23:02Z
-concepts: []
+ResourceImportId: 10149
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-powershell-logo-1-1.png
 
 ---
 Have you ever wanted to use PowerShell to interact with the TFS 2013 API? Well I have been working through a few scenarios and wanted to get them to you so that I can get some feedback.

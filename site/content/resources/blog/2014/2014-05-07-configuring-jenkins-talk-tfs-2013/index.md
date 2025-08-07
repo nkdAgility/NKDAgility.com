@@ -1,37 +1,40 @@
 ---
 title: Configuring Jenkins to talk to TFS 2013
 description: Guide to integrating Jenkins with TFS 2013 using the Team Foundation Server plugin, covering installation, configuration, and key differences from TF Build.
+date: 2014-05-07
+lastmod: 2014-05-07
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: ynMjy3Tn7hl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10526
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-05-07
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: configuring-jenkins-talk-tfs-2013
+slug: configuring-jenkins-to-talk-to-tfs-2013
 aliases:
-- /resources/ynMjy3Tn7hl
+  - /resources/ynMjy3Tn7hl
 aliasesArchive:
-- /blog/configuring-jenkins-talk-tfs-2013
-- /configuring-jenkins-talk-tfs-2013
-- /configuring-jenkins-to-talk-to-tfs-2013
-- /blog/configuring-jenkins-to-talk-to-tfs-2013
-- /resources/blog/configuring-jenkins-talk-tfs-2013
-tags:
-- Software Development
-- Install and Configuration
-- System Configuration
+  - /blog/configuring-jenkins-talk-tfs-2013
+  - /configuring-jenkins-talk-tfs-2013
+  - /configuring-jenkins-to-talk-to-tfs-2013
+  - /blog/configuring-jenkins-to-talk-to-tfs-2013
+  - /resources/blog/configuring-jenkins-talk-tfs-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: naked-alm-jenkins-logo-9-9.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:48Z
-concepts: []
+ResourceImportId: 10526
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-alm-jenkins-logo-9-9.png
 
 ---
 I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.

@@ -1,37 +1,40 @@
 ---
 title: Upgrading Team Foundation Server 2008 to 2010
 description: Step-by-step guide to upgrading Team Foundation Server 2008 to 2010, covering database backup, migration, verification, compatibility, and post-upgrade testing.
+date: 2010-05-03
+lastmod: 2010-05-03
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: eKRnTeo9UMp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 45
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-05-03
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-team-foundation-server-2008-to-2010
 aliases:
-- /resources/eKRnTeo9UMp
+  - /resources/eKRnTeo9UMp
 aliasesArchive:
-- /blog/upgrading-team-foundation-server-2008-to-2010
-- /upgrading-team-foundation-server-2008-to-2010
-- /resources/blog/upgrading-team-foundation-server-2008-to-2010
-tags:
-- Windows
-- Software Development
-- Install and Configuration
-- System Configuration
-- Troubleshooting
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/upgrading-team-foundation-server-2008-to-2010
+  - /upgrading-team-foundation-server-2008-to-2010
+  - /resources/blog/upgrading-team-foundation-server-2008-to-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:00Z
-concepts: []
+ResourceImportId: 45
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 ![vs2010alm](images/UpgradingtoTeamFoundationServer2010_C1D3-vs2010alm_-13-13.png)I am sure you will have seen my [posts on upgrading](http://blog.hinshelwood.com/archive/2010/04/12/_upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done.aspx) our internal Team Foundation Server from TFS2008 to TFS2010 Beta 2, RC and RTM, but what about a fresh upgrade of TFS2008 to TFS2010 using the RTM version of TFS. One of our clients is taking the plunge with TFS2010, so I have the job of doing the upgrade.

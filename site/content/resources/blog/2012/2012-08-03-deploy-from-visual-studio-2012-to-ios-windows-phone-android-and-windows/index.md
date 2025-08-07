@@ -1,37 +1,40 @@
 ---
 title: Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows
 description: Learn how to use Visual Studio 2012 and C# to build and deploy a single codebase to iOS, Android, Windows, and more, with options for generic or platform-specific UIs.
+date: 2012-08-03
+lastmod: 2012-08-03
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: n5gPXqsSzYn
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6950
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-03
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliases:
-- /resources/n5gPXqsSzYn
+  - /resources/n5gPXqsSzYn
 aliasesArchive:
-- /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-tags:
-- Software Development
+  - /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+  - /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+  - /deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
+  - /blog/deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
+  - /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
+  - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
+  - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-5-5.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:08:26Z
-concepts: []
+ResourceImportId: 6950
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---
 Today I saw a demonstration by [ITR Mobility](http://itr-mobility.com/) of their line of business application support for having one code base, written in C# that can be deployed to practically any platform you like. Does that should like it would be of use to you? Coz it sure as hell sounds like I could use it. I want to build an app… but I want to build in Visual Studio and that would limit me to Windows Phone and I really don’t want to lead Objective C!

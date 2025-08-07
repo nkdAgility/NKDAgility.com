@@ -1,36 +1,39 @@
 ---
 title: Run a router on Hyper-V
 description: Guide to running router firmware in a Hyper-V VM for reliable DHCP and internet access on restrictive networks, avoiding MAC/IP limits and external devices.
+date: 2014-06-25
+lastmod: 2014-06-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 0Ly3betXY-6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10617
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-06-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: run-router-hyper-v
+slug: run-a-router-on-hyper-v
 aliases:
-- /resources/0Ly3betXY-6
+  - /resources/0Ly3betXY-6
 aliasesArchive:
-- /blog/run-router-hyper-v
-- /run-router-hyper-v
-- /run-a-router-on-hyper-v
-- /blog/run-a-router-on-hyper-v
-- /resources/blog/run-router-hyper-v
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/run-router-hyper-v
+  - /run-router-hyper-v
+  - /run-a-router-on-hyper-v
+  - /blog/run-a-router-on-hyper-v
+  - /resources/blog/run-router-hyper-v
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: naked-alm-hyper-v-17-17.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:36Z
-concepts: []
+ResourceImportId: 10617
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-alm-hyper-v-17-17.png
 
 ---
 I want to run a router on Hyper-V so that I can run many VM's, each with internet access, on corporate and hotel networks. Microsoft touts Routing and Remote Access but there is no way I will go there. First it’s a total pain to setup and run. Second I need to run a whole Windows Server just to have basic DHCP and internet access. Overkill much! There must be a better way.

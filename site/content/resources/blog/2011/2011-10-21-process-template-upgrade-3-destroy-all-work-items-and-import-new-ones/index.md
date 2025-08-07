@@ -1,38 +1,41 @@
 ---
 title: 'Process Template Upgrade #3 - Destroy all Work Items and Import new ones'
 description: Step-by-step guide to upgrading a process template in TFS by deleting all existing work items, archiving queries and reports, and importing new template elements.
+date: 2011-10-21
+lastmod: 2011-10-21
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Lt6VAvnEOjb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3951
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-10-21
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
-- /resources/Lt6VAvnEOjb
+  - /resources/Lt6VAvnEOjb
 aliasesArchive:
-- /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-- /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-- /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
-- /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
-- /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-tags:
-- Software Development
-- Azure DevOps
-- Install and Configuration
-- System Configuration
-preview: metro-visual-studio-2005-128-link-5-5.png
+  - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+  - /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+  - /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
+  - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
+  - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Azure DevOps
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:10:02Z
-concepts: []
+ResourceImportId: 3951
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-5-5.png
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

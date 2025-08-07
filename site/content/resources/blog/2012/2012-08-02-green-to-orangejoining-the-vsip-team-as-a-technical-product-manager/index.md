@@ -1,35 +1,38 @@
 ---
 title: Green to Orange–Joining the VSIP team as a Technical Product Manager
 description: Explains the role of a Technical Product Manager in the Visual Studio Industry Partner Program, focusing on partner collaboration, extensibility, and ecosystem growth.
+date: 2012-08-02
+lastmod: 2012-08-02
+weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: P0ESCmC9VhB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6914
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-02
-weight: 680
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+slug: green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 aliases:
-- /resources/blog/green-to-orange-joining-the-vsip-team-as-a-technical-product-manager
-- /resources/P0ESCmC9VhB
+  - /resources/blog/green-to-orange-joining-the-vsip-team-as-a-technical-product-manager
+  - /resources/P0ESCmC9VhB
 aliasesArchive:
-- /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-- /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-- /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
-- /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
-- /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-- /resources/blog/green-to-orange-joining-the-vsip-team-as-a-technical-product-manager
-tags: []
+  - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+  - /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+  - /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
+  - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
+  - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+  - /resources/blog/green-to-orange-joining-the-vsip-team-as-a-technical-product-manager
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:08:31Z
-concepts: []
+ResourceImportId: 6914
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

@@ -1,34 +1,37 @@
 ---
 title: Visual Studio 2012 Update 2 supports 2010 Build Servers
 description: Explains how Visual Studio 2012 Update 2 and later let you use existing 2010 Build Servers with newer TFS, easing upgrades without workflow or OS changes.
+date: 2013-03-22
+lastmod: 2013-03-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wOYxXY4OsUH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9336
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2012-update-2-supports-2010-build-servers
 aliases:
-- /resources/wOYxXY4OsUH
+  - /resources/wOYxXY4OsUH
 aliasesArchive:
-- /blog/visual-studio-2012-update-2-supports-2010-build-servers
-- /visual-studio-2012-update-2-supports-2010-build-servers
-- /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/visual-studio-2012-update-2-supports-2010-build-servers
+  - /visual-studio-2012-update-2-supports-2010-build-servers
+  - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-11-11.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:46Z
-concepts: []
+ResourceImportId: 9336
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---
 Did you know that Visual Studio 2012 Update 2 supports 2010 Build Servers? Being able to connect TF Build 2010 Controllers to TFS 2012 is opening up upgrade paths for customers that are currently blocked from upgrading to TFS 2012.

@@ -1,34 +1,37 @@
 ---
 title: How to delete work items from TFS or VSO
 description: Explains how to permanently delete work items from TFS or VSO using witadmin or C# code, including safety tips and batch deletion for large numbers of items.
+date: 2014-07-02
+lastmod: 2014-07-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: MYXrtTYV2UD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10597
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-07-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: delete-work-items-tfs-vso
+slug: how-to-delete-work-items-from-tfs-or-vso
 aliases:
-- /resources/MYXrtTYV2UD
+  - /resources/MYXrtTYV2UD
 aliasesArchive:
-- /blog/delete-work-items-tfs-vso
-- /delete-work-items-tfs-vso
-- /how-to-delete-work-items-from-tfs-or-vso
-- /blog/how-to-delete-work-items-from-tfs-or-vso
-- /resources/blog/delete-work-items-tfs-vso
-tags: []
+  - /blog/delete-work-items-tfs-vso
+  - /delete-work-items-tfs-vso
+  - /how-to-delete-work-items-from-tfs-or-vso
+  - /blog/how-to-delete-work-items-from-tfs-or-vso
+  - /resources/blog/delete-work-items-tfs-vso
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:35Z
-concepts: []
+ResourceImportId: 10597
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---
 Have you ever created a bunch of work items that you decided later that you had to delete. Well I have… especially as a user of the TFS Integration Platform. And when things go wrong there they can really go wrong.

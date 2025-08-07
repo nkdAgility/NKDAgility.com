@@ -1,33 +1,36 @@
 ---
 title: Scrum with Team Foundation Server 2010 Done
 description: Explains how to use Scrum with Team Foundation Server 2010 for better project management, including practical tips, presentation slides, and real-world experiences.
+date: 2010-05-09
+lastmod: 2010-05-09
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: FjHIetvnkDz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 43
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-05-09
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scrum-with-team-foundation-server-2010-done
 aliases:
-- /resources/FjHIetvnkDz
+  - /resources/FjHIetvnkDz
 aliasesArchive:
-- /blog/scrum-with-team-foundation-server-2010-done
-- /scrum-with-team-foundation-server-2010-done
-- /resources/blog/scrum-with-team-foundation-server-2010-done
-tags:
-- Software Development
+  - /blog/scrum-with-team-foundation-server-2010-done
+  - /scrum-with-team-foundation-server-2010-done
+  - /resources/blog/scrum-with-team-foundation-server-2010-done
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-event-128-link-3-3.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:21:58Z
-concepts: []
+ResourceImportId: 43
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-3-3.png
 
 ---
 [![DDD](images/2139dc5039e8_9EA4-DDD_thumb-2-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-2139dc5039e8_9EA4-DDD_2.png)Since I have joined SSW as a Solution Architect its Chief Architect, Adam Cogan, has been mentoring me and pushing me to do better. One of the things that I have been wanting to do since the first DDD Scotland was to present a session. For DDD Scotland 2010 Adam suggested that I submit he double session on “Better project Management with Team Foundation Server 2010”.

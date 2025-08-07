@@ -1,35 +1,38 @@
 ---
 title: Installing TFS 2012 on Server 2012 with SQL 2012
 description: Step-by-step guide to installing and configuring TFS 2012 on Windows Server 2012 with SQL Server 2012, including setup tips, common issues, and troubleshooting advice.
+date: 2012-06-01
+lastmod: 2012-06-01
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: krqWTY5WW0r
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5368
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-01
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-tfs-2012-on-server-2012-with-sql-2012
 aliases:
-- /resources/krqWTY5WW0r
+  - /resources/krqWTY5WW0r
 aliasesArchive:
-- /blog/installing-tfs-2012-on-server-2012-with-sql-2012
-- /installing-tfs-2012-on-server-2012-with-sql-2012
-- /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
-tags:
-- Install and Configuration
-- Windows
-- System Configuration
+  - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
+  - /installing-tfs-2012-on-server-2012-with-sql-2012
+  - /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-31-31.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:58Z
-concepts: []
+ResourceImportId: 5368
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---
 I need a TFS environment to use for demos and what better time to do a full upgrade than when we get some nice prizes from Microsoft. Today the Release Candidate for both Windows and for Visual Studio was released to the public. You can download it off the public sites or you can use you MSDN account to get all of the goodies.

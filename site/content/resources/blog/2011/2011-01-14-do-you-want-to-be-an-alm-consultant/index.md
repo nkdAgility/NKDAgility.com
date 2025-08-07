@@ -1,35 +1,38 @@
 ---
 title: Do you want to be an ALM Consultant?
 description: Role overview for an ALM Consultant at Northwest Cadence, focusing on software lifecycle management, training, consulting, and technical leadership using Microsoft technologies.
+date: 2011-01-14
+lastmod: 2011-01-14
+weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: VWFF90m9BYG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 17
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2011-01-14
-weight: 355
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-want-to-be-an-alm-consultant
 aliases:
-- /resources/VWFF90m9BYG
+  - /resources/VWFF90m9BYG
 aliasesArchive:
-- /blog/do-you-want-to-be-an-alm-consultant
-- /do-you-want-to-be-an-alm-consultant
-- /do-you-want-to-be-an-alm-consultant-
-- /blog/do-you-want-to-be-an-alm-consultant-
-- /resources/blog/do-you-want-to-be-an-alm-consultant
-tags:
-- Software Development
+  - /blog/do-you-want-to-be-an-alm-consultant
+  - /do-you-want-to-be-an-alm-consultant
+  - /do-you-want-to-be-an-alm-consultant-
+  - /blog/do-you-want-to-be-an-alm-consultant-
+  - /resources/blog/do-you-want-to-be-an-alm-consultant
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-3-3.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:11:15Z
-concepts: []
+ResourceImportId: 17
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---
 [![northwestCadenceLogo](images/Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_2.png)

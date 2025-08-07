@@ -1,36 +1,39 @@
 ---
 title: Virtual Labs in the modern application lifecycle
 description: Explores how virtual labs help development and operations teams manage, test, and automate complex modern application environments using virtualisation technologies.
+date: 2012-09-22
+lastmod: 2012-09-22
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: SXJ7aTQkyMj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8803
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-22
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
-- /resources/SXJ7aTQkyMj
+  - /resources/SXJ7aTQkyMj
 aliasesArchive:
-- /blog/virtual-labs-in-the-modern-application-lifecycle
-- /virtual-labs-in-the-modern-application-lifecycle
-- /resources/blog/virtual-labs-in-the-modern-application-lifecycle
-tags:
-- Software Development
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Internal Developer Platform
+  - /blog/virtual-labs-in-the-modern-application-lifecycle
+  - /virtual-labs-in-the-modern-application-lifecycle
+  - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
+layout: blog
+concepts: []
 categories:
-- DevOps
-preview: metro-lab-5-5.png
+  - DevOps
+tags:
+  - Software Development
+  - Application Lifecycle Management
+  - Pragmatic Thinking
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:07:33Z
-concepts: []
+ResourceImportId: 8803
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-lab-5-5.png
 
 ---
 In the world of modern application development we have many more moving parts than we ever did before and it has become increasingly difficult for organisations to effectively simulate their environments with virtual labs.

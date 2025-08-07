@@ -1,43 +1,43 @@
 ---
+title: 'Mastering Email Notifications in Release Management: A Step-by-Step Guide to Configuring Office 365 SMTP'
 description: Learn how to set up email notifications in release management systems using Office 365 SMTP, including server settings, account details, and best practices for team mailboxes.
 date: 2014-01-02T15:58:51Z
-ResourceId: oHH_ES7fNWY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
+lastmod: 2014-01-02T15:58:51Z
 weight: 1000
-ResourceContentOrigin: AI
-tags:
-- System Configuration
-- Install and Configuration
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.1
+  changefreq: monthly
+ResourceId: oHH_ES7fNWY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
+aliases:
+  - /resources/oHH_ES7fNWY
+aliasesArchive:
+  - /resources/videos/sending-email-from-office-for-tfs-
+  - /resources/videos/sending-email-from-office-365-for-tfs-2013
+  - /resources/sending-email-from-office-365-for-tfs-2013
+  - /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
+  - mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
+source: youtube
+layout: video
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - System Configuration
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:46Z
-concepts: []
-title: 'Mastering Email Notifications in Release Management: A Step-by-Step Guide to Configuring Office 365 SMTP'
 videoId: oHH_ES7fNWY
-source: youtube
 url: /resources/videos/:slug
-slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
-layout: video
-aliases:
-- /resources/oHH_ES7fNWY
-- /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
-- /resources/videos/sending-email-from-office-365-for-tfs-2013
-aliasesArchive:
-- /resources/videos/sending-email-from-office-for-tfs-
-- /resources/videos/sending-email-from-office-365-for-tfs-2013
-- /resources/sending-email-from-office-365-for-tfs-2013
-- /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
-- mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

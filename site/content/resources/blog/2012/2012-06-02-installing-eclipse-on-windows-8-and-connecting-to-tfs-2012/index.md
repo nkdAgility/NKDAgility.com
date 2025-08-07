@@ -1,34 +1,37 @@
 ---
 title: Installing Eclipse on Windows 8 and connecting to TFS 2012
 description: Step-by-step guide to installing Eclipse and the Java Development Kit on Windows 8, then connecting Eclipse to Team Foundation Server (TFS) 2012 using Team Explorer Everywhere.
+date: 2012-06-02
+lastmod: 2012-06-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vuVjEWsY5Av
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5415
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 aliases:
-- /resources/vuVjEWsY5Av
+  - /resources/vuVjEWsY5Av
 aliasesArchive:
-- /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-- /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-- /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-tags:
-- Install and Configuration
-- Windows
+  - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+  - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+  - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-12-12.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:08:57Z
-concepts: []
+ResourceImportId: 5415
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-12-12.png
 
 ---
 I will be running a bunch of demos on a couple of weeks with TFS & Eclipse working together. Although I have a cloud instance that I can connect to, what about when I have no network.

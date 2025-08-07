@@ -1,39 +1,41 @@
 ---
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
 description: Explains how to resolve InRelease connection errors with TFS 2013 by granting the required "make requests on behalf of others" permission to the service account.
+date: 2013-07-11
+lastmod: 2013-07-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: SYCGxfoMPjw
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9759
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliases:
-- /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /resources/SYCGxfoMPjw
+  - /resources/SYCGxfoMPjw
 aliasesArchive:
-- /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
-- /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
-- /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-tags:
-- Troubleshooting
-- Install and Configuration
-- Software Development
-- System Configuration
+  - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+  - /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+  - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
+  - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
+  - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: puzzle-issue-problem-128-link-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:47Z
-concepts: []
+ResourceImportId: 9759
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: puzzle-issue-problem-128-link-5-5.png
 
 ---
 When you try to configure InRelease to connect to your Team Foundation Server 2013 Team Project Collection you get an error message saying that you are unable to connect because you need to be able to requires make requests on behalf of others.

@@ -1,41 +1,44 @@
 ---
 title: Continuous value delivery with modern business applications
 description: Explains how modern business applications use continuous delivery to release new features frequently, reduce risk, and improve customer satisfaction through rapid updates.
+date: 2012-11-27
+lastmod: 2012-11-27
+weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: Bqw3QI4cP_9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9149
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-11-27
-weight: 360
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: continuous-value-delivery-with-modern-business-applications
 aliases:
-- /resources/Bqw3QI4cP_9
+  - /resources/Bqw3QI4cP_9
 aliasesArchive:
-- /blog/continuous-value-delivery-with-modern-business-applications
-- /continuous-value-delivery-with-modern-business-applications
-- /resources/blog/continuous-value-delivery-with-modern-business-applications
-tags:
-- Frequent Releases
-- Software Development
-- Deployment Frequency
-- Continuous Delivery
-- Release Management
-- Value Delivery
-- Working Software
-- Product Delivery
-- Pragmatic Thinking
+  - /blog/continuous-value-delivery-with-modern-business-applications
+  - /continuous-value-delivery-with-modern-business-applications
+  - /resources/blog/continuous-value-delivery-with-modern-business-applications
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-experts-visual-studio-alm-2-2.png
+  - Engineering Excellence
+tags:
+  - Frequent Releases
+  - Software Development
+  - Deployment Frequency
+  - Continuous Delivery
+  - Release Management
+  - Value Delivery
+  - Working Software
+  - Product Delivery
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:07:11Z
-concepts: []
+ResourceImportId: 9149
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
 I have talked before on the [new normal for software development](http://blog.hinshelwood.com/the-new-normal-of-the-modern-application-lifecycle/) as part of the Visual Studio 2012 launch events and Microsoft in itself is not immune to this change.

@@ -1,35 +1,38 @@
 ---
 title: Ghost build controllers in Team Foundation Server
 description: Learn how to identify and remove undeletable ghost build controllers in Team Foundation Server by updating build status in the database, avoiding unsupported deletions.
+date: 2010-06-15
+lastmod: 2010-06-15
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ks3BqiRqWAK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 39
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-06-15
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: ghost-team-foundation-build-controllers
+slug: ghost-build-controllers-in-team-foundation-server
 aliases:
-- /resources/ks3BqiRqWAK
+  - /resources/ks3BqiRqWAK
 aliasesArchive:
-- /blog/ghost-team-foundation-build-controllers
-- /ghost-team-foundation-build-controllers
-- /ghost-build-controllers-in-team-foundation-server
-- /blog/ghost-build-controllers-in-team-foundation-server
-- /resources/blog/ghost-team-foundation-build-controllers
-tags:
-- Troubleshooting
-preview: metro-visual-studio-2010-128-link-4-4.png
+  - /blog/ghost-team-foundation-build-controllers
+  - /ghost-team-foundation-build-controllers
+  - /ghost-build-controllers-in-team-foundation-server
+  - /blog/ghost-build-controllers-in-team-foundation-server
+  - /resources/blog/ghost-team-foundation-build-controllers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:21:52Z
-concepts: []
+ResourceImportId: 39
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.

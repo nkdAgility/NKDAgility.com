@@ -1,36 +1,38 @@
 ---
 title: Visual Studio 2010 Overview - Reporting & Process
 description: Learn how to customise Visual Studio 2010 process templates and use reporting tools to track, adapt, and improve team workflows with TFS for better project management.
+date: 2012-02-02
+lastmod: 2012-02-02
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: Ryiemqc7hnZ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4138
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-02
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-overview-reporting-process
 aliases:
-- /resources/blog/visual-studio-2010-overview-reporting-process
-- /resources/Ryiemqc7hnZ
+  - /resources/Ryiemqc7hnZ
 aliasesArchive:
-- /blog/visual-studio-2010-overview-reporting-process
-- /visual-studio-2010-overview-reporting-process
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---reporting-&-process
-- /blog/visual-studio-2010-overview---reporting-&-process
-- /resources/blog/visual-studio-2010-overview-reporting-process
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/visual-studio-2010-overview-reporting-process
+  - /visual-studio-2010-overview-reporting-process
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---reporting-&-process
+  - /blog/visual-studio-2010-overview---reporting-&-process
+  - /resources/blog/visual-studio-2010-overview-reporting-process
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:34Z
-concepts: []
+ResourceImportId: 4138
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.

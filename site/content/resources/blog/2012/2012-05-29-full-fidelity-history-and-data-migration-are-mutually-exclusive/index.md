@@ -1,34 +1,37 @@
 ---
 title: Full-fidelity history and data migration are mutually exclusive
 description: Explains why preserving complete historical data and accurate dates is often incompatible with data migration, especially for compliance and traceability in regulated industries.
+date: 2012-05-29
+lastmod: 2012-05-29
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: V6qWqBrh4kv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5288
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-05-29
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliases:
-- /resources/V6qWqBrh4kv
+  - /resources/V6qWqBrh4kv
 aliasesArchive:
-- /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-- /full-fidelity-history-and-data-migration-are-mutually-exclusive
-- /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-tags:
-- Software Development
-- Pragmatic Thinking
+  - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+  - /full-fidelity-history-and-data-migration-are-mutually-exclusive
+  - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:09:01Z
-concepts: []
+ResourceImportId: 5288
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
 If you have ever had to migrate data from any system that contains lots of data and especially history then you will have run into this problem. Effectively you have two choices:

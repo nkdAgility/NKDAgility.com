@@ -1,39 +1,42 @@
 ---
 title: TFS for cross team and cross business line work item tracking
 description: Explains how to use a single Team Project and Team Field in TFS to streamline cross-team work item tracking, reporting, and collaboration across business lines.
+date: 2014-03-04
+lastmod: 2014-03-04
+weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: l6LGPY2BGU5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10378
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-03-04
-weight: 440
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: tfs-cross-team-cross-business-line-work-item-tracking
+slug: tfs-for-cross-team-and-cross-business-line-work-item-tracking
 aliases:
-- /resources/l6LGPY2BGU5
+  - /resources/l6LGPY2BGU5
 aliasesArchive:
-- /blog/tfs-cross-team-cross-business-line-work-item-tracking
-- /tfs-cross-team-cross-business-line-work-item-tracking
-- /tfs-for-cross-team-and-cross-business-line-work-item-tracking
-- /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
-- /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
-tags:
-- Pragmatic Thinking
-- Azure DevOps
-- Software Development
-- Operational Practices
-- Product Delivery
+  - /blog/tfs-cross-team-cross-business-line-work-item-tracking
+  - /tfs-cross-team-cross-business-line-work-item-tracking
+  - /tfs-for-cross-team-and-cross-business-line-work-item-tracking
+  - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
+  - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-4-4.png
+  - Uncategorized
+tags:
+  - Pragmatic Thinking
+  - Azure DevOps
+  - Software Development
+  - Operational Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-12T14:22:09Z
-concepts: []
+ResourceImportId: 10378
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---
 I was asked by current customer to come up with a solution, within TFS, to allow an entire division to work together in delivering software for a bank. This divisions made up of over 10 teams than work on many pieces of software. Some have simple requirements while others require harsh security and compliance. This is a standard problem and not unique to this company, however the perception still prevails with both TFS users and administrators, that one must have a single Team Project for each \[Project | Team | Product\] under way. This perception is not only incorrect but Team Foundation Server was designed to be used differently. The Developer Division (DevDiv) at Microsoft, who built the product, uses a single 20+ terabyte Team Project for their Work Items, Source Code and Builds for over 2k people. Team Foundation Server was designed and built to be used with fewer large Team Projects rather than many small Team Projects.

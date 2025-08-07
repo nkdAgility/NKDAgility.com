@@ -1,36 +1,38 @@
 ---
 title: Visual Studio 2012 RTM available & installed
 description: Covers installing and upgrading to Visual Studio 2012 RTM and Team Foundation Server, key new features, upgrade tips, common issues, and practical migration advice.
+date: 2012-08-15
+lastmod: 2012-08-15
+weight: 660
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 1pWQ2Krlit5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7149
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-15
-weight: 660
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
 aliases:
-- /resources/blog/visual-studio-2012-rtm-available-installed
-- /resources/1pWQ2Krlit5
+  - /resources/1pWQ2Krlit5
 aliasesArchive:
-- /blog/visual-studio-2012-rtm-available-installed
-- /visual-studio-2012-rtm-available-installed
-- /visual-studio-2012-rtm-available-&-installed
-- /blog/visual-studio-2012-rtm-available-&-installed
-- /resources/blog/visual-studio-2012-rtm-available-installed
-tags:
-- Install and Configuration
+  - /blog/visual-studio-2012-rtm-available-installed
+  - /visual-studio-2012-rtm-available-installed
+  - /visual-studio-2012-rtm-available-&-installed
+  - /blog/visual-studio-2012-rtm-available-&-installed
+  - /resources/blog/visual-studio-2012-rtm-available-installed
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:16Z
-concepts: []
+ResourceImportId: 7149
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.microsoft.com/en-US/vstudio/) I wanted to let you know that Northwest Cadence just completed its first Production RTM installation for a customer.

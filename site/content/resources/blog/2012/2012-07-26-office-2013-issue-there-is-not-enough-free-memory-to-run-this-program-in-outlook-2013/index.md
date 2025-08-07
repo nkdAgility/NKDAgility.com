@@ -1,37 +1,40 @@
 ---
 title: 'Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013'
 description: Explains causes and solutions for the "not enough free memory" error in Outlook 2013, including disabling shared folder downloads and adjusting Exchange account settings.
+date: 2012-07-26
+lastmod: 2012-07-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2slV7lVD3rC
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6758
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 aliases:
-- /resources/2slV7lVD3rC
+  - /resources/2slV7lVD3rC
 aliasesArchive:
-- /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /blog/office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /resources/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-tags:
-- Troubleshooting
-- Install and Configuration
-- Windows
+  - /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  - /office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  - /office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  - /blog/office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  - /resources/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-7-7.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:08:34Z
-concepts: []
+ResourceImportId: 6758
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-7-7.png
 
 ---
 You get a “There is not enough free memory to run this program. Quit one or more programs, and try again.” when trying to do activities in Outlook 2013.

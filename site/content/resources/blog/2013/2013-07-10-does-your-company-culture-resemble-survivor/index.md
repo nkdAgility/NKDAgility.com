@@ -1,45 +1,48 @@
 ---
 title: Does your company culture resemble Survivor?
 description: Explores how individualistic, competitive company cultures hinder collaboration and agility, and highlights the benefits of fostering teamwork in software development.
+date: 2013-07-10
+lastmod: 2013-07-10
+weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: 1VbvpOX1Hg0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9716
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-10
-weight: 430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor
 aliases:
-- /resources/1VbvpOX1Hg0
+  - /resources/1VbvpOX1Hg0
 aliasesArchive:
-- /blog/does-your-company-culture-resemble-survivor
-- /does-your-company-culture-resemble-survivor
-- /does-your-company-culture-resemble-survivor-
-- /blog/does-your-company-culture-resemble-survivor-
-- /resources/blog/does-your-company-culture-resemble-survivor
-tags:
-- Team Collaboration
-- Sociotechnical Systems
-- Organisational Culture
-- Team Performance
-- Business Agility
-- Organisational Agility
-- Social Technologies
-- Team Motivation
-- Agile Philosophy
-- Pragmatic Thinking
-- Software Development
+  - /blog/does-your-company-culture-resemble-survivor
+  - /does-your-company-culture-resemble-survivor
+  - /does-your-company-culture-resemble-survivor-
+  - /blog/does-your-company-culture-resemble-survivor-
+  - /resources/blog/does-your-company-culture-resemble-survivor
+layout: blog
+concepts: []
 categories:
-- Leadership
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Leadership
+tags:
+  - Team Collaboration
+  - Sociotechnical Systems
+  - Organisational Culture
+  - Team Performance
+  - Business Agility
+  - Organisational Agility
+  - Social Technologies
+  - Team Motivation
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:05:48Z
-concepts: []
+ResourceImportId: 9716
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?

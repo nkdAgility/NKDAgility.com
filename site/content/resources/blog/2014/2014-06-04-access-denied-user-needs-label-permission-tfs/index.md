@@ -1,34 +1,37 @@
 ---
 title: Access denied user needs label permission in TFS
 description: Explains how to resolve "Access denied user needs label permission" errors in TFS by adjusting label permissions at the root folder to allow contributors to create labels.
+date: 2014-06-04
+lastmod: 2014-06-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: jdpPpvEHzGa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10546
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-06-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: access-denied-user-needs-label-permission-tfs
+slug: access-denied-user-needs-label-permission-in-tfs
 aliases:
-- /resources/jdpPpvEHzGa
+  - /resources/jdpPpvEHzGa
 aliasesArchive:
-- /blog/access-denied-user-needs-label-permission-tfs
-- /access-denied-user-needs-label-permission-tfs
-- /access-denied-user-needs-label-permission-in-tfs
-- /blog/access-denied-user-needs-label-permission-in-tfs
-- /resources/blog/access-denied-user-needs-label-permission-tfs
-tags: []
+  - /blog/access-denied-user-needs-label-permission-tfs
+  - /access-denied-user-needs-label-permission-tfs
+  - /access-denied-user-needs-label-permission-in-tfs
+  - /blog/access-denied-user-needs-label-permission-in-tfs
+  - /resources/blog/access-denied-user-needs-label-permission-tfs
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:43Z
-concepts: []
+ResourceImportId: 10546
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 There is always something new to learn with TFS and today I learned something old. I had a user today that was constantly getting the message "Access denied user needs label permission in TFS".

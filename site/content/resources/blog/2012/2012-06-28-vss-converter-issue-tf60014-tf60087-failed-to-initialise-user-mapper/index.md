@@ -1,36 +1,39 @@
 ---
 title: 'VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper'
 description: Explains how to resolve TF60014 and TF60087 errors in VSSConverter.exe during VSS to TFS import by ensuring mapped users have permissions in the target TFS project.
+date: 2012-06-28
+lastmod: 2012-06-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: a2ptmGZFk8P
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6124
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+slug: vss-converter-–-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliases:
-- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /resources/a2ptmGZFk8P
+  - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+  - /resources/a2ptmGZFk8P
 aliasesArchive:
-- /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
-- /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
-- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-tags:
-- Troubleshooting
+  - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+  - /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+  - /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
+  - /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
+  - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-2-2.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:51Z
-concepts: []
+ResourceImportId: 6124
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-2-2.png
 
 ---
 When running a VSS to TFS import using the VSSConverter.exe you may recieve a “TFTF60014: The username domainusername in the user map file c:tempusermap.xml is invalid”.

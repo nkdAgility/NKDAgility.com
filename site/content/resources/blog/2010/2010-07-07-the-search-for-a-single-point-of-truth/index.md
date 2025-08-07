@@ -1,32 +1,35 @@
 ---
 title: The search for a single point of truth
 description: Explores methods and tools for syncing contacts across multiple services, aiming to maintain a single, up-to-date source without duplicates or data loss.
+date: 2010-07-07
+lastmod: 2010-07-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nWNc5jUb0Up
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 34
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-07-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-search-for-a-single-point-of-truth
 aliases:
-- /resources/nWNc5jUb0Up
+  - /resources/nWNc5jUb0Up
 aliasesArchive:
-- /blog/the-search-for-a-single-point-of-truth
-- /the-search-for-a-single-point-of-truth
-- /resources/blog/the-search-for-a-single-point-of-truth
-tags: []
+  - /blog/the-search-for-a-single-point-of-truth
+  - /the-search-for-a-single-point-of-truth
+  - /resources/blog/the-search-for-a-single-point-of-truth
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-19-19.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:21:41Z
-concepts: []
+ResourceImportId: 34
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-19-19.png
 
 ---
 ![image](images/7b88707dd37e_F009-image_-8-11.png)It may be a trivial matter to get your contacts on your phone, but if you do the social network thing, then you need to do a little jiggery pokery to get everything to sync so you have the same contacts everywhere. Over the last couple of weeks I have vowed to get them sorted.

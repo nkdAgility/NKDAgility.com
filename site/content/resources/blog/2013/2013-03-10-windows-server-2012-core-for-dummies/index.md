@@ -1,35 +1,38 @@
 ---
 title: Windows Server 2012 Core for dummies
 description: Step-by-step guide to setting up and managing Windows Server 2012 Core using command-line tools, covering remote access, updates, networking, firewall, and domain joining.
+date: 2013-03-10
+lastmod: 2013-03-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: qtma311iiMY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9255
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-03-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-server-2012-core-for-dummies
 aliases:
-- /resources/qtma311iiMY
+  - /resources/qtma311iiMY
 aliasesArchive:
-- /blog/windows-server-2012-core-for-dummies
-- /windows-server-2012-core-for-dummies
-- /resources/blog/windows-server-2012-core-for-dummies
-tags:
-- Windows
-- Install and Configuration
-- System Configuration
+  - /blog/windows-server-2012-core-for-dummies
+  - /windows-server-2012-core-for-dummies
+  - /resources/blog/windows-server-2012-core-for-dummies
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-server-instances-7-7.png
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:56Z
-concepts: []
+ResourceImportId: 9255
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-server-instances-7-7.png
 
 ---
 This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.

@@ -1,36 +1,39 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
 description: Explores the shift from TFS Automation Platform to TfPlugable, aiming to simplify discovery, deployment, and management of Team Foundation Server extensions.
+date: 2013-01-31
+lastmod: 2013-01-31
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: cMYx4JN2az5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9229
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-01-31
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
-- /resources/cMYx4JN2az5
+  - /resources/cMYx4JN2az5
 aliasesArchive:
-- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-- /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-- /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
-- /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
-- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
-- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
-- /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-tags: []
+  - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+  - /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+  - /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+  - /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+  - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+  - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+  - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:07:00Z
-concepts: []
+ResourceImportId: 9229
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 The TFS Automation Platform is dead, long live the TfPlugable! It has been a long time since I have talked about the [TFS Automation Platform](http://blog.hinshelwood.com/what-is-the-tfs-automation-platform/) that I had almost forgotten about it myself. It was almost two years ago that I spoke to [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) about an ALM Rangers project to build a solution to dynamically deploy plug-ins for TFS, kind of like Nuget for TFS Extensions.

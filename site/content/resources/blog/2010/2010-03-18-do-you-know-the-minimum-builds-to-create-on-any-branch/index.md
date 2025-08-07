@@ -1,36 +1,39 @@
 ---
 title: Do you know the minimum builds to create on any branch?
 description: Explains the essential three build types—Gate, CI, and Nightly—needed per branch to ensure code quality, test coverage, and collaboration in team projects.
+date: 2010-03-18
+lastmod: 2010-03-18
+weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: wPA1p1UQ6Bi
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 60
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-18
-weight: 610
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
-- /resources/wPA1p1UQ6Bi
+  - /resources/wPA1p1UQ6Bi
 aliasesArchive:
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-- /do-you-know-the-minimum-builds-to-create-on-any-branch
-- /do-you-know-the-minimum-builds-to-create-on-any-branch-
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
-- /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-tags:
-- Software Development
-- Continuous Integration
-preview: metro-visual-studio-2010-128-link-6-6.png
+  - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+  - /do-you-know-the-minimum-builds-to-create-on-any-branch
+  - /do-you-know-the-minimum-builds-to-create-on-any-branch-
+  - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
+  - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
+tags:
+  - Software Development
+  - Continuous Integration
 Watermarks:
   description: 2025-05-13T15:22:28Z
-concepts: []
+ResourceImportId: 60
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-6-6.png
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

@@ -1,35 +1,38 @@
 ---
 title: Do you know when to send a done email in Scrum?
 description: Explains when and how to send done emails in Scrum, detailing best practices for notifying task owners and teams, and ensuring clear communication of completed work.
+date: 2010-04-14
+lastmod: 2010-04-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: iHdkPl8gwwm
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 51
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-know-when-to-send-a-done-email-in-scrum
 aliases:
-- /resources/iHdkPl8gwwm
+  - /resources/iHdkPl8gwwm
 aliasesArchive:
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum
-- /do-you-know-when-to-send-a-done-email-in-scrum
-- /do-you-know-when-to-send-a-done-email-in-scrum-
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum-
-- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
-tags:
-- Software Development
+  - /blog/do-you-know-when-to-send-a-done-email-in-scrum
+  - /do-you-know-when-to-send-a-done-email-in-scrum
+  - /do-you-know-when-to-send-a-done-email-in-scrum-
+  - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
+  - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-sharepoint-128-link-3-3.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:12Z
-concepts: []
+ResourceImportId: 51
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-3-3.png
 
 ---
 ![RulestoBetter](images/DoyouknowwhentosendadoneemailinScrum_CE5F-RulestoBetter_-2-2.gif)At SSW we have always sent done emails to the owner/requestor to let them know that it is done. Others who are dependent on that tasks are CC’ed so they know they can proceed. But how does that fit into Scrum?

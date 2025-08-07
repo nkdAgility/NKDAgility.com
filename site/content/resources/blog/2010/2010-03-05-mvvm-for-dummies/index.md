@@ -1,33 +1,36 @@
 ---
 title: MVVM for Dummies
 description: Explains the MVVM pattern in WPF and Silverlight, highlighting separation of concerns, code structure, and the roles of commanding, dependency injection, and design patterns.
+date: 2010-03-05
+lastmod: 2010-03-05
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: __7oXNKjdWP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 65
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-05
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: mvvm-for-dummies
 aliases:
-- /resources/__7oXNKjdWP
+  - /resources/__7oXNKjdWP
 aliasesArchive:
-- /blog/mvvm-for-dummies
-- /mvvm-for-dummies
-- /resources/blog/mvvm-for-dummies
-tags:
-- Software Development
+  - /blog/mvvm-for-dummies
+  - /mvvm-for-dummies
+  - /resources/blog/mvvm-for-dummies
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:35Z
-concepts: []
+ResourceImportId: 65
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I think that I have found one of the best articles on MVVM that I have ever read:

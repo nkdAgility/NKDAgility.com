@@ -1,43 +1,46 @@
 ---
 title: What's in a burndown?
 description: Explains burndown charts in Scrum, their purpose, common issues, and compares tracking by hours, story points, and acceptance tests to improve team progress visibility.
+date: 2012-03-28
+lastmod: 2012-03-28
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: SdYtGr9X2KV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5002
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-03-28
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: whats-in-a-burndown
+slug: what's-in-a-burndown
 aliases:
-- /resources/blog/what-s-in-a-burndown
-- /resources/SdYtGr9X2KV
+  - /resources/blog/what-s-in-a-burndown
+  - /resources/SdYtGr9X2KV
 aliasesArchive:
-- /blog/whats-in-a-burndown
-- /whats-in-a-burndown
-- /what's-in-a-burndown-
-- /blog/what's-in-a-burndown-
-- /resources/blog/whats-in-a-burndown
-- /resources/blog/what-s-in-a-burndown
-tags:
-- Software Development
-- Agile Planning
-- Product Delivery
-- Professional Scrum
-- Agile Frameworks
-- Pragmatic Thinking
-- Team Performance
+  - /blog/whats-in-a-burndown
+  - /whats-in-a-burndown
+  - /what's-in-a-burndown-
+  - /blog/what's-in-a-burndown-
+  - /resources/blog/whats-in-a-burndown
+  - /resources/blog/what-s-in-a-burndown
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-logo-128-link-1-1.png
+  - Scrum
+tags:
+  - Software Development
+  - Agile Planning
+  - Product Delivery
+  - Professional Scrum
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Team Performance
 Watermarks:
   description: 2025-05-13T15:09:10Z
-concepts: []
+ResourceImportId: 5002
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:

@@ -1,32 +1,35 @@
 ---
 title: Application lifecycle management with Office 2013 on Windows 8
 description: Explores how Office 2013 on Windows 8 supports application lifecycle management, highlighting touch features, easy installation, and ALM uses for PowerPoint and Excel.
+date: 2012-10-23
+lastmod: 2012-10-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: HS-74Zxqz0l
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8967
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-10-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: application-lifecycle-management-with-office-2013-on-windows-8
 aliases:
-- /resources/HS-74Zxqz0l
+  - /resources/HS-74Zxqz0l
 aliasesArchive:
-- /blog/application-lifecycle-management-with-office-2013-on-windows-8
-- /application-lifecycle-management-with-office-2013-on-windows-8
-- /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
-tags: []
+  - /blog/application-lifecycle-management-with-office-2013-on-windows-8
+  - /application-lifecycle-management-with-office-2013-on-windows-8
+  - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-office-128-link-5-5.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:07:24Z
-concepts: []
+ResourceImportId: 8967
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-office-128-link-5-5.png
 
 ---
 Because of the compatibility with ARM and the new Windows 8 touchscreen experience you would imagine that Office has undergone a rather complete overall and you would be right. With Office 2013 you get a fully touch capable immersive experience that is designed to work well on both the Tablet and the Desktop.

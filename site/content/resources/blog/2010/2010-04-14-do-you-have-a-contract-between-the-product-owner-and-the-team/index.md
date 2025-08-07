@@ -1,35 +1,38 @@
 ---
 title: Do you have a contract between the Product Owner and the Team?
 description: Explains the benefits of a Sprint Contract in Scrum, clarifying roles and agreements between Product Owner and Team to improve collaboration and manage scope during each Sprint.
+date: 2010-04-14
+lastmod: 2010-04-14
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8d4KN3bxVfX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 52
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-14
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: do-you-have-a-contract-between-the-product-owner-and-the-team
 aliases:
-- /resources/8d4KN3bxVfX
+  - /resources/8d4KN3bxVfX
 aliasesArchive:
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-- /do-you-have-a-contract-between-the-product-owner-and-the-team
-- /do-you-have-a-contract-between-the-product-owner-and-the-team-
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
-- /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-tags:
-- Software Development
+  - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+  - /do-you-have-a-contract-between-the-product-owner-and-the-team
+  - /do-you-have-a-contract-between-the-product-owner-and-the-team-
+  - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
+  - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-sharepoint-128-link-1-1.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:14Z
-concepts: []
+ResourceImportId: 52
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 ![RulestoBetter](images/SSWScrumRules_C6B7-RulestoBetter_-3-3.gif)Working in Scrum it is useful to define a Sprint Contract between the Product Owner (PO) and the implementation Team. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.

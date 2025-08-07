@@ -1,33 +1,36 @@
 ---
 title: Kaiden and the Arachnoid Cyst
 description: A personal account of Kaiden’s early development, delayed walking, and medical journey following the discovery of an arachnoid cyst, with updates and related blog posts.
+date: 2010-05-26
+lastmod: 2010-05-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LjGohC1Hzfv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 41
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-05-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: kaiden-and-the-arachnoid-cyst
 aliases:
-- /resources/LjGohC1Hzfv
+  - /resources/LjGohC1Hzfv
 aliasesArchive:
-- /blog/kaiden-and-the-arachnoid-cyst
-- /kaiden-and-the-arachnoid-cyst
-- /resources/blog/kaiden-and-the-arachnoid-cyst
+  - /blog/kaiden-and-the-arachnoid-cyst
+  - /kaiden-and-the-arachnoid-cyst
+  - /resources/blog/kaiden-and-the-arachnoid-cyst
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:21:54Z
-concepts: []
+ResourceImportId: 41
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.com/archive/2009/02/14/the-delivery-mk-ii.aspx) I posted pictures of him and his sister. Kaiden is now 15 months old and is progressing perfectly in every area except that we had been worried that he was not walking yet. We were only really concerned because his sister was walking at 8 months.

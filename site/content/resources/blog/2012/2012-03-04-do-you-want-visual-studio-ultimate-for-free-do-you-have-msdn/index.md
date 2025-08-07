@@ -1,34 +1,37 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
 description: MSDN subscribers can use Visual Studio, Windows, and Office at home for personal or commercial projects, with licences assigned per user and perpetual rights to existing software.
+date: 2012-03-04
+lastmod: 2012-03-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 3-L2Y2t-oE7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4828
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-03-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+slug: do-you-have-msdn-at-work-use-visual-studio-ultimate-for-free-at-home
 aliases:
-- /resources/3-L2Y2t-oE7
+  - /resources/3-L2Y2t-oE7
 aliasesArchive:
-- /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-- /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
-- /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
-- /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-tags: []
+  - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+  - /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+  - /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
+  - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
+  - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:12Z
-concepts: []
+ResourceImportId: 4828
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!

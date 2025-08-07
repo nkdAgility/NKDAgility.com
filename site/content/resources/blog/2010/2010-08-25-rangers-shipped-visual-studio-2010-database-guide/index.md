@@ -1,33 +1,36 @@
 ---
 title: Rangers shipped Visual Studio 2010 Database Guide
 description: Comprehensive guidance and hands-on labs for managing, testing, and deploying Visual Studio 2010 Database projects, including source control and automation tips.
+date: 2010-08-25
+lastmod: 2010-08-25
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: cPIxk6Q_Dan
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 30
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-08-25
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
-- /resources/cPIxk6Q_Dan
+  - /resources/cPIxk6Q_Dan
 aliasesArchive:
-- /blog/rangers-shipped-visual-studio-2010-database-guide
-- /rangers-shipped-visual-studio-2010-database-guide
-- /resources/blog/rangers-shipped-visual-studio-2010-database-guide
-tags:
-- Software Development
+  - /blog/rangers-shipped-visual-studio-2010-database-guide
+  - /rangers-shipped-visual-studio-2010-database-guide
+  - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:21:36Z
-concepts: []
+ResourceImportId: 30
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 **![vs2010almRanger](images/RangersshippedVisualStudio2010DatabaseGu_C070-vs2010almRanger_-2-2.png)**

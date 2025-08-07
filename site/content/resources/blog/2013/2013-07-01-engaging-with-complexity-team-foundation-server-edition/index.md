@@ -1,42 +1,45 @@
 ---
 title: Engaging with complexity - Team Foundation Server Edition
 description: Detailed walkthrough of a complex Team Foundation Server migration, covering remediation, hardware moves, upgrades, user management, and validation in large enterprise environments.
+date: 2013-07-01
+lastmod: 2013-07-01
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: xr1jtRnRNvp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9703
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-01
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: engaging-with-complexity-team-foundation-server-edition
 aliases:
-- /resources/xr1jtRnRNvp
+  - /resources/xr1jtRnRNvp
 aliasesArchive:
-- /blog/engaging-with-complexity-team-foundation-server-edition
-- /engaging-with-complexity-team-foundation-server-edition
-- /engaging-with-complexity
-- /engaging-with-complexity---team-foundation-server-edition
-- /blog/engaging-with-complexity---team-foundation-server-edition
-- /resources/blog/engaging-with-complexity-team-foundation-server-edition
-tags:
-- Software Development
-- Pragmatic Thinking
-- Install and Configuration
-- System Configuration
-- Azure DevOps
-- Troubleshooting
-- Operational Practices
+  - /blog/engaging-with-complexity-team-foundation-server-edition
+  - /engaging-with-complexity-team-foundation-server-edition
+  - /engaging-with-complexity
+  - /engaging-with-complexity---team-foundation-server-edition
+  - /blog/engaging-with-complexity---team-foundation-server-edition
+  - /resources/blog/engaging-with-complexity-team-foundation-server-edition
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Pragmatic Thinking
+  - Install and Configuration
+  - System Configuration
+  - Azure DevOps
+  - Troubleshooting
+  - Operational Practices
 Watermarks:
   description: 2025-05-13T15:05:53Z
-concepts: []
+ResourceImportId: 9703
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
 I have been engaging with complexity for a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen.

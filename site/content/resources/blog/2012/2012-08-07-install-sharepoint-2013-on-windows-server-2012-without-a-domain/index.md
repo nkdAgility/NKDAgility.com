@@ -1,35 +1,38 @@
 ---
 title: Install SharePoint 2013 on Windows Server 2012 without a domain
 description: Step-by-step guide to installing SharePoint 2013 on Windows Server 2012 without a domain, including prerequisites, configuration, troubleshooting, and key setup tips.
+date: 2012-08-07
+lastmod: 2012-08-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nNzrXud9z_l
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7067
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliases:
-- /resources/nNzrXud9z_l
+  - /resources/nNzrXud9z_l
 aliasesArchive:
-- /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
-- /install-sharepoint-2013-on-windows-server-2012-without-a-domain
-- /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
-tags:
-- Install and Configuration
-- Windows
-- System Configuration
+  - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
+  - /install-sharepoint-2013-on-windows-server-2012-without-a-domain
+  - /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-23-23.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:21Z
-concepts: []
+ResourceImportId: 7067
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-23-23.png
 
 ---
 Any setup of Team Foundation Server is not complete until you have at least tried t work with SharePoint. While I have many customers that like to stay away from  SharePoint I also have many that make it an integral part of not just their TFS install, but their corporate network, offerings and culture.

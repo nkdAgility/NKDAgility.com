@@ -1,43 +1,46 @@
 ---
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
 description: Step-by-step guide to upgrading TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SharePoint 2010, including process template migration and data handling.
+date: 2011-06-30
+lastmod: 2011-06-30
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: KlJGJX3qXCS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3279
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-30
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
-- /resources/blog/upgrading-from-tfs-2008-and-wss-v3.0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-- /resources/KlJGJX3qXCS
+  - /resources/blog/upgrading-from-tfs-2008-and-wss-v3.0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+  - /resources/KlJGJX3qXCS
 aliasesArchive:
-- /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-- /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-- /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-- /resources/blog/upgrading-from-tfs-2008-and-wss-v3.0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-tags:
-- Install and Configuration
-- Software Development
-- System Configuration
-- Troubleshooting
-- Windows
-- Azure DevOps
-- Technical Mastery
-- Operational Practices
-- Pragmatic Thinking
+  - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+  - /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+  - /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+  - /resources/blog/upgrading-from-tfs-2008-and-wss-v3.0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-visual-studio-2005-128-link-33-33.png
+  - Scrum
+tags:
+  - Install and Configuration
+  - Software Development
+  - System Configuration
+  - Troubleshooting
+  - Windows
+  - Azure DevOps
+  - Technical Mastery
+  - Operational Practices
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:10:29Z
-concepts: []
+ResourceImportId: 3279
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---
 [![VS2008Upgrade](images/VS2008Upgrade_thumb-36-36.gif "VS2008Upgrade")](http://blog.hinshelwood.com/files/2011/05/VS2008Upgrade.gif)

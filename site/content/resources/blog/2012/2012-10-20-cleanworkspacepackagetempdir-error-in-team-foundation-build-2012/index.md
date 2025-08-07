@@ -1,40 +1,43 @@
 ---
 title: Team Foundation Build 2012 Issue - The target CleanWorkspacePackageTempDir does not exist
 description: Explains how to resolve the "CleanWorkspacePackageTempDir does not exist" build error in Team Foundation Build 2012 for upgraded ASP.NET MVC projects by updating project targets.
+date: 2012-10-20
+lastmod: 2012-10-20
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: 39VKBQJHQTj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8949
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-10-20
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
+slug: team-foundation-build-2012-issue-the-target-cleanworkspacepackagetempdir-does-not-exist
 aliases:
-- /resources/39VKBQJHQTj
+  - /resources/39VKBQJHQTj
 aliasesArchive:
-- /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-- /cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-- /team-foundation-build-2012-issue
-- /team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
-- /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
-- /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-tags:
-- Software Development
-- Troubleshooting
-- System Configuration
-- Technical Mastery
-- Install and Configuration
+  - /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
+  - /cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
+  - /team-foundation-build-2012-issue
+  - /team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
+  - /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
+  - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-6-6.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Troubleshooting
+  - System Configuration
+  - Technical Mastery
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:26Z
-concepts: []
+ResourceImportId: 8949
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-6-6.png
 
 ---
 When you execute a build of a MVC3 or MVC2 project from 2010 in Team Foundation Build 2012 you get an error of “The target ‘CleanWorkspacePackageTempDir’ does not exist in the project”.

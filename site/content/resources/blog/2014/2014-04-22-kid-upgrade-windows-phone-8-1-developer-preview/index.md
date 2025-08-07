@@ -1,37 +1,40 @@
 ---
 title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
 description: Guide to upgrading to Windows Phone 8.1 Developer Preview, including key features, app recommendations, update steps, and known issues for early adopters.
+date: 2014-04-22
+lastmod: 2014-04-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: CDwU__r19XS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10515
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-04-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: kid-upgrade-windows-phone-8-1-developer-preview
+slug: be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 aliases:
-- /resources/blog/be-a-kid-again-and-upgrade-to-windows-phone-8.1-developer-preview
-- /resources/CDwU__r19XS
+  - /resources/blog/be-a-kid-again-and-upgrade-to-windows-phone-8.1-developer-preview
+  - /resources/CDwU__r19XS
 aliasesArchive:
-- /blog/kid-upgrade-windows-phone-8-1-developer-preview
-- /kid-upgrade-windows-phone-8-1-developer-preview
-- /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
-- /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
-- /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
-- /resources/blog/be-a-kid-again-and-upgrade-to-windows-phone-8.1-developer-preview
-tags:
-- Windows
+  - /blog/kid-upgrade-windows-phone-8-1-developer-preview
+  - /kid-upgrade-windows-phone-8-1-developer-preview
+  - /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
+  - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
+  - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
+  - /resources/blog/be-a-kid-again-and-upgrade-to-windows-phone-8.1-developer-preview
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-6-6.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-12T14:21:52Z
-concepts: []
+ResourceImportId: 10515
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-6-6.png
 
 ---
 I love new things not just because they are new but because they are exiting. Discovery is something that we lose as we get older but it should be nurtured so be a kid again and upgrade to Windows Phone 8.1.

@@ -1,33 +1,36 @@
 ---
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
 description: Explains automating the update of WIQL queries during sprint or iteration changes in the TFS Automation Platform, covering UI, configuration, and job execution details.
+date: 2011-06-01
+lastmod: 2011-06-01
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: sE7yYXG4Th_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3383
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-01
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
-- /resources/sE7yYXG4Th_
+  - /resources/sE7yYXG4Th_
 aliasesArchive:
-- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-- /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-tags:
-- Software Development
-preview: metro-visual-studio-2010-128-link-4-4.png
+  - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+  - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+  - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:47Z
-concepts: []
+ResourceImportId: 3383
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)

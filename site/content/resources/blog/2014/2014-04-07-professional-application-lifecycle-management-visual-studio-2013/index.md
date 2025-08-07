@@ -1,35 +1,38 @@
 ---
 title: Professional Application Lifecycle Management with Visual Studio 2013
 description: Guide to using Visual Studio 2013 for application lifecycle management, covering new ALM features, agile practices, Git integration, and cross-platform development.
+date: 2014-04-07
+lastmod: 2014-04-07
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xeEpDhzecta
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10482
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-04-07
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: professional-application-lifecycle-management-visual-studio-2013
+slug: professional-application-lifecycle-management-with-visual-studio-2013
 aliases:
-- /resources/xeEpDhzecta
+  - /resources/xeEpDhzecta
 aliasesArchive:
-- /blog/professional-application-lifecycle-management-visual-studio-2013
-- /professional-application-lifecycle-management-visual-studio-2013
-- /professional-application-lifecycle-management-with-visual-studio-2013
-- /blog/professional-application-lifecycle-management-with-visual-studio-2013
-- /resources/blog/professional-application-lifecycle-management-visual-studio-2013
-tags:
-- Application Lifecycle Management
+  - /blog/professional-application-lifecycle-management-visual-studio-2013
+  - /professional-application-lifecycle-management-visual-studio-2013
+  - /professional-application-lifecycle-management-with-visual-studio-2013
+  - /blog/professional-application-lifecycle-management-with-visual-studio-2013
+  - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-2-2.png
+  - Uncategorized
+tags:
+  - Application Lifecycle Management
 Watermarks:
   description: 2025-05-12T14:22:01Z
-concepts: []
+ResourceImportId: 10482
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
 About 6 months ago I was approached by Mickey to help him on the third edition of Professional Application Lifecycle Management with Visual Studio 2013. I jumped at the chance, only to be in dismay at the amount of work, and now relieved that it is all over. I could not believe the amount of work that goes into producing a book of the calibre and while fun, deadlines were not...

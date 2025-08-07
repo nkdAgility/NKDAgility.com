@@ -1,33 +1,36 @@
 ---
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
 description: Step-by-step guide to quickly enable Google+ profiles for Google Apps users, including accessing admin settings and activating the service for your domain.
+date: 2011-11-03
+lastmod: 2011-11-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: iTuGd858pI6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4016
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-11-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 aliases:
-- /resources/iTuGd858pI6
+  - /resources/iTuGd858pI6
 aliasesArchive:
-- /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
-- /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
-- /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
-tags:
-- Install and Configuration
+  - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+  - /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+  - /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:09:58Z
-concepts: []
+ResourceImportId: 4016
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 It is finally here… just a short time ago Google enabled the ability to have Google Profiles and by extension Google+ on your customer Google Apps domain. However, you first need to enable it before you can use it.

@@ -1,34 +1,37 @@
 ---
 title: Integrating Project Server 2013 with Team Foundation Server 2012
 description: Step-by-step guide to installing, configuring, and integrating Project Server 2013 with Team Foundation Server 2012, including setup, extensions, and troubleshooting tips.
+date: 2012-11-02
+lastmod: 2012-11-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: fk1Jv6RyesT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9075
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-11-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: integrating-project-server-2013-with-team-foundation-server-2012
 aliases:
-- /resources/fk1Jv6RyesT
+  - /resources/fk1Jv6RyesT
 aliasesArchive:
-- /blog/integrating-project-server-2013-with-team-foundation-server-2012
-- /integrating-project-server-2013-with-team-foundation-server-2012
-- /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/integrating-project-server-2013-with-team-foundation-server-2012
+  - /integrating-project-server-2013-with-team-foundation-server-2012
+  - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-23-23.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:18Z
-concepts: []
+ResourceImportId: 9075
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-23-23.png
 
 ---
 I have recently been playing a lot with the new Office 2013 release and part of that is Project Server 2013. With the new Project Server Extensions being an integral part of any enterprise Team Foundation Server deployment I thought that I should kick the tires.

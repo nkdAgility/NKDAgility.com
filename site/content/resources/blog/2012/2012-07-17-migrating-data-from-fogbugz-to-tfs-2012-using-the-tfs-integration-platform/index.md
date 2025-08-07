@@ -1,34 +1,37 @@
 ---
 title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
 description: Step-by-step guide to migrating FogBugz data to TFS 2012 using a custom CSV adapter with the TFS Integration Platform, including setup, mapping, and import tips.
+date: 2012-07-17
+lastmod: 2012-07-17
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: aEBNMpag_Cn
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 6202
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-07-17
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliases:
-- /resources/aEBNMpag_Cn
+  - /resources/aEBNMpag_Cn
 aliasesArchive:
-- /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
-- /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
-- /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
-tags:
-- Software Development
-- Install and Configuration
-- Technical Mastery
+  - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+  - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+  - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:08:37Z
-concepts: []
+ResourceImportId: 6202
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.

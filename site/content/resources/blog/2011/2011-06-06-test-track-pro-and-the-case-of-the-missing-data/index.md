@@ -1,33 +1,36 @@
 ---
 title: Test Track Pro and the case of the missing data
 description: Explains issues with Test Track Pro data queries in TFS Integration, highlighting problems with date filters causing missing records and suggesting hourly filtering as a fix.
+date: 2011-06-06
+lastmod: 2011-06-06
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: h4j0yIumt7h
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3596
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-06
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: test-track-pro-and-the-case-of-the-missing-data
 aliases:
-- /resources/h4j0yIumt7h
+  - /resources/h4j0yIumt7h
 aliasesArchive:
-- /blog/test-track-pro-and-the-case-of-the-missing-data
-- /test-track-pro-and-the-case-of-the-missing-data
-- /resources/blog/test-track-pro-and-the-case-of-the-missing-data
-tags:
-- Troubleshooting
-- Software Development
+  - /blog/test-track-pro-and-the-case-of-the-missing-data
+  - /test-track-pro-and-the-case-of-the-missing-data
+  - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:36Z
-concepts: []
+ResourceImportId: 3596
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)

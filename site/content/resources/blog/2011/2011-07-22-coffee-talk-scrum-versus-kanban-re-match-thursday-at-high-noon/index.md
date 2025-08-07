@@ -1,36 +1,39 @@
 ---
 title: 'Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!'
 description: A recorded session comparing Scrum and Kanban, discussing their strengths, weaknesses, and how to adapt each method to fit different software development needs.
+date: 2011-07-22
+lastmod: 2011-07-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: KtZxhtX0v9O
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3692
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-07-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliases:
-- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-...-thursday-at-high-noon
-- /resources/KtZxhtX0v9O
+  - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-...-thursday-at-high-noon
+  - /resources/KtZxhtX0v9O
 aliasesArchive:
-- /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
-- /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
-- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-...-thursday-at-high-noon
-tags: []
+  - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+  - /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+  - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
+  - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
+  - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+  - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-...-thursday-at-high-noon
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-nwc-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:23Z
-concepts: []
+ResourceImportId: 3692
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-nwc-128-link-2-2.png
 
 ---
 ![Chaparral%2BHigh[1]](images/Chaparral2BHigh12-1-1.jpg "Chaparral%2BHigh[1]")

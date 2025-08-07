@@ -1,32 +1,35 @@
 ---
 title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
 description: Join an in-person morning event in Bellevue for live Visual Studio demos, Agile discussions, and practical ALM tips to boost your development process and team collaboration.
+date: 2011-09-26
+lastmod: 2011-09-26
+weight: 715
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: uPqvuZorGO-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3796
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-26
-weight: 715
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
-- /resources/uPqvuZorGO-
+  - /resources/uPqvuZorGO-
 aliasesArchive:
-- /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-- /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-tags: []
+  - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+  - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+  - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-nwc-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:08Z
-concepts: []
+ResourceImportId: 3796
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-nwc-128-link-3-3.png
 
 ---
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")Northwest Cadence has decided that while online events are good, nothing beats in-person. If you’re in the area and available, we would love to have you attend our inaugural event at the Microsoft Store in Bellevue in a few weeks!

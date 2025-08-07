@@ -1,36 +1,39 @@
 ---
 title: 'Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item'
 description: Explains how to resolve case sensitivity conflicts when migrating from Subversion to TFS 2010, including tools and steps to handle duplicate target item errors.
+date: 2011-08-26
+lastmod: 2011-08-26
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: z1EKAHhrUI7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3769
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-08-26
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 aliases:
-- /resources/z1EKAHhrUI7
+  - /resources/z1EKAHhrUI7
 aliasesArchive:
-- /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-- /subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-- /subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-- /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-- /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-tags:
-- Troubleshooting
-- Software Development
-preview: image-1.png
+  - /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+  - /subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+  - /subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+  - /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+  - /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:17Z
-concepts: []
+ResourceImportId: 3769
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: image-1.png
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

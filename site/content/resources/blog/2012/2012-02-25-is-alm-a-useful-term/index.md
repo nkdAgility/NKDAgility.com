@@ -1,35 +1,38 @@
 ---
 title: Is ALM a useful term?
 description: Explores whether Application Lifecycle Management (ALM) is a useful term, its role in agile software delivery, and differences in adoption across organisations and regions.
+date: 2012-02-25
+lastmod: 2012-02-25
+weight: 450
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: hnvOLuqmQk7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4576
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-25
-weight: 450
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: is-alm-a-useful-term
 aliases:
-- /resources/hnvOLuqmQk7
+  - /resources/hnvOLuqmQk7
 aliasesArchive:
-- /blog/is-alm-a-useful-term
-- /is-alm-a-useful-term
-- /is-alm-a-useful-term-
-- /blog/is-alm-a-useful-term-
-- /resources/blog/is-alm-a-useful-term
-tags:
-- Software Development
+  - /blog/is-alm-a-useful-term
+  - /is-alm-a-useful-term
+  - /is-alm-a-useful-term-
+  - /blog/is-alm-a-useful-term-
+  - /resources/blog/is-alm-a-useful-term
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: nakedalm-logo-128-link-1-1.png
+  - Engineering Excellence
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:19Z
-concepts: []
+ResourceImportId: 4576
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I was asked this question by [Robert Myers](http://www.linkedin.com/pub/robert-myers/5/316/746) for a “paper” and I think that it is an important one. I started to answer in that little textbox that LinkedIn give you and I got a little carried away. I guess I am an writing mode ![Smile](images/wlEmoticon-smile2-2-2.png)

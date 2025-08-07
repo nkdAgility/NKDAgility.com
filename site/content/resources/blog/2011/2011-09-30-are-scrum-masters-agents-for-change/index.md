@@ -1,36 +1,39 @@
 ---
 title: Are Scrum Masters agents for change?
 description: Explores the role of Scrum Masters in driving organisational change, effective Scrum adoption, and the importance of experience in leading successful agile transformations.
+date: 2011-09-30
+lastmod: 2011-09-30
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: d3jujAd6f6r
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3823
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-30
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: are-scrum-masters-agents-for-change
 aliases:
-- /resources/d3jujAd6f6r
+  - /resources/d3jujAd6f6r
 aliasesArchive:
-- /blog/are-scrum-masters-agents-for-change
-- /are-scrum-masters-agents-for-change
-- /are-scrum-masters-agents-for-change-
-- /blog/are-scrum-masters-agents-for-change-
-- /resources/blog/are-scrum-masters-agents-for-change
-tags:
-- Software Development
-- Scrum Master
+  - /blog/are-scrum-masters-agents-for-change
+  - /are-scrum-masters-agents-for-change
+  - /are-scrum-masters-agents-for-change-
+  - /blog/are-scrum-masters-agents-for-change-
+  - /resources/blog/are-scrum-masters-agents-for-change
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-6-6.png
+  - Scrum
+tags:
+  - Software Development
+  - Scrum Master
 Watermarks:
   description: 2025-05-13T15:10:06Z
-concepts: []
+ResourceImportId: 3823
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---
 ![nwc_logo_tagline](images/nwc_logo_tagline3-7-7.png "nwc_logo_tagline")![PSM Logo 2](images/PSM-Logo-2.png "PSM Logo 2")If you are interested in finding out more about Scrum and how to implement it you might be interested in the Professional Scrum Master certification. Think of it not as becoming a “Master” of anything, but just making sure that you are not going to be a danger to those around you.

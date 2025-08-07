@@ -1,34 +1,37 @@
 ---
 title: Scrum-damentals Webcast on 17th February 2012
 description: Explore common challenges in Scrum adoption, practical strategies for overcoming them, and proven practices to help teams implement Scrum more effectively.
+date: 2012-02-16
+lastmod: 2012-02-16
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: bUSVyRUNCl3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4389
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-16
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scrum-damentals-webcast-on-17th-february-2012
 aliases:
-- /resources/bUSVyRUNCl3
+  - /resources/bUSVyRUNCl3
 aliasesArchive:
-- /blog/scrum-damentals-webcast-on-17th-february-2012
-- /scrum-damentals-webcast-on-17th-february-2012
-- /resources/blog/scrum-damentals-webcast-on-17th-february-2012
-tags:
-- Agile Frameworks
-- Software Development
+  - /blog/scrum-damentals-webcast-on-17th-february-2012
+  - /scrum-damentals-webcast-on-17th-february-2012
+  - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-event-128-link-1-1.png
+  - Scrum
+tags:
+  - Agile Frameworks
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:28Z
-concepts: []
+ResourceImportId: 4389
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-1-1.png
 
 ---
 We often speak about the basics of scrum and rarely get into the problems and I wanted a session that represented the “next steps” after deciding that this Scrum thing was a good idea. I will, hopefully, be hitting this session at those that already understand Scrum, but are looking for a little implementation knowledge and guidance before they get stuck in.

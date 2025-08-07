@@ -1,34 +1,37 @@
 ---
 title: Why I miss Orange and why Vodafone suck!
 description: A personal account comparing poor Vodafone customer service with positive experiences at Orange, highlighting issues with account access, billing, and contract limitations.
+date: 2010-02-08
+lastmod: 2010-02-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5uRWOuzPVbV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 71
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-02-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: why-i-miss-orange-and-why-vodafone-suck
 aliases:
-- /resources/5uRWOuzPVbV
+  - /resources/5uRWOuzPVbV
 aliasesArchive:
-- /blog/why-i-miss-orange-and-why-vodafone-suck
-- /why-i-miss-orange-and-why-vodafone-suck
-- /why-i-miss-orange-and-why-vodafone-suck-
-- /blog/why-i-miss-orange-and-why-vodafone-suck-
-- /resources/blog/why-i-miss-orange-and-why-vodafone-suck
-tags: []
+  - /blog/why-i-miss-orange-and-why-vodafone-suck
+  - /why-i-miss-orange-and-why-vodafone-suck
+  - /why-i-miss-orange-and-why-vodafone-suck-
+  - /blog/why-i-miss-orange-and-why-vodafone-suck-
+  - /resources/blog/why-i-miss-orange-and-why-vodafone-suck
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:22:45Z
-concepts: []
+ResourceImportId: 71
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 <rant>

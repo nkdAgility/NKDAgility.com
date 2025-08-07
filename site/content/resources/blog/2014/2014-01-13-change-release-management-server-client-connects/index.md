@@ -1,35 +1,38 @@
 ---
 title: Change the Release Management Server that your Client connects to
 description: Learn how to change the Release Management Server URL in the client, including manual config file edits and using a utility tool when the server is unavailable.
+date: 2014-01-13
+lastmod: 2014-01-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zTjRpmZ5cJQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10329
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-01-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: change-release-management-server-client-connects
+slug: change-the-release-management-server-that-your-client-connects-to
 aliases:
-- /resources/zTjRpmZ5cJQ
+  - /resources/zTjRpmZ5cJQ
 aliasesArchive:
-- /blog/change-release-management-server-client-connects
-- /change-release-management-server-client-connects
-- /change-the-release-management-server-that-your-client-connects-to
-- /blog/change-the-release-management-server-that-your-client-connects-to
-- /resources/blog/change-release-management-server-client-connects
-tags:
-- System Configuration
-- Install and Configuration
+  - /blog/change-release-management-server-client-connects
+  - /change-release-management-server-client-connects
+  - /change-the-release-management-server-that-your-client-connects-to
+  - /blog/change-the-release-management-server-that-your-client-connects-to
+  - /resources/blog/change-release-management-server-client-connects
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - System Configuration
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:39Z
-concepts: []
+ResourceImportId: 10329
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

@@ -1,42 +1,45 @@
 ---
 title: 'Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010'
 description: Explains how to configure MSTest for automated testing of web services on Team Foundation Build Services 2010, including handling dynamic server ports and build environments.
+date: 2010-03-04
+lastmod: 2010-03-04
+weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: VfWTqYc6S-M
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 68
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-04
-weight: 610
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliases:
-- /resources/VfWTqYc6S-M
+  - /resources/VfWTqYc6S-M
 aliasesArchive:
-- /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-tags:
-- Automated Testing
-- Technical Mastery
-- Software Development
-- Test Automation
-- Pragmatic Thinking
-- Technical Excellence
-- Engineering Practices
-- Troubleshooting
-preview: metro-visual-studio-2010-128-link-6-6.png
+  - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+  - /solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+  - /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
+  - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
+  - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
+tags:
+  - Automated Testing
+  - Technical Mastery
+  - Software Development
+  - Test Automation
+  - Pragmatic Thinking
+  - Technical Excellence
+  - Engineering Practices
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:41Z
-concepts: []
+ResourceImportId: 68
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-6-6.png
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

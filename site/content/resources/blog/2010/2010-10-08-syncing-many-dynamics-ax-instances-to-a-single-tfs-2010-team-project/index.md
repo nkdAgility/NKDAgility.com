@@ -1,36 +1,39 @@
 ---
 title: Syncing many Dynamics AX instances to a single TFS 2010 Team Project
 description: Explains how to configure multiple Dynamics AX instances to sync with a single TFS 2010 Team Project, streamlining source control and work item management for many clients.
+date: 2010-10-08
+lastmod: 2010-10-08
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: cYRmqyXmGQf
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 23
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-10-08
-weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 aliases:
-- /resources/cYRmqyXmGQf
+  - /resources/cYRmqyXmGQf
 aliasesArchive:
-- /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-- /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-- /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-tags:
-- Software Development
-- Install and Configuration
-- System Configuration
-- Modern Source Control
-- Pragmatic Thinking
+  - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
+  - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
+  - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Modern Source Control
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:11:26Z
-concepts: []
+ResourceImportId: 23
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![](images/c51bf204-d93f-4485-9873-88fd0e8f4659.png)I have been working with a customer who had been frustrated with the need to have new Team Project for every instance of AX that they use. In fact with 3 instances per customer and lots of customers it can very quickly get complicated and I wanted to see if there was a solution for them.  

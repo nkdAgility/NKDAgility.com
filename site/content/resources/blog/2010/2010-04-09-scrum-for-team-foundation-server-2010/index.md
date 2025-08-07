@@ -1,33 +1,36 @@
 ---
 title: Scrum for Team Foundation Server 2010
 description: Learn how to implement Scrum practices using Team Foundation Server 2010 and Visual Studio ALM, including project planning, backlog management, and progress tracking.
+date: 2010-04-09
+lastmod: 2010-04-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: rDtXzVuotXt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 55
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-04-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scrum-for-team-foundation-server-2010
 aliases:
-- /resources/rDtXzVuotXt
+  - /resources/rDtXzVuotXt
 aliasesArchive:
-- /blog/scrum-for-team-foundation-server-2010
-- /scrum-for-team-foundation-server-2010
-- /resources/blog/scrum-for-team-foundation-server-2010
-tags:
-- Software Development
+  - /blog/scrum-for-team-foundation-server-2010
+  - /scrum-for-team-foundation-server-2010
+  - /resources/blog/scrum-for-team-foundation-server-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-2-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:18Z
-concepts: []
+ResourceImportId: 55
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---
 ![image](images/ScrumforTFS2010_951A-image_-3-2.png)I will be presenting a session on “Scrum for TFS2010” not once, but twice!

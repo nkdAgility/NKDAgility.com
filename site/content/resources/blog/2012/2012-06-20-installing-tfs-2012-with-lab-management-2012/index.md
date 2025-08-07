@@ -1,39 +1,42 @@
 ---
 title: Installing TFS 2012 with Lab Management 2012
 description: Step-by-step guide to installing and configuring TFS 2012 with Lab Management, including SQL Server, SCVMM integration, troubleshooting, and environment setup tips.
+date: 2012-06-20
+lastmod: 2012-06-20
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: BKHVPKrqv3h
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 5496
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-06-20
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-tfs-2012-with-lab-management-2012
 aliases:
-- /resources/BKHVPKrqv3h
+  - /resources/BKHVPKrqv3h
 aliasesArchive:
-- /blog/installing-tfs-2012-with-lab-management-2012
-- /installing-tfs-2012-with-lab-management-2012
-- /resources/blog/installing-tfs-2012-with-lab-management-2012
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
-- Troubleshooting
-- Windows
-- Azure DevOps
-- Internal Developer Platform
+  - /blog/installing-tfs-2012-with-lab-management-2012
+  - /installing-tfs-2012-with-lab-management-2012
+  - /resources/blog/installing-tfs-2012-with-lab-management-2012
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-42-42.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
+  - Troubleshooting
+  - Windows
+  - Azure DevOps
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:08:54Z
-concepts: []
+ResourceImportId: 5496
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-42-42.png
 
 ---
 I have been onsite this week in California to deploy TFS 2012 and Lab Management for a company in the computer game industry. Because of limited time I am doing the full install in one day and thus will not be getting any of their builds or environments to work today. This is purely an install and test of the happy paths. I have loads of time over the rest of the week running workshops for the customer to bring their guys up to speed on how to do everything else.

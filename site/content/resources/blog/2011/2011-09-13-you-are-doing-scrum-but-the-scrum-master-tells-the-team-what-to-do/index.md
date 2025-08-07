@@ -1,50 +1,53 @@
 ---
 title: You are doing Scrum but the Scrum Master tells the team what to do!
 description: Explains why Scrum Masters should not direct teams, emphasising self-organisation, shared responsibility, and the importance of team autonomy in Scrum practices.
+date: 2011-09-13
+lastmod: 2011-09-13
+weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 5WdN6qGylV8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3778
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-09-13
-weight: 280
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
-- /resources/5WdN6qGylV8
+  - /resources/5WdN6qGylV8
 aliasesArchive:
-- /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
-- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
-- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
-- /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
-- /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
-tags:
-- Self Organisation
-- Social Technologies
-- Team Collaboration
-- Agile Frameworks
-- Scrum Team
-- Software Development
-- Professional Scrum
-- Scrum Master
-- Team Performance
-- Agile Product Management
-- Agile Transformation
-- Agile Leadership
-- Coaching
-- Pragmatic Thinking
+  - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+  - /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+  - /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
+  - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
+  - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+layout: blog
+concepts:
+  - Accountability
 categories:
-- Scrum
-- Technical Leadership
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Scrum
+  - Technical Leadership
+tags:
+  - Self Organisation
+  - Social Technologies
+  - Team Collaboration
+  - Agile Frameworks
+  - Scrum Team
+  - Software Development
+  - Professional Scrum
+  - Scrum Master
+  - Team Performance
+  - Agile Product Management
+  - Agile Transformation
+  - Agile Leadership
+  - Coaching
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:10:13Z
-concepts:
-- Accountability
+ResourceImportId: 3778
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 If you are doing Scrum but the Scrum Master tells the team what to do then you may be missing the point.

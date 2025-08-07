@@ -1,33 +1,36 @@
 ---
 title: Installing Visual Studio 11 on Windows 7
 description: Step-by-step guide to installing Visual Studio 11 on Windows 7, covering setup process, UI changes, system requirements, and initial configuration options.
+date: 2012-02-29
+lastmod: 2012-02-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5vsN0oSbwHe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4727
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: installing-visual-studio-11-beta-on-windows-7
+slug: installing-visual-studio-11-on-windows-7
 aliases:
-- /resources/5vsN0oSbwHe
+  - /resources/5vsN0oSbwHe
 aliasesArchive:
-- /blog/installing-visual-studio-11-beta-on-windows-7
-- /installing-visual-studio-11-beta-on-windows-7
-- /installing-visual-studio-11-on-windows-7
-- /blog/installing-visual-studio-11-on-windows-7
-- /resources/blog/installing-visual-studio-11-beta-on-windows-7
-tags: []
+  - /blog/installing-visual-studio-11-beta-on-windows-7
+  - /installing-visual-studio-11-beta-on-windows-7
+  - /installing-visual-studio-11-on-windows-7
+  - /blog/installing-visual-studio-11-on-windows-7
+  - /resources/blog/installing-visual-studio-11-beta-on-windows-7
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:09:17Z
-concepts: []
+ResourceImportId: 4727
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 With the launch of Visual Studio 11 beta and that it is [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) I wanted to update my laptop with the bits. I have a presentation on Friday of [what's new in Visual Studio 11](http://blog.hinshelwood.com/events/) and I will show some of the new features there.

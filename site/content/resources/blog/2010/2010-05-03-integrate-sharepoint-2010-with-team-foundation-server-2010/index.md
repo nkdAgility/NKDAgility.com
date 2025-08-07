@@ -1,35 +1,38 @@
 ---
 title: Integrate SharePoint 2010 with Team Foundation Server 2010
 description: Step-by-step guide to integrating SharePoint 2010 with Team Foundation Server 2010, including installation, configuration, permissions, and managed paths setup.
+date: 2010-05-03
+lastmod: 2010-05-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: rZaFJwqThDs
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 44
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-05-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: integrate-sharepoint-2010-with-team-foundation-server-2010
 aliases:
-- /resources/rZaFJwqThDs
+  - /resources/rZaFJwqThDs
 aliasesArchive:
-- /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
-- /integrate-sharepoint-2010-with-team-foundation-server-2010
-- /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
+  - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+  - /integrate-sharepoint-2010-with-team-foundation-server-2010
+  - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-15-15.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:22:01Z
-concepts: []
+ResourceImportId: 44
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-15-15.png
 
 ---
 Our client is using a brand new shiny installation of SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded Team Foundation Server 2010 instance into it.

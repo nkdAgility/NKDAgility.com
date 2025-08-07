@@ -1,38 +1,41 @@
 ---
 title: 'TFS Integration Tools - Issue: TFS WIT invalid submission conflict type'
 description: Explains how to resolve the "TFS WIT invalid submission conflict" in TFS Integration Tools by adjusting permissions and enabling bypass-rule submission for successful configuration.
+date: 2012-09-18
+lastmod: 2012-09-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vrpjXVvhpYA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 8781
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-09-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliases:
-- /resources/vrpjXVvhpYA
+  - /resources/vrpjXVvhpYA
 aliasesArchive:
-- /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-tags:
-- Troubleshooting
-- Install and Configuration
-- System Configuration
+  - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+  - /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+  - /tfs-integration-tools
+  - /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+  - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+  - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-2-2.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:36Z
-concepts: []
+ResourceImportId: 8781
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-2-2.png
 
 ---
 Immediately after configuring the TFS Integration Tools you receive a  TFS WIT invalid submission conflict type that states that the source item is invalid.

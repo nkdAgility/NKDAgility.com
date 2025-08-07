@@ -1,38 +1,41 @@
 ---
 title: SharePoint 2013 Issue - After migration from 2010 user permission not working
 description: After migrating from SharePoint 2010 to 2013, users may face permission and authentication issues due to changes in claims-based authentication settings.
+date: 2013-06-21
+lastmod: 2013-06-21
+weight: 875
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: M-S-kXIX-ar
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9906
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-06-21
-weight: 875
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 aliases:
-- /resources/M-S-kXIX-ar
+  - /resources/M-S-kXIX-ar
 aliasesArchive:
-- /blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
-- /sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
-- /sharepoint-2013-issue
-- /sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
-- /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
-- /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
-tags:
-- Troubleshooting
-- Install and Configuration
-- System Configuration
+  - /blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+  - /sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+  - /sharepoint-2013-issue
+  - /sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
+  - /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
+  - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:13Z
-concepts: []
+ResourceImportId: 9906
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 Users coming from a SharePoint 2010 system that try to access SharePoint 2013 after a migration receive a “this site has not been shared with you” message. This mean that they are not able to authenticate to SharePoint 2013.

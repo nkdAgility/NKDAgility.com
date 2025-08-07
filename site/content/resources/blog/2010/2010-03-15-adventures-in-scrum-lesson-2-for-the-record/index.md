@@ -1,37 +1,40 @@
 ---
 title: 'Adventures in Scrum: Lesson 2 - For the record'
 description: Highlights the importance of clear communication and documenting disagreements in Scrum to prevent misunderstandings and failed sprints, especially with proxy Product Owners.
+date: 2010-03-15
+lastmod: 2010-03-15
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ycDsUu_-hNR
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 62
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-03-15
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: adventures-in-scrum-lesson-2-for-the-record
 aliases:
-- /resources/ycDsUu_-hNR
+  - /resources/ycDsUu_-hNR
 aliasesArchive:
-- /blog/adventures-in-scrum-lesson-2-for-the-record
-- /adventures-in-scrum-lesson-2-for-the-record
-- /adventures-in-scrum--lesson-2---for-the-record
-- /blog/adventures-in-scrum--lesson-2---for-the-record
-- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
-tags:
-- Software Development
-- Scrum Team
-- Agile Frameworks
+  - /blog/adventures-in-scrum-lesson-2-for-the-record
+  - /adventures-in-scrum-lesson-2-for-the-record
+  - /adventures-in-scrum--lesson-2---for-the-record
+  - /blog/adventures-in-scrum--lesson-2---for-the-record
+  - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: metro-SSWLogo-128-link-1-1.png
+  - Scrum
+tags:
+  - Software Development
+  - Scrum Team
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-13T15:22:30Z
-concepts: []
+ResourceImportId: 62
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-1-1.png
 
 ---
 At SSW we have always done Agile. Recently we have started doing Scrum and we have nearly completed our first Sprint ever using Scrum. As you probably guessed from my previous post, it looks like it is going to be a “Failed Sprint”, but the Scrum Team (This includes the ScrumMaster and the Product Owner) has learned a huge amount about working in the Scrum Framework.

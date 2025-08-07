@@ -1,35 +1,38 @@
 ---
 title: 'Review: The Professional Scrum Masters Handbook'
 description: A critical review of The Professional Scrum Masters Handbook, highlighting its practical tips for new Scrum Masters and common Scrum misconceptions to avoid.
+date: 2013-08-28
+lastmod: 2013-08-28
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Truj03gqwvW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9967
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-08-28
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
 aliases:
-- /resources/Truj03gqwvW
+  - /resources/Truj03gqwvW
 aliasesArchive:
-- /blog/review-the-professional-scrum-masters-handbook
-- /review-the-professional-scrum-masters-handbook
-- /review--the-professional-scrum-masters-handbook
-- /blog/review--the-professional-scrum-masters-handbook
-- /resources/blog/review-the-professional-scrum-masters-handbook
-tags:
-- Software Development
+  - /blog/review-the-professional-scrum-masters-handbook
+  - /review-the-professional-scrum-masters-handbook
+  - /review--the-professional-scrum-masters-handbook
+  - /blog/review--the-professional-scrum-masters-handbook
+  - /resources/blog/review-the-professional-scrum-masters-handbook
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:23:18Z
-concepts: []
+ResourceImportId: 9967
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 I was asked recently to review The Professional Scrum Masters Handbook. As I read this book there were times that I shouted at it and I almost stopped reading in disgust around chapter 4.

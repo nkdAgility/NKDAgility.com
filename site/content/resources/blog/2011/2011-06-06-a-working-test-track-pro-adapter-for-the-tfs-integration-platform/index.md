@@ -1,32 +1,35 @@
 ---
 title: A working Test Track Pro Adapter for the TFS Integration Platform
 description: Describes building a working Test Track Pro Adapter for the TFS Integration Platform, detailing code changes, conflict handling, and incremental work item migration.
+date: 2011-06-06
+lastmod: 2011-06-06
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: W5oq_99ThZi
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3606
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-06-06
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
-- /resources/W5oq_99ThZi
+  - /resources/W5oq_99ThZi
 aliasesArchive:
-- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-- /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-tags:
-- Software Development
+  - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+  - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+  - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:10:34Z
-concepts: []
+ResourceImportId: 3606
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

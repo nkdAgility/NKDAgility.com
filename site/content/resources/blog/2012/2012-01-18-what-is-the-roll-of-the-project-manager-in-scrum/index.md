@@ -1,35 +1,38 @@
 ---
 title: What is the roll of the Project Manager in Scrum?
 description: Explains why traditional Project Manager roles do not exist in Scrum, outlining how their skills align better with Product Owner or Scrum Master positions in agile teams.
+date: 2012-01-18
+lastmod: 2012-01-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nEmEarH66B7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4116
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-01-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: what-is-the-roll-of-the-project-manager-in-scrum
 aliases:
-- /resources/nEmEarH66B7
+  - /resources/nEmEarH66B7
 aliasesArchive:
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum
-- /what-is-the-roll-of-the-project-manager-in-scrum
-- /what-is-the-roll-of-the-project-manager-in-scrum-
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum-
-- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
-tags:
-- Software Development
+  - /blog/what-is-the-roll-of-the-project-manager-in-scrum
+  - /what-is-the-roll-of-the-project-manager-in-scrum
+  - /what-is-the-roll-of-the-project-manager-in-scrum-
+  - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
+  - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-1-1.png
+  - Scrum
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:09:46Z
-concepts: []
+ResourceImportId: 4116
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---
 I get a lot of questions about the role of the Project Manger in the world of Scrum and there is usually a lot of hemming and hawing from consultants and Scrum coaches that want to take the touchy-feely approach.

@@ -1,34 +1,37 @@
 ---
 title: Traveling for work and the Dell Venue 8
 description: A review of switching to the Dell Venue 8 Pro for frequent business travel, covering device performance, workflow changes, and practical pros and cons for mobile work.
+date: 2014-07-07
+lastmod: 2014-07-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Y8cHV08YFNc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10645
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-07-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: traveling-work-dell-venue-8
+slug: traveling-for-work-and-the-dell-venue-8
 aliases:
-- /resources/Y8cHV08YFNc
+  - /resources/Y8cHV08YFNc
 aliasesArchive:
-- /blog/traveling-work-dell-venue-8
-- /traveling-work-dell-venue-8
-- /traveling-for-work-and-the-dell-venue-8
-- /blog/traveling-for-work-and-the-dell-venue-8
-- /resources/blog/traveling-work-dell-venue-8
-tags: []
+  - /blog/traveling-work-dell-venue-8
+  - /traveling-work-dell-venue-8
+  - /traveling-for-work-and-the-dell-venue-8
+  - /blog/traveling-for-work-and-the-dell-venue-8
+  - /resources/blog/traveling-work-dell-venue-8
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:21:33Z
-concepts: []
+ResourceImportId: 10645
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-4-4.png
 
 ---
 I travel a lot and I have been carting around both a Surface 2 Pro and a Surface 2 on my travels. I have been feeling recently that this was a little silly and I wanted to reduce my load and increase my flexibility. So just last week I purchased a Dell Venue 8.

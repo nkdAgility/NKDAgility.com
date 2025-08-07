@@ -1,39 +1,42 @@
 ---
 title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled'
 description: Explains how to resolve TFS Integration Platform errors caused by missing permissions for bypass-rule submission by adding accounts to the Team Foundation Service Accounts group.
+date: 2012-08-09
+lastmod: 2012-08-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: sb9e7R72Ioq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 7104
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-08-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
-- /resources/sb9e7R72Ioq
+  - /resources/sb9e7R72Ioq
 aliasesArchive:
-- /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
-- /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
-- /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
-- /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
-tags:
-- Install and Configuration
-- Troubleshooting
-- Software Development
-- System Configuration
+  - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+  - /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+  - /tfs-integration-tools
+  - /tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
+  - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
+  - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-problem-icon-5-5.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Troubleshooting
+  - Software Development
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:17Z
-concepts: []
+ResourceImportId: 7104
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-problem-icon-5-5.png
 
 ---
 When you run the TFS Integration Platform for the first time with TFS WIT bypass-rule submission enabled you will likely get the following error:

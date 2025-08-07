@@ -1,34 +1,37 @@
 ---
 title: Integrate reporting and analyses services with Team Foundation Server 2013
 description: Learn how to add and configure SQL Server Reporting and Analysis Services for Team Foundation Server 2013, including integration steps and enabling data reporting features.
+date: 2013-08-05
+lastmod: 2013-08-05
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nNxCVaaSYOS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9875
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-08-05
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliases:
-- /resources/nNxCVaaSYOS
+  - /resources/nNxCVaaSYOS
 aliasesArchive:
-- /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-- /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-- /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
+  - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+  - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+  - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:23:28Z
-concepts: []
+ResourceImportId: 9875
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

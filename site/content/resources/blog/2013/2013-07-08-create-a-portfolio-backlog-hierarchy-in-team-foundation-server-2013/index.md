@@ -1,39 +1,42 @@
 ---
 title: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
 description: Learn how to customise Team Foundation Server 2013 to add a multi-level Portfolio Backlog hierarchy by editing work item types, categories, and process configuration.
+date: 2013-07-08
+lastmod: 2013-07-08
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: O_gTr7ntMcx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9731
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-07-08
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 aliases:
-- /resources/O_gTr7ntMcx
+  - /resources/O_gTr7ntMcx
 aliasesArchive:
-- /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
-- /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
-- /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
-tags:
-- Install and Configuration
-- Azure Boards
-- Azure DevOps
-- Software Development
-- System Configuration
-- Operational Practices
-- Agile Planning Tools
+  - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+  - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+  - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-6-6.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Azure Boards
+  - Azure DevOps
+  - Software Development
+  - System Configuration
+  - Operational Practices
+  - Agile Planning Tools
 Watermarks:
   description: 2025-05-13T15:05:51Z
-concepts: []
+ResourceImportId: 9731
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---
 There are many reasons that you would want to Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of which is modelling your existing processes.

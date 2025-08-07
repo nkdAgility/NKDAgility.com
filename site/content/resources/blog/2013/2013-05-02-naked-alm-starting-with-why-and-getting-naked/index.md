@@ -1,35 +1,38 @@
 ---
 title: 'Naked ALM: starting with why and getting naked'
 description: Explores the importance of understanding purpose in Application Lifecycle Management, focusing on transparency, customer value, and continuous improvement in software delivery.
+date: 2013-05-02
+lastmod: 2013-05-02
+weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: SrQHWVkcvAL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9499
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2013-05-02
-weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
-- /resources/SrQHWVkcvAL
+  - /resources/SrQHWVkcvAL
 aliasesArchive:
-- /blog/naked-alm-starting-with-why-and-getting-naked
-- /naked-alm-starting-with-why-and-getting-naked
-- /naked-alm--starting-with-why-and-getting-naked
-- /blog/naked-alm--starting-with-why-and-getting-naked
-- /resources/blog/naked-alm-starting-with-why-and-getting-naked
-tags:
-- Working Software
+  - /blog/naked-alm-starting-with-why-and-getting-naked
+  - /naked-alm-starting-with-why-and-getting-naked
+  - /naked-alm--starting-with-why-and-getting-naked
+  - /blog/naked-alm--starting-with-why-and-getting-naked
+  - /resources/blog/naked-alm-starting-with-why-and-getting-naked
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Working Software
 Watermarks:
   description: 2025-05-13T15:06:32Z
-concepts: []
+ResourceImportId: 9499
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 For a long time now I have been searching for that perfect domain that epitomised the vision, the why, of what I am trying to achieve with my customers and the industry at large. Now I have found it in [http://nkdagility.com](http://nkdagility.com)

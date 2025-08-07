@@ -1,35 +1,38 @@
 ---
 title: TFS vs. Subversion fact check
 description: Compares TFS and Subversion, addressing common misconceptions, feature differences, platform support, installation, cost, and challenges for SVN users moving to TFS.
+date: 2010-10-14
+lastmod: 2010-10-14
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Tpk1xLI-Ygd
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 22
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-10-14
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-vs-subversion-fact-check
 aliases:
-- /resources/blog/tfs-vs.-subversion-fact-check
-- /resources/Tpk1xLI-Ygd
+  - /resources/blog/tfs-vs.-subversion-fact-check
+  - /resources/Tpk1xLI-Ygd
 aliasesArchive:
-- /blog/tfs-vs-subversion-fact-check
-- /tfs-vs-subversion-fact-check
-- /tfs-vs--subversion-fact-check
-- /blog/tfs-vs--subversion-fact-check
-- /resources/blog/tfs-vs-subversion-fact-check
-- /resources/blog/tfs-vs.-subversion-fact-check
-tags: []
+  - /blog/tfs-vs-subversion-fact-check
+  - /tfs-vs-subversion-fact-check
+  - /tfs-vs--subversion-fact-check
+  - /blog/tfs-vs--subversion-fact-check
+  - /resources/blog/tfs-vs-subversion-fact-check
+  - /resources/blog/tfs-vs.-subversion-fact-check
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:11:25Z
-concepts: []
+ResourceImportId: 22
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.

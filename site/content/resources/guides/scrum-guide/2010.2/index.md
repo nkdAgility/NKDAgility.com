@@ -10,7 +10,7 @@ date: 2010-02-01
 weight: 690
 ResourceImport: false
 ResourceType: guides
-slug: 2010.2
+slug: "2010.2"
 Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
@@ -90,7 +90,6 @@ Scrum employs four principal **Artifacts**:
 - **Product Backlog**: Prioritized list of everything that might be needed in the product.
 - **Sprint Backlog**: List of tasks to turn Product Backlog items into an increment of potentially shippable product.
 - **Burndown**: Measure of remaining backlog over time.
-
   - **Release Burndown**: Measures remaining Product Backlog across the time of a release plan.
   - **Sprint Burndown**: Measures remaining Sprint Backlog items across the time of a Sprint.
 

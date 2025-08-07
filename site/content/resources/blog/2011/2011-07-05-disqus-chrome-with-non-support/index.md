@@ -1,35 +1,37 @@
 ---
 title: Disqus & Chrome with non-support
 description: Describes issues with Disqus comments not loading on WordPress blogs in Chrome, troubleshooting steps, and challenges with Disqus support responses.
+date: 2011-07-05
+lastmod: 2011-07-05
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1XIDHtEDmeQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 3686
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2011-07-05
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: disqus-chrome-with-non-support
 aliases:
-- /resources/blog/disqus-chrome-with-non-support
-- /resources/1XIDHtEDmeQ
+  - /resources/1XIDHtEDmeQ
 aliasesArchive:
-- /blog/disqus-chrome-with-non-support
-- /disqus-chrome-with-non-support
-- /disqus-&-chrome-with-non-support
-- /blog/disqus-&-chrome-with-non-support
-- /resources/blog/disqus-chrome-with-non-support
-tags: []
+  - /blog/disqus-chrome-with-non-support
+  - /disqus-chrome-with-non-support
+  - /disqus-&-chrome-with-non-support
+  - /blog/disqus-&-chrome-with-non-support
+  - /resources/blog/disqus-chrome-with-non-support
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-7-7.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:10:25Z
-concepts: []
+ResourceImportId: 3686
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-7-7.png
 
 ---
 ![](images/disqus-logo-3-3.png)

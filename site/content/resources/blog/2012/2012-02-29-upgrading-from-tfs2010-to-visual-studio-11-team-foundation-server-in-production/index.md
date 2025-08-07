@@ -1,37 +1,40 @@
 ---
 title: Upgrading from TFS2010 to Visual Studio 2012 Team Foundation Server in production
 description: Step-by-step guide to upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, including prerequisites, SQL updates, configuration, and troubleshooting tips.
+date: 2012-02-29
+lastmod: 2012-02-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _KGEsIMh-nJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 4709
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2012-02-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
+slug: upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 aliases:
-- /resources/_KGEsIMh-nJ
+  - /resources/_KGEsIMh-nJ
 aliasesArchive:
-- /blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-- /upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-- /upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
-- /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
-- /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-tags:
-- Install and Configuration
-- Software Development
-- Windows
-- System Configuration
+  - /blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
+  - /upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
+  - /upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
+  - /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
+  - /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Software Development
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:16Z
-concepts: []
+ResourceImportId: 4709
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 Upgrading from Visual Studio 2010 Team Foundation Server to Visual Studio 11 Team Foundation Server beta is very easy and as we have seen, [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). Today I got the new bits and I an going to upgrade our Northwest Cadence production server.

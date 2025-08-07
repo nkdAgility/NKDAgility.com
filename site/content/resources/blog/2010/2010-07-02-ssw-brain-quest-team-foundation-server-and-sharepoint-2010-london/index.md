@@ -1,36 +1,38 @@
 ---
 title: 'SSW Brain Quest: Team Foundation Server and SharePoint 2010 (London)'
 description: Full-day training covering new features and best practices in Visual Studio 2010, Team Foundation Server 2010, and SharePoint 2010 for project management and integration.
+date: 2010-07-02
+lastmod: 2010-07-02
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 8OkQ_qWcpPi
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 36
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-07-02
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 aliases:
-- /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-- /resources/8OkQ_qWcpPi
+  - /resources/8OkQ_qWcpPi
 aliasesArchive:
-- /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-- /ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-- /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
-- /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
-- /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-tags:
-- Software Development
+  - /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
+  - /ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
+  - /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
+  - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
+  - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:21:47Z
-concepts: []
+ResourceImportId: 36
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 ![thumb_SharePoint_and_TFS_2010](images/SSWBrainQuestTeamFoundationServerandShar_955C-thumb_SharePoint_and_TFS_2010_-4-4.jpg)If you are unable to commit to the 5 day [Professional Scrum Developer](http://blog.hinshelwood.com/archive/2010/06/18/professional-scrum-developer-.net-training-in-london.aspx) course we are holding in London, [Adam Cogan](http://www.ssw.com.au/ssw/Employees/EmployeesProfile.aspx?EmpID=AC) is running his famous [Brain Quest](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx) 1 day session on Wednesday 21st July.
