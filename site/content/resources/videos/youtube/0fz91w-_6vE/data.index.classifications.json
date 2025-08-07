@@ -535,15 +535,22 @@
     "level": "Secondary"
   },
   "Lean Product Development": {
+    "resourceId": "0fz91w-_6vE",
     "category": "Lean Product Development",
-    "calculated_at": "2025-04-10T15:54:13",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses optimising processes and identifying bottlenecks, which aligns with Lean principles. However, it primarily focuses on DevOps and Agile methodologies rather than Lean Product Development specifically. The mention of continuous improvement and value delivery is relevant, but the depth of discussion on Lean-specific techniques and frameworks is limited.",
+    "calculated_at": "2025-08-07T07:09:12",
+    "ai_confidence": 64.95,
+    "ai_mentions": 1.5,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.9,
+    "ai_intent": 6.6,
+    "ai_audience": 8.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content emphasizes identifying and resolving bottlenecks, eliminating delays (waste), optimising value flow, and fostering continuous improvement—key Lean Product Development themes. However, it never directly mentions Lean, Lean Thinking, or Lean Product Development, nor does it reference Lean-specific tools or terminology. The alignment and depth are solid, with discussions about waste (waiting, unnecessary delay), feedback loops, experimentation, and value delivery—echoing Lean principles within a DevOps context. The main intent aligns with improving product/process efficiency and value through continuous improvement (matching Lean goals), but the scope is more strongly rooted in DevOps than product development per se. The target audience (practitioners, consultants, process improvers) matches well. The content stays focused, with little digression, but lacks direct Lean labeling and some Lean-specific frameworks or practices, which limits maximum confidence.",
+    "reasoning_summary": "The content is conceptually aligned with Lean Product Development through themes like waste reduction and continuous improvement, but lacks explicit Lean references and tools. The fit is solid but indirect, as it stays framed in DevOps terminology.",
     "level": "Secondary"
   },
   "Organisational Culture": {
@@ -798,13 +805,23 @@
     "level": "Ignored"
   },
   "Empirical Process Control": {
+    "resourceId": "0fz91w-_6vE",
     "category": "Empirical Process Control",
-    "calculated_at": "2025-04-10T15:54:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses concepts related to feedback loops and continuous improvement, which align with empirical process control, though it primarily focuses on DevOps without explicitly centering on empirical process control as the main topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T07:09:00",
+    "ai_confidence": 74.211,
+    "ai_mentions": 2.4,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.6,
+    "ai_intent": 7.3,
+    "ai_audience": 7.9,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "While the content never directly mentions 'Empirical Process Control,' it is conceptually aligned: it focuses on inspecting workflow, identifying bottlenecks, closing feedback loops, and fostering continuous improvement—all central to empirical process control. However, explicit terminology is absent, and the discussion is framed via DevOps consulting rather than using Scrum/Agile theory or referencing canonical sources. The depth is strong, with specific technique examples, but there is limited theoretical grounding. The content targets practitioners interested in Agile/DevOps, matching the intended audience, and remains highly focused on inspection and adaptation, but with a practical rather than explicitly empirical-process-control-centric lens. No penalties apply as it is current and supportive of the category's framing.",
+    "reasoning_summary": "The content aligns well with Empirical Process Control principles (inspection, adaptation, feedback loops) as applied in DevOps consulting, but lacks explicit references or theoretical grounding. Fit is strong but somewhat indirect.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1122,12 +1139,22 @@
     "level": "Tertiary"
   },
   "Sensemaking": {
+    "resourceId": "0fz91w-_6vE",
     "category": "Sensemaking",
-    "calculated_at": "2025-04-10T15:54:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the consultant's role in understanding and optimizing the DevOps process, which involves interpreting complex situations (e.g., identifying bottlenecks) and facilitating effective decision-making to improve organizational workflows and value delivery.",
+    "calculated_at": "2025-08-07T07:08:51",
+    "ai_confidence": 44.8,
+    "ai_mentions": 0.3,
+    "ai_alignment": 5.1,
+    "ai_depth": 4.7,
+    "ai_intent": 4.5,
+    "ai_audience": 7.3,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses a DevOps consultant's role in diagnosing process and technical bottlenecks and driving change. While it touches on provoking re-evaluation and fostering improvement, it does not directly reference sensemaking, complexity frameworks, or the broader act of making sense of complex adaptive systems—the main focus is on identifying specific workflow inefficiencies and facilitating continuous improvement. Alignment is partial: the consultant adapts their approach based on context and asks probing questions, which touches on interpretive practice, but the article lacks explicit discussion or in-depth treatment of sensemaking concepts, principles, frameworks (like Cynefin), or decision-making under complexity. Most discussion is anchored in process optimization and agile consultancy—not the broader interpretive or collective sensemaking practice. Minor audience alignment exists due to targeting change agents and leaders. No penalties applied.",
+    "reasoning_summary": "Only partial fit: content focuses on DevOps bottlenecks and process improvement, not explicit sensemaking or complexity interpretation. Discusses adaptation and questioning, but lacks core sensemaking frameworks or principles.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -1998,5 +2025,24 @@
     "reasoning": "The content centers on DevOps consulting with themes of process optimization, continuous improvement, and value delivery. While these notions overlap with principles in Agentic Engineering, there are no direct mentions of agentic terminology or explicit focus on maximizing both human and AI agency. The post discusses identifying bottlenecks, feedback loops, and fostering autonomy, but largely remains on mainstream DevOps and agile practices. Ethical AI collaboration, systemic observability, or deliberate engineering for agency are not explored in depth. The content's intent fits practitioners interested in optimizing delivery and workflow, consistent with Agentic Engineering's audience but falls short of a thorough philosophical or technical treatment of the category.",
     "reasoning_summary": "This content aligns partially with Agentic Engineering through its focus on continuous improvement, process flow, and fostering team autonomy. However, it lacks explicit agentic language or direct exploration of maximizing human and AI agency, positioning it adjacent but not central to the category.",
     "level": "Tertiary"
+  },
+  "Agentic Software Delivery": {
+    "resourceId": "0fz91w-_6vE",
+    "category": "Agentic Software Delivery",
+    "calculated_at": "2025-08-07T07:08:56",
+    "ai_confidence": 21.72,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.1,
+    "ai_intent": 3.7,
+    "ai_audience": 5.0,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is firmly grounded in DevOps consulting, focusing on process bottlenecks, human factors, and continuous improvement. While it highlights value flow, feedback loops, and agility, there are no explicit or implicit references to autonomous agents, contextual AI, or agentic systems as defined. Depth of discussion is moderate around modern engineering improvements, but does not touch on agentic collaboration, integration, or the augmentation of teams with intelligent agents. The audience (technical practitioners/consultants) somewhat overlaps, but the intent and main themes lack necessary alignment with Agentic Software Delivery. No outdated or contradictory elements were identified.",
+    "reasoning_summary": "This content discusses classic DevOps consulting and continuous improvement but does not address agentic systems, AI agents, or their integration. It only partially aligns with the category, missing core topics on agency or autonomous intelligence.",
+    "level": "Ignored"
   }
 }

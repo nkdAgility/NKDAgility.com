@@ -289,13 +289,23 @@
     "level": "Ignored"
   },
   "Release Management": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "Release Management",
-    "calculated_at": "2025-04-10T15:54:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "While the content focuses on continuous delivery and DevOps practices, which are related to release management, it mainly emphasizes DevOps principles and teamwork without explicitly detailing specific release management strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T07:09:39",
+    "ai_confidence": 78.58,
+    "ai_mentions": 2.1,
+    "ai_alignment": 8.2,
+    "ai_depth": 7.9,
+    "ai_intent": 8.3,
+    "ai_audience": 9.1,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 79.0,
+    "reasoning": "The content primarily covers continuous integration/delivery (CI/CD) with Azure DevOps, emphasizing iterative software delivery and collaboration. CI/CD is central to release management, and several learning outcomes reference delivery, integration, and planning—key elements of Release Management. The intent is instructional for practitioners involved in release processes, with focus on tools, practices, and team alignment. However, direct mentions of 'Release Management' are absent, and while depth is substantial around CI/CD, broader release management processes like risk management, release scheduling, and metrics are not explicitly discussed, resulting in slightly reduced scores on mentions and depth. Audience focus, intent, and topic alignment remain very strong.",
+    "reasoning_summary": "The content fits the Release Management category due to strong focus on CI/CD, tooling, and delivery practices in DevOps, all key aspects of release management. Direct naming is sparse, but conceptual alignment and practical relevance are high.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -412,12 +422,22 @@
     "level": "Ignored"
   },
   "Large Scale Agility": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "Large Scale Agility",
-    "calculated_at": "2025-04-10T15:54:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses scaling agility and continuous delivery in a team context, which aligns with some aspects of Large Scale Agility, but it is primarily focused on DevOps practices and training without a strong emphasis on organizational Agile frameworks.",
+    "calculated_at": "2025-08-07T07:09:41",
+    "ai_confidence": 58.7,
+    "ai_mentions": 4.8,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.6,
+    "ai_intent": 6.0,
+    "ai_audience": 7.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content is a course on enabling continuous delivery using Azure DevOps, focusing on DevOps principles, CI/CD, and team collaboration. Phrases like 'increase flow at scale' and 'plan and execute at scale' hint at scaling practices, and 'scaling agility' is explicitly mentioned. However, the material primarily centers around tooling and DevOps practices for teams, with only limited direct discussion of enterprise-wide Agile frameworks or strategies. Topics such as leadership roles, enterprise transformation, or business alignment are not prominent. The audience is intermediate-level professionals, developers, and those already working with Scrum or Azure tools, which skews more towards practitioners than enterprise strategists. The signal-to-noise ratio is moderate; most content is on-topic, but large-scale agility is not the sole or main focus.",
+    "reasoning_summary": "The course addresses DevOps concepts and touches on scaling agility but lacks depth in enterprise Agile frameworks or transformation. Fit is partial: relevant references exist but do not form the main thrust.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1131,13 +1151,23 @@
     "level": "Ignored"
   },
   "Team Motivation": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "Team Motivation",
-    "calculated_at": "2025-04-10T15:54:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content mentions working better as a team and scaling agility, which relates to team dynamics and motivation. However, the primary focus is on technical aspects of Azure DevOps and continuous delivery, making team motivation a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T07:09:45",
+    "ai_confidence": 29.3,
+    "ai_mentions": 1.8,
+    "ai_alignment": 3.9,
+    "ai_depth": 2.5,
+    "ai_intent": 4.2,
+    "ai_audience": 6.4,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on DevOps principles, CI/CD, and tool usage (Azure DevOps Services), targeting developers and teams looking to improve collaboration and delivery processes. While 'team collaboration' and 'continuous learning' are mentioned, these are not discussed in-depth nor explicitly explored from a team motivation perspective. There are no key motivational frameworks, strategies, or discussions of psychological, social, or leadership elements that drive team engagement, trust, or performance. Any alignment with 'Team Motivation' is incidental and limited to possible side effects of improved collaboration and continuous learning in a DevOps context, rather than being the intent or core of the training.",
+    "reasoning_summary": "Content centers on DevOps, CI/CD, and tools, with limited references to collaboration and learning. It does not meaningfully explore motivation, engagement, or psychological factors as its primary topic, so fit to 'Team Motivation' is minimal.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1158,13 +1188,23 @@
     "level": "Ignored"
   },
   "Throughput": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "Throughput",
-    "calculated_at": "2025-04-10T15:54:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content discusses DevOps principles and practices aimed at increasing flow and delivering value continuously, which relates to throughput, but the focus is more on training and practices rather than a deep exploration of throughput as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-08-07T07:09:39",
+    "ai_confidence": 17.926,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 7.1,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "There is no direct mention of throughput or explicit delivery metrics. While themes like 'increase flow at scale' and 'team delivery' are present, these are broad DevOps topics rather than specific discussions of throughput as a delivery metric. The course content instead focuses on CI/CD, scaling, team collaboration, and tool usage (Azure DevOps, Visual Studio), without in-depth analysis, measurement, or visualization of throughput. The intent is to improve delivery discipline generally, not to analyze throughput in particular. The audience is closely matched (DevOps practitioners, teams), but overall, the topic remains tangential to explicit throughput focus.",
+    "reasoning_summary": "The content broadly mentions improving flow and delivery, but does not address throughput metrics, analysis, or visualization. It aligns with general delivery improvement, not specific throughput measurement or discussion.",
+    "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",

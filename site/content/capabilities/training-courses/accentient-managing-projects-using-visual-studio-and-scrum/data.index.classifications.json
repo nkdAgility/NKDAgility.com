@@ -227,13 +227,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "QjDoUAyMmas",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-10T15:54:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on delivering software using the Scrum framework, which is a central methodology in product delivery. It discusses outcomes and objectives related to agile practices and teamwork, fitting well within the scope of product delivery.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T07:09:35",
+    "ai_confidence": 92.4,
+    "ai_mentions": 8.5,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.4,
+    "ai_intent": 9.3,
+    "ai_audience": 9.0,
+    "ai_signal": 9.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 92.0,
+    "reasoning": "The content describes a practical, hands-on Scrum and Visual Studio training focused on end-to-end product delivery using agile methodologies. Key product delivery topics—backlog management, sprint planning, team collaboration, agile testing, and reporting—are explicitly covered. The course is intended for practitioners (POs, Scrum Masters, Devs, Testers), directly matching the audience described in the category definition. There is a deep, structured exploration of integrated delivery practices: planning, development, testing, deployment tool usage, and performance tracking. No off-topic or outdated content is present. The course's primary purpose is to teach effective delivery, resulting in high confidence.",
+    "reasoning_summary": "Content directly trains practitioners on Scrum-based product delivery using Visual Studio, covering backlog management, planning, testing, and collaboration. Topic, intent, and audience closely fit the Product Delivery category.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -468,12 +478,22 @@
     "level": "Ignored"
   },
   "Scrum Values": {
+    "resourceId": "QjDoUAyMmas",
     "category": "Scrum Values",
-    "calculated_at": "2025-04-10T15:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content primarily focuses on a training course about managing projects using Scrum but mentions the Scrum framework and its application. However, it does not specifically discuss the Scrum Values directly.",
+    "calculated_at": "2025-08-07T07:09:38",
+    "ai_confidence": 41.71,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.8,
+    "ai_intent": 4.2,
+    "ai_audience": 9.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content describes a training focused on using Scrum and Visual Studio for managing software projects. While Scrum is directly referenced, and the audience aligns with Scrum practitioners, there is no explicit discussion of Scrum Values like Commitment, Courage, Focus, Openness, or Respect. The course covers the Scrum framework and team collaboration but doesn't indicate that it teaches or emphasizes the Scrum Values themselves. Main topics are backlog management, sprint planning, and agile testing, which are technical/process aspects rather than value-based principles. There is moderate alignment if one assumes collaboration implicitly relates to values, but depth, intent, and explicit mention are low for the Scrum Values category.",
+    "reasoning_summary": "Content is Scrum-related but does not directly or thoroughly address Scrum Values. Focus is on processes and tools, not principles. Fit is partial and mostly implicit; explicit coverage of Scrum Values is minimal or absent.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -598,13 +618,23 @@
     "level": "Ignored"
   },
   "Team Collaboration": {
+    "resourceId": "QjDoUAyMmas",
     "category": "Team Collaboration",
-    "calculated_at": "2025-04-10T15:54:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 80.0,
-    "reasoning": "The course is focused on delivering software using the Scrum framework, which involves teamwork and collaboration as a central theme. It emphasizes team-based exercises and acknowledges the importance of collaboration in Agile methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T07:09:35",
+    "ai_confidence": 83.3,
+    "ai_mentions": 7.7,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.2,
+    "ai_intent": 8.4,
+    "ai_audience": 8.9,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly lists 'team collaboration' as a key topic and learning outcome, and the course structure includes team-based exercises, emphasizing collaboration practices within Agile/Scrum. However, collaboration is one of several main course topics (alongside backlog management, reporting, testing), so while present and important, it is not the only deep focus. The content's audience and purpose match the category definition, targeting Agile/Scrum practitioners working in teams. No penalties apply since the content is current and positively framed.",
+    "reasoning_summary": "The course covers team collaboration as a main learning outcome and explores teamwork within Agile/Scrum contexts, matching the category well—though the focus is shared with other project management and tooling topics.",
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -941,13 +971,23 @@
     "level": "Ignored"
   },
   "Working Software": {
+    "resourceId": "QjDoUAyMmas",
     "category": "Working Software",
-    "calculated_at": "2025-04-10T15:54:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the delivery of software using the Scrum framework within the context of managing projects, emphasizing the importance of functional software development.",
-    "level": "Secondary"
+    "calculated_at": "2025-08-07T07:09:39",
+    "ai_confidence": 54.13,
+    "ai_mentions": 1.7,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.6,
+    "ai_intent": 5.1,
+    "ai_audience": 7.3,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The course centers on managing software projects with Scrum and Visual Studio—covering agile practices and tools. While it implies the delivery of working software through focus on sprints, backlog, and testing, it rarely names 'working software' directly. Its main themes emphasize project/process/tool competencies (planning, collaborating, tracking, reporting) rather than substantive discussion of working software as an output artifact. The learning outcomes and topics list do not deeply explore the qualities of working, usable software increments, their measurement, or continuous delivery/feedback. The content does target practitioners involved in delivering software but generally focuses on enabling mechanisms, not the artifact itself.",
+    "reasoning_summary": "Content fits partially: focuses on processes and tools supporting software delivery with Scrum, not directly on working software as an artifact. References to output are implicit, not central.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

@@ -126,11 +126,23 @@ while ($hugoMarkdownQueue.Count -gt 0) {
        
     }
 
-
+    #=================DATES=================
     if (-not $hugoMarkdown.FrontMatter.date) {
         $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date
     }
+    switch ($ResourceType) {
+        "blog" { 
+            if (-not $hugoMarkdown.FrontMatter.lastmod) {
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'lastmod' -fieldValue $hugoMarkdown.FrontMatter.date
+            }
+        }
+        default { 
+            # do nothing
+        }
+    }
+    #=================/DATES=================
+   
 
    
 
@@ -327,6 +339,25 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
     $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
+    # =================SITEMAP===================
+    switch ($ResourceType) {
+        "blog" { 
+            $invertedWeight = [math]::Round((1000 - $hugoMarkdown.FrontMatter.weight) / 999, 3)
+            $sitemap = [ordered]@{ filename = "sitemap.xml"; priority = $invertedWeight; changefreq = "weekly" } 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'sitemap' -fieldValue $sitemap -Overwrite
+        }
+        "podcast" { 
+                 
+        }
+        "videos" { 
+           
+        }
+        
+        default { 
+                
+        }
+    }
+    # =================/SITEMAP===================
     # =================CONTENT===================
     switch ($ResourceType) {
         "blog" { 
@@ -370,6 +401,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'tldr'
     $list += 'date'
     $list += 'weight'
+    $list += 'sitemap'
     $list += 'author'
     $list += 'contributors'
     $list += 'ResourceId'
