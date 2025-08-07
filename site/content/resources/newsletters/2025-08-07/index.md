@@ -2,7 +2,7 @@
 title: "Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence"
 short_title: Engineering Excellence Consulting in EST
 description: "Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery"
-tldr: Martin Hinshelwood is now available in Eastern Standard Time to help North American based software teams improve engineering excellence. Development managers are encouraged to book a free 30-minute call to identify and address delivery bottlenecks and move beyond ineffective rituals and frameworks.
+tldr: Martin Hinshelwood is now available in Eastern Standard Time to help North American based software teams improve engineering excellence. Move beyond ineffective rituals and frameworks and book a free 30-minute call.
 date: 2025-08-07T09:00:00Z
 lastmod: 2025-08-07T09:00:00Z
 weight: 155
@@ -16,10 +16,7 @@ ResourceImport: false
 ResourceType: newsletters
 ResourceContentOrigin: human
 aliases:
-  - /resources/AORP41zLNTi
   - /resources/WEqwDQVsOIa
-aliasesArchive:
-  - /resources/AORP41zLNTi
 layout: newsletter
 concepts: []
 categories:
@@ -42,7 +39,7 @@ Watermarks:
 resourceTypes: newsletter
 ---
 
-# Now in EST. Ready to Raise the Bar?
+## Now in EST. Ready to Raise the Bar?
 
 For the next six months, I’m operating in **Eastern Standard Time (EST)**. That means **real-time access** for organisations in the **US and Mexico** looking to raise the bar in **engineering excellence and technical leadership**.
 
@@ -67,7 +64,7 @@ That fear poisons delivery. Here's what I’m seeing in real teams:
 
 And it’s not just dysfunction. It’s **organisational self-sabotage**. The teams know it. Leadership suspects it. But no one says it out loud.
 
-I do.
+**_I do._**
 
 ---
 
@@ -80,7 +77,7 @@ Other upcomming posts in preview this month include:
 - [Why Limiting WIP Beats Better Estimation (32 days)](https://preview.nkdagility.com/resources/blog/estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy/)
 - [Flow of Value vs Flow of Work (39 days)](https://preview.nkdagility.com/resources/blog/flow-of-value-vs-flow-of-work/)
 
-Anything thats not published yet we are seeking feedback and comments on, so please feel free to leave your thoughts on the posts.
+We are seeking feedback and comments on all of these posts, so please feel free to leave your thoughts on the posts.
 
 ---
 
@@ -98,7 +95,7 @@ Faster feedback, fewer surprises, and less theatre.
 
 ---
 
-## Book a Real Conversation — No Fluff, No Pitch
+## Book a Real Conversation - No Fluff, No Pitch
 
 If you’re ready to stop pretending and start improving, let’s talk.  
 We’ll take 30 minutes, inspect your current system of delivery, and explore what’s holding your teams back.
@@ -109,5 +106,5 @@ There’s no sales script. Just candour, technical expertise, and pragmatic opti
 
 See you soon.  
 **Martin Hinshelwood**  
-CEO & Principal Consultant, naked Agility  
+Principal Consultant, naked Agility  
 _Focused on engineering excellence and delivery leadership_
