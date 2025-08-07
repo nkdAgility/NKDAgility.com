@@ -2,8 +2,14 @@
 title: The Power of Immersive Learning in Agile Training
 short_title: Immersive Learning in Agile Training
 description: Explores how immersive, hands-on learning in Agile training fosters real-world application, continuous improvement, and lasting organisational change through feedback and adaptation.
+tldr: Immersive learning in Agile training leads to real organizational change by having participants actively apply new skills to real challenges, seek feedback, and continuously improve. This approach builds a culture of experimentation and adaptation, resulting in sustained learning and measurable team improvements. Development managers should prioritize immersive, feedback-driven training to drive lasting transformation rather than just knowledge transfer.
 date: 2024-02-04T11:00:23Z
+lastmod: 2024-02-04T11:00:23Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: HjumLIMTefA
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-immersive-learning-in-agile-training
 aliases:
-- /resources/HjumLIMTefA
-- /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
-- /resources/videos/the-power-of-immersive-learning-in-agile-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+  - /resources/HjumLIMTefA
+  - /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
+  - /resources/videos/the-power-of-immersive-learning-in-agile-training
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 aliasesArchive:
-- /resources/videos/the-power-of-immersive-learning-in-agile-training
-- /resources/the-power-of-immersive-learning-in-agile-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
-- the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
+  - /resources/videos/the-power-of-immersive-learning-in-agile-training
+  - /resources/the-power-of-immersive-learning-in-agile-training
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+  - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+  - the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Improvement
-- Organisational Change
-- Pragmatic Thinking
-- Continuous Learning
-- Agile Transformation
-- Agile Philosophy
-- Change Management
-- Competence
-- Operational Practices
+  - Continuous Improvement
+  - Organisational Change
+  - Pragmatic Thinking
+  - Continuous Learning
+  - Agile Transformation
+  - Personal
+  - Agile Philosophy
+  - Change Management
+  - Competence
+  - Operational Practices
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:06:00Z
   short_title: 2025-07-07T17:49:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:16Z
 videoId: HjumLIMTefA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

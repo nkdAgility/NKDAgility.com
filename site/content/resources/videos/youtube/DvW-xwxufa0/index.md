@@ -2,8 +2,14 @@
 title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 short_title: Limits of Self-Taught Learning in Tech
 description: Explores the limits of self-taught learning in tech, highlighting how external expertise and diverse perspectives drive better solutions, growth, and organisational success.
+tldr: Relying only on self-taught learning limits your team’s growth because people tend to stop searching for better solutions once they find one that works. Bringing in external expertise exposes your organization to new perspectives, tools, and methods, helping you identify hidden problems and explore more effective approaches. To drive innovation and align progress with your goals, balance internal learning with outside guidance and encourage your team to keep exploring beyond their current knowledge.
 date: 2024-08-22T07:00:08Z
+lastmod: 2024-08-22T07:00:08Z
 weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: DvW-xwxufa0
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-limits-of-self-taught-learning-why-external-perspectives-matter
 aliases:
-- /resources/DvW-xwxufa0
-- /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
-- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
+  - /resources/DvW-xwxufa0
+  - /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
+  - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
 aliasesArchive:
-- /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
-- /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
-- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
-- /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
-- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
-- the-limits-of-self-taught-learning-why-external-perspectives-matter
+  - /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
+  - /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
+  - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+  - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+  - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
+  - the-limits-of-self-taught-learning-why-external-perspectives-matter
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:01:29Z
   short_title: 2025-07-07T17:48:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:29Z
 videoId: DvW-xwxufa0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

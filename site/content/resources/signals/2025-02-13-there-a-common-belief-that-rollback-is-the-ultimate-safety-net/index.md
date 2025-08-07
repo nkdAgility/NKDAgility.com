@@ -2,48 +2,55 @@
 title: There a common belief that rollback is the ultimate safety net
 short_title: Rollback Is Not the Ultimate Safety Net
 description: Rollback is often riskier than rolling forward, especially for stateful apps. Safer deployment relies on progressive delivery and fail-forward strategies, not reversals.
+tldr: Relying on rollback as a safety net is risky, especially for stateful applications where it can cause data issues and failures. Safer approaches include progressive delivery methods like feature flags and canary releases, which help detect and limit problems early. Teams should focus on making deployments safe to fail rather than assuming rollback will fix mistakes.
 date: 2025-02-13T15:53:38+00:00
+lastmod: 2025-02-13T15:53:38+00:00
 weight: 270
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 3-BmsmOEWfJ
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: there-a-common-belief-that-rollback-is-the-ultimate-safety-net
 aliases:
-- /resources/3-BmsmOEWfJ
+  - /resources/3-BmsmOEWfJ
 source: LinkedIn
 layout: signal
 concepts:
-- Practice
+  - Practice
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Deployment Strategies
-- Continuous Delivery
-- Pragmatic Thinking
-- Operational Practices
-- Product Delivery
-- Software Development
-- Engineering Practices
-- Frequent Releases
-- Release Management
-- Technical Mastery
+  - Deployment Strategies
+  - Pragmatic Thinking
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Engineering Practices
+  - Frequent Releases
+  - Release Management
+  - Technical Mastery
+  - Continuous Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7295832502361833472
-  post_id: "7295832502361833472"
-  post_date: 2025-02-13T15:53:38Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7295832502361833472
+    post_id: "7295832502361833472"
+    post_date: 2025-02-13T15:53:38Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:00Z
   short_title: 2025-07-07T17:46:33Z
+  tldr: 2025-08-07T12:39:36Z
 
 ---
 There’s a common belief that rollback is the ultimate safety net. That if something goes wrong, we’ll just roll back and everything will be fine.

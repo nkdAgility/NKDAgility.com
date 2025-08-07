@@ -2,8 +2,14 @@
 title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 short_title: Engaging Teams for Organisational Change
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
+tldr: Successful organisational change depends on actively engaging your team by aligning their goals with the change, involving them in the process, and maintaining open communication. Empowering team members through participation and celebrating progress builds trust and motivation. To drive effective transformation, focus on shared purpose, regular updates, and continuous feedback so your team feels invested and valued.
 date: 2023-12-04T11:00:23Z
+lastmod: 2023-12-04T11:00:23Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: OMlLiLkCmMY
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: engaging-your-team-the-secret-to-successful-organisational-change
 aliases:
-- /resources/OMlLiLkCmMY
-- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
-- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
+  - /resources/OMlLiLkCmMY
+  - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+  - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+  - /resources/videos/-shorts-7-virtues-of-agile-chastity
 aliasesArchive:
-- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
-- /resources/-shorts-7-virtues-of-agile-chastity
-- engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+  - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+  - /resources/videos/-shorts-7-virtues-of-agile-chastity
+  - /resources/-shorts-7-virtues-of-agile-chastity
+  - engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags:
-- Team Motivation
-- Organisational Change
-- Change Management
-- Employee Engagement
-- Agile Leadership
-- Organisational Culture
+  - Team Motivation
+  - Organisational Change
+  - Change Management
+  - Employee Engagement
+  - Team Collaboration
+  - Agile Leadership
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:07:18Z
   short_title: 2025-07-07T17:51:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:49Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

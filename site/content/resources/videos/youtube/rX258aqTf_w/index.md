@@ -2,8 +2,14 @@
 title: In what circumstances is agile consulting appropriate?
 short_title: When to Use Agile Consulting
 description: Explains when agile consulting is best used, highlighting its role in building internal leadership, rapid problem-solving, and sustainable organisational transformation.
+tldr: Agile consulting is most effective when used for short-term engagements that build internal leadership and agile capabilities, rather than relying on long-term external coaches which can create dependency and erode core competencies. The main value lies in helping teams quickly identify and solve key problems, enabling sustainable improvement and momentum. Development managers should focus on developing internal agile leaders and use consultants to kickstart transformation, not as a permanent solution.
 date: 2023-01-06T04:52:40Z
+lastmod: 2023-01-06T04:52:40Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: rX258aqTf_w
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: in-what-circumstances-is-agile-consulting-appropriate
 aliases:
-- /resources/rX258aqTf_w
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
+  - /resources/rX258aqTf_w
+  - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 aliasesArchive:
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
-- /resources/in-what-circumstances-is-agile-consulting-appropriate
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
-- /resources/in-what-circumstances-is-agile-consulting-appropriate-
-- in-what-circumstances-is-agile-consulting-appropriate
+  - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
+  - /resources/in-what-circumstances-is-agile-consulting-appropriate
+  - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
+  - /resources/in-what-circumstances-is-agile-consulting-appropriate-
+  - in-what-circumstances-is-agile-consulting-appropriate
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Leadership
+  - Product Development
+  - Leadership
 tags:
-- Pragmatic Thinking
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:14:36Z
   short_title: 2025-07-07T17:57:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:21Z
 videoId: rX258aqTf_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

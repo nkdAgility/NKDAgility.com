@@ -2,8 +2,14 @@
 title: What is Project Management?
 short_title: What is Project Management?
 description: Explains project management’s origins, key tools like the Gantt chart, and its evolution into a vital method for planning and delivering work in today’s business world.
+tldr: Project management began in the early 1900s with tools like the Gantt chart and was designed to help teams plan and deliver work efficiently. Its core principles remain relevant today, having evolved to support the fast pace of modern business. Consider exploring Agile and Scrum approaches to further enhance your team's project management skills.
 date: 2023-05-22T07:00:14Z
-weight: 1000
+lastmod: 2023-05-22T07:00:14Z
+weight: 960
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: jmU91ClcSqA
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-project-management
 aliases:
-- /resources/jmU91ClcSqA
-- /resources/videos/what-is-project-management-jmU91ClcSqA
+  - /resources/jmU91ClcSqA
+  - /resources/videos/what-is-project-management-jmU91ClcSqA
 aliasesArchive:
-- /resources/videos/what-is-project-management
-- /resources/what-is-project-management
-- /resources/videos/what-is-project-management-
-- /resources/what-is-project-management-
-- what-is-project-management-jmU91ClcSqA
+  - /resources/videos/what-is-project-management
+  - /resources/what-is-project-management
+  - /resources/videos/what-is-project-management-
+  - /resources/what-is-project-management-
+  - what-is-project-management-jmU91ClcSqA
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:19Z
   short_title: 2025-07-07T17:55:09Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:56Z
 videoId: jmU91ClcSqA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

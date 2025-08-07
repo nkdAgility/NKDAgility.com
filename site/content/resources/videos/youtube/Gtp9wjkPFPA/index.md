@@ -2,8 +2,14 @@
 title: How do DevOps and Agile integrate?
 short_title: How DevOps and Agile Work Together
 description: Explains how DevOps and Agile work together, highlighting their complementary roles in engineering, process, and people to improve software delivery and team collaboration.
+tldr: 'DevOps and Agile are closely connected, each offering a different but complementary focus: DevOps emphasizes engineering and continuous delivery, while Agile centers on people and process. Combining both approaches helps teams achieve better results by leveraging their unique strengths together. Development managers should encourage their teams to integrate both mindsets for optimal performance.'
 date: 2023-06-13T14:30:08Z
-weight: 630
+lastmod: 2023-06-13T14:30:08Z
+weight: 570
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Gtp9wjkPFPA
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-do-devops-and-agile-integrate
 aliases:
-- /resources/Gtp9wjkPFPA
-- /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
+  - /resources/Gtp9wjkPFPA
+  - /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 aliasesArchive:
-- /resources/videos/how-do-devops-and-agile-integrate
-- /resources/how-do-devops-and-agile-integrate
-- /resources/videos/how-do-devops-and-agile-integrate-
-- /resources/how-do-devops-and-agile-integrate-
-- how-do-devops-and-agile-integrate-Gtp9wjkPFPA
+  - /resources/videos/how-do-devops-and-agile-integrate
+  - /resources/how-do-devops-and-agile-integrate
+  - /resources/videos/how-do-devops-and-agile-integrate-
+  - /resources/how-do-devops-and-agile-integrate-
+  - how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:40Z
   short_title: 2025-07-07T17:54:41Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:50Z
 videoId: Gtp9wjkPFPA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

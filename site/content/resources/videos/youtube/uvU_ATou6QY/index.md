@@ -2,8 +2,14 @@
 title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
 short_title: Signs You're Failing as a Product Owner
 description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
+tldr: A failing product owner is marked by poor product quality, inconsistent delivery, lack of vision, and not taking true ownership of the product. To deliver real value, product owners must make decisions, communicate a clear vision, and focus on actual outcomes rather than vanity metrics. Development managers should ensure their product owners are empowered to lead, make tough calls, and stay aligned with user and business needs.
 date: 2023-09-22T07:00:32Z
-weight: 1000
+lastmod: 2023-09-22T07:00:32Z
+weight: 860
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: uvU_ATou6QY
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: signs-you're-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliases:
-- /resources/uvU_ATou6QY
-- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-- /resources/videos/what-does-failure-look-like-as-a-product-owner
-- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+  - /resources/uvU_ATou6QY
+  - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+  - /resources/videos/what-does-failure-look-like-as-a-product-owner
+  - /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesArchive:
-- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-- /resources/videos/what-does-failure-look-like-as-a-product-owner-
-- /resources/what-does-failure-look-like-as-a-product-owner-
-- /resources/videos/what-does-failure-look-like-as-a-product-owner
-- signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+  - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+  - /resources/videos/what-does-failure-look-like-as-a-product-owner-
+  - /resources/what-does-failure-look-like-as-a-product-owner-
+  - /resources/videos/what-does-failure-look-like-as-a-product-owner
+  - signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+  - /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Owner
-- Agile Product Management
+  - Product Owner
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:09:21Z
   short_title: 2025-07-07T17:52:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:47Z
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

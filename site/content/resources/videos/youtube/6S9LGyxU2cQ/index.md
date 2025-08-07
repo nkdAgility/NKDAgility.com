@@ -2,8 +2,14 @@
 title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
 short_title: EPS Immersive Learning for Agile Teams
 description: Discover how EPS immersive learning boosts team agility with structured feedback, coaching, and tailored sessions, driving continuous improvement in real-world settings.
+tldr: The EPS immersive learning experience offers structured, ongoing coaching and feedback that helps teams improve agility and effectiveness with minimal time investment. Through iterative assignments, tailored feedback, and additional coaching, teams can continuously adapt and enhance their practices. To get the most value, managers should actively engage with the process and integrate learnings into daily work.
 date: 2023-08-16T07:00:03Z
-weight: 640
+lastmod: 2023-08-16T07:00:03Z
+weight: 370
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 6S9LGyxU2cQ
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agility-how-eps-immersive-learning-transforms-your-team's-performance
 aliases:
-- /resources/6S9LGyxU2cQ
-- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
-- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
-- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
+  - /resources/6S9LGyxU2cQ
+  - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+  - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+  - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 aliasesArchive:
-- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
-- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
-- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
-- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
-- unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
-- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
+  - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+  - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+  - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+  - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+  - unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+  - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Coaching
-- Continuous Learning
-- Empirical Process Control
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
+  - Empirical Process Control
+  - Coaching
+  - Continuous Learning
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:10:11Z
   short_title: 2025-07-07T17:53:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:04Z
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

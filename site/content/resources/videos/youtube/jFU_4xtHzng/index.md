@@ -2,8 +2,14 @@
 title: Why do you think that 4 half days is a better format than 2 full days?
 short_title: Why 4 Half Days Beat 2 Full Days for Training
 description: Explains why spreading training over four half-days improves learning, retention, and application compared to two full days, highlighting flow efficiency and continuous improvement.
+tldr: Spreading training over four half days instead of two full days leads to better knowledge retention, more opportunities for reflection, and improved practical application. This approach reduces cognitive overload and supports continuous learning and improvement. Consider adopting or experimenting with more flexible training formats to maximize learning outcomes for your teams.
 date: 2023-03-10T07:00:27Z
+lastmod: 2023-03-10T07:00:27Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: jFU_4xtHzng
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 aliases:
-- /resources/jFU_4xtHzng
-- /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
+  - /resources/jFU_4xtHzng
+  - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 aliasesArchive:
-- /resources/videos/why-do-you-think-that-half-days-is-a-better-format-than-full-days
-- /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
-- /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
-- /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
-- /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
-- why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
+  - /resources/videos/why-do-you-think-that-half-days-is-a-better-format-than-full-days
+  - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
+  - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
+  - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
+  - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
+  - why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Learning
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:13:44Z
   short_title: 2025-07-07T17:56:27Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:39Z
 videoId: jFU_4xtHzng
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg
 duration: 197
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 8-Week Immersive Learning Course in 60 Seconds
 short_title: 8-Week Immersive Scrum Learning Overview
 description: Discover the structure and benefits of an 8-week immersive Scrum learning course, featuring blended lessons, practical tasks, and collaborative feedback for real-world impact.
+tldr: Scrum.org’s 8-week immersive learning courses combine theory with hands-on practice, blending classroom and offline work to help participants apply new skills directly in their organizations. Learners benefit from practical assignments, collaborative feedback, and a structure designed to drive real change. Consider enrolling to quickly gain actionable strategies and improve your team’s Agile performance.
 date: 2023-06-05T11:00:38Z
-weight: 840
+lastmod: 2023-06-05T11:00:38Z
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: o9Qc_NLmtok
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 8-week-immersive-learning-course-in-60-seconds
 aliases:
-- /resources/o9Qc_NLmtok
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
+  - /resources/o9Qc_NLmtok
+  - /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 aliasesArchive:
-- /resources/videos/-week-immersive-learning-course-in-seconds
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds
-- /resources/8-week-immersive-learning-course-in-60-seconds
-- 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
+  - /resources/videos/-week-immersive-learning-course-in-seconds
+  - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+  - /resources/8-week-immersive-learning-course-in-60-seconds
+  - 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:52Z
   short_title: 2025-07-07T17:54:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:14Z
 videoId: o9Qc_NLmtok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Mastering Product Backlog Management: Insights from the New Scrum.org Course'
 short_title: Mastering Product Backlog Management
 description: Learn practical skills for effective product backlog management, including item creation, prioritisation, breakdown, and alignment with business goals to boost Agile team success.
+tldr: Scrum.org’s new Product Backlog Management course offers focused, practical training in backlog management, helping teams capture, prioritize, and break down work for better clarity and alignment. The compact 8-hour format teaches actionable techniques to minimize distractions, improve transparency, and ensure teams deliver high-value work that supports business goals. Development managers should consider this course to streamline their backlog processes and boost team efficiency.
 date: 2023-11-30T07:00:11Z
+lastmod: 2023-11-30T07:00:11Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: UOzrABhafx0
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 aliases:
-- /resources/UOzrABhafx0
-- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
+  - /resources/UOzrABhafx0
+  - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+  - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 aliasesArchive:
-- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
+  - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+  - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+  - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+  - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Product Backlog
-- Agile Planning
-- Pragmatic Thinking
-- Agile Planning Tools
-- Product Owner
-- Backlog Refinement
-- Agile Product Management
-- Software Development
-- Operational Practices
+  - Product Backlog
+  - Agile Planning
+  - Pragmatic Thinking
+  - Agile Planning Tools
+  - Product Owner
+  - Backlog Refinement
+  - Agile Product Management
+  - Software Development
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:07:23Z
   short_title: 2025-07-07T17:51:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:57Z
 videoId: UOzrABhafx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UOzrABhafx0/maxresdefault.jpg
 duration: 114
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

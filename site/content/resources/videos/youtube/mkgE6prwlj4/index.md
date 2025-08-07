@@ -2,8 +2,14 @@
 title: What is the best application of Scrum in the world?
 short_title: 'Best Scrum Application: Microsoft Azure DevOps'
 description: Highlights how Microsoft’s Azure DevOps team used Scrum to transform their workflow, cut build times from 20 hours to 3.5 minutes, and deliver greater customer value.
+tldr: Microsoft's Azure DevOps team successfully transitioned from waterfall to Scrum, dramatically reducing build times from over 20 hours to just 3.5 minutes and delivering a product that better meets customer needs. This highlights how effective Scrum can be when applied well, especially in overcoming technical debt and improving efficiency. Development managers should consider how adopting Scrum could drive similar improvements in their own teams.
 date: 2023-05-26T07:00:16Z
-weight: 630
+lastmod: 2023-05-26T07:00:16Z
+weight: 415
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: mkgE6prwlj4
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-best-application-of-scrum-in-the-world
 aliases:
-- /resources/mkgE6prwlj4
-- /resources/videos/what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
-- /resources/videos/what-is-the-best-application-of-scrum-in-the-world
-- /resources/videos/best-application-of-scrum-in-the-world
+  - /resources/mkgE6prwlj4
+  - /resources/videos/what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
+  - /resources/videos/what-is-the-best-application-of-scrum-in-the-world
+  - /resources/videos/best-application-of-scrum-in-the-world
 aliasesArchive:
-- /resources/videos/what-is-the-best-application-of-scrum-in-the-world
-- /resources/what-is-the-best-application-of-scrum-in-the-world
-- /resources/best-application-of-scrum-in-the-world
-- /resources/videos/best-application-of-scrum-in-the-world-
-- /resources/best-application-of-scrum-in-the-world-
-- /resources/videos/best-application-of-scrum-in-the-world
-- what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
+  - /resources/videos/what-is-the-best-application-of-scrum-in-the-world
+  - /resources/what-is-the-best-application-of-scrum-in-the-world
+  - /resources/best-application-of-scrum-in-the-world
+  - /resources/videos/best-application-of-scrum-in-the-world-
+  - /resources/best-application-of-scrum-in-the-world-
+  - /resources/videos/best-application-of-scrum-in-the-world
+  - what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Engineering Excellence
 tags:
-- Software Development
+  - Agile Transformation
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:10Z
   short_title: 2025-07-07T17:55:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:41Z
 videoId: mkgE6prwlj4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

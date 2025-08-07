@@ -2,8 +2,14 @@
 title: Professional Product Discovery and Validation Skills (PPDV) with a friend in September!
 short_title: Professional Product Discovery & Validation
 description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
+tldr: There are only five days left to register for the Professional Product Discovery and Validation Workshop, which offers practical skills in customer-centric development, rapid validation, and team collaboration, led by expert Dr. Joanna Plaskonka. Attendees will learn how to align products with real customer needs, validate ideas efficiently, and foster innovation within their teams. Take advantage of a 50 percent discount for you and a friend by using the provided code before registration closes.
 date: 2024-08-29
+lastmod: 2024-08-29
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author: MrHinsh
 ResourceId: bvPDNFJju4h
 ResourceImport: false
@@ -11,24 +17,25 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
-- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/bvPDNFJju4h
+  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/bvPDNFJju4h
 aliasesArchive:
-- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 layout: newsletter
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Product Validation
-- Product Discovery
+  - Customer Focus
+  - Product Validation
+  - Product Discovery
 Watermarks:
   description: 2025-05-07T12:58:42Z
   short_title: 2025-07-07T17:48:22Z
+  tldr: 2025-08-07T12:49:18Z
 resourceTypes: newsletter
 
 ---

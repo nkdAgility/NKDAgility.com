@@ -2,8 +2,14 @@
 title: Why 'Definition of Done' is Crucial for Success in Scrum
 short_title: 'Definition of Done in Scrum: Importance & Benefits'
 description: Explains how a clear Definition of Done in Scrum ensures consistent quality, team alignment, and customer satisfaction across all projects, regardless of the solution.
+tldr: The Definition of Done sets clear quality standards for all work, ensuring every deliverable meets your organization's expectations regardless of the specific feature or project. It aligns teams, reduces defects, and protects your brand by making sure nothing is released before it is truly ready. Regularly review and adapt your Definition of Done with your team to maintain high quality and customer satisfaction.
 date: 2023-11-14T07:00:30Z
+lastmod: 2023-11-14T07:00:30Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: syzFdEP1Eso
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-'definition-of-done'-is-crucial-for-success-in-scrum
 aliases:
-- /resources/syzFdEP1Eso
-- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
+  - /resources/syzFdEP1Eso
+  - /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
+  - /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
 aliasesArchive:
-- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-- /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
-- why-definition-of-done-is-crucial-for-success-in-scrum
+  - /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
+  - /resources/why-definition-of-done-is-crucial-for-success-in-scrum
+  - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+  - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+  - /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
+  - why-definition-of-done-is-crucial-for-success-in-scrum
 source: internal
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Definition of Done
-- Working Software
-- Product Delivery
+  - Definition of Done
+  - Working Software
+  - Product Delivery
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:07:54Z
   short_title: 2025-07-07T17:51:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:05Z
 videoId: syzFdEP1Eso
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
 short_title: 'Professional Scrum Trainer: Values & Legacy'
 description: 'Shares the top three values guiding a Professional Scrum Trainer: integrity, honesty, and approachability, with a focus on transparency, truth, and helpful support.'
+tldr: The author wants to be remembered as a Scrum Trainer who values integrity, honesty, and approachability, always acting transparently and providing straightforward, fact-based advice. They prioritize being open and helpful, offering free consultations and building lasting relationships. Development managers should seek trainers who embody these qualities to foster trust and effective learning in their teams.
 date: 2023-04-19T07:00:06Z
+lastmod: 2023-04-19T07:00:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Dl5v4j1f-WE
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 aliases:
-- /resources/Dl5v4j1f-WE
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+  - /resources/Dl5v4j1f-WE
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 aliasesArchive:
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-things-matter-most-to-you
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
-- how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-things-matter-most-to-you
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+  - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+  - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+  - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+  - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+  - how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Personal
+  - Personal
 Watermarks:
   description: 2025-05-07T13:13:11Z
   short_title: 2025-07-07T17:55:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:28Z
 videoId: Dl5v4j1f-WE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

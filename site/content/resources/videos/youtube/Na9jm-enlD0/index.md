@@ -2,8 +2,14 @@
 title: Where is consensus valuable and where does it kill great product development?
 short_title: 'Consensus in Product Development: When It Helps or Hurts'
 description: Explores when consensus helps or hinders product development, highlighting the need to balance collaboration, leadership, trust, and timely decision-making.
+tldr: Consensus is essential in product development but can slow progress if overused, especially in fast-moving markets where quick decisions are needed. Building trust and involving the team in decision-making helps achieve effective consensus, but leaders must know when to seek agreement and when to act decisively. Development managers should balance collaboration with timely leadership to drive successful outcomes.
 date: 2023-09-25T07:00:08Z
+lastmod: 2023-09-25T07:00:08Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Na9jm-enlD0
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 aliases:
-- /resources/Na9jm-enlD0
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+  - /resources/Na9jm-enlD0
+  - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 aliasesArchive:
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-- where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+  - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+  - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
+  - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+  - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+  - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+  - where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
-- Leadership
+  - Product Management
+  - Product Development
+  - Leadership
 tags:
-- Entrepreneurship
-- Decision Theory
+  - Entrepreneurship
+  - Decision Theory
 Watermarks:
   description: 2025-05-07T13:09:20Z
   short_title: 2025-07-07T17:52:55Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:45Z
 videoId: Na9jm-enlD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
 duration: 777
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
 short_title: The Power of Community for Agile Coaches
 description: Explores how Agile coaches grow by engaging with diverse communities, embracing feedback, and challenging assumptions to deliver greater value to teams and customers.
+tldr: To be an effective Agile coach, it is essential to engage with a diverse community that challenges your thinking and provides honest feedback, rather than staying in a comfortable echo chamber. Growth comes from seeking out different perspectives, embracing critique, and continuously evolving your approach, which ultimately leads to delivering greater value to your teams and customers. Development managers should encourage their coaches to actively participate in varied Agile communities and prioritize learning and feedback to drive continuous improvement.
 date: 2023-11-16T11:00:37Z
-weight: 665
+lastmod: 2023-11-16T11:00:37Z
+weight: 470
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: hij5_aP_YN4
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-community-becoming-an-awesome-agile-coach
 aliases:
-- /resources/hij5_aP_YN4
-- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
-- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+  - /resources/hij5_aP_YN4
+  - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
+  - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 aliasesArchive:
-- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
-- the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
+  - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
+  - /resources/the-power-of-community-becoming-an-awesome-agile-coach
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+  - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+  - the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Mentoring
-- Coaching
-- Agile Philosophy
-- Competence
-- Social Technologies
+  - Coaching
+  - Agile Philosophy
+  - Competence
+  - Social Technologies
+  - Mentoring
 Watermarks:
   description: 2025-05-07T13:07:48Z
   short_title: 2025-07-07T17:51:42Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:53Z
 videoId: hij5_aP_YN4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

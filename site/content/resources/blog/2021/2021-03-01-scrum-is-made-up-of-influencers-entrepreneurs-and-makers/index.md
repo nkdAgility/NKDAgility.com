@@ -2,39 +2,47 @@
 title: Scrum is made up of Influencers, Entrepreneurs, and Makers
 short_title: 'Scrum Roles: Influencers, Entrepreneurs, Makers'
 description: Explains how Scrum teams rely on three key roles—Influencers, Entrepreneurs, and Makers—to balance leadership, value creation, and technical delivery.
+tldr: 'Scrum teams need a balance of three key roles: Influencers who lead and shape the environment, Entrepreneurs who define and communicate the product vision, and Makers who build the product. Each role has its own growth path and is essential for delivering high-value products. Development managers should ensure all three tracks are present and balanced in their teams to maximize success.'
 date: 2021-03-01
+lastmod: 2021-03-01
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: DdQ1nKvk-hv
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
-- /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-- /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-- /resources/DdQ1nKvk-hv
-- /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+  - /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+  - /resources/DdQ1nKvk-hv
+  - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+  - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesArchive:
-- /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-- /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-- /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+  - /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+  - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+  - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 layout: blog
 concepts: []
 categories:
-- Leadership
-- Product Development
-tags: []
+  - Leadership
+  - Product Development
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:14:59Z
   short_title: 2025-07-07T17:57:33Z
+  tldr: 2025-08-07T13:10:17Z
 ResourceImportId: 45946
 AudioNative: true
 creator: Martin Hinshelwood

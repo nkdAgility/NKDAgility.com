@@ -2,8 +2,14 @@
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
 short_title: Defining and Visualising Kanban Workflows
 description: Learn how to define and visualise workflows in Kanban to boost team clarity, alignment, and efficiency, with practical steps for stable processes and effective task management.
+tldr: Defining and visualising your workflow in Kanban creates shared understanding, clarity, and alignment among team members, which leads to greater efficiency. Establishing clear rules for task selection, workflow stages, and work in progress is essential for a stable and productive system. Take time to document and visualise your process so everyone knows how work flows and can contribute effectively.
 date: 2024-02-27T07:00:31Z
+lastmod: 2024-02-27T07:00:31Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: sbr8NkJSLPU
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 aliases:
-- /resources/sbr8NkJSLPU
-- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+  - /resources/sbr8NkJSLPU
+  - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+  - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 aliasesArchive:
-- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+  - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+  - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+  - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+  - mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
+  - Kanban
 tags:
-- Definition of Workflow
-- Operational Practices
-- Software Development
-- Agile Frameworks
+  - Definition of Workflow
+  - Social Technologies
+  - Operational Practices
+  - Software Development
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:05:34Z
   short_title: 2025-07-07T17:49:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:24Z
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

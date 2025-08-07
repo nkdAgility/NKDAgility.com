@@ -2,8 +2,14 @@
 title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 short_title: Kindness and Empathy in Agile Success
 description: Explores how kindness, empathy, and compassion in Agile foster trust, improve team collaboration, and enhance customer focus for long-term organisational success.
+tldr: Kindness is a strategic advantage in Agile, driving both customer loyalty and effective team collaboration by building trust through empathy and compassion. Focusing on employee well-being and understanding customer needs leads to better products and stronger relationships. Development managers should model kindness in daily interactions to foster a culture where teams and customers feel valued, directly impacting long-term success.
 date: 2023-12-11T07:00:01Z
+lastmod: 2023-12-11T07:00:01Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 4nhKXAgutZw
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-kindness-in-agile-a-core-virtue-for-success
 aliases:
-- /resources/4nhKXAgutZw
-- /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-kindness
+  - /resources/4nhKXAgutZw
+  - /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
+  - /resources/videos/7-virtues-of-agile-kindness
 aliasesArchive:
-- /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
-- /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-kindness
-- /resources/7-virtues-of-agile-kindness
-- the-power-of-kindness-in-agile-a-core-virtue-for-success
+  - /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
+  - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
+  - /resources/videos/7-virtues-of-agile-kindness
+  - /resources/7-virtues-of-agile-kindness
+  - the-power-of-kindness-in-agile-a-core-virtue-for-success
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Philosophy
-- Team Collaboration
-- Agile Values and Principles
-- Organisational Culture
+  - Team Motivation
+  - Agile Philosophy
+  - Team Collaboration
+  - Agile Values and Principles
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:07:06Z
   short_title: 2025-07-07T17:51:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:28Z
 videoId: 4nhKXAgutZw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg
 duration: 252
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Vision, Value, and Validation: The Keys to Successful Product Management'
 short_title: Vision, Value & Validation in Product Management
 description: Explains how Product Owners can replace traditional project management with vision, value, and validation to guide teams, deliver real value, and ensure product success.
+tldr: When moving from project management to product management, it is essential for Product Owners to fill the gap left by traditional planning tools by focusing on vision, value, and validation. Clearly define and communicate the product vision, ensure all work aligns with delivering real value, and continuously validate progress through feedback and measurement. Prioritize these pillars to keep teams aligned and maximize product impact; consider seeking support if challenges arise.
 date: 2023-12-14T06:45:02Z
+lastmod: 2023-12-14T06:45:02Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Tye_-FY7boo
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: vision-value-and-validation-the-keys-to-successful-product-management
 aliases:
-- /resources/Tye_-FY7boo
-- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
+  - /resources/Tye_-FY7boo
+  - /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 aliasesArchive:
-- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
-- vision-value-and-validation-the-keys-to-successful-product-management
+  - /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
+  - /resources/vision-value-and-validation-the-keys-to-successful-product-management
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
+  - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
+  - vision-value-and-validation-the-keys-to-successful-product-management
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Agile Product Management
-- Product Owner
-- Value Delivery
-- Product Strategy
-- Customer Focus
-- Product Discovery
-- Product Validation
-- Agile Strategy
-- Pragmatic Thinking
+  - Agile Product Management
+  - Product Owner
+  - Value Delivery
+  - Product Strategy
+  - Customer Focus
+  - Product Validation
+  - Product Discovery
+  - Agile Strategy
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:56Z
   short_title: 2025-07-07T17:50:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:12Z
 videoId: Tye_-FY7boo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

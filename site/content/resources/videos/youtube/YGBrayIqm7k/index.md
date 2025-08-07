@@ -2,8 +2,14 @@
 title: The Synergy Between Product Management and Product Development in Agile Environments
 short_title: Product Management and Development in Agile
 description: Explains how close collaboration between product management and product development in agile teams drives market value, innovation, and continuous product improvement.
+tldr: Product Management and Product Development must work closely together in agile environments to deliver products that meet current and future market needs. Product Management sets the vision and strategy, while Product Development brings these ideas to life through innovation, quality, and fast delivery, with both functions relying on continuous feedback and improvement. Development managers should ensure strong collaboration and feedback loops between these teams to maximize product value and long-term success.
 date: 2024-07-25T06:45:02Z
+lastmod: 2024-07-25T06:45:02Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: YGBrayIqm7k
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-synergy-between-product-management-and-product-development-in-agile-environments
 aliases:
-- /resources/YGBrayIqm7k
-- /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
-- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+  - /resources/YGBrayIqm7k
+  - /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
+  - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 aliasesArchive:
-- /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
-- /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
-- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
-- /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
-- the-synergy-between-product-management-and-product-development-in-agile-environments
+  - /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
+  - /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
+  - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+  - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+  - the-synergy-between-product-management-and-product-development-in-agile-environments
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Value Delivery
-- Agile Product Management
-- Product Delivery
+  - Value Delivery
+  - Agile Product Management
+  - Product Delivery
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:02:29Z
   short_title: 2025-07-07T17:48:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:41Z
 videoId: YGBrayIqm7k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
 duration: 539
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

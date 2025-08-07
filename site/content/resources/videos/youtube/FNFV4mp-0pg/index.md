@@ -2,8 +2,14 @@
 title: Is a scrum master an agile micromanager?
 short_title: Is a Scrum Master an Agile Micromanager?
 description: A Scrum Master empowers teams by facilitating, mentoring, and supporting—not micromanaging—fostering trust, collaboration, and continuous improvement in Agile environments.
+tldr: A Scrum Master is not meant to micromanage but to facilitate, support, and empower the team to make decisions and own their work. When Scrum Masters focus on mentoring and creating a culture of trust and continuous improvement, teams become more effective and innovative. Development managers should ensure Scrum Masters act as catalysts for growth rather than as traditional project managers who direct every detail.
 date: 2023-04-25T07:00:06Z
-weight: 610
+lastmod: 2023-04-25T07:00:06Z
+weight: 420
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: FNFV4mp-0pg
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-a-scrum-master-an-agile-micromanager
 aliases:
-- /resources/FNFV4mp-0pg
-- /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+  - /resources/FNFV4mp-0pg
+  - /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 aliasesArchive:
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-- /resources/is-a-scrum-master-an-agile-micromanager
-- is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+  - /resources/videos/is-a-scrum-master-an-agile-micromanager
+  - /resources/is-a-scrum-master-an-agile-micromanager
+  - is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
-- Product Development
+  - Scrum
+  - Technical Leadership
+  - Product Development
 tags:
-- Scrum Master
-- Scrum Team
-- Agile Leadership
-- Coaching
-- Team Performance
-- Professional Scrum
-- Team Collaboration
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-- Team Motivation
-- Mentoring
-- Self Organisation
+  - Scrum Master
+  - Team Motivation
+  - Scrum Team
+  - Agile Leadership
+  - Coaching
+  - Team Performance
+  - Professional Scrum
+  - Team Collaboration
+  - Agile Frameworks
+  - Software Development
+  - Pragmatic Thinking
+  - Mentoring
+  - Self Organisation
 Watermarks:
   description: 2025-05-07T13:13:03Z
   short_title: 2025-07-07T17:55:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:12Z
 videoId: FNFV4mp-0pg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg
 duration: 41
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

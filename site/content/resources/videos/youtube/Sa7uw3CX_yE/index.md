@@ -2,8 +2,14 @@
 title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
 short_title: 'Beyond the Agile Illusion: True Agility'
 description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
+tldr: Many teams claim to be agile but still operate with outdated management mindsets that stifle autonomy and engagement, leading to low adoption of core agile practices like short iterations and retrospectives. True agility requires transparency, regular feedback, and a focus on delivering value rather than just completing tasks. Development managers should assess whether their teams meet these criteria and actively foster a culture that supports genuine agile principles.
 date: 2020-07-21T18:00:53Z
-weight: 1000
+lastmod: 2020-07-21T18:00:53Z
+weight: 685
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Sa7uw3CX_yE
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 aliases:
-- /resources/Sa7uw3CX_yE
+  - /resources/Sa7uw3CX_yE
 aliasesArchive:
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
-- beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+  - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+  - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+  - /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+  - beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:15:27Z
   short_title: 2025-07-07T17:57:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:09Z
 videoId: Sa7uw3CX_yE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

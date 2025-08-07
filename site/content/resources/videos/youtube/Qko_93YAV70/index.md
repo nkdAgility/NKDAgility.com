@@ -2,8 +2,14 @@
 title: 'Unlocking the Power of Caman: Why It’s the Perfect Companion to Scrum for Process Optimisation'
 short_title: Caman and Scrum for Process Optimisation
 description: Explains how Caman complements Scrum by providing transparency and insights to optimise workflows, identify bottlenecks, and improve processes across any industry.
+tldr: Caman is a strategy that complements Scrum by increasing transparency and providing deeper insights into workflows, helping teams identify bottlenecks and optimise processes. It is universally applicable across different systems and industries, not just software development. Development managers should use Caman alongside Scrum by mapping processes, involving teams in discussions, and iterating improvements to enhance value delivery.
 date: 2024-08-13T07:04:49Z
+lastmod: 2024-08-13T07:04:49Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Qko_93YAV70
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 aliases:
-- /resources/Qko_93YAV70
-- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
-- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
-- /resources/videos/kanban-vs-scrum
+  - /resources/Qko_93YAV70
+  - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
+  - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
+  - /resources/videos/kanban-vs-scrum
 aliasesArchive:
-- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
-- /resources/videos/kanban-vs-scrum
-- /resources/kanban-vs-scrum
-- unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
-- /resources/videos/unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
+  - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
+  - /resources/videos/kanban-vs-scrum
+  - /resources/kanban-vs-scrum
+  - unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
+  - /resources/videos/unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Operational Practices
+  - Transparency
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:54Z
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

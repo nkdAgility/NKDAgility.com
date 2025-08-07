@@ -2,8 +2,14 @@
 title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
 short_title: Scrum Master Training for Aspiring Leaders
 description: Comprehensive Scrum Master training offering interactive workshops, practical activities, community support, and assessment to build Agile skills and foster continuous improvement.
+tldr: Effective Scrum Master training combines interactive workshops, supplementary learning, and ongoing community support to build deep understanding and practical skills. Participants benefit from hands-on activities, access to assessments, and regular engagement with peers and trainers, which helps them apply Scrum principles in real-world settings. Investing in such training empowers Scrum Masters to foster collaboration and continuous improvement, so consider supporting your team’s development through similar opportunities.
 date: 2022-07-27T18:45:17Z
-weight: 665
+lastmod: 2022-07-27T18:45:17Z
+weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 5ZRMBfV9zpI
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
-- /resources/5ZRMBfV9zpI
-- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
-- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
+  - /resources/5ZRMBfV9zpI
+  - /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+  - /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
 aliasesArchive:
-- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
-- /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
-- /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
-- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
-- unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+  - /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+  - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+  - /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+  - /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
+  - unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Competence
+  - Professional Scrum
+  - Scrum Master
+  - Software Development
+  - Competence
 Watermarks:
   description: 2025-05-07T13:14:48Z
   short_title: 2025-07-07T17:57:24Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:51Z
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

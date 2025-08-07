@@ -2,8 +2,14 @@
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
 short_title: 'Unlocking Agile: Questioning to Create Value'
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
+tldr: Agile success depends on fostering a culture where everyone questions existing processes, seeks continuous improvement, and adapts quickly to change. Scrum helps teams identify inefficiencies and encourages regular reflection, while leadership must empower all employees to challenge the status quo and act on feedback. To stay ahead of competitors, create open forums for discussion, reward initiative, and ensure that improvement is a shared, ongoing effort across the organization.
 date: 2024-01-23T07:00:07Z
+lastmod: 2024-01-23T07:00:07Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: M4ap4uNzptg
 ResourceImport: true
 ResourceType: videos
@@ -11,52 +17,50 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-s-core-questioning-to-create-value
 aliases:
-- /resources/M4ap4uNzptg
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations
+  - /resources/M4ap4uNzptg
+  - /resources/videos/unlocking-agiles-core-questioning-to-create-value
+  - /resources/videos/agile-is-failing-organizations
 aliasesArchive:
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/agile-is-failing-organizations!
-- /resources/videos/agile-is-failing-organizations
-- unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
+  - /resources/videos/unlocking-agiles-core-questioning-to-create-value
+  - /resources/unlocking-agiles-core-questioning-to-create-value
+  - /resources/videos/agile-is-failing-organizations!
+  - /resources/agile-is-failing-organizations!
+  - /resources/videos/agile-is-failing-organizations
+  - unlocking-agiles-core-questioning-to-create-value
+  - /resources/videos/unlocking-agile-s-core-questioning-to-create-value
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Leadership
+  - Product Development
+  - Leadership
 tags:
-- Agile Philosophy
-- Continuous Learning
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Values and Principles
-- Agile Transformation
-- Continuous Improvement
-- Agile Leadership
-- Organisational Culture
-- Agile Frameworks
-- Agile Product Management
-- Agile Strategy
-- Software Development
-- Market Adaptability
-- Business Agility
+  - Empirical Process Control
+  - Agile Philosophy
+  - Continuous Learning
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Agile Values and Principles
+  - Agile Transformation
+  - Continuous Improvement
+  - Agile Leadership
+  - Organisational Culture
+  - Change Management
+  - Agile Frameworks
+  - Agile Product Management
+  - Agile Strategy
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:06:21Z
   short_title: 2025-07-07T17:50:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:52Z
 videoId: M4ap4uNzptg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

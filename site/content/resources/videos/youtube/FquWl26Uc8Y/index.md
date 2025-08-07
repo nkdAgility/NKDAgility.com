@@ -2,8 +2,14 @@
 title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
 short_title: Stop Shipping Bad Code and Tackle Technical Debt
 description: Learn how to prevent bad code, distinguish technical debt from incompetence, and apply practical strategies like code reviews, testing, and prioritisation for healthier software.
+tldr: Shipping bad code is not just technical debt but a sign of deeper issues that teams must address by committing to quality and accountability. Key actions include enforcing thorough code reviews, investing in automated testing, and making regular refactoring a habit, while also actively identifying, prioritising, and allocating time to pay down technical debt. Development managers should ensure their teams distinguish between technical debt and poor practices, and dedicate resources to maintain a healthy, sustainable codebase.
 date: 2024-11-26T13:55:20Z
+lastmod: 2024-11-26T13:55:20Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: FquWl26Uc8Y
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 aliases:
-- /resources/FquWl26Uc8Y
-- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
-- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
-- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
+  - /resources/FquWl26Uc8Y
+  - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
+  - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+  - /resources/videos/bad-code-isnt-technical-debt-its-incompetence
 aliasesArchive:
-- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
-- /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
-- /resources/bad-code-isn't-technical-debt-it's-incompetence
-- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
-- confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
+  - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+  - /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
+  - /resources/bad-code-isn't-technical-debt-it's-incompetence
+  - /resources/videos/bad-code-isnt-technical-debt-its-incompetence
+  - confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Technical Mastery
 Watermarks:
   description: 2025-05-07T12:57:04Z
   short_title: 2025-07-07T17:47:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:38Z
 videoId: FquWl26Uc8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

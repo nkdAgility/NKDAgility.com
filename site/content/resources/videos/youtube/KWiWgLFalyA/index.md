@@ -2,8 +2,14 @@
 title: "Mastering the Art of Scaling Product Development: Why Adding More Developers Isn't the Answer"
 short_title: Scaling Product Development Effectively
 description: Explores why scaling product development requires system improvements, not just more developers. Covers alignment, technical debt, and feedback loops for sustainable growth.
+tldr: Adding more developers does not solve scaling challenges in product development; without fixing underlying system issues, it can actually slow progress. Key problems include lack of alignment, unmanaged technical debt, and slow feedback loops, which all hinder effective scaling. Focus on clarifying priorities, reducing process bottlenecks, and enabling fast, coordinated team movement before increasing headcount.
 date: 2025-02-18T07:08:05Z
+lastmod: 2025-02-18T07:08:05Z
 weight: 500
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: KWiWgLFalyA
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn't-the-answer
 aliases:
-- /resources/KWiWgLFalyA
-- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
-- /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
+  - /resources/KWiWgLFalyA
+  - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+  - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
+  - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
 aliasesArchive:
-- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
-- /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
-- mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
-- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
+  - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+  - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+  - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+  - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+  - /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+  - /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+  - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+  - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
+  - mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+  - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Scaling
-- Pragmatic Thinking
+  - Scaling
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:36Z
   short_title: 2025-07-07T17:46:24Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:36:31Z
 videoId: KWiWgLFalyA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
 duration: 103
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

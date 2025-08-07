@@ -2,33 +2,39 @@
 title: Detecting Agile BS
 short_title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
+tldr: Many projects claim to be agile but are not, so leaders should look for real user involvement, continuous feedback, automation, and cross-functional collaboration to spot genuine agile practices. Key signs of “agile BS” include lack of user interaction, manual processes where automation is possible, and siloed teams. Ask targeted questions about testing, automation, user feedback, and release cycles to verify true agile delivery and ensure teams can adapt based on user needs.
 date: 2024-09-17
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 author:
-- US DOD Defence Innovation Board
+  - US DOD Defence Innovation Board
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: detecting-agile-bs
 aliases:
-- /Guides/Detecting-Agile-BS.html
-- /learn/agile-delivery-kit/guides/detecting-agile-bs
-- /resources/Tt8SPr3xJER
+  - /Guides/Detecting-Agile-BS.html
+  - /learn/agile-delivery-kit/guides/detecting-agile-bs
+  - /resources/Tt8SPr3xJER
 aliasesArchive:
-- /Guides/Detecting-Agile-BS.html
-- /learn/agile-delivery-kit/guides/detecting-agile-bs
+  - /Guides/Detecting-Agile-BS.html
+  - /learn/agile-delivery-kit/guides/detecting-agile-bs
 layout: guide
 concepts:
-- Tool
+  - Tool
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Customer Focus
-- Software Development
-- Operational Practices
-- Product Delivery
+  - Customer Focus
+  - Software Development
+  - Agile Values and Principles
+  - Operational Practices
+  - Product Delivery
 card:
   button:
     content: Learn More
@@ -37,6 +43,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:02Z
   short_title: 2025-07-07T16:40:40Z
+  tldr: 2025-08-07T12:45:53Z
 resourceTypes: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 creator: Martin Hinshelwood

@@ -2,8 +2,14 @@
 title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
 short_title: Immersive Learning for Career and Org Growth
 description: Explores how immersive learning boosts practical skills, career growth, and organisational improvement through real-world application, coaching, and continuous development.
+tldr: Immersive learning delivers immediate, practical skills that employees can apply to drive real improvements and continuous growth in your organisation. Teams benefit from ongoing support and multiple opportunities to implement new knowledge, while individuals gain confidence and job readiness. Investing in immersive training accelerates both organisational agility and individual career impact, making it a high-value development strategy.
 date: 2023-07-13T12:16:15Z
-weight: 1000
+lastmod: 2023-07-13T12:16:15Z
+weight: 805
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: NKQr8oGO8lg
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 aliases:
-- /resources/NKQr8oGO8lg
-- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
+  - /resources/NKQr8oGO8lg
+  - /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+  - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
 aliasesArchive:
-- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-- /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
-- unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+  - /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+  - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+  - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+  - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
+  - unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Competence
 Watermarks:
   description: 2025-05-07T13:10:39Z
   short_title: 2025-07-07T17:53:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:56Z
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

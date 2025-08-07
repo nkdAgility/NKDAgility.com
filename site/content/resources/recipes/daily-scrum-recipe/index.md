@@ -2,41 +2,46 @@
 title: Daily Scrum Recipe
 short_title: Daily Scrum Meeting Guide
 description: Guidance for running effective Daily Scrum meetings, focusing on collaboration, transparency, and actionable planning to help teams achieve their Sprint Goals.
+tldr: The Daily Scrum should focus on actively managing work and strategizing to achieve the Sprint Goal, not just following a checklist. Teams should use visual tools like Work Item Aging graphs and boards to identify risks and bottlenecks, concentrating on items that need attention. Encourage teams to adapt the format to their needs, ensure transparency, and leave each meeting with a clear 24-hour action plan.
 date: 2024-09-17
-weight: 505
+weight: 430
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes
 ResourceContentOrigin: Human
 slug: daily-scrum-recipe
 aliases:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
-- /resources/M4qDhvrXwp-
+  - /recipes/Daily-Scrum-Recipe.html
+  - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+  - /resources/M4qDhvrXwp-
 aliasesArchive:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+  - /recipes/Daily-Scrum-Recipe.html
+  - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 layout: recipe
 concepts:
-- Practice
+  - Practice
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Daily Scrum
-- Software Development
-- Agile Frameworks
-- Scrum Team
-- Professional Scrum
-- Team Performance
-- Team Collaboration
-- Agile Product Management
-- Social Technologies
-- Agile Planning
-- Pragmatic Thinking
-- Product Delivery
-- Transparency
-- Product Developer
+  - Daily Scrum
+  - Software Development
+  - Agile Frameworks
+  - Scrum Team
+  - Professional Scrum
+  - Team Performance
+  - Team Collaboration
+  - Agile Product Management
+  - Social Technologies
+  - Agile Planning
+  - Pragmatic Thinking
+  - Product Delivery
+  - Transparency
+  - Product Developer
 card:
   button:
     content: Learn More
@@ -45,26 +50,27 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:50Z
   short_title: 2025-07-07T17:47:58Z
+  tldr: 2025-08-07T12:46:49Z
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
 recommendedContent:
-- collection: guides
-  path: _guides/manifesto-for-agile-software-development.md
-- collection: guides
-  path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 videos:
-- title: Overview of the Scrum Framework?
-  embed: https://youtu.be/Q2Fo3sM6BVo
-- title: How to Facilitate the Daily Scrum
-  embed: https://youtu.be/V2hYKB8xLNc
-- title: The Daily Scrum is NOT a Status Meeting!
-  embed: https://youtu.be/i7_RPceEIYE
+  - title: Overview of the Scrum Framework?
+    embed: https://youtu.be/Q2Fo3sM6BVo
+  - title: How to Facilitate the Daily Scrum
+    embed: https://youtu.be/V2hYKB8xLNc
+  - title: The Daily Scrum is NOT a Status Meeting!
+    embed: https://youtu.be/i7_RPceEIYE
 references:
-- title: What is a Daily Scrum?
-  url: https://www.scrum.org/resources/what-is-a-daily-scrum
-- title: Avoid the Bug as Task anti-pattern in Azure DevOps
-  url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
+  - title: What is a Daily Scrum?
+    url: https://www.scrum.org/resources/what-is-a-daily-scrum
+  - title: Avoid the Bug as Task anti-pattern in Azure DevOps
+    url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

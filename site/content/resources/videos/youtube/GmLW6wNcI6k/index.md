@@ -2,8 +2,14 @@
 title: What Does the Assessment Phase of a Consulting Engagement Look and Feel Like?
 short_title: Consulting Assessment Phase Explained
 description: Explains the assessment phase in consulting, highlighting continuous learning, agile adaptation, and the value of hands-on engagement over rigid upfront analysis.
+tldr: The assessment phase in consulting should be minimal and flexible, with consultants continuously learning and adapting as they engage with teams rather than relying on a rigid upfront evaluation. Starting to help right away and adjusting based on real-time insights leads to better understanding and outcomes. Development managers should focus on early collaboration and ongoing adaptation instead of lengthy initial assessments.
 date: 2023-06-19T10:00:25Z
+lastmod: 2023-06-19T10:00:25Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: GmLW6wNcI6k
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 aliases:
-- /resources/GmLW6wNcI6k
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+  - /resources/GmLW6wNcI6k
+  - /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+  - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 aliasesArchive:
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
-- what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+  - /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+  - /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+  - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+  - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+  - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+  - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+  - what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Pragmatic Thinking
+  - Pragmatic Thinking
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:11:30Z
   short_title: 2025-07-07T17:54:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:33Z
 videoId: GmLW6wNcI6k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
 duration: 275
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

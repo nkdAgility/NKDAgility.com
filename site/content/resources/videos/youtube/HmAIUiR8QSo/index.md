@@ -2,8 +2,14 @@
 title: 'Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence'
 short_title: Building a Culture of Quality in Engineering
 description: Explores how fostering a culture of quality and engineering excellence prevents failures, using Boeing and Volkswagen as examples, and highlights the impact on software development.
+tldr: A strong culture of quality and technical excellence is essential for building reliable and valuable software products, as shown by the negative consequences at Boeing and Volkswagen when profit was prioritised over quality. Relying solely on frameworks like Agile is not enough; the real difference comes from collective commitment to quality, ethical leadership, and applying sound engineering principles. Development managers should focus on fostering this culture within their teams to ensure long-term success and avoid costly mistakes.
 date: 2024-11-29T07:00:17Z
+lastmod: 2024-11-29T07:00:17Z
 weight: 175
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: HmAIUiR8QSo
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 aliases:
-- /resources/HmAIUiR8QSo
-- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
-- /resources/videos/building-a-culture-of-quality
+  - /resources/HmAIUiR8QSo
+  - /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+  - /resources/videos/building-a-culture-of-quality
 aliasesArchive:
-- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
-- /resources/videos/building-a-culture-of-quality
-- /resources/building-a-culture-of-quality
-- cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+  - /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+  - /resources/videos/building-a-culture-of-quality
+  - /resources/building-a-culture-of-quality
+  - cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Technical Leadership
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Organisational Culture
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T12:57:00Z
   short_title: 2025-07-07T17:47:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:25Z
 videoId: HmAIUiR8QSo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

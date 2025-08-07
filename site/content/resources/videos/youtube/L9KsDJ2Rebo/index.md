@@ -2,8 +2,14 @@
 title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Courses'
 short_title: Spaced Learning vs Traditional Agile Training
 description: Explores how spaced learning in Agile and Scrum boosts retention, real-world application, and collaboration compared to traditional intensive courses.
+tldr: Spaced learning, where Agile and Scrum training is spread over several weeks, leads to better retention, real-world application, and ongoing support compared to traditional short courses. Participants can practice and apply concepts in their actual work, get guidance as challenges arise, and benefit from peer collaboration. Development managers should consider longer, cohort-based training formats to achieve more lasting and practical results for their teams.
 date: 2023-07-13T07:45:48Z
-weight: 1000
+lastmod: 2023-07-13T07:45:48Z
+weight: 800
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: L9KsDJ2Rebo
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 aliases:
-- /resources/L9KsDJ2Rebo
-- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
+  - /resources/L9KsDJ2Rebo
+  - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+  - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
 aliasesArchive:
-- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
-- unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+  - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+  - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+  - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+  - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
+  - unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Continuous Learning
-- Pragmatic Thinking
+  - Continuous Learning
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:10:42Z
   short_title: 2025-07-07T17:53:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:01Z
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

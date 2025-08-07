@@ -2,8 +2,14 @@
 title: What was your best day as an Agile consultant?
 short_title: Best Day as an Agile Consultant
 description: A personal story highlighting how Agile consulting and Scrum workshops sparked lasting transformation for a development team, with impact felt years after the engagement.
+tldr: A brief Agile and Scrum engagement with a Java development team led to lasting positive change, as confirmed by a team member’s email seven years later describing its ongoing impact on their team and organization. The experience showed that even short, focused workshops can be a catalyst for significant transformation. Consider investing in Agile and Scrum training to spark similar long-term improvements in your teams.
 date: 2023-03-27T07:00:30Z
+lastmod: 2023-03-27T07:00:30Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: iT7ZtgNJbT0
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-was-your-best-day-as-an-agile-consultant
 aliases:
-- /resources/iT7ZtgNJbT0
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant
+  - /resources/iT7ZtgNJbT0
+  - /resources/videos/what-was-your-best-day-as-an-agile-consultant
 aliasesArchive:
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant
-- /resources/what-was-your-best-day-as-an-agile-consultant-2
-- /resources/what-was-your-best-day-as-an-agile-consultant
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant-
-- /resources/what-was-your-best-day-as-an-agile-consultant-
-- what-was-your-best-day-as-an-agile-consultant
+  - /resources/videos/what-was-your-best-day-as-an-agile-consultant
+  - /resources/what-was-your-best-day-as-an-agile-consultant-2
+  - /resources/what-was-your-best-day-as-an-agile-consultant
+  - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
+  - /resources/what-was-your-best-day-as-an-agile-consultant-
+  - what-was-your-best-day-as-an-agile-consultant
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Personal
+  - Agile Transformation
+  - Personal
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:13:31Z
   short_title: 2025-07-07T17:56:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:13Z
 videoId: iT7ZtgNJbT0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

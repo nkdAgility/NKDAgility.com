@@ -2,8 +2,14 @@
 title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 short_title: Spotting Genuine Agile Practices
 description: Learn how to identify authentic agile practices, spot common myths, and understand cultural barriers that hinder true agility in modern software development teams.
+tldr: Most organizations claim to be agile, but few actually follow core practices like short iterations, ordered backlogs, and regular retrospectives, which limits their ability to deliver value and improve. Cultural resistance and outdated management styles are major barriers to genuine agility. Development managers should honestly assess their teams against key agile principles and take action to remove obstacles, empower teams, and focus on rapid feedback and continuous improvement.
 date: 2020-03-18T13:56:05Z
-weight: 1000
+lastmod: 2020-03-18T13:56:05Z
+weight: 670
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: FZeT8O5Ucwg
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 aliases:
-- /resources/FZeT8O5Ucwg
+  - /resources/FZeT8O5Ucwg
 aliasesArchive:
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
-- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+  - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
+  - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+  - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+  - /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+  - unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Transformation
-- Software Development
-- Organisational Agility
-- Agile Philosophy
-- Agile Product Management
-- Agile Values and Principles
+  - Agile Philosophy
+  - Agile Transformation
+  - Software Development
+  - Organisational Agility
+  - Agile Product Management
+  - Agile Values and Principles
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:16:02Z
   short_title: 2025-07-07T17:58:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:39Z
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

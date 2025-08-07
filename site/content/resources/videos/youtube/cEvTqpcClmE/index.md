@@ -2,8 +2,14 @@
 title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation'
 short_title: Unlocking Legacy Systems with Automation
 description: Learn how to automate legacy systems by shifting organisational mindset, adopting DevOps practices, and making incremental improvements to boost efficiency and innovation.
+tldr: Legacy systems can and should be automated, with the main barrier being mindset rather than technology. By encouraging a culture that questions old processes and starting with small, incremental automation efforts, teams can reduce bottlenecks and unlock significant efficiency gains. Development managers should identify manual pain points and begin automating them to drive innovation and continuous improvement.
 date: 2025-04-28T06:00:34Z
-weight: 500
+lastmod: 2025-04-28T06:00:34Z
+weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: cEvTqpcClmE
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 aliases:
-- /resources/cEvTqpcClmE
-- /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
-- /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
+  - /resources/cEvTqpcClmE
+  - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+  - /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
 aliasesArchive:
-- /resources/videos/-tools-that-scrum-masters-love-part-
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/5-tools-that-scrum-masters-love-part-1
-- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
-- 5-tools-that-scrum-masters-love-part-1
-- /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
-- unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+  - /resources/videos/-tools-that-scrum-masters-love-part-
+  - /resources/videos/5-tools-that-scrum-masters-love-part-1
+  - /resources/5-tools-that-scrum-masters-love-part-1
+  - 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+  - /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
+  - 5-tools-that-scrum-masters-love-part-1
+  - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+  - unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T12:49:12Z
   short_title: 2025-07-07T16:44:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:33:08Z
 videoId: cEvTqpcClmE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
 duration: 91
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

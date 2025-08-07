@@ -2,8 +2,14 @@
 title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
 short_title: Real Experience Needed to Be an Agile Coach
 description: Real-world experience with teams is essential for Agile coaches, providing credibility, empathy, and practical insight needed to effectively guide and earn team trust.
+tldr: To be an effective Agile coach, you need real hands-on experience working with teams to build products, not just theoretical knowledge. Practical involvement helps you understand team dynamics, earn credibility, and offer advice that resonates with teams. If you aspire to coach, seek opportunities to join or volunteer with Agile teams so you can build the trust and insight needed to guide others successfully.
 date: 2023-11-13T11:00:29Z
+lastmod: 2023-11-13T11:00:29Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Po58JnxjX7M
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 aliases:
-- /resources/Po58JnxjX7M
-- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+  - /resources/Po58JnxjX7M
+  - /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 aliasesArchive:
-- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
-- /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
-- before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+  - /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+  - /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+  - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+  - before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Coaching
-- Competence
-- Personal
-- Agile Transformation
-- Mentoring
+  - Competence
+  - Software Development
+  - Coaching
+  - Personal
+  - Agile Transformation
+  - Mentoring
 Watermarks:
   description: 2025-05-07T13:07:55Z
   short_title: 2025-07-07T17:51:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:07Z
 videoId: Po58JnxjX7M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg
 duration: 62
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

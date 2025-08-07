@@ -2,8 +2,14 @@
 title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
 short_title: Flipped Learning for Agile Teams at Naked Agility
 description: Discover how flipped learning at Naked Agility Limited combines self-study and interactive workshops to build agile, people-first teams and support continuous improvement.
+tldr: Naked Agility Limited uses a flipped learning approach that combines self-paced study with interactive workshops, enabling teams to deeply understand agile concepts and prepare for certification. Participants receive personalised coaching and access to a supportive community, fostering a people-first culture and continuous improvement. Development managers can consider this training to boost team engagement, learning, and agility.
 date: 2022-09-09T14:17:04Z
-weight: 790
+lastmod: 2022-09-09T14:17:04Z
+weight: 585
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: vY0hXTm-wgk
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 aliases:
-- /resources/vY0hXTm-wgk
-- /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
-- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+  - /resources/vY0hXTm-wgk
+  - /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+  - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 aliasesArchive:
-- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
-- /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
-- /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
-- transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+  - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+  - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+  - /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+  - transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Continuous Learning
-- Coaching
+  - Continuous Learning
+  - Organisational Agility
+  - Coaching
 Watermarks:
   description: 2025-05-07T13:14:45Z
   short_title: 2025-07-07T17:57:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:44Z
 videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

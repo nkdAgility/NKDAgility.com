@@ -2,8 +2,14 @@
 title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
 short_title: High-Performance Delivery Through Competence
 description: Explores how competence, collaboration, and agile philosophies drive high-performance software delivery, focusing on business value, continuous improvement, and team empowerment.
+tldr: To build a high-performing software delivery team, focus on developing both technical and business competence across all members, encouraging everyone to think like product developers rather than just coders. Embrace Agile, DevOps, Lean, and Scrum philosophies, adapt practices as needed, and ensure due diligence before making structural changes. Prioritise collaboration, open communication, and continuous improvement to maximise value delivery and drive business success.
 date: 2024-12-03T06:30:00Z
+lastmod: 2024-12-03T06:30:00Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: quFj6dy5M7E
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 aliases:
-- /resources/quFj6dy5M7E
-- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-- /resources/videos/building-a-high-performance-delivery-engine
+  - /resources/quFj6dy5M7E
+  - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+  - /resources/videos/building-a-high-performance-delivery-engine
 aliasesArchive:
-- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-- /resources/videos/building-a-high-performance-delivery-engine
-- /resources/building-a-high-performance-delivery-engine
-- building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+  - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+  - /resources/videos/building-a-high-performance-delivery-engine
+  - /resources/building-a-high-performance-delivery-engine
+  - building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Competence
-- Pragmatic Thinking
-- Product Delivery
-- Value Delivery
+  - Competence
+  - Pragmatic Thinking
+  - Product Delivery
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:56:55Z
   short_title: 2025-07-07T17:47:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:19Z
 videoId: quFj6dy5M7E
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

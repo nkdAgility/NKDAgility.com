@@ -2,8 +2,14 @@
 title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
 short_title: Pragmatism Over Dogma in Agile Teams
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
+tldr: Rigid adherence to Agile rules can harm teams and stifle progress; true agility means adapting processes to fit the team’s needs and focusing on delivering value. Flexibility and pragmatism are essential for creating inclusive, effective environments, while dogmatic approaches undermine collaboration and innovation. Development managers should prioritize outcomes and continuous improvement over strict rule-following to support team success.
 date: 2023-12-28T08:40:54Z
+lastmod: 2023-12-28T08:40:54Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: _5daB0lJpdc
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliases:
-- /resources/_5daB0lJpdc
-- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/5-ghosts-of-agile-past-certification
+  - /resources/_5daB0lJpdc
+  - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+  - /resources/videos/5-ghosts-of-agile-past-certification
 aliasesArchive:
-- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/5-ghosts-of-agile-past-certification
-- introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
+  - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+  - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+  - /resources/videos/5-ghosts-of-agile-past-certification
+  - /resources/5-ghosts-of-agile-past-certification
+  - introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+  - /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Transformation
-- Agile Values and Principles
-- Software Development
-- Agile Philosophy
-- Organisational Agility
+  - Organisational Agility
+  - Agile Transformation
+  - Agile Values and Principles
+  - Software Development
+  - Agile Philosophy
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:46Z
   short_title: 2025-07-07T17:50:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:53Z
 videoId: _5daB0lJpdc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

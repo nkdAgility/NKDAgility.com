@@ -2,8 +2,14 @@
 title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners'
 short_title: Spotting Project Management Mindsets in Product Owners
 description: Explains how project management mindsets in Product Owners can harm Agile teams, and offers practical strategies to promote value-driven, collaborative team environments.
+tldr: Product Owners who act like project managers and focus on tasks and control rather than value and collaboration can harm team morale, stifle innovation, and lead to ineffective products. To avoid these issues, encourage Product Owners to prioritize user value, foster close team collaboration, and empower teams to take ownership. Development managers should watch for these behaviors and actively support a shift toward a more value-driven and collaborative approach.
 date: 2024-01-10T11:00:01Z
+lastmod: 2024-01-10T11:00:01Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 21k6OgxeKjo
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
 aliases:
-- /resources/21k6OgxeKjo
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+  - /resources/21k6OgxeKjo
+  - /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
+  - /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
 aliasesArchive:
-- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
-- the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
+  - /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+  - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+  - /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
+  - the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
+  - Leadership
 tags:
-- Product Owner
-- Agile Leadership
-- Pragmatic Thinking
-- Software Development
-- Team Performance
-- Customer Focus
+  - Team Collaboration
+  - Social Technologies
+  - Personal
+  - Product Owner
+  - Agile Leadership
+  - Pragmatic Thinking
+  - Software Development
+  - Team Performance
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:06:29Z
   short_title: 2025-07-07T17:50:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:08Z
 videoId: 21k6OgxeKjo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

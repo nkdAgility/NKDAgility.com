@@ -2,40 +2,47 @@
 title: All technical debt is a risk to the product and to your business.
 short_title: Technical Debt Is a Risk to Products and Business
 description: Technical debt increases risk to products and businesses, leading to hidden costs, reduced quality, and slower delivery. Ignoring it can harm long-term value and growth.
+tldr: Technical debt is a significant risk to your product and business, as it undermines quality, slows delivery, and can accumulate unnoticed until it becomes a major problem. The Microsoft Team Foundation Server example shows that ignoring technical debt leads to reduced productivity and competitiveness, while addressing it through transparency and shorter feedback cycles enables faster, higher-quality delivery. Development managers should prioritize eliminating technical debt and fostering a culture of quality to protect business value and avoid long-term risks.
 date: 2021-01-25
+lastmod: 2021-01-25
 weight: 340
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: ZSqNF7v9vSR
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliases:
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /resources/ZSqNF7v9vSR
-- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
+  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+  - /resources/ZSqNF7v9vSR
+  - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
 aliasesArchive:
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
+  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+  - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+  - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
 layout: blog
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - Product Development
 tags:
-- Technical Mastery
-- Technical Debt
-- Pragmatic Thinking
+  - Technical Mastery
+  - Technical Debt
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:01Z
   short_title: 2025-07-07T17:57:35Z
+  tldr: 2025-08-07T13:10:22Z
 ResourceImportId: 45521
 AudioNative: true
 creator: Martin Hinshelwood

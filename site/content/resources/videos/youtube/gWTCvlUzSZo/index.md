@@ -2,8 +2,14 @@
 title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
 short_title: Why Scrum Masters Need Quality Cameras
 description: Explains how a quality camera helps Scrum Masters boost team engagement, read body language, and foster better communication in remote meetings through clear visuals.
+tldr: Using a high-quality camera in remote meetings helps Scrum Masters better read team members' body language and emotions, which leads to stronger engagement and more effective communication. Investing in good equipment, maintaining a professional background, and encouraging camera use can foster a more open and collaborative team environment. Development managers should ensure their teams have access to quality video tools to maximize virtual collaboration.
 date: 2023-09-21T07:00:14Z
-weight: 1000
+lastmod: 2023-09-21T07:00:14Z
+weight: 890
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: gWTCvlUzSZo
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliases:
-- /resources/gWTCvlUzSZo
-- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
-- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
+  - /resources/gWTCvlUzSZo
+  - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
+  - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
+  - /resources/videos/5-tools-that-scrum-masters-love-part-3
 aliasesArchive:
-- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
-- /resources/5-tools-that-scrum-masters-love-part-3
-- unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
+  - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
+  - /resources/videos/5-tools-that-scrum-masters-love-part-3
+  - /resources/5-tools-that-scrum-masters-love-part-3
+  - unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Team Collaboration
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:09:23Z
   short_title: 2025-07-07T17:52:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:50Z
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

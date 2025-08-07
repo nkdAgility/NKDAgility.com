@@ -2,8 +2,14 @@
 title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey"
 short_title: 'Mastering Scrum: Insights for New Teams'
 description: Guidance for new Scrum teams on building strong foundations, embracing empiricism, Scrum values, continuous learning, and the Scrum Master's role in fostering team growth.
+tldr: New Scrum teams succeed when they deeply understand Scrum principles, empiricism, and core values, which the Scrum Master should actively teach and reinforce. Practical workshops, real-world examples, and a focus on continuous learning help teams build trust, adapt to change, and improve over time. Development managers should ensure their teams have ongoing support and a safe environment to foster growth and agility.
 date: 2023-11-28T11:00:49Z
+lastmod: 2023-11-28T11:00:49Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: nY4tmtGKO6I
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master's-journey
 aliases:
-- /resources/nY4tmtGKO6I
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master-s-journey
+  - /resources/nY4tmtGKO6I
+  - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
+  - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey
+  - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master-s-journey
 aliasesArchive:
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey
-- mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master-s-journey
+  - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+  - /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey
+  - mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
+  - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master-s-journey
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
-- Technical Leadership
+  - Product Development
+  - Scrum
+  - Leadership
 tags:
-- Scrum Master
-- Scrum Values
-- Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Software Development
-- Coaching
-- Agile Transformation
-- Competence
+  - Team Collaboration
+  - Scrum Master
+  - Scrum Values
+  - Professional Scrum
+  - Agile Frameworks
+  - Scrum Team
+  - Software Development
+  - Coaching
+  - Competence
 Watermarks:
   description: 2025-05-07T13:07:27Z
   short_title: 2025-07-07T17:51:27Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:03Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: Worst agile advice you've ever heard?
 short_title: Worst Agile Advice You've Ever Heard
 description: Highlights why rigid rules in Agile and Scrum, like mandatory stand-ups, undermine flexibility and inclusivity, stressing the importance of adapting to team needs.
+tldr: Rigid rules like requiring everyone to stand during daily meetings go against Agile’s core values of flexibility and respect for individuals. Teams should adapt processes to fit their unique needs and prioritize inclusivity and human-centric practices. Development managers should focus on outcomes and team well-being rather than enforcing one-size-fits-all routines.
 date: 2023-05-09T09:30:04Z
-weight: 690
+lastmod: 2023-05-09T09:30:04Z
+weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: L6opxb0FYcU
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: worst-agile-advice-you've-ever-heard
 aliases:
-- /resources/L6opxb0FYcU
-- /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
-- /resources/videos/worst-agile-advice-youve-ever-heard
-- /resources/videos/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-you-ve-ever-heard
+  - /resources/L6opxb0FYcU
+  - /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
+  - /resources/videos/worst-agile-advice-youve-ever-heard
+  - /resources/videos/worst-agile-advice-heard
+  - /resources/videos/worst-agile-advice-you-ve-ever-heard
 aliasesArchive:
-- /resources/videos/worst-agile-advice-youve-ever-heard
-- /resources/worst-agile-advice-youve-ever-heard
-- /resources/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-heard-
-- /resources/worst-agile-advice-heard-
-- /resources/videos/worst-agile-advice-heard
-- worst-agile-advice-youve-ever-heard-L6opxb0FYcU
-- /resources/videos/worst-agile-advice-you-ve-ever-heard
+  - /resources/videos/worst-agile-advice-youve-ever-heard
+  - /resources/worst-agile-advice-youve-ever-heard
+  - /resources/worst-agile-advice-heard
+  - /resources/videos/worst-agile-advice-heard-
+  - /resources/worst-agile-advice-heard-
+  - /resources/videos/worst-agile-advice-heard
+  - worst-agile-advice-youve-ever-heard-L6opxb0FYcU
+  - /resources/videos/worst-agile-advice-you-ve-ever-heard
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Organisational Agility
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:36Z
   short_title: 2025-07-07T17:55:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:21Z
 videoId: L6opxb0FYcU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

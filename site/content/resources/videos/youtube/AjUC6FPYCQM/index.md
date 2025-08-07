@@ -2,8 +2,14 @@
 title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
 short_title: Professionalism in Scrum for Agile Teams
 description: Explores how true professionalism in Scrum enables Agile teams to deliver production-ready products, highlighting the importance of transparency, standards, and work ethic.
+tldr: Many software teams fall short of Scrum’s true potential because organizations prioritize speed over professionalism, leading to shortcuts and unprofessional practices. Achieving real value with Scrum requires a commitment to transparency, production-ready increments each iteration, and honest assessment of current capabilities, often revealing significant gaps. Development managers should focus on fostering a professional work ethic and closing these gaps to unlock Scrum’s full benefits.
 date: 2023-04-20T07:00:06Z
-weight: 690
+lastmod: 2023-04-20T07:00:06Z
+weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: AjUC6FPYCQM
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 aliases:
-- /resources/AjUC6FPYCQM
-- /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
+  - /resources/AjUC6FPYCQM
+  - /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+  - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 aliasesArchive:
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-- /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
-- unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+  - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
+  - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
+  - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
+  - /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+  - unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
+  - Engineering Excellence
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Competence
+  - Competence
+  - Software Development
+  - Product Delivery
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:13:10Z
   short_title: 2025-07-07T17:55:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:24Z
 videoId: AjUC6FPYCQM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

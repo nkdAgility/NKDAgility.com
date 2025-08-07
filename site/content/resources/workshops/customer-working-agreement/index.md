@@ -2,28 +2,34 @@
 title: Customer Working Agreement
 short_title: Customer Working Agreement Workshop
 description: Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.
+tldr: A Customer Working Agreement workshop, lasting about 60 minutes, helps both parties define a clear Statement of Work and agree on the level of agility to apply. It ensures customers understand their responsibilities, such as providing a Product Owner, clear goals, and attending Sprint Reviews, while the development team commits to delivering usable increments and a dedicated team. Development managers should use this workshop early to clarify expectations, roles, and trade-offs for successful collaboration.
 date: 2024-09-17
-weight: 840
+lastmod: 2024-09-17
+weight: 705
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: hjlKdneL4t8
 ResourceImport: false
 ResourceType: workshops
 ResourceContentOrigin: Human
 slug: customer-working-agreement
 aliases:
-- workshops/Customer-Working-Agreement.html
-- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-- /learn/agile-delivery-kit/workshops/customer-working-agreement/
-- /resources/hjlKdneL4t8
+  - workshops/Customer-Working-Agreement.html
+  - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+  - /learn/agile-delivery-kit/workshops/customer-working-agreement/
+  - /resources/hjlKdneL4t8
 aliasesArchive:
-- workshops/Customer-Working-Agreement.html
-- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-- /learn/agile-delivery-kit/workshops/customer-working-agreement/
+  - workshops/Customer-Working-Agreement.html
+  - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+  - /learn/agile-delivery-kit/workshops/customer-working-agreement/
 layout: workshop
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags: []
 card:
   button:
@@ -33,6 +39,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:01Z
   short_title: 2025-07-07T17:48:11Z
+  tldr: 2025-08-07T12:46:36Z
 resourceTypes: workshop
 creator: Martin Hinshelwood
 draft: true

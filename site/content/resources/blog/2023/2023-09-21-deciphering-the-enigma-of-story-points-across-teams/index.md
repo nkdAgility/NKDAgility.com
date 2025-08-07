@@ -2,38 +2,46 @@
 title: Deciphering the Enigma of Story Points Across Teams
 short_title: Story Points vs Throughput for Team Comparison
 description: Explains why Story Points are subjective and unsuitable for comparing teams, and highlights objective metrics like throughput and value for measuring and improving team performance.
+tldr: Story Points are useful for team discussions and backlog refinement but are too subjective for comparing teams or predicting delivery. Focus instead on objective metrics like throughput, cycle time, and work in process to measure and improve team performance, while also considering value delivered using evidence-based management practices. Shift your attention from normalising Story Points to tracking flow metrics and value to make better decisions and optimise outcomes.
 date: 2023-09-21
-weight: 330
+lastmod: 2023-09-21
+weight: 300
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: LKp5S7_4Kbw
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
-- /blog/deciphering-the-enigma-of-story-points-across-teams
-- /deciphering-the-enigma-of-story-points-across-teams
-- /resources/LKp5S7_4Kbw
-- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
+  - /blog/deciphering-the-enigma-of-story-points-across-teams
+  - /deciphering-the-enigma-of-story-points-across-teams
+  - /resources/LKp5S7_4Kbw
+  - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 aliasesArchive:
-- /blog/deciphering-the-enigma-of-story-points-across-teams
-- /deciphering-the-enigma-of-story-points-across-teams
-- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
+  - /blog/deciphering-the-enigma-of-story-points-across-teams
+  - /deciphering-the-enigma-of-story-points-across-teams
+  - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 layout: blog
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Metrics and Learning
-- Software Development
-- Value Delivery
-- Flow Efficiency
-- Pragmatic Thinking
-- Throughput
-- Team Performance
+  - Metrics and Learning
+  - Software Development
+  - Value Delivery
+  - Estimation
+  - Flow Efficiency
+  - Pragmatic Thinking
+  - Throughput
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:09:25Z
   short_title: 2025-07-07T17:52:59Z
+  tldr: 2025-08-07T12:59:52Z
 ResourceImportId: 49888
 AudioNative: true
 creator: Martin Hinshelwood

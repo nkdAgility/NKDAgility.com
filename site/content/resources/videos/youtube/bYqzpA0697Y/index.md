@@ -2,8 +2,14 @@
 title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
 short_title: Sustainable Scaling in Product Development
 description: Learn how to overcome scaling challenges in product development by reducing technical debt, improving team alignment, and building sustainable, growth-ready systems.
+tldr: Scaling product development is complex and requires more than just adding people; it demands clear priorities, strong leadership, and systems designed for growth. Naked Agility helps organisations address common scaling challenges like alignment, technical debt, and slow feedback by eliminating bottlenecks, using data-driven decisions, and tailoring strategies to each team's needs. To scale effectively without sacrificing speed or quality, focus on building a culture and systems that support sustainable growth.
 date: 2025-02-28T06:00:27Z
+lastmod: 2025-02-28T06:00:27Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: bYqzpA0697Y
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 aliases:
-- /resources/bYqzpA0697Y
-- /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
-- /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
+  - /resources/bYqzpA0697Y
+  - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+  - /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
 aliasesArchive:
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training
-- /resources/the-power-of-immersive-learning-in-scrum-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
-- the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
-- /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
-- the-power-of-immersive-learning-in-scrum-training
-- /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
-- mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+  - /resources/videos/the-power-of-immersive-learning-in-scrum-training
+  - /resources/the-power-of-immersive-learning-in-scrum-training
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
+  - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
+  - the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
+  - /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
+  - the-power-of-immersive-learning-in-scrum-training
+  - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+  - mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Scaling
+  - Scaling
 Watermarks:
   description: 2025-05-07T12:49:21Z
   short_title: 2025-07-07T16:45:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:31Z
 videoId: bYqzpA0697Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bYqzpA0697Y/maxresdefault.jpg
 duration: 87
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

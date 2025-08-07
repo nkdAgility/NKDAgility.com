@@ -2,8 +2,14 @@
 title: 'Mastering Evidence-Based Management (EBM) for Product Owners: Maximizing Value Delivery'
 short_title: Evidence-Based Management for Product Owners
 description: Learn how product owners use Evidence-Based Management (EBM) to make data-driven decisions, track key value metrics, and maximise product value and team engagement.
+tldr: Evidence-Based Management (EBM) helps product owners make better decisions by tracking key metrics like current value, unrealized value, ability to innovate, and time to market, ensuring teams focus on delivering the right value efficiently. Using EBM enables you to identify when to pivot, align stakeholders, and engage your team in the product’s success. Consider adopting EBM practices or training, such as the PAL-EBM course, to maximize value delivery and team effectiveness.
 date: 2024-01-29T07:00:07Z
+lastmod: 2024-01-29T07:00:07Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Af-wBYtyyRU
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 aliases:
-- /resources/Af-wBYtyyRU
-- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
-- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
+  - /resources/Af-wBYtyyRU
+  - /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+  - /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
 aliasesArchive:
-- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
-- /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
-- /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
-- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
-- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
-- mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+  - /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+  - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+  - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+  - /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+  - /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
+  - mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Evidence Based Management
-- Product Owner
-- Customer Focus
-- Decision Making
-- Current Value
-- Agile Product Management
-- Pragmatic Thinking
-- Value Delivery
-- Metrics and Learning
-- Ability to Innovate
-- Evidence Based Leadership
-- Unrealised Value
-- Software Development
-- Operational Practices
-- Product Delivery
+  - Evidence Based Management
+  - Product Owner
+  - Customer Focus
+  - Decision Making
+  - Current Value
+  - Agile Product Management
+  - Pragmatic Thinking
+  - Value Delivery
+  - Metrics and Learning
+  - Ability to Innovate
+  - Evidence Based Leadership
+  - Unrealised Value
+  - Software Development
+  - Operational Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:06:07Z
   short_title: 2025-07-07T17:50:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:29Z
 videoId: Af-wBYtyyRU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Af-wBYtyyRU/maxresdefault.jpg
 duration: 178
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

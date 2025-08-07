@@ -2,50 +2,57 @@
 title: You can't stop the signal! But you can ignore it!
 short_title: Why Teams Ignore Agile and Scrum Signals
 description: Explores why teams ignore clear signals from Agile and Scrum, highlighting how culture and fear hinder continuous improvement and effective problem-solving in organisations.
+tldr: Agile and Scrum frameworks highlight problems in team processes, but many organizations ignore these signals due to cultural barriers like fear of repercussions and resistance to change. Simply adopting these frameworks is not enough; their effectiveness depends on a culture that encourages transparency, feedback, and continuous improvement. Development managers should focus on building an environment where raising and addressing issues is supported and valued to fully realize the benefits of Agile and Scrum.
 date: 2024-04-17
+lastmod: 2024-04-17
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: KHNSdDjr5K_
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: you-can't-stop-the-signal-but-you-can-ignore-it
 aliases:
-- /blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-can't-stop-the-signal--but-you-can-ignore-it-
-- /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
-- /resources/KHNSdDjr5K_
-- /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
+  - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
+  - /you-cant-stop-the-signal-but-you-can-ignore-it
+  - /you-can't-stop-the-signal--but-you-can-ignore-it-
+  - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
+  - /resources/KHNSdDjr5K_
+  - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
+  - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
 aliasesArchive:
-- /blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-can't-stop-the-signal--but-you-can-ignore-it-
-- /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
-- /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
+  - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
+  - /you-cant-stop-the-signal-but-you-can-ignore-it
+  - /you-can't-stop-the-signal--but-you-can-ignore-it-
+  - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
+  - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
+  - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Organisational Agility
-- Agile Transformation
-- Organisational Culture
-- Agile Values and Principles
-- Transparency
-- Continuous Improvement
-- Pragmatic Thinking
-- Empirical Process Control
-- Software Development
-- Sociotechnical Systems
+  - Organisational Culture
+  - Agile Frameworks
+  - Agile Philosophy
+  - Organisational Agility
+  - Agile Transformation
+  - Agile Values and Principles
+  - Continuous Improvement
+  - Pragmatic Thinking
+  - Empirical Process Control
+  - Software Development
+  - Sociotechnical Systems
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:05:16Z
   short_title: 2025-07-07T17:49:20Z
+  tldr: 2025-08-07T12:51:45Z
 ResourceImportId: 51389
 AudioNative: true
 creator: Martin Hinshelwood

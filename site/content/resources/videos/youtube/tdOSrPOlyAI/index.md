@@ -2,8 +2,14 @@
 title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
 short_title: Naked Agility for Engineering Excellence
 description: Explores how adopting naked agility boosts engineering excellence, quality, and leadership by addressing technical debt, shifting left, and fostering a culture of improvement.
+tldr: Prioritising quality from the start is essential to protect your brand and build customer trust, and this requires empowering engineering teams to take ownership, address technical debt openly, and integrate practices like continuous integration, user experience, and security early in development. Fostering a culture of transparency, collaboration, and continuous improvement leads to better products and stronger technical leadership. Invest in your teams’ skills and encourage shared responsibility for quality to drive lasting value for your customers and organisation.
 date: 2024-11-30T06:00:00Z
-weight: 175
+lastmod: 2024-11-30T06:00:00Z
+weight: 150
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: tdOSrPOlyAI
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 aliases:
-- /resources/tdOSrPOlyAI
-- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
+  - /resources/tdOSrPOlyAI
+  - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+  - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 aliasesArchive:
-- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
-- /resources/nkd-agility-your-partner-in-engineering-excellence
-- transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+  - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+  - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
+  - /resources/nkd-agility-your-partner-in-engineering-excellence
+  - transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Technical Leadership
-- Product Development
+  - Engineering Excellence
+  - Technical Leadership
+  - Product Development
 tags:
-- Software Development
-- Technical Mastery
+  - Software Development
+  - Technical Mastery
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:56:58Z
   short_title: 2025-07-07T17:47:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:23Z
 videoId: tdOSrPOlyAI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

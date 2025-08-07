@@ -2,8 +2,14 @@
 title: 'Stop Firefighting Bugs: Why Shifting Left Saves Time, Money, and Your Reputation'
 short_title: Shift Left to Prevent Costly Late-Stage Bugs
 description: Stop firefighting late-stage bugs—discover how shifting left saves time, money, and reputation by building quality in from the start. Learn the smarter way.
+tldr: Catching bugs late in the process wastes time, increases costs, and damages your reputation, while most issues could be prevented much earlier. Shifting left by embedding quality checks, early validation, and security into every stage of development leads to faster fixes, fewer production surprises, and greater stakeholder trust. Start building quality in from the beginning to avoid last-minute firefighting and deliver more reliable software.
 date: 2025-06-04T06:00:00Z
-weight: 165
+lastmod: 2025-06-04T06:00:00Z
+weight: 185
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: cgZVYLmyyH0
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,44 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
 aliases:
-- /resources/cgZVYLmyyH0
-- /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation-cgZVYLmyyH0
-- /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
-- /resources/videos/5-shift-left-with-a-strong-definition-of-done
+  - /resources/cgZVYLmyyH0
+  - /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation-cgZVYLmyyH0
+  - /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
+  - /resources/videos/5-shift-left-with-a-strong-definition-of-done
 aliasesArchive:
-- /resources/videos/5-shift-left-with-a-strong-definition-of-done
-- 5-shift-left-with-a-strong-definition-of-done-cgZVYLmyyH0
-- /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
-- stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation-cgZVYLmyyH0
+  - /resources/videos/5-shift-left-with-a-strong-definition-of-done
+  - 5-shift-left-with-a-strong-definition-of-done-cgZVYLmyyH0
+  - /resources/videos/stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
+  - stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation-cgZVYLmyyH0
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Software Development
-- Shift Left Strategy
-- Operational Practices
-- Product Delivery
-- Technical Mastery
-- Pragmatic Thinking
-- Definition of Done
-- Engineering Practices
-- Value Delivery
-- Market Adaptability
+  - Software Development
+  - Shift Left Strategy
+  - Operational Practices
+  - Product Delivery
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Definition of Done
+  - Engineering Practices
+  - Value Delivery
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T20:06:02Z
   short_title: 2025-07-07T16:43:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:11:57Z
 videoId: cgZVYLmyyH0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/cgZVYLmyyH0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB-oV7UHXQDZ40-yACDdtjb7-4r8w
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

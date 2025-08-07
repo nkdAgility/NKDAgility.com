@@ -2,8 +2,14 @@
 title: 7 Harbingers of the Agile apocalypse - Silence
 short_title: 'Agile Silence: Boosting Team Engagement'
 description: Explores how silence in agile teams signals disengagement, and offers strategies to boost stakeholder participation, open communication, and effective sprint reviews.
+tldr: Silence during agile sprint reviews signals deeper issues like lack of engagement, unclear goals, and poor product ownership, which can derail team effectiveness. To address this, focus on building trust, communicating clear objectives, and actively involving all stakeholders through inclusive practices and open discussions. Development managers should ensure product owners foster transparency and engagement to transform passive meetings into collaborative, value-driven sessions.
 date: 2023-10-23T11:00:23Z
+lastmod: 2023-10-23T11:00:23Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: YuKD3WWFJNQ
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,51 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-harbingers-of-the-agile-apocalypse-silence
 aliases:
-- /resources/YuKD3WWFJNQ
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence-7-harbingers-agile-apocalypse
+  - /resources/YuKD3WWFJNQ
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/silence-7-harbingers-agile-apocalypse
 aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence!-7-harbingers-agile-apocalypse-
-- /resources/silence!-7-harbingers-agile-apocalypse-
-- /resources/videos/silence-7-harbingers-agile-apocalypse-
-- 7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence-7-harbingers-agile-apocalypse
+  - /resources/videos/-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/silence!-7-harbingers-agile-apocalypse-
+  - /resources/silence!-7-harbingers-agile-apocalypse-
+  - /resources/videos/silence-7-harbingers-agile-apocalypse-
+  - 7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/silence-7-harbingers-agile-apocalypse
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Team Motivation
-- Software Development
-- Team Collaboration
-- Team Performance
-- Sprint Review
-- Agile Philosophy
-- Agile Product Management
-- Agile Strategy
-- Agile Transformation
-- Social Technologies
-- Pragmatic Thinking
-- Agile Leadership
-- Agile Frameworks
+  - Organisational Culture
+  - Transparency
+  - Team Motivation
+  - Software Development
+  - Team Collaboration
+  - Team Performance
+  - Sprint Review
+  - Agile Philosophy
+  - Agile Product Management
+  - Agile Strategy
+  - Agile Transformation
+  - Social Technologies
+  - Pragmatic Thinking
+  - Agile Leadership
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:08:28Z
   short_title: 2025-07-07T17:52:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:00Z
 videoId: YuKD3WWFJNQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

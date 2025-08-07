@@ -2,38 +2,45 @@
 title: Resilience is not a department
 short_title: Resilience Is Not a Department
 description: Resilience must be built into products from the start, ensuring they withstand failures like outages or network loss, rather than being treated as an afterthought.
+tldr: Resilience must be built into your product from the start, not treated as a separate concern or afterthought. Focusing only on performance, cost, or speed can lead to fragile systems that fail in real-world conditions. Make sure your disaster recovery plans are tested under real scenarios, not just documented, to avoid turning your product into a liability.
 date: 2025-05-17T15:30:21+01:00
+lastmod: 2025-05-17T15:30:21+01:00
 weight: 375
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: PWgzGL20QAo
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: resilience-is-not-a-department
 aliases:
-- /resources/PWgzGL20QAo
+  - /resources/PWgzGL20QAo
 source: LinkedIn
 layout: signal
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Miscellaneous
+  - Software Development
+  - Miscellaneous
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7329528712498999296
-  post_id: "7329528712498999296"
-  post_date: 2025-05-17T14:30:21Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7329528712498999296
+    post_id: "7329528712498999296"
+    post_date: 2025-05-17T14:30:21Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:47Z
   short_title: 2025-07-07T16:44:08Z
+  tldr: 2025-08-07T12:32:07Z
 
 ---
 Resilience is not a department. It's not a project. It's not an afterthought.

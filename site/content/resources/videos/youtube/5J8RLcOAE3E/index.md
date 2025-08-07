@@ -2,8 +2,14 @@
 title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 short_title: Rethinking Continuous Delivery in Complexity
 description: Explores why fixed best practices don't suit complex continuous delivery, highlighting adaptive approaches like audience-based delivery, testing in production, and ongoing improvement.
+tldr: There are no universal best practices for continuous delivery in complex environments; instead, teams should adopt flexible, situation-specific approaches. Key strategies include audience-based delivery for rapid feedback, testing in production to validate real-world performance, and a commitment to quickly finding and fixing issues. Development managers should focus on continuous improvement and adaptability rather than rigid processes.
 date: 2025-01-23T06:30:03Z
+lastmod: 2025-01-23T06:30:03Z
 weight: 255
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 5J8RLcOAE3E
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments
 aliases:
-- /resources/5J8RLcOAE3E
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
+  - /resources/5J8RLcOAE3E
+  - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+  - /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+  - /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 aliasesArchive:
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
+  - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+  - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+  - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+  - /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+  - rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+  - /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Complexity Thinking
-- Continuous Improvement
-- Pragmatic Thinking
-- Software Development
-- Continuous Delivery
-- Technical Excellence
-- Working Software
-- Product Delivery
-- Customer Focus
+  - Technical Mastery
+  - Complexity Thinking
+  - Continuous Improvement
+  - Pragmatic Thinking
+  - Software Development
+  - Continuous Delivery
+  - Product Validation
+  - Technical Excellence
+  - Working Software
+  - Product Delivery
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T12:49:55Z
   short_title: 2025-07-07T17:46:56Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:25Z
 videoId: 5J8RLcOAE3E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

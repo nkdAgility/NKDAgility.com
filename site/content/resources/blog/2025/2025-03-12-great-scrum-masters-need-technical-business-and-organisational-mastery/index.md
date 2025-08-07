@@ -2,49 +2,56 @@
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
 short_title: 'Scrum Mastery: Technical, Business, Organisational'
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
+tldr: Scrum Masters are most effective when they combine strong leadership skills with deep understanding of their team's technical, business, and organisational context. Mastery in these three areas enables them to better remove obstacles, coach both teams and Product Owners, and drive meaningful change across the organisation. Development managers should ensure their Scrum Masters are experienced professionals who continuously build expertise in these domains to maximise team performance and value delivery.
 date: 2025-03-24T09:00:00
+lastmod: 2025-03-24T09:00:00
 weight: 175
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: Henrik Berglund
-  external: https://www.linkedin.com/in/henrikber/
+  - name: Henrik Berglund
+    external: https://www.linkedin.com/in/henrikber/
 ResourceId: dQjKsWR5qfn
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
 aliases:
-- /resources/dQjKsWR5qfn
+  - /resources/dQjKsWR5qfn
 aliasesArchive:
-- /great-scrum-masters-need-technical-business-and-organisational-mastery
-- /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
-- /great-scrum-masters-need-technical--business--and-organisational-mastery
-- /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+  - /great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /great-scrum-masters-need-technical--business--and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Leadership
-- Product Management
+  - Scrum
+  - Leadership
+  - Product Management
 tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Master
-- Agile Frameworks
-- Agile Transformation
-- Engineering Practices
-- Software Development
-- Competence
-- Pragmatic Thinking
-- Team Performance
-- Product Delivery
-- Organisational Agility
-- Value Delivery
-- Operational Practices
-- Market Adaptability
+  - Social Technologies
+  - Professional Scrum
+  - Scrum Team
+  - Scrum Master
+  - Agile Frameworks
+  - Agile Transformation
+  - Engineering Practices
+  - Software Development
+  - Competence
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Delivery
+  - Organisational Agility
+  - Value Delivery
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T12:49:18Z
   short_title: 2025-07-07T16:45:15Z
+  tldr: 2025-08-07T12:34:30Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

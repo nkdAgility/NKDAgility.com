@@ -2,8 +2,14 @@
 title: What is a Sprint Backlog?
 short_title: What is a Sprint Backlog?
 description: Explains the Sprint Backlog as a transparent, flexible plan in Scrum, combining goals, tasks, and strategy to help teams stay focused, adaptable, and successful in Agile work.
+tldr: The Sprint Backlog is a combination of the Sprint Goal, selected tasks, and a clear plan for achieving them, providing transparency on current work and progress. It should balance goal-driven work with essential tasks like bug fixes, remain flexible to adapt to new needs during the Sprint, and set teams up for achievable success. Development managers should ensure Sprint Goals are realistic and use the Sprint Backlog to maintain focus while staying adaptable.
 date: 2023-05-29T12:01:04Z
+lastmod: 2023-05-29T12:01:04Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: T-K7HC-ZGjM
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-sprint-backlog
 aliases:
-- /resources/T-K7HC-ZGjM
-- /resources/videos/what-is-a-sprint-backlog
+  - /resources/T-K7HC-ZGjM
+  - /resources/videos/what-is-a-sprint-backlog
 aliasesArchive:
-- /resources/videos/what-is-a-sprint-backlog
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/what-is-a-sprint-backlog-
-- what-is-a-sprint-backlog
+  - /resources/videos/what-is-a-sprint-backlog
+  - /resources/what-is-a-sprint-backlog
+  - /resources/videos/what-is-a-sprint-backlog-
+  - /resources/what-is-a-sprint-backlog-
+  - what-is-a-sprint-backlog
 source: internal
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Planning
-- Professional Scrum
-- Software Development
-- Agile Frameworks
+  - Agile Planning
+  - Professional Scrum
+  - Software Development
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:12:08Z
   short_title: 2025-07-07T17:55:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:37Z
 videoId: T-K7HC-ZGjM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

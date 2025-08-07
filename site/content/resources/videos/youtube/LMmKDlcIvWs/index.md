@@ -2,8 +2,14 @@
 title: What is Kanban?
 short_title: What is Kanban?
 description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
+tldr: Kanban is a flexible strategy for improving existing workflows by making processes visible, tracking data, and enabling continuous, incremental improvements. Key steps include documenting your current workflow, visualizing work to spot issues, and using metrics to guide changes. Start by mapping your team's process and use the insights to drive efficiency and effectiveness.
 date: 2024-02-12T07:00:11Z
+lastmod: 2024-02-12T07:00:11Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: LMmKDlcIvWs
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-kanban
 aliases:
-- /resources/LMmKDlcIvWs
-- /resources/videos/what-is-kanban
+  - /resources/LMmKDlcIvWs
+  - /resources/videos/what-is-kanban
 aliasesArchive:
-- /resources/videos/what-is-kanban
-- /resources/what-is-kanban
-- /resources/videos/what-is-kanban-
-- /resources/what-is-kanban-
-- what-is-kanban
+  - /resources/videos/what-is-kanban
+  - /resources/what-is-kanban
+  - /resources/videos/what-is-kanban-
+  - /resources/what-is-kanban-
+  - what-is-kanban
 source: internal
 layout: video
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Improvement
-- Operational Practices
-- Lean Principles
+  - Continuous Improvement
+  - Operational Practices
+  - Lean Principles
 Watermarks:
   description: 2025-05-07T13:05:53Z
   short_title: 2025-07-07T17:49:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:58Z
 videoId: LMmKDlcIvWs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

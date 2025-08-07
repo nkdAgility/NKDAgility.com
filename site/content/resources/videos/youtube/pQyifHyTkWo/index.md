@@ -2,8 +2,14 @@
 title: 'Navigating the Shift: Key Strategies for a Successful Transition to Microservices'
 short_title: Strategies for Transitioning to Microservices
 description: Learn essential strategies for transitioning from monolithic systems to microservices, including planning, team alignment, managing complexity, and ensuring scalable delivery.
+tldr: Transitioning from monolithic systems to microservices can improve flexibility and delivery speed, but success depends on clear business goals, careful planning to avoid unnecessary complexity, and an iterative approach that considers both technical and team dynamics. Focus on strategic decomposition and ensure each service is independently deployable and maintainable. Take time to assess your needs and plan the transition step by step to achieve real business value.
 date: 2025-04-21T06:00:41Z
-weight: 330
+lastmod: 2025-04-21T06:00:41Z
+weight: 260
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: pQyifHyTkWo
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 aliases:
-- /resources/pQyifHyTkWo
-- /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
-- /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
+  - /resources/pQyifHyTkWo
+  - /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
+  - /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
 aliasesArchive:
-- /resources/videos/th-may-office-hours-ask-me-anything
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
-- /resources/27th-may-2020-office-hours-ask-me-anything
-- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-- unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-- /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
-- /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
-- navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
+  - /resources/videos/th-may-office-hours-ask-me-anything
+  - /resources/videos/27th-may-2020-office-hours-ask-me-anything
+  - /resources/27th-may-2020-office-hours-ask-me-anything
+  - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+  - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+  - /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
+  - /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
+  - navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Uncategorized
+  - Technical Leadership
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T12:49:13Z
   short_title: 2025-07-07T16:44:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:33:23Z
 videoId: pQyifHyTkWo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pQyifHyTkWo/maxresdefault.jpg
 duration: 120
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
 short_title: 'Azure DevOps: Avoiding Common Agile Pitfalls'
 description: Learn how to avoid common mistakes in Azure DevOps, improve agile workflows, maintain traceability, and simplify processes for better team productivity and project success.
+tldr: Many teams misuse Azure DevOps by creating flat work item hierarchies, using custom work item types that do not fit agile practices, neglecting traceability, and overcomplicating processes, which reduces the platform’s effectiveness. Sticking to intended structures and keeping processes simple helps teams stay agile and productive. Review your team’s use of Azure DevOps to ensure alignment with agile principles and avoid these common pitfalls.
 date: 2024-04-09T08:00:20Z
-weight: 690
+lastmod: 2024-04-09T08:00:20Z
+weight: 555
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: jcs-2G99Rrw
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 aliases:
-- /resources/jcs-2G99Rrw
-- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
+  - /resources/jcs-2G99Rrw
+  - /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+  - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 aliasesArchive:
-- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-- /resources/top-4-rookie-mistakes-in-azure-devops
-- mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+  - /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+  - /resources/videos/top-4-rookie-mistakes-in-azure-devops
+  - /resources/top-4-rookie-mistakes-in-azure-devops
+  - mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Product Development
+  - Engineering Excellence
+  - Product Development
 tags:
-- Azure DevOps
-- Software Development
-- Pragmatic Thinking
-- Product Delivery
-- Operational Practices
+  - Azure DevOps
+  - Software Development
+  - Pragmatic Thinking
+  - Product Delivery
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:05:18Z
   short_title: 2025-07-07T17:49:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:52Z
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

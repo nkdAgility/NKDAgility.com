@@ -2,8 +2,14 @@
 title: Unlocking the Power of Immersive Learning for Product Management
 short_title: Immersive Learning in Product Management
 description: Explores how immersive learning in product management blends practical assignments, evidence-based metrics, and reflection to drive real organisational change and improvement.
+tldr: Immersive learning helps product management teams move beyond traditional training by combining extended, practical assignments with real-world application and reflection, leading to deeper understanding and organizational change. Focusing on outcome-based tasks and evidence-based metrics, rather than vanity measures, sparks valuable conversations and continuous improvement within teams. Development managers should consider adopting immersive learning approaches to drive lasting value and empower teams to deliver better results.
 date: 2024-08-12T10:03:43Z
+lastmod: 2024-08-12T10:03:43Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: KAqCTOIB4hk
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-power-of-immersive-learning-for-product-management
 aliases:
-- /resources/KAqCTOIB4hk
-- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
+  - /resources/KAqCTOIB4hk
+  - /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+  - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
 aliasesArchive:
-- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/unlocking-the-power-of-immersive-learning-for-product-management
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
-- /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
-- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
-- unlocking-the-power-of-immersive-learning-for-product-management
+  - /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+  - /resources/unlocking-the-power-of-immersive-learning-for-product-management
+  - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+  - /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+  - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
+  - unlocking-the-power-of-immersive-learning-for-product-management
 source: internal
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Continuous Improvement
-- Metrics and Learning
-- Continuous Learning
-- Evidence Based Leadership
-- Pragmatic Thinking
+  - Continuous Improvement
+  - Metrics and Learning
+  - Continuous Learning
+  - Value Delivery
+  - Evidence Based Leadership
+  - Pragmatic Thinking
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:56Z
 videoId: KAqCTOIB4hk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
 duration: 574
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

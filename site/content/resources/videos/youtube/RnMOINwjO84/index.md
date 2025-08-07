@@ -2,8 +2,14 @@
 title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
 short_title: Fostering Agility and Innovation in Business
 description: Explores how businesses can boost agility and innovation by adapting decision-making, avoiding bureaucracy, and fostering continuous learning in complex environments.
+tldr: There are no universal rules for making good business decisions in complex environments, so teams must focus on adaptability, creativity, and continuous learning to stay competitive. Relying on standard tools or processes can lead to bureaucracy and stifle innovation, so regularly reassess what adds value and be ready to change approaches as needed. Encourage a culture that questions the status quo and adapts quickly to new information or challenges.
 date: 2024-10-03T07:00:16Z
+lastmod: 2024-10-03T07:00:16Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: RnMOINwjO84
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 aliases:
-- /resources/RnMOINwjO84
-- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
+  - /resources/RnMOINwjO84
+  - /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+  - /resources/videos/making-data-driven-decisions-decision-making-frameworks
 aliasesArchive:
-- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
-- /resources/making-data-driven-decisions-decision-making-frameworks
-- navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+  - /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+  - /resources/videos/making-data-driven-decisions-decision-making-frameworks
+  - /resources/making-data-driven-decisions-decision-making-frameworks
+  - navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Complexity Thinking
-- Business Agility
-- Enterprise Agility
-- Market Adaptability
-- Pragmatic Thinking
-- Organisational Agility
-- Organisational Physics
-- Decision Theory
+  - Complexity Thinking
+  - Business Agility
+  - Enterprise Agility
+  - Market Adaptability
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Organisational Physics
+  - Decision Theory
 Watermarks:
   description: 2025-05-07T12:57:38Z
   short_title: 2025-07-07T17:47:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:46Z
 videoId: RnMOINwjO84
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

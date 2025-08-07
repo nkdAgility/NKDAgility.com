@@ -2,8 +2,14 @@
 title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 short_title: Mastering Product Development Costs
 description: Learn how to track, manage, and optimise product development costs by empowering teams with financial awareness, key metrics, and continuous improvement for better outcomes.
+tldr: Understanding and managing product development costs, especially people and infrastructure, is essential for financial success. Empowering teams with financial awareness helps them make better decisions, align work with value, and focus on profitable outcomes. Development managers should foster a culture where teams track costs, measure value delivered, and continuously improve processes to drive profitability and innovation.
 date: 2024-12-20T07:00:00Z
+lastmod: 2024-12-20T07:00:00Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: UgFVn4Sp1rw
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-product-development-costs-empower-your-team-for-financial-success
 aliases:
-- /resources/UgFVn4Sp1rw
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+  - /resources/UgFVn4Sp1rw
+  - /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+  - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 aliasesArchive:
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-- /resources/measuring-and-monitoring-costs-for-continuous-improvement
-- mastering-product-development-costs-empower-your-team-for-financial-success
+  - /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+  - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+  - /resources/measuring-and-monitoring-costs-for-continuous-improvement
+  - mastering-product-development-costs-empower-your-team-for-financial-success
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Management
-- Product Development
-- Scrum
+  - Product Management
+  - Product Development
+  - Scrum
 tags:
-- Metrics and Learning
-- Pragmatic Thinking
-- Value Delivery
+  - Metrics and Learning
+  - Pragmatic Thinking
+  - Value Delivery
+  - Project Management
 Watermarks:
   description: 2025-05-07T12:56:36Z
   short_title: 2025-07-07T17:47:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:46Z
 videoId: UgFVn4Sp1rw
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

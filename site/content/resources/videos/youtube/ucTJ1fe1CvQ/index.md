@@ -2,8 +2,14 @@
 title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
 short_title: Unlocking the Power of Assumptions in Product Development
 description: Learn to identify, challenge, and validate assumptions in product development, avoid the “Feature Factory” trap, and build products that truly meet user needs.
+tldr: The PPDV course helps product teams avoid the common pitfall of building features without understanding real user needs by teaching them to identify and challenge assumptions throughout the product development process. It emphasizes a cycle of discovery, delivery, and validation, encouraging evidence-based decisions and continuous learning. Development managers should consider this course to shift their teams from a feature factory mindset to one focused on delivering real value.
 date: 2024-08-09T05:27:35Z
+lastmod: 2024-08-09T05:27:35Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ucTJ1fe1CvQ
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 aliases:
-- /resources/ucTJ1fe1CvQ
-- /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-- /resources/videos/ppdv-course-overview
+  - /resources/ucTJ1fe1CvQ
+  - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+  - /resources/videos/ppdv-course-overview
 aliasesArchive:
-- /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-- /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-- /resources/videos/ppdv-course-overview
-- /resources/ppdv-course-overview
-- unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+  - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+  - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+  - /resources/videos/ppdv-course-overview
+  - /resources/ppdv-course-overview
+  - unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Discovery
-- Pragmatic Thinking
-- Customer Focus
-- Continuous Learning
+  - Product Discovery
+  - Pragmatic Thinking
+  - Customer Focus
+  - Hypothesis Driven Development
+  - Continuous Learning
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:02:16Z
   short_title: 2025-07-07T17:48:41Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:05Z
 videoId: ucTJ1fe1CvQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

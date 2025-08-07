@@ -4,7 +4,12 @@ short_title: What Engineering Excellence Really Means
 description: Engineering excellence isn’t perfection—it’s continuous improvement, clean code, and fast feedback. Unlock true agility with modern Agile and DevOps practices.
 tldr: Engineering excellence is not about achieving perfection or creating exhaustive plans, but about building systems that continuously adapt and improve through fast feedback and incremental change. Key practices include clean code, observability, automated testing, and CI/CD, which together enable teams to deliver high-quality software quickly and respond to real-world needs. Development managers should focus on removing manual bottlenecks and technical debt to shorten feedback loops, as this is the foundation of true Agile and DevOps success.
 date: 2025-07-21T06:00:00Z
+lastmod: 2025-07-21T06:00:00Z
 weight: 150
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: gDzw-Qe_Js8
 ResourceImport: true
 ResourceType: videos
@@ -12,35 +17,35 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: engineering-excellence-isn-t-perfection-how-continuous-improvement-and-fast-feedback-drive-real-agile-and-devops-success
 aliases:
-- /resources/gDzw-Qe_Js8
-- /resources/videos/2-what-engineering-excellence-really-means
+  - /resources/gDzw-Qe_Js8
+  - /resources/videos/2-what-engineering-excellence-really-means
 aliasesArchive:
-- /resources/videos/2-what-engineering-excellence-really-means
-- 2-what-engineering-excellence-really-means
+  - /resources/videos/2-what-engineering-excellence-really-means
+  - 2-what-engineering-excellence-really-means
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Engineering Excellence
-- DevOps
-- Product Development
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Software Development
-- Product Delivery
-- Pragmatic Thinking
-- Market Adaptability
-- Technical Mastery
-- Azure DevOps
-- Value Delivery
-- Continuous Learning
-- Operational Practices
-- Technical Excellence
-- Organisational Agility
-- Engineering Practices
-- Continuous Improvement
-- Empirical Process Control
-- Team Performance
+  - Technical Excellence
+  - Software Development
+  - Product Delivery
+  - Pragmatic Thinking
+  - Market Adaptability
+  - Technical Mastery
+  - Azure DevOps
+  - Value Delivery
+  - Continuous Learning
+  - Operational Practices
+  - Organisational Agility
+  - Engineering Practices
+  - Continuous Improvement
+  - Empirical Process Control
+  - Team Performance
 Watermarks:
   description: 2025-07-24T15:11:44Z
   short_title: 2025-07-24T15:11:46Z
@@ -50,11 +55,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gDzw-Qe_Js8/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCaDw4_qASDFmlS-dZFdb3kyoO16w
 duration: 698
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Engineering Excellence: Why Perfection Is the Wrong Goal

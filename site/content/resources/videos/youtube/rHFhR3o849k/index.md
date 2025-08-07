@@ -2,8 +2,14 @@
 title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
 short_title: How the Right Scrum Master Transforms Teams
 description: Explores how an effective Scrum Master drives team success by fostering team fit, addressing organisational barriers, and building relationships to enable lasting change.
+tldr: A great Scrum Master is defined by their fit with the team and their ability to build trust, which is best achieved when teams help select their own Scrum Master. Beyond supporting the team, the most effective Scrum Masters build relationships across the organisation to identify and address broader obstacles, empowering others to drive change. Development managers should involve teams in Scrum Master selection and support their efforts to connect with stakeholders for greater organisational impact.
 date: 2023-03-13T07:00:19Z
-weight: 665
+lastmod: 2023-03-13T07:00:19Z
+weight: 460
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: rHFhR3o849k
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 aliases:
-- /resources/rHFhR3o849k
-- /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
-- /resources/videos/what-makes-a-truly-great-scrum-master
+  - /resources/rHFhR3o849k
+  - /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
+  - /resources/videos/what-makes-a-truly-great-scrum-master
 aliasesArchive:
-- /resources/videos/what-makes-a-truly-great-scrum-master
-- /resources/videos/what-makes-a-truly-great-scrum-master-
-- /resources/what-makes-a-truly-great-scrum-master-
-- what-makes-a-truly-great-scrum-master
-- /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
-- unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
+  - /resources/videos/what-makes-a-truly-great-scrum-master
+  - /resources/videos/what-makes-a-truly-great-scrum-master-
+  - /resources/what-makes-a-truly-great-scrum-master-
+  - what-makes-a-truly-great-scrum-master
+  - /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
+  - unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Leadership
-- Product Development
+  - Scrum
+  - Leadership
+  - Product Development
 tags:
-- Scrum Master
-- Scrum Team
-- Sociotechnical Systems
-- Pragmatic Thinking
+  - Scrum Master
+  - Scrum Team
+  - Software Development
+  - Sociotechnical Systems
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:43Z
   short_title: 2025-07-07T17:56:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:37Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

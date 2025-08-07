@@ -2,8 +2,14 @@
 title: Reasons to do a PSM II Course in 60 seconds
 short_title: Reasons to Do a PSM II Course in 60 Seconds
 description: Discover how the PSM II course deepens Scrum Master skills, boosts team performance, supports product owners, and advances agile careers with practical, real-world benefits.
+tldr: The PSM II course helps experienced Scrum Masters deepen their expertise, empower teams, and better support product owners, leading to higher team performance and organizational agility. It offers practical tools, advanced facilitation techniques, and access to a professional community, all aimed at driving real change. Consider enrolling to accelerate your career growth and make a greater impact in your organization.
 date: 2023-07-12T14:00:30Z
-weight: 665
+lastmod: 2023-07-12T14:00:30Z
+weight: 365
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: TcnVsQbE8xc
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: reasons-to-do-a-psm-ii-course-in-60-seconds
 aliases:
-- /resources/TcnVsQbE8xc
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+  - /resources/TcnVsQbE8xc
+  - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 aliasesArchive:
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+  - /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
+  - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+  - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
+  - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
+  - reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Master
+  - Competence
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:10:52Z
   short_title: 2025-07-07T17:54:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:12Z
 videoId: TcnVsQbE8xc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

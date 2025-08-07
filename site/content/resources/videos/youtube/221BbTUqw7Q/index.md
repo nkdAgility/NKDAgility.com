@@ -2,8 +2,14 @@
 title: What are 3 key takeaways for a scrum team after attending an APS immersive learning experience course?
 short_title: 3 Key Takeaways from APS Scrum Course
 description: 'Discover three essential lessons for Scrum teams after an APS immersive course: deepening core understanding, overcoming early challenges, and distinguishing true Scrum practices.'
+tldr: The APS immersive course helps Scrum teams deeply understand core principles, apply them to real-world challenges, and distinguish essential Scrum practices from unnecessary add-ons. It provides practical, actionable insights for overcoming early implementation hurdles. Teams are encouraged to revisit and refine their Scrum approach for greater effectiveness.
 date: 2023-08-14T07:00:01Z
-weight: 790
+lastmod: 2023-08-14T07:00:01Z
+weight: 735
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 221BbTUqw7Q
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 aliases:
-- /resources/221BbTUqw7Q
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+  - /resources/221BbTUqw7Q
+  - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+  - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
 aliasesArchive:
-- /resources/videos/what-are-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
-- what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+  - /resources/videos/what-are-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+  - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+  - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
+  - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+  - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+  - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
+  - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
+  - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+  - what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:10:12Z
   short_title: 2025-07-07T17:53:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:07Z
 videoId: 221BbTUqw7Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
 duration: 241
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

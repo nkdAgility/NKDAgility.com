@@ -2,8 +2,14 @@
 title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
 short_title: 'Hiring an Agile Coach: Building Credibility'
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
+tldr: When hiring an Agile coach, prioritize candidates who can build credibility with both teams and leadership by demonstrating hands-on technical experience, strong communication skills, and emotional intelligence. Coaches who understand your tools and culture, and who can balance support across all levels, are more likely to drive real and lasting Agile transformation. Focus your search on those who have proven they can foster trust, adapt to your environment, and bridge gaps between teams and executives.
 date: 2023-11-20T11:00:30Z
-weight: 640
+lastmod: 2023-11-20T11:00:30Z
+weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: S1hBTkbZVFM
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 aliases:
-- /resources/S1hBTkbZVFM
-- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
-- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+  - /resources/S1hBTkbZVFM
+  - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+  - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+  - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 aliasesArchive:
-- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
-- the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+  - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+  - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+  - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+  - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
+  - the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Technical Leadership
 tags:
-- Agile Transformation
-- Coaching
-- Agile Leadership
-- Organisational Agility
+  - Organisational Agility
+  - Agile Transformation
+  - Coaching
+  - Agile Leadership
 Watermarks:
   description: 2025-05-07T13:07:43Z
   short_title: 2025-07-07T17:51:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:43Z
 videoId: S1hBTkbZVFM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

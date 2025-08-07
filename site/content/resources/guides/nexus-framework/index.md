@@ -2,46 +2,52 @@
 title: Nexus Guide
 short_title: 'Nexus Guide: Scaling Scrum with Multiple Teams'
 description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
+tldr: Nexus is a framework for scaling Scrum to coordinate three to nine teams working on a single product, focusing on minimizing dependencies and ensuring integrated delivery each Sprint. It adds a Nexus Integration Team, shared events, and artifacts like a single Product Backlog and Integrated Increment to maintain transparency and alignment across teams. Development managers should use Nexus to address cross-team challenges, improve integration, and maximize value without simply adding more people.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author:
-- Ken Schwaber
+  - Ken Schwaber
 ResourceId: iC8MlA3TE7S
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: nexus-guide
 aliases:
-- guides/Nexus-Framework/
-- guides/Nexus-Framework.html
-- /learn/agile-delivery-kit/guides/nexus-framework
-- /resources/iC8MlA3TE7S
+  - guides/Nexus-Framework/
+  - guides/Nexus-Framework.html
+  - /learn/agile-delivery-kit/guides/nexus-framework
+  - /resources/iC8MlA3TE7S
 aliasesArchive:
-- guides/Nexus-Framework/
-- guides/Nexus-Framework.html
-- /learn/agile-delivery-kit/guides/nexus-framework
+  - guides/Nexus-Framework/
+  - guides/Nexus-Framework.html
+  - /learn/agile-delivery-kit/guides/nexus-framework
 layout: guide
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Increment
-- Professional Scrum
-- Agile Frameworks
-- Scaling
-- Software Development
-- Product Delivery
-- Product Backlog
-- Empirical Process Control
-- Social Technologies
-- Transparency
-- Value Delivery
-- Large Scale Agility
-- Working Software
-- Scrum Team
-- Agile Transformation
+  - Product Delivery
+  - Increment
+  - Professional Scrum
+  - Agile Frameworks
+  - Scaling
+  - Software Development
+  - Product Backlog
+  - Working Software
+  - Empirical Process Control
+  - Social Technologies
+  - Transparency
+  - Value Delivery
+  - Large Scale Agility
+  - Scrum Team
+  - Agile Transformation
 card:
   button:
     content: Learn More
@@ -50,20 +56,21 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:25Z
   short_title: 2025-07-07T16:40:33Z
+  tldr: 2025-08-07T12:46:29Z
 resourceTypes: guide
 references:
-- title: The 2020 Scrum Guide
-  url: https://scrumguides.org/scrum-guide.html
-- title: The Nexus Guide
-  url: https://www.scrum.org/resources/online-nexus-guide
+  - title: The 2020 Scrum Guide
+    url: https://scrumguides.org/scrum-guide.html
+  - title: The Nexus Guide
+    url: https://www.scrum.org/resources/online-nexus-guide
 recommendedContent:
-- collection: practices
-  path: _practices/definition-of-done-dod.md
-- collection: practices
-  path: _practices/definition-of-ready-dor.md
+  - collection: practices
+    path: _practices/definition-of-done-dod.md
+  - collection: practices
+    path: _practices/definition-of-ready-dor.md
 videos:
-- title: Overview of The Scrum Framework with Martin Hinshelwood
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Overview of The Scrum Framework with Martin Hinshelwood
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 creator: Martin Hinshelwood
 
 ---

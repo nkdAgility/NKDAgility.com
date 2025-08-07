@@ -2,8 +2,14 @@
 title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 short_title: Agility Is About Value, Not Speed
 description: Explains why Agile is not about speed but about prioritising valuable work, adapting to feedback, and avoiding wasted effort to deliver products that truly meet user needs.
+tldr: Agile is not about working faster but about focusing on delivering the most valuable outcomes by prioritizing, experimenting, and adapting based on real customer needs. Speed alone can lead to building the wrong product, while Agile helps teams avoid wasted effort by eliminating unnecessary work and bureaucracy. Development managers should ensure their teams use Agile to maximize value, not just to increase velocity.
 date: 2024-07-11T06:45:01Z
+lastmod: 2024-07-11T06:45:01Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: b3HFBlCcomk
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 aliases:
-- /resources/b3HFBlCcomk
-- /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/videos/debunking-the-myth-agile-is-not-about-speed
+  - /resources/b3HFBlCcomk
+  - /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+  - /resources/videos/debunking-the-myth-agile-is-not-about-speed
 aliasesArchive:
-- /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/videos/debunking-the-myth-agile-is-not-about-speed
-- /resources/debunking-the-myth-agile-is-not-about-speed
-- the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+  - /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+  - /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+  - /resources/videos/debunking-the-myth-agile-is-not-about-speed
+  - /resources/debunking-the-myth-agile-is-not-about-speed
+  - the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Agile Transformation
-- Agile Values and Principles
-- Pragmatic Thinking
-- Software Development
-- Organisational Agility
-- Agile Strategy
-- Customer Focus
+  - Value Delivery
+  - Agile Philosophy
+  - Agile Transformation
+  - Agile Values and Principles
+  - Pragmatic Thinking
+  - Software Development
+  - Organisational Agility
+  - Agile Strategy
+  - Empirical Process Control
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:02:38Z
   short_title: 2025-07-07T17:49:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:58Z
 videoId: b3HFBlCcomk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

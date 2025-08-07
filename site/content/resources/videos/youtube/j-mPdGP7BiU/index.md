@@ -2,8 +2,14 @@
 title: 'Mastering Product Development: From Assumptions to Hypotheses'
 short_title: Mastering Product Development Hypotheses
 description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
+tldr: This course teaches development managers how to identify, prioritize, and validate assumptions in product development by turning them into testable hypotheses, focusing on data-driven decision-making rather than gut feelings. Key insights include learning to distinguish critical assumptions from trivial ones, balancing the cost and confidence of experiments, and using experiment results to guide strategy. The main takeaway is to adopt a mindset that values learning and evidence, leading to more effective and efficient product development.
 date: 2024-08-10T07:00:32Z
+lastmod: 2024-08-10T07:00:32Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: j-mPdGP7BiU
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-product-development-from-assumptions-to-hypotheses
 aliases:
-- /resources/j-mPdGP7BiU
-- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
+  - /resources/j-mPdGP7BiU
+  - /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+  - /resources/videos/ppdv-learning-outcomes
 aliasesArchive:
-- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/ppdv-learning-outcomes
-- mastering-product-development-from-assumptions-to-hypotheses
+  - /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+  - /resources/mastering-product-development-from-assumptions-to-hypotheses
+  - /resources/videos/ppdv-learning-outcomes
+  - /resources/ppdv-learning-outcomes
+  - mastering-product-development-from-assumptions-to-hypotheses
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Hypothesis Driven Development
-- Experimentation
-- Lean Startup
-- Product Discovery
-- Product Validation
+  - Hypothesis Driven Development
+  - Experimentation
+  - Lean Product Development
+  - Lean Startup
+  - Product Validation
+  - Product Discovery
 Watermarks:
   description: 2025-05-07T13:02:14Z
   short_title: 2025-07-07T17:48:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:00Z
 videoId: j-mPdGP7BiU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

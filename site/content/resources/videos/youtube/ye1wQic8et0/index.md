@@ -2,8 +2,14 @@
 title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market'
 short_title: Eliminating Committees to Speed Time to Market
 description: Explores how committees can delay decision-making, reduce agility, and increase time to market, highlighting the benefits of empowering teams and streamlining processes.
+tldr: Committees often slow down decision-making and stall teams, leading to missed business opportunities and delayed time to market. Empowering teams to make decisions and adopting modern collaboration tools can significantly improve speed, accountability, and innovation. Review your current processes and consider reducing committee involvement to stay competitive and agile.
 date: 2023-10-02T07:00:33Z
-weight: 1000
+lastmod: 2023-10-02T07:00:33Z
+weight: 735
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ye1wQic8et0
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 aliases:
-- /resources/ye1wQic8et0
-- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
-- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+  - /resources/ye1wQic8et0
+  - /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+  - /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
 aliasesArchive:
-- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
-- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
-- cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+  - /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+  - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+  - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+  - /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+  - cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Time to Market
-- Agile Strategy
-- Organisational Agility
-- Value Delivery
+  - Pragmatic Thinking
+  - Time to Market
+  - Agile Strategy
+  - Organisational Agility
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:09:06Z
   short_title: 2025-07-07T17:52:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:06Z
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

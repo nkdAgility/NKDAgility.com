@@ -4,7 +4,12 @@ short_title: Definition of Done as a Competitive Advantage
 description: Unlock your team's true potential—discover why a powerful definition of done drives real business impact, customer value, and lasting competitive advantage.
 tldr: Many teams struggle not with building software but with finishing it in a way that delivers real business value. A clear, evolving definition of done protects revenue, boosts customer satisfaction, reduces rework, and builds trust by ensuring work is truly complete and valuable. Make your definition of done visible, review it regularly with the whole team, and connect it to real outcomes to turn it into a competitive advantage.
 date: 2025-07-16T06:45:00Z
+lastmod: 2025-07-16T06:45:00Z
 weight: 150
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: LHqjlId0SiU
 ResourceImport: true
 ResourceType: videos
@@ -12,51 +17,48 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
 aliases:
-- /resources/LHqjlId0SiU
-- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
-- /resources/videos/11-redefining-done-why-it-changes-everything
+  - /resources/LHqjlId0SiU
+  - /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+  - /resources/videos/11-redefining-done-why-it-changes-everything
 aliasesArchive:
-- /resources/videos/11-redefining-done-why-it-changes-everything
-- 11-redefining-done-why-it-changes-everything
-- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
-- why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+  - /resources/videos/11-redefining-done-why-it-changes-everything
+  - 11-redefining-done-why-it-changes-everything
+  - /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+  - why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
 source: youtube
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Engineering Excellence
-- Technical Leadership
+  - Product Development
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Definition of Done
-- Software Development
-- Pragmatic Thinking
-- Team Performance
-- Value Delivery
-- Product Delivery
-- Organisational Agility
-- Operational Practices
-- Professional Scrum
-- Business Agility
-- Market Adaptability
-- Agile Strategy
-- Social Technologies
-- Agile Product Management
-- Agile Transformation
+  - Definition of Done
+  - Software Development
+  - Pragmatic Thinking
+  - Team Performance
+  - Value Delivery
+  - Product Delivery
+  - Organisational Agility
+  - Operational Practices
+  - Professional Scrum
+  - Business Agility
+  - Market Adaptability
+  - Agile Strategy
+  - Social Technologies
+  - Agile Product Management
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T18:57:16Z
   short_title: 2025-07-07T16:43:15Z
   tldr: 2025-07-30T23:22:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 videoId: LHqjlId0SiU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/LHqjlId0SiU/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBJllDiEgFFcBqbQftEd3ihBxtwMg
 duration: 66
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Unlocking Trust in Scrum: The Power of Openness and Transparency'
 short_title: Unlocking Trust in Scrum with Openness
 description: Explores how openness and transparency in Scrum foster trust, clear communication, and a supportive team culture, essential for effective Agile collaboration.
+tldr: Openness is essential in Scrum because it builds trust and transparency, which are necessary for effective teamwork. Key practices include clear communication, making information easily accessible, and encouraging emotional honesty within the team. Development managers should foster an open environment to improve collaboration and address issues early.
 date: 2023-04-28T07:00:30Z
-weight: 690
+lastmod: 2023-04-28T07:00:30Z
+weight: 515
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: gRnYXuxo9_w
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 aliases:
-- /resources/gRnYXuxo9_w
-- /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
-- /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+  - /resources/gRnYXuxo9_w
+  - /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
+  - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 aliasesArchive:
-- /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
-- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-- scrum-value-openness-what-does-it-mean-and-why-does-it-matter
-- /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
-- unlocking-trust-in-scrum-the-power-of-openness-and-transparency
+  - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+  - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+  - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+  - scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+  - /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
+  - unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Values
-- Transparency
-- Professional Scrum
-- Team Performance
-- Agile Frameworks
-- Scrum Team
-- Social Technologies
-- Team Collaboration
-- Team Motivation
+  - Team Collaboration
+  - Scrum Values
+  - Transparency
+  - Professional Scrum
+  - Team Performance
+  - Team Motivation
+  - Agile Frameworks
+  - Scrum Team
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:12:53Z
   short_title: 2025-07-07T17:55:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:56Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

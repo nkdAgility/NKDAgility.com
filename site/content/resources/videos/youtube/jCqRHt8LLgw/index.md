@@ -2,8 +2,14 @@
 title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
 short_title: Rethinking Story Points, Team Size & Architecture
 description: Explores the limitations of story points, optimal team sizes, and the benefits of emergent architecture for improving agile practices and team performance.
+tldr: Story points often create confusion and unpredictability, so focusing on throughput and cycle time gives teams clearer insights and better delivery. Slightly larger teams with diverse roles can handle complex work and maintain quality more effectively. Embracing emergent architecture helps teams stay flexible and competitive, so consider shifting your metrics and team structures to support adaptability and faster value delivery.
 date: 2020-05-13T05:03:57Z
-weight: 1000
+lastmod: 2020-05-13T05:03:57Z
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: jCqRHt8LLgw
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 aliases:
-- /resources/jCqRHt8LLgw
+  - /resources/jCqRHt8LLgw
 aliasesArchive:
-- /resources/videos/th-may-office-hours-ask-me-anything
-- /resources/videos/12th-may-2020-office-hours-ask-me-anything
-- /resources/12th-may-2020-office-hours-ask-me-anything
-- /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
-- rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+  - /resources/videos/th-may-office-hours-ask-me-anything
+  - /resources/videos/12th-may-2020-office-hours-ask-me-anything
+  - /resources/12th-may-2020-office-hours-ask-me-anything
+  - /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+  - rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:44Z
   short_title: 2025-07-07T17:58:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:47Z
 videoId: jCqRHt8LLgw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

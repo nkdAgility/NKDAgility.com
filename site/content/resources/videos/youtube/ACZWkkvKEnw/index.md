@@ -2,8 +2,14 @@
 title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
 short_title: Avoiding the Local Optimisation Trap
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
+tldr: Focusing on optimising individual teams or processes without considering their impact on the whole organisation can create inefficiencies and misalignment. Integrating governance into daily work and encouraging cross-team collaboration helps ensure decisions support overall business goals. Development managers should prioritise system-wide alignment over isolated improvements to drive lasting organisational success.
 date: 2025-02-08T07:49:38Z
-weight: 1000
+lastmod: 2025-02-08T07:49:38Z
+weight: 770
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ACZWkkvKEnw
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliases:
-- /resources/ACZWkkvKEnw
-- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
-- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
-- /resources/videos/the-cog-conundrum
+  - /resources/ACZWkkvKEnw
+  - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+  - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
+  - /resources/videos/the-cog-conundrum
 aliasesArchive:
-- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/the-cog-conundrum
-- /resources/the-cog-conundrum
-- avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+  - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
+  - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+  - /resources/what-does-your-dream-agile-consulting-week-look-like
+  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+  - /resources/what-does-your-dream-agile-consulting-week-look-like-
+  - /resources/videos/the-cog-conundrum
+  - /resources/the-cog-conundrum
+  - avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Systems Thinking
+  - Systems Thinking
 Watermarks:
   description: 2025-05-07T12:49:43Z
   short_title: 2025-07-07T17:46:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:39:55Z
 videoId: ACZWkkvKEnw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

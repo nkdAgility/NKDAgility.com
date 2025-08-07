@@ -2,8 +2,14 @@
 title: Worst Contribution from a Product Owner that You Know Of
 short_title: Worst Product Owner Contribution Example
 description: A real-world example of a product owner undermining their Scrum team during a sprint review, highlighting the importance of support, accountability, and collaboration.
+tldr: A product owner publicly blamed the development team during a sprint review instead of supporting them when stakeholders questioned product decisions, undermining trust and collaboration. Product owners should balance accountability to stakeholders with support for their teams, especially under pressure. Development managers should ensure product owners are prepared to defend team decisions and foster a collaborative environment.
 date: 2023-06-06T11:00:34Z
-weight: 1000
+lastmod: 2023-06-06T11:00:34Z
+weight: 785
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ekUL1oIMeAc
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: worst-contribution-from-a-product-owner-that-you-know-of
 aliases:
-- /resources/ekUL1oIMeAc
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+  - /resources/ekUL1oIMeAc
+  - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 aliasesArchive:
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
-- worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+  - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
+  - /resources/worst-contribution-from-a-product-owner-that-you-know-of
+  - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+  - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
+  - worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 source: internal
 layout: video
-concepts: []
+concepts:
+  - Accountability
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Sprint Review
-- Agile Product Management
+  - Team Collaboration
+  - Sprint Review
+  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:11:50Z
   short_title: 2025-07-07T17:54:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:10Z
 videoId: ekUL1oIMeAc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

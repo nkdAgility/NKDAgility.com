@@ -2,8 +2,14 @@
 title: What would be an example of a great agile consulting outcome for a client?
 short_title: Great Agile Consulting Outcomes for Clients
 description: A great agile consulting outcome enables organisations to adapt quickly to change, fostering resilience, decentralised decision-making, and empowered, responsive teams.
+tldr: A great agile consulting outcome is helping an organization become consistently adaptable to both unexpected opportunities and threats by removing barriers to responsiveness and fostering a culture of flexibility and decentralized decision-making. Key results include shifting from rigid, top-down management to empowered, autonomous teams and building resilience throughout the organization, not just in isolated groups. Development managers should focus on enabling this mindset and structure across all levels to achieve lasting agility and improved business results.
 date: 2023-01-26T07:00:04Z
+lastmod: 2023-01-26T07:00:04Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Cgy1ccX7e7Y
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 aliases:
-- /resources/Cgy1ccX7e7Y
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+  - /resources/Cgy1ccX7e7Y
+  - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 aliasesArchive:
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
-- what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+  - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+  - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+  - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+  - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+  - what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 source: internal
 layout: video
 concepts:
-- Capability
+  - Strategy
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Transformation
-- Organisational Agility
-- Agile Philosophy
-- Agile Strategy
-- Pragmatic Thinking
-- Business Agility
-- Organisational Change
+  - Social Technologies
+  - Agile Transformation
+  - Organisational Agility
+  - Change Management
+  - Agile Philosophy
+  - Agile Strategy
+  - Pragmatic Thinking
+  - Business Agility
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T13:14:25Z
   short_title: 2025-07-07T17:57:02Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:54Z
 videoId: Cgy1ccX7e7Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

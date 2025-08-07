@@ -2,45 +2,52 @@
 title: The fallacy of the rejected backlog item
 short_title: The Fallacy of Rejecting Backlog Items
 description: Explains why rejecting individual backlog items at Sprint Review is a misconception, highlighting Scrum’s focus on learning, collaboration, and delivering a complete increment.
+tldr: Rejecting individual backlog items at the Sprint Review is a misunderstanding, since the increment is delivered as a whole and removing a single item is complex and risky. The Sprint Review is for feedback and learning, not for accepting or rejecting specific items, and any gaps should inform future backlog updates. Development managers should focus on clear communication, well-structured backlog items, and using feature flags to provide flexibility and faster feedback.
 date: 2020-07-13
+lastmod: 2020-07-13
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: Ewu5coIz9qm
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-fallacy-of-the-rejected-backlog-item
 aliases:
-- /resources/Ewu5coIz9qm
+  - /resources/Ewu5coIz9qm
 aliasesArchive:
-- /blog/the-fallacy-of-the-rejected-backlog-item
-- /the-fallacy-of-the-rejected-backlog-item
-- /resources/blog/the-fallacy-of-the-rejected-backlog-item
+  - /blog/the-fallacy-of-the-rejected-backlog-item
+  - /the-fallacy-of-the-rejected-backlog-item
+  - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 layout: blog
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Sprint Review
-- Professional Scrum
-- Product Backlog
-- Increment
-- Empirical Process Control
-- Transparency
-- Working Software
-- Agile Frameworks
-- Software Development
-- Agile Product Management
-- Scrum Team
-- Agile Planning
-- Product Delivery
-- Product Owner
-- Value Delivery
+  - Sprint Review
+  - Empirical Process Control
+  - Social Technologies
+  - Professional Scrum
+  - Product Backlog
+  - Increment
+  - Transparency
+  - Working Software
+  - Agile Frameworks
+  - Software Development
+  - Agile Product Management
+  - Scrum Team
+  - Agile Planning
+  - Product Delivery
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:15:29Z
   short_title: 2025-07-07T17:57:53Z
+  tldr: 2025-08-07T13:11:11Z
 ResourceImportId: 9876
 creator: Martin Hinshelwood
 resourceTypes: blog

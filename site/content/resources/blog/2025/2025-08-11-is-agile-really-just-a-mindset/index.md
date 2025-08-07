@@ -4,39 +4,44 @@ short_title: Agile as a Delivery Discipline, Not Mindset
 description: Explores Agile as a disciplined system of delivery, emphasizing engineering excellence, CI/CD, observability, and system design over mindset or behaviour alone.
 tldr: Agile is not just a mindset or set of behaviours; it is a disciplined system of work rooted in engineering excellence, technical leadership, and empirical delivery. True agility requires robust engineering practices like CI/CD, automated testing, and observability, not just ceremonies or coaching. To achieve real Agile outcomes, focus on building systems that enable frequent, reliable delivery and hold both teams and leadership accountable for technical and organisational change.
 date: 2025-08-11T09:00:00Z
+lastmod: 2025-08-11T09:00:00Z
 weight: 60
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 contributors:
-- name: Rikard Skelander
-  external: https://www.linkedin.com/in/rikardskelander/
+  - name: Rikard Skelander
+    external: https://www.linkedin.com/in/rikardskelander/
 ResourceId: ABbVdMBZ5fI
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: is-agile-really-just-a-mindset
 aliases:
-- /resources/ABbVdMBZ5fI
+  - /resources/ABbVdMBZ5fI
 concepts:
-- Capability
+  - Capability
 categories:
-- Engineering Excellence
-- Product Development
-- Technical Leadership
+  - Engineering Excellence
+  - Product Development
+  - Technical Leadership
 tags:
-- Product Delivery
-- Value Delivery
-- Software Development
-- Operational Practices
-- Technical Mastery
-- Pragmatic Thinking
-- Team Performance
-- Engineering Practices
-- Technical Excellence
-- Market Adaptability
-- Agile Transformation
-- Sociotechnical Systems
-- Frequent Releases
-- Organisational Agility
-- Working Software
+  - Product Delivery
+  - Value Delivery
+  - Software Development
+  - Operational Practices
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Engineering Practices
+  - Technical Excellence
+  - Market Adaptability
+  - Agile Transformation
+  - Sociotechnical Systems
+  - Frequent Releases
+  - Organisational Agility
+  - Team Performance
+  - Working Software
 Watermarks:
   description: 2025-05-30T15:27:52Z
   short_title: 2025-07-07T16:43:10Z

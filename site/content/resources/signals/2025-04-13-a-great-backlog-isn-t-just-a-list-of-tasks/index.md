@@ -2,40 +2,47 @@
 title: A great backlog isn’t just a list of tasks
 short_title: A Great Backlog Is More Than Task Lists
 description: Learn how an effective backlog guides product strategy, prioritises value, and supports decision-making, rather than serving as a simple list of tasks or ideas.
+tldr: A backlog should guide strategic decisions and reflect the product vision, not just list tasks. Filling it with unchecked requests leads to loss of focus and unclear priorities. Review your backlog to ensure it highlights what truly matters for delivering value and supports your product strategy.
 date: 2025-04-13T15:30:17+01:00
+lastmod: 2025-04-13T15:30:17+01:00
 weight: 670
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: y8KN3uMGjey
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: a-great-backlog-isn-t-just-a-list-of-tasks
 aliases:
-- /resources/y8KN3uMGjey
+  - /resources/y8KN3uMGjey
 source: LinkedIn
 layout: signal
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Backlog
-- Product Strategy
-- Agile Product Management
+  - Product Backlog
+  - Product Strategy
+  - Agile Product Management
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7317207510346600448
-  post_id: "7317207510346600448"
-  post_date: 2025-04-13T14:30:17Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7317207510346600448
+    post_id: "7317207510346600448"
+    post_date: 2025-04-13T14:30:17Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:31Z
   short_title: 2025-07-07T16:44:54Z
+  tldr: 2025-08-07T12:33:45Z
 
 ---
 A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.

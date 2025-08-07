@@ -2,54 +2,61 @@
 title: Delivery is the only Measure of Progress in Scrum
 short_title: Delivery Is the Only Measure in Scrum
 description: Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.
+tldr: Progress in Scrum should be measured by delivering working software to real users, not just completing internal work. Teams must deliver increments to production every Sprint, gather user feedback quickly, and adapt based on that feedback. To stay competitive, make delivery the default by automating releases, breaking down silos, and ensuring value reaches users every iteration.
 date: 2025-02-03T09:00:00
+lastmod: 2025-02-03T09:00:00
 weight: 175
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: Ana Kotevska
-  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
+  - name: Ana Kotevska
+    external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
 ResourceId: jBIyK6NW3ZB
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: delivery-is-the-only-measure-of-progress-in-scrum
 aliases:
-- /resources/jBIyK6NW3ZB
+  - /resources/jBIyK6NW3ZB
 aliasesArchive:
-- /delivery-is-the-only-measure-of-progress
-- /blog/delivery-is-the-only-measure-of-progress
-- /delivery-is-the-only-measure-of-progress-in-scrum
-- /blog/delivery-is-the-only-measure-of-progress-in-scrum
+  - /delivery-is-the-only-measure-of-progress
+  - /blog/delivery-is-the-only-measure-of-progress
+  - /delivery-is-the-only-measure-of-progress-in-scrum
+  - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 layout: blog
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+  - Product Development
+  - Scrum
+  - Engineering Excellence
 tags:
-- Pragmatic Thinking
-- Software Development
-- Market Adaptability
-- Operational Practices
-- Deployment Frequency
-- Professional Scrum
-- Product Delivery
-- Value Delivery
-- Customer Focus
-- Working Software
-- Continuous Delivery
-- Technical Mastery
-- Frequent Releases
-- Agile Product Management
-- Technical Excellence
+  - Pragmatic Thinking
+  - Software Development
+  - Market Adaptability
+  - Operational Practices
+  - Deployment Frequency
+  - Professional Scrum
+  - Product Delivery
+  - Value Delivery
+  - Customer Focus
+  - Working Software
+  - Social Technologies
+  - Continuous Delivery
+  - Technical Mastery
+  - Frequent Releases
+  - Agile Product Management
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/delivery-only-measure-progress-scrum
-  post_date: 2025-06-10T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/delivery-only-measure-progress-scrum
+    post_date: 2025-06-10T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:51Z
   short_title: 2025-07-07T17:46:52Z
+  tldr: 2025-08-07T12:40:19Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

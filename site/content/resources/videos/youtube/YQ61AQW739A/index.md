@@ -4,7 +4,12 @@ short_title: 'Transition Roadmap: Legacy to Modern Systems'
 description: Transform legacy engineering with a proven, step-by-step approach—learn how to automate, adapt, and build a resilient, modern DevOps culture.
 tldr: Transforming legacy engineering to modern DevOps requires a flexible, evidence-based approach focused on testing hypotheses, starting with the most challenging products, and automating every step from code commit to production. Involve all stakeholders to define essential requirements, automate approvals and deployments, and use phased rollouts with real-time feedback to minimize risk. Focus on one improvement at a time, build a culture of continuous learning, and scale successful practices across the organization.
 date: 2025-08-04T07:00:00Z
+lastmod: 2025-08-04T07:00:00Z
 weight: 145
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: monthly
 ResourceId: YQ61AQW739A
 ResourceImport: true
 ResourceType: videos
@@ -12,33 +17,35 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: from-legacy-pain-to-modern-devops-my-proven-roadmap-for-real-engineering-transformation
 aliases:
-- /resources/YQ61AQW739A
-- /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
+  - /resources/YQ61AQW739A
+  - /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
 aliasesArchive:
-- /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
-- 4-the-transition-roadmap-from-legacy-to-modern
+  - /resources/videos/4-the-transition-roadmap-from-legacy-to-modern
+  - 4-the-transition-roadmap-from-legacy-to-modern
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
-- Engineering Excellence
-- Technical Leadership
+  - DevOps
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Software Development
-- Operational Practices
-- Engineering Practices
-- Azure DevOps
-- Pragmatic Thinking
-- Continuous Delivery
-- Product Delivery
-- Application Lifecycle Management
-- Technical Mastery
-- Digital Transformation
-- Value Delivery
-- Continuous Improvement
-- Sociotechnical Systems
+  - Software Development
+  - Operational Practices
+  - Engineering Practices
+  - Azure DevOps
+  - Pragmatic Thinking
+  - Personal
+  - Continuous Delivery
+  - Product Delivery
+  - Application Lifecycle Management
+  - Technical Mastery
+  - Digital Transformation
+  - Metrics and Learning
+  - Value Delivery
+  - Continuous Improvement
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-07-24T15:10:36Z
   short_title: 2025-07-24T15:10:37Z
@@ -48,11 +55,8 @@ url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YQ61AQW739A/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLDgxpLWoJLJYOlFORIUC4e7TbJfNg
 duration: 586
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Building a Roadmap from Legacy to Modern Engineering: My Approach

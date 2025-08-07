@@ -2,8 +2,14 @@
 title: How to Discover Unrealized Value in Your Product
 short_title: Discovering Unrealized Value in Products
 description: Learn how to identify and measure unrealised value in your product using Evidence-Based Management, key metrics, and actionable steps to improve customer satisfaction and growth.
+tldr: Evidence-Based Management helps you find hidden opportunities to improve your product by using metrics like customer satisfaction, market share, and innovation to identify gaps between current performance and potential value. By adding these insights to your product backlog and prioritizing improvements, you can boost user satisfaction, reduce churn, and stay competitive. Regularly review feedback and involve stakeholders to ensure continuous improvement and maximize your product’s value.
 date: 2024-01-24T11:00:29Z
+lastmod: 2024-01-24T11:00:29Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: cbLd-wstv3o
 ResourceImport: true
 ResourceType: videos
@@ -11,50 +17,48 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-discover-unrealized-value-in-your-product
 aliases:
-- /resources/cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+  - /resources/cbLd-wstv3o
+  - /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+  - /resources/videos/how-to-discover-unrealized-value-in-your-product
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 aliasesArchive:
-- /resources/videos/how-to-discover-unrealized-value-in-your-product
-- /resources/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+  - /resources/videos/how-to-discover-unrealized-value-in-your-product
+  - /resources/how-to-discover-unrealized-value-in-your-product
+  - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+  - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+  - how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Unrealised Value
-- Continuous Improvement
-- Decision Making
-- Evidence Based Leadership
-- Product Discovery
-- Product Validation
-- Software Development
-- Ability to Innovate
-- Evidence Based Management
-- Pragmatic Thinking
-- Current Value
-- Product Backlog
-- Customer Satisfaction
-- Working Software
+  - Customer Focus
+  - Unrealised Value
+  - Value Delivery
+  - Continuous Improvement
+  - Decision Making
+  - Evidence Based Leadership
+  - Product Discovery
+  - Product Validation
+  - Software Development
+  - Ability to Innovate
+  - Evidence Based Management
+  - Pragmatic Thinking
+  - Current Value
+  - Social Technologies
+  - Product Backlog
 Watermarks:
   description: 2025-05-07T13:06:16Z
   short_title: 2025-07-07T17:50:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:46Z
 videoId: cbLd-wstv3o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

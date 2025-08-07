@@ -2,8 +2,14 @@
 title: What is your feeling on creating Agile apprenticeships?
 short_title: Creating Agile Apprenticeships Through Mentorship
 description: Explores building Agile apprenticeships through mentorship, continuous learning, and community, highlighting real-world support for Scrum Masters and Agile professionals.
+tldr: Creating Agile apprenticeships is a natural next step from immersive learning, as ongoing engagement with trainees has organically formed a community of Agile learners. Key initiatives include open invitations for informal discussions, bonus consulting time, and a mentor-apprentice model that supports continuous growth and knowledge sharing. Development managers should consider fostering similar environments to encourage ongoing learning and mentorship within their teams.
 date: 2023-03-17T07:00:21Z
+lastmod: 2023-03-17T07:00:21Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vHNwcfbNOR8
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-your-feeling-on-creating-agile-apprenticeships
 aliases:
-- /resources/vHNwcfbNOR8
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
+  - /resources/vHNwcfbNOR8
+  - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
 aliasesArchive:
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
-- what-is-your-feeling-on-creating-agile-apprenticeships
+  - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
+  - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
+  - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
+  - /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
+  - what-is-your-feeling-on-creating-agile-apprenticeships
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Continuous Learning
-- Mentoring
+  - Continuous Learning
+  - Mentoring
 Watermarks:
   description: 2025-05-07T13:13:38Z
   short_title: 2025-07-07T17:56:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:28Z
 videoId: vHNwcfbNOR8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
 duration: 251
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

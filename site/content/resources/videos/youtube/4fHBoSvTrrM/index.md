@@ -2,8 +2,14 @@
 title: How will a PSM II course challenge your assumptions the most?
 short_title: How PSM II Challenges Scrum Master Assumptions
 description: Explores how the PSM II course challenges common misconceptions about Scrum Masters, emphasising advanced skills, team empowerment, and evolving Scrum practices.
+tldr: The PSM II course challenges common misconceptions about the Scrum Master role, showing that it is much more than being a Jira admin or a problem solver; instead, it focuses on empowering teams to be self-sufficient and highlights the value of subtle, behind-the-scenes leadership. The course helps Scrum Masters evolve from basic task facilitators to advanced guides who foster team autonomy and sustainable practices. Development managers should consider this course to deepen their understanding of effective Scrum leadership and drive stronger team performance.
 date: 2023-04-03T07:00:03Z
+lastmod: 2023-04-03T07:00:03Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 4fHBoSvTrrM
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 aliases:
-- /resources/4fHBoSvTrrM
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+  - /resources/4fHBoSvTrrM
+  - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+  - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
 aliasesArchive:
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
-- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
-- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
-- how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+  - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+  - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+  - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+  - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+  - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+  - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+  - how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Scrum Master
-- Professional Scrum
+  - Scrum Master
+  - Social Technologies
+  - Competence
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:13:24Z
   short_title: 2025-07-07T17:56:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:00Z
 videoId: 4fHBoSvTrrM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
 duration: 383
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,26 +2,31 @@
 title: Empirical Process Control
 short_title: Empirical Process Control
 description: A method that uses transparency, regular inspection, and adaptation to guide teams and stakeholders in achieving goals and improving processes.
+tldr: Scrum uses empirical process control, which means teams and stakeholders need to be open about their work, check progress often, and adjust plans as needed. This approach helps ensure goals are met even as conditions change. Managers should encourage regular reviews and flexibility to improve results.
 date: 2024-09-17
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: VBf7KL90jRm
 ResourceImport: false
 ResourceType: principles
 ResourceContentOrigin: Human
 slug: empirical-process-control
 aliases:
-- /learn/agile-delivery-kit/first-principals/empirical-process-control/
-- /resources/VBf7KL90jRm
+  - /learn/agile-delivery-kit/first-principals/empirical-process-control/
+  - /resources/VBf7KL90jRm
 aliasesArchive:
-- /learn/agile-delivery-kit/first-principals/empirical-process-control/
+  - /learn/agile-delivery-kit/first-principals/empirical-process-control/
 layout: principles
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
+  - Scrum
 tags:
-- Empirical Process Control
-- Software Development
+  - Empirical Process Control
+  - Software Development
 card:
   button:
     content: Learn More
@@ -30,6 +35,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:10Z
   short_title: 2025-07-07T17:48:03Z
+  tldr: 2025-08-07T12:48:43Z
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

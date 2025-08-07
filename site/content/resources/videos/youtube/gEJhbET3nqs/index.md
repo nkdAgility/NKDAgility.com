@@ -2,8 +2,14 @@
 title: "Unlocking Agile Leadership: Transform Your Skills with Scrum.org's Essentials Workshop"
 short_title: Unlocking Agile Leadership with Scrum.org
 description: Learn practical agile leadership skills, foster team alignment, and drive cultural change with Scrum.org’s workshop to support agile transformation and organisational success.
+tldr: The Scrum.org Professional Agile Leadership Essentials workshop helps leaders shift from traditional management to effective agile leadership by providing hands-on learning, practical coaching skills, and tools for driving cultural change. It emphasises organisational alignment and collaboration, enabling leaders to support agile teams and measure the impact of agility. Attending this workshop can help you guide your teams through agile transformation and improve your organisation’s responsiveness and performance.
 date: 2020-07-07T20:10:33Z
-weight: 590
+lastmod: 2020-07-07T20:10:33Z
+weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: gEJhbET3nqs
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-agile-leadership-transform-your-skills-with-scrum-org's-essentials-workshop
 aliases:
-- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
-- /resources/gEJhbET3nqs
+  - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
+  - /resources/gEJhbET3nqs
 aliasesArchive:
-- /resources/videos/professional-agile-leadership-essentials-overview
-- /resources/professional-agile-leadership-essentials-overview
-- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
-- unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
-- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
+  - /resources/videos/professional-agile-leadership-essentials-overview
+  - /resources/professional-agile-leadership-essentials-overview
+  - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+  - unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+  - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
 source: youtube
 layout: video
 concepts: []
 categories:
-- Leadership
-- Technical Leadership
-- Scrum
+  - Leadership
+  - Technical Leadership
+  - Scrum
 tags:
-- Organisational Agility
-- Agile Leadership
-- Agile Strategy
-- Organisational Change
-- Pragmatic Thinking
+  - Organisational Agility
+  - Agile Leadership
+  - Agile Philosophy
+  - Agile Strategy
+  - Organisational Change
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:30Z
   short_title: 2025-07-07T17:57:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:15Z
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

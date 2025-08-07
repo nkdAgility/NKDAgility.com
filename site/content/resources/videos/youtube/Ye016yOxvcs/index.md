@@ -2,8 +2,14 @@
 title: 5 critical Skills to master as an Agile Consultant?  Part 1
 short_title: 5 Critical Skills for Agile Consultants Part 1
 description: Explores essential skills for Agile consultants, focusing on understanding client context, embracing uncertainty, learning from setbacks, and continuous adaptation.
+tldr: To be effective as an Agile consultant, it is crucial to recognize that fully understanding a client's context is rarely possible, so rely on experience, embrace trial and error, and continuously adapt your approach. Success comes from learning from setbacks, identifying universally effective strategies, and maintaining a commitment to ongoing learning. Development managers should foster a culture of experimentation and adaptability within their teams.
 date: 2023-08-07T07:00:10Z
-weight: 1000
+lastmod: 2023-08-07T07:00:10Z
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Ye016yOxvcs
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1
 aliases:
-- /resources/Ye016yOxvcs
-- /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
-- /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1
-- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
+  - /resources/Ye016yOxvcs
+  - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
+  - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1
+  - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
 aliasesArchive:
-- /resources/videos/-critical-skills-to-master-as-an-agile-consultant-part-
-- /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1
-- /resources/5-critical-skills-to-master-as-an-agile-consultant-part-1
-- /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
-- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
-- /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
-- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
-- 5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
+  - /resources/videos/-critical-skills-to-master-as-an-agile-consultant-part-
+  - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1
+  - /resources/5-critical-skills-to-master-as-an-agile-consultant-part-1
+  - /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
+  - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
+  - /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
+  - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
+  - 5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:23Z
   short_title: 2025-07-07T17:53:42Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:27Z
 videoId: Ye016yOxvcs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

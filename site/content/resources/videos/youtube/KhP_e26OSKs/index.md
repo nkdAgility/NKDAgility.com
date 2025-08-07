@@ -2,8 +2,14 @@
 title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 short_title: Engaging Stakeholders in Sprint Reviews
 description: Learn practical strategies to boost stakeholder attendance and engagement in Sprint reviews, encouraging valuable feedback and stronger collaboration for product improvement.
+tldr: Sprint reviews often fail to engage stakeholders or generate useful feedback because stakeholders do not see the value or feel emotionally connected to the work. To address this, communicate the benefits of participation early, use visuals, create a safe space for feedback, engage stakeholders before reviews, and tailor your approach to their interests. Development managers should focus on making Sprint reviews relevant and personal to stakeholders to drive better engagement and product outcomes.
 date: 2023-12-15T11:00:17Z
+lastmod: 2023-12-15T11:00:17Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: KhP_e26OSKs
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 aliases:
-- /resources/KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+  - /resources/KhP_e26OSKs
+  - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+  - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+  - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 aliasesArchive:
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+  - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+  - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+  - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+  - transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Sprint Review
-- Product Owner
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Product Management
-- Software Development
+  - Sprint Review
+  - Value Delivery
+  - Product Owner
+  - Team Collaboration
+  - Pragmatic Thinking
+  - Agile Product Management
+  - Software Development
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:53Z
   short_title: 2025-07-07T17:50:42Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:05Z
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

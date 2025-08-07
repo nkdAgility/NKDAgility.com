@@ -2,8 +2,14 @@
 title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
 short_title: 'Scrum Master: Expanding Organisational Impact'
 description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
+tldr: Scrum Masters have a broader responsibility beyond supporting their teams; they also need to engage with the Product Owner and the wider organisation to remove obstacles and drive agility. Encouraging Scrum Masters to question outdated processes and model collaborative behaviours can lead to meaningful organisational change. Development managers should empower Scrum Masters to challenge the status quo and support their growth in these expanded roles.
 date: 2023-04-27T07:00:00Z
-weight: 640
+lastmod: 2023-04-27T07:00:00Z
+weight: 435
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: 1TaIjFL-0o8
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
-- /resources/1TaIjFL-0o8
-- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
-- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
+  - /resources/1TaIjFL-0o8
+  - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+  - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+  - /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
 aliasesArchive:
-- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
-- unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
-- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
+  - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+  - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+  - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+  - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+  - unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+  - /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Accountability
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Agile Frameworks
-- Software Development
+  - Scrum Master
+  - Organisational Agility
+  - Professional Scrum
+  - Scrum Team
+  - Agile Frameworks
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:12:59Z
   short_title: 2025-07-07T17:55:43Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:03Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: My journey with Kanban and why I actively recommend it to clients.
 short_title: Kanban for Workflow, Predictability & Transparency
 description: Explains how adopting Kanban improves workflow, predictability, and transparency for any team or industry, offering practical insights and benefits over traditional approaches.
+tldr: Kanban is a practical strategy for improving workflow and predictability by making work processes more transparent and data-driven, which builds trust and enables better decision-making. Integrating Kanban with Scrum helps teams deliver more consistently and reduces stakeholder uncertainty. Development managers should consider adopting Kanban to optimize team performance and deliver greater value across any context.
 date: 2024-02-23T07:00:12Z
+lastmod: 2024-02-23T07:00:12Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZisAuhrOhcY
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 aliases:
-- /resources/ZisAuhrOhcY
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
+  - /resources/ZisAuhrOhcY
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 aliasesArchive:
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+  - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+  - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+  - my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+  - my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Agile Frameworks
-- Transparency
-- Flow Efficiency
+  - Operational Practices
+  - Agile Frameworks
+  - Transparency
+  - Flow Efficiency
 Watermarks:
   description: 2025-05-07T13:05:37Z
   short_title: 2025-07-07T17:49:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:28Z
 videoId: ZisAuhrOhcY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

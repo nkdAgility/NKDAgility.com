@@ -2,8 +2,14 @@
 title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 short_title: How AI Is Revolutionising Our Work
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
+tldr: AI is rapidly transforming work by boosting productivity and creativity, acting as a supportive tool for idea generation, content creation, and automating repetitive tasks. Teams that adopt AI can work more efficiently and gain a competitive advantage. Development managers should start exploring and integrating AI tools now to stay ahead in a changing landscape.
 date: 2023-07-05T14:49:20Z
+lastmod: 2023-07-05T14:49:20Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: fcOSewXez3I
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 aliases:
-- /resources/fcOSewXez3I
-- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+  - /resources/fcOSewXez3I
+  - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+  - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
 aliasesArchive:
-- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
-- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
-- how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+  - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+  - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
+  - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
+  - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+  - how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:03Z
   short_title: 2025-07-07T17:54:11Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:31Z
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: Unlocking the Power of Immersive Learning in Agile
 short_title: Immersive Learning for Agile Transformation
 description: Explores how immersive, hands-on learning helps teams internalise Agile principles, shift mindsets, and drive lasting Agile transformation through real-world experience.
+tldr: Immersive learning helps teams internalize Agile principles by engaging them in hands-on, real-world scenarios, leading to genuine mindset shifts rather than just following rituals. This approach enables teams to connect Agile concepts to their daily challenges, adapt their behaviors based on experience, and achieve more effective Agile transformations. To maximize impact, create safe spaces for experimentation, use relevant scenarios, and allow time for reflection.
 date: 2024-02-03T07:00:12Z
+lastmod: 2024-02-03T07:00:12Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: OlzXHZihQzI
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-power-of-immersive-learning-in-agile
 aliases:
-- /resources/OlzXHZihQzI
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+  - /resources/OlzXHZihQzI
+  - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+  - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 aliasesArchive:
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
-- unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+  - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
+  - /resources/unlocking-the-power-of-immersive-learning-in-agile
+  - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+  - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+  - unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Learning
-- Organisational Agility
-- Software Development
-- Agile Transformation
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Values and Principles
+  - Agile Transformation
+  - Continuous Learning
+  - Organisational Agility
+  - Software Development
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Social Technologies
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:06:01Z
   short_title: 2025-07-07T17:49:58Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:18Z
 videoId: OlzXHZihQzI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

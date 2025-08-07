@@ -2,8 +2,14 @@
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 short_title: 'Detecting Agile BS: Lessons from DoD'
 description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
+tldr: Adopting Agile development practices is not enough if the rest of your organization remains slow and bureaucratic; true agility requires continuous delivery, high product quality, and minimal manual or bureaucratic steps across the entire process. Use the Department of Defense's six-question test to assess your real agility, and focus on automating testing, streamlining deployment, and building quality in from the start. Regularly review and improve your processes to eliminate bottlenecks and ensure your whole ecosystem supports rapid, reliable delivery.
 date: 2024-08-02T06:45:02Z
-weight: 360
+lastmod: 2024-08-02T06:45:02Z
+weight: 245
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: kVt5KP9dg8Q
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: detecting-agile-bs-lessons-from-the-department-of-defense
 aliases:
-- /resources/kVt5KP9dg8Q
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+  - /resources/kVt5KP9dg8Q
+  - /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+  - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
 aliasesArchive:
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
-- detecting-agile-bs-lessons-from-the-department-of-defense
+  - /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+  - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
+  - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+  - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+  - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+  - detecting-agile-bs-lessons-from-the-department-of-defense
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Agile Philosophy
-- Continuous Delivery
-- Continuous Improvement
-- Operational Practices
-- Pragmatic Thinking
-- Agile Transformation
-- Software Development
-- Agile Strategy
+  - Agile Philosophy
+  - Continuous Delivery
+  - Continuous Improvement
+  - Operational Practices
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Software Development
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:02:19Z
   short_title: 2025-07-07T17:48:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:13Z
 videoId: kVt5KP9dg8Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

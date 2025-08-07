@@ -2,8 +2,14 @@
 title: '7 deadly sins of Agile: Wrath'
 short_title: '7 Deadly Sins of Agile: Wrath and Blame'
 description: Explores how blame and intolerance for mistakes harm Agile teams, and offers strategies to replace blame with accountability, learning, and a safer team culture.
+tldr: Wrath in Agile teams shows up as blame and fear of mistakes, which stifles innovation and learning. Shifting from blame to shared accountability creates a safer environment for risk-taking and continuous improvement. Development managers should encourage open discussion of mistakes and support a culture where learning from errors is valued over perfection.
 date: 2023-10-16T11:00:31Z
+lastmod: 2023-10-16T11:00:31Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: U18nA0YFgu0
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-wrath
 aliases:
-- /resources/U18nA0YFgu0
-- /resources/videos/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath-7-deadly-sins-of-agile
+  - /resources/U18nA0YFgu0
+  - /resources/videos/7-deadly-sins-of-agile-wrath
+  - /resources/videos/wrath-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-wrath
-- /resources/videos/7-deadly-sins-of-agile-wrath
-- /resources/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath!-7-deadly-sins-of-agile
-- /resources/wrath!-7-deadly-sins-of-agile
-- /resources/videos/wrath-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-wrath
+  - /resources/videos/-deadly-sins-of-agile-wrath
+  - /resources/videos/7-deadly-sins-of-agile-wrath
+  - /resources/7-deadly-sins-of-agile-wrath
+  - /resources/videos/wrath!-7-deadly-sins-of-agile
+  - /resources/wrath!-7-deadly-sins-of-agile
+  - /resources/videos/wrath-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-wrath
 source: internal
 layout: video
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Continuous Learning
-- Team Performance
-- Team Collaboration
-- Agile Philosophy
-- Organisational Culture
-- Psychological Safety
-- Team Motivation
+  - Continuous Learning
+  - Team Performance
+  - Team Collaboration
+  - Agile Philosophy
+  - Organisational Culture
+  - Psychological Safety
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:08:44Z
   short_title: 2025-07-07T17:52:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:27Z
 videoId: U18nA0YFgu0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

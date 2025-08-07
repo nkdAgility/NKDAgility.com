@@ -2,8 +2,14 @@
 title: 'Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth'
 short_title: Why Scrum Masters Stall at PSM1
 description: Many Scrum Masters stop at PSM1 due to lack of passion. Ongoing learning, genuine interest, and active engagement are key to advancing and excelling in the Scrum Master role.
+tldr: Many Scrum Masters do not progress beyond the PSM1 certification because they lack genuine interest and focus only on obtaining the certificate rather than improving their skills. Those who advance are passionate, actively seek knowledge, and practice their craft, which leads to greater team effectiveness and value creation. Development managers should encourage ongoing learning and engagement to foster deeper expertise and professional growth in their Scrum Masters.
 date: 2023-04-07T07:00:20Z
-weight: 1000
+lastmod: 2023-04-07T07:00:20Z
+weight: 805
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vWfebO_pwIU
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 aliases:
-- /resources/vWfebO_pwIU
-- /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
-- /resources/videos/why-most-scrum-masters-only-have-psmi
+  - /resources/vWfebO_pwIU
+  - /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
+  - /resources/videos/why-most-scrum-masters-only-have-psmi
 aliasesArchive:
-- /resources/videos/why-most-scrum-masters-only-have-psmi
-- /resources/videos/why-most-scrum-masters-only-have-psmi!
-- /resources/why-most-scrum-masters-only-have-psmi!
-- why-most-scrum-masters-only-have-psmi
-- /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
-- why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
+  - /resources/videos/why-most-scrum-masters-only-have-psmi
+  - /resources/videos/why-most-scrum-masters-only-have-psmi!
+  - /resources/why-most-scrum-masters-only-have-psmi!
+  - why-most-scrum-masters-only-have-psmi
+  - /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
+  - why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Scrum Master
+  - Scrum Master
 Watermarks:
   description: 2025-05-07T13:13:19Z
   short_title: 2025-07-07T17:56:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:48Z
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

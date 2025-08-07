@@ -344,7 +344,7 @@ function Save-HugoMarkdown {
     )
 
     # Generate the updated content
-    $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
+    $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter -Options WithIndentedSequences)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
     $updatedContent = $updatedContent -replace "`r`n", "`n"  # Normalize line endings
     $updatedContent += "`n"
 

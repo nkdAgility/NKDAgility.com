@@ -2,8 +2,14 @@
 title: '7 deadly sins of Agile: Envy'
 short_title: '7 Deadly Sins of Agile: Envy'
 description: Explores how envy leads teams to copy Agile models like Spotify, warns against FOMO-driven adoption, and stresses tailoring Agile practices to your team’s unique needs.
+tldr: Avoid copying Agile models like Spotify without considering your team's unique context, as imitation and trend-driven decisions often lead to poor results. Instead, focus on adapting practices to fit your specific needs, encourage creativity and autonomy, and foster a positive, customer-focused culture. Assess new tools and methods carefully before adopting them to ensure they truly benefit your organization.
 date: 2023-10-09T11:17:10Z
+lastmod: 2023-10-09T11:17:10Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 4mkwTMMtKls
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-envy
 aliases:
-- /resources/4mkwTMMtKls
-- /resources/videos/7-deadly-sins-of-agile-envy
-- /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
+  - /resources/4mkwTMMtKls
+  - /resources/videos/7-deadly-sins-of-agile-envy
+  - /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-envy
-- /resources/videos/7-deadly-sins-of-agile-envy
-- /resources/7-deadly-sins-of-agile-envy
-- /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
-- /resources/envy!-one-of-the-7-deadly-sins-of-agile
-- /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-envy
+  - /resources/videos/-deadly-sins-of-agile-envy
+  - /resources/videos/7-deadly-sins-of-agile-envy
+  - /resources/7-deadly-sins-of-agile-envy
+  - /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
+  - /resources/envy!-one-of-the-7-deadly-sins-of-agile
+  - /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-envy
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Agile Transformation
+  - Software Development
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:08:57Z
   short_title: 2025-07-07T17:52:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:53Z
 videoId: 4mkwTMMtKls
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
 duration: 407
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

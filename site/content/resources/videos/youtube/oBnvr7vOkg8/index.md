@@ -2,8 +2,14 @@
 title: How does someone become an Agile consultant?
 short_title: How to Become an Agile Consultant
 description: Explains the steps to become an Agile consultant, highlighting the need for domain expertise, real-world experience, and applying Agile practices within your industry.
+tldr: Becoming an Agile consultant requires deep expertise in your own field first, then integrating Agile practices and building a reputation as an Agile expert within that context. Success comes from mastering your domain, learning to abstract Agile principles for broader application, and gradually expanding into new industries as your experience grows. Start by applying Agile in your area, gain recognition, and only then consider consulting in other sectors.
 date: 2023-03-21T07:00:18Z
+lastmod: 2023-03-21T07:00:18Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: oBnvr7vOkg8
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-someone-become-an-agile-consultant
 aliases:
-- /resources/oBnvr7vOkg8
-- /resources/videos/how-does-someone-become-an-agile-consultant
+  - /resources/oBnvr7vOkg8
+  - /resources/videos/how-does-someone-become-an-agile-consultant
 aliasesArchive:
-- /resources/videos/how-does-someone-become-an-agile-consultant
-- /resources/how-does-someone-become-an-agile-consultant
-- /resources/videos/how-does-someone-become-an-agile-consultant-
-- /resources/how-does-someone-become-an-agile-consultant-
-- how-does-someone-become-an-agile-consultant
+  - /resources/videos/how-does-someone-become-an-agile-consultant
+  - /resources/how-does-someone-become-an-agile-consultant
+  - /resources/videos/how-does-someone-become-an-agile-consultant-
+  - /resources/how-does-someone-become-an-agile-consultant-
+  - how-does-someone-become-an-agile-consultant
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:36Z
   short_title: 2025-07-07T17:56:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:20Z
 videoId: oBnvr7vOkg8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
 duration: 400
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

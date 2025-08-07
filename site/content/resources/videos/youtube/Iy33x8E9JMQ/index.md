@@ -2,8 +2,14 @@
 title: Dogma versus Empiricism in a consulting engagement
 short_title: Dogma vs Empiricism in Consulting
 description: Explores why rigid dogma hinders consulting, emphasising the value of empirical, flexible, and empathetic approaches for effective problem-solving and continuous learning.
+tldr: Rigid adherence to fixed methods limits innovation and effectiveness in consulting; instead, teams should move from strict training routines to flexible, evidence-based approaches that adapt to changing needs. Building relationships through empathy and mutual respect is key, and embracing continuous learning and empirical adaptation leads to better outcomes. Development managers should encourage adaptability and ongoing learning to stay responsive and successful.
 date: 2023-08-11T07:00:08Z
-weight: 1000
+lastmod: 2023-08-11T07:00:08Z
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Iy33x8E9JMQ
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: dogma-versus-empiricism-in-a-consulting-engagement
 aliases:
-- /resources/Iy33x8E9JMQ
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+  - /resources/Iy33x8E9JMQ
+  - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 aliasesArchive:
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement
-- dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+  - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+  - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
+  - /resources/dogma-versus-empiricism-in-a-consulting-engagement
+  - dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:14Z
   short_title: 2025-07-07T17:53:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:11Z
 videoId: Iy33x8E9JMQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
 short_title: Why More Teams Don’t Speed Up Delivery
 description: Adding more teams doesn’t guarantee faster delivery; effective scaling requires reducing dependencies, aligning goals, and minimising coordination overhead for real results.
+tldr: Adding more teams does not automatically speed up software delivery; it often creates more dependencies, coordination overhead, and technical debt, which can slow progress. Effective scaling focuses on reducing friction, structuring teams to minimize dependencies, and prioritizing quality over quantity. Development managers should ensure teams are set up to work independently and efficiently rather than simply increasing headcount.
 date: 2025-02-21T07:59:43Z
+lastmod: 2025-02-21T07:59:43Z
 weight: 415
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: bHwgZ_Cx99U
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-more-teams-won't-speed-up-delivery-the-truth-about-scaling-effectively
 aliases:
-- /resources/bHwgZ_Cx99U
-- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/scaling-teams-without-losing-speed-or-quality
-- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
+  - /resources/bHwgZ_Cx99U
+  - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+  - /resources/videos/scaling-teams-without-losing-speed-or-quality
+  - /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
 aliasesArchive:
-- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
-- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/scaling-teams-without-losing-speed-or-quality
-- why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
+  - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+  - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+  - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+  - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+  - /resources/videos/scaling-teams-without-losing-speed-or-quality
+  - why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+  - /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Scaling
-- Organisational Agility
-- Team Collaboration
-- Value Delivery
+  - Organisational Agility
+  - Scaling
+  - Product Delivery
+  - Team Collaboration
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:49:32Z
   short_title: 2025-07-07T17:46:17Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:36:06Z
 videoId: bHwgZ_Cx99U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
 duration: 76
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

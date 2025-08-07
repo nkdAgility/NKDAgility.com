@@ -2,8 +2,14 @@
 title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
 short_title: Lessons in Agile Consulting Readiness
 description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
+tldr: Organisations must be ready and willing to engage for agile consulting to be effective; without this, even the best advice will be ignored and no real progress will happen. Repeated experiences showed that lack of readiness and follow-through leads to wasted effort and stagnation. Development managers should ensure their teams are prepared to listen and act before bringing in external help.
 date: 2023-04-04T07:00:16Z
-weight: 1000
+lastmod: 2023-04-04T07:00:16Z
+weight: 815
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: sKYVNHcf1jg
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 aliases:
-- /resources/sKYVNHcf1jg
-- /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
+  - /resources/sKYVNHcf1jg
+  - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+  - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 aliasesArchive:
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
-- /resources/what-was-your-worst-day-as-an-agile-consultant-
-- what-was-your-worst-day-as-an-agile-consultant
-- /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
-- navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+  - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
+  - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
+  - /resources/what-was-your-worst-day-as-an-agile-consultant-
+  - what-was-your-worst-day-as-an-agile-consultant
+  - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+  - navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Personal
+  - Personal
 Watermarks:
   description: 2025-05-07T13:13:23Z
   short_title: 2025-07-07T17:56:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:58Z
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

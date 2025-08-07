@@ -2,8 +2,14 @@
 title: Code Reviews for Quality Assurance
 short_title: Code Reviews for Quality Assurance
 description: Explores modern code review practices, emphasising automation, pre-reviewed code, and shift-left strategies to improve software quality, speed, and team collaboration.
+tldr: Automating code validation before pull requests speeds up delivery, catches defects earlier, and ensures consistent quality, allowing manual reviews to focus on architecture and business alignment instead of minor issues. Development managers should invest in automated testing, static analysis, and security checks, making pull requests mandatory and using manual reviews strategically. This approach reduces bottlenecks and helps teams deliver high-quality software faster.
 date: 2024-11-27T06:00:25Z
+lastmod: 2024-11-27T06:00:25Z
 weight: 255
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: r2G-NrSIj2k
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: code-reviews-for-quality-assurance
 aliases:
-- /resources/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
+  - /resources/r2G-NrSIj2k
+  - /resources/videos/code-reviews-for-quality-assurance
 aliasesArchive:
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
-- code-reviews-for-quality-assurance
+  - /resources/videos/code-reviews-for-quality-assurance
+  - /resources/code-reviews-for-quality-assurance
+  - code-reviews-for-quality-assurance
 source: internal
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Software Development
-- Shift Left Strategy
+  - Software Development
+  - Test Automation
+  - Shift Left Strategy
 Watermarks:
   description: 2025-05-07T12:57:02Z
   short_title: 2025-07-07T17:47:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:32Z
 videoId: r2G-NrSIj2k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

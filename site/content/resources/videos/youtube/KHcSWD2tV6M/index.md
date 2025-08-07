@@ -2,8 +2,14 @@
 title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
 short_title: Combatting Communication Gaps in Agile Teams
 description: Explores the impact of communication gaps in Agile teams, their causes and consequences, and offers practical strategies to foster open, effective team dialogue.
+tldr: Communication gaps in Agile teams can lead to stagnation, loss of trust, and failure to deliver value. Silence often shows up as avoiding tough conversations, ignoring misalignment, withholding feedback, or making false promises. Development managers should actively foster open dialogue, model transparent communication, and create safe channels for feedback to keep teams aligned and effective.
 date: 2023-11-02T11:30:10Z
-weight: 640
+lastmod: 2023-11-02T11:30:10Z
+weight: 460
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: KHcSWD2tV6M
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 aliases:
-- /resources/KHcSWD2tV6M
-- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+  - /resources/KHcSWD2tV6M
+  - /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+  - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
 aliasesArchive:
-- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
-- breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+  - /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+  - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+  - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+  - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+  - breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Social Technologies
-- Team Collaboration
-- Team Performance
-- Agile Philosophy
-- Software Development
-- Organisational Agility
-- Organisational Culture
+  - Agile Philosophy
+  - Social Technologies
+  - Team Collaboration
+  - Team Performance
+  - Software Development
+  - Organisational Agility
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:08:09Z
   short_title: 2025-07-07T17:51:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:27Z
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

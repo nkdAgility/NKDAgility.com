@@ -4,7 +4,12 @@ short_title: 'Definition of Done: Boosting Quality and Trust'
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 tldr: Treating “done” as a vague checklist limits quality, agility, and stakeholder trust; instead, teams should define “done” as delivering thoroughly tested, production-ready, and valuable increments that work in the real world. Clear, objective standards for “done” reduce defects, speed up learning, and build confidence with stakeholders. Development managers should work with their teams to set and uphold a robust definition of “done” to drive better outcomes and long-term success.
 date: 2025-07-09T06:45:00Z
+lastmod: 2025-07-09T06:45:00Z
 weight: 165
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: lRBsJkDeKrI
 ResourceImport: true
 ResourceType: videos
@@ -12,52 +17,49 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
 aliases:
-- /resources/lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
-- /resources/videos/10-what-does-good-done-look-like
+  - /resources/lRBsJkDeKrI
+  - /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
+  - /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
+  - /resources/videos/10-what-does-good-done-look-like
 aliasesArchive:
-- /resources/videos/10-what-does-good-done-look-like
-- 10-what-does-good-done-look-like-lRBsJkDeKrI
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
-- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
-- why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
+  - /resources/videos/10-what-does-good-done-look-like
+  - 10-what-does-good-done-look-like-lRBsJkDeKrI
+  - /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
+  - /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar
+  - why-your-definition-of-done-is-holding-back-quality-agility-and-trustand-how-to-raise-the-bar-lRBsJkDeKrI
 source: youtube
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Engineering Excellence
-- Product Development
-- Scrum
+  - Product Development
+  - Engineering Excellence
+  - Scrum
 tags:
-- Definition of Done
-- Software Development
-- Product Delivery
-- Operational Practices
-- Value Delivery
-- Technical Mastery
-- Working Software
-- Pragmatic Thinking
-- Increment
-- Professional Scrum
-- Engineering Practices
-- Market Adaptability
-- Organisational Agility
-- Technical Excellence
+  - Definition of Done
+  - Software Development
+  - Product Delivery
+  - Operational Practices
+  - Value Delivery
+  - Technical Mastery
+  - Working Software
+  - Pragmatic Thinking
+  - Increment
+  - Professional Scrum
+  - Engineering Practices
+  - Market Adaptability
+  - Organisational Agility
+  - Technical Excellence
 Watermarks:
   description: 2025-05-07T19:08:27Z
   short_title: 2025-07-07T16:43:17Z
   tldr: 2025-07-30T23:22:17Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 videoId: lRBsJkDeKrI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

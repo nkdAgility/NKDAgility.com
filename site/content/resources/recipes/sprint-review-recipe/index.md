@@ -2,40 +2,46 @@
 title: Sprint Review Recipe
 short_title: Sprint Review Step-by-Step Guide
 description: Step-by-step guide for running a Sprint Review, including presenting the increment, gathering feedback, updating the backlog, forecasting, and addressing stakeholder questions.
+tldr: The Sprint Review is designed to inspect the latest product increment, gather stakeholder feedback, and update the product backlog based on new insights, helping inform the next Sprint. Key steps include presenting the product vision, reviewing completed and incomplete work with supporting data, demoing new features, collecting actionable feedback, and discussing release forecasts and compliance. Development managers should ensure the review is structured, data-driven, and focused on actionable outcomes to maximize stakeholder engagement and guide future planning.
 date: 2024-09-17
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes
 ResourceContentOrigin: Human
 slug: sprint-review-recipe
 aliases:
-- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-- /resources/K4kkSAG3R7m
+  - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+  - /resources/K4kkSAG3R7m
 aliasesArchive:
-- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+  - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 layout: recipe
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Sprint Review
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Agile Planning
-- Agile Product Management
-- Product Owner
-- Product Delivery
-- Empirical Process Control
-- Value Delivery
-- Working Software
-- Agile Frameworks
-- Forecasting
-- Team Performance
+  - Sprint Review
+  - Software Development
+  - Social Technologies
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Agile Planning
+  - Agile Product Management
+  - Product Owner
+  - Product Delivery
+  - Empirical Process Control
+  - Value Delivery
+  - Working Software
+  - Agile Frameworks
+  - Forecasting
+  - Team Performance
 card:
   button:
     content: Learn More
@@ -44,27 +50,28 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:45Z
   short_title: 2025-07-07T17:48:02Z
+  tldr: 2025-08-07T12:46:24Z
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 creator: Martin Hinshelwood
 recommendedContent:
-- collection: guides
-  path: _guides/manifesto-for-agile-software-development.md
-- collection: guides
-  path: _guides/scrum-guide.md
-- collection: practices
-  path: _practices/service-level-expectation-sle.md
-- collection: technologies
-  path: _technologies/liberating-structures/shift-share.md
-- collection: technologies
-  path: _technologies/liberating-structures/what-so-what-now-what.md
-- collection: workshops
-  path: _workshops/sprint-review-1.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: practices
+    path: _practices/service-level-expectation-sle.md
+  - collection: technologies
+    path: _technologies/liberating-structures/shift-share.md
+  - collection: technologies
+    path: _technologies/liberating-structures/what-so-what-now-what.md
+  - collection: workshops
+    path: _workshops/sprint-review-1.md
 videos:
-- title: Overview of The Scrum Framework
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-- title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-  embed: https://www.youtube.com/embed/1-W64WdSbF4
+  - title: Overview of The Scrum Framework
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+    embed: https://www.youtube.com/embed/1-W64WdSbF4
 
 ---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the purpose is to inspect the [increment]({{< ref "/tags/increment" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref "/tags/product-backlog" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.

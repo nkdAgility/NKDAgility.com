@@ -2,8 +2,14 @@
 title: The Power of Continuous Learning for Product Owners
 short_title: Continuous Learning for Product Owners
 description: Explains why continuous learning is essential for product owners, highlighting key tools, practical advice, and strategies to stay effective and ahead in a changing industry.
+tldr: Continuous learning is the most important factor for product owners to succeed, helping them make better decisions and stay ahead in a changing industry. Focus on mastering practical tools like evidence-based management, A/B testing, and OKRs, and engage with the community through reading, networking, and professional training. Prioritize learning what works best for your team rather than chasing every new trend, and invest in your ongoing development to maximize your value as a leader.
 date: 2023-12-19T07:00:11Z
+lastmod: 2023-12-19T07:00:11Z
 weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: XKmWMXagVgQ
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-continuous-learning-for-product-owners
 aliases:
-- /resources/XKmWMXagVgQ
-- /resources/videos/the-power-of-continuous-learning-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
+  - /resources/XKmWMXagVgQ
+  - /resources/videos/the-power-of-continuous-learning-for-product-owners
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 aliasesArchive:
-- /resources/videos/the-power-of-continuous-learning-for-product-owners
-- /resources/the-power-of-continuous-learning-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
-- the-power-of-continuous-learning-for-product-owners
+  - /resources/videos/the-power-of-continuous-learning-for-product-owners
+  - /resources/the-power-of-continuous-learning-for-product-owners
+  - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
+  - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
+  - the-power-of-continuous-learning-for-product-owners
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Continuous Learning
-- Competence
-- Product Owner
+  - Continuous Learning
+  - Competence
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:06:48Z
   short_title: 2025-07-07T17:50:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:57Z
 videoId: XKmWMXagVgQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
 short_title: Balancing People and Systems in Agile
 description: Explores the shift from people to systems in work, the impact on Agile practices, and the importance of balancing efficient systems with human collaboration.
+tldr: The Industrial Revolution shifted focus from individuals to systems for productivity, but in Agile environments, it is essential to balance effective systems with the needs of people. Systems should empower teams and not become obstacles, so regularly review and adapt them based on team feedback. Development managers should ensure systems support collaboration and productivity rather than hinder them.
 date: 2023-10-12T11:00:15Z
-weight: 1000
+lastmod: 2023-10-12T11:00:15Z
+weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: KX1xViey_BA
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 aliases:
-- /resources/KX1xViey_BA
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
+  - /resources/KX1xViey_BA
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
 aliasesArchive:
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
-- /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
-- /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
-- quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
-- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+  - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+  - /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+  - quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+  - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:08:49Z
   short_title: 2025-07-07T17:52:27Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:38Z
 videoId: KX1xViey_BA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

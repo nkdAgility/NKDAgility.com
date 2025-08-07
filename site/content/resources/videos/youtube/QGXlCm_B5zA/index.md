@@ -2,8 +2,14 @@
 title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course'
 short_title: Advanced PSM Insights for Scrum Masters
 description: Discover how the Advanced PSM course helps Scrum Masters shift from admin tasks to empowering teams, supporting Product Owners, and tackling organisational challenges.
+tldr: Many Scrum Masters focus too much on administrative tasks like Jira management instead of empowering their teams and supporting the Product Owner and organization. The Advanced PSM course highlights the importance of enabling team accountability, facilitating value delivery, and addressing organizational barriers. Development managers should encourage Scrum Masters to move beyond admin work and focus on building team capability and organizational agility.
 date: 2023-03-06T07:00:14Z
-weight: 665
+lastmod: 2023-03-06T07:00:14Z
+weight: 375
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: QGXlCm_B5zA
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 aliases:
-- /resources/QGXlCm_B5zA
-- /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course
+  - /resources/QGXlCm_B5zA
+  - /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
+  - /resources/videos/what-will-you-learn-on-the-psm-ii-course
 aliasesArchive:
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course-
-- /resources/what-will-you-learn-on-the-psm-ii-course-
-- what-will-you-learn-on-the-psm-ii-course
-- /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
-- transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
+  - /resources/videos/what-will-you-learn-on-the-psm-ii-course
+  - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
+  - /resources/what-will-you-learn-on-the-psm-ii-course-
+  - what-will-you-learn-on-the-psm-ii-course
+  - /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
+  - transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 source: youtube
 layout: video
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
+  - Leadership
 tags:
-- Professional Scrum
-- Scrum Master
-- Software Development
+  - Professional Scrum
+  - Scrum Master
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:13:49Z
   short_title: 2025-07-07T17:56:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:49Z
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

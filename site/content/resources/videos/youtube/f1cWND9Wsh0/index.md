@@ -2,8 +2,14 @@
 title: Why is Lego a shit idea for a Scrum Trainer - Part 1
 short_title: Why Lego Fails in Scrum Training
 description: Explores why using Lego in Scrum training can undermine professionalism, dilute key concepts, and disengage senior participants, urging more context-appropriate methods.
+tldr: Using Lego in Scrum training can undermine the seriousness of the message, create a mismatch between the training method and professional context, and risk disengaging senior participants. The playful approach may trivialize key concepts and reduce credibility with experienced professionals. Development managers should choose training tools that align with the professional environment and reinforce the importance of cultural transformation.
 date: 2023-10-02T11:00:28Z
-weight: 1000
+lastmod: 2023-10-02T11:00:28Z
+weight: 810
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: f1cWND9Wsh0
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 aliases:
-- /resources/f1cWND9Wsh0
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
+  - /resources/f1cWND9Wsh0
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
 aliasesArchive:
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
-- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
+  - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+  - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+  - why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:09:04Z
   short_title: 2025-07-07T17:52:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:04Z
 videoId: f1cWND9Wsh0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/f1cWND9Wsh0/maxresdefault.jpg
 duration: 33
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

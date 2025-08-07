@@ -2,36 +2,43 @@
 title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
 short_title: The 7 Deadly Sins of Agile
 description: Explores how the seven deadly sins from Greek philosophy mirror common pitfalls in agile software development, offering insights to avoid pride, envy, greed, and more.
+tldr: The article draws parallels between the seven deadly sins of ancient Greece and common pitfalls in agile software development, highlighting issues like pride, envy, gluttony, lust, greed, sloth, and wrath as barriers to true agility. Key insights include the dangers of overconfidence, blind imitation, overloading backlogs, chasing quick fixes, prioritising short-term gains, lack of motivation, and blame culture. Development managers should regularly reflect on team behaviours, focus on genuine value delivery, and foster a culture of accountability and continuous improvement to avoid these traps.
 date: 2023-10-17
+lastmod: 2023-10-17
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DgJV3wMMjWr
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
-- /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /resources/DgJV3wMMjWr
-- /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+  - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+  - /resources/DgJV3wMMjWr
+  - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliasesArchive:
-- /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+  - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+  - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:08:42Z
   short_title: 2025-07-07T17:52:22Z
+  tldr: 2025-08-07T12:58:26Z
 ResourceImportId: 50309
 AudioNative: true
 creator: Martin Hinshelwood

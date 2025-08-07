@@ -2,8 +2,14 @@
 title: How do you decide whether to pivot or stay the course? (Nokia story)
 short_title: Deciding to Pivot or Persevere in Agile
 description: Explores how product owners make critical decisions to pivot or persevere in Agile projects, balancing data, instinct, feedback, and adaptability for success.
+tldr: Product owners must confidently make pivotal decisions, often with incomplete information, by balancing data, instinct, and alignment with long-term goals. Success depends on staying connected with teams and stakeholders, monitoring market trends, and fostering a culture of continuous learning and adaptability. To lead effectively, embrace change, value feedback, and be prepared to pivot or persevere based on evidence rather than sunk costs.
 date: 2023-09-13T13:59:54Z
+lastmod: 2023-09-13T13:59:54Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: B12n_52H48U
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 aliases:
-- /resources/B12n_52H48U
-- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
-- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
+  - /resources/B12n_52H48U
+  - /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+  - /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
 aliasesArchive:
-- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
-- /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
-- /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
-- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
-- how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+  - /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+  - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
+  - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
+  - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+  - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+  - /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
+  - how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Leadership
+  - Product Management
 tags:
-- Pragmatic Thinking
-- Software Development
+  - Pragmatic Thinking
+  - Social Technologies
+  - Product Owner
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:09:34Z
   short_title: 2025-07-07T17:53:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:05Z
 videoId: B12n_52H48U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

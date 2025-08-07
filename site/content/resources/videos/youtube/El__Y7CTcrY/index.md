@@ -2,8 +2,14 @@
 title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 short_title: Immersive Learning for Effective Scrum Training
 description: Explores how immersive, bite-sized learning in Scrum training boosts retention, engagement, and real-world application by reducing information overload and promoting reflection.
+tldr: Immersive learning, which breaks Scrum training into smaller, digestible pieces with time for reflection and practice, leads to better retention, higher engagement, and more effective application of knowledge than traditional intensive methods. Applying Scrum principles like iteration and adaptation to learning helps prevent information overload and supports continuous improvement. Development managers should structure training in short, focused sprints and encourage regular reflection to maximize learning outcomes for their teams.
 date: 2024-01-31T14:44:15Z
+lastmod: 2024-01-31T14:44:15Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: El__Y7CTcrY
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 aliases:
-- /resources/El__Y7CTcrY
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+  - /resources/El__Y7CTcrY
+  - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
+  - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+  - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 aliasesArchive:
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
-- /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
-- the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
+  - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+  - /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+  - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+  - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+  - the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:06:04Z
   short_title: 2025-07-07T17:50:01Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:24Z
 videoId: El__Y7CTcrY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

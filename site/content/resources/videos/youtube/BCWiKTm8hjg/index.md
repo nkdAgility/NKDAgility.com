@@ -2,8 +2,14 @@
 title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 short_title: 'Charity in Agile: Elevating Teams and Organizations'
 description: Explores how practising charity—helping others without expecting rewards—strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
+tldr: Charity, or helping others without expecting anything in return, is a key driver of Agile team and organizational success because it builds trust, collaboration, and a shared sense of purpose. Encouraging this behavior leads to higher motivation, better product quality, and long-term growth. Development managers should actively foster a culture of giving and collective achievement to unlock these benefits.
 date: 2023-12-06T07:00:08Z
+lastmod: 2023-12-06T07:00:08Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BCWiKTm8hjg
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 aliases:
-- /resources/BCWiKTm8hjg
-- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
+  - /resources/BCWiKTm8hjg
+  - /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+  - /resources/videos/7-virtues-of-agile-charity
 aliasesArchive:
-- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
-- /resources/7-virtues-of-agile-charity
-- the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+  - /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+  - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+  - /resources/videos/7-virtues-of-agile-charity
+  - /resources/7-virtues-of-agile-charity
+  - the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Organisational Culture
-- Agile Leadership
-- Employee Engagement
-- Team Performance
+  - Team Collaboration
+  - Organisational Culture
+  - Agile Leadership
+  - Employee Engagement
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:07:14Z
   short_title: 2025-07-07T17:51:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:40Z
 videoId: BCWiKTm8hjg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
 short_title: How Scrum Mindset Shift Improves Developers
 description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
+tldr: Understanding and embracing Scrum processes can transform developer mindsets, leading to better collaboration, higher quality product delivery, and more empowered teams. Taking time to learn and refine processes is essential for sustainable success, not just individual productivity. Development managers should encourage their teams to invest in process improvement to drive long-term value and team growth.
 date: 2017-07-27T19:14:11Z
-weight: 1000
+lastmod: 2017-07-27T19:14:11Z
+weight: 670
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: F8a6gtXxLe0
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developer's-mindset
 aliases:
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
-- /resources/F8a6gtXxLe0
+  - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
+  - /resources/F8a6gtXxLe0
 aliasesArchive:
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
-- /resources/nkdagility-healthgrades-interview-dave-frisch
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-- embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
+  - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
+  - /resources/nkdagility-healthgrades-interview-dave-frisch
+  - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
+  - embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
+  - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:31Z
   short_title: 2025-07-07T17:58:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:13:41Z
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

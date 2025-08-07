@@ -2,8 +2,14 @@
 title: 'Mastering Scrum: Key Insights on Definition of Done, Spikes, and Managing Ad Hoc Work'
 short_title: 'Scrum: Definition of Done, Spikes, Ad Hoc Work'
 description: 'Explains key Scrum concepts: distinguishing Definition of Done from acceptance criteria, using spikes vs. refinement, and strategies for managing ad hoc work in sprints.'
+tldr: Focus on team productivity rather than just feature count, and ensure everyone understands the difference between Definition of Done, which sets quality standards, and acceptance criteria, which specify requirements for each item. Use backlog refinement to address unknowns instead of relying on spikes, and plan sprint capacity to accommodate some ad hoc work while maintaining transparency and continuous improvement. Review your team’s approach to these areas to improve delivery and reduce disruptions.
 date: 2020-06-04T05:33:42Z
-weight: 1000
+lastmod: 2020-06-04T05:33:42Z
+weight: 635
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: gc8Pq_5CepY
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 aliases:
-- /resources/gc8Pq_5CepY
+  - /resources/gc8Pq_5CepY
 aliasesArchive:
-- /resources/videos/rd-june-office-hours-ask-me-anything
-- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
-- /resources/3rd-june-2020-office-hours-ask-me-anything
-- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-- mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+  - /resources/videos/rd-june-office-hours-ask-me-anything
+  - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
+  - /resources/3rd-june-2020-office-hours-ask-me-anything
+  - /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+  - mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 source: youtube
 layout: video
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Professional Scrum
+  - Software Development
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:15:40Z
   short_title: 2025-07-07T17:58:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:36Z
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
 duration: 1686
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,40 +2,47 @@
 title: 'Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders'
 short_title: Mentorship Model Transformed Product Team
 description: A cross-border product team overcame misalignment and role confusion through immersive mentorship, boosting collaboration, engineering engagement, and agile delivery.
+tldr: A UK insurance software company overcame misalignment between UK product managers and Polish engineers by adopting NKD Agility’s mentorship model instead of standard training. Through hands-on coaching, clearer roles, and real-world practice, teams improved collaboration, decision-making, and problem-solving, leading to higher engagement and better product outcomes. Development managers should consider immersive mentorship to drive lasting change and agility across distributed teams.
 date: 2025-06-02
+lastmod: 2025-06-02
 weight: 115
+sitemap:
+  filename: sitemap.xml
+  priority: 0.9
+  changefreq: monthly
 ResourceId: L7cngB1uzW9
 ResourceImport: false
 ResourceType: case-studies
 ResourceContentOrigin: human
 slug: mentorship-model-transformed-a-product-management-team
 aliases:
-- /resources/L7cngB1uzW9
+  - /resources/L7cngB1uzW9
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Product Management
-- Product Development
-- Technical Leadership
+  - Product Management
+  - Product Development
+  - Technical Leadership
 tags:
-- Team Collaboration
-- Mentoring
-- Organisational Agility
-- Business Agility
-- Agile Transformation
-- Competence
-- Pragmatic Thinking
-- Agile Strategy
-- Software Development
-- Continuous Learning
-- Self Organisation
-- Social Technologies
-- Team Motivation
-- Organisational Culture
-- Team Performance
+  - Team Collaboration
+  - Mentoring
+  - Organisational Agility
+  - Business Agility
+  - Agile Transformation
+  - Competence
+  - Pragmatic Thinking
+  - Agile Strategy
+  - Software Development
+  - Continuous Learning
+  - Self Organisation
+  - Social Technologies
+  - Team Motivation
+  - Organisational Culture
+  - Team Performance
 Watermarks:
   description: 2025-06-16T11:50:58Z
   short_title: 2025-07-07T16:43:48Z
+  tldr: 2025-08-07T12:29:03Z
 draft: false
 
 ---

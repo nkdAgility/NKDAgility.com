@@ -2,8 +2,14 @@
 title: "Transform Your Team's Efficiency: The Three Core Principles of Caman Workflow Management"
 short_title: 'Caman Workflow: Three Core Principles Explained'
 description: 'Learn the three key principles of Caman workflow management to boost team efficiency: visualise processes, actively manage tasks, and drive continuous improvement.'
+tldr: "Caman workflow management focuses on three principles: clearly defining and visualising your team's workflow to improve understanding and spot bottlenecks, actively managing tasks through regular check-ins and prioritisation, and continuously improving processes with feedback and experimentation. Applying these principles can boost team efficiency, collaboration, and adaptability. Consider mapping your workflow and setting up regular reviews to start seeing immediate benefits."
 date: 2024-08-17T19:03:52Z
+lastmod: 2024-08-17T19:03:52Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 220tyMrhSFE
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-team's-efficiency-the-three-core-principles-of-caman-workflow-management
 aliases:
-- /resources/220tyMrhSFE
-- /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
-- /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
-- /resources/videos/kanban-principles
-- /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
+  - /resources/220tyMrhSFE
+  - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
+  - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
+  - /resources/videos/kanban-principles
+  - /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
 aliasesArchive:
-- /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
-- /resources/videos/kanban-principles
-- /resources/kanban-principles
-- transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
-- /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
+  - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
+  - /resources/videos/kanban-principles
+  - /resources/kanban-principles
+  - transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
+  - /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Operational Practices
-- Pragmatic Thinking
-- Definition of Workflow
+  - Operational Practices
+  - Pragmatic Thinking
+  - Definition of Workflow
 Watermarks:
   description: 2025-05-07T13:02:05Z
   short_title: 2025-07-07T17:48:31Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:40Z
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

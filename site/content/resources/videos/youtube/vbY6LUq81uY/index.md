@@ -2,8 +2,14 @@
 title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
 short_title: Fund Your Product Like a Venture Capitalist
 description: Learn how to fund product development by thinking like a venture capitalist—run small experiments, validate ideas, manage risk, and balance data with creative vision.
+tldr: Treat product funding like a venture capitalist by running small, low-risk experiments to validate ideas before committing significant resources. Require clear business plans, proof of concept, and ongoing iteration based on real user feedback to manage risk and maximize learning. Balance data-driven decisions with vision and passion, and be prepared to discard failed experiments while investing further in those that show promise.
 date: 2024-12-10T06:30:00Z
+lastmod: 2024-12-10T06:30:00Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vbY6LUq81uY
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 aliases:
-- /resources/vbY6LUq81uY
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+  - /resources/vbY6LUq81uY
+  - /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+  - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 aliasesArchive:
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
-- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+  - /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+  - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+  - /resources/maximizing-value-with-minimum-viable-products-mvps
+  - navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Entrepreneurship
-- Minimum Viable Product
-- Pragmatic Thinking
-- Lean Startup
-- Hypothesis Driven Development
+  - Entrepreneurship
+  - Minimum Viable Product
+  - Pragmatic Thinking
+  - Lean Startup
+  - Hypothesis Driven Development
 Watermarks:
   description: 2025-05-07T12:56:48Z
   short_title: 2025-07-07T17:47:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:02Z
 videoId: vbY6LUq81uY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

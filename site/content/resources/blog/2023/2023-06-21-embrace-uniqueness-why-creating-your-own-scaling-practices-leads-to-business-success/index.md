@@ -2,35 +2,45 @@
 title: 'Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success'
 short_title: Create Your Own Scaling Practices for Success
 description: Explores why businesses should develop custom scaling practices tailored to their unique culture and needs, rather than adopting standard frameworks, to achieve lasting success.
+tldr: Relying on generic scaling frameworks can dilute what makes your organization successful, so it is better to develop your own scaling practices tailored to your unique culture, challenges, and goals. This approach preserves your competitive edge, increases adaptability, and fosters team ownership and engagement. Learn from others but create solutions that fit your context to achieve sustainable growth.
 date: 2023-06-21
+lastmod: 2023-06-21
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: rMAdB_yEwWb
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
-- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /resources/rMAdB_yEwWb
-- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /resources/rMAdB_yEwWb
+  - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliasesArchive:
-- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 layout: blog
-concepts: []
+concepts:
+  - Strategy
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Organisational Agility
+  - Organisational Culture
+  - Organisational Agility
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:11:25Z
   short_title: 2025-07-07T17:54:29Z
+  tldr: 2025-08-07T13:03:26Z
 ResourceImportId: 49480
 AudioNative: true
 creator: Martin Hinshelwood

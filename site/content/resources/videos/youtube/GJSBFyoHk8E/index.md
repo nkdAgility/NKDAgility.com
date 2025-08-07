@@ -2,8 +2,14 @@
 title: How does a Scrum team create a sprint goal?
 short_title: How Scrum Teams Create Effective Sprint Goals
 description: Explains how Scrum teams create effective sprint goals by aligning product strategy, tactical needs, and backlog priorities to deliver stakeholder value each sprint.
+tldr: A Scrum team creates a sprint goal by combining the product’s strategic direction, the product owner’s tactical priorities, and current engineering challenges to identify the most valuable next step. The team then selects backlog items that best align with this goal to deliver clear value to stakeholders. Encourage your teams to invest time in understanding context before setting sprint goals for better alignment and outcomes.
 date: 2023-06-01T11:00:15Z
+lastmod: 2023-06-01T11:00:15Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: GJSBFyoHk8E
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-a-scrum-team-create-a-sprint-goal
 aliases:
-- /resources/GJSBFyoHk8E
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+  - /resources/GJSBFyoHk8E
+  - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 aliasesArchive:
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
-- how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+  - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+  - /resources/how-does-a-scrum-team-create-a-sprint-goal
+  - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
+  - /resources/how-does-a-scrum-team-create-a-sprint-goal-
+  - how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Product Management
-- Scrum Team
-- Agile Planning
+  - Software Development
+  - Agile Product Management
+  - Scrum Team
+  - Agile Planning
 Watermarks:
   description: 2025-05-07T13:11:57Z
   short_title: 2025-07-07T17:54:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:22Z
 videoId: GJSBFyoHk8E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

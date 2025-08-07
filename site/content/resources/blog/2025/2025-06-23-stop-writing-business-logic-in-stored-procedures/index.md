@@ -2,30 +2,37 @@
 title: Stop Writing Business Logic in Stored Procedures
 short_title: Stop Writing Business Logic in Stored Procedures
 description: Explains why business logic should not be written in stored procedures, highlighting testability, maintainability, scalability, and strategies for gradual code refactoring.
+tldr: Stop adding business logic to stored procedures and refactor existing logic into application code as you make changes, rather than rewriting everything at once. Keeping business logic in stored procedures makes testing, deployment, version control, scalability, and maintainability much harder, increasing technical debt and risk. Adopt a gradual, pay-as-you-go approach to modernize your codebase, improve engineering practices, and enable faster, more reliable delivery.
 date: 2025-06-23T09:00:00Z
+lastmod: 2025-06-23T09:00:00Z
 weight: 240
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: utAzlIGxj7O
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: stop-writing-business-logic-in-stored-procedures
 aliases:
-- /resources/utAzlIGxj7O
+  - /resources/utAzlIGxj7O
 aliasesArchive:
-- /stop-writing-business-logic-in-stored-procedures
-- /blog/stop-writing-business-logic-in-stored-procedures
+  - /stop-writing-business-logic-in-stored-procedures
+  - /blog/stop-writing-business-logic-in-stored-procedures
 concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Technical Mastery
-- Engineering Practices
-- Software Development
-- Technical Excellence
-- Technical Debt
+  - Technical Mastery
+  - Engineering Practices
+  - Software Development
+  - Technical Excellence
+  - Technical Debt
 Watermarks:
   description: 2025-05-07T12:49:00Z
   short_title: 2025-07-07T16:43:23Z
+  tldr: 2025-08-07T12:10:54Z
 
 ---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.

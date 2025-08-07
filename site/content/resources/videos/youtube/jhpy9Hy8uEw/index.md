@@ -2,8 +2,14 @@
 title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 short_title: Choosing Scrum.Org vs Scrum Alliance
 description: Explains choosing Scrum.Org over Scrum Alliance, focusing on values, certification costs, flexibility, community support, and alignment with agile and scrum principles.
+tldr: The author chose Scrum.Org over Scrum Alliance due to its strong professionalism, integrity, and community focus, as well as its fair certification policies that avoid recurring fees and restrictive progression paths. Scrum.Org encourages continuous improvement and knowledge sharing among trainers, which benefits both individuals and organizations. Development managers should consider Scrum.Org for its flexible, value-driven approach to Scrum training and certification.
 date: 2023-02-24T07:00:14Z
+lastmod: 2023-02-24T07:00:14Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: jhpy9Hy8uEw
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 aliases:
-- /resources/jhpy9Hy8uEw
-- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance
-- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
+  - /resources/jhpy9Hy8uEw
+  - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+  - /resources/videos/choosing-scrum-org-over-scrum-alliance
+  - /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
 aliasesArchive:
-- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance!
-- /resources/choosing-scrum-org-over-scrum-alliance!
-- /resources/videos/choosing-scrum-org-over-scrum-alliance
-- why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
+  - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+  - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+  - /resources/videos/choosing-scrum-org-over-scrum-alliance!
+  - /resources/choosing-scrum-org-over-scrum-alliance!
+  - /resources/videos/choosing-scrum-org-over-scrum-alliance
+  - why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+  - /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-tags: []
+  - Scrum
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:13:57Z
   short_title: 2025-07-07T17:56:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:04Z
 videoId: jhpy9Hy8uEw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

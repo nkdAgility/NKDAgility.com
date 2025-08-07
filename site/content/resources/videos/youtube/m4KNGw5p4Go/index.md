@@ -2,8 +2,14 @@
 title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 short_title: Transform Your Product Development
 description: Learn practical strategies to boost product development by using experimentation, agile methods, and collaboration to increase user value, reduce waste, and improve ROI.
+tldr: This course teaches development managers how to boost user value and ROI by using experimentation, agile practices, and better collaboration with stakeholders. Key outcomes include reducing waste, speeding up time-to-market, and unlocking creative solutions by focusing on real problems. Consider applying these methods to streamline your process, make data-driven decisions, and deliver higher-impact products.
 date: 2024-08-11T22:00:33Z
+lastmod: 2024-08-11T22:00:33Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: m4KNGw5p4Go
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 aliases:
-- /resources/m4KNGw5p4Go
-- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+  - /resources/m4KNGw5p4Go
+  - /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+  - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 aliasesArchive:
-- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+  - /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+  - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+  - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+  - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+  - transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Discovery
-- Pragmatic Thinking
-- Agile Philosophy
-- Continuous Improvement
-- Product Delivery
-- Product Validation
-- Continuous Learning
-- Lean Product Development
+  - Value Delivery
+  - Product Discovery
+  - Pragmatic Thinking
+  - Product Validation
+  - Agile Philosophy
+  - Continuous Improvement
+  - Product Delivery
+  - Continuous Learning
+  - Lean Product Development
 Watermarks:
   description: 2025-05-07T13:02:13Z
   short_title: 2025-07-07T17:48:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:58Z
 videoId: m4KNGw5p4Go
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

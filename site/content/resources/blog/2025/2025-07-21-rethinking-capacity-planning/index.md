@@ -4,41 +4,46 @@ short_title: Rethinking Capacity Planning
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
 tldr: Capacity planning should focus on optimising system flow and predictability, not tracking individual hours or task assignments. Shifting from micromanagement to managing work as a system at portfolio, category, and team levels helps prevent overload, improves value delivery, and enables reliable forecasting. Development managers should prioritise system-level metrics, enforce work-in-progress limits, and empower teams to pull well-prepared work, creating sustainable and predictable delivery.
 date: 2025-07-21T09:00:00Z
-weight: 245
+lastmod: 2025-07-21T09:00:00Z
+weight: 70
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
-- name: Alex Brown
-  external: https://www.linkedin.com/in/alexbrown/
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
+  - name: Alex Brown
+    external: https://www.linkedin.com/in/alexbrown/
 ResourceId: AhxlPTOD1yy
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: rethinking-capacity-planning
 aliases:
-- /resources/AhxlPTOD1yy
+  - /resources/AhxlPTOD1yy
 concepts:
-- Principle
+  - Principle
 categories:
-- Lean
-- Product Development
-- Leadership
+  - Engineering Excellence
+  - Product Development
+  - Lean
 tags:
-- Flow Efficiency
-- Lean Principles
-- Lean Thinking
-- Operational Practices
-- Continuous Improvement
-- Lean Product Development
-- Organisational Physics
-- Pragmatic Thinking
-- Throughput
-- Value Delivery
-- Agile Strategy
-- Portfolio Management
-- Product Delivery
-- Systems Thinking
-- Team Performance
+  - Flow Efficiency
+  - Lean Principles
+  - Lean Thinking
+  - Operational Practices
+  - Continuous Improvement
+  - Lean Product Development
+  - Organisational Physics
+  - Pragmatic Thinking
+  - Throughput
+  - Value Delivery
+  - Agile Strategy
+  - Portfolio Management
+  - Product Delivery
+  - Systems Thinking
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z

@@ -2,8 +2,14 @@
 title: What is the one thing a PSPO course forces you to focus on?
 short_title: 'PSPO Course Focus: Defining Value'
 description: Explains how the PSPO course centres on understanding and defining value, highlighting its importance for Product Owners in guiding decisions and organisational success.
+tldr: The PSPO course centers on understanding and defining value, which goes beyond just financial outcomes and varies by organization. Product Owners are expected to lead in clarifying and championing what value means for their teams and stakeholders. Development managers should ensure their teams have a shared, well-communicated definition of value to guide decisions and priorities.
 date: 2023-05-15T14:00:13Z
+lastmod: 2023-05-15T14:00:13Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: GIq3LZUnWx4
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 aliases:
-- /resources/GIq3LZUnWx4
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+  - /resources/GIq3LZUnWx4
+  - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 aliasesArchive:
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+  - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+  - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+  - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+  - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+  - what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Agile Product Management
-- Value Delivery
-- Product Owner
+  - Agile Product Management
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:12:28Z
   short_title: 2025-07-07T17:55:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:10Z
 videoId: GIq3LZUnWx4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
 duration: 116
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

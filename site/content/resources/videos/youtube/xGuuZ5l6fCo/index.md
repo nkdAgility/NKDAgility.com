@@ -2,8 +2,14 @@
 title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requirement Changes'
 short_title: Empowering Agile Teams with User Feedback
 description: Explains how empowering Agile teams to act on user feedback enables rapid requirement changes, improves product relevance, and overcomes barriers like rigid contracts.
+tldr: Empowering teams to change requirements based on real user feedback is essential for true agility, yet many organizations are held back by rigid contracts, complex change processes, and lack of team autonomy. Teams must be able to quickly adapt, discard outdated features, and act on feedback to keep products relevant and valuable. Development managers should streamline change processes, build flexibility into contracts, and foster a culture of trust so teams can respond rapidly to evolving business needs.
 date: 2024-07-19T06:45:03Z
-weight: 750
+lastmod: 2024-07-19T06:45:03Z
+weight: 635
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: xGuuZ5l6fCo
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 aliases:
-- /resources/xGuuZ5l6fCo
-- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+  - /resources/xGuuZ5l6fCo
+  - /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+  - /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
 aliasesArchive:
-- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
-- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
-- empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+  - /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+  - /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+  - /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+  - /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+  - /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+  - empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 source: internal
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Agile Philosophy
-- Organisational Agility
-- Agile Product Management
-- Customer Feedback Loops
-- Software Development
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Values and Principles
-- Agile Planning
-- Agile Leadership
-- Agile Strategy
-- Business Agility
-- Product Validation
-- Value Delivery
+  - Customer Focus
+  - Agile Planning
+  - Social Technologies
+  - Agile Philosophy
+  - Organisational Agility
+  - Agile Product Management
+  - Customer Feedback Loops
+  - Software Development
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Agile Values and Principles
+  - Agile Leadership
+  - Agile Strategy
+  - Business Agility
+  - Product Validation
 Watermarks:
   description: 2025-05-07T13:02:32Z
   short_title: 2025-07-07T17:48:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:50:47Z
 videoId: xGuuZ5l6fCo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg
 duration: 412
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

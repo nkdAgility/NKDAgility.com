@@ -2,8 +2,14 @@
 title: Product owners are obsolete!
 short_title: Are Product Owners Replacing Product Managers?
 description: Explores whether product owners make product managers obsolete in Agile and Scrum, comparing their roles and discussing key differences in product development.
+tldr: The episode discusses whether strong product owners make product managers unnecessary, featuring expert Ralph Jocham to clarify the distinct roles and responsibilities of each. Key insights include that product ownership and product management are not interchangeable and both bring unique value to software teams. Development managers should ensure both roles are clearly defined and aligned to maximize product success.
 date: 2023-04-27
-weight: 1000
+lastmod: 2023-04-27
+weight: 945
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: dKyRYit_4xO
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: product-owners-are-obsolete
 aliases:
-- /resources/dKyRYit_4xO
+  - /resources/dKyRYit_4xO
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:00Z
   short_title: 2025-07-07T17:55:43Z
+  tldr: 2025-08-07T13:06:06Z
 resourceTypes: podcast
 
 ---

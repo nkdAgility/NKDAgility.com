@@ -2,8 +2,14 @@
 title: 'Training: A Bridge to Knowledge and Growth'
 short_title: Training and Continuous Learning for Teams
 description: Explores how effective training, continuous learning, and a supportive culture help teams grow, adapt to change, and overcome skill gaps in modern organisations.
+tldr: Investing in training and continuous learning is key to team growth and long-term success, helping teams stay relevant and engaged while demonstrating organizational commitment. Leaders should focus on creating a supportive environment that encourages experimentation, celebrates small wins, and addresses systemic barriers to learning. Prioritize ongoing development and adapt to new technologies to boost morale, performance, and retention.
 date: 2023-10-27T07:00:14Z
+lastmod: 2023-10-27T07:00:14Z
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: _2ZH7vbKu7Y
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: training-a-bridge-to-knowledge-and-growth
 aliases:
-- /resources/_2ZH7vbKu7Y
-- /resources/videos/training-a-bridge-to-knowledge-and-growth
-- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+  - /resources/_2ZH7vbKu7Y
+  - /resources/videos/training-a-bridge-to-knowledge-and-growth
+  - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 aliasesArchive:
-- /resources/videos/training-a-bridge-to-knowledge-and-growth
-- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-- /resources/training-a-bridge-to-knowledge-and-growth
-- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-- training-a-bridge-to-knowledge-and-growth
+  - /resources/videos/training-a-bridge-to-knowledge-and-growth
+  - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+  - /resources/training-a-bridge-to-knowledge-and-growth
+  - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+  - training-a-bridge-to-knowledge-and-growth
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags:
-- Continuous Learning
-- Competence
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
+  - Continuous Learning
+  - Competence
+  - Continuous Improvement
+  - Organisational Culture
+  - Team Motivation
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:08:17Z
   short_title: 2025-07-07T17:52:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:40Z
 videoId: _2ZH7vbKu7Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
 duration: 412
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

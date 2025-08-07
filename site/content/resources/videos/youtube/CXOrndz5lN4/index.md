@@ -2,8 +2,14 @@
 title: 'Cultivating a Culture of Engineering Excellence: The Essential Role of Technical Leadership'
 short_title: Engineering Excellence Through Technical Leadership
 description: Explores how technical leadership shapes a culture of engineering excellence through clear standards, continuous learning, collaboration, and ongoing improvement in organisations.
+tldr: Technical leadership is essential for building a culture of engineering excellence, which requires clear expectations, continuous learning, and practical application of knowledge. Leaders should tailor strategies to their organisation’s context, model desired behaviours, and foster collaboration and improvement. Prioritising these actions helps teams adapt, innovate, and achieve better results in a fast-changing environment.
 date: 2024-11-26T17:53:11Z
+lastmod: 2024-11-26T17:53:11Z
 weight: 205
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: CXOrndz5lN4
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 aliases:
-- /resources/CXOrndz5lN4
-- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
-- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
-- /resources/videos/building-a-culture-of-engineering-excellence
+  - /resources/CXOrndz5lN4
+  - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
+  - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
+  - /resources/videos/building-a-culture-of-engineering-excellence
 aliasesArchive:
-- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
-- /resources/videos/building-a-culture-of-engineering-excellence
-- /resources/building-a-culture-of-engineering-excellence
-- cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
+  - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
+  - /resources/videos/building-a-culture-of-engineering-excellence
+  - /resources/building-a-culture-of-engineering-excellence
+  - cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
 source: youtube
 layout: video
 concepts: []
 categories:
-- Technical Leadership
+  - Technical Leadership
 tags:
-- Competence
+  - Competence
 Watermarks:
   description: 2025-05-07T12:57:03Z
   short_title: 2025-07-07T17:47:24Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:36Z
 videoId: CXOrndz5lN4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

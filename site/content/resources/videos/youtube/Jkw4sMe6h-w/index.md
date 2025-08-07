@@ -2,8 +2,14 @@
 title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
 short_title: From Control to Empowerment in Agile Leadership
 description: Explores the shift from traditional management to agile leadership, highlighting empowerment, adaptability, and collaboration as key to navigating complex modern challenges.
+tldr: Traditional management works well for predictable problems but falls short in today’s complex, fast-changing environment. Agile leadership empowers teams, encourages collaboration, and fosters innovation by shifting focus from control to enabling people. Development managers should move from directing every detail to creating environments where teams can adapt and thrive.
 date: 2023-08-09T13:43:27Z
-weight: 790
+lastmod: 2023-08-09T13:43:27Z
+weight: 620
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Jkw4sMe6h-w
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 aliases:
-- /resources/Jkw4sMe6h-w
-- /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
-- /resources/videos/how-is-agile-leadership-different-to-traditional-management
+  - /resources/Jkw4sMe6h-w
+  - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+  - /resources/videos/how-is-agile-leadership-different-to-traditional-management
 aliasesArchive:
-- /resources/videos/how-is-agile-leadership-different-to-traditional-management
-- /resources/videos/how-is-agile-leadership-different-to-traditional-management-
-- /resources/how-is-agile-leadership-different-to-traditional-management-
-- how-is-agile-leadership-different-to-traditional-management
-- /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
-- from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+  - /resources/videos/how-is-agile-leadership-different-to-traditional-management
+  - /resources/videos/how-is-agile-leadership-different-to-traditional-management-
+  - /resources/how-is-agile-leadership-different-to-traditional-management-
+  - how-is-agile-leadership-different-to-traditional-management
+  - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+  - from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Organisational Culture
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:10:20Z
   short_title: 2025-07-07T17:53:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:22Z
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

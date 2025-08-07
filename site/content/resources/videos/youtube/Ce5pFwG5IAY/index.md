@@ -2,8 +2,14 @@
 title: 5 tools that Scrum Masters love. Part 1
 short_title: '5 Tools Scrum Masters Love: Liberating Structures'
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
+tldr: Liberating structures are a set of frameworks that help Scrum Masters run more engaging and effective meetings by matching specific techniques to clear objectives. Using these tools can boost team participation, break down communication barriers, and drive better outcomes. Consider adopting liberating structures to turn routine meetings into productive sessions that support team growth and innovation.
 date: 2023-09-14T07:00:08Z
-weight: 840
+lastmod: 2023-09-14T07:00:08Z
+weight: 650
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Ce5pFwG5IAY
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 5-tools-that-scrum-masters-love-part-1
 aliases:
-- /resources/Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+  - /resources/Ce5pFwG5IAY
+  - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+  - /resources/videos/5-tools-that-scrum-masters-love.-part-1
 aliasesArchive:
-- /resources/videos/-tools-that-scrum-masters-love-part-
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/5-tools-that-scrum-masters-love-part-1
-- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+  - /resources/videos/-tools-that-scrum-masters-love-part-
+  - /resources/videos/5-tools-that-scrum-masters-love-part-1
+  - /resources/5-tools-that-scrum-masters-love-part-1
+  - 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+  - /resources/videos/5-tools-that-scrum-masters-love.-part-1
 source: internal
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Team Collaboration
-- Scrum Master
-- Scrum Team
-- Social Technologies
-- Software Development
+  - Team Collaboration
+  - Scrum Team
+  - Social Technologies
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:09:31Z
   short_title: 2025-07-07T17:53:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:01Z
 videoId: Ce5pFwG5IAY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
 duration: 43
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

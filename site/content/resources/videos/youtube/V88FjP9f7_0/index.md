@@ -2,8 +2,14 @@
 title: 'Quotes: Less is More. True or False?'
 short_title: 'Less Is More in Agile: Boosting Value'
 description: Explores how applying 'less is more' in Agile boosts productivity and quality by focusing on high-value tasks, reducing waste, and streamlining team workflows.
+tldr: Focusing on fewer, high-value tasks rather than trying to do everything leads to better productivity and higher quality in Agile teams. Regularly refining the backlog and planning sprints around essential work helps eliminate waste and ensures efforts align with project goals. Development managers should encourage teams to prioritize what matters most to maximize results.
 date: 2023-10-14T07:00:13Z
-weight: 1000
+lastmod: 2023-10-14T07:00:13Z
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: V88FjP9f7_0
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: quotes-less-is-more-true-or-false
 aliases:
-- /resources/V88FjP9f7_0
-- /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
-- /resources/videos/quotes-less-is-more.-true-or-false
+  - /resources/V88FjP9f7_0
+  - /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
+  - /resources/videos/quotes-less-is-more.-true-or-false
 aliasesArchive:
-- /resources/videos/quotes-less-is-more-true-or-false
-- /resources/quotes-less-is-more-true-or-false
-- /resources/videos/quotes-less-is-more-true-or-false-
-- /resources/quotes-less-is-more-true-or-false-
-- quotes-less-is-more-true-or-false-V88FjP9f7_0
-- /resources/videos/quotes-less-is-more.-true-or-false
+  - /resources/videos/quotes-less-is-more-true-or-false
+  - /resources/quotes-less-is-more-true-or-false
+  - /resources/videos/quotes-less-is-more-true-or-false-
+  - /resources/quotes-less-is-more-true-or-false-
+  - quotes-less-is-more-true-or-false-V88FjP9f7_0
+  - /resources/videos/quotes-less-is-more.-true-or-false
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Agile Planning
-- Agile Product Management
-- Agile Values and Principles
-- Operational Practices
-- Software Development
-- Value Delivery
-- Agile Frameworks
-- Agile Transformation
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Product Management
+  - Agile Values and Principles
+  - Operational Practices
+  - Software Development
+  - Value Delivery
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:08:45Z
   short_title: 2025-07-07T17:52:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:32Z
 videoId: V88FjP9f7_0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
 duration: 37
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

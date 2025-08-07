@@ -2,8 +2,14 @@
 title: 'From Firefighting to Focus: How CTOs Can Lead with Clarity Instead of Chasing the Next Big Thing'
 short_title: Sustainable Tech Strategy for CTOs
 description: Stop chasing tech hype. Discover how CTOs can cut through noise, build real strategy, and lead with clarity—no more firefighting, just sustainable progress.
+tldr: CTOs should stop chasing every new technology and instead focus on making their systems and decision-making processes visible to identify real improvement opportunities. Effective leadership means building a clear, context-driven strategy and fostering sustainable innovation by investing in team learning and system evolution. Take action by stepping back from survival mode, clarifying how work happens, and leading with intention for long-term value.
 date: 2025-05-23T06:00:12Z
+lastmod: 2025-05-23T06:00:12Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: 8zfmAp6Ljwk
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: from-firefighting-to-focus-how-ctos-can-lead-with-clarity-instead-of-chasing-the-next-big-thing
 aliases:
-- /resources/8zfmAp6Ljwk
-- /resources/videos/2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
+  - /resources/8zfmAp6Ljwk
+  - /resources/videos/2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
 aliasesArchive:
-- /resources/videos/2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
-- 2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
+  - /resources/videos/2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
+  - 2-the-pace-of-change-is-relentlessbut-your-strategy-doesnt-have-to-be
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Pragmatic Thinking
-- Software Development
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-07-24T15:15:56Z
   short_title: 2025-07-24T15:15:57Z
+  tldr: 2025-08-07T12:29:36Z
 videoId: 8zfmAp6Ljwk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8zfmAp6Ljwk/maxresdefault.jpg
 duration: 81
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Chasing every new tool isn’t strategy—it’s survival mode. And yet, I see this pattern time and again with CTOs and technology leaders: one eye glued to the roadmap, the other darting between LinkedIn, vendor pitches, and the latest conference decks, all in a desperate attempt not to miss the next big thing. It’s exhausting, and frankly, it’s not leadership. It’s firefighting.

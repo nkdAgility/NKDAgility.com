@@ -2,8 +2,14 @@
 title: Security by Design Building Secure Software
 short_title: 'Security by Design: Building Secure Software'
 description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
+tldr: Shifting left means building quality and security into software from the start by making developers responsible for testing, integrating expertise early, and using practices like test-driven development and continuous feedback. Although it may feel slower at first, this approach reduces long-term costs, technical debt, and enables faster, higher-quality delivery as shown by Azure DevOps’ transformation. Development managers should invest in shift-left practices now to empower teams, improve products, and accelerate innovation.
 date: 2024-11-26T13:35:33Z
+lastmod: 2024-11-26T13:35:33Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: NgoP5W5y7Gs
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: security-by-design-building-secure-software
 aliases:
-- /resources/NgoP5W5y7Gs
-- /resources/videos/security-by-design-building-secure-software
+  - /resources/NgoP5W5y7Gs
+  - /resources/videos/security-by-design-building-secure-software
 aliasesArchive:
-- /resources/videos/security-by-design-building-secure-software
-- /resources/security-by-design-building-secure-software
-- security-by-design-building-secure-software
+  - /resources/videos/security-by-design-building-secure-software
+  - /resources/security-by-design-building-secure-software
+  - security-by-design-building-secure-software
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- DevOps
-- Product Development
+  - Engineering Excellence
+  - DevOps
+  - Product Development
 tags:
-- Shift Left Strategy
-- Technical Mastery
-- Software Development
-- Pragmatic Thinking
-- Product Delivery
+  - Software Development
+  - Shift Left Strategy
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:57:05Z
   short_title: 2025-07-07T17:47:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:41Z
 videoId: NgoP5W5y7Gs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: How critical is a Product Owner in developing a great Product Backlog?
 short_title: Product Owner’s Role in Product Backlog
 description: Explains why a product owner is essential for shaping, prioritising, and maintaining a focused, lean product backlog that drives effective Agile product development.
+tldr: A strong product owner is essential for creating and maintaining a focused, valuable product backlog that aligns with strategy and avoids becoming an unmanageable list of requests. The product owner is fully responsible for prioritizing and communicating the backlog, using discernment to filter out items that do not support the product vision. Development managers should ensure their product owners are empowered and proactive to keep teams focused on delivering real value.
 date: 2023-05-31T07:00:05Z
+lastmod: 2023-05-31T07:00:05Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 6cczVAbOMao
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 aliases:
-- /resources/6cczVAbOMao
-- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+  - /resources/6cczVAbOMao
+  - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 aliasesArchive:
-- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
-- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
-- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
-- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
-- how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+  - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+  - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+  - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
+  - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
+  - how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Management
-- Product Development
-- Scrum
+  - Product Management
+  - Product Development
+  - Scrum
 tags:
-- Product Backlog
-- Product Owner
-- Software Development
-- Agile Product Management
-- Professional Scrum
-- Product Delivery
-- Agile Planning
-- Scrum Team
+  - Product Backlog
+  - Product Owner
+  - Software Development
+  - Agile Product Management
+  - Professional Scrum
+  - Product Delivery
+  - Agile Planning
+  - Scrum Team
 Watermarks:
   description: 2025-05-07T13:12:01Z
   short_title: 2025-07-07T17:54:57Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:30Z
 videoId: 6cczVAbOMao
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
 duration: 192
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
 short_title: Empowering Teams to Build an Agile Mindset
 description: Explores how leaders can foster an agile mindset in development teams by promoting autonomy, mastery, purpose, and a culture of quality and continuous improvement.
+tldr: Development teams often struggle with agile adoption due to a lack of intrinsic motivation and engagement with quality and customer feedback. Leadership must create an environment that fosters autonomy, mastery, and purpose, while bridging the gap between technical skills and mindset through practices like retrospectives, code reviews, and continuous feedback. Focus on building a culture that values quality and empowerment to achieve lasting agile transformation.
 date: 2020-04-07T20:33:45Z
-weight: 1000
+lastmod: 2020-04-07T20:33:45Z
+weight: 660
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: iCDEX6oHy7A
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 aliases:
-- /resources/iCDEX6oHy7A
+  - /resources/iCDEX6oHy7A
 aliasesArchive:
-- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+  - /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+  - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+  - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+  - /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+  - empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Leadership
+  - Product Development
 tags:
-- Agile Transformation
-- Software Development
+  - Software Development
+  - Agile Transformation
+  - Competence
 Watermarks:
   description: 2025-05-07T13:15:54Z
   short_title: 2025-07-07T17:58:14Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:19Z
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

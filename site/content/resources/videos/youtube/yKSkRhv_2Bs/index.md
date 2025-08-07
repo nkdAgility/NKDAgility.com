@@ -2,8 +2,14 @@
 title: Reasons to do an APS Course in 60 Seconds
 short_title: Reasons to Do an APS Course in 60 Seconds
 description: Discover how an APS (Agile Professional Scrum) course helps teams start, refresh, or align their Scrum practices for improved collaboration and effective Agile delivery.
+tldr: An APS (Agile Professional Scrum) course helps teams new to Scrum get started effectively and provides experienced teams with a valuable refresher to ensure they are applying Scrum correctly. It aligns everyone on best practices and clarifies what professional Scrum should look like in your organisation. Consider enrolling your team to boost their Scrum skills and improve how you deliver software.
 date: 2023-07-10T14:30:31Z
-weight: 690
+lastmod: 2023-07-10T14:30:31Z
+weight: 505
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: yKSkRhv_2Bs
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: reasons-to-do-an-aps-course-in-60-seconds
 aliases:
-- /resources/yKSkRhv_2Bs
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+  - /resources/yKSkRhv_2Bs
+  - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
 aliasesArchive:
-- /resources/videos/reasons-to-do-an-aps-course-in-seconds
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
-- /resources/reasons-to-do-an-aps-course-in-60-seconds-2
-- /resources/reasons-to-do-an-aps-course-in-60-seconds
-- reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+  - /resources/videos/reasons-to-do-an-aps-course-in-seconds
+  - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+  - /resources/reasons-to-do-an-aps-course-in-60-seconds-2
+  - /resources/reasons-to-do-an-aps-course-in-60-seconds
+  - reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:10:55Z
   short_title: 2025-07-07T17:54:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:16Z
 videoId: yKSkRhv_2Bs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

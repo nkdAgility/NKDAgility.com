@@ -2,8 +2,14 @@
 title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 short_title: Empowering Agile Teams Through Product Vision
 description: Explains why agile teams need a clear understanding of product vision and strategic goals to boost alignment, ownership, decision-making, and adaptability.
+tldr: Teams that clearly understand the product vision and strategic goals are more aligned, empowered, and able to make decisions that deliver greater value. Regularly communicating the vision, involving the team in its development, and providing context and feedback opportunities foster ownership and agility. Development managers should ensure their teams know and connect with the product vision to maximize effectiveness and adaptability.
 date: 2024-07-03T06:45:00Z
+lastmod: 2024-07-03T06:45:00Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 2tlzlsgovy0
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 aliases:
-- /resources/2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+  - /resources/2tlzlsgovy0
+  - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+  - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
 aliasesArchive:
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
-- empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+  - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+  - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+  - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+  - empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Agile Strategy
-- Common Goals
-- Team Motivation
-- Strategic Goals
-- Agile Philosophy
-- Agile Leadership
-- Organisational Agility
-- Product Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Pragmatic Thinking
+  - Strategic Goals
+  - Product Strategy
+  - Agile Strategy
+  - Common Goals
+  - Team Motivation
+  - Agile Philosophy
+  - Agile Leadership
+  - Organisational Agility
+  - Agile Transformation
+  - Agile Values and Principles
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:02:43Z
   short_title: 2025-07-07T17:49:05Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:06Z
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: Agile Training versus Agile Consulting
 short_title: Agile Training vs Agile Consulting
 description: Compares Agile training, which builds broad organisational knowledge, with Agile consulting, which delivers targeted solutions to specific business challenges.
+tldr: Agile training builds a shared understanding and foundational skills across teams, while Agile consulting focuses on solving specific problems with tailored solutions in a short timeframe. Both approaches are effective but serve different needs. Consider using training for broad knowledge and consulting for targeted improvements.
 date: 2023-09-07T07:00:08Z
-weight: 1000
+lastmod: 2023-09-07T07:00:08Z
+weight: 895
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: GS2If-vQ9ng
 ResourceImport: true
 ResourceType: videos
@@ -11,30 +17,28 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-training-versus-agile-consulting
 aliases:
-- /resources/GS2If-vQ9ng
-- /resources/videos/agile-training-versus-agile-consulting-GS2If-vQ9ng
+  - /resources/GS2If-vQ9ng
+  - /resources/videos/agile-training-versus-agile-consulting-GS2If-vQ9ng
 aliasesArchive:
-- /resources/videos/agile-training-versus-agile-consulting
-- /resources/agile-training-versus-agile-consulting
-- agile-training-versus-agile-consulting-GS2If-vQ9ng
+  - /resources/videos/agile-training-versus-agile-consulting
+  - /resources/agile-training-versus-agile-consulting
+  - agile-training-versus-agile-consulting-GS2If-vQ9ng
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:09:37Z
   short_title: 2025-07-07T17:53:09Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:13Z
 videoId: GS2If-vQ9ng
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

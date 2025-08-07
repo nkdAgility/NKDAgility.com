@@ -2,8 +2,14 @@
 title: How does a Scrum team decide on a Sprint goal?
 short_title: How a Scrum Team Sets a Sprint Goal
 description: Explains how Scrum teams collaboratively define a clear, achievable Sprint goal through early stakeholder input, planning, consensus, and ongoing communication.
+tldr: A Scrum team decides on a Sprint goal through early and ongoing collaboration with stakeholders, aligning the goal with business strategy, market needs, and team capacity. The goal is crafted during Sprint planning by the product owner and developers together, ensuring it is clear, measurable, and agreed upon by all. To improve outcomes, start goal discussions before planning, maintain open communication, and make the goal visible to keep the team focused and adaptable.
 date: 2023-06-02T07:00:09Z
+lastmod: 2023-06-02T07:00:09Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Srwxg7Etnr0
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-a-scrum-team-decide-on-a-sprint-goal
 aliases:
-- /resources/Srwxg7Etnr0
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
+  - /resources/Srwxg7Etnr0
+  - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
 aliasesArchive:
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
-- how-does-a-scrum-team-decide-on-a-sprint-goal
+  - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
+  - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
+  - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
+  - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
+  - how-does-a-scrum-team-decide-on-a-sprint-goal
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Scrum Team
-- Agile Planning
-- Team Performance
-- Product Delivery
-- Pragmatic Thinking
-- Software Development
-- Common Goals
+  - Scrum Team
+  - Agile Planning
+  - Team Performance
+  - Product Delivery
+  - Pragmatic Thinking
+  - Software Development
+  - Common Goals
 Watermarks:
   description: 2025-05-07T13:11:56Z
   short_title: 2025-07-07T17:54:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:20Z
 videoId: Srwxg7Etnr0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: What is a product vision?
 short_title: What is a Product Vision?
 description: Explains product vision as a long-term guiding goal that defines a product’s desired future state, aligning teams and inspiring direction beyond short-term objectives.
+tldr: A product vision gives your team clear direction by defining the long-term goal and desired outcome for your product, serving as a guiding reference beyond short-term objectives. It aligns everyone toward a shared future state and inspires both the team and stakeholders. Make sure your team understands and uses the product vision to guide decisions and maintain focus on the big picture.
 date: 2023-05-29T14:00:36Z
-weight: 1000
+lastmod: 2023-05-29T14:00:36Z
+weight: 940
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: oiIf2vdqgg0
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-product-vision
 aliases:
-- /resources/oiIf2vdqgg0
-- /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
+  - /resources/oiIf2vdqgg0
+  - /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
 aliasesArchive:
-- /resources/videos/what-is-a-product-vision
-- /resources/what-is-a-product-vision
-- /resources/videos/what-is-a-product-vision-
-- /resources/what-is-a-product-vision-
-- what-is-a-product-vision-oiIf2vdqgg0
+  - /resources/videos/what-is-a-product-vision
+  - /resources/what-is-a-product-vision
+  - /resources/videos/what-is-a-product-vision-
+  - /resources/what-is-a-product-vision-
+  - what-is-a-product-vision-oiIf2vdqgg0
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-tags:
-- Product Strategy
+  - Product Development
+tags: []
 Watermarks:
   description: 2025-05-07T13:12:06Z
   short_title: 2025-07-07T17:54:59Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:35Z
 videoId: oiIf2vdqgg0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

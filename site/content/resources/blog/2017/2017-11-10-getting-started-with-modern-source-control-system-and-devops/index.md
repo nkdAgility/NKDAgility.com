@@ -2,37 +2,44 @@
 title: Getting started with a modern source control system and DevOps
 short_title: Getting Started with Source Control & DevOps
 description: Learn key practices for adopting modern source control and DevOps, including automation, release pipelines, and team collaboration to improve software delivery quality.
+tldr: Modern source control systems are essential for managing not just code but the entire software development lifecycle, supporting DevOps practices and providing critical metadata for process visibility. Key practices include always using source control, automating release pipelines, minimizing branches with feature flags, moving to Git, and ensuring regular feedback and testing. To stay competitive, development managers should ensure all code is in source control, automate releases, and adopt integrated platforms like VSTS that support any technology and enable continuous delivery.
 date: 2017-11-10
+lastmod: 2017-11-10
 weight: 230
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: bkiQSbbO78R
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: getting-started-with-a-modern-source-control-system-and-devops
 aliases:
-- /resources/bkiQSbbO78R
+  - /resources/bkiQSbbO78R
 aliasesArchive:
-- /blog/getting-started-with-modern-source-control-system-and-devops
-- /getting-started-with-modern-source-control-system-and-devops
-- /getting-started-with-a-modern-source-control-system-and-devops
-- /blog/getting-started-with-a-modern-source-control-system-and-devops
-- /resources/blog/getting-started-with-modern-source-control-system-and-devops
+  - /blog/getting-started-with-modern-source-control-system-and-devops
+  - /getting-started-with-modern-source-control-system-and-devops
+  - /getting-started-with-a-modern-source-control-system-and-devops
+  - /blog/getting-started-with-a-modern-source-control-system-and-devops
+  - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Technical Mastery
-- Operational Practices
-- Software Development
-- Engineering Practices
-- Modern Source Control
-- Pragmatic Thinking
+  - Technical Mastery
+  - Operational Practices
+  - Software Development
+  - Engineering Practices
+  - Modern Source Control
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:16:25Z
   short_title: 2025-07-07T17:58:40Z
+  tldr: 2025-08-07T13:13:31Z
 ResourceImportId: 11456
 AudioNative: true
 creator: Martin Hinshelwood

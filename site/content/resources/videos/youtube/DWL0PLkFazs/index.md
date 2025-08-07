@@ -2,8 +2,14 @@
 title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
 short_title: Health, Perspective, and Innovation in Tech
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
+tldr: Prioritising health and well-being boosts innovation and leadership in tech by improving perspective and fostering creativity. Supporting hands-on builders, embracing diverse viewpoints, and engaging with sceptics lead to stronger outcomes. Development managers should encourage healthy habits, value unique perspectives, and build deeper connections within their teams to drive better results.
 date: 2017-07-28T12:40:03Z
-weight: 1000
+lastmod: 2017-07-28T12:40:03Z
+weight: 830
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: DWL0PLkFazs
 ResourceImport: true
 ResourceType: videos
@@ -11,30 +17,28 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 aliases:
-- /resources/DWL0PLkFazs
+  - /resources/DWL0PLkFazs
 aliasesArchive:
-- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-- unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+  - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
+  - /resources/why-did-healthgrades-choose-martin-hinshelwood
+  - /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+  - unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:29Z
   short_title: 2025-07-07T17:58:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:13:37Z
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

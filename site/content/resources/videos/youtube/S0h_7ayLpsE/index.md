@@ -2,8 +2,14 @@
 title: Mastering Evidence-Based Management for Agile Success
 short_title: Evidence-Based Management in Agile
 description: Learn how Evidence-Based Management uses data to guide Agile teams, improve decision-making, track value, and boost innovation, customer satisfaction, and time to market.
+tldr: "Evidence-Based Management helps Agile teams make better decisions by using data from four key areas: current value, unrealized value, ability to innovate, and time to market. By collecting and analyzing relevant metrics, teams can prioritize improvements, boost innovation, and deliver more value to customers. Start by tracking a few key metrics with simple tools, then use those insights to guide your team's next steps."
 date: 2024-10-02T13:17:24Z
+lastmod: 2024-10-02T13:17:24Z
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: S0h_7ayLpsE
 ResourceImport: true
 ResourceType: videos
@@ -11,51 +17,49 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-evidence-based-management-for-agile-success
 aliases:
-- /resources/S0h_7ayLpsE
-- /resources/videos/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
+  - /resources/S0h_7ayLpsE
+  - /resources/videos/mastering-evidence-based-management-for-agile-success
+  - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 aliasesArchive:
-- /resources/videos/mastering-evidence-based-management-for-agile-success
-- /resources/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-- /resources/evidence-based-management-gathering-and-analyzing-data
-- mastering-evidence-based-management-for-agile-success
+  - /resources/videos/mastering-evidence-based-management-for-agile-success
+  - /resources/mastering-evidence-based-management-for-agile-success
+  - /resources/videos/evidence-based-management-gathering-and-analyzing-data
+  - /resources/evidence-based-management-gathering-and-analyzing-data
+  - mastering-evidence-based-management-for-agile-success
 source: internal
 layout: video
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Management
-- Product Development
-- Engineering Excellence
+  - Product Management
+  - Product Development
+  - Engineering Excellence
 tags:
-- Evidence Based Leadership
-- Decision Making
-- Evidence Based Management
-- Metrics and Learning
-- Customer Focus
-- Agile Product Management
-- Software Development
-- Market Adaptability
-- Organisational Agility
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Value Delivery
-- Current Value
-- Unrealised Value
+  - Evidence Based Management
+  - Evidence Based Leadership
+  - Decision Making
+  - Metrics and Learning
+  - Customer Focus
+  - Market Adaptability
+  - Agile Product Management
+  - Software Development
+  - Organisational Agility
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Value Delivery
+  - Current Value
+  - Unrealised Value
 Watermarks:
   description: 2025-05-07T12:57:39Z
   short_title: 2025-07-07T17:47:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:48Z
 videoId: S0h_7ayLpsE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
 duration: 1714
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

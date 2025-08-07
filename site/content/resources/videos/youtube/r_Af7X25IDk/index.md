@@ -2,8 +2,14 @@
 title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
 short_title: Navigating Agile Transformation for Teams
 description: Explores effective Agile transformation by empowering teams, improving collaboration, focusing on value delivery, and fostering continuous improvement in fast-changing environments.
+tldr: To succeed with Agile transformation, focus on empowering teams through servant leadership, prioritising valuable product outcomes over feature lists, and fostering continuous improvement to manage technical debt. Enable product owners to drive value, build cross-functional teams, and measure results by customer impact rather than activity. Start with small changes to build momentum and consider expert support if needed.
 date: 2020-04-17T18:57:11Z
-weight: 590
+lastmod: 2020-04-17T18:57:11Z
+weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: r_Af7X25IDk
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 aliases:
-- /resources/r_Af7X25IDk
+  - /resources/r_Af7X25IDk
 aliasesArchive:
-- /resources/videos/ep-leading-agile-change
-- /resources/videos/ep005-leading-agile-change
-- /resources/ep005-leading-agile-change
-- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-- navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
+  - /resources/videos/ep-leading-agile-change
+  - /resources/videos/ep005-leading-agile-change
+  - /resources/ep005-leading-agile-change
+  - /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
+  - navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
-- Product Development
+  - Leadership
+  - Technical Leadership
+  - Product Development
 tags:
-- Organisational Agility
-- Software Development
-- Agile Transformation
-- Agile Leadership
-- Pragmatic Thinking
-- Agile Philosophy
-- Agile Strategy
-- Business Agility
-- Change Management
-- Value Delivery
+  - Organisational Agility
+  - Software Development
+  - Agile Transformation
+  - Agile Leadership
+  - Pragmatic Thinking
+  - Agile Philosophy
+  - Agile Strategy
+  - Business Agility
+  - Change Management
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:15:47Z
   short_title: 2025-07-07T17:58:09Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:04Z
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

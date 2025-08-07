@@ -2,8 +2,14 @@
 title: 'From Product Owner to Systemic Leader: Embracing the Evolution in Agile Leadership'
 short_title: From Product Owner to Systemic Leader in Agile
 description: Explores how experienced Product Owners transition into systemic leaders, focusing on increased accountability, organisational impact, and fostering Agile team culture.
+tldr: Experienced Product Owners often grow into broader leadership roles, taking on more accountability and influencing organisational culture and systems. This transition requires a shift from managing backlogs to creating environments that empower teams and foster innovation. Development managers should support Product Owners in developing leadership skills and consider training like Agile Leadership Essentials to help them drive positive change across the organisation.
 date: 2023-07-28T07:00:14Z
+lastmod: 2023-07-28T07:00:14Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: cFVvgI3Girg
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 aliases:
-- /resources/cFVvgI3Girg
-- /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+  - /resources/cFVvgI3Girg
+  - /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 aliasesArchive:
-- /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-- from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
+  - /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
+  - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+  - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+  - from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Accountability
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agile Product Management
-- Agile Leadership
-- Organisational Agility
+  - Agile Product Management
+  - Agile Leadership
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:10:31Z
   short_title: 2025-07-07T17:53:49Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:01:42Z
 videoId: cFVvgI3Girg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: What are some big red flags when hiring an agile consultant?
 short_title: Red Flags When Hiring an Agile Consultant
 description: Key warning signs when hiring an agile consultant include lack of community involvement, weak core agile knowledge, and consultancies prioritising volume over expertise.
+tldr: When hiring an agile consultant, watch out for those who are not active in the agile community, lack deep understanding of core agile concepts, or come from consultancies that prioritize volume over quality and expertise. These red flags suggest the consultant may not be able to adapt to your team's needs or deliver meaningful results. Take time to assess their community involvement, knowledge, and the consultancy's focus before making a decision.
 date: 2023-01-25T07:30:02Z
+lastmod: 2023-01-25T07:30:02Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 9HxMS_fg6Kw
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-some-big-red-flags-when-hiring-an-agile-consultant
 aliases:
-- /resources/9HxMS_fg6Kw
-- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+  - /resources/9HxMS_fg6Kw
+  - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 aliasesArchive:
-- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
-- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
-- what-are-some-big-red-flags-when-hiring-an-agile-consultant
+  - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+  - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+  - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+  - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+  - what-are-some-big-red-flags-when-hiring-an-agile-consultant
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:26Z
   short_title: 2025-07-07T17:57:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:57Z
 videoId: 9HxMS_fg6Kw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
 duration: 402
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

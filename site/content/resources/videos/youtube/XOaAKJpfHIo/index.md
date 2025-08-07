@@ -2,8 +2,14 @@
 title: How important is DevOps in continuous delivery of value to customers?
 short_title: DevOps in Continuous Delivery of Customer Value
 description: Explains how DevOps and Agile work together to enable continuous delivery, rapid feedback, and customer value in software development and product delivery.
+tldr: DevOps is essential for delivering value to customers because it enables teams to quickly and effectively turn ideas into working software, closely aligning with agile principles. Both DevOps and agile focus on rapid feedback, continuous improvement, and adapting to customer needs, making them deeply interconnected. Development managers should ensure their teams integrate DevOps practices to accelerate delivery, validate value, and reduce risk.
 date: 2023-02-20T07:00:10Z
+lastmod: 2023-02-20T07:00:10Z
 weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: XOaAKJpfHIo
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-important-is-devops-in-continuous-delivery-of-value-to-customers
 aliases:
-- /resources/XOaAKJpfHIo
-- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+  - /resources/XOaAKJpfHIo
+  - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 aliasesArchive:
-- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
-- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
-- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
-- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
-- how-important-is-devops-in-continuous-delivery-of-value-to-customers
+  - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+  - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+  - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+  - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+  - how-important-is-devops-in-continuous-delivery-of-value-to-customers
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- DevOps
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Value Delivery
-- Product Delivery
-- Customer Focus
+  - Software Development
+  - Value Delivery
+  - Product Delivery
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:14:02Z
   short_title: 2025-07-07T17:56:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:13Z
 videoId: XOaAKJpfHIo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
 duration: 186
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

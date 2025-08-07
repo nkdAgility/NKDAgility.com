@@ -2,8 +2,14 @@
 title: What Should a Product Owner Do with an Incompetent Team?
 short_title: Product Owner Actions for Incompetent Teams
 description: Guidance for product owners on handling underperforming teams, distinguishing incompetence from knowledge gaps, and knowing when to support, train, or let them go.
+tldr: Before labeling a team as incompetent, assess whether the issue is a lack of knowledge or experience and provide training, support, and feedback to help them improve. If the team is truly incompetent, malicious, or fails to improve after support, act quickly to replace them to protect your product and organization. Invest in developing your team, but do not tolerate behavior that puts your business at risk.
 date: 2023-10-26T14:30:26Z
+lastmod: 2023-10-26T14:30:26Z
 weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: rNqYGyB6PtY
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-should-a-product-owner-do-with-an-incompetent-team
 aliases:
-- /resources/rNqYGyB6PtY
-- /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
-- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
+  - /resources/rNqYGyB6PtY
+  - /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
+  - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
 aliasesArchive:
-- /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
-- /resources/what-should-a-product-owner-do-with-an-incompetent-team
-- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
-- /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
-- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
-- what-should-a-product-owner-do-with-an-incompetent-team
+  - /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
+  - /resources/what-should-a-product-owner-do-with-an-incompetent-team
+  - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
+  - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
+  - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
+  - what-should-a-product-owner-do-with-an-incompetent-team
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-05-07T13:08:18Z
   short_title: 2025-07-07T17:52:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:42Z
 videoId: rNqYGyB6PtY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg
 duration: 386
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

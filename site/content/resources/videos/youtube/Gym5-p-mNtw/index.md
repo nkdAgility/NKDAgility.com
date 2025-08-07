@@ -2,8 +2,14 @@
 title: 'Transforming Waste into Value: How to Boost ROI with Agile Metrics'
 short_title: Boosting ROI with Agile Metrics and Value
 description: Learn how agile metrics like innovation rate, product index, usage index, and version adoption help identify waste and improve ROI by focusing on value-driven engineering.
+tldr: Most organisations lose significant value due to waste and lack of focus on engineering excellence, with metrics showing that only a small fraction of development investment results in features customers actually use. Key insights include low innovation rates, poor feature usage, and lagging version adoption, all of which drastically reduce ROI. Development managers should measure and act on innovation and usage metrics, close feedback loops, and focus on delivering value rather than just reducing costs.
 date: 2024-12-17T06:00:00Z
+lastmod: 2024-12-17T06:00:00Z
 weight: 340
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: Gym5-p-mNtw
 ResourceImport: true
 ResourceType: videos
@@ -11,42 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 aliases:
-- /resources/Gym5-p-mNtw
-- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
-- /resources/videos/agile-your-secret-weapon-for-cost-control
+  - /resources/Gym5-p-mNtw
+  - /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
+  - /resources/videos/agile-your-secret-weapon-for-cost-control
 aliasesArchive:
-- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
-- /resources/videos/agile-your-secret-weapon-for-cost-control
-- /resources/agile-your-secret-weapon-for-cost-control
-- transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
+  - /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
+  - /resources/videos/agile-your-secret-weapon-for-cost-control
+  - /resources/agile-your-secret-weapon-for-cost-control
+  - transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
-- Product Management
+  - Engineering Excellence
+  - Product Development
+  - Product Management
 tags:
-- Metrics and Learning
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Business Agility
-- Software Development
-- Market Adaptability
-- Organisational Agility
+  - Value Delivery
+  - Metrics and Learning
+  - Operational Practices
+  - Pragmatic Thinking
+  - Business Agility
+  - Software Development
+  - Market Adaptability
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:56:40Z
   short_title: 2025-07-07T17:47:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:52Z
 videoId: Gym5-p-mNtw
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q
 duration: 525
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

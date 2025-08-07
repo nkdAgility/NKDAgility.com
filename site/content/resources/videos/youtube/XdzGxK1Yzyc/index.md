@@ -2,8 +2,14 @@
 title: What is a product owner?    Why are they essential?
 short_title: What Is a Product Owner and Why They Matter
 description: Explains the product owner's role in Scrum, focusing on accountability for maximising value, aligning teams with strategy, and ensuring unified direction for product success.
+tldr: A product owner is essential because they are accountable for maximizing the value delivered by the Scrum team, not just managing the backlog. They ensure alignment between stakeholders, customers, and developers by setting a clear vision and strategy based on market and user insights. To succeed, make sure your product owner is empowered to lead, deeply understands your market, and keeps everyone focused on shared goals.
 date: 2023-05-23T14:00:19Z
+lastmod: 2023-05-23T14:00:19Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: XdzGxK1Yzyc
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-a-product-owner-why-are-they-essential
 aliases:
-- /resources/XdzGxK1Yzyc
-- /resources/videos/what-is-a-product-owner-why-are-they-essential
-- /resources/videos/why-have-a-product-owner
+  - /resources/XdzGxK1Yzyc
+  - /resources/videos/what-is-a-product-owner-why-are-they-essential
+  - /resources/videos/why-have-a-product-owner
 aliasesArchive:
-- /resources/videos/what-is-a-product-owner-why-are-they-essential
-- /resources/what-is-a-product-owner-why-are-they-essential
-- /resources/videos/why-have-a-product-owner-
-- /resources/why-have-a-product-owner-
-- /resources/videos/why-have-a-product-owner
-- what-is-a-product-owner-why-are-they-essential
+  - /resources/videos/what-is-a-product-owner-why-are-they-essential
+  - /resources/what-is-a-product-owner-why-are-they-essential
+  - /resources/videos/why-have-a-product-owner-
+  - /resources/why-have-a-product-owner-
+  - /resources/videos/why-have-a-product-owner
+  - what-is-a-product-owner-why-are-they-essential
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Agile Product Management
-- Product Owner
-- Professional Scrum
+  - Product Owner
+  - Agile Product Management
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:12:16Z
   short_title: 2025-07-07T17:55:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:50Z
 videoId: XdzGxK1Yzyc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

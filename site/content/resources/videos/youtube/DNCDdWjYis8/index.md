@@ -2,8 +2,14 @@
 title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 short_title: Redefining the Scrum Master Role
 description: Explains how effective Scrum Masters empower teams through facilitation, support, and coaching, moving away from authority and micromanagement to foster self-organisation.
+tldr: The Scrum Master should not act as a boss or micromanager but as a facilitator who empowers the team to self-organise and take ownership of their work. Key points include avoiding micromanagement, focusing on support and facilitation rather than control, and promoting collaboration and continuous learning. Development managers should ensure Scrum Masters adopt a coaching mindset to help teams thrive and deliver better results.
 date: 2023-04-28T07:00:08Z
-weight: 590
+lastmod: 2023-04-28T07:00:08Z
+weight: 290
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: DNCDdWjYis8
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator
 aliases:
-- /resources/DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
+  - /resources/DNCDdWjYis8
+  - /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
+  - /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesArchive:
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
-- redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters
+  - /resources/videos/worst-trait-in-unskilled-scrum-masters-
+  - /resources/worst-trait-in-unskilled-scrum-masters-
+  - /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
+  - redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Technical Leadership
-- Scrum
-- Product Development
+  - Technical Leadership
+  - Scrum
+  - Product Development
 tags:
-- Scrum Master
-- Social Technologies
-- Professional Scrum
-- Coaching
-- Scrum Team
-- Software Development
-- Self Organisation
-- Team Motivation
-- Agile Leadership
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
+  - Scrum Master
+  - Professional Scrum
+  - Social Technologies
+  - Coaching
+  - Scrum Team
+  - Software Development
+  - Self Organisation
+  - Team Motivation
+  - Agile Leadership
+  - Agile Frameworks
+  - Agile Product Management
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:12:54Z
   short_title: 2025-07-07T17:55:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:58Z
 videoId: DNCDdWjYis8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg
 duration: 51
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

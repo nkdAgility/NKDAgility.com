@@ -2,8 +2,14 @@
 title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
 short_title: Fostering a Healthy, Judgment-Free Agile Team
 description: Explores how judgment in Agile teams harms morale and innovation, and offers practical steps to create a supportive, collaborative, and growth-focused Agile environment.
+tldr: Judgment in Agile teams, such as rigid rules and unhealthy metric comparisons, can lower morale, stifle innovation, and create a culture of blame. To avoid this, set meaningful goals, use adaptive metrics that encourage improvement, and foster open dialogue focused on learning. Development managers should prioritize creating a safe, collaborative environment where teams feel empowered to innovate and grow.
 date: 2023-11-09T06:45:04Z
+lastmod: 2023-11-09T06:45:04Z
 weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: uRqsRNq-XRY
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 aliases:
-- /resources/uRqsRNq-XRY
-- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
-- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+  - /resources/uRqsRNq-XRY
+  - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+  - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+  - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 aliasesArchive:
-- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-- /resources/7-signs-of-the-agile-apocalypse-judgement
-- navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+  - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+  - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+  - /resources/7-signs-of-the-agile-apocalypse-judgement
+  - navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Organisational Culture
-- Team Performance
+  - Personal
+  - Agile Values and Principles
+  - Agile Philosophy
+  - Organisational Culture
+  - Team Performance
+  - Metrics and Learning
 Watermarks:
   description: 2025-05-07T13:07:59Z
   short_title: 2025-07-07T17:51:52Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:16Z
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
 short_title: Embracing Difficult Conversations in Agile
 description: Explores how open, challenging conversations with agile consultants drive organisational change, foster learning, and support continuous improvement and accountability.
+tldr: Allowing agile consultants to ask tough questions and engage openly with teams is essential for real transformation, as it sparks critical thinking, learning, and accountability. Restricting dialogue stifles change and limits improvement. Development managers should foster a safe environment for open conversations and be ready to embrace discomfort to achieve lasting results.
 date: 2023-05-01T07:00:05Z
-weight: 1000
+lastmod: 2023-05-01T07:00:05Z
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: DceVQ5JQaUw
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 aliases:
-- /resources/DceVQ5JQaUw
-- /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
+  - /resources/DceVQ5JQaUw
+  - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+  - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
 aliasesArchive:
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-- /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-- /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-- unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+  - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
+  - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+  - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+  - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+  - unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Change Management
-- Organisational Culture
+  - Team Collaboration
+  - Change Management
+  - Organisational Culture
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:12:51Z
   short_title: 2025-07-07T17:55:36Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:49Z
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

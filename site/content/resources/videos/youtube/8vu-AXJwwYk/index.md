@@ -2,8 +2,14 @@
 title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
 short_title: Unlocking Organisational Potential
 description: Explores how skilled consultants drive rapid, impactful organisational change by identifying core issues, bridging leadership gaps, and fostering agile transformation.
+tldr: A great consultant can quickly identify and address core organisational issues by providing an honest, external perspective and actionable recommendations, often leading to immediate improvements. Their value lies in bridging gaps between leadership and teams, catalysing cultural change, and helping organisations move beyond common challenges. If your teams are struggling with transformation or alignment, consider bringing in a consultant to accelerate progress and unlock your organisation’s potential.
 date: 2023-01-24T07:30:02Z
-weight: 840
+lastmod: 2023-01-24T07:30:02Z
+weight: 625
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 8vu-AXJwwYk
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 aliases:
-- /resources/8vu-AXJwwYk
-- /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
+  - /resources/8vu-AXJwwYk
+  - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+  - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
 aliasesArchive:
-- /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
-- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
-- unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+  - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+  - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
+  - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
+  - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
+  - unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:27Z
   short_title: 2025-07-07T17:57:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:59Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

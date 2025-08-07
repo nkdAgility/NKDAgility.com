@@ -2,8 +2,14 @@
 title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
 short_title: Immersive Learning and DevOps in Training
 description: Explores how immersive learning and DevOps practices improve training effectiveness, boost knowledge retention, and deliver real value for individuals and organisations.
+tldr: Shifting to immersive, hands-on training and spreading sessions over a longer period leads to better knowledge retention and practical application for teams, even if it means fewer classes and less immediate revenue. Prioritising value creation over short-term gains results in more satisfied clients and stronger organisational outcomes. Development managers should consider adopting training approaches that focus on real learning impact rather than volume.
 date: 2023-03-16T07:00:16Z
-weight: 765
+lastmod: 2023-03-16T07:00:16Z
+weight: 545
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: TabMnJpXFVA
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 aliases:
-- /resources/TabMnJpXFVA
-- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
+  - /resources/TabMnJpXFVA
+  - /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+  - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 aliasesArchive:
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-- /resources/why-are-you-going-the-immersive-scrum-training-route-
-- why-are-you-going-the-immersive-scrum-training-route
-- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
-- transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+  - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
+  - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
+  - /resources/why-are-you-going-the-immersive-scrum-training-route-
+  - why-are-you-going-the-immersive-scrum-training-route
+  - /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+  - transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Pragmatic Thinking
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:39Z
   short_title: 2025-07-07T17:56:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:31Z
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

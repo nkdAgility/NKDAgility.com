@@ -2,8 +2,14 @@
 title: 'Special Sprints: Agile Banditry or Risk Management?'
 short_title: Special Sprints Undermine Agile Delivery
 description: Explores why special sprints like Sprint Zero or hardening sprints undermine Agile by delaying work, increasing risk, and reducing continuous delivery of usable products.
+tldr: Special sprints like bug-fix or hardening sprints undermine Agile by encouraging teams to defer work and accumulate risk, rather than delivering usable products every sprint. The Azure DevOps team found that relying on a safety net led to overwhelming undone work, but shifting to shipping every sprint improved quality and reduced technical debt. Development managers should eliminate special sprints, ensure each sprint delivers a shippable product, and address issues as they arise to maintain true agility and reduce risk.
 date: 2024-01-04T11:09:15Z
-weight: 330
+lastmod: 2024-01-04T11:09:15Z
+weight: 260
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: rEqytRyOHGI
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,48 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: special-sprints-agile-banditry-or-risk-management
 aliases:
-- /resources/rEqytRyOHGI
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+  - /resources/rEqytRyOHGI
+  - /resources/videos/special-sprints-agile-banditry-or-risk-management
+  - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 aliasesArchive:
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/5-kinds-of-agile-bandits-special-sprints
-- special-sprints-agile-banditry-or-risk-management
+  - /resources/videos/special-sprints-agile-banditry-or-risk-management
+  - /resources/special-sprints-agile-banditry-or-risk-management
+  - /resources/videos/5-kinds-of-agile-bandits-special-sprints
+  - /resources/5-kinds-of-agile-bandits-special-sprints
+  - special-sprints-agile-banditry-or-risk-management
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Technical Leadership
+  - Scrum
 tags:
-- Increment
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Software Development
-- Pragmatic Thinking
-- Agile Values and Principles
-- Continuous Improvement
-- Operational Practices
-- Working Software
-- Agile Strategy
-- Team Performance
-- Product Delivery
+  - Value Delivery
+  - Increment
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Transformation
+  - Software Development
+  - Pragmatic Thinking
+  - Agile Values and Principles
+  - Continuous Improvement
+  - Operational Practices
+  - Working Software
+  - Agile Strategy
+  - Team Performance
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:06:40Z
   short_title: 2025-07-07T17:50:29Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:37Z
 videoId: rEqytRyOHGI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

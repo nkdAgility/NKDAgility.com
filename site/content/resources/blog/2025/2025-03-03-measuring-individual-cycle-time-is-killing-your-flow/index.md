@@ -2,62 +2,69 @@
 title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
 short_title: Why Individual Cycle Time Hurts Kanban Flow
 description: Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.
+tldr: Measuring individual cycle time in Kanban misleads teams by focusing on personal speed instead of system flow, which ignores real bottlenecks and encourages counterproductive behaviors. To improve delivery, track system-wide metrics like lead time, work in progress, process cycle efficiency, and blockers, then address constraints at the process level. Development managers should shift measurement and improvement efforts from individuals to the overall workflow to achieve better outcomes.
 date: 2025-03-03T09:00:00
+lastmod: 2025-03-03T09:00:00
 weight: 245
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
 ResourceId: KHEPBWiFDKJ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliases:
-- /resources/KHEPBWiFDKJ
-- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
-- /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
+  - /resources/KHEPBWiFDKJ
+  - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+  - /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
 aliasesArchive:
-- /measuring-individual-cycle-time-is-killing-your-flow
-- /blog/measuring-individual-cycle-time-is-killing-your-flow
-- /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
-- /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
-- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
-- /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
+  - /measuring-individual-cycle-time-is-killing-your-flow
+  - /blog/measuring-individual-cycle-time-is-killing-your-flow
+  - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+  - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+  - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+  - /resources/blog/measuring-individual-cycle-time-is-killing-your-flow/
 layout: blog
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Kanban
-- Lean
+  - Product Development
+  - Kanban
+  - Lean
 tags:
-- Operational Practices
-- Software Development
-- Lean Principles
-- Pragmatic Thinking
-- Flow Efficiency
-- Project Management
-- Systems Thinking
-- Metrics and Learning
-- Cycle Time
-- Lean Thinking
-- Organisational Physics
-- Value Delivery
-- Value Stream Management
-- Continuous Improvement
-- Market Adaptability
+  - Flow Efficiency
+  - Operational Practices
+  - Software Development
+  - Lean Principles
+  - Pragmatic Thinking
+  - Product Delivery
+  - Project Management
+  - Systems Thinking
+  - Metrics and Learning
+  - Cycle Time
+  - Lean Thinking
+  - Organisational Physics
+  - Value Delivery
+  - Value Stream Management
+  - Continuous Improvement
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
-  post_date: 2025-07-08T09:00:00Z
-  post_type: crosspost
-- platform: ProKanban
-  post_url: https://www.prokanban.org/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
-  post_date: 2025-05-22T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
+    post_date: 2025-07-08T09:00:00Z
+    post_type: crosspost
+  - platform: ProKanban
+    post_url: https://www.prokanban.org/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+    post_date: 2025-05-22T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:20Z
   short_title: 2025-07-07T16:45:40Z
+  tldr: 2025-08-07T12:35:20Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

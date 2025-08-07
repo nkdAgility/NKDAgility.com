@@ -2,8 +2,14 @@
 title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
 short_title: From Engineer to Scrum Trainer in DevOps
 description: Explores how hands-on software engineering and DevOps experience informs practical, relatable Scrum training, emphasising real-world lessons and continuous improvement.
+tldr: The author’s journey from software engineer to Scrum trainer, including recognition as a Microsoft MVP and extensive DevOps consulting across multiple industries, shapes a practical and relatable training style. Key insights include the value of learning from both successes and failures, the motivational power of real-world stories, and the belief that any team can move toward continuous delivery. Development managers should consider leveraging trainers with hands-on experience to inspire teams and drive meaningful change.
 date: 2023-01-20T07:00:08Z
-weight: 690
+lastmod: 2023-01-20T07:00:08Z
+weight: 365
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: N0Ci9PQQRLc
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 aliases:
-- /resources/N0Ci9PQQRLc
-- /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
+  - /resources/N0Ci9PQQRLc
+  - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
+  - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 aliasesArchive:
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
-- /resources/how-does-your-real-world-experience-translate-into-your-training-style-
-- /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-- from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
+  - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
+  - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
+  - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
+  - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
+  - from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
-- Pragmatic Thinking
+  - Software Development
+  - Pragmatic Thinking
+  - Competence
 Watermarks:
   description: 2025-05-07T13:14:29Z
   short_title: 2025-07-07T17:57:06Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:04Z
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

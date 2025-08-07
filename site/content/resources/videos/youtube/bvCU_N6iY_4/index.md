@@ -2,8 +2,14 @@
 title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 short_title: Business Agility Monthly Discussion Sessions
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
+tldr: Business Agility Raw is a monthly, participant-driven discussion forum where software development leaders can share real-world challenges and solutions related to business agility. The sessions use a collaborative format to ensure relevant, actionable insights and diverse perspectives, supporting continuous learning. Consider joining on the fourth Wednesday each month to connect with peers and gain practical ideas you can apply immediately.
 date: 2022-07-27T18:45:14Z
-weight: 840
+lastmod: 2022-07-27T18:45:14Z
+weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: bvCU_N6iY_4
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliases:
-- /resources/bvCU_N6iY_4
-- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
-- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
-- /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
+  - /resources/bvCU_N6iY_4
+  - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+  - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
+  - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
 aliasesArchive:
-- /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
-- /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
-- /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
-- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
-- unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+  - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
+  - /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
+  - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
+  - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
+  - unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Business Agility
+  - Business Agility
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:14:49Z
   short_title: 2025-07-07T17:57:25Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:53Z
 videoId: bvCU_N6iY_4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

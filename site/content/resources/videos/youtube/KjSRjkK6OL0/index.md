@@ -2,8 +2,14 @@
 title: What Does an Ineffective Scrum Master's Day Look Like?
 short_title: Ineffective Scrum Master Daily Behaviours
 description: Describes common behaviours of an ineffective Scrum Master, including excessive reporting, poor team engagement, misusing daily Scrums, and blocking team communication.
+tldr: An ineffective Scrum Master spends too much time on reports instead of supporting the team, treats daily meetings as status checks rather than collaboration opportunities, and blocks communication between developers and the business. These behaviors hinder progress and team growth. Recognizing and addressing these habits is crucial for improving team effectiveness.
 date: 2023-06-20T12:00:28Z
-weight: 1000
+lastmod: 2023-06-20T12:00:28Z
+weight: 795
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: KjSRjkK6OL0
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-does-an-ineffective-scrum-master's-day-look-like
 aliases:
-- /resources/KjSRjkK6OL0
-- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
-- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
+  - /resources/KjSRjkK6OL0
+  - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+  - /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 aliasesArchive:
-- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
-- /resources/what-does-an-ineffective-scrum-masters-day-look-like
-- /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
-- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
-- what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
-- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
+  - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
+  - /resources/what-does-an-ineffective-scrum-masters-day-look-like
+  - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
+  - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
+  - what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+  - /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:26Z
   short_title: 2025-07-07T17:54:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:27Z
 videoId: KjSRjkK6OL0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
 duration: 45
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

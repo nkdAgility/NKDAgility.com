@@ -2,8 +2,14 @@
 title: 'How CTOs Can Cut Through the Noise: Building Real Clarity and Confidence in a World of AI Hype and Microservices Madness'
 short_title: Why CTOs Feel Like They’re Always Behind
 description: Overwhelmed by tech trends? Learn how CTOs can cut through the noise, gain clarity, and lead with confidence—without chasing every shiny object.
+tldr: CTOs face constant pressure to adopt new technologies like AI and microservices, but chasing every trend often leads to confusion and technical debt. The key is to focus on understanding your organisation’s real challenges, build decision-making capability at all levels, and invest in clarity rather than hype. Partnering with experts who help you see your true constraints and strengths can enable you to set your own pace and lead with confidence.
 date: 2025-05-16T06:00:22Z
+lastmod: 2025-05-16T06:00:22Z
 weight: 395
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: JahDQ6odH0w
 ResourceImport: true
 ResourceType: videos
@@ -11,31 +17,29 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: how-ctos-can-cut-through-the-noise-building-real-clarity-and-confidence-in-a-world-of-ai-hype-and-microservices-madness
 aliases:
-- /resources/JahDQ6odH0w
-- /resources/videos/1-why-ctos-feel-like-theyre-always-behind
+  - /resources/JahDQ6odH0w
+  - /resources/videos/1-why-ctos-feel-like-theyre-always-behind
 aliasesArchive:
-- /resources/videos/1-why-ctos-feel-like-theyre-always-behind
-- 1-why-ctos-feel-like-theyre-always-behind
+  - /resources/videos/1-why-ctos-feel-like-theyre-always-behind
+  - 1-why-ctos-feel-like-theyre-always-behind
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-07-24T15:16:16Z
   short_title: 2025-07-24T15:16:16Z
+  tldr: 2025-08-07T12:32:10Z
 videoId: JahDQ6odH0w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JahDQ6odH0w/maxresdefault.jpg
 duration: 83
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 AI, microservices, new frameworks every month. If you’re a CTO or technical leader right now, it probably feels like you’re drowning in decisions. I see it everywhere I go—every time you turn around, there’s a new tool, a new practice, a new expectation. And everyone’s looking at you to make the right call. Not just technically, but strategically. The pressure is relentless.

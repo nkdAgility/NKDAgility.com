@@ -2,8 +2,14 @@
 title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
 short_title: Agile’s Journey on Gartner’s Slope of Enlightenment
 description: Explores whether organisations are moving past Agile disillusionment towards true understanding, highlighting the shift from hype to people-focused, effective Agile practices.
+tldr: Most organizations are still struggling with Agile due to unrealistic expectations and a focus on process over people, but a growing number are starting to see real benefits by prioritizing human interactions and learning from successful pioneers. The shift toward true Agile maturity is underway, though widespread enlightenment has not yet been reached. Development managers should focus on setting realistic goals, fostering a people-first culture, and learning from those who have achieved genuine Agile success.
 date: 2023-07-07T07:00:03Z
+lastmod: 2023-07-07T07:00:03Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 3NtGxZfuBnU
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 aliases:
-- /resources/3NtGxZfuBnU
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+  - /resources/3NtGxZfuBnU
+  - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+  - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 aliasesArchive:
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-- do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+  - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+  - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+  - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+  - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+  - do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+  - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:10:58Z
   short_title: 2025-07-07T17:54:07Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:22Z
 videoId: 3NtGxZfuBnU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
 duration: 219
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

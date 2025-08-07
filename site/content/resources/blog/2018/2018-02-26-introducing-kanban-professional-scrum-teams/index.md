@@ -2,33 +2,43 @@
 title: Introducing Kanban for Professional Scrum Teams
 short_title: Introducing Kanban for Scrum Teams
 description: Learn how Kanban practices can be integrated into Professional Scrum teams to improve workflow, transparency, and delivery using the new Scrum.org PSK training and guide.
+tldr: A new Professional Scrum with Kanban class and guide now enable Scrum teams to integrate Kanban practices like workflow visualization, limiting work in progress, and flow-based metrics without changing Scrum itself. This approach helps teams focus on value delivery and can replace traditional metrics like velocity with more actionable measures such as throughput and cycle time. Development managers should consider reviewing the Kanban Guide for Scrum Teams and exploring the training to enhance their teams' effectiveness.
 date: 2018-02-26
+lastmod: 2018-02-26
 weight: 580
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: CucU7DN-fJ7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: introducing-kanban-for-professional-scrum-teams
 aliases:
-- /resources/CucU7DN-fJ7
+  - /resources/CucU7DN-fJ7
 aliasesArchive:
-- /blog/introducing-kanban-professional-scrum-teams
-- /introducing-kanban-professional-scrum-teams
-- /introducing-kanban-for-professional-scrum-teams
-- /blog/introducing-kanban-for-professional-scrum-teams
-- /resources/blog/introducing-kanban-professional-scrum-teams
+  - /blog/introducing-kanban-professional-scrum-teams
+  - /introducing-kanban-professional-scrum-teams
+  - /introducing-kanban-for-professional-scrum-teams
+  - /blog/introducing-kanban-for-professional-scrum-teams
+  - /resources/blog/introducing-kanban-professional-scrum-teams
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Operational Practices
+  - Social Technologies
+  - Software Development
+  - Empirical Process Control
+  - Agile Frameworks
+  - Operational Practices
+  - Technical Mastery
 Watermarks:
   description: 2025-05-07T13:16:18Z
   short_title: 2025-07-07T17:58:35Z
+  tldr: 2025-08-07T13:13:15Z
 ResourceImportId: 38334
 creator: Martin Hinshelwood
 resourceTypes: blog

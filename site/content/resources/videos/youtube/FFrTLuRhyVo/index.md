@@ -2,8 +2,14 @@
 title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery'
 short_title: Transforming Technical Debt for Innovation
 description: Explores how managing technical debt enables faster delivery, higher product quality, and greater innovation, highlighting strategies for continuous improvement and value.
+tldr: Technical debt is more than just a cost; it represents missed opportunities for innovation and value. Allowing technical debt to persist leads to higher maintenance costs, slower delivery, and lower team morale, while prioritising high-quality product delivery enables greater agility, consistent value, and innovation. Development managers should regularly assess and address technical debt, foster a culture of quality, and communicate its impact to stakeholders to unlock their teams’ full potential.
 date: 2024-11-21T17:01:52Z
+lastmod: 2024-11-21T17:01:52Z
 weight: 280
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: FFrTLuRhyVo
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 aliases:
-- /resources/FFrTLuRhyVo
-- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
-- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
-- /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
+  - /resources/FFrTLuRhyVo
+  - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
+  - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
+  - /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
 aliasesArchive:
-- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
-- /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
-- /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
-- /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
-- transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
+  - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
+  - /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
+  - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
+  - /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
+  - transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
+  - Technical Mastery
+  - Product Delivery
+  - Organisational Agility
+  - Software Development
 Watermarks:
   description: 2025-05-07T12:57:09Z
   short_title: 2025-07-07T17:47:31Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:41:54Z
 videoId: FFrTLuRhyVo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

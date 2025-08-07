@@ -2,8 +2,14 @@
 title: What are immersive training courses?
 short_title: What are Immersive Training Courses?
 description: Explains immersive training courses, highlighting how real-world assignments, flipped learning, and interactive sessions enhance Agile skills and workplace application.
+tldr: Immersive training courses move beyond traditional or flipped classroom formats by having participants apply new concepts directly in their own work environments, then return to share and learn from real experiences. This approach, often spread over several weeks, leads to deeper engagement and more practical learning outcomes. Consider adopting immersive training to drive real change and knowledge retention within your teams.
 date: 2023-03-15T07:00:19Z
+lastmod: 2023-03-15T07:00:19Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: wa4A_KQ-YGg
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-immersive-training-courses
 aliases:
-- /resources/wa4A_KQ-YGg
-- /resources/videos/what-are-immersive-training-courses
-- /resources/videos/what-are-immersive-training-scrum-courses
+  - /resources/wa4A_KQ-YGg
+  - /resources/videos/what-are-immersive-training-courses
+  - /resources/videos/what-are-immersive-training-scrum-courses
 aliasesArchive:
-- /resources/videos/what-are-immersive-training-courses
-- /resources/what-are-immersive-training-courses
-- /resources/what-are-immersive-training-scrum-courses
-- /resources/videos/what-are-immersive-training-scrum-courses-
-- /resources/what-are-immersive-training-scrum-courses-
-- /resources/videos/what-are-immersive-training-scrum-courses
-- what-are-immersive-training-courses
+  - /resources/videos/what-are-immersive-training-courses
+  - /resources/what-are-immersive-training-courses
+  - /resources/what-are-immersive-training-scrum-courses
+  - /resources/videos/what-are-immersive-training-scrum-courses-
+  - /resources/what-are-immersive-training-scrum-courses-
+  - /resources/videos/what-are-immersive-training-scrum-courses
+  - what-are-immersive-training-courses
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:13:41Z
   short_title: 2025-07-07T17:56:24Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:33Z
 videoId: wa4A_KQ-YGg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

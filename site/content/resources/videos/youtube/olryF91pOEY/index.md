@@ -2,8 +2,14 @@
 title: Can organisations run an Applying Professional Scrum workshop? How would that help them?
 short_title: Applying Professional Scrum Workshops for Organisations
 description: Running an Applying Professional Scrum workshop helps organisations build agile skills, improve teamwork, and adopt Scrum practices through hands-on, collaborative learning.
+tldr: Running an Applying Professional Scrum workshop with your whole team creates a safe space for honest discussion, practical problem-solving, and shared learning tailored to your organisation. This approach helps teams understand their current ways of working, experience the benefits of Scrum firsthand, and fosters alignment across roles, leading to improved agility and productivity. Consider organising a private workshop to accelerate your Agile transformation and build a stronger, more collaborative workforce.
 date: 2023-03-29T07:00:17Z
+lastmod: 2023-03-29T07:00:17Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: olryF91pOEY
 ResourceImport: true
 ResourceType: videos
@@ -11,46 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 aliases:
-- /resources/olryF91pOEY
-- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+  - /resources/olryF91pOEY
+  - /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+  - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
 aliasesArchive:
-- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-- /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
-- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
-- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
-- can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+  - /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+  - /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+  - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+  - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
+  - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
+  - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+  - can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Team Collaboration
-- Agile Frameworks
-- Agile Transformation
-- Professional Scrum
-- Software Development
-- Pragmatic Thinking
-- Team Performance
-- Agile Product Management
-- Value Delivery
-- Organisational Agility
+  - Team Collaboration
+  - Agile Frameworks
+  - Agile Transformation
+  - Professional Scrum
+  - Software Development
+  - Pragmatic Thinking
+  - Team Performance
+  - Agile Product Management
+  - Value Delivery
+  - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:13:29Z
   short_title: 2025-07-07T17:56:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:09Z
 videoId: olryF91pOEY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
 duration: 479
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

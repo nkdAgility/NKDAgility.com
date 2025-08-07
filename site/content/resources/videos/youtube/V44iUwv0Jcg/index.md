@@ -2,8 +2,14 @@
 title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
 short_title: Kaizen for Continuous Improvement Success
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
+tldr: Kaizen is a philosophy of making small, ongoing improvements that can lead to significant gains in team performance, collaboration, and personal growth. By regularly observing, measuring, and refining processes, teams can boost productivity and quality while fostering a culture where everyone feels empowered to suggest changes. Development managers should encourage open communication, celebrate small wins, and be patient as continuous improvement is a long-term journey.
 date: 2024-08-14T07:04:17Z
+lastmod: 2024-08-14T07:04:17Z
 weight: 380
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: V44iUwv0Jcg
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliases:
-- /resources/V44iUwv0Jcg
-- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
-- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
-- /resources/videos/continuous-improvement-with-kanban
+  - /resources/V44iUwv0Jcg
+  - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+  - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+  - /resources/videos/continuous-improvement-with-kanban
 aliasesArchive:
-- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
-- /resources/videos/continuous-improvement-with-kanban
-- /resources/continuous-improvement-with-kanban
-- embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+  - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+  - /resources/videos/continuous-improvement-with-kanban
+  - /resources/continuous-improvement-with-kanban
+  - embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Continuous Improvement
-- Lean Principles
-- Continuous Learning
-- Operational Practices
-- Lean Thinking
+  - Continuous Improvement
+  - Lean Principles
+  - Continuous Learning
+  - Operational Practices
+  - Lean Thinking
 Watermarks:
   description: 2025-05-07T13:02:10Z
   short_title: 2025-07-07T17:48:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:50Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

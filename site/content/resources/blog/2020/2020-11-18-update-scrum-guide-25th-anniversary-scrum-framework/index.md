@@ -2,42 +2,49 @@
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
 short_title: Update to the Scrum Guide 2020
 description: Summarises key changes in the 2020 Scrum Guide, including simplified language, self-managing teams, and new commitments for goals, backlog, and definition of done.
+tldr: The 2020 update to the Scrum Guide simplifies language and reduces prescriptive rules, emphasizing that Scrum Teams are self-managing and collectively accountable for delivering value each Sprint. Key changes include clear commitments for Product Goal, Sprint Goal, and Definition of Done, as well as a focus on cross-functional teams and improved Sprint Planning. Development managers should review the new guide to align their teams with these streamlined practices.
 date: 2020-11-18
+lastmod: 2020-11-18
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 7CqdvOa9t4c
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 aliases:
-- /blog/update-scrum-guide-25th-anniversary-scrum-framework
-- /update-scrum-guide-25th-anniversary-scrum-framework
-- /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /resources/7CqdvOa9t4c
-- /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
+  - /blog/update-scrum-guide-25th-anniversary-scrum-framework
+  - /update-scrum-guide-25th-anniversary-scrum-framework
+  - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+  - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+  - /resources/7CqdvOa9t4c
+  - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 aliasesArchive:
-- /blog/update-scrum-guide-25th-anniversary-scrum-framework
-- /update-scrum-guide-25th-anniversary-scrum-framework
-- /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
+  - /blog/update-scrum-guide-25th-anniversary-scrum-framework
+  - /update-scrum-guide-25th-anniversary-scrum-framework
+  - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+  - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+  - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Increment
-- Product Backlog
+  - Agile Frameworks
+  - Software Development
+  - Professional Scrum
+  - Scrum Team
+  - Increment
+  - Product Backlog
 Watermarks:
   description: 2025-05-07T13:15:23Z
   short_title: 2025-07-07T17:57:49Z
+  tldr: 2025-08-07T13:11:02Z
 ResourceImportId: 45077
 creator: Martin Hinshelwood
 resourceTypes: blog

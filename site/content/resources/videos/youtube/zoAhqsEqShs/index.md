@@ -2,8 +2,14 @@
 title: What is the most interesting outcome you have achieved as an agile consultant?
 short_title: Agile Consulting Outcomes and Success Stories
 description: Real-world examples of agile consulting outcomes, highlighting both challenges and successes in agile transformation, DevOps adoption, and holistic Scrum training.
+tldr: The most interesting outcome as an agile consultant was seeing how full company-wide commitment to agile, from leadership to frontline staff, led to lasting transformation and improved ownership at Backcountry, while lack of buy-in at another company caused agile efforts to fail and key advocates to leave. Key insights are that success depends on broad engagement and leadership support, and that agile can create a ripple effect across organizations. Development managers should ensure all levels of the company are involved and committed to agile practices for meaningful and sustainable change.
 date: 2023-03-20T07:00:20Z
+lastmod: 2023-03-20T07:00:20Z
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: zoAhqsEqShs
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 aliases:
-- /resources/zoAhqsEqShs
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+  - /resources/zoAhqsEqShs
+  - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 aliasesArchive:
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-- what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+  - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+  - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+  - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+  - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+  - what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 source: internal
 layout: video
 concepts: []
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agile Transformation
+  - Agile Transformation
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:13:37Z
   short_title: 2025-07-07T17:56:21Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:07:24Z
 videoId: zoAhqsEqShs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

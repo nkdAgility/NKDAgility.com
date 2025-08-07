@@ -2,8 +2,14 @@
 title: What is Your Peeve in DevOps
 short_title: What is Your Peeve in DevOps
 description: Explores common DevOps frustrations, debunks the myth that continuous delivery is unattainable, and highlights the importance of empowering developers in agile teams.
+tldr: A common misconception in DevOps is that continuous delivery is unattainable and developers cannot be trusted to deploy to production, but this belief is unfounded and limits innovation. With the right tools and mindset, teams can achieve continuous delivery and empower developers to lead the process. Development managers should challenge these myths and consider upskilling their teams to unlock faster, more reliable delivery.
 date: 2023-04-27T09:30:06Z
+lastmod: 2023-04-27T09:30:06Z
 weight: 515
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: TNnpe02_RiU
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-your-peeve-in-devops
 aliases:
-- /resources/TNnpe02_RiU
-- /resources/videos/what-is-your-peeve-in-devops-TNnpe02_RiU
-- /resources/videos/what-is-your-peeve-in-devops
-- /resources/videos/pet-peeve-in-devops
+  - /resources/TNnpe02_RiU
+  - /resources/videos/what-is-your-peeve-in-devops-TNnpe02_RiU
+  - /resources/videos/what-is-your-peeve-in-devops
+  - /resources/videos/pet-peeve-in-devops
 aliasesArchive:
-- /resources/videos/what-is-your-peeve-in-devops
-- /resources/what-is-your-peeve-in-devops
-- /resources/pet-peeve-in-devops
-- /resources/videos/pet-peeve-in-devops
-- what-is-your-peeve-in-devops-TNnpe02_RiU
+  - /resources/videos/what-is-your-peeve-in-devops
+  - /resources/what-is-your-peeve-in-devops
+  - /resources/pet-peeve-in-devops
+  - /resources/videos/pet-peeve-in-devops
+  - what-is-your-peeve-in-devops-TNnpe02_RiU
 source: internal
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:57Z
   short_title: 2025-07-07T17:55:41Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:00Z
 videoId: TNnpe02_RiU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
 duration: 31
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,8 +2,14 @@
 title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 short_title: Mastering Sprint Planning in Agile Teams
 description: Learn essential principles for effective Sprint planning in Agile, including understanding the product backlog, setting clear goals, and fostering true team collaboration.
+tldr: Effective Sprint planning depends on everyone understanding the product backlog and having a clear product goal, which ensures alignment, informed decisions, and true teamwork. Without these, teams risk misalignment and reduced collaboration. Make sure your team is prepared and focused on shared objectives to achieve better outcomes.
 date: 2023-05-26T14:00:37Z
-weight: 665
+lastmod: 2023-05-26T14:00:37Z
+weight: 420
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: uQ786VBz3Jw
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-sprint-planning-key-principles-for-agile-success
 aliases:
-- /resources/uQ786VBz3Jw
-- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+  - /resources/uQ786VBz3Jw
+  - /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+  - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
 aliasesArchive:
-- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
-- mastering-sprint-planning-key-principles-for-agile-success
+  - /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+  - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
+  - /resources/what-is-your-1-tip-for-effective-sprint-planning-
+  - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+  - mastering-sprint-planning-key-principles-for-agile-success
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Agile Planning
-- Agile Planning Tools
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Product Delivery
-- Common Goals
-- Agile Frameworks
-- Pragmatic Thinking
-- Team Collaboration
-- Team Performance
+  - Agile Planning
+  - Agile Planning Tools
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Product Delivery
+  - Common Goals
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Team Performance
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:12:09Z
   short_title: 2025-07-07T17:55:01Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:39Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

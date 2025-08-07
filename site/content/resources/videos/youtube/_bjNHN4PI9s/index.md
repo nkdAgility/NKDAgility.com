@@ -2,8 +2,14 @@
 title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scrum Training'
 short_title: Virtual Classroom Tech Tips for Scrum Training
 description: Practical tech tips for using Microsoft Teams and Mural to improve collaboration, engagement, and learning in live virtual Scrum training sessions.
+tldr: Using Microsoft Teams for video conferencing and Mural for digital whiteboarding can significantly improve engagement and collaboration in virtual Scrum training. Ensuring participants are comfortable with these tools through a tech check before class helps reduce confusion and maximises learning time. Development managers should encourage their teams to familiarise themselves with these platforms ahead of training to ensure a smoother and more productive experience.
 date: 2020-05-02T16:34:05Z
-weight: 1000
+lastmod: 2020-05-02T16:34:05Z
+weight: 900
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: _bjNHN4PI9s
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
-- /resources/_bjNHN4PI9s
+  - /resources/_bjNHN4PI9s
 aliasesArchive:
-- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-- /resources/ep-007-running-a-live-virtual-classroom
-- maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+  - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+  - /resources/videos/ep-007-running-a-live-virtual-classroom
+  - /resources/ep-007-running-a-live-virtual-classroom
+  - maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Collaboration Tools
+  - Collaboration Tools
 Watermarks:
   description: 2025-05-07T13:15:45Z
   short_title: 2025-07-07T17:58:07Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:11:58Z
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: Scrum is like communism, it doesn't work. Myth 2.
 short_title: 'Scrum Story Points: Myths and Best Practices'
 description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
+tldr: Story points are not required by Scrum and are often misused, leading to confusion and pressure on teams. Their real value is in sparking conversations about uncertainty during backlog refinement, not as ongoing metrics or time proxies. Development managers should focus on open dialogue, use story points only as needed for understanding, and consider alternative estimation methods to better support team effectiveness and value delivery.
 date: 2023-10-24T11:00:39Z
+lastmod: 2023-10-24T11:00:39Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: l3NhlbM2gKM
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scrum-is-like-communism-it-doesn't-work-myth-2
 aliases:
-- /resources/l3NhlbM2gKM
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
+  - /resources/l3NhlbM2gKM
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
 aliasesArchive:
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
-- scrum-is-like-communism-it-doesnt-work-myth-2-
-- scrum-is-like-communism-it-doesnt-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
+  - /resources/scrum-is-like-communism-it-doesnt-work-myth-2
+  - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
+  - /resources/scrum-is-like-communism-it-doesn't-work-myth-2
+  - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+  - scrum-is-like-communism-it-doesnt-work-myth-2-
+  - scrum-is-like-communism-it-doesnt-work-myth-2
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:08:26Z
   short_title: 2025-07-07T17:52:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:56Z
 videoId: l3NhlbM2gKM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/l3NhlbM2gKM/maxresdefault.jpg
 duration: 216
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

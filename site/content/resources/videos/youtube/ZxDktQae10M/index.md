@@ -2,8 +2,14 @@
 title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 short_title: VSTS Sync Migration Tools for TFS to VSTS
 description: Learn how to use VSTS sync migration tools for flexible, selective TFS to VSTS migrations, including setup, configuration, field mapping, and community support.
+tldr: When migrating from TFS to VSTS, use Microsoft's migration service for full database moves, but choose VSTS sync migration tools if you need flexibility to migrate or restructure specific projects. The sync tools allow selective migration, field mapping, and bulk updates, and are supported by a strong community; install them via Chocolatey and always test with a small dataset first. Decide which approach fits your needs, and leverage available documentation and community support for a smooth migration.
 date: 2017-12-30T18:57:40Z
+lastmod: 2017-12-30T18:57:40Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZxDktQae10M
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 aliases:
-- /resources/ZxDktQae10M
+  - /resources/ZxDktQae10M
 aliasesArchive:
-- /resources/videos/-vsts-sync-migration-tools-overview
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
-- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+  - /resources/videos/-vsts-sync-migration-tools-overview
+  - /resources/videos/2018-vsts-sync-migration-tools-overview
+  - /resources/2018-vsts-sync-migration-tools-overview
+  - /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+  - mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Install and Configuration
-- Azure DevOps
+  - Install and Configuration
+  - Azure DevOps
 Watermarks:
   description: 2025-05-07T13:16:23Z
   short_title: 2025-07-07T17:58:39Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:13:26Z
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

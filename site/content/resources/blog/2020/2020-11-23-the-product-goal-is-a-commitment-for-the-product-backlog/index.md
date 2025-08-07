@@ -2,41 +2,48 @@
 title: The Product Goal is a commitment for the Product Backlog
 short_title: Product Goal Commitment in Scrum Backlog
 description: Defines the Product Goal as a clear, measurable objective in the Product Backlog that guides Scrum Teams, ensuring focus, transparency, and alignment with long-term value.
+tldr: The Product Goal is a clear, measurable long-term objective in the Product Backlog that guides the Scrum Team’s focus and progress. It should be understood by everyone involved, align Sprint Goals, and can be changed if it no longer delivers value. Development managers should ensure their teams have a well-defined Product Goal to drive alignment and transparency.
 date: 2020-11-23
+lastmod: 2020-11-23
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: sVDzuTFDLSJ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
-- /blog/the-product-goal-is-a-commitment-for-the-product-backlog
-- /the-product-goal-is-a-commitment-for-the-product-backlog
-- /resources/sVDzuTFDLSJ
-- /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
+  - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
+  - /the-product-goal-is-a-commitment-for-the-product-backlog
+  - /resources/sVDzuTFDLSJ
+  - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 aliasesArchive:
-- /blog/the-product-goal-is-a-commitment-for-the-product-backlog
-- /the-product-goal-is-a-commitment-for-the-product-backlog
-- /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
+  - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
+  - /the-product-goal-is-a-commitment-for-the-product-backlog
+  - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Common Goals
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Agile Planning
-- Product Delivery
-- Customer Focus
-- Product Backlog
+  - Common Goals
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Agile Frameworks
+  - Agile Planning
+  - Product Delivery
+  - Customer Focus
+  - Product Backlog
 Watermarks:
   description: 2025-05-07T13:15:22Z
   short_title: 2025-07-07T17:57:48Z
+  tldr: 2025-08-07T13:11:00Z
 ResourceImportId: 45086
 creator: Martin Hinshelwood
 resourceTypes: blog

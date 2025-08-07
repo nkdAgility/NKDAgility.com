@@ -2,8 +2,14 @@
 title: 'Rethinking Backlog Management: Why a Flat Structure Boosts Agility and Value Delivery'
 short_title: Flat Backlog Structure for Agile Value Delivery
 description: Explains how using a flat backlog structure—rather than a hierarchy—improves agility, prioritisation, and value delivery in Scrum and Kanban teams.
+tldr: Using a flat backlog instead of a hierarchical one makes it easier to prioritise work, adapt to changing needs, and focus on delivering value rather than just managing tasks. Flat structures avoid the inflexibility and complexity of parent-child relationships, allowing teams to use tags and flexible visualisations for context. Development managers should consider shifting to a flat backlog to improve agility and value delivery.
 date: 2024-03-26T10:56:26Z
+lastmod: 2024-03-26T10:56:26Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: ZBb8OZ0I6qA
 ResourceImport: true
 ResourceType: videos
@@ -11,47 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 aliases:
-- /resources/ZBb8OZ0I6qA
-- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
-- /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
+  - /resources/ZBb8OZ0I6qA
+  - /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
+  - /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
 aliasesArchive:
-- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
-- /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
-- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
-- /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
-- rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
+  - /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
+  - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+  - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+  - /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
+  - rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 source: youtube
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Product Management
-- Scrum
+  - Product Development
+  - Product Management
+  - Scrum
 tags:
-- Product Backlog
-- Agile Planning
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Agile Product Management
-- Software Development
-- Agile Planning Tools
-- Azure DevOps
-- Organisational Agility
-- Product Delivery
+  - Product Backlog
+  - Agile Planning
+  - Operational Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Agile Product Management
+  - Software Development
+  - Agile Planning Tools
+  - Azure DevOps
+  - Organisational Agility
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:05:23Z
   short_title: 2025-07-07T17:49:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:02Z
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

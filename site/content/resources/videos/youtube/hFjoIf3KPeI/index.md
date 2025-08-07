@@ -2,8 +2,14 @@
 title: How does a Scrum Master or Agile coach motivate a Scrum Team?
 short_title: How Scrum Masters Motivate Agile Teams
 description: Explains how Scrum Masters and Agile coaches boost team motivation by setting clear goals, fostering engagement, recognising achievements, and promoting continuous improvement.
+tldr: Scrum Masters and Agile coaches play a key role in keeping teams motivated by aligning goals with stakeholder value, celebrating achievements, and fostering open communication. Teams lose motivation when goals are misaligned or stakeholder engagement is lacking, so it is important to set achievable objectives, involve stakeholders, and encourage autonomy and continuous learning. Regularly review team morale, connect work to its broader impact, and create feedback loops to maintain a resilient and high-performing team.
 date: 2023-09-11T07:00:17Z
+lastmod: 2023-09-11T07:00:17Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: hFjoIf3KPeI
 ResourceImport: true
 ResourceType: videos
@@ -11,48 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 aliases:
-- /resources/hFjoIf3KPeI
-- /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - /resources/hFjoIf3KPeI
+  - /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 aliasesArchive:
-- /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2
-- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
-- /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
-- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2
+  - /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
+  - /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
+  - /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+  - how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Team Motivation
-- Agile Leadership
-- Scrum Team
-- Software Development
-- Scrum Master
-- Team Performance
-- Employee Engagement
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Transformation
-- Team Collaboration
+  - Team Motivation
+  - Agile Leadership
+  - Scrum Team
+  - Software Development
+  - Scrum Master
+  - Team Performance
+  - Employee Engagement
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Agile Transformation
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:09:35Z
   short_title: 2025-07-07T17:53:07Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:07Z
 videoId: hFjoIf3KPeI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg
 duration: 318
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

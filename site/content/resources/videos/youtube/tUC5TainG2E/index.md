@@ -2,8 +2,14 @@
 title: How did you come to be a preferred Scrum training supplier for Microsoft?
 short_title: Becoming Microsoft’s Preferred Scrum Trainer
 description: Explains how strong relationships, dual expertise in DevOps and Scrum, and trusted referrals led to becoming a preferred Scrum training provider for Microsoft.
+tldr: Becoming a preferred Scrum training supplier for Microsoft was achieved through long-term relationship building, deep expertise in both DevOps and Scrum, and consistently delivering value that led to strong referrals and repeat clients. Engaging directly with Microsoft’s teams and culture further strengthened credibility and visibility. Development managers should focus on building trust, developing dual-domain expertise, and maintaining ongoing client relationships to achieve similar recognition.
 date: 2023-05-10T07:00:17Z
+lastmod: 2023-05-10T07:00:17Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: tUC5TainG2E
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 aliases:
-- /resources/tUC5TainG2E
-- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+  - /resources/tUC5TainG2E
+  - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 aliasesArchive:
-- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
-- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
-- how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+  - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+  - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+  - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
+  - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
+  - how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:34Z
   short_title: 2025-07-07T17:55:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:19Z
 videoId: tUC5TainG2E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tUC5TainG2E/maxresdefault.jpg
 duration: 271
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

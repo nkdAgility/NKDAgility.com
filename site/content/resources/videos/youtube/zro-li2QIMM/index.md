@@ -2,8 +2,14 @@
 title: 'Unlocking Success: Join Me for a Virtual Coffee to Tackle Your Agile and Technical Challenges'
 short_title: 'Virtual Coffee: Solve Agile & Tech Challenges'
 description: Book a free virtual coffee chat to discuss and solve your agile or technical challenges, share knowledge, and find practical solutions for organisational success.
+tldr: If you are facing agile or technical challenges, I am offering free virtual coffee chats to help you find practical solutions tailored to your organisation. This approach focuses on empowering teams, sharing knowledge, and creating positive impacts beyond your company. Book a session to discuss your issues and walk away with actionable ideas that support both your team's and the wider community's success.
 date: 2023-12-06T11:01:01Z
+lastmod: 2023-12-06T11:01:01Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: zro-li2QIMM
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 aliases:
-- /resources/zro-li2QIMM
-- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
-- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
-- /resources/videos/-shorts-7-virtues-of-agile-charity
+  - /resources/zro-li2QIMM
+  - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
+  - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
+  - /resources/videos/-shorts-7-virtues-of-agile-charity
 aliasesArchive:
-- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
-- /resources/videos/-shorts-7-virtues-of-agile-charity
-- /resources/-shorts-7-virtues-of-agile-charity
-- unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
+  - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
+  - /resources/videos/-shorts-7-virtues-of-agile-charity
+  - /resources/-shorts-7-virtues-of-agile-charity
+  - unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:07:13Z
   short_title: 2025-07-07T17:51:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:38Z
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

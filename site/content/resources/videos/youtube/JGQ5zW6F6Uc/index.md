@@ -2,8 +2,14 @@
 title: How to Tackle the Challenge of an Ineffective Product Owner in Agile Teams
 short_title: Dealing with Ineffective Product Owners in Agile
 description: Learn practical steps for Agile teams to address ineffective Product Owners, including support, education, relationship-building, and fostering team excellence for better outcomes.
+tldr: Ineffective Product Owners, whether due to lack of skills or organisational constraints, can hinder team performance and product success. Development managers should support Product Owners through relationship-building, organisational education, and open dialogue, while ensuring the team continues to deliver quality work. Take action by fostering collaboration and advocating for clear role expectations to help Product Owners and teams succeed.
 date: 2023-10-27T14:30:10Z
-weight: 665
+lastmod: 2023-10-27T14:30:10Z
+weight: 465
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: JGQ5zW6F6Uc
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 aliases:
-- /resources/JGQ5zW6F6Uc
-- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+  - /resources/JGQ5zW6F6Uc
+  - /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+  - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 aliasesArchive:
-- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-- how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+  - /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+  - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+  - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+  - how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Scrum Team
-- Software Development
-- Scrum Master
-- Pragmatic Thinking
-- Agile Product Management
-- Team Performance
+  - Scrum Team
+  - Software Development
+  - Scrum Master
+  - Pragmatic Thinking
+  - Agile Product Management
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:08:16Z
   short_title: 2025-07-07T17:52:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:38Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

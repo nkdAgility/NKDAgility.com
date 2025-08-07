@@ -2,8 +2,14 @@
 title: Addressing Systemic Issues in Agile Organizations
 short_title: Addressing Systemic Issues in Agile
 description: Explores why Agile fails without addressing systemic issues, highlighting the need for organisational change, meaningful metrics, and the courage to make bold improvements.
+tldr: Many organizations adopting Agile focus on surface-level rituals instead of addressing deeper systemic issues, which limits real improvement. To drive true effectiveness, leaders should measure meaningful outcomes like ROI, profit per team member, and time to learn, and be willing to make bold organizational changes rather than incremental tweaks. The key takeaway is that lasting Agile success requires courage to tackle root problems and transform the entire business system, not just follow ceremonies.
 date: 2024-01-24T07:00:16Z
+lastmod: 2024-01-24T07:00:16Z
 weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: QBX7dnUBzo8
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,48 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: addressing-systemic-issues-in-agile-organizations
 aliases:
-- /resources/QBX7dnUBzo8
-- /resources/videos/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups
+  - /resources/QBX7dnUBzo8
+  - /resources/videos/addressing-systemic-issues-in-agile-organizations
+  - /resources/videos/agile-techniques-that-boost-startups
 aliasesArchive:
-- /resources/videos/addressing-systemic-issues-in-agile-organizations
-- /resources/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups!
-- /resources/agile-techniques-that-boost-startups!
-- /resources/videos/agile-techniques-that-boost-startups
-- addressing-systemic-issues-in-agile-organizations
+  - /resources/videos/addressing-systemic-issues-in-agile-organizations
+  - /resources/addressing-systemic-issues-in-agile-organizations
+  - /resources/videos/agile-techniques-that-boost-startups!
+  - /resources/agile-techniques-that-boost-startups!
+  - /resources/videos/agile-techniques-that-boost-startups
+  - addressing-systemic-issues-in-agile-organizations
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Strategy
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Transformation
-- Continuous Improvement
-- Organisational Change
-- Pragmatic Thinking
-- Agile Philosophy
-- Change Management
-- Organisational Agility
-- Organisational Physics
-- Software Development
-- Enterprise Agility
-- Sociotechnical Systems
-- Systems Thinking
-- Agile Strategy
-- Operational Practices
+  - Social Technologies
+  - Agile Transformation
+  - Continuous Improvement
+  - Organisational Change
+  - Pragmatic Thinking
+  - Agile Philosophy
+  - Change Management
+  - Organisational Agility
+  - Organisational Physics
+  - Software Development
+  - Enterprise Agility
+  - Sociotechnical Systems
+  - Systems Thinking
+  - Agile Strategy
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:06:18Z
   short_title: 2025-07-07T17:50:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:53:48Z
 videoId: QBX7dnUBzo8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

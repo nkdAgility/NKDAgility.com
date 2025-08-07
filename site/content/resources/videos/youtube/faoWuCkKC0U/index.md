@@ -2,8 +2,14 @@
 title: Reasons to do a PSPO-A Course in 60 Seconds
 short_title: Reasons to Do a PSPO-A Course in 60 Seconds
 description: Discover how the PSPO-A course helps product managers and owners master Agile and Scrum, boost collaboration, and drive effective product management in any organisation.
+tldr: The PSPO-A course helps product managers and product owners master Agile and Scrum principles, improving their ability to manage products efficiently and respond to change. It offers practical insights to boost collaboration, innovation, and effectiveness in product management. Consider enrolling to enhance your skills and drive better results for your team and business.
 date: 2023-07-11T14:00:32Z
-weight: 1000
+lastmod: 2023-07-11T14:00:32Z
+weight: 855
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: faoWuCkKC0U
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: reasons-to-do-a-pspo-a-course-in-60-seconds
 aliases:
-- /resources/faoWuCkKC0U
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+  - /resources/faoWuCkKC0U
+  - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 aliasesArchive:
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
-- reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+  - /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
+  - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
+  - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
+  - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
+  - reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:53Z
   short_title: 2025-07-07T17:54:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:14Z
 videoId: faoWuCkKC0U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

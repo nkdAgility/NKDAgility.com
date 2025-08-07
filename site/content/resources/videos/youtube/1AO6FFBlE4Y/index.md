@@ -2,8 +2,14 @@
 title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 short_title: The Hidden Costs of Poor Quality Code
 description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
+tldr: Poor-quality code leads to escalating costs, lost productivity, and damage to team morale and brand reputation, while also causing missed opportunities for innovation. Simplifying branching, limiting supported versions, and investing in engineering excellence and security can dramatically boost productivity and customer satisfaction. Development managers should prioritize code quality improvements now to unlock greater efficiency and long-term organizational success.
 date: 2024-11-19T09:58:28Z
-weight: 230
+lastmod: 2024-11-19T09:58:28Z
+weight: 190
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: 1AO6FFBlE4Y
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 aliases:
-- /resources/1AO6FFBlE4Y
-- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code
+  - /resources/1AO6FFBlE4Y
+  - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+  - /resources/videos/the-high-cost-of-poor-quality-code
 aliasesArchive:
-- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code-
-- /resources/the-high-cost-of-poor-quality-code-
-- the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code
-- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
+  - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+  - /resources/videos/the-high-cost-of-poor-quality-code-
+  - /resources/the-high-cost-of-poor-quality-code-
+  - the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+  - /resources/videos/the-high-cost-of-poor-quality-code
+  - /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 source: internal
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Engineering Practices
-- Operational Practices
-- Software Development
-- Technical Mastery
-- Technical Debt
-- Technical Excellence
-- Value Delivery
-- Pragmatic Thinking
-- Working Software
-- Product Delivery
+  - Technical Mastery
+  - Engineering Practices
+  - Operational Practices
+  - Software Development
+  - Technical Debt
+  - Technical Excellence
+  - Value Delivery
+  - Pragmatic Thinking
+  - Working Software
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:57:19Z
   short_title: 2025-07-07T17:47:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:08Z
 videoId: 1AO6FFBlE4Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

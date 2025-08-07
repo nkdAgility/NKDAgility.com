@@ -2,8 +2,14 @@
 title: 7 Harbingers of the Agile apocalypse - Organizational Structure
 short_title: 'Agile Barriers: Overcoming Hierarchical Structures'
 description: Explores how rigid, hierarchical structures hinder organisational agility and offers practical strategies for shifting to decentralised, empowered, agile teams.
+tldr: Traditional top-down management structures block true agility by centralizing decision-making and limiting team empowerment, especially for key roles like Product Owner. To become more agile, organizations need to decentralize authority, promote transparency, and adopt servant leadership, allowing teams closer to the customer to make decisions. Leaders should drive this shift by supporting teams and gradually implementing changes that focus on delivering customer value.
 date: 2023-10-19T11:00:06Z
+lastmod: 2023-10-19T11:00:06Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 56hWAHhbrvs
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,44 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-harbingers-of-the-agile-apocalypse-organizational-structure
 aliases:
-- /resources/56hWAHhbrvs
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
-- /resources/videos/antichrist-7-harbingers-agile-apocalypse
+  - /resources/56hWAHhbrvs
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
+  - /resources/videos/antichrist-7-harbingers-agile-apocalypse
 aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
-- /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
-- /resources/videos/antichrist!-7-harbingers-agile-apocalypse
-- /resources/antichrist!-7-harbingers-agile-apocalypse
-- /resources/videos/antichrist-7-harbingers-agile-apocalypse
-- 7-harbingers-of-the-agile-apocalypse-organizational-structure
+  - /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
+  - /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
+  - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
+  - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
+  - /resources/antichrist!-7-harbingers-agile-apocalypse
+  - /resources/videos/antichrist-7-harbingers-agile-apocalypse
+  - 7-harbingers-of-the-agile-apocalypse-organizational-structure
 source: internal
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agile Transformation
-- Organisational Change
-- Agile Strategy
-- Agile Philosophy
-- Organisational Agility
-- Pragmatic Thinking
-- Social Technologies
-- Sociotechnical Systems
+  - Enterprise Agility
+  - Agile Transformation
+  - Organisational Change
+  - Agile Strategy
+  - Agile Philosophy
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Social Technologies
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:08:38Z
   short_title: 2025-07-07T17:52:18Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:17Z
 videoId: 56hWAHhbrvs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg
 duration: 241
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

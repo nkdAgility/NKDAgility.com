@@ -2,39 +2,46 @@
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
 short_title: Product Owner Role in Nexus Sprint Planning
 description: Explains how a Product Owner can manage Sprint Planning across multiple Scrum teams in Nexus by delegating, using area or team owners, and maintaining clear communication.
+tldr: When managing multiple Scrum teams in a Nexus, the Product Owner should focus on high-level vision and attend only the Nexus Sprint Planning, delegating detailed planning to designated Team Owners or Area Owners for each team. This approach reduces overload, maintains alignment with the product vision, and relies on strong communication and autonomy within teams. To implement this, assign a representative for each team to handle their Sprint Planning and ensure ongoing coordination with the Product Owner.
 date: 2019-09-30
-weight: 640
+lastmod: 2019-09-30
+weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: As4R5dKsJtU
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
-- /resources/As4R5dKsJtU
+  - /resources/As4R5dKsJtU
 aliasesArchive:
-- /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
-- /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
-- /in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
-- /blog/in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
-- /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
-- /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
-- /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+  - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+  - /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+  - /in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
+  - /blog/in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
+  - /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
+  - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
+  - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Scrum Team
-- Product Owner
+  - Product Owner
+  - Agile Frameworks
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Scrum Team
 Watermarks:
   description: 2025-05-07T13:16:08Z
   short_title: 2025-07-07T17:58:25Z
+  tldr: 2025-08-07T13:12:58Z
 ResourceImportId: 39855
 creator: Martin Hinshelwood
 resourceTypes: blog

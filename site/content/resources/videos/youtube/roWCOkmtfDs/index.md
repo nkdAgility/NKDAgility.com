@@ -2,8 +2,14 @@
 title: 'The Importance of Validation in Product Development: A Strategic Approach'
 short_title: Validation in Product Development
 description: Explains why validating product features is essential, highlighting hypothesis-driven development, data collection, and evidence-based decisions to maximise long-term product value.
+tldr: Prioritizing features to close sales can fragment your product and lead to long-term costs that outweigh short-term gains. Shifting to a hypothesis-driven approach, where you define, track, and validate the value of new features using data, helps ensure you invest in what truly benefits users and the business. Equip product managers with the right telemetry and authority to make evidence-based decisions, and avoid building features that do not deliver measurable value.
 date: 2024-09-02T15:30:15Z
+lastmod: 2024-09-02T15:30:15Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: roWCOkmtfDs
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,46 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-importance-of-validation-in-product-development-a-strategic-approach
 aliases:
-- /resources/roWCOkmtfDs
-- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/videos/what-is-product-validation-and-why-does-it-matter
+  - /resources/roWCOkmtfDs
+  - /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
+  - /resources/videos/what-is-product-validation-and-why-does-it-matter
 aliasesArchive:
-- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/videos/what-is-product-validation-and-why-does-it-matter
-- /resources/what-is-product-validation-and-why-does-it-matter
-- the-importance-of-validation-in-product-development-a-strategic-approach
+  - /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
+  - /resources/the-importance-of-validation-in-product-development-a-strategic-approach
+  - /resources/videos/what-is-product-validation-and-why-does-it-matter
+  - /resources/what-is-product-validation-and-why-does-it-matter
+  - the-importance-of-validation-in-product-development-a-strategic-approach
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Hypothesis Driven Development
-- Evidence Based Leadership
-- Experimentation
-- Product Validation
-- Value Delivery
-- Product Discovery
-- Metrics and Learning
-- Decision Making
-- Evidence Based Management
-- Current Value
-- Product Delivery
-- Pragmatic Thinking
-- Product Strategy
+  - Customer Focus
+  - Hypothesis Driven Development
+  - Value Delivery
+  - Experimentation
+  - Product Validation
+  - Product Discovery
+  - Metrics and Learning
+  - Decision Making
+  - Evidence Based Management
+  - Current Value
+  - Product Delivery
+  - Pragmatic Thinking
+  - Product Strategy
 Watermarks:
   description: 2025-05-07T12:58:40Z
   short_title: 2025-07-07T17:48:20Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:13Z
 videoId: roWCOkmtfDs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
 duration: 843
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

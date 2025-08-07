@@ -2,8 +2,14 @@
 title: Training Schedule 2021 Q4/2022 Q1
 short_title: Training Schedule 2021 Q4 & 2022 Q1
 description: Overview of live virtual training methods, free workshop recordings, schedule updates, and new coaching and retraining programmes for Q4 2021 and Q1 2022.
+tldr: Live virtual training has proven more effective and engaging than in-person sessions, allowing for better knowledge retention, increased customer interaction, and ongoing partnerships. Free bi-weekly virtual workshops are being offered to showcase these benefits and experiment with new ideas, with flexible scheduling based on participant feedback. Development managers should consider leveraging these virtual formats and associated programs, such as coaching sessions and retraining options, to enhance team learning and adaptability.
 date: 2021-08-30
-weight: 850
+lastmod: 2021-08-30
+weight: 770
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author: MrHinsh
 ResourceId: 7oAVt27r_UY
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: training-schedule-2021-q4-2022-q1
 aliases:
-- /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
-- /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
-- /resources/7oAVt27r_UY
+  - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+  - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+  - /resources/7oAVt27r_UY
 aliasesArchive:
-- /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
-- /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+  - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+  - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:52Z
   short_title: 2025-07-07T17:57:28Z
+  tldr: 2025-08-07T13:10:04Z
 preview: class-marketing-Q32021.jpg
 resourceTypes: newsletter
 

@@ -2,8 +2,14 @@
 title: 'Maximise Your Scrum Process: Leveraging Azure DevOps for Agile Success'
 short_title: Maximise Scrum with Azure DevOps for Agile Teams
 description: Learn how to customise Azure DevOps to support Scrum teams, manage backlogs, plan sprints, and improve agile workflows with practical setup and process tips.
+tldr: Azure DevOps can be customised to effectively support Scrum by focusing on simple, value-driven backlogs and adapting processes like area and iteration paths to fit your team's structure and workflow. Metrics and common agile tools are optional, so tailor your setup to your team's needs rather than following defaults. Use Azure DevOps features like tagging, board views, and backlog management to streamline refinement, planning, and execution, and regularly review and improve your processes for better results.
 date: 2024-04-03T17:21:43Z
+lastmod: 2024-04-03T17:21:43Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 5IBKxYLA494
 ResourceImport: true
 ResourceType: videos
@@ -11,50 +17,48 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 aliases:
-- /resources/5IBKxYLA494
-- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
-- /resources/videos/scrum-with-azure-devops
+  - /resources/5IBKxYLA494
+  - /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+  - /resources/videos/scrum-with-azure-devops
 aliasesArchive:
-- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
-- /resources/videos/scrum-with-azure-devops!
-- /resources/scrum-with-azure-devops!
-- /resources/videos/scrum-with-azure-devops
-- maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+  - /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+  - /resources/videos/scrum-with-azure-devops!
+  - /resources/scrum-with-azure-devops!
+  - /resources/videos/scrum-with-azure-devops
+  - maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Scrum Team
-- Azure DevOps
-- Pragmatic Thinking
-- Agile Planning
-- Agile Product Management
-- Professional Scrum
-- Agile Frameworks
-- Product Delivery
-- Team Performance
-- Backlog Refinement
-- Product Backlog
-- Team Collaboration
-- Working Software
-- Agile Transformation
+  - Software Development
+  - Scrum Team
+  - Azure DevOps
+  - Pragmatic Thinking
+  - Agile Planning
+  - Agile Product Management
+  - Professional Scrum
+  - Agile Frameworks
+  - Product Delivery
+  - Team Performance
+  - Backlog Refinement
+  - Product Backlog
+  - Team Collaboration
+  - Working Software
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:05:20Z
   short_title: 2025-07-07T17:49:23Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:51:56Z
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

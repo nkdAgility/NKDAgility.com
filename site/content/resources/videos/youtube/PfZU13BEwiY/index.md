@@ -2,8 +2,14 @@
 title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
 short_title: 'Scaling Smart: Managing Technical Debt'
 description: Learn how unmanaged technical debt can hinder growth, and discover strategies like sustainable architecture, DevOps, and automation to scale efficiently and maintain quality.
+tldr: Unchecked technical debt slows development, increases bugs, and reduces team productivity, making scaling risky and inefficient. Addressing weak points through sustainable architecture, automated testing, and continuous integration enables faster feedback, more reliable releases, and confident growth. Development managers should prioritize managing technical debt and automation to support sustainable scaling and maintain innovation.
 date: 2025-02-25T06:00:28Z
-weight: 230
+lastmod: 2025-02-25T06:00:28Z
+weight: 185
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: PfZU13BEwiY
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 aliases:
-- /resources/PfZU13BEwiY
-- /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
-- /resources/videos/technical-debt-the-silent-scalability-killer
+  - /resources/PfZU13BEwiY
+  - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+  - /resources/videos/technical-debt-the-silent-scalability-killer
 aliasesArchive:
-- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-- /resources/7-signs-of-the-agile-apocalypse-plague
-- /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
-- /resources/videos/technical-debt-the-silent-scalability-killer
-- scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+  - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+  - /resources/videos/7-signs-of-the-agile-apocalypse-plague
+  - /resources/7-signs-of-the-agile-apocalypse-plague
+  - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+  - /resources/videos/technical-debt-the-silent-scalability-killer
+  - scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 source: youtube
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Technical Debt
-- Pragmatic Thinking
-- Software Development
+  - Technical Debt
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-07T12:49:26Z
   short_title: 2025-07-07T16:45:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:46Z
 videoId: PfZU13BEwiY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PfZU13BEwiY/maxresdefault.jpg
 duration: 61
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

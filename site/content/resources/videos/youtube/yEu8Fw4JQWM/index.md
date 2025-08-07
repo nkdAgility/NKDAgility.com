@@ -2,8 +2,14 @@
 title: In WIP, less is more.  Why?
 short_title: In WIP, Less Is More
 description: Limiting work in progress boosts productivity by reducing multitasking, context switching, and bottlenecks, helping teams focus, finish tasks, and deliver faster results.
+tldr: Limiting work in progress leads to higher productivity because multitasking and context switching reduce efficiency and slow down progress. Keeping tasks small and focusing on finishing before starting new work helps teams deliver more in less time. Development managers should encourage teams to reduce simultaneous tasks and prioritize completing work to improve outcomes.
 date: 2023-05-09T07:00:19Z
+lastmod: 2023-05-09T07:00:19Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: yEu8Fw4JQWM
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: in-wip-less-is-more-why
 aliases:
-- /resources/yEu8Fw4JQWM
-- /resources/videos/in-wip-less-is-more-why
-- /resources/videos/in-wip-less-is-more.-why
+  - /resources/yEu8Fw4JQWM
+  - /resources/videos/in-wip-less-is-more-why
+  - /resources/videos/in-wip-less-is-more.-why
 aliasesArchive:
-- /resources/videos/in-wip-less-is-more-why
-- /resources/in-wip-less-is-more-why
-- /resources/videos/in-wip,-less-is-more,-why-
-- /resources/in-wip,-less-is-more,-why-
-- in-wip-less-is-more-why
-- /resources/videos/in-wip-less-is-more.-why
+  - /resources/videos/in-wip-less-is-more-why
+  - /resources/in-wip-less-is-more-why
+  - /resources/videos/in-wip,-less-is-more,-why-
+  - /resources/in-wip,-less-is-more,-why-
+  - in-wip-less-is-more-why
+  - /resources/videos/in-wip-less-is-more.-why
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Operational Practices
-- Flow Efficiency
-- Throughput
-- Pragmatic Thinking
+  - Pragmatic Thinking
+  - Operational Practices
+  - Flow Efficiency
+  - Throughput
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:12:37Z
   short_title: 2025-07-07T17:55:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:23Z
 videoId: yEu8Fw4JQWM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

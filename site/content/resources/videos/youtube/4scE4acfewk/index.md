@@ -2,8 +2,14 @@
 title: 'The Power of Humility in Agile: A Core Virtue for Success'
 short_title: Humility in Agile Teams for Success
 description: Explores how humility strengthens Agile teams by fostering trust, collaboration, openness to feedback, and better decision-making through reduced bias and data-driven insights.
+tldr: Humility is crucial for Agile teams because it enables better collaboration, trust, and openness to feedback, leading to stronger products and happier teams. Recognizing that not all ideas are right, listening to others, and being willing to change course based on data and feedback are key to success. Development managers should foster a culture where team members check their egos, seek diverse perspectives, and use data thoughtfully to continuously improve.
 date: 2023-12-12T07:00:02Z
+lastmod: 2023-12-12T07:00:02Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 4scE4acfewk
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-power-of-humility-in-agile-a-core-virtue-for-success
 aliases:
-- /resources/4scE4acfewk
-- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
+  - /resources/4scE4acfewk
+  - /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
+  - /resources/videos/7-virtues-of-agile-humility
 aliasesArchive:
-- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
-- /resources/7-virtues-of-agile-humility
-- the-power-of-humility-in-agile-a-core-virtue-for-success
+  - /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
+  - /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
+  - /resources/videos/7-virtues-of-agile-humility
+  - /resources/7-virtues-of-agile-humility
+  - the-power-of-humility-in-agile-a-core-virtue-for-success
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Motivation
-- Agile Philosophy
-- Agile Values and Principles
-- Team Performance
-- Agile Product Management
-- Social Technologies
+  - Team Motivation
+  - Agile Philosophy
+  - Agile Values and Principles
+  - Team Performance
+  - Agile Product Management
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:07:04Z
   short_title: 2025-07-07T17:50:50Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:24Z
 videoId: 4scE4acfewk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg
 duration: 212
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

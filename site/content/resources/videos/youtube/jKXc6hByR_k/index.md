@@ -2,8 +2,14 @@
 title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 short_title: Maximising ROI in Software Development
 description: Learn how quality, technical expertise, and regular reviews in software development can maximise ROI and ensure your organisation delivers lasting business value.
+tldr: Maximising ROI in software development requires treating code as a valuable asset, investing in quality, and ensuring regular reviews to maintain standards. Bridging the gap between business and technical expertise is essential, so equip your leadership with the right knowledge and consider external coaching if needed. Prioritise quality, technical skill, and hypothesis-driven practices to ensure your teams deliver the most value for your investment.
 date: 2024-12-13T06:30:00Z
-weight: 325
+lastmod: 2024-12-13T06:30:00Z
+weight: 275
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: jKXc6hByR_k
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 aliases:
-- /resources/jKXc6hByR_k
-- /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
-- /resources/videos/your-partner-in-on-time-on-budget-delivery
+  - /resources/jKXc6hByR_k
+  - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+  - /resources/videos/your-partner-in-on-time-on-budget-delivery
 aliasesArchive:
-- /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
-- /resources/videos/your-partner-in-on-time,-on-budget-delivery
-- /resources/your-partner-in-on-time,-on-budget-delivery
-- /resources/videos/your-partner-in-on-time-on-budget-delivery
-- maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+  - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+  - /resources/videos/your-partner-in-on-time,-on-budget-delivery
+  - /resources/your-partner-in-on-time,-on-budget-delivery
+  - /resources/videos/your-partner-in-on-time-on-budget-delivery
+  - maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
+  - Engineering Excellence
 tags: []
 Watermarks:
   description: 2025-05-07T12:56:43Z
   short_title: 2025-07-07T17:47:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:56Z
 videoId: jKXc6hByR_k
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

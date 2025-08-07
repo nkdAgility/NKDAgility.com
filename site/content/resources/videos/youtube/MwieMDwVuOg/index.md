@@ -2,8 +2,14 @@
 title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
 short_title: Scaling Smart for Sustainable Growth
 description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices—avoiding chaos as you scale.
+tldr: Scaling should focus on building sustainable value, not just growing quickly, and simply adopting frameworks without addressing underlying issues will only make problems worse. Effective scaling requires understanding constraints, simplifying processes, and ensuring teams are aligned to deliver value. Before scaling, assess whether your approach will truly improve outcomes and use agile methods to enable smarter, not just faster, growth.
 date: 2025-02-19T07:25:02Z
-weight: 750
+lastmod: 2025-02-19T07:25:02Z
+weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: MwieMDwVuOg
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,42 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 aliases:
-- /resources/MwieMDwVuOg
-- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+  - /resources/MwieMDwVuOg
+  - /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+  - /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
 aliasesArchive:
-- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-- scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+  - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+  - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+  - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+  - /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+  - /resources/the-key-to-scaling-successfully-agile-as-an-enabler
+  - /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+  - scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 source: youtube
 layout: video
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Scaling
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Enterprise Agility
-- Organisational Agility
-- Pragmatic Thinking
+  - Scaling
+  - Enterprise Agility
+  - Agile Philosophy
+  - Agile Strategy
+  - Agile Transformation
+  - Business Agility
+  - Organisational Agility
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:35Z
   short_title: 2025-07-07T17:46:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:36:27Z
 videoId: MwieMDwVuOg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
 duration: 114
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

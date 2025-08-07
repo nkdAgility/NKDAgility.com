@@ -2,8 +2,14 @@
 title: 3 core practices of Kanban. Improving a workflow.
 short_title: Kanban Workflow Improvement Practices
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
+tldr: Continuous improvement is a key Kanban practice that focuses on identifying and removing workflow blockages and reducing waiting times to maximize value delivery. Making inefficiencies and their costs visible, as shown in a real-life example, can prompt immediate behavioral changes and significant efficiency gains. Development managers should regularly review processes, use visual aids to highlight delays, and engage stakeholders to drive ongoing workflow improvements.
 date: 2024-02-28T07:00:19Z
+lastmod: 2024-02-28T07:00:19Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: qWHCBUwpOZk
 ResourceImport: true
 ResourceType: videos
@@ -11,44 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 3-core-practices-of-kanban-improving-a-workflow
 aliases:
-- /resources/qWHCBUwpOZk
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
+  - /resources/qWHCBUwpOZk
+  - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+  - /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 aliasesArchive:
-- /resources/videos/-core-practices-of-kanban-improving-a-workflow-
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
-- /resources/3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-- 3-core-practices-of-kanban-improving-a-workflow-
-- 3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
+  - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
+  - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
+  - /resources/3-core-practices-of-kanban-improving-a-workflow
+  - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+  - 3-core-practices-of-kanban-improving-a-workflow-
+  - 3-core-practices-of-kanban-improving-a-workflow
+  - /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 source: internal
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Software Development
-- Flow Efficiency
-- Operational Practices
-- Continuous Improvement
-- Agile Frameworks
-- Lean Thinking
-- Pragmatic Thinking
+  - Lean Principles
+  - Software Development
+  - Flow Efficiency
+  - Operational Practices
+  - Continuous Improvement
+  - Agile Frameworks
+  - Lean Thinking
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:33Z
   short_title: 2025-07-07T17:49:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:22Z
 videoId: qWHCBUwpOZk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
 duration: 307
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

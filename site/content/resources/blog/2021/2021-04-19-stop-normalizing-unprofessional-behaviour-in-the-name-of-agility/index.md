@@ -2,32 +2,39 @@
 title: Stop normalizing unprofessional behaviour in the name of agility
 short_title: Stop Normalizing Unprofessional Agile Behavior
 description: Highlights the importance of professionalism in agile teams, warning against excusing unprofessional behaviour as agility and stressing ethical, competent practices for true agility.
+tldr: Unprofessional behavior should not be excused as part of agile practices, as true agility requires professionalism, discipline, and competence. Failing to deliver usable increments, lacking team understanding of goals, and rigid processes undermine agility and can lead to serious consequences. Development managers should actively address and correct unprofessional behaviors to ensure ethical, effective, and sustainable agile delivery.
 date: 2021-04-19
-weight: 355
+lastmod: 2021-04-19
+weight: 320
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: mqbD3iIhRg4
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliases:
-- /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-- /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-- /resources/mqbD3iIhRg4
-- /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /resources/mqbD3iIhRg4
+  - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliasesArchive:
-- /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-- /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-- /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:14:57Z
   short_title: 2025-07-07T17:57:31Z
+  tldr: 2025-08-07T13:10:12Z
 ResourceImportId: 46108
 AudioNative: true
 creator: Martin Hinshelwood

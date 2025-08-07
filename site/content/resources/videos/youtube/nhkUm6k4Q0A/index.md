@@ -2,8 +2,14 @@
 title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 short_title: Effective Agile Coaching with Framework Agnosticism
 description: Learn how Agile coaches can empower teams by staying framework-agnostic, focusing on core principles, and enabling teams to choose and adapt practices for their needs.
+tldr: Effective Agile coaching means being flexible and not pushing one framework; instead, help teams understand core Agile, Lean, and Scrum principles so they can choose what works best for their context. Encourage experimentation, educate teams on different approaches, and support their decision-making process. Focus on enabling teams to own their process and continuously improve rather than prescribing solutions.
 date: 2023-11-14T11:00:50Z
+lastmod: 2023-11-14T11:00:50Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: nhkUm6k4Q0A
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
 aliases:
-- /resources/nhkUm6k4Q0A
-- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+  - /resources/nhkUm6k4Q0A
+  - /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 aliasesArchive:
-- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-- how-to-be-an-effective-agile-coach-agnosticism-in-practice
+  - /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+  - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+  - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+  - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+  - how-to-be-an-effective-agile-coach-agnosticism-in-practice
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Technical Leadership
-- Product Development
+  - Technical Leadership
+  - Product Development
 tags:
-- Agile Values and Principles
-- Agile Transformation
-- Software Development
-- Agile Philosophy
-- Agnostic Agile
-- Agile Frameworks
+  - Agile Values and Principles
+  - Agile Transformation
+  - Software Development
+  - Agile Philosophy
+  - Agnostic Agile
+  - Agile Frameworks
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:07:52Z
   short_title: 2025-07-07T17:51:46Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:02Z
 videoId: nhkUm6k4Q0A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
 duration: 61
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: How would you help organizations pitch the opportunity of agile internally?
 short_title: Pitching Agile Adoption Internally
 description: Learn how to build a compelling business case for agile adoption by aligning benefits with key metrics, stakeholder goals, and inclusive change management strategies.
+tldr: To successfully pitch agile internally, tailor your message to leadership by focusing on business outcomes they care about, such as reduced costs, faster time to market, and improved customer satisfaction, using clear metrics and financial examples. When engaging teams, use a consultative approach that involves them in problem-solving and framework selection to build buy-in and reduce resistance. The key action is to align agile benefits with stakeholder priorities and measure progress with relevant data to make a compelling, evidence-based case.
 date: 2023-02-08T07:15:00Z
+lastmod: 2023-02-08T07:15:00Z
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 3AVlBmOATHA
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 aliases:
-- /resources/3AVlBmOATHA
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+  - /resources/3AVlBmOATHA
+  - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 aliasesArchive:
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+  - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+  - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+  - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+  - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+  - how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 source: internal
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agile Transformation
-- Pragmatic Thinking
-- Software Development
-- Agile Strategy
-- Value Delivery
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Social Technologies
+  - Software Development
+  - Agile Strategy
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:14:11Z
   short_title: 2025-07-07T17:56:51Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:30Z
 videoId: 3AVlBmOATHA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

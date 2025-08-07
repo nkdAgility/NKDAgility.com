@@ -2,8 +2,14 @@
 title: Is Your Engineering Culture Ready to Scale with Your Technology?
 short_title: Scaling Engineering Culture for Growth
 description: Explores why scaling technology alone isn’t enough, highlighting the need for engineering cultures that support collaboration, DevOps, and continuous learning as teams grow.
+tldr: Scaling technology is easy compared to scaling engineering culture, which is often overlooked but critical for sustainable growth. If your culture does not evolve, issues like poor collaboration, superficial DevOps practices, and lack of continuous learning can undermine progress, and more tools alone will not fix this. Development managers should focus on fostering genuine collaboration, integrating DevOps as a mindset, and making continuous learning part of daily work to ensure culture keeps pace with technology.
 date: 2025-02-20T07:33:26Z
+lastmod: 2025-02-20T07:33:26Z
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: yu9CmrDiBPc
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-your-engineering-culture-ready-to-scale-with-your-technology
 aliases:
-- /resources/yu9CmrDiBPc
-- /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
-- /resources/videos/tech-can-scale-but-can-your-culture
+  - /resources/yu9CmrDiBPc
+  - /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
+  - /resources/videos/tech-can-scale-but-can-your-culture
 aliasesArchive:
-- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
-- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
-- /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
-- /resources/videos/tech-can-scale-but-can-your-culture
-- is-your-engineering-culture-ready-to-scale-with-your-technology
+  - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+  - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
+  - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+  - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+  - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+  - /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
+  - /resources/videos/tech-can-scale-but-can-your-culture
+  - is-your-engineering-culture-ready-to-scale-with-your-technology
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- DevOps
+  - DevOps
 tags:
-- Social Technologies
-- Organisational Culture
-- Sociotechnical Systems
+  - Enterprise Agility
+  - Social Technologies
+  - Team Motivation
+  - Organisational Culture
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T12:49:33Z
   short_title: 2025-07-07T17:46:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:36:12Z
 videoId: yu9CmrDiBPc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yu9CmrDiBPc/maxresdefault.jpg
 duration: 97
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

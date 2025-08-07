@@ -2,8 +2,14 @@
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
 short_title: Agile Leadership Skills for Managers
 description: Explores how agile leadership and evidence-based management training help managers develop servant leadership skills, delegate effectively, and make data-driven decisions.
+tldr: Managers often struggle to transition into effective leadership roles without proper training, especially in agile environments where servant leadership and data-driven decision making are key. Investing in Professional Agile Leadership and Evidence-Based Management training helps managers empower teams, align work with organizational goals, and make informed decisions. Consider prioritizing these training programs to boost both team performance and organizational success.
 date: 2023-11-29T07:00:23Z
+lastmod: 2023-11-29T07:00:23Z
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: W3cyrYFXDfg
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: agile-leadership-empowering-managers-with-the-right-skills
 aliases:
-- /resources/W3cyrYFXDfg
-- /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
+  - /resources/W3cyrYFXDfg
+  - /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
 aliasesArchive:
-- /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
-- /resources/agile-leadership-empowering-managers-with-the-right-skills
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
-- agile-leadership-empowering-managers-with-the-right-skills
+  - /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
+  - /resources/agile-leadership-empowering-managers-with-the-right-skills
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+  - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+  - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
+  - agile-leadership-empowering-managers-with-the-right-skills
 source: internal
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
-- Product Development
+  - Leadership
+  - Technical Leadership
+  - Product Development
 tags:
-- Agile Leadership
-- Agile Transformation
-- Agile Strategy
-- Decision Making
-- Competence
-- Organisational Change
-- Pragmatic Thinking
+  - Social Technologies
+  - Agile Leadership
+  - Agile Transformation
+  - Agile Strategy
+  - Decision Making
+  - Competence
+  - Organisational Change
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:07:25Z
   short_title: 2025-07-07T17:51:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:56:01Z
 videoId: W3cyrYFXDfg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg
 duration: 205
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

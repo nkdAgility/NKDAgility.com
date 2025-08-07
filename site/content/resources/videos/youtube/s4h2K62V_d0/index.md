@@ -2,8 +2,14 @@
 title: Shifting Left. Quality from the Start
 short_title: 'Shifting Left: Early Code Quality Assurance'
 description: Explores code review practices for quality assurance, highlighting automation, pull requests, and early defect detection to ensure high-quality, reliable software delivery.
+tldr: Automating code reviews and quality checks as early as possible in the development process reduces defects and speeds up delivery by minimizing manual bottlenecks. Manual code reviews should be a safety net, not the primary method for ensuring quality, and no code should reach the main branch without passing automated checks. Development managers should invest in robust automation for code validation to improve quality and accelerate value delivery.
 date: 2024-11-20T07:00:26Z
-weight: 380
+lastmod: 2024-11-20T07:00:26Z
+weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: s4h2K62V_d0
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: shifting-left-quality-from-the-start
 aliases:
-- /resources/s4h2K62V_d0
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/videos/shifting-left.-quality-from-the-start
+  - /resources/s4h2K62V_d0
+  - /resources/videos/shifting-left-quality-from-the-start
+  - /resources/videos/shifting-left.-quality-from-the-start
 aliasesArchive:
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/shifting-left-quality-from-the-start
-- /resources/videos/shifting-left.-quality-from-the-start
-- shifting-left-quality-from-the-start
+  - /resources/videos/shifting-left-quality-from-the-start
+  - /resources/shifting-left-quality-from-the-start
+  - /resources/videos/shifting-left.-quality-from-the-start
+  - shifting-left-quality-from-the-start
 source: internal
 layout: video
 concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Software Development
-- Technical Excellence
-- Working Software
-- Engineering Practices
-- Product Delivery
+  - Software Development
+  - Technical Excellence
+  - Working Software
+  - Engineering Practices
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:57:15Z
   short_title: 2025-07-07T17:47:35Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:04Z
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

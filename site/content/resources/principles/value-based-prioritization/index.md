@@ -2,26 +2,31 @@
 title: Value-based Prioritization
 short_title: Value-based Prioritization
 description: Explains how to prioritise product backlogs by stakeholder value, guiding Scrum teams to focus on high-impact tasks and balance value creation with revenue goals.
+tldr: Prioritize work based on the value it brings to stakeholders, not just potential revenue. Organize the product backlog so the team always tackles the most valuable items first. This approach ensures resources are focused on delivering meaningful outcomes for users and stakeholders.
 date: 2024-09-17
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: HzW0lKldLP9
 ResourceImport: false
 ResourceType: principles
 ResourceContentOrigin: Human
 slug: value-based-prioritization
 aliases:
-- /learn/agile-delivery-kit/first-principals/value-based-prioritization/
-- /resources/HzW0lKldLP9
+  - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+  - /resources/HzW0lKldLP9
 aliasesArchive:
-- /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+  - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 layout: principles
 concepts: []
 categories:
-- Product Management
-- Scrum
+  - Product Management
+  - Scrum
 tags:
-- Product Backlog
-- Value Delivery
+  - Product Backlog
+  - Value Delivery
 card:
   button:
     content: Learn More
@@ -30,6 +35,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:53Z
   short_title: 2025-07-07T17:48:08Z
+  tldr: 2025-08-07T12:48:48Z
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

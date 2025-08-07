@@ -2,8 +2,14 @@
 title: What is DevOps and how is it different to Agile?
 short_title: What is DevOps and how is it different to Agile?
 description: Explains how DevOps and Agile share core principles, focusing on delivering value through rapid feedback, systems thinking, and continuous improvement in software delivery.
+tldr: DevOps and Agile are fundamentally the same, both aiming to deliver value to customers and organizations by focusing on rapid feedback, continuous improvement, and systems thinking. The main difference is perspective, with each emphasizing different aspects of the delivery process, but both require the right tools and practices to optimize the whole system. Development managers should ensure Agile and DevOps work together to maximize value and improve outcomes across the organization.
 date: 2023-02-23T07:00:00Z
+lastmod: 2023-02-23T07:00:00Z
 weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: 00V7BJJtMT0
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-devops-and-how-is-it-different-to-agile
 aliases:
-- /resources/00V7BJJtMT0
-- /resources/videos/what-is-devops-and-how-is-it-different-to-agile
+  - /resources/00V7BJJtMT0
+  - /resources/videos/what-is-devops-and-how-is-it-different-to-agile
 aliasesArchive:
-- /resources/videos/what-is-devops-and-how-is-it-different-to-agile
-- /resources/what-is-devops-and-how-is-it-different-to-agile
-- /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
-- /resources/what-is-devops-and-how-is-it-different-to-agile-
-- what-is-devops-and-how-is-it-different-to-agile
+  - /resources/videos/what-is-devops-and-how-is-it-different-to-agile
+  - /resources/what-is-devops-and-how-is-it-different-to-agile
+  - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
+  - /resources/what-is-devops-and-how-is-it-different-to-agile-
+  - what-is-devops-and-how-is-it-different-to-agile
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Value Delivery
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:13:58Z
   short_title: 2025-07-07T17:56:40Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:08:06Z
 videoId: 00V7BJJtMT0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
 duration: 181
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
 short_title: Barriers to Accepting Product Owner Authority
 description: Explores key barriers preventing developers from accepting Product Owners’ authority, including accountability gaps, stakeholder interference, and trust issues.
+tldr: Developers may not fully accept the Product Owner as the final decision maker when stakeholders undermine the Product Owner’s authority, send mixed messages, or fail to consistently support their decisions. This leads to confusion, lack of trust, and developers second-guessing decisions. To address this, ensure stakeholders back the Product Owner publicly, document agreements, and foster open communication to build trust and accountability.
 date: 2023-10-03T07:00:08Z
+lastmod: 2023-10-03T07:00:08Z
 weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: A0Y-zySHXyc
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 aliases:
-- /resources/A0Y-zySHXyc
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+  - /resources/A0Y-zySHXyc
+  - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+  - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 aliasesArchive:
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
-- what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+  - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+  - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+  - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+  - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+  - what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 source: internal
 layout: video
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Product Management
-tags: []
+  - Scrum
+  - Product Management
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:09:03Z
   short_title: 2025-07-07T17:52:37Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:03Z
 videoId: A0Y-zySHXyc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,54 +2,61 @@
 title: Getting started with a Definition of Done (DoD)
 short_title: Getting Started with Definition of Done (DoD)
 description: Explains how to create, apply, and improve a Definition of Done (DoD) in Scrum to ensure software quality, transparency, and consistent delivery of working increments.
+tldr: A clear Definition of Done (DoD) is essential for ensuring software quality and predictable delivery, as it sets shared criteria for what "done" means for every increment. Involve the whole Scrum Team and relevant experts to create a short, measurable checklist that covers code quality, testing, security, and usability, and review it regularly to keep raising the quality bar. Before starting sprints, make sure your current increment meets the DoD, and continuously improve both your software and your DoD to maintain a working, shippable product.
 date: 2020-12-14
+lastmod: 2020-12-14
 weight: 315
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: z18IcQhlD7I
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: getting-started-with-a-definition-of-done-dod
 aliases:
-- /blog/getting-started-definition-done-dod
-- /getting-started-definition-done-dod
-- /getting-started-with-a-definition-of-done-(dod)
-- /blog/getting-started-with-a-definition-of-done-(dod)
-- /resources/z18IcQhlD7I
-- /resources/blog/getting-started-definition-done-dod
-- /resources/blog/getting-started-with-a-definition-of-done-dod
+  - /blog/getting-started-definition-done-dod
+  - /getting-started-definition-done-dod
+  - /getting-started-with-a-definition-of-done-(dod)
+  - /blog/getting-started-with-a-definition-of-done-(dod)
+  - /resources/z18IcQhlD7I
+  - /resources/blog/getting-started-definition-done-dod
+  - /resources/blog/getting-started-with-a-definition-of-done-dod
 aliasesArchive:
-- /blog/getting-started-definition-done-dod
-- /getting-started-definition-done-dod
-- /getting-started-with-a-definition-of-done-(dod)
-- /blog/getting-started-with-a-definition-of-done-(dod)
-- /resources/blog/getting-started-definition-done-dod
-- /resources/blog/getting-started-with-a-definition-of-done-dod
+  - /blog/getting-started-definition-done-dod
+  - /getting-started-definition-done-dod
+  - /getting-started-with-a-definition-of-done-(dod)
+  - /blog/getting-started-with-a-definition-of-done-(dod)
+  - /resources/blog/getting-started-definition-done-dod
+  - /resources/blog/getting-started-with-a-definition-of-done-dod
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Engineering Excellence
-- Product Development
+  - Scrum
+  - Engineering Excellence
+  - Product Development
 tags:
-- Definition of Done
-- Increment
-- Working Software
-- Software Development
-- Professional Scrum
-- Agile Frameworks
-- Agile Product Management
-- Scrum Team
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Engineering Practices
-- Team Performance
-- Agile Planning
-- Transparency
+  - Definition of Done
+  - Increment
+  - Working Software
+  - Software Development
+  - Technical Mastery
+  - Professional Scrum
+  - Agile Frameworks
+  - Agile Product Management
+  - Scrum Team
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Engineering Practices
+  - Team Performance
+  - Agile Planning
 Watermarks:
   description: 2025-05-07T13:15:15Z
   short_title: 2025-07-07T17:57:43Z
+  tldr: 2025-08-07T13:10:47Z
 ResourceImportId: 38238
 AudioNative: true
 creator: Martin Hinshelwood

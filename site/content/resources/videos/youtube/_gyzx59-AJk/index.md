@@ -2,8 +2,14 @@
 title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 short_title: 'Azure DevOps: From 2-Year Releases to 880K Deploys'
 description: Explores how Azure DevOps shifted from slow, two-year releases to rapid, continuous delivery, highlighting the benefits of fast feedback, agility, and frequent deployments.
+tldr: Azure DevOps transformed from two-year release cycles to 880,000 deployments per year by adopting continuous delivery, shortening feedback loops, and using real-time data to guide decisions. This shift enabled rapid response to customer needs and market changes, helping them stay ahead of competitors. Development managers should focus on frequent, small releases and data-driven improvements to maximise value and agility.
 date: 2025-02-06T10:20:34Z
+lastmod: 2025-02-06T10:20:34Z
 weight: 230
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: monthly
 ResourceId: _gyzx59-AJk
 ResourceImport: true
 ResourceType: videos
@@ -11,54 +17,52 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments
 aliases:
-- /resources/_gyzx59-AJk
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - /resources/_gyzx59-AJk
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+  - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 aliasesArchive:
-- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+  - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
+  - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+  - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- DevOps
-- Engineering Excellence
+  - Product Development
+  - DevOps
+  - Engineering Excellence
 tags:
-- Market Adaptability
-- Business Agility
-- Continuous Improvement
-- Digital Transformation
-- Metrics and Learning
-- Operational Practices
-- Organisational Agility
-- Continuous Delivery
-- Frequent Releases
-- Working Software
-- Pragmatic Thinking
-- Deployment Frequency
-- Product Delivery
-- Value Delivery
-- Enterprise Agility
+  - Market Adaptability
+  - Business Agility
+  - Continuous Improvement
+  - Digital Transformation
+  - Metrics and Learning
+  - Operational Practices
+  - Organisational Agility
+  - Continuous Delivery
+  - Frequent Releases
+  - Working Software
+  - Pragmatic Thinking
+  - Deployment Frequency
+  - Product Delivery
+  - Value Delivery
+  - Enterprise Agility
 Watermarks:
   description: 2025-05-07T12:49:49Z
   short_title: 2025-07-07T17:46:47Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:10Z
 videoId: _gyzx59-AJk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
 duration: 358
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Navigating the Balance: How Lean Governance Can Boost Agility and Innovation in Your Organisation'
 short_title: Lean Governance for Agility and Innovation
 description: Explores how lean governance reduces unnecessary processes, enabling organisations to stay agile, meet compliance, and foster innovation without excess bureaucracy.
+tldr: Excessive or siloed governance can slow down your organisation and stifle innovation, often leading to unnecessary processes that do not add value. Focusing on lean governance by regularly reviewing policies, integrating compliance into your tools, and eliminating waste helps maintain agility and efficiency. Review your current governance practices and remove or streamline anything that does not directly support compliance or business value.
 date: 2025-02-09T22:00:37Z
+lastmod: 2025-02-09T22:00:37Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: yvIanYh3bcQ
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 aliases:
-- /resources/yvIanYh3bcQ
-- /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
-- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+  - /resources/yvIanYh3bcQ
+  - /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+  - /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 aliasesArchive:
-- /resources/videos/best-scrum-advice-you-ever-received
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
-- /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
-- /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
-- navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+  - /resources/videos/best-scrum-advice-you-ever-received
+  - /resources/best-scrum-advice-you-ever-received-2
+  - /resources/best-scrum-advice-you-ever-received
+  - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+  - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+  - /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+  - /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+  - /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+  - navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Business Agility
-- Lean Principles
-- Lean Thinking
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
+  - Organisational Agility
+  - Business Agility
+  - Lean Principles
+  - Lean Thinking
+  - Operational Practices
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:42Z
   short_title: 2025-07-07T17:46:38Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:39:50Z
 videoId: yvIanYh3bcQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yvIanYh3bcQ/maxresdefault.jpg
 duration: 497
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

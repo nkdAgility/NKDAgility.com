@@ -2,8 +2,14 @@
 title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 short_title: Top 3 Considerations for Scrum Master Coaching
 description: 'Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority.'
+tldr: A Scrum Master adopting a coaching stance should focus on guiding teams toward self-organisation, building trust and influence through expertise and empathy, and adapting their approach to the team’s unique context and culture. Key outcomes include stronger collaboration, empowered decision-making, and higher team satisfaction. To be effective, Scrum Masters should actively listen, foster a positive environment, and continuously develop their own skills.
 date: 2023-09-18T07:00:32Z
+lastmod: 2023-09-18T07:00:32Z
 weight: 565
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: v1sMbKpQndU
 ResourceImport: true
 ResourceType: videos
@@ -11,49 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 aliases:
-- /resources/v1sMbKpQndU
-- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/v1sMbKpQndU
+  - /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 aliasesArchive:
-- /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+  - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+  - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+  - what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Technical Leadership
-- Product Development
-- Scrum
+  - Technical Leadership
+  - Product Development
+  - Scrum
 tags:
-- Agile Philosophy
-- Agile Transformation
-- Scrum Master
-- Pragmatic Thinking
-- Team Performance
-- Continuous Learning
-- Agile Values and Principles
-- Organisational Agility
-- Social Technologies
-- Team Motivation
+  - Team Collaboration
+  - Team Motivation
+  - Agile Philosophy
+  - Scrum Master
+  - Pragmatic Thinking
+  - Team Performance
+  - Organisational Agility
+  - Continuous Learning
+  - Agile Values and Principles
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:09:29Z
   short_title: 2025-07-07T17:53:03Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:59:57Z
 videoId: v1sMbKpQndU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

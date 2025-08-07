@@ -2,45 +2,52 @@
 title: let-us be blunt—if a Scrum Team isn’t delivering, is it effective
 short_title: Scrum Team Effectiveness and Delivery
 description: Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.
+tldr: A Scrum Team is only effective if it consistently delivers usable product increments; without delivery, Scrum practices are just empty rituals. The Scrum Master is accountable for enabling the team to deliver by fixing any issues that block progress. If your team is not delivering, focus on identifying and removing obstacles to restore effectiveness.
 date: 2025-03-07T16:30:00+00:00
+lastmod: 2025-03-07T16:30:00+00:00
 weight: 385
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: CB56pgg1LmZ
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective
 aliases:
-- /resources/CB56pgg1LmZ
+  - /resources/CB56pgg1LmZ
 source: LinkedIn
 layout: signal
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Product Development
-- Leadership
+  - Scrum
+  - Product Development
+  - Leadership
 tags:
-- Software Development
-- Team Performance
-- Increment
-- Scrum Master
-- Product Delivery
-- Working Software
-- Value Delivery
+  - Software Development
+  - Team Performance
+  - Increment
+  - Scrum Master
+  - Product Delivery
+  - Working Software
+  - Value Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7303814187179266049
-  post_id: "7303814187179266049"
-  post_date: 2025-03-07T16:30:00Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7303814187179266049
+    post_id: "7303814187179266049"
+    post_date: 2025-03-07T16:30:00Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:23Z
   short_title: 2025-07-07T16:45:34Z
+  tldr: 2025-08-07T12:35:09Z
 
 ---
 Let’s be blunt—if a Scrum Team isn’t delivering, is it effective?

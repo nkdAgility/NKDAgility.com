@@ -2,8 +2,14 @@
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 short_title: Burndown Charts Limit Agile Adaptability
 description: Explores why burndown charts can limit Agile teams, highlighting the drawbacks of fixed planning and advocating for adaptability, empirical work, and value flow.
+tldr: Burndown charts often hinder Agile teams by promoting rigid, upfront planning and fixed scopes, which do not reflect how real Agile work unfolds. Teams are more effective when they focus on delivering a steady flow of value, adapt plans as they learn, and make decisions based on actual progress rather than predictions. Consider moving away from burndown charts and instead prioritize flexibility, just-in-time planning, and empirical management to improve your team's outcomes.
 date: 2024-01-01T07:00:20Z
+lastmod: 2024-01-01T07:00:20Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ymKlRonlUX0
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 aliases:
-- /resources/ymKlRonlUX0
-- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
+  - /resources/ymKlRonlUX0
+  - /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+  - /resources/videos/5-ghosts-of-agile-past-burndown-charts
 aliasesArchive:
-- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
-- /resources/5-ghosts-of-agile-past-burndown-charts
-- the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+  - /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+  - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+  - /resources/videos/5-ghosts-of-agile-past-burndown-charts
+  - /resources/5-ghosts-of-agile-past-burndown-charts
+  - the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 source: internal
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Empirical Process Control
-- Agile Philosophy
-- Agile Planning
-- Agile Values and Principles
-- Pragmatic Thinking
+  - Agile Values and Principles
+  - Empirical Process Control
+  - Social Technologies
+  - Software Development
+  - Agile Philosophy
+  - Agile Planning
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:44Z
   short_title: 2025-07-07T17:50:33Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:49Z
 videoId: ymKlRonlUX0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

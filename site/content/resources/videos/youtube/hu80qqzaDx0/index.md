@@ -2,8 +2,14 @@
 title: 'Unlocking Team Potential: How Measurement Influences Engagement and Collaboration'
 short_title: How Measurement Shapes Team Engagement
 description: Explores how performance metrics shape team engagement and collaboration, highlighting the impact of measurement on behaviour, motivation, and organisational culture.
+tldr: How you measure people shapes their behaviour, so focusing on individual output can reduce collaboration and engagement. Aligning metrics with team goals, encouraging open discussion about measures, and rewarding collective outcomes can boost teamwork and morale. Review your current metrics to ensure they promote the behaviours you want to see in your teams.
 date: 2024-09-11T13:45:58Z
+lastmod: 2024-09-11T13:45:58Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: hu80qqzaDx0
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 aliases:
-- /resources/hu80qqzaDx0
-- /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
-- /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
-- /resources/videos/introduction-to-evidence-based-management-excerpt-1
+  - /resources/hu80qqzaDx0
+  - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
+  - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
+  - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 aliasesArchive:
-- /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
-- /resources/videos/introduction-to-evidence-based-management-excerpt-1
-- /resources/introduction-to-evidence-based-management-excerpt-1
-- unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
+  - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
+  - /resources/videos/introduction-to-evidence-based-management-excerpt-1
+  - /resources/introduction-to-evidence-based-management-excerpt-1
+  - unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Team Motivation
-- Team Performance
+  - Team Motivation
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:58:32Z
   short_title: 2025-07-07T17:48:15Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:03Z
 videoId: hu80qqzaDx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,51 +2,58 @@
 title: Testing in Production Maximises Quality and Value
 short_title: Testing in Production for Quality and Value
 description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
+tldr: Testing in production using audience-based deployment enables faster feedback, safer incremental releases, and better alignment with real user needs compared to traditional Dev-Test-Staging pipelines. Microsoft’s shift to this model, driven by feature flags, progressive rollouts, and real-time monitoring, has improved quality and innovation while reducing risk and overhead. Development managers should consider moving away from environment-based branching and invest in automation, observability, and team upskilling to maximise value and responsiveness.
 date: 2025-02-13T09:00:00
+lastmod: 2025-02-13T09:00:00
 weight: 145
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
-- name: Dave Westgarth
-  external: https://www.linkedin.com/in/dave-westgarth/
-- name: Vladimir Khvostov
-  external: https://www.linkedin.com/in/vladimirkhvostov/
+  - name: Benjamin Day
+    external: https://www.linkedin.com/in/benjaminpday/
+  - name: Dave Westgarth
+    external: https://www.linkedin.com/in/dave-westgarth/
+  - name: Vladimir Khvostov
+    external: https://www.linkedin.com/in/vladimirkhvostov/
 ResourceId: _ncZFfeCrnS
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: testing-in-production-maximises-quality-and-value
 aliases:
-- /resources/_ncZFfeCrnS
+  - /resources/_ncZFfeCrnS
 aliasesArchive:
-- /testing-in-production-maximises-quality-and-value
-- /blog/testing-in-production-maximises-quality-and-value
+  - /testing-in-production-maximises-quality-and-value
+  - /blog/testing-in-production-maximises-quality-and-value
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Operational Practices
-- Market Adaptability
-- Customer Focus
-- Azure DevOps
-- Technical Mastery
-- Continuous Improvement
-- Continuous Delivery
-- Software Development
-- Deployment Frequency
-- Experimentation
-- Technical Excellence
-- Organisational Agility
-- Value Delivery
-- Deployment Strategies
-- Frequent Releases
+  - Operational Practices
+  - Market Adaptability
+  - Customer Focus
+  - Azure DevOps
+  - Technical Mastery
+  - Continuous Improvement
+  - Continuous Delivery
+  - Release Management
+  - Software Development
+  - Deployment Frequency
+  - Experimentation
+  - Technical Excellence
+  - Organisational Agility
+  - Value Delivery
+  - Deployment Strategies
 Watermarks:
   description: 2025-05-07T12:49:38Z
   short_title: 2025-07-07T17:46:34Z
+  tldr: 2025-08-07T12:39:40Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,8 +2,14 @@
 title: What is your favourite DevOps consulting outcome?
 short_title: 'DevOps Transformation: Unifying 80+ Teams Globally'
 description: A complex software project unified 80+ teams across 9 countries by adopting Azure DevOps, streamlining processes, and achieving a single engineering system.
+tldr: A fragmented, multi-billion-dollar software project with 80 to 90 teams across nine countries was transformed by unifying processes and source control onto Azure DevOps, greatly improving collaboration and efficiency. The key outcomes were simplification, system unification, and a shift toward a 'One Engineering System' approach. Development managers should consider consolidating tools and processes to drive similar improvements in productivity and teamwork.
 date: 2023-04-18T07:00:08Z
+lastmod: 2023-04-18T07:00:08Z
 weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: N58DvsSx4U8
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: what-is-your-favourite-devops-consulting-outcome
 aliases:
-- /resources/N58DvsSx4U8
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome
+  - /resources/N58DvsSx4U8
+  - /resources/videos/what-is-your-favourite-devops-consulting-outcome
 aliasesArchive:
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome
-- /resources/what-is-your-favourite-devops-consulting-outcome
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
-- /resources/what-is-your-favourite-devops-consulting-outcome-
-- what-is-your-favourite-devops-consulting-outcome
+  - /resources/videos/what-is-your-favourite-devops-consulting-outcome
+  - /resources/what-is-your-favourite-devops-consulting-outcome
+  - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
+  - /resources/what-is-your-favourite-devops-consulting-outcome-
+  - what-is-your-favourite-devops-consulting-outcome
 source: internal
 layout: video
 concepts: []
 categories:
-- DevOps
+  - DevOps
 tags:
-- Azure DevOps
-- Pragmatic Thinking
-- One Engineering System
-- Software Development
+  - One Engineering System
+  - Azure DevOps
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:13:12Z
   short_title: 2025-07-07T17:55:53Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:06:31Z
 videoId: N58DvsSx4U8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
 duration: 497
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

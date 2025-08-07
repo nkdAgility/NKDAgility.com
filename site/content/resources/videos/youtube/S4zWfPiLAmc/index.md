@@ -2,8 +2,14 @@
 title: 3 best ways to wreck Kanban. Use vanity metrics.
 short_title: 3 Best Ways to Wreck Kanban with Vanity Metrics
 description: Learn how to avoid common Kanban mistakes by focusing on actionable metrics like WIP, cycle time, and throughput instead of vanity metrics for better workflow efficiency.
+tldr: Relying on vanity metrics like story points and velocity can undermine your Kanban strategy, as they do not provide actionable insights. Instead, focus on key metrics such as work in progress, cycle time, throughput, and work item age to identify bottlenecks, optimize flow, and improve predictability. Use data from your workflow tools to drive continuous improvement and make informed decisions for better team performance.
 date: 2024-02-29T07:00:09Z
+lastmod: 2024-02-29T07:00:09Z
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: S4zWfPiLAmc
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,43 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics
 aliases:
-- /resources/S4zWfPiLAmc
-- /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
+  - /resources/S4zWfPiLAmc
+  - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
-- /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
-- /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
-- /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
-- 3-best-ways-to-wreck-kanban-use-vanity-metrics-
-- /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
-- 3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
+  - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
+  - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
+  - /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
+  - /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
+  - 3-best-ways-to-wreck-kanban-use-vanity-metrics-
+  - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+  - 3-best-ways-to-wreck-kanban-use-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Software Development
-- Throughput
-- Operational Practices
-- Metrics and Learning
+  - Software Development
+  - Operational Practices
+  - Metrics and Learning
+  - Throughput
 Watermarks:
   description: 2025-05-07T13:05:32Z
   short_title: 2025-07-07T17:49:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:18Z
 videoId: S4zWfPiLAmc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg
 duration: 226
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

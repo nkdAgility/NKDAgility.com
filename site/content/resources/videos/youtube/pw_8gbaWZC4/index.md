@@ -2,8 +2,14 @@
 title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Improvement and Transparency'
 short_title: Candan Strategies for Workflow Transparency
 description: Learn how Candan strategies use flow metrics and transparency to reveal workflow issues, drive continuous improvement, and support data-driven decision-making in teams.
+tldr: Adopting a Candan strategy helps teams achieve continuous improvement and greater transparency by using flow metrics to identify workflow issues and inefficiencies. Visualising these metrics enables more informed decisions and motivates action, especially for Scrum teams that lack built-in measurement tools. To maximise benefits, integrate flow metrics into your processes and seek expert support or training if needed.
 date: 2024-03-08T07:00:31Z
+lastmod: 2024-03-08T07:00:31Z
 weight: 355
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: pw_8gbaWZC4
 ResourceImport: true
 ResourceType: videos
@@ -11,39 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 aliases:
-- /resources/pw_8gbaWZC4
-- /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
-- /resources/videos/how-top-teams-use-pull-systems
+  - /resources/pw_8gbaWZC4
+  - /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
+  - /resources/videos/how-top-teams-use-pull-systems
 aliasesArchive:
-- /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
-- /resources/videos/how-top-teams-use-pull-systems!
-- /resources/how-top-teams-use-pull-systems!
-- /resources/videos/how-top-teams-use-pull-systems
-- illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
+  - /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
+  - /resources/videos/how-top-teams-use-pull-systems!
+  - /resources/how-top-teams-use-pull-systems!
+  - /resources/videos/how-top-teams-use-pull-systems
+  - illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Metrics and Learning
-- Continuous Improvement
-- Operational Practices
-- Transparency
-- Pragmatic Thinking
+  - Transparency
+  - Metrics and Learning
+  - Continuous Improvement
+  - Operational Practices
+  - Empirical Process Control
+  - Pragmatic Thinking
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:05:25Z
   short_title: 2025-07-07T17:49:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:06Z
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

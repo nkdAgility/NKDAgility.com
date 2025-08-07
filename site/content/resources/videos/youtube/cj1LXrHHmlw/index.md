@@ -2,8 +2,14 @@
 title: 'Stop Chasing the Hottest Tech Stack: Why Context-Driven Choices Win Every Time'
 short_title: Avoiding the Trap of the Cool Stack
 description: Stop chasing hype. Discover why context-driven tech choices—not the latest stack—lead to real, sustainable value for your team and business.
+tldr: Choosing technology based on trends rather than your team’s needs often leads to wasted effort and complexity. Focus on your business goals, team maturity, and constraints to shape a tech strategy that truly fits. Prioritise what delivers value for your context instead of chasing the latest tools.
 date: 2025-06-06T06:00:27Z
-weight: 290
+lastmod: 2025-06-06T06:00:27Z
+weight: 275
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: cj1LXrHHmlw
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,31 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: stop-chasing-the-hottest-tech-stack-why-context-driven-choices-win-every-time
 aliases:
-- /resources/cj1LXrHHmlw
-- /resources/videos/4-avoiding-the-trap-of-the-cool-stack
+  - /resources/cj1LXrHHmlw
+  - /resources/videos/4-avoiding-the-trap-of-the-cool-stack
 aliasesArchive:
-- /resources/videos/4-avoiding-the-trap-of-the-cool-stack
-- 4-avoiding-the-trap-of-the-cool-stack
+  - /resources/videos/4-avoiding-the-trap-of-the-cool-stack
+  - 4-avoiding-the-trap-of-the-cool-stack
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Technical Leadership
+  - Technical Leadership
 tags:
-- Pragmatic Thinking
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-07-24T15:15:14Z
   short_title: 2025-07-24T15:15:15Z
+  tldr: 2025-08-07T12:11:40Z
 videoId: cj1LXrHHmlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cj1LXrHHmlw/maxresdefault.jpg
 duration: 72
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 Everywhere I look these days—conferences, job boards, blog posts—there’s a relentless drumbeat for the “hottest stack.” It’s as if the only way to be relevant is to chase whatever shiny new tool or architecture is trending this week. I see teams boasting about their bleeding-edge setups, and I get it. The temptation to follow suit is strong. No one wants to be left behind, or worse, seen as old-fashioned.

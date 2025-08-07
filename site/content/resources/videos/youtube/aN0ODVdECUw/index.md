@@ -4,7 +4,12 @@ short_title: Legacy Systems Are Holding You Back
 description: Is legacy tech slowing your team? Discover how removing friction unlocks agility, innovation, and faster delivery in your organisation.
 tldr: Legacy systems are only a problem when they create friction that slows delivery, increases fragility, and blocks innovation. The real issue is not system age but lack of ongoing maintenance and improvement, which leads to bottlenecks for both engineers and management. To accelerate agile delivery, focus on identifying and removing friction points, prioritising continuous improvement, and communicating the value of these efforts to the business.
 date: 2025-07-14T06:00:00Z
+lastmod: 2025-07-14T06:00:00Z
 weight: 315
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: aN0ODVdECUw
 ResourceImport: true
 ResourceType: videos
@@ -12,21 +17,20 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: legacy-systems-aren-t-the-enemy-friction-is-how-to-unblock-innovation-and-accelerate-agile-delivery
 aliases:
-- /resources/aN0ODVdECUw
-- /resources/videos/1-legacy-systems-are-holding-you-back
+  - /resources/aN0ODVdECUw
+  - /resources/videos/1-legacy-systems-are-holding-you-back
 aliasesArchive:
-- /resources/videos/1-legacy-systems-are-holding-you-back
-- 1-legacy-systems-are-holding-you-back
+  - /resources/videos/1-legacy-systems-are-holding-you-back
+  - 1-legacy-systems-are-holding-you-back
 source: youtube
 layout: video
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
 tags:
-- Software Development
-- Digital Transformation
+  - Software Development
 Watermarks:
   description: 2025-07-24T15:12:25Z
   short_title: 2025-07-24T15:12:26Z
@@ -36,11 +40,8 @@ url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aN0ODVdECUw/maxresdefault.jpg
 duration: 264
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 If there’s one thing I see time and again in organisations striving for agility, it’s the silent anchor of legacy systems. These are the old, creaking platforms and applications that, while once the backbone of the business, now act as a brake on innovation. I’ve worked with countless teams who are desperate to move forward, to deliver new features, to delight their customers—only to find themselves tripping over the same old obstacles, time and again.

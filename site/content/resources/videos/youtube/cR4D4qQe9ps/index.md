@@ -2,8 +2,14 @@
 title: '#1 tip for a new Scrum Master'
 short_title: '#1 Tip for a New Scrum Master'
 description: New Scrum Masters should start by thoroughly reading the Scrum Guide to understand Scrum principles, roles, and practices, forming a strong foundation for Agile success.
+tldr: New Scrum Masters should start by thoroughly reading and understanding the Scrum Guide to grasp the fundamentals of Scrum, including its roles, events, and principles. This foundational knowledge is essential for effectively leading teams, coaching others, and running Agile projects successfully. Make it a priority to master the basics before moving on to more advanced concepts.
 date: 2023-05-17T07:00:14Z
-weight: 690
+lastmod: 2023-05-17T07:00:14Z
+weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: cR4D4qQe9ps
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,38 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 1-tip-for-a-new-scrum-master
 aliases:
-- /resources/cR4D4qQe9ps
-- /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps
-- /resources/videos/-1-tip-for-a-new-scrum-master
-- /resources/videos/-1-tip-for-a-scrum-master
+  - /resources/cR4D4qQe9ps
+  - /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps
+  - /resources/videos/-1-tip-for-a-new-scrum-master
+  - /resources/videos/-1-tip-for-a-scrum-master
 aliasesArchive:
-- /resources/videos/-tip-for-a-new-scrum-master
-- /resources/videos/-1-tip-for-a-new-scrum-master
-- /resources/1-tip-for-a-new-scrum-master
-- /resources/1-tip-for-a-scrum-master
-- /resources/videos/-1-tip-for-a-scrum-master
-- /resources/-1-tip-for-a-scrum-master
-- -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
+  - /resources/videos/-tip-for-a-new-scrum-master
+  - /resources/videos/-1-tip-for-a-new-scrum-master
+  - /resources/1-tip-for-a-new-scrum-master
+  - /resources/1-tip-for-a-scrum-master
+  - /resources/videos/-1-tip-for-a-scrum-master
+  - /resources/-1-tip-for-a-scrum-master
+  - -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 source: internal
 layout: video
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Professional Scrum
-- Software Development
-- Scrum Master
-- Agile Frameworks
+  - Professional Scrum
+  - Software Development
+  - Scrum Master
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:12:24Z
   short_title: 2025-07-07T17:55:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:05:03Z
 videoId: cR4D4qQe9ps
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

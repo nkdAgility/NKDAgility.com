@@ -2,8 +2,14 @@
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 short_title: Transforming Organisational Culture for Engineering Excellence
 description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
+tldr: To achieve engineering excellence, focus on understanding and measuring your current delivery system, then use those insights to optimise for maximum value rather than just cutting costs. Transparent metrics and iterative improvements help control costs and drive technical leadership. Start by assessing your workflows and processes to identify where changes will have the most impact.
 date: 2024-12-21T06:00:00Z
+lastmod: 2024-12-21T06:00:00Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: KhKFVRcdbGo
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,30 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 aliases:
-- /resources/KhKFVRcdbGo
-- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+  - /resources/KhKFVRcdbGo
+  - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+  - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 aliasesArchive:
-- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
-- /resources/nkd-agility-your-partner-in-cost-effective-software-development
-- transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+  - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+  - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+  - /resources/nkd-agility-your-partner-in-cost-effective-software-development
+  - transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T12:56:35Z
   short_title: 2025-07-07T17:47:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:40:43Z
 videoId: KhKFVRcdbGo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

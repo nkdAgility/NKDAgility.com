@@ -2,8 +2,14 @@
 title: Most Common Thing You Hear in a PSPO Course?
 short_title: Common Challenges for Product Owners in PSPO
 description: Product Owners often feel limited in control and influence. This article explores common challenges and offers steps to boost empowerment and accountability in the role.
+tldr: Many Product Owners feel they lack control over key aspects like backlog order, product goals, and strategic discussions, which limits their impact. Recognizing this gap is the first step toward greater empowerment and influence. Product Owners should proactively seek involvement in important meetings, build relationships, and demonstrate competence to earn more accountability and elevate their role.
 date: 2023-06-29T11:00:18Z
-weight: 840
+lastmod: 2023-06-29T11:00:18Z
+weight: 725
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: CdYwLGrArZU
 ResourceImport: true
 ResourceType: videos
@@ -11,34 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: most-common-thing-you-hear-in-a-pspo-course
 aliases:
-- /resources/CdYwLGrArZU
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+  - /resources/CdYwLGrArZU
+  - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 aliasesArchive:
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-common-thing-you-hear-in-a-pspo-course-2
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-- /resources/most-common-thing-you-hear-in-a-pspo-course-
-- most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+  - /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+  - /resources/most-common-thing-you-hear-in-a-pspo-course-2
+  - /resources/most-common-thing-you-hear-in-a-pspo-course
+  - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
+  - /resources/most-common-thing-you-hear-in-a-pspo-course-
+  - most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Product Owner
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:11:05Z
   short_title: 2025-07-07T17:54:13Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:35Z
 videoId: CdYwLGrArZU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

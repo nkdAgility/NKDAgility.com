@@ -2,8 +2,14 @@
 title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 short_title: '3 Best Ways to Wreck Kanban: Ignoring Problems'
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
+tldr: Ignoring problems in your Kanban process leads to bigger issues, workflow blockages, and potential crises like project delays or cost overruns. Teams should regularly identify, visualize, and address problems, foster transparency, and take prompt action to prevent issues from escalating. Make it a priority to surface and resolve problems early to keep your workflow effective and avoid costly setbacks.
 date: 2024-03-04T07:00:13Z
+lastmod: 2024-03-04T07:00:13Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: Xa_e2EnLEV4
 ResourceImport: true
 ResourceType: videos
@@ -11,41 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 aliases:
-- /resources/Xa_e2EnLEV4
-- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
+  - /resources/Xa_e2EnLEV4
+  - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 aliasesArchive:
-- /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
-- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
-- /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
-- 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
-- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
-- 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
+  - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
+  - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
+  - /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
+  - /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
+  - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
+  - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+  - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 source: internal
 layout: video
 concepts:
-- Practice
+  - Practice
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Operational Practices
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:05:30Z
   short_title: 2025-07-07T17:49:32Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:52:14Z
 videoId: Xa_e2EnLEV4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

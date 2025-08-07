@@ -2,33 +2,41 @@
 title: Online is the new co-located
 short_title: Online Is the New Co-located
 description: Explores how advances in technology have redefined co-location, emphasising the importance of video presence for effective online communication and team engagement.
+tldr: With modern video technology and fast internet, online meetings can now provide the same level of non-verbal communication as being in the same room, so keeping cameras on is essential for team transparency and engagement. Development managers should encourage camera use during online events to maximize communication and adapt interactions, but also respect occasional needs for cameras off. If team members cannot use video reliably, consider in-person participation instead.
 date: 2020-11-16
+lastmod: 2020-11-16
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: QnZVgaG90q_
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: online-is-the-new-co-located
 aliases:
-- /blog/online-is-the-new-co-located
-- /online-is-the-new-co-located
-- /resources/QnZVgaG90q_
-- /resources/blog/online-is-the-new-co-located
+  - /blog/online-is-the-new-co-located
+  - /online-is-the-new-co-located
+  - /resources/QnZVgaG90q_
+  - /resources/blog/online-is-the-new-co-located
 aliasesArchive:
-- /blog/online-is-the-new-co-located
-- /online-is-the-new-co-located
-- /resources/blog/online-is-the-new-co-located
+  - /blog/online-is-the-new-co-located
+  - /online-is-the-new-co-located
+  - /resources/blog/online-is-the-new-co-located
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Transparency
-- Team Collaboration
-- Remote Working
+  - Transparency
+  - Social Technologies
+  - Team Collaboration
+  - Remote Working
 Watermarks:
   description: 2025-05-07T13:15:24Z
   short_title: 2025-07-07T17:57:50Z
+  tldr: 2025-08-07T13:11:05Z
 ResourceImportId: 44487
 creator: Martin Hinshelwood
 resourceTypes: blog

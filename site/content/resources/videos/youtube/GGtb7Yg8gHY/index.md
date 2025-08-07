@@ -2,8 +2,14 @@
 title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 short_title: Navigating Team Conflict in Agile Teams
 description: Explores recognising and managing team conflict in Agile, outlining stages from healthy disagreement to destructive "war" and offering practical de-escalation strategies.
+tldr: Team conflict is normal and can drive innovation, but if disagreements escalate unchecked, they can harm team dynamics and project outcomes. Managers should watch for signs of unhealthy conflict and use open communication, objective discussions, mediation, and clear team norms to de-escalate issues early. Addressing conflict directly helps maintain productivity and keeps teams focused on delivering value together.
 date: 2023-11-07T11:30:07Z
-weight: 610
+lastmod: 2023-11-07T11:30:07Z
+weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: GGtb7Yg8gHY
 ResourceImport: true
 ResourceType: videos
@@ -11,37 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 aliases:
-- /resources/GGtb7Yg8gHY
-- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
-- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
+  - /resources/GGtb7Yg8gHY
+  - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+  - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
+  - /resources/videos/7-signs-of-the-agile-apocalypse-war
 aliasesArchive:
-- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
-- /resources/7-signs-of-the-agile-apocalypse-war
-- navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+  - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
+  - /resources/videos/7-signs-of-the-agile-apocalypse-war
+  - /resources/7-signs-of-the-agile-apocalypse-war
+  - navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Technical Leadership
+  - Product Development
+  - Technical Leadership
 tags:
-- Team Performance
-- Scrum Team
-- Scrum Master
+  - Team Performance
+  - Scrum Team
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:08:02Z
   short_title: 2025-07-07T17:51:54Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:21Z
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

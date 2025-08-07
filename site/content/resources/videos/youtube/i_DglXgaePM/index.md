@@ -2,8 +2,14 @@
 title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
 short_title: Balancing Engineering Excellence and Agile
 description: Explores how to balance engineering excellence and effective Agile processes, highlighting the need for technical skills, continuous improvement, and outcome-focused metrics.
+tldr: Balancing strong engineering practices with effective processes is essential for thriving in today’s fast-changing business environment; neglecting either can lead to costly failures or products that miss user needs. Success with Agile requires more than process changes—it demands a culture of transparency, collaboration, and continuous learning, along with well-trained product owners and meaningful outcome-focused metrics. Development managers should invest in engineering excellence, support ongoing training, and adopt an experimental, evidence-based approach to drive real agility and business value.
 date: 2020-03-25T21:07:01Z
-weight: 1000
+lastmod: 2020-03-25T21:07:01Z
+weight: 560
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: i_DglXgaePM
 ResourceImport: true
 ResourceType: videos
@@ -11,32 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 aliases:
-- /resources/i_DglXgaePM
+  - /resources/i_DglXgaePM
 aliasesArchive:
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-- /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-- mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+  - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
+  - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+  - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+  - /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+  - mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Engineering Excellence
 tags:
-- Pragmatic Thinking
+  - Organisational Agility
+  - Competence
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:16:00Z
   short_title: 2025-07-07T17:58:19Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:12:35Z
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

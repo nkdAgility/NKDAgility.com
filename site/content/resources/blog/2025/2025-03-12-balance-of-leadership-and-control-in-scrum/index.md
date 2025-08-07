@@ -2,8 +2,14 @@
 title: Balance of Leadership and Control in Scrum
 short_title: Leadership vs. Control in Scrum Teams
 description: Explores how Scrum Masters and Product Owners balance leadership, authority, and team autonomy to ensure accountability, effective self-management, and organisational alignment.
+tldr: Scrum Masters and Product Owners are expected to deliver results, so they need both influence and enough authority to remove obstacles, enforce alignment, and ensure accountability. Too much control stifles team autonomy, but too little makes teams ineffective; the right balance depends on the organisation and situation. Development managers should empower these roles with the authority needed to drive change while maintaining team ownership and continuous improvement.
 date: 2025-03-17T09:00:00
+lastmod: 2025-03-17T09:00:00
 weight: 405
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 contributors: 
 ResourceId: UH6M7ujV-kB
 ResourceImport: false
@@ -11,36 +17,37 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: balance-of-leadership-and-control-in-scrum
 aliases:
-- /resources/UH6M7ujV-kB
+  - /resources/UH6M7ujV-kB
 aliasesArchive:
-- /balance-of-leadership-and-control-in-scrum
-- /blog/balance-of-leadership-and-control-in-scrum
+  - /balance-of-leadership-and-control-in-scrum
+  - /blog/balance-of-leadership-and-control-in-scrum
 layout: blog
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Leadership
-- Scrum
-- Product Management
+  - Leadership
+  - Scrum
+  - Product Management
 tags:
-- Agile Frameworks
-- Professional Scrum
-- Agile Product Management
-- Software Development
-- Scrum Master
-- Agile Leadership
-- Pragmatic Thinking
-- Team Performance
-- Agile Transformation
-- Team Motivation
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Product Management
+  - Software Development
+  - Scrum Master
+  - Agile Leadership
+  - Pragmatic Thinking
+  - Team Performance
+  - Agile Transformation
+  - Team Motivation
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/balance-leadership-and-control-scrum
-  post_date: 2025-07-15T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/balance-leadership-and-control-scrum
+    post_date: 2025-07-15T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:19Z
   short_title: 2025-07-07T16:45:23Z
+  tldr: 2025-08-07T12:34:46Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,47 +2,54 @@
 title: Work can flow across the Sprint boundary
 short_title: Work Can Flow Across the Sprint Boundary
 description: Explains how Scrum teams can strategically allow unfinished work to flow across Sprint boundaries, enhancing throughput, responsiveness, and continuous delivery without compromising goals.
+tldr: Allowing work to flow across Sprint boundaries is permitted in Scrum and can improve delivery speed, responsiveness, and value, as long as teams maintain clear, outcome-focused Sprint Goals and consistently deliver Done increments. Adopting practices like Continuous Delivery, feature toggles, and frequent feedback helps teams validate work early and adapt quickly. Development managers should encourage flow principles and robust engineering practices to maximize throughput and support better business decisions.
 date: 2018-01-30
+lastmod: 2018-01-30
 weight: 270
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: a7UMLdZeVYq
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: work-can-flow-across-the-sprint-boundary
 aliases:
-- /resources/a7UMLdZeVYq
+  - /resources/a7UMLdZeVYq
 aliasesArchive:
-- /blog/work-can-flow-across-sprint-boundary
-- /work-can-flow-across-sprint-boundary
-- /work-can-flow-across-the-sprint-boundary
-- /blog/work-can-flow-across-the-sprint-boundary
-- /resources/blog/work-can-flow-across-sprint-boundary
+  - /blog/work-can-flow-across-sprint-boundary
+  - /work-can-flow-across-sprint-boundary
+  - /work-can-flow-across-the-sprint-boundary
+  - /blog/work-can-flow-across-the-sprint-boundary
+  - /resources/blog/work-can-flow-across-sprint-boundary
 layout: blog
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Engineering Practices
-- Software Development
-- Pragmatic Thinking
-- Product Delivery
-- Agile Frameworks
-- Value Delivery
-- Operational Practices
-- Professional Scrum
-- Agile Planning
-- Throughput
-- Flow Efficiency
-- Market Adaptability
-- Team Performance
-- Agile Product Management
-- Organisational Agility
+  - Engineering Practices
+  - Software Development
+  - Pragmatic Thinking
+  - Product Delivery
+  - Agile Frameworks
+  - Value Delivery
+  - Operational Practices
+  - Professional Scrum
+  - Agile Planning
+  - Throughput
+  - Flow Efficiency
+  - Market Adaptability
+  - Team Performance
+  - Agile Product Management
+  - Organisational Agility
 Watermarks:
   description: 2025-05-24T23:43:41Z
   short_title: 2025-07-07T17:58:36Z
+  tldr: 2025-08-07T13:13:18Z
 ResourceImportId: 38300
 AudioNative: true
 creator: Martin Hinshelwood

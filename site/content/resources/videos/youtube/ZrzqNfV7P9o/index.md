@@ -2,8 +2,14 @@
 title: Learn Scrum with Minecraft Education Edition
 short_title: Learn Scrum with Minecraft Education Edition
 description: Experience Scrum hands-on by collaborating in Minecraft Education Edition, simulating real-world product development complexity for all skill levels in a secure environment.
+tldr: Using Minecraft Education Edition in Scrum training creates a more realistic and engaging environment for learning complex product development compared to traditional website-building exercises. This approach ensures full team participation, better simulates real-world complexity, and is accessible across devices. Development managers should ensure participants can install Minecraft Education on an unrestricted device and join sessions off VPN for the best experience.
 date: 2023-01-10T07:48:02Z
+lastmod: 2023-01-10T07:48:02Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: ZrzqNfV7P9o
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: learn-scrum-with-minecraft-education-edition
 aliases:
-- /resources/ZrzqNfV7P9o
-- /resources/videos/learn-scrum-with-minecraft-education-edition
-- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
+  - /resources/ZrzqNfV7P9o
+  - /resources/videos/learn-scrum-with-minecraft-education-edition
+  - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
 aliasesArchive:
-- /resources/videos/learn-scrum-with-minecraft-education-edition
-- /resources/why-does-minecraft-make-the-aps-course-so-awesome
-- /resources/learn-scrum-with-minecraft
-- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
-- /resources/why-does-minecraft-make-the-aps-course-so-awesome-
-- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
-- learn-scrum-with-minecraft-education-edition
+  - /resources/videos/learn-scrum-with-minecraft-education-edition
+  - /resources/why-does-minecraft-make-the-aps-course-so-awesome
+  - /resources/learn-scrum-with-minecraft
+  - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
+  - /resources/why-does-minecraft-make-the-aps-course-so-awesome-
+  - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
+  - learn-scrum-with-minecraft-education-edition
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:34Z
   short_title: 2025-07-07T17:57:10Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:15Z
 videoId: ZrzqNfV7P9o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
 duration: 261
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

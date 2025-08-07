@@ -2,8 +2,14 @@
 title: Biggest contribution from a Product Owner that you know of
 short_title: Product Owner Impact on Agile at Microsoft
 description: Explores how visionary Product Owners at Microsoft drove Agile transformation, shortened feedback cycles, and reshaped product development culture and industry standards.
+tldr: Brian Harry and Aaron Bjork at Microsoft transformed product development by shifting from slow, two-year release cycles to rapid, three-week feedback loops, driving a major cultural and process shift toward Agile across the organization. Their leadership and collaboration, supported by executive buy-in, embedded sustainable Agile practices and set a new industry standard for balancing scale with agility. Development managers should recognize the impact that visionary Product Owners can have in driving both process and cultural change, and prioritize empowering such leaders within their teams.
 date: 2023-06-13T11:32:18Z
+lastmod: 2023-06-13T11:32:18Z
 weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: 2IuL2Qvvbfk
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,45 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: biggest-contribution-from-a-product-owner-that-you-know-of
 aliases:
-- /resources/2IuL2Qvvbfk
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+  - /resources/2IuL2Qvvbfk
+  - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
 aliasesArchive:
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
-- biggest-contribution-from-a-product-owner-that-you-know-of
+  - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+  - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
+  - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
+  - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
+  - biggest-contribution-from-a-product-owner-that-you-know-of
 source: internal
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
-- Product Management
-- Leadership
+  - Product Development
+  - Product Management
+  - Leadership
 tags:
-- Organisational Change
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Leadership
-- Agile Strategy
-- Product Owner
-- Organisational Culture
-- Sociotechnical Systems
+  - Organisational Change
+  - Software Development
+  - Agile Transformation
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Agile Leadership
+  - Agile Strategy
+  - Product Owner
+  - Organisational Culture
+  - Strategic Goals
+  - Agile Values and Principles
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:11:41Z
   short_title: 2025-07-07T17:54:42Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:53Z
 videoId: 2IuL2Qvvbfk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
 duration: 452
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

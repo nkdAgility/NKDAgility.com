@@ -2,8 +2,14 @@
 title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
 short_title: Pitfalls of Routine Agile Questions
 description: Explores how routine Agile questions can hinder team progress, stressing the importance of focusing on value delivery, goal alignment, and managing task bottlenecks.
+tldr: Focusing daily meetings on routine status questions leads to disengagement and distracts from delivering real value. Instead, teams should use these meetings to track progress toward sprint goals, manage aging tasks before they become bottlenecks, and adapt ceremonies to support value delivery and continuous improvement. Review your Agile practices and shift the focus from individual updates to team outcomes for better results.
 date: 2024-01-03T07:00:13Z
+lastmod: 2024-01-03T07:00:13Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: JzAbvkFxVzs
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 aliases:
-- /resources/JzAbvkFxVzs
-- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
+  - /resources/JzAbvkFxVzs
+  - /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+  - /resources/videos/5-ghosts-of-agile-past-dogma
 aliasesArchive:
-- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/5-ghosts-of-agile-past-dogma
-- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+  - /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+  - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+  - /resources/videos/5-ghosts-of-agile-past-dogma
+  - /resources/5-ghosts-of-agile-past-dogma
+  - the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Performance
-- Value Delivery
-- Pragmatic Thinking
-- Agile Planning
-- Agile Transformation
-- Agile Product Management
-- Software Development
+  - Team Performance
+  - Value Delivery
+  - Pragmatic Thinking
+  - Agile Planning
+  - Agile Transformation
+  - Agile Product Management
+  - Software Development
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:06:42Z
   short_title: 2025-07-07T17:50:30Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:54:44Z
 videoId: JzAbvkFxVzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

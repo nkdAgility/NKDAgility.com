@@ -2,8 +2,14 @@
 title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
 short_title: Transforming Scrum Learning with Minecraft
 description: Discover how hands-on Scrum training using Minecraft helps learners experience project chaos, apply agile principles, and gain practical insights into effective teamwork.
+tldr: Teaching Scrum through hands-on experience, including using Minecraft, helps participants move from initial chaos to a clear understanding of Scrum’s value. Students first experience confusion similar to real project starts, then learn to apply Scrum principles, leading to practical insights and improved teamwork. Development managers should consider experiential learning to help teams internalise agile practices and appreciate their real-world benefits.
 date: 2023-01-09T12:36:53Z
-weight: 1000
+lastmod: 2023-01-09T12:36:53Z
+weight: 795
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: vI2LBfMkPuk
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,37 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 aliases:
-- /resources/vI2LBfMkPuk
-- /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
-- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
+  - /resources/vI2LBfMkPuk
+  - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+  - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 aliasesArchive:
-- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
-- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
-- /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
-- /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
-- embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+  - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
+  - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
+  - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
+  - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+  - embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 source: youtube
 layout: video
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
+  - Agile Frameworks
+  - Software Development
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Competence
 Watermarks:
   description: 2025-05-07T13:14:35Z
   short_title: 2025-07-07T17:57:12Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:09:18Z
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: '7 deadly sins of Agile: Pride'
 short_title: '7 Deadly Sins of Agile: Pride'
 description: Explores how unchecked pride can harm Agile teams, stressing data-driven decisions, learning from failure, and balancing confidence with humility for real customer value.
+tldr: Excessive pride in Agile can lead teams to make decisions based on assumptions or ego rather than real customer value and data. To avoid wasted effort and missed opportunities, managers should ensure decisions are data-driven, learn from failures, and focus on meaningful metrics. Foster a culture of humility and continuous learning to keep teams aligned with business goals.
 date: 2023-10-13T07:00:05Z
+lastmod: 2023-10-13T07:00:05Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BDFrmCV_c68
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: 7-deadly-sins-of-agile-pride
 aliases:
-- /resources/BDFrmCV_c68
-- /resources/videos/7-deadly-sins-of-agile-pride
-- /resources/videos/pride-7-deadly-sins-of-agile
+  - /resources/BDFrmCV_c68
+  - /resources/videos/7-deadly-sins-of-agile-pride
+  - /resources/videos/pride-7-deadly-sins-of-agile
 aliasesArchive:
-- /resources/videos/-deadly-sins-of-agile-pride
-- /resources/videos/7-deadly-sins-of-agile-pride
-- /resources/7-deadly-sins-of-agile-pride
-- /resources/videos/pride!-7-deadly-sins-of-agile
-- /resources/pride!-7-deadly-sins-of-agile
-- /resources/videos/pride-7-deadly-sins-of-agile
-- 7-deadly-sins-of-agile-pride
+  - /resources/videos/-deadly-sins-of-agile-pride
+  - /resources/videos/7-deadly-sins-of-agile-pride
+  - /resources/7-deadly-sins-of-agile-pride
+  - /resources/videos/pride!-7-deadly-sins-of-agile
+  - /resources/pride!-7-deadly-sins-of-agile
+  - /resources/videos/pride-7-deadly-sins-of-agile
+  - 7-deadly-sins-of-agile-pride
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Pragmatic Thinking
-- Customer Focus
+  - Software Development
+  - Pragmatic Thinking
+  - Customer Focus
 Watermarks:
   description: 2025-05-07T13:08:48Z
   short_title: 2025-07-07T17:52:26Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:58:35Z
 videoId: BDFrmCV_c68
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

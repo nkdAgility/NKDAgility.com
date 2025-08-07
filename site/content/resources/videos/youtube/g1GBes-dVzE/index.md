@@ -2,8 +2,14 @@
 title: One thing an Agile Coach MUST do to be successful?
 short_title: Key Skill for Agile Coach Success
 description: Agile Coaches must deeply understand their team's tools, practices, and technologies to effectively guide, challenge, and help teams improve and reach their goals.
+tldr: An Agile Coach must deeply understand the team's processes, practices, and technologies to be effective, not just Agile theory. This knowledge allows coaches to guide, challenge, and help teams improve rather than simply supervise. Development managers should ensure their coaches are familiar with the team's tools and context to drive real progress.
 date: 2023-08-31T07:00:17Z
-weight: 665
+lastmod: 2023-08-31T07:00:17Z
+weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: g1GBes-dVzE
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,32 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: one-thing-an-agile-coach-must-do-to-be-successful
 aliases:
-- /resources/g1GBes-dVzE
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+  - /resources/g1GBes-dVzE
+  - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 aliasesArchive:
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
-- one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+  - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
+  - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
+  - /resources/one-thing-an-agile-coach-must-do-to-be-successful
+  - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
+  - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
+  - one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Coaching
 Watermarks:
   description: 2025-05-07T13:09:45Z
   short_title: 2025-07-07T17:53:16Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:00:27Z
 videoId: g1GBes-dVzE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

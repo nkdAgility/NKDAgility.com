@@ -2,8 +2,14 @@
 title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 short_title: 'Product Owner Role: Bridging Theory & Practice'
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
+tldr: The Product Owner role requires moving beyond theory to practical leadership, taking on broader responsibilities like marketing, sales, and contract negotiation, and influencing key business areas. An immersive, collaborative learning approach helps product owners apply new strategies, share real-world experiences, and learn from peers to drive better outcomes. Development managers should support ongoing learning and cross-functional engagement for their product owners to maximize their impact.
 date: 2023-06-09T07:00:27Z
-weight: 790
+lastmod: 2023-06-09T07:00:27Z
+weight: 605
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: vQBYdfLwJ3g
 ResourceImport: true
 ResourceType: videos
@@ -11,38 +17,36 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 aliases:
-- /resources/vQBYdfLwJ3g
-- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+  - /resources/vQBYdfLwJ3g
+  - /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+  - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
 aliasesArchive:
-- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
-- /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
-- unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+  - /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+  - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+  - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+  - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+  - unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 source: youtube
 layout: video
 concepts: []
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Agile Product Management
-- Organisational Agility
-- Pragmatic Thinking
-- Product Owner
+  - Agile Product Management
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:11:45Z
   short_title: 2025-07-07T17:54:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:59Z
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

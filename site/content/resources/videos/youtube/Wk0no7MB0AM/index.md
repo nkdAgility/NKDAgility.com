@@ -2,8 +2,14 @@
 title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
 short_title: Scrum Master Strategies for Team Conflict
 description: Explores how Scrum Masters can identify, manage, and prevent destructive team conflict in Agile projects, promoting healthy collaboration and effective communication.
+tldr: Team conflict can quickly escalate from healthy debate to destructive arguments that harm collaboration and project outcomes. Scrum Masters play a key role in preventing this by fostering open communication, keeping discussions focused on issues rather than individuals, and de-escalating tensions early. Development managers should watch for early signs of conflict and support Scrum Masters in maintaining a productive team environment.
 date: 2023-10-30T14:30:10Z
-weight: 640
+lastmod: 2023-10-30T14:30:10Z
+weight: 480
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: monthly
 ResourceId: Wk0no7MB0AM
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,34 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: navigating-team-conflict-how-scrum-masters-can-prevent-'war'-in-agile-projects
 aliases:
-- /resources/Wk0no7MB0AM
-- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
-- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
-- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
+  - /resources/Wk0no7MB0AM
+  - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+  - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+  - /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
-- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
-- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
-- navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+  - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+  - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
+  - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
+  - /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
+  - navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Scrum Master
-- Scrum Team
+  - Scrum Master
+  - Scrum Team
 Watermarks:
   description: 2025-05-07T13:08:14Z
   short_title: 2025-07-07T17:52:00Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:57:35Z
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

@@ -2,32 +2,40 @@
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
 short_title: Misapplied Agile and Unused Gym Memberships
 description: Explores how superficial adoption of agile in software development mirrors unused gym memberships, highlighting the need for genuine commitment and effective implementation.
+tldr: Adopting agile methods is like buying a gym membership; real benefits come only with consistent, committed practice rather than superficial adoption. Key to success are breaking down goals, fostering cross-functional teams, and maintaining quality instead of just following rituals. Development managers should focus on genuine agile implementation and ongoing improvement to avoid wasted investment and missed opportunities.
 date: 2023-08-03
-weight: 355
+lastmod: 2023-08-03
+weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: mzVDd2JFtHO
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
-- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /resources/mzVDd2JFtHO
-- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /resources/mzVDd2JFtHO
+  - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliasesArchive:
-- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+  - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 layout: blog
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Agile Philosophy
+  - Agile Values and Principles
+  - Software Development
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:10:27Z
   short_title: 2025-07-07T17:53:45Z
+  tldr: 2025-08-07T13:01:34Z
 ResourceImportId: 49507
 AudioNative: true
 creator: Martin Hinshelwood

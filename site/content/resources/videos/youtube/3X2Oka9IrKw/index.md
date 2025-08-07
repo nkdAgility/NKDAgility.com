@@ -2,8 +2,14 @@
 title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
 short_title: Scaling Teams for Innovation, Not Bureaucracy
 description: Explores how organisations can scale teams to boost innovation while avoiding bureaucracy, focusing on empowerment, streamlined processes, and agile communication.
+tldr: Scaling teams does not automatically lead to more innovation; it often results in bureaucracy, slower decision-making, and communication issues. To avoid this, focus on empowering teams, streamlining processes, and improving communication so growth enhances agility and innovation rather than stifling it. Development managers should reassess their scaling strategies to prioritize adaptability and team ownership for better outcomes.
 date: 2025-02-27T11:00:09Z
+lastmod: 2025-02-27T11:00:09Z
 weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: 3X2Oka9IrKw
 ResourceImport: true
 ResourceType: videos
@@ -11,36 +17,35 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 aliases:
-- /resources/3X2Oka9IrKw
-- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
-- /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
+  - /resources/3X2Oka9IrKw
+  - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+  - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 aliasesArchive:
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/7-virtues-of-agile-diligence
-- the-overlooked-virtue-of-agility-diligence
-- /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
-- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
-- scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+  - /resources/videos/the-overlooked-virtue-of-agility-diligence
+  - /resources/the-overlooked-virtue-of-agility-diligence
+  - /resources/videos/7-virtues-of-agile-diligence
+  - /resources/7-virtues-of-agile-diligence
+  - the-overlooked-virtue-of-agility-diligence
+  - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
+  - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+  - scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
-tags: []
+  - Product Development
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T12:49:22Z
   short_title: 2025-07-07T16:45:45Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:35:34Z
 videoId: 3X2Oka9IrKw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
 duration: 73
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

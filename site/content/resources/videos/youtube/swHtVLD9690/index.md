@@ -2,8 +2,14 @@
 title: The Common Challenges of Adopting DevOps Practices
 short_title: Common Challenges in Adopting DevOps Practices
 description: Explores key challenges in adopting DevOps, including managing evolving risks and closing feedback loops, with strategies for rapid iteration, feedback, and continuous improvement.
+tldr: Adopting DevOps brings challenges like managing new types of risk and avoiding setbacks, especially as teams shift from long, structured cycles to rapid, continuous delivery. Success depends on quickly closing feedback loops, acting on real-world data from production, and adapting processes to maintain quality and flexibility. Development managers should focus on integrating feedback into daily workflows and using modern tools to manage risk without slowing down delivery.
 date: 2024-08-20T08:04:38Z
+lastmod: 2024-08-20T08:04:38Z
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: monthly
 ResourceId: swHtVLD9690
 ResourceImport: true
 ResourceType: videos
@@ -11,40 +17,39 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: the-common-challenges-of-adopting-devops-practices
 aliases:
-- /resources/swHtVLD9690
-- /resources/videos/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+  - /resources/swHtVLD9690
+  - /resources/videos/the-common-challenges-of-adopting-devops-practices
+  - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
 aliasesArchive:
-- /resources/videos/the-common-challenges-of-adopting-devops-practices
-- /resources/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
-- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
-- the-common-challenges-of-adopting-devops-practices
+  - /resources/videos/the-common-challenges-of-adopting-devops-practices
+  - /resources/the-common-challenges-of-adopting-devops-practices
+  - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+  - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+  - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+  - the-common-challenges-of-adopting-devops-practices
 source: internal
 layout: video
 concepts: []
 categories:
-- DevOps
-- Product Development
+  - DevOps
+  - Product Development
 tags:
-- Software Development
-- Pragmatic Thinking
-- Customer Focus
-- Customer Feedback Loops
-- Market Adaptability
+  - Metrics and Learning
+  - Software Development
+  - Pragmatic Thinking
+  - Customer Focus
+  - Customer Feedback Loops
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T13:01:59Z
   short_title: 2025-07-07T17:48:28Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:49:33Z
 videoId: swHtVLD9690
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

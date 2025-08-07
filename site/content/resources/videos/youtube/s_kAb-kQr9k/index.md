@@ -4,7 +4,12 @@ short_title: Staying Competitive Without CTO Burnout
 description: Feeling overwhelmed as a tech leader? Discover how to shift from chaos to clarity and build resilient, future-ready teams—without burning out.
 tldr: CTOs and tech leaders cannot drive innovation if they are overwhelmed and constantly reacting to demands. Sustainable leadership requires stepping back to gain clarity, focusing on what truly matters, and building deliberate strategies that align with business goals. To move from burnout to breakthrough, prioritise reflection, consistent decision-making, and resilience rather than simply doing more.
 date: 2025-07-11T06:00:53Z
+lastmod: 2025-07-11T06:00:53Z
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: monthly
 ResourceId: s_kAb-kQr9k
 ResourceImport: true
 ResourceType: videos
@@ -12,21 +17,21 @@ ResourceContentOrigin: ai
 ResourceImportSource: Youtube
 slug: from-burnout-to-breakthrough-how-ctos-can-lead-with-clarity-resilience-and-real-innovation
 aliases:
-- /resources/s_kAb-kQr9k
-- /resources/videos/9-staying-technologically-competitive-without-burning-out
+  - /resources/s_kAb-kQr9k
+  - /resources/videos/9-staying-technologically-competitive-without-burning-out
 aliasesArchive:
-- /resources/videos/9-staying-technologically-competitive-without-burning-out
-- 9-staying-technologically-competitive-without-burning-out
+  - /resources/videos/9-staying-technologically-competitive-without-burning-out
+  - 9-staying-technologically-competitive-without-burning-out
 source: youtube
 layout: video
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Leadership
-- Technical Leadership
+  - Leadership
+  - Technical Leadership
 tags:
-- Agile Leadership
-- Miscellaneous
+  - Agile Leadership
+  - Miscellaneous
 Watermarks:
   description: 2025-07-24T15:12:54Z
   short_title: 2025-07-24T15:12:55Z
@@ -36,11 +41,8 @@ url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s_kAb-kQr9k/maxresdefault.jpg
 duration: 66
 resourceTypes:
-- video
+  - video
 isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 
 ---
 If there’s one thing I see time and again in my work with technology leaders, it’s this: you can’t lead innovation if you’re overwhelmed and burned out. Yet, that’s precisely where so many CTOs and tech leaders find themselves. The expectation is relentless—be across every trend, make a hundred decisions a day, modernise the architecture, support the teams, deliver faster, and somehow still get a decent night’s sleep. It’s no wonder so many are running on empty.

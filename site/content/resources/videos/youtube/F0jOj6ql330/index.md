@@ -2,8 +2,14 @@
 title: Most Rewarding Part of Being a Scrum Developer?
 short_title: Most Rewarding Part of Being a Scrum Developer
 description: Scrum developers find the most reward in creating meaningful, impactful solutions that matter to people, driving passion, creativity, and purpose in their work.
+tldr: The most rewarding part of being a Scrum developer is building software that truly matters to people, which gives purpose and fuels passion for the work. When developers see their efforts making a real impact, it drives higher quality and creativity. Managers should encourage teams to focus on meaningful outcomes to boost motivation and results.
 date: 2023-06-23T11:00:09Z
+lastmod: 2023-06-23T11:00:09Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: F0jOj6ql330
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: most-rewarding-part-of-being-a-scrum-developer
 aliases:
-- /resources/F0jOj6ql330
-- /resources/videos/most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
+  - /resources/F0jOj6ql330
+  - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
 aliasesArchive:
-- /resources/videos/most-rewarding-part-of-being-a-scrum-developer
-- /resources/most-rewarding-part-of-being-a-scrum-developer
-- /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
-- /resources/most-rewarding-part-of-being-a-scrum-developer-
-- most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
+  - /resources/videos/most-rewarding-part-of-being-a-scrum-developer
+  - /resources/most-rewarding-part-of-being-a-scrum-developer
+  - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
+  - /resources/most-rewarding-part-of-being-a-scrum-developer-
+  - most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
 source: internal
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Personal
+  - Personal
 Watermarks:
   description: 2025-05-07T13:11:19Z
   short_title: 2025-07-07T17:54:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:03:13Z
 videoId: F0jOj6ql330
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg
 duration: 46
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

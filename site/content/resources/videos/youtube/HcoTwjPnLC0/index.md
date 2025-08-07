@@ -2,8 +2,14 @@
 title: Is a Product Owner an Agile Project Manager?
 short_title: Product Owner vs Agile Project Manager Roles
 description: Explains the key differences between a Product Owner and an Agile Project Manager, highlighting their distinct roles, objectives, and focus within Agile teams.
+tldr: A Product Owner is not an Agile Project Manager; the Product Owner focuses on delivering product value, while an Agile Project Manager is concerned with project success. These roles have different objectives and responsibilities, and their priorities may not always align. Development managers should ensure clear role definitions to avoid confusion and maximize both product and project outcomes.
 date: 2023-05-25T07:00:06Z
-weight: 1000
+lastmod: 2023-05-25T07:00:06Z
+weight: 905
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: HcoTwjPnLC0
 ResourceImport: true
 ResourceType: videos
@@ -11,33 +17,31 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: is-a-product-owner-an-agile-project-manager
 aliases:
-- /resources/HcoTwjPnLC0
-- /resources/videos/is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
+  - /resources/HcoTwjPnLC0
+  - /resources/videos/is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 aliasesArchive:
-- /resources/videos/is-a-product-owner-an-agile-project-manager
-- /resources/is-a-scrum-master-an-agile-project-manager
-- /resources/is-a-product-owner-an-agile-project-manager
-- /resources/videos/is-a-product-owner-an-agile-project-manager-
-- /resources/is-a-product-owner-an-agile-project-manager-
-- is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
+  - /resources/videos/is-a-product-owner-an-agile-project-manager
+  - /resources/is-a-scrum-master-an-agile-project-manager
+  - /resources/is-a-product-owner-an-agile-project-manager
+  - /resources/videos/is-a-product-owner-an-agile-project-manager-
+  - /resources/is-a-product-owner-an-agile-project-manager-
+  - is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 source: internal
 layout: video
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:12:12Z
   short_title: 2025-07-07T17:55:04Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:04:44Z
 videoId: HcoTwjPnLC0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
 duration: 48
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

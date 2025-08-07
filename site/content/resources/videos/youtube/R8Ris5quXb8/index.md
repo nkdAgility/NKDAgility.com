@@ -2,8 +2,14 @@
 title: 'Mastering Product Backlog Management: Key Strategies for Agile Success'
 short_title: Product Backlog Management Strategies
 description: Learn practical strategies for effective product backlog management in Agile, including prioritisation, refinement, stakeholder engagement, and tools to maximise team value.
+tldr: Effective product backlog management is crucial for Agile success; prioritising tasks, limiting work in progress, and holding regular refinement sessions help teams stay focused and deliver more value. Engaging stakeholders and using visual tools can further improve clarity and alignment. Development managers should regularly review their backlog practices to ensure they are working on the most valuable items and maintaining a manageable, focused backlog.
 date: 2023-11-30T11:00:31Z
+lastmod: 2023-11-30T11:00:31Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: R8Ris5quXb8
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,40 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-product-backlog-management-key-strategies-for-agile-success
 aliases:
-- /resources/R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - /resources/R8Ris5quXb8
+  - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+  - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+  - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 aliasesArchive:
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+  - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+  - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+  - mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
 source: youtube
 layout: video
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Product Backlog
-- Agile Planning Tools
-- Agile Planning
-- Product Delivery
-- Software Development
-- Product Owner
-- Pragmatic Thinking
-- Backlog Refinement
-- Operational Practices
+  - Product Backlog
+  - Agile Planning Tools
+  - Agile Planning
+  - Software Development
+  - Product Owner
+  - Pragmatic Thinking
+  - Backlog Refinement
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:07:22Z
   short_title: 2025-07-07T17:51:22Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:55Z
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

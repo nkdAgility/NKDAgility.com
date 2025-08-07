@@ -2,38 +2,47 @@
 title: Kanban Guide
 short_title: Kanban Guide
 description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
+tldr: This guide defines Kanban as a flexible strategy to optimize value flow by visualizing, managing, and improving workflows, supported by tracking key flow metrics like WIP, throughput, work item age, and cycle time. It emphasizes creating a clear workflow definition, actively managing work in progress, and continuously improving processes to balance effectiveness, efficiency, and predictability. Development managers should ensure teams establish explicit workflow policies, regularly review flow metrics, and adapt practices as needed to maximize value delivery.
 date: 2025-05-01
+lastmod: 2025-05-01
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author:
-- John Coleman
-- Daniel Vacanti
+  - John Coleman
+  - Daniel Vacanti
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: kanban-guide
 aliases:
-- /learn/agile-delivery-kit/guides/kanban-guide
-- /resources/uD_5MdHKu1Q
+  - /learn/agile-delivery-kit/guides/kanban-guide
+  - /resources/uD_5MdHKu1Q
 aliasesArchive:
-- /learn/agile-delivery-kit/guides/kanban-guide
+  - /learn/agile-delivery-kit/guides/kanban-guide
 layout: guide
 concepts:
-- Method
+  - Method
 categories:
-- Kanban
-- Lean
+  - Kanban
+  - Lean
 tags:
-- Definition of Workflow
-- Service Level Expectation
-- Agile Frameworks
-- Flow Efficiency
-- Operational Practices
-- Software Development
-- Value Delivery
-- Throughput
-- Lean Principles
-- Lean Thinking
+  - Definition of Workflow
+  - Service Level Expectation
+  - Agile Frameworks
+  - Flow Efficiency
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Value Delivery
+  - Throughput
+  - Lean Product Development
+  - Organisational Physics
+  - Lean Principles
+  - Lean Thinking
 card:
   button:
     content: Learn More
@@ -42,13 +51,14 @@ card:
 Watermarks:
   description: 2025-05-16T10:06:25Z
   short_title: 2025-07-07T16:40:30Z
+  tldr: 2025-08-07T12:33:02Z
 resourceTypes: guide
 references:
-- title: The Kanban Guide
-  url: https://kanbanguides.org/english/
+  - title: The Kanban Guide
+    url: https://kanbanguides.org/english/
 recommendedContent:
-- collection: practices
-  path: _practices/service-level-expectation-sle.md
+  - collection: practices
+    path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
 
 ---

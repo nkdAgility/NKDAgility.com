@@ -2,8 +2,14 @@
 title: 'Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability'
 short_title: 'Scrum Master Role: Misconceptions & Accountability'
 description: Explores common misconceptions about Scrum Masters, clarifies their true accountabilities, and highlights the importance of principles, competence, and organisational impact.
+tldr: Many Scrum Masters misunderstand their true responsibilities, focusing on tools and rituals instead of the core principles and accountabilities defined by Scrum. Effective Scrum Masters balance support for the team, Product Owner, and organisation, acting as coaches and mentors rather than process enforcers. Development managers should ensure Scrum Masters are competent in Scrum’s philosophies and adapt practices to fit their context, not just follow common routines.
 date: 2024-10-25T07:02:17Z
+lastmod: 2024-10-25T07:02:17Z
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: Cia3d_y9akQ
 ResourceImport: true
 ResourceType: videos
@@ -11,43 +17,41 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 aliases:
-- /resources/Cia3d_y9akQ
-- /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
+  - /resources/Cia3d_y9akQ
+  - /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
+  - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
 aliasesArchive:
-- /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
-- /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
-- unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
+  - /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
+  - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
+  - /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
+  - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
+  - unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 source: youtube
 layout: video
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Scrum Master
-- Software Development
-- Professional Scrum
-- Scrum Team
-- Agile Frameworks
-- Competence
-- Pragmatic Thinking
-- Team Performance
+  - Scrum Master
+  - Software Development
+  - Professional Scrum
+  - Scrum Team
+  - Agile Frameworks
+  - Social Technologies
+  - Competence
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:57:26Z
   short_title: 2025-07-07T17:47:44Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:23Z
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 resourceTypes:
-- video
+  - video
 isShort: false
 
 ---

@@ -2,8 +2,14 @@
 title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
 short_title: Small Experiments Boost Feature Delivery
 description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more features, reduce risk, and improve customer-focused products.
+tldr: A team increased their annual feature delivery from 25 to 150 by breaking down work into smaller experiments, enabling faster feedback, reduced risk, and continuous learning without increasing headcount. This approach allowed them to quickly identify and focus on features that mattered most to customers, leading to better products. Development managers should consider adopting small, frequent experiments to drive both speed and quality in feature delivery.
 date: 2024-11-20T08:02:36Z
-weight: 790
+lastmod: 2024-11-20T08:02:36Z
+weight: 600
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: monthly
 ResourceId: WEYf9jWG9wk
 ResourceImport: true
 ResourceType: videos
@@ -11,45 +17,47 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 aliases:
-- /resources/WEYf9jWG9wk
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
-- /resources/videos/unleash-your-teams-full-potential
+  - /resources/WEYf9jWG9wk
+  - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
+  - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
+  - /resources/videos/unleash-your-teams-full-potential
 aliasesArchive:
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-to-in-software-development
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
-- /resources/videos/unleash-your-team's-full-potential
-- /resources/unleash-your-team's-full-potential
-- /resources/videos/unleash-your-teams-full-potential
-- unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
+  - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-to-in-software-development
+  - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
+  - /resources/videos/unleash-your-team's-full-potential
+  - /resources/unleash-your-team's-full-potential
+  - /resources/videos/unleash-your-teams-full-potential
+  - unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
 source: youtube
 layout: video
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
+  - Engineering Excellence
 tags:
-- Customer Focus
-- Continuous Improvement
-- Software Development
-- Product Delivery
-- Working Software
-- Ability to Innovate
-- Agile Philosophy
-- Agile Values and Principles
-- Metrics and Learning
+  - Customer Focus
+  - Continuous Improvement
+  - Software Development
+  - Product Delivery
+  - Working Software
+  - Personal
+  - Social Technologies
+  - Ability to Innovate
+  - Agile Philosophy
+  - Agile Values and Principles
+  - Metrics and Learning
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T12:57:14Z
   short_title: 2025-07-07T17:47:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:42:02Z
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

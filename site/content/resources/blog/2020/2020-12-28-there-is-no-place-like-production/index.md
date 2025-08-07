@@ -2,43 +2,50 @@
 title: There is no place like production
 short_title: There Is No Place Like Production
 description: Validating product value requires releasing features to real users in production, gathering feedback, and measuring usage, satisfaction, and business impact for improvement.
+tldr: To deliver real value and reduce risk, teams must release features to production quickly so real users can provide feedback, since assumptions and testing environments cannot replace actual usage. Key measures like customer satisfaction, product usage, and employee satisfaction help validate value, and releasing early also offers financial benefits through capital expenditure write-downs. Prioritize getting small increments into production to maximize learning, value, and organizational savings.
 date: 2020-12-28
+lastmod: 2020-12-28
 weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: KUJ7jHOGqP7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: there-is-no-place-like-production
 aliases:
-- /blog/there-is-no-place-like-production
-- /there-is-no-place-like-production
-- /resources/KUJ7jHOGqP7
-- /resources/blog/there-is-no-place-like-production
+  - /blog/there-is-no-place-like-production
+  - /there-is-no-place-like-production
+  - /resources/KUJ7jHOGqP7
+  - /resources/blog/there-is-no-place-like-production
 aliasesArchive:
-- /blog/there-is-no-place-like-production
-- /there-is-no-place-like-production
-- /resources/blog/there-is-no-place-like-production
+  - /blog/there-is-no-place-like-production
+  - /there-is-no-place-like-production
+  - /resources/blog/there-is-no-place-like-production
 layout: blog
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Product Validation
-- Pragmatic Thinking
-- Value Delivery
-- Working Software
-- Current Value
-- Agile Product Management
-- Evidence Based Management
-- Product Discovery
-- Agile Philosophy
-- Product Delivery
+  - Customer Focus
+  - Product Validation
+  - Pragmatic Thinking
+  - Value Delivery
+  - Working Software
+  - Current Value
+  - Agile Product Management
+  - Evidence Based Management
+  - Product Discovery
+  - Agile Philosophy
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:15:08Z
   short_title: 2025-07-07T17:57:40Z
+  tldr: 2025-08-07T13:10:40Z
 ResourceImportId: 45324
 AudioNative: true
 creator: Martin Hinshelwood

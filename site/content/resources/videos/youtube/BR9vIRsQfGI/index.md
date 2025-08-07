@@ -2,8 +2,14 @@
 title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
 short_title: Negotiation Skills for Product Owners
 description: Learn key negotiation skills for product owners, including empathy, active listening, and strategic questioning, inspired by *Never Split the Difference* by Chris Voss.
+tldr: Negotiation is a critical but often overlooked skill for product owners, and the book Never Split the Difference offers practical techniques like empathy, active listening, and strategic questioning that can improve outcomes with stakeholders and teams. Understanding the impact of decisions and preparing thoroughly are key to successful negotiations. Development managers should encourage their teams to practice these skills and consider using this book as a resource to strengthen negotiation capabilities.
 date: 2023-12-13T11:00:08Z
+lastmod: 2023-12-13T11:00:08Z
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: BR9vIRsQfGI
 ResourceImport: true
 ResourceType: videos
@@ -11,35 +17,33 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 aliases:
-- /resources/BR9vIRsQfGI
-- /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
-- /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/BR9vIRsQfGI
+  - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
+  - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
+  - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 aliasesArchive:
-- /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
-- /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
-- mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
+  - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
+  - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+  - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
+  - mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
 source: youtube
 layout: video
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:06:59Z
   short_title: 2025-07-07T17:50:48Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T12:55:16Z
 videoId: BR9vIRsQfGI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---

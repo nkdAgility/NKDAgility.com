@@ -2,8 +2,14 @@
 title: 'Most influential people in Agile: Simon Reindl'
 short_title: 'Most Influential in Agile: Simon Reindl'
 description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
+tldr: Many Product Owners feel they lack control over key decisions like backlog order and product goals, often being excluded from strategic discussions. Recognizing this gap is the first step toward gaining more influence and accountability. Product Owners should proactively seek involvement in important meetings and build relationships to elevate their role within the organization.
 date: 2023-07-06T14:33:51Z
-weight: 1000
+lastmod: 2023-07-06T14:33:51Z
+weight: 775
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 ResourceId: pazZ3mW5VHM
 ResourceImport: true
 ResourceType: videos
@@ -11,30 +17,28 @@ ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 slug: most-influential-people-in-agile-simon-reindl
 aliases:
-- /resources/pazZ3mW5VHM
-- /resources/videos/most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
+  - /resources/pazZ3mW5VHM
+  - /resources/videos/most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
 aliasesArchive:
-- /resources/videos/most-influential-people-in-agile-simon-reindl
-- most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
+  - /resources/videos/most-influential-people-in-agile-simon-reindl
+  - most-influential-people-in-agile-simon-reindl-pazZ3mW5VHM
 source: internal
 layout: video
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:59Z
   short_title: 2025-07-07T17:54:08Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+  tldr: 2025-08-07T13:02:24Z
 videoId: pazZ3mW5VHM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
 resourceTypes:
-- video
+  - video
 isShort: true
 
 ---
