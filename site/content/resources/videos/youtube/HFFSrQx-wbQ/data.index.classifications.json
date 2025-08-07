@@ -88,13 +88,23 @@
     "level": "Tertiary"
   },
   "Personal": {
+    "resourceId": "HFFSrQx-wbQ",
     "category": "Personal",
-    "calculated_at": "2025-02-17T15:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of agility and its challenges, without providing personal experiences or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:30:06",
+    "ai_confidence": 87.45,
+    "ai_mentions": 7.6,
+    "ai_alignment": 9.2,
+    "ai_depth": 9.4,
+    "ai_intent": 8.5,
+    "ai_audience": 9.0,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The content opens with 'In my journey through the world of Agile,' signaling clear personal reflection. The author shares subjective experiences regarding the 'plagues' of agility, presents personal strategies, and frames observations as their own, not as absolute truth. Specific challenges ('rigidity,' 'stagnation'), self-referential language, and advice based on individual experience all anchor the discussion in a personal context. Concrete anecdotes about team morale, empowerment, and flexibility supplement the reflective tone. There’s no technical framework analysis or generalized statements lacking personal context. Audience targeting (practitioners seeking relatable insights), focused message, and continuous references to the author's observations affirm this as a strong fit under the 'Personal' category.",
+    "reasoning_summary": "The piece is a personal reflection on Agile challenges, sharing individual experiences and insights on fostering flexibility. Its intent, themes, and framing closely align with the 'Personal' category, though not every section is deeply anecdotal.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -109,13 +119,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "HFFSrQx-wbQ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T15:56:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of agility and its philosophical implications rather than specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:30:05",
+    "ai_confidence": 52.05,
+    "ai_mentions": 1.3,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.6,
+    "ai_intent": 4.9,
+    "ai_audience": 7.1,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content focuses on flexibility, innovation, team autonomy, and a culture of continuous improvement within Agile teams. While these areas are adjacent to technical excellence principles, explicit discussion on engineering practices (e.g., TDD, CI/CD, modular architecture) and high-level technical quality is missing. The emphasis is on mindset, eliminating process rigidity, and fostering adaptability, which enable technical excellence indirectly but do not delve into its defining concepts or practices. The intended audience (Agile practitioners, teams) aligns, but the core substance is about process agility, not the technical craft itself. Thus, confidence is moderate, not high.",
+    "reasoning_summary": "The content emphasizes Agile mindset, flexibility, and continuous improvement but does not directly discuss technical excellence practices. Fit is partial—technical excellence is enabled but not substantially addressed.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "resourceId": "HFFSrQx-wbQ",
@@ -549,12 +569,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "HFFSrQx-wbQ",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on agility, processes, and tools but does not specifically discuss test automation or related practices.",
+    "calculated_at": "2025-08-07T11:30:11",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.4,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on team flexibility, innovation, and continuous improvement within Agile practices but does not mention test automation, testing frameworks, or related tools. There are no direct references or in-depth discussion around test automation principles. The only tangential connection is the general encouragement to reflect on and update tools/processes, which could apply to test automation among many other practices, but this is not explicit. The main intent is to discuss team culture and agility, not automated testing. The audience overlaps somewhat (teams following Agile/DevOps), but only in a broad sense.",
+    "reasoning_summary": "The content is unrelated to test automation—no direct or substantive references appear. Its focus is on general Agile culture, not automated testing. Only a remote, implicit link through discussion of tools exists. Fit is marginal to nonexistent.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -758,13 +788,23 @@
     "level": "Secondary"
   },
   "Organisational Physics": {
+    "resourceId": "HFFSrQx-wbQ",
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses issues related to agile methodologies, tools, and processes, without a clear focus on organisational dynamics or systems thinking principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:30:14",
+    "ai_confidence": 41.425,
+    "ai_mentions": 1.6,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.8,
+    "ai_intent": 2.9,
+    "ai_audience": 6.5,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content does not explicitly mention 'Organisational Physics' or systems thinking, nor does it deeply explore organisational dynamics in the sense of feedback loops, complexity, or mapping organisational systems. Its main focus is on team-level agility—specifically, overcoming rigidity in Agile tools and processes, promoting experimentation, and encouraging adaptability within teams. While themes of adaptability and change touch on relevant aspects (e.g., culture, continuous improvement), the discussion remains at the team or practice level rather than organisational dynamics as defined by the category. There is light conceptual overlap in advocating for cultural change and continuous improvement, but core systems thinking concepts, feedback loops, and holistic views of organisational behaviour are not substantively addressed. The audience overlaps partly (practitioners in Agile), but not intentionally in the context of Organisational Physics.",
+    "reasoning_summary": "Content promotes team flexibility and innovation in Agile but does not directly discuss systems thinking or organisational dynamics at the organisational level; only a light conceptual overlap is present, so the fit with 'Organisational Physics' is limited.",
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",

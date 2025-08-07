@@ -257,12 +257,22 @@
     "level": "Ignored"
   },
   "Collaboration Tools": {
+    "resourceId": "LI6G1awAUyU",
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses challenges in DevOps and Agile coaching without focusing on collaboration tools.",
+    "calculated_at": "2025-08-07T11:33:31",
+    "ai_confidence": 22.667,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 6.5,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on rapid delivery in DevOps and Agile, discussing automation, feedback loops, compliance, and mindset shifts. While communication and feedback are discussed, there is no explicit mention or substantive discussion of platforms or tools for team collaboration as described in the category (e.g., Slack, Jira, Teams). Tool usage, selection, integration, or impact on teamwork are not addressed. Audience and relevance are reasonably aligned, as it targets Agile/DevOps practitioners, but core conceptual and topical fit is low.",
+    "reasoning_summary": "The content covers Agile and DevOps process challenges, with only indirect relevance to collaboration tools. It does not discuss specific tools or their role in Agile team collaboration, making it a poor fit for this category.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -305,13 +315,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "LI6G1awAUyU",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges, Scrum training, and Agile consulting, which do not align closely with engineering practices like clean code or test-driven development.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:33:22",
+    "ai_confidence": 74.05,
+    "ai_mentions": 3.7,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.8,
+    "ai_intent": 7.5,
+    "ai_audience": 8.7,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "The content discusses automation, feedback loops, and efficient delivery, all relevant to engineering practices. It covers specific topics such as testing infrastructure, mindset shifts, regulatory collaboration, and process improvement, showing alignment and moderate depth. However, it only lightly mentions key practices (like automation) without deep dives into principles such as clean code, TDD, or pair programming. The primary audience—DevOps practitioners—overlaps with agile engineers. The signal is strong but includes some general consulting anecdotes, making portions tangential to strict engineering principles. No outdated or contradicting content is present.",
+    "reasoning_summary": "This content is a good fit for Engineering Practices due to its focus on automation, feedback loops, and delivery improvements, but lacks detailed technical exploration of foundational Agile engineering techniques.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -372,13 +392,23 @@
     "level": "Ignored"
   },
   "Agile Planning": {
+    "resourceId": "LI6G1awAUyU",
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses challenges in DevOps and Agile consultancy but does not focus primarily on Agile Planning principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:33:30",
+    "ai_confidence": 46.21,
+    "ai_mentions": 2.3,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.8,
+    "ai_intent": 5.1,
+    "ai_audience": 6.0,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content focuses on DevOps challenges, emphasizing automation, feedback loops, and mindset shifts for more agile and rapid delivery. While it references agile principles and the need for adaptability from the Agile Manifesto, it dwells on operational delivery/process improvement rather than concrete Agile Planning activities like user stories, backlog refinement, story estimation, or sprint planning. Discussion on planning is indirect—mainly around shortening cycles and continuous improvement. There is some conceptual overlap with Agile Planning, particularly about feedback loops and adaptability, but the main focus is not planning methodologies, tools, or dedicated planning meetings. The target audience overlaps as these are likely Agile and DevOps practitioners, and the signal is moderate but diluted by generalized DevOps delivery advice. There are no penalties for outdatedness or contradictory tone.",
+    "reasoning_summary": "Fits the category only partially—touches on Agile principles and delivery improvements, but does not directly discuss Agile Planning methodologies, processes, or tools. Planning is an indirect, not primary, theme.",
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "resourceId": "LI6G1awAUyU",

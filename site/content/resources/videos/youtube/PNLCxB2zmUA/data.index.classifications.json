@@ -562,13 +562,23 @@
     "level": "Ignored"
   },
   "Systems Thinking": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and events in Scrum, which does not align with the principles and applications of Systems Thinking.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:25:48",
+    "ai_confidence": 43.78,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.7,
+    "ai_intent": 3.8,
+    "ai_audience": 6.4,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses on architectural adaptation, team investment, and incremental change in software development. While it advocates long-term vision, adaptability, and holistic thinking, it never directly mentions Systems Thinking or explicitly applies its concepts (e.g., causal loops, system mapping). Discussion lacks specific frameworks, feedback loop analysis, or explicit treatment of organisational interdependencies. Some philosophical alignment in fostering a culture of adaptability and looking at long-term impacts, but these are common to multiple methodologies. The primary target is practitioners managing change in software teams, partly overlapping the Systems Thinking audience. Overall, Systems Thinking is not directly named, and only weak thematic overlap makes this a partial fit.",
+    "reasoning_summary": "Content discusses adaptability and long-term vision in software architecture, with some holistic thinking, but lacks direct Systems Thinking principles, terminology, or frameworks. Fit with the category is limited and mostly tangential.",
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -1056,12 +1066,22 @@
     "level": "Ignored"
   },
   "Psychological Safety": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, and does not focus on psychological safety.",
+    "calculated_at": "2025-08-07T11:25:48",
+    "ai_confidence": 28.55,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 8.0,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses on architectural adaptation, team investment, and a culture of adaptability in software development. While 'fostering a culture of adaptability' and promoting experimentation hint at some psychological safety themes, there are no direct mentions or explicit discussions of psychological safety. The main themes center on adapting architecture and long-term vision, not on building risk-free environments or open expression. The audience is well-aligned, but the depth is limited, and psychological safety is only tangentially implied.",
+    "reasoning_summary": "Only minor, indirect overlap with psychological safety via encouragement of experimentation and adaptability, but core themes, intent, and detail are not focused on psychological safety. Fit is partial and mostly tangential.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -1246,13 +1266,23 @@
     "level": "Ignored"
   },
   "Organisational Physics": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:25:48",
+    "ai_confidence": 41.74,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 4.5,
+    "ai_audience": 7.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content centers on software architecture adaptation and fostering a culture of adaptability, which tangentially aligns with systems thinking and organisational change. However, it does not explicitly reference 'Organisational Physics', systems thinking tools, or organisational dynamics beyond team and architectural adaptation. There is some overlap in discussing culture and long-term adaptation, but there is no deep analysis of feedback loops, structure-process interplay, or explicit systems-oriented frameworks. The primary audience is practitioners and leaders interested in improving teams and architecture, which is related but not exclusive to Organisational Physics. The signal is high, with minimal off-topic content, but the core focus is engineering practice, not organisational systemic dynamics.",
+    "reasoning_summary": "Fit is partial—the content touches on adaptable culture and long-term vision but lacks direct, deep exploration of systems thinking or organisational dynamics central to Organisational Physics.",
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1285,13 +1315,23 @@
     "level": "Ignored"
   },
   "Technical Leadership": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses architectural adaptation in the context of Scrum, but does not clearly focus on key themes of technical leadership.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:25:48",
+    "ai_confidence": 77.2,
+    "ai_mentions": 2.3,
+    "ai_alignment": 8.5,
+    "ai_depth": 8.1,
+    "ai_intent": 8.2,
+    "ai_audience": 8.8,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content discusses leading teams through architectural change, fostering adaptability, and investing in team capabilities, all of which are core aspects of technical leadership in agile contexts. Principles such as incremental improvement, team investment, and alignment with long-term business needs are emphasized. However, the article only indirectly references technical leadership, rarely naming it explicitly. The depth of exploration is substantial (touching on team dynamics, vision, adaptation, and DevOps case study), though specific agile ceremonies and explicit servant leadership terminology are not present. The intent is to guide technical leaders or those aspiring to guide teams. The audience fit is strong (practitioners and leaders in software delivery). Despite some personal narrative, nearly all content relates to actionable leadership in technical settings.",
+    "reasoning_summary": "The article aligns well with Technical Leadership—focusing on guiding teams through architecture change, investment, vision, and adaptability, geared toward leaders in agile/DevOps environments. Fit is strong, but direct reference to the category is sparse.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

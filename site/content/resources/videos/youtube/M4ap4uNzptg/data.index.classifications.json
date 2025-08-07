@@ -1306,13 +1306,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "M4ap4uNzptg",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T04:33:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile philosophy and organisational dynamics rather than specific engineering practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:28:31",
+    "ai_confidence": 48.85,
+    "ai_mentions": 0.6,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.8,
+    "ai_intent": 5.5,
+    "ai_audience": 9.2,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "While the content explores Agile values such as questioning, empowerment, and continuous improvement, it does not directly address core technical excellence practices (e.g., TDD, CI/CD, modular architecture). Discussions center on mindset, team dynamics, and organizational adaptation rather than deep engineering methods. It aligns partially with technical excellence in spirit (referencing improvement, reflective practices, and retrospectives), but technical engineering principles and their concrete impact on software quality are not substantively discussed. Audience is well aligned (Agile/tech practitioners), and the signal-to-noise is high, but the coverage and intent focus on organizational agility and empowerment, not technical excellence per se.",
+    "reasoning_summary": "Content aligns with Agile mindset and improvement, but lacks direct discussion of engineering practices central to Technical Excellence. Fit is partial, mostly cultural and process-focused, not engineering-depth.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1328,12 +1338,22 @@
     "reasoning_summary": "This content is a great fit for the organisational agility category, as it focuses on the value of challenging current methods and embracing ongoing improvement. It underscores how adaptability and proactive leadership contribute to organisational success, and even suggests practical steps like creating forums for dialogue. The discussion clearly reflects the key aspects of organisational agility."
   },
   "Personal": {
+    "resourceId": "M4ap4uNzptg",
     "category": "Personal",
-    "calculated_at": "2025-02-12T04:33:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and organisational strategies without personal anecdotes or reflections.",
+    "calculated_at": "2025-08-07T11:28:32",
+    "ai_confidence": 28.802,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.5,
+    "ai_intent": 2.6,
+    "ai_audience": 2.7,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content is focused on Agile philosophy, benefits of questioning, and culture change, but presents these in general, organizational terms. It does not include personal anecdotes, subjective reflections, or the author's direct experiences. The wording employs 'you' and 'your organization', but remains didactic and prescriptive rather than offering individualized insight or first-person stories. There is a slight suggestion of personalized assistance in the 'Personalized Assistance and Learning' section, but this is framed as an offer of future help rather than recounting personal experience. Given these factors, the fit to the 'Personal' category is weak and mostly non-conforming.",
+    "reasoning_summary": "Content is generally advisory and organizational, lacking personal experiences or reflections. It discusses Agile themes generically, with minimal subjective interpretation. Fit to 'Personal' category is weak and unclear.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

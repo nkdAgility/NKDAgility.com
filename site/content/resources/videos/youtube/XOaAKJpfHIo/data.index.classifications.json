@@ -12,12 +12,22 @@
     "level": "Ignored"
   },
   "Experimentation": {
+    "resourceId": "XOaAKJpfHIo",
     "category": "Experimentation",
-    "calculated_at": "2025-02-11T22:49:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and team collaboration rather than on hypothesis-driven experimentation or testing ideas.",
+    "calculated_at": "2025-08-07T11:33:51",
+    "ai_confidence": 36.85,
+    "ai_mentions": 2.7,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.7,
+    "ai_intent": 3.8,
+    "ai_audience": 6.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content discusses DevOps and Agile integration in delivering customer value. It mentions adapting to feedback, empiricism, and lightly references hypothesis testing, but these elements are not explored in depth. Direct discussion of experimentation, systematic hypothesis-driven approaches, experimental techniques, or rigorous validation cycles is largely absent. The main focus is on process alignment, value delivery, and organizational practice, not the experimentation process itself. Only minor alignment to 'Experimentation' is present via fleeting mentions of testing hypotheses and the importance of feedback loops typical of experimental approaches.",
+    "reasoning_summary": "Content focuses on Agile and DevOps integration for value delivery, with surface-level mentions of feedback and hypothesis testing. Lacks depth on experimentation methods or systematic hypothesis-driven practice. Partial fit for Experimentation.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1377,13 +1387,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "XOaAKJpfHIo",
     "category": "Personal",
-    "calculated_at": "2025-02-11T22:49:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of DevOps and Agile methodologies without personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:33:49",
+    "ai_confidence": 73.15,
+    "ai_mentions": 6.7,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.3,
+    "ai_intent": 7.4,
+    "ai_audience": 7.9,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content includes multiple explicit personal references ('to me', 'in my experience and opinion') and personal interpretations about the relationship between Agile and DevOps, including direct reflection and subjective insight. It discusses challenges, value delivery, and integration through the lens of someone with personal experience as a practitioner, trainer, and coach, rather than academic analysis. There is a moderate section of self-promotion and team/company background, but the main body substantially aligns with the 'Personal' category definition and intent, providing lived experience, opinion, and an anecdotal perspective. No dimensions required penalties as there are no outdated/contradictory elements and tone is authentic, not satirical.",
+    "reasoning_summary": "The content expresses personal opinions and experiences on DevOps and Agile, including subjective reflections and practical insights, making it a good fit for the Personal category despite minor promotional content.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1410,13 +1430,23 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "XOaAKJpfHIo",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T22:49:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their integration and delivery aspects, rather than the comprehensive management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:33:49",
+    "ai_confidence": 53.14,
+    "ai_mentions": 2.4,
+    "ai_alignment": 6.5,
+    "ai_depth": 6.2,
+    "ai_intent": 7.0,
+    "ai_audience": 6.4,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content focuses on the importance of DevOps and Agile in continuous delivery, exploring their integration and impact on delivering value. However, it stays at a conceptual level, emphasizing collaboration, feedback, and value delivery, rather than directly discussing the stages, governance, tools, or distinct practices framing Application Lifecycle Management (ALM). There are few if any explicit mentions of ALM or its subtopics (change management, KPIs, risk, maintenance, retirement, etc.). The audience is partly aligned (software practitioners and teams) and the content is focused on relevant principles, but lacks detailed or targeted exploration of full-lifecycle management methodologies, tools, or best practices that define ALM. Therefore, the content is tangentially related to ALM by context (DevOps/Agile as practices within the lifecycle) but not a direct or comprehensive fit.",
+    "reasoning_summary": "Although the content discusses DevOps and Agile practices that are relevant to software delivery, it does not directly address or discuss Application Lifecycle Management methodologies, tools, or lifecycle stages. The fit is partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1428,13 +1458,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "XOaAKJpfHIo",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-11T22:49:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses DevOps and Agile methodologies, focusing on technical practices rather than psychological principles related to organisational behaviour.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:33:50",
+    "ai_confidence": 42.661,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.2,
+    "ai_intent": 5.5,
+    "ai_audience": 6.3,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "Direct mention of Organisational Psychology is absent. The main focus is on DevOps, Agile, and technical collaboration—not core psychological theories or principles affecting motivation or team dynamics. Some tangential references to people-centric collaboration, high-performing teams, and positive workforce impacts nod toward psychological factors, but these are not explored in depth. The intent is more on technical methodologies for delivering value, with only light allusion to workplace environment or motivation. Audience likely includes technical leaders and agile practitioners, some overlap with organisational psychology, but that is not the primary audience.",
+    "reasoning_summary": "The content focuses on Agile/DevOps delivery with minor, surface-level references to teamwork and people. It lacks direct, in-depth discussion of psychological principles relevant to Organisational Psychology, thus only a weak fit for the category.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

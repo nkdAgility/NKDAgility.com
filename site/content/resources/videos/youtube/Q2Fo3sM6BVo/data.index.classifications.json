@@ -457,13 +457,23 @@
     "level": "Ignored"
   },
   "Change Management": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Change Management",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework, focusing on its roles, events, and artifacts without addressing change management strategies or principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:35:40",
+    "ai_confidence": 57.48,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.3,
+    "ai_intent": 6.7,
+    "ai_audience": 7.5,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "Direct mentions of 'change management' are absent; the discussion remains centered on Scrum mechanics, values, and events. Still, there is a moderate alignment: the empowerment of teams, fostering adaptability, transparency, and empiricism, and references to adapting Scrum to modern contexts gesture toward change management principles. The content partially explores organizational transition and continuous improvement, especially via the Scrum Master’s facilitative role and the emphasis on reflection (retrospectives). However, it stops short of deep, explicit discussion of strategies, stakeholder engagement, or leadership roles in guiding holistic organizational change—most change-related touchpoints remain implicit. Audience fit is strong (Scrum practitioners/teams align well with the intended audience of change management in Agile contexts), and the signal-to-noise ratio is high, with minimal tangential content.",
+    "reasoning_summary": "While the content does not directly address change management, it moderately fits by discussing adaptability, reflection, and continuous improvement in Scrum. It lacks explicit strategies or depth on organizational change, making the fit partial and primarily implicit.",
+    "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -502,12 +512,22 @@
     "level": "Ignored"
   },
   "Release Management": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Release Management",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum framework, roles, and events without a focus on release processes.",
+    "calculated_at": "2025-08-07T11:35:40",
+    "ai_confidence": 12.03,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.3,
+    "ai_intent": 1.6,
+    "ai_audience": 3.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content thoroughly explains Scrum values, roles, artifacts, and events, but does not directly address release management, its strategies, or tools. While some artifacts and processes (like Increment, Sprint Review) are tangentially related to delivery, the main focus is on general Scrum practices and philosophy, not on the planning, controlling, or coordination of releases. Key topics such as release scheduling, risk management in releases, CI/CD practices, and release metrics are absent. The audience could include release managers but the material is not directed to them or framed in release management terms.",
+    "reasoning_summary": "Content focuses on Scrum values and process overview without directly discussing release management practices, strategy, or tooling. Partial, tangential fit at best; category alignment is weak.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -684,13 +704,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without primarily focusing on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:35:40",
+    "ai_confidence": 46.12,
+    "ai_mentions": 2.2,
+    "ai_alignment": 5.6,
+    "ai_depth": 6.1,
+    "ai_intent": 4.2,
+    "ai_audience": 4.8,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content deeply explores Scrum’s framework, values, roles, and processes, which indirectly supports adaptability and, by extension, elements of business agility. However, it rarely (if ever) explicitly mentions business agility, nor does it directly discuss broader organisational agility, leadership in agility, or enterprise-wide responsivity. The main intent is to educate about Scrum mechanics, not to situate Scrum as an enabler of business agility at scale. Audience focus is Scrum practitioners more than executive or strategy audiences typically interested in business agility. While adaptability and embracing change are lightly mentioned, the primary focus is not business agility per se.",
+    "reasoning_summary": "Content explains Scrum best practices, values, and adaptability, touching on themes related to business agility but primarily from a Scrum process angle—not from organisation-wide or leadership agility perspectives. Partial fit; alignment is not direct.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1209,13 +1239,23 @@
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum Framework and its components without a focus on practical problem-solving or real-world applications.",
-    "level": "Ignored"
+    "calculated_at": "2025-08-07T11:35:14",
+    "ai_confidence": 69.35,
+    "ai_mentions": 3.6,
+    "ai_alignment": 7.5,
+    "ai_depth": 7.9,
+    "ai_intent": 7.1,
+    "ai_audience": 8.4,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content gives a practical exploration of Scrum’s framework, describing values, roles, events, and artifacts in a real-world context. It emphasizes empiricism, adaptability, transparency, and continuous improvement. However, it centers mostly on foundational education and overviews rather than deep pragmatic techniques, real-world case studies, or explicit evidence-based management, which would have further solidified its alignment. The audience is Agile practitioners, aligning well, and the overall tone is supportive and practical, making this a strong but not perfect fit.",
+    "reasoning_summary": "The content provides a practical, experience-based overview of Scrum, focusing on adaptability and real-world applicability, with clear relevance to pragmatic thinking, though it stops short of deep evidence or advanced case examples.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "resourceId": "Q2Fo3sM6BVo",
