@@ -1,22 +1,24 @@
 ---
-title: Break organisational silos and stop tolerating bad branching models
-short_title: Break Organisational Silos and Bad Branching
-description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture to improve software delivery flow.
-tldr: Software organisations fail when leaders tolerate poor system design, such as bad branching models, siloed teams, and business logic in databases. To improve delivery, leaders must enforce trunk-based development, restructure teams for cross-functionality and autonomy, and set clear architectural boundaries. Development managers are responsible for shaping systems that enable agility and flow, not just managing people or reporting on delivery.
-date: 2025-07-17
-lastmod: 2025-07-17
+title: "Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence"
+short_title: Engineering Excellence Consulting in EST
+description: "Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery"
+tldr: Martin Hinshelwood is now available in Eastern Standard Time to help US and Mexico-based software teams improve engineering excellence by addressing issues like harmful estimation practices and metric gaming. Key insights include the dangers of focusing on estimate accuracy, which leads to fear and hidden problems, and the benefits of shifting to evidence-based delivery systems that prioritize real value and flow. Development managers are encouraged to book a free 30-minute call to identify and address delivery bottlenecks and move beyond ineffective rituals.
+date: 2025-08-08
+lastmod: 2025-08-08
 weight: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: AORP41zLNTi
+ResourceId: WEqwDQVsOIa
 ResourceImport: false
 ResourceType: newsletters
 ResourceContentOrigin: human
-slug: break-organisational-silos-and-stop-tolerating-bad-branching-models
 aliases:
+  - /resources/AORP41zLNTi
+  - /resources/WEqwDQVsOIa
+aliasesArchive:
   - /resources/AORP41zLNTi
 layout: newsletter
 concepts: []
@@ -25,14 +27,9 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T12:48:55Z
-  short_title: 2025-07-07T16:43:14Z
-  tldr: 2025-07-30T23:22:06Z
+  tldr: 2025-08-07T13:15:42Z
+  short_title: 2025-08-07T13:15:43Z
 resourceTypes: newsletter
-
----
-**Subject:** Martin Hinshelwood in EST: Book Expert Support for Engineering Excellence  
-**Preview:** Martin is in EST for 6 months and available for hands-on consulting in North America. This month’s spotlight: How tracking estimation accuracy is destroying delivery.
-
 ---
 
 # Now in EST. Ready to Raise the Bar?
@@ -41,13 +38,13 @@ For the next six months, I’m operating in **Eastern Standard Time (EST)**. Tha
 
 If your teams are stuck gaming metrics, stuck behind theatre, or just stuck — this is your chance to bring in real help that cuts through the noise and gets to the core of how delivery systems work.
 
----
+As usual newsletter subscribers will receive exclusive insights and resources and the current focus is on **breaking the estimation trap** that’s holding back so many teams. These are preview posts that are not yet published on the main site.
 
-## This Month’s Focus: The Estimation Trap
+## Hilight Preview Post: **The Estimation Trap** (Publishes in 46 days)
 
 If you're still tracking estimate vs actual to manage delivery, you're not managing delivery. You're performing theatre.
 
-The **[Estimation Trap](https://nkdagility.com/resources/blog/the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery/)** breaks this down:
+The **[Estimation Trap](https://preview.nkdagility.com/resources/blog/the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery/)** breaks this down:
 
 > _“When performance is judged by how closely estimates match actuals, teams shift into survival mode. You don’t get more predictability. You get fear, silence, and a culture optimised for hiding reality.”_
 
@@ -61,6 +58,19 @@ That fear poisons delivery. Here's what I’m seeing in real teams:
 And it’s not just dysfunction. It’s **organisational self-sabotage**. The teams know it. Leadership suspects it. But no one says it out loud.
 
 I do.
+
+---
+
+Other upcomming posts in preview this month include:
+
+- [Agile as a Delivery Discipline, Not Mindset (4 days)](https://preview.nkdagility.com/resources/blog/is-agile-really-just-a-mindset/)
+- [Getting Started with Objectives & Key Results (11 days)](https://preview.nkdagility.com/resources/blog/getting-started-with-objectives-key-results/)
+- [One Project vs Multiple in Azure DevOps (18 days)](https://preview.nkdagility.com/resources/blog/should-you-use-one-project-to-rule-them-all-in-azure-devops/)
+- [Coding Was Never the Software Bottleneck (25 days)](https://preview.nkdagility.com/resources/blog/are-we-still-pretending-coding-was-the-bottleneck/)
+- [Why Limiting WIP Beats Better Estimation (32 days)](https://preview.nkdagility.com/resources/blog/estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy/)
+- [Flow of Value vs Flow of Work (39 days)](https://preview.nkdagility.com/resources/blog/flow-of-value-vs-flow-of-work/)
+
+Anything thats not published yet we are seeking feedback and comments on, so please feel free to leave your thoughts on the posts.
 
 ---
 
@@ -91,13 +101,3 @@ See you soon.
 **Martin Hinshelwood**  
 CEO & Principal Consultant, naked Agility  
 _Focused on engineering excellence and delivery leadership_
-
----
-
-🧠 **Want more like this?**  
-Explore recent posts:
-
-- [The Estimation Trap](https://preview.nkdagility.com/resources/blog/the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery/)
-- [Why Most Scrum Masters Are Failing](https://nkdagility.com/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know) :contentReference[oaicite:0]{index=0}
-- [Blocked Columns Obfuscate Workflow](https://nkdagility.com/resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness) :contentReference[oaicite:1]{index=1}
-- [Pragmatism Crushes Dogma in the Wild](https://nkdagility.com/resources/blog/pragmatism-crushes-dogma-in-the-wild) :contentReference[oaicite:2]{index=2}
