@@ -1,35 +1,42 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
+short_title: Uncommitted Changes Blocking Git Sync in VS
 description: Explains how uncommitted changes in Git can prevent syncing with the server in Visual Studio, and highlights key workflow differences from traditional server-based systems.
+tldr: When moving from server-based to distributed version control like Git, you may encounter errors when pulling changes if you have uncommitted local changes. Unlike older systems, Git requires you to either commit or discard your changes before syncing, which helps prevent accidental code loss. Encourage your team to adapt to this workflow for safer and more reliable version control.
+date: 2014-10-16
+lastmod: 2014-10-16
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: CuWpL0GPBwN
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10732
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-16
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: uncommitted-changes-messing-sync-git-visual-studio
+slug: uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 aliases:
-- /resources/CuWpL0GPBwN
+  - /resources/CuWpL0GPBwN
 aliasesArchive:
-- /blog/uncommitted-changes-messing-sync-git-visual-studio
-- /uncommitted-changes-messing-sync-git-visual-studio
-- /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
-- /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
-- /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
-tags:
-- Software Development
+  - /blog/uncommitted-changes-messing-sync-git-visual-studio
+  - /uncommitted-changes-messing-sync-git-visual-studio
+  - /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
+  - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
+  - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: naked-alm-git-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:20:59Z
-concepts: []
+  tldr: 2025-08-07T13:26:57Z
+  short_title: 2025-08-07T13:26:58Z
+ResourceImportId: 10732
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: naked-alm-git-2-2.png
 
 ---
 Sometimes when you try to Pull changes from the server to your local repository you get a "cannot pull because there are uncommitted changes". This is uncommitted changes messing up your sync

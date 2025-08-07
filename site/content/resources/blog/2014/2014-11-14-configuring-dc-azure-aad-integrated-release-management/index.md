@@ -1,39 +1,46 @@
 ---
 title: Configuring a DC in Azure for AAD integrated Release Management
+short_title: Configuring Azure DC for AAD Release Management
 description: Step-by-step guide to setting up a Domain Controller in Azure for Active Directory integration, including VM creation, configuration, and syncing with Azure AD.
+tldr: Setting up a domain controller in Azure for Azure Active Directory integrated release management enables realistic cloud-based demos and infrastructure. The process involves creating a virtual machine, installing Active Directory and DNS roles, configuring a static IP, and promoting the VM to a domain controller, after which you can scale down resources to save costs. This approach provides a practical, cost-effective way to build and manage cloud-based environments for development and training; consider adopting similar steps for your own cloud infrastructure needs.
+date: 2014-11-14
+lastmod: 2014-11-14
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6z5uZom4gof
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10865
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-11-14
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: configuring-dc-azure-aad-integrated-release-management
+slug: configuring-a-dc-in-azure-for-aad-integrated-release-management
 aliases:
-- /resources/6z5uZom4gof
+  - /resources/6z5uZom4gof
 aliasesArchive:
-- /blog/configuring-dc-azure-aad-integrated-release-management
-- /configuring-dc-azure-aad-integrated-release-management
-- /configuring-a-dc-in-azure-for-aad-integrated-release-management
-- /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
-- /resources/blog/configuring-dc-azure-aad-integrated-release-management
-tags:
-- Install and Configuration
-- Windows
-- System Configuration
-- Software Development
-- Technical Mastery
+  - /blog/configuring-dc-azure-aad-integrated-release-management
+  - /configuring-dc-azure-aad-integrated-release-management
+  - /configuring-a-dc-in-azure-for-aad-integrated-release-management
+  - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
+  - /resources/blog/configuring-dc-azure-aad-integrated-release-management
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-22-22.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
+  - System Configuration
+  - Software Development
+  - Technical Mastery
 Watermarks:
   description: 2025-05-12T14:20:43Z
-concepts: []
+  tldr: 2025-08-07T13:26:32Z
+  short_title: 2025-08-07T13:26:34Z
+ResourceImportId: 10865
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-22-22.png
 
 ---
 I will be [speaking at NDC London: Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I am planning to be a little adventurous with the demo. For this I will be configuring a DC in Azure for AAD integrated Release Management so that I can do cloud demos.

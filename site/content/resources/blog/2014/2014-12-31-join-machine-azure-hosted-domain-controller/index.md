@@ -1,37 +1,44 @@
 ---
 title: Join a machine to your azure hosted domain controller
+short_title: Join Machine to Azure Hosted Domain Controller
 description: Learn how to connect a machine to an Azure-hosted domain controller by configuring virtual networks, DNS settings, and joining the domain through Windows system settings.
+tldr: To join a machine to your Azure-hosted domain controller, ensure the machine is in the correct virtual network and that the DNS server is properly configured. Use Remote Desktop to connect to the VM, then update the system settings to join the domain and reboot. This process is similar to joining a local domain, and managers should confirm network and DNS setup before proceeding.
+date: 2014-12-31
+lastmod: 2014-12-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 7RVNi9gLHYY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10892
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-12-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: join-machine-azure-hosted-domain-controller
+slug: join-a-machine-to-your-azure-hosted-domain-controller
 aliases:
-- /resources/7RVNi9gLHYY
+  - /resources/7RVNi9gLHYY
 aliasesArchive:
-- /blog/join-machine-azure-hosted-domain-controller
-- /join-machine-azure-hosted-domain-controller
-- /join-a-machine-to-your-azure-hosted-domain-controller
-- /blog/join-a-machine-to-your-azure-hosted-domain-controller
-- /resources/blog/join-machine-azure-hosted-domain-controller
-tags:
-- System Configuration
-- Install and Configuration
-- Windows
+  - /blog/join-machine-azure-hosted-domain-controller
+  - /join-machine-azure-hosted-domain-controller
+  - /join-a-machine-to-your-azure-hosted-domain-controller
+  - /blog/join-a-machine-to-your-azure-hosted-domain-controller
+  - /resources/blog/join-machine-azure-hosted-domain-controller
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-6-6.png
+  - Uncategorized
+tags:
+  - System Configuration
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-12T14:20:22Z
-concepts: []
+  tldr: 2025-08-07T13:26:05Z
+  short_title: 2025-08-07T13:26:06Z
+ResourceImportId: 10892
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-6-6.png
 
 ---
 Now that you have finished [moving your Domain Controller Azure VM to a Virtual Network](http://nkdagility.com/move-azure-vm-virtual-network/)\] you need to be able to join a machine to your azure hosted domain controller.

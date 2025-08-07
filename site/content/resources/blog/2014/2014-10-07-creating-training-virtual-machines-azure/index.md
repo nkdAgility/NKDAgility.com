@@ -1,36 +1,43 @@
 ---
 title: Creating training virtual machines in Azure
+short_title: Creating Training Virtual Machines in Azure
 description: Step-by-step guide to uploading, configuring, and deploying multiple training virtual machines in Azure using PowerShell, including troubleshooting common setup issues.
+tldr: Setting up training environments for a technical course is much easier using Azure, though uploading large VHDs and configuring storage can be time-consuming and require troubleshooting. Once the VHD is uploaded and a template image is created, you can automate or manually create multiple VM instances with the right specs for your needs. Using Azure for training labs is cost-effective if you manage VM uptime carefully, and the process can be streamlined further with PowerShell automation if done regularly.
+date: 2014-10-07
+lastmod: 2014-10-07
+weight: 875
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 93Qe5n6ux9U
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10771
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-07
-weight: 875
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: creating-training-virtual-machines-azure
+slug: creating-training-virtual-machines-in-azure
 aliases:
-- /resources/93Qe5n6ux9U
+  - /resources/93Qe5n6ux9U
 aliasesArchive:
-- /blog/creating-training-virtual-machines-azure
-- /creating-training-virtual-machines-azure
-- /creating-training-virtual-machines-in-azure
-- /blog/creating-training-virtual-machines-in-azure
-- /resources/blog/creating-training-virtual-machines-azure
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/creating-training-virtual-machines-azure
+  - /creating-training-virtual-machines-azure
+  - /creating-training-virtual-machines-in-azure
+  - /blog/creating-training-virtual-machines-in-azure
+  - /resources/blog/creating-training-virtual-machines-azure
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-16-16.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:08Z
-concepts: []
+  tldr: 2025-08-07T13:27:14Z
+  short_title: 2025-08-07T13:27:15Z
+ResourceImportId: 10771
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-16-16.png
 
 ---
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.

@@ -1,39 +1,46 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
+short_title: Scrum at Scale Workshop by Scrum.org
 description: Learn how to scale Scrum across your organisation, drive cultural change, and measure agile maturity with evidence-based practices in this hands-on workshop from Scrum.org.
+tldr: Scaling Scrum in large organizations is challenging mainly due to cultural resistance and lack of commitment to change. Scrum.org’s Scrum at Scale Workshop offers practical tools like the Agility Index and practices assessment to help you measure, guide, and sustain organizational change. Development managers leading agile transformation should consider this workshop to effectively drive and monitor enterprise-level agility.
+date: 2014-10-22
+lastmod: 2014-10-22
+weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: eSPePG8uDaZ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10824
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-22
-weight: 750
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: announcing-scrum-at-scale-workshop-scrum-org
+slug: upcomming-scrum-at-scale-workshop-from-scrum-org
 aliases:
-- /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
-- /resources/eSPePG8uDaZ
+  - /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
+  - /resources/eSPePG8uDaZ
 aliasesArchive:
-- /blog/announcing-scrum-at-scale-workshop-scrum-org
-- /announcing-scrum-at-scale-workshop-scrum-org
-- /upcomming-scrum-at-scale-workshop-from-scrum-org
-- /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
-- /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
-- /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
-tags:
-- Agile Frameworks
-- Agile Transformation
-- Software Development
+  - /blog/announcing-scrum-at-scale-workshop-scrum-org
+  - /announcing-scrum-at-scale-workshop-scrum-org
+  - /upcomming-scrum-at-scale-workshop-from-scrum-org
+  - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
+  - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
+  - /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-2-2.png
+  - Scrum
+tags:
+  - Agile Frameworks
+  - Agile Transformation
+  - Software Development
 Watermarks:
   description: 2025-05-12T14:20:55Z
-concepts: []
+  tldr: 2025-08-07T13:26:50Z
+  short_title: 2025-08-07T13:26:51Z
+ResourceImportId: 10824
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---
 If you are scaling agility in the enterprise through scrum then you will understand when I say that this can be a very difficult problem. And it's mostly about people and about culture and the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) can help you.

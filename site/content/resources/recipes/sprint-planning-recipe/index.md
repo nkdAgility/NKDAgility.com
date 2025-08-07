@@ -4,6 +4,7 @@ short_title: Sprint Planning Step-by-Step Guide
 description: Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.
 tldr: Sprint Planning is a team event to set a clear Sprint Goal, select backlog items, and create an actionable plan for the first 24 hours, with the session length depending on how well the team understands the backlog and goals. Key steps include the Product Owner presenting the vision, the team agreeing on a Sprint Goal, reviewing capacity and throughput, selecting work items, and planning initial actions. To keep planning efficient, ensure the backlog and goals are clear before the meeting and communicate the plan to stakeholders afterward.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 725
 sitemap:
   filename: sitemap.xml

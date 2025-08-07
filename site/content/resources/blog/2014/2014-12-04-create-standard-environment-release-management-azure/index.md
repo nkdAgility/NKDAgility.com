@@ -1,41 +1,48 @@
 ---
 title: Create a Standard Environment for Release Management in Azure
+short_title: Standard Azure Environment for Release Management
 description: Step-by-step guide to setting up a standard Azure environment for Release Management, including VMs, storage, networking, and Application Insights for analytics.
+tldr: Setting up a standard release management environment in Azure is straightforward, cost-effective, and closely mirrors on-premises setups by using VMs, resource groups, and Application Insights for analytics. Using the old Azure portal gives better control over naming and resource organization, while Azure’s flexibility allows quick scaling and isolation for multiple environments. Development managers should consider scripting environment setup for repeatability and use Application Insights to track application usage and feedback.
+date: 2014-12-04
+lastmod: 2014-12-04
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: iI7MvY2p7RU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10923
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-12-04
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: create-standard-environment-release-management-azure
+slug: create-a-standard-environment-for-release-management-in-azure
 aliases:
-- /resources/iI7MvY2p7RU
+  - /resources/iI7MvY2p7RU
 aliasesArchive:
-- /blog/create-standard-environment-release-management-azure
-- /create-standard-environment-release-management-azure
-- /create-a-standard-environment-for-release-management-in-azure
-- /blog/create-a-standard-environment-for-release-management-in-azure
-- /resources/blog/create-standard-environment-release-management-azure
-tags:
-- Software Development
-- Azure DevOps
-- Install and Configuration
-- System Configuration
-- Release Management
-- Application Lifecycle Management
-- Product Delivery
+  - /blog/create-standard-environment-release-management-azure
+  - /create-standard-environment-release-management-azure
+  - /create-a-standard-environment-for-release-management-in-azure
+  - /blog/create-a-standard-environment-for-release-management-in-azure
+  - /resources/blog/create-standard-environment-release-management-azure
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-windows-logo-16-16.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Azure DevOps
+  - Install and Configuration
+  - System Configuration
+  - Release Management
+  - Application Lifecycle Management
+  - Product Delivery
 Watermarks:
   description: 2025-05-12T14:20:33Z
-concepts: []
+  tldr: 2025-08-07T13:26:21Z
+  short_title: 2025-08-07T13:26:21Z
+ResourceImportId: 10923
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-windows-logo-16-16.png
 
 ---
 Next week I will be [speaking at NDC London 2014](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I have been working on my demo. Since Connect() everything for a little bit easier and I need to create an environment for Release Management for Visual Studio 2013.

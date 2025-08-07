@@ -1,43 +1,50 @@
 ---
 title: Configure a Build vNext Agent
+short_title: Configure a Build vNext Agent on VSO
 description: Learn how to set up a Build vNext Agent for Visual Studio Online or TFS 2015, including prerequisites, VM setup, agent configuration, and pool management.
+tldr: Microsoft's new modular build system for TFS and VSO, currently in early preview, replaces the old controller model with a more flexible pool and queue approach, simplifying agent management and permissions. Setting up a vNext Build Agent requires spinning up your own VM, installing Visual Studio 2013 or 2015, and configuring the agent via PowerShell. Development managers should prepare for a shift to this new system and consider early testing to understand its benefits and requirements.
+date: 2015-01-14
+lastmod: 2015-01-14
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: hyJFelRdglq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11021
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-01-14
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: configure-a-build-vnext-agent-on-vso
+slug: configure-a-build-vnext-agent
 aliases:
-- /resources/hyJFelRdglq
+  - /resources/hyJFelRdglq
 aliasesArchive:
-- /blog/configure-a-build-vnext-agent-on-vso
-- /configure-a-build-vnext-agent-on-vso
-- /configure-a-build-vnext-agent
-- /blog/configure-a-build-vnext-agent
-- /resources/blog/configure-a-build-vnext-agent-on-vso
-tags:
-- Azure DevOps
-- Continuous Integration
-- Azure Pipelines
-- Windows
-- Software Development
-- Install and Configuration
-- System Configuration
-- Azure Repos
-- Internal Developer Platform
+  - /blog/configure-a-build-vnext-agent-on-vso
+  - /configure-a-build-vnext-agent-on-vso
+  - /configure-a-build-vnext-agent
+  - /blog/configure-a-build-vnext-agent
+  - /resources/blog/configure-a-build-vnext-agent-on-vso
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-27-27.png
+  - Uncategorized
+tags:
+  - Azure DevOps
+  - Continuous Integration
+  - Azure Pipelines
+  - Windows
+  - Software Development
+  - Install and Configuration
+  - System Configuration
+  - Azure Repos
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-12T14:20:17Z
-concepts: []
+  tldr: 2025-08-07T13:25:55Z
+  short_title: 2025-08-07T13:25:56Z
+ResourceImportId: 11021
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---
 I am going to show how to configure a Build vNext Agent on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alpha of the service available for that program and I have been giving it a spin.

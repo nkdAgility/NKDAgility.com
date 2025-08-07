@@ -2,39 +2,45 @@
 title: Access denied for orchestration plan on Build
 short_title: Access Denied for Orchestration Plan on Build
 description: Explains how to resolve TFS build errors caused by missing write permissions for the Project Collection Build Service on orchestration plans, including permission setup steps.
+tldr: When setting up a TFS build agent for a high-volume customer, a permissions error blocked builds because the "Project Collection Build Service" lacked write access to the orchestration plan. The issue is tied to permission inheritance and a known bug in TFS 2015 RTM, and can be fixed by ensuring both "Project Build Service" and "Project Collection Build Service" have inherited permissions on build definitions via Visual Studio. Development managers should verify these permissions to avoid similar build failures and streamline onboarding to new build systems.
 date: 2015-12-16
+lastmod: 2015-12-16
 weight: 660
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: l331AonWBuN
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: access-denied-for-orchestration-plan-on-build
 aliases:
-- /resources/l331AonWBuN
+  - /resources/l331AonWBuN
 aliasesArchive:
-- /blog/access-denied-orchestration-plan-build
-- /access-denied-orchestration-plan-build
-- /access-denied-for-orchestration-plan-on-build
-- /blog/access-denied-for-orchestration-plan-on-build
-- /resources/blog/access-denied-orchestration-plan-build
+  - /blog/access-denied-orchestration-plan-build
+  - /access-denied-orchestration-plan-build
+  - /access-denied-for-orchestration-plan-on-build
+  - /blog/access-denied-for-orchestration-plan-on-build
+  - /resources/blog/access-denied-orchestration-plan-build
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
-- Azure DevOps
-- Azure Pipelines
-- Troubleshooting
-- Install and Configuration
-- Azure Repos
-- Pragmatic Thinking
-- Windows
-- System Configuration
+  - Software Development
+  - Azure Pipelines
+  - Troubleshooting
+  - Install and Configuration
+  - Azure Repos
+  - Pragmatic Thinking
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-07T13:16:54Z
   short_title: 2025-07-07T17:59:05Z
+  tldr: 2025-08-07T13:24:31Z
 ResourceImportId: 11411
 creator: Martin Hinshelwood
 resourceTypes: blog

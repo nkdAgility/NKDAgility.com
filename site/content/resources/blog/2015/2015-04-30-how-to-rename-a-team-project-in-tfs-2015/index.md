@@ -1,33 +1,40 @@
 ---
 title: How to rename a Team Project in TFS 2015
+short_title: Rename a Team Project in TFS 2015
 description: Learn how to rename a Team Project in TFS 2015, including step-by-step instructions, admin requirements, compatibility notes, and tips for minimising project disruption.
+tldr: TFS 2015 finally allows you to rename Team Projects easily through the admin page, but you need to be a Team Project Administrator and ensure your clients are updated for best compatibility. Renaming is quick and minimally disruptive, though older Visual Studio versions may need extra steps like clearing cache. Test the rename process on less critical projects first to assess any impact before applying it more broadly.
+date: 2015-04-30
+lastmod: 2015-04-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ysF0Hy8v8Rf
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11317
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-04-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-to-rename-a-team-project-in-tfs-2015
 aliases:
-- /resources/ysF0Hy8v8Rf
+  - /resources/ysF0Hy8v8Rf
 aliasesArchive:
-- /blog/how-to-rename-a-team-project-in-tfs-2015
-- /how-to-rename-a-team-project-in-tfs-2015
-- /resources/blog/how-to-rename-a-team-project-in-tfs-2015
-tags:
-- Install and Configuration
+  - /blog/how-to-rename-a-team-project-in-tfs-2015
+  - /how-to-rename-a-team-project-in-tfs-2015
+  - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: clip_image0041-4-4.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:19:44Z
-concepts: []
+  tldr: 2025-08-07T13:25:13Z
+  short_title: 2025-08-07T13:25:14Z
+ResourceImportId: 11317
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: clip_image0041-4-4.png
 
 ---
 By the launch of TFS 2010 we had given up on getting rename in TFS. 5 years of no rename had taken its toll. Now, as a surprise present with TFS 2015 (and on VSO) and I have a bunch of projects to "zz". Did you know that you should always "zz" something before you delete it. If you delete something then its gone. If you prefix it with "zz" then it falls to the bottom of any list and you can ignore it until later… but if someone complains… you can easily recover it.

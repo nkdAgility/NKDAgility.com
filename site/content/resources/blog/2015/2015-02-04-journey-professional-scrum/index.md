@@ -1,42 +1,49 @@
 ---
 title: My journey into Professional Scrum
+short_title: Journey into Professional Scrum
 description: Reflects on experiences with Professional Scrum, highlighting its impact on software development, team culture, training, and the challenges of scaling agile practices.
+tldr: Professional Scrum has been key to my success in software development and consulting, showing that most team challenges are cultural rather than technical. Building professional, adaptable individuals and teams leads to greater business agility and consistent delivery of valuable software. Avoid one-size-fits-all approaches to scaling Scrum; instead, tailor frameworks and practices to your organisation’s unique culture and needs.
+date: 2015-02-04
+lastmod: 2015-02-04
+weight: 415
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: PqEhZ1JIcDe
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11115
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-02-04
-weight: 415
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: journey-professional-scrum
+slug: my-journey-into-professional-scrum
 aliases:
-- /resources/PqEhZ1JIcDe
+  - /resources/PqEhZ1JIcDe
 aliasesArchive:
-- /blog/journey-professional-scrum
-- /journey-professional-scrum
-- /my-journey-into-professional-scrum
-- /blog/my-journey-into-professional-scrum
-- /resources/blog/journey-professional-scrum
-tags:
-- Agile Transformation
-- Professional Scrum
-- Pragmatic Thinking
-- Software Development
-- Agile Frameworks
-- Organisational Agility
-- Business Agility
-- Product Delivery
+  - /blog/journey-professional-scrum
+  - /journey-professional-scrum
+  - /my-journey-into-professional-scrum
+  - /blog/my-journey-into-professional-scrum
+  - /resources/blog/journey-professional-scrum
+layout: blog
+concepts: []
 categories:
-- Scrum
-preview: nakedalm-experts-professional-scrum-5-5.png
+  - Scrum
+tags:
+  - Agile Transformation
+  - Professional Scrum
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Frameworks
+  - Organisational Agility
+  - Business Agility
+  - Product Delivery
 Watermarks:
   description: 2025-05-12T14:20:04Z
-concepts: []
+  tldr: 2025-08-07T13:25:38Z
+  short_title: 2025-08-07T13:25:39Z
+ResourceImportId: 11115
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.

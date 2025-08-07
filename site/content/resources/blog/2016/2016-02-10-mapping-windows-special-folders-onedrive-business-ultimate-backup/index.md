@@ -2,31 +2,39 @@
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
 short_title: Map Windows Folders to OneDrive for Backup
 description: Learn how to sync Windows special folders like Documents and Desktop to OneDrive for Business, ensuring automatic cloud backup and easy access across all your devices.
+tldr: Mapping your Windows special folders like Documents and Desktop to OneDrive or OneDrive for Business ensures your files are automatically backed up to the cloud and accessible from any device. This setup protects against data loss from hardware failure or theft and simplifies working across multiple computers. Development managers should consider configuring this for their teams to improve data security and seamless access.
 date: 2016-02-10
+lastmod: 2016-02-10
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: mKq16PgA7Ks
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: mapping-your-windows-special-folders-to-onedrive-for-business-ultimate-backup
 aliases:
-- /resources/mKq16PgA7Ks
+  - /resources/mKq16PgA7Ks
 aliasesArchive:
-- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-your-windows-special-folders-to-onedrive-for-business
-- /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
-- /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
-- /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+  - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+  - /mapping-windows-special-folders-onedrive-business-ultimate-backup
+  - /mapping-your-windows-special-folders-to-onedrive-for-business
+  - /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
+  - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
+  - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Windows
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-07T13:16:48Z
   short_title: 2025-07-07T17:59:00Z
+  tldr: 2025-08-07T13:24:19Z
 ResourceImportId: 11430
 creator: Martin Hinshelwood
 resourceTypes: blog

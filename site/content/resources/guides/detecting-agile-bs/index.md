@@ -4,6 +4,7 @@ short_title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 tldr: Many projects claim to be agile but are not, so leaders should look for real user involvement, continuous feedback, automation, and cross-functional collaboration to spot genuine agile practices. Key signs of “agile BS” include lack of user interaction, manual processes where automation is possible, and siloed teams. Ask targeted questions about testing, automation, user feedback, and release cycles to verify true agile delivery and ensure teams can adapt based on user needs.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 360
 sitemap:
   filename: sitemap.xml

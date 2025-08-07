@@ -2,33 +2,40 @@
 title: Scaling Professional Scrum with Visual Studio Team Services
 short_title: Scaling Professional Scrum with VSTS
 description: Explains how to scale Professional Scrum across multiple teams using Visual Studio Team Services, covering automation, Nexus integration, and practical setup guidance.
+tldr: Visual Studio Team Services helps reduce friction and risks when scaling Scrum across multiple teams by providing robust automation and support for organizing work within a Nexus framework. Workshops and webcasts demonstrated how VSTS can be set up to manage many teams effectively, making it a strong choice for enterprise-scale Scrum. Development managers should consider VSTS when coordinating large, distributed Scrum teams to streamline processes and improve visibility.
 date: 2016-07-06
-weight: 380
+lastmod: 2016-07-06
+weight: 345
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: pErrcS8DxcQ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: scaling-professional-scrum-with-visual-studio-team-services
 aliases:
-- /resources/pErrcS8DxcQ
+  - /resources/pErrcS8DxcQ
 aliasesArchive:
-- /blog/scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-with-visual-studio-team-services
-- /blog/scaling-professional-scrum-with-visual-studio-team-services
-- /resources/blog/scaling-professional-scrum-visual-studio-team-services
+  - /blog/scaling-professional-scrum-visual-studio-team-services
+  - /scaling-professional-scrum-visual-studio-team-services
+  - /scaling-professional-scrum-with-visual-studio-team-services
+  - /blog/scaling-professional-scrum-with-visual-studio-team-services
+  - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Scaling
+  - Software Development
+  - Scaling
 Watermarks:
   description: 2025-05-07T13:16:43Z
   short_title: 2025-07-07T17:58:57Z
+  tldr: 2025-08-07T13:24:12Z
 ResourceImportId: 11563
 creator: Martin Hinshelwood
 resourceTypes: blog

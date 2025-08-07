@@ -1,42 +1,48 @@
 ---
 title: 'NDC London: Second Look, Team Foundation Server &amp; VSO'
+short_title: 'NDC London: Team Foundation Server & VSO'
 description: Overview of a session at NDC London demonstrating new features in Team Foundation Server and Visual Studio Online, with end-to-end ALM demos for .NET development teams.
+tldr: The speaker will present a demo-heavy session at NDC London to showcase major improvements in Team Foundation Server and Visual Studio Online since 2012, targeting developers who previously found TFS lacking. Key insights include end-to-end demonstrations of new features for agile project management, coding, testing, release, and monitoring, with scenarios covering both new features and bug fixes. Development managers should consider revisiting TFS/VSO for .NET projects and can provide feedback on which features or scenarios they want prioritized in the session.
+date: 2014-10-15
+lastmod: 2014-10-15
+weight: 410
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: bI6ySrK2G51
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10811
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-15
-weight: 410
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: ndc-london-second-look-team-foundation-server-vso
+slug: ndc-london-second-look-team-foundation-server-amp-vso
 aliases:
-- /resources/blog/ndc-london-second-look-team-foundation-server-amp-vso
-- /resources/bI6ySrK2G51
+  - /resources/bI6ySrK2G51
 aliasesArchive:
-- /blog/ndc-london-second-look-team-foundation-server-vso
-- /ndc-london-second-look-team-foundation-server-vso
-- /ndc-london--second-look,-team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
-- /ndc-london--second-look--team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
-- /resources/blog/ndc-london-second-look-team-foundation-server-vso
-- /resources/blog/ndc-london-second-look-team-foundation-server-amp-vso
-tags:
-- Application Lifecycle Management
-- Software Development
-- Release Management
-- Product Delivery
+  - /blog/ndc-london-second-look-team-foundation-server-vso
+  - /ndc-london-second-look-team-foundation-server-vso
+  - /ndc-london--second-look,-team-foundation-server-&amp;-vso
+  - /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
+  - /ndc-london--second-look--team-foundation-server-&amp;-vso
+  - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
+  - /resources/blog/ndc-london-second-look-team-foundation-server-vso
+  - /resources/blog/ndc-london-second-look-team-foundation-server-amp-vso
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-event-icon-7-7.png
+  - Uncategorized
+tags:
+  - Application Lifecycle Management
+  - Software Development
+  - Release Management
+  - Product Delivery
 Watermarks:
   description: 2025-05-12T14:21:01Z
-concepts: []
+  tldr: 2025-08-07T13:27:01Z
+  short_title: 2025-08-07T13:27:01Z
+ResourceImportId: 10811
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-icon-7-7.png
 
 ---
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.

@@ -1,39 +1,46 @@
 ---
 title: Why should I use Visual Studio ALM
+short_title: Why Use Visual Studio ALM vs Git & Jenkins
 description: Explains the benefits of Visual Studio ALM over alternatives like Git and Jenkins, detailing its comprehensive features for managing the entire application lifecycle.
+tldr: Visual Studio ALM offers a comprehensive set of features beyond just source control and build, covering requirements, project, change, quality, feedback, defect, release, and analytics management in one integrated platform. Replacing it with tools like Git and Jenkins means losing most of this functionality and facing significant integration and maintenance challenges. Development managers should carefully assess what capabilities they need and consider the long-term effort required to replicate Visual Studio ALM’s end-to-end support before switching tools.
+date: 2015-01-07
+lastmod: 2015-01-07
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: btixjSyu9NI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10990
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2015-01-07
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+slug: why-should-i-use-visual-studio-alm
 aliases:
-- /resources/btixjSyu9NI
+  - /resources/btixjSyu9NI
 aliasesArchive:
-- /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-- /why-should-i-use-visual-studio-alm
-- /blog/why-should-i-use-visual-studio-alm
-- /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-tags:
-- Application Lifecycle Management
-- Software Development
-- Pragmatic Thinking
-- Working Software
-- Product Delivery
+  - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+  - /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+  - /why-should-i-use-visual-studio-alm
+  - /blog/why-should-i-use-visual-studio-alm
+  - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-3-3.png
+  - Uncategorized
+tags:
+  - Application Lifecycle Management
+  - Software Development
+  - Pragmatic Thinking
+  - Working Software
+  - Product Delivery
 Watermarks:
   description: 2025-05-12T14:20:20Z
-concepts: []
+  tldr: 2025-08-07T13:26:02Z
+  short_title: 2025-08-07T13:26:03Z
+ResourceImportId: 10990
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---
 I see many organisations looking at TFS and trying to make the decision on why should I use Visual Studio ALM. Often you already have some tools and you want to move to TFS, or you have TFS and you are evaluating other tools as part of a reorganisation.

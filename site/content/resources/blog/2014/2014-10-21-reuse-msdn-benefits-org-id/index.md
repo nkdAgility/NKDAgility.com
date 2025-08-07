@@ -1,34 +1,41 @@
 ---
 title: Reuse your MSDN benefits with your Org ID
+short_title: Reuse MSDN Benefits with Org ID
 description: Learn how to transfer MSDN benefits from a personal Microsoft ID to an organisational account by cancelling existing subscriptions and reactivating with your Org ID.
+tldr: To move your MSDN benefits from a personal Microsoft ID to your organizational account, you need to cancel any existing MSDN subscriptions linked to your old account, which will remove access to resources created there. After cancellation, you can reactivate your benefits under your organizational account for easier management and single sign-on. Be aware that this process deletes all previous resources, so plan accordingly before proceeding.
+date: 2014-10-21
+lastmod: 2014-10-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kBoaPAZssaV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10786
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-10-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: reuse-msdn-benefits-org-id
+slug: reuse-your-msdn-benefits-with-your-org-id
 aliases:
-- /resources/kBoaPAZssaV
+  - /resources/kBoaPAZssaV
 aliasesArchive:
-- /blog/reuse-msdn-benefits-org-id
-- /reuse-msdn-benefits-org-id
-- /reuse-your-msdn-benefits-with-your-org-id
-- /blog/reuse-your-msdn-benefits-with-your-org-id
-- /resources/blog/reuse-msdn-benefits-org-id
-tags: []
+  - /blog/reuse-msdn-benefits-org-id
+  - /reuse-msdn-benefits-org-id
+  - /reuse-your-msdn-benefits-with-your-org-id
+  - /blog/reuse-your-msdn-benefits-with-your-org-id
+  - /resources/blog/reuse-msdn-benefits-org-id
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-7-7.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:20:57Z
-concepts: []
+  tldr: 2025-08-07T13:26:53Z
+  short_title: 2025-08-07T13:26:54Z
+ResourceImportId: 10786
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
 If you are trying to reuse your MSDN benefits with your Org ID but you previously activated against your Microsoft ID then you will need to cancel your subscription to reuse it.

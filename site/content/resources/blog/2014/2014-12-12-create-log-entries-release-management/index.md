@@ -1,35 +1,42 @@
 ---
 title: Create log entries in Release Management
+short_title: Create Log Entries in Release Management
 description: Explains how to generate and capture log entries in Release Management by using PowerShell's Write-Verbose with the -verbose flag, ensuring deployment logs are recorded.
+tldr: Creating log entries in Release Management can be challenging because standard output commands like Write-Host and Write-Output do not appear in deployment logs. To capture log information, you need to use Write-Verbose with the -verbose flag in your PowerShell scripts. Ensure your deployment scripts use this approach so you have logs for both successful and failed steps, which is important for troubleshooting and auditing.
+date: 2014-12-12
+lastmod: 2014-12-12
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 1jC1jE7shiY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10975
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-date: 2014-12-12
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: create-log-entries-release-management
+slug: create-log-entries-in-release-management
 aliases:
-- /resources/1jC1jE7shiY
+  - /resources/1jC1jE7shiY
 aliasesArchive:
-- /blog/create-log-entries-release-management
-- /create-log-entries-release-management
-- /create-log-entries-in-release-management
-- /blog/create-log-entries-in-release-management
-- /resources/blog/create-log-entries-release-management
-tags:
-- Troubleshooting
+  - /blog/create-log-entries-release-management
+  - /create-log-entries-release-management
+  - /create-log-entries-in-release-management
+  - /blog/create-log-entries-in-release-management
+  - /resources/blog/create-log-entries-release-management
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-experts-visual-studio-alm-5-5.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:20:29Z
-concepts: []
+  tldr: 2025-08-07T13:26:11Z
+  short_title: 2025-08-07T13:26:12Z
+ResourceImportId: 10975
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---
 I have been working through my demos for NDC London next week. And I found it almost impossible to create log entries in Release Management where I wanted.
