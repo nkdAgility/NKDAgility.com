@@ -24,6 +24,8 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\re
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
 
+#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
+
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
 ### Convert hugoMarkdownObjects to queue
@@ -138,6 +140,15 @@ while ($hugoMarkdownQueue.Count -gt 0) {
        
         }
     }
+
+    #================CONVERT RESOUCE TO ITEM=================
+    #  ItemId: sasadsadsad
+    #  ItemType: blog
+    #  ItemKind: resource
+    #  ItemContentOrigin: human
+    #  ItemImport: false
+  
+
 
     #=================ResourceId=================
     $ResourceId = $null;
@@ -296,42 +307,58 @@ while ($hugoMarkdownQueue.Count -gt 0) {
             $BodyContent = Get-Content $captionsPath -Raw
         }
     }
-    #-----------------marketing-------------------
-    # $marketingClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "marketing" -Catalog $marketingCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
-    # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
-    # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
-    #-----------------Concepts-------------------
-    $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
-    $conceptsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $conceptsClassification | Select-Object -First 1
-    $concepts = $conceptsClassificationOrdered | ForEach-Object { $_.category }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($concepts) -Overwrite
-    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-    #-----------------Categories-------------------
-    $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
-    $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
-    if ($categories.Count -eq 0) {
-        $categories = @("Uncategorized")
-    }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
-    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-    #-----------------Tags-------------------
-    $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
-    $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
-    $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
-    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-    #-----------------catalog_full------------------
-    # $keywordsClassification = Get-ClassificationsForType -ClassificationType "catalog_full" -hugoMarkdown $hugoMarkdown
-    # $keywordsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $keywordsClassification | Select-Object -First 3
-    # $keywords = $keywordsClassificationOrdered | ForEach-Object { $_.category }
-    # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'keywords' -values @($keywords) -Overwrite
-    # =================COMPLETE===================
 
-    $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
-    $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
-    $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
+
+    # =================CLASSIFICATION===================
+    switch ($ResourceType) {
+        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
+            #-----------------Concepts-------------------
+            $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
+            $conceptsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $conceptsClassification | Select-Object -First 1
+            $concepts = $conceptsClassificationOrdered | ForEach-Object { $_.category }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($concepts) -Overwrite
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+            #-----------------Categories-------------------
+            $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+            $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
+            $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
+            if ($categories.Count -eq 0) {
+                $categories = @("Uncategorized")
+            }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+            #-----------------Tags-------------------
+            $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+            $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
+            $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+        }
+        default { 
+            # Do nothing
+
+            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+        }
+    }
+    # =================/CLASSIFICATION===================  
+
+
+    
+    # =================weight===================
+    switch ($ResourceType) {
+        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
+            $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
+            $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
+            $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
+        }
+        default { 
+            # Do nothing
+
+            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+        }
+    }
+    # =================/weight===================
     # =================SITEMAP===================
     $sitemap = [ordered]@{
         filename   = "sitemap.xml"
@@ -351,11 +378,11 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         { $_ -in @("case-studies") } { 
             $sitemap.changefreq = "monthly"
         }
-        { $_ -in @("capabilities") } { 
+        { $_ -in @("capabilities", "outcomes") } { 
             $sitemap.priority = 0.9
             $sitemap.changefreq = "weekly"
         }
-        { $_ -in @("course") } { 
+        { $_ -in @("course", "mentor-program") } { 
             $sitemap.priority = 0.8
             $sitemap.changefreq = "weekly"
         }
@@ -425,10 +452,13 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'aliasesArchive'
     $list += 'source'
     $list += 'layout'
+    $list += 'type'
     $list += 'concepts'
     $list += 'categories'
     $list += 'tags'
     $list += 'platform_signals'
+    $list += 'headlines'
+    $list += 'sections'
     $list += 'card'
     $list += 'Watermarks'
     $missingFromOrder += Update-FieldPositions -data $hugoMarkdown.FrontMatter -orderedkeys $list
