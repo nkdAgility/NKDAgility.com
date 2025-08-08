@@ -19,8 +19,7 @@ aliases:
   - /resources/XRePaJiX1kj
 source: LinkedIn
 layout: signal
-concepts:
-  - Strategy
+concepts: []
 categories:
   - Leadership
   - Technical Leadership

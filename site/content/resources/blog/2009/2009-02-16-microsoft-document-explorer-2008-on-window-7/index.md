@@ -1,32 +1,35 @@
 ---
 title: Microsoft Document Explorer 2008 on Window 7
 description: Learn how to resolve Microsoft Document Explorer 2008 installation issues on Windows 7 by manually running the installer from the Visual Studio 2008 setup files.
+date: 2009-02-16
+lastmod: 2009-02-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kCaERZgxgy3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 138
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-02-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-document-explorer-2008-on-window-7
 aliases:
-- /resources/kCaERZgxgy3
+  - /resources/kCaERZgxgy3
 aliasesArchive:
-- /blog/microsoft-document-explorer-2008-on-window-7
-- /microsoft-document-explorer-2008-on-window-7
-- /resources/blog/microsoft-document-explorer-2008-on-window-7
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/microsoft-document-explorer-2008-on-window-7
+  - /microsoft-document-explorer-2008-on-window-7
+  - /resources/blog/microsoft-document-explorer-2008-on-window-7
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:24:27Z
-concepts: []
+ResourceImportId: 138
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 [![image](images/MicrosoftDocumentExplorer2008onWindow7_3CC7-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MicrosoftDocumentExplorer2008onWindow7_3CC7-image_2.png)

@@ -1,34 +1,37 @@
 ---
 title: If you had a choice!
 description: A poll asking .NET developers which Windows operating system they prefer for running Visual Studio 2008, including XP, Vista, and Server 2008 options.
+date: 2008-08-13
+lastmod: 2008-08-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 689UIOKlBfJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 209
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: if-you-had-a-choice
 aliases:
-- /resources/689UIOKlBfJ
+  - /resources/689UIOKlBfJ
 aliasesArchive:
-- /blog/if-you-had-a-choice
-- /if-you-had-a-choice
-- /if-you-had-a-choice-
-- /blog/if-you-had-a-choice-
-- /resources/blog/if-you-had-a-choice
-tags: []
+  - /blog/if-you-had-a-choice
+  - /if-you-had-a-choice
+  - /if-you-had-a-choice-
+  - /blog/if-you-had-a-choice-
+  - /resources/blog/if-you-had-a-choice
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:37Z
-concepts: []
+ResourceImportId: 209
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I would be interested to find out what platform you .NET developers prefer to use as your main Visual Studio 2008 box?

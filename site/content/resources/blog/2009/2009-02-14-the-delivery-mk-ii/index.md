@@ -1,34 +1,37 @@
 ---
 title: The delivery Mk II
 description: A personal story about the birth of a son, Kaiden, featuring a rapid delivery, family experiences in hospital, and early moments with his older sister.
+date: 2009-02-14
+lastmod: 2009-02-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: g5GoTmk3aI4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 140
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-02-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-delivery-mk-ii
 aliases:
-- /resources/g5GoTmk3aI4
+  - /resources/g5GoTmk3aI4
 aliasesArchive:
-- /blog/the-delivery-mk-ii
-- /the-delivery-mk-ii
-- /resources/blog/the-delivery-mk-ii
+  - /blog/the-delivery-mk-ii
+  - /the-delivery-mk-ii
+  - /resources/blog/the-delivery-mk-ii
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-4-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
-- Personal
+  - Miscellaneous
+  - Personal
 Watermarks:
   description: 2025-05-13T16:21:45Z
-concepts: []
+ResourceImportId: 140
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-4-1.png
 
 ---
 We have just had another addition to the family… Kaiden Ryan William Hinshelwood was born at 12:01 on 5th February 2009.

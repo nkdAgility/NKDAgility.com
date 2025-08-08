@@ -5,10 +5,10 @@ description: Learn effective strategies for scaling agile across multiple teams,
 tldr: Scaling agile across multiple teams introduces complexity and risks slowing down delivery, so it is crucial to choose a scaling approach that fits your organisation’s unique context. Key to success are mapping dependencies, proactively addressing communication pitfalls, and maintaining speed in delivering value as you grow. Consider a tailored, hands-on strategy to preserve agility and empower your teams as you scale.
 date: 2025-02-26T06:00:08Z
 lastmod: 2025-02-26T06:00:08Z
-weight: 630
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ResourceId: 8lUeIYEGg7k
 ResourceImport: true

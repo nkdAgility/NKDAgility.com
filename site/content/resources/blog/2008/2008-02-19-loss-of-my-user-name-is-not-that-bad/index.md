@@ -1,36 +1,39 @@
 ---
 title: Loss of My.User.Name is not that bad...
 description: Explains how to access and manage user and security information in .NET applications using System.DirectoryServices.AccountManagement instead of My.User.Name.
+date: 2008-02-19
+lastmod: 2008-02-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2iThCwSc5Qx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 245
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-02-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: loss-of-my-user-name-is-not-that-bad
 aliases:
-- /resources/blog/loss-of-my.user.name-is-not-that-bad...
-- /resources/2iThCwSc5Qx
+  - /resources/blog/loss-of-my.user.name-is-not-that-bad...
+  - /resources/2iThCwSc5Qx
 aliasesArchive:
-- /blog/loss-of-my-user-name-is-not-that-bad
-- /loss-of-my-user-name-is-not-that-bad---
-- /blog/loss-of-my-user-name-is-not-that-bad---
-- /loss-of-my-user-name-is-not-that-bad
-- /resources/blog/loss-of-my-user-name-is-not-that-bad
-- /resources/blog/loss-of-my.user.name-is-not-that-bad...
-tags: []
+  - /blog/loss-of-my-user-name-is-not-that-bad
+  - /loss-of-my-user-name-is-not-that-bad---
+  - /blog/loss-of-my-user-name-is-not-that-bad---
+  - /loss-of-my-user-name-is-not-that-bad
+  - /resources/blog/loss-of-my-user-name-is-not-that-bad
+  - /resources/blog/loss-of-my.user.name-is-not-that-bad...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:31Z
-concepts: []
+ResourceImportId: 245
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 ```

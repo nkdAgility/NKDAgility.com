@@ -1,33 +1,36 @@
 ---
 title: Composite WPF and Merged Dictionaries
 description: Explains how to manage dynamic resource dictionaries and themes in WPF with Composite WPF, addressing common errors and providing code solutions for region management.
+date: 2008-11-12
+lastmod: 2008-11-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: rVJ3HWMCFYD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 170
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: composite-wpf-and-merged-dictionaries
 aliases:
-- /resources/rVJ3HWMCFYD
+  - /resources/rVJ3HWMCFYD
 aliasesArchive:
-- /blog/composite-wpf-and-merged-dictionaries
-- /composite-wpf-and-merged-dictionaries
-- /resources/blog/composite-wpf-and-merged-dictionaries
-tags:
-- Software Development
+  - /blog/composite-wpf-and-merged-dictionaries
+  - /composite-wpf-and-merged-dictionaries
+  - /resources/blog/composite-wpf-and-merged-dictionaries
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:22:33Z
-concepts: []
+ResourceImportId: 170
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the

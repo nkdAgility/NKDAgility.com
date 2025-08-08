@@ -1,32 +1,35 @@
 ---
 title: Linked in Codeplex developers group
 description: Join LinkedIn groups for Codeplex developers and coordinators. Membership requires a Codeplex account and project involvement. Profile verification is needed to join.
+date: 2008-05-15
+lastmod: 2008-05-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: UJU5tO1-TLi
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 227
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: linked-in-codeplex-developers-group
 aliases:
-- /resources/UJU5tO1-TLi
+  - /resources/UJU5tO1-TLi
 aliasesArchive:
-- /blog/linked-in-codeplex-developers-group
-- /linked-in-codeplex-developers-group
-- /resources/blog/linked-in-codeplex-developers-group
+  - /blog/linked-in-codeplex-developers-group
+  - /linked-in-codeplex-developers-group
+  - /resources/blog/linked-in-codeplex-developers-group
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:05Z
-concepts: []
+ResourceImportId: 227
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.

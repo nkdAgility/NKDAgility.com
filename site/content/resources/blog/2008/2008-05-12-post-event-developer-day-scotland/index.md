@@ -1,36 +1,39 @@
 ---
 title: 'Post event: Developer Day Scotland...'
 description: Highlights from Developer Day Scotland, featuring sessions on ADO.NET Data Services, anti-patterns, continuous integration, and test-driven development by expert speakers.
+date: 2008-05-12
+lastmod: 2008-05-12
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: gVVlURec7mu
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 229
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-12
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: post-event-developer-day-scotland
 aliases:
-- /resources/blog/post-event-developer-day-scotland...
-- /resources/gVVlURec7mu
+  - /resources/blog/post-event-developer-day-scotland...
+  - /resources/gVVlURec7mu
 aliasesArchive:
-- /blog/post-event-developer-day-scotland
-- /post-event-developer-day-scotland
-- /post-event--developer-day-scotland---
-- /blog/post-event--developer-day-scotland---
-- /resources/blog/post-event-developer-day-scotland
-- /resources/blog/post-event-developer-day-scotland...
+  - /blog/post-event-developer-day-scotland
+  - /post-event-developer-day-scotland
+  - /post-event--developer-day-scotland---
+  - /blog/post-event--developer-day-scotland---
+  - /resources/blog/post-event-developer-day-scotland
+  - /resources/blog/post-event-developer-day-scotland...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:08Z
-concepts: []
+ResourceImportId: 229
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

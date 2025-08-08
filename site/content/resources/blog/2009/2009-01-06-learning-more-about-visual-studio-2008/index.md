@@ -1,32 +1,35 @@
 ---
 title: Learning more about Visual Studio 2008
 description: Discover a free Microsoft learning programme to improve your Visual Studio 2008 skills, suitable for both new and experienced software developers.
+date: 2009-01-06
+lastmod: 2009-01-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DI9tjIOOa_M
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 150
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: learning-more-about-visual-studio-2008
 aliases:
-- /resources/DI9tjIOOa_M
+  - /resources/DI9tjIOOa_M
 aliasesArchive:
-- /blog/learning-more-about-visual-studio-2008
-- /learning-more-about-visual-studio-2008
-- /resources/blog/learning-more-about-visual-studio-2008
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/learning-more-about-visual-studio-2008
+  - /learning-more-about-visual-studio-2008
+  - /resources/blog/learning-more-about-visual-studio-2008
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:01Z
-concepts: []
+ResourceImportId: 150
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well, that's me well and truly back from my holidays, a nice relaxing couple of weeks spent at home with my family.

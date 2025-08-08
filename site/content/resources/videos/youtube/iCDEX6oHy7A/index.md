@@ -5,10 +5,10 @@ description: Explores how leaders can foster an agile mindset in development tea
 tldr: Development teams often struggle with agile adoption due to a lack of intrinsic motivation and engagement with quality and customer feedback. Leadership must create an environment that fosters autonomy, mastery, and purpose, while bridging the gap between technical skills and mindset through practices like retrospectives, code reviews, and continuous feedback. Focus on building a culture that values quality and empowerment to achieve lasting agile transformation.
 date: 2020-04-07T20:33:45Z
 lastmod: 2020-04-07T20:33:45Z
-weight: 660
+weight: 205
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.6
   changefreq: monthly
 ResourceId: iCDEX6oHy7A
 ResourceImport: true
@@ -29,6 +29,7 @@ layout: video
 concepts: []
 categories:
   - Leadership
+  - Technical Leadership
   - Product Development
 tags:
   - Software Development

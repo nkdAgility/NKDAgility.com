@@ -5,7 +5,7 @@ description: Open Q&A session with Martin, covering DevOps, Agile, Scrum, and Az
 tldr: Martin, an expert in Scrum and Azure DevOps, is hosting an open Q&A session where you can ask about DevOps, agility, or related topics. You can submit questions publicly or privately. This is a chance to get direct advice on your team’s challenges from a recognized industry professional.
 date: 2020-04-10T18:32:34Z
 lastmod: 2020-04-10T18:32:34Z
-weight: 830
+weight: 660
 sitemap:
   filename: sitemap.xml
   priority: 0.1

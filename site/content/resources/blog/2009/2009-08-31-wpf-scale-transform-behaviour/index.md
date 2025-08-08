@@ -1,35 +1,38 @@
 ---
 title: Wpf Scale Transform Behaviour
 description: Explains how to use a WPF behaviour with attached properties to globally scale multiple UI controls at runtime, supporting MVVM and slider-based scale adjustment.
+date: 2009-08-31
+lastmod: 2009-08-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PXeY0Nggg1B
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 87
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-08-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: wpf-scale-transform-behaviour
 aliases:
-- /resources/PXeY0Nggg1B
+  - /resources/PXeY0Nggg1B
 aliasesArchive:
-- /blog/wpf-scale-transform-behaviour
-- /wpf-scale-transform-behaviour
-- /resources/blog/wpf-scale-transform-behaviour
-tags:
-- Software Development
-- Technical Mastery
-- Windows
+  - /blog/wpf-scale-transform-behaviour
+  - /wpf-scale-transform-behaviour
+  - /resources/blog/wpf-scale-transform-behaviour
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Technical Mastery
+  - Windows
 Watermarks:
   description: 2025-05-13T15:23:10Z
-concepts: []
+ResourceImportId: 87
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Although this post is called Scale Transform Behaviour you could use any transform / animation in its place. The purpose is to have a slider control in a menu be able to alter the scale of any number of controls within [MVVM](http://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/) views.

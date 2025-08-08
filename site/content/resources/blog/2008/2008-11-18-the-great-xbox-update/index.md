@@ -1,32 +1,35 @@
 ---
 title: The great Xbox update
 description: Overview of the new Xbox Live update, including changes to the update process, introduction of Avatars, and user experiences with the latest features.
+date: 2008-11-18
+lastmod: 2008-11-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: X8DVH4Nrsye
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 166
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-great-xbox-update
 aliases:
-- /resources/X8DVH4Nrsye
+  - /resources/X8DVH4Nrsye
 aliasesArchive:
-- /blog/the-great-xbox-update
-- /the-great-xbox-update
-- /resources/blog/the-great-xbox-update
-tags: []
+  - /blog/the-great-xbox-update
+  - /the-great-xbox-update
+  - /resources/blog/the-great-xbox-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-3-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:30Z
-concepts: []
+ResourceImportId: 166
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-3-2.png
 
 ---
 [![xbox live](images/ThegreatXboxupdate_AEC7-xbox-live_thumb-2-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ThegreatXboxupdate_AEC7-xbox-live_2.jpg)

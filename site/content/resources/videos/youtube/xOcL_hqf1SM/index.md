@@ -32,6 +32,7 @@ concepts:
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Agile Frameworks
   - Software Development
 Watermarks:

@@ -1,33 +1,36 @@
 ---
 title: New laptop and Windows 7
 description: A family upgrades to a Dell laptop running Windows 7, highlighting improved performance over Vista, user preferences, and buying options in the UK.
+date: 2009-02-14
+lastmod: 2009-02-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: XCiJC8QfDPG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 139
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-02-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: new-laptop-and-windows-7
 aliases:
-- /resources/XCiJC8QfDPG
+  - /resources/XCiJC8QfDPG
 aliasesArchive:
-- /blog/new-laptop-and-windows-7
-- /new-laptop-and-windows-7
-- /resources/blog/new-laptop-and-windows-7
+  - /blog/new-laptop-and-windows-7
+  - /new-laptop-and-windows-7
+  - /resources/blog/new-laptop-and-windows-7
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:21:46Z
-concepts: []
+ResourceImportId: 139
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-1.png
 
 ---
 We have needed a new laptop in the Hinshelwood household for a while now. My old laptop was 8 years old, and although it was a mobile desktop, it ran Vista like a dog… Now the main use of a laptop in our household is for internet and pictures, but I defiantly wanted to run Windows 7.

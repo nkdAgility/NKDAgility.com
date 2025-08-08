@@ -5,10 +5,10 @@ description: Explores the limitations of story points, optimal team sizes, and t
 tldr: Story points often create confusion and unpredictability, so focusing on throughput and cycle time gives teams clearer insights and better delivery. Slightly larger teams with diverse roles can handle complex work and maintain quality more effectively. Embracing emergent architecture helps teams stay flexible and competitive, so consider shifting your metrics and team structures to support adaptability and faster value delivery.
 date: 2020-05-13T05:03:57Z
 lastmod: 2020-05-13T05:03:57Z
-weight: 665
+weight: 250
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.6
   changefreq: monthly
 ResourceId: jCqRHt8LLgw
 ResourceImport: true
@@ -28,6 +28,7 @@ source: youtube
 layout: video
 concepts: []
 categories:
+  - Technical Leadership
   - Product Development
 tags:
   - Software Development

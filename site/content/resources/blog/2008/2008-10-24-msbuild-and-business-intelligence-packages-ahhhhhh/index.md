@@ -1,36 +1,39 @@
 ---
 title: MSBuild and Business Intelligence Packages, Ahhhhhh!
 description: Discusses challenges in automating builds, testing, and deployment for SQL Server BI solutions, focusing on SSIS and SSAS packages and gaps in MSBuild support.
+date: 2008-10-24
+lastmod: 2008-10-24
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: lttzdaIlzel
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 182
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-24
-weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: msbuild-and-business-intelligence-packages-ahhhhhh
 aliases:
-- /resources/lttzdaIlzel
+  - /resources/lttzdaIlzel
 aliasesArchive:
-- /blog/msbuild-and-business-intelligence-packages-ahhhhhh
-- /msbuild-and-business-intelligence-packages-ahhhhhh
-- /msbuild-and-business-intelligence-packages,-ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
-- /msbuild-and-business-intelligence-packages--ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
-- /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
+  - /msbuild-and-business-intelligence-packages-ahhhhhh
+  - /msbuild-and-business-intelligence-packages,-ahhhhhh-
+  - /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
+  - /msbuild-and-business-intelligence-packages--ahhhhhh-
+  - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
+  - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:49Z
-concepts: []
+ResourceImportId: 182
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have been trying to get a handle on doing an automated build of our Business Intelligence solutions and I am always running into problems around the (IMO badly build) BI Packages that are installed via SQL. They do not support Test, they do not support build. There has been no thought given to how people working on them are going to build test and support them and even the project files are not written in the same schema as the rest of the Visual Studio bits. I would have thought, with Team Foundation Server in its third year and second version that this would have been rectified in SQL 2008, but no such luck.

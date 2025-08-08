@@ -1,31 +1,34 @@
 ---
 title: Visual Studio Team System 2010 Beta 1 Ships
 description: Microsoft releases the first beta of Visual Studio Team System 2010, featuring new tools for architecture, testing, lab management, TFS, and a redesigned WPF interface.
+date: 2009-05-18
+lastmod: 2009-05-18
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: -TRUW1RsR2n
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 121
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-18
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-team-system-2010-beta-1-ships
 aliases:
-- /resources/-TRUW1RsR2n
+  - /resources/-TRUW1RsR2n
 aliasesArchive:
-- /blog/visual-studio-team-system-2010-beta-1-ships
-- /visual-studio-team-system-2010-beta-1-ships
-- /resources/blog/visual-studio-team-system-2010-beta-1-ships
-tags: []
+  - /blog/visual-studio-team-system-2010-beta-1-ships
+  - /visual-studio-team-system-2010-beta-1-ships
+  - /resources/blog/visual-studio-team-system-2010-beta-1-ships
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:55Z
-concepts: []
+ResourceImportId: 121
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

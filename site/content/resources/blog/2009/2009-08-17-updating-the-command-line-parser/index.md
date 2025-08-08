@@ -1,33 +1,36 @@
 ---
 title: Updating the Command Line Parser
 description: Explains how to enhance a .NET command line parser to support multiple and nested commands, custom switches, and delegate-based execution for flexible CLI applications.
+date: 2009-08-17
+lastmod: 2009-08-17
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ZMPPpD1TIuP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 91
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-08-17
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: updating-the-command-line-parser
 aliases:
-- /resources/ZMPPpD1TIuP
+  - /resources/ZMPPpD1TIuP
 aliasesArchive:
-- /blog/updating-the-command-line-parser
-- /updating-the-command-line-parser
-- /resources/blog/updating-the-command-line-parser
-tags:
-- Software Development
+  - /blog/updating-the-command-line-parser
+  - /updating-the-command-line-parser
+  - /resources/blog/updating-the-command-line-parser
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:23:16Z
-concepts: []
+ResourceImportId: 91
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-1.png
 
 ---
 I had previously created a Command Line Parser from [Ray Hayes](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7917) codeproject article [Automatic Command Line Parsing in C#](http://www.codeproject.com/KB/recipes/commandlineparser.aspx). I had adapted it to VB.NET and upgraded it to .NET 3.5 but I recently ran into the problem with wanting a single command prompt application to handle multiple processes and multiple parameters. This would allow you to group all of a particular tasks commands into a single application. With the advent of Power Shell this format is increasingly less relevant, but with the proliferation of Power Shell many people still prefer to use the good old command line.

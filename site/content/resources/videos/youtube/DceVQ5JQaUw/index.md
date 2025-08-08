@@ -5,10 +5,10 @@ description: Explores how open, challenging conversations with agile consultants
 tldr: Allowing agile consultants to ask tough questions and engage openly with teams is essential for real transformation, as it sparks critical thinking, learning, and accountability. Restricting dialogue stifles change and limits improvement. Development managers should foster a safe environment for open conversations and be ready to embrace discomfort to achieve lasting results.
 date: 2023-05-01T07:00:05Z
 lastmod: 2023-05-01T07:00:05Z
-weight: 790
+weight: 455
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: DceVQ5JQaUw
 ResourceImport: true

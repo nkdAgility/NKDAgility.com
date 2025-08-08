@@ -4,6 +4,7 @@ short_title: Emergant Work
 description: Improves work processes by incorporating user feedback and making updates within timelines shorter than one month for faster, responsive results.
 tldr: Review and adjust your team's work based on user feedback more frequently, aiming for updates in less than a month. This helps you respond quickly to user needs and improve outcomes. Consider shortening your feedback and update cycles to stay aligned with user expectations.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 1000
 sitemap:
   filename: sitemap.xml

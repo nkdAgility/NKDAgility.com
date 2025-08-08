@@ -5,10 +5,10 @@ description: Learn what to expect from the Professional Scrum Foundations class,
 tldr: The Professional Scrum Foundations class offers hands-on, team-based learning to build practical Scrum skills and prepare for the PSM I assessment, with a focus on clear roles, transparency, and empirical process control. Participants who take the assessment soon after the class and use provided resources are more likely to succeed. Investing in this training can improve team collaboration and Agile adoption across your organisation.
 date: 2020-05-28T05:34:33Z
 lastmod: 2020-05-28T05:34:33Z
-weight: 810
+weight: 530
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: pP8AnHBZEXc
 ResourceImport: true

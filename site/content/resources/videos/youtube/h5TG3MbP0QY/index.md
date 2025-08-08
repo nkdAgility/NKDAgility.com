@@ -33,7 +33,8 @@ concepts:
   - Ethos
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:11:11Z
   short_title: 2025-07-07T17:54:17Z

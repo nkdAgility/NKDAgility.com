@@ -5,10 +5,10 @@ description: Explores how outdated Taylorist management limits creativity and tr
 tldr: Many organizations still follow outdated management styles that prioritize efficiency over creativity, which stifles innovation and true agility. Overemphasis on metrics, lack of team autonomy, and rigid processes are signs of this problem and can lead to superficial agile adoption. Development managers should focus on fostering genuine collaboration, flexibility, and a culture that values creativity to achieve real agility.
 date: 2020-06-24T17:48:17Z
 lastmod: 2020-06-24T17:48:17Z
-weight: 715
+weight: 370
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: 56nUC8jR2v8
 ResourceImport: true
@@ -29,7 +29,9 @@ concepts:
   - Ethos
 categories:
   - Leadership
-tags: []
+tags:
+  - Personal
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:15:33Z
   short_title: 2025-07-07T17:57:57Z

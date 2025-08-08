@@ -1,34 +1,37 @@
 ---
 title: Upgrading to TFS 2010 Beta 1 and SQL Collation
 description: Explains issues upgrading from TFS 2008 to TFS 2010 Beta 1 due to SQL Server collation conflicts, error messages, and the need to align collation settings.
+date: 2009-05-26
+lastmod: 2009-05-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: NdEr9LWJ2ti
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 109
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliases:
-- /resources/NdEr9LWJ2ti
+  - /resources/NdEr9LWJ2ti
 aliasesArchive:
-- /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
-- /upgrading-to-tfs-2010-beta-1-and-sql-collation
-- /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
-tags:
-- Troubleshooting
-- Install and Configuration
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
+  - /upgrading-to-tfs-2010-beta-1-and-sql-collation
+  - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:39Z
-concepts: []
+ResourceImportId: 109
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 beta 1 and doing an upgrade of out TFS 2008 data. This did not go well…

@@ -1,35 +1,38 @@
 ---
 title: 'Office 2010 gotcha 2: Visual Studio 2008 Locks'
 description: Explains how installing Office 2010 can cause Visual Studio 2008 to freeze when editing ASPX files, and provides a fix by repairing the Web Authoring Component.
+date: 2009-07-19
+lastmod: 2009-07-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nGYbw5F1t5Y
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 100
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: office-2010-gotcha-2-visual-studio-2008-locks
 aliases:
-- /resources/nGYbw5F1t5Y
+  - /resources/nGYbw5F1t5Y
 aliasesArchive:
-- /blog/office-2010-gotcha-2-visual-studio-2008-locks
-- /office-2010-gotcha-2-visual-studio-2008-locks
-- /office-2010-gotcha-2--visual-studio-2008-locks
-- /blog/office-2010-gotcha-2--visual-studio-2008-locks
-- /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
-tags:
-- Troubleshooting
-preview: metro-visual-studio-2005-128-link-2-1.png
+  - /blog/office-2010-gotcha-2-visual-studio-2008-locks
+  - /office-2010-gotcha-2-visual-studio-2008-locks
+  - /office-2010-gotcha-2--visual-studio-2008-locks
+  - /blog/office-2010-gotcha-2--visual-studio-2008-locks
+  - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:23:30Z
-concepts: []
+ResourceImportId: 100
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---
 I am having a little problem with Visual Studio 2008 that only started after I had installed Office 2010. I found this interesting post on [Visual Studio 2008 Locks or Freezes in ASPX](http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html) from [Rinat Abdullin](http://abdullin.com/) that was a complete match to the problem I am having.

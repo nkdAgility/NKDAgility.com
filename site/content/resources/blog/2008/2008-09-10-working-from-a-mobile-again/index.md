@@ -1,34 +1,37 @@
 ---
 title: Working from a Mobile again!
 description: Discusses the need for a mobile app to manage and edit Team Foundation Server (TFS) work items offline, enabling productivity while travelling without a laptop.
+date: 2008-09-10
+lastmod: 2008-09-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xI-FYcMl1lT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 196
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: working-from-a-mobile-again
 aliases:
-- /resources/xI-FYcMl1lT
+  - /resources/xI-FYcMl1lT
 aliasesArchive:
-- /blog/working-from-a-mobile-again
-- /working-from-a-mobile-again
-- /working-from-a-mobile-again-
-- /blog/working-from-a-mobile-again-
-- /resources/blog/working-from-a-mobile-again
-tags: []
+  - /blog/working-from-a-mobile-again
+  - /working-from-a-mobile-again
+  - /working-from-a-mobile-again-
+  - /blog/working-from-a-mobile-again-
+  - /resources/blog/working-from-a-mobile-again
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:15Z
-concepts: []
+ResourceImportId: 196
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 As I am traveling today and I am not taking a laptop, I want to be able to do a little personal work from my mobile..

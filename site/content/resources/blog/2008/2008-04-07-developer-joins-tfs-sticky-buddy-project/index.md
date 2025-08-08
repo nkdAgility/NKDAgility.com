@@ -1,31 +1,34 @@
 ---
 title: Developer joins TFS Sticky Buddy project
 description: A new developer, Eric Willeke, has joined the TFS Sticky Buddy project team, bringing experience as a tester to help improve and advance the project’s development.
+date: 2008-04-07
+lastmod: 2008-04-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ghXEm8qg1Pz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 242
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: developer-joins-tfs-sticky-buddy-project
 aliases:
-- /resources/ghXEm8qg1Pz
+  - /resources/ghXEm8qg1Pz
 aliasesArchive:
-- /blog/developer-joins-tfs-sticky-buddy-project
-- /developer-joins-tfs-sticky-buddy-project
-- /resources/blog/developer-joins-tfs-sticky-buddy-project
-tags: []
+  - /blog/developer-joins-tfs-sticky-buddy-project
+  - /developer-joins-tfs-sticky-buddy-project
+  - /resources/blog/developer-joins-tfs-sticky-buddy-project
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:25Z
-concepts: []
+ResourceImportId: 242
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.

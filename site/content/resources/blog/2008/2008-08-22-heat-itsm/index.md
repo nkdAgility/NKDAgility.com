@@ -1,32 +1,35 @@
 ---
 title: Heat ITSM
 description: Describes integrating Heat ITSM with Team Foundation Server to sync and manage support calls, automate work item creation, and streamline IT support workflows.
+date: 2008-08-22
+lastmod: 2008-08-22
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YKQN4PBqwk2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 207
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-22
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: heat-itsm
 aliases:
-- /resources/YKQN4PBqwk2
+  - /resources/YKQN4PBqwk2
 aliasesArchive:
-- /blog/heat-itsm
-- /heat-itsm
-- /resources/blog/heat-itsm
-tags: []
+  - /blog/heat-itsm
+  - /heat-itsm
+  - /resources/blog/heat-itsm
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:35Z
-concepts: []
+ResourceImportId: 207
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---
 [![Heat ITSM Logo](images/HeatITSM_78C9-Logo_heat_thumb-3-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HeatITSM_78C9-Logo_heat_2.jpg)In Aggreko we use a product called Heat ITSM to manage our support calls.  Now all of these calls are tracked using its tracking system, but we (Group Development) want to track using Team System. We need some way of moving and syncing items between these two systems.

@@ -5,10 +5,10 @@ description: Explores how lean governance reduces unnecessary processes, enablin
 tldr: Excessive or siloed governance can slow down your organisation and stifle innovation, often leading to unnecessary processes that do not add value. Focusing on lean governance by regularly reviewing policies, integrating compliance into your tools, and eliminating waste helps maintain agility and efficiency. Review your current governance practices and remove or streamline anything that does not directly support compliance or business value.
 date: 2025-02-09T22:00:37Z
 lastmod: 2025-02-09T22:00:37Z
-weight: 840
+weight: 580
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: yvIanYh3bcQ
 ResourceImport: true

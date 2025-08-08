@@ -1,34 +1,37 @@
 ---
 title: Retrieving an identity from Team Foundation Server using only the display name
 description: Explains how to retrieve a user or group identity from Team Foundation Server using only a display name, including handling Active Directory lookups and group assignments.
+date: 2008-12-01
+lastmod: 2008-12-01
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: oz3cfvmwtph
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 159
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-01
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
-- /resources/oz3cfvmwtph
+  - /resources/oz3cfvmwtph
 aliasesArchive:
-- /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-- /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-tags:
-- Software Development
-- Windows
+  - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+  - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+  - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Windows
 Watermarks:
   description: 2025-05-13T16:22:16Z
-concepts: []
+ResourceImportId: 159
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 This is a lot harder than it sounds. At first you think there will be a built in option with the [Read Identities](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.readidentities.aspx) method on the [IGroupSecurityService](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.aspx) Interface, but you would be wrong!

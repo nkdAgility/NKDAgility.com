@@ -1,34 +1,37 @@
 ---
 title: Installing Visual Studio 2008 Team Suite on Windows 7
 description: Step-by-step guide to installing Visual Studio 2008 Team Suite on Windows 7, including setup issues, component selection, and tips for running in a virtual environment.
+date: 2009-01-09
+lastmod: 2009-01-09
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xxZKrAlxQiH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 147
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-09
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2008-team-suite-on-windows-7
 aliases:
-- /resources/xxZKrAlxQiH
+  - /resources/xxZKrAlxQiH
 aliasesArchive:
-- /blog/installing-visual-studio-2008-team-suite-on-windows-7
-- /installing-visual-studio-2008-team-suite-on-windows-7
-- /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
-tags:
-- Windows
-- Install and Configuration
-preview: metro-visual-studio-2005-128-link-9-9.png
+  - /blog/installing-visual-studio-2008-team-suite-on-windows-7
+  - /installing-visual-studio-2008-team-suite-on-windows-7
+  - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:21:58Z
-concepts: []
+ResourceImportId: 147
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-9-9.png
 
 ---
 I am installing VS2008 in a virtual environment, so this may not be exactly what you would get, but the purpose is to identify if VS2008 does indeed work on Windows 7 and what the experience is like.

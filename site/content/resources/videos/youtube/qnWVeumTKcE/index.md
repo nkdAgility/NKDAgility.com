@@ -5,7 +5,7 @@ description: Overview of the Scrum.org Professional Scrum Master (PSM) training,
 tldr: The Scrum.org PSM training provides a practical overview of Scrum principles and how to apply them effectively in real projects. Key insights include the importance of understanding Scrum roles, events, and artifacts, and how to foster team collaboration for better outcomes. Development managers should consider this training to help their teams adopt Scrum practices more successfully.
 date: 2021-07-24T07:58:47Z
 lastmod: 2021-07-24T07:58:47Z
-weight: 920
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

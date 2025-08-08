@@ -1,35 +1,37 @@
 ---
 title: 'Post Event: MSDN Roadshow (Glasgow)'
 description: Insights from the MSDN Roadshow in Glasgow, covering ADO.NET Entity Framework, Data Services, Silverlight 2, and Team Suite, plus event resources and highlights.
+date: 2008-05-14
+lastmod: 2008-05-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: yCxWv4R5Eps
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 228
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: post-event-msdn-roadshow-glasgow
 aliases:
-- /resources/blog/post-event-msdn-roadshow-glasgow
-- /resources/yCxWv4R5Eps
+  - /resources/yCxWv4R5Eps
 aliasesArchive:
-- /blog/post-event-msdn-roadshow-glasgow
-- /post-event-msdn-roadshow-glasgow
-- /post-event--msdn-roadshow-(glasgow)
-- /blog/post-event--msdn-roadshow-(glasgow)
-- /resources/blog/post-event-msdn-roadshow-glasgow
-tags: []
+  - /blog/post-event-msdn-roadshow-glasgow
+  - /post-event-msdn-roadshow-glasgow
+  - /post-event--msdn-roadshow-(glasgow)
+  - /blog/post-event--msdn-roadshow-(glasgow)
+  - /resources/blog/post-event-msdn-roadshow-glasgow
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:06Z
-concepts: []
+ResourceImportId: 228
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Spent the day yesterday at the MSDN Roadshow in Glasgow. It was a very good day that provided me a deeper insight into the ADO.NET Entity Framework, Data Services and Silverlight 2 (Which I like even though I did not like Silverlight 1... no JavaScript![smile_regular](images/smile_regular-2-2.gif)).

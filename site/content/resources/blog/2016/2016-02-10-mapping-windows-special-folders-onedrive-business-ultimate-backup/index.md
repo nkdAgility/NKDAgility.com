@@ -30,6 +30,7 @@ categories:
   - Uncategorized
 tags:
   - Windows
+  - Miscellaneous
   - System Configuration
 Watermarks:
   description: 2025-05-07T13:16:48Z

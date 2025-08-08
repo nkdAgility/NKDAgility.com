@@ -34,6 +34,7 @@ categories:
   - Uncategorized
 tags:
   - Agnostic Agile
+  - Continuous Learning
   - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:07:32Z

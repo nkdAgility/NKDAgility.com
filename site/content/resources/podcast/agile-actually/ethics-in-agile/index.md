@@ -5,10 +5,10 @@ description: Explores the role of precise language and transparency in Agile, hi
 tldr: The podcast highlights the critical role of precise and transparent language in Agile environments, emphasizing that clarity in communication directly impacts team effectiveness and ethical practice. Key insights include the importance of saying exactly what you mean and understanding the context of your words. Development managers should ensure their teams prioritize clear, accurate communication to support better collaboration and outcomes.
 date: 2023-10-26
 lastmod: 2023-10-26
-weight: 900
+weight: 615
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 author: MrHinsh
 ResourceId: hWrztsvRPAi

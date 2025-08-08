@@ -1,36 +1,39 @@
 ---
 title: Least opportune time.
 description: A developer faces a CodePlex TFS server outage while releasing TFS Sticky Buddy v2.0, highlighting the impact of downtime on software deployment and version control.
+date: 2008-11-20
+lastmod: 2008-11-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wBoC9CmdiGq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 163
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: least-opportune-time
 aliases:
-- /resources/blog/least-opportune-time.
-- /resources/wBoC9CmdiGq
+  - /resources/blog/least-opportune-time.
+  - /resources/wBoC9CmdiGq
 aliasesArchive:
-- /blog/least-opportune-time
-- /least-opportune-time
-- /least-opportune-time-
-- /blog/least-opportune-time-
-- /resources/blog/least-opportune-time
-- /resources/blog/least-opportune-time.
-tags: []
+  - /blog/least-opportune-time
+  - /least-opportune-time
+  - /least-opportune-time-
+  - /blog/least-opportune-time-
+  - /resources/blog/least-opportune-time
+  - /resources/blog/least-opportune-time.
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:22Z
-concepts: []
+ResourceImportId: 163
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)

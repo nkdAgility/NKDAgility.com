@@ -5,10 +5,10 @@ description: Many Scrum Masters stop at PSM1 due to lack of passion. Ongoing lea
 tldr: Many Scrum Masters do not progress beyond the PSM1 certification because they lack genuine interest and focus only on obtaining the certificate rather than improving their skills. Those who advance are passionate, actively seek knowledge, and practice their craft, which leads to greater team effectiveness and value creation. Development managers should encourage ongoing learning and engagement to foster deeper expertise and professional growth in their Scrum Masters.
 date: 2023-04-07T07:00:20Z
 lastmod: 2023-04-07T07:00:20Z
-weight: 805
+weight: 525
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: vWfebO_pwIU
 ResourceImport: true

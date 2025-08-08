@@ -5,7 +5,7 @@ description: Real user feedback is essential in product development to validate 
 tldr: Product value is only proven when real users interact with your product, so early and ongoing user feedback is essential to validate assumptions and guide development. Engaging users early, testing with prototypes or MVPs, and iterating based on feedback help ensure your product meets real needs and delivers genuine value. Prioritise getting your product in front of users quickly to maximise impact and avoid wasted effort.
 date: 2025-02-07T07:52:12Z
 lastmod: 2025-02-07T07:52:12Z
-weight: 865
+weight: 670
 sitemap:
   filename: sitemap.xml
   priority: 0.1

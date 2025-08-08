@@ -43,6 +43,7 @@ tags:
   - Team Collaboration
   - Team Performance
   - Value Delivery
+  - Operational Practices
   - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:08:01Z

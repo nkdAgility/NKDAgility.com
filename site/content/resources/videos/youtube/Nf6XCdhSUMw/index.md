@@ -37,6 +37,7 @@ tags:
   - Metrics and Learning
   - Evidence Based Management
   - Pragmatic Thinking
+  - Personal
   - Operational Practices
 Watermarks:
   description: 2025-05-07T13:02:09Z

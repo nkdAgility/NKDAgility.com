@@ -5,10 +5,10 @@ description: Discover how hands-on Scrum training using Minecraft helps learners
 tldr: Teaching Scrum through hands-on experience, including using Minecraft, helps participants move from initial chaos to a clear understanding of Scrum’s value. Students first experience confusion similar to real project starts, then learn to apply Scrum principles, leading to practical insights and improved teamwork. Development managers should consider experiential learning to help teams internalise agile practices and appreciate their real-world benefits.
 date: 2023-01-09T12:36:53Z
 lastmod: 2023-01-09T12:36:53Z
-weight: 795
+weight: 465
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: vI2LBfMkPuk
 ResourceImport: true

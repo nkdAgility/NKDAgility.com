@@ -5,10 +5,10 @@ description: Explores why Scrum's "twice the work in half the time" claim is mis
 tldr: The idea that Scrum enables teams to do twice the work in half the time is misleading and sets unrealistic expectations; Scrum is about delivering greater value to customers, not just increasing output. Focusing on outcomes rather than the number of features helps teams avoid burnout and frustration, and practices should be adapted to each team's context rather than following so-called best practices. Development managers should prioritize value delivery and continuous improvement over chasing productivity slogans.
 date: 2023-02-02T07:00:13Z
 lastmod: 2023-02-02T07:00:13Z
-weight: 725
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: e7L0NFYUFSw
 ResourceImport: true

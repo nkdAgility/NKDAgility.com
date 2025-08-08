@@ -5,10 +5,10 @@ description: Explains how identifying and validating unrealised value, understan
 tldr: Unrealised value, or the features your users need but you have not built or identified yet, is often overlooked but crucial for product success. To unlock this value, focus on understanding your users, validate assumptions with small experiments before full development, and increase deployment frequency to speed up feedback and learning. Make it a priority to continuously learn from your market and adapt your product strategy to stay relevant and maximise impact.
 date: 2025-02-11T06:00:40Z
 lastmod: 2025-02-11T06:00:40Z
-weight: 680
+weight: 460
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: ynIqkNbDN8I
 ResourceImport: true
@@ -34,6 +34,7 @@ categories:
 tags:
   - Customer Focus
   - Unrealised Value
+  - Professional Scrum
   - Evidence Based Management
   - Agile Product Management
   - Agile Strategy
@@ -46,7 +47,6 @@ tags:
   - Frequent Releases
   - Hypothesis Driven Development
   - Market Adaptability
-  - Metrics and Learning
 Watermarks:
   description: 2025-05-07T12:49:39Z
   short_title: 2025-07-07T17:46:35Z

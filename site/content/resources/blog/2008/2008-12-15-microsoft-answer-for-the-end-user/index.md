@@ -1,33 +1,36 @@
 ---
 title: Microsoft Answer for the end-user
 description: A user-friendly Microsoft Answers forum for Windows Vista, offering clear, non-technical help on updates, hardware, networking, security, performance, and more.
+date: 2008-12-15
+lastmod: 2008-12-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: KIMZ-rpIxds
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 151
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-answer-for-the-end-user
 aliases:
-- /resources/KIMZ-rpIxds
+  - /resources/KIMZ-rpIxds
 aliasesArchive:
-- /blog/microsoft-answer-for-the-end-user
-- /microsoft-answer-for-the-end-user
-- /resources/blog/microsoft-answer-for-the-end-user
+  - /blog/microsoft-answer-for-the-end-user
+  - /microsoft-answer-for-the-end-user
+  - /resources/blog/microsoft-answer-for-the-end-user
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Windows
+  - Windows
 Watermarks:
   description: 2025-05-13T16:22:05Z
-concepts: []
+ResourceImportId: 151
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Up until now the only avenue for your average Vista user for support was to trawl the MSDN Forums, Technet Forums and the Support site for some elusive piece of information that is buried among all that technical BS that we teckies like to call help.

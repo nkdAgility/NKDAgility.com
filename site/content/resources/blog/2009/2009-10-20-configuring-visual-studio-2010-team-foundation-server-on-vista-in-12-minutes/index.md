@@ -1,34 +1,37 @@
 ---
 title: Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes
 description: Step-by-step guide to configuring Visual Studio 2010 Team Foundation Server on Windows Vista, including setup options, compatibility notes, and tips for a quick install.
+date: 2009-10-20
+lastmod: 2009-10-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4Rw-WfXaIBU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 83
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 aliases:
-- /resources/4Rw-WfXaIBU
+  - /resources/4Rw-WfXaIBU
 aliasesArchive:
-- /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-- /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-- /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-tags:
-- Install and Configuration
-- System Configuration
-preview: metro-aggreko-128-link-17-17.png
+  - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+  - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+  - /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:23:07Z
-concepts: []
+ResourceImportId: 83
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-aggreko-128-link-17-17.png
 
 ---
 As Microsoft have separated Install with configuration, so I have separated my posts! You will need TFS2010 [installed](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) prior to the steps below.

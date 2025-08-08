@@ -36,6 +36,7 @@ categories:
   - Scrum
 tags:
   - Product Backlog
+  - Personal
   - Agile Planning
   - Operational Practices
   - Pragmatic Thinking

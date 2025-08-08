@@ -1,34 +1,37 @@
 ---
 title: A problem with Diarist 2!
 description: User lost a blog post in Diarist 2 after accidentally using the blog selection dropdown, suggesting its removal to prevent data loss and improve usability.
+date: 2008-09-10
+lastmod: 2008-09-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Pq0Hdy2qZ05
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 195
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-problem-with-diarist-2
 aliases:
-- /resources/Pq0Hdy2qZ05
+  - /resources/Pq0Hdy2qZ05
 aliasesArchive:
-- /blog/a-problem-with-diarist-2
-- /a-problem-with-diarist-2
-- /a-problem-with-diarist-2-
-- /blog/a-problem-with-diarist-2-
-- /resources/blog/a-problem-with-diarist-2
-tags: []
+  - /blog/a-problem-with-diarist-2
+  - /a-problem-with-diarist-2
+  - /a-problem-with-diarist-2-
+  - /blog/a-problem-with-diarist-2-
+  - /resources/blog/a-problem-with-diarist-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:17Z
-concepts: []
+ResourceImportId: 195
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 {Rant}

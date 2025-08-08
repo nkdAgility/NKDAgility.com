@@ -31,10 +31,10 @@ tags:
   - Self Organisation
   - Professional Scrum
   - Pragmatic Thinking
+  - Team Collaboration
   - Agile Planning
   - Team Performance
   - Team Motivation
-  - Team Collaboration
   - Value Delivery
   - Common Goals
   - Agile Leadership

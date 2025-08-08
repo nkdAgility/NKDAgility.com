@@ -1,32 +1,35 @@
 ---
 title: Cool new feature in IE8
 description: Internet Explorer 8 introduces enhanced address bar features, making it easier and faster to find and revisit websites for improved browsing efficiency.
+date: 2008-08-28
+lastmod: 2008-08-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wd7JhsgRpbS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 202
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: cool-new-feature-in-ie8
 aliases:
-- /resources/wd7JhsgRpbS
+  - /resources/wd7JhsgRpbS
 aliasesArchive:
-- /blog/cool-new-feature-in-ie8
-- /cool-new-feature-in-ie8
-- /resources/blog/cool-new-feature-in-ie8
-tags: []
-preview: nakedalm-logo-128-link-2-2.png
+  - /blog/cool-new-feature-in-ie8
+  - /cool-new-feature-in-ie8
+  - /resources/blog/cool-new-feature-in-ie8
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:24Z
-concepts: []
+ResourceImportId: 202
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 It may be simple, and it may be small, but the feature that hit me first and greatest in IE8 was the address bar enhancements. This feature alone would have me upgrading:

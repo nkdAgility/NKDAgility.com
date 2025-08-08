@@ -1,34 +1,37 @@
 ---
 title: Bug in ObservableCollection?
 description: Explains issues using ObservableCollection with generic types in .NET, why errors occur, and discusses workarounds and limitations when working with custom classes.
+date: 2008-04-14
+lastmod: 2008-04-14
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: L9aNTno7QM3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 240
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-14
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: bug-in-observablecollection
 aliases:
-- /resources/L9aNTno7QM3
+  - /resources/L9aNTno7QM3
 aliasesArchive:
-- /blog/bug-in-observablecollection
-- /bug-in-observablecollection
-- /bug-in-observablecollection-
-- /blog/bug-in-observablecollection-
-- /resources/blog/bug-in-observablecollection
-tags: []
+  - /blog/bug-in-observablecollection
+  - /bug-in-observablecollection
+  - /bug-in-observablecollection-
+  - /blog/bug-in-observablecollection-
+  - /resources/blog/bug-in-observablecollection
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:23Z
-concepts: []
+ResourceImportId: 240
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 I seam to be having a little problem. Now, this may be me being stupid, but I can't get an ObservableCollection to work if you pass it a generic type!

@@ -5,10 +5,10 @@ description: Highlights the impact of Jernimo Palacios on agile practices throug
 tldr: Jernimo Palacios has played a key role in advancing agile practices in Spain by sharing his expertise, building a collaborative community, and mentoring others. His openness and support have helped many navigate agile challenges and encouraged continuous improvement and knowledge sharing. Development managers should foster similar mentorship and collaboration within their teams to drive growth and adaptability.
 date: 2023-05-04T07:00:07Z
 lastmod: 2023-05-04T07:00:07Z
-weight: 755
+weight: 340
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: JNJerYuU30E
 ResourceImport: true
@@ -32,7 +32,7 @@ source: youtube
 layout: video
 concepts: []
 categories:
-  - Uncategorized
+  - Technical Leadership
 tags:
   - Mentoring
   - Personal

@@ -1,32 +1,35 @@
 ---
 title: Installing Office 2010 gotcha 1
 description: Explains issues when upgrading from Office 2007 32-bit to Office 2010 64-bit, including uninstall requirements, Outlook settings loss, and automation challenges.
+date: 2009-07-16
+lastmod: 2009-07-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: cbNAkHnRhAW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 104
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-office-2010-gotcha-1
 aliases:
-- /resources/cbNAkHnRhAW
+  - /resources/cbNAkHnRhAW
 aliasesArchive:
-- /blog/installing-office-2010-gotcha-1
-- /installing-office-2010-gotcha-1
-- /resources/blog/installing-office-2010-gotcha-1
-tags: []
-preview: nakedalm-logo-128-link-2-2.png
+  - /blog/installing-office-2010-gotcha-1
+  - /installing-office-2010-gotcha-1
+  - /resources/blog/installing-office-2010-gotcha-1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:34Z
-concepts: []
+ResourceImportId: 104
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 I am installing office 2010, and I ran into my first gotcha!

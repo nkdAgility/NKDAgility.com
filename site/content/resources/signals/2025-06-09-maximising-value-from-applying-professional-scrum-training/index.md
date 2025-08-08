@@ -39,6 +39,7 @@ tags:
   - Software Development
   - Personal
   - Pragmatic Thinking
+  - Agentic Agility
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7337863687812116481

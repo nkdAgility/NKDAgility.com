@@ -28,8 +28,8 @@ categories:
 tags:
   - Operational Practices
   - Flow Efficiency
-  - Team Performance
   - Software Development
+  - Team Performance
   - Lean Principles
   - Lean Thinking
   - Pragmatic Thinking

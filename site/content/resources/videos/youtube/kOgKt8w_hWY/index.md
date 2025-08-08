@@ -5,10 +5,10 @@ description: Explores how DevOps enhances enterprise collaboration, continuous i
 tldr: DevOps can transform enterprise software teams by fostering collaboration, encouraging continuous improvement, and enabling automation, which together lead to faster delivery and higher quality. Focusing on a customer-centric approach helps teams respond quickly to feedback and market changes. Development managers should prioritize building a culture that supports these principles to drive meaningful organizational change.
 date: 2020-06-16T12:16:52Z
 lastmod: 2020-06-16T12:16:52Z
-weight: 620
+weight: 300
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ResourceId: kOgKt8w_hWY
 ResourceImport: true

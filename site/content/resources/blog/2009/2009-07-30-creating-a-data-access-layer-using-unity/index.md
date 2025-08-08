@@ -1,34 +1,37 @@
 ---
 title: Creating a Data Access layer using Unity
 description: Learn how to build a flexible data access layer in .NET using Unity for dependency injection, interface mapping, and factory patterns with configuration support.
+date: 2009-07-30
+lastmod: 2009-07-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ChjJ40t-403
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 95
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-data-access-layer-using-unity
 aliases:
-- /resources/ChjJ40t-403
+  - /resources/ChjJ40t-403
 aliasesArchive:
-- /blog/creating-a-data-access-layer-using-unity
-- /creating-a-data-access-layer-using-unity
-- /resources/blog/creating-a-data-access-layer-using-unity
-tags:
-- Software Development
-- Technical Mastery
+  - /blog/creating-a-data-access-layer-using-unity
+  - /creating-a-data-access-layer-using-unity
+  - /resources/blog/creating-a-data-access-layer-using-unity
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-5-5.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:23:24Z
-concepts: []
+ResourceImportId: 95
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-5-5.png
 
 ---
 I am always pulling out the Unity assemblies. Maybe it is just because I am lazy, but I really can’t be bothered rolling my own dependency injection and mapping framework!

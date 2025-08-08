@@ -27,19 +27,19 @@ categories:
 tags:
   - Software Development
   - Continuous Delivery
-  - Continuous Integration
   - Product Delivery
   - Operational Practices
   - Technical Mastery
+  - Continuous Integration
   - Engineering Practices
   - Value Delivery
-  - Modern Source Control
   - Pragmatic Thinking
   - Frequent Releases
   - Deployment Strategies
   - Market Adaptability
   - Deployment Frequency
   - Release Management
+  - Flow Efficiency
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7294029715663716353

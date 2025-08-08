@@ -26,12 +26,12 @@ categories:
 tags:
   - Agile Philosophy
   - Market Adaptability
+  - Enterprise Agility
   - Pragmatic Thinking
   - Business Agility
   - Organisational Agility
   - Agile Values and Principles
   - Agile Transformation
-  - Enterprise Agility
   - Change Management
   - Agile Strategy
   - Miscellaneous

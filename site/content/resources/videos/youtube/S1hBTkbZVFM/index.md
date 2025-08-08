@@ -37,6 +37,7 @@ tags:
   - Agile Transformation
   - Coaching
   - Agile Leadership
+  - Personal
 Watermarks:
   description: 2025-05-07T13:07:43Z
   short_title: 2025-07-07T17:51:39Z

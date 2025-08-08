@@ -29,6 +29,7 @@ concepts:
 categories:
   - Uncategorized
 tags:
+  - Miscellaneous
   - Windows
   - Install and Configuration
 Watermarks:

@@ -40,13 +40,13 @@ tags:
   - Technical Mastery
   - Operational Practices
   - Market Adaptability
+  - Frequent Releases
   - Product Delivery
   - Evidence Based Management
   - Deployment Frequency
   - Metrics and Learning
   - Organisational Agility
   - Technical Excellence
-  - Frequent Releases
   - Azure DevOps
   - Business Agility
   - Release Management

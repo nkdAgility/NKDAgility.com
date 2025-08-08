@@ -5,10 +5,10 @@ description: Explains how focusing on isolated improvements in governance can ha
 tldr: Focusing on optimising individual teams or processes without considering their impact on the whole organisation can create inefficiencies and misalignment. Integrating governance into daily work and encouraging cross-team collaboration helps ensure decisions support overall business goals. Development managers should prioritise system-wide alignment over isolated improvements to drive lasting organisational success.
 date: 2025-02-08T07:49:38Z
 lastmod: 2025-02-08T07:49:38Z
-weight: 770
+weight: 525
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: ACZWkkvKEnw
 ResourceImport: true

@@ -5,10 +5,10 @@ description: Explores the origins of Taylorism in modern management, its impact 
 tldr: Many organizations still use outdated management practices from the industrial era that focus on control and repetition, which do not fit modern software development. Although most teams claim to be agile, very few actually use key agile practices like short iterations, ordered backlogs, or regular retrospectives, mainly because they lack effective feedback loops. Development managers should critically assess whether their teams are truly agile and prioritize building real feedback mechanisms to improve outcomes.
 date: 2020-04-01
 lastmod: 2020-04-01
-weight: 835
+weight: 640
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 ResourceId: IDMjGi5C8lS
 ResourceImport: false

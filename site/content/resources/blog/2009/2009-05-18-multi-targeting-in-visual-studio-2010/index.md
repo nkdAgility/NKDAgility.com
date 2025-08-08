@@ -1,32 +1,35 @@
 ---
 title: Multi-Targeting in Visual Studio 2010
 description: Explains how Visual Studio 2010 allows developers to target multiple .NET Framework versions, enabling work on legacy and new projects within a single environment.
+date: 2009-05-18
+lastmod: 2009-05-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: j92AlbTRvDq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 117
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: multi-targeting-in-visual-studio-2010
 aliases:
-- /resources/j92AlbTRvDq
+  - /resources/j92AlbTRvDq
 aliasesArchive:
-- /blog/multi-targeting-in-visual-studio-2010
-- /multi-targeting-in-visual-studio-2010
-- /resources/blog/multi-targeting-in-visual-studio-2010
-tags: []
+  - /blog/multi-targeting-in-visual-studio-2010
+  - /multi-targeting-in-visual-studio-2010
+  - /resources/blog/multi-targeting-in-visual-studio-2010
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:57Z
-concepts: []
+ResourceImportId: 117
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 ![VS-TS_rgb_thumb[2][5][5][5]](images/MultiTargetinginVisualStudio2010_EBFB-VSTS_rgb_thumb2555-4-4.png)We thought that we had it good in Visual Studio 2008, being able to target .NET 2.0, 3.0 and 3.5, but in reality they were all running on the .NET 2.0 Runtime, just with a different set of available libraries. Well Visual Studio 2010 take it that little bit further by being able to target .NET 2.0, 3.0, 3.5 and 4.0.

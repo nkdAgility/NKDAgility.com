@@ -1,37 +1,40 @@
 ---
 title: Creating a WPF Work Item Control
 description: Learn how to build a custom WPF work item control for Visual Studio Team System, enabling WPF UI integration in work item forms using a generic wrapper and IWorkItemControl.
+date: 2008-09-19
+lastmod: 2008-09-19
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4vBEBY-yvDB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 191
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-19
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-wpf-work-item-control
 aliases:
-- /resources/4vBEBY-yvDB
+  - /resources/4vBEBY-yvDB
 aliasesArchive:
-- /blog/creating-a-wpf-work-item-control
-- /creating-a-wpf-work-item-control
-- /resources/blog/creating-a-wpf-work-item-control
-tags:
-- Windows
-- Software Development
-- Azure DevOps
-- Technical Mastery
-- Internal Developer Platform
+  - /blog/creating-a-wpf-work-item-control
+  - /creating-a-wpf-work-item-control
+  - /resources/blog/creating-a-wpf-work-item-control
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-6-6.png
+  - Uncategorized
+tags:
+  - Windows
+  - Software Development
+  - Azure DevOps
+  - Technical Mastery
+  - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T16:23:07Z
-concepts: []
+ResourceImportId: 191
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---
 I have a little custom control I need added to my [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") projects. This control will allow specific groups of users as representatives of Advocacy groups with in the life cycle model to sign off a Requirement or Change Request from within Visual Studio.

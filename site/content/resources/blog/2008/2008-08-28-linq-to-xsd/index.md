@@ -1,32 +1,35 @@
 ---
 title: LINQ to XSD
 description: Explains how to use LINQ to XSD in C# to generate classes from XSD files, including setup steps, project configuration, and integration with MSBuild.
+date: 2008-08-28
+lastmod: 2008-08-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6v73sdkKVTr
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 203
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: linq-to-xsd
 aliases:
-- /resources/6v73sdkKVTr
+  - /resources/6v73sdkKVTr
 aliasesArchive:
-- /blog/linq-to-xsd
-- /linq-to-xsd
-- /resources/blog/linq-to-xsd
-tags: []
+  - /blog/linq-to-xsd
+  - /linq-to-xsd
+  - /resources/blog/linq-to-xsd
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:29Z
-concepts: []
+ResourceImportId: 203
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 Absolutely brilliant. That's what I think of Linq to XSD. Disappointed that is only works in C#, but having to use C# for a single project out of a solution it is a small price to pay to get the functionality.

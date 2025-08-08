@@ -5,10 +5,10 @@ description: 'Explains key Scrum concepts: distinguishing Definition of Done fro
 tldr: Focus on team productivity rather than just feature count, and ensure everyone understands the difference between Definition of Done, which sets quality standards, and acceptance criteria, which specify requirements for each item. Use backlog refinement to address unknowns instead of relying on spikes, and plan sprint capacity to accommodate some ad hoc work while maintaining transparency and continuous improvement. Review your team’s approach to these areas to improve delivery and reduce disruptions.
 date: 2020-06-04T05:33:42Z
 lastmod: 2020-06-04T05:33:42Z
-weight: 635
+weight: 300
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ResourceId: gc8Pq_5CepY
 ResourceImport: true

@@ -1,34 +1,37 @@
 ---
 title: Installing Visual Studio 2008 Team Foundation Server SP1
 description: Step-by-step guide to installing Visual Studio 2008 Team Foundation Server SP1, including backup, testing, troubleshooting, and rollback procedures for safe deployment.
+date: 2009-11-12
+lastmod: 2009-11-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DLfCYd5JcOQ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 79
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-11-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2008-team-foundation-server-sp1
 aliases:
-- /resources/DLfCYd5JcOQ
+  - /resources/DLfCYd5JcOQ
 aliasesArchive:
-- /blog/installing-visual-studio-2008-team-foundation-server-sp1
-- /installing-visual-studio-2008-team-foundation-server-sp1
-- /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
-tags:
-- Install and Configuration
-- System Configuration
-preview: metro-visual-studio-2005-128-link-10-10.png
+  - /blog/installing-visual-studio-2008-team-foundation-server-sp1
+  - /installing-visual-studio-2008-team-foundation-server-sp1
+  - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:58Z
-concepts: []
+ResourceImportId: 79
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-10-10.png
 
 ---
 I have been trying since SP1 was released to get it installed at Aggreko, but due to our global, three time zones, development team and release schedules it has been very difficult to get some time set aside for it.

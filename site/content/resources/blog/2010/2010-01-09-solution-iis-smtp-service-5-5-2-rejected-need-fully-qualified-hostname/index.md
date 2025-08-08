@@ -1,40 +1,43 @@
 ---
 title: 'Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname'
 description: Explains how to resolve IIS SMTP error 5.5.2 by configuring a fully qualified domain name, ensuring outgoing emails are accepted by recipient mail servers.
+date: 2010-01-09
+lastmod: 2010-01-09
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: FnOt4634WJy
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 72
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-01-09
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 aliases:
-- /resources/blog/solution-iis-smtp-service-5.5.2-rejected-need-fully-qualified-hostname
-- /resources/FnOt4634WJy
+  - /resources/blog/solution-iis-smtp-service-5.5.2-rejected-need-fully-qualified-hostname
+  - /resources/FnOt4634WJy
 aliasesArchive:
-- /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
-- /solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
-- /solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
-- /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
-- /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
-- /resources/blog/solution-iis-smtp-service-5.5.2-rejected-need-fully-qualified-hostname
-tags:
-- Windows
-- Troubleshooting
-- Install and Configuration
-- System Configuration
-preview: metro-SSWLogo-128-link-5-5.png
+  - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+  - /solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+  - /solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
+  - /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
+  - /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+  - /resources/blog/solution-iis-smtp-service-5.5.2-rejected-need-fully-qualified-hostname
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:47Z
-concepts: []
+ResourceImportId: 72
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-5-5.png
 
 ---
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.

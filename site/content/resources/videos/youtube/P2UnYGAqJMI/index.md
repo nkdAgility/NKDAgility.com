@@ -42,6 +42,7 @@ tags:
   - Agile Frameworks
   - Agile Values and Principles
   - Continuous Improvement
+  - Market Adaptability
 Watermarks:
   description: 2025-05-07T13:06:31Z
   short_title: 2025-07-07T17:50:21Z

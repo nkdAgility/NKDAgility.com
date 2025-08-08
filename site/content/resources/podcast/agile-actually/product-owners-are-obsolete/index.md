@@ -5,7 +5,7 @@ description: Explores whether product owners make product managers obsolete in A
 tldr: The episode discusses whether strong product owners make product managers unnecessary, featuring expert Ralph Jocham to clarify the distinct roles and responsibilities of each. Key insights include that product ownership and product management are not interchangeable and both bring unique value to software teams. Development managers should ensure both roles are clearly defined and aligned to maximize product success.
 date: 2023-04-27
 lastmod: 2023-04-27
-weight: 945
+weight: 750
 sitemap:
   filename: sitemap.xml
   priority: 0.1

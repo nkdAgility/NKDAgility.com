@@ -1,34 +1,37 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR Installation
 description: Step-by-step guide to installing Visual Studio Team System 2008 Database Edition GDR, including prerequisites, uninstalling old versions, and new project options.
+date: 2008-11-26
+lastmod: 2008-11-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: mTkoKh2H2uy
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 161
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-installation
 aliases:
-- /resources/mTkoKh2H2uy
+  - /resources/mTkoKh2H2uy
 aliasesArchive:
-- /blog/visual-studio-team-system-2008-database-edition-gdr-installation
-- /visual-studio-team-system-2008-database-edition-gdr-installation
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
-tags:
-- Install and Configuration
-- Windows
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
+  - /visual-studio-team-system-2008-database-edition-gdr-installation
+  - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T16:22:18Z
-concepts: []
+ResourceImportId: 161
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 First, download the new Data Dude.

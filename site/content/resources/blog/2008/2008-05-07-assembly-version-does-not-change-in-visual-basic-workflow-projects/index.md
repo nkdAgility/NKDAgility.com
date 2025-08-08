@@ -1,33 +1,36 @@
 ---
 title: Assembly Version does not change in Visual Basic Workflow projects
 description: Explains a Visual Basic compiler bug where assembly version numbers do not update after rebuilding, affecting Workflow and other projects, and offers manual workaround steps.
+date: 2008-05-07
+lastmod: 2008-05-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: k9UAGHKPtUz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 231
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: assembly-version-does-not-change-in-visual-basic-workflow-projects
 aliases:
-- /resources/k9UAGHKPtUz
+  - /resources/k9UAGHKPtUz
 aliasesArchive:
-- /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
-- /assembly-version-does-not-change-in-visual-basic-workflow-projects
-- /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
-tags:
-- Troubleshooting
+  - /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
+  - /assembly-version-does-not-change-in-visual-basic-workflow-projects
+  - /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:24:11Z
-concepts: []
+ResourceImportId: 231
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-4-4.png
 
 ---
 [![image](images/AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_2.png) If you are having an issue with the assembly version in your compiled assembly not updating after a rebuild then you are not alone. The is a bug in the Visual Basic compiler that causes this problem and it requires a manual fix:

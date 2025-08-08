@@ -1,36 +1,39 @@
 ---
 title: 'Found GDR Bug: At least I think it is.'
 description: Describes a bug in GDR and Data Dude where SQL views using derived tables cause unresolved reference errors, impacting database project development and validation.
+date: 2008-09-04
+lastmod: 2008-09-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LjS_IaGaE9R
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 198
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
-- /resources/blog/found-gdr-bug-at-least-i-think-it-is.
-- /resources/LjS_IaGaE9R
+  - /resources/blog/found-gdr-bug-at-least-i-think-it-is.
+  - /resources/LjS_IaGaE9R
 aliasesArchive:
-- /blog/found-gdr-bug-at-least-i-think-it-is
-- /found-gdr-bug-at-least-i-think-it-is
-- /found-gdr-bug--at-least-i-think-it-is-
-- /blog/found-gdr-bug--at-least-i-think-it-is-
-- /resources/blog/found-gdr-bug-at-least-i-think-it-is
-- /resources/blog/found-gdr-bug-at-least-i-think-it-is.
-tags: []
-preview: metro-aggreko-128-link-1-1.png
+  - /blog/found-gdr-bug-at-least-i-think-it-is
+  - /found-gdr-bug-at-least-i-think-it-is
+  - /found-gdr-bug--at-least-i-think-it-is-
+  - /blog/found-gdr-bug--at-least-i-think-it-is-
+  - /resources/blog/found-gdr-bug-at-least-i-think-it-is
+  - /resources/blog/found-gdr-bug-at-least-i-think-it-is.
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:22Z
-concepts: []
+ResourceImportId: 198
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-aggreko-128-link-1-1.png
 
 ---
 This is not isolated to GDR, but seams to exist in Data Dude as well. If you create the following SQL:

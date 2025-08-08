@@ -5,10 +5,10 @@ description: Explains how momentum—team movement with clear direction—drives
 tldr: Momentum in product delivery means not just moving quickly but ensuring everyone is aligned and moving in the same direction, which is essential for achieving shared goals. Teams with strong momentum can inspire and pull others along, making a real difference between stagnation and progress. To build and sustain this momentum, consider investing in Agile and Scrum training or coaching to foster collaboration and continuous improvement.
 date: 2023-05-16T07:00:02Z
 lastmod: 2023-05-16T07:00:02Z
-weight: 840
+weight: 570
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: 5bgfme-Pspw
 ResourceImport: true

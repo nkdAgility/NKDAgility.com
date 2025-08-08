@@ -23,9 +23,9 @@ categories:
   - Engineering Excellence
   - DevOps
 tags:
+  - Technical Mastery
   - Pragmatic Thinking
   - Software Development
-  - Technical Mastery
   - Operational Practices
   - Troubleshooting
   - Personal

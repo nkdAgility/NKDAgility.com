@@ -5,10 +5,10 @@ description: Scrum Masters are most effective when they combine leadership skill
 tldr: Scrum Masters are most effective when they combine strong leadership skills with deep understanding of their team's technical, business, and organisational context. Mastery in these three areas enables them to better remove obstacles, coach both teams and Product Owners, and drive meaningful change across the organisation. Development managers should ensure their Scrum Masters are experienced professionals who continuously build expertise in these domains to maximise team performance and value delivery.
 date: 2025-03-24T09:00:00
 lastmod: 2025-03-24T09:00:00
-weight: 175
+weight: 140
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.8
   changefreq: weekly
 contributors:
   - name: Henrik Berglund
@@ -30,11 +30,11 @@ concepts:
   - Framework
 categories:
   - Scrum
+  - Technical Leadership
   - Leadership
-  - Product Management
 tags:
-  - Social Technologies
   - Professional Scrum
+  - Social Technologies
   - Scrum Team
   - Scrum Master
   - Agile Frameworks

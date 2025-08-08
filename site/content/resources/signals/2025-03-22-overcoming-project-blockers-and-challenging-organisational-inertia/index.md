@@ -19,7 +19,8 @@ aliases:
   - /resources/aXo_GayoCuE
 source: LinkedIn
 layout: signal
-concepts: []
+concepts:
+  - Tenet
 categories:
   - Scrum
   - Technical Leadership
@@ -34,10 +35,10 @@ tags:
   - Agile Product Management
   - Self Organisation
   - Project Management
+  - Sociotechnical Systems
   - Agile Leadership
   - Team Collaboration
   - Social Technologies
-  - Sociotechnical Systems
   - Employee Engagement
 platform_signals:
   - platform: LinkedIn

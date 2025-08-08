@@ -34,6 +34,7 @@ categories:
 tags:
   - Agile Strategy
   - Common Goals
+  - Personal
   - Agile Product Management
   - Value Delivery
   - Agile Philosophy

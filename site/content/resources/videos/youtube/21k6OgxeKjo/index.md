@@ -35,6 +35,7 @@ categories:
   - Leadership
 tags:
   - Team Collaboration
+  - Value Delivery
   - Social Technologies
   - Personal
   - Product Owner

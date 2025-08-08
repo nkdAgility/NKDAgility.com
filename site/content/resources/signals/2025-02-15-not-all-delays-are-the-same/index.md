@@ -29,6 +29,7 @@ tags:
   - Miscellaneous
   - Pragmatic Thinking
   - Metrics and Learning
+  - Continuous Improvement
   - Value Stream Management
 platform_signals:
   - platform: LinkedIn

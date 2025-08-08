@@ -1,32 +1,35 @@
 ---
 title: Visual Studio 2010 Supports UML
 description: Visual Studio 2010 introduces support for UML, enabling developers to create and manage Unified Modeling Language diagrams directly within the IDE.
+date: 2009-05-18
+lastmod: 2009-05-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: KVyRCUy-XJW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 116
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-supports-uml
 aliases:
-- /resources/KVyRCUy-XJW
+  - /resources/KVyRCUy-XJW
 aliasesArchive:
-- /blog/visual-studio-2010-supports-uml
-- /visual-studio-2010-supports-uml
-- /resources/blog/visual-studio-2010-supports-uml
-tags: []
+  - /blog/visual-studio-2010-supports-uml
+  - /visual-studio-2010-supports-uml
+  - /resources/blog/visual-studio-2010-supports-uml
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:56Z
-concepts: []
+ResourceImportId: 116
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 ![VS-TS_rgb_thumb[2][5][5][5][5]](images/VisualStudio2010SupportsUML_EC8C-VS-TS_rgb_thumb25555_-3-3.png)Just in case you have been living in a shed at the bottom of the garden, Visual Studio 2010 is to support UML. As you can see from my diagram, my UML skills are a little, erm, crude. But I think you will get the picture and if you want to do better then just download [Visual Studio 2010 on Wednesday](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) if you are not an MSDN subscribe, and if you are… well you can get it today :)

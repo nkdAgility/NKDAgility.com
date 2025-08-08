@@ -1,32 +1,35 @@
 ---
 title: Windows Azure Training Kit
 description: Comprehensive training resources for Windows Azure, including hands-on labs, demo scripts, and presentations on cloud services, .NET, SQL, and Live Services.
+date: 2009-02-20
+lastmod: 2009-02-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5GEKVUBfbi2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 136
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-02-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-azure-training-kit
 aliases:
-- /resources/5GEKVUBfbi2
+  - /resources/5GEKVUBfbi2
 aliasesArchive:
-- /blog/windows-azure-training-kit
-- /windows-azure-training-kit
-- /resources/blog/windows-azure-training-kit
-tags: []
-preview: metro-cloud-azure-link-3-1.png
+  - /blog/windows-azure-training-kit
+  - /windows-azure-training-kit
+  - /resources/blog/windows-azure-training-kit
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:24:25Z
-concepts: []
+ResourceImportId: 136
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-cloud-azure-link-3-1.png
 
 ---
 Microsoft has just released a new [Training Kit](http://go.microsoft.com/fwlink/?LinkID=130354)  for [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) that updates the one released at the PDC. Not since [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") and WPF have I been so exited about a new technology, but [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) is it.

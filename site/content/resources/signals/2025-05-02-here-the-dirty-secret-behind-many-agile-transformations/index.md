@@ -26,12 +26,12 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
-  - Agentic Agility
   - Organisational Culture
   - Team Collaboration
   - Pragmatic Thinking
   - Self Organisation
   - Social Technologies
+  - Agentic Agility
   - Software Development
   - Team Motivation
   - Organisational Agility

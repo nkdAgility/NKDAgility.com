@@ -5,10 +5,10 @@ description: Explains how simplifying complex software and committing to change 
 tldr: Complexity is not a valid excuse for avoiding continuous delivery; with organisational commitment and a willingness to modernise, even legacy systems can be transformed for faster, more reliable releases. Key steps include honestly assessing your product, investing in ongoing improvement, and addressing technical debt rather than ignoring warning signs. Leaders should prioritise resources and foster a culture that values continuous improvement to avoid costly failures and achieve lasting delivery success.
 date: 2025-02-27T07:00:10Z
 lastmod: 2025-02-27T07:00:10Z
-weight: 255
+weight: 245
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ResourceId: DsvMKLto30o
 ResourceImport: true
@@ -36,12 +36,12 @@ categories:
   - Product Development
   - DevOps
 tags:
+  - Operational Practices
   - Software Development
   - Pragmatic Thinking
   - Continuous Delivery
   - Continuous Improvement
   - Frequent Releases
-  - Operational Practices
   - Product Delivery
 Watermarks:
   description: 2025-05-07T12:49:24Z

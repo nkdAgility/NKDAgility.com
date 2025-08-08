@@ -1,32 +1,35 @@
 ---
 title: Change of plan
 description: Explains the decision to develop a system independent of SharePoint for easier testing, with plans to integrate into MOSS and assess SharePoint feature complexity.
+date: 2008-05-20
+lastmod: 2008-05-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: KfLCHLNio90
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 224
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: change-of-plan
 aliases:
-- /resources/KfLCHLNio90
+  - /resources/KfLCHLNio90
 aliasesArchive:
-- /blog/change-of-plan
-- /change-of-plan
-- /resources/blog/change-of-plan
-tags: []
+  - /blog/change-of-plan
+  - /change-of-plan
+  - /resources/blog/change-of-plan
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:01Z
-concepts: []
+ResourceImportId: 224
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 After having thought about it for a while I think that my idea not to create a separate TOM system independent of MOSS was a bit of a silly idea. The whole point of the system is to exist in any environment, so the first version will exist separate of SharePoint. The main advantage of this will be debugging and testing....

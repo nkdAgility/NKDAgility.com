@@ -1,31 +1,34 @@
 ---
 title: Infragistics WPF
 description: Overview of using Infragistics WPF controls, focusing on dynamic menu generation with data binding and templates, and challenges with documentation and template selection.
+date: 2008-10-28
+lastmod: 2008-10-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: qNzd15yz5fn
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 179
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: infragistics-wpf
 aliases:
-- /resources/qNzd15yz5fn
+  - /resources/qNzd15yz5fn
 aliasesArchive:
-- /blog/infragistics-wpf
-- /infragistics-wpf
-- /resources/blog/infragistics-wpf
-tags: []
+  - /blog/infragistics-wpf
+  - /infragistics-wpf
+  - /resources/blog/infragistics-wpf
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:46Z
-concepts: []
+ResourceImportId: 179
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![](images/logo-1-1.gif) 

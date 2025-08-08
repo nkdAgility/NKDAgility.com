@@ -36,6 +36,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Personal
   - Product Owner
 Watermarks:
   description: 2025-05-07T13:06:55Z

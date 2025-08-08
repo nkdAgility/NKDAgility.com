@@ -38,6 +38,7 @@ tags:
   - Scrum Master
   - Scrum Team
   - Software Development
+  - Value Delivery
   - Sociotechnical Systems
   - Pragmatic Thinking
 Watermarks:

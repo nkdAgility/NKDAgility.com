@@ -1,34 +1,37 @@
 ---
 title: Disable a timer at every level of your ASP.NET control hierarchy
 description: Learn how to recursively find and disable all Timer controls in an ASP.NET page, even without knowing their IDs, to prevent unwanted UI updates and interference.
+date: 2009-07-22
+lastmod: 2009-07-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DPQr4iigMBP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 98
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliases:
-- /resources/blog/disable-a-timer-at-every-level-of-your-asp.net-control-hierarchy
-- /resources/DPQr4iigMBP
+  - /resources/blog/disable-a-timer-at-every-level-of-your-asp.net-control-hierarchy
+  - /resources/DPQr4iigMBP
 aliasesArchive:
-- /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
-- /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
-- /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
-- /resources/blog/disable-a-timer-at-every-level-of-your-asp.net-control-hierarchy
-tags: []
+  - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+  - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+  - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+  - /resources/blog/disable-a-timer-at-every-level-of-your-asp.net-control-hierarchy
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:29Z
-concepts: []
+ResourceImportId: 98
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Even though this sounds like a really simple thing, what if you do not know the name of the controls, and you do not want to have to add a bit of code that you, or another may developer may forget to every piece of code with a timer in it. The problem I have is that if you have a DropDownList on the same page as a update panel that updates based on a timer, you get a little interference.

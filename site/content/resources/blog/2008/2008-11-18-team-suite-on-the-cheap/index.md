@@ -1,31 +1,34 @@
 ---
 title: Team Suite on the cheap
 description: Save 30% when upgrading from Visual Studio Team System 2008 component editions to Team Suite, offering a full set of development tools for better team collaboration.
+date: 2008-11-18
+lastmod: 2008-11-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: iiMEOgepJ_x
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 168
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-suite-on-the-cheap
 aliases:
-- /resources/iiMEOgepJ_x
+  - /resources/iiMEOgepJ_x
 aliasesArchive:
-- /blog/team-suite-on-the-cheap
-- /team-suite-on-the-cheap
-- /resources/blog/team-suite-on-the-cheap
-tags: []
+  - /blog/team-suite-on-the-cheap
+  - /team-suite-on-the-cheap
+  - /resources/blog/team-suite-on-the-cheap
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:27Z
-concepts: []
+ResourceImportId: 168
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 ![](images/vs_mainlogo-3-3.png)

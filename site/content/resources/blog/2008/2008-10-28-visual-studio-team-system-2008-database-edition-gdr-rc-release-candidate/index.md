@@ -1,34 +1,36 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR RC (release candidate)
 description: The release candidate for Visual Studio Team System 2008 Database Edition GDR offers upgrade support to RTM, with setup files, documentation, and user manuals available.
+date: 2008-10-28
+lastmod: 2008-10-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Y1_0V9iVxYc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 178
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 aliases:
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
-- /resources/Y1_0V9iVxYc
+  - /resources/Y1_0V9iVxYc
 aliasesArchive:
-- /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
-- /visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
-- /visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
-- /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
-tags: []
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+  - /visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+  - /visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
+  - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:47Z
-concepts: []
+ResourceImportId: 178
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 [Gert Drapers](http://blogs.msdn.com/gertd/) has just [announced](http://blogs.msdn.com/gertd/archive/2008/10/27/the-gdr-rc-is-here.aspx "The GDR RC Is Here!") the long awaited RC for the Data Dude GDR. This is the first version that you can seriously consider using as, unlike the previous CTP’s, there will be an upgrade path to the RTM.

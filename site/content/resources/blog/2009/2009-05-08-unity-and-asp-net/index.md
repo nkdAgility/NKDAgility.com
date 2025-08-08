@@ -1,35 +1,38 @@
 ---
 title: Unity and ASP.NET
 description: Explains how to use Unity for dependency injection in ASP.NET, enabling runtime component swapping without redeploying, with practical code and config examples.
+date: 2009-05-08
+lastmod: 2009-05-08
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: ga9A29v5JJk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 122
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-08
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: unity-and-asp-net
 aliases:
-- /resources/blog/unity-and-asp.net
-- /resources/ga9A29v5JJk
+  - /resources/blog/unity-and-asp.net
+  - /resources/ga9A29v5JJk
 aliasesArchive:
-- /blog/unity-and-asp-net
-- /unity-and-asp-net
-- /resources/blog/unity-and-asp-net
-- /resources/blog/unity-and-asp.net
-tags:
-- Software Development
+  - /blog/unity-and-asp-net
+  - /unity-and-asp-net
+  - /resources/blog/unity-and-asp-net
+  - /resources/blog/unity-and-asp.net
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:24:07Z
-concepts: []
+ResourceImportId: 122
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Using Dependency Injection in a website can get a little dodgy, but in my ASP.NET site use the same base code as my WPF app, I needed a little dependency injection to resolve references at runtime when the application type is known. Now in your ASP.NET page just like in your WPF application you need a little extra bit to get it all going. Finding this for WPF is easy, not so much in ASP.

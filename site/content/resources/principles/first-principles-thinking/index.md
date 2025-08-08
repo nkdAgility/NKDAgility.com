@@ -4,6 +4,7 @@ short_title: First Principles Thinking Explained
 description: Explains the basics of first principles thinking, a problem-solving approach that breaks down complex issues into fundamental elements for deeper understanding.
 tldr: Content is not yet available, so there is nothing to summarise at this time.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 1000
 sitemap:
   filename: sitemap.xml

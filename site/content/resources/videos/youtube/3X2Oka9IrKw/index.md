@@ -5,10 +5,10 @@ description: Explores how organisations can scale teams to boost innovation whil
 tldr: Scaling teams does not automatically lead to more innovation; it often results in bureaucracy, slower decision-making, and communication issues. To avoid this, focus on empowering teams, streamlining processes, and improving communication so growth enhances agility and innovation rather than stifling it. Development managers should reassess their scaling strategies to prioritize adaptability and team ownership for better outcomes.
 date: 2025-02-27T11:00:09Z
 lastmod: 2025-02-27T11:00:09Z
-weight: 630
+weight: 475
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ResourceId: 3X2Oka9IrKw
 ResourceImport: true

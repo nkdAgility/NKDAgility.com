@@ -1,34 +1,37 @@
 ---
 title: My first ALM and second VSTS presentaton!
 description: Reflections on delivering ALM and VSTS presentations, focusing on knowledge sharing, presentation style, and insights into pre-sales technology consultancy roles.
+date: 2008-09-11
+lastmod: 2008-09-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: v3tFzfmLkHa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 193
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: my-first-alm-and-second-vsts-presentaton
 aliases:
-- /resources/v3tFzfmLkHa
+  - /resources/v3tFzfmLkHa
 aliasesArchive:
-- /blog/my-first-alm-and-second-vsts-presentaton
-- /my-first-alm-and-second-vsts-presentaton
-- /my-first-alm-and-second-vsts-presentaton-
-- /blog/my-first-alm-and-second-vsts-presentaton-
-- /resources/blog/my-first-alm-and-second-vsts-presentaton
+  - /blog/my-first-alm-and-second-vsts-presentaton
+  - /my-first-alm-and-second-vsts-presentaton
+  - /my-first-alm-and-second-vsts-presentaton-
+  - /blog/my-first-alm-and-second-vsts-presentaton-
+  - /resources/blog/my-first-alm-and-second-vsts-presentaton
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:14Z
-concepts: []
+ResourceImportId: 193
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 It seams as if they went well! The plan of under preparing and over delivering worked a treat... Because I know the topics the lack of a prepared script allowed me to concentrate more on emparting knowlage and less on keeping to a set of arbitrary notes the go to pot as soon as the first question is asked.

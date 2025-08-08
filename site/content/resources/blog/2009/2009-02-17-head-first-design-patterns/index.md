@@ -1,32 +1,35 @@
 ---
 title: Head First Design Patterns
 description: Overview of a book that explains design patterns using visual aids and interactive methods, making complex concepts accessible for all learners, including those with dyslexia.
+date: 2009-02-17
+lastmod: 2009-02-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: EFWY-8yQI--
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 137
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-02-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: head-first-design-patterns
 aliases:
-- /resources/EFWY-8yQI--
+  - /resources/EFWY-8yQI--
 aliasesArchive:
-- /blog/head-first-design-patterns
-- /head-first-design-patterns
-- /resources/blog/head-first-design-patterns
-tags: []
+  - /blog/head-first-design-patterns
+  - /head-first-design-patterns
+  - /resources/blog/head-first-design-patterns
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:24:26Z
-concepts: []
+ResourceImportId: 137
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 [![HadFirstDesignPatterns](images/HeadFirstDesignPatterns_91E0-HadFirstDesignPatterns_thumb-1-1.jpg)](http://www.amazon.co.uk/gp/product/0596007124?ie=UTF8&tag=dyslexicdev-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0596007124)![](http://www.assoc-amazon.co.uk/e/ir?t=dyslexicdev-21&l=as2&o=2&a=0596007124)

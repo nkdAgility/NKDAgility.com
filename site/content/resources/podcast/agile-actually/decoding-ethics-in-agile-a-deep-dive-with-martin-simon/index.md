@@ -5,7 +5,7 @@ description: Explore how language, transparency, and precision shape ethical pra
 tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is essential for transparency and ethical behavior in Agile teams. They emphasize that clear communication helps avoid misunderstandings and supports better collaboration. Development managers should ensure their teams use language carefully to improve trust and effectiveness.
 date: 2023-10-26
 lastmod: 2023-10-26
-weight: 885
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.1

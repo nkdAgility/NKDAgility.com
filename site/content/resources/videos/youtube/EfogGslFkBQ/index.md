@@ -39,6 +39,7 @@ tags:
   - Pragmatic Thinking
   - Value Delivery
   - Software Development
+  - Personal
   - Throughput
   - Operational Practices
   - Team Performance

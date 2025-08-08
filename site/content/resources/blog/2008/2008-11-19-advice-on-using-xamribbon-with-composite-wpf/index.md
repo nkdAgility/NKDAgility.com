@@ -1,33 +1,36 @@
 ---
 title: Advice on using XamRibbon with Composite WPF
 description: Provides guidance and code examples for integrating Infragistics XamRibbon with Composite WPF, including custom region adapters for dynamic tab and menu management.
+date: 2008-11-19
+lastmod: 2008-11-19
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: gEnb0c6i-3I
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 164
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-19
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
-- /resources/gEnb0c6i-3I
+  - /resources/gEnb0c6i-3I
 aliasesArchive:
-- /blog/advice-on-using-xamribbon-with-composite-wpf
-- /advice-on-using-xamribbon-with-composite-wpf
-- /resources/blog/advice-on-using-xamribbon-with-composite-wpf
-tags:
-- Software Development
+  - /blog/advice-on-using-xamribbon-with-composite-wpf
+  - /advice-on-using-xamribbon-with-composite-wpf
+  - /resources/blog/advice-on-using-xamribbon-with-composite-wpf
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:22:23Z
-concepts: []
+ResourceImportId: 164
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 [![image](images/AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_2.png)

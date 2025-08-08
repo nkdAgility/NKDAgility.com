@@ -31,9 +31,9 @@ tags:
   - Pragmatic Thinking
   - Social Technologies
   - Change Management
-  - Enterprise Agility
   - Large Scale Agility
   - Market Adaptability
+  - Enterprise Agility
   - Scrum Master
   - Agile Transformation
   - Business Agility

@@ -42,6 +42,7 @@ tags:
   - Agile Frameworks
   - Flow Efficiency
   - Definition of Workflow
+  - Value Delivery
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:02:49Z

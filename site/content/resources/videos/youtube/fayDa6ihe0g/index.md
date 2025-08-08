@@ -5,7 +5,7 @@ description: Get a quick timelapse overview of a four-session Professional Scrum
 tldr: This training offers a condensed overview of the Professional Scrum Product Owner course, covering four half-days in just five minutes. If you need more detail, free live-streamed workshops are available on their channel. Consider watching the timelapse or joining a workshop to quickly assess if the course fits your team's needs.
 date: 2021-10-22T10:52:48Z
 lastmod: 2021-10-22T10:52:48Z
-weight: 960
+weight: 860
 sitemap:
   filename: sitemap.xml
   priority: 0.1

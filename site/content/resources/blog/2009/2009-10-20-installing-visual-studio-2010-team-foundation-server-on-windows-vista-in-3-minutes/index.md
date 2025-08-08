@@ -1,34 +1,37 @@
 ---
 title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes
 description: Step-by-step guide to quickly installing Visual Studio 2010 Team Foundation Server on Windows Vista, including setup options and requirements for a basic installation.
+date: 2009-10-20
+lastmod: 2009-10-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1915ua1v0mc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 84
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliases:
-- /resources/1915ua1v0mc
+  - /resources/1915ua1v0mc
 aliasesArchive:
-- /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
-- /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
-- /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
-tags:
-- Install and Configuration
-- Windows
-preview: metro-visual-studio-2010-128-link-7-7.png
+  - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+  - /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+  - /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T15:23:06Z
-concepts: []
+ResourceImportId: 84
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-7-7.png
 
 ---
 New in Visual Studio 2010 is the ability to install TFS on XP, Vista and Windows 7. You can use SQL 2008 Express, so no large overhead, and the Basic version you use for this does have the reporting and SharePoint requirement that the main install does. That does not mean that you can't upgrade later :)

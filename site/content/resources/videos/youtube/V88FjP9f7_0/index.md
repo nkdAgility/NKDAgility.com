@@ -5,10 +5,10 @@ description: Explores how applying 'less is more' in Agile boosts productivity a
 tldr: Focusing on fewer, high-value tasks rather than trying to do everything leads to better productivity and higher quality in Agile teams. Regularly refining the backlog and planning sprints around essential work helps eliminate waste and ensures efforts align with project goals. Development managers should encourage teams to prioritize what matters most to maximize results.
 date: 2023-10-14T07:00:13Z
 lastmod: 2023-10-14T07:00:13Z
-weight: 665
+weight: 360
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: V88FjP9f7_0
 ResourceImport: true
