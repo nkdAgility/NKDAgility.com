@@ -12,7 +12,7 @@ ResourceId: Kmtwkw7RD0K
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-slug: it's-nice-to-be-appreciated
+slug: it-s-nice-to-be-appreciated
 aliases:
   - /resources/blog/it-s-nice-to-be-appreciated
   - /resources/Kmtwkw7RD0K
